@@ -1,8 +1,11 @@
+#### 10-Minute University™ The Clackamas County Master Gardener Association In collaboration with and in support of the OSU Extension Master Gardener™ Program
+
 # 10-Minute University™ Handouts – Clackamas County Master Gardener™ Association
 
 **10-Minute University™** is the trademark of short classes on essential gardening information, taught by Oregon State University Extension Service Master Gardeners. *All handouts have been reviewed by O.S.U. Extension faculty for factual accuracy.*
 
 ---
+Original Source: 
 
 [10-Minute University™ Handouts](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [10-Minute University™ Videos](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
@@ -118,3 +121,11 @@
 
 - [Mulches: the Good, the Bad, and the Really, Really Ugly. – Linda Chalker-Scott, PhD, WSU](Mulches.md)
 - [Clematis Classification Pruning – Linda Beutler](Clematis.md)
+
+---
+
+#### Master Gardener™ Advice • Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) • 503-821-1150 (Washington County) • 503-445-4608 (Multnomah County) • For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service • Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)
