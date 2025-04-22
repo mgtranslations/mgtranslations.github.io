@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 # Làm Vườn Nhà Kính 101
 
 ### Giới Thiệu
@@ -34,7 +32,6 @@ Thêm một nhà kính vào vườn nhà có thể giúp bạn bắt đầu mùa
 
 ### Các Loại Nhà Kính
 
-#### Nhà Kính Gắn Liền (với nhà hoặc công trình khác)
 
 - **Ưu điểm:**
   - Giá thành rẻ hơn.
@@ -45,7 +42,6 @@ Thêm một nhà kính vào vườn nhà có thể giúp bạn bắt đầu mùa
   - Chiều cao bị giới hạn bởi công trình chính.
   - Cần lớp ngăn hơi tốt để độ ẩm không ngấm vào cách nhiệt của nhà.
 
-#### Nhà Kính Độc Lập
 
 - **Ưu điểm:**
   - Linh hoạt chọn vị trí, nhận được nhiều ánh sáng hơn.
@@ -142,8 +138,3 @@ Nhiều nhà kính cần có nền móng, có thể làm bằng gỗ xử lý, g
 
 **Nhà Kính cho Gia Đình và Người Làm Vườn (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, bị trả đũa hoặc trả thù vì hoạt động dân quyền trước đây. (Không phải tất cả các điều cấm đều áp dụng cho tất cả các chương trình.)
----

@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ Ururka Beeralayda Master-ka ee Clackamas County oo iskaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Xulashada Geedaha Wanaagsan: Qoryo
 
 *S: Beerta hooska, D: Geed Adkaysi u leh Oomanaanta, W: Faa'iido U leh Duurjoogta: Shimbiraha, Shinnida, Balalleyda, Shimbiraha Hummingbird*

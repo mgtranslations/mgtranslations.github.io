@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
----
-
 ## BABALA: Ang orihinal na file ay maraming larawan at hindi ganap na maisasalin, mangyaring tingnan din ang orihinal na pdf file [dito](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
 
 # Pinakamagagandang Puno para sa Hardin
@@ -232,12 +228,3 @@ Makikita ang mga larawan sa [https://jfschmidt.com](https://jfschmidt.com).
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
 - *Trees to Know in Oregon and Washington*, Edward C. Jensen, Oregon State University Extension Service, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pambansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa, status ng pamilya/magulang, kita mula sa public assistance program, paniniwalang politikal, genetic information, status bilang beterano, paghihiganti, o pag-retaliate dahil sa naunang aktibidad na may kinalaman sa karapatang pantao. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

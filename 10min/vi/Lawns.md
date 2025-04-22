@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Chủ động Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chủ động của OSU Extension
-
 ## Làm Vườn Chống Chịu Với Biến Đổi Khí Hậu: Bãi Cỏ
 
 Xu hướng ấm lên hiện nay của Trái Đất dẫn đến băng tan, mực nước biển dâng, độ axit của đại dương tăng, và hạn hán cũng như lũ lụt xảy ra thường xuyên, nghiêm trọng hơn. Khu vực Tây Bắc Thái Bình Dương đã chứng kiến hạn hán kéo dài, cháy rừng tăng cả về số lượng và mức độ nghiêm trọng, các đợt nắng nóng, côn trùng gây hại bùng phát và bệnh cây trồng. Lượng tuyết tích tụ giảm dẫn đến dòng chảy đỉnh điểm ở sông suối đến sớm hơn, làm giảm nguồn nước. Ngoài những xu hướng này, biến đổi khí hậu còn mang đến các hiện tượng thời tiết cực đoan, thất thường (như nắng nóng, mưa lớn) xảy ra thường xuyên hơn.  
@@ -37,8 +35,3 @@ Các nhà nghiên cứu Chương trình Quản lý Cỏ của Đại học Bang 
 - **Các loại cây che phủ thấp, không phải cỏ** bao gồm cỏ xạ hương bò, bạc hà bò, cúc La Mã thấp hoặc thậm chí rêu. Hãy chọn loại che phủ phù hợp với lượng nắng và độ ẩm của vị trí trồng.
 - **Tăng khả năng chịu đựng cỏ dại:** Cỏ dại thậm chí có thể giúp tăng đa dạng sinh học trong sân vườn bằng cách cung cấp nguồn thức ăn cho các loài côn trùng khác nhau. Hoa cỏ dại còn hỗ trợ các loài thụ phấn.
 - **Sử dụng thuốc diệt cỏ hợp lý, nếu cần:** Cắt cỏ trước khi cỏ dại ra hạt để tránh lan rộng hoặc nhổ bằng tay. Nếu phải dùng thuốc diệt cỏ hóa học, hãy chọn sản phẩm có tác động thấp trong danh sách: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
-
----
-
-#### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, xuất xứ quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho mọi chương trình.)
----

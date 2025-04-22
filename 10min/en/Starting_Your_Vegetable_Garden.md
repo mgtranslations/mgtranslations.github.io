@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Starting Your Vegetable Garden
 
 ### What to Grow
@@ -38,7 +36,6 @@ A soil test reveals nutrient levels in your soil and amendments needed. Professi
 
 Soil and air temperatures determine when we plant.
 
-#### Soil Temperature
 
 The minimum soil temperature (°F) required for some favorite crops:
 
@@ -49,7 +46,6 @@ The minimum soil temperature (°F) required for some favorite crops:
 - Eggplant/Peppers/Tomatoes: 55°F
 - Basil: 60°F
 
-#### Air Temperature
 
 Optimum air temperature (°F) for some favorites:
 
@@ -60,12 +56,10 @@ Optimum air temperature (°F) for some favorites:
 
 If you sow peas in late winter, they may germinate, but they won’t grow well until the air temperature warms up.
 
-#### Short-Season vs. Long-Season Crops
 
 - **Short-season crops:** Mature in 50 days or less. You can sow seeds directly and still ensure a good harvest.
 - **Long-season crops:** Such as tomatoes, mature in 75–90 days. The gardener is usually in a race against time to harvest long-season crops before fall rains and cold nights arrive.
 
-#### Transplants
 
 Transplants, purchased from garden centers or started in your own greenhouse, give the gardener a head start.
 
@@ -81,19 +75,15 @@ Most vegetables are annual crops and need sufficient nutrients to produce well.
   - Fruits and flowers: More phosphorus (P).
   - Roots: More potassium (K).
 
-#### Heavy Feeders
 
 Beet, collard, kale, lettuce, parsley, spinach, and tomato may need more fertilizer.
 
-#### Light Feeders
 
 Carrot, garlic, onion, chard, mustard, and pepper may need a moderate amount.
 
-#### Nitrogen-Fixing Crops
 
 Bean, pea, soybean, and clover fix nitrogen from the air and often do well with no fertilizer.
 
-#### Organic Fertilizers
 
 Apply a couple of months before planting for best results. Examples:
 
@@ -110,7 +100,6 @@ Water so that the root zone is evenly moist. Dig down 6 to 8 inches after wateri
 - **Drip system:** Delivers water to the roots and is preferable to overhead watering, which dampens leaves and can foster disease.
 - **Overhead watering:** Minimize splash and refrain from watering late in the day. Watering early in the day minimizes evaporation.
 
-#### Critical Watering Stages
 
 Be vigilant during the most critical stage of your crop:
 
@@ -124,7 +113,3 @@ Be vigilant during the most critical stage of your crop:
 
 - [EM 9027 Growing Your Own](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Vegetable Gardening in Oregon](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

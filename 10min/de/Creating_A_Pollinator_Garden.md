@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Einen Bestäubergarten anlegen
 
 Der Schlüssel zu einem erfolgreichen Bestäubergarten ist es, bestäubenden Insekten und anderen Tieren einen Ort zu bieten, an dem sie ihren Nachwuchs aufziehen können und eine verlässliche Nahrungsquelle von Frühling bis Spätherbst haben. Häufige Bestäuber im Garten sind Bienen, Wespen, Schmetterlinge, Motten, Fliegen, Käfer, Vögel und sogar Ameisen. Da es so viele verschiedene Bestäuber mit ganz unterschiedlichen Bedürfnissen gibt, ist es am besten, viele verschiedene blühende Pflanzen anzupflanzen, die Nektar und Pollen produzieren.
@@ -84,8 +82,3 @@ Lassen Sie nicht erkrankte Blätter, Pflanzenstängel und Samenstände bis zum s
 Wenden Sie sich an Ihr örtliches OSU Extension Büro für Master Gardener Beratung. Hier finden Sie die Kontaktdaten: [Finden Sie Ihr lokales Extension-Büro](https://extension.oregonstate.edu/find-us).
 
 Für Handouts und Kurspläne der 10-Minuten-Universität™ besuchen Sie [Clackamas County Master Gardeners](https://cmastergardeners.org).
-
----
-
-#### Oregon State University Extension Service · Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Status als Elternteil, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien aufgrund früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

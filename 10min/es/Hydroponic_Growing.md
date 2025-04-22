@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Jardinería Hidropónica de Baja Tecnología en Interiores
 
 La hidroponía es el cultivo de plantas, sin tierra, en una solución nutritiva a base de agua. Los sistemas hidropónicos a gran escala emplean tecnología sofisticada para monitorear el nivel de nutrientes, el pH, el oxígeno disuelto, la temperatura de la solución nutritiva y la cantidad de luz que reciben las plantas. Este folleto presenta una opción de baja tecnología adecuada para jardineros en casa.
@@ -82,8 +80,3 @@ Al cosechar:
 - [Tres métodos hidropónicos sin recirculación para cultivar lechuga](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Video de B. A. Kratky
 - [Cultivo hidropónico en casa](http://www.cmastergardeners.org/10-minute-university) – Video de Universidad de 10 Minutos™
 - *Cultiva lechuga en tu sala: alimenta a tu familia con tu jardín hidropónico LED en interiores* de Dan Chiras & Victor Zaderej
-
----
-
-###### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

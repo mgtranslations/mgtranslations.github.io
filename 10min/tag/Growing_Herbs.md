@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pagpapalago ng Mga Halaman ng Pampalasa
 
 ## Pangkalahatang-ideya
@@ -123,10 +121,3 @@ Para matuto pa tungkol sa pagpapalaki, paggamit, at pag-iimbak ng halamang pampa
 - *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
 - *Herbs, An Illustrated Guide* (Sunset Books)
 - *All About Herbs* (Ortho Books)
-
-#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genes, pagiging beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay nalalapat sa lahat ng programa.)
----

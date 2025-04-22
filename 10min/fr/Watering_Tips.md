@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme OSU Extension Master Gardener™
-
 ## Conseils d’Arrosage
 
 ### Théorie & Techniques
@@ -33,13 +31,11 @@
 
 ### Arrosage Inefficace
 
-#### Symptômes d’un Excès d’Eau
 
 - Feuilles jaunes ou tachetées
 - Feuilles qui deviennent vert pâle ou jaunes puis tombent
 - Plantes qui poussent mal, tiges fines qui s’affaissent
 
-#### Symptômes d’un Manque d’Eau
 
 - Feuilles jaunes ou tachetées
 - Feuilles ternes, un peu grisées, sans brillance
@@ -54,22 +50,18 @@ Quelle que soit la méthode d’arrosage choisie, vérifiez l’humidité du sol
 
 - Fleurs et légumes : 30–38 cm de profondeur
 
-#### Arrosage par le Haut
 
 - Arroser les arbres et arbustes par le dessus (arroseur ou à la main) peut favoriser les maladies fongiques et bactériennes comme la tavelure du pommier, la rouille ou la tache noire des rosiers.
 - Arrosez assez tôt dans la journée pour que les feuilles sèchent avant le soir.
 
-#### Arrosage à la Main
 
 - L’arrosage à la main peut délivrer l’eau plus vite que le sol ne peut l’absorber, causant du ruissellement.
 
-#### Arroseurs
 
 - Les arroseurs peuvent disperser de l’eau là où ce n’est pas nécessaire et souvent plus vite que le sol ne peut l’absorber.
 - Utilisez des arroseurs qui ne couvrent que le jardin, pas les zones autour.
 - Limitez l’évaporation en arrosant aux moments frais et sans vent (du soir au matin).
 
-#### Systèmes à Faible Débit
 
 - **Avantages :**
   - Apportent l’eau directement à la zone racinaire à un débit constant toute la saison.
@@ -98,15 +90,9 @@ Quelle que soit la méthode d’arrosage choisie, vérifiez l’humidité du sol
   - [Clés pour des Paysages Économes en Eau, EM 9134](https://catalog.extension.oregonstate.edu/)
   - [Entretien des Paysages pour Économiser l’Eau, EM 9135](https://catalog.extension.oregonstate.edu/)
 
-#### Conseils de Maître Jardinier™
 
 - **Appelez la ligne d’assistance en horticulture :**
   - 503-655-8631 (Comté de Clackamas)
   - 503-821-1150 (Comté de Washington)
   - 503-445-4608 (Comté de Multnomah)
 - Pour d’autres fiches et horaires de cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-#### Service de Vulgarisation de l’Université d’État de l’Oregon · Le Service de Vulgarisation de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents basée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut matrimonial, le statut familial/parental, le revenu issu d’un programme d’aide publique, les convictions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures prises après une activité relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

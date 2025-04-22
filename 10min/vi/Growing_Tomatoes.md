@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Giỏi Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Giỏi Mở Rộng OSU
-
 # Trồng Cà Chua Trong Vườn Nhà
 
 ## Quyết Định Loại Giống Nào Nên Trồng
@@ -9,7 +7,6 @@
 - Chọn giữa gieo hạt hoặc mua cây con.
 - Biết cà chua loại xác định hay không xác định loại nào tốt nhất cho vườn của bạn.
 
-#### Loại Cà Chua
 
 | Loại          | Yêu cầu không gian / hỗ trợ         | Dáng cây        | Thu hoạch                              |
 |---------------|-------------------------------------|-----------------|----------------------------------------|
@@ -64,7 +61,6 @@ Cây sẵn sàng trồng ra đất khi cao 25–38 cm và nhiệt độ đất �
 5. Tỉa bỏ lá và chồi nách (chồi mọc ở điểm nối giữa lá già và thân) dưới cành hoa đầu tiên.
 6. Chọn phương pháp trồng:
 
-#### Phương Pháp Đào Rãnh
 
 - **Ưu điểm:** Rễ nằm ở lớp đất ấm nhất; phù hợp với cây cao, ốm yếu.
 - **Nhược điểm:** Cần tưới thường xuyên và xới đất nông cẩn thận.
@@ -76,7 +72,6 @@ Cây sẵn sàng trồng ra đất khi cao 25–38 cm và nhiệt độ đất �
   - Đặt dấu đánh dấu đầu gốc để tránh làm hỏng rễ khi làm cỏ.
   - Lắp giá đỡ ngay khi trồng để không làm tổn thương rễ sau này.
 
-#### Phương Pháp Đứng Thẳng
 
 - **Ưu điểm:** Rễ có nhiều nước hơn; ít nứt quả.
 - **Nhược điểm:** Đất sâu thường mát, cây và quả trưởng thành chậm hơn.
@@ -126,12 +121,3 @@ Cây sẵn sàng trồng ra đất khi cao 25–38 cm và nhiệt độ đất �
   - [Gieo Cà Chua Từ Hạt](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
   - [Trồng Cà Chua Ngoài Vườn](https://www.youtube.com/watch?v=Pucpx5fuKdk)
   - [Kỹ Thuật Chăm Sóc Đã Được Kiểm Chứng](https://www.youtube.com/watch?v=lpVBg-e_1vE)
-
----
-
-#### Tư vấn Làm Vườn Giỏi · Đường dây hỗ trợ Làm vườn tại nhà: Quận Clackamas: 503-655-8631 · Quận Washington: 503-821-1150 · Quận Multnomah: 503-445-4608 · Tài liệu và Video Đại học 10 Phút™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (kể cả thể hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc bị trả đũa vì các hoạt động quyền dân sự trước đó. (Không phải tất cả các lý do cấm đều áp dụng cho mọi chương trình.)
----

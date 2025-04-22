@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 ## Mahuhusay na Halaman: Mga Bulaklak, Fern, Baging, at Damo
 
 ### Susi
@@ -85,8 +83,3 @@ Ang Great Plant Picks (GPP) ay pangunahing programang pang-edukasyon ng Elisabet
 - Hindi madaling kapitan ng sakit o peste.
 - May higit sa isang panahon na kaakit-akit sa hardin.
 - Marami sa GPP na mga halaman ay may benepisyong ekolohikal (halimbawa, para sa mga pollinator, pagkain ng ibon, tirahan ng mga hayop, atbp.).
-
----
-
-###### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan bilang magulang/pamilya, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong genetiko, katayuan bilang beterano, pagganti o paghihiganti dahil sa dating aktibidad na may kinalaman sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Disenyo ng Hardin 101
 
 Ang magandang disenyo ang pundasyon ng isang maganda, malusog, at napapanatiling hardin. Ang maayos na plano ay pinagsasama ang mga elemento ng magandang disenyo—linya, anyo, tekstura, amoy, at kulay—habang isinasaalang-alang ang mga pangangailangan at kagustuhan ng may-ari ng bahay.
@@ -111,7 +109,6 @@ Ang magandang disenyo ang pundasyon ng isang maganda, malusog, at napapanatiling
 - Bumuo ng kombinasyon sa pamamagitan ng pagpalibot sa mga ito ng mga halamang namumulaklak sa parehong panahon. Palalakas nito ang ganda ng iyong hardin.
 - Sa maliit na hardin, maaaring magmukhang magulo kung sobra ang kulay. Pumili ng malamig o mainit na scheme ng kulay at piliin ang halaman mula sa iyong listahan.
 
-#### Prinsipyo ng Mataas na Epekto ng Kombinasyon ng Halaman
 
 1. **Scheme ng Kulay**
 2. **Tekstura**
@@ -121,12 +118,3 @@ Ang magandang disenyo ang pundasyon ng isang maganda, malusog, at napapanatiling
 - Halimbawa, gamitin ang kulay ng dahon tulad ng berde, asul, dilaw, pula, at gray na may variegated.
 - Gumamit ng tekstura gaya ng matibay, matulis, makinis, mahimulmol, at lace para magdagdag ng interes.
 - Gamitin ang anyo tulad ng mabilog, patulis, at trailing para magkaroon ng contrast sa tanim.
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, marital status, familial/parental status, kita mula sa pampublikong tulong, paniniwalang pampulitika, genetic information, katayuan bilang beterano, pagganti, o paghihiganti dahil sa naunang aktibidad ng karapatang pantao. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
----

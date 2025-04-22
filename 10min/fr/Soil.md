@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien du Programme OSU Extension Master Gardener™
-
 ## Rendez votre jardin plus résilient face au climat : Le sol
 
 La Terre connaît une tendance au réchauffement, ce qui entraîne la fonte des glaciers, la montée du niveau de la mer, l’augmentation de l’acidité des océans, et des sécheresses et inondations plus fréquentes et intenses. Le nord-ouest du Pacifique a connu des sécheresses prolongées, une augmentation des incendies de forêt, des vagues de chaleur, des invasions d’insectes et des maladies des arbres. La diminution du manteau neigeux entraîne un pic d’écoulement plus précoce dans les rivières et les ruisseaux, ce qui réduit l’approvisionnement en eau. En plus de ces tendances, le changement climatique provoque des événements météorologiques extrêmes et imprévisibles (vagues de chaleur, fortes pluies) plus souvent.
@@ -61,8 +59,3 @@ Comment jardiner dans ces conditions ? Ce document propose des idées pour rendr
 - [Les secrets cachés d’un sol vivant, Université d’État de l’Oregon EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Stockage du carbone dans le sol, Société écologique d’Amérique](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. et al. *La biomasse racinaire et les exsudats lient la diversité des plantes à la biomasse bactérienne et fongique du sol.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### Le Service d’Extension de l’Université de l’État de l’Oregon interdit toute discrimination dans l’ensemble de ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut marital, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

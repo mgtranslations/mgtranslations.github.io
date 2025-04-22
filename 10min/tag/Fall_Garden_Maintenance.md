@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pag-aalaga ng Hardin tuwing Taglagas
 
 ### Pangkalahatang-ideya
@@ -76,10 +74,3 @@ Magandang panahon ang taglagas para magdagdag ng mga bagong tanim, maglipat o ma
 
 - **Oregon State University Extension Service:**  
   [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Para sa 10-Minute University™ handouts, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org) · Hanapin ang mga Master Gardener sa Farmers’ Markets sa inyong lugar.
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama na ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyong henetiko, estado bilang beterano, pagganti, o paghihiganti dahil sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

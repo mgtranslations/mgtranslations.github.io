@@ -1,5 +1,3 @@
-#### Université de 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration et en soutien au Programme des Maîtres Jardiniers™ de l’Extension OSU
-
 ## Glossaire des plantes indigènes
 
 ### Plante indigène
@@ -37,8 +35,3 @@ Les mutations des plantes, aussi appelées « sports » ou chimères, sont des c
 
 - La multiplication végétative est utilisée pour conserver les caractéristiques souhaitées. Les plantes sont souvent sujettes à la « réversion », ce qui signifie qu’une partie ou la totalité de la plante peut revenir à sa forme d’origine.
 - **Exemples :** Fleurs de camélia avec des taches ou des rayures.
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans l’ensemble de ses programmes, services, activités et matériels en raison de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou des mesures de rétorsion pour une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

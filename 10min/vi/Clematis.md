@@ -1,5 +1,3 @@
-#### Đại Học 10 Phút™ · Hiệp Hội Làm Vườn Thạc Sĩ Quận Clackamas · Phối hợp và hỗ trợ Chương trình Làm Vườn Thạc Sĩ của OSU Extension
-
 # Phân Loại Thực Vật Làm Vườn Đã Điều Chỉnh cho Chi *Clematis*
 **Được Hội đồng I.Cl.S. phê duyệt vào tháng 6 năm 2019**  
 *(Khởi xướng tại hội thảo của Hiệp hội Clematis Quốc tế tại Vườn Wisley, 3–5 tháng 7 năm 2017, với các chú thích bổ sung từ các thành viên nhóm làm việc)*
@@ -120,18 +118,15 @@
 
 **Đặc điểm phạm vi:** Rụng lá. Leo, thường có thân phát triển mạnh. Chủ yếu nở vào mùa hè trên thân năm nay. Hoa nhiều, đường kính 1–5 cm, chủ yếu hình chuông hoặc sao, thường trắng hoặc vàng.
 
-#### Clematis Sao Muộn
 
 - **Đặc điểm nhóm:** Dây leo cỡ trung bình, hoa hình sao, thường trắng và thơm.
 - **Ví dụ:** *flammula*, *terniflora*, × *triternata* ‘Rubromarginata’, ‘Sweet Summer Love’.
 - **Cắt tỉa:** Tùy không gian. Nếu cần, cắt mạnh dưới 0,5m vào giữa mùa xuân khi có chồi mới. Nếu muốn, chỉ cần dọn dẹp nhẹ.
 
-#### Clematis Vàng Muộn
 
 - **Đặc điểm nhóm:** Hoa thường màu vàng và hình chuông hoặc xòe.
 - **Ví dụ:** *buchananiana*, *connata*, *intricata*, *ladakhiana*, *orientalis*, *rehderiana*, *tangutica*, *tibetana*, ‘Bill MacKenzie’, ‘Helios’ (tên tại Nhật: ‘Daihelios’), ‘Kugotia’, GOLDEN TIARA, ‘Lambton Park’.
 
-#### Clematis Leo Mạnh
 
 - **Đặc điểm nhóm:** Phát triển mạnh, hoa thường trắng, nụ và hoa hướng lên.
 - **Ví dụ:** *ligusticifolia*, *potaninii*, *vitalba*, *virginiana*, ‘Paul Farges’ SUMMER SNOW.
@@ -144,12 +139,3 @@
 **Đặc điểm phạm vi:** Đặc tính không phù hợp với các nhóm trên.
 
 - **Ví dụ:** *columbiana*.
-
----
-
-#### Tư vấn Làm Vườn Thạc Sĩ™ · Gọi Đường Dây Hỗ Trợ Làm Vườn Gia Đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học Đại Học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon · Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động, và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù, hoặc trả đũa vì đã thực hiện quyền dân sự trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho mọi chương trình.)
----

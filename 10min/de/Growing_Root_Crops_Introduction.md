@@ -1,5 +1,3 @@
-#### 10-Minuten Universität™ · Der Clackamas County Master Gardener Verein · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Einführung in den Anbau von Wurzelgemüse
 
 Wurzelgemüse gehört in jeden Gemüsegarten. Sie gehören zu den ersten und letzten Gemüsesorten, die geerntet werden, und mit der richtigen Lagerung zu Hause hat man bis in den Winter hinein frisches Gemüse. Diese Pflanzen sind ideal, weil sie wenig Platz im Garten benötigen, über einen langen Zeitraum geerntet werden können und große Mengen an energiereicher Nahrung liefern. Sie gedeihen gut in Hochbeeten, im Boden und in Pflanzgefäßen.
@@ -80,7 +78,6 @@ Das Verständnis von Pflanzenfamilien und Fruchtwechsel ist wichtig für die Pfl
 
 Ein Fruchtwechselzyklus von vier Jahren hilft, Probleme zu vermeiden, den Boden zu stärken und eine gute Wurzelgemüse-Ernte zu fördern. Fruchtwechsel und Mischkultur erhöhen die natürliche Vielfalt im Garten. Mischkultur ist eine gute Methode, um den Platz effizient zu nutzen und Pflanzen in gegenseitig förderlichen Kombinationen anzubauen.
 
-#### Pflanzenfamilien und Partner
 
 - **Fuchsschwanzgewächse (Chenopodiaceae):** Rote Bete, Spinat, Mangold  
   - Partner: Buschbohnen, Salat, Zwiebel, Radieschen
@@ -107,8 +104,3 @@ Ein Fruchtwechselzyklus von vier Jahren hilft, Probleme zu vermeiden, den Boden 
 - [Easy Gardening Series - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Wurzelgemüse (Root Crops)](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [Das Unterirdische Gemüse (The Underground Vegetable)](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Aktivitäten im Bereich der Bürgerrechte. (Nicht alle ausgeschlossenen Merkmale gelten für alle Programme.)
----

@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Clackamas County oo iskaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Dayactirka Beerta Xilliga Dayrta
 
 ### Guudmar

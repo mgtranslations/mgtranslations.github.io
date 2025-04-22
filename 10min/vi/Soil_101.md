@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Cao cấp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Cao cấp của OSU Extension Master Gardener™
-
 # Kiến Thức Cơ Bản Về Đất
 
 ### Đất là gì?
@@ -64,10 +62,3 @@ Không bao giờ xới đất khi còn ướt. Làm vậy sẽ khiến đất b�
 - [Cách lấy mẫu đất và lý do (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [Bón phân cho vườn: Rau củ, cây ăn quả và cây cảnh (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - Làm vườn với phân compost, tài liệu Đại học 10 Phút™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Tư vấn Làm vườn Cao cấp™ · Gọi điện đến Đường dây hỗ trợ Làm vườn tại nhà: Quận Clackamas: 503-655-8631 · Quận Washington: 503-821-1150 · Quận Multnomah: 503-445-4608 · Để xem thêm các tài liệu Đại học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động quyền dân sự trước đó. (Không phải tất cả các tiêu chí bị cấm đều áp dụng cho tất cả các chương trình.)
----

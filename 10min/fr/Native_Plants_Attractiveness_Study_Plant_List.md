@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension OSU
-
 # Étude sur l’Attrait des Plantes Natives
 
 ## Liste des Plantes
@@ -50,12 +48,3 @@ Veuillez consulter [http://blogs.oregonstate.edu/gardenecologylab/native-plants-
 | Sidalcea virgata           | Sidalée rose              |              | Vivace       | Rose                 |
 | Sisyrinchium idahoense     | Herbe aux yeux bleus      |              | Vivace       | Bleu/Violet          |
 | Solidago canadensis        | Verge d’or du Canada      | A, B, C, D   | Vivace       | Jaune                |
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’aide en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de l’Université en 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles, ou les rétorsions pour une activité antérieure en matière de droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

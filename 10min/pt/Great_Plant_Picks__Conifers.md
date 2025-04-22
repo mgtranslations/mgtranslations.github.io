@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão OSU
-
 # Universidade de 10 Minutos
 
 ## Grandes Escolhas de Plantas: Coníferas

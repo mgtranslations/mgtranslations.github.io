@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ururka Beeralayda Master-ka ee Clackamas County oo la kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Korinta Dhirta Udgoon
 
 ## Guudmarka
@@ -123,10 +121,3 @@ Si aad wax badan uga barato sida loo beero, loo isticmaalo, iyo loo kaydiyo dhir
 - *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
 - *Herbs, An Illustrated Guide* (Sunset Books)
 - *All About Herbs* (Ortho Books)
-
-#### Talo Beeraleyda Master-ka™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo macluumaad ah iyo jadwalka fasalada ee 10-Minute University™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State waxay mamnuucday takoorka barnaamijyadeeda oo dhan, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jiheynta galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda halyeeynimada, ciqaabta ama aargoosiga la xiriira hawlaha xuquuqda madaniga ah ee hore. (Dhamaan saldhigyada la mamnuucay looguma dabaqi karo barnaamijyada oo dhan.)
----

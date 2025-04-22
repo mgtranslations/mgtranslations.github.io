@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Zehn Unkräuter, die man kennen sollte
 
 Ein Unkraut ist eine Pflanze, die eine Gefahr oder ein Ärgernis darstellt oder Menschen, Tieren oder einer gewünschten Kultur Schaden zufügt. Im Hausgarten können Unkräuter:
@@ -95,8 +93,3 @@ Unkräuter zu kennen, hilft dabei, die wirksamsten Methoden zur Bekämpfung zu f
 
 - [Biologie und Bekämpfung mehrjähriger Unkräuter, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Invasive Pflanzen/Management invasiver Pflanzen und Schädlinge, Stadt Portland, Oregon](https://www.portlandoregon.gov)
-
----
-
-##### Der Beratungsdienst der Oregon State University untersagt jegliche Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle untersagten Gründe gelten für alle Programme.)
----

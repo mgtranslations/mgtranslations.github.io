@@ -1,7 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa Maestros Jardineros™ de Extensión de OSU
-
----
-
 ## Jardinería de Otoño en la Huerta
 
 ### Cosecha y Almacenamiento de Verduras
@@ -85,12 +81,3 @@ La limpieza en otoño facilita la jardinería en primavera:
   - Jardinería con Mantillos
   - Jardinería en Camas Elevadas
   - Prueba de pH del Suelo
-
----
-
-#### Consejos de Maestro Jardinero™ · Llama a la Línea de Ayuda en Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otras hojas informativas y horarios de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estado de veterano, represalias o retaliación por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

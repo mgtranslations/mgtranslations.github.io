@@ -116,5 +116,3 @@
 
 - [覆蓋物：好的、壞的和非常糟的。– Linda Chalker-Scott 博士，華盛頓州立大學](Mulches.md)
 - [鐵線蓮分類修剪 – Linda Beutler](Clematis.md)
-
----

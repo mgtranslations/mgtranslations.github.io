@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Clackamas County phối hợp và hỗ trợ Chương trình Làm Vườn của OSU Extension Master Gardener™
-
 # Ong Thợ Hồ Vườn Cây Ăn Quả
 
 ### Tổng Quan
@@ -42,7 +40,6 @@ Nhiều loài ký sinh, kẻ thù và bệnh có thể gây hại hoặc giết 
 
 Bạn có thể loại bỏ ve và nấm chalkbrood bằng cách làm sạch kén từ tháng 10 đến tháng 12. Lúc này ong trưởng thành hoàn toàn và có thể chịu được quá trình này.
 
-#### Quá Trình Làm Sạch
 
 1. Rửa ong trong nước không ấm hơn 50°F (10°C) để tránh làm ong thức dậy.
 2. Ngâm kén không quá 5 phút trong nước mát pha dung dịch 0,05% thuốc tẩy (1 thìa canh thuốc tẩy cho 4 lít nước).
@@ -59,12 +56,3 @@ Bạn có thể loại bỏ ve và nấm chalkbrood bằng cách làm sạch ké
   [Đọc thêm tại đây](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Chăm sóc Ong Thợ Hồ Trong Vườn Nhà Ở Tây Oregon*, Ấn phẩm EM 9130 của Đại học Bang Oregon  
   [Đọc thêm tại đây](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Tư vấn Master Gardener™ · Gọi Đường Dây Hỗ Trợ Làm Vườn: Quận Clackamas: 503-655-8631 · Quận Washington: 503-821-1150 · Quận Multnomah: 503-445-4608 · Xem thêm tài liệu và video Đại học 10 Phút™ tại [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon · Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm mọi hành vi phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù đối với hoạt động bảo vệ quyền công dân trước đó. (Không phải tất cả các cơ sở cấm đều áp dụng cho mọi chương trình.)
----

@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Sare ee Clackamas County oo kaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Kaydinta Abuurka
 
 ### Maxaa Looga Ururiyaa Abuurka?
@@ -19,7 +17,6 @@ Waxaa jira saddex hab oo is-qurxineed: dabaysha, cayayaanka, iyo dadka.
 - **Is-qurxin Iskeed ah**: Waxaa loola jeedaa dhirta leh ubaxyo leh lab iyo dheddig labadaba. Kuwaas waxaa ka mid ah yaanyo, digir, ansalaato, iyo eggplant.
 - **Is-qurxin Isku Dhafan**: Dhirta sida qajaarka iyo kabo waxay u baahan yihiin dabaysha ama cayayaan si ay ubaxa lab ka keenaan si loo beero ubaxa dheddig ee dhirta kale ama isla dhirtaas.
 
-#### Is-Qurxin Gacan-ku-samays ah oo loogu talagalay Beeraleyda Guryaha
 
 Si aad abuur uga ururiso dhirta is-qurxinta isku dhafan:
 
@@ -38,7 +35,6 @@ Dooro dhir caafimaad qabta markaad abuur ururinayso. Tixgeli astaamaha sida dhad
   - Qajaarka xilliga la cuni karo abuurkiisu ma bisla. Bislaanshaha dhabta ah wuxuu dhacaa marka barafka hore yimaado, sida bocorka iyo kabaha jiilaalka.
   - Ururi abuurka ubaxa marka ubaxyadu libdhaan oo qalalaan, ama madaxooda ay noqdaan kuwo buuran oo qalalan, ama baakado abuur oo bilaabaya inay furmaan.
 
-#### Habka Qalalan
 
 Dhirta leh abuur qalalan waxaa ka mid ah digir, digirta, karootada, basbaaska, iyo inta badan ubaxa iyo dhiraha udgoon.
 
@@ -50,7 +46,6 @@ Dhirta leh abuur qalalan waxaa ka mid ah digir, digirta, karootada, basbaaska, i
 **Ogow**:  
 - Basbaaska waa inuu casaan/jaalle noqdaa oo qalalo si abuur loo ururiyo. Galoofyo xir markaad la macaamilayso basbaaska kulul!
 
-#### Habka Qoyan
 
 Dhirta leh miro jilicsan sida yaanyo waxaa ugu fiican in la mariyo habka khamiirka:
 
@@ -91,10 +86,3 @@ Isku day inaad abuurkaaga isticmaasho saddex sano gudahood. Sababtoo ah awoodda 
   - *Fahanka Aasaasiga ah ee Soosaarka Abuurka iyo Cusboonaysiinta Abuurka*
 - Jaamacadda Maine, Daabacaadaha Extension: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *Hordhac Kaydinta Abuurka ee Beeraleyda Guryaha 2750e*
-
-#### Talooyinka Master Gardener™ · Wac Xariirka Beeralayda Guryaha: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Si aad u hesho waraaqaha Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Extension ee Jaamacadda Gobolka Oregon waxa uu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa oo dhan, sabab la xiriirta jinsiyad, midab, asal qaran, diin, jinsi, aqoonsi jinsi (oo ay ku jirto muujinta jinsiga), galmo, naafonimo, da', xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamijka gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaalada ciidan, aargoosi ama ciqaab la xiriirta hawlo xuquuq madaniyeed hore. (Dhammaan sababaha la mamnuucay kuma quseeyaan barnaamij kasta.)
----

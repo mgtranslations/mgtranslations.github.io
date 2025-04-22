@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 # Làm Vườn với Phân Hữu Cơ
 
 Phân hữu cơ là lớp phủ tuyệt vời khi trải lên mặt đất. Khi trộn vào đất, nó là nguồn phân bón và chất cải tạo đất. Làm theo các bước trong tài liệu này, người làm vườn tại nhà có thể biến cỏ cắt, lá cây và các loại rác vườn khác thành phân hữu cơ dùng tại nhà.
@@ -137,12 +135,3 @@ Rải phân hữu cơ lên cỏ giúp cung cấp đạm chậm. Trộn phân h�
 ## Tài Nguyên Dịch Vụ Khuyến Nông OSU
 
 - [Làm vườn với Phân hữu cơ, Lớp phủ và Lưới che hàng, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### Tư vấn Làm vườn Chuyên gia™ · Gọi Đường dây hỗ trợ Horticulture tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Tài liệu Đại học 10 Phút™ và lịch lớp học: Truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho mọi chương trình.)
----

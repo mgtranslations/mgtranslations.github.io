@@ -1,5 +1,3 @@
-#### Guia de Poda de Outono para Plantas Perenes · Preparado por Laura Eyer · 09/10/2018
-
 ## Podar
 
 - Íris-barbada
@@ -43,7 +41,6 @@
 
 ## Deixar em Pé
 
-#### Preparado por Laura Eyer · 09/10/2018
 
 - Artemísia
 - Áster
@@ -89,4 +86,3 @@
 - Valeriana (*Centranthus ruber*)
 - Flor-varinha (*Guara sp.*)
 - Amsonia-salgueiro (*Amsonia tabernaemontana*)
----

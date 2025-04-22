@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 # Quản Lý Dịch Hại Tổng Hợp (IPM) Cho Vườn Gia Đình
 
 Quản lý dịch hại tổng hợp (IPM) là một phương pháp dựa trên khoa học để kiểm soát dịch hại bằng nhiều cách an toàn, bền vững và hiệu quả. Trong bối cảnh này, dịch hại là những sinh vật gây hại cho cây trồng hoặc ảnh hưởng đến sức khỏe con người hoặc động vật. Dịch hại có thể truyền bệnh hoặc chỉ đơn giản là gây phiền toái. Dịch hại có thể là thực vật (cỏ dại), động vật có xương sống (chim, loài gặm nhấm hoặc động vật có vú khác), động vật không xương sống (côn trùng, ve, nhện hoặc ốc sên), tuyến trùng hoặc tác nhân gây bệnh (vi khuẩn, virus hoặc nấm). Tuy nhiên, không có một định nghĩa chung cho dịch hại. Cỏ ba lá có thể là dịch hại đối với người muốn có một bãi cỏ hoàn hảo, nhưng lại được đánh giá cao vì khả năng cố định đạm đối với chủ nhân của vườn sinh thái.
@@ -29,18 +27,15 @@ Xác định mức độ thiệt hại nào là chấp nhận được đối v�
 
 ### 4. Kết Hợp Các Biện Pháp Sinh Học, Canh Tác, Vật Lý và Hóa Học
 
-#### Biện Pháp Sinh Học
 
 Biện pháp sinh học là sử dụng các loại côn trùng có ích, còn gọi là thiên địch, để giảm số lượng côn trùng gây hại. Bạn có thể thu hút côn trùng có ích đến vườn bằng thức ăn như mật hoa và phấn hoa từ cây trồng. Nước và nơi làm tổ cũng rất quan trọng để cung cấp môi trường sống cho côn trùng có ích. Bạn có thể mua ve săn mồi hoặc trứng bọ mắt xanh. Chúng sẽ ở lại gần nơi được thả ra nếu có thức ăn. Hạn chế sử dụng thuốc trừ sâu có thể gây hại cho chúng.
 
 - [Hỗ trợ kiểm soát sinh học bằng cây vườn](https://gardenecology.oregonstate.edu/sites/agscid7/files/gardenecology/gel_brief_2_biocontrol.pdf)
 - [Côn trùng có ích trong vườn nhà](https://cmastergardeners.files.wordpress.com/2022/02/beneficial-insects.pdf)
 
-#### Biện Pháp Canh Tác
 
 Biện pháp canh tác nhấn mạnh việc thay đổi môi trường tự nhiên để giảm nguy cơ xuất hiện dịch hại. Ví dụ: chăm sóc cây đúng cách để cây khỏe mạnh và chọn giống cây có khả năng chống chịu sâu bệnh.
 
-#### Biện Pháp Vật Lý
 
 Biện pháp vật lý là loại bỏ hoặc ngăn chặn dịch hại tiếp xúc với cây trồng. Nên áp dụng khi số lượng dịch hại còn thấp. Ví dụ:
 
@@ -50,7 +45,6 @@ Biện pháp vật lý là loại bỏ hoặc ngăn chặn dịch hại tiếp x
 
 Bạn cũng có thể loại bỏ dịch hại làm tổ hoặc sống thành từng cụm bằng cách lấy chúng ra khỏi cây. Cắt bỏ cành có tổ nhện hoặc sâu ăn lá sống thành đàn trên cành riêng biệt sẽ giúp giảm số lượng dịch hại. Cách này hiệu quả nhất khi phát hiện sớm.
 
-#### Biện Pháp Hóa Học
 
 Chỉ nên sử dụng biện pháp hóa học khi các phương pháp khác không hiệu quả. Nhiều loại thuốc diệt côn trùng tiêu diệt cả thiên địch lẫn côn trùng gây hại, và số lượng côn trùng gây hại thường phục hồi nhanh hơn thiên địch.
 
@@ -65,8 +59,3 @@ Các biện pháp bạn đã áp dụng có hiệu quả không? Bạn sẽ làm
 - [Giải pháp cho vấn đề dịch hại](https://solvepestproblems.oregonstate.edu/)
 - **Tư vấn từ Master Gardener™**: Liên hệ văn phòng OSU Extension địa phương để được tư vấn từ Master Gardener.
 - Để xem tài liệu và lịch học 10-Minute University™, truy cập [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-#### Dịch vụ Extension của Đại học Bang Oregon nghiêm cấm mọi hành vi phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động quyền dân sự trước đây. (Không phải tất cả các tiêu chí cấm đều áp dụng cho mọi chương trình.)
----

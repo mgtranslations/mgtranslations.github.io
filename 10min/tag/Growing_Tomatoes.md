@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Pagpapalago ng Kamatis sa Tahanan
 
 ## Pagpili ng Barayti ng Kamatis na Itatanim
@@ -9,7 +7,6 @@
 - Pumili kung magsisimula mula sa buto o bibili ng punla.
 - Alamin kung angkop sa hardin mo ang determinate o indeterminate na kamatis.
 
-#### Uri ng Kamatis
 
 | Uri           | Espasyo / Suporta na Kailangan       | Paraan ng Paglaki       | Panahon ng Pag-aani                 |
 |---------------|--------------------------------------|-------------------------|-------------------------------------|
@@ -64,7 +61,6 @@ Handa nang itanim sa lupa ang mga halaman kapag 10–15” na ang taas at 60°F 
 5. Putulin ang mga dahon at sanga (suckers) sa ibaba ng unang bulaklak.
 6. Pumili ng paraan ng pagtatanim:
 
-#### Trench Method
 
 - **Mga Benepisyo:** Napupunta ang ugat sa pinakamainit na lupa; maganda para sa mahahabang halaman.
 - **Kakulangan:** Kailangan ng madalas na pagdidilig at maingat na mababaw na pagbubungkal.
@@ -76,7 +72,6 @@ Handa nang itanim sa lupa ang mga halaman kapag 10–15” na ang taas at 60°F 
   - Lagyan ng marker sa dulo ng root ball para hindi masira ang ugat kapag nagwawalis ng damo.
   - Ilagay agad ang suporta para hindi masira ang ugat.
 
-#### Vertical Method
 
 - **Mga Benepisyo:** Mas maraming tubig ang mahihigop ng ugat; mas kaunting pagbitak ng bunga.
 - **Kakulangan:** Mas malamig ang mas malalim na lupa kaya mas mabagal ang paglaki at paghinog ng bunga.
@@ -126,12 +121,3 @@ Handa nang itanim sa lupa ang mga halaman kapag 10–15” na ang taas at 60°F 
   - [Pagsisimula ng Kamatis mula sa Buto](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
   - [Pagtatanim ng Kamatis sa Inyong Hardin](https://www.youtube.com/watch?v=Pucpx5fuKdk)
   - [Mga Subok na Paraan ng Pag-aalaga](https://www.youtube.com/watch?v=lpVBg-e_1vE)
-
----
-
-#### Master Gardener™ Gabay · Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · 10-Minute University™ Mga Handout at Video: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa, kalagayan ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, genetic information, estado bilang beterano, at pagganti o paghihiganti sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

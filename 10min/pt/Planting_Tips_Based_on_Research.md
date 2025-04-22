@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 ## Dicas de Plantio Baseadas em Pesquisas de Horticultura
 
 ### Visão Geral
@@ -56,11 +54,4 @@ O princípio para melhorar o solo é não corrigir só o buraco de plantio, mas 
 ### Informações Adicionais
 
 - **Jardinagem Sustentável**, Publicação EM 8742 da Extensão da Universidade Estadual do Oregon  
-- **Paisagens e Jardins Sustentáveis: Boa Ciência e Aplicação Prática**, Universidade Estadual de Washington  
-
-#### Dicas de Mestre Jardineiro™ · Ligue para o Plantão de Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos e vídeos do Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----
+- **Paisagens e Jardins Sustentáveis: Boa Ciência e Aplicação Prática**, Universidade Estadual de Washington

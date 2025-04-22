@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Schnecken und Nacktschnecken bekämpfen
 
 ### Einige grundlegende Fakten
@@ -113,10 +111,3 @@ Fördern Sie Nützlinge, die zu Ihrem Garten passen.
 ## Quellen
 
 OSU Extension-Publikationen finden Sie unter [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™ Handouts und Kursplan: Besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus oder Vergeltung für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten Punkte betreffen jedes Programm.)
----

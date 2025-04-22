@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Clackamas County · Wada shaqayn iyo taageero barnaamijka OSU Extension Master Gardener™
-
 ## Faahfaahinta Soo Saarista Khudaarta Sannadlaha ah ee Oregon
 
 ### Jadwalka Macluumaadka Abuurka iyo Beerista

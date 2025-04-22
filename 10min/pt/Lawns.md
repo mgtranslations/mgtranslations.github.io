@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros da Extensão da OSU
-
 ## Torne Seu Jardim Mais Resiliente ao Clima: Gramados
 
 A tendência atual de aquecimento da Terra resulta no derretimento de geleiras, aumento do nível do mar, maior acidez dos oceanos e secas e enchentes mais frequentes e severas. O Noroeste do Pacífico tem enfrentado secas prolongadas, aumento na incidência e severidade de incêndios florestais, ondas de calor, surtos de insetos e doenças em árvores. A redução da camada de neve resulta em picos de fluxo mais cedo em rios e córregos, o que reduz o suprimento de água. Além dessas tendências, as mudanças climáticas trazem eventos climáticos extremos e irregulares (ondas de calor, chuvas intensas) com maior frequência.  
@@ -37,8 +35,3 @@ Para mais detalhes, leia Gramados Amigáveis ao Clima: [https://extension.oregon
 - **Outras coberturas rasteiras não gramíneas** incluem tomilho rasteiro, hortelã rasteira, camomila rasteira ou até musgo. Combine a cobertura do solo com a quantidade de luz solar e umidade do local.
 - **Seja mais tolerante com as plantas invasoras:** Elas podem aumentar a biodiversidade do seu jardim ao fornecer alimento para diferentes insetos. As plantas invasoras com flores ajudam os polinizadores.
 - **Use herbicidas com sabedoria, se necessário:** Corte antes que as plantas invasoras produzam sementes para evitar sua propagação ou faça remoção manual. Se for necessário usar herbicida químico, escolha um produto de baixo impacto da lista: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda vinda de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou punição por atividades anteriores de direitos civis. (Nem todas as categorias proibidas se aplicam a todos os programas.)
----

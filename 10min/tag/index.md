@@ -116,5 +116,3 @@ Orihinal na Pinagmulan:
 
 - [Malts: ang Mabuti, ang Masama, at ang Talagang Pangit – Linda Chalker-Scott, PhD, WSU](Mulches.md)
 - [Pag-uuri at Pagputol ng Clematis – Linda Beutler](Clematis.md)
-
----

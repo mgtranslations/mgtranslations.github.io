@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Great Plant Picks: Bäume
 
 **S:** Schattengarten  
@@ -59,8 +57,3 @@ GPP-Pflanzen auf dieser Liste erfüllen folgende Kriterien:
 - Bieten mehr als eine interessante Jahreszeit im Garten.
 
 Viele GPP-Pflanzen bieten auch ökologische Vorteile, zum Beispiel für Bestäuber, als Vogelnahrung oder als Lebensraum für Wildtiere.
-
----
-
-#### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Repressalien oder Vergeltung wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Verbote gelten für alle Programme.)
----

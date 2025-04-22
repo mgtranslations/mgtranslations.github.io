@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Ua Kev Koom Tes Nrog Oregon State University Extension Service
-
 # Ua Vaj Tsev Nrog Cov Menyuam Hnub Nyug 8-10
 
 ### Vim Li Cas Yuav Ua Vaj Tsev Nrog Cov Menyuam?
@@ -21,14 +19,12 @@ Ua vaj tsev nrog cov menyuam hnub nyug 8 txog 10 tuaj yeem muaj txiaj ntsig heev
 
 Cov menyuam hnub nyug no yuav muaj lus xav txog yam lawv xav cog thiab saib xyuas, yog li cia lawv npaj lawv lub vaj. Lawv yuav tsum nco ntsoov rau kev nyeem cov hnab noob kom paub txog lub sijhawm noob ua paj, qhov chaw npaj, thiab hnub mus txog lub caij sau qoob loo. Qee zaus kev sim thiab yuam kev kuj yog tus xib fwb zoo los qhia txog thaum twg thiab yuav ua li cas cog nyob hauv koj thaj vaj.
 
-#### Ua Kom Av Zoo Ua Ntej Cog Zaub
 
 Ntxiv cov quav qaib lossis nyuj uas twb yaj lawm rau hauv lub txaj vaj cais yuav pab kom cov menyuam to taub qhov tseem ceeb ntawm nitrogen hauv vaj thiab paub tias siv quav tsiaj yog ib txoj hauv kev zoo los txuag pov tseg thiab pab rau nroj tsuag loj hlob. Lawv tej zaum yuav hais tias nws "qias neeg" thiab "tsis huv," tab sis lawv yuav tsum tau txhawb kom ua ib tug kws tshawb fawb.
 
 Vegetable Gardening in Oregon (npl. 1) muaj qee cov ntaub ntawv:  
 [Vegetable Gardening in Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-#### Ua Lub Thawv Kab Ntsig
 
 Lub thawv kab ntsig yuav ua tau los ntawm ntau hom khoom siv thiab yuav loj los me npaum li koj xav. Thaum ua lub thawv kab ntsig, koj yuav tsum xav txog lub thawv, chaw pw, cua, thiab zaub mov. Koj tab tom tsim ib qho me ecosystem uas yuav ua kom cov khoom piam sij. Xav txog cov khoom siv uas yuav saib xyuas tau qhov txheej txheem no zoo, nrog dej, sov thiab txias txhua xyoo.
 
@@ -37,7 +33,6 @@ Cov Tshuaj:
 - [Composting with Worms](https://catalog.extension.oregonstate.edu/em9034)
 - *Worms Eat My Garbage* los ntawm Mary Appelhof
 
-#### Cog Pob Kws thiab Paj Ntsha
 
 Kev cog qhia cov menyuam txog qhov tob rau kev tseb noob loj me sib txawv thiab qhov chaw yuav tsum sib nraug kom muaj chaw loj hlob. Cov lus nug xav txog:
 
@@ -48,7 +43,6 @@ Kev cog qhia cov menyuam txog qhov tob rau kev tseb noob loj me sib txawv thiab 
 
 [Growing Your Own](https://catalog.extension.oregonstate.edu/em9027) muaj cov ntaub ntawv "yuav ua li cas" txog ntau hom nroj tsuag.
 
-#### Cog Rau Cov Kab Tsav Noob
 
 Pib los ntawm kev saib xyuas cov kab tsav noob uas tuaj rau koj lub vaj. Koj puas muaj cov ntxhuav, npauj npaim, noog ya liab? Cov paj xim dab tsi cov kab tsav noob nyiam, xws li liab, xiav, paj yeeb, dawb, thiab daj?
 
@@ -64,7 +58,6 @@ Cov Tswv Yim:
 
 Muaj ntau phau ntawv duab zoo thiab ntawv qhia txog kev ua vaj tsev uas cov menyuam yuav nyiam ua ntej lawv pib thiab thaum lawv ua hauj lwm hauv vaj. Nyeem ntawv rau lawv mloog yuav ua rau lawv nug lus thiab yuav pab kom lawv muaj tswv yim npaj lub vaj. Koj tus librarian hauv zej zog yuav pab nrhiav cov ntaub ntawv uas koj thiab koj tus menyuam yuav nyiam nyeem.
 
-#### Cov Phau Ntawv Pom Zoo
 
 - *Tops and Bottoms* los ntawm Janet Stevens
 - *Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden* los ntawm Renata Fossen Brown
@@ -83,15 +76,9 @@ Muaj ntau phau ntawv duab zoo thiab ntawv qhia txog kev ua vaj tsev uas cov meny
 
 [Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Master Gardener™ Cov Lus Qhia
 
 - **Hu Xovtooj Nug Kev Pab Horticulture:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Rau lwm cov ntawv qhia 10-Minute University™ thiab teev caij kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub ntxub ntxaug hauv txhua yam kev pab, kev pabcuam, kev ua si, thiab khoom siv raws li haiv neeg, xim, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, tus kheej los yog kev qhia txog poj niam txiv neej, kev nyiam sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, tsev neeg/kev ua niam txiv, nyiaj tau los los ntawm kev pab pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, xwm txheej tub rog, kev txiav txim siab, lossis kev ua phem rau cov uas tau koom nrog kev tiv thaiv txoj cai pej xeem. (Tsis yog txhua yam uas txwv no siv rau txhua qhov kev pab.)
----

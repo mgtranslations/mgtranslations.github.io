@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Oregon Master Gardener™ Association – Clackamas County Chapter · In Zusammenarbeit mit dem Oregon State University Extension Service
-
 # Gärtnern mit Kindern im Alter von 11–14 Jahren
 
 Gärtnern mit Kindern im Alter von 11 bis 14 Jahren kann für Kinder und Erwachsene spannend und lohnend sein. Es bringt sie weg vom Computer und anderen Bildschirmen, regt die Fantasie an und verringert Stress und Ängste. Kinder in diesem Alter sind körperlich bereit, mehr im Garten zu arbeiten, und sie haben Freude daran, Strukturen im Garten zu entdecken, zum Beispiel beim Bau eines Rankgitters oder eines Hochbeets. Diese Aktivitäten sparen Platz, sorgen für besseres Sonnenlicht und Bodennutzung und stärken das Selbstbewusstsein der Kinder.
@@ -72,12 +70,3 @@ Es gibt viele schöne Bilder- und Sachbücher über das Gärtnern, die Kinder vo
 ## Ressource der Oregon State University
 
 - [Leitfaden für Pädagog:innen zum Gemüsegärtnern](https://catalog.extension.oregonstate.edu/em9032)
-
----
-
-#### Master Gardener™-Beratung · Rufen Sie die Home Horticulture Hotline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™-Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischen Ansichten, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU
-
 # Jardinagem em Solo Argiloso
 
 ### Introdução
@@ -39,34 +37,27 @@ A textura do solo reflete a proporção de areia, silte e argila. Uma boa estrut
 
 ### O que a Ciência do Solo nos Diz?
 
-#### Fertilidade
 - Solos argilosos são ricos em nutrientes para plantas.
 - Partículas de argila têm cargas negativas, que seguram partículas carregadas positivamente como cálcio, potássio, magnésio, ferro e outros nutrientes.
 
-#### Permeabilidade
 - Solo molhado e solo de textura fina (com muita argila ou silte) compactam-se facilmente.
 - Solos compactados têm torrões achatados, o que dificulta o movimento da água e das raízes.
 - Solo argiloso compactado é difícil de restaurar.
 - Solos saudáveis têm muitos espaços entre os torrões (**macroporos**) para permitir o movimento de água, gases e raízes. Mais macroporos significa melhor drenagem.
 
-#### Capacidade de Retenção de Água
 - Poros pequenos ou **microporos** (espaço dentro de um torrão) dão ao solo sua capacidade de reter água.
 
-#### Perturbação do Solo
 - Cavucar e arar quebra os torrões, mas introduz ar nos macroporos.
 - Arar em excesso reduz a funcionalidade dos fungos, mata nematoides benéficos e geralmente resulta em solos compactados.
 
-#### Vida no Solo
 - O solo está cheio de vida, muitos desses seres são benéficos para as plantas.
 - Solos com mais matéria orgânica tendem a ter mais microrganismos.
 - Microrganismos do solo são mais ativos entre **21°C e 38°C**, enquanto minhocas são mais ativas por volta de **10°C**.
 
-#### Raízes das Plantas e Exsudatos
 - Raízes das plantas secretam uma substância chamada **exsudato**, que contém açúcar, vitaminas, oxigênio e outros compostos.
 - O exsudato atrai microrganismos para perto das raízes.
 - Pesquisas mostram que a composição dos exsudatos varia entre espécies de plantas e molda a comunidade de fungos ao redor de cada planta.
 
-#### Micróbios Benéficos
 - **Bactérias Rhizobia** capturam nitrogênio do ar para uso das plantas.
 - Nematoides benéficos são muito sensíveis à perturbação e muitos morrem quando o solo é arado, o que pode afetar toda a cadeia alimentar do solo.
 - Muitos tipos de fungos formam associações benéficas (**micorrizas**) com raízes de plantas.
@@ -77,37 +68,30 @@ A textura do solo reflete a proporção de areia, silte e argila. Uma boa estrut
 
 ### Como Gerenciar Solo Argiloso
 
-#### Teste Seu Solo
 - Antes de adicionar qualquer coisa, faça um teste do solo.
 - Fertilize só se o teste mostrar deficiência ou se as plantas não crescerem bem.
 - Lembre-se de que a argila já é rica em nutrientes.
 - No Vale Willamette, a maioria das árvores, arbustos e plantas perenes não precisa de fertilizante adicional.
 
-#### Mantenha Raízes Vivas Crescendo
 - Plantas vivas captam energia do sol e sustentam uma comunidade de microrganismos no solo através dos exsudatos das raízes.
 - Estudos mostram que os exsudatos influenciam a diversidade dos micróbios do solo.
 - Cultivar vários tipos de plantas aumenta a diversidade de vida no solo, o que ajuda a formar um solo saudável.
 
-#### Minimize a Perturbação
 - Qualquer coisa que perturba o solo (pisar, cavar, arar) pode quebrar ou compactar os torrões e reduzir o espaço poroso, que é importante para a permeabilidade e retenção de água.
 
-#### Mantenha Coberto
 - Cubra o solo com cobertura morta (mulch) para moderar a temperatura, reduzir a evaporação e diminuir o crescimento de ervas daninhas.
 - Cobertura orgânica se decompõe e adiciona matéria orgânica ao solo.
   - Materiais mais grossos permitem fluxo de ar, enquanto substâncias mais densas, como papelão, impedem a troca de gases.
   - Cavacos de madeira de arborista (10-15cm) são uma boa cobertura – deixam passar o ar e se decompõem lentamente, adicionando matéria orgânica ao solo.
 
-#### Alimente os Microrganismos do Solo
 - Matéria orgânica (**MO**) é a base da cadeia alimentar do solo; adicionar MO alimenta os microrganismos.
 - Escolha uma forma bem compostada e que não contenha atributos indesejáveis, como alto teor de sal ou metais pesados.
 - MO como folhas e restos de jardim compostados pode ser misturada ao solo ou colocada em camada fina (1-2,5cm) por cima para criar um ambiente que favorece a atividade microbiana.
 
-#### Prepare um Canteiro para Esta Temporada
 - Se precisar de um novo canteiro para hortaliças anuais, misture MO compostada em todo o canteiro.
 - Isso deve dar benefícios imediatos de solo mais fácil de trabalhar e mais fértil.
 - Porém, tais benefícios são de curto prazo, pois a MO vai se decompor rapidamente, nutrientes não usados podem se perder e o solo vai se acomodar.
 
-#### Mudança em Relação ao Passado
 - O mantra “Basta adicionar matéria orgânica!” como solução para solos argilosos foi modificado.
 - No passado, recomendava-se adicionar de 5 a 10cm de MO inicialmente e depois quantidades menores.
 - Estudos recentes em jardins urbanos onde MO foi adicionada por anos mostram níveis elevados de fosfato e MO.
@@ -119,7 +103,6 @@ A textura do solo reflete a proporção de areia, silte e argila. Uma boa estrut
 
 ### Saiba Mais Sobre Solo
 
-#### Publicações
 
 **Publicações da Extensão da Universidade Estadual do Oregon**
 - [Guia para Coleta de Amostras de Solo, EC628](https://catalog.extension.oregonstate.edu/)
@@ -135,7 +118,6 @@ A textura do solo reflete a proporção de areia, silte e argila. Uma boa estrut
 **Desmistificando Mitos Sobre Solo para Educadores de Extensão**  
 [Revisão da Literatura Sobre Estrutura e Funcionalidade do Solo](https://www.nacaa.com/journal/index.php?jid=1024)
 
-#### Vídeos
 
 - [Coberturas: As Boas, as Más e as Muito Feias](https://www.youtube.com/watch?v=NXL9n2KNm1E)
 - [Amostragem de Solo em Casa, Universidade Estadual de Washington](https://www.youtube.com/watch?v=0tRQUPDRiDU)
@@ -143,12 +125,6 @@ A textura do solo reflete a proporção de areia, silte e argila. Uma boa estrut
 - [Cowboys do Carbono no Solo](https://www.youtube.com/watch?v=ZGvVli0OTrQ)
 - [Do Solo ao Solo Saudável](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)
 
-#### Sites
 
 - [Web Soil Survey](http://www.websoilsurvey.sc.egov/)
 - [Apostilas e Vídeos da 10-Minute University™](http://www.cmastergardeners.org/10-minute-university)
-
----
-
-###### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, condição familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
----

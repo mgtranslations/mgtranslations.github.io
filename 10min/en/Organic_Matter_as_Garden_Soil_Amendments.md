@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Organic Matter as Garden Soil Amendments
 
 Soil amendments can improve soil structure, increase fertility, and enhance water retention. Amendments should be low in chemical salts and contain enough nitrogen to feed plants and soil microbes. To benefit plants, amend the entire planting bed. If that is not practical, backfill new plantings with native soil. Filling the planting hole with added compost and other amendments creates an interface (where two soil types come together) with native soil, which impedes movement of air, water, and roots.
@@ -117,7 +115,3 @@ No longer recommended due to the environmental damage from peat harvest.
 
 **Planning:** Success requires sowing and killing cover crops at the right time to avoid competition with vegetable gardens.  
 [Cover Crops for Home Vegetable Gardens](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

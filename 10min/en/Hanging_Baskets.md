@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Hanging Baskets
 
 ### Overview
@@ -61,7 +59,6 @@ To keep everything looking tidy through the season, deadhead (remove faded flowe
 
 Numerous plants are successful in seasonal hanging baskets. Those listed below are just a few of the very many possible suggestions. Notice that some plants are suited to both sun and shade.
 
-#### Upright Plants for Sun
 
 - Angelonia
 - Cordyline
@@ -71,7 +68,6 @@ Numerous plants are successful in seasonal hanging baskets. Those listed below a
 - Geranium
 - Ornamental grasses
 
-#### Upright Plants for Shade
 
 - Heliotrope
 - Shade coleus
@@ -82,7 +78,6 @@ Numerous plants are successful in seasonal hanging baskets. Those listed below a
 - New Guinea impatiens
 - Tuberous begonia
 
-#### Clumping Plants for Sun
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ Numerous plants are successful in seasonal hanging baskets. Those listed below a
 - Fantasy petunia
 - Fibrous begonia
 
-#### Clumping Plants for Shade
 
 - Geranium
 - Nemesia
@@ -99,7 +93,6 @@ Numerous plants are successful in seasonal hanging baskets. Those listed below a
 - Impatiens
 - Upright lobelia
 
-#### Trailing Plants for Sun
 
 - Anagalis
 - Alyssum
@@ -111,7 +104,6 @@ Numerous plants are successful in seasonal hanging baskets. Those listed below a
 - Lamium
 - Licorice plant
 
-#### Trailing Plants for Shade
 
 - Lotus vine
 - Million bells
@@ -134,14 +126,9 @@ So many books are available about growing hanging baskets that it’s difficult 
 - *Gardening in Containers* (Sunset)
 - *Pots in the Garden* by Ray Rogers
 
-#### Master Gardener™ Advice
 
 - **Call Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - For more 10-Minute University™ handouts and class schedule, visit [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

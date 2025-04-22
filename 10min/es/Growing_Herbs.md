@@ -1,5 +1,3 @@
-#### 10-Minute University™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Cultivo de Hierbas
 
 ## Resumen
@@ -123,10 +121,3 @@ Para aprender más sobre el cultivo, uso y conservación de las hierbas, consult
 - *Gourmet Herbs* (Manual del Jardín Botánico de Brooklyn)
 - *Hierbas, una Guía Ilustrada* (Sunset Books)
 - *Todo sobre las Hierbas* (Ortho Books)
-
-#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda de Horticultura Hogareña: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para más folletos y horarios de clases de 10-Minute University™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o retaliación por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

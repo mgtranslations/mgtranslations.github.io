@@ -1,5 +1,3 @@
-#### Đại Học 10 Phút™ · Hiệp Hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương Trình Làm Vườn Chuyên Nghiệp của OSU Extension
-
 # Mười Loài Cỏ Dại Cần Biết
 
 Cỏ dại là những loại cây gây hại, phiền toái hoặc gây thương tích cho người, động vật hoặc cây trồng mong muốn. Trong vườn nhà, cỏ dại có thể:
@@ -95,8 +93,3 @@ Hiểu rõ về cỏ dại giúp xác định cách kiểm soát hiệu quả nh
 
 - [Sinh học và Quản lý Cỏ Dại Lâu Năm, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Cây Xâm Lấn/Quản Lý Cây và Sâu Hại Xâm Lấn, Thành Phố Portland, Oregon](https://www.portlandoregon.gov)
-
----
-
-##### Dịch vụ Khuyến Nông Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì hoạt động dân quyền trước đây. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả chương trình.)
----

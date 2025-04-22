@@ -1,12 +1,9 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension de l’OSU
-
 # Plantes pour les pollinisateurs
 
 ### Abeilles
 
 Les abeilles sont attirées par les fleurs blanches, jaunes ou bleues qui sont ouvertes, peu profondes ou en forme de tube.
 
-#### Arbres et arbustes
 
 | Genre                  | Nom commun             | Saison de floraison     |
 |------------------------|-----------------------|------------------------|
@@ -26,7 +23,6 @@ Les abeilles sont attirées par les fleurs blanches, jaunes ou bleues qui sont o
 | Spiraea douglasii      | Spirée de Douglas     | Printemps, Été         |
 | Vaccinium              | Airelle               | Printemps              |
 
-#### Plantes vivaces
 
 | Genre                        | Nom commun             | Saison de floraison         |
 |------------------------------|-----------------------|----------------------------|
@@ -50,7 +46,6 @@ Les abeilles sont attirées par les fleurs blanches, jaunes ou bleues qui sont o
 | Sedum                        | Orpin                 | Été                        |
 | Symphyotrichum subspicatum   | Aster de Douglas      | Automne                    |
 
-#### Plantes annuelles
 
 | Genre                | Nom commun             | Saison de floraison     |
 |----------------------|-----------------------|------------------------|
@@ -73,7 +68,6 @@ Les papillons sont attirés par les fleurs qui forment de larges plateformes d�
 
 Les colibris sont attirés par les fleurs tubulaires rouges.
 
-#### Plantes annuelles, vivaces et arbustes
 
 | Genre                | Nom commun             | Saison de floraison     |
 |----------------------|-----------------------|------------------------|
@@ -86,7 +80,6 @@ Les colibris sont attirés par les fleurs tubulaires rouges.
 | Ribes                | Groseillier à fleurs  | Printemps              |
 | Salvia               | Sauge                 | Été, Automne           |
 
-#### Plantes grimpantes
 
 | Genre          | Nom commun                 | Saison de floraison     |
 |----------------|---------------------------|------------------------|
@@ -104,8 +97,3 @@ Les colibris sont attirés par les fleurs tubulaires rouges.
     - *Attirer les pollinisateurs dans votre jardin*, Université en 10 Minutes™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Guide de conservation des pollinisateurs**, Xerces Society
     - Rendez-vous sur [www.xerces.org](http://www.xerces.org) pour plus de ressources de la Xerces Society
-
----
-
-#### Le Service d’Extension de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, du revenu provenant d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des mesures de rétorsion liées à une activité antérieure relative aux droits civiques. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

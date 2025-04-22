@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Orchard Mason Bee
 
 ### Pangkalahatang-ideya
@@ -42,7 +40,6 @@ Maraming parasito, mandaragit, at sakit na maaaring makasira o makapatay sa maso
 
 Maaari mong tanggalin ang mites at chalkbrood sa iyong mga bubuyog sa pamamagitan ng paglilinis ng mga kokon mula Oktubre hanggang Disyembre. Ganap nang nabuo ang mga adulto sa panahong ito at kaya na nilang tiisin ang prosesong ito.
 
-#### Proseso ng Paglilinis
 
 1. Hugasan ang iyong mga bubuyog gamit ang tubig na hindi lalagpas sa 50°F upang hindi sila magising.
 2. Ibabad ang kokon nang hindi hihigit sa 5 minuto sa malamig na tubig na may 0.05% bleach (1 kutsara ng bleach bawat 1 galon ng tubig).
@@ -59,12 +56,3 @@ Maaari mong tanggalin ang mites at chalkbrood sa iyong mga bubuyog sa pamamagita
   [Basahin dito](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Nurturing Mason Bees in Your Back Yard in Western Oregon*, Oregon State University Extension publication EM 9130  
   [Basahin dito](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Master Gardener™ na Payo · Tumawag sa Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Para sa iba pang 10-Minute University™ na handouts at videos, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlang pangkasarian (kasama ang ekspresyon ng kasarian), seksuwal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan bilang magulang/pamilya, kita mula sa programang tulong pinansyal ng gobyerno, paniniwalang pampolitika, impormasyong henetiko, katayuang beterano, pagganti o paghihiganti sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

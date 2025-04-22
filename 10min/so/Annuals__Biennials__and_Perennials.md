@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khabiirka ah ee Clackamas County oo la kaashanaya lana taageeraya Barnaamijka Khabiirka Beeraleyda ee OSU Extension Master Gardener™
-
 # Dhirta Hal-sanoole, Laba-sanoole & Dheer-jir
 
 ### Hordhac
@@ -141,12 +139,3 @@ Buugaag badan oo ku saabsan korinta dhirta hal-sanoole, laba-sanoole iyo dheer-j
 - *The Well-Tended Perennial Garden* by Tracy DiSabato-Aust
 - *Sunset Western Garden Book*
 - *The AHS A-Z Encyclopedia of Garden Plants*
-
----
-
-#### Talo Khabiir Beeraley™ · Wac Khadka La-talinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo iyo jadwal fasal oo kale ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucday takoorka barnaamijyadeeda, adeegyada, hawlaha, iyo agabyadeeda dhammaan, iyadoo salka ku haysa: jinsiyad, midab, asal qaran, diinta, jinsi, aqoonsi jinsi (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaalada guurka, xaalada qoyska/waalidka, dakhli laga helo barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda askari hore, aargoosasho, ama falcelin ka dhalatay hawlo hore oo xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

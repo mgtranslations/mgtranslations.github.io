@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener Hauv Nroog Clackamas koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kev Loj Me Strawberry
 
 ### Vim Li Cas Thiaj Yuav Loj Me Strawberry?
@@ -65,7 +63,6 @@ Mus xyuas OSU Extension Service online ntawm [https://catalog.extension.oregonst
 - **Hom Strawberry Rau Western Oregon thiab Washington** (EC 1618)
 - **Kev Loj Berries Hauv Oregon Coast: Strawberry** (EM 9178) (Siv tau rau Willamette Valley thiab)
 
-#### Master Gardener™ Cov Lus Qhia
 
 - **Hu Xovtooj Nug Kev Pab Nyob Hauv Tsev:**
   - 503-655-8631 (Clackamas County)
@@ -73,8 +70,3 @@ Mus xyuas OSU Extension Service online ntawm [https://catalog.extension.oregonst
   - 503-445-4608 (Multnomah County)
 - Rau lwm yam ntaub ntawv 10-Minute University™ thiab sij hawm kawm, mus xyuas [www.cmastergardeners.org](https://www.cmastergardeners.org)
 - Mus nrhiav Master Gardeners ntawm Farmers’ Markets hauv zej zog.
-
----
-
-##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua yam kev pab cuam, kev pab, kev ua, thiab ntaub ntawv raws li haiv neeg, xim tawv nqaij, teb chaws keeb kwm, kev ntseeg, poj niam los txiv neej, kev qhia txog poj niam/txiv neej (xws li kev qhia txog tus kheej), kev nrog poj niam los txiv neej sib hlub, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj me nyuam, nyiaj hli los ntawm txoj kev pab pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, txoj hauj lwm tub rog, kev raug txim lossis raug pauj vim muaj kev tiv thaiv kev cai lij choj yav dhau los. (Tsis yog txhua txoj cai txwv siv rau txhua yam kev pab cuam).
----

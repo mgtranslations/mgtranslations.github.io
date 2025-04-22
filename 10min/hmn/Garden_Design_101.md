@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Saib Xyuas Vaj Tsev Kawm Ua Vaj, Clackamas County, koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kev Tsim Vaj Tsev 101
 
 Kev tsim kom zoo yog qhov tseem ceeb ntawm ib lub vaj uas zoo nkauj, noj qab nyob zoo, thiab yuav nyob tau ntev. Ib qhov kev npaj zoo yuav qhia txog txhua yam uas tsim nyog—xws li kab, hom, qhov muag kov, tsw, thiab xim—thiab tseem suav nrog cov kev xav thiab xav tau ntawm tus tswv tsev.
@@ -111,7 +109,6 @@ Kev tsim kom zoo yog qhov tseem ceeb ntawm ib lub vaj uas zoo nkauj, noj qab nyo
 - Tsim cov kev sib xyaw los ntawm kev cog nrog lwm yam uas tawg paj tib lub caij. Qhov no yuav ua kom koj vaj zoo nkauj dua.
 - Nyob rau hauv ib lub vaj me me, muaj ntau xim dhau yuav ua rau ntxhov. Xaiv ib pawg xim txias lossis sov, ces xaiv cov nroj tsuag raws li koj daim ntawv teev.
 
-#### Cov Ntsiab Cai Tsim Kev Sib Txuas Nroj Tsuag Zoo
 
 1. **Pawg Xim**
 2. **Qhov Muag Kov**
@@ -121,12 +118,3 @@ Kev tsim kom zoo yog qhov tseem ceeb ntawm ib lub vaj uas zoo nkauj, noj qab nyo
 - Piv txwv, siv nplooj nroj tsuag los ntxiv xim xws li ntsuab, xiav, daj, liab, thiab dawb.
 - Siv qhov muag kov xws li loj, ncaj, du, mos, thiab sib luag los ua kom nthuav.
 - Siv hom xws li puag ncig, ncaj, thiab pw los tsim qhov txawv ntawm koj cov nroj tsuag.
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Rau lwm cov ntaub ntawv 10-Minute University™ thiab teev sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub ua kev cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua ub no, thiab ntaub ntawv, raws li haiv neeg, xim, tebchaws keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia txog poj niam txiv neej (xws li kev qhia tawm tus kheej), kev sib deev, xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/kev ua niam txiv, nyiaj tau los los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev rau txim, lossis kev ua phem rau lwm tus vim kev tiv thaiv cai. (Tsis yog txhua yam uas txwv tsis pub siv rau txhua qhov kev pab cuam.)
----

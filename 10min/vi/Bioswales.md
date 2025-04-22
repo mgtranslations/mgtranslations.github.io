@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 # Thêm Một Rãnh Sinh Học (Bioswale)
 
 Ở các khu vực đã phát triển, nước mưa rơi xuống các bề mặt cứng sẽ được dẫn vào ống, mương và cống thoát nước trước khi xả ra suối, sông. Một rãnh sinh học (bioswale) được thiết kế để thu gom nước mưa chảy tràn từ mái nhà, đường lái xe, hoặc các bề mặt không thấm nước khác. Nó cho phép nước mưa thấm xuống đất và được lọc qua cây cối và đất, giúp giảm lượng nước chảy tràn và ô nhiễm vào các nguồn nước tự nhiên. Thiết kế dạng dài của rãnh sinh học khiến chúng phù hợp để xử lý nước chảy bên đường, nhưng rãnh sinh học cũng có thể được sử dụng ở sân trước, sân sau và dưới ống xả mái nhà. Rãnh sinh học cũng có thể thay thế cho lề đường hoặc máng xối.
@@ -76,8 +74,3 @@ Cây cần tưới bổ sung trong mùa hè đầu tiên để phát triển t�
 
 - **Danh Sách Phòng Thí Nghiệm Phân Tích Ở Oregon**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hành vi phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con cái, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động bảo vệ quyền dân sự trước đây. (Không phải tất cả các điều bị cấm đều áp dụng cho tất cả các chương trình.)
----

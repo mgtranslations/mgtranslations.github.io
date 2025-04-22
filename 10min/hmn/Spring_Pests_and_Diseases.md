@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener hauv Clackamas County ua ke nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
----
-
 ## Kab thiab Kab Mob Caij Nplooj Ntoos Zeeg
 
 ### Kev Puas Tsuaj Los Ntawm Caij Ntuj No (Ib Puag Ncig)
@@ -123,12 +119,3 @@ Kab mob nceb *Calonectria pseudonaviculata*. Kuj tuaj yeem kis tau rau pachysand
 
 **Kev daws teeb meem:**  
 Txwv tsis pub txiav ceg thaum huab cua ntub; tshem thiab hlawv nplooj tuag thiab khib nyiab nroj tsuag; ntxuav cov cuab yeej txiav; tsis txhob pov dej rau saum ntoo; muab chaw thiab txiav kom nroj tsuag muaj cua ncig (ua rau caij nplooj zeeg thaum huab cua qhuav). Xav txog kev cog Japanese holly (*Ilex crenata*) hloov.
-
----
-
-#### Kev Pab Tawm tswv yim Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm phau ntawv qhia 10-Minute University™ thiab sijhawm kawm, mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev cais tawm hauv txhua qhov haujlwm, kev pab, kev ua, thiab ntaub ntawv rau txhua haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam/txiv neej, kev qhia tus kheej (xws li kev qhia poj niam/txiv neej), kev nyiam poj niam/txiv neej, kev xiam oob qhab, hnub nyoog, kev sib yuav, muaj me nyuam los tsis muaj, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev rau txim los yog kev ua phem vim kev tiv thaiv cai pej xeem yav tas los. (Tsis yog txhua yam no siv rau txhua txoj haujlwm.)
----

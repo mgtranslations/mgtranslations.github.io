@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração com e em apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Coberturas para o Solo: As Boas, as Ruins e as Muito, Muito Ruins
 
 **Dra. Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Universidade Estadual de Washington
 
 ### Problemas com Coberturas Grossas de Madeira
 
-#### Casca de Árvore
 
 - Pode estar contaminada com sal ou sementes de ervas daninhas
 - Casca contém ceras que dificultam absorção e liberação de água
 - Cascas de coníferas muitas vezes têm fibras pequenas e cortantes, desconfortáveis para pessoas
 
-#### Cavacos de Madeira de Arborista
 
 - Preocupação com alta relação carbono:nitrogênio – isso causa deficiência de nitrogênio?
 - Madeira doente pode transferir patógenos se usada como cobertura?
 
-#### Disponibilidade de Nitrogênio
 
 - Cavacos de madeira têm alta relação C:N, levando a deficiência localizada de nitrogênio na superfície do solo
 - Não geram deficiência de nitrogênio em plantas já estabelecidas
 - Alta relação C:N provavelmente impede germinação de algumas ervas daninhas
 
-#### Patógenos Fúngicos e Cavacos de Madeira
 
 - Armillaria, Cytospora, Thyronectria e Verticillium sobrevivem em grandes pedaços de madeira por meses
 - Sobrevivência aumenta se cavacos são misturados ao solo
 - Não há evidências de que patógenos da cobertura infectem raízes abaixo da superfície
 
-#### Comunidades Fúngicas em Cavacos de Madeira
 
 - Espécies fúngicas presentes geralmente são decompositoras, não patógenos
 - Em solos saudáveis (aeróbicos), fungos benéficos geralmente superam os patogênicos
@@ -230,12 +223,3 @@ Blog: http://www.gardenprofessors.com
 Livros: http://www.sustainablelandscapesandgardens.com  
 Página no Facebook: http://www.facebook.com/TheGardenProfessors  
 Grupo no Facebook: https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Conselho de Mestres Jardineiros™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos e horários de aulas do 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Serviço de Extensão da Universidade Estadual do Oregon · O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

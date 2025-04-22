@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Conseils de Jardinage de Printemps
 
 Au premier jour chaud du printemps, la plupart des jardiniers ont envie de travailler la terre. **N’y allez pas tout de suite !** Il est sage de vérifier l’état du sol d’abord. Prenez une poignée de terre et serrez-la fort. Si la terre reste sous forme de boule, marcher ou creuser va la compacter.
@@ -107,8 +105,3 @@ Obtenez les publications OSU Extension sur [http://catalog.extension.oregonstate
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 - Pour les fiches et vidéos 10-Minute University™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, des revenus provenant de l’aide publique, des opinions politiques, des informations génétiques, du statut de vétéran, des représailles ou des mesures prises en raison d’une activité antérieure relative aux droits civils. (Tous les motifs d’interdiction ne s’appliquent pas à tous les programmes.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Chăm sóc Bãi cỏ
 
 ### Giới thiệu
@@ -109,12 +107,3 @@ Các ấn phẩm OSU có sẵn trực tuyến tại [http://catalog.extension.or
 - **Chăm sóc bãi cỏ thực tiễn cho Tây Oregon** (EC1521)  
 - **Thiết lập và cải tạo bãi cỏ thực tiễn** (EC1550)  
 - **Các loại hạt giống cỏ bán lẻ cho Tây Oregon và Tây Washington** (EM9100)
-
----
-
-#### Tư vấn Làm Vườn Chuyên Nghiệp™ · Gọi Đường dây Hỗ trợ Làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem tài liệu Đại học 10 Phút™ và lịch học, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả thù/báo thù vì các hoạt động quyền dân sự trước đây. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

@@ -1,5 +1,3 @@
-#### 10分鐘大學™ · 克拉克馬斯縣園藝大師協會 與 OSU 延伸園藝大師™ 計畫合作並支持
-
 # 園藝工具的保養與維護
 
 工具會因時間、潮濕加上土壤和生鏽而損壞。以下介紹的正確清潔與保養方法，能讓工具保持良好狀態並延長使用壽命。
@@ -61,12 +59,3 @@
 - [蔬菜園藝實用工具](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [好好保養辛勤工作的園藝工具](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [園藝工具的磨利方法](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### 園藝大師™ 建議 · 家庭園藝專線：503-655-8631（克拉克馬斯縣）· 503-821-1150（華盛頓縣）· 503-445-4608（穆特諾瑪縣）· 10分鐘大學™ 講義與課程表請見 [www.cmastergardeners.org](http://www.cmastergardeners.org)。
-
----
-
-##### 俄勒岡州立大學延伸服務在其所有計畫、服務、活動和教材中，禁止基於種族、膚色、國籍、宗教、性別、性別認同（包括性別表現）、性取向、殘疾、年齡、婚姻狀況、家庭/父母身份、依賴公共救助計劃所得、政治信仰、基因資訊、退伍軍人身份、民權活動報復或懲罰等一切歧視。（並非所有禁用條件適用於所有計畫。）
----

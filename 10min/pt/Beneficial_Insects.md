@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Jardineiros Mestres do Condado de Clackamas em colaboração e apoio ao Programa Jardineiro Mestre™ da Extensão OSU
-
 # Insetos Benéficos no Jardim de Casa
 
 ### Visão Geral
@@ -72,12 +70,3 @@ O Manejo Integrado de Pragas (MIP) é uma abordagem completa e sistemática para
   [Visite aqui](https://www.cmastergardeners.org)
 - *Clark County Washington: Insetos e Pragas*  
   [Leia mais aqui](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
-
----
-
-#### Dicas do Jardineiro Mestre™ · Ligue para o Plantão de Jardinagem: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos da Universidade de 10 Minutos™ e calendário de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividades anteriores de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

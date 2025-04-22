@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Überarbeitete gärtnerische Klassifikation der Gattung *Clematis*
 **Vom I.Cl.S. Council im Juni 2019 angenommen**  
 *(Begonnen bei einem Workshop der International Clematis Society im Wisley Garden, 3.–5. Juli 2017, mit nachfolgenden Anmerkungen von Mitgliedern der Arbeitsgruppe)*
@@ -120,18 +118,15 @@
 
 **Bereichsmerkmale:** Laubabwerfend. Kletternd, meist mit kräftigem Wuchs. Blühen meist im Sommer am diesjährigen Trieb. Viele Blüten, 1–5 cm Durchmesser, meist glocken- oder sternförmig, überwiegend weiß oder gelb.
 
-#### Späte Stern-Clematis
 
 - **Satzmerkmale:** Mittelgroße Kletterpflanzen, Blüten sternförmig, meist weiß und duftend.
 - **Beispiele:** *flammula*, *terniflora*, × *triternata* ‘Rubromarginata’, ‘Sweet Summer Love’.
 - **Schnitt:** Optional, je nach Platz. Falls nötig, im mittleren Frühling, wenn neue Triebe erscheinen, stark auf <0,5 m zurückschneiden. Ansonsten nur ausputzen.
 
-#### Späte Gelbe Clematis
 
 - **Satzmerkmale:** Blüten meist gelb und glockenförmig oder weit geöffnet.
 - **Beispiele:** *buchananiana*, *connata*, *intricata*, *ladakhiana*, *orientalis*, *rehderiana*, *tangutica*, *tibetana*, ‘Bill MacKenzie’, ‘Helios’ (in Japan als ‘Daihelios’), ‘Kugotia’, GOLDEN TIARA, ‘Lambton Park’.
 
-#### Wuchernde Clematis
 
 - **Satzmerkmale:** Stark wachsende Pflanzen, Blüten meist weiß, Knospen und Blüten nach oben gerichtet.
 - **Beispiele:** *ligusticifolia*, *potaninii*, *vitalba*, *virginiana*, ‘Paul Farges’ SUMMER SNOW.
@@ -144,12 +139,3 @@
 **Bereichsmerkmale:** Merkmale, die sich nicht einfach einer der oben genannten Gruppen zuordnen lassen.
 
 - **Beispiele:** *columbiana*.
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minuten-Universität™ Infoblätter und Kurspläne unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkommen aus öffentlicher Unterstützung, politischer Überzeugung, genetischer Information, Veteranenstatus, Repressalie oder Vergeltung für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Merkmale gelten für alle Programme.)
----

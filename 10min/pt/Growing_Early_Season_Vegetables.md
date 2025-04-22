@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Jardineiros Mestres do Condado de Clackamas em colaboração e apoio ao Programa de Jardineiros Mestres da Extensão OSU™
-
 # Cultivando Hortaliças de Início de Temporada
 
 ### O Que São
@@ -53,7 +51,6 @@ Veja o **[Como Construir Sua Própria Cloche para Cama Elevada (EC 1627)](http:/
 
 ### Escolhendo Entre Sementes, Mudas ou Perenes
 
-#### Sementes
 
 Cenoura, ervilha, alface, couve-rábano, verduras, beterraba e rabanete crescem facilmente a partir de sementes. Semeie diretamente no solo.
 
@@ -61,14 +58,12 @@ Cenoura, ervilha, alface, couve-rábano, verduras, beterraba e rabanete crescem 
   - Deixe as sementes de molho por 2 a 4 horas antes de plantar.
   - Ou coloque as sementes embebidas entre duas folhas de papel toalha úmido dentro de um saco plástico. Mantenha em local aquecido até germinarem.
 
-#### Mudas
 
 Produzir suas próprias mudas garante as variedades desejadas no momento certo para o plantio.
 
 - Repolho, brócolis, couve-flor e couve são facilmente encontrados como mudas em viveiros.
 - Comprar mudas dá uma vantagem e acelera a colheita, especialmente para hortaliças que tendem a florescer cedo com o calor.
 
-#### Perenes
 
 Algumas hortaliças não são encontradas como sementes ou mudas, como tubérculos de batata, alho e bulbos de cebola (mudas), que podem ser plantados diretamente no solo.
 
@@ -96,7 +91,6 @@ A maioria das hortaliças são anuais e precisam de nutrientes suficientes para 
   - Farinha de osso (12-24% P)
   - Farinha de algas (2-5% K)
 
-#### Teste de Solo
 
 Hortas da região de Portland geralmente têm altos níveis de fósforo, potássio e outros nutrientes. Os jardineiros devem fazer um teste de solo para identificar deficiências e fertilizar apenas quando necessário.
 
@@ -115,8 +109,3 @@ Acesse o [Serviço de Extensão OSU](http://catalog.extension.oregonstate.edu) p
 - **Hortaliças de Outono e Inverno no Noroeste do Pacífico (PNW 548)**
 
 Acesse [Recursos 10-Minute University™](http://www.cmastergardeners.org/10-minute-university) para folhetos e vídeos sobre cultivo de hortaliças.
-
----
-
-#### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar, renda vinda de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por participação anterior em atividades de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

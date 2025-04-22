@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação dos Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da OSU Extension
-
 # Cultivando Ervas
 
 ## Visão Geral
@@ -123,10 +121,3 @@ Para saber mais sobre como cultivar, usar e conservar ervas, veja as publicaçõ
 - *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
 - *Herbs, An Illustrated Guide* (Sunset Books)
 - *All About Herbs* (Ortho Books)
-
-#### Conselho dos Mestres Jardineiros™ · Ligue para o Serviço de Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para mais folhetos e horários de aulas da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

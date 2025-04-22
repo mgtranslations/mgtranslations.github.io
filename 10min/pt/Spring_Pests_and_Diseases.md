@@ -1,7 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
----
-
 ## Pragas e Doenças da Primavera
 
 ### Danos de Inverno (Ambiental)
@@ -123,12 +119,3 @@ Um fungo, *Calonectria pseudonaviculata*. Pode também infectar pachysandra e sw
 
 **Solução:**  
 Evite podar em clima úmido; remova e destrua folhas mortas e restos de plantas; desinfete as ferramentas de poda; evite irrigação por cima; espaçe e desbaste (no outono, em clima seco) as plantas para melhorar a circulação de ar. Considere usar azevinho-japonês (*Ilex crenata*) como alternativa.
-
----
-
-#### Dicas do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para mais folhetos da Universidade de 10 Minutos™ e agenda de aulas, acesse [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou punição por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

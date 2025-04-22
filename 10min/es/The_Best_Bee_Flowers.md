@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Las Mejores Flores para Abejas — Comprobado por Investigación Hortícola
 
 Esta lista incluye plantas comprobadas por el Dr. Gordon Frankie, Universidad de California, y colegas, como las mejores para atraer abejas[^1]. Las plantas nativas de Oregón comprobadas para atraer abejas nativas se basan en la investigación de Aaron Anderson, Laboratorio de Ecología de Jardines de la Universidad Estatal de Oregón[^2]. Fuentes: *California Bees & Blooms* de Frankie et al., y blogs.oregonstate.edu/gardenecologylab/[^3].

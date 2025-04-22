@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión OSU
-
 # El Jardinero Habilitado
 
 ### Introducción
@@ -12,7 +10,6 @@ La jardinería puede ser un pasatiempo para toda la vida que trae beneficios men
 
 Elegir el tamaño y la función correctos para las herramientas de jardinería marca la diferencia en la comodidad y el uso eficaz de las herramientas.
 
-#### Herramientas de Poda
 
 - **Tijeras de podar**
   - ¡El tamaño importa! Busca el tamaño que se ajuste mejor a tu mano para facilitar el uso y la comodidad. Muchas tijeras vienen en versiones pequeñas, medianas y grandes. También hay versiones para diestros y zurdos.
@@ -30,7 +27,6 @@ Elegir el tamaño y la función correctos para las herramientas de jardinería m
   - **Podadoras de engranaje**
     - Ofrecen un 40% más de potencia al cortar. Los mangos largos dan más palanca.
 
-#### Herramientas de Mano
 
 - Busca herramientas ergonómicas que mantengan la muñeca en una posición neutra, alineada con el antebrazo. A medida que disminuyen la movilidad y la fuerza, es más eficiente usar las articulaciones más grandes. Poder usar el antebrazo y el hombro reduce la tensión en manos y muñecas.
 - Se pueden añadir adaptaciones como mangos en forma de “D” a rastrillos y escobas estándar para mejorar el agarre y ayudar a mantener las muñecas rectas.
@@ -89,12 +85,3 @@ Elegir el tamaño y la función correctos para las herramientas de jardinería m
   - [Descargar Guía](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Continúa Jardineando**  
   - [Consejos para Jardineros con Discapacidad](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la Línea de Ayuda de Horticultura en el Hogar: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o castigos por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

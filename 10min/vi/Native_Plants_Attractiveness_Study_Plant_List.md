@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm Vườn Master Clackamas County · Phối hợp và hỗ trợ Chương trình Làm Vườn Master OSU Extension
-
 # Nghiên Cứu Sức Hấp Dẫn Của Cây Bản Địa
 
 ## Danh Sách Cây
@@ -50,12 +48,3 @@ Vui lòng truy cập [http://blogs.oregonstate.edu/gardenecologylab/native-plant
 | Sidalcea virgata        | Cẩm chướng hồng       |            | Lâu năm       | Hồng         |
 | Sisyrinchium idahoense  | Cỏ mắt xanh           |            | Lâu năm       | Xanh/Tím     |
 | Solidago canadensis     | Cúc vàng Canada       | A, B, C, D | Lâu năm       | Vàng         |
-
----
-
-#### Tư Vấn Master Gardener™ · Gọi Đường Dây Trợ Giúp Làm Vườn Gia Đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem các tài liệu và lịch học khác của 10-Minute University™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon · Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ giúp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động quyền dân sự trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

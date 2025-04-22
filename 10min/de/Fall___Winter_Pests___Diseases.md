@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Schädlinge und Krankheiten im Herbst und Winter
 
 ### Stinkwanzen und Amerikanische Ahornwanzen (Insekten)
@@ -90,12 +88,3 @@
 - Tote Äste und Blätter ausschneiden. Richtiges Schneiden beachten: Große Äste in drei Schritten abschneiden, kleinere an einer äußeren Knospe im 45-Grad-Winkel.
 - Risse in der Rinde auf Insekten untersuchen und diese gegebenenfalls entfernen.
 - Warten Sie vor dem Entfernen einer Pflanze, bis das neue Wachstum beginnt, um sicherzugehen, dass sie wirklich abgestorben ist.
-
----
-
-#### Master Gardener™-Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Handzettel und Kurspläne besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

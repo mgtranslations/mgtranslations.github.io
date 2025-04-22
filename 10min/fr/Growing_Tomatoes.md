@@ -1,5 +1,3 @@
-#### Université 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension OSU
-
 # Cultiver des Tomates dans le Jardin Familial
 
 ## Choisir les Variétés à Cultiver
@@ -9,7 +7,6 @@
 - Choisissez entre semer des graines ou acheter des plants.
 - Sachez si les tomates déterminées ou indéterminées conviennent le mieux à votre jardin.
 
-#### Type de Tomate
 
 | Type          | Besoin d’Espace / Support         | Port de Croissance   | Récolte                              |
 |---------------|-----------------------------------|---------------------|--------------------------------------|
@@ -64,7 +61,6 @@ Les plants sont prêts à aller en terre quand ils mesurent 25–38 cm et que la
 5. Taillez les feuilles du bas et les gourmands (pousses latérales à l’aisselle des feuilles) sous les premières fleurs.
 6. Choisissez une méthode de plantation :
 
-#### Méthode en Tranchée
 
 - **Avantages :** Les racines sont dans le sol le plus chaud ; bien pour les plants filants.
 - **Inconvénients :** Nécessite un arrosage fréquent et un binage délicat et peu profond.
@@ -76,7 +72,6 @@ Les plants sont prêts à aller en terre quand ils mesurent 25–38 cm et que la
   - Placez un repère du côté de la motte pour éviter d’abîmer les racines en désherbant.
   - Ajoutez le support dès la plantation pour ne pas déranger les racines plus tard.
 
-#### Méthode Verticale
 
 - **Avantages :** Plus grande réserve d’eau disponible pour les racines ; moins de craquelures.
 - **Inconvénients :** Le sol plus profond est plus frais, ce qui ralentit la croissance et la maturation des fruits.
@@ -126,12 +121,3 @@ Les plants sont prêts à aller en terre quand ils mesurent 25–38 cm et que la
   - [Démarrer les tomates à partir de graines](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
   - [Planter des tomates dans votre jardin](https://www.youtube.com/watch?v=Pucpx5fuKdk)
   - [Pratiques culturales éprouvées](https://www.youtube.com/watch?v=lpVBg-e_1vE)
-
----
-
-#### Conseils de Maître Jardinier™ · Ligne d’assistance horticole à domicile : Comté de Clackamas : 503-655-8631 · Comté de Washington : 503-821-1150 · Comté de Multnomah : 503-445-4608 · Fiches et vidéos Université 10 Minutes™ : [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### L’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et supports en raison de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, familial ou parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, ou des représailles pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

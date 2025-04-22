@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pangangalaga ng Damuhan
 
 ### Panimula
@@ -109,12 +107,3 @@ Mga publikasyon ng OSU na makikita online sa [http://catalog.extension.oregonsta
 - **Practical Lawn Care for Western Oregon** (EC1521)  
 - **Practical Lawn Establishment and Renovation** (EC1550)  
 - **Retail Lawn Seed Mixtures for Western Oregon and Western Washington** (EM9100)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa mga handout ng 10-Minute University™ at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, estado ng pag-aasawa, estado bilang magulang/pamilya, kita mula sa programang pampubliko, paniniwalang pampulitika, genetic information, status bilang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

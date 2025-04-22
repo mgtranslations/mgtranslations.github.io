@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Como Cultivar Alface e Outras Folhosas
 
 ### Visão Geral
@@ -121,12 +119,3 @@ O solo úmido e sombreado sob as alfaces e suas folhas tenras criam o ambiente p
 - [Como construir sua própria cobertura de canteiro elevado (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [Jardinagem com compostos, cobertura morta e túneis (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [Manual de Jardinagem Sustentável (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### Dicas de Mestres Jardineiros™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos da Universidade de 10 Minutos™ e cronogramas de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

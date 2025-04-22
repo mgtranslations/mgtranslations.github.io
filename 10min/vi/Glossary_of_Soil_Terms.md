@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 # Bảng Thuật Ngữ Đất
 
 Để xem nội dung bảng thuật ngữ đầy đủ, tham khảo ấn phẩm EM063E của Đại học Bang Washington: *Hướng Dẫn Làm Vườn Tại Nhà về Đất và Phân Bón*.
@@ -188,12 +186,3 @@ Cách sắp xếp các tập hợp (viên đất) trong đất, hình thành do 
 ### Khả năng giữ nước (Water-Holding Capacity)
 
 Khả năng các lỗ trong đất giữ nước để cây sử dụng.
-
----
-
-#### Tư vấn Làm Vườn Chuyên Gia™ · Gọi Đường dây Hỗ trợ Làm vườn: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon · Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động quyền công dân trước đó. (Không phải tất cả các lý do bị cấm đều áp dụng cho mọi chương trình.)
----

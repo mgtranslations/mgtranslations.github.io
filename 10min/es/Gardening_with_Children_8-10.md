@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros™ de Oregón – Capítulo del Condado de Clackamas · En cooperación con el Servicio de Extensión de la Universidad Estatal de Oregón
-
 # Jardinería con Niños de 8 a 10 Años
 
 ### ¿Por Qué Hacer Jardinería con Niños?
@@ -21,14 +19,12 @@ Hacer jardinería con niños de 8 a 10 años puede ser especialmente gratificant
 
 Los niños de este grupo de edad suelen tener ideas sobre lo que les gustaría cultivar y cuidar, así que permíteles planear su jardín. Necesitarán recordatorios para leer cuidadosamente los paquetes de semillas, buscando los tiempos de germinación, el espacio necesario y cuántos días faltan para la cosecha. A veces, el ensayo y error es una gran forma de aprender cómo y cuándo cultivar en tu espacio de jardín.
 
-#### Mejora el Suelo del Jardín Antes de Cultivar Verduras
 
 Agregar estiércol compostado de pollo o vaca en una cama designada del jardín ayudará a los niños a comprender la importancia del nitrógeno y cómo usar estiércol animal es una buena manera de reciclar desechos mientras se ayuda a las plantas a crecer. Puede que digan que es “asqueroso” o “desagradable”, pero hay que animarles a ser científicos.
 
 El folleto Jardinería de Hortalizas en Oregón (pág. 1) tiene información:  
 [Jardinería de Hortalizas en Oregón](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-#### Construye una Caja de Lombrices
 
 Las cajas de lombrices se pueden hacer de muchos materiales diferentes y pueden ser tan grandes o pequeñas como se desee. Al construir una caja de lombrices, hay que pensar en el contenedor, la cama, el oxígeno y la comida. Estarás creando un micro-ecosistema de descomposición. Considera un material que soporte bien el proceso de descomposición, la humedad y los posibles cambios de temperatura durante el año.
 
@@ -37,7 +33,6 @@ Recursos:
 - [Compostaje con Lombrices](https://catalog.extension.oregonstate.edu/em9034)
 - *Worms Eat My Garbage* por Mary Appelhof
 
-#### Siembra de Maíz y Girasoles
 
 Sembrar enseña a los niños la profundidad necesaria para sembrar semillas de diferentes tamaños y el espacio que requieren para crecer bien. Preguntas para considerar:
 
@@ -48,7 +43,6 @@ Sembrar enseña a los niños la profundidad necesaria para sembrar semillas de d
 
 [Haz Crecer lo Tuyo](https://catalog.extension.oregonstate.edu/em9027) ofrece información de “cómo hacerlo” sobre una gran variedad de plantas.
 
-#### Planta para los Polinizadores
 
 Comienza observando qué polinizadores visitan tu jardín. ¿Tienes abejas, mariposas o colibríes? ¿Qué colores de flores prefieren los polinizadores, como rojo, morado, rosa, blanco y amarillo?
 
@@ -64,7 +58,6 @@ Sugerencias:
 
 Existen muchos libros ilustrados e instructivos sobre jardinería que los niños disfrutan antes de empezar y mientras trabajan en el jardín. Leerles en voz alta invita a la curiosidad y puede ser el punto de partida para planear el jardín. El personal de tu biblioteca local puede ayudarte a encontrar recursos que tanto tú como tu hijo disfrutarán.
 
-#### Libros Sugeridos
 
 - *Arriba y Abajo* por Janet Stevens
 - *Laboratorio de Jardinería para Niños: 52 Experimentos Divertidos para Aprender, Cultivar, Cosechar, Crear, Jugar y Disfrutar tu Jardín* por Renata Fossen Brown
@@ -83,15 +76,9 @@ Existen muchos libros ilustrados e instructivos sobre jardinería que los niños
 
 [Guía para Educadores sobre Jardinería de Hortalizas](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Consejos de Maestros Jardineros™
 
 - **Llama a la Línea de Ayuda de Horticultura en Casa:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para otros folletos de la Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o venganza por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

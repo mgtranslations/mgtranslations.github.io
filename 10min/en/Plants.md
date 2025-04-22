@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 ## Make Your Garden More Climate-Resilient: Plants
 
 Earth's current warming trend results in melting glaciers, rising sea levels, increasing ocean acidity, and more frequent and severe droughts and floods. The Pacific Northwest has seen prolonged drought, increasing wildfire incidence and severity, heat waves, insect outbreaks, and tree diseases. Reduced snowpack results in earlier peak flows in rivers and streams, which reduces water supplies. In addition to these trends, climate change brings erratic, extreme weather events (heat waves, heavy rain) in greater frequency.  
@@ -59,7 +57,6 @@ How do we garden in these times? This handout offers ideas for building resilien
 
 ### Use Plant Trial Results
 
-#### Northwest Plant Evaluations
 
 Oregon State University field trials on drought tolerance and cold hardiness of five genera:
 
@@ -69,7 +66,6 @@ Oregon State University field trials on drought tolerance and cold hardiness of 
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Rockrose](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Climate Ready Landscape Plant Project
 
 Field trials on drought tolerance conducted by five universities:
 
@@ -81,7 +77,6 @@ Field trials on drought tolerance conducted by five universities:
   [Learn more](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [UC Trial Info](https://ucanr.edu/sites/UCLPIT/)
 
-#### Other Trials
 
 - [Chicago Botanic Garden Trials](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (US Upper Midwest)
 - [Mt. Cuba Center Trials](https://mtcubacenter.org/research/trial-garden/) (US Mid-Atlantic region)
@@ -91,7 +86,3 @@ Field trials on drought tolerance conducted by five universities:
 
 - [Great Plant Picks](https://greatplantpicks.org/): Miller Botanical Gardener database with over 1,000 plants, sortable by site conditions (sun/shade) and attributes (size, foliage color).
 - [Perennial Plant of the Year](https://perennialplant.org/page/PPOY): Annual recommendations for standout perennial plants.
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

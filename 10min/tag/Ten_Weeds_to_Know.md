@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Sampung Damo na Dapat Makilala
 
 Ang damo ay halaman na delikado, nakakainis, o nagdudulot ng pinsala sa tao, hayop, o sa mga tanim na gusto mo. Sa bakuran o hardin, ang mga damo ay maaaring:
@@ -95,8 +93,3 @@ Ang pagkilala sa mga damo ay nakakatulong para malaman ang pinakabisa na paraan 
 
 - [Perennial Weed Biology and Management, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Invasive Plants/Invasive Plant & Pest Management, The City of Portland, Oregon](https://www.portlandoregon.gov)
-
----
-
-##### Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya o magulang, kita mula sa tulong ng gobyerno, paniniwalang pampulitika, impormasyon ng genetika, katayuang beterano, paghihiganti o retaliation dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

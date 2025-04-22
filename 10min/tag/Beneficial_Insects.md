@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association kaagapay at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Mga Kapaki-pakinabang na Insekto sa Hardin sa Bahay
 
 ### Pangkalahatang-ideya
@@ -72,12 +70,3 @@ Ang Integrated Pest Management (IPM) ay malawak at sistematikong paraan sa paglu
   [Bisitahin dito](https://www.cmastergardeners.org)
 - *Clark County Washington Presents Bugs and Pests*  
   [Magbasa pa rito](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan sa kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang pampamilya/pagiging magulang, kita mula sa programang tulong ng gobyerno, paniniwalang pampolitika, impormasyong henetiko, katayuang beterano, paghihiganti, o pagganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

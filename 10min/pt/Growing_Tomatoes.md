@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Cultivando Tomates na Horta Caseira
 
 ## Decidindo Quais Variedades Cultivar
@@ -9,7 +7,6 @@
 - Escolha entre começar com sementes ou comprar mudas.
 - Saiba se tomates determinados ou indeterminados funcionam melhor para o seu jardim.
 
-#### Tipo de Tomate
 
 | Tipo         | Requisitos de Espaço / Suporte    | Hábito de Crescimento | Colheita                           |
 |--------------|-----------------------------------|----------------------|------------------------------------|
@@ -64,7 +61,6 @@ As plantas estão prontas para o solo quando atingem 25–38 cm de altura e a te
 5. Pode folhas e brotos laterais (brotos onde a folha madura se junta ao caule) abaixo das primeiras flores.
 6. Escolha um método de plantio:
 
-#### Método da Trincheira
 
 - **Prós:** As raízes ficam no solo mais quente; bom para plantas compridas.
 - **Contras:** Exige regas frequentes e cultivo superficial cuidadoso.
@@ -76,7 +72,6 @@ As plantas estão prontas para o solo quando atingem 25–38 cm de altura e a te
   - Coloque um marcador na extremidade da raiz para evitar danos ao capinar.
   - Instale o suporte no momento do plantio para não danificar as raízes.
 
-#### Método Vertical
 
 - **Prós:** Maior reserva de umidade disponível para as raízes; menos rachaduras.
 - **Contras:** Solo mais profundo é mais frio, causando crescimento e amadurecimento mais lentos.
@@ -126,12 +121,3 @@ As plantas estão prontas para o solo quando atingem 25–38 cm de altura e a te
   - [Começando Tomates por Sementes](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
   - [Plantando Tomates no Seu Jardim](https://www.youtube.com/watch?v=Pucpx5fuKdk)
   - [Práticas Culturais Comprovadas](https://www.youtube.com/watch?v=lpVBg-e_1vE)
-
----
-
-#### Dicas dos Mestres Jardineiros™ · Linha de Ajuda de Horticultura Residencial: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Folhetos e vídeos da Universidade de 10 Minutos™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar ou parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividades anteriores de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

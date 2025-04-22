@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Ua Keeb Kwm Nrog Oregon State University Extension Service
-
 ## Ua Liaj Ua Teb Nrog Cov Menyuam Yaub 4-7 Xyoo
 
 Ua liaj ua teb nrog cov menyuam yog ib qho kev ua uas tau txais txiaj ntsig zoo rau tus menyuam thiab tus niam txiv, pog yawg, lossis tus cob qhia. Cov menyuam ua liaj ua teb zoo vim lawv xav paub, kawm los ntawm kev ua, thiab nyiam ua si hauv av.
@@ -25,7 +23,6 @@ Ua vaj zaub yog ib yam uas cov menyuam hnub nyoog twg los yeej nyiam. Rau cov me
 
 Koj tuaj yeem xaiv kom muaj haujlwm ntau npaum li tus menyuam thiab lub sijhawm koj muaj. Nco ntsoov, qhov tseem ceeb yog ua rau kev paub no zoo siab rau neb ob leeg, ces xav txog seb yuav ua li cas kom haum rau neb thiab nyob tsis ntev kom tsis txhob ua rau leej twg chim lossis nkees—txawm cov laus los xij.
 
-#### Cog Paj Los Yog Zaub Rau Cov Kab Nqus Pollen
 
 Cov neeg ua vaj txaus siab rau cov kab thiab cov kab nqus pollen uas nyob thiab tuaj xyuas hauv vaj. Koj tuaj yeem cog paj hnub, paj zinnia, los yog paj nasturtium. Lawv zoo nkauj thiab pab txhawb zaub mov rau cov kab nqus pollen.
 
@@ -34,7 +31,6 @@ Saib cov ntawv qhia no los ntawm Oregon State University:
 - [Txhawb Cov Kab Zoo Rau Koj Lub Vaj](https://catalog.extension.oregonstate.edu/pnw550)
 - [Phau Ntawv Qhia Rau Cov Xib Fwb Ua Vaj Zaub](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Mus Nrhiav Kab Slug
 
 Cov menyuam yuav kawm txog txoj haujlwm ntawm kab slug hauv kev ua vaj. Muaj peb hom slug uas nquag pom nyob Pacific Northwest:
 
@@ -49,7 +45,6 @@ Saib cov ntaub ntawv no:
 - [Paub Kab Slug thiab Snail](https://agsci.oregonstate.edu/slug-portal/identification)
 - [Kab Slug thiab Snail](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
 
-#### Mus Nrhiav Cov Kab Ua Decomposer
 
 Kab liab, kab phlooj, kab ntsaum, thiab snail yog ib feem ntawm lub vaj thiab pab txhawb kom av tawg mus ua humus. Lawv yog cov uas peb yuav tsum zoo siab txais.
 
@@ -59,7 +54,6 @@ Saib Oregon State University cov ntaub ntawv txog decomposer:
 
 - [Kab Liab Ua Decomposer](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
 
-#### Cov Lus Qhia Txog Kev Cog
 
 Qhia cov menyuam kom paub txog kev cog rau qhov chaw uas muaj tshav ntuj tshaj plaws thiab xyuas kom av npog cov noob (tsis txhob khawb tob dhau). Qhia kom lawv saib seb cov kab ua li cas nrog tsob nroj thaum loj hlob.
 
@@ -87,10 +81,3 @@ Ntawm no muaj qee phau ntawv uas pom zoo:
 - *Flip, Float, Fly: Seeds on the Move* by JoAnn Early Macken
 - *Berries, Nuts and Seeds* by Diane L. Burns
 - *Jack’s Garden* by Henry Cole
-
-#### Master Gardener™ Cov Lus Qhia · Hu Rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau 10-Minute University™ cov ntawv qhia thiab class schedule: Mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub ua kev ntxub ntxaug hauv tag nrho nws cov program, kev pabcuam, kev ua ub no, thiab ntaub ntawv, xws li haiv neeg, xim tawv, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, tus kheej (xws li kev qhia tus kheej), kev nyiam poj niam/txiv neej, xiam oob khab, hnub nyoog, poj niam txiv neej muaj txij nkawm, kev muaj me nyuam, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg hauv nom tswv, ntaub ntawv caj ces, voj tub rog, kev raug pauj lossis raug tsim txom yav tas los hauv civil rights. (Tsis yog txhua yam uas raug txwv yuav siv rau txhua qhov program.)
----

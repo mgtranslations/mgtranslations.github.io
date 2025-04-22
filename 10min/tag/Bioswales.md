@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Pagdagdag ng Bioswale
 
 Sa mga developed na lugar, ang ulan na bumabagsak sa matitigas na ibabaw ay dumadaan sa mga tubo, kanal, at mga drainage bago ito mapunta sa mga ilog at sapa. Ang bioswale ay dinisenyo upang mangolekta ng stormwater runoff mula sa bubong, driveway, o iba pang matitigas na ibabaw. Pinapahintulutan nitong sumipsip ang tubig-ulan sa lupa at salain ng mga halaman at lupa upang mabawasan ang runoff at polusyon sa mga natural na daluyan ng tubig. Dahil sa hugis nitong pahaba, ang bioswale ay angkop para sa tubig na dumadaloy sa tabi ng kalsada, ngunit maaari ring gamitin sa harap o likod ng bakuran at ilalim ng mga downspout ng bubong. Pwedeng maging pamalit din ang bioswale sa curb o gutter.
@@ -76,8 +74,3 @@ Kailangan ng dagdag na dilig ang mga halaman sa unang tag-init para mapalakas an
 
 - **Analytical Laboratories Serving Oregon**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang gender expression), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, paghihiganti, o pagganti sa naunang aktibidad para sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

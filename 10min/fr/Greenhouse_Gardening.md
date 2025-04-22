@@ -1,5 +1,3 @@
-#### Université en 10 minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien au programme Maître Jardinier™ de l’Extension OSU
-
 # Jardinage en serre 101
 
 ### Introduction
@@ -34,7 +32,6 @@ Ajouter une serre à un jardin familial permet de commencer la saison de culture
 
 ### Types de serres
 
-#### Serres adossées
 
 - **Avantages :**
   - Peuvent être moins coûteuses.
@@ -45,7 +42,6 @@ Ajouter une serre à un jardin familial permet de commencer la saison de culture
   - La hauteur peut être limitée par la structure du bâtiment.
   - Une bonne barrière contre la vapeur est nécessaire pour éviter que l’humidité de la serre ne pénètre dans l’isolation de la maison.
 
-#### Serres indépendantes
 
 - **Avantages :**
   - Offrent plus de flexibilité pour l’emplacement et plus de lumière.
@@ -143,8 +139,3 @@ Les fondations sont nécessaires pour beaucoup de serres et peuvent être faites
 
 **Serres pour propriétaires et jardiniers (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut de vétéran, des représailles ou des représailles pour une précédente activité liée aux droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

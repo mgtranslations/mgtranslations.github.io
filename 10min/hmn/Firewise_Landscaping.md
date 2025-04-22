@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Tsim Tsev Teb Taws Teeb Kom Txo Tawm Taws Hav Zoov
 
 ### Taw Qhia
@@ -17,14 +15,12 @@ Muaj ntau yam uas koj ua tau los pab txo kev pheej hmoo! Muaj ob yam tseem ceeb 
 
 Ob yam no hu ua **Cheeb Tsam Hluav Taws Nkag Tsev (Home Ignition Zone, HIZ).**
 
-#### Cheeb Tsam Ze Zog (HIZ 1)
 
 - **Muaj xws li:** Lub tsev mus txog 5 taw ntawm tus ntsis tsev.
 - **Lub hom phiaj:** Txo kev pheej hmoo hluav taws nkag ze lub tsev.
 - **Kev coj raws li no:**
   - Tsis txhob cog nroj tsuag (tsuas yog cov paj tso rau hauv pob tawb lossis thawv, thiab nyom uas saib xyuas zoo).
 
-#### Cheeb Tsam Nruab Nrab (HIZ 2)
 
 - **Muaj xws li:** 5–30 taw ncig lub tsev.
 - **Lub hom phiaj:** Tiv thaiv hluav taws kom tsis txhob nce mus rau saum tsob ntoo lossis nroj tsuag kom lub tsev muaj kev nyab xeeb.
@@ -32,7 +28,6 @@ Ob yam no hu ua **Cheeb Tsam Hluav Taws Nkag Tsev (Home Ignition Zone, HIZ).**
   - Tshem tawm “ladder fuels” (cov ceg ntoo qis thiab nroj tsuag nyob ze uas ua kom hluav taws nce tau mus txog lub tsev).
   - Cheeb tsam no yuav tsum “ntxiv, huv, thiab ntsuab.”
 
-#### Cheeb Tsam Deb (HIZ 3)
 
 - **Muaj xws li:** 30–100 (lossis ntau dua) taw ncig lub tsev.
 - **Lub hom phiaj:** Txo hluav taws lub zog thiab qeeb qeeb nws kom tsis txhob nkag tau mus txog tsev.
@@ -48,7 +43,6 @@ Ob yam no hu ua **Cheeb Tsam Hluav Taws Nkag Tsev (Home Ignition Zone, HIZ).**
 
 Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya los ntawm hluav taws, tsis yog hluav taws los ncaj qha?
 
-#### Yam Tseem Ceeb
 
 - **Vaj Tse:**
   - Vaj tse yog qhov yooj yim tshaj hauv hluav taws vim tshauv ya tuaj.
@@ -63,13 +57,11 @@ Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya 
 
 ### Tsim Teb Taws Teeb thiab Tsim Teb Ib Txwm
 
-#### Cov Nroj Tsuag Tiv Taus Hluav Taws Muaj Cov Yam Ntaus
 
 - Dej nyob ntau hauv nroj tsuag.
 - Ceg ntoo qhib thiab tsis muaj roj los yog tshuaj uas yooj yim kub.
 - Tsob ntoo thiab nroj tsuag poob nplooj feem ntau tsis kub li cov ntoo evergreen.
 
-#### Cov Nroj Tsuag Yooj Yim Kub Muaj Cov Yam Ntaus
 
 - Dej tsawg hauv nroj tsuag.
 - Muaj roj, tshuaj, cawv, los yog cob.
@@ -79,12 +71,10 @@ Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya 
 
 ### Xaiv Nroj Tsuag Tiv Taus Hluav Taws
 
-#### HIZ 1
 
 - **Pom zoo:** Cov paj ib xyoos thiab nyom (tu kom dej txaus).
 - **Tsis pom zoo:** Nroj tsuag muaj roj (piv txwv, juniper, arborvitae, rosemary). Tsis txhob cog ntoo uas ceg hla saum tsev.
 
-#### HIZ 2
 
 - **Pom zoo:**
   - Nroj tsuag qis thiab ceg ntoo qhib (piv txwv, lilac, snowberry).
@@ -92,7 +82,6 @@ Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya 
   - Cov paj ib xyoos thiab ntau xyoo uas tsis muaj roj.
 - **Tsis pom zoo:** Nroj tsuag yooj yim kub nyob ze tsev.
 
-#### HIZ 3
 
 - **Pom zoo:**
   - Tsob ntoo thiab nroj tsuag loj, cog kom sib nrug.
@@ -106,19 +95,16 @@ Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya 
 
 ### Kev Tu Tsev thiab Teb Kom Zoo
 
-#### HIZ 1
 
 - Tu nroj tsuag kom txaus dej thiab txiav ceg.
 - Tshem tawm nroj tsuag tuag.
 - Txiav nyom.
 
-#### HIZ 2
 
 - Tu nroj tsuag kom muaj dej thiab txiav ceg.
 - Muab mulch yog tias muaj dej txaus.
 - Khaws thiab tshem tawm nroj tsuag tuag.
 
-#### HIZ 3
 
 - Tsim kev taug kom First Responders nkag tau yooj yim.
 - Txiav ceg qis ntawm cov ntoo thiab nroj tsuag laus.
@@ -129,18 +115,15 @@ Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya 
 
 ### Yam Ua Rau Hluav Taws Nyob Ze Tsev thiab Chaw Nyob
 
-#### HIZ 1
 
 - Tsis txhob siv mulch vim nws yog khoom yooj yim kub.
 - Ntoo laj kab, rooj vag, thiab arbor yuav ua kom hluav taws nce tau.
 - Tu rooj tog ntoo thiab tsis txhob khaws khoom yooj yim kub hauv qab los sis ze ntawd.
 
-#### HIZ 2
 
 - Tsis txhob cog nroj tsuag yooj yim kub nyob ze tsev.
 - Txiav nyom thiab tshem tawm nroj tsuag tuag.
 
-#### HIZ 3
 
 - Khaws taws ntoo yam tsawg kawg 30 taw ntawm tsev.
 
@@ -148,12 +131,10 @@ Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya 
 
 ### Cov Lus Qhia Rau Cov Khoom Siv Tsim Teb Tiv Taus Hluav Taws
 
-#### Cov Khoom Pom Zoo
 
 - Cov khoom tsis kub: Cement, gravel, cib, pob zeb, hlau, aluminium, iav.
 - Nyom thiab nroj tsuag qis yuav pab qeeb hluav taws thiab tsim kev thaiv hluav taws.
 
-#### Cov Khoom Yooj Yim Kub
 
 - Western red cedar bark yog mulch yooj yim kub tshaj plaws.
 - Laj kab, rooj vag, thiab trellis uas yog ntoo yooj yim kub.
@@ -167,8 +148,3 @@ Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya 
 
 - **Nroj Tsuag Tiv Taus Hluav Taws Rau Tsev Teb**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)
-
----
-
-###### Oregon State University Extension Service tsis pub qhov kev cais tawm hauv nws cov kev pab cuam, kev pab, kev ua ub no, thiab ntaub ntawv vim haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev txheeb ze (xws li kev qhia txog tus kheej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj los ntawm kev pab pej xeem, kev ntseeg pej xeem, ntaub ntawv caj ces, kev ua tub rog, kev raug tsim txom, los sis kev raug pauj vim ua hauj lwm rau kev txhawb txoj cai. (Tsis yog txhua yam txwv no siv rau txhua txoj kev pab cuam.)
----

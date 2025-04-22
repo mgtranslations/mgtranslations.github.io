@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County · Ua haujlwm nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kev Tshawb Fawb Txog Tsob Nroj Ib Leeg Hauv Teb Chaws
 
 ## Daim Ntawv Teev Cov Nroj Tsuag
@@ -50,12 +48,3 @@ Thov mus saib [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](h
 | Sidalcea virgata         | Paj Checkermallow Liab |                | Ntev Ntev    | Paj Liab      |
 | Sisyrinchium idahoense   | Paj Nyiaj Xiav         |                | Ntev Ntev    | Xiav/Paj Ntshav |
 | Solidago canadensis      | Paj Goldenrod          | A, B, C, D     | Ntev Ntev    | Daj           |
-
----
-
-#### Kev Tswv Yim los ntawm Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm daim ntawv qhia thiab teev sij hawm kev kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub muaj kev cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua ub no thiab ntaub ntawv raws li haiv neeg, xim tawv, teb chaws keeb kwm, kev ntseeg, poj niam/txiv neej, lub npe poj niam/txiv neej (xws li kev qhia txog poj niam/txiv neej), kev nyiam poj niam/txiv neej, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, tsev neeg/kev ua niam txiv, nyiaj tau los ntawm kev pab nyiaj pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog yav dhau los, lossis rau qhov raug pauj/kev rau txim vim ua haujlwm tiv thaiv cai pej xeem yav dhau los. (Tsis yog txhua yam kev cais tawm no siv rau txhua qhov kev pab cuam.)
----

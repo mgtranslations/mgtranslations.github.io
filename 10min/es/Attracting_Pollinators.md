@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 ## Atrayendo Polinizadores a Tu Jardín
 
 ### Polinización y Polinizadores
@@ -12,15 +10,12 @@ Los polinizadores comunes incluyen aves, abejas, mariposas, polillas, moscas y e
 
 ### Amenazas Recientes para los Polinizadores
 
-#### Pérdida de Hábitat
 
 Cuando los hábitats de la vida silvestre se convierten para otros usos, se destruyen las fuentes de alimento y los hogares de los polinizadores.
 
-#### Pesticidas
 
 Las abejas, mariposas y la mayoría de los insectos son sensibles a los pesticidas. La exposición puede matarlos o debilitar poco a poco su capacidad para volar, buscar alimento y producir crías.
 
-#### Especies Invasoras
 
 Algunas plantas introducidas invaden áreas naturales y desplazan a las plantas nativas que proveen variedad de alimentos y tipos de hábitat para los polinizadores nativos. Consulta *Especies Invasoras: Lo que los Jardineros Deben Saber* para más información.
 
@@ -28,13 +23,11 @@ Algunas plantas introducidas invaden áreas naturales y desplazan a las plantas 
 
 ### Maneras de Ayudar a los Polinizadores
 
-#### Proporciona Alimento con Plantas con Flores Desde la Primavera Hasta el Otoño
 
 Las flores proveen néctar (azúcar) y polen (proteína) para los polinizadores y sus crías. Como diferentes polinizadores pueden tener distintas preferencias de alimento, la variedad es importante. Investigaciones recientes muestran que áreas con 15 o más especies de plantas con flores aumentan la diversidad de abejas.
 
 Los jardineros que quieran conservar abejas deben tratar de tener al menos tres especies de plantas floreciendo al mismo tiempo, desde la primavera hasta el otoño. Coloca flores similares juntas para atraer la atención de los polinizadores que pasan.
 
-#### Características Generales de las Flores para Polinizadores
 
 | Flor        | Abeja                             | Mariposa                 | Ave                         | Mosca                               |
 |-------------|-----------------------------------|--------------------------|-----------------------------|-------------------------------------|
@@ -47,19 +40,15 @@ Los jardineros que quieran conservar abejas deben tratar de tener al menos tres 
 
 Incluye plantas que florecen en primavera para que las abejas nativas de inicio de temporada tengan alimento apenas salgan de la hibernación. Planta especies que florecen a finales del verano para alimentar a las abejas que pasan el invierno como adultas (por ejemplo, los abejorros). *Plantas para Polinizadores*, un folleto de Universidad de 10 Minutos™, ofrece muchas ideas.
 
-#### Ofrece Hábitats de Anidación para Abejas Nativas
 
 Muchas abejas nativas anidan en el suelo. Una área de tierra desnuda o una cama seca con grupos de pastos ornamentales poco densos es ideal. Cubrir la tierra con plástico o labrarla frecuentemente puede destruir los nidos. Otras abejas anidan en túneles abandonados de escarabajos en troncos muertos o pilas de ramas. Las áreas ideales para anidar son secas, cálidas, protegidas de depredadores y cercanas a fuentes de alimento.
 
-#### Ofrece Plantas Hospedadoras para Mariposas y Polillas
 
 Las mariposas y polillas adultas suelen preferir alimentarse de néctar, pero sus crías se alimentan de las hojas de las plantas. Esta “planta hospedadora” es donde el adulto pone sus huevos. Los árboles y arbustos ornamentales nativos a menudo son excelentes plantas hospedadoras para muchas especies.
 
-#### Usa Plantas Nativas y Exóticas
 
 Las plantas nativas son fantásticas como hospedadoras de mariposas y polillas y también proveen alimento para otros polinizadores. Sin embargo, los jardineros que prefieren plantas exóticas, especialmente anuales con muchas flores y perennes pequeñas, no deben dudar en usarlas para mantener una larga temporada de flores en el jardín.
 
-#### Evita los Pesticidas
 
 Al primer signo de problemas en una planta, recolecta evidencia para hacer un diagnóstico correcto. Comprender el problema es esencial para tomar medidas efectivas. Muchos problemas de plantas, cuando se detectan a tiempo, pueden manejarse sin químicos. Mantente alerta en el jardín.
 
@@ -92,12 +81,3 @@ Para proteger a los polinizadores:
 
 - **Las Mejores Flores para Abejas**  
   [Ver en YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la Línea de Ayuda de Horticultura Casera: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos y horarios de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Servicio de Extensión de la Universidad Estatal de Oregon · El Servicio de Extensión de la Universidad Estatal de Oregon prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paterno, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

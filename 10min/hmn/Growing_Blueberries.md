@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Yuav Loj Hlob Kua Txob Xiav Li Cas
 
 ### Vim Li Cas Yuav Loj Hlob Kua Txob Xiav?
@@ -38,7 +36,6 @@
 - **Hom chiv**: Ammonium sulfate, urea, chiv rhododendron, feather meal, cottonseed, los yog soybean meal.
 - **Kev nchuav chiv**: Fwj chiv kom sib npaug rau hauv thaj tsam 12 txog 18 ntiv ncig txhua tsob ntoo, tsis txhob cuam ncaj rau cag lossis ceg.
 
-#### Chiv Nitrogen (N) Nyob Rau Xyoo Cog
 
 | Xyoo Cog | N (ua ounces) Ib Xyoo |
 |----------|----------------------|
@@ -54,7 +51,6 @@
 - **Sij hawm**: Faib tag nrho cov N ua peb feem, muab thawj zaug rau nruab nrab lub plaub hli, zaum ob rau nruab nrab lub tsib hli, thiab zaum kawg rau nruab nrab los txog thaum xaus lub rau hli.
 - **Sawdust tshiab**: Nchuav chiv rau saum mulch, tab sis nce 25% ntxiv rau tag nrho.
 
-#### Xam Seb Yuav Siv Chiv Npaum Li Cas
 
 Yog xav paub tias yuav siv chiv ntau npaum li cas:
 - Faib cov N uas pom zoo los ntawm feem pua N nyob hauv chiv uas koj xaiv.
@@ -87,10 +83,3 @@ Yog xav paub tias yuav siv chiv ntau npaum li cas:
 - [Loj Hlob Txiv Ntoo Hauv Oregon Coast: Kua Txob Xiav EM9179](https://catalog.extension.oregonstate.edu/)
 - [Kev Kawm Txiav Nroj Tsuag](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Ua Kua Qaub Rau Av Ua Vaj Tshiab Rau Kua Txob Xiav thiab Nroj Tsuag Zoo Nkauj EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Master Gardener™ Kev Pab · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Yog xav tau lwm yam ntaub ntawv los yog sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub cais tawm rau txhua yam ua haujlwm, kev pabcuam, kev ua si, thiab ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, kev muaj me nyuam, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, lossis kev txiav txim siab rau lwm yam kev tiv thaiv txoj cai. (Tsis yog txhua yam yuav siv rau txhua qhov program.)
----

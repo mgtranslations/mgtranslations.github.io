@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros™ de Oregón – Capítulo del Condado de Clackamas · En cooperación con el Servicio de Extensión de la Universidad Estatal de Oregón
-
 ## Jardinería con Niños de 4 a 7 Años
 
 Jardinear con niños puede ser una de las experiencias más gratificantes tanto para el niño como para el padre, abuelo o mentor. Los niños son jardineros naturales porque son curiosos, aprenden haciendo y disfrutan jugar en la tierra.
@@ -25,7 +23,6 @@ La jardinería de hortalizas puede ser especialmente gratificante para niños de
 
 Puedes ajustar la cantidad de trabajo según el niño y el tiempo disponible. Recuerda, es importante que la experiencia sea gratificante para ambos, así que piensa en el alcance de la actividad y para antes de que alguien se sienta abrumado o frustrado, incluidos los adultos.
 
-#### Planta Flores o Hortalizas para Polinizadores
 
 Los jardineros valoran a los insectos y polinizadores que viven y visitan el jardín. Puedes plantar girasoles, zinnias o capuchinas. Son atractivas y proporcionan alimento a los polinizadores.
 
@@ -34,7 +31,6 @@ Consulta estas publicaciones de la Universidad Estatal de Oregón:
 - [Fomentando Insectos Beneficiosos en tu Jardín](https://catalog.extension.oregonstate.edu/pnw550)
 - [Guía para Educadores sobre Jardinería de Hortalizas](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Sal a Buscar Babosas
 
 Los niños aprenderán cómo las babosas cumplen un papel en el ecosistema. Hay tres babosas comunes en el Noroeste del Pacífico:
 
@@ -49,7 +45,6 @@ Consulta estos recursos:
 - [Identificación de Babosas y Caracoles](https://agsci.oregonstate.edu/slug-portal/identification)
 - [Babosas y Caracoles](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
 
-#### Busca Descomponedores
 
 Lombrices, cochinillas, hormigas y caracoles son parte del ecosistema y son esenciales para descomponer la materia orgánica en humus. ¡Hay que celebrarlos!
 
@@ -59,7 +54,6 @@ Consulta el recurso de la Universidad Estatal de Oregón sobre descomponedores:
 
 - [Lombrices como Descomponedores](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
 
-#### Consejos para Plantar
 
 Dale a los niños información esencial sobre plantar en un lugar con la mayor cantidad de sol y asegurarse de que la tierra cubra las semillas (no demasiado profundo). Anímales a observar cómo los insectos interactúan con las plantas a medida que crecen.
 
@@ -87,10 +81,3 @@ Aquí tienes algunas sugerencias:
 - *Gira, Flota, Vuela: Semillas en Movimiento* de JoAnn Early Macken
 - *Bayas, Nueces y Semillas* de Diane L. Burns
 - *El Jardín de Jack* de Henry Cole
-
-#### Consejo del Maestro Jardinero™ · Llame a la Línea de Ayuda de Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folletos de la Universidad de 10 Minutos™ y horarios de clases: Visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

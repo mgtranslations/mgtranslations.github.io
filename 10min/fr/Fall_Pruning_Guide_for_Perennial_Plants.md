@@ -1,5 +1,3 @@
-#### Guide de taille d'automne pour les plantes vivaces · Préparé par Laura Eyer · 09/10/2018
-
 ## À tailler
 
 - Iris barbu
@@ -43,7 +41,6 @@
 
 ## À laisser en place
 
-#### Préparé par Laura Eyer · 09/10/2018
 
 - Artemisia
 - Aster
@@ -89,4 +86,3 @@
 - Valériane rouge (*Centranthus ruber*)
 - Gaura (*Guara sp.*)
 - Amsonie (*Amsonia tabernaemontana*)
----

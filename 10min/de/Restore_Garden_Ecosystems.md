@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Natürliche Ökosysteme in städtischen Gärten wiederherstellen
 
 Das schnelle Wachstum der Bevölkerung in städtischen Gebieten führt oft zur Entwicklung und Ausweitung von Verkehrsnetzen, die natürliche Landschaften und Ökosysteme zerschneiden. Dies stört natürliche Prozesse und verringert die Fähigkeit von Ökosystemen, die Auswirkungen von Stürmen, Überschwemmungen, Waldbränden, Hitzewellen und Dürren abzumildern. Außerdem führt es zum Verlust von Lebensräumen für Bestäuber, Fledermäuse, Vögel und Amphibien. (Hardy et al. 2022)
@@ -70,8 +68,3 @@ Schaffe Lebensraum für viele verschiedene Wildtiere, die sich von dichten, einh
 - **Klimawandel-Resilienz-Infoblätter:** Ökosysteme, Böden, Rasenflächen, Wasser, Pflanzen.
 - **Quellen zu einheimischen Pflanzen:** Einheimische Pflanzen im Garten verwenden, Portland Plant List, Backyard Habitat Program.
 - **Weitere Infoblätter:** Feuerfeste Gärten, Integrierter Pflanzenschutz im Hausgarten, Mulde anlegen, Regengarten anlegen.
-
----
-
-###### Der Beratungsdienst der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien- bzw. Elternstatus, Einkünften aus Sozialleistungen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

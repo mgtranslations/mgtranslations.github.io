@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Estudo de Atratividade de Plantas Nativas
 
 ## Lista de Plantas
@@ -50,12 +48,3 @@ Por favor, visite [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2
 | Sidalcea virgata          | Malva-rosa                 |             | Perene        | Rosa          |
 | Sisyrinchium idahoense    | Grama-de-olho-azul         |             | Perene        | Azul/Roxo     |
 | Solidago canadensis       | Vara-de-ouro               | A, B, C, D  | Perene        | Amarelo       |
-
----
-
-#### Conselho do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos da Universidade de 10 Minutos™ e cronogramas de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Serviço de Extensão da Universidade Estadual do Oregon · O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, condição familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade de direitos civis anterior. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Enfermedades y Plagas Comunes de las Rosas
 
 Las rosas pueden ser una adición fragante y hermosa a cualquier jardín en el Noroeste del Pacífico. Sin embargo, se sabe que sufren algunas enfermedades y plagas comunes. Este folleto ofrece estrategias de monitoreo y prevención para asegurar flores y follaje hermosos durante todo el verano.
@@ -62,8 +60,3 @@ Las rosas pueden ser una adición fragante y hermosa a cualquier jardín en el N
 Contacte a su oficina local de Extensión de OSU para recibir consejos de Maestros Jardineros. Puede encontrar la información de contacto aquí: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 Para folletos y horarios de clases de la Universidad de 10 Minutos™, visite [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

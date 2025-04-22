@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Glossar einheimischer Pflanzen
 
 ### Einheimische Pflanze
@@ -37,8 +35,3 @@ Pflanzenmutationen, auch als „Sports“ oder „Chimären“ bekannt, sind gen
 
 - Vegetative Vermehrung wird genutzt, um gewünschte Eigenschaften zu erhalten. Pflanzen neigen oft zur „Rückmutation“, das heißt, dass Teile oder die ganze Pflanze zu ihrer ursprünglichen Form zurückkehren.
 - **Beispiele:** Kamelienblüten mit Flecken und Streifen.
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/elterlicher Status, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus sowie Vergeltungsmaßnahmen oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Merkmale gelten für alle Programme.)
----

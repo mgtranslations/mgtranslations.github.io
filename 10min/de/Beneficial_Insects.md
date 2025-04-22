@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Nützliche Insekten im Hausgarten
 
 ### Überblick
@@ -72,12 +70,3 @@ Integrierter Pflanzenschutz (IPM) ist ein umfassender und systematischer Ansatz 
   [Hier besuchen](https://www.cmastergardeners.org)
 - *Clark County Washington präsentiert Insekten und Schädlinge*  
   [Mehr dazu hier](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minuten-Universität™ Merkblätter und Kurspläne unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

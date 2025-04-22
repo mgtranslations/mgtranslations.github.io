@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Suelos 101
 
 ### ¿Qué es el suelo?
@@ -64,10 +62,3 @@ Nunca labres el suelo cuando esté húmedo. Hacerlo dejará el suelo lleno de te
 - [Cómo tomar una muestra de suelo y por qué (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [Fertilización de su jardín: vegetales, frutas y ornamentales (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - Jardinería con compost, folleto de Universidad de 10 Minutos™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Consejos de Maestros Jardineros™ · Llame a la Línea de Ayuda de Horticultura en Casa: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Para otros folletos de Universidad de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

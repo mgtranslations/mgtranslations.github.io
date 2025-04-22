@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Controlando Topos
 
 ### Introducción

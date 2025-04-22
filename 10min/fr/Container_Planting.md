@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme OSU Extension Master Gardener™
-
 # Plantation en Contenant
 
 ### Aperçu
@@ -73,8 +71,3 @@ Les éléments nutritifs sont lessivés à chaque arrosage. Il est donc importan
   - 503-445-4608 (Comté de Multnomah)
 - [Vidéo sur la plantation en contenant](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
 - Pour plus de fiches et de vidéos 10-Minute University™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Le Service de l’Extension de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial ou parental, les revenus issus d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou mesures de rétorsion liées à une activité de droits civils antérieure. (Toutes les bases interdites ne s’appliquent pas à tous les programmes).
----

@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Khabiirka ah ee Clackamas County · Iskaashi iyo Taageero Barnaamijka Beeralayda Khabiirka ah ee OSU Extension
-
 # Sida Loogu Daryeelo Ubaxa Rose-ka
 
 ### Kormeer Goobaha Ubaxa
@@ -42,7 +40,6 @@ Marka laga soo tago doorashada nooca saxda ah, si sax ah u beerista waa shaqada 
 
 ### Goynta
 
-#### Goynta Weyn ee Bartamaha Febraayo
 
 Furo bartamaha geedka si hawadu u socoto:
 
@@ -55,14 +52,12 @@ Furo bartamaha geedka si hawadu u socoto:
 
 Markaad dhameyso, waa inay ka harmaan laamo adag oo caafimaad qaba oo ka baxaya salka geedka.
 
-#### Goynta Ubaxa Dhintay
 
 Ka saar dhammaan ubaxyada dhammaaday:
 
 1. Markaad ka saaraysid ubaxa ugu dambeeya ee dhammaaday, gooy kor laan leh 3 ama 5 caleemo.
 2. Haddii aad sare uga goyso laanta, ubax cusub ayaa degdeg u soo bixi doona, laakiin way yaraan doonaan. Haddii aad hoose uga goyso, ubaxa cusub wuu waqti qaadan doonaa, balse wuu waaweyn doonaa.
 
-#### Goynta Noofembar
 
 Gaabi laamaha si aad u yarayso dhaawaca dabaysha:
 
@@ -86,12 +81,3 @@ Ka saar dhammaan caleemaha si geedku uu u galo nasasho.
 
 - [Sida Loo Xakameeyo Cudurada iyo Abuurka Rose-kaaga (EC 1520)](https://catalog.extension.oregonstate.edu/ec1520)
 - [Sida Loo Rusheeyo Geedaha Qurxinta ah ee Qoryaha ah Iyadoo Loo Adeegsanayo Qalab Organic ah (EC 1629-E)](https://catalog.extension.oregonstate.edu/ec1629-e)
-
----
-
-#### La-talin Beeralayda Khabiirka ah™ · Wac Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo kale ah iyo jadwalka casharrada ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyadiisa, hawlihiisa, iyo agabkiisa oo dhan, iyadoo aan loo eegayn midabka, asal ahaan, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), doorashada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda askarinimo, aargudasho, ama ciqaab loo geystay sabab la xiriirta xuquuqda madaniga ah ee hore. (Dhamaan arrimaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

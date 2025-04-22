@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · Association des Maîtres Jardiniers™ de l’Oregon – Section du comté de Clackamas · En collaboration avec le Service d’Extension de l’Université d’État de l’Oregon
-
 # Jardiner avec des enfants de 8 à 10 ans
 
 ### Pourquoi jardiner avec des enfants ?
@@ -21,14 +19,12 @@ Jardiner avec des enfants de 8 à 10 ans peut être particulièrement enrichissa
 
 Les enfants de ce groupe d’âge auront des idées sur ce qu’ils aimeraient faire pousser et entretenir, alors laissez-les planifier leur jardin. Ils auront besoin de rappels pour bien lire les sachets de graines concernant les temps de germination, les espacements et les jours avant la récolte. Parfois, l’essai et l’erreur sont un excellent moyen d’apprendre comment et quand planter dans leur espace de jardin.
 
-#### Améliorer le sol du jardin avant de cultiver des légumes
 
 Ajouter du fumier de poule ou de bœuf composté dans une plate-bande désignée aidera les enfants à comprendre l’importance de l’azote au jardin et comment utiliser du fumier animal est une bonne manière de recycler les déchets tout en aidant les plantes à pousser. Ils diront peut-être que c’est « beurk » ou « dégoûtant », mais il faut les encourager à être des scientifiques.
 
 Le guide *Potager en Oregon* (page 1) contient des informations :
 [Potager en Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-#### Construire un bac à vers
 
 Les bacs à vers peuvent être fabriqués à partir de nombreux matériaux différents et peuvent être aussi grands ou petits que désiré. Lorsque vous construisez un bac à vers, vous devez penser au contenant, à la litière, à l’oxygène et à la nourriture. Vous créerez un micro-écosystème en décomposition. Choisissez un matériau qui supporte bien la décomposition, l’humidité et les variations de température tout au long de l’année.
 
@@ -37,7 +33,6 @@ Ressources :
 - [Composter avec des vers](https://catalog.extension.oregonstate.edu/em9034)
 - *Les Vers mangent mes déchets* par Mary Appelhof
 
-#### Planter du maïs et des tournesols
 
 Planter apprend aux enfants la profondeur de semis selon la taille des graines et l’espacement nécessaire pour permettre aux plantes de bien pousser. Questions à se poser :
 
@@ -48,7 +43,6 @@ Planter apprend aux enfants la profondeur de semis selon la taille des graines e
 
 *Cultiver son jardin* ([Growing Your Own](https://catalog.extension.oregonstate.edu/em9027)) propose des informations pratiques sur de nombreuses plantes.
 
-#### Planter pour les pollinisateurs
 
 Commencez par observer quels pollinisateurs visitent votre jardin. Avez-vous des abeilles, des papillons, des colibris ? Quelles couleurs de fleurs préfèrent-ils, par exemple rouge, violet, rose, blanc et jaune ?
 
@@ -64,7 +58,6 @@ Suggestions :
 
 Il existe de nombreux albums et livres pratiques sur le jardinage que les enfants apprécient avant de commencer et pendant qu’ils travaillent au jardin. Lire à voix haute encourage la curiosité et peut donner des idées pour le jardin. Votre bibliothécaire local peut vous aider à trouver des ressources qui plairont à la fois à vous et à votre enfant.
 
-#### Livres suggérés
 
 - *Du haut en bas* par Janet Stevens
 - *Le labo du jardinage pour les enfants : 52 expériences amusantes pour apprendre, cultiver, récolter, fabriquer, jouer et profiter de son jardin* par Renata Fossen Brown
@@ -83,15 +76,9 @@ Il existe de nombreux albums et livres pratiques sur le jardinage que les enfant
 
 [Guide de l’éducateur pour le potager](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Conseils des Maîtres Jardiniers™
 
 - **Appelez le service d’aide en horticulture à domicile :**
   - 503-655-8631 (Comté de Clackamas)
   - 503-821-1150 (Comté de Washington)
   - 503-445-4608 (Comté de Multnomah)
 - Pour d’autres fiches et horaires des cours Université en 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, la situation familiale/parentale, les revenus issus de l’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures prises à la suite d’activités liées aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Cây Hàng Năm, Hai Năm & Đa Niên
 
 ### Tổng Quan
@@ -141,12 +139,3 @@ Có nhiều sách về trồng cây hàng năm, hai năm và đa niên tại th�
 - *The Well-Tended Perennial Garden* của Tracy DiSabato-Aust
 - *Sunset Western Garden Book*
 - *The AHS A-Z Encyclopedia of Garden Plants*
-
----
-
-#### Tư vấn Làm Vườn Chuyên Nghiệp™ · Gọi đến Đường dây Hỗ trợ Làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu Đại học 10 Phút™ và lịch học, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ các chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trừng phạt vì hoạt động dân quyền trước đây. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho mọi chương trình.)
----

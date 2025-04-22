@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener · Ua ke nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 ## Taw Qhia Txog Kev Loj Hlob Zaub Qo Hauv Av
 
 Zaub qo hauv av muaj qhov chaw tseem ceeb hauv txhua lub vaj zaub. Lawv yog ib qho ntawm cov zaub uas koj yuav tau sau thaum pib thiab thaum kawg ntawm lub caij, thiab yog tias koj khaws cia kom zoo hauv tsev, koj yuav muaj zaub tshiab noj mus txog caij ntuj no. Cov zaub no zoo heev vim tias lawv tsis xav chaw ntau hauv vaj, koj tuaj yeem sau tau ntev ntev, thiab lawv tsim tau zaub uas muaj zog thiab muaj zog noj. Lawv loj hlob tau zoo hauv txaj tsa, hauv av, thiab hauv thawv.
@@ -80,7 +78,6 @@ Paub txog tsev neeg nroj tsuag thiab kev hloov chaw cog zaub yog qhov tseem ceeb
 
 Kev hloov chaw cog zaub plaub xyoos ib zaug pab tiv thaiv teeb meem, pab av thiab txhawb kev loj hlob zoo rau zaub qo hauv av. Ua ke cog thiab hloov chaw cog zaub txhawb kom muaj ntau hom nroj tsuag hauv vaj. Ua ke cog yog ib txoj kev zoo los siv chaw kom zoo, cia nroj tsuag loj hlob sib pab.
 
-#### Tsev Neeg Nroj Tsuag thiab Cov Ua Ke Cog
 
 - **Chenopodiaceae**: Beet, spinach, chard  
   - Ua ke cog: Bush bean, lettuce, onion, radish
@@ -107,8 +104,3 @@ Kev hloov chaw cog zaub plaub xyoos ib zaug pab tiv thaiv teeb meem, pab av thia
 - [Easy Gardening Series - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Root Crops](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [The Underground Vegetable](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### Oregon State University Extension Service tsis pub muaj kev ntxub ntxaug hauv txhua qhov kev pab, kev kawm, kev ua haujlwm, thiab ntaub ntawv vim kev haiv neeg, xim tawv, teb chaws yug, kev ntseeg, poj niam txiv neej, tus kheej los sis kev qhia tus kheej, kev xaiv poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, tsev neeg/kev ua niam txiv, nyiaj los ntawm kev pab dawb, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev mus tawm tswv yim lossis raug txwv vim kev tiv thaiv kev cai lij choj yav dhau los. (Tsis yog txhua lub laj thawj no siv rau txhua qhov kev pab.)
----

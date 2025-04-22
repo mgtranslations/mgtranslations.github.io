@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Jardineiros Mestres do Condado de Clackamas · Em colaboração e apoio ao Programa de Jardineiros Mestres da Extensão da OSU
-
 # Cuidando das Rosas
 
 ### Faça uma Visita de Campo
@@ -42,7 +40,6 @@ Depois de escolher a rosa certa, o plantio correto é provavelmente a tarefa mai
 
 ### Poda
 
-#### Poda Principal em meados de fevereiro
 
 Abra o centro para garantir boa circulação de ar:
 
@@ -55,14 +52,12 @@ Abra o centro para garantir boa circulação de ar:
 
 No final, devem restar apenas caules fortes e saudáveis saindo da base da planta.
 
-#### Remoção das Flores Velhas
 
 Retire todas as flores murchas:
 
 1. Ao retirar a última flor murcha, corte logo acima de uma folha com 3 ou 5 folíolos.
 2. Quanto mais alto o corte no caule, mais rápido a planta volta a florescer, mas as flores serão menores. Quanto mais baixo o corte, mais demorará para florescer de novo, porém as flores serão maiores.
 
-#### Poda de Novembro
 
 Encorte os caules para evitar que o vento danifique as raízes:
 
@@ -86,12 +81,3 @@ Retire todas as folhas para ajudar a planta a entrar em dormência.
 
 - [Controlando Doenças e Pulgões nas Suas Rosas (EC 1520)](https://catalog.extension.oregonstate.edu/ec1520)
 - [Cobertura Orgânica em Plantas Ornamentais Lenhosas (EC 1629-E)](https://catalog.extension.oregonstate.edu/ec1629-e)
-
----
-
-#### Dicas do Jardineiro Mestre™ · Ligue para o Serviço de Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outras apostilas da Universidade de 10 Minutos™ e horários de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Serviço de Extensão da Universidade Estadual de Oregon · O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Thạc sĩ Quận Clackamas · Phối hợp và hỗ trợ Chương trình Làm vườn Thạc sĩ OSU Extension
-
 # Phủ đất: Loại Tốt, Loại Xấu, và Loại Rất Rất Tệ
 
 **Tiến sĩ Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Phó Giáo sư Khoa học Cây trồng và Chuyên gia mở rộng trong lĩnh v
 
 ### Vấn đề với phủ đất gỗ thô
 
-#### Vỏ cây
 
 - Vỏ cây có thể bị nhiễm mặn hoặc hạt cỏ dại
 - Vỏ cây chứa sáp làm giảm hấp thụ và giải phóng nước
 - Vỏ cây mềm thường có sợi nhỏ, sắc, gây khó chịu khi sử dụng
 
-#### Dăm gỗ từ cây xanh
 
 - Lo ngại về tỉ lệ C:N cao – có gây thiếu đạm không?
 - Gỗ bị bệnh có truyền mầm bệnh khi làm dăm không?
 
-#### Khả năng cung cấp đạm
 
 - Dăm gỗ có tỉ lệ C:N cao, gây thiếu đạm cục bộ ở lớp tiếp xúc đất
 - Dăm gỗ không gây thiếu đạm cho cây đã phát triển
 - Tỉ lệ C:N cao ở dăm gỗ có thể ngăn hạt cỏ dại nảy mầm
 
-#### Nấm bệnh và dăm gỗ
 
 - Armillaria, Cytospora, Thyronectria và Verticillium đều có thể tồn tại trên mảnh gỗ lớn nhiều tháng
 - Khả năng sống sót cao hơn nếu dăm gỗ trộn vào đất
 - Không có bằng chứng cho thấy mầm bệnh trong phủ đất có thể lây sang rễ cây dưới đất
 
-#### Hệ nấm trong dăm gỗ
 
 - Nấm trong dăm gỗ chủ yếu là nấm phân hủy, không phải nấm bệnh
 - Đất khỏe mạnh (có oxy), nấm có lợi sẽ lấn át nấm gây hại
@@ -230,12 +223,3 @@ Blog: http://www.gardenprofessors.com
 Sách: http://www.sustainablelandscapesandgardens.com  
 Trang Facebook: http://www.facebook.com/TheGardenProfessors  
 Nhóm Facebook: https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Tư vấn Làm vườn Thạc sĩ™ · Gọi đường dây hỗ trợ làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon · Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/làm cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động quyền công dân trước đó. (Không phải tất cả các cơ sở cấm này đều áp dụng cho tất cả các chương trình.)
----

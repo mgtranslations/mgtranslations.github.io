@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension Master Gardener™
-
 # Những Loài Hoa Tốt Nhất Cho Ong — Được Chứng Minh Bởi Nghiên Cứu Làm Vườn
 
 Danh sách này bao gồm các loại cây đã được Tiến sĩ Gordon Frankie, Đại học California, và các đồng nghiệp chứng minh là thu hút ong tốt nhất[^1]. Các cây bản địa Oregon thu hút ong bản địa dựa trên nghiên cứu của Aaron Anderson, Phòng Thí nghiệm Sinh thái Vườn Đại học Bang Oregon[^2]. Nguồn: *California Bees & Blooms* của Frankie và các cộng sự, và blogs.oregonstate.edu/gardenecologylab/[^3].

@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County · Iskaashiga iyo Taageerada Barnaamijka OSU Extension Master Gardener™
-
 # Ubaxa Shinnida Ugu Fiican — Waxaa Caddeeyay Cilmi-baaris Beereed
 
 Liiskan waxaa ku jira dhir uu caddaysay Dr. Gordon Frankie, Jaamacadda California, iyo asxaabtiisa inay yihiin kuwa ugu fiican ee soo jiita shinnida[^1]. Dhirta asaliga ah ee Oregon oo la caddeeyay inay soo jiitaan shinnida deegaanka waxaa lagu saleynayaa cilmi-baaris uu sameeyay Aaron Anderson, Shaybaadhka Ecology ee Beerta Jaamacadda Oregon State[^2]. Xigashooyin: *California Bees & Blooms* ee Frankie iyo asxaabtiisa, iyo blogs.oregonstate.edu/gardenecologylab/[^3].

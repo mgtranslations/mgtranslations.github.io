@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 ## Gawing Mas Matibay sa Klima ang Iyong Hardin: Ecosystem
 
 Ang mundo ay dumaranas ng pag-init na nagdudulot ng pagkatunaw ng mga glacier, pagtaas ng lebel ng dagat, pagtaas ng asido ng karagatan, at mas madalas at matinding tagtuyot at pagbaha. Sa Pacific Northwest, nakaranas ng matagal na tagtuyot, pagdami at paglala ng mga wildfire, matitinding init, pag-atake ng mga insekto, at mga sakit ng puno. Ang nabawasang snowpack ay nagdudulot ng mas maagang pagtaas ng tubig sa mga ilog at sapa at nagpapababa ng suplay ng tubig. Bukod sa mga pagbabagong ito, ang pagbabago ng klima ay nagdudulot ng pabago-bago at matitinding mga pangyayari sa panahon (katulad ng heat wave at matinding ulan) nang mas madalas.  
@@ -75,8 +73,3 @@ Maaaring tugma sa iyong hardin ang tahanan ng ilang nilalang. Halimbawa:
 ### Rewilding
 
 Ang rewilding ay kadalasang ginagawa sa malalaking lugar para maibalik ang mga tungkulin ng ekolohiya. Maaaring ang ilang prinsipyo nito ay may kaugnayan din sa mga home garden. [Matuto pa tungkol sa rewilding](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito dahil sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, katayuang may asawa, katayuang pampamilya/pagiging magulang, kita mula sa public assistance program, paniniwalang pampulitika, genetic information, status bilang beterano, o paghihiganti dahil sa naunang civil rights activity. (Hindi lahat ng nabanggit na basehan ay akma sa lahat ng programa.)
----

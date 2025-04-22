@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Master Clackamas County phối hợp và hỗ trợ Chương trình Làm vườn Master của OSU Extension
-
 # Thiết Kế Vườn 101
 
 Thiết kế tốt là nền tảng của một khu vườn đẹp, khỏe mạnh và bền vững. Một kế hoạch được suy nghĩ kỹ lưỡng sẽ kết hợp các yếu tố của thiết kế tốt—đường nét, hình dáng, kết cấu, mùi hương và màu sắc—đồng thời đáp ứng nhu cầu và mong muốn của chủ nhà.
@@ -111,7 +109,6 @@ Thiết kế tốt là nền tảng của một khu vườn đẹp, khỏe mạn
 - Tạo tổ hợp bằng cách sắp xếp các cây nở hoa cùng lúc gần nhau để tăng tính thẩm mỹ cho vườn.
 - Ở vườn nhỏ, quá nhiều màu sắc sẽ gây rối mắt. Hãy chọn tông màu lạnh hoặc nóng và chọn cây từ danh sách của bạn cho phù hợp.
 
-#### Nguyên tắc phối hợp cây nổi bật
 
 1. **Bảng màu**
 2. **Kết cấu**
@@ -121,12 +118,3 @@ Thiết kế tốt là nền tảng của một khu vườn đẹp, khỏe mạn
 - Ví dụ, dùng lá cây để tạo màu sắc cho khu trồng như xanh, xanh lam, vàng, đỏ, hoặc lá có hai màu.
 - Sử dụng các loại kết cấu như lá to, nhọn, trơn, lông tơ, hoặc mảnh để tạo sự thú vị cho bồn cây.
 - Dùng các hình dạng như uốn lượn, nhọn và bò sát đất để làm nổi bật sự khác biệt giữa các loại cây.
-
----
-
-#### Tư vấn Làm vườn Master™ · Gọi đường dây hỗ trợ làm vườn tại nhà: Quận Clackamas: 503-655-8631 · Quận Washington: 503-821-1150 · Quận Multnomah: 503-445-4608 · Xem thêm tài liệu và lịch học của 10-Minute University™ tại [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm cả thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù do hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

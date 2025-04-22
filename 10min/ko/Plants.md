@@ -1,5 +1,3 @@
-#### 10-분 대학™ · 클라카마스 카운티 마스터 가드너 협회, OSU 확장 마스터 가드너™ 프로그램 후원 및 협력
-
 ## 기후 변화에 강한 정원 만들기: 식물
 
 지구의 현재 온난화 추세는 빙하가 녹고, 해수면이 상승하며, 바닷물이 더 산성화되고, 가뭄과 홍수가 더 자주, 더 심하게 일어나는 결과를 낳고 있습니다. 태평양 북서부에서는 장기간의 가뭄, 산불 발생 및 강도 증가, 폭염, 해충 발생, 나무 질병이 늘고 있습니다. 눈이 적게 오면 강과 시내의 수위가 일찍 최고점에 도달하게 되고, 이는 물 공급을 줄입니다. 이런 변화 외에도 기후 변화로 인해 급격하고 극단적인 날씨(폭염, 폭우)가 더 자주 발생합니다.  
@@ -59,7 +57,6 @@
 
 ### 식물 시험 결과 활용
 
-#### 북서부 식물 평가
 
 오리건 주립대학교가 다섯 속의 식물에 대해 가뭄 내성과 내한성 야외 시험을 진행했습니다:
 
@@ -69,7 +66,6 @@
 - [헤베 (Hebe)](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [바위장미 (Rockrose)](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### 기후 적응 경관 식물 프로젝트
 
 다섯 대학에서 가뭄 내성 식물 야외 실험을 진행했습니다:
 
@@ -81,7 +77,6 @@
   [더 알아보기](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [UC 실험 정보](https://ucanr.edu/sites/UCLPIT/)
 
-#### 기타 시험
 
 - [시카고 식물원 시험](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (미국 중북부)
 - [마운트 쿠바 센터 시험](https://mtcubacenter.org/research/trial-garden/) (미국 중부 대서양 지역)
@@ -91,8 +86,3 @@
 
 - [Great Plant Picks](https://greatplantpicks.org/): 1,000종 이상의 식물이 사이트 조건(햇빛/그늘)과 특징(크기, 잎 색)별로 정리된 밀러 식물원 데이터베이스
 - [올해의 다년생 식물](https://perennialplant.org/page/PPOY): 매년 우수한 다년생 식물 추천
-
----
-
-#### 오리건 주립대학교 확장 서비스는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부양자 지위, 공공 지원 프로그램 소득, 정치적 신념, 유전 정보, 군 복무, 과거 인권 활동에 대한 보복 등 모든 형태의 차별을 금지합니다. (모든 금지 사유가 모든 프로그램에 적용되는 것은 아닙니다.)
----

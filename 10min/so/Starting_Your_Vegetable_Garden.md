@@ -1,5 +1,3 @@
-#### Jaamacadda 10 Daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo iskaashanaya barnaamijka OSU Extension Master Gardener™
-
 # Sida Loo Bilaabo Beerta Khudradda
 
 ### Maxaad Beeraysaa
@@ -38,7 +36,6 @@ Baaritaanka ciiddu wuxuu muujinayaa heerka nafaqooyinka ee ciiddaada iyo waxa lo
 
 Heerkulka ciidda iyo hawadu waxay go'aamiyaan goorta la beero.
 
-#### Heerkulka Ciidda
 
 Heerkulka ugu yar ee ciidda (°F) ee dalagyada caanka ah:
 
@@ -49,7 +46,6 @@ Heerkulka ugu yar ee ciidda (°F) ee dalagyada caanka ah:
 - Baamye/Basbaas/Yaanyo: 55°F
 - Basil: 60°F
 
-#### Heerkulka Hawada
 
 Heerkulka ugu fiican ee hawada (°F) ee dalagyada caanka ah:
 
@@ -60,12 +56,10 @@ Heerkulka ugu fiican ee hawada (°F) ee dalagyada caanka ah:
 
 Haddii aad digir beerto dhammaadka jiilaalka, waxay biqli karaan, laakiin si fiican uma kori doonaan ilaa hawadu kululaato.
 
-#### Dalagyada Xilli Gaaban vs. Xilli Dheer
 
 - **Dalagyada xilli gaaban:** Waxay bislaadaan 50 maalmood ama ka yar. Waxaad si toos ah u beeri kartaa abuurka oo weli goosasho wanaagsan helaysaa.
 - **Dalagyada xilli dheer:** Sida yaanyo, waxay bislaadaan 75–90 maalmood. Beeraleydu waxay la tartamayaan waqtiga si ay u goostaan dalagyada xilli dheer ka hor roobabka dayrta iyo habeenada qabow.
 
-#### Geedo Yaryar
 
 Geedo yaryar oo laga soo iibsado xarumaha beerta ama lagu beerto aqalka dhirta, waxay siiyaan beeraleyda bilow wanaagsan.
 
@@ -81,19 +75,15 @@ Inta badan khudradda waa dalagyo sannadle ah waxayna u baahan yihiin nafaqooyin 
   - Midhaha iyo ubaxa: U baahan fosfooraska (P) badan.
   - Xididdada: U baahan potassium (K) badan.
 
-#### Dalagyada Nafaqo Badan U Baahan
 
 Beetroot, kaalk, kale, ansalaatada, parsley, isbinaaj, iyo yaanyo waxay u baahan karaan bacrimin dheeraad ah.
 
-#### Dalagyada Nafaqada Dhexdhexaadka Ah U Baahan
 
 Karooto, toon, basal, chard, mustard, iyo basbaas waxay u baahan karaan bacriminta dhex dhexaad ah.
 
-#### Dalagyada Nitrogen-ka Sameeya
 
 Digir, digir madow, soybean, iyo clover waxay nitrogen ka helaan hawada waxayna inta badan si fiican u koraan xitaa bacriminta la’aan.
 
-#### Bacriminta Dabiiciga ah
 
 Ku dar laba bilood ka hor intaadan beerin si natiijo fiican loo helo. Tusaalooyin:
 
@@ -110,7 +100,6 @@ Biyaha siiso ilaa aagga xididka uu si siman u qoyan yahay. Ka dib waraabinta, qo
 - **Nidaamka dhibicda:** Biyaha si toos ah ugu geeya xididka, waana ka fiican yahay waraabinta korka, taasoo caleemaha qoysa oo keeni karta cudur.
 - **Waraabinta korka:** Yaree buufinta biyaha oo ha waraabin goor dambe. Waraabinta hore ee maalinta waxay yareysaa uumiga biyaha.
 
-#### Marxaladaha Muhiimka ah ee Waraabinta
 
 U fiirso xilliyada ugu muhiimsan ee dalaggaaga:
 
@@ -124,8 +113,3 @@ U fiirso xilliyada ugu muhiimsan ee dalaggaaga:
 
 - [EM 9027 Koritaankaaga Gaar ah](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Beerta Khudradda ee Oregon](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### Adeegga Oregon State University Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyad, midab, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), nooca galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhliga laga helo barnaamij gargaarka dadweynaha, aragtida siyaasadda, xogta hidaha, xaaladda ciidanimada, aargoosi ama ciqaab la xiriirta hawlaha xuquuqda madaniga. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

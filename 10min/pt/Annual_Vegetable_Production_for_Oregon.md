@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa Mestre Jardineiro™ da OSU Extension
-
 ## Especificidades da Produção Anual de Hortaliças para Oregon
 
 ### Tabela de Informações sobre Semeadura e Plantio
@@ -58,7 +56,6 @@
 
 ### Informações sobre a Estação das Culturas
 
-#### Culturas de Estação Fria
 
 - Preferem temperaturas frias (16°C a 27°C) da primavera e outono.
 - A maioria não tolera calor do verão, mas aguenta geadas leves.
@@ -70,7 +67,6 @@
 - A qualidade depende de crescimento rápido em solo fértil, adubações leves e rega constante.
 - Ficam com sabor forte se ficarem secas.
 
-#### Culturas de Estação Quente
 
 - Preferem temperaturas de verão mais altas (21°C a 35°C) e não toleram geada.
 - Plantadas após a última geada da primavera.

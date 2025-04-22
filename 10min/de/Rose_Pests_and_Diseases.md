@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Häufige Krankheiten und Schädlinge bei Rosen
 
 Rosen können eine duftende und schöne Ergänzung für jeden Garten im pazifischen Nordwesten sein. Allerdings sind sie für einige häufige Krankheiten und Schädlinge anfällig. Dieses Informationsblatt bietet Überwachungs- und Vorbeugungsstrategien, damit Sie den ganzen Sommer über schöne Blüten und Blätter genießen können.
@@ -62,8 +60,3 @@ Rosen können eine duftende und schöne Ergänzung für jeden Garten im pazifisc
 Kontaktieren Sie Ihr örtliches OSU Extension Büro für Master Gardener Beratung. Die Kontaktdaten finden Sie hier: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 Für Handzettel und Kurspläne der 10-Minuten-Universität™ besuchen Sie [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiären/elterlichen Status, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn chuyên nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn chuyên nghiệp OSU Extension Master Gardener™
-
 # Trồng Chậu Vừa Đẹp Vừa Ngon
 
 ### Tổng Quan
@@ -44,7 +42,6 @@ Nên chọn các loại cây có chiều cao khác nhau và màu sắc rau củ 
 
 ### Thiết Kế
 
-#### Khung Thiết Kế: Thriller, Filler, và Spiller
 
 - **Thriller**: Là cây lớn nhất, nổi bật nhất trong chậu, thường đặt giữa chậu (nếu nhìn từ nhiều phía) hoặc phía sau (nếu chỉ nhìn từ một phía). Thriller tạo điểm nhấn chiều cao cho chậu.
   - Ví dụ: Cây ớt, khung đỡ đậu leo, bụi việt quất, cây cà chua, hoặc cải xoăn Nga cho chậu nhỏ.
@@ -79,10 +76,3 @@ Phần lớn các loại cây sau đây sẽ phát triển theo chu kỳ: ra lá
 - **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
 - **Tài liệu và video Đại học 10 Phút™**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Tư vấn Làm vườn chuyên nghiệp™ · Gọi đến đường dây tư vấn làm vườn tại nhà: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Để xem thêm tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/có con, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa do đã từng tham gia hoạt động bảo vệ quyền công dân. (Không phải tất cả các tiêu chí bị cấm đều áp dụng cho mọi chương trình.)
----

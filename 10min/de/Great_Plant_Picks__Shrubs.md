@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Tolle Pflanzenwahl: Sträucher
 
 *S: Schattengarten, D: Trockenheitsverträgliche Pflanze, W: Nutzen für Wildtiere: Vögel, Bienen, Schmetterlinge, Kolibris*

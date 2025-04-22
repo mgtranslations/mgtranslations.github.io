@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Jardinería en Camas Elevadas
 
 La jardinería en camas elevadas ha sido una práctica común durante siglos. "Elevada" significa que el nivel de la tierra en la cama es más alto que el nivel del suelo que la rodea, y "cama" implica que es lo suficientemente pequeña como para trabajar desde los senderos.
@@ -89,12 +87,3 @@ Estos son solo algunos de los folletos de OSU disponibles en el [Catálogo de Ex
 
 - **Jardinería en Camas Elevadas FS 270**
 - **Cómo Construir tu Propio Cloche para Camas Elevadas EC 1627-E**
-
----
-
-#### Consejos de Maestro Jardinero™ · Línea de ayuda de horticultura en casa: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

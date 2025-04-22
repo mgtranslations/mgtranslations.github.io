@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Growing Tomatoes in the Home Garden
 
 ## Deciding Which Varieties to Grow
@@ -9,7 +7,6 @@
 - Choose between starting from seeds or purchasing plants.
 - Know if determinate or indeterminate tomatoes will work best for your garden.
 
-#### Type of Tomato
 
 | Type         | Space / Support Requirements     | Growth Habit    | Harvest                          |
 |--------------|----------------------------------|-----------------|----------------------------------|
@@ -64,7 +61,6 @@ Plants are ready for the ground when they are 10–15” tall and soil temperatu
 5. Prune lower leaves and suckers (side shoots where a mature leaf joins the stem) below the first blooms.
 6. Choose a planting method:
 
-#### Trench Method
 
 - **Pros:** Roots are in the warmest soil; good for leggy plants.
 - **Cons:** Requires frequent watering and careful, shallow cultivation.
@@ -76,7 +72,6 @@ Plants are ready for the ground when they are 10–15” tall and soil temperatu
   - Place a marker at the root ball end to avoid root damage during weeding.
   - Add support structure at planting to prevent root damage.
 
-#### Vertical Method
 
 - **Pros:** Larger reservoir of moisture available to roots; less cracking.
 - **Cons:** Deeper soil is cooler, causing slower growth and fruit ripening.
@@ -126,11 +121,3 @@ Plants are ready for the ground when they are 10–15” tall and soil temperatu
   - [Starting Tomatoes from Seeds](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
   - [Planting Tomatoes in Your Garden](https://www.youtube.com/watch?v=Pucpx5fuKdk)
   - [Proven Cultural Practices](https://www.youtube.com/watch?v=lpVBg-e_1vE)
-
----
-
-#### Master Gardener™ Advice · Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · 10-Minute University™ Handouts and Videos: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Glossar der Bodentermini
 
 Für das vollständige Glossar siehe die Veröffentlichung der Washington State University Extension EM063E: *A Home Gardener’s Guide to Soils and Fertilizers*.
@@ -188,12 +186,3 @@ Wie grob oder fein ein Boden ist. Die Textur wird durch das Verhältnis von Sand
 ### Wasserspeicherfähigkeit
 
 Die Fähigkeit der Bodenporen, Wasser für Pflanzen zu speichern.
-
----
-
-#### Master Gardener™ Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™ Merkblätter und Kurspläne besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkünften aus Sozialleistungen, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien aufgrund früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

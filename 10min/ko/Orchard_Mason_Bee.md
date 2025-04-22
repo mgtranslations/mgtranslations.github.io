@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas 카운티 마스터 가드너 협회, OSU 확장 마스터 가드너™ 프로그램과 협력 및 지원
-
 # 오처드 메이슨 비
 
 ### 개요
@@ -42,7 +40,6 @@
 
 10월에서 12월 사이에 고치를 세척해 진드기와 초크브루드를 없앨 수 있습니다. 이 시기에는 어른 벌이 완전히 성장해 있어, 이 과정을 견딜 수 있습니다.
 
-#### 세척 방법
 
 1. 벌을 50°F(약 10°C) 이하의 미지근한 물에 씻어 벌이 깨어나지 않게 합니다.
 2. 고치를 5분 이내로, 0.05% 표백제 혼합물(물 1갤런에 표백제 1큰술)로 만든 시원한 물에 담급니다.
@@ -59,12 +56,3 @@
   [더 읽어보기](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Nurturing Mason Bees in Your Back Yard in Western Oregon*, Oregon State University Extension publication EM 9130  
   [더 읽어보기](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### 마스터 가드너™ 상담 · 원예 헬프라인: 클라카마스 카운티: 503-655-8631 · 워싱턴 카운티: 503-821-1150 · 멀트노마 카운티: 503-445-4608 · 다른 10-Minute University™ 자료와 동영상은 [www.cmastergardeners.org](http://www.cmastergardeners.org)에서 확인하세요.
-
----
-
-##### 오리건 주립대 확장 서비스 · 오리건 주립대 확장 서비스는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족 및 보호자 상태, 공공 보조금 수입, 정치적 신념, 유전 정보, 군 복무, 과거 시민권리 활동에 대한 보복 등 모든 프로그램, 서비스, 활동, 자료에서 차별을 금지합니다. (모든 금지 사유가 모든 프로그램에 적용되는 것은 아닙니다.)
----

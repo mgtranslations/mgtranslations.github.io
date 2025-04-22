@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Pflege und Wartung von Gartengeräten
 
 Werkzeuge verschlechtern sich durch Zeit und Feuchtigkeit, zusammen mit Erde und Rost. Die richtige Reinigung und Pflege, wie unten beschrieben, hält sie in gutem Zustand und verlängert ihre Lebensdauer.
@@ -61,12 +59,3 @@ Folgende OSU-Veröffentlichungen sind online verfügbar:
 - [Praktische Werkzeuge für den Gemüsegarten](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Pflegen Sie Ihre fleißigen Gartengeräte gut](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Gartengeräte schärfen](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™ Handouts und Kursplan besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

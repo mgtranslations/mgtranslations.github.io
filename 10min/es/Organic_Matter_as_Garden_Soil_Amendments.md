@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Jardineros Master del Condado de Clackamas en colaboración y apoyo al Programa de Jardineros Master de Extensión de OSU™
-
 # Materia orgánica como enmiendas de suelo en el jardín
 
 Las enmiendas del suelo pueden mejorar la estructura del suelo, aumentar la fertilidad y mejorar la retención de agua. Las enmiendas deben tener bajo contenido de sales químicas y suficiente nitrógeno para alimentar las plantas y microbios del suelo. Para beneficiar a las plantas, es mejor enmendar toda la cama de plantación. Si eso no es práctico, rellene los hoyos de nuevas plantaciones con el suelo nativo. Llenar el hoyo solo con abono y otras enmiendas crea una “interfaz” (donde se juntan dos tipos de suelo) con el suelo nativo, lo que puede dificultar el movimiento de aire, agua y raíces.
@@ -117,8 +115,3 @@ Ya no se recomienda debido al daño ambiental causado por la cosecha de turba.
 
 **Planificación:** El éxito requiere sembrar y eliminar los cultivos de cobertura en el momento adecuado para evitar competencia con los huertos.  
 [Cultivos de cobertura para huertos caseros](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o retaliación por actividad previa en derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

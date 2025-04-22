@@ -1,5 +1,3 @@
-#### Université en 10 minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien du programme Maître Jardinier™ de l’Extension de l’OSU
-
 # Cultiver des Bleuets
 
 ### Pourquoi cultiver des bleuets ?
@@ -38,7 +36,6 @@
 - **Types** : Sulfate d’ammonium, urée, engrais pour rhododendrons, farine de plumes, tourteau de coton ou de soja.
 - **Application** : Répartissez l’engrais uniformément dans un rayon de 30 à 45 cm autour de chaque plant, mais pas directement sur la couronne ou les tiges.
 
-#### Taux d’azote (N) selon l’âge de la plantation
 
 | Année de plantation | Quantité d’azote (en onces) par an |
 |---------------------|------------------------------------|
@@ -54,7 +51,6 @@
 - **Quand fertiliser** : Divisez la quantité totale d’azote en trois parts égales, la première mi-avril, la deuxième mi-mai et la dernière entre mi-juin et fin juin.
 - **Paillis de sciure fraîche** : Appliquez l’engrais sur le paillis, mais ajoutez 25 % à la quantité totale.
 
-#### Calcul de la quantité d’engrais
 
 Pour savoir combien de produit utiliser :
 - Divisez la quantité d’azote recommandée par le pourcentage d’azote dans l’engrais choisi.
@@ -87,10 +83,3 @@ Pour savoir combien de produit utiliser :
 - [Cultiver des petits fruits sur la côte de l’Oregon : Bleuets EM9179](https://catalog.extension.oregonstate.edu/)
 - [Module de taille](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Acidification du sol pour les bleuets et plantes ornementales dans la cour et le jardin EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’assistance horticole à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de l’Université en 10 minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, l’information génétique, le statut d’ancien combattant, les représailles ou les mesures prises à la suite d’une activité relative aux droits civiques. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

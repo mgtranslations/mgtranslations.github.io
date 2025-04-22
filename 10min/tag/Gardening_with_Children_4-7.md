@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Sa Pakikipagtulungan ng Oregon State University Extension Service
-
 ## Pagtatanim Kasama ang mga Bata Edad 4-7
 
 Ang pagtatanim kasama ang mga bata ay isa sa mga pinaka-rewarding na karanasan para sa bata at sa magulang, lolo’t lola, o tagapagturo. Ang mga bata ay likas na mga hardinero dahil sila ay mausisa, natututo sa pamamagitan ng paggawa, at mahilig maglaro sa lupa.
@@ -25,7 +23,6 @@ Ang pagtatanim ng gulay ay lalo nang kaaya-aya para sa mga bata anuman ang edad.
 
 Maaari mong ayusin ang dami ng gawain ayon sa kakayahan ng bata at sa haba ng oras. Tandaan, mahalaga na maging masaya ang karanasan para sa inyong dalawa, kaya siguraduhing isaalang-alang ang saklaw ng aktibidad at tumigil bago kayo mapagod o mainis—pati na rin ang mga matatanda.
 
-#### Magtanim ng Bulaklak o Gulay para sa mga Pollinator
 
 Pinahahalagahan ng mga hardinero ang mga insekto at pollinator na naninirahan o bumibisita sa hardin. Maaari kayong magtanim ng sunflower, zinnia, o nasturtium. Kaakit-akit sila at nagbibigay ng pagkain sa mga pollinator.
 
@@ -34,7 +31,6 @@ Tingnan ang mga publication mula sa Oregon State University:
 - [Pagpapalago ng Mga Kapaki-pakinabang na Insekto sa Iyong Hardin](https://catalog.extension.oregonstate.edu/pnw550)
 - [Gabay ng Guro sa Pagtatanim ng Gulay](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Maghanap ng Mga Susô at Limatik
 
 Matututo ang mga bata kung paano may papel ang mga limatik sa ekosistema. May tatlong karaniwang limatik sa Pacific Northwest:
 
@@ -49,7 +45,6 @@ Tingnan ang mga resources na ito:
 - [Pagkilala sa Mga Limatik at Susô](https://agsci.oregonstate.edu/slug-portal/identification)
 - [Mga Limatik at Susô](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
 
-#### Maghanap ng mga Decomposer
 
 Ang mga bulati, sowbug, langgam, at susô ay bahagi ng ekosistema at mahalaga sa pagbubulok ng organikong bagay tungo sa humus. Sila ay dapat ipagdiwang.
 
@@ -59,7 +54,6 @@ Tingnan ang resource ng Oregon State University tungkol sa mga decomposer:
 
 - [Mga Bulating Decomposer](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
 
-#### Mga Tip sa Pagtatanim
 
 Bigyan ang mga bata ng mahahalagang impormasyon tungkol sa pagtatanim sa lugar na may pinakamaraming sikat ng araw at siguraduhing natatakpan ng lupa ang binhi (huwag masyadong malalim). Hikayatin silang obserbahan kung paano nakikipag-ugnayan ang mga insekto sa mga halaman habang tumutubo.
 
@@ -87,10 +81,3 @@ Narito ang ilang suhestiyon:
 - *Lipad, Lutang, Lipad: Mga Binhing Naglalakbay* ni JoAnn Early Macken
 - *Mga Berries, Mani at Butil* ni Diane L. Burns
 - *Hardin ni Jack* ni Henry Cole
-
-#### Master Gardener™ na Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa 10-Minute University™ handouts at iskedyul ng klase: Bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang mag-asawa, katayuang may pamilya o magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa henetika, katayuang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

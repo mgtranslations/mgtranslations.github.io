@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação dos Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU
-
 # Cultivando Morangos
 
 ### Por Que Cultivar Morangos?
@@ -65,7 +63,6 @@ Visite o Serviço de Extensão da OSU online em [https://catalog.extension.orego
 - **Cultivares de Morango para o Oeste do Oregon e Washington** (EC 1618)
 - **Cultivando Frutas Vermelhas na Costa do Oregon: Morangos** (EM 9178) (Também se aplica ao Vale Willamette)
 
-#### Orientação do Mestre Jardineiro™
 
 - **Ligue para o Plantão de Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
@@ -73,8 +70,3 @@ Visite o Serviço de Extensão da OSU online em [https://catalog.extension.orego
   - 503-445-4608 (Condado de Multnomah)
 - Para outros folhetos da Universidade de 10 Minutos™ e horários de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
 - Procure por Mestres Jardineiros nas feiras de produtores da região.
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
----

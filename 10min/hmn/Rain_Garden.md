@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Ntxiv Ib Lub Vaj Nrog Dej Los Ntws (Rain Garden)
 
 Ib lub vaj nrog dej los ntws yog ib lub vaj uas khawb me ntsis nqes, khaws thiab lim dej los ntawm nag los saum ru tsev, kev tsheb, kev taug kev, thiab kev loj. Cov vaj no ua raws li cov xwm txheej hauv hav zoov lossis toj roob hauv pes, thiab pab kom peb cov dej ntws huv si.
@@ -109,8 +107,3 @@ Koj tuaj yeem muab av mus kuaj ntawm tuam txhab thiab tau tswv yim yuav ua kom a
 - [Rain Gardens Low Impact Development Fact Sheet](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [The Rain Garden Guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Clean Water Services Washington County, Low Impact Development Approaches Handbook](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev xaiv txawv ntawm haiv neeg, xim, teb chaws, kev ntseeg, poj niam los txiv neej, kev qhia tus kheej lossis kev hloov cev, kev sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, tsev neeg, nyiaj los ntawm kev pab pej xeem, kev ntseeg kev cai, DNA, kev ua tub rog, lossis raug txim vim hais lus tau txog kev ncaj ncees. (Tsis yog txhua qhov no siv rau txhua tus.)
----

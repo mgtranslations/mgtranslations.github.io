@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Master-ka ee Clackamas County oo kaashanaya kana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Cayayaanka Faa’iidada leh ee Beerta Guriga
 
 ### Dulmar
@@ -72,11 +70,3 @@ Maareynta Isku-dhafan ee Cayayaanka (IPM) waa hab dhammaystiran oo la tacaalida 
   [Booqo halkan](https://www.cmastergardeners.org)
 - *Clark County Washington Presents Bugs and Pests*  
   [Akhri wax badan halkan](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
-
----
-
-#### Talada Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado kale oo 10-Daqiiqo Jaamacad™ ah iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay ka mamnuucday takoorid dhammaan barnaamijyadeeda, adeegyadeeda, hawlaheeda, iyo agabyadeeda ku salaysan: midab, asal qaran, diin, jinsi, aqoonsi jinsiyeed (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaalada guurka, xaalada qoyska/waalidnimada, dakhli laga helo barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, heerka ciidanimada, aargudasho, ama ciqaab la xiriirta hawlo xuquuq madani ah oo hore. (Ma aha in dhammaan sababaha la mamnuucay ay khuseeyaan dhammaan barnaamijyada.)

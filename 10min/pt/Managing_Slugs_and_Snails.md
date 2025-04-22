@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão OSU
-
 # Como Controlar Lesmas e Caracóis
 
 ### Alguns Fatos Básicos
@@ -113,10 +111,3 @@ Incentive predadores que combinem com o seu estilo de jardim.
 ## Recursos
 
 Adquira publicações da Extensão OSU em [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-
-#### Dicas do Mestre Jardineiro™ · Ligue para o Home Horticulture Helpline: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para apostilas e horários das aulas da Universidade de 10 Minutos™: Visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

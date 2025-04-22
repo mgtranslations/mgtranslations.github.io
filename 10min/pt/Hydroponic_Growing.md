@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros da Extensão da OSU
-
 # Jardinagem Hidropônica de Baixa Tecnologia em Ambientes Internos
 
 Hidroponia é o cultivo de plantas, sem solo, em uma solução nutritiva à base de água. Sistemas hidropônicos em grande escala usam tecnologia sofisticada para monitorar o nível de nutrientes, pH, oxigênio dissolvido, temperatura da solução nutritiva e a quantidade de luz recebida pelas plantas. Este folheto apresenta uma opção de baixa tecnologia adequada para jardineiros domésticos.
@@ -82,8 +80,3 @@ Na colheita:
 - [Três Métodos Hidropônicos não Circulantes para Cultivar Alface](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Vídeo de B. A. Kratky
 - [Cultivo Hidropônico em Casa](http://www.cmastergardeners.org/10-minute-university) – Um vídeo da 10-Minute University™
 - *Cultive Alface na Sua Sala: Alimente Sua Família com sua Horta Hidropônica de LED em Ambientes Internos* por Dan Chiras & Victor Zaderej
-
----
-
-###### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

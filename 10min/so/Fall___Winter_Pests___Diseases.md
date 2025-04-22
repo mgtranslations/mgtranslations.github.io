@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ee Degmada Clackamas · Iskaashi iyo Taageero Barnaamijka OSU Extension Master Gardener™
-
 ## Cayayaanka iyo Cudurrada Dayrta & Jiilaalka
 
 ### Cayayaanka Urta iyo Box Elder Bugs (Cayayaanka)
@@ -90,12 +88,3 @@
 - Jar laamaha iyo caleemaha dhintay. Raac habka saxda ah ee jarista si laamaha waaweyn loo jaro saddex tallaabo, kuwa yaryarna loogu jaro meel dibadda ah 45-degree.
 - Baadh dildilaacyada jirridda si aad u aragto cayayaan, haddii aad hesho, ka saar.
 - Kahor intaadan geedka saarin, sug ilaa koboca cusub bilowdo si aad u hubiso inuu dhintay.
-
----
-
-#### Talo Beeraleyda Master™ · Wac Khadka Caawinta Horticulture: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii intaas dheeraad ah ee ku saabsan warqadaha Jaamacadda 10-Daqiiqo iyo jadwalka fasallada, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka yimaada barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, xogta hidde-sidaha, xaaladda askari hore, ciqaabta ama aargoosiga la xiriira la dagaallanka takoorka ee hore. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

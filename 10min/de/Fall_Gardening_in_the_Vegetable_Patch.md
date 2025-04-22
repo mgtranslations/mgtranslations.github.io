@@ -1,7 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
----
-
 ## Herbst-Gartenarbeit im Gemüsegarten
 
 ### Ernten und Lagern von Gemüse
@@ -85,12 +81,3 @@ Herbstputz erleichtert die Gartenarbeit im Frühling:
   - Gärtnern mit Mulch
   - Hochbeet-Gärtnern
   - Boden-pH testen
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minuten-Universität™ Handouts und Kurspläne unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus Sozialhilfe, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

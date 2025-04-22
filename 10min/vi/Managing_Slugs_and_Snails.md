@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chủ Chốt Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chủ Chốt của OSU Extension
-
 # Quản Lý Sên và Ốc Sên
 
 ### Một Số Thông Tin Cơ Bản
@@ -113,10 +111,3 @@ Khuyến khích các loài ăn thịt phù hợp với phong cách làm vườn 
 ## Tài Nguyên
 
 Nhận tài liệu của OSU Extension tại [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-
-#### Tư Vấn Làm Vườn Chủ Chốt™ · Gọi đường dây tư vấn Làm Vườn Gia Đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để nhận tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ mở rộng của Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình, thu nhập từ chương trình trợ giúp công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hay phân biệt đối xử vì hoạt động dân quyền trước đó. (Không phải tất cả các điều cấm phân biệt đều áp dụng cho tất cả các chương trình.)
----

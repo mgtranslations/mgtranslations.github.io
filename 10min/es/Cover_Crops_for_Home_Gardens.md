@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU
-
 # Cultivos de Cobertura para Huertos Caseros
 
 Los cultivos de cobertura cubren y mejoran el suelo. Se pueden sembrar en el otoño para cubrir áreas en barbecho o en la primavera como parte de la rotación de cultivos. Muchas plantas, incluyendo leguminosas, pastos y plantas perennes de hoja ancha, cumplen esta función.
@@ -75,10 +73,3 @@ La terminación consiste en cortar o doblar los tallos para matar la parte aére
     - Cultivos de Cobertura para Huertos Caseros al Oeste de las Cascadas FS111E
     - Cultivos de Cobertura para Huertos Caseros al Este de las Cascadas FS117E
     - Métodos para el Manejo Exitoso de Cultivos de Cobertura en tu Huerto Casero FS119E
-
-#### Consejos de Maestro Jardinero™ · Llama a la Línea de Ayuda de Horticultura para el Hogar: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Visita [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) para ver hojas informativas y videos de la Universidad de 10 Minutos™
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

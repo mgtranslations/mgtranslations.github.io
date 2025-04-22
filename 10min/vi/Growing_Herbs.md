@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Master Clackamas County phối hợp và hỗ trợ Chương trình Làm vườn Master của OSU Extension
-
 # Trồng Các Loại Thảo Mộc
 
 ## Tổng Quan
@@ -123,10 +121,3 @@ Bạn có thể bảo quản nhiều loại thảo mộc dùng sau bằng cách 
 - *Gourmet Herbs* (Sổ tay vườn Brooklyn Botanic Garden)
 - *Herbs, An Illustrated Guide* (Sách Sunset)
 - *All About Herbs* (Sách Ortho)
-
-#### Tư vấn Master Gardener™ · Gọi đường dây tư vấn làm vườn tại nhà: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Để biết thêm các tờ hướng dẫn và lịch lớp học 10-Minute University™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon (Oregon State University Extension Service) nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động dân quyền trước đây. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

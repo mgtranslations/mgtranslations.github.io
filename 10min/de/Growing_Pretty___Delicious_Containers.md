@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Schöne und leckere Pflanzgefäße gestalten
 
 ### Überblick
@@ -44,7 +42,6 @@ Wähle Pflanzen mit unterschiedlichen Höhen und leuchtenden Gemüsesorten. Es i
 
 ### Gestaltung
 
-#### Thriller, Filler und Spiller – Gestaltungsprinzip
 
 - **Thriller**: Die größte und auffälligste Pflanze im Gefäß, meist in der Mitte (wenn der Topf von allen Seiten sichtbar ist) oder hinten (wenn er nur von einer Seite sichtbar ist). Die Thriller-Pflanze bringt einen deutlichen Höhenunterschied ins Gefäß.
   - Beispiele: Paprikapflanze, Gestell mit Stangenbohnen, Blaubeerstrauch, Tomatenpflanze oder hoch wachsender Russischer Grünkohl für kleinere Gefäße.
@@ -79,10 +76,3 @@ Die meisten der hier genannten Pflanzen durchlaufen einen Lebenszyklus, in dem s
 - **AMA Handbuch der giftigen und schädlichen Pflanzen**, Lampe, Kenneth F, 1985. American Medical Association
 - **10-Minuten-Universität™ Handouts und Videos**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Für weitere Handouts und Kurspläne der 10-Minuten-Universität™ besuche [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

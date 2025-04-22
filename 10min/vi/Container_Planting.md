@@ -1,5 +1,3 @@
-#### Đại Học 10 Phút™ · Hiệp Hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương Trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Trồng Cây Trong Chậu
 
 ### Tổng Quan
@@ -73,8 +71,3 @@ Chất dinh dưỡng trong chậu sẽ bị rửa trôi mỗi lần tưới nư�
   - 503-445-4608 (Quận Multnomah)
 - [Video Hướng Dẫn Trồng Cây Trong Chậu](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
 - Để xem thêm tài liệu và video của Đại Học 10 Phút™, hãy truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Dịch vụ Mở Rộng Đại Học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc trẻ em, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc việc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các yếu tố bị cấm đều áp dụng cho tất cả các chương trình).
----

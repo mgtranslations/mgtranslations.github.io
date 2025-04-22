@@ -1,5 +1,3 @@
-#### 10분 대학™ · 클라카마스 카운티 마스터 가드너 협회와 OSU 익스텐션 마스터 가드너™ 프로그램의 협력 및 지원
-
 ## 기후 변화에 강한 정원 만들기: 토양
 
 지구는 온난화 추세를 겪고 있습니다. 이로 인해 빙하가 녹고, 해수면이 상승하며, 해양 산성화가 심해지고, 가뭄과 홍수가 더 자주, 더 심하게 일어납니다. 태평양 북서부 지역에서는 장기적인 가뭄, 산불 발생과 그 심각성 증가, 폭염, 곤충 확산, 나무 질병 등이 나타나고 있습니다. 눈이 덜 쌓이면 강과 개울의 수위가 더 일찍 최고치에 도달해 물 공급이 줄어듭니다. 이러한 변화와 더불어, 기후 변화는 폭염과 폭우 같은 극단적인 날씨를 더 자주, 불규칙하게 가져옵니다.
@@ -61,8 +59,3 @@
 - [살아있는 경관의 더러운 비밀, 오리건 주립대 EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [토양의 탄소 저장, 미국 생태학회](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. 등. *Root biomass and exudates link plant diversity with soil bacterial and fungal biomass.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### 오리건 주립대학교 익스텐션 서비스는 인종, 피부색, 출신국, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부모 상태, 공적 지원 프로그램에서 파생된 소득, 정치적 신념, 유전 정보, 군인 신분, 과거 시민권 활동에 대한 보복 등 모든 차별을 금지합니다. (모든 프로그램에 모든 금지 사유가 적용되는 것은 아닙니다.)
----

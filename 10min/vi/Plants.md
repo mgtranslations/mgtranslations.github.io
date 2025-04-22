@@ -1,5 +1,3 @@
-#### Đại Học 10 Phút™ · Hiệp Hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương Trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 ## Làm Vườn Chống Chịu Biến Đổi Khí Hậu Tốt Hơn: Các Loại Cây Trồng
 
 Xu hướng ấm lên hiện nay của Trái Đất dẫn đến băng tan, mực nước biển dâng, độ axit đại dương tăng và hạn hán, lũ lụt trở nên thường xuyên và nghiêm trọng hơn. Khu vực Tây Bắc Thái Bình Dương đã chứng kiến hạn hán kéo dài, số lượng và mức độ cháy rừng tăng, các đợt nắng nóng, bùng phát côn trùng và bệnh cây. Lượng tuyết ít đi làm cho dòng chảy trên sông, suối đạt đỉnh sớm hơn, dẫn đến nguồn nước giảm. Ngoài những xu hướng này, biến đổi khí hậu còn mang đến các hiện tượng thời tiết cực đoan thất thường (nắng nóng, mưa lớn) xuất hiện thường xuyên hơn.  
@@ -59,7 +57,6 @@ Làm vườn như thế nào trong thời kỳ này? Tài liệu này cung cấp
 
 ### Sử Dụng Kết Quả Thử Nghiệm Cây
 
-#### Đánh Giá Cây Vùng Tây Bắc
 
 Các thử nghiệm tại Đại học Bang Oregon về khả năng chịu hạn và lạnh của năm chi cây:
 
@@ -69,7 +66,6 @@ Các thử nghiệm tại Đại học Bang Oregon về khả năng chịu hạn
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Rockrose](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Dự Án Cây Cảnh Sẵn Sàng Cho Khí Hậu
 
 Thử nghiệm khả năng chịu hạn tại năm trường đại học:
 
@@ -81,7 +77,6 @@ Thử nghiệm khả năng chịu hạn tại năm trường đại học:
   [Tìm hiểu thêm](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [Thông tin thử nghiệm UC](https://ucanr.edu/sites/UCLPIT/)
 
-#### Các Thử Nghiệm Khác
 
 - [Thử nghiệm tại Vườn Bách Thảo Chicago](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (Khu vực Trung Tây trên của Mỹ)
 - [Thử nghiệm tại Trung Tâm Mt. Cuba](https://mtcubacenter.org/research/trial-garden/) (Vùng Trung Đại Tây Dương của Mỹ)
@@ -91,8 +86,3 @@ Thử nghiệm khả năng chịu hạn tại năm trường đại học:
 
 - [Great Plant Picks](https://greatplantpicks.org/): Cơ sở dữ liệu của Vườn Thực Vật Miller với hơn 1.000 loại cây, có thể lọc theo điều kiện nơi trồng (nắng/râm) và đặc điểm (kích cỡ, màu lá).
 - [Perennial Plant of the Year](https://perennialplant.org/page/PPOY): Giới thiệu hàng năm các loại cây lâu năm nổi bật.
-
----
-
-#### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các yếu tố cấm đều áp dụng cho tất cả các chương trình.)
----

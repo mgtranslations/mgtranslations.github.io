@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Giỏ Treo Cây
 
 ### Tổng Quan
@@ -61,7 +59,6 @@ Liều phân bón ban đầu bạn trộn vào đất có thể đủ cho cả m
 
 Có rất nhiều loại cây phù hợp cho giỏ treo theo mùa. Danh sách dưới đây chỉ là một số gợi ý. Lưu ý có loại cây phù hợp cả nắng lẫn bóng râm.
 
-#### Cây Đứng Thẳng Cho Nắng
 
 - Angelonia
 - Cordyline
@@ -71,7 +68,6 @@ Có rất nhiều loại cây phù hợp cho giỏ treo theo mùa. Danh sách d�
 - Phong lữ
 - Cỏ trang trí
 
-#### Cây Đứng Thẳng Cho Bóng Râm
 
 - Heliotrope
 - Coleus trồng bóng râm
@@ -82,7 +78,6 @@ Có rất nhiều loại cây phù hợp cho giỏ treo theo mùa. Danh sách d�
 - Impatiens New Guinea
 - Begonia củ
 
-#### Cây Mọc Thành Bụi Cho Nắng
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ Có rất nhiều loại cây phù hợp cho giỏ treo theo mùa. Danh sách d�
 - Dạ yên thảo Fantasy
 - Begonia sợi
 
-#### Cây Mọc Thành Bụi Cho Bóng Râm
 
 - Phong lữ
 - Nemesia
@@ -99,7 +93,6 @@ Có rất nhiều loại cây phù hợp cho giỏ treo theo mùa. Danh sách d�
 - Impatiens
 - Lobelia đứng
 
-#### Cây Rủ Cho Nắng
 
 - Anagalis
 - Alyssum
@@ -111,7 +104,6 @@ Có rất nhiều loại cây phù hợp cho giỏ treo theo mùa. Danh sách d�
 - Lamium
 - Cây cam thảo
 
-#### Cây Rủ Cho Bóng Râm
 
 - Dây lotus
 - Million bells
@@ -134,15 +126,9 @@ Có rất nhiều sách hướng dẫn về cách trồng giỏ treo nên thật
 - *Gardening in Containers* (Sunset)
 - *Pots in the Garden* của Ray Rogers
 
-#### Tư Vấn Của Chuyên Gia Làm Vườn™
 
 - **Gọi Đường dây Hỗ trợ Làm Vườn Tại Nhà:**
   - 503-655-8631 (Quận Clackamas)
   - 503-821-1150 (Quận Washington)
   - 503-445-4608 (Quận Multnomah)
 - Để xem thêm tờ hướng dẫn và lịch lớp Đại học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động, và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả thù vì đã thực hiện quyền dân sự trước đó. (Không phải tất cả những cơ sở bị cấm đều áp dụng cho mọi chương trình.)
----

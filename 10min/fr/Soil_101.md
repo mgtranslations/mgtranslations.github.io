@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Les Bases du Sol
 
 ### Qu’est-ce que le sol ?
@@ -64,10 +62,3 @@ Ne travaillez jamais un sol trop humide. Sinon, vous obtiendrez un sol grumeleux
 - [Comment prélever un échantillon de sol et pourquoi (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [Fertiliser votre jardin : légumes, fruits et plantes ornementales (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - Jardiner avec du compost, fiche 10-Minute University™ : [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole à domicile : Comté de Clackamas : 503-655-8631 · Comté de Washington : 503-821-1150 · Comté de Multnomah : 503-445-4608 · Pour d’autres fiches 10-Minute University™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Le service de vulgarisation de l’Oregon State University interdit toute discrimination dans ses programmes, services, activités et supports sur la base de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris l’expression de genre), orientation sexuelle, handicap, âge, état matrimonial, statut familial/parental, revenu provenant d’une aide publique, convictions politiques, informations génétiques, statut de vétéran, représailles ou mesures de rétorsion pour une ancienne activité liée aux droits civiques. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

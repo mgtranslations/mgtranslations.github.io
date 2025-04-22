@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Sharpening Garden Tools
 
 ### Introduction
@@ -23,7 +21,6 @@ It is not necessary to take the tool apart each time you sharpen it; however, it
 
 ### How to Sharpen
 
-#### 1. Determine Which Surface Needs Sharpening
 
 | Tool                | Number of Blades to Sharpen | Sides of Blade to Sharpen                |
 |---------------------|-----------------------------|------------------------------------------|
@@ -35,15 +32,12 @@ It is not necessary to take the tool apart each time you sharpen it; however, it
 | Picks, mattocks, axe| One                         | Both                                     |
 | Hay fork            | Many                        | Each tine sharpened to a dull point      |
 
-#### 2. Clean Tools
 
 Remove soil and pitch to clean the surface of each tool, realign tines of forks, and check the file(s) for materials stuck between the teeth. If found, clean the file with the file card by wiping the file card across the file in line with the teeth. For a double-cut file, work the file card across the file in line with each angle. **DO NOT** use soap or water on a file.
 
-#### 3. Use a Vise to Steady the Tool
 
 Put your tool in the vise on the flattest portion of the blade base. If you tighten the vise in the wrong location, you can bend your pruning tool.
 
-#### 4. Set Sharpening Angle
 
 A 20° to 25° sharpening angle is desired. To determine this:
 
@@ -51,7 +45,6 @@ A 20° to 25° sharpening angle is desired. To determine this:
 - Turn the file downward halfway to the blade. This creates a 45-degree angle.
 - Turn it halfway again. This creates approximately a 22.5-degree angle, which is ideal for sharpening.
 
-#### 5. Begin to Sharpen
 
 - Each filing stroke must run parallel to the blade and cover the full length of the blade.
 - Apply even pressure from the tip to the base and only on the forward stroke.
@@ -60,7 +53,6 @@ A 20° to 25° sharpening angle is desired. To determine this:
 
 > **Note:** On loppers out of adjustment, you will notice shiny metal on the base of the anvil blade, indicating the cutting blade is slicing too tightly against or even into the anvil. Readjust blades immediately.
 
-#### 6. Add Finishing Touches
 
 For hard metal blades, use a medium carborundum-type sharpening stone as the final step in your sharpening process. If you have Felco, ARS, or other hard steel blades, you may also finish sharpening them with a fine diamond or ultra-fine ceramic hone. This step takes only one or two passes.
 
@@ -76,9 +68,3 @@ For hard metal blades, use a medium carborundum-type sharpening stone as the fin
 - [Practical Tools for the Vegetable Gardener](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Take Good Care of Hard-working Garden Tools](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Sharpening Your Garden Tools](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

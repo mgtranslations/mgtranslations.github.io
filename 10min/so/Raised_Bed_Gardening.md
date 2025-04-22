@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master ee Clackamas County · Iskaashi iyo Taageero Barnaamijka OSU Extension Master Gardener™
-
 # Beeralayda Sariiraha La Kordhiyay
 
 Beeraleyda sariiraha la kordhiyay waa dhaqan soo jireen ah oo la isticmaalayay qarniyo badan. "La kordhiyay" waxay ka dhigan tahay in ciidda sariirta ay ka sarraysaa heerka ciidda ku xeeran, "sariir" waxay tusinaysaa inay ku filan tahay in laga shaqeeyo xagga waddooyinka la mari karo.
@@ -89,12 +87,3 @@ Kuwan waa qaar ka mid ah daabacaadaha OSU ee laga helayo [OSU Extension Catalog]
 
 - **Beerta Sariiraha La Kordhiyay FS 270**
 - **Sida Aad U Dhisan Karto Sariir La Kordhiyay EC 1627-E**
-
----
-
-#### Talooyinka Master Gardener™ · Ka wac Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo kale ah ee Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucaysaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmo, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga ka imaanaya barnaamijyada caawinta dawladda, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaalada askarinimo, ciqaab ama aargoosi la xiriirta dhaq-dhaqaaqa xuquuqda madaniga. (Dhammaan xeerarkan lama wada khuseeyo barnaamij kasta.)
----

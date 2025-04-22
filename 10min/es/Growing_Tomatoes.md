@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de la Extensión de OSU
-
 # Cultivo de Tomates en el Jardín de Casa
 
 ## Decidir Qué Variedades Cultivar
@@ -9,7 +7,6 @@
 - Elige si vas a empezar desde semillas o comprar plantas.
 - Averigua si los tomates determinados o indeterminados funcionan mejor para tu jardín.
 
-#### Tipos de Tomate
 
 | Tipo          | Espacio / Soporte Requerido      | Hábito de Crecimiento | Cosecha                           |
 |---------------|----------------------------------|----------------------|-----------------------------------|
@@ -64,7 +61,6 @@ Las plantas están listas para ir al suelo cuando miden 10–15” y la temperat
 5. Poda las hojas inferiores y brotes laterales (chupones donde una hoja madura se une al tallo) debajo de las primeras flores.
 6. Elige un método de plantación:
 
-#### Método de Trinchera
 
 - **Ventajas:** Las raíces quedan en la tierra más cálida; bueno para plantas largas y delgadas.
 - **Desventajas:** Requiere riego frecuente y cultivo superficial con cuidado.
@@ -76,7 +72,6 @@ Las plantas están listas para ir al suelo cuando miden 10–15” y la temperat
   - Coloca una marca donde está el cepellón para evitar dañar raíces al deshierbar.
   - Pon la estructura de soporte al plantar para evitar dañar raíces después.
 
-#### Método Vertical
 
 - **Ventajas:** Más humedad disponible para las raíces; menos rajaduras.
 - **Desventajas:** La tierra más profunda es más fría, lo que retrasa el crecimiento y la maduración.
@@ -126,12 +121,3 @@ Las plantas están listas para ir al suelo cuando miden 10–15” y la temperat
   - [Empezando Tomates desde Semillas](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
   - [Plantando Tomates en tu Jardín](https://www.youtube.com/watch?v=Pucpx5fuKdk)
   - [Prácticas de Cultivo Probadas](https://www.youtube.com/watch?v=lpVBg-e_1vE)
-
----
-
-#### Consejos de Maestros Jardineros™ · Línea de Ayuda de Horticultura Doméstica: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Folletos y Videos de Universidad de 10 Minutos™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estatus familiar/paternal, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Paisajismo Comestible
 
 ### Resumen
@@ -23,23 +21,18 @@ El paisajismo comestible es el uso de plantas que producen alimentos en el paisa
 
 ### Cosas para Considerar
 
-#### Ubicación
 
 La mayoría de las frutas y verduras requieren de 6 a 8 horas de sol para producir bien. Algunas plantas nativas, como el salmónberry y el thimbleberry, pueden tolerar algo de sombra, al igual que plantas de hojas comestibles, como la lechuga y la col rizada (kale).
 
-#### Espacio
 
 Asegúrate de pensar en el tamaño maduro de la planta. Los árboles enanos o semi-enanos y los arbustos de menor tamaño funcionan bien en espacios pequeños. Las espalderas, cercas y pérgolas aprovechan el espacio vertical para cultivar árboles, arbustos y vides comestibles.
 
-#### Tiempo y Cuidado
 
 Las plantas comestibles requieren atención en fases específicas de su crecimiento para mantenerse productivas. Necesitarán suelo mejorado, riego y fertilización cuidadosos en los momentos adecuados, y un manejo vigilante de enfermedades e insectos. Esto es especialmente importante cuando las plantas son jóvenes o recién plantadas.
 
-#### Uso
 
 Sabe cuándo cosechar y prepárate para usar la abundancia de tu jardín.
 
-#### Belleza
 
 Las plantas ornamentales ofrecen una amplia gama de colores de flores, formas de follaje, texturas y colores de hojas. Con un poco de investigación, es posible encontrar plantas comestibles con las características que valoras. Por ejemplo:
 
@@ -50,7 +43,6 @@ Las plantas ornamentales ofrecen una amplia gama de colores de flores, formas de
 
 ### Lista Corta de Plantas Comestibles (* indica nativa)
 
-#### Árboles Pequeños (3 a 6 metros)
 
 - **Manzano**: Elige entre formas semi-enanas, espalderas y columnas; todas tienen bonitas flores rosadas en primavera. Variedades como Chehalis, Jonafree, Liberty, Prima y Redfree son resistentes a la sarna.
 - **Saúco Negro***: Hojas finas de color negruzco muy atractivas; los frutos se usan para jalea, jarabe y vino. Buena planta resistente al fuego.
@@ -61,7 +53,6 @@ Las plantas ornamentales ofrecen una amplia gama de colores de flores, formas de
 - **Ciruelo**: Los frutos maduros pueden ser verdes, dorados, rojos o morados. Las variedades Brooks e Italian de ciruelo europeo son fáciles de cultivar. La pudrición parda es el problema más común.
 - **Amelanchier (Serviceberry)***: Racimos de flores blancas a principios de primavera; el color otoñal es amarillo a naranja brillante. Se adapta a una amplia variedad de tipos de suelo y humedad.
 
-#### Arbustos (leñosos, perennes, anuales; 1 a 3 metros)
 
 - **Arándano Azul**: Hermoso color otoñal y abundantes frutos en verano. Fácil de cultivar y con pocos problemas de enfermedades.
 - **Grosella y Uva Espina**: Abundancia de bayas ácidas usadas en mermeladas y jaleas. Crecen fácilmente en suelos de medianos a pesados y en una amplia gama de pH.
@@ -71,7 +62,6 @@ Las plantas ornamentales ofrecen una amplia gama de colores de flores, formas de
 - **Árbol de Fresa (Strawberry Tree)**: Arbusto grande de hoja perenne con hojas verdes oscuras y brillantes y frutos rojos brillantes. Florece de finales de otoño a invierno; mejor en una ubicación protegida.
 - **Tomate**: Frutos atractivos y comestibles en colores amarillo, naranja, rojo, verde, morado y negro, y en una amplia variedad de formas. Se cultiva como anual en los meses de verano; necesita sol y calor para madurar. Evita el riego por encima para prevenir enfermedades.
 
-#### Enredaderas y Trepadoras
 
 - **Uva** (de vino o de mesa sin semilla): Follaje atractivo que proporciona buena sombra en verano sobre una pérgola o patio. Necesitan podas fuertes anuales para buena producción.
 - **Kiwi** (kiwi peludo y hardy kiwi): Follaje exótico, flores blancas en mayo, y en otoño frutos de colores verde, rojo y marrón. La mayoría necesita una estructura muy resistente para soportar el crecimiento vigoroso. Hay nuevas variedades más pequeñas y autofértiles.
@@ -80,7 +70,6 @@ Las plantas ornamentales ofrecen una amplia gama de colores de flores, formas de
 - **Pepino**: Cuando se deja trepar, las flores y frutos de pepino hacen una bonita planta de fondo. Necesitan mucha agua en clima caluroso.
 - **Frijol de Enrame (Pole Bean)**: Necesita sol pleno y buena circulación de aire para evitar el mildiu polvoriento. Úsalos en áreas para niños para hacer tipis y túneles.
 
-#### Coberturas de Suelo
 
 - **Fresa**: Flores blancas en primavera y frutos rojos en verano; las plantas de fresa viven poco y deben replantarse cada 3 a 4 años.
 - **Lingonberry**: Hermosa y delicada cobertura de suelo perenne. Producen más frutos a pleno sol, pero crecen en sombra parcial.
@@ -90,20 +79,13 @@ Las plantas ornamentales ofrecen una amplia gama de colores de flores, formas de
 
 ### Recursos Adicionales
 
-#### Recursos para Plantas Comestibles en el Noroeste
 
 - *Sunset Western Garden Book*
 - Publicaciones de Extensión de la Universidad Estatal de Oregón: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - *Universidad de 10 Minutos*: [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
-#### Consejos de Maestros Jardineros™
 
 - **Llama a la Línea de Ayuda en Horticultura Doméstica:**
   - 503-655-8631 (Clackamas)
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, situación familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

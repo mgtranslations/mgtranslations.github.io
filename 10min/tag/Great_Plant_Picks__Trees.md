@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Mahuhusay na Halamang Pipiliin: Mga Puno
 
 **S:** Hardin na May Lilim  
@@ -59,8 +57,3 @@ Ang mga halaman ng GPP na napili para sa listahang ito ay tumutugon sa sumusunod
 - Nagbibigay ng higit sa isang panahon ng kagandahan sa hardin.
 
 Marami ring halaman sa GPP ang nagbibigay ng benepisyo sa kalikasan, tulad ng pagsuporta sa mga polinator, pagbibigay ng pagkain sa ibon, at tirahan ng mga hayop.
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, estado ng pamilya/magulang, kita mula sa programang pampublikong tulong, paniniwalang pampulitika, impormasyon sa henetika, katayuang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

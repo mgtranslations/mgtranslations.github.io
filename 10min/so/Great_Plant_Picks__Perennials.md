@@ -1,5 +1,3 @@
-#### Jaamacadda 10 Daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo iskaashi la leh Barnaamijka OSU Extension Master Gardener™
-
 ## Xulashada Dhirta Wanaagsan: Dhirta Sannadlaha ah
 
 **S:** Dhirta hooska ku baxda  
@@ -57,7 +55,6 @@
 
 Great Plant Picks (GPP) waa barnaamijka waxbarasho ee ugu weyn Beerta Botanical ee Elisabeth C. Miller. 2001, liiskii ugu horreeyay ayaa la soo bandhigay oo lagu talinayay dhir tayo sare leh oo loogu talagalay kuwa ku nool Pacific Northwest. Ilaa hadda, in ka badan 1,000 dhir oo heer sare ah ayaa loo xulay beeraleyda ku nool galbeedka Buuraha Cascade laga bilaabo Eugene, Oregon, USA ilaa Vancouver, British Columbia, Canada.
 
-#### Shuruudaha Xulashada GPP
 
 - Waa inay ku fiicnaadaan noocyo kala duwan oo carrada ah.
 - Uma baahna biyo badan oo dheeraad ah.
@@ -66,8 +63,3 @@ Great Plant Picks (GPP) waa barnaamijka waxbarasho ee ugu weyn Beerta Botanical 
 - U adkaysi cudurrada iyo cayayaanka.
 - Waxay bixiyaan qurux xilliyaal badan oo sanadka ah.
 - Waxay leeyihiin faa'iido deegaanka (polinate, cunto shimbiro, hoyga dugaagga, iwm.).
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimo, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadda, macluumaadka hidde-sideyaasha, xaalada halyeeynimada, ciqaabta ama aargoosiga ficil hore oo la xiriira xuquuqda madaniga. (Dhammaan shuruudaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

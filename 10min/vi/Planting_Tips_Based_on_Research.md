@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension Master Gardener™
-
 ## Mẹo Trồng Cây Dựa Trên Nghiên Cứu Làm Vườn
 
 ### Tổng Quan
@@ -56,11 +54,4 @@ Nguyên tắc cải tạo đất là không cải tạo hoặc cải tạo toàn
 ### Thông Tin Thêm
 
 - **Làm vườn bền vững**, Ấn phẩm EM 8742 - Đại học bang Oregon  
-- **Cảnh quan và Vườn bền vững: Khoa học tốt - Ứng dụng thực tế**, Đại học bang Washington  
-
-#### Tư vấn Làm vườn Chuyên nghiệp · Gọi Đường dây Hỗ trợ Làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem tài liệu và video của 10-Minute University™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới tính (bao gồm thể hiện giới tính), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ các chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động quyền công dân trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----
+- **Cảnh quan và Vườn bền vững: Khoa học tốt - Ứng dụng thực tế**, Đại học bang Washington

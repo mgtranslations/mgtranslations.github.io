@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ah ee Oregon™ – Laanta Degmada Clackamas · Iyadoo lala kaashanayo Adeegga Kordhinta Jaamacadda Gobolka Oregon
-
 ## Beerashada Carruurta Da’doodu Tahay 4-7
 
 Beerashada la carruurta waxay noqon kartaa waayo-aragnimo aad u qiimo badan oo faa’iido u leh ilmaha iyo waalidka, awoowaha, ama qofka tarbiyeyaha ah. Carruurtu waa beeraley dabiici ah sababtoo ah way xiiseeyaan, waxay ku bartaan sameynta wax, waxayna jecel yihiin inay ku ciyaaraan ciidda.
@@ -25,7 +23,6 @@ Beerashada khudaarta waxay si gaar ah ugu farxad badan tahay carruurta da’ kas
 
 Waxaad shaqada u habeyn kartaa si ay ugu habboonaato ilmaha iyo waqtiga la heli karo. Xasuuso, waa muhiim in waayo-aragnimadu noqoto mid aad u wanaagsan labadiinaba, markaa hubi in aad tixgeliso baaxadda hawsha oo aad joojiso ka hor inta qofna uu daalin ama xanaaqin—oo ay ku jiraan waalidiinta.
 
-#### Beer Ubaxyo ama Khudaar loogu Tala galay Duurjoogaha Xambaara Budada
 
 Beeraleydu way qiimeeyaan cayayaanka iyo duurjoogaha beerta ku nool ama soo booqda. Waxaad beeri kartaa ubaxyo sida qorraxlayda, zinnias, ama nasturtiums. Waxay soo jiitaan cayayaanka waxayna u noqdaan cunto.
 
@@ -34,7 +31,6 @@ Eeg qoraaladan Jaamacadda Gobolka Oregon:
 - [Dhiirrigelinta Cayayaanka Faa’iidada leh ee Beertaada](https://catalog.extension.oregonstate.edu/pnw550)
 - [Hagaha Macallinka ee Beerashada Khudaarta](https://catalog.extension.oregonstate.edu/em9032)
 
-#### U Bax Raadinaya Quraanjada Dufanka leh
 
 Carruurtu waxay baran doonaan doorka ay quraanjadu ku leedahay deegaanka. Saddex nooc oo quraanjada dufanka ah ayaa caadi ka ah Waqooyiga Galbeed ee Baasifiga:
 
@@ -49,7 +45,6 @@ Eeg kheyraadkan:
 - [Sida Loo Aqoonsado Quraanjada iyo Doongaha](https://agsci.oregonstate.edu/slug-portal/identification)
 - [Quraanjada iyo Doongaha](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
 
-#### Raadiya Cayayaanka Dhameeya Walxaha Dabiiciga ah
 
 Amooska, cayayaanka dhulka, diqsiyaasha, iyo doongaha dhammaan waa qayb ka mid ah deegaanka waxayna muhiim u yihiin burburinta walxaha dabiiciga ah si loo sameeyo humus. Waa in la ammaanaa.
 
@@ -59,7 +54,6 @@ Eeg kheyraadka Jaamacadda Gobolka Oregon ee cayayaanka dhameeya walxaha:
 
 - [Amooska sida Cayayaan Burburiya](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
 
-#### Talooyin Ku Saabsan Beerista
 
 Carruurta sii macluumaad muhiim ah oo ku saabsan beerista meel ugu badan qorraxda iyo in la hubiyo in ciiddu si fiican ugu daboosho abuurka (aan aad u qoto dheerayn). Ku dhiirrigeli inay la socdaan sida cayayaanku ula falgalaan dhirta marka ay korayaan.
 
@@ -87,10 +81,3 @@ Talooyin buugaag:
 - *Rog, Sabeyn, Duul: Abuurta Socota* by JoAnn Early Macken
 - *Berries, Nuts iyo Abuur* by Diane L. Burns
 - *Beerta Jack* by Henry Cole
-
-#### Talooyinka Beeraleyga Master-ka ah · Wac Khadka Gargaarka Beeraleyda: 503-655-8631 (Degmada Clackamas) · 503-821-1150 (Degmada Washington) · 503-445-4608 (Degmada Multnomah) · Foomamka Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada: Booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka oo dhan, iyadoo aan loo eegayn jinsiyadda, midabka, waddanka asal ahaan, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), nooca galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidde-side, heerka askarnimo, aargoosi ama dhibaato ka dhalatay hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha mamnuuca ah ma khuseeyaan dhammaan barnaamijyada.)
----

@@ -1,12 +1,7 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
----
-
 ## Especificaciones para Cultivar Cultivos de Raíz
 
 ### Cultivo de Bulbos
 
-#### Ajo
 
 - **Siembra:**
   - Planta los bulbos de ajo de agosto a octubre para obtener mejores resultados.
@@ -24,7 +19,6 @@
   - Deja el ajo en un lugar fresco y seco por unas semanas.
   - Recorta las hojas y corta las raíces.
 
-#### Cebollas
 
 - **Siembra:**
   - Planta los bulbos de cebolla en marzo cuando hace fresco.
@@ -41,7 +35,6 @@
   - Sacude la tierra y deja las cebollas elevadas en un lugar fresco y seco durante 1–2 semanas.
   - Recorta las hojas y corta las raíces.
 
-#### Puerros
 
 - **Siembra:**
   - Comienza las semillas en interiores a finales de febrero o principios de marzo (8–10 semanas antes de la última helada) en bandejas poco profundas con mezcla para plántulas.
@@ -63,7 +56,6 @@
 
 ### Cultivo de Rizomas
 
-#### Jengibre o Cúrcuma
 
 - **Siembra:**
   - Propaga a partir de un rizoma sano y gordito.
@@ -85,7 +77,6 @@
 
 ### Cultivo de Raíces Pivotantes
 
-#### Zanahorias, Rábanos, Betabeles y Chirivías
 
 - **Siembra:**
   - Planta las semillas a principios de primavera cuando la tierra esté a unos 40°F o a finales de verano para una cosecha otoñal.
@@ -107,7 +98,6 @@
 
 ### Cultivo de Raíces Tuberosas
 
-#### Camotes
 
 - **Siembra:**
   - Crece a partir de “brotes” a principios de abril.
@@ -127,7 +117,6 @@
 
 ### Cultivo de Tubérculos
 
-#### Papas
 
 - **Siembra:**
   - Planta a finales de marzo o principios de abril.
@@ -149,8 +138,3 @@
 
 - [Los cultivos de raíz pueden dar un impulso a tu huerto de primavera](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Raíces, tallos y bulbos comestibles - Extensión de Penn State](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa en derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

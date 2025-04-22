@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Ntxiv Ib Lub Bioswale
 
 Nyob rau hauv tej thaj chaw uas twb tsim kho lawm, nag poob rau saum tej chaw tawv yuav mus rau hauv kav dej, qhov dej, thiab qhov tso dej nag ua ntej yuav mus txog rau cov kwj dej thiab dej loj. Ib lub bioswale yog tsim los khaws cov dej nag uas khiav los ntawm ru tsev, txoj kev tsheb, lossis lwm yam chaw uas dej tsis txawj nkag mus hauv av. Nws cia dej nag mus nkag rau hauv av thiab raug lim los ntawm nroj tsuag thiab av kom txo qis dej khiav thiab kuab paug mus rau hauv cov dej ntuj. Qhov bioswale uas muaj qhov ncaj ntev zoo rau kev khaws dej ntawm ntug kev, tab sis bioswale kuj siv tau rau pem hauv ntej thiab tom qab lub tsev, thiab hauv qab qhov dej los ntawm ru tsev. Bioswale kuj siv tau los hloov curb lossis gutter.
@@ -76,8 +74,3 @@ Nroj tsuag yuav tsum tau muab dej pab ntxiv nyob rau thawj caij ntuj sov kom law
 
 - **Analytical Laboratories Serving Oregon**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### Lub Chaw Haujlwm Extension Service ntawm Oregon State University txwv tsis pub muaj kev ntxub ntxaug hauv txhua yam kev pab cuam, kev pab, kev ua si, thiab ntaub ntawv, saib tsis hais haiv neeg, xim tawv nqaij, keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj tsev neeg, nyiaj tau los ntawm kev pab cuam pej xeem, kev ntseeg, ntaub ntawv caj ces, kev ua tub rog, kev rau txim, lossis kev rau txim vim muaj kev tiv thaiv cai. (Tsis yog txhua yam hauv no yuav siv rau txhua yam kev pab cuam.)
----

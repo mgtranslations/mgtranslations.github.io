@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Einen Bioswale anlegen
 
 In bebauten Gebieten wird Regenwasser, das auf harte Oberflächen fällt, in Rohre, Gräben und Regenwasserkanäle geleitet, bevor es in Bäche, Flüsse oder Seen gelangt. Ein Bioswale ist so konstruiert, dass er Regenwasser von Dächern, Einfahrten oder anderen undurchlässigen Flächen auffängt. Das Wasser kann im Boden versickern und wird dabei von Pflanzen und Erde gefiltert. So wird der Abfluss und die Verschmutzung von natürlichen Gewässern reduziert. Die längliche Form macht Bioswales besonders für den Abfluss entlang von Straßen geeignet, sie können aber auch in Vorgärten, Hinterhöfen und unter Dachrinnen installiert werden. Bioswales können sogar Bordsteine oder Rinnen ersetzen.
@@ -76,8 +74,3 @@ Die Pflanzen brauchen im ersten Sommer zusätzlich Wasser, damit sie gut anwachs
 
 - **Analytische Labore in Oregon**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### Der Erweitungsdienst der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Status als Elternteil, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Repressalien oder Vergeltung für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

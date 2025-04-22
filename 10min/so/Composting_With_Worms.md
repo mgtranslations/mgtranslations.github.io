@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Clackamas County oo iskaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Qashinka Cuntada oo Laga Dhalo Bacriminta Iyadoo La Adeegsanayo Ayax
 
 Sanduuqa ayaxa waa hab fudud oo lagu beddelo qashinka cuntada bacriminta iyo waxyaabaha lagu daro ciidda beertaada. Ayaxdu waxay si dhakhso ah u cunaan oo u beddelaan qashinka sida diirka tufaaxa, laamaha zucchini, iyo qashinka kale ee jikada dhowr bilood gudahood. Si aad u shaqeeyaan, sii hoy ay ayaxdu ku jiraan, sariir iyo cunto.
@@ -32,7 +30,6 @@ Ayaxdu waxay cuni karaan nus miisaankooda cunto 24 saacadood gudahood. Qiyaas mi
 
 Inkastoo ayaxdu cuni karaan qashin kasta oo dabiici ah, waxaa fiican in loo tixgeliyo inay yihiin cunto-qaateyaal dhir ah.
 
-#### Waxaad Siin Kartaa:
 
 - Qashinka khudaarta
 - Kafeega la kariyay & shaandhayaha
@@ -43,7 +40,6 @@ Inkastoo ayaxdu cuni karaan qashin kasta oo dabiici ah, waxaa fiican in loo tixg
 - Timaha xoolaha
 - Warqad la jarjaray
 
-#### Ha Siinin:
 
 - Hilib, kalluun, caano
 - Cunto saliid leh ama dufan leh
@@ -73,7 +69,6 @@ Ayaxa cas waxay u baahan yihiin xaalado qoyan sanadka oo dhan, sababtoo ah ma qo
 
 ### Dhibaatooyinka Suurtagalka ah & Xalka
 
-#### Uurka Xun
 
 Waxaad xakamayn kartaa urka xun adigoo:
 
@@ -81,7 +76,6 @@ Waxaad xakamayn kartaa urka xun adigoo:
 - Ka fogow waxyaabaha liiska “Ha Siinin” ee qaybta “Cuntada Ayaxa”
 - Bixinta sariir nadiif ah oo ku filan
 
-#### Cayayaanka
 
 - **Duqsiga khalka**: Mararka qaar waxa sanduuqa soo gala duqsiga yar ee khalka (marar badan waxaa loo malaynayaa duqsiga miraha), balse waxyeello ma leh. Haseyeeshee, hadii ay bataan waxa laga yaabaa inaad cunto badan siiso ayaxa. Si aad uga saarto duqsiga khalka:
   - Yaree cunto siinta ilaa inta ayaxdu maalintii cuni karaan.
@@ -104,12 +98,3 @@ Waxaad xakamayn kartaa urka xun adigoo:
   [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Worms Eat My Garbage**, Mary Appelhof, Daabacaadda Labaad
 - **Welcome to the Can-O-Worms**, N. Nattrass
-
----
-
-#### La-talin Beeraleyda Master-ka™ · Wac Khadka Horticulture ee Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Foomamyo iyo jadwalka fasallada 10-Minute University™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka dhamaan asbaabaha: midab, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska, dakhliga laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, heerka ciidanimo, ciqaabta, ama aargoosiga la xiriira hawlo xuquuqda madaniga ah ee hore. (Dhammaan asbaabahan ma khuseeyaan dhammaan barnaamijyada.)
----

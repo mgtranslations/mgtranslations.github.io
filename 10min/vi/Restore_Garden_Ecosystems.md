@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Phục Hồi Hệ Sinh Thái Tự Nhiên Trong Vườn Đô Thị
 
 Sự phát triển nhanh chóng của con người ở các khu vực đô thị thường dẫn đến việc mở rộng mạng lưới giao thông, gây chia cắt cảnh quan và hệ sinh thái tự nhiên. Điều này làm gián đoạn các quá trình tự nhiên và giảm khả năng của hệ sinh thái trong việc giảm thiểu tác động của bão, lũ lụt, cháy rừng, sóng nhiệt và hạn hán. Nó cũng dẫn đến mất nơi ở của các loài thụ phấn, dơi, chim và lưỡng cư. (Hardy và cộng sự, 2022)
@@ -70,8 +68,3 @@ Tạo nơi sống cho nhiều loài động vật hoang dã đến ăn, làm t�
 - **Tài liệu về khả năng thích ứng với khí hậu:** Hệ sinh thái, Đất, Bãi cỏ, Nước, Cây trồng.
 - **Tài nguyên về cây bản địa:** Sử dụng cây bản địa trong vườn, Danh sách cây Portland, Chương trình Vườn Địa phương.
 - **Tài liệu khác:** Cảnh quan phòng cháy, Quản lý sâu bệnh tổng hợp cho vườn nhà, Thêm mương sinh học, Thêm vườn mưa.
-
----
-
-###### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù do hoạt động bảo vệ quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho mọi chương trình.)
----

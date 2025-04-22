@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pinakamahusay na Bulaklak para sa Bubuyog — Pinatunayan ng Pananaliksik sa Hortikultura
 
 Ang listahang ito ay may mga halamang pinatunayan ni Dr. Gordon Frankie, University of California, at mga kasamahan na pinakamabisang makaakit ng mga bubuyog[^1]. Ang mga katutubong halaman ng Oregon na napatunayang nakakaakit ng mga katutubong bubuyog ay batay sa pananaliksik ni Aaron Anderson, Oregon State University Garden Ecology Lab[^2]. Mga sanggunian: *California Bees & Blooms* nina Frankie et al., at blogs.oregonstate.edu/gardenecologylab/[^3].

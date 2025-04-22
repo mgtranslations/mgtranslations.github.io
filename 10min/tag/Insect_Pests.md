@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association kaakibat at sumusuporta sa OSU Extension Master Gardener™ Program
-
----
-
 ## Mga Insekto na Peste
 
 ### Pangkalahatang-ideya
@@ -18,7 +14,6 @@ Madalas mahirap tukuyin kung sino ang sanhi ng pinsala sa halaman dahil maraming
 
 Sa kabutihang palad, ang paraan ng pagkain ng mga insekto ay nagbibigay ng mga palatandaan. Maaaring makilala ang mga insekto ayon sa paraan nila ng pagkain: **nguya/pagkudkod** o **tusok-sipsip**.
 
-#### Mga Insektong Nguya/Pangkudkod
 
 Ang mga insektong nguya o pangkudkod ay may bibig na kayang ngumata ng butas sa mga dahon, usbong, ugat, buto, bunga, o kahoy ng halaman. Halimbawa:
 
@@ -26,7 +21,6 @@ Ang mga insektong nguya o pangkudkod ay may bibig na kayang ngumata ng butas sa 
 - **Tagakain ng bulaklak, bunga, at buto**: Fruit flies, midges, yellow jackets, hornets, codling moth, corn earworms, seed weevils.
 - **Peste sa istruktura**: Carpenter ants, anay, powderpost beetles.
 
-#### Mga Insektong Tusok-Sipsip
 
 Ang mga insektong tusok-sipsip ay hindi lang direktang nakakasira sa halaman sa pagkain, kundi minsan ay nag-iinject din ng lason na nagdudulot ng iba't ibang sintomas mula simpleng tuldok-tuldok sa dahon hanggang sa malawakang problema sa halaman. Ang mga tuldok at pagkupas ng dahon ay nangyayari kapag nasisira ang chlorophyll dahil sa bibig ng tusok-sipsip. Halimbawa:
 
@@ -92,12 +86,3 @@ Ang Integrated Pest Management ay isang sistematiko at kabuuang paraan ng pagpuk
 - **Garden Insects** ni Crenshaw, 2004
 - **Oregon State University Extension Publications**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ polyeto at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, katayuan sa pag-aasawa, katayuang pampamilya/magulang, kita mula sa tulong ng gobyerno, paniniwala sa politika, genetic information, pagiging beterano, paghihiganti, o pagganti dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 ## Watering Tips
 
 ### Theory & Techniques
@@ -33,13 +31,11 @@
 
 ### Ineffective Watering
 
-#### Symptoms of Over-Watering
 
 - Yellow or mottled leaves
 - Leaves turn pale green or yellow and then fall off
 - Plants grow poorly, and spindly stems flop
 
-#### Symptoms of Under-Watering
 
 - Yellow or mottled leaves
 - Leaves look dull, somewhat grayed, and lack a reflective quality
@@ -54,22 +50,18 @@ Whatever watering method you prefer, check soil moisture several hours after irr
 
 - Flowers and vegetables: 12–15 inches deep
 
-#### Overhead Watering
 
 - Overhead watering of trees and shrubs (sprinkler or hand) can promote fungal and bacterial problems like apple scab, rust, and black spot on roses.
 - Water early enough in the day so leaves dry before evening.
 
-#### Hand-Watering
 
 - Hand-watering can deliver water faster than soils can absorb, causing runoff.
 
-#### Sprinklers
 
 - Sprinklers may scatter water where it isn’t needed and often deliver water faster than it can soak into the soil.
 - Use sprinklers that cover the garden only, not surrounding areas.
 - Minimize evaporation loss by watering during cool, wind-free times (evening through morning).
 
-#### Low-Flow Systems
 
 - **Advantages:**
   - Deliver moisture directly to the root zone at a uniform rate throughout the season.
@@ -98,14 +90,9 @@ Whatever watering method you prefer, check soil moisture several hours after irr
   - [Keys to Water-efficient Landscapes, EM 9134](https://catalog.extension.oregonstate.edu/)
   - [Landscape Maintenance to Conserve Water, EM 9135](https://catalog.extension.oregonstate.edu/)
 
-#### Master Gardener™ Advice
 
 - **Call Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-#### Oregon State University Extension Service · Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

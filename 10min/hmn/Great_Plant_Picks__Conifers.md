@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # 10-Minute University
 
 ## Cov Nroj Tsuag Zoo: Cov Ntoo Tsob Ntoo Taws Ntsuab

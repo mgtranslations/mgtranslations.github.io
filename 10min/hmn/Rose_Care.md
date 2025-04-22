@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Chaw Kawm Paub Txog Tswb Paj Roses ntawm Clackamas County · Ua haujlwm koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kev Tu Thiab Saib Xyuas Paj Roses
 
 ### Mus Kawm Saib Cov Paj Roses
@@ -42,7 +40,6 @@ Tom qab xaiv hom paj roses lawm, kev cog kom raug yog ib yam tseem ceeb tshaj pl
 
 ### Kev Txi Ntoo
 
-#### Lub Ob Hlis Nruab Nrab – Kev Txi Ntoo Loj
 
 Qhib nruab nrab kom huab cua ncig zoo:
 
@@ -55,14 +52,12 @@ Qhib nruab nrab kom huab cua ncig zoo:
 
 Thaum ua tiav lawm, tsuas tshuav cov ceg muaj zog thiab noj qab los ntawm hauv paus tsob xwb.
 
-#### Txi Paj Qhuav (Deadheading)
 
 Tshem txhua lub paj uas yuav qhuav:
 
 1. Thaum txiav lub paj kawg uas qhuav lawm, txiav saum nplooj uas muaj 3 lossis 5 daim nplooj me.
 2. Txi siab dua ntawm ceg, paj yuav rov tawg sai dua, tab sis paj yuav me dua. Txi qis dua, yuav siv sij hawm ntev dua thiaj rov tawg, tab sis paj yuav loj dua.
 
-#### Lub Kaum Ib Hlis Txi Ntoo
 
 Txi ceg kom luv kom txo qhov cua tshuab kom cag tsis tawg:
 
@@ -86,12 +81,3 @@ Tshem txhua nplooj kom tsob paj mus so.
 
 - [Kev Tiv Thaiv Kab Mob thiab Aphids rau Koj Cov Paj Roses (EC 1520)](https://catalog.extension.oregonstate.edu/ec1520)
 - [Muab Mulch rau Ntoo Zoo Nkauj nrog Cov Khoom Organic (EC 1629-E)](https://catalog.extension.oregonstate.edu/ec1629-e)
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Hu Rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm cov ntawv qhia 10-Minute University™ thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service txwv tsis pub muaj kev ntxub ntxaug hauv txhua txoj haujlwm, kev pabcuam, kev ua si, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws tuaj, kev ntseeg, poj niam txiv neej, tus kheej qhia txog poj niam/txiv neej (xws li kev qhia txog poj niam/txiv neej), kev nyiam poj niam/txiv neej, xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/txiv neej/poj niam txoj cai, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, raug pauj, lossis raug tsim txom vim ua ib feem ntawm kev tiv thaiv txoj cai pej xeem. (Tsis yog txhua qhov kev txwv siv rau txhua txoj haujlwm.)
----

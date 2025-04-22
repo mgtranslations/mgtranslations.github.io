@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Diez Malezas que Debes Conocer
 
 Una maleza es una planta que es peligrosa, molesta o que puede causar daño a personas, animales o a un cultivo deseado. En el jardín de casa, las malezas pueden:
@@ -95,8 +93,3 @@ Conocer tus malezas ayuda a identificar las formas más efectivas de controlarla
 
 - [Biología y Manejo de Malezas Perennes, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Plantas Invasoras/Manejo de Plantas y Plagas Invasoras, Ciudad de Portland, Oregón](https://www.portlandoregon.gov)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

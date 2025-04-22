@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Clackamas County Master Gardener Association koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 ## Ua Koj Lub Vaj Kom Muaj Zog Tiv Thaiv Huab Cua: Av
 
 Lub ntiaj teb tab tom kub zuj zus uas ua rau dej khov yaj, dej hiav txwv siab ntxiv, dej hiav txwv ua kua qaub ntau dua, thiab muaj kev qhuav dej los nag loj thiab tshwm sim ntau dua. Hauv Pacific Northwest muaj kev qhuav dej ntev, hluav taws hav zoov loj zuj zus thiab tshwm sim ntau dua, tshav kub, kab tsuag, thiab kab mob ntoo. Dej daus tsawg dua ua rau dej ntws hauv dej thiab dej tsaws tsawg dua thaum lub caij nplooj ntoo hlav, uas ua rau dej tsawg. Ntxiv rau cov no, kev hloov huab cua coj los muaj huab cua hloov pauv loj (tshav kub, los nag loj) feem ntau.
@@ -61,7 +59,3 @@ Peb yuav ua vaj li cas rau lub sijhawm no? Phau ntawv no muab tswv yim yuav ua l
 - [The Dirty Secrets of a Living Landscape, Oregon State University EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Carbon Sequestration in Soil, Ecological Society of America](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. et al. *Root biomass and exudates link plant diversity with soil bacterial and fungal biomass.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### Oregon State University Extension Service txwv tsis pub cais tawm rau txhua yam hauv lawv cov kev pab, kev pabcuam, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia poj niam txiv neej (xws li kev qhia tus kheej), kev xaiv poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj menyuam, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, lossis kev raug txim rau kev tiv thaiv txoj cai. (Tsis yog txhua yam txwv no siv rau txhua qhov kev pab.)

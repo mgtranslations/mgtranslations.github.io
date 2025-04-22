@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo iskaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Beerista Mulch-ka
 
 Mulch waa lakab walxo ah oo la dhigo dusha ciidda si loo gaaro mid ama in ka badan faa’iidooyinkan:
@@ -53,23 +51,19 @@ Mulch caag ah badanaa waxaa loo isticmaalaa in lagu xakameeyo haramaha ama lagu 
 
 ### Sida Loo Isticmaalo Mulch Caag ah
 
-#### Si Haramaha Loo Xakameeyo
 
 1. Dhig caag madow marka ciidda la diyaariyo abuurka ama dhirta la beeri doono kadibna khadadka biyaha la dhigo.
 2. Ku cadaadi geesaha caagga ciidda.
 3. Abuur abuurka ama dhig dhirta adigoo x ka jaraya caagga dhexdiisa.
 4. Isticmaal caag dalool leh ama daloolo samee si biyuhu uga dhex mari karaan.
 
-#### Si Loo Kululeeyo Ciidda
 
 - **Caag cad ama iftiin leh**: Ciidda aad buu u kululeeyaa laakiin wuxuu sidoo kale abuuri karaa "aqal cagaaran" oo haramaha koriyo.
 - **Caag madow**: Wuxuu ciidda kululeeyaa heer hoose balse wuu xakameeyaa haramaha.
 
-#### Si Ciidda Qoyan Loo Ilaaliyo
 
 Daboosho aagga beerta caag madow xilliga jiilaalka si aad ciidda uga dhigto mid qalalan oo diyaar ah xilliga gu’ga hore. Ku cadaadi geesaha si uusan caaggu u noqonin meel haramaha ay ku koraan ama cayayaanku ku dhuuntaan.
 
-#### Si Loo Dedejiyo Koritaanka iyo Bislaanshaha Dhirta Jecel Kulaylka
 
 Yaanyo, basbaas, qare, strawberry, iyo dhirta kale ee jecel kulaylka ayaa la baaray si loo ogaado sida mulchyada caagga ah ee midabada kala duwan ay ugu saameeyaan koritaanka, bislaanshaha, iyo wax-soosaarka.
 
@@ -81,10 +75,3 @@ Yaanyo, basbaas, qare, strawberry, iyo dhirta kale ee jecel kulaylka ayaa la baa
 ## Xogo Dheeraad ah
 
 - **Dukumintiga Adeegga OSU Extension**: [Mulching Woody Ornamentals with Organic Materials](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Talooyinka Master Gardener™ · Wac Khadka Gargaarka Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Dukumentiyada kale ee Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabyadiisa dhammaan sababo la xiriira: jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dareenka galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda askariga, ciqaabta ama aargudashada ficil hore oo la xiriira xuquuqda muwaadiniinta. (Dhammaan sababaha la mamnuucay lama khuseeyaan dhammaan barnaamijyada.)
----

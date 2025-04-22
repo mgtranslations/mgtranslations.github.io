@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Studie zur Attraktivität einheimischer Pflanzen
 
 ## Pflanzenliste
@@ -50,12 +48,3 @@ Bitte besuchen Sie [http://blogs.oregonstate.edu/gardenecologylab/native-plants-
 | Sidalcea virgata          | Rosafarbene Sumpfmalve     |             | Mehrjährig   | Rosa           |
 | Sisyrinchium idahoense    | Blauäugiges Gras           |             | Mehrjährig   | Blau/Lila      |
 | Solidago canadensis       | Kanadische Goldrute        | A, B, C, D  | Mehrjährig   | Gelb           |
-
----
-
-#### Master Gardener™-Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere Handouts und Kurspläne der 10-Minuten-Universität™ besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

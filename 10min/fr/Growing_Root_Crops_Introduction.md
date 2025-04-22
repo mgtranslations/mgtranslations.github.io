@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien du programme Master Gardener™ de l’Extension OSU
-
 ## Introduction à la culture des légumes-racines
 
 Les légumes-racines ont leur place dans chaque potager. Ils font partie des premiers et derniers légumes à être récoltés, et avec un bon stockage à la maison, vous pouvez en avoir une réserve fraîche jusqu’en hiver. Ces cultures sont idéales car elles prennent peu de place dans le jardin, peuvent être récoltées sur une longue période et produisent beaucoup de nourriture riche en énergie. Elles poussent bien dans des plates-bandes surélevées, en pleine terre, ou en pots.
@@ -80,7 +78,6 @@ Comprendre les familles de plantes et la rotation des cultures est essentiel pou
 
 Un cycle de rotation de cultures sur quatre ans aide à prévenir les problèmes, à renforcer le sol et à favoriser une bonne production de légumes-racines. La rotation des cultures et les plantes compagnes augmentent la biodiversité naturelle du jardin. Le compagnonnage permet d’utiliser l’espace de façon efficace, en cultivant les plantes ensemble pour qu’elles s’entraident.
 
-#### Familles de plantes et compagnons
 
 - **Chénopodiacées** : betterave, épinard, bette  
   - Compagnons : haricots nains, laitue, oignon, radis
@@ -107,8 +104,3 @@ Un cycle de rotation de cultures sur quatre ans aide à prévenir les problèmes
 - [Série Jardinage Facile - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Légumes-Racines](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [Le légume souterrain](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans l’ensemble de ses programmes, services, activités et supports sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut marital, le statut familial/parental, le revenu provenant d’une aide publique, les opinions politiques, l’information génétique, le statut de vétéran, les représailles ou toute action de rétorsion pour une activité antérieure relative aux droits civils. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

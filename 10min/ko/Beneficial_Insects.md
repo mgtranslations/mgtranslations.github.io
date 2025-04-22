@@ -1,5 +1,3 @@
-#### 10-Minute University™ · 클라카마스 카운티 마스터 가드너 협회와 OSU 익스텐션 마스터 가드너™ 프로그램의 협력 및 지원
-
 # 가정 정원에서 유익한 곤충
 
 ### 개요
@@ -72,12 +70,3 @@
   [여기 방문하기](https://www.cmastergardeners.org)
 - *Clark County Washington Presents Bugs and Pests*  
   [더 읽기](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
-
----
-
-#### 마스터 가드너™ 상담 · 가정 원예 헬프라인: 503-655-8631 (클라카마스 카운티) · 503-821-1150 (워싱턴 카운티) · 503-445-4608 (멀트노마 카운티) · 다른 10-Minute University™ 안내문과 수업 일정은 [www.cmastergardeners.org](https://www.cmastergardeners.org)에서 확인하세요.
-
----
-
-##### 오리건 주립대학교 익스텐션 서비스는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 연령, 결혼 여부, 가족/부모 상태, 공공 지원 프로그램 수입, 정치적 신념, 유전 정보, 재향군인 신분, 또는 이전의 시민권 활동에 대한 보복이나 보복 위협을 이유로 모든 프로그램, 서비스, 활동, 자료에서 차별을 금지합니다. (모든 금지 사유가 모든 프로그램에 적용되는 것은 아닙니다.)
----

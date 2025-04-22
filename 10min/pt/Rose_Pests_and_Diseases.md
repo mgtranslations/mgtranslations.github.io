@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Doenças e Pragas Comuns das Rosas
 
 As rosas podem ser uma adição perfumada e bonita a qualquer jardim no Noroeste do Pacífico. No entanto, são conhecidas por serem atacadas por algumas doenças e pragas comuns. Este folheto fornece estratégias de monitoramento e prevenção para garantir flores e folhagens bonitas durante todo o verão.
@@ -62,8 +60,3 @@ As rosas podem ser uma adição perfumada e bonita a qualquer jardim no Noroeste
 Entre em contato com o escritório local de Extensão da OSU para orientações de Mestre Jardineiro. Veja as informações de contato neste site: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 Para folhetos e cronogramas de aulas do 10-Minute University™, visite [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

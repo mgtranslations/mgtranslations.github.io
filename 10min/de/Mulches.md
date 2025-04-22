@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Mulch: Das Gute, das Schlechte und das richtig, richtig Hässliche
 
 **Dr. Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Washington State University
 
 ### Probleme mit grobem Holzhäcksel
 
-#### Rindenmulch
 
 - Rindenmulch kann mit Salz oder Unkrautsamen verunreinigt sein
 - Rinde enthält Wachse, die Wasseraufnahme und -abgabe im Boden verhindern
 - Weiche Rindenmulche sind oft wegen kleiner, scharfer Fasern nicht „menschenfreundlich“
 
-#### Holzhäcksel vom Baumpfleger
 
 - Sorge um hohes Kohlenstoff-Stickstoff-Verhältnis – führt das zu Stickstoffmangel?
 - Wird durch krankes Holz die Übertragung von Krankheitserregern gefördert?
 
-#### Stickstoffverfügbarkeit
 
 - Holzhäcksel haben ein hohes C:N-Verhältnis und können an der Mulch-Boden-Grenze lokalen Stickstoffmangel verursachen
 - Holzhäcksel verursachen bei etablierten Pflanzen keinen Stickstoffmangel
 - Das hohe C:N-Verhältnis verhindert wahrscheinlich die Keimung einiger Unkrautsamen
 
-#### Pilzkrankheiten und Holzhäcksel
 
 - Armillaria, Cytospora, Thyronectria und Verticillium können auf großen Holzstücken monatelang überleben
 - Die Überlebensrate steigt, wenn Holzhäcksel in den Boden eingearbeitet werden
 - Es gibt keine Hinweise, dass Krankheitserreger im Mulch Wurzeln unter der Bodenoberfläche infizieren
 
-#### Pilzgemeinschaften in Holzhäcksel
 
 - Pilzarten in Holzhäcksel sind meist Zersetzer, keine Krankheitserreger
 - In gesunden (sauerstoffreichen) Böden verdrängen nützliche Pilze wahrscheinlich pathogene Pilze
@@ -230,12 +223,3 @@ Blog: http://www.gardenprofessors.com
 Bücher: http://www.sustainablelandscapesandgardens.com  
 Facebook-Seite: http://www.facebook.com/TheGardenProfessors  
 Facebook-Gruppe: https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minuten-Universität™ Handouts und Kurspläne unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Repressalien oder Vergeltung für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

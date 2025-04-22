@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação Master Gardener™ do Oregon – Capítulo do Condado de Clackamas · Em Cooperação com o Serviço de Extensão da Universidade Estadual do Oregon
-
 ## Jardinagem com Crianças de 4 a 7 Anos
 
 Jardinar com crianças pode ser uma das experiências mais gratificantes tanto para a criança quanto para o pai, avô ou mentor. As crianças são jardineiras naturais porque são curiosas, aprendem fazendo e gostam de brincar na terra.
@@ -25,7 +23,6 @@ Jardins de vegetais podem ser especialmente gratificantes para crianças de toda
 
 Você pode ajustar a quantidade de trabalho para se adequar à criança e ao tempo disponível. Lembre-se, é importante tornar a experiência gratificante para vocês dois, então pense bem sobre o tamanho da atividade e pare antes que alguém fique cansado ou frustrado — inclusive os adultos.
 
-#### Plante Flores ou Vegetais para Polinizadores
 
 Os jardineiros valorizam os insetos e polinizadores que vivem e visitam o jardim. Você pode plantar girassóis, zínias ou capuchinhas. Elas são bonitas e fornecem alimento para os polinizadores.
 
@@ -34,7 +31,6 @@ Veja estas publicações da Universidade Estadual do Oregon:
 - [Encorajando Insetos Benéficos no Seu Jardim](https://catalog.extension.oregonstate.edu/pnw550)
 - [Guia do Educador para Jardinagem de Vegetais](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Caça ao Lesma
 
 As crianças vão aprender como as lesmas têm um papel no ecossistema. Existem três tipos comuns de lesmas no Noroeste do Pacífico:
 
@@ -49,7 +45,6 @@ Veja estes recursos:
 - [Identificando Lesmas e Caracóis](https://agsci.oregonstate.edu/slug-portal/identification)
 - [Lesmas e Caracóis](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
 
-#### Procure Decompositores
 
 Minhocas, tatuzinhos, formigas e caracóis fazem parte do ecossistema e são essenciais para transformar matéria orgânica em húmus. Eles merecem ser celebrados.
 
@@ -59,7 +54,6 @@ Confira o recurso da Universidade Estadual do Oregon sobre decompositores:
 
 - [Minhocas como Decompositoras](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
 
-#### Dicas de Plantio
 
 Dê às crianças informações essenciais sobre plantar em um lugar com mais luz solar e garantir que a terra cubra as sementes (não muito fundo). Incentive-as a observar como os insetos interagem com as plantas enquanto crescem.
 
@@ -87,10 +81,3 @@ Aqui estão algumas sugestões:
 - *Voa, Flutua, Voando: Sementes em Movimento* de JoAnn Early Macken
 - *Frutas, Nozes e Sementes* de Diane L. Burns
 - *O Jardim de Jack* de Henry Cole
-
-#### Dicas dos Master Gardener™ · Ligue para a Linha de Ajuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos e cronograma de aulas do 10-Minute University™: Acesse [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade prévia de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

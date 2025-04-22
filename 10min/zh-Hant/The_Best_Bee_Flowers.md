@@ -1,5 +1,3 @@
-#### 10 分鐘大學™ · 克拉克馬斯縣園藝大師協會 · 與奧勒岡州立大學推廣園藝大師™計畫合作及支持
-
 # 最佳蜜蜂花卉 — 園藝研究證實
 
 本清單包含由加州大學 Dr. Gordon Frankie 及其同事證實最能吸引蜜蜂的植物[^1]。吸引本地蜜蜂的奧勒岡原生植物則根據奧勒岡州立大學 Aaron Anderson 的園藝生態實驗室研究[^2]。資料來源：Frankie 等人著作 *California Bees & Blooms* 及 blogs.oregonstate.edu/gardenecologylab/[^3]。

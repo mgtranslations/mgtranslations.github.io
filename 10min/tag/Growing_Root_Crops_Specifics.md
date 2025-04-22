@@ -1,12 +1,7 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
----
-
 ## Mga Espesipiko sa Pagpapalago ng Root Crops
 
 ### Pagpapalago ng Mga Bulb
 
-#### Bawang
 
 - **Pagtatanim:**
   - Magtanim ng bawang mula Agosto hanggang Oktubre para sa pinakamagandang resulta.
@@ -24,7 +19,6 @@
   - Ilatag ang bawang sa malamig at tuyong lugar ng ilang linggo.
   - Gupitin ang mga dahon at tanggalin ang mga ugat.
 
-#### Sibuyas
 
 - **Pagtatanim:**
   - Magtanim ng onion sets sa Marso kapag malamig.
@@ -41,7 +35,6 @@
   - Alisin ang lupa at ilagay ang sibuyas sa mataas na lugar sa malamig at tuyong lugar ng 1–2 linggo.
   - Gupitin ang mga dahon at tanggalin ang mga ugat.
 
-#### Leeks
 
 - **Pagtatanim:**
   - Mag-umpisa ng buto sa loob ng bahay huling bahagi ng Pebrero o unang bahagi ng Marso (8–10 linggo bago ang huling frost) sa mababaw na tray na may seedling mix soil.
@@ -63,7 +56,6 @@
 
 ### Pagpapalago ng Mga Rhizome
 
-#### Luya o Luyang Dilaw (Turmeric)
 
 - **Pagtatanim:**
   - Magparami mula sa malusog at matabang rhizome.
@@ -85,7 +77,6 @@
 
 ### Pagpapalago ng Mga Tap Root
 
-#### Karot, Labanos, Remolacha, at Parsnip
 
 - **Pagtatanim:**
   - Magtanim ng buto maaga sa tagsibol kapag ang lupa ay mga 40°F o huling bahagi ng tag-init para sa ani ng taglagas.
@@ -107,7 +98,6 @@
 
 ### Pagpapalago ng Mga Tuberous Root
 
-#### Kamote
 
 - **Pagtatanim:**
   - Magtanim mula sa “slips” sa unang bahagi ng Abril.
@@ -127,7 +117,6 @@
 
 ### Pagpapalago ng Mga Tuber
 
-#### Patatas
 
 - **Pagtatanim:**
   - Magtanim huling bahagi ng Marso o unang bahagi ng Abril.
@@ -149,8 +138,3 @@
 
 - [Ang root crops ay maaaring magpaaga ng iyong spring garden](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Mga Nakakaing Ugat, Tangkay, at Bulb - Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang pampamilya/pagiging magulang, kita mula sa programang pampublikong tulong, paniniwalang pampolitika, impormasyong henetiko, katayuang beterano, pagganti, o paghihiganti dahil sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

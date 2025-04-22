@@ -1,5 +1,3 @@
-#### 10-Feeb University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Txhim Kho Cov Cuab Yeej Ua Liaj Ua Teb Kom Ntsis
 
 ### Taw Qhia
@@ -23,7 +21,6 @@ Tsis tas yuav muab cuab yeej lov tas txhua zaus koj txhim kho nws; txawm li cas 
 
 ### Yuav Ua Li Cas Kom Ntsis
 
-#### 1. Xyuas Seb Qhov Twg Yuav Tsum Ntsis
 
 | Cuab Yeej             | Pes Tsawg Hniav Yuav Ntsis | Sab Hniav Yuav Ntsis                     |
 |----------------------|----------------------------|------------------------------------------|
@@ -35,15 +32,12 @@ Tsis tas yuav muab cuab yeej lov tas txhua zaus koj txhim kho nws; txawm li cas 
 | Picks, mattocks, axe | Ib                         | Ob sab                                  |
 | Hay fork             | Ntau                       | Txhua tus tines ntsis kom tsis ntse heev |
 
-#### 2. Ntxuav Cov Cuab Yeej
 
 Tshem av thiab roj kom huv sab npoo ntawm txhua cuab yeej, kho cov tines ntawm forks kom ncaj, thiab xyuas daim ntaub txhim kho seb puas muaj khoom lo nruab nrab ntawm cov hniav. Yog muaj, siv daim txhuam ntaub los ntxuav raws li cov hniav. Yog daim ntaub txhim kho muaj ob txoj hniav, siv daim txhuam ntaub mus raws txhua txoj kev. **TSIS TXHOB** siv xab npum los sis dej rau daim ntaub txhim kho.
 
-#### 3. Siv Vise Kom Cuab Yeej Ruaj
 
 Muab koj cuab yeej tso rau hauv vise ntawm qhov tiaj tshaj ntawm lub hauv paus hniav. Yog koj khi vise rau qhov tsis yog, koj tuaj yeem ua kom cuab yeej txiav pruning qaug.
 
-#### 4. Tsim Lub Kaum Ntsis
 
 Ib lub kaum ntsis zoo yog 20° txog 25°. Yuav paub li cas:
 
@@ -51,7 +45,6 @@ Ib lub kaum ntsis zoo yog 20° txog 25°. Yuav paub li cas:
 - Tig daim ntaub txhim kho nqes ib nrab. Qhov no yog 45-degree.
 - Tig nqes dua ib nrab ntxiv. Qhov no yuav yog kwv yees li 22.5-degree, uas yog zoo tshaj rau ntsis.
 
-#### 5. Pib Ntsis
 
 - Txhua zaug txhim kho yuav tsum mus raws lub hniav thiab dhau tag nrho ntev lub hniav.
 - Siv zog sib npaug ntawm qhov kawg mus rau hauv paus, tsuas yog tawm tsam thaum txav mus rau tom ntej xwb.
@@ -60,7 +53,6 @@ Ib lub kaum ntsis zoo yog 20° txog 25°. Yuav paub li cas:
 
 > **Nco Ntsoov:** Yog loppers tsis muaj kev kho kom raug, koj yuav pom hlau ci ci ntawm hauv paus ntawm anvil blade, qhia tau tias lub hniav tab tom txiav ze heev lossis txiav mus rau hauv anvil lawm. Kho cov hniav ntawd tam sim ntawd.
 
-#### 6. Ua Kom Tiav
 
 Rau cov hniav hlau tawv, siv pob zeb carborundum nruab nrab los ua cov kauj ruam kawg. Yog koj muaj Felco, ARS, los sis lwm yam hlau tawv, kuj siv daim hone diamond zoo los sis ceramic zoo heev los ua kom ntsis. Qhov no tsuas xav tau ib los sis ob zaug xwb.
 
@@ -76,10 +68,3 @@ Rau cov hniav hlau tawv, siv pob zeb carborundum nruab nrab los ua cov kauj ruam
 - [Cov Cuab Yeej Zoo Rau Tus Ua Teb Zaub](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Tu Koj Cov Cuab Yeej Ua Teb Kom Zoo](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Tsim Koj Cov Cuab Yeej Ua Teb Kom Ntsis](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
-#### Master Gardener™ Tswv Yim · Hu Xovtooj Hais Txog Teb Vaj Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam ntaub ntawv thiab sijhawm kawm 10-Feeb University™, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis kam cais tawm hauv txhua qhov kev pabcuam, kev pab, kev ua haujlwm, thiab cov ntaub ntawv ntawm qhov kev sib txawv ntawm haiv neeg, xim, lub teb chaws keeb kwm, kev ntseeg, poj niam txiv neej, tus kheej txheeb ze poj niam txiv neej (xws li kev qhia tus kheej), kev nyiam sib deev, xiam oob qhab, hnub nyoog, txoj kev sib yuav, kev muaj niam txiv, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, xov xwm caj ces, kev ua tub rog, kev raug nplua, lossis kev ua phem rau qhov tau tiv thaiv kev cai lij choj yav tas los. (Tsis yog txhua hom kev txwv no siv rau txhua qhov kev pab cuam.)
----

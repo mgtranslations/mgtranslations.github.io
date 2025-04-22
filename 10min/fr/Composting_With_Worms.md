@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension OSU
-
 # Le Compostage avec des Vers
 
 Un bac à vers est un moyen facile de transformer les déchets alimentaires en engrais et en amendements pour votre jardin. Les vers rouges sont de grands recycleurs qui transforment les pelures de pomme, les tiges de courgette et d’autres déchets de cuisine en seulement quelques mois. Donnez-leur un foyer avec de la litière et de la nourriture, et ils se mettront au travail.
@@ -32,7 +30,6 @@ Les vers peuvent manger la moitié de leur poids en nourriture en 24 heures. Est
 
 Même si les vers peuvent décomposer presque tous les déchets organiques, il vaut mieux les traiter comme des végétariens.
 
-#### À donner :
 
 - Restes de légumes
 - Marc de café et filtres
@@ -43,7 +40,6 @@ Même si les vers peuvent décomposer presque tous les déchets organiques, il v
 - Poils d’animaux
 - Papier déchiqueté
 
-#### À ne pas donner :
 
 - Viande, poisson, produits laitiers
 - Nourriture grasse ou huileuse
@@ -73,7 +69,6 @@ Les vers rouges ont besoin d’humidité toute l’année car ils ne creusent pa
 
 ### Problèmes Possibles et Solutions
 
-#### Odeur
 
 Pour contrôler les odeurs :
 
@@ -81,7 +76,6 @@ Pour contrôler les odeurs :
 - N’ajoutez pas les éléments listés dans “À ne pas donner” dans la section “Nourriture pour les Vers”
 - Ajoutez régulièrement de la litière fraîche
 
-#### Nuisibles
 
 - **Mouches du vinaigre** : Parfois, de toutes petites mouches du vinaigre (qu’on confond avec les mouches à fruits) apparaissent, mais elles sont inoffensives. Si elles sont très nombreuses, c’est peut-être que vous donnez trop à manger aux vers. Pour vous en débarrasser :
   - Réduisez la quantité de nourriture à ce que les vers peuvent manger en un jour.
@@ -104,12 +98,3 @@ Pour contrôler les odeurs :
   [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Les Vers mangent mes déchets**, Mary Appelhof, Deuxième édition
 - **Bienvenue au Can-O-Worms**, N. Nattrass
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la Ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches 10-Minute University™ et le calendrier des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents, basée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus issus d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les conséquences d’une activité antérieure relative aux droits civils. (Toutes les restrictions ne s’appliquent pas à tous les programmes.)
----

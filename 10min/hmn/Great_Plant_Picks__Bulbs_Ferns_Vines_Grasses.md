@@ -1,5 +1,3 @@
-#### 10-Feeb Chav Kawm Ua Liaj Ua Teb™ · Lub Koom Haum Clackamas County Master Gardener · Ua Haujlwm Ua Ke thiab Txhawb Nqa OSU Extension Master Gardener™ Program
-
 ## Cov Nroj Tsuag Zoo Tshaj Plaws: Pauj, Nroj Tsuag Qab Zib, Nroj Hnav, thiab Nyom
 
 ### Cov Cim Tseem Ceeb
@@ -85,8 +83,3 @@ Great Plant Picks (GPP) yog qhov kev pab qhia ntawv tseem ceeb ntawm Elisabeth C
 - Tsis nyiam muaj kab mob/kab tsuag.
 - Muaj ntau tshaj ib caij uas zoo nkauj hauv vaj.
 - Ntau hom GPP nroj tsuag kuj tseem pab tau rau ib puag ncig (pab kab, pub noog noj, chaw nyob rau tsiaj qus, thiab lwm yam).
-
----
-
-###### Oregon State University Extension Service txwv tsis pub ua qhov txawv txav los sis saib tsis taus hauv tag nrho nws cov kev pab cuam, kev pab, kev ua ub no, thiab khoom, raws li haiv neeg, xim, lub teb chaws yug, kev ntseeg, tub los ntxhais, tus kheej/cim xeeb (xws li kev qhia tus kheej), kev nyiam sib deev, xiam oob khab, hnub nyoog, txij nkawm, kev muaj me nyuam, nyiaj tau los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, xov xwm caj ces, kev ua qub tub rog, los sis ua pauj/tsis kam rau qhov kev ua haujlwm yeej cai neeg. (Tsis yog txhua yam uas txwv tau no siv rau txhua qhov kev pab cuam.)
----

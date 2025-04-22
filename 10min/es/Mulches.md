@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Asociación de Master Gardeners del Condado de Clackamas · En colaboración y apoyo al Programa Master Gardener™ de Extensión de OSU
-
 # Mulch: Lo Bueno, lo Malo y lo Realmente, Realmente Feo
 
 **Dra. Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Washington State University
 
 ### Problemas con Mulchs de Madera Gruesa
 
-#### Mulch de Corteza
 
 - Puede estar contaminado con sal o semillas de malezas
 - La corteza contiene ceras que impiden la absorción y liberación de agua en el paisaje
 - Corteza de coníferas suele tener fibras pequeñas y afiladas, poco amigables para personas
 
-#### Astillas de Madera de Arborista
 
 - Preocupación por la alta relación carbono:nitrógeno – ¿esto causa deficiencia de nitrógeno?
 - ¿La madera enferma transmite patógenos si se usa para astillas?
 
-#### Disponibilidad de Nitrógeno
 
 - Mulch de astillas de madera tiene alta relación C:N, lo que causa deficiencia localizada de nitrógeno en la interfaz mulch-suelo
 - No causa deficiencia de nitrógeno en plantas ya establecidas
 - La alta relación C:N probablemente previene germinación de algunas semillas de malezas
 
-#### Patógenos Fúngicos y Astillas de Madera
 
 - Armillaria, Cytospora, Thyronectria y Verticillium pueden sobrevivir en trozos grandes de madera por meses
 - La supervivencia aumenta si las astillas se mezclan con el suelo
 - No hay evidencia de que los patógenos en el mulch infecten raíces bajo la superficie
 
-#### Comunidades Fúngicas en Astillas de Madera
 
 - Los hongos en astillas de madera generalmente son descomponedores, no patógenos
 - En suelos sanos (aeróbicos), hongos beneficiosos probablemente superan a los patógenos
@@ -230,12 +223,3 @@ Blog: http://www.gardenprofessors.com
 Libros: http://www.sustainablelandscapesandgardens.com  
 Página de Facebook: http://www.facebook.com/TheGardenProfessors  
 Grupo de Facebook: https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Consejos de Master Gardener™ · Llame a la Línea de Ayuda de Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos y horarios de clases de 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paterno, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

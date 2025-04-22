@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU
-
 # Cómo Cultivar Lechuga y Otras Verduras de Hoja
 
 ### Resumen
@@ -121,12 +119,3 @@ El suelo húmedo y sombreado debajo de las plantas de lechuga, junto con hojas t
 - [Cómo construir tu propio invernadero de bancal elevado (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [Jardinería con compost, acolchados y cubiertas (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [Manual de Jardinería Sostenible (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda de horticultura doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos y horarios de clases de la Universidad de 10 Minutos™, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

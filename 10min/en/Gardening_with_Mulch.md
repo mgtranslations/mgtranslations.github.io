@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Gardening with Mulches
 
 Mulch is a layer of material spread over the soil surface to achieve one or more of the following benefits:
@@ -53,23 +51,19 @@ Plastic mulch is often used to suppress weeds or warm the soil.
 
 ### How to Use Plastic Mulch
 
-#### To Suppress Weeds
 
 1. Lay black plastic after soil preparation for seeding or planting and after water lines have been placed.
 2. Weigh down the edges with soil.
 3. Insert seeds or transplants through an X cut in the plastic.
 4. Use perforated plastic or create perforations with an ice pick to allow water through.
 
-#### To Warm the Soil
 
 - **Clear or Translucent Plastic**: Warms the soil more effectively but may create a "greenhouse" for weeds.
 - **Black Plastic**: Warms the soil to a lesser degree but suppresses weeds.
 
-#### To Keep the Soil Dry
 
 Cover the area with black plastic during winter to keep the garden bed dry for early spring soil preparation and planting. Weigh down the edges to prevent it from becoming a greenhouse for weeds or a hiding place for pests.
 
-#### To Accelerate Growth and Maturity of Heat-Loving Plants
 
 Tomato, pepper, melon, strawberry, and other heat-loving plants have been studied to determine the effects of various colored plastic mulches on growth, maturity, and yield.
 
@@ -81,9 +75,3 @@ Tomato, pepper, melon, strawberry, and other heat-loving plants have been studie
 ## Additional Resources
 
 - **OSU Extension Service Publication**: [Mulching Woody Ornamentals with Organic Materials](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

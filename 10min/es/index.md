@@ -116,5 +116,3 @@ Fuente original:
 
 - [Mulch: lo Bueno, lo Malo y lo Realmente, Realmente Feo. – Linda Chalker-Scott, PhD, WSU](Mulches.md)
 - [Poda y Clasificación de Clemátide – Linda Beutler](Clematis.md)
-
----

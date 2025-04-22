@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Fall Garden Maintenance
 
 ### Overview
@@ -76,9 +74,3 @@ Fall is a good time to add new plantings, move or transplant shrubs and perennia
 
 - **Oregon State University Extension Service:**  
   [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · For 10-Minute University™ handouts, visit [www.cmastergardeners.org](http://www.cmastergardeners.org) · Look for Master Gardeners at area Farmers’ Markets.
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

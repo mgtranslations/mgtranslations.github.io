@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros™ de Oregon – Capítulo del Condado de Clackamas · En cooperación con el Servicio de Extensión de la Universidad Estatal de Oregon
-
 # Jardinería con Niños de 11 a 14 Años
 
 Jardinear con niños de 11 a 14 años puede ser emocionante y gratificante tanto para ellos como para los adultos. Los aleja del tiempo frente a la computadora y otras pantallas, despierta la imaginación y reduce el estrés y la ansiedad. Los niños de esta edad ya están físicamente listos para realizar trabajos de jardinería más extensos y disfrutarán explorando estructuras en el jardín, como construir una celosía o un huerto elevado. Estas actividades ahorran espacio, proporcionan mejor luz solar y suelo, y son muy empoderadoras para los niños.
@@ -72,12 +70,3 @@ Hay muchos libros ilustrados y de instrucciones sobre jardinería que los niños
 ## Recurso de la Universidad Estatal de Oregon
 
 - [Guía para Educadores sobre Jardinería de Vegetales](https://catalog.extension.oregonstate.edu/em9032)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la Línea de Ayuda de Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folletos y horarios de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregon prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paternal, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ · Ururka Beeraleyda Khibradda leh ee Clackamas County iyadoo la kaashaneysa lana taageereysa Barnaamijka OSU Extension Master Gardener™
-
 ## Ka Dhig Beertaada Mid U Adkeysan Karta Isbeddelka Cimilada: Dhulka
 
 Dhulka waxa uu maraa waqti kululaanaya oo keena barafyo dhalaalaya, heerka badda oo kacaya, asiid badan oo badaha ah, iyo abaaro iyo fatahaado soo noqnoqda oo xun. Gobollada Waqooyiga Baasifikada waxaa laga dareemay abaaro soo jiitamaya, dabaylo waaweyn oo sii kordhaya, mowjado kulayl, weerar xamaarato badan, iyo cudurro geedaha ku dhacaya. Baraf yarida buuraha waxay keentaa in la helo biyo badan xilliyada hore ee sanadka, taas oo yareysa biyaha la heli karo. Intaa waxaa dheer, isbedelka cimilada waxa uu keenaa dhacdooyin cimilo oo aan la saadaalin karin (kuleyl xad dhaaf ah, roobab badan) oo aad u tiro badan.
@@ -61,8 +59,3 @@ Sidee beero loogu samayn karaa waqtiyadan adag? Qormadan waxa ay kuu soo bandhig
 - [Siraha Noolaha ee Dhulka Nool, Jaamacadda Oregon State EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Kaydinta Kaarboonka ee Dhulka, Jamciyadda Deegaanka ee Maraykanka](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. et al. *Xididada dhirta iyo walxaha ay sii daayaan waxa ay xiriir la leeyihiin noocyada kala duwan ee dhirta iyo noolaha dhulka sida bakteeriyada iyo fangiyada.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### Adeegga Wacyigelinta Jaamacadda Oregon State University waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, asal qaranimo, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), nooca galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka gargaarka dowladda, aaminsanaanta siyaasadeed, macluumaadka hidaha, heerka halyeeynimada, ciqaabta ama aargoosiga la xiriira hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha mamnuuca ah lama dabaqo dhammaan barnaamijyada.)
----

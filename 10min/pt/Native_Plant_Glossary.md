@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros da Extensão OSU
-
 ## Glossário de Plantas Nativas
 
 ### Planta Nativa
@@ -37,8 +35,3 @@ Mutações em plantas, também conhecidas como esportes ou quimeras, são mudan�
 
 - A propagação vegetativa é usada para manter características desejáveis. As plantas muitas vezes tendem à "reversão", ou seja, parte ou toda a planta volta à sua forma original.
 - **Exemplos:** Flores de camélia com manchas e listras.
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar ou parental, renda oriunda de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

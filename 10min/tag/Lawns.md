@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 ## Gawing Mas Matatag sa Klima ang Iyong Hardin: Mga Damuhan
 
 Ang kasalukuyang pag-init ng mundo ay nagdudulot ng pagkatunaw ng mga glacier, pagtaas ng antas ng dagat, pagtaas ng acidity ng karagatan, at mas madalas at malalang tagtuyot at pagbaha. Sa Pacific Northwest, nararanasan ang matagal na tagtuyot, pagdami ng mga sunog sa kagubatan, matitinding init, pagdami ng mga insekto, at mga sakit ng puno. Ang nabawasang snowpack ay nagdudulot ng mas maagang pagdaloy ng tubig sa mga ilog at sapa na nagreresulta sa kakulangan ng suplay ng tubig. Bukod pa dito, ang pagbabago ng klima ay nagdadala ng pabago-bago at matitinding mga pangyayari sa panahon (malalakas na init, malakas na ulan) na mas madalas mangyari.  
@@ -37,8 +35,3 @@ Para sa karagdagang detalye, basahin ang Climate-Friendly Lawns: [https://extens
 - **Iba pang mabababang ground cover na hindi damo** ay kinabibilangan ng creeping thyme, creeping mint, mababang chamomile o kahit moss. I-match ang ground cover sa dami ng araw at tubig na natatanggap ng lugar.
 - **Palawakin ang pagtanggap sa mga damo:** Ang mga damo ay makakatulong din sa pagdagdag ng biodiversity sa iyong bakuran sa pagbibigay ng pagkain sa iba’t ibang insekto. Ang mga namumulaklak na damo ay nakakatulong sa mga pollinator.
 - **Gamitin nang maayos ang mga herbicide, kung gagamit:** Magputol bago mamunga ang damo para maiwasan ang pagkalat o gumamit ng manual na paraan ng pagtanggal ng damo. Kung kailangan ng chemical herbicide, pumili ng low-impact na produkto mula sa listahan: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/pagiging magulang, kita na galing sa tulong ng gobyerno, paniniwala sa pulitika, impormasyon sa genetika, katayuan bilang beterano, paghihiganti, o pagganti para sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Mga Cover Crop para sa Home Vegetable Gardens
 
 Ang mga cover crop ay tumatakip at nagpapabuti ng lupa. Maaari silang itanim sa taglagas para takpan ang mga bakanteng bahagi o itanim sa tagsibol bilang bahagi ng crop rotation. Maraming uri ng halaman, kabilang ang mga legume, damo, at malalapad na perennial, ang nagsisilbi para sa layuning ito.
@@ -75,10 +73,3 @@ Kasama sa pagpapatay ang paggapas o pagyuko ng mga tangkay para mamatay ang taas
     - Cover Crops for Home Gardens West of the Cascades FS111E
     - Cover Crops for Home Gardens East of the Cascades FS117E
     - Methods for Successful Cover Crop Management in Your Home Garden FS119E
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Bisitahin ang [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) para sa mga handout at video ng 10-Minute University™
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa public assistance program, paniniwala sa pulitika, impormasyon ng genetika, katayuang beterano, pagganti o paghihiganti sa dating civil rights activity. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

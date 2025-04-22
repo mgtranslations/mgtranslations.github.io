@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Paggamit ng Katutubong Halaman sa Iyong Hardin
 
 ### Panimula
@@ -69,8 +67,3 @@ Ang mga bihasang propesyonal sa nursery at tagadisenyo ng hardin ang pumili ng m
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Native Plant Attractiveness Study – Plant List**, 10-Minute University™ handout  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, gawain, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuang beterano, paghihiganti o pagganti dahil sa dating gawaing may kinalaman sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

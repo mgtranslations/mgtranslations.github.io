@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 ## Pag-akit ng mga Polinador sa Iyong Hardin
 
 ### Polinasyon at mga Polinador
@@ -12,15 +10,12 @@ Karaniwang mga polinador ay mga ibon, bubuyog, paruparo, gamu-gamo, langaw, at s
 
 ### Mga Bagong Banta sa Mga Polinador
 
-#### Pagkawala ng Tirahan
 
 Kapag ginawang iba ang gamit ng mga tirahan ng buhay-ilang, nawawala ang pinagkukunan ng pagkain at tahanan ng mga polinador.
 
-#### Pestisidyo
 
 Ang mga bubuyog, paruparo, at karamihan sa ibang insekto ay madaling tamaan ng pestisidyo. Ang pagkalantad dito ay maaaring pumatay o unti-unting magpahina sa kakayahan nilang lumipad, maghanap ng pagkain, at magparami.
 
-#### Invasive Species
 
 May ilang mga halamang dinala mula sa ibang lugar na sumasakop sa mga likas na lugar at nagpapalitan sa mga katutubong halaman na nagbibigay ng iba’t ibang uri ng pagkain at tirahan para sa mga katutubong polinador. Tingnan ang *Invasive Species: What Gardeners Need to Know* para sa karagdagang impormasyon.
 
@@ -28,13 +23,11 @@ May ilang mga halamang dinala mula sa ibang lugar na sumasakop sa mga likas na l
 
 ### Mga Paraan Para Tumulong sa Mga Polinador
 
-#### Magbigay ng Pagkain Gamit ang Namumulaklak na Halaman Mula Tagsibol Hanggang Taglagas
 
 Nagbibigay ang mga bulaklak ng nektar (asukal) at polen (protina) para sa mga polinador at kanilang mga anak. Dahil magkaiba ang paboritong pagkain ng bawat polinador, mahalaga ang iba’t ibang uri ng halaman. Ipinapakita ng pananaliksik na ang mga lugar na may 15 o higit pang uri ng namumulaklak na halaman ay nagpaparami ng iba’t ibang bubuyog.
 
 Ang mga hardinero na gustong mag-alaga ng bubuyog ay dapat magtanim ng hindi bababa sa tatlong uri ng namumulaklak na halaman sa anumang oras mula tagsibol hanggang taglagas. Ilagay ang magkakatulad na bulaklak nang magkakasama upang mapansin ng mga dumadaang polinador.
 
-#### Mga Katangian ng Bulaklak para sa mga Polinador
 
 | Bulaklak    | Bubuyog                           | Paruparo                | Ibon                        | Langaw                               |
 |-------------|-----------------------------------|-------------------------|-----------------------------|--------------------------------------|
@@ -47,19 +40,15 @@ Ang mga hardinero na gustong mag-alaga ng bubuyog ay dapat magtanim ng hindi bab
 
 Magdagdag ng mga halamang namumulaklak tuwing tagsibol upang may makakain agad ang mga bubuyog na katutubo paglabas mula sa taglamig. Magtanim din ng namumulaklak tuwing huling tag-init para sa mga bubuyog na nagpapalipas ng taglamig bilang adult (hal. bumblebee). Ang *Plants for Pollinators*, isang handout ng 10-Minute University™, ay naglalaman ng maraming ideya.
 
-#### Magbigay ng Pugad para sa mga Katutubong Bubuyog
 
 Maraming katutubong bubuyog ang nagpapapugad sa lupa. Isang bahagi ng hubad na lupa o tuyong kama na may kaunting ornamental grass ay perpekto. Ang pagtatakip ng lupa ng plastik o madalas na pag-araro ay maaaring makasira sa mga pugad. Ibang bubuyog naman ay nagpapapugad sa mga dating tunel ng salagubang sa mga patay na puno o tumpok ng sanga. Pinakamainam na pugad ay tuyot, mainit, protektado mula sa mandaragit, at malapit sa pagkain.
 
-#### Magbigay ng Host Plant para sa Paruparo at Gamu-gamo
 
 Ang mga adult na paruparo at gamu-gamo ay gustong kumain ng nektar, ngunit ang kanilang mga anak ay kumakain ng dahon ng halaman. Dito sa “host plant” nangingitlog ang mga adult. Madalas, ang mga katutubong punong ornamental at palumpong ay magagandang host plant para sa maraming uri.
 
-#### Gumamit ng Katutubo at Banyagang Halaman
 
 Ang mga katutubong halaman ay magagandang host plant para sa paruparo at gamu-gamo at nagbibigay ng pagkain para sa ibang polinador. Ngunit ang mga hardinerong mas gusto ang banyagang halaman, lalo na ang mga madalas mamulaklak na annuals at maliliit na perennials, ay huwag mag-atubiling gumamit nito para mapanatili ang mahabang panahon ng pamumulaklak sa hardin.
 
-#### Iwasan ang Paggamit ng Pestisidyo
 
 Sa unang palatandaan ng problema sa halaman, mangolekta ng ebidensya para sa tamang pagsusuri. Ang pag-unawa sa problema ay mahalaga bago gumawa ng aksyon. Maraming problema sa halaman, kapag maagang nadiskubre, ay maaaring malunasan ng hindi gumagamit ng kemikal. Maging mapagmasid sa hardin.
 
@@ -92,12 +81,3 @@ Para maprotektahan ang mga polinador:
 
 - **Pinakamagagandang Bulaklak para sa Bubuyog**  
   [Panuorin sa YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlang kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/pagiging magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti, o paghihiganti sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

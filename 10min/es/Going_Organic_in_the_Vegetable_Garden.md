@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros de Extensión OSU™
-
 # Jardinería de Vegetales Orgánica
 
 ### ¿Qué es la “Jardinería Orgánica”?
@@ -69,7 +67,6 @@ Agregar compost al suelo mejora su estructura y salud a largo plazo. Sin embargo
 
 Visita [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 
-#### Para Consejos de Maestros Jardineros™
 
 - **Llama a la Línea de Ayuda de Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
@@ -77,8 +74,3 @@ Visita [https://catalog.extension.oregonstate.edu](https://catalog.extension.ore
   - 503-445-4608 (Condado de Multnomah)
 - Envía una pregunta en [www.metromastergardeners.org](http://www.metromastergardeners.org)
 - Visita el sitio web de los Maestros Jardineros del Capítulo Clackamas [www.cmastergardeners.org](http://www.cmastergardeners.org) para folletos de la Universidad de 10 Minutos™ y el calendario de clases gratuitas.
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

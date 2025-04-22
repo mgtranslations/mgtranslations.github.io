@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 ## Haz tu jardín más resiliente al clima: Ecosistema
 
 La Tierra está experimentando una tendencia de calentamiento que resulta en el derretimiento de glaciares, aumento del nivel del mar, mayor acidez del océano y sequías e inundaciones más frecuentes y severas. El Noroeste del Pacífico ha visto sequías prolongadas, incremento en la incidencia y severidad de incendios forestales, olas de calor, brotes de insectos y enfermedades en árboles. La disminución de la capa de nieve provoca picos más tempranos de flujo en ríos y arroyos y reduce el suministro de agua. Además de estas tendencias, el cambio climático trae eventos climáticos extremos e irregulares (olas de calor, lluvias intensas) con mayor frecuencia.  
@@ -75,8 +73,3 @@ El rango de hogar de algunas criaturas puede coincidir con tu jardín. Ejemplos 
 ### Restauración natural (Rewilding)
 
 La restauración natural generalmente se aplica a áreas grandes, enfocándose en restaurar funciones ecológicas. Algunos principios pueden ser relevantes para jardines caseros. [Aprende más sobre rewilding](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

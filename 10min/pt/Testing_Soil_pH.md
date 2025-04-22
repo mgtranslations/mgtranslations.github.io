@@ -1,7 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
----
-
 ## Testando o pH do Solo
 
 ### Visão Geral
@@ -71,7 +67,6 @@ Cada amostra fornecerá uma leitura de pH:
 
 Quando os Mestres Jardineiros realizam o teste, também ajudam a interpretar os resultados e oferecem informações sobre como corrigir o solo. O ideal é ajustar o pH do solo ao longo de vários anos. Adicione o corretivo apropriado no outono e verifique novamente o pH do solo em 3 a 6 meses. Repita se necessário.
 
-#### Aumentando o pH do Solo
 
 - Adicione calcário no outono para melhores resultados.
 - Use **5 a 10 libras de calcário por 10 metros quadrados** se for misturar ao solo antes de plantar.
@@ -85,7 +80,6 @@ Quando os Mestres Jardineiros realizam o teste, também ajudam a interpretar os 
 - Se usar calcário em pó, use máscara.
 - O calcário dolomítico contém magnésio e é uma boa opção para jardineiros do oeste do Oregon, onde os solos costumam ter falta de magnésio.
 
-#### Diminuindo o pH do Solo
 
 - Adicione enxofre elementar no outono para melhores resultados.
 - Para árvores e arbustos já estabelecidos, adicione uma pequena quantidade ao solo na linha de gotejamento ou distribua em faixa ao longo de uma fileira de mirtilos.
@@ -102,12 +96,3 @@ Visite o escritório do Serviço de Extensão da OSU em 200 Warner-Milne Road, O
 - **Lista de Laboratórios Analíticos que Atendem Oregon** (EM 8677)
 - **Amostragem de Solo para Jardins Residenciais e Pequenas Propriedades** (EC 628)
 - **Acidificação do Solo para Mirtilos e Plantas Ornamentais no Jardim** (EC 1560-E)
-
----
-
-#### Dicas dos Mestres Jardineiros™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para mais folhetos da Universidade de 10 Minutos™ e cronograma de aulas, acesse [www.cmastergardeners.org](http://www.cmastergardeners.org) ou [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade prévia de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

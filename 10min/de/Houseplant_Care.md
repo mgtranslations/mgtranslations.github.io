@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Wie man Zimmerpflanzen pflegt
 
 Zimmerpflanzen zu ziehen ist eine tolle Möglichkeit, mehr Grün in dein Zuhause zu bringen. Manche Zimmerpflanzen sind fast kinderleicht zu pflegen, dennoch brauchen alle Pflanzen eine Grundversorgung. Pflanzen gedeihen am besten in einer Umgebung, die ihrem natürlichen Lebensraum ähnelt. Bevor du neue Pflanzen kaufst, solltest du ihre Grundbedürfnisse kennen, um zu wissen, ob du den richtigen Platz für sie hast und sie richtig pflegen kannst.
@@ -83,12 +81,3 @@ Staub kann sich auf den Blättern ablagern, sie matt aussehen lassen und die Lic
 - [Pflegeleichte Sukkulenten werden immer beliebter](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Bunte Zimmerpflanzen sind tolle Geschenke für die Feiertage](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Einfache Küchenkräuter für drinnen machen das Kochen würziger](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Master Gardener™ Beratung · Für Tipps wende dich an das örtliche OSU Extension Büro. Kontaktdaten findest du hier: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Für Handouts und Kurspläne der 10-Minuten-Universität™ besuche [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich geschlechtlicher Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/ elterlichem Status, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

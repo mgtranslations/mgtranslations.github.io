@@ -1,12 +1,7 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
-
----
-
 ## Kev Loj Hlob Zaub Caj
 
 ### Kev Loj Hlob Bulbs
 
-#### Kua Txob Qej
 
 - **Cog:**
   - Cog kua txob qej thaum Lub Yim Hli txog Lub Kaum Hli kom tau txiaj ntsig zoo tshaj.
@@ -24,7 +19,6 @@
   - Tso qej rau qhov chaw txias thiab qhuav rau ob peb lis piam.
   - Txiav nplooj thiab txiav caj tawm.
 
-#### Dos
 
 - **Cog:**
   - Cog dos thaum Lub Peb Hlis thaum huab cua txias.
@@ -41,7 +35,6 @@
   - Ntxuav av thiab tso dos rau qhov chaw txias, qhuav, thiab rau saum kom huab cua sib ncag li 1–2 lis piam.
   - Txiav nplooj thiab caj tawm.
 
-#### Kauj Ruam
 
 - **Cog:**
   - Pib cog noob hauv tsev thaum kawg Lub Ob Hlis los yog pib Lub Peb Hlis (8–10 lub lis piam ua ntej daus kawg) hauv tais tshwj xeeb rau noob.
@@ -63,7 +56,6 @@
 
 ### Kev Loj Hlob Rhizomes
 
-#### Khaub Ncaws los yog Turmeric
 
 - **Cog:**
   - Muab rhizome zoo, du los cog.
@@ -85,7 +77,6 @@
 
 ### Kev Loj Hlob Caj Qaum
 
-#### Carrot, Radish, Beet, thiab Parsnip
 
 - **Cog:**
   - Cog noob thaum ntxov caij nplooj ntoos hlav thaum av txog 40°F los yog thaum xaus lub caij ntuj sov kom tau qoob loo rau caij nplooj zeeg.
@@ -107,7 +98,6 @@
 
 ### Kev Loj Hlob Caj Ntoos
 
-#### Qab Zib Ntawv
 
 - **Cog:**
   - Loj hlob los ntawm “slips” thaum ntxov Lub Plaub Hlis.
@@ -127,7 +117,6 @@
 
 ### Kev Loj Hlob Caj Qos
 
-#### Qos Yaj Ywm
 
 - **Cog:**
   - Cog thaum xaus Lub Peb Hlis los yog pib Lub Plaub Hlis.
@@ -149,8 +138,3 @@
 
 - [Zaub caj tuaj yeem pab koj pib ua teb caij nplooj ntoos hlav](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Cov zaub caj, ceg, thiab bulbs noj tau - Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### Oregon State University Extension Service tsis pub ua qhov ntxub ntxaug hauv txhua yam kev pab, kev ua haujlwm, kev ua si, thiab ntaub ntawv raws li haiv neeg, xim, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, tus kheej xav paub (xws li kev qhia tus kheej), kev nyiam sib deev, kev xiam oob khab, hnub nyoog, poj niam txiv neej/txiv neej, kev muaj me nyuam, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua qub tub rog, kev raug pauj los yog kev raug txim yav dhau los. (Tsis yog txhua yam cai no siv rau txhua qhov kev pab.)
----

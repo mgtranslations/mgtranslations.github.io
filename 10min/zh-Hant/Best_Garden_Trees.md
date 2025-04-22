@@ -1,7 +1,3 @@
-#### 10分鐘大學™ · 克拉克默斯縣園藝大師協會 · 與奧勒岡州立大學延伸園藝大師™計畫合作並支持
-
----
-
 ## 警告：原始檔案包含大量圖片，無法完全翻譯，請同時參考原始 pdf 檔案 [這裡](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
 
 # 最佳庭園樹木
@@ -232,13 +228,3 @@
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*，Michael A. Dirr & Keith S. Warren，Timber Press，2019
 - *Trees to Know in Oregon and Washington*，Edward C. Jensen，奧勒岡州立大學延伸服務，EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### 園藝大師™ 諮詢 · 家庭園藝熱線：503-655-8631（克拉克默斯縣）· 503-821-1150（華盛頓縣）· 503-445-4608（穆特諾瑪縣）· 其他10分鐘大學™講義及課程表請參訪 [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### 奧勒岡州立大學延伸服務禁止在所有計畫、服務、活動及教材中基於種族、膚色、國籍、宗教、性別、性別認同（含性別表現）、性取向、殘疾、年齡、婚姻狀況、家庭/父母身分、來自公助計畫的收入、政治信仰、基因資訊、退伍軍人身分、報復或過去民權行動等進行歧視。（並非所有禁止因素適用於所有計畫。）
-
----

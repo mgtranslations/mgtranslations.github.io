@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Pamamahala ng mga Susô at Alimatik
 
 ### Ilang Pangunahing Kaalaman
@@ -113,10 +111,3 @@ Hikayatin ang mga mandaragit na angkop sa iyong paraan ng paghahalaman.
 ## Mga Sanggunian
 
 Kumuha ng mga publikasyon mula sa OSU Extension sa [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-
-#### Master Gardener™ Payong Hardinero · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa mga handout at iskedyul ng klase ng 10-Minute University™, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyal nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuan sa pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, paghihiganti o pagganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

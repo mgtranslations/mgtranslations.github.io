@@ -1,5 +1,3 @@
-#### Fall Pruning Guide for Perennial Plants · Prepared by Laura Eyer · 10/9/2018
-
 ## Prune
 
 - Bearded Iris
@@ -43,7 +41,6 @@
 
 ## Leave Standing
 
-#### Prepared by Laura Eyer · 10/9/2018
 
 - Artemisia
 - Aster

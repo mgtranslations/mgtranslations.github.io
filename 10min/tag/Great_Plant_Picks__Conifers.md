@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # 10-Minute University
 
 ## Mga Mahuhusay na Halaman: Mga Konipero

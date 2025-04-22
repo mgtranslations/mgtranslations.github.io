@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 ## Gawing Mas Matibay sa Klima ang Iyong Hardin: Lupa
 
 Ang mundo ay dumaranas ng pag-init na nagdudulot ng pagkatunaw ng mga glacier, pagtaas ng lebel ng dagat, pagtaas ng asido sa karagatan, at mas madalas at matitinding tagtuyot at pagbaha. Sa Pacific Northwest, nakakaranas tayo ng matagal na tagtuyot, mas madalas at matinding wildfire, matitinding init, pagdami ng insekto, at sakit sa mga puno. Ang nabawasang snowpack ay nagdudulot ng mas maagang pagtaas ng tubig sa mga ilog, na nagpapababa ng suplay ng tubig. Bukod dito, nagdadala ang pagbabago ng klima ng pabago-bago at matitinding panahon (heat waves, malalakas na ulan) na mas madalas mangyari.
@@ -61,8 +59,3 @@ Paano tayo maghahalaman sa panahong ito? Nag-aalok ang handout na ito ng mga ide
 - [The Dirty Secrets of a Living Landscape, Oregon State University EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Carbon Sequestration in Soil, Ecological Society of America](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. et al. *Root biomass and exudates link plant diversity with soil bacterial and fungal biomass.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado ng pag-aasawa, katayuang pampamilya/pagiging magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, genetic information, estado bilang beterano, pagganti o paghihiganti dahil sa dating civil rights activity. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

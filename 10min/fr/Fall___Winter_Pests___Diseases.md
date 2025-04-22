@@ -1,5 +1,3 @@
-#### Université de 10 minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration et en soutien au programme OSU Extension Master Gardener™
-
 ## Ravageurs et maladies d’automne et d’hiver
 
 ### Punaises puantes et punaises de l’érable négondo (Insectes)
@@ -90,12 +88,3 @@
 - Taillez les branches et feuilles mortes. Suivez les bonnes pratiques de taille : les grosses branches doivent être coupées en trois étapes et les plus petites à un bourgeon extérieur à un angle de 45 degrés.
 - Vérifiez les fissures dans l’écorce pour détecter la présence d’insectes et, si besoin, retirez-les.
 - Avant d’enlever une plante, attendez de voir si elle reprend sa croissance au printemps pour être sûr qu’elle est morte.
-
----
-
-#### Conseil de Maître Jardinier™ · Appelez la ligne d’assistance en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour plus de fiches et le calendrier des cours de l’Université de 10 minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Le service d’extension de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents, sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, des revenus issus d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou de la riposte à une activité antérieure liée aux droits civiques. (Tous les motifs d’interdiction ne s’appliquent pas à tous les programmes.)
----

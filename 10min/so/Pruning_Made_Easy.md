@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ee Gobolka Clackamas · Iyadoo lala kaashanayo lana taageerayo Barnaamijka Beeraleyda Master-ka ee OSU Extension
-
 # Goynta Geedaha Si Fudud
 
 Warqaddan waxaa diiradda lagu saarayaa geedaha iyo duurjoogta, iyadoo dhirta sannadlaha ah, kuwa joogtada ah, iyo cawska quruxda leh la dhigay mustaqbalka si loo barto.
@@ -103,11 +101,3 @@ Xeerkan guud waxaa laga yaabaa in la jebiyo marka dhirta aadka u xooggan la goyn
   - *Cass Turnbull’s Guide to Pruning* waxaa qoray Cass Turnbull
 - **Warqadaha Jaamacadda 10-Daqiiqo™:**
   - *Pruning Trees and Shrubs* waxaa laga heli karaa [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Talo Beeraleyda Master-ka™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Warqadaha kale ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka iyadoo lagu salaynayo: jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga ka yimaada barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, xaalada ciidan-nimo, aargoosi, ama ciqaab la xiriirta u doodista xuquuqda muwaadiniinta. (Dhammaan sababaha la mamnuucay ma khuseeyaan barnaamij kasta.)

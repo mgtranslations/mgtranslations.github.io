@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L'Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au programme OSU Extension Master Gardener™
-
 # Jardinage de Légumes avec Moins d’Eau
 
 ### Aperçu
@@ -96,12 +94,3 @@ La division Small Farms de l’OSU Extension a testé la faisabilité de la « c
   - Nichols Garden Nursery
   - Peace Seeds
   - Siskiyou Seeds
-
----
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’aide en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service de vulgarisation de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, en raison de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut matrimonial, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les mesures de rétorsion pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

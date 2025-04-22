@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County · Ua haujlwm koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
-
 # Txi Tawm Kom Yooj Yim
 
 Tsab ntawv qhia no tsom rau cov ntoo thiab cov tsob nroj shrub, tsis hais txog cov nroj tsuag ua txhua xyoo, perennial, thiab cov nyom kho kom zoo nkauj uas yuav tham ntxiv yav tom ntej.
@@ -103,12 +101,3 @@ Qhov cai dav dav no tej zaum yuav hloov tau rau cov nroj tsuag loj hlob ceev hee
   - *Cass Turnbull’s Guide to Pruning* los ntawm Cass Turnbull
 - **10-Minute University™ Cov Ntawv Qhia:**
   - *Pruning Trees and Shrubs* muaj nyob ntawm [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm cov ntawv qhia 10-Minute University™, mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub ua txhaum cai nyob rau hauv tag nrho nws cov kev pabcuam, cov kev ua, thiab cov ntaub ntawv, tsis hais txog haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev nyiam poj niam los txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, muaj/tsis muaj me nyuam, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim lossis raug pauj vim muaj kev tiv thaiv cai. (Tsis yog txhua yam kev txwv no yuav siv rau txhua yam kev pabcuam.)
----

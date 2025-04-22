@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 ## Ua Koj Lub Vaj Kom Muaj Zog Tua Dej Ntau Ntxiv: Ecosystem
 
 Lub ntiaj teb tab tom kub tuaj, ua rau dej khov yaj, dej hiav txwv nce siab, dej hiav txwv muaj kua qaub ntau, thiab muaj kev nqig dej thiab dej nyab ntau dua thiab loj dua. Hauv Pacific Northwest, peb pom tau tias dej nqig ntev ntev, hluav taws teb loj thiab muaj coob dua, cua kub ntau, kab tsuag ntau thiab kab mob ntoo. Dej daus tsawg ua rau dej hauv tus dej thiab dej ntws tuaj ntxov dua thiab dej tsawg dua. Ntxiv rau qhov no, kev hloov huab cua ua rau muaj huab cua txawv txawv thiab loj heev (cua kub, nag loj) ntau dua yav dhau los.  
@@ -75,8 +73,3 @@ Qee qhov tsiaj tej zaum yuav nyob tau hauv koj lub vaj. Piv txwv:
 ### Rewilding
 
 Rewilding feem ntau siv rau thaj chaw loj uas xav rov kho kev ua haujlwm ntawm ecosystem. Qee yam hauv no kuj siv tau rau vaj hauv tsev. [Kawm ntxiv txog rewilding](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
-
----
-
-#### Oregon State University Extension Service txwv tsis pub xaiv txim ntawm txhua yam kev pab, kev pabcuam, kev ua, thiab ntaub ntawv raws li haiv neeg, xim, tebchaws yug, kev ntseeg, poj niam txiv neej, kev qhia txog poj niam txiv neej (xws li kev qhia txog tus kheej), kev sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/kev ua niam txiv, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg txog nom tswv, ntaub ntawv caj ces, kev ua tub rog, raug txim los yog rau txim vim ua haujlwm rau txoj cai qub. (Tsis yog txhua yam no siv rau txhua txoj kev pab.)
----

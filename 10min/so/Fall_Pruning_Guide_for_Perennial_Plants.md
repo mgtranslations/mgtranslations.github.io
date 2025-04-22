@@ -1,5 +1,3 @@
-#### Tilmaamaha Jarista Xilliga Dayrta ee Dhirta Joogtada ah · Waxaa diyaarisay Laura Eyer · 10/9/2018
-
 ## Jari
 
 - Iris-beerded
@@ -43,7 +41,6 @@
 
 ## Iska Daaya Sida Ay Tahay
 
-#### Waxaa diyaarisay Laura Eyer · 10/9/2018
 
 - Artemisia
 - Aster
@@ -89,4 +86,3 @@
 - Valerian (*Centranthus ruber*)
 - Wand Flower (*Guara sp.*)
 - Willow Amsonia (*Amsonia tabernaemontana*)
----

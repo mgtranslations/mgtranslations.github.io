@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Die Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Rückschnitt leicht gemacht
 
 Dieses Informationsblatt konzentriert sich auf Bäume und Sträucher. Einjährige Pflanzen, Stauden und Ziergräser werden zu einem späteren Zeitpunkt behandelt.
@@ -103,12 +101,3 @@ Diese Faustregel kann bei sehr kräftigen Pflanzen durchbrochen werden, aber es 
   - *Cass Turnbull’s Guide to Pruning* von Cass Turnbull
 - **10-Minute University™ Infoblätter:**
   - *Pruning Trees and Shrubs* auf [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Master Gardener™ Beratung · Telefonische Gartenhilfe: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minute University™ Infoblätter unter [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkommen aus öffentlicher Unterstützung, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Ausschlussgründe gelten für alle Programme.)
----

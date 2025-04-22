@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Cómo Cultivar Frambuesas
 
 ### ¿Por Qué Cultivar Frambuesas?
@@ -42,7 +40,6 @@ Las frambuesas normalmente se venden como plantas a raíz desnuda. Compra planta
 
 ### Fertilización
 
-#### Plantaciones Nuevas
 El año de la siembra, fertiliza cada planta con un total de **2 onzas de nitrógeno (N)** por cada hilera de 3 metros. Usa un fertilizante balanceado como **16-16-16** o una fuente orgánica (por ejemplo, harina de semilla de algodón).
 
 Para calcular la cantidad necesaria:
@@ -54,7 +51,6 @@ No apliques todo el fertilizante de una vez. Divide la cantidad total en tercios
 2. Aplica el segundo tercio 1 mes después.
 3. Aplica el último tercio 1 mes después del anterior.
 
-#### Plantas Establecidas
 Aplica fertilizante cada año para mantener buen crecimiento:
 - **Cantidad**: 2 a 3 onzas de nitrógeno por cada hilera de 3 metros.
   - Ejemplo: 13 a 19 onzas de fertilizante 16-16-16 o 2.5 libras de fertilizante 5-5-3.
@@ -102,14 +98,8 @@ Publicaciones de OSU disponibles en línea en [https://extension.oregonstate.edu
 - **Cómo Cultivar Bayas en la Costa de Oregón: Frambuesas y Zarzamoras** (EM 9180) – El contenido también es relevante para el Valle Willamette.
 - Aprende a podar frambuesas con un módulo en línea en [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
 
-#### Consejos del Maestro Jardinero™
 - **Llama a la Línea de Ayuda de Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para otros folletos de Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

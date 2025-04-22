@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa de Mestre Jardineiro™ da Extensão da OSU
-
 # Podas Facilitadas
 
 Este folheto foca em árvores e arbustos, deixando de lado plantas anuais, perenes e gramíneas ornamentais para explorar no futuro.
@@ -103,12 +101,3 @@ Essa regra geral pode ser quebrada quando se trata de plantas muito vigorosas, m
   - *Cass Turnbull’s Guide to Pruning* de Cass Turnbull
 - **Folhetos do 10-Minute University™:**
   - *Pruning Trees and Shrubs* disponível em [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Dicas de Mestre Jardineiro™ · Ligue para o Home Horticulture Helpline: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos do 10-Minute University™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/de pais, renda derivada de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou resposta a atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

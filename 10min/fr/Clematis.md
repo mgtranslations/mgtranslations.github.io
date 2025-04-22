@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration et en soutien au programme OSU Extension Master Gardener™
-
 # Classification horticole révisée du genre *Clematis*
 **Approuvée par le Conseil de l’I.Cl.S. en juin 2019**  
 *(Initiée lors d’un atelier organisé par la Société Internationale des Clématites au Jardin de Wisley, du 3 au 5 juillet 2017, avec des annotations ultérieures des membres du groupe de travail)*
@@ -120,18 +118,15 @@
 
 **Caractéristiques de la gamme :** Caduc. Grimpantes, habituellement à tiges vigoureuses. Floraison généralement estivale, sur le bois de l’année. Fleurs nombreuses, 1–5 cm de diamètre, majoritairement en cloche ou étoile, principalement blanches ou jaunes.
 
-#### Clématites étoilées de fin de saison
 
 - **Caractéristiques du groupe :** Grimpantes de taille moyenne, fleurs en étoile, généralement blanches et parfumées.
 - **Exemples :** *flammula*, *terniflora*, × *triternata* ‘Rubromarginata’, ‘Sweet Summer Love’.
 - **Taille :** Optionnelle, selon l’espace. Si nécessaire, tailler sévèrement à <0,5 m en milieu de printemps, une fois la nouvelle croissance apparue. Sinon, simplement nettoyer.
 
-#### Clématites jaunes de fin de saison
 
 - **Caractéristiques du groupe :** Fleurs généralement jaunes et en cloche ou étalées.
 - **Exemples :** *buchananiana*, *connata*, *intricata*, *ladakhiana*, *orientalis*, *rehderiana*, *tangutica*, *tibetana*, ‘Bill MacKenzie’, ‘Helios’ (appelé ‘Daihelios’ au Japon), ‘Kugotia’, GOLDEN TIARA, ‘Lambton Park’.
 
-#### Clématites envahissantes
 
 - **Caractéristiques du groupe :** Croissance très vigoureuse, fleurs généralement blanches, boutons et fleurs dirigés vers le haut.
 - **Exemples :** *ligusticifolia*, *potaninii*, *vitalba*, *virginiana*, ‘Paul Farges’ SUMMER SNOW.
@@ -144,12 +139,3 @@
 **Caractéristiques de la gamme :** Caractéristiques ne rentrant pas facilement dans les catégories précédentes.
 
 - **Exemples :** *columbiana*.
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de cours de l’Université en 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents, sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou la riposte à une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

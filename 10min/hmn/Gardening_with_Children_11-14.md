@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Ua Hauj Lwm Nrog Oregon State University Extension Service
-
 # Ua Vaj Tsev Nrog Cov Menyuam Hnub Nyug 11-14 Xyoos
 
 Ua vaj tsev nrog cov menyuam hnub nyug 11 txog 14 xyoo yeej yog ib yam lom zem thiab zoo rau cov menyuam thiab cov laus. Nws pab kom lawv tsis txhob siv sijhawm saib computer thiab lwm yam screen, ua rau lawv lub siab muaj kev xav tshiab, thiab pab kom lawv txo kev ntxhov siab thiab kev txhawj xeeb. Cov menyuam hnub nyug no twb muaj zog txaus los ua tej haujlwm vaj tsev loj dua, thiab lawv yuav txaus siab tshawb nrhiav tej yam hauv vaj, xws li ua ib lub trellis los yog tsim ib lub txaj vaj siab. Cov dej num no pab txuag chaw, muab tshav ntuj thiab av zoo dua, thiab tseem ua rau cov menyuam muaj peev xwm thiab ntseeg siab rau lawv tus kheej.
@@ -72,12 +70,3 @@ Muaj ntau phau ntawv duab thiab phau ntawv qhia ua vaj uas cov menyuam yuav nyia
 ## Oregon State University Cov Chaw Pab
 
 - [Phau Ntawv Qhia Rau Cov Xibfwb Ua Vaj Zaub](https://catalog.extension.oregonstate.edu/em9032)
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau 10-Minute University™ cov ntawv qhia thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub ua kev xaiv ncua hauv nws txhua yam haujlwm, kev pab, kev ua, thiab ntaub ntawv vim yog haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam txiv neej, cim xeeb poj niam txiv neej (nrog rau kev qhia txog poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj tau los los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug rau txim los yog raug pauj vim yav dhau los koom tes nrog kev tiv thaiv tej cai. (Tsis yog txhua yam txwv no siv rau txhua yam haujlwm.)
----

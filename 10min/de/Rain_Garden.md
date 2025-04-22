@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Einen Regengarten anlegen
 
 Ein Regengarten ist ein vertieftes Beet, das Regenwasser von Dächern, Einfahrten, Gehwegen und Straßen auffängt und reinigt. Regengärten ahmen natürliche Bedingungen im Wald oder auf einer Wiese nach und halten unsere Wassereinzugsgebiete gesund.
@@ -109,8 +107,3 @@ Sie können Ihren Boden von einer Firma testen lassen und Empfehlungen zur Verbe
 - [Regengärten – Informationsblatt zur naturnahen Entwicklung](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [Der Regen-Garten-Leitfaden](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Clean Water Services Washington County, Low Impact Development Approaches Handbook](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Merkmale gelten für alle.)
----

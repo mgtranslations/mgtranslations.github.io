@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Jardinagem com Composto
 
 O composto é uma excelente cobertura quando colocado sobre o solo. Ele serve como fonte de fertilizante e condicionador de solo quando misturado à terra. Seguindo os passos deste folheto, um jardineiro doméstico pode transformar restos de grama, folhas e outros resíduos do jardim em composto para uso em casa.
@@ -137,12 +135,3 @@ Cobrir áreas de gramado com composto é indicado para fornecer liberação lent
 ## Recursos da Extensão da OSU
 
 - [Jardinagem com Compostos, Coberturas e Proteções de Fileiras, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### Dicas do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos e programação da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp của OSU Extension Master Gardener™
-
 # Trồng Rau Mùa Đông
 
 ### Lợi Ích Khi Tự Trồng Rau
@@ -25,17 +23,14 @@ Phía tây dãy núi Cascades, có rất nhiều loại rau có thể gieo vào 
 
 ### Cách Trồng
 
-#### Nguồn Cung Cấp
 
 Rau có thể gieo trực tiếp từ hạt hoặc trồng từ cây con. Nên sử dụng các giống cây được chỉ định dành riêng cho trồng vào mùa thu.
 
-#### Vị Trí
 
 Chọn vị trí có từ sáu đến tám tiếng nắng mỗi ngày. Tận dụng các công trình như tường hoặc hàng rào hướng nam để phản chiếu và giữ nhiệt lâu hơn. Luống đất cao, xây bằng gỗ hoặc đắp đất thành ụ, sẽ ấm nhanh hơn vào mùa xuân và giữ nhiệt lâu hơn.
 
 Hãy đảm bảo khu vực trồng được che chắn khỏi gió mạnh và đất có khả năng thoát nước tốt.
 
-#### Chuẩn Bị Đất
 
 Chuẩn bị đất bằng cách loại bỏ đá và cỏ dại, bổ sung đất nếu cần.
 
@@ -74,7 +69,6 @@ Bạn có thể xem các tài liệu này trực tuyến tại [https://catalog.
 - **Cải thiện đất vườn bằng chất hữu cơ** EC 1561
 - **Độ phì nhiêu đất trong hệ thống hữu cơ** PNW 646
 
-#### Tư Vấn của Chuyên Gia Làm Vườn™
 
 - **Gọi đến Đường dây tư vấn Làm vườn tại nhà:**
   - 503-655-8631 (Quận Clackamas)
@@ -82,8 +76,3 @@ Bạn có thể xem các tài liệu này trực tuyến tại [https://catalog.
   - 503-445-4608 (Quận Multnomah)
 - Truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org) để xem tài liệu và video của Đại học 10 Phút™.
 - Gặp các Chuyên gia Làm vườn tại các Chợ Nông sản địa phương.
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon · Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới (bao gồm cả thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù do các hoạt động dân quyền trước đây. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

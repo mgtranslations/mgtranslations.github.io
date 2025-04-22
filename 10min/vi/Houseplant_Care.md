@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Hạt Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp của OSU Extension Master Gardener™
-
 # Cách Chăm sóc Cây Cảnh Trong Nhà
 
 Trồng cây cảnh trong nhà là cách tuyệt vời để thêm màu xanh tươi mát cho ngôi nhà của bạn. Dù một số loại cây cảnh rất dễ trồng, tất cả các loại cây đều cần được chăm sóc cơ bản. Cây phát triển tốt nhất trong môi trường gần giống với môi trường tự nhiên của chúng. Trước khi mua cây mới, hãy tìm hiểu nhu cầu cơ bản của chúng để xem bạn có chỗ thích hợp trong nhà và có thể chăm sóc tốt cho cây không.
@@ -83,12 +81,3 @@ Bụi có thể tích tụ trên lá, làm lá xỉn màu và cản trở cây h
 - [Cây mọng nước dễ chăm sóc ngày càng được ưa chuộng](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Cây cảnh nhiều màu sắc là món quà tuyệt vời dịp lễ](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Các loại thảo mộc dễ trồng trong nhà giúp món ăn ngon hơn](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Tư vấn Làm vườn Chuyên nghiệp™ · Liên hệ văn phòng OSU Extension tại địa phương để được tư vấn. Thông tin liên hệ xem tại: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Tài liệu và lịch học Đại học 10 Phút™: [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm thể hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trừng phạt hoặc trả đũa vì hoạt động quyền dân sự trước đây. (Không phải tất cả các tiêu chí cấm đều áp dụng cho mọi chương trình.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Koom Haum Master Gardener Clackamas County koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Lub Pob Tseg Puav Hnab (Hanging Baskets)
 
 ### Txheej txheem
@@ -61,7 +59,6 @@ Txhawm rau kom txhua yam zoo nkauj tag caij, txiav (tshem) paj uas txawj tuag lo
 
 Muaj ntau hom nroj tsuag loj hlob zoo hauv lub pob tseg puav hnab. Cov hauv qab no tsuas yog qee qhov piv txwv xwb. Qee hom nroj tsuag tuaj yeem loj hlob txog hauv tshav ntuj thiab ntxoov ntoos.
 
-#### Nroj Tsuag Ncaj Rau Tshav Ntuj
 
 - Angelonia
 - Cordyline
@@ -71,7 +68,6 @@ Muaj ntau hom nroj tsuag loj hlob zoo hauv lub pob tseg puav hnab. Cov hauv qab 
 - Geranium
 - Nroj tsuag nyom zoo nkauj
 
-#### Nroj Tsuag Ncaj Rau Ntxoov Ntoos
 
 - Heliotrope
 - Coleus ntxoov ntoos
@@ -82,7 +78,6 @@ Muaj ntau hom nroj tsuag loj hlob zoo hauv lub pob tseg puav hnab. Cov hauv qab 
 - New Guinea impatiens
 - Begonia qos tub
 
-#### Nroj Tsuag Clumping Rau Tshav Ntuj
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ Muaj ntau hom nroj tsuag loj hlob zoo hauv lub pob tseg puav hnab. Cov hauv qab 
 - Fantasy petunia
 - Fibrous begonia
 
-#### Nroj Tsuag Clumping Rau Ntxoov Ntoos
 
 - Geranium
 - Nemesia
@@ -99,7 +93,6 @@ Muaj ntau hom nroj tsuag loj hlob zoo hauv lub pob tseg puav hnab. Cov hauv qab 
 - Impatiens
 - Lobelia ncaj
 
-#### Nroj Tsuag Maj Mam Tsaws Rau Tshav Ntuj
 
 - Anagalis
 - Alyssum
@@ -111,7 +104,6 @@ Muaj ntau hom nroj tsuag loj hlob zoo hauv lub pob tseg puav hnab. Cov hauv qab 
 - Lamium
 - Licorice plant
 
-#### Nroj Tsuag Maj Mam Tsaws Rau Ntxoov Ntoos
 
 - Lotus vine
 - Million bells
@@ -134,15 +126,9 @@ Muaj ntau phau ntawv qhia txog kev cog pob tseg puav hnab heev, yog li peb tsuas
 - *Gardening in Containers* (Sunset)
 - *Pots in the Garden* los ntawm Ray Rogers
 
-#### Lus Qhia los ntawm Master Gardener™
 
 - **Hu rau Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Mus saib ntau yam ntaub ntawv thiab jadwal kawm ntxiv ntawm [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev cais tawm hauv nws cov kev pab, kev kawm, kev ua haujlwm thiab ntaub ntawv, ntawm tus neeg txoj kev haiv neeg, xim tawv nqaij, lub teb chaws, kev ntseeg, poj niam txiv neej, tus kheej txheem kev sib deev, kev sib deev, kev tsis taus, hnub nyoog, txoj kev sib yuav, muaj me nyuam, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, kev rau txim lossis kev pauj rau kev tawm tsam kev cai. (Tsis yog txhua qhov laj thawj no siv rau txhua qhov kev pab.)
----

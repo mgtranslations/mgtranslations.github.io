@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du programme OSU Extension Master Gardener™
-
 # Cultiver des Fraises
 
 ### Pourquoi cultiver des fraises ?
@@ -65,7 +63,6 @@ Visitez le service de vulgarisation OSU en ligne : [https://catalog.extension.or
 - **Variétés de fraises pour l’ouest de l’Oregon et de Washington** (EC 1618)
 - **Cultiver des petits fruits sur la côte de l’Oregon : Fraises** (EM 9178) (S’applique aussi à la vallée de la Willamette)
 
-#### Conseils de Maîtres Jardiniers™
 
 - **Appelez la ligne d’aide en horticulture :**
   - 503-655-8631 (Comté de Clackamas)
@@ -73,8 +70,3 @@ Visitez le service de vulgarisation OSU en ligne : [https://catalog.extension.or
   - 503-445-4608 (Comté de Multnomah)
 - Pour d’autres fiches et le calendrier des cours de la 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
 - Retrouvez les Maîtres Jardiniers sur les marchés fermiers de la région.
-
----
-
-##### Le Service de vulgarisation de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents, sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, du statut matrimonial, du statut familial/parental, des revenus issus d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut de vétéran, des représailles ou des mesures prises à la suite d’une activité relative aux droits civils antérieure. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

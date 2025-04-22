@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Restore Natural Ecosystems in Urban Gardens
 
 Rapid growth of humans in urban areas often leads to development and expansion of transportation networks that fragment natural landscapes and ecosystems. This disrupts natural processes and reduces the capacity of ecosystems to mitigate the effects of storms, floods, wildfires, heat waves, and droughts. It also results in loss of habitat for pollinators, bats, birds, and amphibians. (Hardy et al. 2022)
@@ -70,7 +68,3 @@ Provide homes for a wide variety of wildlife that feed, make homes, and find pro
 - **Climate Resilience Handouts:** Ecosystems, Soils, Lawns, Water, Plants.
 - **Native Plant Resources:** Using Native Plants in Your Garden, Portland Plant List, Backyard Habitat Program.
 - **Other Handouts:** Firewise Landscapes, Integrated Pest Management for Home Gardens, Adding a Bioswale, Adding a Rain Garden.
-
----
-
-###### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

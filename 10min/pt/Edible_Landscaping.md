@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação dos Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros da Extensão da OSU
-
 # Paisagismo Comestível
 
 ### Visão Geral
@@ -23,23 +21,18 @@ O paisagismo comestível é o uso de plantas que produzem alimentos no jardim re
 
 ### Coisas a Considerar
 
-#### Localização
 
 A maioria das frutas e vegetais precisa de 6 a 8 horas de sol para produzir bem. Algumas plantas nativas, como salmonberry e thimbleberry, suportam um pouco de sombra, assim como plantas de folhas comestíveis, como alface e couve.
 
-#### Espaço
 
 Considere o tamanho final da planta quando adulta. Árvores anãs ou semi-anãs e arbustos menores funcionam bem em espaços pequenos. Treliças, cercas e caramanchões ajudam a aproveitar o espaço vertical para cultivar árvores, arbustos e trepadeiras comestíveis.
 
-#### Tempo e Cuidados
 
 As plantas comestíveis precisam de cuidados em fases específicas do crescimento para continuarem produtivas. Elas vão precisar de solo melhorado, rega e adubação na hora certa e atenção ao controle de doenças e insetos. Isso é ainda mais importante quando as plantas são jovens ou recém-plantadas.
 
-#### Uso
 
 Saiba quando colher e esteja preparado para usar a abundância que vem do seu jardim.
 
-#### Beleza
 
 Plantas ornamentais oferecem uma variedade de cores de flores, formatos e texturas de folhas. Com um pouco de pesquisa, é possível encontrar plantas comestíveis com as características que você valoriza. Por exemplo:
 
@@ -50,7 +43,6 @@ Plantas ornamentais oferecem uma variedade de cores de flores, formatos e textur
 
 ### Lista Resumida de Plantas Comestíveis (* indica nativa)
 
-#### Árvores Pequenas (3 a 6 metros)
 
 - **Maçã**: Escolha entre formas semi-anãs, em espaldeira ou colunares; todas têm flores cor-de-rosa na primavera. Variedades como Chehalis, Jonafree, Liberty, Prima e Redfree são resistentes à sarna.
 - **Sabugueiro-negro***: Folhas rendadas e escuras são muito bonitas; os frutos são usados para geleia, xarope e vinho. Planta boa para resistir ao fogo.
@@ -61,7 +53,6 @@ Plantas ornamentais oferecem uma variedade de cores de flores, formatos e textur
 - **Ameixa**: Frutos maduros podem ser verdes, dourados, vermelhos ou roxos. As variedades Brooks e Italian de ameixa europeia são fáceis de cultivar. A podridão parda é o problema mais comum.
 - **Serviceberry***: Cachos de flores brancas no início da primavera; folhas com cor amarela a laranja brilhante no outono. Adapta-se a vários tipos de solo e umidade.
 
-#### Arbustos (lenhosos, perenes, anuais; 1 a 3 metros)
 
 - **Mirtilo**: Cor de outono bonita e muitos frutos no verão. Fácil de cultivar e tem poucos problemas de doenças.
 - **Groselha e Groselha-espim**: Muitos frutos azedos usados em geleias. Crescem bem em solos médios a pesados e em vários níveis de pH.
@@ -71,7 +62,6 @@ Plantas ornamentais oferecem uma variedade de cores de flores, formatos e textur
 - **Árvore-de-morango**: Arbusto grande, perene, com folhas verde-escuras brilhantes e frutos vermelhos. Floresce do fim do outono ao inverno; melhor em local protegido.
 - **Tomate**: Frutos comestíveis e atrativos nas cores amarela, laranja, vermelha, verde, roxa e preta, em vários formatos. Cultivado como anual no verão, o tomate precisa de sol e calor para amadurecer. Evite molhar as folhas para prevenir doenças.
 
-#### Trepadeiras e Outras Plantas Escaladoras
 
 - **Uva** (para vinho ou de mesa sem sementes): Folhagem bonita que faz sombra no verão em caramanchão ou pátio. Precisam de poda forte anual para produzir bem.
 - **Kiwi** (kiwi peludo e kiwi resistente): Folhagem exótica, flores brancas em maio, e frutos verdes, vermelhos ou marrons no outono. Normalmente precisam de uma estrutura forte para segurar o crescimento vigoroso. Novas variedades menores e autoférteis estão disponíveis.
@@ -80,7 +70,6 @@ Plantas ornamentais oferecem uma variedade de cores de flores, formatos e textur
 - **Pepino**: Quando cultivado como trepadeira, as flores e frutos criam um belo fundo de jardim. Eles precisam de bastante água em dias quentes.
 - **Feijão-trepador**: Precisa de sol pleno e boa circulação de ar para evitar oídio. Use em áreas para crianças para criar cabanas e túneis.
 
-#### Coberturas de Solo
 
 - **Morangueiro**: Flores brancas na primavera e frutos vermelhos no verão; morangueiros vivem pouco e precisam ser replantados a cada 3 ou 4 anos.
 - **Lingonberry**: Bela cobertura de solo perene e delicada. Produz mais frutos no sol pleno, mas cresce também em meia-sombra.
@@ -90,20 +79,13 @@ Plantas ornamentais oferecem uma variedade de cores de flores, formatos e textur
 
 ### Recursos Adicionais
 
-#### Recursos para Plantas Comestíveis no Noroeste
 
 - *Sunset Western Garden Book*
 - Publicações da Extensão da Universidade Estadual de Oregon: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - *10-Minute University*: [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
-#### Dicas dos Mestres Jardineiros™
 
 - **Ligue para o Plantão de Horticultura Residencial:**
   - 503-655-8631 (Clackamas)
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

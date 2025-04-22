@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Kws Tswv Zos Kws Cog Zaub Ntoo hauv Clackamas County koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
-
 # Txiav Ntoo thiab Nroj Tsuag
 
 ### Vim Li Cas Yuav Txiav
@@ -47,7 +45,6 @@ Yog nroj tsuag uas tawg paj, txiav nyob rau lub sijhawm uas yuav tsis cuam tshua
 - **Nroj tsuag uas tawg paj caij nplooj ntoo hlav** (Table 1) tawg paj ntawm ceg xyoo dhau los; txiav lawv tom qab lawv tawg paj kom pab kom hlob zoo dua lub caij ntuj sov.
 - **Nroj tsuag uas tawg paj tom qab Lub Rau Hli** (Table 2) tawg paj ntawm ceg tshiab xyoo no; txiav cov no thaum kawg ntuj no kom pab kom ceg tshiab hlob zoo thaum caij nplooj ntoo hlav.
 
-#### Table 1: Nroj Tsuag Tawg Paj Rau Ceg Xyoo Dhau Los
 
 | Lub Npe Kws Tshawb Fawb   | Lub Npe Siv Feem Coob      |
 |-------------------------- |---------------------------|
@@ -70,7 +67,6 @@ Yog nroj tsuag uas tawg paj, txiav nyob rau lub sijhawm uas yuav tsis cuam tshua
 | Viburnum spp.             | Viburnum                   |
 | Weigela florida           | Weigela qub                |
 
-#### Table 2: Nroj Tsuag Tawg Paj Rau Ceg Xyoo No
 
 | Lub Npe Kws Tshawb Fawb    | Lub Npe Siv Feem Coob       |
 |--------------------------- |-----------------------------|
@@ -118,8 +114,3 @@ Ceg loj dua 1½ nti yuav tsum txiav peb zaug raws li nram no:
 - [Txiav paj rose](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Txiav ntoo txiv hmab txiv ntoo](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Qhia kom ntoo txiv hmab txiv ntoo loj zoo](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### Oregon State University Extension Service tsis pub muaj kev xaiv cais nyob rau hauv nws cov kev pabcuam, kev ua haujlwm, kev ua si, thiab cov ntaub ntawv vim haiv neeg, xim, lub teb chaws, kev ntseeg, poj niam txiv neej, kev paub tus kheej (xws li kev coj tus kheej qhia), kev nyiam sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, txoj kev ua niam txiv, nyiaj los ntawm kev pab pej xeem, kev ntseeg kev nom kev tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim los yog raug rau txim vim kev tiv thaiv kev cai lij choj yav dhau los. (Tsis yog txhua yam hauv no siv rau txhua qhov kev pabcuam.)
----

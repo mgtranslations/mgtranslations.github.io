@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo kaashanaya barnaamijka OSU Extension Master Gardener™
-
 # Korinta Khudaarta Xilli-hore
 
 ### Waa Maxay
@@ -53,7 +51,6 @@ Eeg **[Sida Loo Sameeyo Sariir Kor loo Qaaday oo Cloche ah (EC 1627)](http://cat
 
 ### Doorashada Abuurka, Beerista Goobta, iyo Dalagyada Sannadlaha ah
 
-#### Abuurka
 
 Karootada, digirta, saladhka, kohlrabi, caleenta, beedka, iyo dabocasta si fudud ayaa looga beeri karaa abuur. Ku beero abuurka si toos ah ciidda.
 
@@ -61,14 +58,12 @@ Karootada, digirta, saladhka, kohlrabi, caleenta, beedka, iyo dabocasta si fudud
   - Dhigo abuurka biyo ah 2-4 saacadood ka hor inta aan la beerin.
   - Ama, dhig abuurka la qoyey inta u dhaxaysa laba warqad qoyan oo la geliyo bac balaastiig ah, meel diiran dhig ilaa ay biqilaan.
 
-#### Goob-goobka
 
 Korinta dhirta aad adigu beertay waxay kuu xaqiijinaysaa inaad hesho noocyada aad rabto xilliga saxda ah ee la beero.
 
 - Kaabish, brokoli, kauliflower, iyo kale waxa laga helaa meelaha dhirta lagu iibiyo ee caruurtu ka soo baxdo.
 - Iibsashada dhir yaryar waxay kaaga hormarinaysaa goosashada, gaar ahaan khudaarta u nugul "ubax degdeg ah" xilliga cimiladu kulushahay.
 
-#### Sannadleyaal
 
 Qaar ka mid ah khudaarta kama yimaadaan abuur ama dhir, sida tuber-baradho, toon, iyo basal (sets), kuwaas oo si toos ah ciidda loogu beeri karo.
 
@@ -96,7 +91,6 @@ Khudaarta badankeed waa dalagyo sannadle ah oo u baahan nafaqo ku filan si ay u 
   - Laf shiidan (12-24% P)
   - Kelp meal (2-5% K)
 
-#### Tijaabada Ciidda
 
 Beero badan oo ku yaal aagga Portland waxay leeyihiin heerar sare oo fosfooraska, potassium, iyo nafaqooyin kale. Beeraleydu waa inay sameeyaan tijaabo ciidda ah si ay u ogaadaan waxa ka maqan oo kaliya ay u bacrimiyan sida loogu baahdo.
 
@@ -115,8 +109,3 @@ Booqo [OSU Extension Service](http://catalog.extension.oregonstate.edu) si aad u
 - **Beerta Khudaarta Dayrta iyo Jiilaalka ee Pacific Northwest (PNW 548)**
 
 Booqo [Kheyraadka Jaamacadda 10-daqiiqo™](http://www.cmastergardeners.org/10-minute-university) si aad u hesho waraaqo iyo muuqaallo ku saabsan korinta khudaarta.
-
----
-
-#### Adeegga OSU Extension wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: midab, jinsiyad, asalka qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, heerka guurka, xaaladda qoyska/waalidnimo, dakhliga laga helo barnaamijyda caawinta dadweynaha, aaminsanaanta siyaasadda, macluumaadka hidda-sidaha, xaaladda ciidanimada, aargoosi, ama fal-celin waxyeello horey uga dhacday arrimaha xuquuqda madaniga. (Dhammaan sababaha la mamnuucay ma khuseeyaan barnaamij walba.)
----

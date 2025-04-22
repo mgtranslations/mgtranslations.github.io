@@ -1,7 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
----
-
 ## Insect Pests
 
 ### Overview
@@ -18,7 +14,6 @@ It is often difficult to identify the culprit of plant damages because many inse
 
 Fortunately, feeding habits of insects may offer helpful clues. Insects can be distinguished by their method of feeding: **chewing/rasping** or **piercing-sucking**.
 
-#### Chewing/Rasping Insects
 
 Chewing/rasping insects have mouthparts that are able to chew holes into leaves, buds, roots, seeds, fruits, or woody parts of plants. Examples include:
 
@@ -26,7 +21,6 @@ Chewing/rasping insects have mouthparts that are able to chew holes into leaves,
 - **Flower, fruit, and seed feeders**: Fruit flies, midges, yellow jackets, hornets, codling moth, corn earworms, seed weevils.
 - **Structural pests**: Carpenter ants, termites, powderpost beetles.
 
-#### Piercing-Sucking Insects
 
 Piercing-sucking insects not only damage plants directly by feeding but sometimes inject toxic substances that cause symptoms ranging from simple stippling of leaves to extensive disruption of the entire plant. Spotting and stippling occur when chlorophyll is destroyed by sucking mouthparts. Examples include:
 
@@ -92,11 +86,3 @@ Integrated Pest Management is a systematic and holistic approach that suppresses
 - **Garden Insects** by Crenshaw, 2004
 - **Oregon State University Extension Publications**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

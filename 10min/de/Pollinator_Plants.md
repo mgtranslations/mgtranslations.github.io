@@ -1,12 +1,9 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Pflanzen für Bestäuber
 
 ### Bienen
 
 Bienen werden von weißen, gelben oder blauen Blüten angezogen, die offen, flach oder röhrenförmig sind.
 
-#### Bäume und Sträucher
 
 | Gattung                | Deutscher Name         | Blütezeit             |
 |------------------------|-----------------------|-----------------------|
@@ -26,7 +23,6 @@ Bienen werden von weißen, gelben oder blauen Blüten angezogen, die offen, flac
 | Spiraea douglasii      | Douglas-Spierstrauch  | Frühling, Sommer      |
 | Vaccinium              | Heidelbeere           | Frühling              |
 
-#### Mehrjährige Pflanzen
 
 | Gattung                        | Deutscher Name         | Blütezeit                |
 |--------------------------------|-----------------------|--------------------------|
@@ -50,7 +46,6 @@ Bienen werden von weißen, gelben oder blauen Blüten angezogen, die offen, flac
 | Sedum                          | Fetthenne             | Sommer                   |
 | Symphyotrichum subspicatum     | Douglas-Aster         | Herbst                   |
 
-#### Einjährige Pflanzen
 
 | Gattung                | Deutscher Name           | Blütezeit           |
 |------------------------|-------------------------|---------------------|
@@ -73,7 +68,6 @@ Schmetterlinge werden von Blüten angezogen, die breite Landeplätze in Orange, 
 
 Kolibris werden von röhrenförmigen, roten Blüten angezogen.
 
-#### Ein- und mehrjährige Pflanzen, Sträucher
 
 | Gattung                | Deutscher Name         | Blütezeit                |
 |------------------------|-----------------------|--------------------------|
@@ -86,7 +80,6 @@ Kolibris werden von röhrenförmigen, roten Blüten angezogen.
 | Ribes                  | Zierjohannisbeere     | Frühling                 |
 | Salvia                 | Salbei                | Sommer, Herbst           |
 
-#### Kletterpflanzen
 
 | Gattung          | Deutscher Name         | Blütezeit           |
 |------------------|-----------------------|---------------------|
@@ -104,8 +97,3 @@ Kolibris werden von röhrenförmigen, roten Blüten angezogen.
     - *Attracting Pollinators to Your Garden*, 10-Minute University™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Pollinator Conservation Handbook**, Xerces Society
     - Besuchen Sie [www.xerces.org](http://www.xerces.org) für weitere Informationen der Xerces Society
-
----
-
-#### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien aufgrund früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

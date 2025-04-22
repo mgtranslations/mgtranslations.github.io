@@ -1,12 +1,7 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
----
-
 ## Growing Root Crops Specifics
 
 ### Growing Bulbs
 
-#### Garlic
 
 - **Planting:**
   - Plant garlic bulbs August–October for optimum results.
@@ -24,7 +19,6 @@
   - Lay garlic out in a cool, dry location for a few weeks.
   - Trim leaves and cut off roots.
 
-#### Onions
 
 - **Planting:**
   - Plant onion sets in March when it is cool.
@@ -41,7 +35,6 @@
   - Brush off soil and lay onions elevated in a cool, dry location for 1–2 weeks.
   - Trim leaves and cut off roots.
 
-#### Leeks
 
 - **Planting:**
   - Start seeds indoors in late February or early March (8–10 weeks before the last frost) in shallow trays of seedling mix soil.
@@ -63,7 +56,6 @@
 
 ### Growing Rhizomes
 
-#### Ginger or Turmeric
 
 - **Planting:**
   - Propagate from a healthy, plump rhizome.
@@ -85,7 +77,6 @@
 
 ### Growing Tap Roots
 
-#### Carrots, Radishes, Beets, and Parsnips
 
 - **Planting:**
   - Plant seeds early in spring when soil is about 40°F or late summer for a fall crop.
@@ -107,7 +98,6 @@
 
 ### Growing Tuberous Roots
 
-#### Sweetpotatoes
 
 - **Planting:**
   - Grow from “slips” in early April.
@@ -127,7 +117,6 @@
 
 ### Growing Tubers
 
-#### Potatoes
 
 - **Planting:**
   - Plant in late March or early April.
@@ -149,7 +138,3 @@
 
 - [Root crops can jump-start your spring garden](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Edible Roots, Stems, and Bulbs - Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

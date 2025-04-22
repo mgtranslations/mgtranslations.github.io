@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de la Extensión de OSU
-
 # Compostaje con lombrices
 
 Un contenedor de lombrices es una manera fácil de convertir residuos de comida en fertilizante y enmiendas para tu jardín. Las lombrices rojas son recicladoras voraces que transforman cáscaras de manzana, tallos de calabacín y otros desechos de cocina en tan solo unos meses. Dales un hogar con la cama y comida adecuada, y ellas harán el trabajo.
@@ -32,7 +30,6 @@ Las lombrices pueden comer la mitad de su peso en comida en 24 horas. Calcula el
 
 Aunque las lombrices pueden descomponer casi cualquier residuo orgánico, es mejor tratarlas como vegetarianas.
 
-#### Sí puedes darles:
 
 - Restos de verduras
 - Café molido y filtros de café
@@ -43,7 +40,6 @@ Aunque las lombrices pueden descomponer casi cualquier residuo orgánico, es mej
 - Pelo de animales
 - Papel triturado
 
-#### No debes darles:
 
 - Carne, pescado, productos lácteos
 - Alimentos grasosos o aceitosos
@@ -73,7 +69,6 @@ Las lombrices rojas requieren condiciones húmedas todo el año porque no excava
 
 ### Problemas potenciales y soluciones
 
-#### Olor
 
 Puedes controlar los olores:
 
@@ -81,7 +76,6 @@ Puedes controlar los olores:
 - No poniendo los materiales mencionados en “No debes darles” en la sección “Comida para las lombrices”
 - Proporcionando suficiente cama fresca
 
-#### Plagas
 
 - **Mosquitas del vinagre**: A veces entran mosquitas del vinagre (a menudo confundidas con las de la fruta), pero no hacen daño. Sin embargo, si hay demasiadas, puede ser que estés alimentando a las lombrices en exceso. Para eliminarlas:
   - Disminuye la cantidad de comida a la que las lombrices pueden consumir en un día.
@@ -104,12 +98,3 @@ Puedes controlar los olores:
   [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Worms Eat My Garbage**, Mary Appelhof, Segunda Edición
 - **Welcome to the Can-O-Worms**, N. Nattrass
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda en horticultura del hogar: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de la Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregon prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, situación familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalia por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

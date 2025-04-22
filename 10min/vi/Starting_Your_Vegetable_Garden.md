@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Hạt Nhân Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Gia Hạt Nhân OSU Extension
-
 # Bắt Đầu Vườn Rau Của Bạn
 
 ### Nên Trồng Gì
@@ -38,7 +36,6 @@ Kiểm tra đất giúp biết mức dinh dưỡng và nhu cầu bổ sung chấ
 
 Nhiệt độ đất và không khí quyết định thời điểm trồng.
 
-#### Nhiệt Độ Đất
 
 Nhiệt độ tối thiểu (°F) cho một số loại rau ưa thích:
 
@@ -49,7 +46,6 @@ Nhiệt độ tối thiểu (°F) cho một số loại rau ưa thích:
 - Cà tím/Ớt/Cà chua: 55°F (13°C)
 - Húng quế: 60°F (16°C)
 
-#### Nhiệt Độ Không Khí
 
 Nhiệt độ không khí tối ưu (°F):
 
@@ -60,12 +56,10 @@ Nhiệt độ không khí tối ưu (°F):
 
 Nếu gieo đậu Hà Lan cuối mùa đông, hạt có thể nảy mầm nhưng cây sẽ không phát triển tốt cho đến khi trời ấm hơn.
 
-#### Cây Ngắn Ngày và Dài Ngày
 
 - **Cây ngắn ngày:** Chín trong 50 ngày hoặc ít hơn. Có thể gieo trực tiếp hạt và vẫn đảm bảo thu hoạch tốt.
 - **Cây dài ngày:** Như cà chua, chín sau 75–90 ngày. Người trồng cần tranh thủ thu hoạch trước khi mưa thu và đêm lạnh đến.
 
-#### Cây Con
 
 Cây con mua ở cửa hàng hoặc tự ươm sẽ giúp bạn bắt đầu thuận lợi hơn.
 
@@ -81,19 +75,15 @@ Hầu hết rau là cây ngắn ngày, cần đủ dinh dưỡng để phát tri
   - Rau quả và hoa: Cần nhiều lân (P) hơn.
   - Củ, rễ: Cần nhiều kali (K) hơn.
 
-#### Cây Cần Nhiều Dinh Dưỡng
 
 Củ dền, cải xanh, cải xoăn, xà lách, mùi tây, rau bina, cà chua có thể cần bón thêm phân.
 
-#### Cây Cần Ít Dinh Dưỡng
 
 Cà rốt, tỏi, hành, cải cầu vồng, mù tạt, ớt thường chỉ cần lượng vừa phải.
 
-#### Cây Tự Cố Định Đạm
 
 Đậu, đậu Hà Lan, đậu nành, cỏ ba lá có thể tự lấy đạm từ không khí nên thường không cần bón phân.
 
-#### Phân Bón Hữu Cơ
 
 Nên bón trước khi trồng vài tháng để đạt hiệu quả tốt nhất. Ví dụ:
 
@@ -110,7 +100,6 @@ Tưới sao cho vùng rễ luôn ẩm đều. Sau khi tưới, đào xuống 15�
 - **Hệ thống nhỏ giọt:** Cung cấp nước trực tiếp cho rễ, tốt hơn tưới trên lá, vì tưới lá dễ gây bệnh.
 - **Tưới trên lá:** Hạn chế bắn nước lên lá và tránh tưới muộn trong ngày. Tưới vào buổi sáng giúp giảm bay hơi.
 
-#### Giai Đoạn Tưới Nước Quan Trọng
 
 Chú ý tưới đúng thời điểm quan trọng đối với từng loại cây:
 
@@ -124,8 +113,3 @@ Chú ý tưới đúng thời điểm quan trọng đối với từng loại c�
 
 - [EM 9027 Tự Trồng Rau](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Trồng Rau tại Oregon](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, quốc tịch, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con cái, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả đũa/hành động trả thù vì hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

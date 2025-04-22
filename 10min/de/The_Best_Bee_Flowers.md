@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Die besten Bienenblumen — Bewiesen durch gärtnerische Forschung
 
 Diese Liste enthält Pflanzen, die von Dr. Gordon Frankie, Universität Kalifornien, und Kollegen als besonders bienenfreundlich bewiesen wurden[^1]. Heimische Pflanzen aus Oregon, die nachweislich Wildbienen anziehen, basieren auf Studien von Aaron Anderson, Oregon State University Garden Ecology Lab[^2]. Quellen: *California Bees & Blooms* von Frankie et al. und blogs.oregonstate.edu/gardenecologylab/[^3].

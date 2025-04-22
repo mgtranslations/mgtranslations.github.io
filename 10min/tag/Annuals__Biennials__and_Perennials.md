@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association kasama at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Annuals, Biennials, & Perennials
 
 ### Pangkalahatang-ideya
@@ -141,12 +139,3 @@ Maraming libro tungkol sa pagtatanim ng annuals, biennials, at perennials ang ma
 - *The Well-Tended Perennial Garden* ni Tracy DiSabato-Aust
 - *Sunset Western Garden Book*
 - *The AHS A-Z Encyclopedia of Garden Plants*
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, kalagayan ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genetika, katayuan bilang beterano, pagganti, o paghingi ng hustisya para sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

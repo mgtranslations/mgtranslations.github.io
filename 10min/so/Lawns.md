@@ -1,5 +1,3 @@
-#### Jaamacadda 10 Daqiiqo™ · Ururka Beeralayda Sare ee Clackamas County oo iskaashanaya barnaamijka OSU Extension Master Gardener™
-
 ## Ka Dhig Beertaada Mid Isbeddel Cimilada U Adkaysata: Cawska
 
 Isbedelka cimilada ee dunida ayaa keena barafyo dhalaalaya, heer biyo oo koraya, biyo badeed sii xanaaqaya, iyo abaaro iyo fatahaado soo noqnoqda oo xoog badan. Waqooyiga Galbeed ee Pacific-ga waxaa ka dhacay abaaro dheeraaday, dabeylo dab ka kacay oo sii badanaya, mowjado kulayl ah, weerarada cayayaanka, iyo cudurrada geedaha. Baraf yaraanta waxay keentaa in qulqulka webiyada iyo durdurada uu soo hor maro taasoo yaraynaysa biyaha. Marka lagu daro arrimahan, isbeddelka cimilada wuxuu keenaa dhacdooyin cimilada oo aan la saadaalin karin (kuleyl daran, roob xoog leh) oo sii badanaya.  
@@ -37,8 +35,3 @@ Faahfaahin dheeraad ah ka akhri: Cawska Cimilada-saaxiibka ah: [https://extensio
 - **Daboolyo kale oo dhulka jiifa, aan caws ahayn** waxaa ka mid ah thyme jiifa, mint jiifa, chamomile hooseeya ama xataa moos. Ku dooro daboolka dhulka cadadka iftiinka iyo qoyaan ee goobta.
 - **Kor u qaad dulqaadkaaga haramaha:** Haramaha waxay xitaa ka caawin karaan beertaada inay noqoto mid kala duwanaansho leh iyagoo cunto u ah cayayaan kala duwan. Haramaha ubaxa leh waxay taageero u yihiin cayayaanka dhirta bacrimisa.
 - **Si xikmad leh u isticmaal sunta haramaha, haddii aad u baahan tahay:** Jari haramaha ka hor inta aysan abuur samayn si aadan ugu faafin ama isticmaal hab ka saarista jirka si aad u xakameyso haramaha. Haddii aad u baahato sunta haramaha, dooro mid saameyn yar leh adigoo ka eegaya liiska: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
-
----
-
-#### Adeegga Kordhinta Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku saleysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aragtida siyaasadda, macluumaadka hidaha, xaaladda askariga, aargoosi, ama ciqaab loo geystay hawlaha xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan barnaamij kasta.)  
----

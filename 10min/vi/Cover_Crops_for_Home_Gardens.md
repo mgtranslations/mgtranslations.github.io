@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Gia OSU Extension Master Gardener™
-
 # Cây Che Phủ Cho Vườn Rau Tại Nhà
 
 Cây che phủ giúp che phủ và cải thiện đất. Chúng có thể được trồng vào mùa thu để che phủ các khu vực bỏ hoang hoặc trồng vào mùa xuân như một phần của luân canh cây trồng. Nhiều loại cây, bao gồm cây họ đậu, các loại cỏ, và cây thân thảo lá rộng lâu năm, đều phục vụ mục đích này.
@@ -75,10 +73,3 @@ Việc kết thúc bao gồm cắt hoặc làm gãy thân cây để làm chết
     - Cây Che Phủ Cho Vườn Nhà Phía Tây Dãy Cascades FS111E
     - Cây Che Phủ Cho Vườn Nhà Phía Đông Dãy Cascades FS117E
     - Phương Pháp Quản Lý Cây Che Phủ Hiệu Quả Cho Vườn Nhà FS119E
-
-#### Tư vấn Làm Vườn Chuyên Gia™ · Gọi Đường Dây Hỗ Trợ Làm Vườn: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Truy cập [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) để xem tài liệu và video Đại học 10 Phút™
-
----
-
-##### Dịch vụ Khuyến Nông Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình, thu nhập từ chương trình trợ cấp công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả đũa cho các hoạt động quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

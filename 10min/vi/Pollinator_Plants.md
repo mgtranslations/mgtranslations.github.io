@@ -1,12 +1,9 @@
-#### Đại Học 10 Phút™ · Hiệp Hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương Trình Làm Vườn Chuyên Nghiệp của OSU Extension
-
 # Cây Dành Cho Côn Trùng Thụ Phấn
 
 ### Ong
 
 Ong bị thu hút bởi những loài hoa có màu trắng, vàng hoặc xanh dương, dạng mở, nông hoặc hình ống.
 
-#### Cây Gỗ và Cây Bụi
 
 | Chi                    | Tên Thường Gọi         | Mùa Nở Hoa           |
 |------------------------|------------------------|----------------------|
@@ -26,7 +23,6 @@ Ong bị thu hút bởi những loài hoa có màu trắng, vàng hoặc xanh d�
 | Spiraea douglasii      | Cây spiraea Douglas    | Mùa xuân, hè         |
 | Vaccinium              | Việt quất              | Mùa xuân             |
 
-#### Cây Thân Thảo Lâu Năm
 
 | Chi                            | Tên Thường Gọi      | Mùa Nở Hoa                |
 |--------------------------------|---------------------|---------------------------|
@@ -50,7 +46,6 @@ Ong bị thu hút bởi những loài hoa có màu trắng, vàng hoặc xanh d�
 | Sedum                          | Hoa thạch tùng      | Mùa hè                    |
 | Symphyotrichum subspicatum     | Cúc aster Douglas   | Mùa thu                   |
 
-#### Cây Thân Thảo Hàng Năm
 
 | Chi                    | Tên Thường Gọi         | Mùa Nở Hoa           |
 |------------------------|------------------------|----------------------|
@@ -73,7 +68,6 @@ Bướm bị thu hút bởi những loài hoa có bề mặt rộng để đậu
 
 Chim ruồi bị thu hút bởi những loài hoa hình ống, màu đỏ.
 
-#### Cây Hàng Năm, Lâu Năm và Cây Bụi
 
 | Chi                  | Tên Thường Gọi        | Mùa Nở Hoa           |
 |----------------------|-----------------------|----------------------|
@@ -86,7 +80,6 @@ Chim ruồi bị thu hút bởi những loài hoa hình ống, màu đỏ.
 | Ribes                | Nho hoa               | Mùa xuân             |
 | Salvia               | Xô thơm               | Mùa hè, thu          |
 
-#### Dây Leo
 
 | Chi              | Tên Thường Gọi         | Mùa Nở Hoa           |
 |------------------|------------------------|----------------------|
@@ -104,8 +97,3 @@ Chim ruồi bị thu hút bởi những loài hoa hình ống, màu đỏ.
     - *Thu hút côn trùng thụ phấn vào vườn của bạn*, Đại Học 10 Phút™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Sổ Tay Bảo Tồn Côn Trùng Thụ Phấn**, Hội Xerces
     - Truy cập [www.xerces.org](http://www.xerces.org) để tìm thêm tài liệu từ Hội Xerces
-
----
-
-#### Dịch vụ Mở Rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động về quyền dân sự trước đây. (Không phải tất cả các điều cấm đều áp dụng cho mọi chương trình.)
----

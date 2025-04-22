@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Salvando Sementes
 
 ### Por Que Coletar Sementes?
@@ -19,7 +17,6 @@ Existem três formas de polinização: vento, insetos e humanos.
 - **Autopolinizadoras**: Plantas que possuem flores com as partes femininas e masculinas. Incluem tomates, feijões, alface e berinjela.
 - **Polinização Cruzada**: Plantas como pepino e abóbora precisam de vento ou insetos para levar o pólen das flores masculinas até as flores femininas, na mesma ou em outras plantas.
 
-#### Polinização Manual para Jardineiros Caseiros
 
 Para coletar sementes de plantas que fazem polinização cruzada:
 
@@ -38,7 +35,6 @@ Escolha plantas sem doenças para salvar sementes. Considere características co
   - Pepinos na fase de consumo não têm sementes maduras. A maturação ocorre depois da primeira geada, como acontece com abóboras e morangas de inverno.
   - Coletar sementes de flores quando elas murcharem e secarem, apresentarem topo seco e fofo, ou vagens secas começarem a se abrir.
 
-#### Método Seco
 
 Plantas com sementes secas incluem ervilhas, feijões, cenouras, pimentas e a maioria das flores e ervas.
 
@@ -50,7 +46,6 @@ Plantas com sementes secas incluem ervilhas, feijões, cenouras, pimentas e a ma
 **Atenção**:  
 - Pimentas devem estar vermelhas/amarelas e enrugadas para coletar sementes. Use luvas para pimentas ardidas!
 
-#### Método Úmido
 
 Plantas com frutos suculentos, como tomates, são melhor processadas por fermentação:
 
@@ -91,10 +86,3 @@ Planeje usar suas sementes em até três anos. Como a viabilidade e o vigor das 
   - *Conceitos Básicos de Produção e Regeneração de Sementes*
 - Universidade do Maine, Publicações da Extensão Cooperativa: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *Introdução ao Salvamento de Sementes para o Jardineiro Caseiro 2750e*
-
-#### Conselho de Mestre Jardineiro™ · Ligue para o Disque Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos e calendário de aulas do 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/de pais, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

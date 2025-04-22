@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Thạc sĩ Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Thạc sĩ OSU Extension
-
 # Tỉa Cành Cây và Bụi
 
 ### Lý Do Nên Tỉa Cành
@@ -47,7 +45,6 @@ Nói chung, nên tỉa cành vào cuối mùa đông trước khi cây phát tri
 - **Bụi hoa nở vào mùa xuân** (Bảng 1) ra hoa trên cành phát triển mùa trước; hãy tỉa ngay sau khi hoa tàn để kích thích cây phát triển mạnh vào mùa hè.
 - **Bụi hoa nở sau tháng 6** (Bảng 2) ra hoa từ các chồi hình thành trên cành của năm hiện tại; hãy tỉa các bụi này vào cuối mùa đông để thúc đẩy sự phát triển chồi mùa xuân mạnh mẽ.
 
-#### Bảng 1: Các Bụi Hoa Nở Trên Cành Của Năm Trước
 
 | Tên Khoa Học                | Tên Thông Dụng                |
 |---------------------------- |-------------------------------|
@@ -70,7 +67,6 @@ Nói chung, nên tỉa cành vào cuối mùa đông trước khi cây phát tri
 | Viburnum spp.               | Viburnum                       |
 | Weigela florida             | Weigela cổ điển                |
 
-#### Bảng 2: Các Bụi Hoa Nở Trên Cành Mới Của Năm Hiện Tại
 
 | Tên Khoa Học                 | Tên Thông Dụng                |
 |----------------------------- |-------------------------------|
@@ -118,8 +114,3 @@ Các cành lớn hơn 3,8 cm nên được cắt theo ba bước như sau:
 - [Cách tỉa hoa hồng](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Cách tỉa cây ăn quả](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Cách uốn tỉa cây ăn quả](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm cả biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trừng phạt vì các hoạt động dân quyền trước đây. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

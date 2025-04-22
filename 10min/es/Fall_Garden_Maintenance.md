@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Jardineros Maestros del Condado de Clackamas en colaboración y apoyo al Programa de Jardineros Maestros de Extensión de OSU™
-
 # Mantenimiento del Jardín en Otoño
 
 ### Resumen
@@ -76,10 +74,3 @@ El otoño es un buen momento para añadir nuevas plantas, mover o trasplantar ar
 
 - **Servicio de Extensión de la Universidad Estatal de Oregón:**  
   [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
-
-#### Consejos de Jardineros Maestros™ · Llama a la Línea de Ayuda de Horticultura: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Para obtener folletos de la Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org) · Busca Jardineros Maestros en los Mercados de Agricultores de la zona.
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

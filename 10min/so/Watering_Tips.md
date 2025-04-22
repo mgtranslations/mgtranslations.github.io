@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Sare ee Degmada Clackamas oo kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 ## Talooyin Biyaha Lagu Waro
 
 ### Fikradda & Farsamooyinka
@@ -33,13 +31,11 @@
 
 ### Waraabin aan Waxtar Lahayn
 
-#### Calaamadaha Waraabin Badan
 
 - Caleemo jaalle ah ama midab labis leh
 - Caleemaha oo isu beddela cagaar khafiif ah ama jaalle ah kadibna dhacaya
 - Dhirtu si liidata ayey u kortaa, laamahaana si fudud ayey u dhacayaan
 
-#### Calaamadaha Waraabin Yar
 
 - Caleemo jaalle ah ama midab labis leh
 - Caleemaha oo muuqaal xanuunsan leh, cawlan oo aan dhalaal lahayn
@@ -54,22 +50,18 @@ Habka aad doorato, had iyo jeer hubi qoyaan ciidda saacado kadib waraabinta si a
 
 - Ubaxa iyo khudaarta: 12–15 inji qoto dheer
 
-#### Waraabinta Dusha Sare
 
 - Waraabinta dusha sare ee geedaha iyo dhirta yaryar (sprinkler ama gacanta) waxay korin kartaa cudurada fangaska iyo bakteeriyada sida apple scab, rust, iyo black spot ee roses-ka.
 - Waraabi si hore maalintii ah si caleemuhu u engegaan ka hor fiidkii.
 
-#### Gacanta Waraabinta
 
 - Waraabinta gacanta waxay biyo siisaa si ka dhakhso badan inta ciiddu nuugi karto, taasoo keenaysa in biyuhu daataan.
 
-#### Sprinklers
 
 - Sprinklers waxay biyo geliyaan meelo aan loo baahnayn waxayna biyo siisaa si ka dhaqso badan inta ciiddu gali karto.
 - Isticmaal sprinklers si ay u daboolaan beerta kaliya, ee aanay gaarin meelaha kale ee agagaarka ah.
 - Yaree luminta uum-baxa adigoo waraabinaya xilliyada qabow ee aan dabayshu jirin (fiidkii ilaa subaxdii hore).
 
-#### Nidaamyada Socodka Hoose
 
 - **Faa’iidooyinka:**
   - Biyaha si toos ah ayay ugu shubaan aagga xididka xawaare joogto ah xilliga oo dhan.
@@ -98,15 +90,9 @@ Habka aad doorato, had iyo jeer hubi qoyaan ciidda saacado kadib waraabinta si a
   - [Furayaasha Beero Biyo Badbaadiya, EM 9134](https://catalog.extension.oregonstate.edu/)
   - [Dayactirka Beerta Si Biyaha Loo Ilaaliyo, EM 9135](https://catalog.extension.oregonstate.edu/)
 
-#### Talooyinka Master Gardener™
 
 - **Wac Khadka Gargaarka Beerta:**
   - 503-655-8631 (Degmada Clackamas)
   - 503-821-1150 (Degmada Washington)
   - 503-445-4608 (Degmada Multnomah)
 - Wixii waraaqo kale iyo jadwalada fasalada ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-#### Adeegga OSU Extension Service · Adeegga OSU Extension Service wuxuu ka mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), xagga galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijyada caawinta dadweynaha, aragtida siyaasadeed, macluumaadka hiddo-sideyaasha, xaaladda ciidanimada, ciqaabta, ama aargoosiga la xiriira hawlaha hore ee xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay loogama baahna dhammaan barnaamijyada.)
----

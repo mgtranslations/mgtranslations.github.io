@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension OSU
-
 # Cultiver des Jardinières Belles et Délicieuses
 
 ### Aperçu
@@ -44,7 +42,6 @@ Choisissez des plantes de hauteurs différentes et aux légumes colorés. Il est
 
 ### Design
 
-#### Cadre de Design : Thriller, Filler, et Spiller
 
 - **Thriller** : La plante la plus grande et impressionnante du contenant, placée au centre (si le pot est visible de tous côtés) ou à l’arrière (si vu d’un seul côté). Elle donne un effet vertical fort.
   - Exemples : Plant de poivron, tipi de haricots grimpants, buisson de myrtilles, plant de tomate, ou chou frisé russe pour petits contenants.
@@ -79,10 +76,3 @@ La plupart des plantes listées ici suivent un cycle : feuilles, fleurs, puis gr
 - **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
 - **Fiches et vidéos Université en 10 Minutes™**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Conseil Maître Jardinier™ · Appelez la ligne d’aide en horticulture domestique : 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Pour d’autres fiches et horaires de cours Université en 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### L’Extension Service de l’Oregon State University interdit toute discrimination dans ses programmes, services, activités et documents, sur la base de la race, la couleur, l’origine, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut marital, le statut familial/parental, les revenus provenant d’une aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou mesures de rétorsion pour des activités antérieures relatives aux droits civiques. (Tous les motifs interdits ne s’appliquent pas à tous les programmes.)
----

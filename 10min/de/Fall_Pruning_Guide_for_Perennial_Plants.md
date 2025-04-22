@@ -1,5 +1,3 @@
-#### Anleitung zum Herbstschnitt für Stauden · Erstellt von Laura Eyer · 09.10.2018
-
 ## Schneiden
 
 - Bartiris
@@ -43,7 +41,6 @@
 
 ## Stehen lassen
 
-#### Erstellt von Laura Eyer · 09.10.2018
 
 - Artemisia
 - Aster
@@ -89,4 +86,3 @@
 - Roter Spornblume (*Centranthus ruber*)
 - Prachtkerze (*Guara sp.*)
 - Blausternbusch (*Amsonia tabernaemontana*)
----

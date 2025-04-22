@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kho Rov Qab Txog Tej Kev Ua Qab Zib Ntawm Ib Cheeb Tsam Nroj Tsuag Hauv Zos
 
 Kev loj hlob sai ntawm tib neeg hauv nroog ua rau muaj kev tsim kho tshiab thiab kev nthuav dav ntawm kev thauj mus los uas cais cov av ntuj thiab tej chaw uas muaj nroj tsuag. Qhov no cuam tshuam rau tej txheej txheem ntuj tsim thiab ua rau tej chaw ntawd tsis muaj peev xwm tiv thaiv los ntawm cua daj cua dub, dej nyab, hluav taws hav zoov, tshav kub, thiab kev nqhuab. Nws kuj ua rau poob chaw nyob rau kab laum nqus paj, nas menyuam yaus, noog, thiab tej tsiaj amphibian. (Hardy et al. 2022)
@@ -70,8 +68,3 @@ Tsim chaw nyob rau ntau hom tsiaj qus uas noj, ua tsev, thiab nrhiav chaw nkaum 
 - **Cov Ntawv Taw Qhia Kom Muaj Zog Tiv Thaiv Huab Cua:** Ecosystems, Av, Nyom, Dej, Nroj Tsuag.
 - **Cov Khoom Siv Nroj Tsuag Hauv Zos:** Siv Nroj Tsuag Hauv Zos Hauv Koj Lub Vaj, Daim Ntawv Teev Nroj Tsuag Portland, Backyard Habitat Program.
 - **Lwm Cov Ntawv Taw Qhia:** Firewise Landscapes, Integrated Pest Management for Home Gardens, Adding a Bioswale, Adding a Rain Garden.
-
----
-
-###### Oregon State University Extension Service tsis pub muaj kev txwv tsis pub koom tes hauv nws tej kev pab cuam, kev pab, kev ua, thiab ntaub ntawv vim yog haiv neeg, xim tawv nqaij, teb chaws keeb kwm, kev ntseeg, poj niam txiv neej, poj niam txiv neej tus kheej (xws li kev qhia tus kheej), kev sib deev, muaj kev xiam oob khab, muaj hnub nyoog, muaj txij nkawm, muaj menyuam, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, los yog raug txim rau kev tawm tsam kev cai lij choj yav dhau los. (Tsuas yog qee qhov txwv tsis pub no thiaj siv rau qee qhov kev pab cuam xwb.)
----

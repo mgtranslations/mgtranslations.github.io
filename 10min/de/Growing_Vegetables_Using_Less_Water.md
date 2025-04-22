@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Gemüseanbau mit weniger Wasser
 
 ### Überblick
@@ -96,12 +94,3 @@ Die Abteilung für kleine Landwirtschaften der OSU Extension hat die Machbarkeit
   - Nichols Garden Nursery
   - Peace Seeds
   - Siskiyou Seeds
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™ Merkblätter und Kurspläne besuche [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

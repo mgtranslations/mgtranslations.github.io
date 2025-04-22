@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Adding a Bioswale
 
 In developed areas, the rainfall that lands on hard surfaces is routed into pipes, ditches, and storm drains before being discharged into creeks, streams, and rivers. A bioswale is designed to collect stormwater runoff from roofs, driveways, or other impervious surfaces. It allows stormwater to soak into the ground and be filtered by plants and soil to reduce runoff and pollution into natural waterways. The linear design of bioswales makes them suitable for roadside runoff, but bioswales are also used in front and back yards and beneath roof downspouts. Bioswales can also serve as substitutes for curbs or gutters.
@@ -76,7 +74,3 @@ Plants require supplemental water during the first summer to help them get estab
 
 - **Analytical Laboratories Serving Oregon**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

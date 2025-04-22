@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension OSU
-
 # Conception de Jardin 101
 
 Un bon design est la base d’un jardin beau, sain et durable. Un plan bien réfléchi combine les éléments d’un bon design—ligne, forme, texture, parfum et couleur—tout en tenant compte des besoins et des souhaits du propriétaire.
@@ -111,7 +109,6 @@ Un bon design est la base d’un jardin beau, sain et durable. Un plan bien réf
 - Constituez des groupes en les entourant de plantes complémentaires qui fleurissent en même temps. Cela renforcera l’attrait visuel de votre jardin.
 - Dans un petit jardin, trop de couleurs peuvent créer de la confusion. Choisissez un schéma de couleurs froides ou chaudes et sélectionnez vos plantes en conséquence.
 
-#### Principes pour des Combinaisons de Plantes à Fort Impact
 
 1. **Schéma de couleurs**
 2. **Texture**
@@ -121,12 +118,3 @@ Un bon design est la base d’un jardin beau, sain et durable. Un plan bien réf
 - Par exemple, utilisez le feuillage pour apporter de la couleur à vos plantations : vert, bleu, jaune, rouge, gris panaché.
 - Utilisez des textures variées comme robuste, piquant, lisse, plumeux ou délicat pour ajouter de l’intérêt.
 - Variez les formes : en coussin, en épi ou retombante pour créer du contraste entre les plantes.
-
----
-
-#### Conseil Maître Jardinier™ · Appelez la ligne d’assistance en horticulture domestique : Comté de Clackamas : 503-655-8631 · Comté de Washington : 503-821-1150 · Comté de Multnomah : 503-445-4608 · Pour d’autres fiches et horaires de cours de l’Université en 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial ou parental, des revenus provenant de l’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou de la rétorsion à la suite d’une activité antérieure en matière de droits civils. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

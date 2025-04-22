@@ -1,12 +1,9 @@
-#### 10-Minute University™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Plantas para Polinizadores
 
 ### Abejas
 
 Las abejas se sienten atraídas por flores blancas, amarillas o azules que son abiertas, poco profundas o tubulares.
 
-#### Árboles y Arbustos
 
 | Género                  | Nombre Común             | Temporada de Floración  |
 |-------------------------|-------------------------|-------------------------|
@@ -26,7 +23,6 @@ Las abejas se sienten atraídas por flores blancas, amarillas o azules que son a
 | Spiraea douglasii       | Espirea de Douglas      | Primavera, Verano       |
 | Vaccinium               | Arándano                | Primavera               |
 
-#### Plantas Perennes
 
 | Género                        | Nombre Común         | Temporada de Floración      |
 |-------------------------------|---------------------|-----------------------------|
@@ -50,7 +46,6 @@ Las abejas se sienten atraídas por flores blancas, amarillas o azules que son a
 | Sedum                         | Sedum               | Verano                      |
 | Symphyotrichum subspicatum    | Áster de Douglas    | Otoño                       |
 
-#### Plantas Anuales
 
 | Género                | Nombre Común           | Temporada de Floración   |
 |-----------------------|-----------------------|--------------------------|
@@ -73,7 +68,6 @@ Las mariposas se sienten atraídas por flores que forman plataformas anchas para
 
 Los colibríes se sienten atraídos por flores tubulares de color rojo.
 
-#### Plantas Anuales y Perennes, Arbustos
 
 | Género                | Nombre Común           | Temporada de Floración        |
 |-----------------------|-----------------------|-------------------------------|
@@ -86,7 +80,6 @@ Los colibríes se sienten atraídos por flores tubulares de color rojo.
 | Ribes                 | Grosellero florido    | Primavera                     |
 | Salvia                | Salvia o Sage         | Verano, Otoño                 |
 
-#### Enredaderas
 
 | Género          | Nombre Común            | Temporada de Floración    |
 |-----------------|------------------------|---------------------------|
@@ -104,8 +97,3 @@ Los colibríes se sienten atraídos por flores tubulares de color rojo.
     - *Atrayendo polinizadores a tu jardín*, 10-Minute University™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Manual de Conservación de Polinizadores**, Xerces Society
     - Visita [www.xerces.org](http://www.xerces.org) para recursos adicionales de Xerces Society
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

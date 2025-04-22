@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Yuav Tu Mob Tsev Nroj Tsuas Li Cas
 
 Cog nroj tsuag hauv tsev yog ib txoj kev zoo los ntxiv paj ntoo ntsuab rau hauv koj lub tsev. Txawm yog qee yam nroj tsuag loj yooj yim heev, tab sis txhua yam nroj tsuag yeej xav tau kev tu kom zoo. Nroj tsuag loj zoo nyob rau qhov chaw zoo li lawv tej chaw ib txwm loj. Ua ntej yuav nroj tsuag tshiab, kawm txog lawv cov kev xav tau kom paub tias koj puas muaj qhov chaw zoo rau lawv hauv koj lub tsev thiab puas muaj peev xwm tu lawv kom zoo.
@@ -83,12 +81,3 @@ Hmoov av tuaj yeem sau rau nplooj, ua rau nplooj tsaus thiab nroj tsuag txais te
 - [Cacti thiab succulents loj hlob tau yooj yim thiab nrov ntxiv](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Nroj tsuag muaj xim zoo nkauj ua khoom plig hnub so](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Kua txob yooj yim loj hauv tsev ua rau noj qab](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Lus Qhia los ntawm Master Gardener™ · Tiam sis koj chaw ua hauj lwm OSU Extension hauv zos yog xav tau tswv yim txog nroj tsuag. Mus rau qhov chaw no kom nrhiav xov tooj: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Rau 10-Minute University™ cov ntaub ntawv thiab sijhawm kawm, mus saib [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev ntxub ntxaug hauv tag nrho nws cov program, kev pabcuam, kev ua ub no, thiab cov ntaub ntawv vim haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, tus kheej kev qhia (xws li kev qhia poj niam txiv neej), kev nyiam poj niam los txiv neej, xiam oob khab, hnub nyoog, txij nkawm, muaj me nyuam los tsis muaj, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, lossis kev rau txim vim tau siv txoj cai. (Tsis yog txhua yam uas teev tseg no siv rau txhua program.)
----

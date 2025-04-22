@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pagpapalago ng Blueberry
 
 ### Bakit Magtanim ng Blueberry?
@@ -38,7 +36,6 @@
 - **Uri ng abono**: Ammonium sulfate, urea, pagkain para sa rhododendron, feather meal, cottonseed meal, o soybean meal.
 - **Paraan ng paglalagay**: Iwisik nang pantay-pantay ang abono sa loob ng 12 hanggang 18 pulgada mula sa bawat halaman, huwag ilagay mismo sa puno o tangkay.
 
-#### Dami ng Nitrogen (N) kada Edad ng Halaman
 
 | Taon ng Pagtatanim | Dami ng N (onzas) kada taon |
 |--------------------|----------------------------|
@@ -54,7 +51,6 @@
 - **Oras ng paglalagay**: Hatiin ang kabuuang dami ng N sa tatlo, ilagay ang una sa kalagitnaan ng Abril, ang pangalawa sa kalagitnaan ng Mayo, at ang huli sa kalagitnaan o huling bahagi ng Hunyo.
 - **Bagong sawdust na mulch**: Ilagay ang abono sa ibabaw ng mulch, at dagdagan ng 25% sa kabuuang dami.
 
-#### Pagkalkula ng Dami ng Abono
 
 Para malaman kung gaano karaming abono ang gagamitin:
 - Hatiin ang inirekumendang dami ng N sa porsyento ng N ng abono na gagamitin.
@@ -87,10 +83,3 @@ Para malaman kung gaano karaming abono ang gagamitin:
 - [Growing Berries on the Oregon Coast: Blueberries EM9179](https://catalog.extension.oregonstate.edu/)
 - [Pruning Module](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Acidifying Soil for Blueberries and Ornamental Plants in the Yard and Garden EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Master Gardener™ na Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, kalagayan sa pag-aasawa, kalagayan sa pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genetika, katayuan bilang beterano, o pagganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

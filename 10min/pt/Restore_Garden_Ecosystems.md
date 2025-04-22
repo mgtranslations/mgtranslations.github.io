@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Restaurar Ecossistemas Naturais em Jardins Urbanos
 
 O rápido crescimento da população em áreas urbanas geralmente leva ao desenvolvimento e expansão de redes de transporte que fragmentam paisagens e ecossistemas naturais. Isso interrompe processos naturais e diminui a capacidade dos ecossistemas de amenizar os efeitos de tempestades, enchentes, incêndios florestais, ondas de calor e secas. Também resulta na perda de habitat para polinizadores, morcegos, aves e anfíbios. (Hardy et al. 2022)
@@ -70,8 +68,3 @@ Ofereça abrigo para uma grande variedade de animais silvestres que se alimentam
 - **Materiais sobre Resiliência Climática:** Ecossistemas, Solos, Gramados, Água, Plantas.
 - **Recursos sobre Plantas Nativas:** Uso de Plantas Nativas no Jardim, Lista de Plantas de Portland, Programa de Habitat no Quintal.
 - **Outros Materiais:** Paisagismo à Prova de Incêndio, Manejo Integrado de Pragas para Jardins Residenciais, Como Fazer uma Vala de Infiltração, Como Fazer um Jardim de Chuva.
-
----
-
-###### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou resposta a atividades anteriores de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

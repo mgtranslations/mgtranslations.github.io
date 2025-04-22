@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Nakakaing Landscaping
 
 ### Pangkalahatang-ideya
@@ -23,23 +21,18 @@ Ang nakakaing landscaping ay ang paggamit ng mga halamang nagbibigay ng pagkain 
 
 ### Mga Dapat Isaalang-alang
 
-#### Lokasyon
 
 Karamihan sa mga prutas at gulay ay nangangailangan ng 6 hanggang 8 oras ng araw para mamunga nang maayos. Ang ilang halamang likas dito tulad ng salmonberry at thimbleberry ay tumatagal kahit may kaunting lilim, pati na rin ang mga halamang kinakain ang dahon gaya ng letsugas at kale.
 
-#### Espasyo
 
 Isipin ang laki ng halaman kapag malaki na ito. Ang mga punong dwarf o semi-dwarf at mga palumpong na maliit ay bagay sa masisikip na lugar. Maaaring gamitin ang mga trellis, bakod, at arbor para magamit ang patayong espasyo at doon magpalago ng nakakain na puno, palumpong, at baging.
 
-#### Oras at Pag-aalaga
 
 Kailangan ng tamang pag-aalaga ang mga nakakain na halaman sa bawat yugto ng kanilang paglaki para manatiling mabunga. Kailangan nila ng pinabuting lupa, maingat na pagdidilig at paglalagay ng pataba sa tamang oras, at pagbantay sa sakit at peste. Lalo na ito kapag bata pa ang halaman o bagong tanim.
 
-#### Paggamit
 
 Alamin kung kailan dapat anihin at maghanda na gamitin ang saganang ani mula sa iyong hardin.
 
-#### Ganda
 
 Ang mga ornamental na halaman ay may iba’t-ibang kulay ng bulaklak, hugis at tekstura ng dahon. Sa kaunting pananaliksik, makakahanap ka ng nakakain na halaman na may mga katangiang gusto mo. Halimbawa:
 
@@ -50,7 +43,6 @@ Ang mga ornamental na halaman ay may iba’t-ibang kulay ng bulaklak, hugis at t
 
 ### Maikling Listahan ng mga Nakakain na Halaman (* tumutukoy sa katutubong halaman)
 
-#### Maliit na Puno (10 hanggang 20 talampakan)
 
 - **Mansanas**: Pumili ng semi-dwarf, espalier, o columnar na uri; lahat ay may magagandang pink na bulaklak tuwing tagsibol. Ang mga uri gaya ng Chehalis, Jonafree, Liberty, Prima, at Redfree ay hindi madaling dapuan ng scab.
 - **Black Elderberry***: Maganda ang lacy at maitim na dahon; ang bunga ay ginagamit sa jelly, syrup, at alak. Maganda ring panlaban sa sunog.
@@ -61,7 +53,6 @@ Ang mga ornamental na halaman ay may iba’t-ibang kulay ng bulaklak, hugis at t
 - **Plum**: Maaaring berde, ginto, pula, o lila ang hinog na bunga. Ang Brooks at Italian na uri ng European plums ay madaling palaguin. Brown rot ang karaniwang problema.
 - **Serviceberry***: Pumpon ng puting bulaklak tuwing maagang tagsibol; matingkad na dilaw hanggang orange ang kulay tuwing taglagas. Madaling umangkop sa iba’t-ibang lupang pagtataniman.
 
-#### Palumpong (kahoy, perennial, annual; 3 hanggang 10 talampakan)
 
 - **Blueberry**: Maganda ang kulay tuwing taglagas at maraming bunga tuwing tag-init. Madaling palaguin at bihira ang sakit.
 - **Currant at Gooseberry**: Maraming maasim na bunga para sa jam at jelly. Tumutubo sa katamtaman hanggang mabigat na lupa at sa iba’t-ibang pH ng lupa.
@@ -71,7 +62,6 @@ Ang mga ornamental na halaman ay may iba’t-ibang kulay ng bulaklak, hugis at t
 - **Strawberry Tree**: Malaki, evergreen na palumpong na may madilim na berdeng dahon at maliwanag na pulang bunga. Namumulaklak mula taglagas hanggang taglamig; ilagay sa lugar na protektado sa hangin.
 - **Kamatis**: Maganda, nakakain na bunga na may kulay dilaw, orange, pula, berde, lila, at itim at iba’t-ibang hugis. Itinatanim tuwing tag-init, kailangan ng araw at init para mahinog. Iwasan ang pagbubuhos ng tubig sa dahon para maiwasan ang sakit.
 
-#### Baging at Iba Pang Gumagapang
 
 - **Ubas** (pang-alak o seedless na ubas): Magandang dahon na nagbibigay lilim sa arbor o patio tuwing tag-init. Kailangan ng matinding pagputol taon-taon para mamunga nang marami.
 - **Kiwi** (fuzzy at hardy kiwi): Kakaibang dahon, puting bulaklak tuwing Mayo, at bunga na berde, pula at kayumanggi tuwing taglagas. Karamihan ay nangangailangan ng matibay na suporta dahil sa mabilis na paglaki. Mayroon nang mga maliit at self-fertile na uri.
@@ -80,7 +70,6 @@ Ang mga ornamental na halaman ay may iba’t-ibang kulay ng bulaklak, hugis at t
 - **Pipino**: Kung palalampasin na gumapang, ang bulaklak at bunga ng pipino ay magandang background ng hardin. Madaling mauhaw sa init at kailangan ng maraming tubig.
 - **Pole Bean**: Kailangan ng buong araw at maayos na hangin para maiwasan ang powdery mildew. Puwedeng gamitin sa pambatang bahagi ng hardin para gawing teepee o tunnel.
 
-#### Pangtakip sa Lupa
 
 - **Fresa**: Puti ang bulaklak tuwing tagsibol at pula ang bunga tuwing tag-init; ang fresa ay hindi tumatagal at dapat palitan bawat 3 hanggang 4 na taon.
 - **Lingonberry**: Maganda at mukhang maselang evergreen na ground cover. Mas maraming bunga kung may buong araw ngunit tumutubo rin kahit may lilim.
@@ -90,20 +79,13 @@ Ang mga ornamental na halaman ay may iba’t-ibang kulay ng bulaklak, hugis at t
 
 ### Karagdagang Pinagkukunan
 
-#### Mga Pinagmumulan ng Nakakain na Halaman sa Northwest
 
 - *Sunset Western Garden Book*
 - Oregon State University Extension Publications: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - *10-Minute University*: [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
-#### Payong Master Gardener™
 
 - **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas)
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at mga materyales batay sa lahi, kulay, pinagmulang bansa, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, katayuang mag-asawa, katayuan bilang magulang/pamilya, kita mula sa pampublikong tulong, paniniwala sa pulitika, genetic information, katayuang beterano, paghihiganti o retaliation sa naunang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

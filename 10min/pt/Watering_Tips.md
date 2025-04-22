@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 ## Dicas de Rega
 
 ### Teoria & Técnicas
@@ -33,13 +31,11 @@
 
 ### Rega Ineficaz
 
-#### Sintomas de Excesso de Água
 
 - Folhas amarelas ou manchadas
 - Folhas ficam verde-claras ou amarelas e depois caem
 - Plantas crescem mal e caules finos tombam
 
-#### Sintomas de Falta de Água
 
 - Folhas amarelas ou manchadas
 - Folhas parecem opacas, um pouco acinzentadas e sem brilho
@@ -54,22 +50,18 @@ Qualquer que seja o método de rega escolhido, verifique a umidade do solo algum
 
 - Flores e hortaliças: 30–38 cm de profundidade
 
-#### Rega por Cima
 
 - Regar árvores e arbustos por cima (aspersor ou manual) pode aumentar problemas fúngicos e bacterianos, como sarna em maçãs, ferrugem e mancha preta em rosas.
 - Regue cedo o suficiente para que as folhas sequem antes do anoitecer.
 
-#### Rega Manual
 
 - A rega manual pode fornecer água mais rápido do que o solo consegue absorver, causando escorrimento.
 
-#### Aspersores
 
 - Aspersores podem espalhar água onde não é necessário e, muitas vezes, fornecem água mais rápido do que o solo absorve.
 - Use aspersores que cubram apenas a área do jardim, não as áreas ao redor.
 - Minimize a perda por evaporação regando em horários frescos e sem vento (da noite ao início da manhã).
 
-#### Sistemas de Baixo Fluxo
 
 - **Vantagens:**
   - Levam umidade diretamente à zona das raízes de forma uniforme por toda a estação.
@@ -98,15 +90,9 @@ Qualquer que seja o método de rega escolhido, verifique a umidade do solo algum
   - [Chaves para Jardins Eficientes em Água, EM 9134](https://catalog.extension.oregonstate.edu/)
   - [Manutenção de Jardins para Economizar Água, EM 9135](https://catalog.extension.oregonstate.edu/)
 
-#### Orientação do Mestre Jardineiro™
 
 - **Ligue para a Linha de Ajuda em Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para outros folhetos e horários de aulas do 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-#### Serviço de Extensão da Universidade Estadual de Oregon · O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade prévia de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

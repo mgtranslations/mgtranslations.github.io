@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme des Maîtres Jardiniers OSU Extension™
-
 # Ajouter une bioswale
 
 Dans les zones développées, la pluie qui tombe sur les surfaces dures est dirigée vers des tuyaux, des fossés et des bouches d’égout avant d’être rejetée dans les ruisseaux, cours d’eau et rivières. Une bioswale est conçue pour recueillir les eaux de ruissellement provenant des toits, allées ou autres surfaces imperméables. Elle permet à l’eau de pluie de s’infiltrer dans le sol et d’être filtrée par les plantes et la terre, ce qui réduit le ruissellement et la pollution vers les cours d’eau naturels. La forme linéaire des bioswales les rend adaptées aux bords de routes, mais on les utilise aussi dans les jardins de devant et d’arrière ainsi qu’au pied des descentes de gouttière. Les bioswales peuvent aussi remplacer les bordures ou les caniveaux.
@@ -76,8 +74,3 @@ Les plantes ont besoin d’un arrosage supplémentaire pendant le premier été 
 
 - **Laboratoires d’analyses desservant l’Oregon**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

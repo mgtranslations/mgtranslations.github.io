@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ururka Beeraleyda Master-ka ee Clackamas County oo kaashanaya kuna taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Korinta Miiraha Buluugga ah (Blueberries)
 
 ### Maxaad u Korisaa Miiraha Buluugga ah?
@@ -38,7 +36,6 @@
 - **Noocyada**: Ammonium sulfate, urea, cunto rhododendron, feather meal, cottonseed, ama soybean meal.
 - **Sida loo mariyo**: Bacriminta si siman ugu faafi 12 ilaa 18 inji geedka agtiisa, ha saarin si toos ah jirridda ama laanta.
 
-#### Heerka Nitrogen (N) ee Da’da Geedka
 
 | Sannadka Beerta | Heerka N (oz) Sannadkii |
 |------------------|------------------------|
@@ -54,7 +51,6 @@
 - **Waqtiga**: Qaybi qaddarka N saddex qaybood oo siman, kan koowaad mari bartamaha Abriil, kan labaad bartamaha May, kii ugu dambeeya bartamaha ilaa dhammaadka Juun.
 - **Mulch cusub oo qoryo ah**: Bacriminta ku mari dusha mulch-ka, laakin ku dar 25% wadarta guud.
 
-#### Sida Loo Xisaabiyo Qaddarka Bacriminta
 
 Si aad u ogaato inta alaab ee aad isticmaali lahayd:
 - Qaybi heerka N ee la taliyey boqolkiiba N ee bacriminta aad doorato.
@@ -87,10 +83,3 @@ Si aad u ogaato inta alaab ee aad isticmaali lahayd:
 - [Korinta Miiraha Xeebta Oregon: Blueberries EM9179](https://catalog.extension.oregonstate.edu/)
 - [Qaybta Jariska](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Aashitada Carrada loogu sameeyo Miiraha Buluugga ah iyo Geedaha Qurxinta Beerta EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii qoraallo iyo jadwal fasallo dheeraad ah, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga OSU Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyadiisa, hawlihiisa, iyo agabkiisa sabab la xiriirta: midab, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmo la’aanta, naafonimada, da’da, xaaladda guurka, xaaladda qoyska, dakhliga laga helo barnaamijka taageerada dadweynaha, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda askarigii hore, ama aargoosiga/ciqaabta la xiriirta hawlo hore oo xuquuqda madaniga ah ah. (Dhammaan sababaha la mamnuucay kuma khusayaan dhammaan barnaamijyada.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Chăm sóc và Bảo dưỡng Dụng cụ Làm Vườn
 
 Dụng cụ sẽ bị hỏng theo thời gian do độ ẩm kết hợp với đất và gỉ sét. Việc làm sạch và bảo dưỡng đúng cách như hướng dẫn dưới đây sẽ giúp dụng cụ luôn hoạt động tốt và kéo dài tuổi thọ.
@@ -61,12 +59,3 @@ Một số tài liệu của OSU có sẵn trực tuyến tại:
 - [Dụng cụ thiết thực cho người làm vườn rau](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Chăm sóc tốt các dụng cụ làm vườn làm việc chăm chỉ](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Mài sắc dụng cụ làm vườn của bạn](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### Tư vấn Làm Vườn Chuyên Nghiệp · Gọi Đường Dây Hỗ Trợ Làm Vườn: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ giúp công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì từng thực hiện quyền dân sự trước đây. (Không phải tất cả các điều cấm đều áp dụng cho mọi chương trình.)
----

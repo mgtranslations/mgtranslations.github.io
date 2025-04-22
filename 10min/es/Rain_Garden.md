@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Master Gardeners del Condado de Clackamas en colaboración y apoyo del Programa Master Gardener™ de la Extensión de OSU
-
 # Cómo Agregar un Jardín de Lluvia
 
 Un jardín de lluvia es un área hundida que recoge y trata el agua de lluvia que escurre de los techos, entradas de autos, aceras y calles. Los jardines de lluvia imitan las condiciones naturales de un bosque o pradera y ayudan a mantener saludables nuestras cuencas hidrográficas.
@@ -109,8 +107,3 @@ Puedes mandar analizar tu suelo con una empresa y recibir recomendaciones para m
 - [Jardines de Lluvia - Hoja Informativa sobre Desarrollo de Bajo Impacto](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [Guía del Jardín de Lluvia](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Manual de Enfoques de Desarrollo de Bajo Impacto, Clean Water Services, Condado de Washington](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa en materia de derechos civiles. (No todas las bases prohibidas se aplican en todos los casos.)
----

@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Master-ka ee Clackamas County oo la kaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Abuurista Beero Dabayaaqeeyaasha
 
 Furaha lagu sameynayo beero guulaysta oo dabaaqeeyayaal ah (pollinator garden) waa in la siiyo cayayaanka dhirta beerta ku faafiya (pollinators) iyo nooleyaasha kale meel ay ku tarmaan isla markaana la hubiyo in ay helaan cunto joogto ah laga bilaabo guga ilaa dayrta dambe. Cayayaanka beerta ugu badan ee pollinators-ka ah waxaa ka mid ah shinnida, balanbalada, bakaylaha, diqsiyaasha, xashiishyada, shimbiraha, xitaa quraanjada. Maadaama ay jiraan noocyo badan oo pollinators ah oo leh baahiyo kala duwan, xeeladda ugu fiican waa in la beero dhir ubaxyo badan leh oo kala duwan oo soo saarta malab iyo polen.
@@ -84,9 +82,3 @@ Ka tag caleemaha aan cudurka lahayn, laamaha, iyo miraha dhirta beerta ilaa guga
 La xiriir xafiiska OSU Extension ee deegaankaaga si aad u hesho talooyin beeraleyda Master-ka. Eeg goobtan si aad u hesho macluumaad xiriir: [Ka hel Xafiiska Extension ee deegaankaaga](https://extension.oregonstate.edu/find-us).
 
 Si aad u hesho waraaqaha 10-Daqiiqo Jaamacad™ iyo jadwalka fasallada, booqo [Clackamas County Master Gardeners](https://cmastergardeners.org).
-
----
-
-#### Oregon State University Extension Service · Adeegga Kordhinta ee Jaamacadda Oregon State waxay mamnuucaysaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ay bixiso, iyadoo aan loo eegin isirka, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/walidka, dakhliga laga helo barnaamij caawimaad dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda ciidanimada, aargoosi, ama ciqaab ka dhalatay u doodista xuquuqda madaniga ah ee hore. (Dhammaan arrimaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
-
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Low-Tech Hydroponic Gardening Indoors
 
 Hydroponics is growing plants, without soil, in a water-based nutrient solution. Large-scale hydroponic systems employ sophisticated technology to monitor the level of nutrients, pH, dissolved oxygen, temperature of the nutrient solution, and the amount of light the plants are receiving. This handout introduces a low-tech option that is suitable for home gardeners.
@@ -82,7 +80,3 @@ At harvest:
 - [Three Non-Circulating Hydroponic Methods for Growing Lettuce](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Video by B. A. Kratky
 - [Hydroponic Growing at Home](http://www.cmastergardeners.org/10-minute-university) – A 10-Minute University™ video
 - *Grow Lettuce in Your Living Room: Feed Your Family from Your Indoor LED Hydroponic Garden* by Dan Chiras & Victor Zaderej
-
----
-
-###### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

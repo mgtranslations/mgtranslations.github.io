@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Tomaten im Hausgarten anbauen
 
 ## Die Wahl der richtigen Sorten
@@ -9,7 +7,6 @@
 - Entscheide, ob du mit Samen starten oder fertige Pflanzen kaufen möchtest.
 - Finde heraus, ob bestimmte oder unbestimmte Tomaten am besten zu deinem Garten passen.
 
-#### Tomatenarten
 
 | Art           | Platz- / Stützbedarf              | Wuchsform         | Ernte                                  |
 |---------------|-----------------------------------|-------------------|----------------------------------------|
@@ -64,7 +61,6 @@ Die Pflanzen können in die Erde, wenn sie 25–38 cm groß sind und die Bodente
 5. Untere Blätter und Geiztriebe (Seitentriebe an der Stelle, wo ein Blatt am Stängel sitzt) unterhalb des ersten Blütenstandes entfernen.
 6. Wähle eine Pflanzmethode:
 
-#### Grabenmethode
 
 - **Vorteile:** Wurzeln liegen im wärmsten Boden; gut für lange, dünne Pflanzen.
 - **Nachteile:** Muss oft gegossen und vorsichtig, flach gelockert werden.
@@ -76,7 +72,6 @@ Die Pflanzen können in die Erde, wenn sie 25–38 cm groß sind und die Bodente
   - Einen Marker am Wurzelballenende anbringen, damit die Wurzeln beim Jäten nicht verletzt werden.
   - Stütze direkt beim Pflanzen anbringen, um spätere Wurzelverletzungen zu vermeiden.
 
-#### Senkrechte Methode
 
 - **Vorteile:** Größere Wassermenge steht den Wurzeln zur Verfügung; weniger Aufplatzen der Früchte.
 - **Nachteile:** Tiefere Erde ist kühler, Wachstum und Reife gehen langsamer.
@@ -126,12 +121,3 @@ Die Pflanzen können in die Erde, wenn sie 25–38 cm groß sind und die Bodente
   - [Tomaten aus Samen ziehen](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
   - [Tomaten im Garten pflanzen](https://www.youtube.com/watch?v=Pucpx5fuKdk)
   - [Bewährte Pflegemethoden](https://www.youtube.com/watch?v=lpVBg-e_1vE)
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · 10-Minuten-Universität™ Infoblätter und Videos: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlicher Unterstützung, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Merkmale gelten für alle Programme.)
----

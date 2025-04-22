@@ -1,5 +1,3 @@
-#### Université 10-Minute™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme OSU Extension Master Gardener™
-
 # Restaurer les écosystèmes naturels dans les jardins urbains
 
 La croissance rapide de la population dans les zones urbaines conduit souvent au développement et à l’expansion des réseaux de transport qui fragmentent les paysages naturels et les écosystèmes. Cela perturbe les processus naturels et réduit la capacité des écosystèmes à atténuer les effets des tempêtes, des inondations, des incendies, des vagues de chaleur et des sécheresses. Cela entraîne aussi la perte d’habitats pour les pollinisateurs, les chauves-souris, les oiseaux et les amphibiens. (Hardy et al. 2022)
@@ -70,8 +68,3 @@ Offrez un abri à une grande variété d’animaux qui se nourrissent, se logent
 - **Fiches sur la résilience climatique :** Écosystèmes, sols, pelouses, eau, plantes.
 - **Ressources sur les plantes indigènes :** Utiliser les plantes indigènes dans votre jardin, Liste des plantes de Portland, Programme Habitat de Jardin.
 - **Autres fiches :** Paysages adaptés au feu, Gestion intégrée des nuisibles pour les jardins familiaux, Ajouter une noue végétalisée, Ajouter un jardin de pluie.
-
----
-
-###### Le Service de l’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans l’ensemble de ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial ou parental, du revenu provenant d’une aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou des mesures de rétorsion pour une activité antérieure en matière de droits civils. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

@@ -1,7 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
----
-
 ## Insekten-Schädlinge
 
 ### Überblick
@@ -18,7 +14,6 @@ Es ist oft schwierig, die Ursache für Pflanzenschäden zu erkennen, da viele In
 
 Glücklicherweise geben die Fressgewohnheiten der Insekten oft hilfreiche Hinweise. Insekten kann man an ihrer Art der Nahrungsaufnahme unterscheiden: **beißend/raspelnd** oder **stechend-saugend**.
 
-#### Beißende/raspelnde Insekten
 
 Beißende/raspelnde Insekten haben Mundwerkzeuge, mit denen sie Löcher in Blätter, Knospen, Wurzeln, Samen, Früchte oder holzige Pflanzenteile nagen können. Beispiele dafür sind:
 
@@ -26,7 +21,6 @@ Beißende/raspelnde Insekten haben Mundwerkzeuge, mit denen sie Löcher in Blät
 - **Blüten-, Frucht- und Samenfresser**: Fruchtfliegen, Gallmücken, Wespen, Hornissen, Apfelwickler, Maiszünsler, Samenkäfer.
 - **Schädlinge an Bauholz**: Rossameisen, Termiten, Nagekäfer.
 
-#### Stechend-saugende Insekten
 
 Stechend-saugende Insekten schädigen Pflanzen nicht nur direkt durch Saugen, sondern geben manchmal auch giftige Stoffe ab, was Symptome von kleinen Punkten auf den Blättern bis zu schweren Störungen der ganzen Pflanze auslösen kann. Punkte und Flecken entstehen, wenn Chlorophyll durch saugende Mundteile zerstört wird. Beispiele dafür sind:
 
@@ -92,12 +86,3 @@ Der integrierte Pflanzenschutz ist ein systematischer und ganzheitlicher Ansatz,
 - **Garteninsekten** von Crenshaw, 2004
 - **Oregon State University Extension Veröffentlichungen**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Rodales Organischer Gartenbau: Schädlinge und Krankheiten bekämpfen**, Rodale Publishing, 1994
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minuten-Universität™ Infoblätter und Kurspläne finden Sie unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkünften aus öffentlicher Unterstützung, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien wegen vorheriger Beteiligung an Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

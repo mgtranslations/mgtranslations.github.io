@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme des Maîtres Jardiniers™ de l’Extension OSU
-
 # Commencer Votre Potager
 
 ### Que Cultiver
@@ -38,7 +36,6 @@ Un test de sol révèle le niveau de nutriments et les amendements nécessaires.
 
 La température du sol et de l’air détermine le moment de la plantation.
 
-#### Température du Sol
 
 Température minimale du sol (°F) requise pour certaines cultures populaires :
 
@@ -49,7 +46,6 @@ Température minimale du sol (°F) requise pour certaines cultures populaires :
 - Aubergine/Poivron/Tomate : 13 °C (55 °F)
 - Basilic : 16 °C (60 °F)
 
-#### Température de l’Air
 
 Température idéale de l’air (°F) pour certaines cultures :
 
@@ -60,12 +56,10 @@ Température idéale de l’air (°F) pour certaines cultures :
 
 Si vous semez des pois en fin d’hiver, ils peuvent germer, mais ils ne pousseront pas bien tant que la température de l’air ne sera pas plus chaude.
 
-#### Cultures à Saison Courte vs. Saison Longue
 
 - **Cultures à saison courte :** Mûrissent en 50 jours ou moins. Vous pouvez semer directement les graines et garantir une bonne récolte.
 - **Cultures à saison longue :** Comme la tomate, mûrissent en 75 à 90 jours. Le jardinier doit souvent récolter avant l’arrivée des pluies d’automne et des nuits fraîches.
 
-#### Plants à Repiquer
 
 Les plants achetés en jardinerie ou démarrés dans votre propre serre donnent une avance au jardinier.
 
@@ -81,19 +75,15 @@ La plupart des légumes sont annuels et ont besoin de suffisamment de nutriments
   - Fruits et fleurs : Plus de phosphore (P).
   - Racines : Plus de potassium (K).
 
-#### Gros consommateurs
 
 Betterave, chou vert, chou frisé, laitue, persil, épinard et tomate peuvent nécessiter plus d’engrais.
 
-#### Faibles consommateurs
 
 Carotte, ail, oignon, blette, moutarde et poivron peuvent avoir besoin d’une quantité modérée.
 
-#### Cultures fixatrices d’azote
 
 Haricot, pois, soja et trèfle fixent l’azote de l’air et réussissent souvent sans engrais.
 
-#### Engrais organiques
 
 Appliquez-les quelques mois avant la plantation pour de meilleurs résultats. Exemples :
 
@@ -110,7 +100,6 @@ Arrosez pour que la zone racinaire soit uniformément humide. Creusez à 15–20
 - **Système goutte-à-goutte :** Apporte l’eau directement aux racines et est préférable à l’arrosage par-dessus, qui mouille les feuilles et peut favoriser les maladies.
 - **Arrosage par dessus :** Réduisez les éclaboussures et évitez d’arroser tard le soir. Arroser tôt dans la journée réduit l'évaporation.
 
-#### Stades critiques d’arrosage
 
 Soyez vigilant pendant les moments critiques de vos cultures :
 
@@ -124,8 +113,3 @@ Soyez vigilant pendant les moments critiques de vos cultures :
 
 - [EM 9027 Cultiver vos propres légumes](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Le jardinage potager en Oregon](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### Le Service d’Extension de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents en raison de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l'identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, du revenu provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou des représailles pour une activité antérieure relative aux droits civils. (Tous les motifs d'interdiction ne s’appliquent pas à tous les programmes.)
----

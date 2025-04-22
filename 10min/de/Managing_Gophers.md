@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Bekämpfung von Taschenratten
 
 ### Einführung
@@ -16,13 +14,11 @@ Taschenratten leben in einem Tunnelsystem, das eine Fläche von 20 bis 200 Quadr
 
 Taschenratten können das ganze Jahr über bekämpft werden, aber der Einsatz von Fallen oder Ködern ist am erfolgreichsten, wenn neue Hügel erscheinen – meistens im Frühling und Herbst. Sowohl Fallen als auch Giftköder sind wirksam.
 
-#### Fallen
 
 - Es gibt verschiedene Arten von Taschenrattenfallen, die weit verbreitet und einfach zu benutzen sind. Man kann sie im Seitentunnel nahe am Hügel aufstellen, allerdings sind sie im Haupttunnel wirksamer.
 - Den Haupttunnel findet man, indem man etwa 30 Zentimeter vom Hügel entfernt mit einer Stange stochert. Ausführliche Anweisungen zum Auffinden eines Tunnels finden Sie in *Wühlmäuse und Taschenratten: Management auf Rasenflächen, in Gärten und auf Feldern*, kostenlos online im [OSU Extension Catalog](http://extension.oregonstate.edu/catalog).
 - Platzieren Sie zwei Fallen Rücken an Rücken im Haupttunnel und sichern Sie sie mit einem Pflock. Bewegen Sie die Fallen an eine andere Stelle, wenn nach 2 oder 3 Tagen kein Fang erfolgt ist.
 
-#### Köder
 
 - Legen Sie Giftköder gemäß der Anweisungen auf der Verpackung in die Haupttunnel. Finden Sie die Tunnel mit einer Sonde und geben Sie den Köder durch das Sondenloch hinein.
 - Eine andere Methode ist, den Tunnel vorsichtig mit einer kleinen Schaufel freizulegen und den Köder direkt hineinzugeben.
@@ -30,11 +26,9 @@ Taschenratten können das ganze Jahr über bekämpft werden, aber der Einsatz vo
 - Kontrollieren Sie den Bereich nach der Behandlung zwei Wochen lang regelmäßig und entsorgen Sie alle gefundenen Kadaver.
 - **Wichtig:** Wenn Sie die Anweisungen auf der Verpackung nicht genau befolgen, können andere Tiere, Haustiere oder Kinder verletzt werden. Setzen Sie Köder nur als letzte Möglichkeit ein.
 
-#### Begasung
 
 - Begasungsmittel, auch „Gopher-Gassers“ genannt, sind meist nur wirksam, wenn der Boden gut durchfeuchtet oder sehr lehmig ist.
 
-#### Abwehr durch Barrieren
 
 - Unterirdische Zäune können sich für wertvolle Ziersträucher oder Landschaftsbäume lohnen.
 - Um bestehende Pflanzen zu schützen, vergraben Sie Kaninchendraht oder Maschendraht (mit einer Maschenweite von maximal 2 cm) mindestens 60 cm tief und biegen Sie weitere 15 cm im 90-Grad-Winkel von der Pflanze weg.
@@ -45,15 +39,12 @@ Taschenratten können das ganze Jahr über bekämpft werden, aber der Einsatz vo
 - Verwenden Sie nur leichten Draht für Sträucher und Bäume, die nur als Jungpflanzen geschützt werden müssen. Lassen Sie genug Platz für das Wurzelwachstum. Verzinkter Draht hält am längsten.
 - Sechs bis acht Zentimeter grober Kies (mindestens 2,5 cm Durchmesser) rund um unterirdische Sprengerleitungen oder Kabel kann Taschenratten ebenfalls abhalten.
 
-#### Natürliche Feinde
 
 - Fressfeinde wie Eulen, Schlangen, Katzen, Hunde und Kojoten können die Population verringern, reichen aber oft nicht aus.
 
-#### Überschwemmung
 
 - Taschenratten überstehen normale Bewässerung im Garten oder auf Grundstücken, aber starke Überschwemmung kann sie manchmal aus ihren Bauen treiben und sie so Fressfeinden aussetzen.
 
-#### Unwirksame Methoden
 
 - Viele Geräte versprechen, Taschenratten zu vertreiben – darunter vibrierende Stäbe, Ultraschallgeräte und Windräder. Diese Tiere lassen sich jedoch kaum erschrecken, wahrscheinlich weil sie ständig Lärm und Vibrationen durch Sprinkler, Rasenmäher, Fahrzeuge und Menschen gewohnt sind.
 - Andere unwirksame Methoden sind das Einlegen von Kaugummi oder Abführmitteln in die Tunnel in der Hoffnung, die Taschenratten damit zu töten.
@@ -66,15 +57,9 @@ Hier sind nur einige von vielen verfügbaren Ressourcen:
   - *Wühlmäuse und Taschenratten: Management auf Rasenflächen, in Gärten und auf Feldern* (PNW 627E)
   - *Nachhaltiges Gärtnern* (EM8742)
 
-#### Master Gardener™ Beratung
 
 - **Hotline für Hausgartenberatung:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Für Handouts und den Kursplan der 10-Minuten-Universität™ besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Der Extension Service der Oregon State University untersagt Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familienstatus, Einkommen aus staatlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien für vorherige Aktivitäten im Zusammenhang mit Bürgerrechten. (Nicht alle untersagten Gründe gelten für alle Programme.)
----

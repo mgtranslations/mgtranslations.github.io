@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 ## Pragas e Doenças de Outono e Inverno
 
 ### Percevejos e Baratas-da-Árvore (Insetos)
@@ -90,12 +88,3 @@
 - Pode galhos e folhas mortas. Siga as técnicas corretas de poda: cortes grandes devem ser feitos em três etapas e galhos pequenos cortados em ângulo de 45 graus, acima de uma gema externa.
 - Verifique rachaduras na casca para insetos e, se encontrar, remova-os.
 - Antes de remover uma planta, espere até o início do crescimento ativo para ter certeza de que está morta.
-
----
-
-#### Dicas do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para mais folhetos da Universidade de 10 Minutos™ e horários de aulas, acesse [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar ou parental, renda de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividades anteriores de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

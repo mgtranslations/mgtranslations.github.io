@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien du programme Maître Jardinier™ de l’Extension de l’OSU
-
 # Jardinage sur Buttes Surélevées
 
 Le jardinage dans des buttes surélevées est une pratique courante depuis des siècles. « Surélevée » signifie que le niveau de sol dans la butte est plus haut que le sol autour, et « butte » veut dire qu’elle est assez petite pour qu’on puisse travailler depuis les allées.
@@ -89,12 +87,3 @@ Voici quelques publications de l’OSU disponibles sur le [Catalogue Extension O
 
 - **Jardinage sur Buttes Surélevées FS 270**
 - **Comment Construire Votre Propre Tunnel de Protection EC 1627-E**
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et le planning des cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### L’Oregon State University Extension Service interdit toute discrimination dans ses programmes, services, activités et documents, basée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures prises pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

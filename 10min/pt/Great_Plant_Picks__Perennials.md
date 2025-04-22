@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 ## Grandes Escolhas de Plantas: Perenes
 
 **S:** Planta de Sombra  
@@ -57,7 +55,6 @@
 
 Grandes Escolhas de Plantas (GPP) é o principal programa educacional do Jardim Botânico Elisabeth C. Miller. Em 2001, a primeira lista foi lançada com recomendações para criar uma seleção abrangente de plantas excelentes para o noroeste do Pacífico marítimo. Até hoje, mais de 1.000 plantas excepcionais foram selecionadas para jardineiros que vivem a oeste das Montanhas Cascade, de Eugene, Oregon (EUA), até Vancouver, British Columbia (Canadá).
 
-#### Critérios de Seleção do GPP
 
 - Desenvolvem-se em vários tipos de solo.
 - Precisam de água suplementar moderada ou menos.
@@ -66,8 +63,3 @@ Grandes Escolhas de Plantas (GPP) é o principal programa educacional do Jardim 
 - Resistentes a doenças e pragas.
 - Oferecem mais de uma estação de interesse no jardim.
 - Proporcionam benefícios ecológicos (polinizadores, alimento para pássaros, habitat para a vida selvagem, etc.).
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia của OSU Extension
-
 # Thêm Một Vườn Mưa
 
 Vườn mưa là một bồn trũng được thiết kế để thu gom và xử lý nước mưa chảy tràn từ mái nhà, đường lái xe, vỉa hè và đường phố. Vườn mưa mô phỏng điều kiện tự nhiên của rừng hoặc đồng cỏ và giúp giữ cho lưu vực sông của chúng ta khỏe mạnh.
@@ -109,8 +107,3 @@ Bạn có thể gửi đất để công ty kiểm tra và nhận khuyến ngh�
 - [Tờ Thông Tin Vườn Mưa – Phát triển tác động thấp](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [Hướng Dẫn Vườn Mưa](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Sổ tay các phương pháp phát triển tác động thấp, Hạt Washington, Clean Water Services](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, quốc tịch, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình hoặc cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì đã tham gia hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả.) 
----

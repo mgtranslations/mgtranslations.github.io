@@ -1,5 +1,3 @@
-#### Université en 10 minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien du programme OSU Extension Master Gardener™
-
 # Matière organique comme amendement du sol de jardin
 
 Les amendements du sol peuvent améliorer la structure du sol, augmenter la fertilité et améliorer la rétention d’eau. Les amendements doivent être faibles en sels chimiques et contenir assez d’azote pour nourrir les plantes et les microbes du sol. Pour bénéficier aux plantes, amendez tout le lit de plantation. Si ce n’est pas possible, remplissez le trou de plantation avec la terre d’origine. Remplir le trou de plantation avec du compost ajouté et d’autres amendements crée une interface (où deux types de sol se rencontrent) avec le sol d’origine, ce qui gêne la circulation de l’air, de l’eau et des racines.
@@ -117,8 +115,3 @@ N’est plus recommandée en raison des dégâts environnementaux causés par l�
 
 **Planification :** Pour réussir, il faut semer et détruire les engrais verts au bon moment pour éviter la concurrence avec le potager.  
 [Engrais verts pour potagers familiaux](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### Le Service d’extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/de parent, les revenus issus d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

@@ -1,7 +1,3 @@
-#### Université de 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme OSU Extension Master Gardener™
-
----
-
 ## Le jardinage d’automne au potager
 
 ### Récolte et conservation des légumes
@@ -85,12 +81,3 @@ Le nettoyage d’automne rend le jardinage de printemps plus facile :
   - Jardiner avec des paillis
   - Jardinage en carrés surélevés
   - Tester le pH du sol
-
----
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’aide jardinage à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires des cours Université de 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service de vulgarisation de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut matrimonial, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les rétorsions pour des activités antérieures relatives aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

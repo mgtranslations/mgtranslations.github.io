@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Gartenpflege im Herbst
 
 ### Überblick
@@ -76,10 +74,3 @@ Der Herbst ist eine gute Zeit, um neue Pflanzen zu setzen, Sträucher und Staude
 
 - **Oregon State University Extension Service:**  
   [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
-
-#### Master Gardener™ Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Für 10-Minuten-Universität™ Handouts besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org) · Suchen Sie Master Gardeners auf den Bauernmärkten der Region.
-
----
-
-##### Der Oregon State University Extension Service untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien aufgrund früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

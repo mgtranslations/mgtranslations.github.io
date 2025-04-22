@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab pab txhawb OSU Extension Master Gardener™ Program
-
 # Kev Tswj Cov Npauj Npaim Gopher
 
 ### Taw Qhia
@@ -16,13 +14,11 @@ Pocket gophers nyob hauv lawv tus kheej lub qhov av uas tuaj yeem npog cheeb tsa
 
 Cov pocket gopher yuav tswj tau txhua lub xyoo, tab sis kev siv thauj los yog tshuaj lom yuav zoo tshaj thaum pom pawg av tshiab, feem ntau yog caij nplooj ntoos hlav thiab caij nplooj zeeg. Ob hom, thauj thiab tshuaj lom, puav leej zoo.
 
-#### Thauj (Trap)
 
 - Muaj ntau hom thauj pocket gopher uas muag dav thiab siv yooj yim. Koj tuaj yeem tso lawv hauv qhov av uas mus rau pawg av, tab sis lawv zoo dua thaum tso rau hauv qhov loj.
 - Nrhiav qhov loj ntawm qhov av los ntawm kev siv rab nplaum los txawb ib taw deb ntawm pawg av. Rau cov lus qhia ntxaws txog kev nrhiav qhov av, saib *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands*, muaj dawb online ntawm [OSU Extension Catalog](http://extension.oregonstate.edu/catalog).
 - Tso ob lub thauj rov qab mus rau hauv qhov loj thiab khi kom ruaj. Hloov chaw thauj yog tsis tau tsis muaj dab tsi hauv 2 los yog 3 hnub.
 
-#### Siv Tshuaj Lom
 
 - Tso tshuaj lom rau hauv qhov loj raws li ntawv qhia. Nrhiav qhov av nrog rab nplaum thiab tso tshuaj lom hauv qhov ntawd.
 - Lwm txoj kev yog khawb qhov av nrog rab trowel thiab tso tshuaj lom ncaj qha hauv qhov.
@@ -30,11 +26,9 @@ Cov pocket gopher yuav tswj tau txhua lub xyoo, tab sis kev siv thauj los yog ts
 - Tshawb xyuas cheeb tsam txhua lub lim tiam 2 lub lis piam tom qab kho thiab muab tej tsiaj tuag pov tseg.
 - **Ceeb Toom:** Yog tsis ua raws li cov ntawv qhia zoo yuav ua rau lwm yam tsiaj, tsiaj hauv tsev, los yog menyuam raug mob. Siv tshuaj lom yog xaiv kawg nkaus xwb.
 
-#### Tshuaj Pa (Fumigants)
 
 - Tshuaj pa, qee zaum hu ua “gopher gassers,” feem ntau tsis zoo tshwj tsis yog av tsau dej los yog av nplaum tuab heev.
 
-#### Kev Tiv Thaiv
 
 - Ua laj kab hauv av tej zaum yuav tsim nyog rau cov nroj tsuag muaj nqis lossis ntoo zoo nkauj.
 - Yuav tiv thaiv cov nroj tsuag uas twb cog lawm, khawb thiab faus hlau mesh los yog ¾-nti mesh poultry wire tsawg kawg 2 taw tob thiab ntxiv 6 nti ntawm mesh los yog hlau muab nqes 90-degree tawm ntawm qhov chaw cog.
@@ -45,15 +39,12 @@ Cov pocket gopher yuav tswj tau txhua lub xyoo, tab sis kev siv thauj los yog ts
 - Siv hlau nyias rau shrub thiab ntoo uas xav tau kev tiv thaiv thaum tseem yau. Cia muaj chaw rau cag loj hlob. Galvanized wire yog zoo tshaj thiab kav ntev.
 - Rau sab hauv qab raj dej los yog hlua hluav taws xob, tso pob zeb loj 6 txog 8 nti dav ib nti los sis loj dua kuj pab tiv thaiv gopher.
 
-#### Kev Tiv Thaiv Los Ntawm Kev Tswj Ntuj
 
 - Cov tsiaj qus, xws li owls, nab, miv, dev, thiab coyotes, yuav pab txo cov gopher, tab sis tej zaum yuav tsis txaus.
 
-#### Kev Ntws Dej
 
 - Pocket gopher yuav tiv taus kev ywg dej vaj los yog vaj tsev, tab sis dej ntws ntau zaus yuav ua rau lawv khiav tawm ntawm lawv qhov av thiab raug tsiaj qus noj.
 
-#### Txoj Kev Tsis Zoo
 
 - Muaj ntau yam cuab yeej hais tias yuav hem cov gopher—xws li hlau vibrating, ultrasonic devices, thiab pinwheels uas siv cua. Tab sis cov nas no tsis ntshai yooj yim, tej zaum vim lawv mloog tej suab thiab vibration los ntawm tej tshuab ywg dej, tshuab txiav nyom, tsheb, thiab neeg mus los txhua hnub.
 - Lwm txoj kev tsis zoo muaj xws li tso chewing gum los yog tshuaj laxative hauv qhov av nrog siab xav tua gopher.
@@ -66,15 +57,9 @@ Ntawm no yog ob peb yam kev pab ntxiv uas muaj:
   - *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands* (PNW 627E)
   - *Sustainable Gardening* (EM8742)
 
-#### Tswv Yim Los Ntawm Master Gardener™
 
 - **Hu rau Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Rau 10-Minute University™ cov ntaub ntawv thiab daim ntawv qhia kawm, mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Oregon State University Extension Service txwv tsis pub ua kev saib tsis taus hauv tag nrho nws cov kev pab cuam, kev pab, kev ua ub ua no, thiab ntaub ntawv raws li haiv neeg, xim, kev yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia tus kheej), kev sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj me nyuam, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim lossis raug pauj vim kev tiv thaiv txoj cai. (Tsis yog tag nrho yam txwv uas teev no siv rau txhua qhov kev pab cuam.)
----

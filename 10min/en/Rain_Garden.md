@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Adding a Rain Garden
 
 A rain garden is a sunken bed that collects and treats stormwater runoff from rooftops, driveways, sidewalks, and streets. Rain gardens mimic natural forest or meadow conditions and keep our watersheds healthy.
@@ -109,7 +107,3 @@ You can have your soil tested by a company and get recommendations on how to imp
 - [Rain Gardens Low Impact Development Fact Sheet](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [The Rain Garden Guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Clean Water Services Washington County, Low Impact Development Approaches Handbook](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all.)

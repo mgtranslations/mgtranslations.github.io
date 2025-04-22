@@ -1,5 +1,3 @@
-#### Jaamacadda 10 Daqiiqo™ · Ururka Beeralayda Khabiirka ah ee Clackamas County oo iskaashanaya oo taageeraya Barnaamijka Khabiirada Beeralayda ee OSU Extension Master Gardener™
-
 # Maareynta Moolayaasha
 
 ### Hordhac
@@ -52,10 +50,3 @@ Moolayaashu waxay u baahan yihiin cunto badan waxayna maalin kasta safri karaan 
 
 - [Xakameynta Moolaha EC 987](https://catalog.extension.oregonstate.edu)
 - [Buugga Beerta Waarta EM 8742](https://catalog.extension.oregonstate.edu)
-
-#### Talo Khabiirka Beeralayda™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Warqadaha iyo jadwalka fasallada Jaamacadda 10 Daqiiqo™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ay bixiso iyadoo loo eegayo: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, heerka ciidanimo, ama aargoosi/tallo ka dhan ah la-dagaalanka xuquuqda madaniga. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 ## Mahuhusay na Halamang Pipiliin: Mga Perennial
 
 **S:** Halaman para sa Lilim  
@@ -57,7 +55,6 @@
 
 Ang Great Plant Picks (GPP) ay pangunahing programang pang-edukasyon ng Elisabeth C. Miller Botanical Garden. Noong 2001, inilabas ang unang listahan na may rekomendasyon para makabuo ng malawak na pagpipiliang magagandang halaman para sa maritime Pacific Northwest. Sa ngayon, mahigit 1,000 natatanging halaman ang napili para sa mga hardinero na nakatira sa kanluran ng Cascade Mountains mula Eugene, Oregon, USA hanggang Vancouver, British Columbia, Canada.
 
-#### GPP Mga Pamantayan sa Pagpili
 
 - Nabubuhay sa iba’t ibang uri ng lupa.
 - Nangangailangan ng katamtaman o mas kaunting dagdag na dilig.
@@ -66,8 +63,3 @@ Ang Great Plant Picks (GPP) ay pangunahing programang pang-edukasyon ng Elisabet
 - Laban sa sakit at peste.
 - May higit sa isang panahon ng kagandahan sa hardin.
 - Nagbibigay ng ekolohikal na benepisyo (pollinator, pagkain ng ibon, tirahan ng wildlife, atbp.).
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyal nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), seksuwal na oryentasyon, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyon sa genetika, katayuang beterano, paghihiganti o pagganti sa naunang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

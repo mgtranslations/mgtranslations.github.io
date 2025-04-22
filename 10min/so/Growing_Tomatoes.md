@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Clackamas County oo kaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Sida Loo Beerto Yaanyo Beerta Guriga
 
 ## Sida Loo Doorto Noocyada Yaanyada
@@ -9,7 +7,6 @@
 - Doorasho: ka bilaaw abuur ama iibsato dhir diyaarsan.
 - Ogoow haddii yaanyada go'an (determinate) ama kuwa sii kora (indeterminate) ay ugu habboon yihiin beertaada.
 
-#### Noocyada Yaanyada
 
 | Nooca         | Baahida Booska/ Taageerada     | Habka Koritaanka    | Xilliga Dalagga                      |
 |---------------|-------------------------------|---------------------|--------------------------------------|
@@ -64,7 +61,6 @@ Dhirta waxay diyaar u yihiin in dhulka la geliyo marka ay gaadhaan 10–15” dh
 5. Ka jar caleemaha hoose iyo laamaha yaryar (suckers) ee ka soo baxa halka caleemaha weyn ay la midoobaan laanta, ilaa ubaxii ugu horreeyey.
 6. Dooro habka beerida:
 
-#### Habka Laanta (Trench Method)
 
 - **Faa'iido:** Xididku wuxuu galaayaa ciidda ugu diiran; ku fiican dhirta dheer.
 - **Qasaaro:** Waraabin joogto ah iyo tallaalid hoose oo taxadar leh ayaa loo baahan yahay.
@@ -76,7 +72,6 @@ Dhirta waxay diyaar u yihiin in dhulka la geliyo marka ay gaadhaan 10–15” dh
   - Calaamad dhig meesha xididka ugu weyn yaallo si aan loo dhaawacin marka la nadiifinayo.
   - Ku dar taageero markiiba si aan xididku u dhaawacmin.
 
-#### Habka Toosan (Vertical Method)
 
 - **Faa'iido:** Xididku wuxuu helaa biyo badan; miraha ma dillaacaan si fudud.
 - **Qasaaro:** Ciidda hoose waa qabow, waxayna keentaa koboc iyo bislaansh

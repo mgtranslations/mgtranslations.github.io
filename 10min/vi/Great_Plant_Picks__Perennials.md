@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension Master Gardener™
-
 ## Lựa Chọn Thực Vật Tuyệt Vời: Cây lâu năm
 
 **S:** Cây chịu bóng  
@@ -57,7 +55,6 @@
 
 Great Plant Picks (GPP) là chương trình giáo dục chính của Vườn Thực vật Elisabeth C. Miller. Năm 2001, danh sách đầu tiên được công bố với các gợi ý xây dựng bộ sưu tập cây xuất sắc cho vùng ven biển Tây Bắc Thái Bình Dương. Đến nay, hơn 1.000 loài cây đặc biệt đã được chọn cho người làm vườn sống phía tây dãy núi Cascade từ Eugene, Oregon (Mỹ) đến Vancouver, British Columbia (Canada).
 
-#### Tiêu chí lựa chọn GPP
 
 - Phát triển tốt trên nhiều loại đất.
 - Cần tưới bổ sung vừa phải hoặc ít.
@@ -66,8 +63,3 @@ Great Plant Picks (GPP) là chương trình giáo dục chính của Vườn Th�
 - Kháng bệnh và sâu hại.
 - Có giá trị thẩm mỹ trong vườn nhiều hơn một mùa.
 - Đem lại lợi ích sinh thái (hỗ trợ thụ phấn, thức ăn cho chim, nơi sống cho động vật, v.v.).
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho mọi chương trình.)
----

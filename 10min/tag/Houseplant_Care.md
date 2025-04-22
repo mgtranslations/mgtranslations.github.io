@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Paano Alagaan ang mga Halamang Panloob
 
 Ang pagtatanim ng mga halamang panloob ay isang mahusay na paraan para magdagdag ng luntiang berdeng tanawin sa iyong tahanan. Kahit na may mga halamang panloob na halos hindi mahirap alagaan, lahat ng halaman ay nangangailangan ng pangunahing pag-aalaga. Mas maganda ang tubo ng mga halaman kung ang kanilang paligid ay kahawig ng kanilang natural na tirahan. Bago bumili ng bagong halaman, alamin muna ang kanilang pangunahing pangangailangan para malaman kung may tamang lugar ka para sa kanila at kung kaya mong ibigay ang tamang pag-aalaga.
@@ -83,12 +81,3 @@ Maaaring mamuo ang alikabok sa mga dahon, kaya't nagmumukhang maputla at nahihir
 - [Lalong sumisikat ang mga succulents na madaling alagaan](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Makukulay na halamang panloob, magandang regalo sa holidays](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Madadaling halamang pampalasa sa loob ng bahay, pampasarap ng luto](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Master Gardener™ na Payo · Makipag-ugnayan sa inyong lokal na OSU Extension office para sa payo ng Master Gardener. Tingnan dito para sa contact information: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Para sa 10-Minute University™ handouts at class schedules, bisitahin ang [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyal batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang may asawa, katayuang may pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuang beterano, pagganti o paghihiganti dahil sa nakaraang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

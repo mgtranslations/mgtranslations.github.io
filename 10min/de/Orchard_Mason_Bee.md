@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Mauerbiene im Obstgarten
 
 ### Überblick
@@ -42,7 +40,6 @@ Mehrere Parasiten, Fressfeinde und Krankheiten können Mauerbienen schaden oder 
 
 Du kannst deine Bienen von Milben und Kalkbrut befreien, indem du die Kokons zwischen Oktober und Dezember reinigst. Die erwachsenen Bienen sind dann vollständig entwickelt und überstehen diesen Vorgang.
 
-#### Reinigungsvorgang
 
 1. Wasche deine Bienen in Wasser, das nicht wärmer als 10°C (50°F) ist, damit sie nicht aufwachen.
 2. Weiche die Kokons höchstens 5 Minuten in kühlem Wasser mit einer Mischung aus 0,05 % Bleichmittel (1 Esslöffel Bleichmittel pro 4 Liter Wasser) ein.
@@ -59,12 +56,3 @@ Du kannst deine Bienen von Milben und Kalkbrut befreien, indem du die Kokons zwi
   [Mehr dazu hier](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Nurturing Mason Bees in Your Back Yard in Western Oregon*, Oregon State University Extension publication EM 9130  
   [Mehr dazu hier](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Master Gardener™ Beratung · Rufe das Home Horticulture Helpline an: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Für weitere 10-Minuten-Universität™ Handouts und Videos besuche [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommensbezug aus öffentlichen Hilfsprogrammen, politischer Einstellung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

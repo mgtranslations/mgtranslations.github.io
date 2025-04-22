@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khubarada ah ee Clackamas County oo kaashanaya lana shaqeynaya Barnaamijka OSU Extension Master Gardener™
-
 # Beerashada Khudradda Iyadoo Biyo Yar la Isticmaalayo
 
 ### Guudmarka
@@ -96,12 +94,3 @@ Waaxda Beeraleyda Yar ee OSU Extension ayaa tijaabinaysay suurtagalnimada “bee
   - Nichols Garden Nursery
   - Peace Seeds
   - Siskiyou Seeds
-
----
-
-#### Talooyinka Khubaro Beereed™ · Wac Khadka Taageerada Beeraha Guryaha: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii qoraallo iyo jadwal koorso oo kale ah, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga OSU Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muuqaalkiisa), doorashada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmo dadweyne, aragtida siyaasadeed, xogta hiddo-sideyaasha, xaaladda askarnimada, ciqaabta, ama aargudasho fal xuquuqda madaniga ah hore. (Dhammaan sababaha la mamnuucay laguma dabaqo dhammaan barnaamijyada.)
----

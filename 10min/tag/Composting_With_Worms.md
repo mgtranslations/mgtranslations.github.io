@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pagko-compost gamit ang mga Uod
 
 Ang isang worm bin ay isang madaling paraan para gawing pataba at pampabuti ng lupa ang mga tira-tirang pagkain mula sa kusina. Ang mga redworm ay masisigasig na recycler na nagbabago ng mga balat ng mansanas, tangkay ng zucchini, at iba pang tira-tirang pagkain sa loob lang ng ilang buwan. Bigyan lang sila ng maayos na tirahan na mayroong bedding at pagkain, at sila na ang bahala.
@@ -32,7 +30,6 @@ Kayang kainin ng mga uod ang kalahati ng kanilang timbang sa loob ng 24 oras. Ta
 
 Kahit kayang kainin ng uod halos lahat ng organikong basura, mas mabuting ituring silang vegetarian.
 
-#### Pwedeng Pakainin:
 
 - Tira-tirang gulay
 - Kape grounds at filter
@@ -43,7 +40,6 @@ Kahit kayang kainin ng uod halos lahat ng organikong basura, mas mabuting iturin
 - Balahibo ng hayop
 - Pinitpit na papel
 
-#### Huwag Pakainin:
 
 - Karne, isda, at gatas
 - Mamantika o malangis na pagkain
@@ -73,7 +69,6 @@ Kailangan ng redworm ng basa-basa na kondisyon buong taon dahil hindi sila tumut
 
 ### Mga Maaaring Problema at Solusyon
 
-#### Amoy
 
 Maaari mong kontrolin ang amoy sa pamamagitan ng:
 
@@ -81,7 +76,6 @@ Maaari mong kontrolin ang amoy sa pamamagitan ng:
 - Hindi paglalagay ng mga nakalista sa "Huwag Pakainin" sa seksyong "Pagkain ng Uod"
 - Pagbibigay ng sapat na bagong bedding
 
-#### Peste
 
 - **Vinegar flies**: Minsan, ang maliliit na vinegar fly (madalas napagkakamalang fruit fly) ay napapasok sa bin, pero hindi sila nakakasama. Pero kapag dumami sila, maaaring sumosobra na ang pagkain. Para mawala ang vinegar flies:
   - Bawasan ang dami ng pagkain ayon sa kayang kainin ng uod sa isang araw.
@@ -104,12 +98,3 @@ Maaari mong kontrolin ang amoy sa pamamagitan ng:
   [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Worms Eat My Garbage**, Mary Appelhof, Second Edition
 - **Welcome to the Can-O-Worms**, N. Nattrass
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyal base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa public assistance, paniniwalang politikal, genetic information, status bilang beterano, paghihiganti, o anumang ganti dahil sa dating civil rights activity. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

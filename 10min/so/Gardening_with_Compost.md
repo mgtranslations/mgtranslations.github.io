@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo wada shaqayn la leh Barnaamijka Beeraleyda Master-ka ee OSU Extension
-
 # Beeralayda oo isticmaalaya Kompost
 
 Kompost waa mulch aad u wanaagsan marka sare ee ciidda la saaro. Marka la dhex galiyo ciidda, waxay noqotaa bacriminta iyo hagaajinta ciidda. Adiga oo raacaya talaabooyinka ku qoran warqaddan, beeraleyda guriga wuxuu cawska la jaray, caleemaha, iyo qashinka kale ee beerta uga dhigi karaa kompost loo isticmaalo guriga.
@@ -137,12 +135,3 @@ Ku darista kompostka sare ee cawska ayaa si tartiib ah u sii deynaysa nitrogen-k
 ## Kheyraadka Adeegga OSU Extension
 
 - [Beeraleyda oo isticmaalaya Kompost, Mulches iyo Daboolidda Safafka, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Warqadaha Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada: Booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga OSU Extension Service waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muuqaalkiisa), dookha galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidka, dakhli laga helo barnaamij caawimo dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, xaalada ciidan hore, ama aargoosi/xadgudub la xiriira xuquuqaha madaniga hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

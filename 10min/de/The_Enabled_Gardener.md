@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Der Gärtner mit Einschränkungen
 
 ### Einführung
@@ -12,7 +10,6 @@ Gartenarbeit kann ein lebenslanges Hobby sein, das sowohl geistige als auch kör
 
 Die Wahl der richtigen Größe und Funktion der Gartengeräte kann entscheidend für Komfort und effektive Nutzung sein.
 
-#### Schneidwerkzeuge
 
 - **Gartenscheren**
   - Die Größe ist wichtig! Finden Sie die Größe, die am besten zu Ihrer Hand passt, damit die Schere bequem und einfach zu benutzen ist. Viele Gartenscheren gibt es in klein, mittel und groß sowie für Links- und Rechtshänder.
@@ -30,7 +27,6 @@ Die Wahl der richtigen Größe und Funktion der Gartengeräte kann entscheidend 
   - **Getriebe-Astscheren**
     - Bieten 40 % mehr Kraft beim Schneiden. Längere Griffe geben mehr Hebelwirkung.
 
-#### Handwerkzeuge
 
 - Achten Sie auf ergonomische Werkzeuge, die das Handgelenk in einer neutralen, geraden Position mit dem Unterarm halten. Wenn Beweglichkeit und Kraft nachlassen, ist es effizienter, größere Gelenke zu nutzen. So können Unterarm und Schulter Aufgaben übernehmen, die sonst Hände und Handgelenke belasten.
 - Anpassungen wie „D“-Griffe können an Standardrechen und -besen angebracht werden, um einen guten Halt zu ermöglichen und das Handgelenk gerade zu halten.
@@ -89,12 +85,3 @@ Die Wahl der richtigen Größe und Funktion der Gartengeräte kann entscheidend 
   - [Leitfaden herunterladen](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Carry on Gardening**  
   - [Top-Tipps für Gärtner mit Behinderungen](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
----
-
 ## Pagtatanim sa Gulayan tuwing Taglagas
 
 ### Pag-ani at Pag-iimbak ng Gulay
@@ -85,12 +81,3 @@ Pinapadali ng paglilinis tuwing taglagas ang pagtatanim sa tagsibol:
   - Paghahalaman gamit ang Mulch
   - Pagtatanim sa Raised Bed
   - Pagsusuri ng pH ng Lupa
-
----
-
-#### Master Gardener™ Payong · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang handout at iskedyul ng klase ng 10-Minute University™, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa, estado ng pamilya/magulang, kita mula sa public assistance program, paniniwala sa pulitika, genetic information, status bilang beterano, pagganti, o paghihiganti sa nakaraang civil rights activity. (Hindi lahat ng nabanggit na base ay sakop ng lahat ng programa.)
----

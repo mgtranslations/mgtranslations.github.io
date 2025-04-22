@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 ## Introducción al Cultivo de Hortalizas de Raíz
 
 Las hortalizas de raíz tienen un lugar en todo huerto. Están entre las primeras y últimas verduras que se cosechan, y con un buen almacenamiento en casa, tendrás un suministro fresco hasta el invierno. Estas hortalizas son ideales porque ocupan poco espacio en el huerto, pueden cosecharse durante un periodo prolongado y producen grandes cantidades de alimentos ricos en energía. Prosperan en camas elevadas, en tierra y en jardines en macetas.
@@ -80,7 +78,6 @@ Comprender las familias de plantas y la rotación de cultivos es esencial para l
 
 Un ciclo de rotación de cultivos de cuatro años ayuda a prevenir problemas, fortalece el suelo y promueve una buena producción de hortalizas de raíz. La rotación y la siembra de compañeras aumentan la biodiversidad natural en el huerto. La siembra de compañeras es una excelente forma de usar el espacio eficientemente, permitiendo que las plantas crezcan en arreglos mutuamente beneficiosos.
 
-#### Familias de Plantas y Compañeras
 
 - **Quenopodiáceas**: Betarraga, espinaca, acelga  
   - Compañeras: Frijol enano, lechuga, cebolla, rábano
@@ -107,8 +104,3 @@ Un ciclo de rotación de cultivos de cuatro años ayuda a prevenir problemas, fo
 - [Serie de Jardinería Fácil - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Hortalizas de Raíz](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [La Verdura Subterránea](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, condición familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

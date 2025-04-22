@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 # Jardinagem com Coberturas Mortas (Mulch)
 
 Cobertura morta é uma camada de material espalhada sobre a superfície do solo para obter um ou mais dos seguintes benefícios:
@@ -53,23 +51,19 @@ Cobertura plástica é frequentemente usada para suprimir ervas daninhas ou aque
 
 ### Como Usar Cobertura Plástica
 
-#### Para Suprimir Ervas Daninhas
 
 1. Coloque o plástico preto após preparar o solo para semeadura ou plantio e após instalar as linhas de irrigação.
 2. Prenda as bordas com terra.
 3. Insira sementes ou mudas através de um corte em X no plástico.
 4. Use plástico perfurado ou faça furos com um furador para deixar a água passar.
 
-#### Para Aquecer o Solo
 
 - **Plástico transparente ou translúcido**: Aquece o solo mais efetivamente, mas pode criar um "efeito estufa" para as ervas daninhas.
 - **Plástico preto**: Aquece o solo em menor grau, mas suprime ervas daninhas.
 
-#### Para Manter o Solo Seco
 
 Cubra a área com plástico preto durante o inverno para manter o canteiro seco para o preparo e plantio do solo no início da primavera. Prenda as bordas para evitar que se torne um estufa para ervas daninhas ou abrigo para pragas.
 
-#### Para Acelerar o Crescimento e Maturação de Plantas que Gostam de Calor
 
 Tomate, pimentão, melão, morango e outras plantas que gostam de calor já foram estudadas para determinar os efeitos de diferentes cores de plásticos sobre o crescimento, maturação e produção.
 
@@ -81,10 +75,3 @@ Tomate, pimentão, melão, morango e outras plantas que gostam de calor já fora
 ## Recursos Adicionais
 
 - **Publicação do Serviço de Extensão da OSU**: [Cobertura de Plantas Lenhosas Ornamentais com Materiais Orgânicos](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Dicas dos Mestres Jardineiros™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros materiais da Universidade de 10 Minutos™ e horários das aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Serviço de Extensão da Universidade Estadual de Oregon · O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

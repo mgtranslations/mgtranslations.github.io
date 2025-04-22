@@ -1,7 +1,3 @@
-#### 10-Minute University™ · クラカマス郡マスターガーデナー協会 · OSUエクステンション・マスターガーデナー™プログラムと連携・支援
-
----
-
 ## 警告: 元のファイルには多くの画像が含まれており、正確な翻訳ができませんでした。必ず元のPDFファイルもご参照ください。[こちら](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
 
 # ベスト・ガーデンツリー
@@ -232,12 +228,3 @@
 - 『The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens』 Michael A. Dirr & Keith S. Warren著, Timber Press, 2019年
 - 『Trees to Know in Oregon and Washington』 Edward C. Jensen著, オレゴン州立大学エクステンションサービス, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### マスターガーデナー™アドバイス · ホーム園芸ヘルプライン: 503-655-8631（クラカマス郡） · 503-821-1150（ワシントン郡） · 503-445-4608（マルトノマ郡） · その他の10-Minute University™配布資料やクラススケジュールは[www.cmastergardeners.org](https://www.cmastergardeners.org)へ
-
----
-
-##### オレゴン州立大学エクステンションサービスは、人種、肌の色、出身国、宗教、性別、性自認（性表現を含む）、性的指向、障害、年齢、婚姻状況、家族/親の状況、公的扶助による所得、政治的信条、遺伝情報、退役軍人の地位、または過去の市民権活動への報復を理由とする差別を、すべてのプログラム、サービス、活動、資料において禁止します。（すべての禁止事項がすべてのプログラムに適用されるわけではありません。）
----

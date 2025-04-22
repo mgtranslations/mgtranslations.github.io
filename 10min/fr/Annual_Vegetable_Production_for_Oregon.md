@@ -1,5 +1,3 @@
-#### Université 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension de l’OSU
-
 ## Spécificités de la Production Annuelle de Légumes en Oregon
 
 ### Tableau d’Informations sur le Semis et la Plantation
@@ -58,7 +56,6 @@
 
 ### Informations sur les Saisons de Culture
 
-#### Cultures de Saison Fraîche
 
 - Préfèrent les températures fraîches (16-27°C) du printemps et de l’automne.
 - La plupart ne supportent pas la chaleur estivale mais tolèrent de légères gelées.
@@ -70,7 +67,6 @@
 - La qualité dépend d’une croissance rapide dans un bon sol, avec fertilisation légère et arrosage constant.
 - Les cultures deviennent fortes en goût si elles manquent d’eau.
 
-#### Cultures de Saison Chaude
 
 - Préfèrent les températures plus chaudes (21-35°C) de l’été et ne supportent pas le gel.
 - Habituellement plantées après la date moyenne du dernier gel.

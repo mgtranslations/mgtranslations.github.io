@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 ## Gawing Mas Matibay sa Klima ang Iyong Hardin: Mga Halaman
 
 Ang kasalukuyang pag-init ng mundo ay nagdudulot ng pagkatunaw ng mga glacier, pagtaas ng antas ng dagat, pagtaas ng asididad ng karagatan, at mas madalas at mas matinding tagtuyot at pagbaha. Sa Pacific Northwest, nakakaranas ng matagal na tagtuyot, pagdami at pagtindi ng mga wildfire, heat wave, pag-atake ng insekto, at sakit sa mga puno. Ang pagbawas ng snowpack ay nagdudulot ng mas maagang pag-apaw ng mga ilog at sapa, na nagpapababa ng suplay ng tubig. Bukod sa mga pagbabagong ito, ang pagbabago ng klima ay nagdudulot ng pabagu-bago at matitinding panahon (heat wave, malakas na ulan) na mas madalas mangyari.  
@@ -59,7 +57,6 @@ Paano tayo maghahardin sa ganitong panahon? Ang handout na ito ay nag-aalok ng m
 
 ### Gamitin ang Resulta ng Plant Trial
 
-#### Northwest Plant Evaluations
 
 Mga pagsusuri ng Oregon State University sa kakayahan sa tagtuyot at lamig ng limang uri ng halaman:
 
@@ -69,7 +66,6 @@ Mga pagsusuri ng Oregon State University sa kakayahan sa tagtuyot at lamig ng li
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Rockrose](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Climate Ready Landscape Plant Project
 
 Mga pagsusuri tungkol sa kakayahan ng halaman sa tagtuyot na isinagawa ng limang unibersidad:
 
@@ -81,7 +77,6 @@ Mga pagsusuri tungkol sa kakayahan ng halaman sa tagtuyot na isinagawa ng limang
   [Matuto Pa](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [Impormasyon sa UC Trial](https://ucanr.edu/sites/UCLPIT/)
 
-#### Iba pang Pagsusuri
 
 - [Chicago Botanic Garden Trials](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (Hilagang Midwest, US)
 - [Mt. Cuba Center Trials](https://mtcubacenter.org/research/trial-garden/) (Mid-Atlantic, US)
@@ -91,8 +86,3 @@ Mga pagsusuri tungkol sa kakayahan ng halaman sa tagtuyot na isinagawa ng limang
 
 - [Great Plant Picks](https://greatplantpicks.org/): Database ng Miller Botanical Gardener na may higit 1,000 halaman, maaaring ayusin ayon sa kondisyon ng lugar (araw/anino) at katangian (laki, kulay ng dahon).
 - [Perennial Plant of the Year](https://perennialplant.org/page/PPOY): Taunang rekomendasyon para sa mga natatanging perennial na halaman.
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti o paghihiganti dahil sa dating aktibidad para sa karapatang sibil. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeraleyda Master-ka ee Degmada Clackamas oo iskaashanaya una adeegaya Barnaamijka OSU Extension Master Gardener™
-
 # Dalagyada Daboolka ah ee Beero Khudradeed Guryaha
 
 Dalagyada daboolka ah waxay daboolaan oo hagaajiyaan ciidda. Waxaa la beeri karaa xilliga dayrta si ay u daboolaan meelaha bannaan ama xilliga gu’ga qayb ka mid ah wareegga dalagga. Dhirta badan sida lowska, cawska, iyo dhirta caleenta ballaaran ayaa u adeega ujeedadan.
@@ -75,11 +73,3 @@ Joojintu waxay ku lug leedahay jarista ama laabista laamaha si loo dilo qaybta k
     - Dalagyada Daboolka ah ee Beero Guriyeedka Galbeedka Cascades FS111E
     - Dalagyada Daboolka ah ee Beero Guriyeedka Bariga Cascades FS117E
     - Hababka Maareynta Guusha ee Dalagyada Daboolka ah ee Beertaada FS119E
-
-#### Talo Beeraleyda Master™ · Wac Khadka Caawinta Beeraha Guriga: 503-655-8631 (Degmada Clackamas) · 503-821-1150 (Degmada Washington) · 503-445-4608 (Degmada Multnomah) · Booqo [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) si aad u hesho waraaqo iyo muuqaal 10-Daqiiqo Jaamacad™
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka oo dhan iyadoo lagu salaynayo: midabka, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaalad guur, xaalad qoys/waalidnimo, dakhli laga helo barnaamij caawimaad dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidaha, xaalad ciidanimo, aargoosi ama ciqaab ka dhalatay hawlo xuquuq madaniyeed hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
-
----

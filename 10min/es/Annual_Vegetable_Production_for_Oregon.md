@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión OSU
-
 ## Especificaciones para la Producción Anual de Hortalizas en Oregón
 
 ### Tabla de Información para Siembra y Plantación
@@ -58,7 +56,6 @@
 
 ### Información sobre Temporadas de Cultivos
 
-#### Cultivos de Temporada Fresca
 
 - Prefieren temperaturas frescas de crecimiento (60°F a 80°F) de primavera y otoño.
 - La mayoría no tolera el calor del verano, pero soporta heladas ligeras.
@@ -70,7 +67,6 @@
 - La calidad está relacionada con el crecimiento rápido en buen suelo, con fertilización ligera frecuente y riego constante.
 - Los cultivos se vuelven de sabor fuerte si se secan.
 
-#### Cultivos de Temporada Cálida
 
 - Prefieren temperaturas veraniegas (70°F a 95°F) y no toleran heladas.
 - Normalmente se siembran después de la última helada promedio de primavera.

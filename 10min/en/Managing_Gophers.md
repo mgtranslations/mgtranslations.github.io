@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Managing Gophers
 
 ### Introduction
@@ -16,13 +14,11 @@ Pocket gophers live in a burrow system that can cover an area of 200 to 2,000 sq
 
 Pocket gophers may be controlled any time of the year, but control using traps or baits is most successful when new mounds are appearing, usually in the spring and fall. Both traps and toxic baits are effective.
 
-#### Traps
 
 - Several styles of pocket gopher traps are widely available and easy to use. You can set them in the lateral tunnel leading to a mound, but they are more effective when set in the main run.
 - Locate the main run by probing a foot or so away from a mound. For detailed instructions on how to locate a burrow, see *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands*, available free online at [OSU Extension Catalog](http://extension.oregonstate.edu/catalog).
 - Place two traps back to back in the deep run and stake them down. Relocate the traps if a catch is not made within 2 or 3 days.
 
-#### Baiting
 
 - Place toxic baits in main tunnels according to label directions. Locate the tunnels with a probe and place the bait down the probe hole.
 - An alternative method is to excavate the tunnel with a trowel and place the bait directly in the run.
@@ -30,11 +26,9 @@ Pocket gophers may be controlled any time of the year, but control using traps o
 - Check the area periodically for 2 weeks after treatment and dispose of any carcasses you find.
 - **Important:** Failure to follow all label directions carefully can lead to injury to non-target animals, pets, or children. Use baits as a last resort.
 
-#### Fumigants
 
 - Fumigants, sometimes called “gopher gassers,” seldom are effective unless the soil is saturated with water or consists of dense clay.
 
-#### Exclusion
 
 - Underground fencing might be justified for valuable ornamental shrubs or landscape trees.
 - To protect existing plantings, bury hardware cloth or ¾-inch mesh poultry wire at least 2 feet deep with an additional 6 inches of mesh or wire bent at a 90-degree angle away from the planting.
@@ -45,15 +39,12 @@ Pocket gophers may be controlled any time of the year, but control using traps o
 - Use light-gauge wire only for shrubs and trees that need protection while young. Leave enough room to allow for root growth. Galvanized wire provides the longest-lasting protection.
 - Six to eight inches of coarse gravel one inch or more in diameter around underground sprinkler lines or utility cables can also deter gophers.
 
-#### Natural Controls
 
 - Predators, including owls, snakes, cats, dogs, and coyotes, may reduce the population of gophers but might not be sufficient.
 
-#### Flooding
 
 - Pocket gophers can withstand normal garden or home landscape irrigation, but flooding can sometimes force them from their burrows, exposing them to predators.
 
-#### Ineffective Methods
 
 - Many devices claim to frighten pocket gophers—including vibrating stakes, ultrasonic devices, and wind-powered pinwheels. However, these rodents don’t frighten easily, likely due to their repeated exposure to noise and vibrations from sprinklers, lawnmowers, vehicles, and people moving about.
 - Other ineffective control methods include placing chewing gum or laxatives in burrows in hopes of killing gophers.
@@ -66,14 +57,9 @@ The following are just a few of the many available resources:
   - *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands* (PNW 627E)
   - *Sustainable Gardening* (EM8742)
 
-#### Master Gardener™ Advice
 
 - **Call Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - For 10-Minute University™ handouts and class schedule, visit [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

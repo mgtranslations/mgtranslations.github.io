@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Tornando-se Orgânico na Horta de Legumes
 
 ### O que é “Jardinagem Orgânica”?
@@ -69,7 +67,6 @@ Adicionar composto ao solo melhora sua estrutura e saúde a longo prazo. No enta
 
 Visite [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 
-#### Para Consultoria de Mestres Jardineiros™
 
 - **Ligue para a Central de Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
@@ -77,8 +74,3 @@ Visite [https://catalog.extension.oregonstate.edu](https://catalog.extension.ore
   - 503-445-4608 (Condado de Multnomah)
 - Envie uma pergunta em [www.metromastergardeners.org](http://www.metromastergardeners.org)
 - Visite o site dos Mestres Jardineiros do Capítulo de Clackamas [www.cmastergardeners.org](http://www.cmastergardeners.org) para folhetos do 10-Minute University™ e programação de aulas gratuitas.
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

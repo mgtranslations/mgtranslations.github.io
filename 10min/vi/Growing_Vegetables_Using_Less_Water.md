@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp của OSU Extension Master Gardener™
-
 # Trồng Rau Sử Dụng Ít Nước Hơn
 
 ### Tổng Quan
@@ -96,12 +94,3 @@ Bộ phận Nông trại Nhỏ của OSU Extension đã thử nghiệm khả nă
   - Nichols Garden Nursery
   - Peace Seeds
   - Siskiyou Seeds
-
----
-
-#### Tư Vấn Làm Vườn Chuyên Nghiệp™ · Gọi Đường Dây Tư Vấn Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ OSU Extension nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, quốc tịch, tôn giáo, giới tính, nhận diện giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ giúp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả thù do đã bảo vệ quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

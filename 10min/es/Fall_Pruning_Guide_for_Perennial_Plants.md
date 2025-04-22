@@ -1,5 +1,3 @@
-#### Guía de Poda de Otoño para Plantas Perennes · Preparado por Laura Eyer · 9/10/2018
-
 ## Podar
 
 - Lirio barbudo
@@ -43,7 +41,6 @@
 
 ## Dejar en Pie
 
-#### Preparado por Laura Eyer · 9/10/2018
 
 - Artemisa
 - Áster
@@ -89,4 +86,3 @@
 - Valeriana (*Centranthus ruber*)
 - Flor varita (*Guara sp.*)
 - Amsonia de sauce (*Amsonia tabernaemontana*)
----

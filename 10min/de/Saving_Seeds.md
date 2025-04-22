@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Samen sammeln
 
 ### Warum Samen sammeln?
@@ -19,7 +17,6 @@ Es gibt drei Arten der Bestäubung: Wind, Insekten und Menschen.
 - **Selbstbestäubung**: Pflanzen mit Blüten, die sowohl weibliche als auch männliche Teile haben. Dazu gehören Tomaten, Bohnen, Salat und Auberginen.
 - **Fremdbestäubung**: Pflanzen wie Gurken und Kürbisse benötigen Wind oder Insekten, die den Pollen von männlichen auf weibliche Blüten der gleichen oder einer anderen Pflanze übertragen.
 
-#### Manuelle Bestäubung für Hobbygärtner
 
 Um Samen von fremdbestäubenden Pflanzen zu sammeln:
 
@@ -38,7 +35,6 @@ Wähle gesunde, krankheitsfreie Pflanzen zum Sammeln der Samen aus. Achte auf Ei
   - Gurken im essbaren Zustand haben keine reifen Samen. Die Samen reifen erst nach dem ersten Frost, wie bei Kürbissen und Winterkürbissen.
   - Sammle Blumensamen, wenn die Blüten verblassen und trocken sind, trockene, bauschige Köpfe haben oder trockene Samenkapseln aufplatzen.
 
-#### Die Trockene Methode
 
 Pflanzen mit trockenen Samen sind zum Beispiel Erbsen, Bohnen, Karotten, Paprika und die meisten Blumen und Kräuter.
 
@@ -50,7 +46,6 @@ Pflanzen mit trockenen Samen sind zum Beispiel Erbsen, Bohnen, Karotten, Paprika
 **Hinweis:**  
 - Paprika muss rot/gelb und schrumpelig sein, bevor du die Samen entnimmst. Bei scharfer Paprika Handschuhe tragen!
 
-#### Die Nasse Methode
 
 Pflanzen mit fleischigen Früchten wie Tomaten bearbeitet man am besten durch Fermentation:
 
@@ -91,10 +86,3 @@ Plane, deine Samen innerhalb von drei Jahren zu verwenden. Da Keimfähigkeit und
   - *Basic Concepts of Seed Production and Seed Regeneration*
 - University of Maine, Cooperative Extension Publications: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *An Introduction to Seed Saving for the Home Gardener 2750e*
-
-#### Master Gardener™ Beratung · Hotline für Hausgartenfragen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™ Handouts und Kursplan besuche [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus staatlicher Unterstützung, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder früherer Bürgerrechtsaktivität. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

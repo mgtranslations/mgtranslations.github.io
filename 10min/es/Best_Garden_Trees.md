@@ -1,7 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU
-
----
-
 ## ADVERTENCIA: El archivo original contiene muchas imágenes y no pudo traducirse completamente; por favor, consulta también el archivo pdf original [aquí](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
 
 # Los Mejores Árboles para el Jardín
@@ -232,12 +228,3 @@ Imágenes disponibles en [https://jfschmidt.com](https://jfschmidt.com).
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
 - *Trees to Know in Oregon and Washington*, Edward C. Jensen, Servicio de Extensión de la Universidad Estatal de Oregón, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la Línea de Ayuda de Horticultura en Casa: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de la Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalias o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

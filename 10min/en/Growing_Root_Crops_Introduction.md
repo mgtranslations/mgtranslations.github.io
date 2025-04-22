@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · In collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 ## Introduction to Growing Root Crops
 
 Root crops have a place in every vegetable garden. They are among the first and last vegetables to be harvested, and with proper home storage, you’ll have a fresh supply into winter. These crops are ideal because they take up little space in the garden, can be harvested over a long period of time, and produce hefty amounts of energy-rich food. They thrive in raised beds, in-ground, and container gardens.
@@ -80,7 +78,6 @@ Understanding plant families and crop rotation is essential for plant health and
 
 A four-year crop rotation cycle helps prevent problems, fortify soil, and promote good root crop production. Crop rotation and companion planting increase natural biodiversity in the garden. Companion planting is a great way to use space efficiently, allowing plants to grow in mutually beneficial arrangements.
 
-#### Plant Families and Companions
 
 - **Chenopodiaceae**: Beets, spinach, chard  
   - Companions: Bush beans, lettuce, onion, radish
@@ -107,7 +104,3 @@ A four-year crop rotation cycle helps prevent problems, fortify soil, and promot
 - [Easy Gardening Series - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Root Crops](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [The Underground Vegetable](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

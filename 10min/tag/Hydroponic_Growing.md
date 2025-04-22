@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Low-Tech Hydroponic Gardening sa Loob ng Bahay
 
 Ang hydroponics ay ang pagpapalaki ng mga halaman nang walang lupa, gamit ang tubig na may halong nutrients. Malalaking hydroponic system ay gumagamit ng makabagong teknolohiya para bantayan ang antas ng nutrients, pH, dissolved oxygen, temperatura ng nutrient solution, at dami ng ilaw na natatanggap ng mga halaman. Ang handout na ito ay nagpapakilala ng isang low-tech na opsyon na bagay para sa mga home gardener.
@@ -82,8 +80,3 @@ Sa pag-ani:
 - [Tatlong Non-Circulating Hydroponic Methods para sa Pagtatanim ng Lettuce](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Video ni B. A. Kratky
 - [Hydroponic Growing sa Bahay](http://www.cmastergardeners.org/10-minute-university) – Isang 10-Minute University™ na video
 - *Magpalaki ng Lettuce sa Iyong Sala: Pakainin ang Pamilya mula sa Loob ng Iyong LED Hydroponic Garden* nina Dan Chiras & Victor Zaderej
-
----
-
-###### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama na ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, estado ng pag-aasawa, kalagayang pampamilya/parental, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyon tungkol sa gene, estado bilang beterano, ganti o paghihiganti para sa dating aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme de Maîtres Jardiniers™ de l’Extension de l’OSU
-
 ## Excellents Choix de Plantes : Vivaces
 
 **S :** Plante d’ombre  
@@ -57,7 +55,6 @@
 
 Great Plant Picks (GPP) est le principal programme éducatif du Jardin Botanique Elisabeth C. Miller. En 2001, la première liste a présenté des recommandations pour constituer une palette complète de plantes remarquables pour le nord-ouest pacifique maritime. À ce jour, plus de 1 000 plantes exceptionnelles ont été sélectionnées pour les jardiniers vivant à l’ouest des Montagnes Cascades, de Eugene (Oregon, États-Unis) à Vancouver (Colombie-Britannique, Canada).
 
-#### Critères de sélection GPP
 
 - Poussent bien dans divers types de sols.
 - Demandent peu ou pas d’arrosage supplémentaire.
@@ -66,8 +63,3 @@ Great Plant Picks (GPP) est le principal programme éducatif du Jardin Botanique
 - Résistent aux maladies et ravageurs.
 - Présentent un intérêt au jardin pendant plus d’une saison.
 - Apportent des bénéfices écologiques (pollinisateurs, nourriture pour oiseaux, habitat pour la faune, etc.).
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, sans distinction de race, couleur, origine nationale, religion, sexe, identité de genre (y compris l’expression de genre), orientation sexuelle, handicap, âge, état civil, situation familiale/parentale, revenu provenant d’un programme d’aide publique, opinions politiques, informations génétiques, statut d’ancien combattant, représailles ou mesures de rétorsion suite à une activité antérieure en matière de droits civiques. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

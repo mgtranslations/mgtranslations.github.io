@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kev Cog Zaub Hydroponic Hauv Tsev (Tsis Siv Khib Nyiab Tshuab)
 
 Hydroponics yog txoj kev cog zaub tsis siv av, siv dej nrog cov khoom noj rau nroj tsuag. Cov tshuab loj loj siv tshuab siab los xyuas seb muaj pes tsawg yam khoom noj, qhov pH, pa oxygen hauv dej, qhov kub ntawm cov dej khoom noj, thiab qhov teeb pom rau nroj tsuag. Daim ntawv qhia no qhia txog ib txoj kev yooj yim, tsim nyog rau cov neeg cog zaub hauv tsev.
@@ -82,8 +80,3 @@ Thaum sau qoob loo:
 - [Peb Hom Hydroponic Tsis Siv Twj Tso Kua Dej Los Cog Lettuce](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Yeeb yaj kiab los ntawm B. A. Kratky
 - [Kev Cog Zaub Hydroponic Hauv Tsev](http://www.cmastergardeners.org/10-minute-university) – 10-Minute University™ yeeb yaj kiab
 - *Cog Lettuce Hauv Koj Chav Nyob: Pub Tsev Neeg Los Ntawm Koj Lub Vaj LED Hydroponic Hauv Tsev* los ntawm Dan Chiras & Victor Zaderej
-
----
-
-###### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua qhov kev pab, kev ua haujlwm, kev txhawb nqa, thiab ntaub ntawv rau txhua tus vim haiv neeg, xim, teb chaws, kev ntseeg, poj niam/m txiv, kev lees paub (xws li kev hais tawm), kev ntxub ntxaug, kev xiam oob khab, hnub nyoog, txij nkawm, tsev neeg, nyiaj tau los ntawm kev pab nyiaj, kev ntseeg nom tswv, ntaub ntawv caj ces, qib tub rog, lossis kev ua phem rau neeg tau txais kev tiv thaiv ua ntej. (Tsis yog txhua yam txwv no siv rau txhua qhov kev pab.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas · Phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension Master Gardener™
-
 # Cắt Tỉa Dễ Dàng
 
 Tài liệu này tập trung vào cây thân gỗ và cây bụi, tạm gác lại các cây hàng năm, cây lâu năm, và cỏ trang trí để tìm hiểu sau.
@@ -103,12 +101,3 @@ Nguyên tắc chung này có thể bị phá vỡ đối với những cây phá
   - *Cass Turnbull’s Guide to Pruning* của Cass Turnbull
 - **Tài liệu Đại học 10 Phút™:**
   - *Cắt Tỉa Cây Thân Gỗ và Cây Bụi* tại [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Tư vấn Làm vườn Chuyên nghiệp™ · Gọi Đường dây Hỗ trợ Làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu Đại học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon (OSU Extension Service) nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, xuất xứ, tôn giáo, giới tính, nhận dạng giới (bao gồm cả thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con, thu nhập từ các chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động bảo vệ quyền công dân trước đó. (Không phải tất cả các điều cấm đều áp dụng cho mọi chương trình.)
----

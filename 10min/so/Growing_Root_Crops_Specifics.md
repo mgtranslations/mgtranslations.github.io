@@ -1,12 +1,7 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khibradda leh ee Clackamas County oo wada shaqeyn iyo taageero la leh Barnaamijka Beeraleyda Khibradda leh ee OSU Extension Master Gardener™
-
----
-
 ## Sida Loo Kordhiyo Dalagyada Xididka
 
 ### Sida Loo Beero Bulbs
 
-#### Toon
 
 - **Beerista:**
   - Beero toonka bisha Agoosto ilaa Oktoobar si aad natiijo fiican u hesho.
@@ -24,7 +19,6 @@
   - Toonta dhig meel qabow, qalalan dhowr toddobaad.
   - Caleemaha jari oo xididdada ka gooy.
 
-#### Basal
 
 - **Beerista:**
   - Beero basal-yada bisha Maarso marka cimiladu qabow tahay.
@@ -41,7 +35,6 @@
   - Dhooqada ka nadiifi oo dhig basalaha meel sare, qabow oo qalalan muddo 1–2 toddobaad ah.
   - Caleemaha jari oo xididdada ka gooy.
 
-#### Leakyo
 
 - **Beerista:**
   - Abuurka ku billaaw gudaha guriga dhammaadka Febraayo ama horraanta Maarso (8–10 toddobaad kahor dhaxanta ugu dambeysa) oo dhig saxaarad yar oo ciid abuur ah.
@@ -63,7 +56,6 @@
 
 ### Sida Loo Beero Rhizomes
 
-#### Sinsin ama Durdur
 
 - **Beerista:**
   - Ka billaaw rhizome caafimaad qaba oo buuran.
@@ -85,7 +77,6 @@
 
 ### Sida Loo Beero Xididada Dheere
 
-#### Karooto, Daikon, Beet, iyo Parsnip
 
 - **Beerista:**
   - Abuurka beero xilliga guga marka ciiddu tahay qiyaastii 40°F ama xagaaga dambe si aad u hesho dalag dayrta ah.
@@ -107,7 +98,6 @@
 
 ### Sida Loo Beero Xididada Tuberous
 
-#### Baradho Macaan
 
 - **Beerista:**
   - Ka bilow “slips” bisha Abriil hore.
@@ -127,7 +117,6 @@
 
 ### Sida Loo Beero Tubers
 
-#### Baradho
 
 - **Beerista:**
   - Beero dhammaadka Maarso ama horraanta Abriil.
@@ -149,8 +138,3 @@
 
 - [Dalagyada xididka waxay bilaabi karaan beertaada guga](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Xididada, Laamaha, iyo Bulbs la cuno - Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ay bixiso iyadoo aan loo eegayn jinsiyad, midab, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka taageerada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda ciidanimo, cawaaqib xumada, ama aargoosiga ficil hore oo xuquuqda madaniga ah la xiriira. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

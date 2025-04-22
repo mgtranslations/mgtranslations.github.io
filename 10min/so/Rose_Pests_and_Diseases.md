@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeraleyda Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Cudurrada iyo Cayayaanka Badan ee Ubaxa Rose-ka
 
 Ubaxa rose-ka waa qurux iyo udgoon dheeraad ah oo lagu daro beerta, gaar ahaan Waqooyiga Galbeed ee Pacific-ka. Si kastaba ha ahaatee, waxaa caadi ahaan ku dhaca cudurro iyo cayayaan gaar ah. Dukumintigaan waxa uu bixinaa xeelado lagula soconayo lagana hortagayo cudurradaas si loo helo ubaxyo iyo caleemo qurux badan xilliga xagaaga oo dhan.
@@ -62,8 +60,3 @@ Ubaxa rose-ka waa qurux iyo udgoon dheeraad ah oo lagu daro beerta, gaar ahaan W
 La xiriir xafiiska OSU Extension ee deegaankaaga si aad u hesho talo beeraleyda khabiirka ah. Wixii macluumaad xiriir ah ka eeg: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 Si aad u heshid dukumintiyada 10-Daqiiqo Jaamacad™ iyo jadwalka fasallada, booqo: [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State University waxa uu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku saleysan: jinsiyadda, midabka, asalka qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dookha galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamij gargaarka dadweynaha, aaminsanaanta siyaasadda, macluumaadka hidde-sideyaasha, xaaladda askari hore, ama aargoosi/tallaabo laga qaaday hawl ay hore ugu lug lahayd xuquuqda muwaadinnimo. (Dhammaan qodobada la mamnuucay ma khuseeyaan barnaamij kasta oo la bixiyo.)
----

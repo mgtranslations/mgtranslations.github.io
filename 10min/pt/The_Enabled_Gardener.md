@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU
-
 # O Jardineiro Habilitado
 
 ### Introdução
@@ -12,7 +10,6 @@ A jardinagem pode ser um passatempo para a vida toda que traz benefícios mentai
 
 Escolher o tamanho e a função corretos das ferramentas de jardinagem pode fazer toda a diferença no conforto e no uso eficaz das ferramentas.
 
-#### Ferramentas de Poda
 
 - **Tesouras de poda**
   - O tamanho importa! Encontre o tamanho que se adapta melhor à sua mão para facilitar o uso e o conforto. Muitas tesouras vêm em versões pequenas, médias e grandes. Também existem versões para destros e canhotos.
@@ -30,7 +27,6 @@ Escolher o tamanho e a função corretos das ferramentas de jardinagem pode faze
   - **Podadores de cabo longo com engrenagem**
     - Oferecem 40% mais força ao cortar. Cabos mais longos dão mais alavanca.
 
-#### Ferramentas Manuais
 
 - Procure ferramentas ergonômicas que mantenham o punho em posição neutra, alinhado com o antebraço. Conforme a mobilidade e a força diminuem, é mais eficiente usar articulações maiores para realizar as tarefas. Usar o antebraço e o ombro tira a pressão das mãos e pulsos.
 - Adaptações como cabos em formato de “D” podem ser adicionados a ancinhos e vassouras comuns para melhorar a pegada e ajudar a manter o punho reto.
@@ -89,12 +85,3 @@ Escolher o tamanho e a função corretos das ferramentas de jardinagem pode faze
   - [Baixar Guia](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Carry on Gardening**  
   - [Dicas para Jardineiros com Deficiência](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Dicas dos Mestres Jardineiros™ · Ligue para o Serviço de Atendimento de Horticultura Residencial: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou revanche por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

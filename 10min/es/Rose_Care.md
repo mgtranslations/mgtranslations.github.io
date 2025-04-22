@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU
-
 # Cuidado de las Rosas
 
 ### Haz una Visita de Campo
@@ -42,7 +40,6 @@ Después de elegir la rosa correcta, plantarla bien es probablemente la tarea m�
 
 ### Poda
 
-#### Poda Principal a Mediados de Febrero
 
 Abre el centro del arbusto para que circule el aire:
 
@@ -55,14 +52,12 @@ Abre el centro del arbusto para que circule el aire:
 
 Al terminar, solo deben quedar tallos fuertes y sanos que salgan desde la base de la planta.
 
-#### Eliminación de Flores Marchitas
 
 Quita todas las flores secas:
 
 1. Al quitar la última flor, corta justo por encima de una hoja con 3 o 5 folíolos.
 2. Cuanto más alto hagas el corte, más rápido volverá a florecer, aunque las flores serán más pequeñas. Si cortas más abajo, tardará más en volver a florecer, pero las flores serán más grandes.
 
-#### Poda de Noviembre
 
 Acorta los tallos para reducir daños por el viento en las raíces:
 
@@ -86,12 +81,3 @@ Quita todas las hojas para que la planta entre en reposo.
 
 - [Control de Enfermedades y Áfidos en tus Rosales (EC 1520)](https://catalog.extension.oregonstate.edu/ec1520)
 - [Uso de Materiales Orgánicos como Mulch en Plantas Leñosas Ornamentales (EC 1629-E)](https://catalog.extension.oregonstate.edu/ec1629-e)
-
----
-
-#### Consejos de Maestro Jardinero™ · Llama a la Línea de Ayuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otras hojas informativas de Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o retaliación por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

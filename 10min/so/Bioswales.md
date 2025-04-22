@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Degmada Clackamas oo kaashanaya lana taageeraya Barnaamijka Beeralayda Master-ka ee OSU Extension™
-
 # Ku Darista Bioswale
 
 Goobaha la horumariyey, roobka ku dhaca meelaha adag waxaa loo diraa tuubooyin, jeex-jeexyo, iyo biyo-mareenno ka hor inta aan lagu shubin webiyada, togagga, iyo wabiyaasha. Bioswale waa nidaam loo sameeyey inuu ururiyo biyaha roobka ee ka soo qulqulaya saqafyada, dariiqyada, ama meelaha adag ee aan biyuhu dhex mari karin. Waxay u oggolaaneysaa biyaha roobka inay dhulka ku dhex milmaan oo ay dhirta iyo ciidda sifeyso si loo yareeyo qulqulka iyo wasakhowga biyaha dabiiciga ah. Qaab-dhismeedka tooska ah ee bioswale-ka wuxuu u habboon yahay in loo isticmaalo meelaha biyuhu ka soo ruaan ee dhinacyada wadooyinka, laakiin sidoo kale bioswale waa lagu isticmaali karaa hore iyo gadaal guryaha iyo hoosta tuubooyinka saqafka. Bioswale sidoo kale waxa ay beddeli kartaa kabaha ama biyo-mareennada yar-yar.
@@ -76,9 +74,3 @@ Dhirta waxay u baahan doonaan biyo dheeri ah xagaaga ugu horeeya si ay u koraan.
 
 - **Shirkadaha Baarista ee Oregon**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka, sabab la xiriirta: jinsiyadda, midabka, asalka, diinta, jinsi, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda askarinimada, aargoosiga, ama ciqaabta la xiriirta waxqabadkii hore ee xuquuqda madaniga ah. (Dhammaan sababaha mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
-
----

@@ -1,12 +1,9 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Mga Halaman para sa mga Pollinator
 
 ### Mga Bubuyog
 
 Ang mga bubuyog ay naaakit sa mga bulaklak na puti, dilaw, o asul na bukas, mababaw, o hugis tubo.
 
-#### Mga Puno at Palumpong
 
 | Genus                  | Karaniwang Pangalan       | Panahon ng Pamumulaklak |
 |------------------------|--------------------------|-------------------------|
@@ -26,7 +23,6 @@ Ang mga bubuyog ay naaakit sa mga bulaklak na puti, dilaw, o asul na bukas, maba
 | Spiraea douglasii      | Douglas spiraea          | Tagsibol, Tag-init      |
 | Vaccinium              | Huckleberry              | Tagsibol                |
 
-#### Mga Taunang Halaman
 
 | Genus                        | Karaniwang Pangalan   | Panahon ng Pamumulaklak     |
 |------------------------------|----------------------|-----------------------------|
@@ -50,7 +46,6 @@ Ang mga bubuyog ay naaakit sa mga bulaklak na puti, dilaw, o asul na bukas, maba
 | Sedum                        | Sedum                | Tag-init                    |
 | Symphyotrichum subspicatum   | Douglas aster        | Taglagas                    |
 
-#### Taunang Halaman
 
 | Genus                | Karaniwang Pangalan       | Panahon ng Pamumulaklak |
 |----------------------|--------------------------|-------------------------|
@@ -73,7 +68,6 @@ Ang mga paruparo ay naaakit sa mga bulaklak na may malalapad na landing pad na k
 
 Ang mga hummingbird ay naaakit sa mga bulaklak na hugis tubo na kulay pula.
 
-#### Mga Taunang at Perennial na Halaman, Palumpong
 
 | Genus                | Karaniwang Pangalan   | Panahon ng Pamumulaklak  |
 |----------------------|----------------------|--------------------------|
@@ -86,7 +80,6 @@ Ang mga hummingbird ay naaakit sa mga bulaklak na hugis tubo na kulay pula.
 | Ribes                | Flowering Currant    | Tagsibol                 |
 | Salvia               | Salvia o Sage        | Tag-init, Taglagas       |
 
-#### Mga Baging
 
 | Genus          | Karaniwang Pangalan        | Panahon ng Pamumulaklak |
 |----------------|---------------------------|-------------------------|
@@ -104,8 +97,3 @@ Ang mga hummingbird ay naaakit sa mga bulaklak na hugis tubo na kulay pula.
     - *Attracting Pollinators to Your Garden*, 10-Minute University™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Pollinator Conservation Handbook**, Xerces Society
     - Bisitahin ang [www.xerces.org](http://www.xerces.org) para sa karagdagang impormasyon mula sa Xerces Society
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyon sa genetika, katayuan bilang beterano, pagganti o paghihiganti sa naunang aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

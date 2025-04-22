@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión OSU
-
 # Control de Topos de Bolsillo
 
 ### Introducción
@@ -16,13 +14,11 @@ Los topos de bolsillo viven en sistemas de túneles que pueden cubrir áreas des
 
 Se puede controlar a los topos de bolsillo en cualquier época del año, pero el uso de trampas o cebos es más efectivo cuando aparecen nuevos montículos, generalmente en primavera y otoño. Tanto las trampas como los cebos tóxicos funcionan bien.
 
-#### Trampas
 
 - Hay varios tipos de trampas para topos de bolsillo disponibles y son fáciles de usar. Puedes colocarlas en el túnel lateral que lleva a un montículo, pero son más efectivas si se ponen en el túnel principal.
 - Localiza el túnel principal sondeando a unos 30 centímetros de un montículo. Para instrucciones detalladas sobre cómo encontrar un túnel, consulta *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands*, disponible gratis en línea en el [Catálogo de Extensión OSU](http://extension.oregonstate.edu/catalog).
 - Coloca dos trampas espalda con espalda en el túnel profundo y sujétalas al suelo. Cambia las trampas de lugar si no hay captura en 2 o 3 días.
 
-#### Uso de cebos
 
 - Coloca cebos tóxicos en los túneles principales siguiendo las instrucciones de la etiqueta. Ubica los túneles con una sonda y deposita el cebo por el agujero.
 - Otra opción es excavar el túnel con una palita y poner el cebo directamente.
@@ -30,11 +26,9 @@ Se puede controlar a los topos de bolsillo en cualquier época del año, pero el
 - Revisa el área periódicamente durante 2 semanas después del tratamiento y desecha cualquier animal muerto que encuentres.
 - **Importante:** No seguir las instrucciones de la etiqueta puede causar daños a animales no objetivo, mascotas o niños. Usa cebos solo como último recurso.
 
-#### Fumigantes
 
 - Los fumigantes, a veces llamados “gopher gassers”, rara vez son efectivos a menos que el suelo esté saturado de agua o sea de arcilla densa.
 
-#### Exclusión
 
 - Puede justificarse poner cercas subterráneas para proteger arbustos ornamentales o árboles valiosos.
 - Para proteger plantas ya establecidas, entierra tela metálica o malla de gallinero de 1.9 centímetros de abertura al menos 60 centímetros de profundidad, con 15 centímetros adicionales doblados en ángulo de 90 grados alejados de las plantas.
@@ -45,15 +39,12 @@ Se puede controlar a los topos de bolsillo en cualquier época del año, pero el
 - Usa malla liviana solo en arbustos y árboles jóvenes que necesiten protección. Deja suficiente espacio para el crecimiento de las raíces. La malla galvanizada ofrece la protección de mayor duración.
 - De 15 a 20 centímetros de grava gruesa de 2.5 centímetros de diámetro o más alrededor de tuberías de riego subterráneas o cables puede también disuadir a los topos.
 
-#### Controles Naturales
 
 - Depredadores como búhos, serpientes, gatos, perros y coyotes pueden reducir la población de topos, pero puede no ser suficiente.
 
-#### Inundación
 
 - Los topos de bolsillo pueden resistir el riego normal de jardines o paisajes, pero a veces las inundaciones los obligan a salir de sus túneles y los exponen a depredadores.
 
-#### Métodos Ineficaces
 
 - Muchos dispositivos prometen espantar a los topos de bolsillo, como estacas vibradoras, aparatos ultrasónicos y molinetes movidos por el viento. Sin embargo, estos roedores no se asustan fácilmente, probablemente porque están acostumbrados al ruido y vibraciones de aspersores, cortadoras de césped, vehículos y personas.
 - Otros métodos ineficaces incluyen poner chicle o laxantes en los túneles con la esperanza de matar a los topos.
@@ -66,15 +57,9 @@ Estos son solo algunos de los muchos recursos disponibles:
   - *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands* (PNW 627E)
   - *Sustainable Gardening* (EM8742)
 
-#### Consejos de Master Gardener™
 
 - **Llama a la línea de ayuda de horticultura:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para folletos y el horario de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, condición familiar o parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalia por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

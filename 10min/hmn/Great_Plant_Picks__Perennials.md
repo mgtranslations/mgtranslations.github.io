@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 ## Cov Nroj Tsuag Zoo: Perennials
 
 **S:** Nroj tsuag nyiam ntxoov ntxoo  
@@ -57,7 +55,6 @@
 
 Great Plant Picks (GPP) yog qhov kev pab qhia ntawv tseem ceeb ntawm Elisabeth C. Miller Botanical Garden. Xyoo 2001, daim ntawv teev npe thawj zaug tawm los muab tswv yim tsim cov laj kab zoo tshaj rau thaj av Pacific Northwest ze dej hiav txwv. Txij thaum ntawd los, twb xaiv tau tshaj 1,000 hom nroj tsuag zoo rau cov neeg ua vaj nyob sab hnub poob ntawm Mount Cascade, txij Eugene, Oregon, USA txog Vancouver, British Columbia, Canada.
 
-#### Cov Cai Xaiv GPP
 
 - Loj tau zoo hauv ntau yam av.
 - Tsis tas yuav muaj dej ntau los pab.
@@ -66,8 +63,3 @@ Great Plant Picks (GPP) yog qhov kev pab qhia ntawv tseem ceeb ntawm Elisabeth C
 - Tsis tshua muaj mob lossis kab tsuag.
 - Muaj kev zoo nkauj ntau lub caij nyob hauv vaj.
 - Muab txiaj ntsig rau ib puag ncig (kab noj paj, zaub mov rau noog, chaw rau tsiaj qus, thiab lwm yam).
-
----
-
-##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua yam kev pab, kev pabcuam, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, lub teb chaws yug, kev ntseeg, poj niam txiv neej, kev paub tus kheej (xws li kev qhia poj niam txiv neej), kev nyiam sib deev, muaj xiam oob khab, hnub nyoog, txoj kev sib yuav, tsev neeg/kev ua niam txiv, nyiaj tau los los ntawm kev pab dawb, kev ntseeg nom tswv, ntaub ntawv caj ces, txoj hauj lwm qub, lossis kev ua phem los yog pauj vim yav tas los tiv thaiv txoj cai pej xeem. (Tsis yog txhua qhov kev txwv siv rau txhua yam kev pab.)
----

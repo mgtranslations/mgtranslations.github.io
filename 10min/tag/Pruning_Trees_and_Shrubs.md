@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Pagpuputol ng mga Puno at Palumpong
 
 ### Mga Dahilan ng Pagpuputol
@@ -47,7 +45,6 @@ Para sa mga palumpong na namumulaklak, magputol sa panahon na hindi masisira ang
 - **Spring flowering shrubs** (Talahanayan 1) ay namumulaklak sa mga sanga ng nakaraang taon; putulin ang mga ito matapos mamulaklak para lumago nang maganda sa tag-init.
 - **Mga palumpong na namumulaklak pagkatapos ng Hunyo** (Talahanayan 2) ay namumulaklak mula sa mga usbong na nabuo sa kasalukuyang taon; putulin ang mga ito sa huling taglamig para mas maganda ang tubo ng mga sanga sa tagsibol.
 
-#### Talahanayan 1: Mga Palumpong na Namumulaklak sa Lumang Sanga
 
 | Pangalan ng Halaman         | Karaniwang Pangalan              |
 |---------------------------- |----------------------------------|
@@ -70,7 +67,6 @@ Para sa mga palumpong na namumulaklak, magputol sa panahon na hindi masisira ang
 | Viburnum spp.               | Viburnum                         |
 | Weigela florida             | Old-fashioned weigela            |
 
-#### Talahanayan 2: Mga Palumpong na Namumulaklak sa Bagong Sanga
 
 | Pangalan ng Halaman          | Karaniwang Pangalan              |
 |----------------------------- |----------------------------------|
@@ -118,8 +114,3 @@ Ang mga sanga na mas malaki sa 1½ pulgada ang lapad ay dapat putulin sa tatlong
 - [Pagpuputol ng rosas](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Pagpuputol ng puno ng prutas](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Pagsasanay ng puno ng prutas](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama na ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, estado ng pag-aasawa, estado bilang magulang o miyembro ng pamilya, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, pagiging beterano, pagganti o paghihiganti dahil sa naunang aktibidad na may kaugnayan sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

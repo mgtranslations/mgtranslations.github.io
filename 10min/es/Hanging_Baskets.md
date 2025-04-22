@@ -1,5 +1,3 @@
-#### 10-Minute University™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Canastas Colgantes
 
 ### Resumen
@@ -61,7 +59,6 @@ Para mantener todo ordenado durante la temporada, retira las flores marchitas (d
 
 Hay muchas plantas que funcionan bien en canastas colgantes de temporada. Las siguientes son solo algunas sugerencias. Nota que algunas sirven tanto para sol como para sombra.
 
-#### Plantas Verticales para Sol
 
 - Angelonia
 - Cordyline
@@ -71,7 +68,6 @@ Hay muchas plantas que funcionan bien en canastas colgantes de temporada. Las si
 - Geranio
 - Pastos ornamentales
 
-#### Plantas Verticales para Sombra
 
 - Heliotropo
 - Coleus para sombra
@@ -82,7 +78,6 @@ Hay muchas plantas que funcionan bien en canastas colgantes de temporada. Las si
 - Impatiens de Nueva Guinea
 - Begonia tuberosa
 
-#### Plantas en Grupo para Sol
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ Hay muchas plantas que funcionan bien en canastas colgantes de temporada. Las si
 - Petunia ‘fantasy’
 - Begonia fibrosa
 
-#### Plantas en Grupo para Sombra
 
 - Geranio
 - Nemesia
@@ -99,7 +93,6 @@ Hay muchas plantas que funcionan bien en canastas colgantes de temporada. Las si
 - Impatiens
 - Lobelia vertical
 
-#### Plantas Colgantes para Sol
 
 - Anagalis
 - Alyssum
@@ -111,7 +104,6 @@ Hay muchas plantas que funcionan bien en canastas colgantes de temporada. Las si
 - Lamium
 - Planta de regaliz
 
-#### Plantas Colgantes para Sombra
 
 - Loto enredadera
 - Million bells
@@ -134,15 +126,9 @@ Existen muchos libros sobre cómo cultivar canastas colgantes, por lo que es dif
 - *Jardinería en Contenedores* (Sunset)
 - *Macetas en el Jardín* por Ray Rogers
 
-#### Consejos de Maestros Jardineros™
 
 - **Llama a la Línea de Ayuda de Horticultura en el Hogar:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para más folletos de 10-Minute University™ y el calendario de clases, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

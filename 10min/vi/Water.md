@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 ## Giúp Vườn Của Bạn Chống Chịu Tốt Hơn Với Biến Đổi Khí Hậu: Nước
 
 Trái Đất đang trải qua xu hướng ấm lên, dẫn đến băng tan, mực nước biển dâng, độ axit đại dương tăng, và hạn hán cùng lũ lụt xảy ra thường xuyên, nghiêm trọng hơn. Khu vực Tây Bắc Thái Bình Dương đã chứng kiến hạn hán kéo dài, cháy rừng xuất hiện nhiều hơn và nghiêm trọng hơn, các đợt nắng nóng, bùng phát sâu bệnh và nhiều bệnh cây hơn. Lượng tuyết tích trữ giảm khiến dòng chảy đỉnh ở sông, suối đến sớm hơn và nguồn nước giảm đi. Ngoài những xu hướng này, biến đổi khí hậu còn mang lại các hiện tượng thời tiết cực đoan thất thường (như nắng nóng, mưa lớn) với tần suất tăng dần.
@@ -80,8 +78,3 @@ Một số thành phố, quận có quy định riêng về việc ngắt kết 
 
   - [Giới thiệu về tưới nhỏ giọt](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Mẹo tưới cây](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trừng phạt vì đã tham gia hoạt động quyền công dân trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho mọi chương trình.)
----

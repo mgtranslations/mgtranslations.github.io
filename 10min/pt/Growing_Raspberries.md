@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Como Cultivar Framboesas
 
 ### Por Que Cultivar Framboesas?
@@ -42,7 +40,6 @@ Framboesas geralmente são vendidas como mudas de raiz nua. Compre plantas certi
 
 ### Adubação
 
-#### Plantios Novos
 No ano do plantio, adube cada planta com um total de **56 gramas de nitrogênio (N)** por fileira de 3 metros. Use um fertilizante equilibrado como **16-16-16** ou uma fonte orgânica (ex: farinha de semente de algodão).
 
 Para calcular a quantidade necessária:
@@ -54,7 +51,6 @@ Não aplique todo o fertilizante de uma vez. Divida o total em três partes:
 2. Aplique a segunda parte 1 mês depois.
 3. Aplique a última parte mais 1 mês depois.
 
-#### Plantas já estabelecidas
 Adube anualmente para manter o bom crescimento:
 - **Quantidade**: 56 a 85 gramas de nitrogênio por fileira de 3 metros.
   - Exemplo: 368 a 539 gramas de fertilizante 16-16-16 ou 1,1 kg de fertilizante 5-5-3.
@@ -102,14 +98,8 @@ Publicações da OSU disponíveis online em [https://extension.oregonstate.edu/]
 - **Como Cultivar Frutas no Litoral do Oregon: Framboesas e Amoras** (EM 9180) – Conteúdo também relevante para o Vale do Willamette.
 - Aprenda a podar framboesas em um módulo online em [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
 
-#### Dicas dos Mestres Jardineiros™
 - **Ligue para o Plantão de Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para outros folhetos e horários de aulas do 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda derivada de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

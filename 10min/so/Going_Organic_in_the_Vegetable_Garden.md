@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Degmada Clackamas oo la kaashanaya lana taageeraya Barnaamijka Master Gardener™ ee OSU Extension
-
 # Beeralayda Khudradda ee Dabiiciga ah
 
 ### Waa maxay “Beeralayda Dabiiciga ah”?
@@ -69,7 +67,6 @@ Ku darista compost-ka dhulka waxay hagaajisaa dhismaha iyo caafimaadka waqti-dhe
 
 Booqo [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 
-#### Talo Beeralayda Master-ka ah
 
 - **Wac Khadka Gargaar ee Guriga:**
   - 503-655-8631 (Degmada Clackamas)
@@ -77,8 +74,3 @@ Booqo [https://catalog.extension.oregonstate.edu](https://catalog.extension.oreg
   - 503-445-4608 (Degmada Multnomah)
 - Weydiiso su’aal [www.metromastergardeners.org](http://www.metromastergardeners.org)
 - Booqo bogga Master Gardeners ee Clackamas [www.cmastergardeners.org](http://www.cmastergardeners.org) si aad u hesho qoraallo iyo jadwalka fasallada bilaashka ah ee Jaamacadda 10-Daqiiqo™.
-
----
-
-##### Adeegga OSU Extension waxay mamnuucday takoorid dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabyada ku saleysan: midab, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda askarinimo, aargoosiga ama falcelinta ka dhalata hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada mamnuuca ah ma khuseeyaan dhammaan barnaamijyada.)
----

@@ -1,5 +1,3 @@
-#### Hướng Dẫn Cắt Tỉa Mùa Thu Cho Cây Lâu Năm · Chuẩn bị bởi Laura Eyer · 09/10/2018
-
 ## Cắt Tỉa
 
 - Diên vĩ râu
@@ -43,7 +41,6 @@
 
 ## Giữ Nguyên Không Cắt
 
-#### Chuẩn bị bởi Laura Eyer · 09/10/2018
 
 - Artemisia
 - Cúc sao
@@ -89,4 +86,3 @@
 - Hoa nữ lang (*Centranthus ruber*)
 - Hoa đũa phép (*Guara sp.*)
 - Liễu xanh Amsonia (*Amsonia tabernaemontana*)
----

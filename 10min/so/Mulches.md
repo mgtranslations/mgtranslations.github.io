@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ururka Beeralayda Master ee Clackamas County · Iskaashi iyo taageero barnaamijka OSU Extension Master Gardener™
-
 # Mulches: Kan Fiican, Kan Xun, iyo Kan Aad U Xun
 
 **Dr. Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Jaamacadda Gobolka Washington
 
 ### Dhibaatooyinka Mulch-ka Alwaaxda Qaro Weyn
 
-#### Mulch-ka Jilifka
 
 - Mulch-ka jilifka wuxuu noqon karaa mid ku jira milix ama abuur haramood
 - Jilifku wuxuu leeyahay waxyaabo dufan ah oo xannibaaya biyaha inay galaan ama ka baxaan beerta
 - Jilifka geedaha jilicsan badanaa ma aha kuwo dadka u fiican oo waxay leeyihiin xabo yaryar oo fiiqan
 
-#### Jarjaran Alwaaxda Arborist-ka
 
 - Waxaa laga walwalaa isku-darka carbon:nitrogen oo sareeya—ma sababi kartaa nafaqo yaraanta nitrogen?
 - Ma cudurada geedaha ayaa ku gudbi kara haddii la isticmaalo alwaax jirran?
 
-#### Helitaanka Nitrogen
 
 - Mulch jarjaran alwaaxda waxay leedahay C:N sare, taas oo keeni karta nitrogen-yaraanta meelaha mulch-ku la kulmo ciidda
 - Mulch jarjaran alwaaxda ma sababo nitrogen-yaraan geedaha horay u baxay
 - C:N ratio sare ee mulch-ka alwaaxda waxay u badan tahay in ay ka hortagto abuurka haramaha qaar
 
-#### Cudurrada Fangaska iyo Mulch-ka Alwaaxda
 
 - Armillaria, Cytospora, Thyronectria iyo Verticillium dhammaan waxay noolaan karaan qaybo waaweyn oo alwaax ah muddo bilo ah
 - Noloshoodu way sii dheeraanaysaa haddii mulch-ka lagu daro ciidda
 - Ma jiraan caddayn ah in cudurada mulch-ka ay ku faafi karaan xididdada dhirta hoostooda
 
-#### Noolaha Fangaska ee Mulch-ka Alwaaxda
 
 - Fangaska ku jira mulch-ka alwaaxda badanaa waa kuwo burburiya, ma aha cuduro
 - Ciidda caafimaadka qabta (leh oksijiin), fangaska faa’iidada leh ayaa ka adkaada kuwa cudurada keena
@@ -230,12 +223,3 @@ Blog: http://www.gardenprofessors.com
 Buugaag: http://www.sustainablelandscapesandgardens.com  
 Bogga Facebook: http://www.facebook.com/TheGardenProfessors  
 Kooxda Facebook: https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Tallada Master Gardener™ · Wac Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii kale ee 10-Minute University™ warqadaha iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku salaysan: jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga ka soo baxa barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, xaalada askarnimada, ciqaab la’aanta, ama aargoosiga ku salaysan waxqabad hore oo xuquuqda madaniga ah. (Dhamaan xeerarkan lama khuseeyaan dhamaan barnaamijyada.)
----

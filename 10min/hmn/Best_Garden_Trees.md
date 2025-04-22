@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County · Ua haujlwm koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
-
----
-
 ## CEEB TOOM: Daim ntawv thawj muaj ntau daim duab thiab tsis tau txhais kom tag, thov kuj saib daim pdf thawj [ntawm no](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
 
 # Cov Ntoo Zoo Tshaj Rau Vaj Tsev
@@ -232,11 +228,3 @@ Daim duab muaj nyob rau ntawm [https://jfschmidt.com](https://jfschmidt.com).
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
 - *Trees to Know in Oregon and Washington*, Edward C. Jensen, Oregon State University Extension Service, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam ntaub ntawv thiab chav kawm 10-Minute University™, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua txoj kev pab, kev ua haujlwm, kev ua si, thiab ntaub ntawv raws li haiv neeg, xim, tebchaws, kev ntseeg, poj niam txiv neej, cim poj niam txiv neej (xws li kev qhia txog poj niam txiv neej), kev nyiam sib deev, xiam oob khab, hnub nyoog, kev muaj txij nkawm, tsev neeg/txiv niam txiv tub, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, lossis rau qhov ua phem lossis pauj rau txoj cai tib neeg yav dhau los. (Tsuas yog qee qhov txwv xwb thiaj siv rau txhua kev pab.)

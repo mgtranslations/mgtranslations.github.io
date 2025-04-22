@@ -116,5 +116,3 @@ Originalquelle:
 
 - [Mulche: die Guten, die Schlechten und die wirklich, wirklich Hässlichen. – Linda Chalker-Scott, PhD, WSU](Mulches.md)
 - [Clematis-Klassifizierung und -Schnitt – Linda Beutler](Clematis.md)
-
----

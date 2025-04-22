@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Master Gardeners del Condado de Clackamas en colaboración y apoyo al Programa OSU Extension Master Gardener™
-
 ## Haz tu jardín más resiliente al clima: Agua
 
 La Tierra está experimentando una tendencia de calentamiento que está provocando el derretimiento de glaciares, aumento del nivel del mar, mayor acidez en los océanos y sequías e inundaciones más frecuentes y severas. El Noroeste del Pacífico ha visto sequías prolongadas, un aumento en la incidencia y gravedad de los incendios forestales, olas de calor, brotes de insectos y enfermedades de los árboles. La reducción de la capa de nieve provoca que los ríos y arroyos alcancen su punto máximo antes de tiempo y disminuya la disponibilidad de agua. Además de estas tendencias, el cambio climático trae eventos climáticos extremos e impredecibles (olas de calor, lluvias intensas) con mayor frecuencia.
@@ -80,8 +78,3 @@ Algunas ciudades y condados tienen regulaciones específicas sobre desconectar b
 
   - [Riego por goteo: una introducción (en inglés)](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Consejos para regar (en inglés)](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales en base a raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

@@ -1,5 +1,3 @@
-#### 10分钟大学™ · 克拉克马斯县园艺大师协会与俄勒冈州立大学推广园艺大师™项目合作并支持
-
 # 园艺工具的保养与维护
 
 工具会因为时间、潮湿、土壤和锈蚀而损坏。按照下面介绍的方法进行清洁和保养，可以让工具保持良好状态，延长使用寿命。
@@ -61,12 +59,3 @@
 - [蔬菜园艺师的实用工具](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [好好保养辛勤工作的园艺工具](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [刀具磨快的方法](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### 园艺大师™建议 · 家庭园艺热线：503-655-8631（克拉克马斯县） · 503-821-1150（华盛顿县） · 503-445-4608（穆尔特诺马县） · 获取10分钟大学™讲义和课程安排，请访问 [www.cmastergardeners.org](http://www.cmastergardeners.org)。
-
----
-
-##### 俄勒冈州立大学推广服务部禁止基于种族、肤色、国籍、宗教、性别、性别认同（包括性别表达）、性取向、残疾、年龄、婚姻状况、家庭/父母身份、公共援助项目收入、政治信仰、基因信息、退伍军人身份、报复或因以往民权活动受到报复等原因，在其所有项目、服务、活动和材料中进行歧视。（并非所有禁止理由都适用于所有项目。）
----

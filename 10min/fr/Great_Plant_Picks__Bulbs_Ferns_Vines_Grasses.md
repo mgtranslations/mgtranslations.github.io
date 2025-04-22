@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 ## Les Meilleures Plantes à Choisir : Bulbes, Fougères, Lianes et Graminées
 
 ### Clé
@@ -85,8 +83,3 @@ Great Plant Picks (GPP) est le principal programme éducatif du Jardin Botanique
 - Peu sensibles aux maladies/insectes.
 - Offrent plusieurs saisons d’intérêt au jardin.
 - Beaucoup de plantes GPP offrent aussi des bénéfices écologiques (pollinisateurs, nourriture pour oiseaux, habitat pour la faune, etc.).
-
----
-
-###### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus issus d’une aide sociale, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou la rétorsion pour une activité antérieure relative aux droits civils (tous les critères ne s’appliquent pas à tous les programmes).
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Siv Cov Nroj Tsuas Hauv Koj Lub Vaj
 
 ### Taw Qhia
@@ -69,8 +67,3 @@ Cov kws ua liaj ua teb thiab cov tsim vaj loj twb xaiv cov nroj tsuag uas zoo nk
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Native Plant Attractiveness Study – Plant List**, 10-Minute University™ phau ntawv  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub ua kev ntxub ntxaug hauv txhua yam kev pab, kev kawm, kev ua haujlwm, thiab cov ntaub ntawv raws li haiv neeg, xim, lub tebchaws yug, kev ntseeg, poj niam/txiv neej, kev qhia txog poj niam/txiv neej (nrog rau kev qhia tus kheej), kev nyiam sib deev, kev xiam oob qhab, hnub nyoog, kev sib yuav, kev muaj tsev neeg/kev ua niam txiv, nyiaj tau los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, muaj kev ua haujlwm rau tub rog, raug tsim txom los yog raug pauj vim kev tiv thaiv cai tib neeg yav dhau los. (Tsis yog txhua yam txwv no siv rau txhua qhov kev pab.)
----

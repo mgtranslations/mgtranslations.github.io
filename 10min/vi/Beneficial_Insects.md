@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 # Côn Trùng Có Lợi Trong Vườn Nhà
 
 ### Tổng quan
@@ -72,12 +70,3 @@ Quản lý Dịch Hại Tổng Hợp (IPM) là phương pháp toàn diện và c
   [Xem tại đây](https://www.cmastergardeners.org)
 - *Hạt Clark Washington trình bày về côn trùng và sâu hại*  
   [Đọc thêm tại đây](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
-
----
-
-#### Tư vấn Làm vườn Chuyên gia™ · Gọi đường dây Tư vấn Làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem các tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc trẻ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở cấm đều áp dụng cho mọi chương trình.)
----

@@ -1,7 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Khibradda leh ee Degmada Clackamas oo kaashanaya Barnaamijka OSU Extension Master Gardener™
-
----
-
 ## Tijaabinta pH-ga Dhulka
 
 ### Dulmar
@@ -71,7 +67,6 @@ Tusaale walba wuxuu soo saari doonaa akhris pH:
 
 Marka Beeralayda Khibradda leh ay sameeyaan tijaabada, waxay kaa caawinayaan fahamka natiijooyinka waxayna bixiyaan talo ku saabsan xalalka. Waxaa fiican in si tartiib ah loo beddelo pH-ga dhulka muddo sannado ah. Ku dar wax ka beddelka ku habboon xilliga dayrta, dibna u tijaabi pH-ga dhulka kadib 3 ilaa 6 bilood. Ku celi haddii loo baahdo.
 
-#### Kordhinta pH-ga Dhulka
 
 - Ku dar lime xilliga dayrta si aad u hesho natiijo fiican.
 - Isticmaal **5 ilaa 10 rodol oo lime ah 100 ft laba jibbaaran** haddii aad ku qasayso dhulka ka hor intaadan beeri.
@@ -85,7 +80,6 @@ Marka Beeralayda Khibradda leh ay sameeyaan tijaabada, waxay kaa caawinayaan fah
 - Haddii aad isticmaaleyso lime budo ah, xir maaskaro.
 - Dolomite lime wuxuu leeyahay magnesium waxaana ku habboon beeralayda Galbeedka Oregon, halkaasoo dhulku inta badan magnesium yari ka jirto.
 
-#### Hoos U Dhigista pH-ga Dhulka
 
 - Ku dar sulfur cayriin xilliga dayrta si aad u hesho natiijo fiican.
 - Geedaha iyo geedaha waaweyn, ku dar xaddi yar dhulka agagaarka laanta biyaha ama ku fidi saf blueberry ah.
@@ -102,12 +96,3 @@ Booqo xafiiskaaga OSU Extension Service ee 200 Warner-Milne Road, Oregon City, s
 - **Liiska Shaybaarada Falanqeeya ee Oregon** (EM 8677)
 - **Qaabka Loo Qaado Tusaale Dhul Beerta Guriga iyo Dhul Yar** (EC 628)
 - **Aashitadeynta Dhulka Blueberries-ka iyo Dhirta Qurxinta Beerta** (EC 1560-E)
-
----
-
-#### Talo Beeraleyda Khibradda leh™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado ah ee Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org) ama [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### Adeegga OSU Extension Service wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan: midab, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/walidnimada, dakhliga ka yimaada barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda halyeeynimada, aargoosiga ama ciqaabta la xiriirta dhaqdhaqaaqyada hore ee xuquuqda madaniga ah. (Dhammaan xeerarkan lama dabaqo barnaamij kasta.)
----

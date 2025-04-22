@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Các Bệnh và Sâu Hại Thường Gặp Trên Hoa Hồng
 
 Hoa hồng có thể là một điểm nhấn thơm ngát và xinh đẹp trong bất kỳ khu vườn nào ở vùng Tây Bắc Thái Bình Dương. Tuy nhiên, chúng thường bị một số bệnh và sâu hại phổ biến. Tài liệu này cung cấp các chiến lược giám sát và phòng ngừa để đảm bảo hoa và lá hoa hồng luôn đẹp suốt mùa hè.
@@ -62,8 +60,3 @@ Hoa hồng có thể là một điểm nhấn thơm ngát và xinh đẹp trong 
 Liên hệ văn phòng OSU Extension địa phương để được tư vấn từ Chuyên Gia Làm Vườn. Xem thông tin liên hệ tại: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 Để xem các tài liệu và lịch học của Đại học 10 Phút™, truy cập [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu về chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả thù vì các hoạt động về quyền dân sự trước đó. (Không phải tất cả các tiêu chí bị cấm đều áp dụng cho tất cả các chương trình.)
----

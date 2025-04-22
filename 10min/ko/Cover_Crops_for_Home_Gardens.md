@@ -1,5 +1,3 @@
-#### 10-Minute University™ · 클라카마스 카운티 마스터 가드너 협회는 OSU 확장 마스터 가드너™ 프로그램과 협력하여 지원합니다
-
 # 가정용 채소밭을 위한 피복작물
 
 피복작물은 토양을 덮고 개선하는 식물입니다. 휴경지에 가을에 심거나, 작물 윤작의 일부로 봄에 심을 수 있습니다. 콩과식물, 풀, 넓은 잎의 다년생 식물을 포함한 다양한 식물이 이 목적에 사용됩니다.
@@ -75,10 +73,3 @@
     - Cover Crops for Home Gardens West of the Cascades FS111E
     - Cover Crops for Home Gardens East of the Cascades FS117E
     - Methods for Successful Cover Crop Management in Your Home Garden FS119E
-
-#### 마스터 가드너™ 상담 · 가정 원예 상담전화: 503-655-8631 (클라카마스 카운티) · 503-821-1150 (워싱턴 카운티) · 503-445-4608 (멀트노마 카운티) · 10-Minute University™ 자료와 동영상은 [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university)에서 확인하세요
-
----
-
-##### 오리건 주립대학교 확장 서비스는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부모 상태, 공공 지원금 수입, 정치적 신념, 유전 정보, 재향군인 신분, 이전 인권 활동에 대한 보복 등 모든 프로그램, 서비스, 활동, 자료에서 차별을 금지합니다. (모든 금지 사유가 모든 프로그램에 적용되는 것은 아닙니다.)
----

@@ -1,12 +1,9 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Plants for Pollinators
 
 ### Bees
 
 Bees are attracted to white, yellow, or blue flowers that are open, shallow, or tubular.
 
-#### Trees and Shrubs
 
 | Genus                  | Common Name           | Bloom Season         |
 |------------------------|----------------------|----------------------|
@@ -26,7 +23,6 @@ Bees are attracted to white, yellow, or blue flowers that are open, shallow, or 
 | Spiraea douglasii      | Douglas spiraea      | Spring, Summer       |
 | Vaccinium              | Huckleberry          | Spring               |
 
-#### Perennial Plants
 
 | Genus                        | Common Name         | Bloom Season           |
 |------------------------------|--------------------|------------------------|
@@ -50,7 +46,6 @@ Bees are attracted to white, yellow, or blue flowers that are open, shallow, or 
 | Sedum                        | Sedum              | Summer                 |
 | Symphyotrichum subspicatum   | Douglas aster      | Fall                   |
 
-#### Annual Plants
 
 | Genus                | Common Name           | Bloom Season       |
 |----------------------|----------------------|--------------------|
@@ -73,7 +68,6 @@ Butterflies are attracted to flowers that form wide landing pads in orange, red,
 
 Hummingbirds are attracted to tubular-shaped flowers in red.
 
-#### Annual and Perennial Plants, Shrubs
 
 | Genus                | Common Name         | Bloom Season         |
 |----------------------|--------------------|----------------------|
@@ -86,7 +80,6 @@ Hummingbirds are attracted to tubular-shaped flowers in red.
 | Ribes                | Flowering Currant  | Spring               |
 | Salvia               | Salvia or Sage     | Summer, Fall         |
 
-#### Vines
 
 | Genus          | Common Name           | Bloom Season       |
 |----------------|----------------------|--------------------|
@@ -104,7 +97,3 @@ Hummingbirds are attracted to tubular-shaped flowers in red.
     - *Attracting Pollinators to Your Garden*, 10-Minute University™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Pollinator Conservation Handbook**, Xerces Society
     - Visit [www.xerces.org](http://www.xerces.org) for additional resources from the Xerces Society
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

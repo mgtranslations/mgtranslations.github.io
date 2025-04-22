@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Pruning Trees and Shrubs
 
 ### Reasons for Pruning
@@ -47,7 +45,6 @@ For flowering shrubs, prune at a time to minimize disruption of blooming:
 - **Spring flowering shrubs** (Table 1) bloom on last season’s growth; prune them soon after they bloom to promote vigorous summer growth.
 - **Shrubs that bloom after June** (Table 2) do so from buds that are formed on the current year’s shoots; prune these shrubs in late winter to promote vigorous spring shoot growth.
 
-#### Table 1: Shrubs That Bloom on Last Year’s Growth
 
 | Botanical Name            | Common Name                |
 |-------------------------- |---------------------------|
@@ -70,7 +67,6 @@ For flowering shrubs, prune at a time to minimize disruption of blooming:
 | Viburnum spp.             | Viburnum                   |
 | Weigela florida           | Old-fashioned weigela      |
 
-#### Table 2: Shrubs That Bloom on Current Season’s Wood
 
 | Botanical Name             | Common Name                |
 |--------------------------- |---------------------------|
@@ -118,7 +114,3 @@ Branches larger than 1½ inch in diameter should be pruned in three steps as sho
 - [Pruning roses](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Pruning a fruit tree](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Training a fruit tree](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

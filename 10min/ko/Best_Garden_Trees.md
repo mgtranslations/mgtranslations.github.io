@@ -1,7 +1,3 @@
-#### 10분 대학교™ · 클라카마스 카운티 마스터 가드너 협회 · OSU 확장 마스터 가드너™ 프로그램과 협력 및 지원
-
----
-
 ## 경고: 원본 파일에는 많은 이미지가 포함되어 있어 정확한 번역이 어려울 수 있으니, [여기](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)에서 원본 PDF 파일도 참고하세요.
 
 # 최고의 정원 나무
@@ -232,12 +228,3 @@
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
 - *Trees to Know in Oregon and Washington*, Edward C. Jensen, 오리건 주립대 확장 서비스, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### 마스터 가드너™ 상담 · 가정 원예 상담 전화: 503-655-8631 (클라카마스 카운티) · 503-821-1150 (워싱턴 카운티) · 503-445-4608 (멀트노마 카운티) · 기타 10분 대학교™ 안내문 및 강의 일정은 [www.cmastergardeners.org](https://www.cmastergardeners.org) 참조
-
----
-
-##### 오리건 주립대 확장 서비스는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부모 상태, 공공 보조금 수입, 정치적 신념, 유전 정보, 재향군인 신분, 보복 또는 이전 인권활동에 대한 보복을 이유로 모든 프로그램, 서비스, 활동 및 자료에서 차별을 금지합니다. (모든 금지 사유가 모든 프로그램에 적용되는 것은 아닙니다.)
----

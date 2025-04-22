@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension de l’OSU
-
 # Entretien et Maintenance des Outils de Jardin
 
 Les outils se détériorent avec le temps, l’humidité, la terre et la rouille. Un bon nettoyage et un entretien approprié, décrits ci-dessous, les garderont en bon état de fonctionnement et prolongeront leur durée de vie.
@@ -61,12 +59,3 @@ Voici quelques publications de l’OSU disponibles en ligne :
 - [Outils pratiques pour le potager](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Prenez soin de vos outils de jardin](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Affûter vos outils de jardin](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’assistance en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour des fiches et le calendrier des cours de l’Université en 10 Minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### L’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, du revenu provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, de représailles ou de toute activité antérieure relative aux droits civils. (Toutes ces bases ne s’appliquent pas à tous les programmes.)
----

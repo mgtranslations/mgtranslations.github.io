@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas 縣園藝達人協會 與 OSU 延伸園藝達人計畫合作並支持
-
 # 室內植物的照顧方式
 
 種植室內植物可以為你的家增添綠意。雖然有些室內植物非常容易養活，但所有植物都需要基本的照顧。植物在接近它們原生環境的環境中會生長得更好。在購買新植物之前，要先了解它們的基本需求，判斷你家是否適合種植，並且你是否能提供適當的照顧。
@@ -83,11 +81,3 @@
 - [多肉植物越來越受歡迎](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [色彩繽紛的室內植物是佳節禮物](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [簡單的室內香草讓料理更美味](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### 園藝達人建議 · 如需園藝達人建議，請聯繫你所在地區的 OSU 延伸辦公室。聯絡資訊請見：[https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us)。如需 10-Minute University™ 的講義和課程時間表，請造訪 [https://cmastergardeners.org](https://cmastergardeners.org)。
-
----
-
-##### 俄勒岡州立大學延伸服務禁止在其所有計畫、服務、活動和材料中基於種族、膚色、國籍、宗教、性別、性別認同（包括性別表現）、性取向、殘障、年齡、婚姻狀況、家庭/父母身份、公共救濟收入來源、政治理念、基因資訊、退伍軍人身份、過去民權活動的報復或報復進行任何歧視。（並非所有禁止的依據都適用於所有計畫。）

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien du Programme OSU Extension Master Gardener™
-
 # 10-Minute University
 
 ## Excellentes Sélections de Plantes : Conifères

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Cover Crops for Home Vegetable Gardens
 
 Cover crops cover and improve the soil. They may be planted in the fall to cover fallow areas or planted in the spring as part of crop rotation. Many plants, including legumes, grasses, and broadleaf perennials, serve this purpose.
@@ -75,9 +73,3 @@ Termination involves mowing or bending the stems to kill the top and laying them
     - Cover Crops for Home Gardens West of the Cascades FS111E
     - Cover Crops for Home Gardens East of the Cascades FS117E
     - Methods for Successful Cover Crop Management in Your Home Garden FS119E
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Visit [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) for 10-Minute University™ handouts and videos
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

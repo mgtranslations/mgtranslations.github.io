@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 ## Từ điển cây bản địa
 
 ### Cây bản địa
@@ -37,8 +35,3 @@ Là cây được tạo ra bằng cách lai chéo vật liệu di truyền từ 
 
 - Nhân giống sinh dưỡng được sử dụng để duy trì các đặc điểm mong muốn. Cây thường dễ bị "quay về dạng gốc", nghĩa là một phần hoặc toàn bộ cây trở lại hình dạng ban đầu.
 - **Ví dụ:** Hoa trà có đốm và sọc.
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động quyền công dân trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

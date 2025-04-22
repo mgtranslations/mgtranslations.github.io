@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Madaling Paraan ng Pagpuputol ng Halaman
 
 Ang handout na ito ay nakatuon sa mga puno at palumpong, at hindi muna tinatalakay ang mga taunang halaman, perennials, at ornamental na damo para sa susunod na talakayan.
@@ -103,12 +101,3 @@ Maaari lamang lumampas sa patakarang ito kung sobrang bilis lumaki ang halaman, 
   - *Cass Turnbull’s Guide to Pruning* ni Cass Turnbull
 - **10-Minute University™ Handouts:**
   - *Pagpuputol ng mga Puno at Palumpong* sa [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang pampamilya/pagiging magulang, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyong henetiko, katayuang beterano, paghihiganti, o ganting aksyon dahil sa nakaraang karapatan sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

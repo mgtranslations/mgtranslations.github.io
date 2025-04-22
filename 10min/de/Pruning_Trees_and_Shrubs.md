@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Bäume und Sträucher schneiden
 
 ### Gründe für das Schneiden
@@ -47,7 +45,6 @@ Bei blühenden Sträuchern sollte man so schneiden, dass die Blüte möglichst w
 - **Im Frühjahr blühende Sträucher** (Tabelle 1) blühen am Holz des Vorjahres; sie sollten direkt nach der Blüte geschnitten werden, um kräftiges Sommerwachstum zu fördern.
 - **Sträucher, die nach Juni blühen** (Tabelle 2), blühen aus Knospen, die an den neuen Trieben des laufenden Jahres gebildet werden; diese Sträucher schneidet man im späten Winter, um kräftiges Frühjahrwachstum zu fördern.
 
-#### Tabelle 1: Sträucher, die am Holz des Vorjahres blühen
 
 | Botanischer Name           | Deutscher Name                 |
 |----------------------------|-------------------------------|
@@ -70,7 +67,6 @@ Bei blühenden Sträuchern sollte man so schneiden, dass die Blüte möglichst w
 | Viburnum spp.              | Schneeball                     |
 | Weigela florida            | Weigelie                       |
 
-#### Tabelle 2: Sträucher, die am diesjährigen Holz blühen
 
 | Botanischer Name            | Deutscher Name                 |
 |-----------------------------|-------------------------------|
@@ -118,8 +114,3 @@ Beim Schneiden eines Baumes sollte man dicke, schwere Äste bündig mit dem Ansa
 - [Rosen schneiden](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Obstbaum schneiden](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Obstbaum erziehen](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Benachteiligung wegen früherer Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Merkmale gelten für alle Programme.)
----

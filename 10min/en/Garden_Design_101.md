@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Garden Design 101
 
 Good design is the foundation of a beautiful, healthy, and sustainable garden. A well-thought-out plan combines the elements of good design—line, form, texture, scent, and color—while incorporating the needs and wishes of the homeowner.
@@ -111,7 +109,6 @@ Good design is the foundation of a beautiful, healthy, and sustainable garden. A
 - Build combinations by surrounding them with complementary plants that bloom at the same time. This will strengthen the visual appeal of your garden.
 - In a small garden, too many colors can look chaotic. Pick a cool or a warm color scheme and choose the plants from your plant list.
 
-#### Principles of High-Impact Plant Combinations
 
 1. **Color Scheme**
 2. **Texture**
@@ -121,11 +118,3 @@ Good design is the foundation of a beautiful, healthy, and sustainable garden. A
 - For example, use foliage to bring color to your plantings such as green, blue, yellow, red, and gray variegated.
 - Use textures such as bold, spiky, smooth, feathery, and lacy to bring interest to your plantings.
 - Use forms such as mounding, spiked, and trailing to create contrast among your plantings.
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

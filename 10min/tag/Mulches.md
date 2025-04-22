@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Mulches: Ang Mabuti, Masama, at Talagang Pangit
 
 **Dr. Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Washington State University
 
 ### Mga Problema sa Magaspang na Kahoy na Mulch
 
-#### Bark Mulch
 
 - Maaaring may asin o buto ng damo ang bark mulch
 - Ang bark ay may wax na pumipigil sa pagsipsip at release ng tubig
 - Softwood bark mulch maaaring makasugat dahil sa matulis na hibla
 
-#### Arborist Wood Chips
 
 - May agam-agam sa mataas na carbon:nitrogen ratio – magkukulang ba sa nitrogen?
 - Maaaring maglipat ng sakit ang chips mula sa may sakit na kahoy?
 
-#### Nitrogen Availability
 
 - Wood chip mulch may mataas na C:N ratio, nagdudulot ng kakulangan ng nitrogen sa ibabaw ng lupa
 - Hindi nagdudulot ng nitrogen deficiency sa mga established na halaman
 - Mataas na C:N ratio pumipigil sa pagtubo ng ibang damo
 
-#### Fungal Pathogens at Wood Chips
 
 - Armillaria, Cytospora, Thyronectria at Verticillium nabubuhay sa malalaking piraso ng kahoy ng ilang buwan
 - Mas tumatagal kung hinahalo sa lupa ang chips
 - Walang ebidensya na ang sakit sa mulch ay nakakahawa sa ugat sa ilalim ng lupa
 
-#### Fungal Communities sa Wood Chips
 
 - Karamihan ng fungal species sa chips ay decomposer, hindi pathogen
 - Sa malusog (aerobic) na lupa, naungusan ng benepisyong fungi ang pathogenic fungi
@@ -230,12 +223,3 @@ Blog: http://www.gardenprofessors.com
 Mga Libro: http://www.sustainablelandscapesandgardens.com  
 Facebook page: http://www.facebook.com/TheGardenProfessors  
 Facebook group: https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa, estado ng pamilya/magulang, kita mula sa public assistance program, paniniwalang pampulitika, genetic information, status ng beterano, pagganti, o paghihiganti dahil sa dating activity sa civil rights. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

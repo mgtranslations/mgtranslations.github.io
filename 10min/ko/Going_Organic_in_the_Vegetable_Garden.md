@@ -1,5 +1,3 @@
-#### 10-Minute University™ · 클라카마스 카운티 마스터 가드너 협회, OSU 확장 마스터 가드너™ 프로그램과 협력 및 지원
-
 # 채소밭에서 유기농으로 가꾸기
 
 ### “유기농 원예”란 무엇인가요?
@@ -69,7 +67,6 @@
 
 [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu) 방문
 
-#### 마스터 가드너™ 상담
 
 - **원예 상담 전화:**
   - 503-655-8631 (클라카마스 카운티)
@@ -77,8 +74,3 @@
   - 503-445-4608 (멀트노마 카운티)
 - [www.metromastergardeners.org](http://www.metromastergardeners.org)에서 질문 제출하기
 - 클라카마스 마스터 가드너 웹사이트 [www.cmastergardeners.org](http://www.cmastergardeners.org)에서 10-Minute University™ 자료와 무료 강의 일정을 확인하세요.
-
----
-
-##### 오리건 주립대학교 확장 서비스는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부양 상태, 공공 지원 프로그램 소득, 정치적 신념, 유전 정보, 재향군인 신분, 과거 시민권 활동에 대한 보복 또는 보복 위협을 이유로 모든 프로그램, 서비스, 활동, 자료에서 차별을 금지합니다. (모든 금지 사유가 모든 프로그램에 적용되는 것은 아닙니다.)
----

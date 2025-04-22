@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 # Grandes Escolhas de Plantas: Arbustos
 
 *S: Jardim de Sombra, D: Planta Tolerante à Seca, W: Benefício para a Vida Selvagem: Pássaros, Abelhas, Borboletas, Beija-flores*

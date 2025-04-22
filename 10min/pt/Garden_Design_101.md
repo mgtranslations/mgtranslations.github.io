@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Jardineiros Mestres do Condado de Clackamas em colaboração com e em apoio ao Programa de Jardineiros Mestres da Extensão da OSU™
-
 # Design de Jardins 101
 
 Um bom design é a base de um jardim bonito, saudável e sustentável. Um plano bem pensado combina os elementos de um bom design—linha, forma, textura, aroma e cor—enquanto incorpora as necessidades e desejos do proprietário.
@@ -111,7 +109,6 @@ Um bom design é a base de um jardim bonito, saudável e sustentável. Um plano 
 - Crie combinações cercando-as de plantas que florescem ao mesmo tempo, fortalecendo o apelo visual do jardim.
 - Em jardins pequenos, muitas cores podem parecer confusas. Escolha um esquema de cores frias ou quentes e selecione as plantas da sua lista com base nisso.
 
-#### Princípios de Combinações de Plantas de Alto Impacto
 
 1. **Esquema de Cores**
 2. **Textura**
@@ -121,12 +118,3 @@ Um bom design é a base de um jardim bonito, saudável e sustentável. Um plano 
 - Por exemplo, use a folhagem para trazer cor ao plantio, como verde, azul, amarelo, vermelho e variegado em cinza.
 - Use texturas como marcante, pontiaguda, lisa, plumosa e rendada para trazer interesse ao plantio.
 - Use formas como arredondada, pontiaguda e rasteira para criar contraste entre as plantas.
-
----
-
-#### Dicas do Jardineiro Mestre™ · Ligue para o Disque Jardinagem: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Para mais folhetos e horários das aulas do 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status de família/pais, renda derivada de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

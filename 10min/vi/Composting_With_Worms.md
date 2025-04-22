@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Master Clackamas County phối hợp và hỗ trợ Chương trình Làm Vườn Master của OSU Extension
-
 # Ủ Phân Bằng Giun
 
 Một thùng nuôi giun là cách đơn giản để biến rác thực phẩm thành phân bón và cải tạo đất cho khu vườn của bạn. Giun đỏ là những “người tái chế” siêu khỏe, chúng có thể biến vỏ táo, cuống bí xanh và các loại rác nhà bếp khác thành phân bón chỉ trong vài tháng. Chỉ cần cung cấp cho chúng một nơi ở có sẵn chất lót và thức ăn, chúng sẽ bắt đầu làm việc.
@@ -32,7 +30,6 @@ Giun có thể ăn một nửa trọng lượng cơ thể của chúng trong vò
 
 Dù giun có thể phân hủy hầu hết các loại chất hữu cơ, tốt nhất chỉ nên cho chúng ăn đồ thực vật.
 
-#### Nên Cho Ăn:
 
 - Rau củ thừa
 - Bã cà phê & giấy lọc
@@ -43,7 +40,6 @@ Dù giun có thể phân hủy hầu hết các loại chất hữu cơ, tốt n
 - Lông động vật
 - Giấy vụn
 
-#### Không Nên Cho Ăn:
 
 - Thịt, cá, sản phẩm từ sữa
 - Đồ ăn nhiều dầu mỡ
@@ -73,7 +69,6 @@ Giun đỏ cần môi trường ẩm quanh năm vì chúng không đào sâu đ�
 
 ### Một Số Vấn Đề Thường Gặp & Cách Khắc Phục
 
-#### Mùi Hôi
 
 Bạn có thể kiểm soát mùi hôi bằng cách:
 
@@ -81,7 +76,6 @@ Bạn có thể kiểm soát mùi hôi bằng cách:
 - Không cho các loại rác đã ghi ở mục “Không Nên Cho Ăn”
 - Cung cấp đủ chất lót tươi mới
 
-#### Côn Trùng Gây Hại
 
 - **Ruồi giấm**: Đôi khi ruồi giấm nhỏ (dễ nhầm với ruồi trái cây) xuất hiện, nhưng chúng không gây hại. Tuy nhiên, nếu số lượng quá nhiều, có thể bạn đã cho giun ăn quá nhiều. Để loại bỏ ruồi giấm:
   - Giảm lượng thức ăn, chỉ cho vừa đủ để giun ăn hết trong một ngày.
@@ -104,12 +98,3 @@ Bạn có thể kiểm soát mùi hôi bằng cách:
   [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Giun Ăn Rác Của Tôi** (Worms Eat My Garbage), Mary Appelhof, Ấn bản thứ hai
 - **Chào Mừng Đến Với Thùng Giun** (Welcome to the Can-O-Worms), N. Nattrass
-
----
-
-#### Tư Vấn Master Gardener™ · Gọi đường dây hỗ trợ làm vườn: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Để xem thêm tài liệu và lịch lớp Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động, tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm thể hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình, nguồn thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, bị trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các lý do bị cấm đều áp dụng cho mọi chương trình.)
----

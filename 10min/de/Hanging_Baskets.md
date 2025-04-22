@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Hängende Blumenkörbe
 
 ### Überblick
@@ -61,7 +59,6 @@ Um alles gepflegt aussehen zu lassen, entferne mindestens einmal pro Woche verwe
 
 Viele Pflanzen eignen sich für saisonale hängende Blumenkörbe. Die hier genannten sind nur einige von vielen Möglichkeiten. Beachte, dass manche Pflanzen sowohl für Sonne als auch für Schatten geeignet sind.
 
-#### Aufrechte Pflanzen für Sonne
 
 - Angelonia
 - Cordyline
@@ -71,7 +68,6 @@ Viele Pflanzen eignen sich für saisonale hängende Blumenkörbe. Die hier genan
 - Geranie
 - Ziergräser
 
-#### Aufrechte Pflanzen für Schatten
 
 - Heliotrop
 - Schatten-Koleus
@@ -82,7 +78,6 @@ Viele Pflanzen eignen sich für saisonale hängende Blumenkörbe. Die hier genan
 - Neu-Guinea-Fleißiges Lieschen
 - Knollenbegonie
 
-#### Buschige Pflanzen für Sonne
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ Viele Pflanzen eignen sich für saisonale hängende Blumenkörbe. Die hier genan
 - Petunie 'Fantasy'
 - Faserige Begonie
 
-#### Buschige Pflanzen für Schatten
 
 - Geranie
 - Nemesia
@@ -99,7 +93,6 @@ Viele Pflanzen eignen sich für saisonale hängende Blumenkörbe. Die hier genan
 - Fleißiges Lieschen
 - Aufrechte Lobelie
 
-#### Hängende Pflanzen für Sonne
 
 - Anagallis
 - Alyssum
@@ -111,7 +104,6 @@ Viele Pflanzen eignen sich für saisonale hängende Blumenkörbe. Die hier genan
 - Taubnessel
 - Lakritzpflanze
 
-#### Hängende Pflanzen für Schatten
 
 - Lotusrebe
 - Million Bells
@@ -134,15 +126,9 @@ Es gibt so viele Bücher über hängende Blumenkörbe, dass es schwerfällt, nur
 - *Gardening in Containers* (Sunset)
 - *Pots in the Garden* von Ray Rogers
 
-#### Master Gardener™ Rat
 
 - **Ruf die Home Horticulture Helpline an:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Für weitere 10-Minuten-Universität™-Handouts und den Stundenplan besuche [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Beratungsdienst der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle ausgeschlossenen Gründe gelten für alle Programme.)
----

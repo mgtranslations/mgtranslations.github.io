@@ -116,5 +116,3 @@ Source originale :
 
 - [Paillis : le bon, le mauvais et le vraiment, vraiment affreux. – Linda Chalker-Scott, PhD, WSU](Mulches.md)
 - [Classification et taille des clématites – Linda Beutler](Clematis.md)
-
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Pagtatanim ng Magaganda at Masarap na Halaman sa Paso
 
 ### Pangkalahatang-ideya
@@ -44,7 +42,6 @@ Isaalang-alang ang mga halaman na may iba-ibang taas at kulay. Mahalaga ang mara
 
 ### Disenyo
 
-#### Thriller, Filler, at Spiller na Disenyo
 
 - **Thriller**: Pinakamalaki at pinakapansin-pansing halaman sa paso, kadalasan nasa gitna (kung makikita mula sa lahat ng anggulo) o sa likod (kung mula sa isang gilid lang titingnan). Ang Thriller ay nagbibigay ng taas at vertical na elemento.
   - Halimbawa: Pepper plant, teepee ng climbing beans, blueberry bush, tomato plant, o matangkad na Russian kale para sa mas maliit na paso.
@@ -79,10 +76,3 @@ Karamihan sa mga nakalistang halaman dito ay magdadaan sa mga yugto ng buhay—d
 - **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
 - **10-Minute University™ mga handout at video**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Master Gardener™ na Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Para sa iba pang 10-Minute University™ na handout at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa o pamilya, kita mula sa public assistance program, paniniwalang politikal, impormasyon sa genes, status bilang beterano, at pagganti sa dating sumbong ukol sa civil rights. (Hindi lahat ng basehan ng pagbabawal ay naaangkop sa lahat ng programa.)
----

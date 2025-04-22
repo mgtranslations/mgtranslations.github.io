@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Pagsusulong ng Organikong Pagtatanim ng Gulay
 
 ### Ano ang “Organikong Pagtatanim”?
@@ -69,7 +67,6 @@ Ang pagdagdag ng compost sa lupa ay nagpapaganda ng estraktura at pangmatagalang
 
 Bisitahin ang [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 
-#### Para sa Payong Master Gardener™
 
 - **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
@@ -77,8 +74,3 @@ Bisitahin ang [https://catalog.extension.oregonstate.edu](https://catalog.extens
   - 503-445-4608 (Multnomah County)
 - Magpadala ng tanong sa [www.metromastergardeners.org](http://www.metromastergardeners.org)
 - Bisitahin ang website ng Clackamas Chapter Master Gardeners [www.cmastergardeners.org](http://www.cmastergardeners.org) para sa 10-Minute University™ na handouts at iskedyul ng mga libreng klase.
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, kalagayan ng pamilya/magulang, kita mula sa programa ng pampublikong tulong, paniniwalang pampulitika, impormasyon sa genetika, katayuang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Gia OSU Extension Master Gardener™
-
 # Bảo Dưỡng Vườn Mùa Thu
 
 ### Tổng Quan
@@ -76,10 +74,3 @@ Mùa thu là thời điểm tốt để trồng thêm cây mới, di chuyển ho
 
 - **Dịch vụ Khuyến nông Đại học Bang Oregon:**  
   [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
-
-#### Tư vấn Làm Vườn Chuyên Gia™ · Gọi Đường Dây Tư Vấn Làm Vườn Tại Nhà: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Để xem tài liệu Đại học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org) · Tìm các chuyên gia làm vườn tại các chợ nông sản khu vực.
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm mọi hành vi phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, xuất xứ, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả thù vì hoạt động quyền dân sự trước đây. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho mọi chương trình.)
----

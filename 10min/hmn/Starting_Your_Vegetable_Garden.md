@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
-
 # Pib Koj Lub Vaj Zaub
 
 ### Yuav Cog Dab Tsi
@@ -38,7 +36,6 @@ Kev sim av qhia cov tshuaj muaj nyob hauv koj av thiab yam yuav tsum ntxiv. Cov 
 
 Av thiab cua kub txiav txim siab thaum twg yuav cog.
 
-#### Kub Av
 
 Kub av (°F) tsawg kawg uas yuav tsum muaj rau tej zaub nrov:
 
@@ -49,7 +46,6 @@ Kub av (°F) tsawg kawg uas yuav tsum muaj rau tej zaub nrov:
 - Eggplant/Kua txob/Lws suav: 55°F
 - Basil: 60°F
 
-#### Kub Cua
 
 Kub cua zoo tshaj (°F) rau tej zaub nrov:
 
@@ -60,12 +56,10 @@ Kub cua zoo tshaj (°F) rau tej zaub nrov:
 
 Yog koj tseb peas thaum xaus caij ntuj no, lawv yuav pib cog tau, tab sis lawv yuav tsis loj hlob zoo txog thaum cua sov dua.
 
-#### Zaub Caij Luv vs. Zaub Caij Ntev
 
 - **Zaub caij luv:** Loj hlob tiav hauv 50 hnub los sis tsawg dua. Koj tseb noob ncaj qha tau thiab tseem muaj txiaj ntsig zoo.
 - **Zaub caij ntev:** Xws li lws suav, loj hlob tiav hauv 75–90 hnub. Tus neeg cog yuav tsum ua sai kom sau tau ua ntej nag poob thiab hmo ntuj txias tuaj txog.
 
-#### Paj Ntsuab (Transplants)
 
 Paj ntsuab, yuav ntawm khw muag paj los sis pib ntawm koj lub tsev iav, pab kom koj pib tau ua ntej.
 
@@ -81,19 +75,15 @@ Feem coob zaub yog cog ib xyoos ib zaug thiab xav kom muaj tshuaj txaus kom loj 
   - Txiv hmab txiv ntoo thiab paj: Xav kom muaj phosphorus (P) ntau dua.
   - Cag: Xav kom muaj potassium (K) ntau dua.
 
-#### Cov Zaub Noj Tshuaj Ntau
 
 Beet, collard, kale, xas lav, parsley, spinach, thiab lws suav yuav xav kom muaj tshuaj ntau dua.
 
-#### Cov Zaub Noj Tshuaj Tsawg
 
 Carrot, qej, kua txob, chard, mustard yuav xav tau tshuaj nyob nruab nrab.
 
-#### Cov Zaub Ntoo Nitrogen
 
 Taum, peas, soybean, thiab clover nqus nitrogen hauv huab cua thiab feem ntau loj hlob zoo tsis tas siv tshuaj.
 
-#### Tshuaj Ua Los Ntawm Organic
 
 Ntxiv ob peb hlis ua ntej cog kom tau txiaj ntsig zoo tshaj. Piv txwv:
 
@@ -110,7 +100,6 @@ Muab dej kom thaj tsam cag av noo sib npaug. Khawb mus rau 6 txog 8 nti tom qab 
 - **Drip system:** Muab dej ncaj rau cag thiab zoo dua li muab dej rau saum nplooj av, uas ua rau nplooj av ntub thiab yuav ua rau mob.
 - **Muab dej saum nplooj av:** Tsis txhob ua rau dej tawg, thiab tsis txhob muab dej lig thaum tav su. Muab dej thaum ntxov kom dej tsis ploj sai.
 
-#### Theem Muab Dej Tseem Ceeb
 
 Saib xyuas zoo thaum txog theem tseem ceeb ntawm koj cov zaub:
 
@@ -124,8 +113,3 @@ Saib xyuas zoo thaum txog theem tseem ceeb ntawm koj cov zaub:
 
 - [EM 9027 Growing Your Own](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Vegetable Gardening in Oregon](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub tsim txom los sis cais tawm hauv txhua txoj haujlwm, kev pab, kev ua, thiab ntaub ntawv vim haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, tub los ntxhais, tus kheej kev qhia (suav nrog kev qhia tus kheej), kev sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, status hauv tsev neeg, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, qub tub rog, lossis kev raug mob/daws txim vim tau tiv thaiv txoj cai. (Tsis yog txhua qhov kev txwv siv rau txhua qhov kev pab.)
----

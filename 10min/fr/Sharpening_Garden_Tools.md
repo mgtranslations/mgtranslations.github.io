@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Aiguiser les outils de jardin
 
 ### Introduction
@@ -23,7 +21,6 @@ Il n’est pas nécessaire de démonter l’outil à chaque aiguisage ; cependan
 
 ### Comment aiguiser
 
-#### 1. Déterminez quelle surface doit être aiguisée
 
 | Outil               | Nombre de lames à aiguiser   | Côtés de la lame à aiguiser              |
 |---------------------|-----------------------------|------------------------------------------|
@@ -35,15 +32,12 @@ Il n’est pas nécessaire de démonter l’outil à chaque aiguisage ; cependan
 | Pioche, hache, etc. | Une                         | Les deux                                 |
 | Fourche à foin      | Plusieurs                   | Chaque dent doit être aiguisée en pointe émoussée |
 
-#### 2. Nettoyez les outils
 
 Enlevez la terre et la sève pour nettoyer chaque outil, réalignez les dents des fourches et vérifiez la lime pour voir si des résidus sont coincés entre les dents. Si c’est le cas, nettoyez la lime avec la brosse à lime, en la passant dans le sens des dents. Pour une lime à double coupe, passez la brosse dans le sens de chaque angle. **NE PAS** utiliser de savon ou d’eau sur une lime.
 
-#### 3. Utilisez un étau pour stabiliser l’outil
 
 Placez votre outil dans l’étau sur la partie la plus plate de la base de la lame. Si vous serrez l’étau au mauvais endroit, vous risquez de tordre votre outil de taille.
 
-#### 4. Définissez l’angle d’aiguisage
 
 Un angle d’aiguisage de 20° à 25° est idéal. Pour le déterminer :
 
@@ -51,7 +45,6 @@ Un angle d’aiguisage de 20° à 25° est idéal. Pour le déterminer :
 - Abaissez la lime de moitié vers la lame, créant un angle de 45 degrés.
 - Abaissez-la encore de moitié. Vous obtenez alors environ 22,5 degrés, ce qui est parfait pour aiguiser.
 
-#### 5. Commencez à aiguiser
 
 - Chaque passage de lime doit être parallèle à la lame et couvrir toute sa longueur.
 - Appuyez de façon régulière de la pointe à la base et seulement lors du mouvement avant.
@@ -60,7 +53,6 @@ Un angle d’aiguisage de 20° à 25° est idéal. Pour le déterminer :
 
 > **Remarque :** Si vos coupe-branches sont déréglés, vous verrez du métal brillant à la base de la lame enclume ; cela veut dire que la lame coupe trop près, voire dans l’enclume. Réajustez immédiatement les lames.
 
-#### 6. Finitions
 
 Pour les lames en acier dur, utilisez une pierre à aiguiser carborundum de grain moyen à la fin de l’aiguisage. Si vous avez des lames Felco, ARS ou autres en acier dur, vous pouvez aussi finir avec une pierre diamantée fine ou une pierre céramique ultra-fine. Cette étape ne demande qu’un ou deux passages.
 
@@ -76,10 +68,3 @@ Pour les lames en acier dur, utilisez une pierre à aiguiser carborundum de grai
 - [Outils pratiques pour le potager](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Prenez soin de vos outils de jardin](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Aiguiser vos outils de jardin](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’assistance horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit la discrimination dans tous ses programmes, services, activités et supports sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus issus d’un programme d’aide publique, les croyances politiques, les informations génétiques, le statut de vétéran, les représailles ou les sanctions pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

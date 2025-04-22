@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da OSU Extension
-
 # Compostagem com Minhocas
 
 Uma caixa de minhocas é uma maneira fácil de transformar restos de comida em fertilizante e adubos para o seu jardim. As minhocas californianas são recicladoras vorazes que transformam cascas de maçã, talos de abobrinha e outros restos de cozinha em apenas alguns meses. Dê a elas uma casa com cama e comida, e elas vão trabalhar para você.
@@ -32,7 +30,6 @@ As minhocas podem comer metade do seu peso em comida a cada 24 horas. Estime o p
 
 Embora as minhocas possam decompor quase qualquer resíduo orgânico, o melhor é tratá-las como vegetarianas.
 
-#### Pode alimentar com:
 
 - Restos de verduras e legumes
 - Borra de café e filtros de papel
@@ -43,7 +40,6 @@ Embora as minhocas possam decompor quase qualquer resíduo orgânico, o melhor �
 - Pelos de animais
 - Papel picado
 
-#### Não alimente com:
 
 - Carnes, peixes, laticínios
 - Comidas gordurosas ou oleosas
@@ -73,7 +69,6 @@ As minhocas californianas precisam de umidade o ano todo porque não escavam fun
 
 ### Problemas Possíveis e Soluções
 
-#### Mau Cheiro
 
 Você pode controlar odores:
 
@@ -81,7 +76,6 @@ Você pode controlar odores:
 - Mantendo fora da caixa os itens listados em “Não alimente com” na seção “Alimento para Minhocas”
 - Fornecendo cama fresca suficiente
 
-#### Pragas
 
 - **Mosquinhas do vinagre**: Às vezes, pequenas mosquinhas do vinagre (parecidas com moscas de fruta) aparecem, mas não fazem mal. Porém, muitas mosquinhas podem indicar excesso de comida. Para eliminá-las:
   - Reduza a quantidade de comida para o que as minhocas consomem em um dia.
@@ -104,12 +98,3 @@ Você pode controlar odores:
   [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Minhocas Comem Meu Lixo**, Mary Appelhof, Segunda Edição
 - **Bem-vindo ao Can-O-Worms**, N. Nattrass
-
----
-
-#### Dicas do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos da Universidade de 10 Minutos™ e horários de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, condição de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

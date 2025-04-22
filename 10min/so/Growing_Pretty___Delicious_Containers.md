@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ · Ururka Beeraleyda Khubaro ee Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Koritaanka Weelasha Quruxda Badan iyo Macaan
 
 ### Dulmar
@@ -44,7 +42,6 @@ Tixgeli dhir leh dherer kala duwan iyo midab khudaar oo firfircoon. Waa muhiim i
 
 ### Naqshad
 
-#### Qaab-dhismeedka Thriller, Filler, iyo Spiller
 
 - **Thriller**: Waa dhirta ugu weyn uguna soo jiidashada badan ee weelka, badanaa la dhigaa bartamaha (haddii weelka laga eegayo dhammaan dhinacyada) ama gadaasha (haddii hal dhinac laga eegayo). Thriller-ku wuxuu weelka siiyaa muuqaal toosan oo xooggan.
   - Tusaale: Geedka basbaaska, tiir digir fuusha, geedka blueberries, geed yaanyo, ama kaal Ruush ah oo dherer leh weelasha yar-yar.
@@ -79,11 +76,3 @@ Inta badan dhirta halkan ku xusan waxay mari doonaan marxalado kala duwan: calee
 - **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
 - **Warqadaha iyo muuqaallada Jaamacadda 10-daqiiqo™**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Talo Beeraley Khabiir ah™ · Wac Khadka Gargaarka Beerta Guriga: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Wixii warqado iyo jadwal fasallo dheeraad ah ee Jaamacadda 10-daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucaysaa takoorka barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimo, dakhli laga helo barnaamij gargaar ah, aaminsanaanta siyaasadda, xogta hidda-socodka, xaaladda ciidanimada, aargoosiga ama falcelinta waxyeellada xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay lama dabaqo dhammaan barnaamijyada.)
-
----

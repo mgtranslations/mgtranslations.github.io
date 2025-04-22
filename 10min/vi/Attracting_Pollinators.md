@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm Vườn Chuyên Gia OSU Extension Master Gardener™
-
 ## Thu Hút Các Loài Thụ Phấn Đến Vườn Của Bạn
 
 ### Sự Thụ Phấn & Các Loài Thụ Phấn
@@ -12,15 +10,12 @@ Các loài thụ phấn phổ biến bao gồm chim, ong, bướm, bướm đêm
 
 ### Những Mối Đe Dọa Gần Đây Đối Với Các Loài Thụ Phấn
 
-#### Mất Môi Trường Sống
 
 Khi môi trường sống của động vật hoang dã bị chuyển đổi sang mục đích khác, nguồn thức ăn và nơi ở của các loài thụ phấn cũng bị phá hủy.
 
-#### Thuốc Bảo Vệ Thực Vật
 
 Ong, bướm và hầu hết các loài côn trùng khác đều nhạy cảm với thuốc bảo vệ thực vật. Tiếp xúc với thuốc có thể giết chết hoặc dần làm suy yếu khả năng bay, kiếm ăn và sinh sản của chúng.
 
-#### Loài Xâm Lấn
 
 Một số loài thực vật được du nhập có thể lấn át khu vực tự nhiên và loại bỏ các loài thực vật bản địa vốn cung cấp nguồn thức ăn và nơi sống đa dạng cho các loài thụ phấn bản địa. Xem *Loài Xâm Lấn: Điều Người Làm Vườn Cần Biết* để biết thêm thông tin.
 
@@ -28,13 +23,11 @@ Một số loài thực vật được du nhập có thể lấn át khu vực t
 
 ### Cách Hỗ Trợ Các Loài Thụ Phấn
 
-#### Cung Cấp Thức Ăn Bằng Các Loài Cây Ra Hoa Từ Mùa Xuân Đến Mùa Thu
 
 Hoa cung cấp mật (đường) và phấn hoa (chất đạm) cho các loài thụ phấn và con non của chúng. Vì mỗi loài thụ phấn có thể có sở thích thức ăn khác nhau, nên sự đa dạng rất quan trọng. Nghiên cứu gần đây cho thấy khu vực có từ 15 loài cây hoa trở lên sẽ tăng đa dạng loài ong.
 
 Những người làm vườn muốn bảo tồn loài ong nên cố gắng trồng tối thiểu ba loài cây hoa nở cùng lúc trong suốt từ mùa xuân đến mùa thu. Trồng các loại hoa cùng loại gần nhau để thu hút sự chú ý của các loài thụ phấn đi ngang.
 
-#### Đặc Điểm Chung Của Hoa Dành Cho Các Loài Thụ Phấn
 
 | Loài hoa     | Ong                               | Bướm                     | Chim                         | Ruồi                                  |
 |--------------|-----------------------------------|--------------------------|------------------------------|----------------------------------------|
@@ -47,19 +40,15 @@ Những người làm vườn muốn bảo tồn loài ong nên cố gắng tr�
 
 Nên trồng các loài cây nở vào mùa xuân để ong bản địa sớm có nguồn thức ăn khi vừa ra khỏi trạng thái ngủ đông. Hãy trồng thêm cây nở cuối hè để cung cấp năng lượng cho những loài ong trưởng thành qua đông (ví dụ: ong nghệ). *Cây Dành Cho Các Loài Thụ Phấn*, tài liệu của Đại học 10 Phút™, cung cấp nhiều ý tưởng hữu ích.
 
-#### Cung Cấp Nơi Làm Tổ Cho Ong Bản Địa
 
 Nhiều loài ong bản địa làm tổ dưới đất. Một mảng đất trống hoặc bãi cỏ khô trồng thưa là môi trường lý tưởng. Phủ đất bằng màng nhựa hoặc xới đất thường xuyên có thể phá hủy tổ ong. Một số loài ong khác làm tổ trong lỗ của bọ cánh cứng bỏ lại trên thân cây chết hoặc đống cành khô. Khu vực làm tổ lý tưởng là nơi khô, ấm, được bảo vệ khỏi kẻ săn mồi và gần nguồn thức ăn.
 
-#### Cung Cấp Cây Chủ Cho Bướm Và Bướm Đêm
 
 Bướm và bướm đêm trưởng thành thường thích hút mật, nhưng ấu trùng của chúng lại ăn lá cây. Cây chủ là nơi con trưởng thành đẻ trứng. Các loại cây cảnh và cây bụi bản địa thường là cây chủ tuyệt vời cho nhiều loài.
 
-#### Sử Dụng Kết Hợp Cây Bản Địa Và Ngoại Lai
 
 Cây bản địa là cây chủ lý tưởng cho bướm, bướm đêm và cũng cung cấp thức ăn cho các loài thụ phấn khác. Tuy nhiên, người làm vườn thích cây ngoại lai, đặc biệt là các loại hoa hàng năm nhiều hoa và cây lâu năm nhỏ, cũng không nên ngần ngại sử dụng để kéo dài mùa hoa trong vườn.
 
-#### Tránh Sử Dụng Thuốc Bảo Vệ Thực Vật
 
 Khi cây có dấu hiệu bất thường, hãy thu thập bằng chứng để chẩn đoán đúng bệnh. Hiểu vấn đề là điều kiện tiên quyết để có biện pháp xử lý hiệu quả. Nhiều vấn đề của cây, nếu phát hiện sớm, có thể xử lý bằng biện pháp không hóa chất. Hãy quan sát kỹ vườn của bạn.
 
@@ -92,12 +81,3 @@ Nếu bắt buộc phải dùng thuốc, hãy tuân thủ hướng dẫn sử d�
 
 - **Những Loài Hoa Tốt Nhất Cho Ong**  
   [Xem trên YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)
-
----
-
-#### Tư Vấn Làm Vườn Chuyên Gia™ · Gọi Đường Dây Hỗ Trợ Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem các tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon · Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm cả biểu hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì những hoạt động dân quyền trước đây. (Không phải tất cả các yếu tố cấm áp dụng cho mọi chương trình.)
----

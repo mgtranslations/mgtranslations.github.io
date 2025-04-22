@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Container Planting
 
 ### Overview
@@ -73,7 +71,3 @@ The fertilizer elements in a container are flushed out of the pot each time you 
   - 503-445-4608 (Multnomah County)
 - [Container Planting Video](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
 - For more 10-Minute University™ handouts and videos, visit [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs).

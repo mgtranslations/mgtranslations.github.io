@@ -1,5 +1,3 @@
-#### Université de 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme Maître Jardinier™ de l’Extension de l’OSU
-
 # Insectes utiles au jardin familial
 
 ### Aperçu
@@ -72,12 +70,3 @@ La gestion intégrée des ravageurs (GIR) est une approche complète et systéma
   [Visitez ici](https://www.cmastergardeners.org)
 - *Le comté de Clark, Washington présente Insectes et Ravageurs*  
   [En savoir plus ici](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches Université de 10 Minutes™ et le calendrier des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit la discrimination dans tous ses programmes, services, activités et documents, en raison de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression du genre), l’orientation sexuelle, le handicap, l’âge, le statut marital, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les mesures prises pour des activités antérieures de droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

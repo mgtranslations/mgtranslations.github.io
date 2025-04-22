@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Gärtnern mit Mulchen
 
 Mulch ist eine Schicht aus Material, die auf die Bodenoberfläche aufgebracht wird, um einen oder mehrere der folgenden Vorteile zu erzielen:
@@ -53,23 +51,19 @@ Plastikmulch wird häufig verwendet, um Unkraut zu unterdrücken oder den Boden 
 
 ### Wie man Plastikmulch verwendet
 
-#### Zur Unkrautunterdrückung
 
 1. Legen Sie schwarzen Plastikmulch nach der Bodenvorbereitung zum Säen oder Pflanzen und nachdem die Bewässerung verlegt wurde aus.
 2. Beschweren Sie die Ränder mit Erde.
 3. Setzen Sie Samen oder Jungpflanzen durch einen X-förmigen Schnitt im Plastik.
 4. Verwenden Sie perforierte Folie oder machen Sie Löcher mit einem Eispickel, damit Wasser durchdringen kann.
 
-#### Zur Bodenerwärmung
 
 - **Klare oder durchscheinende Folie**: Erwärmt den Boden am effektivsten, kann aber auch wie ein „Gewächshaus“ für Unkraut wirken.
 - **Schwarze Folie**: Erwärmt den Boden weniger stark, unterdrückt aber Unkraut.
 
-#### Um den Boden trocken zu halten
 
 Bedecken Sie das Beet im Winter mit schwarzer Plastikfolie, damit es für die frühe Frühjahrsbepflanzung trocken bleibt. Beschweren Sie die Ränder, damit der Mulch nicht zu einem Gewächshaus für Unkraut oder einem Versteck für Schädlinge wird.
 
-#### Um das Wachstum und die Reife wärmeliebender Pflanzen zu beschleunigen
 
 Tomaten, Paprika, Melonen, Erdbeeren und andere wärmeliebende Pflanzen wurden untersucht, um die Wirkung verschiedenfarbiger Plastikmulche auf Wachstum, Reife und Ertrag zu bestimmen.
 
@@ -81,10 +75,3 @@ Tomaten, Paprika, Melonen, Erdbeeren und andere wärmeliebende Pflanzen wurden u
 ## Weitere Ressourcen
 
 - **OSU Extension Service Publikation**: [Mulching Woody Ornamentals with Organic Materials](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Master-Gardener™-Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfeprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

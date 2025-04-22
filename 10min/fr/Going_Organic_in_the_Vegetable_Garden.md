@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Passer au Bio dans le Potager
 
 ### Qu’est-ce que le “Jardinage Biologique” ?
@@ -69,7 +67,6 @@ Ajouter du compost au sol améliore sa structure et sa santé sur le long terme.
 
 Visitez [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 
-#### Pour des Conseils de Maîtres Jardiniers™
 
 - **Appelez la ligne d’aide en horticulture domestique :**
   - 503-655-8631 (Comté de Clackamas)
@@ -77,8 +74,3 @@ Visitez [https://catalog.extension.oregonstate.edu](https://catalog.extension.or
   - 503-445-4608 (Comté de Multnomah)
 - Posez une question sur [www.metromastergardeners.org](http://www.metromastergardeners.org)
 - Visitez le site des Maîtres Jardiniers du chapitre de Clackamas [www.cmastergardeners.org](http://www.cmastergardeners.org) pour les fiches 10-Minute University™ et le calendrier des cours gratuits.
-
----
-
-##### L’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial ou parental, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou des mesures de rétorsion pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

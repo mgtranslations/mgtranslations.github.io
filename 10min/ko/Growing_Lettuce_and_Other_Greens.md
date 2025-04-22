@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas 카운티 마스터 가드너 협회는 OSU Extension Master Gardener™ 프로그램과 협력하여 지원합니다
-
 # 상추 및 기타 잎채소 재배하기
 
 ### 개요
@@ -121,12 +119,3 @@
 - [직접 화단용 클로쉬 만들기 (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [퇴비, 멀치, 덮개를 활용한 원예 (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [지속 가능한 원예 핸드북 (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### 마스터 가드너™ 상담 · 가정 원예 헬프라인: 503-655-8631 (Clackamas 카운티) · 503-821-1150 (Washington 카운티) · 503-445-4608 (Multnomah 카운티) · 기타 10-Minute University™ 안내자료 및 수업 일정은 [www.cmastergardeners.org](https://www.cmastergardeners.org)에서 확인하세요
-
----
-
-##### 오리건 주립대학교 Extension Service는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부모 상태, 공공 지원금 수입, 정치적 신념, 유전 정보, 군 복무 여부, 이전 시민권 활동에 대한 보복 등 모든 프로그램, 서비스, 활동 및 자료에서 차별을 금지합니다. (모든 프로그램에 모든 차별 금지 사유가 적용되는 것은 아닙니다.)
----

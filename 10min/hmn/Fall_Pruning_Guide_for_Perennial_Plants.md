@@ -1,5 +1,3 @@
-#### Phau Ntawv Qhia Txiav Nroj Tsuag Nyoos Rau Lub Caij Nplooj Ntoos Qab Zib · Tsim los ntawm Laura Eyer · 10/9/2018
-
 ## Txiav
 
 - Bearded Iris
@@ -43,7 +41,6 @@
 
 ## Cia Ua Rau Qhov Chaw
 
-#### Tsim los ntawm Laura Eyer · 10/9/2018
 
 - Artemisia
 - Aster
@@ -89,4 +86,3 @@
 - Valerian (*Centranthus ruber*)
 - Wand Flower (*Guara sp.*)
 - Willow Amsonia (*Amsonia tabernaemontana*)
----

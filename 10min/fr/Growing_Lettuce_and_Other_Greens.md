@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien avec le programme OSU Extension Master Gardener™
-
 # Faire pousser de la laitue et d’autres légumes-feuilles
 
 ### Aperçu
@@ -121,12 +119,3 @@ Le sol humide et ombragé sous les laitues et leurs feuilles tendres créent un 
 - [Comment fabriquer votre propre cloche de plate-bande surélevée (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [Jardiner avec composts, paillis et voiles de protection (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [Manuel du jardinage durable (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### Conseils Master Gardener™ · Appelez la ligne d’aide en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches 10-Minute University™ et le calendrier des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### L’Oregon State University Extension Service interdit toute discrimination dans ses programmes, services, activités et documents, en raison de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris l’expression de genre), orientation sexuelle, handicap, âge, état civil, situation familiale/parentale, revenu provenant d’un programme d’aide publique, opinions politiques, informations génétiques, statut d’ancien combattant, représailles ou mesures de rétorsion liées à une activité antérieure en matière de droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Bewässerungstipps
 
 ### Theorie & Techniken
@@ -33,13 +31,11 @@
 
 ### Unwirksames Gießen
 
-#### Anzeichen für Überwässerung
 
 - Gelbe oder fleckige Blätter
 - Blätter werden hellgrün oder gelb und fallen dann ab
 - Pflanzen wachsen schlecht, und dünne Stängel knicken um
 
-#### Anzeichen für Unterwässerung
 
 - Gelbe oder fleckige Blätter
 - Blätter sehen stumpf, etwas gräulich aus und glänzen nicht
@@ -54,22 +50,18 @@ Egal, welche Methode Sie bevorzugen: Prüfen Sie die Bodenfeuchte einige Stunden
 
 - Blumen und Gemüse: 30–38 cm tief
 
-#### Überkopf-Bewässerung
 
 - Überkopf-Bewässerung von Bäumen und Sträuchern (mit Sprinkler oder von Hand) kann Pilz- und Bakterienkrankheiten wie Apfelschorf, Rost und Schwarzfleckenkrankheit bei Rosen fördern.
 - Gießen Sie früh am Tag, damit die Blätter vor dem Abend abtrocknen.
 
-#### Handbewässerung
 
 - Beim Gießen von Hand kann mehr Wasser aufgetragen werden, als der Boden aufnehmen kann – es kommt zu Abfluss.
 
-#### Sprinkler
 
 - Sprinkler verteilen Wasser oft dort, wo es nicht gebraucht wird, und geben meist mehr Wasser ab, als in den Boden einsickern kann.
 - Verwenden Sie Sprinkler, die nur den Garten abdecken, nicht die Umgebung.
 - Verringern Sie Verdunstungsverluste, indem Sie zu kühlen, windstillen Zeiten gießen (abends bis morgens).
 
-#### Tropfbewässerung und Niedrigdrucksysteme
 
 - **Vorteile:**
   - Bringen Feuchtigkeit direkt in die Wurzelzone und geben sie über die Saison gleichmäßig ab.
@@ -98,15 +90,9 @@ Egal, welche Methode Sie bevorzugen: Prüfen Sie die Bodenfeuchte einige Stunden
   - [Schlüssel zu wassersparenden Gärten, EM 9134](https://catalog.extension.oregonstate.edu/)
   - [Gartenpflege zur Wassereinsparung, EM 9135](https://catalog.extension.oregonstate.edu/)
 
-#### Master Gardener™ Beratung
 
 - **Anrufen beim Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Weitere 10-Minuten-Universität™ Merkblätter und Kurspläne finden Sie unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-#### Oregon State University Extension Service · Der Oregon State University Extension Service untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien auf Grund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich -ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

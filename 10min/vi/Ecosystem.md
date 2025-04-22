@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Gia của OSU Extension
-
 ## Làm Vườn Chống Chịu Biến Đổi Khí Hậu Hơn: Hệ Sinh Thái
 
 Trái Đất đang trải qua xu hướng ấm lên dẫn đến băng tan, mực nước biển dâng, độ axit của đại dương tăng, và các đợt hạn hán, lũ lụt ngày càng thường xuyên và nghiêm trọng hơn. Khu vực Tây Bắc Thái Bình Dương đã chứng kiến hạn hán kéo dài, số vụ cháy rừng tăng cả về tần suất và mức độ nghiêm trọng, các đợt nắng nóng, bùng phát côn trùng và bệnh trên cây. Tuyết tan sớm làm lượng nước đỉnh trong sông, suối đến sớm hơn và nguồn nước bị giảm. Ngoài những xu hướng này, biến đổi khí hậu còn mang đến những hiện tượng thời tiết cực đoan, thất thường (nắng nóng, mưa lớn) với tần suất nhiều hơn.  
@@ -75,8 +73,3 @@ Một số sinh vật có phạm vi sống phù hợp với khu vườn của b�
 ### Tái Hoang Dã
 
 Tái hoang dã thường áp dụng cho các khu vực rộng lớn với mục tiêu phục hồi chức năng sinh thái. Một số nguyên tắc có thể phù hợp với vườn nhà. [Tìm hiểu thêm về tái hoang dã](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
-
----
-
-#### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả đũa vì các hoạt động về quyền dân sự trước đây. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho mọi chương trình.)
----

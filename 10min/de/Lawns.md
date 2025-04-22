@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Machen Sie Ihren Garten klimaresistenter: Rasenflächen
 
 Der derzeitige Erwärmungstrend der Erde führt zu schmelzenden Gletschern, steigendem Meeresspiegel, zunehmender Versauerung der Ozeane und häufigeren sowie stärkeren Dürren und Überschwemmungen. Der Pazifische Nordwesten erlebt längere Dürreperioden, mehr und schwerere Waldbrände, Hitzewellen, Insektenplagen und Baumkrankheiten. Weniger Schneefall führt dazu, dass Flüsse und Bäche früher Höchststände erreichen, was die Wasserversorgung verringert. Zusätzlich zu diesen Entwicklungen bringt der Klimawandel unvorhersehbare, extreme Wetterereignisse (z.B. Hitzewellen, starke Regenfälle), die immer häufiger auftreten.  
@@ -37,8 +35,3 @@ Mehr dazu unter: Klimafreundliche Rasenflächen: [https://extension.oregonstate.
 - **Andere niedrig wachsende, nicht-grasige Bodendecker** sind z.B. Teppich-Thymian, Teppich-Minze, niedriges Kamille oder sogar Moos. Wählen Sie den Bodendecker passend zu Licht- und Feuchtigkeitsverhältnissen Ihrer Fläche.
 - **Mehr Toleranz gegenüber Unkraut:** Unkraut kann die Artenvielfalt im Garten erhöhen, indem es Nahrungsquellen für verschiedene Insekten bietet. Blühende Unkräuter unterstützen Bestäuber.
 - **Herbizide mit Bedacht einsetzen, wenn überhaupt:** Mähen Sie vor der Samenbildung, damit sich das Unkraut nicht weiterverbreitet, oder entfernen Sie es mechanisch. Wenn Sie doch ein chemisches Herbizid brauchen, wählen Sie ein Produkt mit geringer Umweltwirkung von dieser Liste: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
-
----
-
-#### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für vorherige Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

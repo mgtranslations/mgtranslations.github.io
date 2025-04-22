@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Clackamas County oo la kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Dhulka 101
 
 ### Waa maxay Dhul?
@@ -64,10 +62,3 @@ Waligaa ha qodin dhulka marka uu qoyan yahay. Haddii aad sidaas samayso, waxaad 
 - [Sida Loo Qaado Tijaabada Dhulka iyo Sababta (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [Bacriminta Beertaada: Khudradda, Miro iyo Geedaha Quruxda (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - Beerta iyo Compost-ka, xaashida Jaamacadda 10-Daqiiqo™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Talooyinka Master Gardener™ · Wac Khadka Gargaarka Guriga ee Beerta: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Wixii xaashiyo kale ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Adeegga OSU Extension Service waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), nooca galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimo, dakhliga laga helo barnaamijyo gargaar dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidaha, xaalada askarimada, ciqaabta ama aargoosiga la xiriira hawlaha xuquuqda madaniga ah ee hore. (Dhammaan shuruudaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

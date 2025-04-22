@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 ## Mga Espesipikong Impormasyon sa Taunang Produksyon ng Gulay para sa Oregon
 
 ### Talaan ng Impormasyon sa Pagtatanim at Pagpunla
@@ -58,7 +56,6 @@
 
 ### Impormasyon sa Panahon ng mga Gulay
 
-#### Mga Panahong Malamig na Gulay
 
 - Mas gusto ang malamig na temperatura ng paglaki (60°F hanggang 80°F) tuwing tagsibol at taglagas.
 - Karamihan ay hindi kayang tiisin ang init ng tag-init ngunit kaya ang kaunting lamig.

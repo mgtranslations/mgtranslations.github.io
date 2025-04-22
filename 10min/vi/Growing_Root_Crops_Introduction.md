@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Thạc Sĩ Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm Vườn Thạc Sĩ của OSU Extension
-
 ## Giới Thiệu Về Trồng Cây Củ
 
 Cây củ luôn có vị trí trong mọi khu vườn rau. Đây là một trong những loại rau được thu hoạch sớm nhất và muộn nhất, và nếu bảo quản đúng cách tại nhà, bạn sẽ có nguồn rau tươi kéo dài đến mùa đông. Những loại cây này lý tưởng vì chúng chiếm ít diện tích trong vườn, có thể thu hoạch trong thời gian dài và tạo ra lượng thực phẩm giàu năng lượng. Chúng phát triển tốt trong luống nâng, vườn đất và cả trong chậu.
@@ -80,7 +78,6 @@ Hiểu về họ cây và luân canh rất quan trọng cho sức khỏe và nă
 
 Chu trình luân canh 4 năm giúp hạn chế sâu bệnh, cải thiện đất và tăng năng suất cây củ. Luân canh và trồng xen canh giúp tăng đa dạng sinh học tự nhiên trong vườn. Trồng xen canh giúp tận dụng không gian hiệu quả, cho phép cây phát triển hỗ trợ lẫn nhau.
 
-#### Họ Cây Và Cây Trồng Xen Canh
 
 - **Họ Dền (Chenopodiaceae)**: Củ dền, rau chân vịt, cải cầu vồng  
   - Trồng xen: Đậu bụi, xà lách, hành, củ cải
@@ -107,8 +104,3 @@ Chu trình luân canh 4 năm giúp hạn chế sâu bệnh, cải thiện đất
 - [Chuỗi Làm Vườn Dễ Dàng - Dịch vụ Khuyến nông Texas A&M](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Cây Củ](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [Rau Dưới Lòng Đất](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc bị trả thù do các hoạt động dân quyền trước đây. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

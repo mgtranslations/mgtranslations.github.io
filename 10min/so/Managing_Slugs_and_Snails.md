@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Khabiirka ah ee Clackamas County iyagoo kaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Sida Loo Xakameeyo Qariirada iyo Gafuurleyda
 
 ### Xaqiiqooyin Muhiim ah
@@ -113,10 +111,3 @@ Dhiirigeli bahalaha kugu habboon beertaada.
 ## Kheyraadka
 
 Ka hel buugaagta OSU Extension: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-
-#### Talo Master Gardener™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado ah iyo jadwalka fasalada Jaamacadda 10-Daqiiqo™: Booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga OSU Extension Service waxay mamnuucday takoorka barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan midab, jinsiyad, asal qaran, diin, jinsi, aqoonsi jinsi (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhli laga helo barnaamij gargaar dadwayne, aaminsanaanta siyaasadda, xogta hidaha, heerka ciidanimo, aargoosi ama ciqaab loo geystay hawl ka horreysay oo xuquuqda madaniga ah la xiriirta. (Dhammaan sababaha la mamnuucay lama daboolo dhammaan barnaamijyada.)
----

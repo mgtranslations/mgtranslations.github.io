@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 ## Gawing Mas Matibay sa Klima ang Iyong Hardin: Tubig
 
 Ang mundo ay dumaranas ng pag-init na nagdudulot ng pagkatunaw ng mga glacier, pagtaas ng antas ng dagat, pagtaas ng asido sa karagatan, at mas madalas at matinding tagtuyot at pagbaha. Sa Pacific Northwest, makikita ang matagal na tagtuyot, pagdami ng mga sunog sa kagubatan at lalong paglala nito, matinding init, pagdami ng peste, at mga sakit ng puno. Ang pagbawas ng snowpack ay nagdudulot ng mas maagang pag-apaw ng tubig sa mga ilog at sapa at bumababa ang suplay ng tubig. Bukod dito, nagdadala ang pagbabago ng klima ng pabago-bago at matitinding kaganapan sa panahon (matinding init, malakas na ulan) nang mas madalas.
@@ -80,8 +78,3 @@ Ang ilang lungsod at county ay may partikular na patakaran tungkol sa pagdidisko
 
   - [Drip Irrigation: Isang Panimula](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Mga Tip sa Pagdidilig](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlang pangkasarian (kabilang ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, estado bilang beterano, pagganti, o paghihiganti sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

@@ -1,4 +1,3 @@
-#### Universidad de 10 Minutos™  
 La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
 
 # Selección de Grandes Plantas: Arbustos

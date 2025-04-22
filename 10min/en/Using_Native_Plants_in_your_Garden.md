@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Using Native Plants in Your Garden
 
 ### Introduction
@@ -69,7 +67,3 @@ Seasoned nursery professionals and garden designers nominated candidates that ar
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Native Plant Attractiveness Study – Plant List**, 10-Minute University™ handout  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

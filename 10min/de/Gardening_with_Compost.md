@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Gärtnern mit Kompost
 
 Kompost ist ein hervorragender Mulch, wenn er auf die Erde aufgebracht wird. Wird er in den Boden eingearbeitet, dient er als Dünger und Bodenverbesserer. Mit den Schritten in diesem Merkblatt können Hobbygärtner Grasschnitt, Laub und andere Gartenabfälle zu Kompost für den eigenen Gebrauch verwandeln.
@@ -137,12 +135,3 @@ Das Ausbringen von Kompost auf der Rasenfläche sorgt für eine langsame Freiset
 ## OSU Extension Service Ressourcen
 
 - [Gärtnern mit Kompost, Mulch und Abdeckungen, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### Master Gardener™-Beratung · Anrufen bei der Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™ Merkblätter und Kursplan: Besuche [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien nach früheren Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

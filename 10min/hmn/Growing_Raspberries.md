@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Yuav Kawm Txog Kev Cog Txiv Pos Nphuab (Raspberries)
 
 ### Vim Li Cas Thiaj Yuav Cog Txiv Pos Nphuab?
@@ -42,7 +40,6 @@ Txiv pos nphuab feem ntau muag ua tsob nroj cag dawb xwb. Yuav cov tsob nroj tau
 
 ### Tso Tshuaj Khoom Noj
 
-#### Tsob Nroj Tshiab
 Xyoo uas koj cog, muab **2 ounces nitrogen (N)** rau txhua 10 ko taw kab. Siv tshuaj muaj kev sib npaug zoo li **16-16-16** lossis siv tshuaj organic (xws li cottonseed meal).
 
 Yuav xam li cas:
@@ -54,7 +51,6 @@ Tsis txhob muab tag nrho ib zaug. Faib ua peb zaug:
 2. Muab feem ob ib hlis tom qab.
 3. Muab feem kawg ib hlis ntxiv.
 
-#### Tsob Nroj Loj Lawm
 Tso tshuaj txhua xyoo kom muaj kev loj hlob zoo:
 - **Npaum li cas**: 2 txog 3 ounces nitrogen rau txhua 10 ko taw kab.
   - Piv txwv: 13 txog 19 ounces tshuaj 16-16-16 lossis 2.5 phaus tshuaj 5-5-3.
@@ -102,14 +98,8 @@ OSU cov ntawv luam muaj online ntawm [https://extension.oregonstate.edu/](https:
 - **Growing Berries on the Oregon Coast: Raspberries and Blackberries** (EM 9180) – Cov ntsiab lus no tseem pab tau rau Willamette Valley thiab.
 - Kawm txog kev txiav ceg txiv pos nphuab hauv online ntawm [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
 
-#### Master Gardener™ Pab Tswv Yim
 - **Hu rau Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Rau lwm yam ntawv qhia 10-Minute University™ thiab chav kawm tshab, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub cais tawm hauv nws txoj kev pab, kev ua haujlwm, kev ua si, thiab txhua yam ntaub ntawv raws li haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam lossis txiv neej, kev qhia txog poj niam txiv neej (xws li kev qhia txog tus kheej), kev xaiv poj niam lossis txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/kws niam txiv, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim los yog kev raug ua phem vim ntawd. (Tsis yog txhua yam no muaj rau txhua txoj kev pab).
----

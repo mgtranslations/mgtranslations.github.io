@@ -116,5 +116,3 @@ Fonte original:
 
 - [Coberturas Mortas: as Boas, as Ruins e as Realmente, Realmente Feias. – Linda Chalker-Scott, PhD, WSU](Mulches.md)
 - [Classificação e Poda de Clematis – Linda Beutler](Clematis.md)
-
----

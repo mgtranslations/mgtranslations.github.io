@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du programme OSU Extension Master Gardener™
-
 # Le Jardinier Autonome
 
 ### Introduction
@@ -12,7 +10,6 @@ Le jardinage peut être un passe-temps pour toute la vie qui apporte des avantag
 
 Choisir la bonne taille et la bonne fonction pour les outils de jardinage peut tout changer pour le confort et l’efficacité.
 
-#### Outils de taille
 
 - **Sécateurs**
   - La taille compte ! Trouvez la taille qui convient le mieux à votre main pour faciliter l’utilisation et le confort. Beaucoup de sécateurs existent en petits, moyens et grands modèles. Il y a aussi des versions pour droitiers et gauchers.
@@ -30,7 +27,6 @@ Choisir la bonne taille et la bonne fonction pour les outils de jardinage peut t
   - **Coupe-branches à engrenages**
     - Fournissent 40 % de puissance en plus lors de la coupe. Les manches plus longs donnent plus de levier.
 
-#### Outils à main
 
 - Cherchez des outils ergonomiques qui gardent le poignet dans une position neutre, bien aligné avec l’avant-bras. Quand la mobilité et la force diminuent, il est plus efficace d’utiliser les grosses articulations. Utiliser l’avant-bras et l’épaule pour une tâche soulage les mains et les poignets.
 - Des adaptations comme des poignées en “D” peuvent être ajoutées aux râteaux et balais classiques pour une meilleure prise et pour garder les poignets droits.
@@ -89,12 +85,3 @@ Choisir la bonne taille et la bonne fonction pour les outils de jardinage peut t
   - [Télécharger le guide](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Carry on Gardening**  
   - [Conseils pour les jardiniers en situation de handicap](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Conseil Maître Jardinier™ · Appelez la ligne d’aide horticole à domicile : Comté de Clackamas : 503-655-8631 · Comté de Washington : 503-821-1150 · Comté de Multnomah : 503-445-4608
-
----
-
-##### L’Oregon State University Extension Service interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression du genre), l’orientation sexuelle, le handicap, l’âge, le statut marital, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion à la suite d’une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

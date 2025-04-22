@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Ajouter un jardin de pluie
 
 Un jardin de pluie est une plate-bande en creux qui recueille et traite les eaux de ruissellement provenant des toits, des allées, des trottoirs et des rues. Les jardins de pluie imitent les conditions naturelles d’une forêt ou d’une prairie et aident à garder nos bassins versants en bonne santé.
@@ -109,8 +107,3 @@ Vous pouvez faire analyser votre sol par une entreprise et obtenir des recommand
 - [Fiche d'information sur les jardins de pluie et le développement à faible impact](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [Le guide du jardin de pluie](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Clean Water Services Washington County, Guide des approches de développement à faible impact](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### L’Oregon State University Extension Service interdit toute discrimination dans ses programmes, services, activités et supports, basée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, l’information génétique, le statut d’ancien combattant, les représailles ou les sanctions liées à une activité antérieure liée aux droits civils. (Toutes les bases d’interdiction ne s’appliquent pas à tous.)
----

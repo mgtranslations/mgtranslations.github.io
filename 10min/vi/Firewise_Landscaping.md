@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia của OSU Extension
-
 # Cảnh quan Phòng cháy Giảm Nguy cơ Cháy rừng
 
 ### Giới thiệu
@@ -17,14 +15,12 @@ Bạn có thể làm nhiều việc để giảm rủi ro! Hai yếu tố chính
 
 Hai yếu tố này xác định **Vùng Cháy quanh Nhà (HIZ).**
 
-#### Vùng Gần Nhà (HIZ 1)
 
 - **Bao gồm:** Từ ngôi nhà ra đến 1,5 mét (5 feet) tính từ móng nhà.
 - **Mục tiêu:** Giảm nguy cơ bốc cháy gần nhà.
 - **Hướng dẫn:**
   - Không có cây cối ngoài các chậu cây treo/bồn cây hàng năm và cỏ được chăm sóc tốt.
 
-#### Vùng Trung Gian (HIZ 2)
 
 - **Bao gồm:** Khoảng 1,5–9 mét (5–30 feet) xung quanh nhà.
 - **Mục tiêu:** Ngăn lửa leo lên phần trên của cây hoặc bụi để bảo vệ ngôi nhà.
@@ -32,7 +28,6 @@ Hai yếu tố này xác định **Vùng Cháy quanh Nhà (HIZ).**
   - Loại bỏ các vật liệu dễ bắt lửa tầng thấp (cành cây thấp, bụi gần cây có thể giúp ngọn lửa leo lên nhà).
   - Vùng này nên được duy trì “thưa, sạch và xanh”.
 
-#### Vùng Mở Rộng (HIZ 3)
 
 - **Bao gồm:** 9–30 mét (30–100 feet hoặc hơn) xung quanh nhà.
 - **Mục tiêu:** Giảm sức mạnh của cháy rừng và làm chậm đà lan tới các công trình.
@@ -48,7 +43,6 @@ Hai yếu tố này xác định **Vùng Cháy quanh Nhà (HIZ).**
 
 Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do tàn lửa bay từ xa chứ không phải do lửa trực tiếp?
 
-#### Những Điều Cần Lưu Ý
 
 - **Mái nhà:**
   - Mái nhà là phần dễ bị tổn thương nhất vì tàn lửa bay vào.
@@ -63,13 +57,11 @@ Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do t
 
 ### Cảnh quan Phòng cháy so với Cảnh quan Truyền thống
 
-#### Đặc điểm của cây chống cháy
 
 - Hàm lượng nước cao.
 - Cành nhánh thưa, không có nhựa hoặc tinh dầu.
 - Cây rụng lá thường ít cháy hơn cây lá kim.
 
-#### Đặc điểm của cây rất dễ cháy
 
 - Hàm lượng nước thấp.
 - Chứa các chất như dầu, nhựa, sáp, hoặc nhựa thông.
@@ -79,12 +71,10 @@ Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do t
 
 ### Các Lựa chọn Cây chống Cháy
 
-#### HIZ 1
 
 - **Khuyến nghị:** Cây hàng năm và cỏ (giữ ẩm tốt).
 - **Tránh:** Những bụi cây chứa hợp chất dễ bay hơi (như bách xù, trắc bá, hương thảo). Tránh các cây che phủ mái nhà.
 
-#### HIZ 2
 
 - **Khuyến nghị:**
   - Bụi thấp, cành thưa (như tử đinh hương, tuyết cầu).
@@ -92,7 +82,6 @@ Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do t
   - Cây hàng năm và lâu năm không có hợp chất dễ bay hơi.
 - **Tránh:** Cây rất dễ cháy gần nhà.
 
-#### HIZ 3
 
 - **Khuyến nghị:**
   - Cây lớn và bụi với khoảng cách hợp lý.
@@ -106,19 +95,16 @@ Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do t
 
 ### Thực hành Chăm sóc Nhà Tích cực
 
-#### HIZ 1
 
 - Chăm sóc cây bằng tưới nước và cắt tỉa hợp lý.
 - Loại bỏ lá cây, cành khô chết.
 - Cắt cỏ thường xuyên.
 
-#### HIZ 2
 
 - Giữ cây khỏe mạnh bằng tưới nước và cắt tỉa.
 - Phủ gốc nếu có hệ thống tưới.
 - Cào và dọn sạch rác cây cối.
 
-#### HIZ 3
 
 - Duy trì các lối đi rộng cho lực lượng cứu hộ.
 - Cắt tỉa cành thấp của cây lớn và bụi rậm.
@@ -129,18 +115,15 @@ Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do t
 
 ### Nguy cơ Cháy quanh Nhà và Tài sản
 
-#### HIZ 1
 
 - Tránh sử dụng lớp phủ gốc cây (mulch) vì dễ cháy.
 - Hàng rào, cổng và giàn gỗ có thể là vật liệu dẫn lửa.
 - Bảo dưỡng sàn gỗ và không để vật liệu dễ cháy dưới hoặc gần đó.
 
-#### HIZ 2
 
 - Tránh các cây dễ cháy gần công trình.
 - Giữ cỏ ngắn và loại bỏ rác thực vật.
 
-#### HIZ 3
 
 - Để củi cách nhà ít nhất 9 mét (30 feet).
 
@@ -148,12 +131,10 @@ Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do t
 
 ### Hướng dẫn Vật liệu Cảnh quan chống Cháy
 
-#### Vật liệu Khuyến nghị
 
 - Vật liệu không cháy: bê tông, sỏi, gạch, đá, sắt, nhôm, kính.
 - Cỏ và thảm thực vật thấp có thể làm chậm lửa, tạo vùng ngăn cháy.
 
-#### Vật liệu Dễ cháy Cao
 
 - Vỏ cây tuyết tùng đỏ phía tây là loại mulch dễ cháy nhất.
 - Hàng rào, cổng và giàn bằng gỗ đều dễ cháy.
@@ -167,8 +148,3 @@ Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do t
 
 - **Cây chống cháy dành cho người làm vườn tại nhà**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)
-
----
-
-###### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc bị trả đũa do hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

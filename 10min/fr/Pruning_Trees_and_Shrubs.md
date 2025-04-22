@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Tailler les Arbres et les Arbustes
 
 ### Raisons de tailler
@@ -47,7 +45,6 @@ Pour les arbustes à fleurs, taillez de façon à minimiser la perturbation de l
 - **Arbustes à floraison printanière** (Tableau 1) fleurissent sur le bois de l’année précédente ; taillez-les juste après la floraison pour favoriser une croissance vigoureuse en été.
 - **Arbustes qui fleurissent après juin** (Tableau 2) produisent leurs fleurs sur les pousses de l’année ; taillez ces arbustes à la fin de l’hiver pour encourager une croissance vigoureuse des pousses au printemps.
 
-#### Tableau 1 : Arbustes qui fleurissent sur le bois de l’année précédente
 
 | Nom botanique              | Nom commun                     |
 |--------------------------- |-------------------------------|
@@ -70,7 +67,6 @@ Pour les arbustes à fleurs, taillez de façon à minimiser la perturbation de l
 | Viburnum spp.              | Viorne                         |
 | Weigela florida            | Weigela ancien                 |
 
-#### Tableau 2 : Arbustes qui fleurissent sur le bois de l’année en cours
 
 | Nom botanique              | Nom commun                     |
 |--------------------------- |-------------------------------|
@@ -118,8 +114,3 @@ Les branches de plus de 4 cm de diamètre doivent être taillées en trois étap
 - [Tailler les rosiers](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Tailler un arbre fruitier](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Former un arbre fruitier](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, des revenus provenant d’une aide publique, des opinions politiques, de l’information génétique, du statut d’ancien combattant, des représailles ou des mesures prises suite à une activité relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Hanging Baskets
 
 ### Pangkalahatang-ideya
@@ -61,7 +59,6 @@ Para malinis tingnan ang lahat sa buong season, alisin ang mga nalantang bulakla
 
 Maraming halaman ang maganda para sa seasonal hanging baskets. Ang mga nakalista sa ibaba ay ilan lamang sa mga posibleng suhestiyon. Pansinin na ang ilan sa mga ito ay pwedeng sa araw o lilim.
 
-#### Mga Tuwid na Halaman para sa Araw
 
 - Angelonia
 - Cordyline
@@ -71,7 +68,6 @@ Maraming halaman ang maganda para sa seasonal hanging baskets. Ang mga nakalista
 - Geranium
 - Ornamental grasses
 
-#### Mga Tuwid na Halaman para sa Lalim
 
 - Heliotrope
 - Shade coleus
@@ -82,7 +78,6 @@ Maraming halaman ang maganda para sa seasonal hanging baskets. Ang mga nakalista
 - New Guinea impatiens
 - Tuberous begonia
 
-#### Mga Clumping na Halaman para sa Araw
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ Maraming halaman ang maganda para sa seasonal hanging baskets. Ang mga nakalista
 - Fantasy petunia
 - Fibrous begonia
 
-#### Mga Clumping na Halaman para sa Lalim
 
 - Geranium
 - Nemesia
@@ -99,7 +93,6 @@ Maraming halaman ang maganda para sa seasonal hanging baskets. Ang mga nakalista
 - Impatiens
 - Upright lobelia
 
-#### Mga Trailing na Halaman para sa Araw
 
 - Anagalis
 - Alyssum
@@ -111,7 +104,6 @@ Maraming halaman ang maganda para sa seasonal hanging baskets. Ang mga nakalista
 - Lamium
 - Licorice plant
 
-#### Mga Trailing na Halaman para sa Lalim
 
 - Lotus vine
 - Million bells
@@ -134,15 +126,9 @@ Napakaraming libro tungkol sa pagtatanim ng hanging baskets kaya mahirap piliin 
 - *Gardening in Containers* (Sunset)
 - *Pots in the Garden* ni Ray Rogers
 
-#### Master Gardener™ na Payo
 
 - **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan sa kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/magulang, kita mula sa programang pampublikong tulong, paniniwalang pampulitika, impormasyon sa genetika, katayuan bilang beterano, paghihiganti o ganti dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

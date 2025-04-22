@@ -1,5 +1,3 @@
-#### Đại học 10-Phút™ Hiệp hội Làm vườn Clackamas County phối hợp và hỗ trợ Chương trình Làm vườn của OSU Extension Master Gardener™
-
 # Lựa Chọn Thực Vật Tuyệt Vời: Cây Bụi
 
 *S: Vườn bóng râm, D: Chịu hạn, W: Có lợi cho động vật hoang dã: Chim, Ong, Bướm, Chim ruồi*

@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo del Programa de Maestros Jardineros de Extensión de OSU
-
 # Poda Fácil
 
 Este folleto se enfoca en árboles y arbustos, dejando de lado las plantas anuales, perennes y los pastos ornamentales para explorarlos en el futuro.
@@ -103,12 +101,3 @@ Esta regla general puede romperse cuando se trata de plantas muy vigorosas, pero
   - *Cass Turnbull’s Guide to Pruning* de Cass Turnbull
 - **Folletos de la Universidad de 10 Minutos™:**
   - *Pruning Trees and Shrubs* disponible en [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llame a la Línea de Ayuda de Horticultura de Hogares: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para más folletos de la Universidad de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias o represalia por actividad previa de derechos civiles. (No todos los motivos prohibidos aplican a todos los programas.)
----

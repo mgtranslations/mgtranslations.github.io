@@ -1,5 +1,3 @@
-#### Universidad en 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de la Extensión de OSU
-
 # Cómo Empezar Tu Huerto de Vegetales
 
 ### Qué Cultivar
@@ -38,7 +36,6 @@ Una prueba de suelo revela los niveles de nutrientes en tu tierra y las enmienda
 
 Las temperaturas del suelo y del aire determinan cuándo plantar.
 
-#### Temperatura del Suelo
 
 La temperatura mínima del suelo (°F) requerida para algunos cultivos populares:
 
@@ -49,7 +46,6 @@ La temperatura mínima del suelo (°F) requerida para algunos cultivos populares
 - Berenjena/Pimientos/Jitomates: 55°F
 - Albahaca: 60°F
 
-#### Temperatura del Aire
 
 Temperatura óptima del aire (°F) para algunos cultivos:
 
@@ -60,12 +56,10 @@ Temperatura óptima del aire (°F) para algunos cultivos:
 
 Si siembras chícharos a fines del invierno, pueden germinar, pero no crecerán bien hasta que la temperatura del aire aumente.
 
-#### Cultivos de Temporada Corta vs. Larga
 
 - **Cultivos de temporada corta:** Maduran en 50 días o menos. Puedes sembrar semillas directamente y aun así asegurar una buena cosecha.
 - **Cultivos de temporada larga:** Como los jitomates, maduran en 75–90 días. El jardinero suele estar contra reloj para cosecharlos antes de que lleguen las lluvias de otoño y las noches frías.
 
-#### Plántulas
 
 Las plántulas, compradas en viveros o iniciadas en tu propio invernadero, te dan una ventaja.
 
@@ -81,19 +75,15 @@ La mayoría de los vegetales son cultivos anuales y necesitan suficientes nutrie
   - Frutos y flores: Más fósforo (P).
   - Raíces: Más potasio (K).
 
-#### Cultivos Exigentes
 
 Betabel, col, col rizada, lechuga, perejil, espinaca y jitomate pueden necesitar más fertilizante.
 
-#### Cultivos Moderados
 
 Zanahoria, ajo, cebolla, acelga, mostaza y pimiento pueden necesitar una cantidad moderada.
 
-#### Cultivos Fijadores de Nitrógeno
 
 Frijol, chícharo, soya y trébol fijan nitrógeno del aire y a menudo crecen bien sin fertilizante.
 
-#### Fertilizantes Orgánicos
 
 Aplícalos un par de meses antes de plantar para mejores resultados. Ejemplos:
 
@@ -110,7 +100,6 @@ Riega para que la zona de raíces esté uniformemente húmeda. Excava de 6 a 8 p
 - **Sistema de goteo:** Lleva el agua a las raíces y es preferible al riego por encima, que moja las hojas y puede favorecer enfermedades.
 - **Riego por encima:** Minimiza las salpicaduras y evita regar al final del día. Regar temprano reduce la evaporación.
 
-#### Etapas Críticas de Riego
 
 Pon atención durante la etapa más crítica de tu cultivo:
 
@@ -124,8 +113,3 @@ Pon atención durante la etapa más crítica de tu cultivo:
 
 - [EM 9027 Cultivando lo Tuyo](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Huertos de Vegetales en Oregón](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, situación familiar/paternal, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalia por actividad previa relacionada con derechos civiles. (No todas las bases prohibidas aplican para todos los programas.)
----

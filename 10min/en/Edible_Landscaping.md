@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Edible Landscaping
 
 ### Overview
@@ -23,23 +21,18 @@ Edible landscaping is the use of food-producing plants in the residential landsc
 
 ### Things to Consider
 
-#### Location
 
 Most fruits and vegetables require 6 to 8 hours of sun to produce well. Some native plants, such as salmonberry and thimbleberry, can take some shade, as can plants that have edible leaves, like lettuce and kale.
 
-#### Space
 
 Be sure to think about the mature size of the plant. Dwarf or semi-dwarf trees and smaller-sized shrubs work well in small spaces. Trellises, fences, and arbors make use of vertical space on which to grow edible trees, shrubs, and vines.
 
-#### Time and Care
 
 Edibles require care at specific phases of their growth to remain productive. They will require improved soil, careful watering and fertilizing at the right times, and vigilant management of diseases and insects. This is especially true when the plants are young or just planted.
 
-#### Use
 
 Know when to harvest, and be prepared to use the abundance from your garden.
 
-#### Beauty
 
 Ornamental plants offer a wide range of flower color, foliage shape, texture, and leaf color. With a little research, it is possible to find edibles with the characteristics you value. For example:
 
@@ -50,7 +43,6 @@ Ornamental plants offer a wide range of flower color, foliage shape, texture, an
 
 ### Short List of Edible Plants (* denotes native)
 
-#### Small Trees (10 to 20 feet)
 
 - **Apple**: Choose from semi-dwarf, espalier, and columnar forms; all have pretty pink blossoms in spring. Varieties such as Chehalis, Jonafree, Liberty, Prima, and Redfree are resistant to scab.
 - **Black Elderberry***: Lacy, blackish leaves are very attractive; fruit used for jelly, syrup, and wine. Good fire-resistant plant.
@@ -61,7 +53,6 @@ Ornamental plants offer a wide range of flower color, foliage shape, texture, an
 - **Plum**: Ripe fruits may be green, gold, red, or purple. Brooks and Italian varieties of European plums are easy to grow. Brown rot is the most common problem.
 - **Serviceberry***: Clusters of white flowers in early spring; fall color is brilliant yellow to orange. It is adaptable to a wide range of soil types and moisture.
 
-#### Shrubs (woody, perennials, annuals; 3 to 10 feet)
 
 - **Blueberry**: Beautiful fall color and abundant fruits in summer. Easy to grow and has very few disease problems.
 - **Currant and Gooseberry**: Abundance of tart berries used in jams and jellies. Grow easily in medium to heavy soil and in a wide range of soil pH.
@@ -71,7 +62,6 @@ Ornamental plants offer a wide range of flower color, foliage shape, texture, an
 - **Strawberry Tree**: Large, evergreen shrub with dark green glossy leaves and bright red fruit. Flowers in late fall to winter; best placed in a sheltered location.
 - **Tomato**: Attractive, edible fruits in yellow, orange, red, green, purple, and black colors and in a wide range of shapes. Grown as an annual for the summer months, tomatoes need sun and heat to mature. Avoid overhead watering to discourage disease.
 
-#### Vines and Other Climbers
 
 - **Grape** (wine or seedless table grapes): Attractive foliage makes good summer shade over an arbor or patio. Need harsh annual pruning for good productivity.
 - **Kiwi** (fuzzy and hardy kiwi): Exotic foliage, white flowers in May, and, in fall, fruit colors in green, red, and brown. Most need a very sturdy structure to support vigorous growth. New, smaller, self-fertile varieties are available.
@@ -80,7 +70,6 @@ Ornamental plants offer a wide range of flower color, foliage shape, texture, an
 - **Cucumber**: When allowed to climb, the cucumber flowers and fruit make a nice background plant. They get thirsty in hot weather and need plenty of water.
 - **Pole Bean**: Need full sun and good air circulation to avoid powdery mildew. Use in a children’s area to make teepees and tunnels.
 
-#### Ground Covers
 
 - **Strawberry**: White flowers in spring and red fruits in summer; strawberries are short-lived and need to be replanted every 3 to 4 years.
 - **Lingonberry**: Beautiful and delicate-looking evergreen ground cover. They will produce more fruit in full sun but will grow in part shade.
@@ -90,19 +79,13 @@ Ornamental plants offer a wide range of flower color, foliage shape, texture, an
 
 ### Additional Resources
 
-#### Resources for Edible Plants in the Northwest
 
 - *Sunset Western Garden Book*
 - Oregon State University Extension Publications: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - *10-Minute University*: [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
-#### Master Gardener™ Advice
 
 - **Call Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas)
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

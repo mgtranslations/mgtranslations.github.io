@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension OSU
-
 # Maladies et Ravageurs Courants des Rosiers
 
 Les rosiers peuvent apporter du parfum et de la beauté à n’importe quel jardin du Nord-Ouest Pacifique. Cependant, ils sont souvent touchés par quelques maladies et ravageurs courants. Cette fiche propose des stratégies de surveillance et de prévention pour garantir de belles fleurs et un feuillage sain tout l’été.
@@ -62,8 +60,3 @@ Les rosiers peuvent apporter du parfum et de la beauté à n’importe quel jard
 Contactez votre bureau local de l’Extension OSU pour obtenir des conseils de Maître Jardinier. Trouvez les coordonnées ici : [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 Pour les fiches et le calendrier des cours de l’Université en 10 Minutes™, visitez [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents, sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/de parent, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut de vétéran, de représailles ou de sanctions pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

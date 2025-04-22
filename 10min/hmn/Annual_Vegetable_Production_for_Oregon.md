@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Chav Kws Ua Vaj Kws Ua Teb Npaj Ua Si ntawm Clackamas County · Koom Tes Nrog thiab Txhawb Nqa OSU Extension Master Gardener™ Program
-
 ## Kev Cog Zaub Ib Xyoo Rau Oregon
 
 ### Daim Ntawv Qhia Txog Kev Cog Thiab Cog Nroj

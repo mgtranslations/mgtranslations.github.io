@@ -1,5 +1,3 @@
-#### Université en 10 minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme des Maîtres Jardiniers™ de l’Extension OSU
-
 # Cultiver des légumes de début de saison
 
 ### Quoi
@@ -53,7 +51,6 @@ Voir **[Comment fabriquer votre propre cloche pour planche surélevée (EC 1627)
 
 ### Choisir entre semences, plants ou vivaces
 
-#### Semences
 
 Carotte, pois, laitue, chou-rave, légumes-feuilles, betterave et radis poussent facilement à partir de graines. Semez directement dans la terre.
 
@@ -61,14 +58,12 @@ Carotte, pois, laitue, chou-rave, légumes-feuilles, betterave et radis poussent
   - Faites tremper les graines 2 à 4 heures avant de les planter.
   - Ou mettez les graines trempées entre deux feuilles d’essuie-tout humides dans un sac en plastique. Gardez-les au chaud jusqu’à la germination.
 
-#### Plants
 
 Faire pousser ses propres plants permet d’avoir les variétés désirées au bon moment.
 
 - Chou, brocoli, chou-fleur et chou frisé sont souvent disponibles en jeunes plants dans les pépinières.
 - Acheter de petits plants fait gagner du temps et accélère la récolte, surtout pour les légumes qui montent vite en graines par temps chaud.
 
-#### Vivaces
 
 Certains légumes ne se trouvent ni en graines ni en plants, comme les tubercules de pomme de terre, l’ail et les bulbilles d’oignon, qui se plantent directement dans le potager.
 
@@ -96,7 +91,6 @@ La plupart des légumes sont annuels et ont besoin de suffisamment de nutriments
   - Farine d’os (12-24 % P)
   - Farine d’algues (2-5 % K)
 
-#### Test du sol
 
 Les potagers de la région de Portland ont souvent des niveaux élevés de phosphore, potassium et autres éléments nutritifs. Testez votre sol pour détecter les carences et fertilisez seulement si nécessaire.
 
@@ -115,8 +109,3 @@ Visitez le [Service d’Extension OSU](http://catalog.extension.oregonstate.edu)
 - **Jardinage de légumes d’automne et d’hiver dans le nord-ouest du Pacifique (PNW 548)**
 
 Consultez les [Ressources de l’Université en 10 minutes™](http://www.cmastergardeners.org/10-minute-university) pour des fiches et vidéos sur la culture des légumes.
-
----
-
-#### L’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu issu d’un programme d’aide sociale, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les réactions à une activité antérieure de droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 ## Native Plant Glossary
 
 ### Native Plant
@@ -37,7 +35,3 @@ Plant mutations, also known as sports or chimeras, are genetic changes that may 
 
 - Vegetative propagation is used to maintain desirable characteristics. Plants are often prone to "reversion," meaning that part or all of the plant reverts to its original form.
 - **Examples:** Camellia flowers with specks and stripes.
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

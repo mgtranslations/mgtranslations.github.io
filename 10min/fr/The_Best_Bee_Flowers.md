@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension OSU
-
 # Les Meilleures Fleurs pour les Abeilles — Prouvé par la Recherche Horticole
 
 Cette liste comprend des plantes prouvées par le Dr Gordon Frankie, Université de Californie, et ses collègues comme étant les meilleures pour attirer les abeilles[^1]. Les plantes indigènes de l’Oregon qui attirent les abeilles indigènes sont basées sur les recherches d’Aaron Anderson, Laboratoire d’Écologie du Jardin de l’Université d’État de l’Oregon[^2]. Sources : *California Bees & Blooms* par Frankie et al., et blogs.oregonstate.edu/gardenecologylab/[^3].

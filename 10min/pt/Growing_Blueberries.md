@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Master Gardeners do Condado de Clackamas em colaboração e apoio ao Programa Master Gardener™ da Extensão da OSU
-
 # Cultivando Mirtilos
 
 ### Por que cultivar mirtilos?
@@ -38,7 +36,6 @@
 - **Tipos**: Sulfato de amônio, ureia, adubo para rododendros, farinha de penas, farinha de sementes de algodão ou de soja.
 - **Aplicação**: Espalhe o adubo de forma uniforme a uma distância de 30 a 45 cm de cada planta, sem colocar diretamente na base ou nos caules.
 
-#### Quantidade de Nitrogênio (N) por Idade do Plantio
 
 | Ano de Plantio | Quantidade de N (em onças) por ano |
 |----------------|------------------------------------|
@@ -54,7 +51,6 @@
 - **Época de aplicação**: Divida o total de N em três partes iguais, aplicando a primeira em meados de abril, a segunda em meados de maio e a última entre meados e final de junho.
 - **Cobertura de serragem fresca**: Aplique o adubo por cima da cobertura, mas adicione 25% à quantidade total.
 
-#### Calculando a quantidade de adubo
 
 Para saber quanto produto usar:
 - Divida a quantidade recomendada de N pela porcentagem de N no adubo escolhido.
@@ -87,10 +83,3 @@ Para saber quanto produto usar:
 - [Cultivo de Frutas Vermelhas na Costa do Oregon: Mirtilos EM9179](https://catalog.extension.oregonstate.edu/)
 - [Módulo de Poda](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Acidificação do Solo para Mirtilos e Plantas Ornamentais no Jardim EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Dicas do Master Gardener™ · Ligue para a linha de horticultura residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outras apostilas do 10-Minute University™ e agendas de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

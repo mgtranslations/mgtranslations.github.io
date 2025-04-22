@@ -1,7 +1,3 @@
-#### Université de 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme des Maîtres Jardiniers™ de l’Extension OSU
-
----
-
 ## Insectes Nuisibles
 
 ### Vue d’ensemble
@@ -18,7 +14,6 @@ Il est souvent difficile d’identifier le responsable des dégâts sur les plan
 
 Heureusement, les habitudes alimentaires des insectes peuvent donner des indices utiles. On distingue les insectes selon leur mode d’alimentation : **mâcheurs/rapeux** ou **perceurs-suceurs**.
 
-#### Insectes Mâcheurs/Rapeux
 
 Les insectes mâcheurs ou rapeux ont des pièces buccales capables de faire des trous dans les feuilles, bourgeons, racines, graines, fruits ou parties ligneuses des plantes. Exemples :
 
@@ -26,7 +21,6 @@ Les insectes mâcheurs ou rapeux ont des pièces buccales capables de faire des 
 - **Mangeurs de fleurs, fruits et graines** : Mouches des fruits, cécidomyies, guêpes jaunes, frelons, carpocapse, noctuelles du maïs, charançons des graines.
 - **Nuisibles structurels** : Fourmis charpentières, termites, lyctus.
 
-#### Insectes Perceurs-Suceurs
 
 Les perceurs-suceurs abîment les plantes directement en se nourrissant et parfois en injectant des substances toxiques qui provoquent des symptômes allant de simples taches sur les feuilles à une altération grave de la plante entière. Les taches et piqûres apparaissent lorsque la chlorophylle est détruite par leurs pièces buccales. Exemples :
 
@@ -92,12 +86,3 @@ La gestion intégrée des nuisibles est une approche systématique et globale qu
 - **Insectes du Jardin** par Crenshaw, 2004
 - **Publications de l’Extension de l’Oregon State University** : [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Jardinage Biologique de Rodale : Contrôle des Nuisibles et Maladies**, Éditions Rodale, 1994
-
----
-
-#### Conseil Maître Jardinier™ · Appelez la ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de cours de l’Université de 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus issus d’une aide publique, les convictions politiques, les informations génétiques, le statut d’ancien combattant, les représailles, ou toute action antérieure relative aux droits civiques. (Tous les motifs d’interdiction ne s’appliquent pas à tous les programmes.)
----

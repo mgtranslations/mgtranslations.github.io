@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Khabiirka ee Clackamas County oo kaashanaya lana shaqaynaya Barnaamijka OSU Extension Master Gardener™
-
 # Talooyin Beero Guga
 
 Maalinta ugu horreysa ee guga oo diirran, inta badan beeralayda waxay rabaan inay dhulka la shaqeeyaan. **Ha galin dhulka!** Waxa fiican inaad marka hore dhulka hubiso. Qabo gacantaada oo xajin dhul, si adag u cadaadi. Haddii dhulku uu kubbad ahaan isku hayo, socodka iyo qodista waxay cadaadinayaan dhulka.
@@ -107,8 +105,3 @@ Ka hel Daabacaadaha OSU Extension: [http://catalog.extension.oregonstate.edu](ht
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 - Wixii waraaqo & fiidyowyo ah ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Adeegga OSU Extension wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku saleysan: midab, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muuqaalkiisa), doorashada galmada, naafonimo, da’, xaalada guurka, xaalada qoyska/waalidka, dakhli laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda askarinimo, ama aargoosi/xadgudub la xiriira hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

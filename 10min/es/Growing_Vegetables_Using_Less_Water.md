@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión OSU
-
 # Huertos de Hortalizas Usando Menos Agua
 
 ### Resumen
@@ -96,12 +94,3 @@ La división de Pequeñas Granjas de la Extensión de OSU ha estado probando la 
   - Nichols Garden Nursery
   - Peace Seeds
   - Siskiyou Seeds
-
----
-
-#### Consejos de Maestro Jardinero™ · Llame a la Línea de Ayuda de Horticultura en Casa: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de la Universidad de 10 Minutos™ y el calendario de clases, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

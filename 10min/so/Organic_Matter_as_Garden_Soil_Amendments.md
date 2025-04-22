@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khabiirka ah ee Clackamas County oo iskaashi la leh lana taageerayo Barnaamijka Beeraleyda Khabiirka ah ee OSU Extension Master Gardener™
-
 # Waxyaabaha Dabiiciga ah ee Lagu Kordhiyo Dhoobada Beerta
 
 Kordhiyeyaasha dhoobada waxay hagaajin karaan qaab-dhismeedka dhoobada, kordhiyaan nafaqada, isla markaana wanaajiyaan haynta biyaha. Kordhiyeyaasha waa inaysan sare u qaadin milixda kiimikada oo ay leeyihiin nitrogen ku filan si ay u quudiyaan dhirta iyo noolaha dhoobada. Si dhirta looga faa’iideeyo, waa in la kordhiyaa dhammaan sariirta lagu beero. Haddii taasi aysan suurtagal ahayn, ku soo celi dhoobada dabiiciga ah markaad dhirta cusub beereyso. Buuxinta godka lagu beero oo lagu daro humus iyo kordhiyeyaasha kale waxay abuurtaa xuduud u dhaxaysa dhoobada cusub iyo tan dabiiciga ah, taas oo adkeysa socodka hawada, biyaha, iyo xididdada.
@@ -117,8 +115,3 @@ Lama taliyayo in la isticmaalo sababta oo ah waxyeellada deegaanka ee ka timaada
 
 **Qorsheynta:** Guusha waxay u baahan tahay in dalagyada daboolka ah la abuuro lana joojiyo wakhti sax ah si aysan ula tartamin beerta khudaarta.  
 [Dalagyada Daboolka ah ee Beerta Khudaarta ee Guriga](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu ka mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan isirka, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda ciidanimo, aargudasho, ama ka aargoosasho hawlihii hore ee xuquuqda madaniga. (Dhammaan saldhigyada mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
----

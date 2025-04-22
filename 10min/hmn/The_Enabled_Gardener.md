@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
-
 # Tus Kws Ua Vaj Tsev Muaj Kev Pab
 
 ### Taw Qhia
@@ -12,7 +10,6 @@ Ua vaj tsev yog ib yam kev lom zem uas pab rau peb lub hlwb thiab lub cev mus nt
 
 Xaiv cov cuab yeej ua vaj tsev kom haum koj tes thiab ua haujlwm zoo yuav pab kom siv tau yooj yim thiab xis dua.
 
-#### Cov Cuab Yeej Txi Ntoo
 
 - **Pruners (Cuab Yeej Txi Nroj Tsuag)**
   - Qhov loj tseem ceeb! Xaiv qhov loj uas haum koj txhais tes kom siv tau yooj yim thiab xis. Muaj ntau hom pruners loj me, nruab nrab, thiab loj. Kuj muaj rau tes laug thiab tes xis.
@@ -30,7 +27,6 @@ Xaiv cov cuab yeej ua vaj tsev kom haum koj tes thiab ua haujlwm zoo yuav pab ko
   - **Geared Loppers**
     - Muab zog ntxiv txog 40% thaum txiav. Tes tuav ntev pab kom siv zog tau zoo dua.
 
-#### Cov Cuab Yeej Tuav Tes
 
 - Nrhiav cov cuab yeej ergonomic uas pab kom koj lub dab teg ncaj nraim nrog caj npab. Thaum koj lub zog thiab kev txav tau tsawg, siv cov pob qij txha loj yuav pab tau zoo dua. Siv caj npab thiab xub pwg yuav txo kev mob rau tes thiab dab teg.
 - Muaj peev xwm ntxiv “D” handles rau cov rakes thiab brooms kom tuav tau khov thiab pab kom dab teg ncaj.
@@ -89,12 +85,3 @@ Xaiv cov cuab yeej ua vaj tsev kom haum koj tes thiab ua haujlwm zoo yuav pab ko
   - [Download Guide](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Carry on Gardening**
   - [Cov Lus Qhia Zoo Rau Cov Kws Ua Vaj Tsev Uas Muaj Kev Xiam Oob Khab](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Master Gardener™ Kev Pab Tswv Yim · Hu rau Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608
-
----
-
-##### Oregon State University Extension Service txwv tsis pub muaj kev xaiv cais hauv txhua txoj hauj lwm, kev pab cuam, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev paub txog poj niam txiv neej (xws li kev qhia txog poj niam txiv neej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, kev ua niam txiv/kev tu me nyuam, nyiaj los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, kev qhia txog caj ces, txoj hauj lwm qub tub rog, los yog kev txwv tsis pub rau tej yam kev ua txhaum cai yav dhau los. (Tsis yog txhua yam kev txwv siv rau txhua txoj hauj lwm.)
----

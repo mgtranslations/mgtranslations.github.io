@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener · Ua ke nrog thiab pab txhawb OSU Extension Master Gardener™ Program
-
 # Ua Teb Nyob rau Hauv Txaj Siav
 
 Ua teb nyob rau hauv txaj siav (raised beds) yog ib qho uas cov neeg ua teb tau siv tau ntau puas xyoo lawm. "Siav" txhais tias cov av hauv txaj siab dua qhov av ib puag ncig, thiab "txaj" txhais tias nws me txaus kom koj siv tes ua haujlwm hauv txaj, tsis tas yuav nkag mus hauv av.
@@ -89,12 +87,3 @@ Cov no yog qee phau ntawv ntawm OSU uas muaj nyob ntawm [OSU Extension Catalog](
 
 - **Raised Bed Gardening FS 270**
 - **How to Build Your Own Raised Bed Cloche EC 1627-E**
-
----
-
-#### Kev Qhia los ntawm Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam ntaub ntawv thiab teev sij hawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev cais tawm hauv txhua yam kev pab, kev ua haujlwm, kev ua si, thiab ntaub ntawv ntawm tus neeg vim haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam los txiv neej, kev qhia tus kheej txog poj niam/txiv neej, kev sib deev, kev xiam oob khab, hnub nyoog, txoj kev sib yuav, tsev neeg, nyiaj los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, kev qhia caj ces, kev ua tub rog, kev raug txim, los yog kev raug pauj rau kev tiv thaiv cai. (Tsis yog txhua yam no siv rau txhua qhov kev pab cuam.)
----

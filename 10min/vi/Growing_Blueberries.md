@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp của OSU Extension Master Gardener™
-
 # Trồng Việt Quất
 
 ### Tại sao nên trồng việt quất?
@@ -38,7 +36,6 @@
 - **Loại phân**: Ammonium sulfate, urê, phân cho đỗ quyên, bột lông vũ, bột hạt bông hoặc bột đậu nành.
 - **Cách bón**: Rải đều phân trong phạm vi 12 đến 18 inch quanh mỗi cây, không bón trực tiếp lên gốc hoặc thân cây.
 
-#### Lượng đạm (N) theo tuổi cây
 
 | Năm trồng | Lượng N (ounce) mỗi năm |
 |-----------|------------------------|
@@ -54,7 +51,6 @@
 - **Thời gian bón**: Chia tổng lượng đạm thành ba phần bằng nhau, bón lần đầu vào giữa tháng 4, lần hai vào giữa tháng 5 và lần cuối vào giữa đến cuối tháng 6.
 - **Phủ mùn cưa mới**: Bón phân lên lớp phủ và tăng thêm 25% tổng lượng.
 
-#### Cách tính lượng phân bón cần dùng
 
 Để tính lượng phân cần sử dụng:
 - Chia lượng N khuyến nghị cho phần trăm N có trong loại phân bạn chọn.
@@ -87,10 +83,3 @@
 - [Trồng các loại quả mọng ở Bờ biển Oregon: Việt quất EM9179](https://catalog.extension.oregonstate.edu/)
 - [Tài liệu hướng dẫn cắt tỉa](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Hạ pH đất cho việt quất và các cây cảnh trong vườn EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Tư vấn của Chuyên gia Làm vườn™ · Gọi Đường dây hỗ trợ Làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới (bao gồm thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ các chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì các hoạt động bảo vệ quyền dân sự trước đó. (Không phải tất cả các tiêu chí cấm đều áp dụng cho mọi chương trình.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration et en soutien avec le programme OSU Extension Master Gardener™
-
 # La Taille Facile
 
 Ce document se concentre sur les arbres et les arbustes, laissant de côté les plantes annuelles, les vivaces et les graminées ornementales pour une exploration future.
@@ -103,12 +101,3 @@ Cette règle générale peut être enfreinte avec des plantes très vigoureuses,
   - *Cass Turnbull’s Guide to Pruning* par Cass Turnbull
 - **Fiches 10-Minute University™ :**
   - *La taille des arbres et des arbustes* disponible sur [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Conseils des Maîtres Jardiniers™ · Appelez la ligne d’aide en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches 10-Minute University™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et supports, sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, du revenu provenant d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou de la riposte à une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 ## Mẹo Tưới Nước
 
 ### Lý Thuyết & Kỹ Thuật
@@ -33,13 +31,11 @@
 
 ### Tưới Nước Không Hiệu Quả
 
-#### Dấu hiệu tưới quá nhiều
 
 - Lá vàng hoặc lốm đốm
 - Lá chuyển xanh nhạt hoặc vàng rồi rụng
 - Cây phát triển kém, thân yếu ớt và dễ ngã
 
-#### Dấu hiệu thiếu nước
 
 - Lá vàng hoặc lốm đốm
 - Lá trông xỉn màu, hơi xám, không bóng
@@ -54,22 +50,18 @@ Dù bạn chọn phương pháp tưới nào, hãy kiểm tra độ ẩm đất 
 
 - Hoa và rau: sâu 12–15 inch (30–38 cm)
 
-#### Tưới Trên Cao
 
 - Tưới trên cao cho cây và bụi (bằng vòi phun hoặc tay) có thể làm tăng bệnh nấm và vi khuẩn như bệnh mốc táo, gỉ sắt và đốm đen trên hoa hồng.
 - Tưới đủ sớm trong ngày để lá kịp khô trước khi tối.
 
-#### Tưới Bằng Tay
 
 - Tưới bằng tay có thể cung cấp nước nhanh hơn khả năng thấm của đất, gây tràn nước.
 
-#### Vòi Phun
 
 - Vòi phun có thể tưới cả những nơi không cần thiết và thường tưới nhanh hơn tốc độ thấm của đất.
 - Sử dụng loại vòi chỉ tưới cho vườn, không tưới lan ra khu vực xung quanh.
 - Giảm thất thoát do bay hơi bằng cách tưới vào lúc mát, ít gió (buổi tối đến sáng).
 
-#### Hệ Thống Tưới Nhỏ Giọt
 
 - **Ưu điểm:**
   - Cung cấp nước trực tiếp vào vùng rễ với lượng đều suốt mùa.
@@ -98,15 +90,9 @@ Dù bạn chọn phương pháp tưới nào, hãy kiểm tra độ ẩm đất 
   - [Keys to Water-efficient Landscapes, EM 9134](https://catalog.extension.oregonstate.edu/)
   - [Landscape Maintenance to Conserve Water, EM 9135](https://catalog.extension.oregonstate.edu/)
 
-#### Tư Vấn Làm Vườn Chuyên Nghiệp
 
 - **Gọi Đường Dây Tư Vấn Làm Vườn Gia Đình:**
   - 503-655-8631 (Quận Clackamas)
   - 503-821-1150 (Quận Washington)
   - 503-445-4608 (Quận Multnomah)
 - Để xem thêm các tài liệu và lịch học 10-Minute University™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-#### Dịch vụ Khuyến nông Đại học Bang Oregon · Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong mọi chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả đũa vì các hoạt động quyền công dân trước đó. (Không phải tất cả các yếu tố bị cấm đều áp dụng cho tất cả các chương trình.)
----

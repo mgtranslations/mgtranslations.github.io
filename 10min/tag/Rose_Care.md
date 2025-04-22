@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pag-aalaga ng Rosas
 
 ### Mag-Field Trip
@@ -42,7 +40,6 @@ Bukod sa pagpili ng tamang rosas, ang tamang pagtatanim ang pinakamahalagang gaw
 
 ### Pagpuputol
 
-#### Malaking Pagpuputol tuwing Mid-February
 
 Buksan ang gitna ng halaman para maganda ang daloy ng hangin:
 
@@ -55,14 +52,12 @@ Buksan ang gitna ng halaman para maganda ang daloy ng hangin:
 
 Pagkatapos, dapat matira lang ang malalakas at malulusog na sanga na nakakalat palabas mula sa base ng halaman.
 
-#### Pagputol ng Bulaklak na Nalanta (Deadheading)
 
 Alisin lahat ng nalantang bulaklak:
 
 1. Kapag tinanggal ang huling nalantang bulaklak, putulin lang sa taas ng dahon na may 3 o 5 leaflet.
 2. Mas mataas ang putol, mas mabilis ang muling pamumulaklak pero mas maliit ang bulaklak. Mas mababa ang putol, mas matagal ang muling pamumulaklak pero mas malaki ang bulaklak.
 
-#### Pagpuputol tuwing Nobyembre
 
 Paigsiin ang sanga para mabawasan ang pinsala ng hangin sa ugat:
 
@@ -86,12 +81,3 @@ Alisin lahat ng dahon para mapatulog ang halaman.
 
 - [Pagkontrol sa Sakit at Aphids sa Iyong Rosas (EC 1520)](https://catalog.extension.oregonstate.edu/ec1520)
 - [Pagmu-mulch ng Woody Ornamentals gamit ang Organic Materials (EC 1629-E)](https://catalog.extension.oregonstate.edu/ec1629-e)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan sa kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/panmagulang, kita mula sa pampublikong tulong, paniniwalang politikal, impormasyong henetiko, katayuang beterano, paghihiganti, o pagbalikwas dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

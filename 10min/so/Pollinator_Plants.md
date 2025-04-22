@@ -1,12 +1,9 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khabiirka ah ee Degmada Clackamas oo iskaashanaya lana shaqaynaya Barnaamijka Beeraleyda Khabiirka ah ee OSU Extension Master Gardener™
-
 # Dhirta Dabayl-qabayaasha
 
 ### Shinnida
 
 Shinnidu waxay jeceshahay ubaxyada caddaanka, hurdi, ama buluuga ah ee furan, dheer ama dhuuban.
 
-#### Geedaha iyo Dhirta Laamo Leh
 
 | Nooca Dhirta            | Magaca Caanka ah         | Xilliga Ubaxu          |
 |-------------------------|--------------------------|------------------------|
@@ -26,7 +23,6 @@ Shinnidu waxay jeceshahay ubaxyada caddaanka, hurdi, ama buluuga ah ee furan, dh
 | Spiraea douglasii       | Douglas spiraea          | Gu', Xagaa            |
 | Vaccinium               | Huckleberry              | Gu'                   |
 
-#### Dhirta Sannad Walba Soo Bixisa (Perennials)
 
 | Nooca Dhirta                | Magaca Caanka ah       | Xilliga Ubaxu          |
 |-----------------------------|------------------------|------------------------|
@@ -50,7 +46,6 @@ Shinnidu waxay jeceshahay ubaxyada caddaanka, hurdi, ama buluuga ah ee furan, dh
 | Sedum                       | Sedum                  | Xagaa                  |
 | Symphyotrichum subspicatum  | Douglas aster          | Dayr                   |
 
-#### Dhirta Sanadlaha ah
 
 | Nooca Dhirta           | Magaca Caanka ah         | Xilliga Ubaxu        |
 |------------------------|--------------------------|----------------------|
@@ -73,7 +68,6 @@ Baalashu waxay jecel yihiin ubaxyada fidsan ee casaan, oranji, ama guduud ah. Wa
 
 Shimbiraha hummingbird waxay jecel yihiin ubaxyada dhuuban ee casaanka ah.
 
-#### Dhirta Sanadlaha iyo Sannad Walba, Laamaha
 
 | Nooca Dhirta           | Magaca Caanka ah         | Xilliga Ubaxu          |
 |------------------------|--------------------------|------------------------|
@@ -86,7 +80,6 @@ Shimbiraha hummingbird waxay jecel yihiin ubaxyada dhuuban ee casaanka ah.
 | Ribes                  | Flowering Currant        | Gu'                    |
 | Salvia                 | Salvia ama Sage          | Xagaa, Dayr            |
 
-#### Dhirta Laamaha Dhuuban (Vines)
 
 | Nooca Dhirta      | Magaca Caanka ah         | Xilliga Ubaxu        |
 |-------------------|--------------------------|----------------------|
@@ -104,7 +97,3 @@ Shimbiraha hummingbird waxay jecel yihiin ubaxyada dhuuban ee casaanka ah.
     - *Soo Jiidashada Dabayl-qabayaasha Beertaada*, Jaamacadda 10-Daqiiqo™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Buugga Ilaalinta Dabayl-qabayaasha**, Ururka Xerces
     - Booqo [www.xerces.org](http://www.xerces.org) si aad u hesho kheyraad dheeraad ah oo ka socda Ururka Xerces
-
----
-
-#### Adeegga Ballaarinta ee Jaamacadda Oregon State University wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka iyadoo loo eegayo jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da'da, xaalada guurka, xaalada qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda askari hore, aargudasho ama ciqaab la xiriirta hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan barnaamij kasta.)

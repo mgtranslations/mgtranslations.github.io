@@ -1,5 +1,3 @@
-#### 10分钟大学™ · 克拉克马斯县园艺大师协会与俄勒冈州立大学推广园艺大师™项目合作并支持
-
 ## 让你的花园更具气候适应力：植物
 
 地球当前的变暖趋势导致冰川融化、海平面上升、海洋酸化加剧，以及更频繁、更严重的干旱和洪水。太平洋西北地区经历了长期干旱、野火发生频率和严重程度上升、热浪、昆虫暴发和树木病害。积雪减少导致河流和溪流的最大水流提前，从而减少了水资源供应。除了这些趋势之外，气候变化还带来了更频繁的极端天气事件（如热浪和暴雨）。  
@@ -59,7 +57,6 @@
 
 ### 利用植物试验结果
 
-#### 西北地区植物评估
 
 俄勒冈州立大学对五类植物的抗旱性和耐寒性进行了田间试验：
 
@@ -69,7 +66,6 @@
 - [海贝属](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [岩蔷薇](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### 气候适应型景观植物项目
 
 五所大学进行的抗旱性田间试验：
 
@@ -81,7 +77,6 @@
   [了解更多](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [加州大学试验信息](https://ucanr.edu/sites/UCLPIT/)
 
-#### 其他试验
 
 - [芝加哥植物园试验](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/)（美国中西部上部）
 - [库巴山中心试验](https://mtcubacenter.org/research/trial-garden/)（美国中大西洋地区）
@@ -91,8 +86,3 @@
 
 - [优秀植物推荐](https://greatplantpicks.org/): Miller植物园数据库，包含1000多种植物，可按生长环境（阳光/阴影）和特性（大小、叶色）筛选。
 - [年度多年生植物](https://perennialplant.org/page/PPOY): 每年推荐表现突出的多年生植物。
-
----
-
-#### 俄勒冈州立大学推广服务禁止在其所有项目、服务、活动和材料中基于种族、肤色、民族、宗教、性别、性别认同（包括性别表达）、性取向、残疾、年龄、婚姻状况、家庭/父母身份、依赖公共救助计划所得收入、政治信仰、基因信息、退伍军人身份或曾经参与民权活动而受到报复或打击的情况下进行歧视。（并非所有禁止的歧视基础适用于所有项目。）
----

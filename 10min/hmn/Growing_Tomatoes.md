@@ -1,5 +1,3 @@
-#### 10-Feeb University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb OSU Extension Master Gardener™ Program
-
 # Kev Loj Hlob Txiv Lws Suav Hauv Vaj Tsev
 
 ## Xaiv Hom Uas Yuav Loj Hlob
@@ -9,7 +7,6 @@
 - Xaiv seb yuav pib cog los ntawm noob, lossis yuav tsob nroj los cog.
 - Kawm seb hom determinate los yog indeterminate thiaj haum rau koj lub vaj.
 
-#### Hom Txiv Lws Suav
 
 | Hom         | Chaw / Kev Txhawb Nqa         | Yam Loj Hlob      | Sijhawm Sau Qoob                 |
 |-------------|-------------------------------|-------------------|----------------------------------|
@@ -64,7 +61,6 @@ Tsob nroj npaj txhij rau hauv av thaum siab 10–15” thiab av kub txog 60°F (
 5. Txiav nplooj hauv qab thiab cov ceg (suckers) uas nyob qis dua thawj cov paj.
 6. Xaiv ib txoj kev cog:
 
-#### Txoj Kev Ntog (Trench Method)
 
 - **Zoo:** Cag nyob hauv av sov tshaj; haum rau tsob nroj ntev.
 - **Tsis zoo:** Yuav tsum muab dej thiab khawb av kom zoo.
@@ -76,7 +72,6 @@ Tsob nroj npaj txhij rau hauv av thaum siab 10–15” thiab av kub txog 60°F (
   - Tso cim rau kawg cag kom tsis txhob txhab cag thaum kho vaj.
   - Muab kev txhawb nqa rau thaum cog kom tsis txhob txhab cag.
 
-#### Txoj Kev Ncaj (Vertical Method)
 
 - **Zoo:** Muaj dej ntau rau cag; txiv lws suav tsis tawg.
 - **Tsis zoo:** Av tob txias dua, loj hlob thiab siav qeeb dua.
@@ -126,12 +121,3 @@ Tsob nroj npaj txhij rau hauv av thaum siab 10–15” thiab av kub txog 60°F (
   - [Pib Cog Txiv Lws Suav Los Ntawm Noob](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
   - [Cog Txiv Lws Suav Rau Koj Lub Vaj](https://www.youtube.com/watch?v=Pucpx5fuKdk)
   - [Kev Tu Vaj Uas Pov Thawj Tau Zoo](https://www.youtube.com/watch?v=lpVBg-e_1vE)
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Chaw Pab Horticulture hauv Tsev: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · 10-Minute University™ Cov Ntawv Qhia thiab Video: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua yam kev pab cuam, kev pab, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, lub teb chaws yug, kev ntseeg, poj niam txiv neej, kev paub txog poj niam txiv neej (xws li kev qhia poj niam txiv neej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj tsev neeg/kev ua niam txiv, nyiaj los ntawm cov kev pab pej xeem, kev ntseeg hauv nom tswv, cov ntaub ntawv caj ces, kev ua haujlwm tub rog, kev raug txim lossis raug pauj vim ua ntej kev tiv thaiv cai tib neeg. (Tsis yog txhua yam txwv raug siv rau txhua qhov kev pab cuam.)
----

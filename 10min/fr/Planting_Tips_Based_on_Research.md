@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme OSU Extension Master Gardener™
-
 ## Conseils de plantation basés sur la recherche horticole
 
 ### Aperçu
@@ -56,11 +54,4 @@ Le principe pour améliorer le sol est de ne pas l’amender du tout ou d’amen
 ### Informations supplémentaires
 
 - **Jardinage durable**, publication de l’Oregon State University Extension EM 8742  
-- **Paysages et jardins durables : bonne science, application pratique**, Washington State University  
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’assistance horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour des fiches et vidéos de l’Université en 10 Minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Oregon State University interdit toute discrimination dans ses programmes, services, activités et documents fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les sanctions suite à une activité liée aux droits civils antérieure. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----
+- **Paysages et jardins durables : bonne science, application pratique**, Washington State University

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Gärtnern im Hochbeet
 
 Das Gärtnern in Hochbeeten ist seit Jahrhunderten eine gängige Praxis. „Erhöht“ bedeutet, dass das Bodenniveau im Beet höher ist als das umliegende Bodenniveau, und „Beet“ zeigt an, dass es klein genug ist, um es von den Wegen aus zu bearbeiten.
@@ -89,12 +87,3 @@ Folgende OSU-Publikationen sind unter [OSU Extension Catalog](http://catalog.ext
 
 - **Raised Bed Gardening FS 270**
 - **How to Build Your Own Raised Bed Cloche EC 1627-E**
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minuten-Universität™-Infoblätter und Kurspläne finden Sie unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle untersagten Gründe gelten für alle Programme.)
----

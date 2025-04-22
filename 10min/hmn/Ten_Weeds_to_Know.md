@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kaum Tsob Nyom Tseem Ceeb Uas Yuav Tau Paub
 
 Ib tsob nyom yog ib tsob nroj uas ua teeb meem lossis ntxhov siab, lossis ua rau tib neeg, tsiaj txhu, lossis cov qoob loo uas peb xav tau raug mob. Nyob hauv vaj tsev, cov nyom tuaj yeem:
@@ -95,8 +93,3 @@ Paub koj cov nyom pab kom koj nrhiav tau txoj kev tswj hwm zoo tshaj plaws:
 
 - [Perennial Weed Biology and Management, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Invasive Plants/Invasive Plant & Pest Management, The City of Portland, Oregon](https://www.portlandoregon.gov)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua haujlwm, thiab ntaub ntawv nyob rau hauv txhua yam, xws li haiv neeg, xim tawv nqaij, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, cim xeeb poj niam txiv neej (xws li kev qhia txog poj niam txiv neej), kev nyiam sib deev, xiam oob khab, hnub nyoog, txij nkawm, muaj me nyuam, nyiaj txiag los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, raug tsim txom los yog raug pauj vim kev tiv thaiv txoj cai tib neeg yav dhau los. (Tsis yog txhua hom kev txwv no siv rau txhua qhov kev pab cuam.)
----

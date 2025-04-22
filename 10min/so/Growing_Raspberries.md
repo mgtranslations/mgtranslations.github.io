@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ · Ururka Beeraleyda Masterka ee Degmada Clackamas oo kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Sida Loo Koro Raspberries
 
 ### Maxaa Loo Koraa Raspberries?
@@ -42,7 +40,6 @@ Raspberries inta badan waxaa la iibiyaa iyadoo xididkoodu bannaan yahay. Ka iibs
 
 ### Bacriminta
 
-#### Dhirta Cusub
 Sannadka aad beerto, bacriminta dhir kasta oo 10 feet ah la bacrimiyo **2 ounces oo Nitrogen (N)** ah. Isticmaal bacrimin isku dheelli tiran sida **16-16-16** ama mid dabiici ah (tusaale, cottonseed meal).
 
 Si aad u xisaabiso qadarka loo baahan yahay:
@@ -54,5 +51,4 @@ Ha wada bixin bacriminta hal mar. U qaybi saddex qaybood:
 2. Qaybta labaad bixi 1 bil kadib.
 3. Qaybta ugu dambeysa bixi bil kale kadib.
 
-#### Dhirta Horey U Baxday
 Bacriminta sannad

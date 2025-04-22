@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Saib Xyuas Kev Ua Vaj Tse Clackamas County koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kev Ua Vaj Nrog Mulch
 
 Mulch yog ib txheej khoom uas muab rau saum av kom tau ib lossis ntau qhov zoo hauv qab no:
@@ -53,23 +51,19 @@ Mulch yas feem ntau siv los tiv thaiv nroj tsuag phem lossis ua kom av sov.
 
 ### Yuav Siv Mulch Yas Li Cas
 
-#### Tiv Thaiv Nroj Tsuag Phem
 
 1. Muab yas dub rau saum av tom qab npaj av thiab tso dej kiag lawm.
 2. Muab av los hnyav ntug yas kom kav.
 3. Coj noob lossis tsob me rau hauv yas los ntawm kev txiav ib qho X.
 4. Siv yas uas muaj qhov los yog xuas nplawm kom dej nkag tau.
 
-#### Ua Kom Av Sov
 
 - **Yas dawb lossis pom kev**: Ua kom av sov zoo tshaj tab sis yuav pab nroj tsuag phem loj.
 - **Yas dub**: Ua kom av sov tsawg dua tab sis tiv thaiv nroj tsuag phem.
 
-#### Ua Kom Av Qhuav
 
 Npog thaj av nrog yas dub lub caij ntuj no kom av qhuav rau kev npaj cog thaum ntxov caij nplooj ntoos hlav. Muab av los hnyav ntug yas kom tsis txhob ua vaj rau nroj tsuag phem loj lossis kab laum zais.
 
-#### Pab Nroj Tsuag Nyiam Sov Loj thiab Siav Sai
 
 Txiv lws suav, kua txob, dib, strawberry, thiab lwm yam uas nyiam sov, muaj kev tshawb fawb txog kev siv mulch yas ntau yam xim rau kev loj hlob, siav, thiab qoob loo.
 
@@ -81,10 +75,3 @@ Txiv lws suav, kua txob, dib, strawberry, thiab lwm yam uas nyiam sov, muaj kev 
 ## Cov Chaw Kawm Ntxiv
 
 - **OSU Extension Service Phau Ntawv**: [Mulching Woody Ornamentals with Organic Materials](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Master Gardener™ Pab Tswv Yim · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm 10-Minute University™ ntawv thiab caij kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub cais tawm leej twg hauv nws cov kev pab, kev kawm, kev ua haujlwm, thiab ntaub ntawv vim haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, cim npe poj niam txiv neej (nrog rau kev qhia txog poj niam txiv neej), kev nyiam poj niam nyiam txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, muaj menyuam/txiv tub, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, kev raug pauv txom nyem, lossis rau qhov tau ua ib qho kev tiv thaiv cai. (Tsis yog txhua yam no yuav siv rau txhua qhov kev pab.)
----

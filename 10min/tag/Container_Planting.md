@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Pagtatanim sa Lalaga
 
 ### Pangkalahatang-ideya
@@ -73,8 +71,3 @@ Nalilinis palabas ng paso ang mga sustansiya ng pataba tuwing dinidiligan. Kaya 
   - 503-445-4608 (Multnomah County)
 - [Container Planting Video](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
 - Para sa iba pang 10-Minute University™ handouts at videos, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama na ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan bilang magulang/pamilya, kita mula sa programang pampubliko, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, paghihiganti o ganti para sa nakaraang gawain sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa).
----

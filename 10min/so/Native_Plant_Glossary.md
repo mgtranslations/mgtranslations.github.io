@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master ee Clackamas County oo iskaashi la leh Barnaamijka OSU Extension Master Gardener™
-
 ## Qaamuuska Dhirta Dabiiciga ah
 
 ### Dhirta Dabiiciga ah
@@ -37,8 +35,3 @@ Isbeddelada dhirta, oo sidoo kale loo yaqaan 'sports' ama 'chimeras', waa isbedd
 
 - Taranka dhirta iyadoo la adeegsanayo qaybaha geedka (vegetative propagation) ayaa loo isticmaalaa in lagu ilaaliyo sifooyinka la rabo. Dhirta badanaa way u nugul yihiin "dib u noqoshada" taas oo macnaheedu yahay in geedka oo dhan ama qayb ka mid ah uu ku soo laabto qaabkii asaliga ahaa.
 - **Tusaale:** Ubaxa Camellia oo leh dhibcooyin iyo xariijimo.
-
----
-
-##### Adeegga Ballaarinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan: midab, asal qaran, diin, jinsi, aqoonsi jinsiyeed (oo ay ku jirto muujinta jinsiyeed), jihaynta galmo, naafonimo, da’ , xaalada guur, xaalada qoys/waalid, dakhli ka yimid barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidde-side, heerka ciidanimada, ciqaab ama aargoosi la xiriirta ficil xuquuqda madaniga ah ee hore (Ma aha dhammaan sababaha la mamnuucay inay khuseeyaan dhammaan barnaamijyada).
----

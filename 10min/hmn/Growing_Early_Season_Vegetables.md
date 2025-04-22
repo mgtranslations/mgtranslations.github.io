@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kawm Loj Hlob Zaub Caij Ntxov
 
 ### Dab Tsi
@@ -53,7 +51,6 @@ Mus saib **[Yuav Ua Li Cas Tsim Koj Tus Kheej Lub Cloche Av Tsa (EC 1627)](http:
 
 ### Xaiv Ntawm Noob, Noob Laus, Los Yog Zaub Ib Xyoos
 
-#### Noob
 
 Zaub carrots, taum paj, zaub xas lav, kohlrabi, zaub ntsuab, beet, thiab radish loj hlob yooj yim los ntawm noob. Tsuas yog lauj noob ncaj qha rau hauv av xwb.
 
@@ -61,14 +58,12 @@ Zaub carrots, taum paj, zaub xas lav, kohlrabi, zaub ntsuab, beet, thiab radish 
   - Ntuab noob rau hauv dej 2-4 teev ua ntej muab lauj rau hauv av.
   - Los yog muab noob ntub rau hauv ob daim ntawv so tes uas ntub dej, muab tso rau hauv hnab yas, cia rau qhov chaw sov kom txog thaum noob tawg.
 
-#### Noob Laus
 
 Cog koj tus kheej noob laus pab kom koj tau hom zaub koj xav thiab cog rau lub sijhawm zoo.
 
 - Zaub cabbage, broccoli, cauliflower, thiab kale muaj nyob ntau hauv khw.
 - Yuav noob laus los cog pab kom tau zaub sai, tshwj xeeb rau cov zaub uas yooj yim taw paj thaum lub caij sov.
 
-#### Zaub Ib Xyoos
 
 Qee yam zaub tsis muaj noob lossis noob laus, xws li qos yaj ywm, qej, thiab dos (bulbs), uas tuaj yeem muab lauj ncaj qha rau hauv av.
 
@@ -96,7 +91,6 @@ Feem ntau zaub yog ib xyoos thiab xav tau tshuaj noj txaus kom loj hlob zoo.
   - Bone meal (12-24% P)
   - Kelp meal (2-5% K)
 
-#### Kuaj Av
 
 Qaum teb Portland cov vaj zaub feem ntau muaj phosphorus, potassium, thiab lwm yam tshuaj noj ntau. Yuav tsum kuaj av kom pom puas muaj yam twg tsis txaus thiab tsuas pub tshuaj noj raws li xav tau xwb.
 
@@ -115,7 +109,3 @@ Mus saib [OSU Extension Service](http://catalog.extension.oregonstate.edu) kom p
 - **Fall and Winter Vegetable Gardening in the Pacific Northwest (PNW 548)**
 
 Mus saib [10-Minute University™ Resources](http://www.cmastergardeners.org/10-minute-university) kom tau ntaub ntawv thiab yeeb yaj kiab txog kev cog zaub.
-
----
-
-#### Oregon State University Extension Service txwv tsis pub ua txoj kev cais tawm hauv txhua qhov kev pab, kev ua, kev sib tham, thiab ntaub ntawv ntawm pab pawg raws li haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam txiv neej, tus kheej kev qhia (xws li kev qhia poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, kev muaj tsev neeg, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug tsim txom, lossis kev ua phem vim kev tiv thaiv txoj cai. (Tsis yog txhua yam uas txwv tau siv rau txhua qhov kev pab.)

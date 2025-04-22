@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Pagkontrol ng Mga Moles
 
 ### Panimula
@@ -52,10 +50,3 @@ Kailangan ng mga mole ng maraming pagkain at maaaring maglakbay ng kalahating mi
 
 - [Pagkontrol ng Mga Mole EC 987](https://catalog.extension.oregonstate.edu)
 - [Handbook ng Sustainable Gardening EM 8742](https://catalog.extension.oregonstate.edu)
-
-#### Master Gardener™ Payong · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa 10-Minute University™ handouts at iskedyul ng klase: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama na ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang may asawa, katayuang pampamilya/pagiging magulang, kita mula sa programang tulong ng gobyerno, paniniwalang pulitikal, impormasyon sa henetika, katayuang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

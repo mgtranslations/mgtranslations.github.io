@@ -1,12 +1,7 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
----
-
 ## Especificidades do Cultivo de Hortaliças de Raiz
 
 ### Cultivo de Bulbos
 
-#### Alho
 
 - **Plantio:**
   - Plante os bulbos de alho de agosto a outubro para melhores resultados.
@@ -24,7 +19,6 @@
   - Deixe o alho secar em local fresco e seco por algumas semanas.
   - Apare as folhas e corte as raízes.
 
-#### Cebolas
 
 - **Plantio:**
   - Plante mudas de cebola em março, quando está mais fresco.
@@ -41,7 +35,6 @@
   - Retire o excesso de terra e deixe as cebolas elevadas em local fresco e seco por 1–2 semanas.
   - Corte as folhas e as raízes.
 
-#### Alho-poró
 
 - **Plantio:**
   - Comece as sementes em bandejas dentro de casa no fim de fevereiro ou início de março (8–10 semanas antes da última geada), usando solo para mudas.
@@ -63,7 +56,6 @@
 
 ### Cultivo de Rizomas
 
-#### Gengibre ou Açafrão-da-terra (Cúrcuma)
 
 - **Plantio:**
   - Propague a partir de um rizoma saudável e firme.
@@ -85,7 +77,6 @@
 
 ### Cultivo de Raízes Pivotantes
 
-#### Cenoura, Rabanete, Beterraba e Pastinaca
 
 - **Plantio:**
   - Plante as sementes no início da primavera, quando o solo estiver em torno de 4°C, ou no fim do verão para uma colheita no outono.
@@ -107,7 +98,6 @@
 
 ### Cultivo de Raízes Tuberosas
 
-#### Batata-doce
 
 - **Plantio:**
   - Plante a partir de “mudas” no início de abril.
@@ -127,7 +117,6 @@
 
 ### Cultivo de Tubérculos
 
-#### Batata
 
 - **Plantio:**
   - Plante no fim de março ou início de abril.
@@ -149,8 +138,3 @@
 
 - [Culturas de raiz podem impulsionar sua horta na primavera](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Raízes, caules e bulbos comestíveis - Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar ou parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior relacionada a direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

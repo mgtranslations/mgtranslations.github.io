@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Solo 101
 
 ### O que é Solo?
@@ -64,10 +62,3 @@ Nunca mexa no solo quando ele estiver úmido. Isso pode deixar o solo empedrado 
 - [Como Coletar uma Amostra de Solo e Por Quê (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [Adubando Seu Jardim: Hortaliças, Frutas e Ornamentais (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - Jardinagem com Composto, folheto da Universidade de 10 Minutos™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Conselho do Mestre Jardineiro™ · Ligue para o serviço de horticultura doméstica: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Para outros folhetos da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda derivada de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior em direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

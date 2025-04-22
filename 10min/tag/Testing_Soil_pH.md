@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
----
-
 ## Pagsusuri ng pH ng Lupa
 
 ### Pangkalahatang-ideya
@@ -71,7 +67,6 @@ Ang bawat sample ay magbibigay ng pH na resulta:
 
 Kapag Master Gardener ang nagsuri, tutulungan ka rin nilang unawain ang resulta at magbigay ng impormasyon kung paano ito aayusin. Pinakamainam na baguhin ang pH ng lupa sa loob ng ilang taon. Magdagdag ng tamang amendment tuwing taglagas at suriin muli ang pH ng lupa matapos ang 3 hanggang 6 na buwan. Ulitin kung kinakailangan.
 
-#### Pagtaas ng pH ng Lupa
 
 - Magdagdag ng apog (lime) sa taglagas para sa pinakamagandang resulta.
 - Gumamit ng **5 hanggang 10 libra ng apog bawat 100 square feet** kung ihahalo bago magtanim.
@@ -85,7 +80,6 @@ Kapag Master Gardener ang nagsuri, tutulungan ka rin nilang unawain ang resulta 
 - Kung powdered ang gagamitin, magsuot ng mask.
 - Ang dolomite lime ay may magnesium at magandang piliin ng mga hardinero sa Western Oregon, kung saan madalas kulang ang lupa sa magnesium.
 
-#### Pagbaba ng pH ng Lupa
 
 - Magdagdag ng elemental sulfur sa taglagas para sa pinakamahusay na resulta.
 - Para sa mga established na puno at palumpong, maglagay ng kaunting sulfur sa lupa sa paligid ng drip line o ikalat ito sa hilera ng blueberries.
@@ -102,12 +96,3 @@ Bisitahin ang inyong OSU Extension Service office sa 200 Warner-Milne Road, Oreg
 - **Listahan ng Mga Analytical Lab sa Oregon** (EM 8677)
 - **Pagsusuri ng Lupa para sa mga Bahay at Maliit na Sakahan** (EC 628)
 - **Pagpapasimula ng Asim ng Lupa para sa Blueberries at Ornamental Plants sa Hardin** (EC 1560-E)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org) o [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama na ang gender expression), sexual orientation, kapansanan, edad, katayuang may asawa o magulang, kita mula sa public assistance program, paniniwalang pampulitika, impormasyong henetiko, katayuang beterano, parusa o pagganti dahil sa dating aktibidad ng civil rights. (Hindi lahat ng ipinagbabawal ay umaapekto sa lahat ng programa.)
----

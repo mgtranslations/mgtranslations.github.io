@@ -1,7 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khubaro ah ee Clackamas County oo iskaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
----
-
 ## Beeralayda Dayrta ee Goobta Khudradda
 
 ### Goosashada iyo Kaydinta Khudradda
@@ -85,12 +81,3 @@ Nadiifinta dayrtu waxay fududeysaa jardiinada guga:
   - Beeralayda Balka
   - Beeralayda Sariirta Sare
   - Tijaabinta pH Dhulka
-
----
-
-#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta ee Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo iyo jadwal fasallo dheeraad ah ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga OSU Extension wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa dhammaan, iyadoo la eegayo: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dookha galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sidaha, xaaladda ciidanimada, ciqaabta, ama aargoosiga dhaqdhaqaaqyadii hore ee xuquuqda madaniga. (Dhammaan xeerarkan lama dabaqo dhammaan barnaamijyada.)
----

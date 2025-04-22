@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · In Cooperation with Oregon State University Extension Service
-
 # Gardening with Children Ages 11-14
 
 Gardening with children aged 11 to 14 can be exciting and rewarding for both children and adults. It pulls them away from computer and other screen time, sparks imagination, and reduces stress and anxiety. Children of this age are physically ready to do more extensive garden work and will enjoy exploring structures in the garden, such as building a trellis or a raised garden bed. These activities save space, provide better sunlight and soil, and are very empowering for children.
@@ -72,11 +70,3 @@ There are many wonderful picture and instructional books about gardening that ch
 ## Oregon State University Resource
 
 - [Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)
-
----
-
-#### Master Gardener™ Advice · Call the Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

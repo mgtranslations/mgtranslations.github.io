@@ -1,12 +1,7 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du programme OSU Extension Master Gardener™
-
----
-
 ## Spécificités de la culture des plantes-racines
 
 ### Cultiver des bulbes
 
-#### Ail
 
 - **Plantation :**
   - Plantez les bulbes d’ail entre août et octobre pour de meilleurs résultats.
@@ -24,7 +19,6 @@
   - Laissez sécher l’ail dans un endroit frais et sec pendant quelques semaines.
   - Coupez les feuilles et enlevez les racines.
 
-#### Oignons
 
 - **Plantation :**
   - Plantez les bulbilles d’oignon en mars, quand il fait frais.
@@ -41,7 +35,6 @@
   - Enlevez la terre et laissez sécher les oignons en hauteur dans un endroit frais et sec pendant 1 à 2 semaines.
   - Coupez les feuilles et retirez les racines.
 
-#### Poireaux
 
 - **Plantation :**
   - Commencez les semis à l’intérieur fin février ou début mars (8 à 10 semaines avant la dernière gelée) dans des plateaux peu profonds avec du terreau.
@@ -63,7 +56,6 @@
 
 ### Cultiver des rhizomes
 
-#### Gingembre ou curcuma
 
 - **Plantation :**
   - Multipliez à partir d’un rhizome sain et dodu.
@@ -85,7 +77,6 @@
 
 ### Cultiver des racines pivotantes
 
-#### Carottes, radis, betteraves et panais
 
 - **Plantation :**
   - Semez les graines tôt au printemps lorsque le sol atteint environ 4°C ou à la fin de l’été pour une récolte d’automne.
@@ -107,7 +98,6 @@
 
 ### Cultiver des racines tubéreuses
 
-#### Patates douces
 
 - **Plantation :**
   - Faites pousser à partir de “boutures” (“slips”) début avril.
@@ -127,7 +117,6 @@
 
 ### Cultiver des tubercules
 
-#### Pommes de terre
 
 - **Plantation :**
   - Plantez fin mars ou début avril.
@@ -149,8 +138,3 @@
 
 - [Les plantes-racines peuvent donner un coup de pouce à votre potager de printemps](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Racines, tiges et bulbes comestibles – Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou de la rétorsion pour une activité antérieure relative aux droits civils. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

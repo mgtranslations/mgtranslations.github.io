@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Jardineiros Mestres do Condado de Clackamas em colaboração com e em apoio ao Programa de Jardineiros Mestres™ da Extensão da OSU
-
 # Como Controlar Tatuíras (Gophers)
 
 ### Introdução
@@ -16,13 +14,11 @@ As tatuíras vivem em sistemas de túneis que podem cobrir uma área de 20 a 185
 
 As tatuíras podem ser controladas em qualquer época do ano, mas o uso de armadilhas ou iscas é mais eficiente quando aparecem novos montes, geralmente na primavera e no outono. Tanto armadilhas quanto iscas tóxicas são eficazes.
 
-#### Armadilhas
 
 - Existem vários tipos de armadilhas para tatuíras, que são fáceis de encontrar e de usar. Você pode colocá-las no túnel lateral que leva até o monte, mas são mais eficazes quando colocadas no túnel principal.
 - Encontre o túnel principal sondando cerca de 30 centímetros de distância do monte. Para instruções detalhadas sobre como localizar o túnel, consulte *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands*, disponível gratuitamente online no [Catálogo da Extensão OSU](http://extension.oregonstate.edu/catalog).
 - Coloque duas armadilhas de costas uma para a outra no túnel profundo e prenda-as. Mude as armadilhas de lugar se não pegar nada em 2 ou 3 dias.
 
-#### Iscas
 
 - Coloque iscas tóxicas nos túneis principais conforme as instruções do rótulo. Localize os túneis usando uma sonda e coloque a isca pelo buraco feito pela sonda.
 - Um método alternativo é abrir o túnel com uma pequena pá e colocar a isca diretamente dentro dele.
@@ -30,11 +26,9 @@ As tatuíras podem ser controladas em qualquer época do ano, mas o uso de armad
 - Verifique a área periodicamente por 2 semanas após o tratamento e descarte qualquer animal morto que encontrar.
 - **Importante:** Não seguir todas as instruções do rótulo pode causar ferimentos a outros animais, animais de estimação ou crianças. Use iscas apenas como último recurso.
 
-#### Fumigantes
 
 - Fumigantes, às vezes chamados de “gopher gassers”, raramente são eficazes, a menos que o solo esteja muito úmido ou seja de argila densa.
 
-#### Exclusão
 
 - Cercas subterrâneas podem ser justificadas para proteger arbustos ornamentais ou árvores valiosas.
 - Para proteger plantas já existentes, enterre tela metálica ou arame de galinheiro com malha de até 2 cm de diâmetro, pelo menos 60 centímetros de profundidade, com mais 15 centímetros do arame dobrado em ângulo de 90 graus para fora da plantação.
@@ -45,15 +39,12 @@ As tatuíras podem ser controladas em qualquer época do ano, mas o uso de armad
 - Use arame leve apenas em arbustos e árvores que precisam de proteção enquanto são jovens. Deixe espaço suficiente para o crescimento das raízes. O arame galvanizado oferece proteção por mais tempo.
 - Colocar de 15 a 20 centímetros de cascalho grosso (com pedras de 2,5 cm ou mais de diâmetro) ao redor de linhas subterrâneas de irrigação ou cabos também pode afastar as tatuíras.
 
-#### Controle Natural
 
 - Predadores como corujas, cobras, gatos, cães e coiotes podem reduzir a população de tatuíras, mas talvez não sejam suficientes.
 
-#### Inundação
 
 - As tatuíras resistem à irrigação normal de jardins e quintais, mas a inundação pode, às vezes, forçá-las a sair dos túneis, tornando-as presas mais fáceis para predadores.
 
-#### Métodos Ineficazes
 
 - Muitos dispositivos afirmam espantar tatuíras — incluindo estacas vibratórias, aparelhos ultrassônicos e cataventos movidos a vento. Porém, esses roedores não se assustam facilmente, provavelmente porque já estão acostumados com barulhos e vibrações de irrigadores, cortadores de grama, veículos e pessoas circulando.
 - Outros métodos ineficazes incluem colocar chicletes ou laxantes nos túneis, esperando matar as tatuíras.
@@ -66,15 +57,9 @@ Veja abaixo alguns dos muitos recursos disponíveis:
   - *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands* (PNW 627E)
   - *Sustainable Gardening* (EM8742)
 
-#### Dicas dos Jardineiros Mestres™
 
 - **Ligue para a Linha de Ajuda em Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para folhetos do 10-Minute University™ e calendário de aulas, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

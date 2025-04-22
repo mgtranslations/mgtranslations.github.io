@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pagtatanim ng Gulay sa Taglamig
 
 ### Mga Benepisyo ng Pagtatanim ng Sariling Gulay
@@ -25,17 +23,14 @@ Mahalagang malaman ang petsa ng unang nagyeyelong gabi (first frost) sa inyong l
 
 ### Paano Magtanim
 
-#### Pinagmulan
 
 Puwedeng itanim ang mga gulay mula sa buto o maglipat ng mga punla. Gumamit ng mga halaman na nakalaan talaga para sa pagtatanim sa taglagas.
 
-#### Lokasyon
 
 Pumili ng lugar na nakakakuha ng anim hanggang walong oras ng sikat ng araw. Gamitin ang mga pader o bakod na nakaharap sa timog na nakakabounce at nakakapanatili ng init. Ang mga raised bed, gawa sa kahoy o simpleng nakataas na lupa, ay mas mabilis uminit sa tagsibol at mas matagal magpanatili ng init.
 
 Siguraduhing protektado ang iyong taniman mula sa malalakas na hangin at maayos ang drainage ng lupa.
 
-#### Paghahanda ng Lupa
 
 Ihanda ang lupa sa pamamagitan ng pagtanggal ng mga bato at damo. Lagyan ng mga pampataba kung kinakailangan.
 
@@ -74,7 +69,6 @@ Makukuha ang mga publikasyong ito online sa [https://catalog.extension.oregonsta
 - **Improving Garden Soil with Organic Matter** EC 1561
 - **Soil Fertility in Organic Systems** PNW 646
 
-#### Payong Master Gardener™
 
 - **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
@@ -82,8 +76,3 @@ Makukuha ang mga publikasyong ito online sa [https://catalog.extension.oregonsta
   - 503-445-4608 (Multnomah County)
 - Bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org) para sa mga handouts at video ng 10-Minute University™.
 - Hanapin ang mga Master Gardener sa mga Farmers’ Market sa inyong lugar.
-
----
-
-##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan sa kasarian (kasama ang gender expression), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, genetic na impormasyon, pagiging beterano, at paghihiganti o pagganti sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal ay nauukol sa lahat ng programa.)
----

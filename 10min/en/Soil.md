@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 ## Make Your Garden More Climate-Resilient: Soil
 
 Earth is undergoing a warming trend that results in melting glaciers, rising sea levels, increasing ocean acidity, and more frequent and severe droughts and floods. The Pacific Northwest has seen prolonged drought, increasing wildfire incidence and severity, heat waves, insect outbreaks, and tree diseases. Reduced snowpack results in earlier peak flows in rivers and streams, which reduces water supplies. In addition to these trends, climate change brings erratic, extreme weather events (heat waves, heavy rain) in greater frequency.
@@ -61,7 +59,3 @@ How do we garden in these times? This handout offers ideas for building resilien
 - [The Dirty Secrets of a Living Landscape, Oregon State University EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Carbon Sequestration in Soil, Ecological Society of America](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. et al. *Root biomass and exudates link plant diversity with soil bacterial and fungal biomass.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

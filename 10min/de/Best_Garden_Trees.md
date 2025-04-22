@@ -1,7 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
----
-
 ## WARNUNG: Die Originaldatei enthält viele Bilder und konnte nicht vollständig übersetzt werden. Bitte schauen Sie sich auch die Original-PDF-Datei [hier](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf) an.
 
 # Die besten Bäume für den Garten
@@ -232,12 +228,3 @@ Bilder findest du unter [https://jfschmidt.com](https://jfschmidt.com).
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
 - *Trees to Know in Oregon and Washington*, Edward C. Jensen, Oregon State University Extension Service, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Handouts und Kurspläne besuche [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich geschlechtlicher Ausdrucksweise), sexueller Orientierung, Behinderung, Alter, Familienstand, elterlichem Status, Einkommen aus öffentlichen Hilfsprogrammen, politischen Überzeugungen, genetischer Information, Veteranenstatus, Repressalien oder Vergeltung wegen früherer Bürgerrechtsaktivitäten. (Nicht alle untersagten Gründe gelten für alle Programme.)
----

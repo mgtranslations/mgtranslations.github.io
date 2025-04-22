@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Xirfadlaha ah ee Degmada Clackamas oo la kaashanaya Barnaamijka Xirfadlaha Beeralayda ee OSU Extension Master Gardener™
-
 # Toban Caws oo Aad Ogaato
 
 Caws waa geed dhibaato ama dhib keena, ama mid dhaawac u geysta dadka, xoolaha, ama dalagga la rabo. Beerta guriga dhexdeeda, cawsku wuu:
@@ -95,8 +93,3 @@ Inaad barato cawskaaga waxay kaa caawineysaa inaad ogaato hababka ugu fiican ee 
 
 - [Bayoolojiyadda iyo Maamulka Cawska Sanadyo Badan, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Dhirta Faafinta/Invasive Plant & Pest Management, Magaalada Portland, Oregon](https://www.portlandoregon.gov)
-
----
-
-##### Adeegga Ballaarinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka, iyadoo aan loo eegin jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da'da, xaalada guurka, xaalada qoyska/waalidnimo, dakhliga laga helo barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidde-sidaha, xaaladda askari hore, ciqaabta ama aargudashada la xiriirta dhaqdhaqaaq hore oo xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

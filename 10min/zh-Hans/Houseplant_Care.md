@@ -1,5 +1,3 @@
-#### 10分钟大学™ · 克拉克马斯县园艺大师协会，与俄勒冈州立大学推广园艺大师™项目合作并支持
-
 # 如何养护室内植物
 
 种植室内植物是为家中增添郁郁葱葱绿色植物的好方法。虽然有些室内植物非常容易养活，但所有植物都需要基本的养护。植物在接近其原生环境的环境中生长得最好。在购买新植物之前，了解它们的基本需求，判断家中是否有合适的位置，以及你是否能为其提供适当的养护。
@@ -83,12 +81,3 @@
 - [易养的多肉植物越来越受欢迎](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [色彩丰富的室内植物是节日里的美好礼物](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [易养的室内香草让烹饪更有风味](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### 园艺大师™建议 · 如需园艺大师的建议，请联系你所在地区的俄勒冈州立大学推广办公室。联系方式请查阅：[https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us)。如需10分钟大学™讲义和课程安排，请访问[https://cmastergardeners.org](https://cmastergardeners.org)。
-
----
-
-##### 俄勒冈州立大学推广服务在其所有项目、服务、活动和资料中，禁止基于种族、肤色、民族、宗教、性别、性别认同（包括性别表达）、性取向、残疾、年龄、婚姻状况、家庭/父母身份、公共援助收入来源、政治信仰、遗传信息、退伍军人身份、对以往民权活动的报复或反击等方面的歧视。（并非所有禁止的依据都适用于所有项目。）
----

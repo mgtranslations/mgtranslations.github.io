@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Cuidados com o Gramado
 
 ### Introdução
@@ -109,12 +107,3 @@ Publicações da OSU disponíveis online em [http://catalog.extension.oregonstat
 - **Cuidados Práticos com Gramados no Oeste do Oregon** (EC1521)  
 - **Estabelecimento e Renovação Prática de Gramados** (EC1550)  
 - **Misturas de Sementes para Gramados no Oeste do Oregon e Oeste de Washington** (EM9100)
-
----
-
-#### Orientação de Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos do 10-Minute University™ e calendário de aulas, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior relacionada a direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

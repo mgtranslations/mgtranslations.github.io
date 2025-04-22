@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · In collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Mulches: The Good, the Bad, and the Really, Really Ugly
 
 **Dr. Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Washington State University
 
 ### Problems with Coarse Woody Mulches
 
-#### Bark Mulches
 
 - Bark mulch can be contaminated with salt or weed seeds
 - Bark contains waxes that prevent absorption and release of water in landscapes
 - Softwood bark mulches are often not "people friendly" due to tiny, sharp fibers
 
-#### Arborist Wood Chips
 
 - Concerns about high carbon:nitrogen ratio – will this cause a nitrogen deficiency?
 - Will diseased wood transfer pathogens if it is used for chips?
 
-#### Nitrogen Availability
 
 - Wood chip mulches have a high C:N ratio, leading to a localized nitrogen deficiency at the mulch-soil interface
 - Wood chip mulches do not cause nitrogen deficiency in established plants
 - High C:N ratio in wood chips probably prevents germination of some weed seeds
 
-#### Fungal Pathogens and Wood Chips
 
 - Armillaria, Cytospora, Thyronectria and Verticillium can all survive on large wood segments for months
 - Survival is enhanced if wood chips are incorporated into soil
 - No evidence that pathogens in mulch can infect roots below the soil surface
 
-#### Fungal Communities in Wood Chips
 
 - Fungal species in wood chips are generally decomposers, not pathogens
 - In healthy (aerobic) soils, beneficial fungi probably out-compete pathogenic fungi
@@ -230,11 +223,3 @@ Blog: http://www.gardenprofessors.com
 Books: http://www.sustainablelandscapesandgardens.com  
 Facebook page: http://www.facebook.com/TheGardenProfessors  
 Facebook group: https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # The Enabled Gardener
 
 ### Introduction
@@ -12,7 +10,6 @@ Gardening can provide a life-long hobby that has both mental and physical benefi
 
 Choosing the correct size and function for gardening tools can make all the difference in comfort and effective use of tools.
 
-#### Pruning Tools
 
 - **Pruners**
   - Size matters! Find the size that fits your hand best for ease of use and comfort. Many pruners come in small, medium, and large versions. They also come in left- and right-handed versions.
@@ -30,7 +27,6 @@ Choosing the correct size and function for gardening tools can make all the diff
   - **Geared Loppers**
     - Provide 40% more power when cutting. Longer handles give more leverage.
 
-#### Hand Tools
 
 - Look for ergonomic tools that keep the wrist in a neutral position with the wrist in a straight line with the forearm. As mobility and strength diminish, it is more efficient to use larger joints to get the job done. Being able to use the forearm and shoulder for a task takes strain off hands and wrists.
 - Adaptations such as “D” handles can be added to standard rakes and brooms for good grip and to help keep wrists straight.
@@ -89,11 +85,3 @@ Choosing the correct size and function for gardening tools can make all the diff
   - [Download Guide](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Carry on Gardening**  
   - [Top Tips for Disabled Gardeners](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Orchard Mason Bee
 
 ### Overview
@@ -42,7 +40,6 @@ Several parasites, predators, and pathogens can injure or kill mason bees:
 
 You can rid your bees of mites and chalkbrood by cleaning the cocoons between October and December. Adults are fully developed at this time and can withstand this process.
 
-#### Cleaning Process
 
 1. Wash your bees in water no warmer than 50°F to avoid waking them up.
 2. Soak the cocoons for no more than 5 minutes in cool water with a mixture of 0.05% bleach (1 tablespoon bleach per 1 gallon of water).
@@ -59,11 +56,3 @@ You can rid your bees of mites and chalkbrood by cleaning the cocoons between Oc
   [Read more here](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Nurturing Mason Bees in Your Back Yard in Western Oregon*, Oregon State University Extension publication EM 9130  
   [Read more here](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · For other 10-Minute University™ handouts and videos, visit [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

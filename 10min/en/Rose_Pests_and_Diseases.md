@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Common Diseases and Pests of Roses
 
 Roses can be a fragrant and lovely addition to any garden in the Pacific Northwest. However, they are known to be plagued by a few common diseases and pests. This handout provides monitoring and prevention strategies to ensure beautiful blooms and foliage throughout the summer.
@@ -62,7 +60,3 @@ Roses can be a fragrant and lovely addition to any garden in the Pacific Northwe
 Contact your local OSU Extension office for Master Gardener advice. Check this site for contact information: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 For 10-Minute University™ handouts and class schedules, visit [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

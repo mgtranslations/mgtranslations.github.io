@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión OSU
-
 # Cómo Controlar Babosas y Caracoles
 
 ### Algunos Datos Básicos
@@ -113,10 +111,3 @@ Fomenta la presencia de depredadores que se adapten a tu forma de jardinería.
 ## Recursos
 
 Consigue publicaciones de Extensión OSU en [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-
-#### Consejos de Maestro Jardinero™ · Llama a la línea de ayuda de horticultura en casa: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para hojas informativas de Universidad de 10 Minutos™ y el calendario de clases: Visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

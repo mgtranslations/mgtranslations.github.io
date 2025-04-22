@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeraleyda Khabiirka ah ee Clackamas County oo iskaashi la leh Barnaamijka OSU Extension Master Gardener™
-
 # Koritaanka Khudaarta Jiilaalka
 
 ### Faa’iidooyinka Koritaanka Khudaartaada
@@ -25,17 +23,14 @@ Waa muhiim inaad ogaato taariikhda barafka ugu horreeya ee aaggaaga. La tasho ti
 
 ### Sida Loo Beero
 
-#### Isha
 
 Khudaarta waxa si toos ah looga beeri karaa abuur ama waxa laga beeri karaa geedo yar-yar. Isticmaal geedo si gaar ah loogu talagalay beerta xilliga dayrta.
 
-#### Goobta
 
 Dooro meel heli karta lix ilaa siddeed saacadood oo qorrax ah. Ka faa’iidayso dhismayaasha sida derbiyada koonfureed u jeeda ama xayndaabyada si ay u soo celiyaan oo u hayaan kulaylka muddo dheer. Sariiraha la koryeelay, oo laga sameeyo alwaax ama si fudud ciidda la buunbuuniyo, waxa ay kulaylka ku heleen hore gu’ga waxayna kulaylka hayaan muddo dheer.
 
 Hubi in goobtaada laga ilaaliyo dabaylaha xooggan, isla markaana ciiddu leedahay biyo-mareen fiican.
 
-#### Diyaarinta Ciida
 
 Diyaari ciidda adigoo ka saaraya dhagxaanta iyo haramaha, isla markaana ku daraya waxyaabo nafaqo leh sida loogu baahdo.
 
@@ -74,7 +69,6 @@ Hel qoraalladan internetka [https://catalog.extension.oregonstate.edu](https://c
 - **Hagaajinta Ciida Beerta ee Walxo Dabiici ah** EC 1561
 - **Nafaqada Ciida ee Nidaamka Dabiiciga ah** PNW 646
 
-#### Talooyinka Master Gardener™
 
 - **Wac Khadka Caawinta Beerta Guriga:**
   - 503-655-8631 (Clackamas County)
@@ -82,8 +76,3 @@ Hel qoraalladan internetka [https://catalog.extension.oregonstate.edu](https://c
   - 503-445-4608 (Multnomah County)
 - Booqo [www.cmastergardeners.org](https://www.cmastergardeners.org) si aad u hesho waraaqaha iyo fiidyowyada 10-Daqiiqo Jaamacad™.
 - Ka raadi Master Gardener-yada suuqyada beeraleyda ee deegaankaaga.
-
----
-
-##### Adeegga Ballaarinta Jaamacadda Gobolka Oregon · Adeegga Ballaarinta Jaamacadda Gobolka Oregon waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku salaysan: midab, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), dareenka galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhli laga helo barnaamij gargaar dowladeed, caqiido siyaasadeed, macluumaad hidde-sideed, xaaladda askari hore, ama aargoosi/tallo-ciyaar la xiriirta hawlaha xuquuqaha madaniga ah ee hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

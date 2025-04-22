@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme OSU Extension Master Gardener™
-
 # Jardiner avec le compost
 
 Le compost est un excellent paillis lorsqu’il est placé sur le sol. Il sert d’engrais et d’amendement du sol lorsqu’il est mélangé à la terre. En suivant les étapes de cette fiche, un jardinier amateur peut transformer des tontes de gazon, des feuilles et d’autres déchets de jardin en compost à utiliser chez soi.
@@ -137,12 +135,3 @@ Sursemer les pelouses avec du compost est recommandé pour fournir un apport len
 ## Ressources du Service d’Extension OSU
 
 - [Jardiner avec composts, paillis et couvertures de rangs, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour les fiches et le planning des cours 10-Minute University™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans l’ensemble de ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut marital, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les mesures de rétorsion suite à une activité antérieure en matière de droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

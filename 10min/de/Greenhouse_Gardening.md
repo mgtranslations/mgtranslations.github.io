@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Gewächshaus-Gärtnern 101
 
 ### Einführung
@@ -34,7 +32,6 @@ Ein Gewächshaus im eigenen Garten ermöglicht einen frühen Start in die Garten
 
 ### Gewächshaustypen
 
-#### Angelehnte Gewächshäuser
 
 - **Vorteile:**
   - Oft günstiger.
@@ -45,7 +42,6 @@ Ein Gewächshaus im eigenen Garten ermöglicht einen frühen Start in die Garten
   - Die Höhe kann durch das Gebäude begrenzt sein.
   - Eine gute Dampfsperre ist nötig, damit keine Feuchtigkeit ins Haus dringt.
 
-#### Freistehende Gewächshäuser
 
 - **Vorteile:**
   - Mehr Möglichkeiten bei der Platzwahl, mehr Licht.
@@ -143,8 +139,3 @@ Für viele Gewächshäuser ist ein Fundament nötig. Es kann aus behandeltem Hol
 
 **Gewächshäuser für Hausbesitzer und Gärtner (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

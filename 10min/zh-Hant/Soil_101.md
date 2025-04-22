@@ -1,5 +1,3 @@
-#### 10-Minute University™ · 克拉克馬斯郡園藝大師協會 與 奧勒岡州立大學推廣園藝大師™ 計畫合作並支持
-
 # 土壤入門
 
 ### 什麼是土壤？
@@ -64,10 +62,3 @@
 - [如何採集土壤樣本及原因 (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [給你的花園施肥：蔬菜、水果與觀賞植物 (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - 用堆肥園藝，10-Minute University™ 講義：[www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### 園藝大師™ 諮詢 · 家庭園藝熱線：克拉克馬斯郡：503-655-8631 · 華盛頓郡：503-821-1150 · 穆特諾瑪郡：503-445-4608 · 其他 10-Minute University™ 講義請見 [www.cmastergardeners.org](http://www.cmastergardeners.org)。
-
----
-
-##### 奧勒岡州立大學推廣服務部在其所有計劃、服務、活動和資料中，禁止基於種族、膚色、國籍、宗教、性別、性別認同（包括性別表現）、性取向、殘疾、年齡、婚姻狀況、家庭/家長身份、依靠公共援助計畫獲得收入、政治信仰、基因資訊、退伍軍人身份、報復或先前的民權行動而進行歧視。（並非所有禁止歧視的情形都適用於所有計劃。）
----

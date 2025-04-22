@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme OSU Extension Master Gardener™
-
 # Aménagement paysager Firewise pour réduire les risques d’incendie de forêt
 
 ### Introduction
@@ -17,14 +15,12 @@ Vous pouvez faire beaucoup pour réduire les risques ! Deux facteurs principaux 
 
 Ces deux éléments définissent la **Zone d’Ignition de la Maison (HIZ).**
 
-#### Zone Immédiate (HIZ 1)
 
 - **Comprend :** La maison jusqu’à 1,5 mètre (5 pieds) de la fondation.
 - **Objectif :** Réduire les risques d’ignition près de la maison.
 - **Consignes :**
   - Pas de végétation autre que des paniers annuels/contenants et une pelouse bien entretenue.
 
-#### Zone Intermédiaire (HIZ 2)
 
 - **Comprend :** 1,5 à 9 mètres (5–30 pieds) autour de votre maison.
 - **Objectif :** Empêcher le feu de grimper dans la partie supérieure des arbres ou arbustes pour protéger la maison.
@@ -32,7 +28,6 @@ Ces deux éléments définissent la **Zone d’Ignition de la Maison (HIZ).**
   - Éliminer les « échelles de combustible » (branches basses d’arbres et arbustes proches qui permettent aux flammes d’atteindre la maison).
   - Cette zone doit être « épurée, propre et verte ».
 
-#### Zone Élargie (HIZ 3)
 
 - **Comprend :** 9 à 30 mètres (ou plus) autour de votre maison.
 - **Objectif :** Réduire l’intensité de l’incendie et ralentir sa progression vers les bâtiments.
@@ -48,7 +43,6 @@ Ces deux éléments définissent la **Zone d’Ignition de la Maison (HIZ).**
 
 Saviez-vous que la majorité des maisons perdues lors d’incendies de forêt le sont à cause des braises transportées par le vent, et non par le feu principal ?
 
-#### Points importants
 
 - **Toits :**
   - Les toits sont les plus vulnérables à cause des braises.
@@ -63,13 +57,11 @@ Saviez-vous que la majorité des maisons perdues lors d’incendies de forêt le
 
 ### Aménagement paysager Firewise vs traditionnel
 
-#### Caractéristiques des plantes résistantes au feu
 
 - Teneur élevée en eau.
 - Branches ouvertes et végétation non résineuse.
 - Les arbres et plantes à feuilles caduques sont généralement moins inflammables que les conifères.
 
-#### Caractéristiques des plantes très inflammables
 
 - Faible teneur en eau.
 - Contiennent des substances comme des huiles, résines, cire ou poix.
@@ -79,12 +71,10 @@ Saviez-vous que la majorité des maisons perdues lors d’incendies de forêt le
 
 ### Options de plantes résistantes au feu
 
-#### HIZ 1
 
 - **Recommandé :** Annuelles et gazon (bien arrosés).
 - **À éviter :** Arbustes contenant des composés volatils (ex. : genévrier, thuya, romarin). Évitez les arbres qui surplombent le toit.
 
-#### HIZ 2
 
 - **Recommandé :**
   - Arbustes bas à branches ouvertes (ex. : lilas, symphorine).
@@ -92,7 +82,6 @@ Saviez-vous que la majorité des maisons perdues lors d’incendies de forêt le
   - Annuelles et vivaces sans composés volatils.
 - **À éviter :** Plantes très inflammables à proximité des bâtiments.
 
-#### HIZ 3
 
 - **Recommandé :**
   - Grands arbres et arbustes bien espacés.
@@ -106,19 +95,16 @@ Saviez-vous que la majorité des maisons perdues lors d’incendies de forêt le
 
 ### Bonnes pratiques à la maison
 
-#### HIZ 1
 
 - Entretenez les plantes avec un arrosage et une taille appropriés.
 - Éliminez les débris végétaux morts.
 - Tondez la pelouse régulièrement.
 
-#### HIZ 2
 
 - Gardez les plantes saines par arrosage et taille.
 - Utilisez du paillis si arrosé.
 - Ramassez et enlevez les débris.
 
-#### HIZ 3
 
 - Maintenez des chemins larges pour les secours.
 - Taillez les branches basses des arbres et arbustes matures.
@@ -129,18 +115,15 @@ Saviez-vous que la majorité des maisons perdues lors d’incendies de forêt le
 
 ### Risques d’incendie autour de la maison et de la propriété
 
-#### HIZ 1
 
 - Évitez le paillis à cause de son caractère combustible.
 - Les clôtures, portails et tonnelles en bois peuvent servir d’échelles de combustible.
 - Entretenez les terrasses en bois et évitez d’y stocker des matériaux combustibles dessous ou à proximité.
 
-#### HIZ 2
 
 - Évitez les plantes très inflammables près des bâtiments.
 - Tondez l’herbe et enlevez les débris végétaux.
 
-#### HIZ 3
 
 - Entreposez le bois de chauffage à au moins 9 mètres (30 pieds) de la maison.
 
@@ -148,12 +131,10 @@ Saviez-vous que la majorité des maisons perdues lors d’incendies de forêt le
 
 ### Conseils sur les matériaux d’aménagement paysager résistants au feu
 
-#### Matériaux recommandés
 
 - Matériaux incombustibles : béton, gravier, brique, pierre, fer, aluminium, verre.
 - La pelouse et les couvre-sols bas peuvent ralentir les flammes et créer des coupe-feu.
 
-#### Matériaux très inflammables
 
 - L’écorce de cèdre rouge de l’Ouest est le paillis qui s’enflamme le plus facilement.
 - Les clôtures, portails et treillis en bois sont combustibles.
@@ -167,8 +148,3 @@ Saviez-vous que la majorité des maisons perdues lors d’incendies de forêt le
 
 - **Plantes résistantes au feu pour l’aménagement paysager résidentiel**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)
-
----
-
-###### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports sur la base de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris l’expression de genre), orientation sexuelle, handicap, âge, statut matrimonial, statut familial/parental, revenu provenant d’une aide publique, convictions politiques, informations génétiques, statut d’ancien combattant, représailles ou mesures de rétorsion pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

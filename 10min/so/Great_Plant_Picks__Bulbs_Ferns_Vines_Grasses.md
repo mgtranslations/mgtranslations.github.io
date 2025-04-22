@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Xirfadlayaasha ah ee Clackamas County · Iyadoo lala kaashanayo lana taageerayo Barnaamijka OSU Extension Master Gardener™
-
 ## Xulashada Dhirta Wanaagsan: Bulbs, Qurso, Dhirta Fuulka, iyo Cawska
 
 ### Muhiim
@@ -85,8 +83,3 @@ Great Plant Picks (GPP) waa barnaamijka waxbarasho ee ugu weyn ee Beerta Botanic
 - Kuma badna cudurro ama cayayaan dhibaato leh.
 - Waxay keenaan xiiso in ka badan hal xilli beerta.
 - Dhirta GPP badankoodu waxay leeyihiin faa’iidooyin deegaan (kororso shinnida, cunto shimbiro, hoy xayawaan, iwm).
-
----
-
-###### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo qalabka ku salaysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helay barnaamijyada caawimaada dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda ciidanimo, ciqaabta ama aargoosiga la xiriira hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada mamnuuca ah ma khuseeyaan dhammaan barnaamijyada.)
----

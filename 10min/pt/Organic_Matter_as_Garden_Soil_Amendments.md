@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Matéria Orgânica como Melhorador do Solo de Jardim
 
 Melhoradores de solo podem melhorar a estrutura do solo, aumentar a fertilidade e melhorar a retenção de água. Os melhoradores devem ter baixo teor de sais químicos e conter nitrogênio suficiente para alimentar as plantas e os microrganismos do solo. Para beneficiar as plantas, melhore toda a área de plantio. Se isso não for possível, preencha novos plantios com o solo nativo. Preencher o buraco de plantio com composto e outros melhoradores cria uma interface (onde dois tipos de solo se encontram) com o solo nativo, o que dificulta o movimento do ar, água e raízes.
@@ -117,8 +115,3 @@ Não é mais recomendada devido ao dano ambiental causado pela extração.
 
 **Planejamento:** O sucesso depende de plantar e eliminar as plantas de cobertura na época certa para evitar competição com as hortaliças.  
 [Plantas de Cobertura para Hortas Caseiras](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/de responsabilidade parental, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

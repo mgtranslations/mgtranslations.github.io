@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Xirfadlaha ee Degmada Clackamas oo kaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Dhulka Cuntada laga Beerto
 
 ### Guudmarka
@@ -23,23 +21,18 @@ Dhulka cuntada laga beerto waa isticmaalka dhirta cunto soo saarta ee lagu beero
 
 ### Waxyaabaha Laga Fakarayo
 
-#### Goobta
 
 Badankoodu miraha iyo khudradda waxay u baahan yihiin qorrax 6 ilaa 8 saacadood si ay si fiican u baxaan. Qaar ka mid ah dhirta deegaanka sida salmonberry iyo thimbleberry waxay qaadan karaan hadh, sida dhirta caleenta la cuni karo sida letuska iyo kaalka.
 
-#### Meesha
 
 Xasuuso inaad tixgeliso cabbirka dhirta marka ay weynaato. Geedaha yaryar ama kuwa dhexe iyo geedaha yaryar ee bushka ah waxay ku fiican yihiin meelaha ciriiriga ah. Sabuuradaha, xayndaabyada, iyo armaajooyinka waxaa lagu kordhin karaa dhirta la cuni karo ee geedaha, bushka, iyo laamaha.
 
-#### Waqtiga iyo Daryeelka
 
 Dhirta la cuni karo waxay u baahan yihiin daryeel goobo gaar ah inta lagu jiro kobcintooda si ay u sii ahaadaan kuwo miro dhala. Waxay u baahan doonaan dhul wanaagsan, waraabin iyo bacriminta saxda ah, iyo maarayn adag oo cudurrada iyo cayayaanka ah. Tani waxay si gaar ah muhiim u tahay marka dhirtu ay yar tahay ama cusub tahay.
 
-#### Isticmaalka
 
 Ogow goorta la goosanayo, oo u diyaar garoow inaad isticmaasho waxa badan ee beertaadu soo saarto.
 
-#### Quruxda
 
 Dhirta qurxinta waxay bixisaa midabo ubaxyo kala duwan, qaabab caleen, dhumuc, iyo midab caleen. Haddii aad wax yar baarto, waad heli kartaa dhir la cuni karo oo leh astaamaha aad rabto. Tusaale ahaan:
 
@@ -50,7 +43,6 @@ Dhirta qurxinta waxay bixisaa midabo ubaxyo kala duwan, qaabab caleen, dhumuc, i
 
 ### Liis Kooban oo Dhir La Cuni Karo (* waxay muujinaysaa dhir deegaanka ah)
 
-#### Geedo Yaryar (10 ilaa 20 cagood)
 
 - **Tufaax**: Ka dooro noocyo kala duwan sida semi-dwarf, espalier, iyo columnar; dhammaan waxay leeyihiin ubaxyo casaanka ah xilliga guga. Noocyada sida Chehalis, Jonafree, Liberty, Prima, iyo Redfree waa kuwo adkaysi u leh cudurka scab.
 - **Black Elderberry***: Caleemo madaw oo lacy ah, midhaha waxaa loo isticmaalaa jelly, sharoobo, iyo khamri. Geed dabka u adkaysta.
@@ -61,7 +53,6 @@ Dhirta qurxinta waxay bixisaa midabo ubaxyo kala duwan, qaabab caleen, dhumuc, i
 - **Plum**: Miraha bislaaday waxay noqon karaan cagaar, dahabi, cas, ama guduud. Brooks iyo Italian waa noocyada ugu fudud in la beero. Brown rot waa cudurka ugu badan.
 - **Serviceberry***: Kooxo ubaxyo cad ah oo guga hore ah; dayrta waxay leedahay midab huruud ilaa oranji ah. Waxay la qabsan kartaa noocyo badan oo dhul ah iyo qoyaan.
 
-#### Bushyo (geedo laan adag leh, sanadle, ama xilliyeed; 3 ilaa 10 cagood)
 
 - **Blueberry**: Midab qurxoon oo la yaab leh xilliga dayrta iyo miro badan xagaaga. Way fududahay in la beero, cudur badana lagama helo.
 - **Currant iyo Gooseberry**: Berri badan oo dhanaan oo loo isticmaalo jams iyo jelly. Way fududahay in lagu beero dhul dhexdhexaad ah ilaa mid culus iyo pH dhul kala duwan.
@@ -71,7 +62,6 @@ Dhirta qurxinta waxay bixisaa midabo ubaxyo kala duwan, qaabab caleen, dhumuc, i
 - **Strawberry Tree**: Bush weyn oo cagaar ah oo leh caleemo cagaar madow oo dhalaalaya iyo miro cas oo dhalaalaya. Ubaxda waxay timaadaa dayrta dambe ilaa jiilaalka; ugu fiican meel la ilaaliyo.
 - **Yaanyo**: Miro qurux badan oo la cuni karo oo leh midabo huruud, oranji, cas, cagaar, guduud, iyo madow iyo qaabab kala duwan. Waxaa loo beeraa sida sanadle xilliga xagaaga, yaanyadu waxay u baahan tahay qorax iyo kulayl. Ka fogow waraabinta sare si aad uga hortagto cudurada.
 
-#### Laamaha iyo Kuwo Kora
 
 - **Canab** (canab khamri ama mirod la cuni karo): Caleemo qurux badan oo hoos fiican u sameeya xilliga xagaaga. U baahan goosasho adag oo sanadle ah si ay miro badan u yeelato.
 - **Kiwi** (fuzzy iyo hardy kiwi): Caleemo yaab leh, ubaxyo cad oo bisha May ah, iyo miro midabo kala duwan leh xilliga dayrta. Inta badan waxay u baahan yihiin qaab dhismeed adag si ay u koraan. Noocyo cusub, yaryar oo isbacrimisa ayaa la heli karaa.
@@ -80,7 +70,6 @@ Dhirta qurxinta waxay bixisaa midabo ubaxyo kala duwan, qaabab caleen, dhumuc, i
 - **Qajaar**: Marka la oggolaado inuu fuulo, ubaxiisa iyo mirihiisu waxay noqdaan dhir qurux badan. Aad bay ugu baahan yihiin biyo xilliga kulaylaha.
 - **Digir Laamo Leh**: Waxay u baahan tahay qorax buuxda iyo hawo fiican si aysan u qaadin cudurka powdery mildew. U isticmaal meel carruurta lagu ciyaarsiiyo si loo sameeyo tepees iyo tunnels.
 
-#### Daboolka Dhulka
 
 - **Strawberry**: Ubaxyo cad xilliga guga iyo miro cas xilliga xagaaga; strawberries waa kuwo cimriga gaaban waxayna u baahan yihiin in la beddelo 3 ilaa 4 sanadood kasta.
 - **Lingonberry**: Dabool dhul cagaar ah oo qurux badan oo jilicsan. Waxay miro badan soo saari kartaa marka qorax buuxda hesho balse waxay ku kori kartaa hadh qayb ah.
@@ -90,20 +79,13 @@ Dhirta qurxinta waxay bixisaa midabo ubaxyo kala duwan, qaabab caleen, dhumuc, i
 
 ### Kheyraad Dheeraad ah
 
-#### Kheyraadka Dhirta La Cuni Karo ee Waqooyiga Galbeed
 
 - *Sunset Western Garden Book*
 - Daabacaadaha Jaamacadda Oregon State University Extension: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - *Jaamacadda 10-Daqiiqo*: [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
-#### Talooyinka Master Gardener™
 
 - **Wac Khadka Caawinta Horticulture ee Guriga:**
   - 503-655-8631 (Clackamas)
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State waxay mamnuucaysaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabyadeeda iyadoo la eegayo: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), ku-talo galnimada galmada, naafonimada, da’da, heerka guurka, xaaladda qoyska/waalidnimo, dakhli laga helo barnaamij caawimaad dadweyne, aaminsanaanta siyaasadda, xogta hidde-sideyaasha, xaaladda askarnimo, aargudasho ama ciqaab ka dhalatay hawlo hore oo xuquuqda madaniga ah. (Dhamaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

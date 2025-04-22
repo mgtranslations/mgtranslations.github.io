@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Lupa 101
 
 ### Ano ang Lupa?
@@ -64,10 +62,3 @@ Huwag mag-araro ng lupa kapag basa ito. Kapag ginawa mo ito, magiging buo-buo at
 - [Paano Kumuha ng Soil Sample at Bakit (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [Pagpapabunga ng Iyong Hardin: Mga Gulay, Prutas at Ornamental (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - Paghahardin gamit ang Compost, 10-Minute University™ handout: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Master Gardener™ Gabay · Tumawag sa Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Para sa iba pang 10-Minute University™ handouts, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang pangkasal, katayuang pampamilya/magulang, kita mula sa programang tulong ng gobyerno, paniniwalang pampulitika, impormasyong henetiko, estado ng pagiging beterano, pagganti o paghihiganti para sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

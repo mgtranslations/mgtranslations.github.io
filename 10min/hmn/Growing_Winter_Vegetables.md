@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kawm Cog Zaub Caij Ntuj No
 
 ### Qhov Zoo ntawm Kev Kawm Cog Koj Tus Kheej
@@ -25,17 +23,14 @@ Nws tseem ceeb heev kom paub hnub pib daus thawj zaug hauv koj cheeb tsam. Xyuas
 
 ### Yuav Ua Li Cas Cog Zaub
 
-#### Qhov Chaw Noob los Paj
 
 Zaub cog tau ncaj qha los ntawm noob lossis rho tawm los ntawm paj me. Siv cov nroj tsuag uas muaj npe tshwj xeeb rau kev cog caij nplooj zeeg.
 
-#### Qhov Chaw
 
 Xaiv qhov chaw uas tau hnub ci rau 6 txog 8 teev ib hnub. Siv tau tej tsev, phab ntsa lossis laj kab uas tig rau sab qab teb kom pab kom sov tau ntev. Lub txaj cog zaub uas ua los ntawm ntoo los yog txo av kom siab yuav sov sai dua thaum caij nplooj ntoos hlav thiab khaws sov tau ntev.
 
 Kom koj qhov chaw cog zaub tsis raug cua hlob thiab kom av zoo ntws dej.
 
-#### Npaj Av
 
 Npaj koj daim av los ntawm kev tshem pob zeb thiab nroj tsuag phem, thiab txhim kho av raws li xav tau.
 
@@ -74,7 +69,6 @@ Tau cov phau ntawv no hauv online ntawm [https://catalog.extension.oregonstate.e
 - **Improving Garden Soil with Organic Matter** EC 1561
 - **Soil Fertility in Organic Systems** PNW 646
 
-#### Master Gardener™ Cov Lus Qhia
 
 - **Hu Xov Tooj Nug Kev Pab Ua Vaj Tsev:**
   - 503-655-8631 (Clackamas County)
@@ -82,8 +76,3 @@ Tau cov phau ntawv no hauv online ntawm [https://catalog.extension.oregonstate.e
   - 503-445-4608 (Multnomah County)
 - Mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org) kom tau 10-Minute University™ cov ntaub ntawv thiab yeeb yaj kiab.
 - Nrhiav cov Master Gardeners ntawm Farmers’ Markets hauv zej zog.
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub cais tawm hauv txhua qhov kev pab, kev ua haujlwm, kev lom zem, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej, kev deev poj niam txiv neej, xiam oob khab, hnub nyoog, kev sib yuav, kev muaj menyuam, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qib tub rog, kev raug txim dhau los rau txoj cai li kev tiv thaiv. (Tsuas yog tsis tag nrho cov kev txwv no siv rau txhua qhov kev pab.)
----

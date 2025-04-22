@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Glosaryo ng mga Terminong Panglupa
 
 Para sa kumpletong nilalaman ng glosaryo, tingnan ang publikasyon ng Washington State University Extension EM063E: *Gabay ng Home Gardener sa Lupa at Pataba*.
@@ -188,12 +186,3 @@ Kung gaano kabuo o kapino ang lupa. Ang texture ay base sa dami ng buhangin, lus
 ### Water-Holding Capacity
 
 Kakayahan ng mga butas ng lupa na mag-imbak ng tubig na magagamit ng halaman.
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handout at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang may asawa, katayuan bilang magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genes, katayuan bilang beterano, paghihiganti, o pagbalikwas dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

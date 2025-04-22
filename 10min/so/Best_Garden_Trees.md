@@ -1,7 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khabiirka ah ee Clackamas County · Iyadoo la kaashanayo lana taageerayo Barnaamijka OSU Extension Master Gardener™
-
----
-
 ## DIGNIIN: Faylka asalka ah waxa ku jira sawirro badan lamana tarjumayn si buuxda, fadlan sidoo kale eeg faylka pdf-ga asalka ah [halkan](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
 
 # Geedaha Ugu Wanaagsan Beerta
@@ -232,12 +228,3 @@ Sawirro waxaad ka heli kartaa [https://jfschmidt.com](https://jfschmidt.com).
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
 - *Trees to Know in Oregon and Washington*, Edward C. Jensen, Oregon State University Extension Service, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado iyo jadwal fasallo ah ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta ee Jaamacadda Gobolka Oregon waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, asalka qaranka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalid-nimada, dakhli laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hiddo-sideyaasha, xaaladda askari hore, aargoosi, ama cawaaqib xumada la xiriirta dhaqdhaqaaqyada xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay lama dabaqo barnaamij kasta.)
----

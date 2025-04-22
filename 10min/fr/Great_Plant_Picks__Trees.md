@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme OSU Extension Master Gardener™
-
 # Excellentes Sélections de Plantes : Arbres
 
 **S :** Jardin d’ombre  
@@ -59,8 +57,3 @@ Les plantes GPP sélectionnées pour cette liste répondent aux critères suivan
 - Offrent plus d’une saison d’intérêt au jardin.
 
 Beaucoup de plantes GPP offrent aussi des bénéfices écologiques, comme le soutien aux pollinisateurs, la nourriture pour les oiseaux et l’habitat pour la faune.
-
----
-
-#### Le Service de vulgarisation de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

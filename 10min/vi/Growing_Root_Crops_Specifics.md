@@ -1,12 +1,7 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Thạc Sĩ Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Thạc Sĩ OSU Extension™
-
----
-
 ## Chi Tiết Trồng Các Loại Rau Củ Rễ
 
 ### Trồng Củ
 
-#### Tỏi
 
 - **Trồng:**
   - Trồng củ tỏi từ tháng 8 đến tháng 10 để đạt kết quả tốt nhất.
@@ -24,7 +19,6 @@
   - Để tỏi ở nơi mát, khô trong vài tuần.
   - Cắt tỉa lá và rễ.
 
-#### Hành Tây
 
 - **Trồng:**
   - Trồng củ hành vào tháng 3 khi trời còn mát.
@@ -41,7 +35,6 @@
   - Phủi sạch đất và để hành trên giá ở nơi mát, khô trong 1–2 tuần.
   - Cắt tỉa lá và rễ.
 
-#### Tỏi Tây
 
 - **Trồng:**
   - Gieo hạt trong nhà vào cuối tháng 2 hoặc đầu tháng 3 (8–10 tuần trước khi hết sương giá) trong khay đất mỏng.
@@ -63,7 +56,6 @@
 
 ### Trồng Thân Rễ
 
-#### Gừng hoặc Nghệ
 
 - **Trồng:**
   - Nhân giống từ thân rễ chắc, to khỏe.
@@ -85,7 +77,6 @@
 
 ### Trồng Rễ Cọc
 
-#### Cà rốt, Củ cải, Củ dền và Củ cải trắng
 
 - **Trồng:**
   - Gieo hạt vào đầu mùa xuân khi đất khoảng 40°F hoặc cuối mùa hè để thu hoạch vào mùa thu.
@@ -107,7 +98,6 @@
 
 ### Trồng Rễ Củ
 
-#### Khoai lang
 
 - **Trồng:**
   - Trồng từ cây giống (“slips”) vào đầu tháng 4.
@@ -127,7 +117,6 @@
 
 ### Trồng Củ
 
-#### Khoai tây
 
 - **Trồng:**
   - Trồng vào cuối tháng 3 hoặc đầu tháng 4.
@@ -149,8 +138,3 @@
 
 - [Các loại rau củ rễ giúp bạn khởi động vườn xuân](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Rễ, thân và củ ăn được - Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### Dịch vụ Mở Rộng Đại Học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con cái, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa do hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

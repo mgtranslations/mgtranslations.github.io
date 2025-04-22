@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ah ee Clackamas County oo iskaashanaya lana kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Dambiilo La Hago
 
 ### Guudmar
@@ -61,7 +59,6 @@ Si wax walba u ekaadaan nadiif xilli oo dhan, iska jar ubaxyada haray (deadhead)
 
 Dhir badan ayaa si fiican ugu kora dambiilaha la hago xilliyada kala duwan. Kuwa hoose waa qaar ka mid ah talooyinka, laakiin waxaa jira kuwo kale oo badan. Ogoow in dhir badan ay ku wanaagsan yihiin qoraxda iyo hooska labadaba.
 
-#### Dhirta Dhaadheer ee Qoraxda
 
 - Angelonia
 - Cordyline
@@ -71,7 +68,6 @@ Dhir badan ayaa si fiican ugu kora dambiilaha la hago xilliyada kala duwan. Kuwa
 - Geranium
 - Caws qurxoon
 
-#### Dhirta Dhaadheer ee Hooska
 
 - Heliotrope
 - Coleus hooska
@@ -82,7 +78,6 @@ Dhir badan ayaa si fiican ugu kora dambiilaha la hago xilliyada kala duwan. Kuwa
 - New Guinea impatiens
 - Tuberous begonia
 
-#### Dhirta Buurbuuran ee Qoraxda
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ Dhir badan ayaa si fiican ugu kora dambiilaha la hago xilliyada kala duwan. Kuwa
 - Fantasy petunia
 - Fibrous begonia
 
-#### Dhirta Buurbuuran ee Hooska
 
 - Geranium
 - Nemesia
@@ -99,7 +93,6 @@ Dhir badan ayaa si fiican ugu kora dambiilaha la hago xilliyada kala duwan. Kuwa
 - Impatiens
 - Lobelia dhaadheer
 
-#### Dhirta Hoos U Dhacaysa ee Qoraxda
 
 - Anagalis
 - Alyssum
@@ -111,7 +104,6 @@ Dhir badan ayaa si fiican ugu kora dambiilaha la hago xilliyada kala duwan. Kuwa
 - Lamium
 - Licorice plant
 
-#### Dhirta Hoos U Dhacaysa ee Hooska
 
 - Lotus vine
 - Million bells
@@ -134,15 +126,9 @@ Buugaag badan ayaa laga heli karaa koritaanka dambiilaha la hago, waana adag tah
 - *Gardening in Containers* (Sunset)
 - *Pots in the Garden* by Ray Rogers
 
-#### Talooyinka Beeralayda Master-ka ah™
 
 - **Wac Khadka Caawinta Beerta Guriga:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Si aad u hesho waraaqo kale iyo jadwalka fasallada Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Ballaarinta Jaamacadda Oregon State University waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa iyadoo lagu salaynayo midab, qowmiyad, asal qaran, diinta, jinsi, aqoonsi jinsiyadeed (oo ay ku jirto muujinta jinsiga), jihada galmo, naafonimo, da', xaaladda guurka, xaaladda qoyska/waalidnimo, dakhli laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda ciidanimo, ciqaab ama aargoosi la xiriirta hawlo xuquuqul insaanka hore. (Dhammaan waxyaabaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

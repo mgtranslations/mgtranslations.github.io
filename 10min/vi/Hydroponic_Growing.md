@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chủ Đạo Hạt Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chủ Đạo của OSU Extension
-
 # Trồng Cây Thủy Canh Đơn Giản Trong Nhà
 
 Thủy canh là phương pháp trồng cây không cần đất, chỉ dùng dung dịch dinh dưỡng trong nước. Hệ thống thủy canh quy mô lớn sử dụng công nghệ hiện đại để kiểm soát mức dinh dưỡng, độ pH, oxy hòa tan, nhiệt độ dung dịch và lượng ánh sáng cây nhận được. Tài liệu này giới thiệu một phương pháp thủy canh đơn giản, phù hợp với những người làm vườn tại nhà.
@@ -82,8 +80,3 @@ Khi thu hoạch:
 - [Ba phương pháp thủy canh không tuần hoàn để trồng xà lách](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Video của B. A. Kratky
 - [Trồng thủy canh tại nhà](http://www.cmastergardeners.org/10-minute-university) – Video của Đại học 10 Phút™
 - *Trồng xà lách trong phòng khách: Nuôi cả gia đình bằng vườn thủy canh LED trong nhà* của Dan Chiras & Victor Zaderej
-
----
-
-###### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả thù vì các hoạt động dân quyền trước đây. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

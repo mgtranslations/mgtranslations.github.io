@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros da Extensão da OSU
-
 ## Torne Seu Jardim Mais Resiliente ao Clima: Plantas
 
 A tendência atual de aquecimento da Terra resulta no derretimento de geleiras, aumento do nível do mar, maior acidez dos oceanos e secas e enchentes mais frequentes e severas. O Noroeste do Pacífico tem vivenciado secas prolongadas, aumento da incidência e severidade de incêndios florestais, ondas de calor, surtos de insetos e doenças em árvores. A diminuição da camada de neve causa picos mais cedo de fluxo em rios e córregos, reduzindo o abastecimento de água. Além dessas tendências, as mudanças climáticas trazem eventos climáticos extremos e irregulares (ondas de calor, chuvas intensas) com maior frequência.  
@@ -59,7 +57,6 @@ Como podemos cultivar nossos jardins nesses tempos? Este informativo oferece ide
 
 ### Use Resultados de Testes com Plantas
 
-#### Avaliações de Plantas do Noroeste
 
 Testes de campo da Universidade Estadual de Oregon sobre tolerância à seca e resistência ao frio de cinco gêneros:
 
@@ -69,7 +66,6 @@ Testes de campo da Universidade Estadual de Oregon sobre tolerância à seca e r
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Rockrose](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Projeto Plantas para Paisagens Prontas para o Clima
 
 Testes de campo sobre tolerância à seca realizados por cinco universidades:
 
@@ -81,7 +77,6 @@ Testes de campo sobre tolerância à seca realizados por cinco universidades:
   [Saiba mais](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [Informações sobre o teste da UC](https://ucanr.edu/sites/UCLPIT/)
 
-#### Outros Testes
 
 - [Testes do Jardim Botânico de Chicago](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (Centro-Oeste Superior dos EUA)
 - [Testes do Mt. Cuba Center](https://mtcubacenter.org/research/trial-garden/) (Região do Meio Atlântico dos EUA)
@@ -91,8 +86,3 @@ Testes de campo sobre tolerância à seca realizados por cinco universidades:
 
 - [Great Plant Picks](https://greatplantpicks.org/): Banco de dados do Miller Botanical Gardener com mais de 1.000 plantas, filtráveis por condições do local (sol/sombra) e atributos (tamanho, cor da folhagem).
 - [Perennial Plant of the Year](https://perennialplant.org/page/PPOY): Recomendações anuais de plantas perenes de destaque.
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

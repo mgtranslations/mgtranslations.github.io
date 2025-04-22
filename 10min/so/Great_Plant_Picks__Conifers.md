@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ururka Beeralayda Master-ka ee Degmada Clackamas isagoo kaashanaya lana shaqaynaya Barnaamijka OSU Extension Master Gardener™
-
 # 10-Minute University
 
 ## Xulashada Geedaha Wanaagsan: Geedaha Qoryaha Ah (Conifers)

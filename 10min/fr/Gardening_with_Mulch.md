@@ -1,5 +1,3 @@
-#### Université 10-Minute™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme Maître Jardinier™ de l’Extension de l’OSU
-
 # Jardiner avec des Paillis
 
 Le paillis est une couche de matériau étalée à la surface du sol pour obtenir un ou plusieurs des avantages suivants :
@@ -53,23 +51,19 @@ Le paillis en plastique est souvent utilisé pour supprimer les mauvaises herbes
 
 ### Comment utiliser le paillis en plastique
 
-#### Pour supprimer les mauvaises herbes
 
 1. Posez le plastique noir après la préparation du sol pour les semis ou la plantation et après l’installation des tuyaux d’arrosage.
 2. Maintenez les bords avec de la terre.
 3. Plantez les graines ou les plants en faisant une coupe en X dans le plastique.
 4. Utilisez du plastique perforé ou faites des trous avec un pic à glace pour laisser passer l’eau.
 
-#### Pour réchauffer le sol
 
 - **Plastique transparent ou translucide** : Réchauffe le sol plus efficacement mais peut créer une « serre » pour les mauvaises herbes.
 - **Plastique noir** : Réchauffe le sol un peu moins, mais supprime les mauvaises herbes.
 
-#### Pour garder le sol sec
 
 Couvrez la zone avec du plastique noir en hiver pour garder la plate-bande sèche en vue de la préparation du sol et de la plantation au début du printemps. Maintenez les bords pour éviter que le plastique ne devienne une serre à mauvaises herbes ou un refuge pour les nuisibles.
 
-#### Pour accélérer la croissance et la maturité des plantes qui aiment la chaleur
 
 La tomate, le poivron, le melon, la fraise et d’autres plantes qui aiment la chaleur ont été étudiés pour voir les effets de différentes couleurs de paillis en plastique sur la croissance, la maturité et le rendement.
 
@@ -81,10 +75,3 @@ La tomate, le poivron, le melon, la fraise et d’autres plantes qui aiment la c
 ## Ressources complémentaires
 
 - **Publication du Service d’Extension de l’OSU** : [Paillage des plantes ligneuses ornementales avec des matériaux organiques](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches pratiques de l’Université 10-Minute™ et les horaires de cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, l’information génétique, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

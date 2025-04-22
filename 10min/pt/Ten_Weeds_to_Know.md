@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação dos Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Dez Plantas Daninhas para Conhecer
 
 Uma planta daninha é uma planta que representa perigo, é incômoda ou causa danos a pessoas, animais ou a uma cultura desejada. No jardim de casa, as plantas daninhas podem:
@@ -95,8 +93,3 @@ Conhecer suas plantas daninhas ajuda a identificar as maneiras mais eficazes de 
 
 - [Biologia e Manejo de Plantas Daninhas Perenes, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Plantas Invasoras/Gestão de Plantas e Pragas Invasoras, Cidade de Portland, Oregon](https://www.portlandoregon.gov)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

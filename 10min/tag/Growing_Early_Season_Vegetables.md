@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Pagtatanim ng Gulay na Maagang Panahon
 
 ### Ano Ito
@@ -53,7 +51,6 @@ Tingnan ang **[How to Build Your Own Raised Bed Cloche (EC 1627)](http://catalog
 
 ### Pagpili sa Buto, Itinanim na Halaman, o Perennial
 
-#### Buto
 
 Ang karot, gisantes, letsugas, kohlrabi, dahon, beet, at labanos ay madaling palaguin mula sa buto. Itanim ang mga buto direkta sa lupa.
 
@@ -61,14 +58,12 @@ Ang karot, gisantes, letsugas, kohlrabi, dahon, beet, at labanos ay madaling pal
   - Ibabad ang mga buto ng 2-4 oras bago itanim.
   - Pwede ring ilagay ang mga basang buto sa pagitan ng dalawang basang tuwalya sa loob ng plastik na bag. Ilagay ito sa mainit na lugar hanggang tumubo ang buto.
 
-#### Itinanim na Halaman
 
 Kung ikaw mismo ang magtatanim ng seedlings, siguradong makukuha mo ang uri at tamang oras ng pagtatanim.
 
 - Karaniwang may nabibiling seedling ng repolyo, broccoli, cauliflower, at kale sa mga plant nursery.
 - Ang pagbili ng maliit na halaman ay nakakatulong para mas mabilis ang pag-ani, lalo na sa mga gulay na madaling mag-bolt kapag mainit.
 
-#### Perennial
 
 May mga gulay na hindi nabibili bilang buto o halaman, tulad ng potato tubers, bawang, at onion bulbs (sets), na pwede nang itanim direkta sa lupa.
 
@@ -96,7 +91,6 @@ Karamihan sa mga gulay ay annual at nangangailangan ng sapat na sustansya para m
   - Bone meal (12-24% P)
   - Kelp meal (2-5% K)
 
-#### Pagsusuri ng Lupa
 
 Madalas mataas na ang phosphorus, potassium, at iba pang nutrients sa mga hardin sa Portland metro area. Magpa-soil test para malaman kung may kulang at maglagay lang ng pataba kung kailangan.
 
@@ -115,8 +109,3 @@ Bisitahin ang [OSU Extension Service](http://catalog.extension.oregonstate.edu) 
 - **Fall and Winter Vegetable Gardening in the Pacific Northwest (PNW 548)**
 
 Bisitahin din ang [10-Minute University™ Resources](http://www.cmastergardeners.org/10-minute-university) para sa mga handout at video tungkol sa pagtatanim ng gulay.
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, katayuang may asawa, katayuang magulang/pamilya, kita mula sa public assistance program, paniniwala sa politika, genetic information, katayuang beterano, pagganti, o paghihiganti para sa dating civil rights activity. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Boden 101
 
 ### Was ist Boden?
@@ -64,10 +62,3 @@ Bearbeite den Boden nie, wenn er nass ist. Sonst bleibt er klumpig und wird verd
 - [Wie man eine Bodenprobe nimmt und warum (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [Düngen im Garten: Gemüse, Obst und Zierpflanzen (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - Gärtnern mit Kompost, Handout der 10-Minuten-Universität™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Master Gardener™ Beratung · Rufen Sie die Home Horticulture Helpline an: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Weitere Handouts der 10-Minuten-Universität™ finden Sie unter [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Der Extension Service der Oregon State University untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien, basierend auf Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien aufgrund früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

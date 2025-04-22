@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas hợp tác và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
----
-
 ## Làm Vườn Mùa Thu ở Vườn Rau
 
 ### Thu Hoạch và Bảo Quản Rau Quả
@@ -85,12 +81,3 @@ Dọn dẹp mùa thu giúp làm vườn dễ dàng hơn vào mùa xuân:
   - Làm Vườn Với Lớp Phủ Đất
   - Trồng Rau Luống Nâng Cao
   - Kiểm Tra Độ pH Đất
-
----
-
-#### Tư Vấn Làm Vườn Chuyên Nghiệp™ · Gọi Đường Dây Tư Vấn Làm Vườn Gia Đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học của 10-Minute University™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả thù vì đã thực hiện quyền dân sự trước đó. (Không phải tất cả các lý do bị cấm đều áp dụng cho tất cả các chương trình.)
----

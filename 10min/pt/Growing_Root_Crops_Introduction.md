@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 ## Introdução ao Cultivo de Hortaliças de Raiz
 
 As hortaliças de raiz têm lugar garantido em toda horta. Elas estão entre os primeiros e últimos vegetais a serem colhidos e, com armazenamento adequado em casa, você terá um suprimento fresco até o inverno. Essas plantas são ideais porque ocupam pouco espaço na horta, podem ser colhidas por um longo período e produzem grandes quantidades de alimentos ricos em energia. Elas se desenvolvem bem em canteiros elevados, no solo ou em vasos.
@@ -80,7 +78,6 @@ Compreender as famílias das plantas e a rotação de culturas é essencial para
 
 Um ciclo de rotação de culturas de quatro anos ajuda a evitar problemas, fortalece o solo e favorece a produção das hortaliças de raiz. A rotação e o plantio companheiro aumentam a biodiversidade natural da horta. O plantio companheiro é uma ótima forma de usar o espaço de maneira eficiente, permitindo que as plantas cresçam em arranjos benéficos entre si.
 
-#### Famílias de Plantas e Companheiras
 
 - **Quenopodiáceas**: Beterraba, espinafre, acelga  
   - Companheiras: Feijão-de-vagem, alface, cebola, rabanete
@@ -107,8 +104,3 @@ Um ciclo de rotação de culturas de quatro anos ajuda a evitar problemas, forta
 - [Série Jardinagem Fácil - Serviço de Extensão AgriLife da Texas A&M](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Hortaliças de Raiz](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [O Legume Subterrâneo](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/de pais, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todos os critérios proibidos se aplicam a todos os programas.)
----

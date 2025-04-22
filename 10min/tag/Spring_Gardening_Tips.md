@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Mga Tip sa Paghahalaman sa Tagsibol
 
 Sa unang mainit na araw ng tagsibol, kadalasang gusto na agad ng mga hardinero na magtrabaho sa lupa. **Huwag muna!** Mas mabuting suriin muna ang lupa. Kumuha ng isang dakot ng lupa at pigain ito. Kung nananatiling buo ang lupa na parang bola, mapipiga at titigas ito kapag nilakaran at hinukay.
@@ -107,8 +105,3 @@ Kumuha ng OSU Extension Publications sa [http://catalog.extension.oregonstate.ed
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 - Para sa mga handout at video ng 10-Minute University™, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, marital status, familial/parental status, kita mula sa public assistance, political beliefs, genetic information, veteran’s status, o paghihiganti dahil sa dating civil rights activity. (Hindi lahat ng basehan ng pagbabawal ay akma sa lahat ng programa.)
----

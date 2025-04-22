@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme Master Gardener™ de l’Extension OSU
-
 ## Rendez votre jardin plus résilient face au climat : L’eau
 
 La Terre subit une tendance au réchauffement qui entraîne la fonte des glaciers, la montée du niveau des mers, l’augmentation de l’acidité des océans et des sécheresses et inondations plus fréquentes et sévères. Le nord-ouest du Pacifique connaît des sécheresses prolongées, une augmentation de la fréquence et de la gravité des incendies de forêt, des vagues de chaleur, des invasions d’insectes et des maladies des arbres. Une diminution du manteau neigeux entraîne des crues plus précoces dans les rivières et les ruisseaux, et réduit les réserves d’eau. En plus de ces tendances, le changement climatique apporte des événements météorologiques extrêmes et imprévisibles (vagues de chaleur, fortes pluies) de plus en plus fréquents.
@@ -80,8 +78,3 @@ Certaines villes et comtés ont des règles spécifiques concernant la déconnex
 
   - [L’irrigation goutte à goutte : une introduction](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Conseils d’arrosage](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans l’ensemble de ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les mesures prises à la suite d’une activité antérieure en matière de droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

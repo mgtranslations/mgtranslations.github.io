@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ · Ururka Beeralayda Masterka ee Clackamas County · Iskaashi iyo Taageero Barnaamijka OSU Extension Master Gardener™
-
 # Barashada Beerista Greenhouse-ga 101
 
 ### Hordhac
@@ -34,7 +32,6 @@ Ku darista greenhouse (aqal dhir) beerta guriga waxay kaa caawin kartaa inaad xi
 
 ### Noocyada Greenhouse-yada
 
-#### Greenhouse-ga ku xiran dhisme kale
 
 - **Faa'iidooyin:**
   - Qiimo jaban.
@@ -46,7 +43,6 @@ Ku darista greenhouse (aqal dhir) beerta guriga waxay kaa caawin kartaa inaad xi
   - Dhererka waxaa xaddidi kara dhismaha guriga.
   - Waa in la isticmaalaa xannibaad uumiga si qoyaanka greenhouse-gu uusan ugu dhex bixin gidaarada guriga.
 
-#### Greenhouse isku taagan (Free-standing Greenhouse)
 
 - **Faa'iidooyin:**
   - Meel kasta waa la dhigi karaa, iftiin badan ayuu helaa.
@@ -145,8 +141,3 @@ Aasaas ayaa loo baahan yahay greenhouses badan, waxaana laga dhisi karaa alwaax 
 
 **Greenhouses for Homeowners and Gardeners (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### Adeegyada Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucdaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha iyo agabkeeda iyadoo loo eegayo midabka, jinsiyadda, asalka qaranka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-socodka, xaaladda askarnimada, ciqaabta ama aargoosiga la xiriira hawlaha xuquuqda madaniga. (Dhammaan xeerarkan mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
----

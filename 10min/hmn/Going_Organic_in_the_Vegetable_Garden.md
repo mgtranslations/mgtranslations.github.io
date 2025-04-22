@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Tswj Vaj Tswj Tsev Kawm Ua Vaj Tsev ntawm Clackamas County koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Ua Vaj Zaub Ntuj Tsim
 
 ### Dab tsi yog “Ua Vaj Zaub Ntuj Tsim”?

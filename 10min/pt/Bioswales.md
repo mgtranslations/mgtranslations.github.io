@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Adicionando uma Bioswale
 
 Em áreas urbanizadas, a chuva que cai sobre superfícies impermeáveis é direcionada para canos, valas e bueiros antes de ser lançada em córregos, riachos e rios. Uma bioswale é projetada para coletar a água da chuva que escorre de telhados, entradas de veículos ou outras superfícies duras. Ela permite que a água infiltre no solo e seja filtrada por plantas e terra, reduzindo o escoamento e a poluição dos cursos d’água naturais. O formato linear das bioswales as torna adequadas para receber água das ruas, mas também podem ser usadas em jardins da frente e dos fundos e sob calhas de telhados. Bioswales também podem ser alternativas a meios-fios ou sarjetas.
@@ -76,8 +74,3 @@ As plantas precisam de água complementar durante o primeiro verão para se esta
 
 - **Laboratórios Analíticos no Oregon**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

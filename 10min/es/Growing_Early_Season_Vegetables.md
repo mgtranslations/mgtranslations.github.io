@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión OSU
-
 # Cultivo de Verduras de Temporada Temprana
 
 ### Qué son
@@ -53,7 +51,6 @@ Consulta **[Cómo construir tu propia campana para cama elevada (EC 1627)](http:
 
 ### Elección entre Semillas, Trasplantes o Perennes
 
-#### Semillas
 
 Zanahoria, arveja, lechuga, colinabo, verduras de hoja, betabel y rábano crecen fácilmente de semilla. Siembra las semillas directamente en la tierra.
 
@@ -61,14 +58,12 @@ Zanahoria, arveja, lechuga, colinabo, verduras de hoja, betabel y rábano crecen
   - Remoja las semillas durante 2 a 4 horas antes de plantar en la tierra.
   - O bien, coloca las semillas remojadas entre dos capas de toalla de papel húmeda dentro de una bolsa plástica. Mantenlas en un lugar cálido hasta que germinen.
 
-#### Trasplantes
 
 Cultivar tus propios trasplantes asegura que tendrás las variedades que deseas en el momento adecuado para sembrar.
 
 - El repollo, brócoli, coliflor y col rizada suelen estar disponibles como plántulas en los viveros.
 - Comprar plantas pequeñas da una ventaja y acelera la cosecha, especialmente para verduras propensas a “espigarse” con el calor.
 
-#### Perennes
 
 Algunas verduras no se venden ni como semillas ni como plantas, como los tubérculos de papa, ajos y bulbos de cebolla (sets), que se pueden plantar directamente en el jardín.
 
@@ -96,7 +91,6 @@ La mayoría de las verduras son cultivos anuales y necesitan suficientes nutrien
   - Harina de hueso (12-24% P)
   - Harina de kelp (2-5% K)
 
-#### Análisis de Suelo
 
 Los huertos de la zona metropolitana de Portland suelen tener niveles altos de fósforo, potasio y otros nutrientes. Los jardineros deben hacer un análisis de suelo para identificar deficiencias y fertilizar solo según sea necesario.
 
@@ -115,8 +109,3 @@ Visita [Servicio de Extensión OSU](http://catalog.extension.oregonstate.edu) pa
 - **Jardinería de verduras de otoño e invierno en el Noroeste del Pacífico (PNW 548)**
 
 Visita [Recursos de Universidad de 10 Minutos™](http://www.cmastergardeners.org/10-minute-university) para folletos y videos sobre cultivo de verduras.
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa en derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

@@ -1,7 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program
-
----
-
 ## Testen des Boden-pH-Werts
 
 ### Überblick
@@ -71,7 +67,6 @@ Jede Probe ergibt einen pH-Wert:
 
 Wenn Master Gardeners den Test durchführen, helfen sie auch bei der Auswertung der Ergebnisse und beraten zu passenden Maßnahmen. Es ist am besten, den pH-Wert des Bodens über mehrere Jahre anzupassen. Bringen Sie die passenden Bodenverbesserer im Herbst aus und kontrollieren Sie den pH-Wert nach 3 bis 6 Monaten erneut. Wiederholen Sie dies bei Bedarf.
 
-#### Den pH-Wert des Bodens erhöhen
 
 - Bringen Sie Kalk im Herbst aus, um beste Ergebnisse zu erzielen.
 - Verwenden Sie **5 bis 10 Pfund Kalk pro 10 Quadratmeter** (100 sq ft), wenn Sie ihn vor dem Pflanzen untermischen.
@@ -85,7 +80,6 @@ Wenn Master Gardeners den Test durchführen, helfen sie auch bei der Auswertung 
 - Beim Umgang mit Pulverkalk eine Maske tragen.
 - Dolomitkalk enthält Magnesium und ist besonders für Gärtner in West-Oregon geeignet, da dort oft Magnesiummangel herrscht.
 
-#### Den pH-Wert des Bodens senken
 
 - Schwefel sollte im Herbst ausgebracht werden, um beste Ergebnisse zu erzielen.
 - Bei bestehenden Bäumen und Sträuchern eine kleine Menge entlang der Tropflinie oder als Streifen bei Heidelbeeren aufbringen.
@@ -102,12 +96,3 @@ Besuchen Sie das OSU Extension Service Büro in der 200 Warner-Milne Road, Orego
 - **Liste der analytischen Labore in Oregon** (EM 8677)
 - **Bodenprobenahme für Hausgärten und kleine Flächen** (EC 628)
 - **Boden für Heidelbeeren und Zierpflanzen im Garten ansäuern** (EC 1560-E)
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minuten-Universität™ Handouts und Kurspläne finden Sie unter [www.cmastergardeners.org](http://www.cmastergardeners.org) oder [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien nach vorherigen Bürgerrechtsaktivitäten. (Nicht alle ausgeschlossenen Gründe gelten für alle Programme.)
----

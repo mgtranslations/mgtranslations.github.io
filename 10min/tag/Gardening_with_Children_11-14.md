@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Sa Pakikipagtulungan ng Oregon State University Extension Service
-
 # Paghahalaman Kasama ang mga Bata Edad 11-14
 
 Ang paghahalaman kasama ang mga batang edad 11 hanggang 14 ay maaaring maging masaya at kapaki-pakinabang para sa mga bata at matatanda. Inilalayo nito sila sa computer at iba pang screen time, nagpapalakas ng imahinasyon, at nakakatulong magbawas ng stress at pagkabalisa. Sa edad na ito, handa na silang gumawa ng mas malalaking gawain sa hardin at mag-eenjoy silang mag-explore ng mga istruktura sa hardin, tulad ng paggawa ng trellis o raised garden bed. Nakakatipid ito ng espasyo, nagbibigay ng mas magandang sikat ng araw at lupa, at nagbibigay ng kapangyarihan sa mga bata.
@@ -72,12 +70,3 @@ Maraming magagandang libro na may larawan at gabay tungkol sa paghahalaman na ma
 ## Resource mula sa Oregon State University
 
 - [Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, marital status, familial/parental status, kita mula sa public assistance program, political beliefs, genetic information, veteran’s status, reprisal, o retaliation para sa dating civil rights activity. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

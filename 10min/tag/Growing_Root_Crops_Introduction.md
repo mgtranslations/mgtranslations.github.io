@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 ## Panimula sa Pagtatanim ng Root Crops
 
 May lugar ang root crops sa bawat gulayan. Isa sila sa mga unang inaani at huling naaani na gulay, at kung maayos ang pag-iimbak sa bahay, magkakaroon ka ng sariwang suplay hanggang sa taglamig. Mainam ang mga pananim na ito dahil kaunti lang ang puwang na kailangan sa hardin, maaaring anihin nang matagal, at nagbibigay ng maraming pagkaing mataas sa enerhiya. Tumutubo sila nang maganda sa raised beds, in-ground, at container gardens.
@@ -80,7 +78,6 @@ Mahalaga ang pag-unawa sa pamilya ng halaman at pagpapalit-palit ng tanim para s
 
 Ang apat na taong cycle ng crop rotation ay nakakatulong maiwasan ang problema, mapalakas ang lupa, at mapabuti ang produksyon ng root crops. Ang crop rotation at companion planting ay nagpapataas ng natural na biodiversity sa hardin. Ang companion planting ay magandang paraan para magamit nang husto ang espasyo, pinapayagan ang mga halaman na tumubo nang may benepisyo sa isa’t isa.
 
-#### Mga Pamilya ng Halaman at Kaakibat
 
 - **Chenopodiaceae**: Beets, spinach, chard  
   - Kaakibat: Bush beans, lettuce, sibuyas, labanos
@@ -107,8 +104,3 @@ Ang apat na taong cycle ng crop rotation ay nakakatulong maiwasan ang problema, 
 - [Easy Gardening Series - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Root Crops](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [The Underground Vegetable](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansa ng pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyon ng genetika, katayuan bilang beterano, paghihiganti o pagganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

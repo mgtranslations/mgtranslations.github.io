@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes thiab txhawb nqa nrog thiab rau OSU Extension Master Gardener™ Program
-
 # Kev Loj Hlob Zaub Ntsuab & Lwm Yam Zaub Ntsuab
 
 ### Paub Txog
@@ -121,12 +119,3 @@ Av noo thiab ntxoov ntxoo hauv qab zaub ntsuab thiab cov nplooj mos qab zib yog 
 - [Yuav ua li cas txhim kho koj tus kheej vaj tsa cloche (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [Ua vaj nrog compost, mulch, thiab daim npog kab (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [Phau ntawv tus tswv yim cog zaub ruaj khov (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### Tswv Yim Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam ntawv qhia thiab sijhawm kawm 10-Minute University™, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev ntxub ntxaug hauv txhua lub program, kev pab, haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txivneej, kev qhia tus kheej (xws li kev qhia tus kheej), kev sib deev, kev xiam oob khab, hnub nyoog, txij nkawm, tsev neeg/txiv niam, nyiaj tau los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, lossis raug pauj vim yog tsim txom txoj cai. (Tsis yog txhua yam uas txwv tsis pub yuav siv rau txhua program.)
----

@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Masterka ee Clackamas County · Iskaashi iyo Taageero Barnaamijka OSU Extension Master Gardener™
-
 # Kala-soocista Horticultural ee La Cusbooneysiiyay ee Nooca *Clematis*
 **Waxaa la ansixiyay Golaha I.Cl.S. bishii Juun 2019**  
 *(Waxaa la bilaabay kulan ka dhacay Beerta Wisley, 3–5 Luulyo 2017, isagoo la raaciyay faallooyin xubnaha kooxda shaqada)*
@@ -120,18 +118,15 @@
 
 **Astaamaha Kala-duwanaanshaha:** Caleen daata. Fuulayaal, badanaa leh laamo xoog badan. Ubaxda xagaaga badanaa, laamaha sanadkaas cusub. Ubax tiro badan, 1–5 cm dhexroor, badanaa qaab gambaleel ama xiddig, inta badan cadaan ama jaalle.
 
-#### Clematis Xiddig Danbe
 
 - **Astaamaha:** Fuulayaal dhexdhexaad ah, ubaxyo qaab xiddig ah, badanaa cadaan iyo udgoon.
 - **Tusaalooyin:** *flammula*, *terniflora*, × *triternata* ‘Rubromarginata’, ‘Sweet Summer Love’.
 - **Jarkidda:** Ikhtiyaari, iyadoo ku xiran bannaanida. Haddii loo baahdo, jari si adag ilaa <0.5m guga dhexe, marka korriin cusub soo baxdo. Haddii la rabo, nadiifi oo keliya.
 
-#### Clematis Jaalle Danbe
 
 - **Astaamaha:** Ubaxyo badanaa jaalle ah oo qaab gambaleel ah ama fidsan.
 - **Tusaalooyin:** *buchananiana*, *connata*, *intricata*, *ladakhiana*, *orientalis*, *rehderiana*, *tangutica*, *tibetana*, ‘Bill MacKenzie’, ‘Helios’ (loogu yeero ‘Daihelios’ Japan), ‘Kugotia’, GOLDEN TIARA, ‘Lambton Park’.
 
-#### Clematis Xoog Leh
 
 - **Astaamaha:** Kuwo si xowli ah u kora, ubaxyo badanaa cadaan ah, burooyin iyo ubax kor u jeeda.
 - **Tusaalooyin:** *ligusticifolia*, *potaninii*, *vitalba*, *virginiana*, ‘Paul Farges’ SUMMER SNOW.
@@ -144,12 +139,3 @@
 **Astaamaha Kala-duwanaanshaha:** Astaamo aan si sahlan ugu habboonayn mid ka mid ah kuwa kor ku xusan.
 
 - **Tusaalooyin:** *columbiana*.
-
----
-
-#### Talo Beeraleyda Masterka™ · Wac Khadka Caawinta Beerta ee Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo kale ah iyo jadwalka fasallada ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka iyadoo lagu salaynayo: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhli ka yimid barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda askarinimo, aargudasho, ama ciqaabta falal xuquuqda muwaadiniinta ee hore. (Dhamaan sababaha la mamnuucay kuma khuseeyaan dhammaan barnaamijyada.)
----

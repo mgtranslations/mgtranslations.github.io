@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Jardineiros Mestres do Condado de Clackamas · Em colaboração e apoio ao Programa de Jardineiros Mestres da Extensão da OSU™
-
 # Estufa: Jardinagem 101
 
 ### Introdução
@@ -34,7 +32,6 @@ Adicionar uma estufa ao jardim de casa pode proporcionar um início antecipado n
 
 ### Tipos de Estufa
 
-#### Estufas Anexadas (Ligadas à Casa)
 
 - **Vantagens:**
   - Podem ser mais econômicas.
@@ -45,7 +42,6 @@ Adicionar uma estufa ao jardim de casa pode proporcionar um início antecipado n
   - A altura pode ser limitada pela estrutura do prédio.
   - É necessário uma boa barreira contra vapor para evitar que a umidade da estufa entre no isolamento da casa.
 
-#### Estufas Independentes
 
 - **Vantagens:**
   - Oferecem mais flexibilidade de localização e recebem mais luz.
@@ -143,8 +139,3 @@ Muitas estufas exigem fundações, que podem ser feitas de madeira tratada, alve
 
 **Estufas para Proprietários e Jardineiros (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais devido à raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, condição familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por participação anterior em atividade de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

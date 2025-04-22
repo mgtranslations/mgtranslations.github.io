@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Viên Cao Cấp Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm Vườn Viên Cao Cấp OSU Extension Master Gardener™
-
 ## Thông Tin Cụ Thể Về Sản Xuất Rau Hàng Năm Ở Oregon
 
 ### Bảng Thông Tin Gieo Hạt và Trồng Cây

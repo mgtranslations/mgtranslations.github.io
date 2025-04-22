@@ -1,5 +1,3 @@
-#### 10-Minute University™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Consejos para la Jardinería de Primavera
 
 En el primer día cálido de primavera, la mayoría de los jardineros sienten ganas de trabajar la tierra. **¡No lo hagas todavía!** Es mejor revisar la tierra primero. Toma un puñado de tierra y apriétalo con fuerza. Si la tierra se queda en forma de bola, caminar y cavar sólo la compactará más.
@@ -107,8 +105,3 @@ Consigue publicaciones de Extensión de OSU en [http://catalog.extension.oregons
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 - Para folletos y videos de 10-Minute University™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivo de raza, color, origen nacional, religión, sexo, identidad de género (incluyendo expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas).
----

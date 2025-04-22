@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 # Como Cuidar de Plantas de Interior
 
 Cultivar plantas de interior é uma ótima maneira de adicionar um toque de verde à sua casa. Embora algumas plantas de interior sejam quase à prova de erros, todas precisam de cuidados básicos. As plantas crescem melhor em ambientes que se parecem com seu habitat natural. Antes de comprar novas plantas, conheça suas necessidades básicas para saber se você tem o lugar certo para elas em casa e pode oferecer o cuidado adequado.
@@ -83,12 +81,3 @@ A poeira pode se acumular nas folhas, deixando-as opacas e dificultando a absor�
 - [Suculentas fáceis continuam em alta](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Plantas de interior coloridas são ótimos presentes para as festas](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Ervas fáceis de cultivar em casa dão mais sabor à comida](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Orientação de Mestre Jardineiro™ · Entre em contato com o escritório local da Extensão OSU para orientação de Mestres Jardineiros. Veja as informações de contato neste site: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Para folhetos e horários das aulas do 10-Minute University™, visite [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programas de assistência pública, convicções políticas, informações genéticas, status de veterano, retaliação ou represália por atividades anteriores relacionadas a direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

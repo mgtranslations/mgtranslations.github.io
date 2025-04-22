@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Afilar Herramientas de Jardín
 
 ### Introducción
@@ -23,7 +21,6 @@ No es necesario desarmar la herramienta cada vez que la afiles; sin embargo, es 
 
 ### Cómo Afilar
 
-#### 1. Determina Qué Superficie Necesita Afilarse
 
 | Herramienta             | Número de Hojas a Afilar | Lados de la Hoja a Afilar             |
 |-------------------------|--------------------------|---------------------------------------|
@@ -35,15 +32,12 @@ No es necesario desarmar la herramienta cada vez que la afiles; sin embargo, es 
 | Picos, zapapicos, hacha | Una                      | Ambas                                 |
 | Horca para heno         | Varias                   | Cada diente afilado en punta roma     |
 
-#### 2. Limpia las Herramientas
 
 Remueve la tierra y resina para limpiar la superficie de cada herramienta, realinea los dientes de las horcas y revisa si la lima tiene materiales atascados entre los dientes. Si encuentras algo, limpia la lima con el cepillo pasándolo en la misma dirección de los dientes. Para una lima de doble corte, pasa el cepillo siguiendo cada ángulo. **NO uses** jabón ni agua en una lima.
 
-#### 3. Usa un Tornillo de Banco para Sostener la Herramienta
 
 Coloca tu herramienta en el tornillo de banco sobre la parte más plana de la base de la hoja. Si aprietas el tornillo en el lugar equivocado, puedes doblar la herramienta de poda.
 
-#### 4. Establece el Ángulo de Afilar
 
 Se recomienda un ángulo de 20° a 25°. Para determinarlo:
 
@@ -51,7 +45,6 @@ Se recomienda un ángulo de 20° a 25°. Para determinarlo:
 - Gira la lima hacia abajo hasta la mitad hacia la hoja. Ahora tienes un ángulo de 45 grados.
 - Gírala otra vez a la mitad. Así obtendrás un ángulo de aproximadamente 22.5 grados, ideal para afilar.
 
-#### 5. Comienza a Afilar
 
 - Cada pasada de la lima debe ir paralela a la hoja y cubrir toda la longitud de la hoja.
 - Aplica presión pareja desde la punta hasta la base y solo en la pasada hacia adelante.
@@ -60,7 +53,6 @@ Se recomienda un ángulo de 20° a 25°. Para determinarlo:
 
 > **Nota:** Si tienes tijeras para ramas desajustadas, notarás metal brillante en la base de la hoja de yunque, lo que indica que la hoja de corte está rozando demasiado o entrando en el yunque. Ajusta las hojas de inmediato.
 
-#### 6. Da los Toques Finales
 
 Para hojas de metal duro, usa una piedra de afilar carborundum de grano medio como paso final. Si tienes hojas de acero duro como Felco o ARS, puedes terminar de afilarlas con una piedra de diamante fina o una cerámica ultra fina. Este paso toma solo una o dos pasadas.
 
@@ -76,10 +68,3 @@ Para hojas de metal duro, usa una piedra de afilar carborundum de grano medio co
 - [Herramientas Prácticas para el Jardinero de Hortalizas](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Cuida Bien Tus Herramientas de Jardín](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Afilando Tus Herramientas de Jardín](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
-#### Consejos de Maestro Jardinero™ · Llama a la Línea de Ayuda de Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluyendo expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa en derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

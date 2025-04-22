@@ -1,5 +1,3 @@
-#### Université en 10 minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension OSU
-
 # Prendre soin des rosiers
 
 ### Faites une sortie sur le terrain
@@ -42,7 +40,6 @@ Après avoir choisi le bon rosier, la plantation correcte est probablement la t�
 
 ### Taille
 
-#### Taille principale à la mi-février
 
 Ouvrez le centre de la plante pour une bonne circulation de l’air :
 
@@ -55,14 +52,12 @@ Ouvrez le centre de la plante pour une bonne circulation de l’air :
 
 À la fin, il ne doit rester que des branches solides et saines partant de la base de la plante.
 
-#### Éboutonnage (suppression des fleurs fanées)
 
 Enlevez toutes les fleurs fanées :
 
 1. Pour la dernière fleur fanée, coupez juste au-dessus d’une feuille à 3 ou 5 folioles.
 2. Plus vous coupez haut sur la tige, plus la floraison reviendra vite mais les fleurs seront plus petites. Plus vous coupez bas, plus il faudra de temps pour refleurir mais les fleurs seront plus grosses.
 
-#### Taille de novembre
 
 Raccourcissez les branches pour réduire les dégâts du vent sur les racines :
 
@@ -86,12 +81,3 @@ Enlevez toutes les feuilles pour aider la plante à entrer en dormance.
 
 - [Contrôler les maladies et les pucerons sur vos rosiers (EC 1520)](https://catalog.extension.oregonstate.edu/ec1520)
 - [Pailler les arbustes d’ornement avec des matériaux organiques (EC 1629-E)](https://catalog.extension.oregonstate.edu/ec1629-e)
-
----
-
-#### Conseils des Maîtres Jardiniers™ · Appelez la ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres documents et le calendrier des cours de l’Université en 10 minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des convictions politiques, de l’information génétique, du statut de vétéran, des représailles ou d’une riposte suite à une activité relative aux droits civiques antérieure. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

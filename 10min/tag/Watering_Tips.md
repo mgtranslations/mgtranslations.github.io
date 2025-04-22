@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 ## Mga Tip sa Pagdidilig
 
 ### Teorya at mga Teknik
@@ -33,13 +31,11 @@
 
 ### Hindi Epektibong Pagdidilig
 
-#### Mga Sintomas ng Sobrang Pagdidilig
 
 - Dilaw o may batik-batik na dahon
 - Naninilaw o maputla ang dahon at nalalagas
 - Mabagal ang paglaki ng halaman at madali itong bumagsak
 
-#### Mga Sintomas ng Kulang sa Pagdidilig
 
 - Dilaw o may batik-batik na dahon
 - Maputla at parang abong-abong ang dahon at walang kinang
@@ -54,22 +50,18 @@ Anuman ang gusto mong paraan, suriin ang basa ng lupa ilang oras pagkatapos magd
 
 - Mga bulaklak at gulay: 12–15 pulgada ang lalim
 
-#### Pagdidilig Mula sa Itaas
 
 - Ang pagdidilig mula sa itaas ng mga puno at palumpong (sprinkler o mano-mano) ay maaaring magdulot ng fungal at bacterial na sakit tulad ng apple scab, rust, at black spot sa rosas.
 - Magdilig ng maaga sa araw para matuyo ang dahon bago maggabi.
 
-#### Pagdidilig ng Mano-mano
 
 - Minsan ay mas mabilis ang pagdidilig ng mano-mano kaysa kaya ng lupa na sumipsip, kaya nagkakaroon ng agos ng tubig.
 
-#### Sprinklers
 
 - Madalas na napupunta ang tubig sa hindi kailangan na parte at mas mabilis magbigay ng tubig kaysa kaya ng lupa na sumipsip.
 - Gumamit ng sprinkler na nakatutok lang sa hardin at hindi sa paligid.
 - Bawasan ang pagsingaw ng tubig sa pamamagitan ng pagdidilig sa malamig at walang hangin na oras (gabi hanggang umaga).
 
-#### Low-Flow Systems
 
 - **Mga Benepisyo:**
   - Diretso ang tubig sa root zone at pantay ang pagdidilig buong season.
@@ -98,15 +90,9 @@ Anuman ang gusto mong paraan, suriin ang basa ng lupa ilang oras pagkatapos magd
   - [Keys to Water-efficient Landscapes, EM 9134](https://catalog.extension.oregonstate.edu/)
   - [Landscape Maintenance to Conserve Water, EM 9135](https://catalog.extension.oregonstate.edu/)
 
-#### Master Gardener™ na Payo
 
 - **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-#### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwala sa politika, impormasyon ng genetiko, katayuan bilang beterano, paghihiganti, o pagganti sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

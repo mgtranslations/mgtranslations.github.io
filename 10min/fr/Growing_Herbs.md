@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et soutien au Programme OSU Extension Master Gardener™
-
 # Cultiver des Herbes Aromatiques
 
 ## Aperçu
@@ -123,10 +121,3 @@ Pour en savoir plus sur la culture, l’utilisation et la conservation des herbe
 - *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
 - *Herbs, An Illustrated Guide* (Sunset Books)
 - *All About Herbs* (Ortho Books)
-
-#### Conseils des Maîtres Jardiniers™ · Appelez la ligne d’assistance en horticulture familiale : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de cours 10-Minute University™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans l’ensemble de ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus issus d’une aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion pour des activités en faveur des droits civils antérieures. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

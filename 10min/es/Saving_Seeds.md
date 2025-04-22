@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión OSU
-
 # Guardar Semillas
 
 ### ¿Por qué recolectar semillas?
@@ -19,7 +17,6 @@ Hay tres formas de polinización: viento, insectos y humanos.
 - **Auto-polinización**: Se refiere a plantas que tienen flores con partes femeninas y masculinas. Incluyen tomates, frijoles, lechuga y berenjena.
 - **Polinización Cruzada**: Plantas como pepino y calabaza requieren viento o insectos para llevar el polen de las flores masculinas a las femeninas en la misma planta o en otras.
 
-#### Polinización Manual para Jardineros Caseros
 
 Para recolectar semillas de plantas de polinización cruzada:
 
@@ -38,7 +35,6 @@ Selecciona plantas libres de enfermedades para guardar semillas. Considera carac
   - Los pepinos listos para comer no tienen semillas maduras. La madurez ocurre después de la primera helada, igual que con las calabazas y zapallos de invierno.
   - Recolecta semillas de flores cuando las flores se marchiten y sequen, tengan la parte superior seca e hinchada, o tengan vainas secas que comienzan a abrirse.
 
-#### Método Seco
 
 Las plantas con semillas secas incluyen arvejas, frijoles, zanahorias, pimientos y la mayoría de flores y hierbas.
 
@@ -50,7 +46,6 @@ Las plantas con semillas secas incluyen arvejas, frijoles, zanahorias, pimientos
 **Nota**:  
 - Los pimientos deben estar rojos/amarillos y arrugados para recolectar semillas. ¡Usa guantes para pimientos picantes!
 
-#### Método Húmedo
 
 Las plantas con frutos carnosos como el tomate se procesan mejor por fermentación:
 
@@ -91,10 +86,3 @@ Planea usar tus semillas dentro de tres años. Como la viabilidad y el vigor de 
   - *Basic Concepts of Seed Production and Seed Regeneration*
 - Universidad de Maine, Publicaciones de Extensión Cooperativa: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *An Introduction to Seed Saving for the Home Gardener 2750e*
-
-#### Consejo de Maestros Jardineros™ · Llame a la Línea de Ayuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folletos y el horario de clases de Universidad de 10 Minutos™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

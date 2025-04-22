@@ -1,5 +1,3 @@
-#### 10-Minuten Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Essbare Landschaftsgestaltung
 
 ### Überblick
@@ -23,23 +21,18 @@ Essbare Landschaftsgestaltung ist die Nutzung von essbaren Pflanzen im Wohnberei
 
 ### Dinge, die zu beachten sind
 
-#### Standort
 
 Die meisten Obst- und Gemüsesorten brauchen 6 bis 8 Stunden Sonne, um gut zu wachsen. Einige einheimische Pflanzen, wie Lachsbeere und Scheinbeere, vertragen etwas Schatten, ebenso Pflanzen mit essbaren Blättern wie Salat und Grünkohl.
 
-#### Platz
 
 Denke an die endgültige Größe der Pflanze. Zwerg- oder halbhohe Bäume und kleinere Sträucher eignen sich gut für kleine Flächen. Spaliere, Zäune und Lauben nutzen den vertikalen Raum, um essbare Bäume, Sträucher und Kletterpflanzen wachsen zu lassen.
 
-#### Zeit und Pflege
 
 Essbare Pflanzen brauchen in bestimmten Wachstumsphasen Pflege, um produktiv zu bleiben. Sie benötigen besseren Boden, sorgfältiges Gießen und Düngen zum richtigen Zeitpunkt sowie eine aufmerksame Kontrolle von Krankheiten und Schädlingen. Das gilt besonders, wenn die Pflanzen jung sind oder gerade erst gepflanzt wurden.
 
-#### Nutzung
 
 Weiß, wann geerntet werden muss, und sei bereit, die Fülle aus deinem Garten zu verwenden.
 
-#### Schönheit
 
 Zierpflanzen bieten eine große Auswahl an Blütenfarben, Blattformen, Strukturen und Blattfarben. Mit etwas Recherche findet man essbare Pflanzen mit den gewünschten Eigenschaften. Zum Beispiel:
 
@@ -50,7 +43,6 @@ Zierpflanzen bieten eine große Auswahl an Blütenfarben, Blattformen, Strukture
 
 ### Kurze Liste essbarer Pflanzen (* kennzeichnet einheimische Arten)
 
-#### Kleine Bäume (3 bis 6 Meter)
 
 - **Apfel**: Wähle zwischen Halbstamm, Spalier- und Säulenformen; alle haben im Frühling hübsche rosa Blüten. Sorten wie Chehalis, Jonafree, Liberty, Prima und Redfree sind schorfresistent.
 - **Schwarzer Holunder***: Fiedrige, schwarz gefärbte Blätter sind sehr attraktiv; Früchte werden für Gelee, Sirup und Wein verwendet. Gute, feuerresistente Pflanze.
@@ -61,7 +53,6 @@ Zierpflanzen bieten eine große Auswahl an Blütenfarben, Blattformen, Strukture
 - **Pflaume**: Reife Früchte können grün, gold, rot oder violett sein. Brooks- und italienische Pflaumen sind leicht anzubauen. Monilia-Fruchtfäule ist das häufigste Problem.
 - **Felsenbirne***: Weiße Blütentrauben im frühen Frühling; herbstliche Färbung von leuchtendem Gelb bis Orange. Anpassungsfähig an viele Bodenarten und Feuchtigkeitsgrade.
 
-#### Sträucher (holzige, mehrjährige, einjährige; 1 bis 3 Meter)
 
 - **Heidelbeere**: Schöne Herbstfärbung und viele Früchte im Sommer. Leicht anzubauen und kaum krankheitsanfällig.
 - **Johannisbeere und Stachelbeere**: Viele säuerliche Beeren für Marmelade und Gelees. Wachsen leicht in mittelschwerem bis schwerem Boden und bei verschiedenem pH-Wert.
@@ -71,7 +62,6 @@ Zierpflanzen bieten eine große Auswahl an Blütenfarben, Blattformen, Strukture
 - **Erdbeerbaum**: Großer, immergrüner Strauch mit dunkelgrünen, glänzenden Blättern und leuchtend roten Früchten. Blüht von Spätherbst bis Winter; am besten an geschütztem Platz.
 - **Tomate**: Attraktive, essbare Früchte in Gelb, Orange, Rot, Grün, Violett und Schwarz und in vielen Formen. Wird als einjährige Pflanze im Sommer angebaut, braucht Sonne und Wärme zum Reifen. Vermeide Überkopfbewässerung, um Krankheiten zu vermeiden.
 
-#### Kletterpflanzen und andere Ranker
 
 - **Weintraube** (Wein- oder kernlose Tafeltrauben): Attraktives Laub, spendet im Sommer Schatten auf Pergola oder Terrasse. Braucht jeden Winter kräftigen Rückschnitt für guten Ertrag.
 - **Kiwi** (haarige und robuste Kiwi): Exotisches Laub, weiße Blüten im Mai und im Herbst Früchte in Grün, Rot und Braun. Meist ist eine sehr stabile Rankhilfe nötig. Neue, kleinere, selbstfruchtbare Sorten verfügbar.
@@ -80,7 +70,6 @@ Zierpflanzen bieten eine große Auswahl an Blütenfarben, Blattformen, Strukture
 - **Gurke**: Wenn sie klettern darf, bilden Blüten und Früchte einen schönen Hintergrund. Braucht bei Hitze viel Wasser.
 - **Stangenbohne**: Braucht volle Sonne und gute Luftzirkulation, um Mehltau zu vermeiden. Toll für Kinder – daraus kann man Tipis und Tunnel bauen.
 
-#### Bodendecker
 
 - **Erdbeere**: Weiße Blüten im Frühling und rote Früchte im Sommer; Erdbeerpflanzen sind kurzlebig und sollten alle 3 bis 4 Jahre neu gepflanzt werden.
 - **Preiselbeere**: Hübscher, zart wirkender immergrüner Bodendecker. Bringt in voller Sonne mehr Früchte, wächst aber auch im Halbschatten.
@@ -90,20 +79,13 @@ Zierpflanzen bieten eine große Auswahl an Blütenfarben, Blattformen, Strukture
 
 ### Weitere Quellen
 
-#### Informationsquellen zu essbaren Pflanzen im Nordwesten
 
 - *Sunset Western Garden Book*
 - Veröffentlichungen der Oregon State University Extension: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - *10-Minuten Universität*: [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
-#### Master Gardener™ Beratung
 
 - **Home Horticulture Helpline anrufen:**
   - 503-655-8631 (Clackamas)
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

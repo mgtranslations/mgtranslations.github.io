@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação dos Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 # Como Controlar Toupeiras
 
 ### Introdução
@@ -52,10 +50,3 @@ As toupeiras precisam de muita comida e podem viajar até meio quilômetro por d
 
 - [Controlando Toupeiras EC 987](https://catalog.extension.oregonstate.edu)
 - [Manual de Jardinagem Sustentável EM 8742](https://catalog.extension.oregonstate.edu)
-
-#### Orientações do Mestre Jardineiro™ · Ligue para o Disque Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos da Universidade de 10 Minutos™ e agenda de aulas: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

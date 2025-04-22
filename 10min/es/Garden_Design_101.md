@@ -1,5 +1,3 @@
-#### 10-Minute University™ · La Asociación de Master Gardeners del Condado de Clackamas en colaboración con y en apoyo al Programa de Master Gardener™ de Extensión de OSU
-
 # Diseño de Jardines 101
 
 Un buen diseño es la base de un jardín hermoso, saludable y sostenible. Un plan bien pensado combina los elementos de un buen diseño—línea, forma, textura, aroma y color—mientras incorpora las necesidades y deseos del dueño de casa.
@@ -111,7 +109,6 @@ Un buen diseño es la base de un jardín hermoso, saludable y sostenible. Un pla
 - Crea combinaciones agrupando plantas complementarias que florecen al mismo tiempo. Esto fortalecerá el atractivo visual de tu jardín.
 - En un jardín pequeño, demasiados colores pueden verse caóticos. Elige una paleta fría o cálida y selecciona las plantas de tu lista de acuerdo a eso.
 
-#### Principios para Combinaciones de Plantas de Alto Impacto
 
 1. **Paleta de Colores**
 2. **Textura**
@@ -121,12 +118,3 @@ Un buen diseño es la base de un jardín hermoso, saludable y sostenible. Un pla
 - Por ejemplo, usa follaje para dar color a tus plantaciones como verde, azul, amarillo, rojo y gris variegado.
 - Usa texturas como hojas grandes, puntiagudas, lisas, plumosas y finas para dar interés a tus plantaciones.
 - Usa formas como montículos, puntiagudas y rastreras para crear contraste entre tus plantas.
-
----
-
-#### Consejos de Master Gardener™ · Llama a la Línea de Ayuda de Horticultura para el Hogar: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Para más folletos de 10-Minute University™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

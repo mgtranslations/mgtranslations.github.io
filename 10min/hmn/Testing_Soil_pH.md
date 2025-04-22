@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
-
----
-
 ## Kev Ntsuam Xyuas pH Av
 
 ### Saib Dav
@@ -71,7 +67,6 @@ Txhua tus qauv av yuav qhia tau pH:
 
 Thaum Master Gardeners ua kev kuaj, lawv yuav pab txhais cov txiaj ntsig thiab qhia txoj kev kho. Nws zoo tshaj kom kho pH av maj mam hauv ntau xyoo. Ntxiv cov tshuaj kho av kom tsim nyog rau lub caij nplooj zeeg thiab rov kuaj pH av dua tom qab 3 txog 6 hlis. Rov ua dua yog xav tau.
 
-#### Kev Ua Kom pH Av Siab Dua
 
 - Ntxiv chua lime rau lub caij nplooj zeeg kom tau qhov zoo tshaj.
 - Siv **5 txog 10 phaus lime rau 100 square feet** yog tias koj sib tov rau hauv av ua ntej cog.
@@ -85,7 +80,6 @@ Thaum Master Gardeners ua kev kuaj, lawv yuav pab txhais cov txiaj ntsig thiab q
 - Yog siv hmoov lime, hnav daim npog qhov ncauj.
 - Dolomite lime muaj magnesium thiab yog ib txoj kev xaiv zoo rau Western Oregon, vim av ntawd feem ntau tsis muaj magnesium txaus.
 
-#### Kev Ua Kom pH Av Qis Dua
 
 - Ntxiv sulfur rau lub caij nplooj zeeg kom tau qhov zoo tshaj.
 - Rau ntoo thiab tsob nroj loj, ntxiv me ntsis sulfur rau thaj chaw hauv qab ceg los sis faib rau ib kab xws li blueberry.
@@ -102,12 +96,3 @@ Mus xyuas koj lub chaw OSU Extension Service ntawm 200 Warner-Milne Road, Oregon
 - **Daim Npe Cov Chaw Kuaj Av rau Oregon** (EM 8677)
 - **Kev Coj Av Mus Kuaj rau Vaj Tsev thiab Av Me Me** (EC 628)
 - **Kev Ua Kom Av Chua Rau Blueberries thiab Nroj Tsuag Zoo Nkauj hauv Vaj** (EC 1560-E)
-
----
-
-#### Master Gardener™ Kev Pab Tswv Yim · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau ntau cov ntawv qhia ntxiv thiab sijhawm kawm ntawm 10-Minute University™, mus xyuas [www.cmastergardeners.org](http://www.cmastergardeners.org) los yog [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev xaiv txawv hauv txhua qhov kev pabcuam, kev ua haujlwm, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim tawv nqaij, tebchaws yug, kev ntseeg, pojniam/txiv neej, tus kheej/cov cim pojniam/txiv neej (xws li kev qhia tus kheej), kev nyiam pojniam/txiv neej, kev xiam oob khab, hnub nyoog, txoj kev sib yuav, tsev neeg/kawm xeeb, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, kev ua tub rog, kev rau txim los yog pauj rau kev tiv thaiv txoj cai yav tas los. (Tsis yog txhua yam no siv rau txhua qhov kev pabcuam.)
----

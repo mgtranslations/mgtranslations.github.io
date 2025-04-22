@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Heerka Sare ee Degmada Clackamas oo wada shaqayn la leh Barnaamijka Beeralayda Heerka Sare ee OSU Extension
-
 ## Sida Beertaada Looga Dhigo Mid U Adkeysata Isbedelka Cimilada: Dhirta
 
 Isbedelka kuleylka dhulka maanta waxa uu keenaa baraf dhalaalaya, heerarka badda oo kor u kacaya, milixda badaha oo sii badanaysa, abaaro iyo fatahaado soo noqnoqda oo culus. Waqooyiga Galbeed ee Pacific-ga waxa laga dareemay abaaro soo laabtay, dabaylo badan oo waaweyn, mowjado kulul, cayayaan fara badan, iyo cudurro ku dhaca geedaha. Barafka oo yaraada waxay keentaa in wabiyada iyo durdurrada uu biyuhu sii yaraado waqti hore, taasoo yareysa biyaha la heli karo. Intaas waxaa dheer, isbedelka cimilada wuxuu keenayaa dhacdooyin cimilo oo aan la fileyn (mowjado kulul, roobab badan) oo soo noqnoqda.  
@@ -59,7 +57,6 @@ Sidee ayaynu u beeri karnaa xilliyadan? Warqaddan gacanta waxa ay bixisaa fikrad
 
 ### Isticmaal Natiijooyinka Tijaabooyinka Dhirta
 
-#### Qiimaynta Dhirta Waqooyiga Galbeed
 
 Jaamacadda Gobolka Oregon waxay sameysay tijaabooyin dhulka ah oo lagu eegayay adkeysiga abaaraha iyo qabowga shan nooc oo dhir ah:
 
@@ -69,7 +66,6 @@ Jaamacadda Gobolka Oregon waxay sameysay tijaabooyin dhulka ah oo lagu eegayay a
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Rockrose](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Mashruuca Dhirta U Diyaarsan Cimilada
 
 Tijaabooyin dhulka ah oo lagu eegayo adkeysiga abaaraha oo ay sameeyeen shan jaamacadood:
 
@@ -81,7 +77,6 @@ Tijaabooyin dhulka ah oo lagu eegayo adkeysiga abaaraha oo ay sameeyeen shan jaa
   [Wax badan ka baro](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [Macluumaad Tijaabada UC](https://ucanr.edu/sites/UCLPIT/)
 
-#### Tijaabooyin Kale
 
 - [Tijaabooyinka Beerta Botanic ee Chicago](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (Gobolka Sare ee Midwest, USA)
 - [Tijaabooyinka Xarunta Mt. Cuba](https://mtcubacenter.org/research/trial-garden/) (Gobolka Mid-Atlantic, USA)
@@ -91,8 +86,3 @@ Tijaabooyin dhulka ah oo lagu eegayo adkeysiga abaaraha oo ay sameeyeen shan jaa
 
 - [Great Plant Picks](https://greatplantpicks.org/): Kaydka Beerta Botanical ee Miller oo leh in ka badan 1,000 dhir, laguna kala saari karo xaaladaha goobta (qorrax/hoos) iyo astaamaha (cabir, midabka caleenta).
 - [Perennial Plant of the Year](https://perennialplant.org/page/PPOY): Talooyin sannadle ah oo ku saabsan dhirta sannadka badan ee ugu wanaagsan.
-
----
-
-#### Adeegga Kordhinta ee Jaamacadda Gobolka Oregon waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa sabab la xiriirta jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhliga laga helo barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda ciidanimada, aargudasho ama ciqaab loo geystay hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay lama adeegsan karo dhammaan barnaamijyada.)
----

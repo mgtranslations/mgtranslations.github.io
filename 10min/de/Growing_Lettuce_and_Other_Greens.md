@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program
-
 # Kopfsalat und andere Blattgemüse anbauen
 
 ### Überblick
@@ -121,12 +119,3 @@ Feuchter, schattiger Boden unter Salatpflanzen und die zarten Blätter sind idea
 - [So bauen Sie Ihr eigenes Hochbeet mit Abdeckung (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [Gärtnern mit Kompost, Mulch und Reihenabdeckung (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [Handbuch Nachhaltiges Gärtnern (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere Handouts und Kurspläne der 10-Minuten-Universität™ finden Sie unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien wegen Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivität. (Nicht alle genannten Gründe gelten für alle Programme.)
----

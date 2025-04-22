@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ururka Beeralayda Khabiirada ah ee Clackamas County oo iskaashanaya lana shaqeynaya Barnaamijka OSU Extension Master Gardener™
-
 # Sida Loo Koro Saladhka & Cagaarka Kale
 
 ### Guudmar
@@ -121,12 +119,3 @@ Ciidda qoyan, hooska leh ee dhirta saladhka iyo caleemaha macaan waxay abuuraan 
 - [Sida loo dhisto sariir sare oo cloche ah (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [Beerta iyadoo la adeegsanayo compost, mulch, iyo daboollo safaf ah (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [Buugga Beerta Joogtada ah (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### Talo Khabiir Beereed™ · Wac Khadka Gargaarka Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo iyo jadwalka fasallada ee 10-Minute University™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga OSU Extension Service wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawsha, iyo agabka, iyadoo aan loo eegin jinsiyad, midab, asalka qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), nooca galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda ciidanimo, aargoosi, ama ciqaab hore oo la xiriirta xuquuqda madaniga. (Dhammaan sababaha mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
----

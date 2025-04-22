@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Jardineiros Mestres do Condado de Clackamas em colaboração e apoio ao Programa Jardineiro Mestre da Extensão OSU
-
 # Poda de Árvores e Arbustos
 
 ### Motivos para Podar
@@ -47,7 +45,6 @@ Para arbustos floridos, pode em uma época que minimize a perda de flores:
 - **Arbustos que florescem na primavera** (Tabela 1) florescem nos galhos do ano anterior; pode logo após a floração para estimular crescimento vigoroso no verão.
 - **Arbustos que florescem após junho** (Tabela 2) florescem em brotos formados nos ramos do ano atual; pode estes arbustos no final do inverno para estimular forte crescimento na primavera.
 
-#### Tabela 1: Arbustos Que Florescem no Crescimento do Ano Anterior
 
 | Nome Botânico              | Nome Popular                 |
 |--------------------------- |-----------------------------|
@@ -70,7 +67,6 @@ Para arbustos floridos, pode em uma época que minimize a perda de flores:
 | Viburnum spp.              | Viburno                      |
 | Weigela florida            | Weigela tradicional          |
 
-#### Tabela 2: Arbustos Que Florescem em Ramos da Estação Atual
 
 | Nome Botânico              | Nome Popular                |
 |--------------------------- |----------------------------|
@@ -118,8 +114,3 @@ Galhos maiores que 3,8 cm de diâmetro devem ser podados em três etapas, confor
 - [Podando rosas](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Podando uma árvore frutífera](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Treinando uma árvore frutífera](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/de pais, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

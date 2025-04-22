@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 ## Ua Koj Lub Vaj Kom Muaj Zog Tiv Thaiv Huab Cua: Dej
 
 Lub ntiaj teb tab tom kub zuj zus, ua rau dej khov yaj, dej hiav txwv nce siab, dej hiav txwv muaj kua qaub ntau, thiab muaj kev nqhuab lossis nag los loj tshwm sim ntau dua thiab loj dua. Hauv Pacific Northwest, peb tau pom kev nqhuab ntev, hluav taws hav zoov tshwm sim ntau thiab loj dua, cua kub hlob, kab tsuag, thiab kab mob ntoo. Dej daus tsawg hlob ua rau dej hauv dej ntws siab dua thaum ntxov thiab ua rau dej siv tsawg dua. Ntxiv rau cov kev hloov no, huab cua hloov pauv tseem ua rau muaj huab cua txawv txav (cua kub, nag loj) tshwm sim ntau dua.
@@ -80,8 +78,3 @@ Qee lub nroog thiab cheeb tsam muaj cai tshwj xeeb txog kev txiav cov raj dej na
 
   - [Drip Irrigation: Taw Qhia](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Qhia Tư Dej](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### Oregon State University Extension Service tsis pub ua txhaum cai hauv txhua qhov kev pab, kev pabcuam, kev ua haujlwm, thiab khoom siv ntawm qhov kev txawv ntawm haiv neeg, xim, lub teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev nyiam sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, muaj tsev neeg, nyiaj los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, kev hem, lossis rau qhov ua tau ib yam kev cai lij choj yav dhau los. (Tsis yog txhua yam kev txwv no siv rau txhua qhov kev pab.)
----

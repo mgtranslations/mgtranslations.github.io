@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L'Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du programme Maître Jardinier™ de l’OSU Extension
-
 ## Rendez votre jardin plus résilient face au climat : Pelouses
 
 Le réchauffement actuel de la Terre entraîne la fonte des glaciers, l’élévation du niveau de la mer, l’augmentation de l’acidité des océans et des sécheresses et inondations plus fréquentes et plus graves. Le nord-ouest du Pacifique connaît des sécheresses prolongées, une augmentation de la fréquence et de la gravité des incendies de forêt, des vagues de chaleur, des invasions d’insectes et des maladies des arbres. La diminution de la couverture neigeuse entraîne des pics de débit plus précoces dans les rivières et les ruisseaux, ce qui réduit les réserves d’eau. En plus de ces tendances, le changement climatique provoque des événements météorologiques extrêmes et imprévisibles (vagues de chaleur, fortes pluies) de plus en plus fréquents.  
@@ -37,8 +35,3 @@ Pour plus de détails, lisez Pelouses respectueuses du climat : [https://extensi
 - **D’autres couvre-sols bas non gazonnés** incluent le thym rampant, la menthe rampante, la camomille naine ou même la mousse. Choisissez le couvre-sol en fonction de la lumière et de l’humidité du site.
 - **Tolérez davantage les mauvaises herbes :** Les mauvaises herbes peuvent même augmenter la biodiversité de votre jardin en offrant de la nourriture à différents insectes. Les mauvaises herbes fleuries aident aussi les pollinisateurs.
 - **Utilisez les herbicides avec précaution, voire pas du tout :** Tondez avant la montée en graines des mauvaises herbes pour éviter leur propagation, ou retirez-les manuellement. Si un herbicide chimique est vraiment nécessaire, choisissez un produit à faible impact parmi la liste suivante : [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
-
----
-
-#### Le Service d’Extension de l’Oregon State University interdit toute discrimination dans l’ensemble de ses programmes, services, activités et supports sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, d’un handicap, de l’âge, de l’état matrimonial ou familial, du revenu provenant d’une aide publique, des convictions politiques, des informations génétiques, du statut d’ancien combattant, de représailles ou de mesures de rétorsion pour une activité antérieure en matière de droits civiques. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

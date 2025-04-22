@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Great Plant Picks: Zwiebeln, Farne, Kletterpflanzen und Gräser
 
 ### Legende
@@ -85,8 +83,3 @@ Great Plant Picks (GPP) ist das wichtigste Bildungsprogramm des Elisabeth C. Mil
 - Nicht anfällig für Krankheiten oder Schädlinge.
 - Bieten mehr als eine interessante Saison im Garten.
 - Viele GPP-Pflanzen bieten auch ökologische Vorteile (Bestäuber, Vogelnahrung, Lebensraum für Wildtiere usw.).
-
----
-
-###### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten verbotenen Gründe gelten für alle Programme.)
----

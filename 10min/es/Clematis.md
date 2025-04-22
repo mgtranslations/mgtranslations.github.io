@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Clasificación Hortícola Revisada para el Género *Clematis*
 **Aprobado por el Consejo de la I.Cl.S. en junio de 2019**  
 *(Iniciado en un taller dirigido por la Sociedad Internacional de Clematis en Wisley Garden, del 3 al 5 de julio de 2017, con anotaciones posteriores de miembros del grupo de trabajo)*
@@ -120,18 +118,15 @@
 
 **Características de la gama:** Caducas. Trepadoras, generalmente con tallos de crecimiento fuerte. Florecen usualmente en verano, en crecimiento de la temporada actual. Numerosas flores de 1–5 cm de diámetro, mayormente en forma de campana o estrella, principalmente blancas o amarillas.
 
-#### Clemátides Tardías en Forma de Estrella
 
 - **Características del grupo:** Trepadoras medianas, con flores en forma de estrella, generalmente blancas y perfumadas.
 - **Ejemplos:** *flammula*, *terniflora*, × *triternata* ‘Rubromarginata’, ‘Sweet Summer Love’.
 - **Poda:** Opcional, según el espacio. Si es necesario, pode fuertemente a menos de 0.5 m a mediados de primavera, una vez que aparezca el nuevo crecimiento. Si prefiere, solo limpie.
 
-#### Clemátides Tardías Amarillas
 
 - **Características del grupo:** Flores generalmente amarillas y en forma de campana o abiertas.
 - **Ejemplos:** *buchananiana*, *connata*, *intricata*, *ladakhiana*, *orientalis*, *rehderiana*, *tangutica*, *tibetana*, ‘Bill MacKenzie’, ‘Helios’ (conocida como ‘Daihelios’ en Japón), ‘Kugotia’, GOLDEN TIARA, ‘Lambton Park’.
 
-#### Clemátides de Crecimiento Rápido
 
 - **Características del grupo:** De crecimiento vigoroso, con flores generalmente blancas, y botones y flores mirando hacia arriba.
 - **Ejemplos:** *ligusticifolia*, *potaninii*, *vitalba*, *virginiana*, ‘Paul Farges’ SUMMER SNOW.
@@ -144,12 +139,3 @@
 **Características de la gama:** Características que no se ajustan fácilmente a ninguna de las anteriores.
 
 - **Ejemplos:** *columbiana*.
-
----
-
-#### Consejos de Maestros Jardineros™ · Línea de Ayuda de Horticultura en Casa: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de la Universidad de 10 Minutos™ y horarios de clases, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa en derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

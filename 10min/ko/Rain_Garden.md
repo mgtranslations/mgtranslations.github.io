@@ -1,5 +1,3 @@
-#### 10-Minute University™ · OSU 확장 마스터 가드너™ 프로그램을 지원하고 협력하는 Clackamas 카운티 마스터 가드너 협회
-
 # 빗물 정원 만들기
 
 빗물 정원은 지붕, 진입로, 인도, 도로 등에서 빗물이 흘러와 모여 정화되는 움푹한 정원입니다. 빗물 정원은 자연의 숲이나 초원을 모방하여 우리 유역을 건강하게 지켜줍니다.
@@ -109,8 +107,3 @@
 - [빗물 정원 저영향 개발 팩트 시트](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [빗물 정원 가이드](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Washington 카운티 깨끗한 물 서비스, 저영향 개발 핸드북](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### 오리건 주립대학교 확장 서비스는 모든 프로그램, 서비스, 활동, 자료에서 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부모 상태, 공적 지원으로 인한 소득, 정치적 신념, 유전 정보, 재향군인 신분, 이전 민권 활동에 대한 보복 또는 보복 위협을 이유로 차별을 금지합니다. (모든 금지 사유가 모두 적용되는 것은 아닙니다.)
----

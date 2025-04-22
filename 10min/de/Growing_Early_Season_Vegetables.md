@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Anbau von frühzeitigen Gemüsesorten
 
 ### Was sind frühzeitige Gemüsesorten?
@@ -53,7 +51,6 @@ Siehe **[Wie man ein eigenes Hochbeet-Frühbeet baut (EC 1627)](http://catalog.e
 
 ### Auswahl zwischen Samen, Jungpflanzen oder mehrjährigen Pflanzen
 
-#### Samen
 
 Karotten, Erbsen, Salat, Kohlrabi, Blattgemüse, Rote Bete und Radieschen wachsen leicht aus Samen. Säe die Samen direkt in den Boden.
 
@@ -61,14 +58,12 @@ Karotten, Erbsen, Salat, Kohlrabi, Blattgemüse, Rote Bete und Radieschen wachse
   - Weiche die Samen vor dem Pflanzen 2-4 Stunden in Wasser ein.
   - Oder lege die eingeweichten Samen zwischen zwei feuchte Papiertücher in einen Plastikbeutel. Bewahre sie an einem warmen Ort auf, bis sie keimen.
 
-#### Jungpflanzen
 
 Wenn du deine eigenen Jungpflanzen ziehst, kannst du die gewünschten Sorten zur richtigen Zeit pflanzen.
 
 - Kohl, Brokkoli, Blumenkohl und Grünkohl sind oft als Jungpflanzen im Handel erhältlich.
 - Der Kauf von kleinen Pflanzen gibt einen Vorsprung und beschleunigt die Ernte, besonders bei Sorten, die bei warmem Wetter schnell „schießen“.
 
-#### Mehrjährige Pflanzen
 
 Einige Gemüsesorten gibt es weder als Samen noch als Pflanzen, wie Kartoffelknollen, Knoblauch und Steckzwiebeln, die direkt ins Beet gepflanzt werden können.
 
@@ -96,7 +91,6 @@ Die meisten Gemüsesorten sind einjährig und brauchen ausreichend Nährstoffe f
   - Knochenmehl (12-24% P)
   - Algenmehl (2-5% K)
 
-#### Bodentest
 
 Gemüsegärten im Großraum Portland haben oft hohe Werte an Phosphor, Kalium und anderen Nährstoffen. Gärtner sollten einen Bodentest machen, um Mängel festzustellen und gezielt zu düngen.
 
@@ -115,8 +109,3 @@ Besuche [OSU Extension Service](http://catalog.extension.oregonstate.edu) für w
 - **Herbst- und Wintergemüseanbau im pazifischen Nordwesten (PNW 548)**
 
 Besuche [10-Minuten-Universität™ Ressourcen](http://www.cmastergardeners.org/10-minute-university) für Handouts und Videos zum Gemüsegärtnern.
-
----
-
-#### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten Verbote gelten für alle Programme.)
----

@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Cultivando Macetas Bonitas y Deliciosas
 
 ### Resumen
@@ -44,7 +42,6 @@ Considera plantas con alturas variadas y colores vibrantes de verduras. Es impor
 
 ### Diseño
 
-#### Marco de Diseño: Thriller, Filler y Spiller
 
 - **Thriller**: La planta más grande y llamativa de la maceta, usualmente colocada en el centro (si la maceta se verá de todos lados) o en la parte trasera (si se verá de solo un lado). El Thriller añade un elemento vertical fuerte al recipiente.
   - Ejemplos: Planta de pimiento, estructura de ejotes trepadores, arándano, planta de tomate o col rizada rusa de crecimiento alto para macetas pequeñas.
@@ -79,10 +76,3 @@ La mayoría de las plantas aquí listadas avanzarán en su ciclo de vida, produc
 - **Manual AMA de Plantas Venenosas y Dañinas**, Lampe, Kenneth F, 1985. American Medical Association
 - **Handouts y videos de Universidad de 10 Minutos™**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda de horticultura doméstica: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Para otros folletos y horarios de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paternal, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o castigo por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

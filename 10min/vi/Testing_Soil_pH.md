@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
----
-
 ## Kiểm Tra Độ pH Đất
 
 ### Tổng Quan
@@ -71,7 +67,6 @@ Mỗi mẫu đất sẽ cho một chỉ số pH:
 
 Khi chuyên gia làm vườn kiểm tra, họ cũng sẽ giúp bạn hiểu kết quả và đưa ra lời khuyên khắc phục. Tốt nhất nên điều chỉnh pH đất từ từ trong vài năm. Bổ sung chất điều chỉnh đất vào mùa thu và kiểm tra lại pH sau 3 đến 6 tháng. Lặp lại nếu cần.
 
-#### Tăng Độ pH Đất
 
 - Bón vôi vào mùa thu là tốt nhất.
 - Dùng **5 đến 10 pound vôi cho mỗi 10 mét vuông** nếu trộn vào đất trước khi trồng.
@@ -85,7 +80,6 @@ Khi chuyên gia làm vườn kiểm tra, họ cũng sẽ giúp bạn hiểu kế
 - Nếu dùng vôi bột, nên đeo khẩu trang.
 - Vôi dolomite có chứa magiê, rất phù hợp cho đất ở miền Tây Oregon, nơi đất thường thiếu magiê.
 
-#### Giảm Độ pH Đất
 
 - Bón lưu huỳnh nguyên chất vào mùa thu là tốt nhất.
 - Với cây ăn quả hoặc cây bụi đã trồng, rải một lượng nhỏ quanh tán cây hoặc rải dọc hàng việt quất.
@@ -102,12 +96,3 @@ Khi chuyên gia làm vườn kiểm tra, họ cũng sẽ giúp bạn hiểu kế
 - **Danh sách các phòng thí nghiệm phân tích phục vụ Oregon** (EM 8677)
 - **Lấy mẫu đất cho vườn nhà và diện tích nhỏ** (EC 628)
 - **Giảm độ pH đất cho việt quất và cây cảnh trong vườn** (EC 1560-E)
-
----
-
-#### Tư vấn Làm Vườn Chuyên Nghiệp™ · Gọi đường dây tư vấn làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch lớp học 10-Minute University™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org) hoặc [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, xuất xứ, tôn giáo, giới tính, bản dạng giới (bao gồm cả thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc trẻ em, thu nhập từ các chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, bị trả thù hoặc bị trả đũa vì hoạt động về quyền dân sự trước đây. (Không phải tất cả các tiêu chí cấm đều áp dụng cho tất cả các chương trình.)
----

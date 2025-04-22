@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Creating a Pollinator Garden
 
 The key to creating a successful pollinator garden is to provide pollinating insects and other critters with a place to raise their young and ensure that they have a reliable food source from spring to late autumn. Common pollinators in gardens include bees, wasps, butterflies, moths, flies, beetles, birds, and even ants. Because there is such a variety of pollinators with many different requirements, the best strategy is to grow many different types of flowering plants that produce nectar and pollen.
@@ -84,7 +82,3 @@ Keep non-diseased leaves, plant stems, and seedheads in the garden until late sp
 Contact your local OSU Extension office for Master Gardener advice. Check this site for contact information: [Find Your Local Extension Office](https://extension.oregonstate.edu/find-us).
 
 For 10-Minute University™ handouts and class schedules, visit [Clackamas County Master Gardeners](https://cmastergardeners.org).
-
----
-
-#### Oregon State University Extension Service · Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

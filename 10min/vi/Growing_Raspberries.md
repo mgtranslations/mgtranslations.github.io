@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 # Trồng Dâu Tây Đen (Raspberry)
 
 ### Tại Sao Nên Trồng Dâu Tây Đen?
@@ -42,7 +40,6 @@ Dâu tây đen thường được bán dưới dạng cây rễ trần. Nên mua
 
 ### Bón Phân
 
-#### Cây Mới Trồng
 Năm đầu tiên, bón tổng cộng **2 ounce đạm (N)** cho mỗi hàng dài 10 feet. Dùng phân cân đối như **16-16-16** hoặc nguồn hữu cơ (như bột hạt bông).
 
 Cách tính lượng phân cần dùng:
@@ -54,7 +51,6 @@ Không bón hết một lần. Chia thành ba phần:
 2. Bón 1/3 tiếp theo sau 1 tháng nữa.
 3. Bón 1/3 cuối cùng sau thêm 1 tháng.
 
-#### Cây Đã Ổn Định
 Bón phân hàng năm để cây phát triển tốt:
 - **Lượng**: 2 đến 3 ounce đạm cho mỗi hàng 10 feet.
   - Ví dụ: 13 đến 19 ounce phân 16-16-16 hoặc 2,5 pound phân 5-5-3.
@@ -102,14 +98,8 @@ Tài liệu của OSU có sẵn trực tuyến tại [https://extension.oregonst
 - **Trồng Dâu ở Bờ Biển Oregon: Dâu Tây Đen và Dâu Đen** (EM 9180) – Nội dung cũng phù hợp cho vùng Willamette Valley.
 - Học cách tỉa dâu tây đen qua khóa học trực tuyến tại [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
 
-#### Tư Vấn Làm Vườn Chuyên Gia™
 - **Gọi đường dây tư vấn làm vườn tại nhà:**
   - 503-655-8631 (Quận Clackamas)
   - 503-821-1150 (Quận Washington)
   - 503-445-4608 (Quận Multnomah)
 - Để xem thêm các tài liệu và lịch lớp học 10-Minute University™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì các hoạt động quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

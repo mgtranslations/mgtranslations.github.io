@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Master Gardeners do Condado de Clackamas em colaboração e apoio ao Programa Master Gardener™ da Extensão da OSU
-
 # Jardinagem de Hortaliças Usando Menos Água
 
 ### Visão Geral
@@ -96,12 +94,3 @@ A divisão de Pequenas Fazendas da Extensão da OSU tem testado a viabilidade do
   - Nichols Garden Nursery
   - Peace Seeds
   - Siskiyou Seeds
-
----
-
-#### Dicas do Master Gardener™ · Ligue para a Linha de Ajuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos e cronogramas do 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

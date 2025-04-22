@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Zwischenfrüchte für Hausgemüsebeete
 
 Zwischenfrüchte bedecken und verbessern den Boden. Sie können im Herbst ausgesät werden, um brachliegende Flächen zu bedecken, oder im Frühjahr als Teil einer Fruchtfolge. Viele Pflanzen, darunter Hülsenfrüchte, Gräser und breitblättrige Stauden, erfüllen diesen Zweck.
@@ -75,10 +73,3 @@ Die Beendigung erfolgt durch Mähen oder Umknicken der Stängel, sodass sie auf 
     - Zwischenfrüchte für Hausgärten westlich der Kaskaden FS111E
     - Zwischenfrüchte für Hausgärten östlich der Kaskaden FS117E
     - Methoden für erfolgreiche Zwischenfruchtpflege im eigenen Garten FS119E
-
-#### Master Gardener™ Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Besuchen Sie [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) für 10-Minuten-Universität™ Merkblätter und Videos
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkommen aus öffentlicher Unterstützung, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # How to Care for Houseplants
 
 Growing houseplants is a great way to add lush greenery to your home. Though some houseplants are nearly foolproof to grow, all plants need basic care. Plants thrive in an environment that closely resembles their native habitat. Before buying new plants, know their basic needs to determine whether you have the right place for them in your home and can provide proper care.
@@ -83,11 +81,3 @@ Dust can accumulate on foliage, making it look dull and impeding a plant’s abi
 - [Carefree succulents continue to grow in popularity](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Colorful indoor plants make delightful gifts for the holidays](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Easy indoor herbs spice up cooking](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Master Gardener™ Advice · Contact your local OSU Extension office for Master Gardener advice. Check this site for contact information: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). For 10-Minute University™ handouts and class schedules, visit [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

@@ -1,7 +1,3 @@
-#### Université 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien au programme Maître Jardinier™ de l’Extension OSU
-
----
-
 ## ATTENTION : Le fichier original contient beaucoup d’images et n’a pas pu être entièrement traduit, veuillez également consulter le fichier PDF original [ici](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
 
 # Les Meilleurs Arbres de Jardin
@@ -232,12 +228,3 @@ Images disponibles sur [https://jfschmidt.com](https://jfschmidt.com).
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
 - *Trees to Know in Oregon and Washington*, Edward C. Jensen, Oregon State University Extension Service, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de l’Université 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### L’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris l’expression du genre), orientation sexuelle, handicap, âge, statut matrimonial, statut familial/parental, revenus provenant d’un programme d’assistance publique, opinions politiques, informations génétiques, statut d’ancien combattant, représailles ou mesures de rétorsion suite à une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

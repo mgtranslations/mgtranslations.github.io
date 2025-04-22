@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Tipps für den Frühlingsgarten
 
 Am ersten warmen Frühlingstag bekommen die meisten Gärtner Lust, die Erde zu bearbeiten. **Bleiben Sie fern!** Es ist klug, zuerst die Erde zu prüfen. Nehmen Sie eine Handvoll Erde und drücken Sie sie fest zusammen. Bleibt die Erde als Ball in der Hand, wird sie durch Gehen und Graben verdichtet.
@@ -107,8 +105,3 @@ Erhalten Sie OSU Extension Veröffentlichungen unter [http://catalog.extension.o
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 - Für 10-Minuten-Universität™ Handouts & Videos besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

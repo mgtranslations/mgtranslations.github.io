@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Khibrad Leh ee Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Naqshadaynta Beerta 101
 
 Naqshad wanaagsan waa aasaaska beero qurux badan, caafimaad qabta, oo waarta. Qorshe si fiican loo fikiray wuxuu isku daraa waxyaabaha naqshadda wanaagsan—xariiq, qaab, taabasho, caraf, iyo midab—iyadoo la tixgelinayo baahiyaha iyo rabitaanka milkiilaha guriga.
@@ -111,7 +109,6 @@ Naqshad wanaagsan waa aasaaska beero qurux badan, caafimaad qabta, oo waarta. Qo
 - Dhis isku-daridyo adigoo ku wareegsan dhir kale oo ubaxa isku mar la leh. Tani waxay xoojinaysaa quruxda muuqaalka beertaada.
 - Beerta yar, midabyo aad u badan waxay keeni karaan jahawareer. Door midab qabow ama mid diiran iskuna day in dhirta aad dooratay ay la jaanqaado.
 
-#### Mabda’a Isku-darka Dhirta Saamayn Weyn Leh
 
 1. **Qaabka Midabka**
 2. **Taabashada**
@@ -121,12 +118,3 @@ Naqshad wanaagsan waa aasaaska beero qurux badan, caafimaad qabta, oo waarta. Qo
 - Tusaale ahaan, isticmaal caleemo si aad midab ugu keento beertaada sida cagaar, buluug, jaalle, casaan, iyo cawl isku dhafan.
 - Isticmaal taabasho sida caleemo waaweyn, laamo fiiqan, siman, khafiif ah, iyo xariir ah si aad xiiso ugu abuurto beertaada.
 - Isticmaal qaab sida mid wareegsan, mid fiiqan, iyo mid la jiifa si aad u kala duwanaato beertaada.
-
----
-
-#### Talooyinka Beeralayda Khibradda Leh · Wac Khadka Gargaarka Beerta: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Wixii warqado iyo jadwalka fasallada 10-Daqiiqo Jaamacad™ ah, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan: jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dareenka galmada, naafanimada, da’da, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidde-sideyaasha, heerka askarinimo, ciqaabta, ama aargoosiga fal hore ee xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay laguma dabaqo dhammaan barnaamijyada.)
----

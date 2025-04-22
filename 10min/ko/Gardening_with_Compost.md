@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas 카운티 마스터 가드너 협회, OSU Extension Master Gardener™ 프로그램과 협력 및 지원
-
 # 퇴비로 정원 가꾸기
 
 퇴비는 흙 위에 덮어줄 때 훌륭한 멀칭재입니다. 흙에 섞어 넣으면 비료와 토양 개량제 역할도 합니다. 이 안내서의 단계들을 따르면, 가정의 정원사는 잔디깎은 풀, 낙엽, 기타 마당 쓰레기를 집에서 사용할 퇴비로 바꿀 수 있습니다.
@@ -137,12 +135,3 @@
 ## OSU Extension Service 자료
 
 - [퇴비, 멀치, 줄 덮개로 정원 가꾸기, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### 마스터 가드너™ 상담 · 가정 원예 상담전화: 503-655-8631 (Clackamas 카운티) · 503-821-1150 (Washington 카운티) · 503-445-4608 (Multnomah 카운티) · 10-Minute University™ 안내서와 수업 일정: [www.cmastergardeners.org](http://www.cmastergardeners.org) 방문
-
----
-
-##### 오리건 주립대학교 Extension Service는 인종, 피부색, 출신국, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부양 상태, 공공보조금 수입, 정치적 신념, 유전 정보, 군 복무, 이전의 민권 활동에 대한 보복이나 보복 위협 등 어떤 이유로도 프로그램, 서비스, 활동, 자료에서 차별을 금지합니다. (모든 금지 사유가 모든 프로그램에 적용되는 것은 아닙니다.)
----

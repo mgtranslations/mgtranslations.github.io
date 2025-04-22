@@ -1,5 +1,3 @@
-#### 10-분 대학™ · 클라카마스 카운티 마스터 가드너 협회와 OSU 확장 마스터 가드너™ 프로그램의 협력 및 지원
-
 # 정원 도구의 관리와 유지
 
 도구는 시간과 습기, 흙, 녹으로 인해 점점 망가집니다. 아래에 설명된 적절한 청소와 관리를 하면 도구를 좋은 상태로 오래 사용할 수 있습니다.
@@ -61,12 +59,3 @@
 - [채소 정원을 위한 실용적인 도구](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [열심히 일한 정원 도구를 잘 관리하세요](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [정원 도구 날카롭게 하기](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### 마스터 가드너™ 상담 · 홈 원예 상담전화: 503-655-8631 (클라카마스 카운티) · 503-821-1150 (워싱턴 카운티) · 503-445-4608 (멀트노마 카운티) · 10-분 대학™ 자료 및 수업 일정은 [www.cmastergardeners.org](http://www.cmastergardeners.org)에서 확인하세요.
-
----
-
-##### 오리건 주립대학교 확장 서비스는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/보호자 신분, 공공 지원 프로그램 수입, 정치적 신념, 유전자 정보, 재향군인 신분, 보복 또는 이전 민권 활동에 대한 보복을 근거로 모든 프로그램, 서비스, 활동, 자료에서 차별을 금지합니다. (모든 차별 금지 기준이 모든 프로그램에 적용되는 것은 아닙니다.)
----

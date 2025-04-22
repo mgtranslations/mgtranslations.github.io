@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Growing Raspberries
 
 ### Why Grow Raspberries?
@@ -42,7 +40,6 @@ Raspberries are usually sold as bare-root plants. Purchase certified disease-fre
 
 ### Fertilizing
 
-#### New Plantings
 In the planting year, fertilize each plant with a total of **2 ounces of nitrogen (N)** per 10-foot row. Use a well-balanced fertilizer such as **16-16-16** or an organic source (e.g., cottonseed meal).
 
 To calculate the amount needed:
@@ -54,7 +51,6 @@ Do not apply all the fertilizer at once. Divide the total amount into thirds:
 2. Apply the second third 1 month later.
 3. Apply the final third an additional month later.
 
-#### Established Plants
 Apply fertilizer annually to maintain good growth:
 - **Amount**: 2 to 3 ounces of nitrogen per 10-foot row.
   - Example: 13 to 19 ounces of 16-16-16 fertilizer or 2.5 pounds of 5-5-3 fertilizer.
@@ -102,13 +98,8 @@ OSU Publications available online at [https://extension.oregonstate.edu/](https:
 - **Growing Berries on the Oregon Coast: Raspberries and Blackberries** (EM 9180) – Content also relevant for the Willamette Valley.
 - Learn how to prune raspberries from an online module at [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
 
-#### Master Gardener™ Advice
 - **Call Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

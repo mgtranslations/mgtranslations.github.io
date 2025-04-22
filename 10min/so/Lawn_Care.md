@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ · Ururka Beeralayda Sare ee Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 # Daryeelka Cawska
 
 ### Hordhac
@@ -109,12 +107,3 @@ Qoraallada OSU oo laga heli karo internetka: [http://catalog.extension.oregonsta
 - **Daryeelka Cawska ee Galbeedka Oregon** (EC1521)  
 - **Abuurista iyo Dib-u-habaynta Cawska** (EC1550)  
 - **Isku-dhafka Abuurka Cawska ee Galbeedka Oregon iyo Galbeedka Washington** (EM9100)
-
----
-
-#### Talo Beeralayda Sare™ · Wac Khadka Caawinta Beeralayda Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado ah iyo jadwalka fasallada Jaamacadda 10-daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State University wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka iyadoo loo eegayo midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka yimaada barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidaha, xaaladda askarnimada, aargudasho ama ciqaab la xiriirta hawlo hore oo xuquuqda madaniga ah. (Dhammaan xeerarka mamnuuca ma khuseeyaan barnaamij kasta.)
----

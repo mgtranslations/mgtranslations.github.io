@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 ## Talasalitaan ng Katutubong Halaman
 
 ### Katutubong Halaman
@@ -37,8 +35,3 @@ Ang mga mutasyon ng halaman, na tinatawag ding sports o chimeras, ay mga pagbaba
 
 - Ginagamit ang vegetative propagation upang mapanatili ang mga kanais-nais na katangian. Ang mga halaman ay madalas bumabalik sa orihinal na anyo o “reversion,” ibig sabihin, ang bahagi o buong halaman ay bumabalik sa dati nitong anyo.
 - **Halimbawa:** Bulaklak ng Camellia na may mga batik at guhit.
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlang pangkasarian (kabilang ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/pagiging magulang, kita mula sa programang tulong ng gobyerno, paniniwalang pampulitika, impormasyong genetiko, pagiging beterano, paghihiganti o ganti para sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

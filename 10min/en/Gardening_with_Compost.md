@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Gardening with Compost
 
 Compost is an excellent mulch when placed on top of soil. It is a source of fertilizer and a soil conditioner when it is worked into the soil. Following the steps in this handout, a home gardener can turn grass clippings, leaves, and other yard debris into compost for home use.
@@ -137,11 +135,3 @@ Top-dressing turf areas with compost is recommended to provide a slow release of
 ## OSU Extension Service Resources
 
 - [Gardening with Composts, Mulches and Row Covers, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For 10-Minute University™ handouts and class schedule: Visit [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

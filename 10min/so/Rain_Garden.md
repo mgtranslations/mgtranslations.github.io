@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeraleyda Master-ka ee Clackamas County oo kaashanaya barnaamijka OSU Extension Master Gardener™
-
 # Ku Darida Beerta Roobka
 
 Beerta roobka waa meel la qoday oo biyaha roobka kasoo qulqulaya saqafka, jidka baabuurta, socodka, iyo waddooyinka lagu ururiyo laguna nadiifiyo. Beerta roobka waxay la mid tahay xaaladaha kaymaha dabiiciga ah ama daaqa, waxayna caawisaa caafimaadka biyaha deegaanka.
@@ -109,7 +107,3 @@ Waxaad u diri kartaa shirkad si ay ciiddaada u tijaabiso oo ay kugula taliso sid
 - [Warqadda Xaqiiqooyinka Beerta Roobka](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [Hagaha Beerta Roobka](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Buugga Hababka Saameynta Yar ee Biyaha ee Washington County](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### Adeegga Kororsiga Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda halgamayaashii hore, aargoosi, ama ciqaab la xiriirta hawlaha xuquuqda madaniga ah ee hore. (Dhammaan xeerarka mamnuuca ma khuseeyaan dhammaan dadka.)

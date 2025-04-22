@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Plantas de Cobertura para Hortas Caseiras
 
 As plantas de cobertura cobrem e melhoram o solo. Elas podem ser plantadas no outono para cobrir áreas em pousio ou na primavera como parte da rotação de culturas. Muitas plantas, incluindo leguminosas, gramíneas e plantas herbáceas de folhas largas, servem para esse propósito.
@@ -75,10 +73,3 @@ A eliminação pode ser feita cortando ou dobrando os caules para matar a parte 
     - Plantas de Cobertura para Hortas Caseiras a Oeste das Cascatas FS111E
     - Plantas de Cobertura para Hortas Caseiras a Leste das Cascatas FS117E
     - Métodos para o Sucesso no Manejo de Plantas de Cobertura na Sua Horta Caseira FS119E
-
-#### Dicas do Mestre Jardineiro™ · Ligue para a Linha de Ajuda em Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Visite [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) para folhetos e vídeos do 10-Minute University™
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar ou parental, renda oriunda de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración con y en apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Cómo Cultivar Arándanos
 
 ### ¿Por Qué Cultivar Arándanos?
@@ -38,7 +36,6 @@
 - **Tipos**: Sulfato de amonio, urea, fertilizante para rododendros, harina de plumas, harina de semilla de algodón o harina de soya.
 - **Aplicación**: Esparce el fertilizante de manera uniforme a una distancia de 12 a 18 pulgadas de cada planta, sin tocar el tallo ni la corona.
 
-#### Cantidad de Nitrógeno (N) según Edad de la Plantación
 
 | Año de plantación | Cantidad de N (en onzas) por año |
 |-------------------|----------------------------------|
@@ -54,7 +51,6 @@
 - **Época**: Divide la cantidad total de N en tres partes iguales; aplica la primera a mediados de abril, la segunda a mediados de mayo y la última de mediados a finales de junio.
 - **Mulch de aserrín fresco**: Aplica el fertilizante sobre el mulch y añade 25% más a la cantidad total.
 
-#### Cómo Calcular la Cantidad de Fertilizante
 
 Para calcular cuánto producto usar:
 - Divide la cantidad recomendada de N entre el porcentaje de N en el fertilizante que elijas.
@@ -87,10 +83,3 @@ Para calcular cuánto producto usar:
 - [Cultivo de bayas en la Costa de Oregón: Arándanos EM9179](https://catalog.extension.oregonstate.edu/)
 - [Módulo de Poda](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Acidificación del suelo para arándanos y plantas ornamentales en el jardín EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Consejos de Maestros Jardineros™ · Llama a la Línea de Ayuda de Horticultura en el Hogar: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otras guías y horarios de clases de la Universidad de 10 Minutos™, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, situación familiar/paternal, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

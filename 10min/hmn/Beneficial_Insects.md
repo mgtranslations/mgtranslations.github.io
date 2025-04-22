@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kab Pab Nyob Hauv Vaj Tsev
 
 ### Saib Dav
@@ -72,11 +70,3 @@ Integrated Pest Management (IPM) yog ib txoj kev khiav hauj lwm daws teeb meem k
   [Mus saib ntawm no](https://www.cmastergardeners.org)
 - *Clark County Washington Presents Bugs and Pests*  
   [Nyeem ntxiv ntawm no](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
-
----
-
-#### Kev Pab Tswv Yim Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam 10-Minute University™ handouts thiab teev sijhawm kawm, mus xyuas [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub tawm kev cais tawm hauv txhua qhov kev pab, kev pabcuam, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim tawv, lub teb chaws yug, kev ntseeg, poj niam txiv neej, kev paub lossis qhia txog poj niam txiv neej, kev nyiam poj niam los txiv neej, kev xiam oob khab, hnub nyoog, muaj poj niam los txiv neej, tsev neeg, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg los sis kev cai lij choj, cov ntaub ntawv caj ces, kev ua tub rog, kev pauj rau kev tiv thaiv cai. (Tsis yog txhua yam uas tsis pub siv rau txhua txoj haujlwm.)

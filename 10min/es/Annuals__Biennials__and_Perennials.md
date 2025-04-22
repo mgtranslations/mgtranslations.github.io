@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Anuales, Bienales y Perennes
 
 ### Resumen
@@ -141,12 +139,3 @@ Hay muchos libros sobre el cultivo de anuales, bienales y perennes disponibles e
 - *The Well-Tended Perennial Garden* de Tracy DiSabato-Aust
 - *Sunset Western Garden Book*
 - *The AHS A-Z Encyclopedia of Garden Plants*
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda de horticultura doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales en base a raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalias por actividad previa relacionada con derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

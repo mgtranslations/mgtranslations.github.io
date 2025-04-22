@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme OSU Extension Master Gardener™
-
 # Entretien de la Pelouse
 
 ### Introduction
@@ -109,12 +107,3 @@ Publications OSU disponibles en ligne sur [http://catalog.extension.oregonstate.
 - **Entretien pratique de la pelouse pour l’Oregon de l’Ouest** (EC1521)  
 - **Création et rénovation pratique de pelouse** (EC1550)  
 - **Mélanges de semences de pelouse pour l’Oregon de l’Ouest et Washington de l’Ouest** (EM9100)
-
----
-
-#### Conseil de Maître Jardinier™ · Appelez la ligne d’assistance horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour les fiches et le calendrier de l’Université en 10 Minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, des revenus issus d’un programme d’aide sociale, des opinions politiques, des informations génétiques, du statut de vétéran, des représailles ou de la rétorsion pour une activité relative aux droits civils antérieure. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)  
----

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Kräuter anbauen
 
 ## Überblick
@@ -123,10 +121,3 @@ Weitere Informationen zum Anbauen, Verwenden und Konservieren von Kräutern find
 - *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
 - *Herbs, An Illustrated Guide* (Sunset Books)
 - *All About Herbs* (Ortho Books)
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Einschüchterung wegen früherer Bürgerrechtsbeschwerden. (Nicht alle genannten Diskriminierungsverbote gelten für alle Programme.)
----

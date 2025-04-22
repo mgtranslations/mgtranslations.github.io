@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Great Plant Picks: Trees
 
 **S:** Shade Garden  
@@ -59,7 +57,3 @@ GPP plants selected for this list meet the following criteria:
 - Offer more than one season of interest in the garden.
 
 Many GPP plants also provide ecological benefits, such as supporting pollinators, providing bird food, and offering habitat for wildlife.
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

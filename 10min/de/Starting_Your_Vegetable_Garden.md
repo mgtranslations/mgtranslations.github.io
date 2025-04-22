@@ -1,5 +1,3 @@
-#### 10-Minuten Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # So starten Sie Ihren Gemüsegarten
 
 ### Was soll ich anbauen?
@@ -38,7 +36,6 @@ Ein Bodentest zeigt, welche Nährstoffe und Zusätze Ihr Boden braucht. Professi
 
 Boden- und Lufttemperatur bestimmen, wann gepflanzt werden kann.
 
-#### Bodentemperatur
 
 Die Mindest-Bodentemperatur (°F) für einige beliebte Sorten:
 
@@ -49,7 +46,6 @@ Die Mindest-Bodentemperatur (°F) für einige beliebte Sorten:
 - Auberginen/Paprika/Tomaten: 13°C (55°F)
 - Basilikum: 16°C (60°F)
 
-#### Lufttemperatur
 
 Die optimale Lufttemperatur (°F) für einige Lieblingssorten:
 
@@ -60,12 +56,10 @@ Die optimale Lufttemperatur (°F) für einige Lieblingssorten:
 
 Wenn Sie Erbsen im Spätwinter aussäen, können sie zwar keimen, wachsen aber erst richtig, wenn es wärmer wird.
 
-#### Schnell wachsende vs. langsam wachsende Sorten
 
 - **Schnell wachsende Sorten:** Reif in 50 Tagen oder weniger. Sie können direkt aussäen und trotzdem eine gute Ernte erwarten.
 - **Langsam wachsende Sorten:** Wie Tomaten, reifen in 75–90 Tagen. Hier müssen Sie oft gegen das Wetter ankämpfen, um vor Herbstregen und kalten Nächten zu ernten.
 
-#### Setzlinge
 
 Setzlinge aus dem Gartencenter oder selbst vorgezogen geben Ihnen einen Vorsprung.
 
@@ -81,19 +75,15 @@ Die meisten Gemüsesorten sind einjährig und brauchen genug Nährstoffe für ei
   - Früchte und Blüten: mehr Phosphor (P).
   - Wurzeln: mehr Kalium (K).
 
-#### Starkzehrer
 
 Rote Bete, Grünkohl, Kopfsalat, Petersilie, Spinat und Tomaten brauchen oft mehr Dünger.
 
-#### Schwachzehrer
 
 Möhren, Knoblauch, Zwiebeln, Mangold, Senf und Paprika benötigen eine mittlere Menge.
 
-#### Stickstoffsammler
 
 Bohnen, Erbsen, Sojabohnen und Klee holen Stickstoff aus der Luft und kommen oft ohne Dünger aus.
 
-#### Organische Dünger
 
 Am besten ein paar Monate vor dem Pflanzen ausbringen. Beispiele:
 
@@ -110,7 +100,6 @@ Gießen Sie so, dass die Wurzeln gleichmäßig feucht bleiben. Nach dem Gießen 
 - **Tropfbewässerung:** Bringt das Wasser direkt zu den Wurzeln und ist besser als Sprengen, das Blätter befeuchtet und Krankheiten fördern kann.
 - **Überkopf-Bewässerung:** Vermeiden Sie Spritzwasser und gießen Sie nicht spät am Tag. Morgens zu gießen verringert die Verdunstung.
 
-#### Kritische Gießphasen
 
 Besonders aufmerksam sollten Sie in diesen Phasen sein:
 
@@ -124,8 +113,3 @@ Besonders aufmerksam sollten Sie in diesen Phasen sein:
 
 - [EM 9027 Growing Your Own](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Vegetable Gardening in Oregon](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkünften aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Rückschlägen für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Thạc Sĩ Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Thạc Sĩ của OSU Extension
-
 # Người Làm Vườn Chủ Động
 
 ### Giới thiệu
@@ -12,7 +10,6 @@ Làm vườn có thể là một sở thích suốt đời, mang lại lợi íc
 
 Chọn đúng kích thước và chức năng cho dụng cụ làm vườn có thể tạo ra sự khác biệt lớn về sự thoải mái và hiệu quả khi sử dụng.
 
-#### Dụng Cụ Cắt Tỉa
 
 - **Kéo cắt tỉa**
   - Kích thước rất quan trọng! Hãy tìm loại vừa với tay bạn để dễ sử dụng và thoải mái. Nhiều loại kéo cắt tỉa có phiên bản nhỏ, vừa và lớn. Cũng có loại dành cho người thuận tay trái và người thuận tay phải.
@@ -30,7 +27,6 @@ Chọn đúng kích thước và chức năng cho dụng cụ làm vườn có t
   - **Kéo cắt cành dài dùng bánh răng**
     - Tăng 40% lực cắt. Tay cầm dài giúp tăng lực bẩy.
 
-#### Dụng Cụ Cầm Tay
 
 - Hãy tìm các dụng cụ thiết kế công thái học giúp cổ tay giữ ở vị trí trung tính, thẳng hàng với cẳng tay. Khi khả năng vận động và sức mạnh giảm đi, dùng các khớp lớn hơn sẽ hiệu quả hơn. Sử dụng cẳng tay và vai giúp giảm áp lực lên bàn tay và cổ tay.
 - Có thể thêm các tay cầm kiểu chữ “D” vào cào, chổi tiêu chuẩn để cầm chắc hơn và giữ cổ tay thẳng.
@@ -89,12 +85,3 @@ Chọn đúng kích thước và chức năng cho dụng cụ làm vườn có t
   - [Tải hướng dẫn](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Tiếp Tục Làm Vườn**  
   - [Mẹo dành cho người làm vườn khuyết tật](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Tư vấn Làm Vườn Thạc Sĩ™ · Gọi Đường dây Hỗ trợ Làm vườn tại nhà: Quận Clackamas: 503-655-8631 · Quận Washington: 503-821-1150 · Quận Multnomah: 503-445-4608
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

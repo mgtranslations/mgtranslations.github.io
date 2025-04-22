@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Organische Substanz als Bodenverbesserer im Garten
 
 Bodenverbesserer können die Bodenstruktur verbessern, die Fruchtbarkeit erhöhen und die Wasserspeicherung fördern. Die Zusätze sollten wenig chemische Salze enthalten und genug Stickstoff bieten, um Pflanzen und Bodenmikroben zu versorgen. Damit Pflanzen davon profitieren, sollte das gesamte Beet verbessert werden. Wenn das nicht möglich ist, füllen Sie neue Pflanzlöcher wieder mit dem ursprünglichen Boden auf. Wenn das Pflanzloch mit zusätzlichem Kompost oder anderen Zusätzen gefüllt wird, entsteht eine Grenze (wo zwei Bodentypen aufeinandertreffen) zum natürlichen Boden, was die Bewegung von Luft, Wasser und Wurzeln behindern kann.
@@ -117,8 +115,3 @@ Wegen der Umweltschäden durch Torfabbau wird es nicht mehr empfohlen.
 
 **Planung:** Der Erfolg hängt davon ab, Zwischenfrüchte rechtzeitig zu säen und wieder einzuarbeiten, damit sie nicht mit Gemüsekulturen konkurrieren.  
 [Zwischenfrüchte für Hausgärten](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### Der Beratungsdienst der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternschaft, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten Diskriminierungsverbote gelten für alle Programme.)
----

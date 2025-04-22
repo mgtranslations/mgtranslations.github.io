@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Engrais Verts pour les Jardins Potagers Familiaux
 
 Les engrais verts recouvrent et améliorent le sol. On peut les semer à l’automne pour couvrir les zones en jachère ou au printemps dans le cadre d’une rotation des cultures. De nombreuses plantes, dont des légumineuses, des graminées et des vivaces à larges feuilles, remplissent ce rôle.
@@ -75,10 +73,3 @@ La destruction consiste à tondre ou plier les tiges pour tuer la partie aérien
     - Engrais Verts pour Jardins Familiaux à l’Ouest des Cascades FS111E
     - Engrais Verts pour Jardins Familiaux à l’Est des Cascades FS117E
     - Méthodes pour bien gérer les engrais verts dans votre jardin familial FS119E
-
-#### Conseils de Maîtres Jardiniers™ · Appelez la ligne d’aide Horticulture à Domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Visitez [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) pour les fiches et vidéos de la 10-Minute University™
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et supports sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les sanctions en lien avec une activité antérieure de droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Spring Gardening Tips
 
 On the first warm spring day, most gardeners get the urge to work the soil. **Stay off!** It is wise to check the soil first. Hold a handful of soil and squeeze it tightly. If the soil stays in the form of a ball, walking and digging will compact it.
@@ -107,7 +105,3 @@ Get OSU Extension Publications at [http://catalog.extension.oregonstate.edu](htt
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 - For 10-Minute University™ handouts & videos, visit [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs).

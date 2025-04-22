@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Bepflanzung von Behältern
 
 ### Überblick
@@ -73,8 +71,3 @@ Mit jedem Gießen werden Nährstoffe aus dem Behälter gespült. Deshalb ist es 
   - 503-445-4608 (Multnomah County)
 - [Video zur Bepflanzung von Behältern](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
 - Für weitere 10-Minuten-Universität™-Handouts und Videos, besuche [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle genannten Verbote gelten für alle Programme.)
----

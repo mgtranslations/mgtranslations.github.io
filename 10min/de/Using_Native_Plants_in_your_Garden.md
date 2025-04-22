@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Verwendung von heimischen Pflanzen in Ihrem Garten
 
 ### Einführung
@@ -69,8 +67,3 @@ Erfahrene Gärtner und Landschaftsdesigner haben Pflanzen nominiert, die besonde
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Studie zur Attraktivität heimischer Pflanzen – Pflanzenliste**, 10-Minuten-Universität™ Handout  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service untersagt Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich geschlechtlicher Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

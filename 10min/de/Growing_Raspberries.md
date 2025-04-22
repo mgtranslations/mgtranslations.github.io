@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Himbeeren anbauen
 
 ### Warum Himbeeren anbauen?
@@ -42,7 +40,6 @@ Himbeeren werden meist als wurzelnackte Pflanzen verkauft. Kaufe zertifizierte, 
 
 ### Düngen
 
-#### Neue Pflanzungen
 Im Pflanzjahr jede Pflanze mit insgesamt **56 Gramm Stickstoff (N)** pro 3 Meter Reihe düngen. Verwende einen ausgewogenen Dünger wie **16-16-16** oder eine organische Quelle (z. B. Baumwollsamenmehl).
 
 So berechnest du die benötigte Menge:
@@ -54,7 +51,6 @@ Verteile den Dünger nicht auf einmal, sondern teile ihn in drei Portionen:
 2. Die zweite Portion 1 Monat später.
 3. Die letzte Portion noch einen weiteren Monat später.
 
-#### Bestehende Pflanzen
 Dünge jährlich, damit die Pflanzen gut wachsen:
 - **Menge**: 56 bis 85 g Stickstoff pro 3 Meter Reihe.
   - Beispiel: 370 bis 540 g 16-16-16 Dünger oder 1,1 kg 5-5-3 Dünger.
@@ -102,14 +98,8 @@ OSU-Publikationen online unter [https://extension.oregonstate.edu/](https://exte
 - **Growing Berries on the Oregon Coast: Raspberries and Blackberries** (EM 9180) – Auch für das Willamette Valley relevant.
 - Lerne online, wie man Himbeeren schneidet: [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
 
-#### Master Gardener™-Beratung
 - **Home Horticulture Helpline anrufen:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Weitere 10-Minuten-Universität™-Handouts und Kurspläne findest du unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien auf der Grundlage von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien nach früheren Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

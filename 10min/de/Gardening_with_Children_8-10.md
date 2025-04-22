@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Oregon Master Gardener™ Association – Clackamas County Chapter · In Zusammenarbeit mit dem Oregon State University Extension Service
-
 # Gärtnern mit Kindern im Alter von 8-10 Jahren
 
 ### Warum mit Kindern gärtnern?
@@ -21,14 +19,12 @@ Das Gärtnern mit Kindern im Alter von 8 bis 10 Jahren kann besonders lohnend se
 
 Kinder in diesem Alter haben oft eigene Ideen, was sie anbauen und pflegen möchten. Lassen Sie sie daher ihren Garten planen. Sie brauchen jedoch Erinnerungen daran, die Samenpäckchen genau zu lesen, um Keimzeiten, Abstände und Erntezeitpunkte zu erfahren. Manchmal ist Ausprobieren der beste Lehrer, um zu lernen, was wann und wie im Garten wächst.
 
-#### Gartenboden verbessern, bevor Gemüse angebaut wird
 
 Das Hinzufügen von kompostiertem Hühner- oder Rindermist in ein ausgewiesenes Beet hilft Kindern zu verstehen, wie wichtig Stickstoff im Garten ist und wie Tiermist eine gute Möglichkeit ist, Abfälle zu recyceln und gleichzeitig Pflanzen beim Wachsen zu helfen. Sie könnten sagen, es sei "eklig" oder "widerlich", aber sie sollten dazu ermutigt werden, wie Wissenschaftler zu denken.
 
 Gemüseanbau in Oregon (S. 1) enthält weitere Informationen:  
 [Gemüseanbau in Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-#### Eine Wurmkiste bauen
 
 Wurmkisten kann man aus vielen verschiedenen Materialien bauen, in jeder gewünschten Größe. Beim Bau einer Wurmkiste muss man über den Behälter, die Einstreu, Sauerstoff und das Futter nachdenken. Sie erschaffen ein kleines Ökosystem zum Zersetzen. Überlegen Sie, welches Material am besten die Zersetzung, Feuchtigkeit und die Temperaturschwankungen im Jahr aushält.
 
@@ -37,7 +33,6 @@ Ressourcen:
 - [Kompostieren mit Würmern](https://catalog.extension.oregonstate.edu/em9034)
 - *Worms Eat My Garbage* von Mary Appelhof
 
-#### Mais und Sonnenblumen pflanzen
 
 Beim Pflanzen lernen Kinder, wie tief Samen unterschiedlicher Größe gesät werden und wie weit Pflanzen auseinanderstehen müssen, damit sie genug Platz zum Wachsen haben. Fragen, die man sich stellen sollte:
 
@@ -48,7 +43,6 @@ Beim Pflanzen lernen Kinder, wie tief Samen unterschiedlicher Größe gesät wer
 
 [Selbst anbauen](https://catalog.extension.oregonstate.edu/em9027) bietet viele Anleitungen für verschiedene Pflanzenarten.
 
-#### Pflanzen für Bestäuber
 
 Fangen Sie damit an, zu beobachten, welche Bestäuber Ihren Garten besuchen. Haben Sie Bienen, Schmetterlinge, Kolibris? Welche Blumenfarben mögen Bestäuber besonders, wie Rot, Lila, Rosa, Weiß und Gelb?
 
@@ -64,7 +58,6 @@ Vorschläge:
 
 Es gibt viele schöne Bilder- und Sachbücher über das Gärtnern, die Kinder schon vor dem Start und während der Gartenarbeit begeistern. Vorlesen regt zum Nachfragen an und kann ein Ausgangspunkt für Gartenpläne sein. Ihre örtliche Bibliothekarin oder Ihr Bibliothekar kann Ihnen helfen, passende Bücher für Sie und Ihr Kind zu finden.
 
-#### Vorgeschlagene Bücher
 
 - *Tops and Bottoms* von Janet Stevens
 - *Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden* von Renata Fossen Brown
@@ -83,15 +76,9 @@ Es gibt viele schöne Bilder- und Sachbücher über das Gärtnern, die Kinder sc
 
 [Leitfaden für Pädagog:innen zum Gemüseanbau](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Master Gardener™ Rat
 
 - **Home Horticulture Helpline anrufen:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Weitere 10-Minuten-Universität™ Merkblätter und Kurspläne finden Sie auf [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich geschlechtlicher Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen vorheriger Bürgerrechtsaktivitäten. (Nicht alle genannten Verbote gelten für alle Programme.)
----

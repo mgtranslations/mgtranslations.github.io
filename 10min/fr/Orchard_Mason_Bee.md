@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension OSU
-
 # Abeille maçonne des vergers
 
 ### Présentation
@@ -42,7 +40,6 @@ Plusieurs parasites, prédateurs et maladies peuvent blesser ou tuer les abeille
 
 Vous pouvez débarrasser vos abeilles des acariens et du chalkbrood en nettoyant les cocons entre octobre et décembre. Les adultes sont alors totalement formés et peuvent supporter ce processus.
 
-#### Procédure de nettoyage
 
 1. Lavez vos abeilles dans de l’eau ne dépassant pas 10°C (50°F) pour éviter de les réveiller.
 2. Faites tremper les cocons pendant 5 minutes maximum dans de l’eau froide avec un mélange de 0,05% d’eau de Javel (1 cuillère à soupe d’eau de Javel pour 4 litres d’eau).
@@ -59,12 +56,3 @@ Vous pouvez débarrasser vos abeilles des acariens et du chalkbrood en nettoyant
   [Lire la suite ici](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Nurturing Mason Bees in Your Back Yard in Western Oregon*, publication de l’Extension de l’Université d’État de l’Oregon EM 9130  
   [Lire la suite ici](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Conseil Maître Jardinier™ · Appelez la ligne d’assistance en horticulture à domicile : Comté de Clackamas : 503-655-8631 · Comté de Washington : 503-821-1150 · Comté de Multnomah : 503-445-4608 · Pour d’autres fiches et vidéos de l’Université en 10 Minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les rétorsions suite à une activité antérieure relative aux droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

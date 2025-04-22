@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Kev Ua Vaj Kws Paub Ntawv Clackamas County · Ua ke nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kev Qeb Koom Tshiab Rau Hom *Clematis* Ntawm Kev Ua Vaj
 **Pom zoo los ntawm I.Cl.S. Council Lub Rau Hli 2019**  
 *(Pib ntawm lub rooj cob qhia los ntawm International Clematis Society ntawm Wisley Garden, 3–5 Lub Xya Hli 2017, nrog rau kev txhais lus ntxiv los ntawm pab pawg)*
@@ -120,18 +118,15 @@
 
 **Cov Cim Tseem Ceeb:** Poob nplooj. Nce ntoo, feem ntau loj hlob ceev. Paj caij ntuj sov, rau ceg tshiab. Paj ntau, 1–5 cm dav, feem ntau zoo li lub tswb lossis hnub qub, feem ntau dawb lossis daj.
 
-#### Clematis Hnub Qub Lig
 
 - **Cov Cim Pawg:** Nce ntoo nruab nrab, paj zoo li hnub qub, feem ntau dawb thiab muaj ntxhiab.
 - **Piv txwv:** *flammula*, *terniflora*, × *triternata* ‘Rubromarginata’, ‘Sweet Summer Love’.
 - **Kev Txiav Ntoo:** Xaiv txiav raws li qhov chaw. Yog xav tau, txiav mus qis dua 0.5m thaum nruab nrab caij nplooj ntoos hlav, thaum ntsis ceg tshiab tawm. Yog xav tau, tsuas yog ntxuav xwb.
 
-#### Clematis Daj Lig
 
 - **Cov Cim Pawg:** Paj feem ntau daj thiab zoo li lub tswb lossis qhib dav.
 - **Piv txwv:** *buchananiana*, *connata*, *intricata*, *ladakhiana*, *orientalis*, *rehderiana*, *tangutica*, *tibetana*, ‘Bill MacKenzie’, ‘Helios’ (hu ua ‘Daihelios’ hauv Nyij Pooj), ‘Kugotia’, GOLDEN TIARA, ‘Lambton Park’.
 
-#### Clematis Loj Coob
 
 - **Cov Cim Pawg:** Loj hlob ceev, paj feem ntau dawb, ntsis paj thiab paj tig saum toj.
 - **Piv txwv:** *ligusticifolia*, *potaninii*, *vitalba*, *virginiana*, ‘Paul Farges’ SUMMER SNOW.
@@ -144,12 +139,3 @@
 **Cov Cim Tseem Ceeb:** Cov cim uas tsis haum rau ib pawg saum toj no.
 
 - **Piv txwv:** *columbiana*.
-
----
-
-#### Master Gardener™ Lus Qhia · Hu Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm cov ntawv qhia 10-Minute University™ thiab daim ntawv teev sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub cais tawm hauv txhua yam haujlwm, kev pab, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, tebchaws tuaj, kev ntseeg, poj niam txiv neej, kev paub txog poj niam txiv neej (suav nrog kev qhia tawm tus kheej), kev nyiam poj niam txiv neej los txiv neej, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj me nyuam, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev pab cuam qub tub rog, kev raug cais tawm, lossis kev raug pauj vim rau kev tiv thaiv cai. (Tsis yog txhua yam kev txwv no siv rau txhua qhov kev pab cuam.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Kws Tswv Zos Clackamas County Master Gardener koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
-
 # Kawm Liaj Kawm Teb hauv Lub Thawv Zoo Nkauj thiab Siab Zoo
 
 ### Txheej Txheem
@@ -44,7 +42,6 @@ Xav txog cog nroj tsuag uas muaj qhov siab sib txawv thiab xim zaub kom zoo. Nws
 
 ### Kev Tsim
 
-#### Kev Tsim "Thriller, Filler, thiab Spiller"
 
 - **Thriller**: Yog nroj tsuag loj tshaj thiab pom tseeb tshaj hauv thawv, feem ntau muab rau hauv nruab nrab (yog tias thawv yuav pom txhua sab) lossis tom qab thawv (yog tias pom ib sab xwb). Thriller pab txhawb kom thawv muaj qhov siab zoo.
   - Piv txwv: Nroj tsuag kua txob, teepee ntawm taum nce, txiv pos nphuab, nroj tsuag txiv lws suav, lossis zaub qhwj loj rau thawv me.
@@ -79,10 +76,3 @@ Feem ntau cov nroj tsuag sau npe hauv no yuav loj mus txog lawv lub voj voog, ts
 - **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
 - **10-Minute University™ ntawv thiab yeeb yaj kiab**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Kws Tswv Zos Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Rau lwm daim ntawv 10-Minute University™ thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev ntxub ntxaug hauv nws cov kev pab cuam, kev pab, kev ua haujlwm, lossis ntaub ntawv vim li cas rau haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia txog poj niam txiv neej (xws li kev qhia txog tus kheej), kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, txij nkawm, tsev neeg, nyiaj los ntawm kev pab ntawm tsoom fwv, kev ntseeg nom tswv, cov ntaub ntawv caj ces, xwm txheej qub tub rog, kev rau txim vim kev tiv thaiv txoj cai. (Tsis yog txhua qhov kev txwv no siv rau txhua qhov kev pab cuam.)
----

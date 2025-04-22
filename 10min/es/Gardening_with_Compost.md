@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de la Extensión OSU
-
 # Jardinería con Compost
 
 El compost es un excelente mantillo cuando se coloca encima del suelo. Es una fuente de fertilizante y un acondicionador de suelo cuando se mezcla con la tierra. Siguiendo los pasos de este folleto, cualquier jardinero en casa puede convertir recortes de césped, hojas y otros desechos del jardín en compost para uso propio.
@@ -137,12 +135,3 @@ Cubrir áreas de césped con compost está recomendado para proveer una liberaci
 ## Recursos del Servicio de Extensión de OSU
 
 - [Jardinería con Compost, Mantillos y Cobertores, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la Línea de Ayuda de Horticultura en el Hogar: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folletos y calendario de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalias por actividades anteriores de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

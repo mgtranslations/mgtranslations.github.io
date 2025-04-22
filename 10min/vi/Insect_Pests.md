@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension
-
----
-
 ## Sâu hại côn trùng
 
 ### Tổng quan
@@ -18,7 +14,6 @@ Việc xác định thủ phạm gây hại cho cây thường khó khăn vì nh
 
 May mắn thay, thói quen ăn uống của côn trùng có thể mang lại những manh mối hữu ích. Có thể phân biệt côn trùng dựa vào cách chúng ăn: **gặm nhấm/cạo xước** hoặc **chích hút**.
 
-#### Côn trùng gặm nhấm/cạo xước
 
 Côn trùng gặm nhấm/cạo xước có bộ phận miệng giúp chúng nhai thủng lá, chồi, rễ, hạt, quả hoặc các phần thân gỗ của cây. Ví dụ gồm có:
 
@@ -26,7 +21,6 @@ Côn trùng gặm nhấm/cạo xước có bộ phận miệng giúp chúng nhai
 - **Côn trùng ăn hoa, quả và hạt**: Ruồi giấm, ruồi nhỏ, ong vàng, ong bắp cày, sâu đục quả táo, sâu đục bắp, bọ vòi voi hại hạt.
 - **Côn trùng phá hoại cấu trúc**: Kiến thợ mộc, mối, bọ đục gỗ.
 
-#### Côn trùng chích hút
 
 Côn trùng chích hút không chỉ gây hại trực tiếp cho cây khi hút nhựa mà đôi khi còn tiêm chất độc khiến lá bị lốm đốm hoặc cây bị tổn thương nghiêm trọng. Tình trạng lốm đốm xảy ra khi diệp lục bị phá hủy bởi bộ miệng chích hút. Ví dụ gồm có:
 
@@ -92,12 +86,3 @@ Quản lý dịch hại tổng hợp là phương pháp tiếp cận toàn diệ
 - **Garden Insects** của Crenshaw, 2004
 - **Ấn phẩm Hướng dẫn của Đại học Bang Oregon**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994
-
----
-
-#### Tư vấn Làm vườn Chuyên nghiệp · Gọi đường dây hỗ trợ làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem các tài liệu và lịch học 10-Minute University™ khác, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì các hoạt động dân quyền trước đây. (Không phải mọi căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

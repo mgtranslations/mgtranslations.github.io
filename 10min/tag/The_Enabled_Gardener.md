@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Ang Gardener na May Kakayahan
 
 ### Panimula
@@ -12,7 +10,6 @@ Ang paghahalaman ay maaaring maging panghabambuhay na libangan na may benepisyo 
 
 Ang pagpili ng tamang laki at gamit ng mga kasangkapan sa paghahalaman ay mahalaga sa pagiging komportable at epektibo ng paggamit ng mga ito.
 
-#### Mga Kasangkapan sa Pagputol
 
 - **Mga Pruner**
   - Mahalaga ang laki! Hanapin ang laki na pinakabagay sa iyong kamay para sa madaling paggamit at kaginhawaan. Maraming pruner ang may small, medium, at large na bersyon. Meron ding para sa kaliwa at kanan.
@@ -30,7 +27,6 @@ Ang pagpili ng tamang laki at gamit ng mga kasangkapan sa paghahalaman ay mahala
   - **Geared Loppers**
     - Nagbibigay ng 40% dagdag na lakas sa pagputol. Mas mahahabang handle ay nagbibigay ng mas maraming leverage.
 
-#### Mga Kasangkapan sa Kamay
 
 - Maghanap ng ergonomic na kasangkapan na nagpapanatili ng pulso sa tuwid na posisyon kasama ng braso. Kapag humina ang lakas at galaw, mas madali kung malalaking kasu-kasuan ang ginagamit sa gawain. Ang paggamit ng bisig at balikat ay nakakabawas ng strain sa mga kamay at pulso.
 - Pwedeng maglagay ng “D” handle sa mga karaniwang walis at broom para sa mas magandang hawak at tuwid na pulso.
@@ -89,12 +85,3 @@ Ang pagpili ng tamang laki at gamit ng mga kasangkapan sa paghahalaman ay mahala
   - [I-download ang Gabay](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Carry on Gardening**  
   - [Top Tips para sa mga Gardener na may Kapansanan](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608
-
----
-
-##### Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, marital status, familial/parental status, kita mula sa public assistance program, paniniwalang pampulitika, genetic information, pagiging beterano, paghihiganti o retaliation dahil sa dating civil rights activity. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

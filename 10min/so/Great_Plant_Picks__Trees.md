@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo iskaashanaya kuna taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Xulashada Dhirta Wanaagsan: Geedaha
 
 **S:** Beerta Hooska  
@@ -59,8 +57,3 @@ Dhirta GPP ee liiskan lagu xushay waxay buuxiyeen shuruudahan:
 - Waxay bixiyaan qurux ama faa’iidooyin badan oo xilliyeed beerta gudaheeda.
 
 Dhir badan oo GPP ah ayaa sidoo kale leh faa’iidooyin deegaanka, sida taageeridda shinniyaasha, bixinta cunto shimbiraha, iyo hoy u noqoshada xayawaanka.
-
----
-
-#### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyadiisa iyadoo aan loo eegin jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadda, macluumaadka hidda-sidaha, xaaladda askarnimo, aargudasho ama ciqaab la xiriirta hawlaha xuquuqda madaniga ah ee hore. (Ma khuseeyaan dhammaan barnaamijyada dhammaan shuruudaha la mamnuucay.)
----

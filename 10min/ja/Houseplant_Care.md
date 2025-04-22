@@ -1,5 +1,3 @@
-#### 10-Minute University™ · クラカマス郡マスターガーデナー協会は、OSUエクステンション・マスターガーデナープログラムと協力し、その支援を行っています
-
 # 観葉植物の育て方
 
 観葉植物を育てることは、家の中に緑を加える素晴らしい方法です。簡単に育てられる植物もありますが、すべての植物には基本的なお世話が必要です。植物は自分の原産地に近い環境でよく成長します。新しい植物を買う前に、その植物の基本的な必要条件を知り、家のどこに置くのが良いか、適切なお世話ができるかを考えましょう。
@@ -83,12 +81,3 @@
 - [手間いらずの多肉植物が人気上昇中](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [カラフルな室内植物はホリデーギフトにも最適](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [簡単に育てられる室内ハーブで料理にアクセント](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### マスターガーデナー™への相談 · お住まいの地域のOSUエクステンション事務所でマスターガーデナーの相談ができます。連絡先はこちらをご覧ください：[https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us)。10-Minute University™の配布資料や講座スケジュールは[https://cmastergardeners.org](https://cmastergardeners.org)をご覧ください。
-
----
-
-##### オレゴン州立大学エクステンションサービスは、人種、肌の色、出身国、宗教、性別、ジェンダーアイデンティティ（ジェンダー表現を含む）、性的指向、障がい、年齢、結婚歴、家族・保護者の状態、公的支援プログラムによる収入、政治的信条、遺伝情報、退役軍人の地位、または過去の市民権活動に対する報復や仕返しを理由とした、すべてのプログラム・サービス・活動・資料における差別を禁止しています。（すべての禁止事項がすべてのプログラムに適用されるわけではありません。）
----

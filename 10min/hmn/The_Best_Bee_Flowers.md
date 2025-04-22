@@ -1,5 +1,3 @@
-#### Tsev Kawm Ua Liaj Ua Teb 10 Feeb™ · Pawg Kws Ua Liaj Ua Teb Clackamas County · Ua ke nrog thiab txhawb OSU Extension Master Gardener™ Program
-
 # Cov Paj Zoo Tshaj Rau Ntses Nqaij Noog — Ua Pov Thawj Los Ntawm Kev Tshawb Fawb Ua Liaj Ua Teb
 
 Daim ntawv teev no muaj cov nroj tsuag uas Dr. Gordon Frankie, University of California, thiab nws cov phooj ywg tau tshawb fawb tias yog cov zoo tshaj rau kev nqus ntses nqaij noog[^1]. Cov nroj tsuag ntuj tsim hauv Oregon uas nqus ntses nqaij noog ntuj tsim yog raws li kev tshawb fawb los ntawm Aaron Anderson, Oregon State University Garden Ecology Lab[^2]. Cov chaw: *California Bees & Blooms* ntawm Frankie thiab lwm tus, thiab blogs.oregonstate.edu/gardenecologylab/[^3].

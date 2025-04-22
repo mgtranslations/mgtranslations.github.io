@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Creando un Jardín para Polinizadores
 
 La clave para crear un jardín para polinizadores exitoso es proporcionar a los insectos polinizadores y otros animales un lugar donde puedan criar a sus crías y asegurarse de que tengan una fuente confiable de alimento desde la primavera hasta finales del otoño. Los polinizadores comunes en los jardines incluyen abejas, avispas, mariposas, polillas, moscas, escarabajos, aves e incluso hormigas. Como hay tanta variedad de polinizadores con diferentes necesidades, la mejor estrategia es cultivar muchos tipos diferentes de plantas con flores que produzcan néctar y polen.
@@ -84,8 +82,3 @@ Deja hojas sanas, tallos de plantas y cabezas de semillas en el jardín hasta fi
 Contacta tu oficina local de Extensión de OSU para recibir consejos de Maestros Jardineros. Consulta este sitio para información de contacto: [Encuentra tu Oficina de Extensión Local](https://extension.oregonstate.edu/find-us).
 
 Para hojas informativas y horarios de clases de la Universidad de 10 Minutos™, visita [Maestros Jardineros del Condado de Clackamas](https://cmastergardeners.org).
-
----
-
-#### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las prohibiciones aplican a todos los programas.)
----

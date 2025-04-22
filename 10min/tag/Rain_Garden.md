@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pagdagdag ng Rain Garden
 
 Ang rain garden ay isang hukay na taniman na tumatanggap at sumasala ng tubig-ulan mula sa bubong, driveway, sidewalk, at kalsada. Ginagaya ng rain gardens ang natural na kondisyon ng kagubatan o damuhan at tumutulong na mapanatiling malinis ang ating mga yaman ng tubig.
@@ -109,7 +107,3 @@ Maaaring magpatest ng lupa sa isang kumpanya at humingi ng payo kung paano mapap
 - [Rain Gardens Low Impact Development Fact Sheet](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [The Rain Garden Guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Clean Water Services Washington County, Low Impact Development Approaches Handbook](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sekswal na oryentasyon, kapansanan, edad, marital status, familial/parental status, kita mula sa pampublikong tulong, paniniwalang pampulitika, genetic na impormasyon, katayuang beterano, paghihiganti, o pagganti sa naunang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat.)

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Pagtatanim ng Mga Strawberry
 
 ### Bakit Magtanim ng Strawberry?
@@ -65,7 +63,6 @@ Bisitahin ang OSU Extension Service online sa [https://catalog.extension.oregons
 - **Mga Uri ng Strawberry para sa Western Oregon at Washington** (EC 1618)
 - **Pagtatanim ng Berries sa Oregon Coast: Strawberry** (EM 9178) (Pwede rin sa Willamette Valley)
 
-#### Payo ng Master Gardener™
 
 - **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
@@ -73,8 +70,3 @@ Bisitahin ang OSU Extension Service online sa [https://catalog.extension.oregons
   - 503-445-4608 (Multnomah County)
 - Para sa iba pang 10-Minute University™ na handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
 - Hanapin ang mga Master Gardener sa mga Farmers’ Market sa inyong lugar.
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlang pangkasarian (kabilang ang gender expression), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa programang pampubliko, paniniwalang pampulitika, impormasyon sa genetic, katayuan bilang beterano, pagganti sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### 10-Nub University™ · Koom Haum Clackamas County Master Gardener · Ua ke thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Mulches: Qhov Zoo, Qhov Tsis Zoo, thiab Qhov Phem Heev
 
 **Dr. Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Washington State University
 
 ### Teeb Meem nrog Mulch Ntoo Loj
 
-#### Bark Mulch
 
 - Bark mulch yuav muaj ntsev lossis noob nyom
 - Bark muaj wax uas txwv tsis pub dej nkag thiab tawm hauv av
 - Softwood bark mulch feem ntau nyuaj rau tib neeg siv vim muaj fiber me thiab ntse
 
-#### Arborist Wood Chips
 
 - Txhawj xeeb txog C:N ratio siab – puas yuav ua rau nitrogen tsawg?
 - Puas yuav muaj kab mob yog siv ntoo mob ua chips?
 
-#### Nitrogen Muaj
 
 - Wood chip mulch muaj C:N ratio siab, ua rau nitrogen tsawg me ntsis ntawm mulch thiab av
 - Wood chip mulch tsis ua rau nroj tsuag loj lawm muaj nitrogen tsawg
 - C:N ratio siab tej zaum pab txwv nyom qee hom
 
-#### Kab Mob Fungi thiab Wood Chips
 
 - Armillaria, Cytospora, Thyronectria thiab Verticillium nyob tau hauv ntoo loj ntev
 - Yuav nyob ntev yog wood chip nrog av ua ke
 - Tsis muaj pov thawj tias kab mob hauv mulch yuav nkag mus rau cag hauv av
 
-#### Fungi Hauv Wood Chips
 
 - Fungi feem ntau yog decomposer, tsis yog kab mob
 - Av noj qab haus huv, fungi zoo yeej fungi phem
@@ -230,12 +223,3 @@ Blog: http://www.gardenprofessors.com
 Phau ntawv: http://www.sustainablelandscapesandgardens.com  
 Facebook page: http://www.facebook.com/TheGardenProfessors  
 Facebook group: https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam 10-Minute University™ ntawv qhia thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua yam program, kev pab, kev ua haujlwm, thiab ntaub ntawv vim haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia txog poj niam txiv neej (xws li kev qhia tawm), kev sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/kev ua niam txiv, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, cov ntaub ntawv DNA, qub tub rog, kev raug txim, los yog kev rov qab rau tej kev ua txhaum cai yav dhau los. (Tsis yog txhua tus yam txwv no siv rau txhua txoj kev pab.)
----

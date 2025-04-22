@@ -1,5 +1,3 @@
-#### 10-Minute University™ · A Associação de Jardineiros Mestres do Condado de Clackamas em colaboração e apoio ao Programa Jardineiro Mestre da Extensão da OSU
-
 # Dicas de Jardinagem na Primavera
 
 No primeiro dia quente de primavera, a maioria dos jardineiros sente vontade de mexer na terra. **Não pise!** É importante verificar o solo antes. Pegue um punhado de terra e aperte bem. Se ela ficar em formato de bola, caminhar ou cavar vai compactar o solo.
@@ -107,8 +105,3 @@ Consulte as publicações da Extensão OSU em [http://catalog.extension.oregonst
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 - Para folhetos e vídeos da 10-Minute University™, acesse [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividades anteriores de direitos civis. (Nem todas as proibições se aplicam a todos os programas).
----

@@ -1,5 +1,3 @@
-#### Université 10-Minute™ · Association des Maîtres Jardiniers™ de l’Oregon – Section du comté de Clackamas · En coopération avec le Service de vulgarisation de l’Université d’État de l’Oregon
-
 # Jardiner avec des enfants de 11 à 14 ans
 
 Jardiner avec des enfants âgés de 11 à 14 ans peut être passionnant et enrichissant pour les enfants comme pour les adultes. Cela les éloigne des écrans, stimule leur imagination et réduit le stress et l’anxiété. Les enfants de cet âge sont physiquement prêts à faire des travaux de jardin plus importants et aimeront explorer les structures du jardin, comme construire un treillis ou une plate-bande surélevée. Ces activités permettent de gagner de la place, offrent une meilleure exposition au soleil et un meilleur sol, et sont très valorisantes pour les enfants.
@@ -72,12 +70,3 @@ Il existe de nombreux livres illustrés et guides sur le jardinage que les enfan
 ## Ressource de l’Université d’État de l’Oregon
 
 - [Guide de jardinage de légumes pour les enseignants](https://catalog.extension.oregonstate.edu/em9032)
-
----
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’aide en horticulture : 503-655-8631 (comté de Clackamas) · 503-821-1150 (comté de Washington) · 503-445-4608 (comté de Multnomah) · Pour les fiches et le calendrier des cours de l’Université 10-Minute™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service de vulgarisation de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports, basée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion suite à une activité antérieure relative aux droits civils. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

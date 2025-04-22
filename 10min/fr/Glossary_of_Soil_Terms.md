@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien du programme OSU Extension Master Gardener™
-
 # Glossaire des sols
 
 Pour consulter le glossaire complet, voir la publication EM063E de l’Extension de l’Université d’État de Washington : *A Home Gardener’s Guide to Soils and Fertilizers*.
@@ -188,12 +186,3 @@ Degré de finesse ou de grossièreté du sol. La texture est déterminée par le
 ### Capacité de rétention d’eau
 
 Capacité des pores du sol à retenir l’eau pour les plantes.
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’aide horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches 10-Minute University™ et les horaires des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents en raison de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression du genre), de l’orientation sexuelle, du handicap, de l’âge, du statut marital, du statut familial/parental, du revenu issu d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut d’ancien combattant, des représailles, ou de la rétorsion pour une activité antérieure relative aux droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
-
 ## Ua Koj Lub Vaj Kom Muaj Zog Rau Kev Hloov Huab Cua: Tiaj Nyom
 
 Lub ntiaj teb tab tom kub dua, ua rau dej khov yaj, dej hiav txwv nce siab, dej hiav txwv muaj kua qaub ntau dua, thiab muaj kev nqhuab thiab dej nyab ntau thiab loj dua yav dhau los. Hauv Pacific Northwest, peb pom muaj kev nqhuab ntev, hluav taws hav zoov ntau dua thiab loj dua, huab cua kub heev, kab tsuag tshwm sim ntau, thiab ntoo muaj kab mob ntau. Dej daus tsawg dua ua rau dej ntws ntau dua thaum ntxov hauv dej thiab dej ntws, uas ua rau dej tsis txaus siv. Ntxiv rau cov no, kev hloov huab cua coj los nrog kev huab cua txawv txawv thiab loj (kub heev, nag loj) uas tshwm sim ntau dua.  
@@ -37,8 +35,3 @@ Xav paub ntxiv, nyeem Climate-Friendly Lawns: [https://extension.oregonstate.edu
 - **Lwm yam nroj tsuag qis uas tsis yog nyom** xws li creeping thyme, creeping mint, chamomile qis lossis moss. Xaiv cov nroj tsuag qis kom phim nrog hnub ci thiab dej ntawm qhov chaw.
 - **Kawm ua siab ntev rau nroj:** Nroj tuaj hauv vaj tuaj yeem pab nce kev sib txawv ntawm tsiaj txhu nyob ntawm koj lub vaj vim lawv muab zaub mov rau cov kab txawv. Nroj uas tawg paj pab txhawb cov kab uas txhawb paj.
 - **Siv tshuaj tua nroj kom txawj siv, yog siv xwb:** Txiav nyom ua ntej nroj tawg noob kom tsis txhob muab nroj mus ntxiv, los yog khaws nroj tawm nrog tes. Yog tias yuav tsum siv tshuaj tua nroj, xaiv hom tshuaj uas tsis muaj kev phom sij ntau hauv daim ntawv teev: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
-
----
-
-#### Oregon State University Extension Service tsis pub muaj kev ntxub ntxaug hauv txhua yam kev pab cuam, kev pab, kev ua si, thiab ntaub ntawv, xws li kev haiv neeg, xim, teb chaws keeb kwm, kev ntseeg, poj niam txiv neej, cim poj niam txiv neej (nrog rau kev qhia txog poj niam txiv neej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, txij nkawm, tsev neeg/kev ua niam txiv, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev rov cem, lossis kev raug txim los ntawm lwm yam kev sib tw rau kev sib npaug hauv zej zog. (Tsis yog txhua tus kev txwv no siv rau txhua yam kev pab cuam.)
----

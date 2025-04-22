@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb OSU Extension Master Gardener™ Program
-
 ## Cov Lus Qhia Txog Kev Cog Zaub Raws Kev Tshawb Fawb Horticulture
 
 ### Saib Dav
@@ -56,11 +54,4 @@ Tswvyim rau kev txhim kho av yog tsis txhob hloov av los yog hloov tag nrho thaj
 ### Cov Lus Qhia Ntxiv
 
 - **Kev Ua Vaj Ntxim Nyiam Mus Ib Txhis**, Oregon State University Extension Publication EM 8742  
-- **Cov Vaj thiab Tsev Ntxim Nyiam Mus Ib Txhis: Kev Tshawb Fawb Zoo - Kev Siv Tau Zoo**, Washington State University  
-
-#### Master Gardener™ Kev Pab · Hu Xovtooj Nug Kev Ua Vaj: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau 10-Minute University™ cov ntawv qhia thiab yeeb yaj kiab, mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub ua kev cais tawm hauv txhua qhov kev pabcuam, kev pab, kev ua haujlwm, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, tus kheej (xws li kev hais tawm tus kheej), kev sib deev, kev xiam oob khab, hnub nyoog, txij nkawm, kev muaj me nyuam, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim los yog kev pauj rau qhov kev tiv thaiv cai. (Tsis yog txhua yam kev txwv no siv rau txhua qhov kev pabcuam.)
----
+- **Cov Vaj thiab Tsev Ntxim Nyiam Mus Ib Txhis: Kev Tshawb Fawb Zoo - Kev Siv Tau Zoo**, Washington State University

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Einfacher Hydroponik-Gartenbau für drinnen
 
 Hydroponik bedeutet, Pflanzen ohne Erde in einer wasserbasierten Nährlösung zu ziehen. Große Hydroponik-Systeme benutzen moderne Technik, um den Nährstoffgehalt, den pH-Wert, den Sauerstoffgehalt, die Temperatur der Nährlösung und die Lichtmenge für die Pflanzen zu überwachen. Dieses Infoblatt stellt eine einfache Methode vor, die sich für Hobbygärtner zu Hause eignet.
@@ -82,8 +80,3 @@ Bei der Ernte:
 - [Drei nicht-zirkulierende Hydroponik-Methoden für den Salatanbau](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Video von B. A. Kratky
 - [Hydroponik-Anbau zu Hause](http://www.cmastergardeners.org/10-minute-university) – Ein Video der 10-Minuten-Universität™
 - *Salat im Wohnzimmer anbauen: Die Familie mit dem eigenen LED-Hydroponikgarten versorgen* von Dan Chiras & Victor Zaderej
-
----
-
-###### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlicher Unterstützung, politischer Einstellung, genetischer Information, Veteranenstatus, Vergeltung oder Rache für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten Verbote gelten für alle Programme.)
----

@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação dos Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Adicionando um Jardim de Chuva
 
 Um jardim de chuva é um canteiro rebaixado que coleta e trata a água da chuva que escorre de telhados, calçadas, calçadões e ruas. Jardins de chuva imitam condições naturais de florestas ou campos e ajudam a manter nossas bacias hidrográficas saudáveis.
@@ -109,8 +107,3 @@ Você pode mandar testar seu solo em uma empresa e receber recomendações para 
 - [Jardins de Chuva - Ficha Técnica de Desenvolvimento de Baixo Impacto](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9207.pdf)
 - [Guia do Jardim de Chuva](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
 - [Manual de Abordagens de Desenvolvimento de Baixo Impacto, Serviços de Água Limpa do Condado de Washington](https://cleanwaterservices.org/development/dnc/lida/)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividades anteriores de direitos civis. (Nem todas as bases proibidas se aplicam a todos.)
----

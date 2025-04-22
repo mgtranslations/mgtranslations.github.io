@@ -1,5 +1,3 @@
-#### Universidad en 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración con y en apoyo del Programa de Maestros Jardineros de Extensión de OSU™
-
 ## Haz Tu Jardín Más Resiliente al Clima: Suelo
 
 La Tierra está experimentando una tendencia de calentamiento que resulta en el derretimiento de glaciares, aumento del nivel del mar, mayor acidez en los océanos y sequías e inundaciones más frecuentes y severas. El Noroeste del Pacífico ha visto sequías prolongadas, mayor incidencia y severidad de incendios forestales, olas de calor, brotes de insectos y enfermedades de los árboles. La reducción de la capa de nieve provoca que los flujos máximos en ríos y arroyos ocurran antes, lo que reduce el suministro de agua. Además de estas tendencias, el cambio climático trae eventos climáticos extremos e impredecibles (olas de calor, lluvias intensas) con mayor frecuencia.
@@ -61,8 +59,3 @@ La Tierra está experimentando una tendencia de calentamiento que resulta en el 
 - [Los Secretos Sucios de un Paisaje Vivo, Universidad Estatal de Oregón EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Secuestro de Carbono en el Suelo, Sociedad Ecológica de América](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. et al. *La biomasa de raíces y los exudados vinculan la diversidad de plantas con la biomasa bacteriana y fúngica del suelo.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paterno, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o venganza por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp Hội Làm Vườn Master Clackamas County phối hợp và hỗ trợ Chương Trình Làm Vườn Master của OSU Extension
-
 # Mài Sắc Dụng Cụ Làm Vườn
 
 ### Giới thiệu
@@ -23,7 +21,6 @@ Không cần thiết phải tháo rời dụng cụ mỗi lần mài; tuy nhiên
 
 ### Cách Mài Sắc
 
-#### 1. Xác Định Mặt Cần Mài
 
 | Dụng Cụ              | Số Lưỡi Cần Mài         | Mặt Lưỡi Cần Mài                           |
 |----------------------|-------------------------|---------------------------------------------|
@@ -35,15 +32,12 @@ Không cần thiết phải tháo rời dụng cụ mỗi lần mài; tuy nhiên
 | Cuốc chim, rìu       | Một                     | Cả hai mặt                                  |
 | Chĩa cào cỏ khô      | Nhiều                   | Mỗi răng được mài cùn đầu                   |
 
-#### 2. Làm Sạch Dụng Cụ
 
 Loại bỏ đất và nhựa cây để làm sạch bề mặt từng dụng cụ, chỉnh lại các răng của chĩa và kiểm tra xem dũa có bị dính vật liệu giữa các răng không. Nếu có, làm sạch dũa bằng bàn chải làm sạch dũa, chà sát dọc theo chiều răng của dũa. Đối với dũa hai lớp răng, chà bàn chải dọc theo từng góc răng. **KHÔNG** dùng xà phòng hoặc nước cho dũa.
 
-#### 3. Dùng Ê-tô Để Giữ Chắc Dụng Cụ
 
 Đặt dụng cụ vào ê-tô ở phần phẳng nhất của chân lưỡi dao. Nếu kẹp sai vị trí, dụng cụ có thể bị cong.
 
-#### 4. Đặt Góc Mài
 
 Góc mài lý tưởng là khoảng 20° đến 25°. Để xác định:
 
@@ -51,7 +45,6 @@ Góc mài lý tưởng là khoảng 20° đến 25°. Để xác định:
 - Xoay dũa xuống một nửa, tạo góc 45 độ.
 - Xoay tiếp một nửa nữa, tạo khoảng 22,5 độ — đây là góc lý tưởng để mài.
 
-#### 5. Bắt Đầu Mài
 
 - Mỗi đường dũa phải đi song song với lưỡi dao và bao phủ toàn bộ chiều dài lưỡi.
 - Ấn đều tay từ đầu đến chân lưỡi, chỉ tác động khi đẩy dũa về phía trước.
@@ -60,7 +53,6 @@ Góc mài lý tưởng là khoảng 20° đến 25°. Để xác định:
 
 > **Lưu ý:** Nếu kéo cắt cành bị lệch, bạn sẽ thấy phần kim loại sáng bóng ở chân lưỡi đe, nghĩa là lưỡi cắt đang cọ quá sát hoặc lún vào lưỡi đe. Cần điều chỉnh lại ngay.
 
-#### 6. Hoàn Thiện
 
 Đối với lưỡi dao kim loại cứng, dùng đá mài carborundum loại trung bình làm bước cuối cùng. Nếu bạn có kéo cắt tỉa Felco, ARS hoặc các loại lưỡi thép cứng khác, có thể hoàn thiện bằng đá mài kim cương mịn hoặc gốm siêu mịn. Bước này chỉ cần một hai lần mài.
 
@@ -76,10 +68,3 @@ Góc mài lý tưởng là khoảng 20° đến 25°. Để xác định:
 - [Dụng Cụ Làm Vườn Thực Tiễn Cho Người Làm Vườn Rau](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Bảo Quản Dụng Cụ Làm Vườn Làm Việc Chăm Chỉ](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Mài Sắc Dụng Cụ Làm Vườn Của Bạn](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
-#### Tư Vấn Làm Vườn Master™ · Gọi Đường Dây Hỗ Trợ Làm Vườn Tại Nhà: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Xem thêm các tài liệu và lịch học Đại học 10 Phút™ tại [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại Học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải mọi cơ sở bị cấm đều áp dụng cho mọi chương trình.)
----

@@ -1,12 +1,9 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 # Plantas para Polinizadores
 
 ### Abelhas
 
 As abelhas são atraídas por flores brancas, amarelas ou azuis que sejam abertas, rasas ou tubulares.
 
-#### Árvores e Arbustos
 
 | Gênero                  | Nome Comum             | Época de Floração      |
 |-------------------------|------------------------|------------------------|
@@ -26,7 +23,6 @@ As abelhas são atraídas por flores brancas, amarelas ou azuis que sejam aberta
 | Spiraea douglasii       | Espiréia-de-douglas    | Primavera, Verão       |
 | Vaccinium               | Mirtilo                | Primavera              |
 
-#### Plantas Perenes
 
 | Gênero                        | Nome Comum           | Época de Floração        |
 |-------------------------------|----------------------|--------------------------|
@@ -50,7 +46,6 @@ As abelhas são atraídas por flores brancas, amarelas ou azuis que sejam aberta
 | Sedum                         | Sedum                | Verão                    |
 | Symphyotrichum subspicatum    | Áster-de-douglas     | Outono                   |
 
-#### Plantas Anuais
 
 | Gênero                | Nome Comum           | Época de Floração     |
 |-----------------------|----------------------|-----------------------|
@@ -73,7 +68,6 @@ As borboletas são atraídas por flores que formam plataformas largas para pousa
 
 Os beija-flores são atraídos por flores tubulares de cor vermelha.
 
-#### Plantas Anuais e Perenes, Arbustos
 
 | Gênero                | Nome Comum            | Época de Floração      |
 |-----------------------|-----------------------|------------------------|
@@ -86,7 +80,6 @@ Os beija-flores são atraídos por flores tubulares de cor vermelha.
 | Ribes                 | Groselha-florida      | Primavera              |
 | Salvia                | Sálvia                | Verão, Outono          |
 
-#### Trepadeiras
 
 | Gênero          | Nome Comum           | Época de Floração   |
 |-----------------|----------------------|---------------------|
@@ -104,8 +97,3 @@ Os beija-flores são atraídos por flores tubulares de cor vermelha.
     - *Atraindo Polinizadores para Seu Jardim*, 10-Minute University™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Manual de Conservação de Polinizadores**, Xerces Society
     - Visite [www.xerces.org](http://www.xerces.org) para mais recursos da Xerces Society
-
----
-
-#### O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

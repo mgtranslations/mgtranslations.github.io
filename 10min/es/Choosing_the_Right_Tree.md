@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Cómo Elegir el Árbol Adecuado para tu Jardín en Casa
 
 ### Introducción
@@ -10,44 +8,36 @@ Los árboles pueden ofrecer muchos beneficios: belleza, delimitación, privacida
 
 Antes de comprar un árbol, evalúa los lugares posibles donde plantarlo. La longevidad de los árboles requiere un estudio cuidadoso del sitio. Asegúrate de que el lugar elegido y el árbol sean compatibles. ¡No compres por impulso!
 
-#### Lugar Potencial
 
 Utiliza la lista de verificación en la sección siguiente. Como la mayoría de los jardines urbanos tienen espacio limitado, haz una evaluación honesta de posibles conflictos a medida que el árbol crezca para evitar problemas en el futuro.
 
-#### Beneficios Deseados
 
 Haz una lista de los beneficios que buscas en el árbol: sombra, belleza, color del follaje, fruto, flores, privacidad, valor para la fauna silvestre son motivaciones comunes. Como ningún árbol puede ofrecerlo todo, es útil pensar en los pros y contras y tener claras tus prioridades.
 
-#### Consideraciones Generales
 
 - Coloca árboles de hoja caduca al sur/oeste para dar sombra en verano; usa coníferas para bloquear el viento predominante en invierno.
 - Si eliges un árbol por la belleza del follaje, flores o frutos, plántalo donde las hojas, pétalos y frutos caídos no sean una molestia.
 
 ### Lista de Verificación para Ubicar un Árbol
 
-#### Espacio Disponible
 
 Calcula el espacio disponible arriba y abajo del suelo para el árbol a medida que crece. Consulta varias fuentes para conocer la altura madura y el ancho de la copa del árbol que te interesa. Recuerda que la forma del árbol puede cambiar al madurar y el tamaño varía según el suelo y el lugar. Un buen recurso es la [base de datos de plantas de paisajismo de la Universidad Estatal de Oregón](https://landscapeplants.oregonstate.edu/).
 
-#### Dirección del Viento y Exposición al Sol
 
 Los árboles de hoja perenne, ya sean coníferas o latifoliadas, pueden bloquear el viento predominante y el sol de verano. Si quieres sombra en verano pero dejar pasar el sol en invierno, elige un árbol de hoja caduca.
 
 - No todas las coníferas son de hoja perenne; las coníferas de hoja caduca incluyen el alerce, ciprés calvo y secuoya del amanecer.
 - No todos los árboles de hoja ancha son caducifolios; algunos de hoja perenne incluyen la magnolia del sur, acebo y madroño.
 
-#### Conflictos Potenciales
 
 - **Con otras plantas**: Considera hasta dónde llegarán las raíces y ramas en el futuro; imagina cómo será el árbol en 20 años. Las copas maduras pueden ser redondeadas, en forma de jarrón o de lágrima invertida; visualiza cómo afectará a otras plantas. Los árboles columnares y fastigiados son mejores para lugares angostos, mientras que los llorones crean espacios cerrados. Las raíces de árboles maduros pueden extenderse más allá de la copa.
 - **Con cables y estructuras**: Mantén los árboles al menos a 1 metro de pavimento, 5 metros de edificios y otros árboles, y si tu árbol crecerá más de 9 metros, plántalo a 8 metros de cables eléctricos aéreos.
 
 Los árboles altos que alcanzan 18 metros o más deben plantarse a 10 metros de la casa para un buen desarrollo de raíces.
 
-#### Suelo y Agua
 
 Las raíces necesitan aire y agua. Lo ideal es que el suelo tenga buena estructura y permita el paso de aire y agua. Las raíces de árboles maduros se extienden más allá del ancho de la copa; dale un lugar donde no esté rodeado de pavimento impermeable.
 
-#### Beneficios Deseados
 
 Los árboles ofrecen belleza con su follaje, flores, frutos y corteza. Algunos de estos beneficios traen consigo desechos poco atractivos. Planta el árbol donde se puedan disfrutar sus cualidades y los restos no sean molestos.
 
@@ -57,23 +47,19 @@ La publicación de Extensión de la Universidad Estatal de Oregón *Seleccionar,
 
 La Universidad de 10 Minutos™ ofrece *Buenos árboles para el jardín en casa* con más sugerencias de expertos en horticultura de la región. Descárgalo gratis en [https://www.cmastergardeners.org/10-minute-university/](https://www.cmastergardeners.org/10-minute-university/).
 
-#### Lugares Difíciles (suelo pobre, condiciones urbanas, cambios de temperatura)
 
 - **Lluvia de oro** (*Koelreuteria paniculata*): Copa de 9 m, zona 5–9
 - **Espino de Cockspur sin espinas** (*Crataegus crusgalli inermis*): Copa de 7.5 m, zona 4–8
 
-#### Bajo Cables Eléctricos
 
 - **Glorybower** (*Clerodendrum trichotomum*): Copa de 7.5 m, zona 6–8
 - **Cornejo Kousa** (*Cornus kousa*): Copa de 7.5 m, zona 5–8
 - **Arce enredadera** (*Acer circinatum*): Copa de 6 m, zona 4–8
 
-#### Fuente de Sombra
 
 - **Arce rojo** (*Acer rubrum*): Copa de 12 m, zona 4–8
 - **Árbol Katsura** (*Cercidiphyllum japonicum*): Copa de 12 m, zona 5–8
 
-#### Poco Riego Necesario Después de Establecido
 
 - **Almez** (*Celtis occidentalis*): Copa de 10.5 m, zona 6–9
 - **Yellowwood** (*Cladrastis kentukea*): Copa de 10.5–13.5 m, zona 4–8
@@ -85,7 +71,6 @@ La Universidad de 10 Minutos™ ofrece *Buenos árboles para el jardín en casa*
 - *Árboles y arbustos para floración en otoño e invierno* (EM9277): [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
 - *Eligiendo el árbol correcto*, Sociedad Internacional de Arboricultura: [https://www.treesaregood.org/treeowner/choosingtherighttree](https://www.treesaregood.org/treeowner/choosingtherighttree)
 
-#### Consejos de Maestro Jardinero™
 
 - **Llama a la línea de ayuda de Horticultura en Casa:**
   - 503-655-8631 (Condado de Clackamas)
@@ -93,8 +78,3 @@ La Universidad de 10 Minutos™ ofrece *Buenos árboles para el jardín en casa*
   - 503-445-4608 (Condado de Multnomah)
 
 - Para otros folletos de la Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Gartenplanung 101
 
 Gutes Design ist die Grundlage für einen schönen, gesunden und nachhaltigen Garten. Ein durchdachter Plan vereint die Elemente guten Designs – Linie, Form, Struktur, Duft und Farbe – und berücksichtigt dabei die Bedürfnisse und Wünsche der Hausbesitzer.
@@ -111,7 +109,6 @@ Gutes Design ist die Grundlage für einen schönen, gesunden und nachhaltigen Ga
 - Gestalte Kombinationen aus Pflanzen, die zur gleichen Zeit blühen – das macht deinen Garten optisch ansprechender.
 - In kleinen Gärten wirken zu viele Farben schnell unruhig. Wähle entweder eine kühle oder warme Farbpalette und suche die Pflanzen entsprechend aus.
 
-#### Grundsätze für wirkungsvolle Pflanzenkombinationen
 
 1. **Farbgestaltung**
 2. **Struktur**
@@ -121,12 +118,3 @@ Gutes Design ist die Grundlage für einen schönen, gesunden und nachhaltigen Ga
 - Verwende Laub, um Farben ins Beet zu bringen, z. B. grün, blau, gelb, rot oder grau panaschiert.
 - Setze verschiedene Strukturen ein, wie kräftig, spitz, glatt, federartig oder filigran, für mehr Abwechslung.
 - Nutze Formen wie polsterförmig, spitz oder hängend, um Kontraste zu schaffen.
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Weitere 10-Minuten-Universität™ Merkblätter und Kurspläne findest du unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Die Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien, unabhängig von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Schutzkategorien gelten für jedes Programm.)
----

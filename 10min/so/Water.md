@@ -1,5 +1,3 @@
-#### Jaamacadda 10-daqiiqo™ · Ururka Beeralayda Xirfadlayaasha ah ee Clackamas County oo wada shaqayn la leh Barnaamijka OSU Extension Master Gardener™
-
 ## Ka Dhig Beertaada Mid U Adkaysata Isbadalka Cimilada: Biyaha
 
 Dhulka waxa uu wajahaya kululaynta cimilada taasoo keentay barafyo dhalaaya, heerka badda oo kacaya, milixda badaha oo korodhay, iyo abaaro iyo fatahaado marar badan oo xoog leh. Waqooyiga Baasifiga (Pacific Northwest) waxa laga dareemay abaar dheer, dabaylo badan oo sii badanaya, kulayl daran, duqowda cayayaanka, iyo cudurro dhirta ku dhaca. Barafka buuraha oo yaraada waxa uu keenayaa in webiyada iyo durdurrada biyohoodu yaraadaan, taasoo keeni karta biyo la’aan. Intaas waxaa sii dheer, isbedelka cimiladu waxa uu keenayaa dhacdooyin cimilada oo aad u kacsan sida kulaylka daran iyo roobabka xooggan oo soo noqnoqda.
@@ -80,8 +78,3 @@ Magaalooyinka iyo degmooyinka qaar waxay leeyihiin xeerar gaar ah oo la xiriira 
 
   - [Horudhac ku saabsan Waraabinta Dhibcoodka](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Talooyin Waraabin](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### Adeegyada Kordhinta Jaamacadda Gobolka Oregon waxa ay mamnuucayaan takoorka barnaamijyadooda, adeegyada, hawlaha, iyo agabka dhammaan sababaha la xiriira: jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijyada gargaarka dadweynaha, fikirka siyaasadeed, xogta hidda-sidaha, xaaladda ciidanimada, ama aargoosi ama ciqaab la xiriirta hawlo hore oo xuquuqda madaniga ah. (Dhammaan sababahan lama daahirin dhammaan barnaamijyada.) 
----

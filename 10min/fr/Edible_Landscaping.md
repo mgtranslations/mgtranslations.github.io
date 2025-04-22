@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension de l’OSU
-
 # Aménagement Paysager Comestible
 
 ### Aperçu
@@ -23,23 +21,18 @@ L’aménagement paysager comestible consiste à utiliser des plantes alimentair
 
 ### Points à considérer
 
-#### Emplacement
 
 La plupart des fruits et légumes ont besoin de 6 à 8 heures de soleil pour bien produire. Certaines plantes indigènes, comme la ronce saumon et la ronce odorante, tolèrent un peu d’ombre, tout comme les plantes à feuilles comestibles, comme la laitue et le chou frisé.
 
-#### Espace
 
 Pensez à la taille adulte de la plante. Les arbres nains ou semi-nains et les arbustes de petite taille conviennent bien aux petits espaces. Les treillis, clôtures et tonnelles permettent d’utiliser l’espace vertical pour faire pousser des arbres, arbustes et lianes comestibles.
 
-#### Temps et soins
 
 Les plantes comestibles demandent des soins à certaines étapes de leur croissance pour rester productives. Elles auront besoin d’un sol amélioré, d’arrosages et de fertilisations adaptés, ainsi qu’une gestion attentive des maladies et insectes. C’est particulièrement important pour les plantes jeunes ou nouvellement plantées.
 
-#### Utilisation
 
 Sachez quand récolter et soyez prêt à utiliser l’abondance de votre jardin.
 
-#### Esthétique
 
 Les plantes ornementales offrent une grande variété de couleurs de fleurs, de formes de feuillage, de textures et de couleurs de feuilles. Avec un peu de recherche, il est possible de trouver des plantes comestibles avec les caractéristiques que vous aimez. Par exemple :
 
@@ -50,7 +43,6 @@ Les plantes ornementales offrent une grande variété de couleurs de fleurs, de 
 
 ### Liste courte de plantes comestibles (* indique indigène)
 
-#### Petits arbres (3 à 6 mètres)
 
 - **Pommier** : Choisissez parmi les formes semi-naines, palissées ou colonnaires ; toutes ont de jolies fleurs roses au printemps. Les variétés comme Chehalis, Jonafree, Liberty, Prima et Redfree sont résistantes à la tavelure.
 - **Sureau noir*** : Feuilles délicates, presque noires, très décoratives ; fruits utilisés pour gelées, sirops et vin. Bon choix résistant au feu.
@@ -61,7 +53,6 @@ Les plantes ornementales offrent une grande variété de couleurs de fleurs, de 
 - **Prunier** : Fruits mûrs verts, dorés, rouges ou violets. Les variétés Brooks et Italienne (européennes) sont faciles à cultiver. La moniliose est le problème le plus courant.
 - **Amélanchier*** : Grappes de fleurs blanches au début du printemps ; couleurs d’automne jaunes à orangées. S’adapte à de nombreux types de sols et d’humidité.
 
-#### Arbustes (ligneux, vivaces, annuels ; 1 à 3 mètres)
 
 - **Bleuetier** : Belles couleurs d’automne et fruits abondants en été. Facile à cultiver et peu sujet aux maladies.
 - **Groseillier et cassissier** : Beaucoup de petits fruits acidulés, utilisés en confitures et gelées. Poussent facilement dans des sols moyens à lourds et avec différents pH.
@@ -71,7 +62,6 @@ Les plantes ornementales offrent une grande variété de couleurs de fleurs, de 
 - **Arbousier** : Grand arbuste persistant avec feuilles vert foncé brillantes et fruits rouges. Fleurs de la fin de l’automne à l’hiver ; à placer à l’abri.
 - **Tomate** : Fruits attrayants comestibles, jaunes, oranges, rouges, verts, violets ou noirs, de toutes formes. Cultivée en annuelle pour l’été, la tomate a besoin de soleil et de chaleur. Éviter l’arrosage par le dessus pour limiter les maladies.
 
-#### Lianes et grimpantes
 
 - **Vigne** (raisin de table ou à vin, sans pépins) : Feuillage décoratif, bon pour ombrer une tonnelle ou une terrasse. Taille sévère nécessaire chaque année pour une bonne production.
 - **Kiwi** (kiwi duveteux ou rustique) : Feuillage exotique, fleurs blanches en mai, fruits verts, rouges ou bruns à l’automne. La plupart nécessitent une structure solide pour supporter leur croissance vigoureuse. De nouvelles variétés plus petites et autofertiles existent.
@@ -80,7 +70,6 @@ Les plantes ornementales offrent une grande variété de couleurs de fleurs, de 
 - **Concombre** : Grimpant, le concombre offre fleurs et fruits décoratifs en arrière-plan. Il a besoin de beaucoup d’eau par temps chaud.
 - **Haricot grimpant** : Nécessite plein soleil et bonne circulation d’air pour éviter l’oïdium. Idéal pour créer tipis ou tunnels dans un coin pour enfants.
 
-#### Couvrantes de sol
 
 - **Fraisier** : Fleurs blanches au printemps et fruits rouges en été ; les fraisiers vivent peu et doivent être replantés tous les 3 à 4 ans.
 - **Airelle rouge** : Belle plante couvre-sol persistante et délicate. Donne plus de fruits au soleil mais pousse aussi à mi-ombre.
@@ -90,20 +79,13 @@ Les plantes ornementales offrent une grande variété de couleurs de fleurs, de 
 
 ### Ressources supplémentaires
 
-#### Ressources pour plantes comestibles dans le Nord-Ouest
 
 - *Sunset Western Garden Book*
 - Publications de l’Extension de l’Université d’État de l’Oregon : [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - *10-Minute University* : [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
-#### Conseils de Maîtres Jardiniers™
 
 - **Appelez la ligne d’aide horticole :**
   - 503-655-8631 (Clackamas)
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, en raison de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les convictions politiques, les informations génétiques, le statut de vétéran, les représailles ou la vengeance pour une activité antérieure de droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

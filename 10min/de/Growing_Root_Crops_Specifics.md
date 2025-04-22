@@ -1,12 +1,7 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
----
-
 ## Spezifisches zum Anbau von Wurzelgemüse
 
 ### Zwiebelgewächse anbauen
 
-#### Knoblauch
 
 - **Pflanzen:**
   - Knoblauchzwiebeln für beste Ergebnisse von August bis Oktober pflanzen.
@@ -24,7 +19,6 @@
   - Knoblauch einige Wochen an einem kühlen, trockenen Ort auslegen.
   - Blätter kürzen und Wurzeln abschneiden.
 
-#### Zwiebeln
 
 - **Pflanzen:**
   - Zwiebelsätze im März pflanzen, wenn es noch kühl ist.
@@ -41,7 +35,6 @@
   - Erde abklopfen und Zwiebeln 1–2 Wochen an einem kühlen, trockenen Ort auf einer Erhöhung lagern.
   - Blätter kürzen und Wurzeln abschneiden.
 
-#### Porree
 
 - **Pflanzen:**
   - Samen Ende Februar oder Anfang März (8–10 Wochen vor dem letzten Frost) in flachen Schalen mit Anzuchterde drinnen vorziehen.
@@ -63,7 +56,6 @@
 
 ### Rhizome anbauen
 
-#### Ingwer oder Kurkuma
 
 - **Pflanzen:**
   - Von einem gesunden, prallen Rhizom vermehren.
@@ -85,7 +77,6 @@
 
 ### Pfahlwurzeln anbauen
 
-#### Möhren, Radieschen, Rote Bete und Pastinaken
 
 - **Pflanzen:**
   - Samen früh im Frühjahr aussäen, wenn der Boden etwa 4 °C hat, oder im Spätsommer für eine Herbsternte.
@@ -107,7 +98,6 @@
 
 ### Speicherwurzeln anbauen
 
-#### Süßkartoffeln
 
 - **Pflanzen:**
   - Ab Anfang April aus „Setzlingen“ ziehen.
@@ -127,7 +117,6 @@
 
 ### Knollen anbauen
 
-#### Kartoffeln
 
 - **Pflanzen:**
   - Ende März oder Anfang April pflanzen.
@@ -149,8 +138,3 @@
 
 - [Wurzelgemüse geben dem Frühlingsgarten einen Vorsprung](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
 - [Essbare Wurzeln, Stängel und Zwiebeln – Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
-
----
-
-###### Der Extension Service der Oregon State University verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkünften aus einem Sozialprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

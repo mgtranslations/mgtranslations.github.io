@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraha Master Gardener™ – Laanta Clackamas County · Wada-shaqayn la leh Adeegga Kordhinta Jaamacadda Gobolka Oregon
-
 # Beeraleyda Carruurta Da’doodu Tahay 8-10
 
 ### Maxaa Loogu Beeralaa Carruurta?
@@ -21,14 +19,12 @@ Beerashada la carruurta da’doodu tahay 8 ilaa 10 waa mid aad u faa’iido bada
 
 Carruurta da’dan waxay haystaan fikrado ku saabsan waxa ay rabaan inay beeraan oo koraan, sidaa darteed u oggolow inay qorsheeyaan beertooda. Waa in la xasuusiyaa inay akhriyaan baakadaha abuurka si taxaddar leh, si ay u ogaadaan waqtiga biqilka, kala fogaanta, iyo maalmaha goosashada. Mararka qaar, tijaabo iyo khalad ayaa ah macalin weyn sida iyo goorta wax loo beero.
 
-#### Hagaaji Carada Beerta Ka Hor Intaadan Beerin Khudrado
 
 Ku darista digada digaagga ama lo’da ee la qariyey sariirta beerta ayaa ka caawinaysa carruurta inay fahmaan muhiimadda ay leedahay nitrogen-ka beerta, iyo sida isticmaalka digada xoolaha ay uga qayb qaadato dib u warshadaynta qashinka iyadoo caawineysa koritaanka dhirta. Waxay dhihi karaan waa “wasakh” ama “xun,” balse waa in lagu dhiirrigeliyaa inay u shaqeeyaan sidii saynisyahano.
 
 Buugga “Vegetable Gardening in Oregon” (bogga 1) wuxuu bixiyaa macluumaad:  
 [Vegetable Gardening in Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-#### Samee Sandiq Quraansho
 
 Sandiqyada quraanshada waxaa laga sameyn karaa walxo kala duwan, waxayna noqon karaan kuwo waaweyn ama yaryar sidaad rabto. Marka aad dhisayso sanduuqa quraanshada, waa inaad ka fikirtaa weelka, gogosha, hawada, iyo cunto. Waxaad abuureysaa nidaam yaryar oo burburinaya qashinka. Ka fiirso walxo u adkeysan kara burburka, qoyaan, iyo kulka ama qabowga sanadka oo dhan.
 
@@ -37,7 +33,6 @@ Khayraad:
 - [Composting with Worms](https://catalog.extension.oregonstate.edu/em9034)
 - *Worms Eat My Garbage* by Mary Appelhof
 
-#### Beero Galley iyo Ubax Qorraxeed
 
 Beerista waxay baraysaa carruurta sida qoto dheer ee abuurka kala duwan loo geliyo dhulka iyo inta ay kala fog yihiin si dhirtu ay u hesho meel ay ku korto. Su’aalo la is weydiiyo:
 
@@ -48,7 +43,6 @@ Beerista waxay baraysaa carruurta sida qoto dheer ee abuurka kala duwan loo geli
 
 [Growing Your Own](https://catalog.extension.oregonstate.edu/em9027) wuxuu bixiyaa tilmaamo “sida loo sameeyo” dhir kala duwan.
 
-#### Beero Ubaxyo Soo Jiita Duqsiyada Dabeecadda
 
 Ka bilow daawashada duqsiyada dabeecadda ee ugu badan beertaada. Ma leedahay shinni, balanbaalis, ama shimbiro yaryar? Waa maxay midabada ubaxa ee ay jecel yihiin duqsiyada dabeecadda, sida casaan, buluug, pink, caddaan, iyo huruud?
 
@@ -64,7 +58,6 @@ Talooyin:
 
 Waxaa jira buugaag sawiro iyo kuwo tilmaamo bixinaya oo beeraleyda carruurta aad u qadariyaan ka hor inta aysan bilaabin beerta iyo inta ay ku jiraan shaqada. Akhrinta cod dheer waxay keentaa su’aalayn, waxayna noqon kartaa meel laga bilaabo qorshaha beerta. Maktabadda deegaankaaga ayaa kaa caawin karta inaad hesho buugaag adiga iyo ilmahaaguba aad jeclaan doontaan.
 
-#### Buugaag Lagu Taliyo
 
 - *Tops and Bottoms* by Janet Stevens
 - *Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden* by Renata Fossen Brown
@@ -83,15 +76,9 @@ Waxaa jira buugaag sawiro iyo kuwo tilmaamo bixinaya oo beeraleyda carruurta aad
 
 [Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Talooyinka Master Gardener™
 
 - **Wac Khadka Caawinta Beeraleyda:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Wixii warqado kale oo 10-Minute University™ ah iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadooda, adeegyada, hawlaha, iyo agabka dhammaan asbaabaha la xiriira jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhliga laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda askarnimo, aargudasho, ama ciqaab lagu sameeyay hawlo xuquuqda bulshada ee hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan barnaamijyada oo dhan.)
----

@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Poda de Árboles y Arbustos
 
 ### Razones para Podar
@@ -47,7 +45,6 @@ Para arbustos de flor, poda en el momento que cause la menor interrupción de la
 - **Arbustos de floración primaveral** (Tabla 1) florecen en el crecimiento del año anterior; pódalos poco después de que terminen de florecer para estimular un crecimiento vigoroso en verano.
 - **Arbustos que florecen después de junio** (Tabla 2) lo hacen a partir de yemas formadas en los brotes del año actual; pódalos a finales del invierno para estimular un crecimiento vigoroso de brotes en primavera.
 
-#### Tabla 1: Arbustos que Florecen en el Crecimiento del Año Anterior
 
 | Nombre Botánico           | Nombre Común                  |
 |--------------------------|-------------------------------|
@@ -70,7 +67,6 @@ Para arbustos de flor, poda en el momento que cause la menor interrupción de la
 | Viburnum spp.            | Viburno                       |
 | Weigela florida          | Weigela tradicional           |
 
-#### Tabla 2: Arbustos que Florecen en la Madera de la Temporada Actual
 
 | Nombre Botánico             | Nombre Común                  |
 |----------------------------|-------------------------------|
@@ -118,8 +114,3 @@ Las ramas de más de 1½ pulgada de diámetro deben ser podadas en tres pasos co
 - [Poda de rosas](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Poda de un árbol frutal](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Entrenamiento de un árbol frutal](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregon prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

@@ -1,12 +1,9 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Nroj Tsuag Rau Cov Kab Pab Pub Paj
 
 ### Cov Ntsaum
 
 Cov ntsaum nyiam cov paj dawb, daj, lossis xiav uas qhib, tsis tob, lossis muaj qhov nqaim ntev.
 
-#### Tsob Ntoo thiab Ntoo Me
 
 | Hom Nroj Tsuag            | Lub Npe Feem Coob Neeg Hu | Lub Sijhawm Paj Nthuav     |
 |---------------------------|---------------------------|----------------------------|
@@ -26,7 +23,6 @@ Cov ntsaum nyiam cov paj dawb, daj, lossis xiav uas qhib, tsis tob, lossis muaj 
 | Spiraea douglasii         | Douglas spiraea           | Caij nplooj ntoos hlav, Caij ntuj sov |
 | Vaccinium                 | Huckleberry               | Caij nplooj ntoos hlav     |
 
-#### Nroj Tsuag Txhua Xyoo
 
 | Hom Nroj Tsuag                | Lub Npe Feem Coob Neeg Hu | Lub Sijhawm Paj Nthuav     |
 |-------------------------------|---------------------------|----------------------------|
@@ -50,7 +46,6 @@ Cov ntsaum nyiam cov paj dawb, daj, lossis xiav uas qhib, tsis tob, lossis muaj 
 | Sedum                         | Sedum                     | Caij ntuj sov              |
 | Symphyotrichum subspicatum    | Douglas aster             | Caij nplooj zeeg           |
 
-#### Nroj Tsuag Ib Xyoo
 
 | Hom Nroj Tsuag       | Lub Npe Feem Coob Neeg Hu | Lub Sijhawm Paj Nthuav     |
 |----------------------|---------------------------|----------------------------|
@@ -73,7 +68,6 @@ Ntses ya nyiam cov paj uas dav, muaj qhov chaw tsaws, thiab muaj xim li txiv kab
 
 Noog hummingbird nyiam cov paj uas muaj qhov nqaim ntev thiab muaj xim liab.
 
-#### Nroj Tsuag Ib Xyoo, Txhua Xyoo, thiab Ntoo Me
 
 | Hom Nroj Tsuag      | Lub Npe Feem Coob Neeg Hu | Lub Sijhawm Paj Nthuav     |
 |---------------------|---------------------------|----------------------------|
@@ -86,7 +80,6 @@ Noog hummingbird nyiam cov paj uas muaj qhov nqaim ntev thiab muaj xim liab.
 | Ribes               | Flowering Currant         | Caij nplooj ntoos hlav     |
 | Salvia              | Salvia lossis Sage        | Caij ntuj sov, Caij nplooj zeeg |
 
-#### Cov Nroj Vines
 
 | Hom Nroj Tsuag   | Lub Npe Feem Coob Neeg Hu | Lub Sijhawm Paj Nthuav     |
 |------------------|---------------------------|----------------------------|
@@ -104,8 +97,3 @@ Noog hummingbird nyiam cov paj uas muaj qhov nqaim ntev thiab muaj xim liab.
     - *Attracting Pollinators to Your Garden*, 10-Minute University™, [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Pollinator Conservation Handbook**, Xerces Society
     - Mus saib [www.xerces.org](http://www.xerces.org) kom paub ntau ntxiv txog kev pab los ntawm Xerces Society
-
----
-
-#### Oregon State University Extension Service tsis pub ua txhaum cai xaiv tsav, xim tawv nqaij, keeb kwm teb chaws, kev ntseeg, poj niam/txiv neej, tus kheej cim xeeb (xws li kev qhia tus kheej), kev nyiam poj niam/txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, kev muaj me nyuam, nyiaj los ntawm kev pab cuam pej xeem, kev ntseeg txog kev nom kev tswv, xov xwm caj ces, kev ua tub rog, lossis kev raug mob vim kev tiv thaiv cai. (Tsis yog txhua yam no siv rau txhua qhov kev pab cuam.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 ## Make Your Garden More Climate-Resilient: Water
 
 Earth is undergoing a warming trend that results in melting glaciers, rising sea levels, increasing ocean acidity, and more frequent and severe droughts and floods. The Pacific Northwest has seen prolonged drought, increasing wildfire incidence and severity, heat waves, insect outbreaks, and tree diseases. Reduced snowpack results in earlier peak flows in rivers and streams and reduces water supplies. In addition to these trends, climate change brings erratic, extreme weather events (heat waves, heavy rain) in greater frequency.
@@ -80,7 +78,3 @@ Some cities and counties have specific regulations regarding disconnecting downs
 
   - [Drip Irrigation: An Introduction](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Watering Tips](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

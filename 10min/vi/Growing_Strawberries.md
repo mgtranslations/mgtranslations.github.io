@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp của OSU Extension
-
 # Trồng Dâu Tây
 
 ### Tại Sao Nên Trồng Dâu Tây?
@@ -65,7 +63,6 @@ Truy cập OSU Extension Service tại [https://catalog.extension.oregonstate.ed
 - **Các Giống Dâu Tây Cho Miền Tây Oregon và Washington** (EC 1618)
 - **Trồng Dâu Tây Ở Vùng Ven Biển Oregon** (EM 9178) (Cũng áp dụng cho thung lũng Willamette)
 
-#### Tư Vấn Từ Master Gardener™
 
 - **Gọi đường dây hỗ trợ làm vườn tại nhà:**
   - 503-655-8631 (Quận Clackamas)
@@ -73,8 +70,3 @@ Truy cập OSU Extension Service tại [https://catalog.extension.oregonstate.ed
   - 503-445-4608 (Quận Multnomah)
 - Để xem thêm các tài liệu và lịch học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
 - Tìm gặp các chuyên gia Master Gardener tại các chợ nông sản trong khu vực.
-
----
-
-##### Dịch vụ OSU Extension Service nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình hoặc làm cha mẹ, thu nhập từ chương trình trợ cấp công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc phân biệt đối xử do các hoạt động dân quyền trước đó. (Không phải tất cả các tiêu chí bị cấm đều áp dụng cho tất cả các chương trình.)
----

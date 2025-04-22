@@ -1,5 +1,3 @@
-#### 10分鐘大學™ · 克拉克馬斯郡園藝達人協會 與 OSU 延伸園藝達人™ 計劃合作並支持
-
 ## 讓你的花園更具氣候韌性：植物
 
 地球目前的暖化趨勢導致冰川融化、海平面上升、海洋酸化加劇，以及更頻繁、更嚴重的乾旱和洪水。太平洋西北地區已經經歷了長時間的乾旱、野火發生率和嚴重程度增加、熱浪、昆蟲爆發和樹木疾病。積雪減少導致河流和溪流的最高水位提前，進而減少了水資源供應。除了這些趨勢外，氣候變遷還帶來更多頻繁的不穩定、極端天氣事件（如熱浪、暴雨）。  
@@ -59,7 +57,6 @@
 
 ### 參考植物試驗結果
 
-#### 西北地區植物評估
 
 俄勒岡州立大學針對以下五種屬的耐旱性與耐寒性進行田間試驗：
 
@@ -69,7 +66,6 @@
 - [海葵屬](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [岩薔薇屬](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### 氣候適應景觀植物計畫
 
 五所大學合作進行耐旱性田間試驗：
 
@@ -81,7 +77,6 @@
   [了解更多](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [加州大學試驗資訊](https://ucanr.edu/sites/UCLPIT/)
 
-#### 其他試驗
 
 - [芝加哥植物園試驗](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/)（美國中上部地區）
 - [古巴山中心試驗](https://mtcubacenter.org/research/trial-garden/)（美國中大西洋地區）
@@ -91,8 +86,3 @@
 
 - [優良植物推薦](https://greatplantpicks.org/)：米勒植物園資料庫，收錄超過 1,000 種植物，可依據場地條件（陽光/陰影）及特性（大小、葉色等）篩選。
 - [年度宿根花卉](https://perennialplant.org/page/PPOY)：每年推薦表現優異的宿根花卉。
-
----
-
-#### 俄勒岡州立大學延伸服務禁止基於種族、膚色、國籍、宗教、性別、性別認同（包含性別表達）、性取向、殘疾、年齡、婚姻狀況、家庭/父母身份、依賴公共救助計畫所得、政治信仰、基因資訊、退伍軍人身份、過去民權活動的報復等，在其所有計畫、服務、活動和資料中進行歧視。（並非所有禁止依據都適用於所有計劃。）
----

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Schärfen von Gartengeräten
 
 ### Einführung
@@ -23,7 +21,6 @@ Es ist nicht notwendig, das Werkzeug jedes Mal auseinanderzunehmen, wenn Sie es 
 
 ### So schärfen Sie Ihre Werkzeuge
 
-#### 1. Bestimmen Sie die zu schärfende Oberfläche
 
 | Werkzeug                | Anzahl der zu schärfenden Klingen | Seiten der Klinge, die geschärft werden sollen        |
 |-------------------------|-----------------------------------|-------------------------------------------------------|
@@ -35,15 +32,12 @@ Es ist nicht notwendig, das Werkzeug jedes Mal auseinanderzunehmen, wenn Sie es 
 | Pickel, Mattock, Axt    | Eine                              | Beide                                                 |
 | Heugabel                | Viele                             | Jede Zinke stumpf zuspitzen                           |
 
-#### 2. Werkzeuge reinigen
 
 Entfernen Sie Erde und Harz, um die Oberfläche jedes Werkzeugs zu reinigen, richten Sie die Zinken von Gabeln gerade und prüfen Sie die Feile(n) auf Materialreste zwischen den Zähnen. Wenn Sie etwas finden, reinigen Sie die Feile mit der Feilenbürste, indem Sie diese entlang der Zähne führen. Bei einer doppelt geschnittenen Feile arbeiten Sie die Feilenbürste entlang jeder Schneidrichtung. **KEIN** Wasser oder Seife an der Feile verwenden.
 
-#### 3. Werkzeug im Schraubstock sichern
 
 Legen Sie Ihr Werkzeug mit dem flachsten Teil des Klingenansatzes in den Schraubstock. Wenn Sie an der falschen Stelle festziehen, können Sie das Schneidwerkzeug verbiegen.
 
-#### 4. Schärfwinkel einstellen
 
 Ein Schärfwinkel von 20° bis 25° ist ideal. So bestimmen Sie diesen:
 
@@ -51,7 +45,6 @@ Ein Schärfwinkel von 20° bis 25° ist ideal. So bestimmen Sie diesen:
 - Drehen Sie die Feile halb nach unten zur Klinge. Das ergibt einen 45-Grad-Winkel.
 - Drehen Sie sie nochmals halb. Das ergibt etwa einen 22,5-Grad-Winkel, der ideal zum Schärfen ist.
 
-#### 5. Schärfen beginnen
 
 - Jede Feilenbewegung sollte parallel zur Klinge verlaufen und die gesamte Klingenlänge abdecken.
 - Üben Sie gleichmäßigen Druck von der Spitze bis zur Basis aus, und nur beim Vorwärtshub.
@@ -60,7 +53,6 @@ Ein Schärfwinkel von 20° bis 25° ist ideal. So bestimmen Sie diesen:
 
 > **Hinweis:** Bei falsch eingestellten Astscheren sehen Sie glänzendes Metall an der Basis der Ambossklinge. Das bedeutet, dass die Schneidklinge zu fest gegen oder sogar in den Amboss schneidet. Stellen Sie die Klingen sofort neu ein.
 
-#### 6. Feinschliff
 
 Für harte Metallklingen verwenden Sie zum Schluss einen mittleren Schleifstein aus Karborund (Silikonkarbid). Bei Felco-, ARS- oder anderen harten Stahlklingen können Sie sie auch mit einem feinen Diamant- oder ultrafeinen Keramikschleifstein fertig schärfen. Dieser Schritt benötigt nur ein oder zwei Striche.
 
@@ -76,10 +68,3 @@ Für harte Metallklingen verwenden Sie zum Schluss einen mittleren Schleifstein 
 - [Praktische Werkzeuge für den Gemüsegarten](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Pflegen Sie Ihre fleißigen Gartengeräte gut](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Gartengeräte schärfen](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service untersagt Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

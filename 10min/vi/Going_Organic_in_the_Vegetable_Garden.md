@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia của OSU Extension
-
 # Làm Vườn Rau Hữu Cơ
 
 ### Làm vườn hữu cơ là gì?
@@ -69,7 +67,6 @@ Bổ sung phân hữu cơ giúp cải thiện cấu trúc và sức khỏe lâu 
 
 Truy cập [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 
-#### Tư vấn của Làm vườn Chuyên gia
 
 - **Gọi Đường dây Tư vấn Làm vườn tại nhà:**
   - 503-655-8631 (Quận Clackamas)
@@ -77,8 +74,3 @@ Truy cập [https://catalog.extension.oregonstate.edu](https://catalog.extension
   - 503-445-4608 (Quận Multnomah)
 - Gửi câu hỏi tại [www.metromastergardeners.org](http://www.metromastergardeners.org)
 - Truy cập trang web của Hiệp hội Làm vườn Chuyên gia Quận Clackamas [www.cmastergardeners.org](http://www.cmastergardeners.org) để xem tài liệu Đại học 10 Phút™ và lịch các lớp miễn phí.
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/con cái, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả đũa cho hoạt động dân quyền trước đó. (Không phải tất cả các lý do bị cấm đều áp dụng cho mọi chương trình.)
----

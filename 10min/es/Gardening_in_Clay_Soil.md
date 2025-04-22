@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Jardinería en Suelo Arcilloso
 
 ### Introducción
@@ -39,34 +37,27 @@ La textura del suelo refleja la proporción de arena, limo y arcilla. Una buena 
 
 ### ¿Qué Nos Dice la Ciencia del Suelo?
 
-#### Fertilidad
 - Los suelos arcillosos son ricos en nutrientes para las plantas.
 - Las partículas de arcilla tienen cargas negativas, lo que les permite retener partículas cargadas positivamente como calcio, potasio, magnesio, hierro y otros nutrientes de las plantas.
 
-#### Permeabilidad
 - El suelo húmedo y de textura fina (los que tienen mucha arcilla o limo) se compacta fácilmente.
 - Los suelos compactados tienen agregados aplanados, lo que dificulta el movimiento del agua y las raíces.
 - El suelo arcilloso compactado es difícil de restaurar.
 - Los suelos saludables tienen mucho espacio entre los agregados (**macroporos**) para permitir el movimiento de agua, gases y raíces. Más macroporos significan mejor drenaje.
 
-#### Capacidad de Retener Agua
 - Los poros pequeños o **microporos** (el espacio dentro de un agregado) le dan al suelo su capacidad de retener agua.
 
-#### Alteración del Suelo
 - Cavando y labrando se rompen los agregados pero se introduce aire en los macroporos.
 - Labrar en exceso reduce la funcionalidad de las hifas de los hongos, mata nematodos beneficiosos y generalmente resulta en suelos compactados.
 
-#### Vida en el Suelo
 - El suelo está lleno de vida, muchas de las cuales son beneficiosas para las plantas.
 - Los suelos con mayor contenido de materia orgánica tienden a tener más microorganismos.
 - Los microorganismos del suelo son más activos entre **70°F y 100°F**, mientras que las lombrices lo son alrededor de **50°F**.
 
-#### Raíces de Plantas y Exudados
 - Las raíces de las plantas secretan una sustancia llamada **exudado**, que contiene azúcar, vitaminas, oxígeno y otros compuestos.
 - El exudado atrae microorganismos a la zona de las raíces.
 - Estudios muestran que la composición de los exudados varía según la especie de planta y moldea la comunidad de hongos alrededor de cada planta.
 
-#### Microbios Beneficiosos
 - Las bacterias **Rhizobia** capturan nitrógeno del aire para uso de las plantas.
 - Los nematodos beneficiosos son muy sensibles a las alteraciones y muchos se mueren al labrar, lo que puede afectar toda la red alimenticia del suelo alterado.
 - Muchos tipos de hongos forman asociaciones beneficiosas (**micorrizas**) con las raíces de las plantas.
@@ -77,37 +68,30 @@ La textura del suelo refleja la proporción de arena, limo y arcilla. Una buena 
 
 ### Cómo Manejar el Suelo Arcilloso
 
-#### Haz un Análisis de tu Suelo
 - Antes de agregar enmiendas, analiza tu suelo.
 - Fertiliza solamente si el análisis muestra deficiencia o si las plantas no crecen bien.
 - Recuerda que la arcilla es rica en nutrientes.
 - En el Valle de Willamette, la mayoría de los árboles, arbustos y plantas perennes no necesitan fertilizantes agregados.
 
-#### Mantén Raíces Vivas en Crecimiento
 - Las plantas vivas capturan la energía solar y apoyan una comunidad de microorganismos a través de sus exudados de raíz.
 - Estudios demuestran que los exudados influyen en la composición de los microbios del suelo.
 - Cultivar una variedad diversa de plantas maximiza la diversidad de vida en el suelo, lo que ayuda a crear un suelo saludable.
 
-#### Minimiza la Alteración
 - Cualquier cosa que altere el suelo (caminar sobre él, excavar, labrar) puede romper o compactar los agregados y reducir el espacio poroso, lo cual es importante para la permeabilidad y la capacidad de retener agua.
 
-#### Mantén el Suelo Cubierto
 - Usa mantillo para moderar la temperatura del suelo, minimizar la evaporación y reducir el crecimiento de malezas.
 - El mantillo orgánico se descompone y agrega materia orgánica al suelo.
   - Los materiales más gruesos permiten el paso del aire, mientras que los más densos, como el cartón, dificultan el intercambio de gases.
   - Los chips de madera de arborista (4-6”) son un buen mantillo: permiten el paso del aire y se descomponen lentamente, agregando materia orgánica al suelo.
 
-#### Alimenta los Microbios del Suelo
 - La materia orgánica (**MO**) está en la base de la red alimenticia del suelo; agregar MO alimenta a los microbios.
 - Elige una forma que haya sido compostada correctamente y que no tenga atributos indeseables como alto contenido de sal o metales pesados.
 - MO como hojas compostadas y desechos de jardín pueden mezclarse en el suelo o colocarse en una capa fina (1/2 a 1”) sobre la superficie para crear un ambiente que favorezca la actividad microbiana.
 
-#### Prepara un Lecho para Esta Temporada
 - Si necesitas un nuevo lecho para un cultivo anual de hortalizas, mezcla MO compostada en todo el lecho.
 - Esto te dará beneficios inmediatos de suelo más manejable y mayor fertilidad.
 - Sin embargo, estos beneficios son de corto plazo porque la MO se descompone rápidamente, los nutrientes no usados suelen perderse y el suelo se asentará.
 
-#### Un Cambio del Pasado
 - El lema de “¡Solo agrega materia orgánica!” como solución para mejorar la arcilla ha cambiado.
 - Antes se recomendaba agregar inicialmente de 2 a 4” de MO y luego cantidades menores.
 - Estudios recientes en jardines urbanos donde se ha agregado MO durante años muestran niveles no saludables de fosfato y MO.
@@ -119,7 +103,6 @@ La textura del suelo refleja la proporción de arena, limo y arcilla. Una buena 
 
 ### Aprende Más sobre Suelos
 
-#### Publicaciones
 
 **Publicaciones de Extensión de la Universidad Estatal de Oregon**
 - [Guía para Colectar Muestras de Suelo, EC628](https://catalog.extension.oregonstate.edu/)
@@ -135,7 +118,6 @@ La textura del suelo refleja la proporción de arena, limo y arcilla. Una buena 
 **Desmintiendo Mitos del Suelo para Educadores de Extensión**  
 [Revisión de la Literatura sobre Estructura y Funcionalidad del Suelo](https://www.nacaa.com/journal/index.php?jid=1024)
 
-#### Videos
 
 - [Mantillos: Los Buenos, Los Malos y los Realmente Feos](https://www.youtube.com/watch?v=NXL9n2KNm1E)
 - [Cómo Tomar Muestras de Suelo en Casa, Universidad Estatal de Washington](https://www.youtube.com/watch?v=0tRQUPDRiDU)
@@ -143,12 +125,6 @@ La textura del suelo refleja la proporción de arena, limo y arcilla. Una buena 
 - [Vaqueros del Carbono del Suelo](https://www.youtube.com/watch?v=ZGvVli0OTrQ)
 - [De la Tierra al Suelo](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)
 
-#### Sitios Web
 
 - [Web Soil Survey](http://www.websoilsurvey.sc.egov/)
 - [Manuales y Videos de la Universidad de 10 Minutos™](http://www.cmastergardeners.org/10-minute-university)
-
----
-
-###### El Servicio de Extensión de la Universidad Estatal de Oregon prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalia por actividad previa relacionada con derechos civiles. (No todas las bases prohibidas aplican a todos los programas).
----

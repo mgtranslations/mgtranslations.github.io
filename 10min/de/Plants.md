@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Machen Sie Ihren Garten klimaresistenter: Pflanzen
 
 Der aktuelle Erwärmungstrend der Erde führt zum Schmelzen von Gletschern, steigenden Meeresspiegeln, zunehmender Versauerung der Ozeane und häufigeren sowie heftigeren Dürren und Überschwemmungen. Im Pazifischen Nordwesten gab es anhaltende Dürren, zunehmende Häufigkeit und Schwere von Waldbränden, Hitzewellen, Insektenbefall und Baumkrankheiten. Weniger Schneefall führt zu früheren Höchstständen in Flüssen und Bächen, was die Wasserversorgung verringert. Zusätzlich bringt der Klimawandel unberechenbare, extreme Wetterereignisse (wie Hitzewellen und Starkregen) immer häufiger mit sich.  
@@ -59,7 +57,6 @@ Wie gärtnern wir in diesen Zeiten? Dieses Informationsblatt bietet Ideen, wie S
 
 ### Ergebnisse von Pflanzenversuchen nutzen
 
-#### Pflanzenbewertungen im Nordwesten
 
 Feldversuche der Oregon State University zur Trockentoleranz und Winterhärte von fünf Pflanzengattungen:
 
@@ -69,7 +66,6 @@ Feldversuche der Oregon State University zur Trockentoleranz und Winterhärte vo
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Zistrose](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Climate Ready Landscape Plant Project
 
 Feldversuche zur Trockentoleranz an fünf Universitäten:
 
@@ -81,7 +77,6 @@ Feldversuche zur Trockentoleranz an fünf Universitäten:
   [Mehr erfahren](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [UC Versuchsinformationen](https://ucanr.edu/sites/UCLPIT/)
 
-#### Weitere Versuche
 
 - [Chicago Botanic Garden Trials](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (Mittlerer Westen, USA)
 - [Mt. Cuba Center Trials](https://mtcubacenter.org/research/trial-garden/) (Mid-Atlantic Region, USA)
@@ -91,8 +86,3 @@ Feldversuche zur Trockentoleranz an fünf Universitäten:
 
 - [Great Plant Picks](https://greatplantpicks.org/): Miller Botanischer Gärtner-Datenbank mit über 1.000 Pflanzen, sortierbar nach Standortbedingungen (Sonne/Schatten) und Eigenschaften (Größe, Blattfarbe).
 - [Staude des Jahres](https://perennialplant.org/page/PPOY): Jährliche Empfehlungen für besonders empfehlenswerte Stauden.
-
----
-
-#### Der Oregon State University Extension Service untersagt Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, einkommensabhängiger Unterstützung, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

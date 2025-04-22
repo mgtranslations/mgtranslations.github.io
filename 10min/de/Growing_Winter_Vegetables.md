@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Wintergemüse anbauen
 
 ### Vorteile des eigenen Anbaus
@@ -25,17 +23,14 @@ Es ist wichtig, das Datum des ersten Frosts in deiner Gegend zu kennen. Schau in
 
 ### Wie man pflanzt
 
-#### Herkunft
 
 Gemüse kann direkt aus Samen gesät oder als vorgezogene Pflänzchen gesetzt werden. Verwende Pflanzen, die speziell für die Herbstpflanzung geeignet sind.
 
-#### Standort
 
 Wähle einen Platz, der sechs bis acht Stunden Sonnenlicht bekommt. Nutze Mauern oder Zäune mit Südausrichtung, die Wärme reflektieren und länger speichern. Hochbeete aus Holz oder aufgeschütteter Erde erwärmen sich im Frühling schneller und halten die Wärme länger.
 
 Stelle sicher, dass dein Standort vor starkem Wind geschützt ist und der Boden gut entwässert.
 
-#### Bodenvorbereitung
 
 Bereite deinen Boden vor, indem du Steine und Unkraut entfernst und den Boden nach Bedarf verbesserst.
 
@@ -74,7 +69,6 @@ Diese Publikationen findest du online unter [https://catalog.extension.oregonsta
 - **Improving Garden Soil with Organic Matter** EC 1561
 - **Soil Fertility in Organic Systems** PNW 646
 
-#### Master Gardener™ Beratung
 
 - **Home Horticulture Helpline anrufen:**
   - 503-655-8631 (Clackamas County)
@@ -82,8 +76,3 @@ Diese Publikationen findest du online unter [https://catalog.extension.oregonsta
   - 503-445-4608 (Multnomah County)
 - Besuche [www.cmastergardeners.org](https://www.cmastergardeners.org) für Handouts und Videos der 10-Minuten-Universität™.
 - Triff Master Gardeners auf lokalen Bauernmärkten.
-
----
-
-##### Oregon State University Extension Service · Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich geschlechtlicher Ausdrucksformen), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus sowie Vergeltungsmaßnahmen bei früherer Wahrnehmung von Bürgerrechten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

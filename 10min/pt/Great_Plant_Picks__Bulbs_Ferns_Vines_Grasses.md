@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação dos Jardineiros Mestres do Condado de Clackamas · Em colaboração e apoio ao Programa OSU Extension Master Gardener™
-
 ## Grandes Escolhas de Plantas: Bulbos, Samambaias, Trepadeiras e Gramíneas
 
 ### Legenda
@@ -85,8 +83,3 @@ O Great Plant Picks (GPP) é o principal programa educacional do Jardim Botânic
 - Não são propensas a doenças/pragas.
 - Oferecem interesse ao jardim em mais de uma estação do ano.
 - Muitas plantas GPP também oferecem benefícios ecológicos (polinizadores, alimento para aves, abrigo para vida selvagem, etc.).
-
----
-
-###### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais por motivo de raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, condição familiar/paternal, renda proveniente de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión OSU
-
 ## Selecciones de Grandes Plantas: Plantas Perennes
 
 **S:** Planta de sombra  
@@ -57,7 +55,6 @@
 
 Great Plant Picks (GPP) es el programa educativo principal del Jardín Botánico Elisabeth C. Miller. En 2001, se publicó la primera lista con recomendaciones para crear una paleta completa de plantas excepcionales para el Noroeste Pacífico marítimo. Hasta la fecha, se han seleccionado más de 1,000 plantas excepcionales para jardineros que viven al oeste de las Montañas Cascade, desde Eugene, Oregón, EE. UU. hasta Vancouver, Columbia Británica, Canadá.
 
-#### Criterios de Selección de GPP
 
 - Prosperan en una variedad de suelos.
 - Requieren riego suplementario moderado o menos.
@@ -66,8 +63,3 @@ Great Plant Picks (GPP) es el programa educativo principal del Jardín Botánico
 - Resistentes a enfermedades y plagas.
 - Ofrecen interés en más de una estación en el jardín.
 - Brindan beneficios ecológicos (polinizadores, alimento para aves, hábitat para la vida silvestre, etc.).
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, situación familiar/paternal, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalia por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

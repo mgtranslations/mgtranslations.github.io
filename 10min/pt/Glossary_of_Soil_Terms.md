@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Glossário de Solos
 
 Para o glossário completo, veja a publicação EM063E da Extensão da Universidade Estadual de Washington: *Guia do Jardineiro Doméstico para Solos e Fertilizantes*.
@@ -188,12 +186,3 @@ O quão grosso ou fino é um solo. A textura é determinada pelas proporções d
 ### Capacidade de Retenção de Água
 
 Capacidade dos poros do solo de reter água para uso das plantas.
-
----
-
-#### Conselho do Mestre Jardineiro™ · Ligue para o Disque Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outras apostilas e cronogramas de aulas da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Serviço de Extensão da Universidade Estadual do Oregon · O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parenteral, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

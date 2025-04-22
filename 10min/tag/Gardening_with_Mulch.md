@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta sa OSU Extension Master Gardener™ Program
-
 # Paghahalaman Gamit ang Mulch
 
 Ang mulch ay isang patong ng materyal na inilalagay sa ibabaw ng lupa upang makamit ang isa o higit pa sa mga sumusunod na benepisyo:
@@ -53,23 +51,19 @@ Madalas gamitin ang plastic na mulch upang pigilan ang damo o painitin ang lupa.
 
 ### Paano Gamitin ang Plastic na Mulch
 
-#### Para Pigilan ang Damo
 
 1. Ilatag ang itim na plastic matapos ihanda ang lupa para sa pagtatanim at pagkatapos mailagay ang mga linya ng tubig.
 2. Lagyan ng lupa sa gilid upang hindi liparin.
 3. Itusok ang buto o punla sa pamamagitan ng X na hiwa sa plastic.
 4. Gumamit ng plastic na may butas o gumawa ng mga butas gamit ang ice pick para makalusot ang tubig.
 
-#### Para Painitin ang Lupa
 
 - **Malinaw o Translucent na Plastic**: Mas mahusay magpainit ng lupa pero maaaring magdulot ng "greenhouse" effect para sa damo.
 - **Itim na Plastic**: Hindi kasing init magpainit ng lupa ngunit mas epektibo kontra damo.
 
-#### Para Panatilihing Tuyong Lupa
 
 Takpan ang lugar ng itim na plastic tuwing taglamig para panatilihing tuyo ang taniman sa maagang paghahanda at pagtatanim sa tagsibol. Lagyan ng pabigat ang mga gilid para hindi maging greenhouse ng damo o taguan ng peste.
 
-#### Para Pabilisin ang Paglaki at Paghinog ng Mga Halamang Mahilig sa Init
 
 Ang kamatis, sili, melon, strawberry, at iba pang mahilig sa init na halaman ay pinag-aralan upang malaman ang epekto ng iba't ibang kulay ng plastic mulch sa paglaki, paghinog, at ani.
 
@@ -81,10 +75,3 @@ Ang kamatis, sili, melon, strawberry, at iba pang mahilig sa init na halaman ay 
 ## Karagdagang Sanggunian
 
 - **OSU Extension Service Publication**: [Mulching Woody Ornamentals with Organic Materials](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang may pamilya/magulang, kita mula sa pampublikong tulong, paniniwala sa politika, impormasyong henetiko, katayuan bilang beterano, paghihiganti, o pagganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

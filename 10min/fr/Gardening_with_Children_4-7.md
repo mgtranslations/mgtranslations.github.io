@@ -1,5 +1,3 @@
-#### Université en 10 minutes™ · Association des Maîtres Jardiniers™ de l’Oregon – Section du Comté de Clackamas · En coopération avec le Service d’Extension de l’Université d’État de l’Oregon
-
 ## Jardiner avec des enfants de 4 à 7 ans
 
 Jardiner avec des enfants peut être l’une des expériences les plus enrichissantes pour l’enfant comme pour le parent, le grand-parent ou le mentor. Les enfants sont de vrais petits jardiniers, car ils sont curieux, apprennent en faisant, et aiment jouer dans la terre.
@@ -25,7 +23,6 @@ Le jardin potager est particulièrement gratifiant pour les enfants de tous âge
 
 Vous pouvez adapter la quantité de travail à l’enfant et au temps dont vous disposez. Il est important que l’expérience soit agréable pour tout le monde, alors réfléchissez à la taille de l’activité et arrêtez avant que quelqu’un ne se sente dépassé ou frustré, même les adultes.
 
-#### Planter des fleurs ou des légumes pour les pollinisateurs
 
 Les jardiniers apprécient les insectes et les pollinisateurs qui vivent ou visitent le jardin. Vous pouvez planter des tournesols, des zinnias ou des capucines. Elles sont jolies et nourrissent les pollinisateurs.
 
@@ -34,7 +31,6 @@ Consultez ces publications de l’Université d’État de l’Oregon :
 - [Encourager les insectes bénéfiques dans votre jardin](https://catalog.extension.oregonstate.edu/pnw550)
 - [Guide de l’éducateur pour le jardinage de légumes](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Chasse aux limaces
 
 Les enfants apprendront comment les limaces jouent un rôle dans l’écosystème. Il y a trois limaces courantes dans le Nord-Ouest du Pacifique :
 
@@ -49,7 +45,6 @@ Consultez ces ressources :
 - [Identifier les limaces et les escargots](https://agsci.oregonstate.edu/slug-portal/identification)
 - [Limaces et escargots](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
 
-#### À la recherche des décomposeurs
 
 Les vers de terre, cloportes, fourmis et escargots font tous partie de l’écosystème et sont essentiels pour transformer la matière organique en humus. Il faut les célébrer.
 
@@ -59,7 +54,6 @@ Consultez la ressource de l’Université d’État de l’Oregon sur les décom
 
 - [Les vers comme décomposeurs](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
 
-#### Conseils de plantation
 
 Donnez aux enfants les informations essentielles sur la plantation dans un endroit bien ensoleillé et sur le fait de recouvrir les graines de terre (pas trop profondément). Encouragez-les à observer comment les insectes interagissent avec les plantes à mesure qu’elles grandissent.
 
@@ -87,10 +81,3 @@ Voici quelques suggestions :
 - *Retourne, flotte, vole : les graines en voyage* par JoAnn Early Macken
 - *Baies, noix et graines* par Diane L. Burns
 - *Le jardin de Jack* par Henry Cole
-
-#### Conseils du Maître Jardinier™ · Appelez la ligne d’assistance en horticulture domestique : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour les fiches et le calendrier de l’Université en 10 minutes™ : Visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, du revenu provenant d’un programme d’aide sociale, des opinions politiques, des informations génétiques, du statut de vétéran, de représailles ou de toute action antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

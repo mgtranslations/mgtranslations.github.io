@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 ## Torne Seu Jardim Mais Resiliente ao Clima: Água
 
 A Terra está passando por uma tendência de aquecimento que resulta no derretimento de geleiras, aumento do nível do mar, aumento da acidez dos oceanos e secas e enchentes mais frequentes e intensas. O Noroeste do Pacífico tem experimentado secas prolongadas, aumento da incidência e gravidade de incêndios florestais, ondas de calor, surtos de insetos e doenças em árvores. A redução da neve resulta em picos de fluxo mais cedo em rios e córregos e diminui o suprimento de água. Além dessas tendências, as mudanças climáticas trazem eventos climáticos extremos e irregulares (ondas de calor, chuvas fortes) com mais frequência.
@@ -80,8 +78,3 @@ Algumas cidades e condados possuem regras específicas sobre desconectar calhas 
 
   - [Irrigação por Gotejamento: Uma Introdução](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Dicas de Rega](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

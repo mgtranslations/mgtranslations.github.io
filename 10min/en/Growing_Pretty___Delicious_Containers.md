@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Growing Pretty and Delicious Containers
 
 ### Overview
@@ -44,7 +42,6 @@ Consider plants with varying heights and vibrant vegetable color. It’s importa
 
 ### Design
 
-#### Thriller, Filler, and Spiller Design Framework
 
 - **Thriller**: The largest and most striking plant in the container, usually placed in the middle (if the pot will be viewed from all sides) or in the back of a pot (if viewed from just one side). The Thriller lends a strong vertical element to the container.
   - Examples: Pepper plant, teepee of climbing beans, blueberry bush, tomato plant, or tall-growing Russian kale for smaller containers.
@@ -79,9 +76,3 @@ Most of the plants listed here will progress in their life cycle, producing leav
 - **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
 - **10-Minute University™ handouts and videos**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pagtatanim sa Raised Bed
 
 Ang pagtatanim sa raised bed ay karaniwang ginagawa na sa loob ng maraming siglo. Ang ibig sabihin ng "raised" ay mas mataas ang antas ng lupa sa kama kaysa sa paligid nito, at ang "bed" ay nangangahulugang maliit lang ito para abutin mula sa mga daanan.
@@ -89,12 +87,3 @@ Narito ang ilan sa mga publikasyon ng OSU na makukuha sa [OSU Extension Catalog]
 
 - **Raised Bed Gardening FS 270**
 - **How to Build Your Own Raised Bed Cloche EC 1627-E**
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa, estado bilang magulang/pamilya, kita mula sa programang pampublikong tulong, paniniwalang pulitikal, genetic info, katayuan bilang beterano, paghihiganti, o pagtrato dahil sa dating civil rights activity. (Hindi lahat ng ipinagbabawal ay sakop ng lahat ng programa.)
----

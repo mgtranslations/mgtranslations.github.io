@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Làm Vườn với Lớp Phủ
 
 Lớp phủ là một lớp vật liệu trải lên bề mặt đất để đạt được một hoặc nhiều lợi ích sau:
@@ -53,23 +51,19 @@ Lớp phủ nhựa thường được dùng để ức chế cỏ dại hoặc l
 
 ### Cách Sử Dụng Lớp Phủ Nhựa
 
-#### Để Ức Chế Cỏ Dại
 
 1. Trải nhựa đen sau khi đã chuẩn bị đất để gieo hoặc trồng và sau khi đặt đường ống nước.
 2. Đè các mép nhựa bằng đất.
 3. Gieo hạt hoặc trồng cây qua lỗ cắt hình chữ X trên nhựa.
 4. Dùng nhựa có lỗ hoặc tự đục lỗ bằng vật nhọn để cho nước thấm qua.
 
-#### Để Làm Ấm Đất
 
 - **Nhựa trong hoặc mờ**: Làm ấm đất hiệu quả hơn nhưng có thể tạo thành "nhà kính" cho cỏ dại phát triển.
 - **Nhựa đen**: Làm ấm đất ít hơn nhưng lại ức chế cỏ dại.
 
-#### Để Giữ Đất Khô
 
 Phủ khu vực bằng nhựa đen vào mùa đông để giữ cho luống đất khô, thuận tiện chuẩn bị và trồng cây đầu xuân. Đè các mép nhựa để tránh trở thành nơi ẩn náu cho cỏ dại hoặc sâu bệnh.
 
-#### Để Đẩy Nhanh Sự Phát Triển và Trưởng Thành của Cây Ưa Nhiệt
 
 Cà chua, ớt, dưa, dâu tây và các cây ưa nhiệt khác đã được nghiên cứu về tác động của các loại nhựa phủ màu khác nhau đến sự phát triển, trưởng thành và năng suất.
 
@@ -81,10 +75,3 @@ Cà chua, ớt, dưa, dâu tây và các cây ưa nhiệt khác đã được ng
 ## Tài Nguyên Tham Khảo
 
 - **Tài liệu của Dịch vụ Khuyến nông OSU**: [Phủ Lớp Hữu Cơ cho Cây Thân Gỗ Trang Trí](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Tư vấn Làm Vườn Chuyên Nghiệp™ · Gọi đường dây hỗ trợ làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu Đại học 10 Phút™ và lịch học, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon · Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm mọi hành vi phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, xuất xứ quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm cả biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con, thu nhập từ các chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả thù vì các hoạt động quyền dân sự trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

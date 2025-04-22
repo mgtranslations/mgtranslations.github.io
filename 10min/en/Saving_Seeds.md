@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Saving Seeds
 
 ### Why Collect Seeds?
@@ -19,7 +17,6 @@ There are three means of pollination: wind, insects, and humans.
 - **Self-Pollination**: Refers to plants possessing flowers with both the female and male parts. These include tomatoes, beans, lettuce, and eggplant.
 - **Cross-Pollination**: Plants such as cucumber and squash require wind or insects to deliver pollen from male flowers to pollinate female flowers on the same or different plants.
 
-#### Manual Pollination for Home Gardeners
 
 To collect seeds from cross-pollinating plants:
 
@@ -38,7 +35,6 @@ Select disease-free plants for seed saving. Consider traits like flavor, beauty,
   - Cucumbers at the edible stage do not have mature seeds. Maturity occurs after the first frost, as it does with pumpkins and winter squash.
   - Collect flower seeds when flowers fade and dry, have dry puffy tops, or dry seed pods that begin to break open.
 
-#### The Dry Method
 
 Plants with dry seeds include peas, beans, carrots, peppers, and most flowers and herbs.
 
@@ -50,7 +46,6 @@ Plants with dry seeds include peas, beans, carrots, peppers, and most flowers an
 **Note**:  
 - Peppers must be red/yellow and shriveled for seed collection. Wear gloves for hot peppers!
 
-#### The Wet Method
 
 Plants with fleshy fruits like tomatoes are best processed through fermentation:
 
@@ -91,9 +86,3 @@ Plan to use your seeds within three years. Because seed viability and plant vigo
   - *Basic Concepts of Seed Production and Seed Regeneration*
 - University of Maine, Cooperative Extension Publications: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *An Introduction to Seed Saving for the Home Gardener 2750e*
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For 10-Minute University™ handouts and class schedule, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Pagsisimula ng Iyong Gulayan
 
 ### Ano ang Itatanim
@@ -38,7 +36,6 @@ Ang pagsusuri ng lupa ay nagpapakita ng dami ng sustansya at kung anong pampabag
 
 Ang temperatura ng lupa at hangin ang nagsasabi kung kailan dapat magtanim.
 
-#### Temperatura ng Lupa
 
 Pinakamababang temperatura ng lupa (°F) na kailangan ng ilan sa mga paboritong pananim:
 
@@ -49,7 +46,6 @@ Pinakamababang temperatura ng lupa (°F) na kailangan ng ilan sa mga paboritong 
 - Talong/Sili/Kamatis: 55°F
 - Basil: 60°F
 
-#### Temperatura ng Hangin
 
 Pinakamainam na temperatura ng hangin (°F) para sa ilan sa mga paborito:
 
@@ -60,12 +56,10 @@ Pinakamainam na temperatura ng hangin (°F) para sa ilan sa mga paborito:
 
 Kung magtatanim ka ng sitaw sa huling bahagi ng taglamig, maaaring tumubo ito pero hindi lalaki hanggang uminit ang hangin.
 
-#### Maikling Panahon vs. Mahabang Panahong Pananim
 
 - **Maikling panahon na pananim:** Hinog sa loob ng 50 araw o mas maikli. Maaaring itanim ang buto ng direkta at makakasiguro ng ani.
 - **Mahabang panahon na pananim:** Tulad ng kamatis, hinog sa 75–90 araw. Kadalasang nagmamadali ang magsasaka na anihin bago dumating ang tag-ulan at malamig na gabi.
 
-#### Punla
 
 Ang mga punla, na binili sa garden center o pinalaki sa sariling greenhouse, ay nagbibigay ng maagang panimula.
 
@@ -81,19 +75,15 @@ Karamihan sa mga gulay ay tanim-taon-taon at nangangailangan ng sapat na sustans
   - Namumunga at namumulaklak: Mas maraming phosphorus (P).
   - Ugat: Mas maraming potassium (K).
 
-#### Mataas ang Kailangan sa Abono
 
 Beet, collard, kale, letsugas, parsley, spinach, at kamatis ay nangangailangan ng mas maraming abono.
 
-#### Katamtaman ang Kailangan sa Abono
 
 Karot, bawang, sibuyas, chard, mustasa, at sili ay nangangailangan ng katamtamang abono.
 
-#### Nitrogen-Fixing na Pananim
 
 Baguio beans, sitaw, soybean, at clover ay kumukuha ng nitrogen mula sa hangin at kadalasang hindi na nangangailangan ng abono.
 
-#### Organikong Abono
 
 Ilagay ilang buwan bago magtanim para sa pinakamagandang resulta. Halimbawa:
 
@@ -110,7 +100,6 @@ Diligang pantay ang basa ng lupa hanggang sa ugat. Maghukay ng 6 hanggang 8 pulg
 - **Drip system:** Dinadala ang tubig sa ugat at mas mainam kaysa sa pagdilig mula sa itaas, na nagpapabasa ng dahon at maaaring magdulot ng sakit.
 - **Pagdidilig mula sa itaas:** Iwasan ang pagwisik ng tubig at huwag magdilig ng gabi. Mas mainam ang pagdidilig sa umaga para mabawasan ang pagsingaw ng tubig.
 
-#### Mahalagang Panahon ng Pagdidilig
 
 Maging mapagmatyag sa pinakamahalagang yugto ng iyong pananim:
 
@@ -124,8 +113,3 @@ Maging mapagmatyag sa pinakamahalagang yugto ng iyong pananim:
 
 - [EM 9027 Growing Your Own](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Vegetable Gardening in Oregon](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita galing sa pampublikong tulong, paniniwalang pampulitika, impormasyon ng genes, katayuan bilang beterano, pagganti o paghihiganti dahil sa naunang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

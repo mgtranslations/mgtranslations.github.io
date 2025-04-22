@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du comté de Clackamas, en collaboration et en soutien avec le programme OSU Extension Master Gardener™
-
 # Créer un Jardin pour les Pollinisateurs
 
 La clé pour créer un jardin à pollinisateurs réussi est d’offrir aux insectes pollinisateurs et autres petites créatures un endroit où élever leurs petits et s’assurer qu’ils aient une source de nourriture fiable du printemps jusqu’à la fin de l’automne. Les pollinisateurs courants dans les jardins incluent les abeilles, les guêpes, les papillons, les mites, les mouches, les coléoptères, les oiseaux et même les fourmis. Comme il existe beaucoup de pollinisateurs différents avec des besoins variés, la meilleure stratégie consiste à cultiver de nombreuses sortes de plantes à fleurs qui produisent du nectar et du pollen.
@@ -84,8 +82,3 @@ Laissez les feuilles non malades, les tiges et les têtes de graines dans le jar
 Contactez votre bureau local de l’OSU Extension pour obtenir des conseils de Maîtres Jardiniers. Consultez ce site pour les coordonnées : [Trouvez votre bureau local de l’Extension](https://extension.oregonstate.edu/find-us).
 
 Pour les fiches et les horaires de cours de la 10-Minute University™, visitez [Clackamas County Master Gardeners](https://cmastergardeners.org).
-
----
-
-#### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit la discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, des revenus issus d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut d’ancien combattant, de représailles ou de toute action en réponse à une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

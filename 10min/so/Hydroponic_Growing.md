@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Gobolka Clackamas oo iskaashanaya lana taageeraya Barnaamijka Beeralayda Master-ka ee OSU Extension™
-
 # Beerashada Hydroponics ee Fudud Gudaha Guriga
 
 Hydroponics waa habka lagu beero dhirta, iyada oo aan ciid la isticmaalin, balse la adeegsado xal biyo ah oo nafaqo leh. Nidaamyada waaweyn ee hydroponic-ka waxay adeegsadaan tignoolajiyad casri ah si ay ula socdaan heerka nafaqada, pH, ogsajiinta ku milan, heerkulka xalka nafaqada, iyo iftiinka dhirtu heshay. Qoraalkan wuxuu soo bandhigayaa hab fudud oo ku habboon beeralayda guryaha.
@@ -82,8 +80,3 @@ Marka la goosanayo:
 - [Saddex Hab oo Aan Wareegaynin oo Hydroponics ah oo Lagu Beero Lettuce](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Muuqaal uu sameeyay B. A. Kratky
 - [Beerashada Hydroponic ee Guriga](http://www.cmastergardeners.org/10-minute-university) – Muuqaal ka tirsan Jaamacadda 10-Daqiiqo™
 - *Ku Beero Lettuce Qolkaaga Fadhiga: Qoyskaaga Ku Quudi Beertaada LED Hydroponic ee Gudaha* waxaa qoray Dan Chiras & Victor Zaderej
-
----
-
-###### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa oo dhan iyadoo lagu saleynayo: jinsiyadda, midabka, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimo, da’, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidaha, heerka halyeeynimada, ciqaabta ama aargudashada fal hore oo xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay lama khuseeyaan dhammaan barnaamijyada.)
----

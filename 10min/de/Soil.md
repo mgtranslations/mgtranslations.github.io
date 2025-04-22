@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Machen Sie Ihren Garten klimaresistenter: Boden
 
 Die Erde erlebt eine Erwärmung, die zum Schmelzen von Gletschern, steigendem Meeresspiegel, zunehmender Versauerung der Ozeane sowie häufigeren und stärkeren Dürren und Überschwemmungen führt. Im pazifischen Nordwesten gab es anhaltende Dürren, zunehmende Waldbrände, Hitzewellen, Schädlingsausbrüche und Baumkrankheiten. Eine geringere Schneedecke führt dazu, dass der Höchststand von Flüssen und Bächen früher erreicht wird, was die Wasserversorgung verringert. Zusätzlich zu diesen Trends bringt der Klimawandel häufiger unberechenbare und extreme Wetterereignisse (Hitzewellen, Starkregen).
@@ -61,8 +59,3 @@ Wie gärtnern wir in solchen Zeiten? Dieses Handout gibt Anregungen, wie man die
 - [Die schmutzigen Geheimnisse einer lebendigen Landschaft, Oregon State University EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Kohlenstoffspeicherung im Boden, Ecological Society of America](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. et al. *Root biomass and exudates link plant diversity with soil bacterial and fungal biomass.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

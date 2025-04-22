@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration avec et en soutien au Programme Maître Jardinier™ de l’OSU Extension
-
 # Jardiner dans un sol argileux
 
 ### Introduction
@@ -39,34 +37,27 @@ La texture du sol reflète la proportion de sable, de limon et d’argile. Une b
 
 ### Que nous dit la science des sols ?
 
-#### Fertilité
 - Les sols argileux sont riches en nutriments pour les plantes.
 - Les particules d’argile portent des charges négatives, qui retiennent les particules chargées positivement comme le calcium, le potassium, le magnésium, le fer et d’autres nutriments pour les plantes.
 
-#### Perméabilité
 - Les sols humides et à texture fine (ceux riches en argile ou en limon) se compactent facilement.
 - Les sols compactés ont des agglomérats aplatis, ce qui gêne la circulation de l’eau et des racines.
 - Il est difficile de restaurer un sol argileux compacté.
 - Les sols sains ont beaucoup d’espace entre les agglomérats (**macropores**) pour permettre la circulation de l’eau, des gaz et des racines. Plus il y a de macropores, meilleur est le drainage.
 
-#### Capacité de rétention d’eau
 - Les petits pores ou **micropores** (l’espace à l’intérieur d’un agglomérat) donnent au sol sa capacité de retenir l’eau.
 
-#### Perturber le sol
 - Creuser et bêcher cassent les agglomérats mais font entrer de l’air dans les macropores.
 - Un travail excessif du sol réduit l’efficacité des filaments fongiques, tue les nématodes bénéfiques, et aboutit souvent à des sols compactés.
 
-#### Vie du sol
 - Le sol regorge de vie, dont beaucoup sont bénéfiques pour les plantes.
 - Les sols contenant plus de matière organique ont tendance à avoir plus de micro-organismes.
 - Les micro-organismes du sol sont plus actifs entre **21°C et 38°C**, tandis que les vers de terre sont plus actifs vers **10°C**.
 
-#### Racines des plantes et exsudats
 - Les racines des plantes sécrètent une substance appelée **exsudat**, qui contient du sucre, des vitamines, de l’oxygène et d’autres composés.
 - Les exsudats attirent les micro-organismes près des racines.
 - Des études montrent que la composition des exsudats varie selon les espèces de plantes et façonne la communauté fongique autour de chaque plante.
 
-#### Microbes bénéfiques
 - Les **bactéries rhizobium** capturent l’azote de l’air pour l’utiliser par les plantes.
 - Les nématodes bénéfiques sont très sensibles aux perturbations et beaucoup sont tués par le travail du sol, ce qui perturbe souvent toute la chaîne alimentaire du sol.
 - De nombreux types de champignons forment des associations bénéfiques (**mycorhizes**) avec les racines des plantes.
@@ -77,37 +68,30 @@ La texture du sol reflète la proportion de sable, de limon et d’argile. Une b
 
 ### Comment gérer un sol argileux
 
-#### Testez votre sol
 - Avant d’ajouter des amendements, testez votre sol.
 - Fertilisez seulement si l’analyse montre une carence ou si les plantes ne poussent pas bien.
 - N’oubliez pas que l’argile est riche en nutriments.
 - Dans la vallée de la Willamette, la plupart des arbres, arbustes et vivaces n’ont pas besoin d’engrais ajoutés.
 
-#### Gardez des racines vivantes
 - Les plantes vivantes captent l’énergie du soleil et soutiennent une communauté de micro-organismes dans le sol grâce à leurs exsudats racinaires.
 - Des études montrent que les exsudats influencent la composition des microbes du sol.
 - Cultiver une grande diversité de plantes maximise la diversité de la vie du sol, ce qui aide à construire un sol sain.
 
-#### Minimisez les perturbations
 - Tout ce qui perturbe le sol (marcher dessus, creuser, bêcher) peut casser ou compacter les agglomérats et réduire l’espace poreux, important pour la perméabilité et la capacité de rétention d’eau.
 
-#### Gardez-le couvert
 - Paillez pour modérer la température du sol, limiter l’évaporation et réduire la pousse des mauvaises herbes.
 - Le paillis organique se décompose et ajoute de la matière organique au sol.
   - Les matériaux plus grossiers laissent passer l’air, tandis que les substances plus denses, comme le carton, empêchent les échanges gazeux.
   - Les copeaux de bois d’arboriste (10-15 cm) sont un bon paillis – ils laissent passer l’air et se décomposent lentement, ajoutant de la matière organique au sol.
 
-#### Nourrissez les microbes du sol
 - La matière organique (**MO**) est à la base de la chaîne alimentaire du sol ; ajouter de la MO nourrit les microbes du sol.
 - Choisissez une forme bien compostée et qui ne contient pas de sel ou de métaux lourds indésirables.
 - La MO comme les feuilles compostées et les déchets de jardin peuvent être mélangés au sol ou déposés en une mince couche (1 à 2,5 cm) pour créer un environnement favorable à l’activité microbienne.
 
-#### Préparez une plate-bande pour cette saison
 - Si vous avez besoin d’une nouvelle plate-bande pour des légumes annuels, mélangez de la MO compostée dans tout le lit.
 - Cela vous donnera immédiatement un sol plus facile à travailler et plus fertile.
 - Cependant, ces avantages sont de courte durée car la MO se décompose rapidement, les nutriments non utilisés sont probablement perdus et le sol va se tasser.
 
-#### Un changement par rapport au passé
 - Le slogan « Ajoutez simplement de la matière organique ! » comme solution pour améliorer l’argile a été modifié.
 - Dans le passé, on recommandait un ajout initial de 5 à 10 cm de MO puis de plus petites quantités ensuite.
 - Des études récentes sur les jardins urbains où de la MO a été ajoutée pendant des années montrent des niveaux malsains de phosphate et de MO.
@@ -119,7 +103,6 @@ La texture du sol reflète la proportion de sable, de limon et d’argile. Une b
 
 ### Pour en savoir plus sur le sol
 
-#### Publications
 
 **Publications de l’Extension de l’Oregon State University**
 - [Guide de collecte d’échantillons de sol, EC628](https://catalog.extension.oregonstate.edu/)
@@ -135,7 +118,6 @@ La texture du sol reflète la proportion de sable, de limon et d’argile. Une b
 **Démystification des mythes sur le sol pour les éducateurs en extension**  
 [Revue de la littérature sur la structure et la fonctionnalité des sols](https://www.nacaa.com/journal/index.php?jid=1024)
 
-#### Vidéos
 
 - [Paillis : le bon, le mauvais et le vraiment très laid](https://www.youtube.com/watch?v=NXL9n2KNm1E)
 - [Échantillonnage du sol à la maison, Washington State University](https://www.youtube.com/watch?v=0tRQUPDRiDU)
@@ -143,12 +125,6 @@ La texture du sol reflète la proportion de sable, de limon et d’argile. Une b
 - [Les cowboys du carbone dans le sol](https://www.youtube.com/watch?v=ZGvVli0OTrQ)
 - [Du sol à la terre fertile](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)
 
-#### Sites web
 
 - [Web Soil Survey](http://www.websoilsurvey.sc.egov/)
 - [Documents et vidéos 10-Minute University™](http://www.cmastergardeners.org/10-minute-university)
-
----
-
-###### Le Service d’Extension de l’Oregon State University interdit la discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les convictions politiques, l’information génétique, le statut d’ancien combattant, les représailles ou les mesures de rétorsion pour une activité antérieure relative aux droits civils. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes).
----

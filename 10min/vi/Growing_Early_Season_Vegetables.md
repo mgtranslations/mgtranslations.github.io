@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Thành Thạo Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Thành Thạo của OSU Extension
-
 # Trồng Rau Mùa Sớm
 
 ### Là Gì
@@ -53,7 +51,6 @@ Xem **[Hướng Dẫn Làm Khung Che Luống Cao (EC 1627)](http://catalog.exten
 
 ### Chọn Giữa Hạt Giống, Cây Con Hay Cây Lâu Năm
 
-#### Hạt Giống
 
 Cà rốt, đậu hà lan, xà lách, su hào, rau xanh, củ dền và củ cải rất dễ trồng từ hạt. Gieo hạt trực tiếp xuống đất.
 
@@ -61,14 +58,12 @@ Cà rốt, đậu hà lan, xà lách, su hào, rau xanh, củ dền và củ c�
   - Ngâm hạt trong nước 2-4 giờ trước khi gieo.
   - Hoặc, đặt hạt đã ngâm giữa hai lớp khăn giấy ẩm trong túi nhựa. Để ở nơi ấm cho đến khi hạt nảy mầm.
 
-#### Cây Con
 
 Tự ươm cây con giúp bạn có được giống mong muốn đúng thời điểm.
 
 - Bắp cải, bông cải xanh, súp lơ, cải xoăn thường có sẵn ở các vườn ươm.
 - Mua cây con giúp trồng sớm và thu hoạch nhanh hơn, đặc biệt với những loại dễ “trổ bông” khi trời ấm.
 
-#### Cây Lâu Năm
 
 Một số rau không bán dưới dạng hạt hoặc cây con như củ khoai tây, tỏi, hành củ (sets), có thể trồng trực tiếp xuống đất.
 
@@ -96,7 +91,6 @@ Hầu hết rau là cây ngắn ngày, cần đủ dinh dưỡng để phát tri
   - Bột xương (12-24% Lân)
   - Bột tảo biển (2-5% Kali)
 
-#### Kiểm Tra Đất
 
 Vườn rau ở khu vực Portland thường có mức lân, kali và các dưỡng chất khác khá cao. Nên kiểm tra đất để biết thiếu chất gì và bón phân khi cần thiết.
 
@@ -115,8 +109,3 @@ Truy cập [OSU Extension Service](http://catalog.extension.oregonstate.edu) đ�
 - **Trồng Rau Mùa Thu & Mùa Đông ở Tây Bắc Thái Bình Dương (PNW 548)**
 
 Truy cập [Tài Nguyên Đại học 10 Phút™](http://www.cmastergardeners.org/10-minute-university) để xem tài liệu và video về trồng rau.
-
----
-
-#### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, quốc tịch, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình, thu nhập từ các chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả thù cho các hoạt động dân quyền trước đó. (Không phải tất cả các lý do bị cấm đều áp dụng cho tất cả các chương trình.)
----

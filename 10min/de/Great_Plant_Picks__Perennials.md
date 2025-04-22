@@ -1,5 +1,3 @@
-#### 10-Minuten Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Great Plant Picks: Stauden
 
 **S:** Schattenpflanze  
@@ -57,7 +55,6 @@
 
 Great Plant Picks (GPP) ist das wichtigste Bildungsprogramm des Elisabeth C. Miller Botanical Garden. Im Jahr 2001 erschien die erste Liste mit Empfehlungen für eine umfassende Auswahl herausragender Pflanzen für den maritimen Nordwesten der USA. Bis heute wurden über 1.000 außergewöhnliche Pflanzen für Gärtner westlich der Kaskadenkette ausgewählt, von Eugene, Oregon (USA) bis Vancouver, British Columbia (Kanada).
 
-#### GPP Auswahlkriterien
 
 - Gedeihen in verschiedenen Böden.
 - Benötigen mäßige oder weniger zusätzliche Bewässerung.
@@ -66,8 +63,3 @@ Great Plant Picks (GPP) ist das wichtigste Bildungsprogramm des Elisabeth C. Mil
 - Widerstandsfähig gegen Krankheiten und Schädlinge.
 - Bieten mehrere Jahreszeiten interessante Aspekte im Garten.
 - Bringen ökologischen Nutzen (Bestäuber, Vogelfutter, Lebensraum für Wildtiere usw.).
-
----
-
-##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien auf Grundlage von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischer Überzeugung, genetischer Information, Veteranenstatus und Vergeltung wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Merkmale gelten für alle Programme.)
----

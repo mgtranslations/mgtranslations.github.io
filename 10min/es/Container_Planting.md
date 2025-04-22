@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Plantación en Macetas
 
 ### Resumen
@@ -73,8 +71,3 @@ Los nutrientes del fertilizante se van con el agua cada vez que riegas la maceta
   - 503-445-4608 (Condado de Multnomah)
 - [Video sobre plantación en macetas](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
 - Para más folletos y videos de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas).
----

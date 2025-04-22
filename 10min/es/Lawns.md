@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros de Extensión de OSU
-
 ## Haz tu jardín más resistente al clima: Césped
 
 La tendencia actual de calentamiento de la Tierra provoca el derretimiento de glaciares, el aumento del nivel del mar, mayor acidez en los océanos y sequías e inundaciones más frecuentes y severas. El noroeste del Pacífico ha experimentado sequías prolongadas, aumento en la incidencia y gravedad de incendios forestales, olas de calor, brotes de insectos y enfermedades de los árboles. La reducción en la acumulación de nieve resulta en flujos máximos más tempranos en ríos y arroyos, lo que reduce el suministro de agua. Además de estas tendencias, el cambio climático trae eventos climáticos extremos e impredecibles (ola de calor, lluvias intensas) con mayor frecuencia.  
@@ -37,8 +35,3 @@ Para más detalles, lee Céspedes amigables con el clima: [https://extension.ore
 - **Otras cubiertas vegetales bajas que no son pasto** incluyen tomillo rastrero, menta rastrera, manzanilla de bajo crecimiento o incluso musgo. Elige la cubierta según la cantidad de sol y humedad que recibe el sitio.
 - **Aumenta tu tolerancia a las malezas:** Las malezas pueden ayudar a aumentar la biodiversidad en tu jardín al proveer alimento para diferentes insectos. Las malezas con flores apoyan a los polinizadores.
 - **Usa herbicidas con cuidado, si es que los usas:** Corta antes de que las malezas den semilla para evitar su dispersión o retíralas físicamente. Si necesitas usar un herbicida químico, elige un producto de bajo impacto de esta lista: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales, por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paternal, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme des Maîtres Jardiniers™ de l’Extension de l’OSU
-
 # Jardinage Hydroponique à Faible Technologie en Intérieur
 
 L’hydroponie consiste à faire pousser des plantes, sans terre, dans une solution nutritive à base d’eau. Les grands systèmes hydroponiques utilisent une technologie avancée pour surveiller le niveau de nutriments, le pH, l’oxygène dissous, la température de la solution nutritive et la quantité de lumière reçue par les plantes. Ce document présente une option simple adaptée aux jardiniers à la maison.
@@ -82,8 +80,3 @@ Bernard A. Kratky, horticulteur à l’Université d’Hawaï, a découvert que 
 - [Trois méthodes hydroponiques non circulantes pour cultiver la laitue](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Vidéo de B. A. Kratky
 - [La culture hydroponique à la maison](http://www.cmastergardeners.org/10-minute-university) – Une vidéo de 10-Minute University™
 - *Cultivez de la laitue dans votre salon : nourrissez votre famille grâce à votre jardin hydroponique intérieur à LED* par Dan Chiras & Victor Zaderej
-
----
-
-###### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

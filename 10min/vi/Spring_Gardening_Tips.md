@@ -1,5 +1,3 @@
-#### Đại Học 10 Phút™ · Hiệp Hội Làm Vườn Cao Cấp Hạt Clackamas phối hợp và hỗ trợ Chương Trình Làm Vườn Cao Cấp OSU Extension Master Gardener™
-
 # Mẹo Làm Vườn Mùa Xuân
 
 Vào ngày ấm áp đầu tiên của mùa xuân, hầu hết những người làm vườn đều muốn ra ngoài làm đất. **Hãy khoan vội!** Tốt nhất là bạn nên kiểm tra đất trước. Cầm một nắm đất và bóp chặt. Nếu đất vẫn giữ nguyên hình dạng thành một cục, việc đi lại và đào bới sẽ làm đất bị nén chặt lại.
@@ -107,8 +105,3 @@ Nhận các ấn phẩm của OSU Extension tại [http://catalog.extension.oreg
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 - Để xem tài liệu & video Đại học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc bị trả đũa vì đã thực hiện quyền dân sự trước đó. (Không phải tất cả các lý do bị cấm đều áp dụng cho tất cả các chương trình.)
----

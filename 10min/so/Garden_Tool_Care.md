@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Sare ee Degmada Clackamas iyadoo la kaashaneysa lana taageerayo Barnaamijka Beeraleyda Sare ee OSU Extension
-
 # Daryeelka iyo Dayactirka Qalabka Beerta
 
 Qalabka beertu wuu xumaadaa waqti ka dib iyo qoyaan oo ay weheliso ciid iyo miridh. Nadiifinta iyo daryeelka saxda ah ee hoos ku xusan waxay ka caawin doontaa in qalabkaagu sii shaqeeyo muddo dheer oo uu waxtar yeesho.

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Thành Thạo Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Thành Thạo OSU Extension Master Gardener™
-
 # Lưu Giữ Hạt Giống
 
 ### Tại Sao Nên Thu Thập Hạt Giống?
@@ -19,7 +17,6 @@ Có ba cách thụ phấn: gió, côn trùng, và con người.
 - **Tự thụ phấn**: Là những cây có hoa vừa có bộ phận đực vừa có bộ phận cái. Bao gồm cà chua, đậu, xà lách, và cà tím.
 - **Thụ phấn chéo**: Các cây như dưa chuột và bí cần gió hoặc côn trùng mang phấn từ hoa đực sang hoa cái trên cùng cây hoặc cây khác.
 
-#### Thụ Phấn Thủ Công Cho Người Làm Vườn Tại Nhà
 
 Để thu thập hạt từ các cây thụ phấn chéo:
 
@@ -38,7 +35,6 @@ Chọn những cây không bệnh để lấy hạt giống. Xem xét các đặ
   - Dưa chuột ở giai đoạn ăn được chưa có hạt chín. Hạt chín khi quả để lại sau đợt sương giá đầu tiên, như bí ngô và bí mùa đông.
   - Thu thập hạt hoa khi hoa tàn và khô, đầu hoa phồng khô, hoặc vỏ hạt khô bắt đầu nứt.
 
-#### Phương Pháp Khô
 
 Các loại cây có hạt khô gồm đậu, cà rốt, ớt, và hầu hết các loại hoa, thảo mộc.
 
@@ -50,7 +46,6 @@ Các loại cây có hạt khô gồm đậu, cà rốt, ớt, và hầu hết c
 **Lưu ý**:  
 - Ớt phải chín đỏ/vàng và héo mới thu hạt. Mang găng tay khi làm với ớt cay!
 
-#### Phương Pháp Ướt
 
 Những cây có quả mọng như cà chua nên dùng phương pháp lên men:
 
@@ -91,10 +86,3 @@ Hãy lên kế hoạch sử dụng hạt trong vòng ba năm. Vì sức sống v
   - *Khái niệm Cơ bản về Sản xuất và Tái tạo Hạt giống*
 - Đại học Maine, Ấn phẩm Extension: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *Giới thiệu về Lưu giữ Hạt giống cho Người Làm Vườn tại Nhà 2750e*
-
-#### Tư vấn Làm Vườn Thành Thạo™ · Gọi Đường dây Tư vấn Làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem các tài liệu và lịch học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa do hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

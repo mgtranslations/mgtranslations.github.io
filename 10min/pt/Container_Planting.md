@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU
-
 # Plantio em Vasos
 
 ### Visão Geral
@@ -73,8 +71,3 @@ Os nutrientes do vaso são eliminados cada vez que você rega. Por isso, é impo
   - 503-445-4608 (Condado de Multnomah)
 - [Vídeo sobre Plantio em Vasos](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
 - Para mais folhetos e vídeos do 10-Minute University™, acesse [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por participação prévia em atividades de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
----

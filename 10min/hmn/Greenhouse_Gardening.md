@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener · Ua Ke Nrog Thiab Txhawb Nqa OSU Extension Master Gardener™ Program
-
 # Kev Ua Vaj Tse Nyob Hauv Tsev 101
 
 ### Taw Qhia
@@ -34,7 +32,6 @@ Yog koj ntxiv ib lub tsev iav rau hauv koj lub vaj, koj yuav pib cog tau thaum n
 
 ### Hom Tsev Iav
 
-#### Tsev Iav Uas Nrog Nrog Tsev
 
 - **Zoo:**
   - Yuav tsis kim npaum li tsev iav tib leeg.
@@ -45,7 +42,6 @@ Yog koj ntxiv ib lub tsev iav rau hauv koj lub vaj, koj yuav pib cog tau thaum n
   - Qhov siab yuav raug txwv los ntawm tsev.
   - Yuav tsum muaj rwb thaiv av kom cov av ntub tsis mus rau hauv tsev.
 
-#### Tsev Iav Tib Leeg
 
 - **Zoo:**
   - Xaiv qhov chaw tso tau yooj yim thiab muaj hnub ci ntau dua.
@@ -143,7 +139,3 @@ Ntau lub tsev iav yuav tsum muaj qhoov, ua tau ntawm ntoo, cib, los yog cement. 
 
 **Tsev Iav Rau Cov Ua Vaj (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### Oregon State University Extension Service tsis pub cais tawm leej twg hauv nws cov kev pabcuam, kev ua haujlwm, kev ua si, thiab ntaub ntawv vim yog haiv neeg, xim tawv nqaij, lub teb chaws tuaj, kev ntseeg, poj niam txiv neej, tus kheej kev paub (xws li kev qhia tus kheej), kev nyiam tib poj niam los txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, kev yug menyuam, nyiaj txiag los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qib tub rog, kev raug txim, lossis rov ua phem vim tej kev tiv thaiv cai. (Tsis yog txhua yam kev txwv no siv rau txhua yam kev pabcuam.)

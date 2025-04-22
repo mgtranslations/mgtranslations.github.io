@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Ten Weeds to Know
 
 A weed is a plant that is a hazard or a nuisance or one that causes injury to people, animals, or a desired crop. In the home garden, weeds can:
@@ -95,7 +93,3 @@ Knowing your weeds helps identify the most effective ways to control them:
 
 - [Perennial Weed Biology and Management, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Invasive Plants/Invasive Plant & Pest Management, The City of Portland, Oregon](https://www.portlandoregon.gov)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

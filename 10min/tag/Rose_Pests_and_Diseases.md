@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Karaniwang Sakit at Peste ng Mga Rosas
 
 Ang mga rosas ay maaaring magdala ng bango at ganda sa anumang hardin dito sa Pacific Northwest. Ngunit, kilala rin sila na madalas tamaan ng ilang karaniwang sakit at peste. Ang polyetong ito ay nagbibigay ng mga paraan upang mamonitor at maiwasan ang mga ito para masiguro ang magagandang bulaklak at dahon sa buong tag-init.
@@ -62,8 +60,3 @@ Ang mga rosas ay maaaring magdala ng bango at ganda sa anumang hardin dito sa Pa
 Makipag-ugnayan sa inyong lokal na OSU Extension office para sa Master Gardener na payo. Tingnan ang site na ito para sa impormasyon sa pakikipag-ugnayan: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 Para sa mga polyeto at iskedyul ng klase ng 10-Minute University™, bisitahin ang [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genetika, katayuan bilang beterano, pagganti o paghihiganti sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

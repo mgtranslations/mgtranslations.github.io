@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pag-aaral sa Kaakit-akit ng Mga Katutubong Halaman
 
 ## Listahan ng mga Halaman
@@ -50,12 +48,3 @@ Mangyaring bisitahin ang [http://blogs.oregonstate.edu/gardenecologylab/native-p
 | Sidalcea virgata          | Rose Checkermallow    |            | Perennial      | Rosas             |
 | Sisyrinchium idahoense    | Blue-eyed grass       |            | Perennial      | Asul/Lila         |
 | Solidago canadensis       | Goldenrod             | A, B, C, D | Perennial      | Dilaw             |
-
----
-
-#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan sa kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti, o pagpaparusa dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

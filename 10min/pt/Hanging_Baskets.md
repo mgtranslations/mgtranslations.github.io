@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestre Jardineiro™ da Extensão OSU
-
 # Cestos Suspensos
 
 ### Visão Geral
@@ -61,7 +59,6 @@ Para manter tudo bonito durante a estação, retire flores murchas (deadhead) pe
 
 Muitas plantas se dão bem em cestos suspensos sazonais. As abaixo são apenas algumas das muitas opções possíveis. Veja que algumas vão bem tanto no sol quanto na sombra.
 
-#### Plantas Eretas para Sol
 
 - Angelônia
 - Cordyline
@@ -71,7 +68,6 @@ Muitas plantas se dão bem em cestos suspensos sazonais. As abaixo são apenas a
 - Gerânio
 - Gramíneas ornamentais
 
-#### Plantas Eretas para Sombra
 
 - Heliotrópio
 - Coleus de sombra
@@ -82,7 +78,6 @@ Muitas plantas se dão bem em cestos suspensos sazonais. As abaixo são apenas a
 - Impatiens da Nova Guiné
 - Begônia tuberosa
 
-#### Plantas em Touceiras para Sol
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ Muitas plantas se dão bem em cestos suspensos sazonais. As abaixo são apenas a
 - Petúnia fantasia
 - Begônia fibrosa
 
-#### Plantas em Touceiras para Sombra
 
 - Gerânio
 - Nemesia
@@ -99,7 +93,6 @@ Muitas plantas se dão bem em cestos suspensos sazonais. As abaixo são apenas a
 - Impatiens
 - Lobélia ereta
 
-#### Plantas Pendente para Sol
 
 - Anagalis
 - Alyssum
@@ -111,7 +104,6 @@ Muitas plantas se dão bem em cestos suspensos sazonais. As abaixo são apenas a
 - Lamium
 - Planta de alcaçuz
 
-#### Plantas Pendentes para Sombra
 
 - Lotus vine
 - Million bells
@@ -134,15 +126,9 @@ Existem tantos livros sobre cestos suspensos que é difícil sugerir apenas algu
 - *Gardening in Containers* (Sunset)
 - *Pots in the Garden* de Ray Rogers
 
-#### Dicas do Mestre Jardineiro™
 
 - **Ligue para a Linha Direta de Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para mais folhetos do 10-Minute University™ e agenda de aulas, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

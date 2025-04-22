@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
----
-
 ## Mga Peste at Sakit tuwing Tagsibol
 
 ### Pinsala ng Taglamig (Pangkapaligiran)
@@ -123,12 +119,3 @@ Isang fungal pathogen, *Calonectria pseudonaviculata*. Maaari ring makaapekto sa
 
 **Solusyon:**  
 Iwasan ang pagputol ng sanga kapag maulan; alisin at sunugin ang mga patay na dahon at tira-tirang halaman; linisin ang mga gamit sa pagputol; iwasang magdilig mula sa itaas; i-espasyo at bawasan ang tanim (tuwing taglagas kapag tuyo ang panahon) para sa maayos na daloy ng hangin. Isaalang-alang ang paggamit ng Japanese holly (*Ilex crenata*) bilang alternatibo.
-
----
-
-#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ na polyeto at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang may-asawa, katayuang pampamilya/magulang, kita mula sa programang pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

@@ -1,5 +1,3 @@
-#### 10분 대학™ · 클래커머스 카운티 마스터 가드너 협회 · OSU 익스텐션 마스터 가드너™ 프로그램과 협력 및 지원
-
 # 최고의 벌꽃 — 원예 연구로 입증됨
 
 이 목록은 캘리포니아 대학교의 Dr. Gordon Frankie와 동료들이 벌을 가장 잘 끌어들이는 식물로 입증한 식물들을 포함합니다[^1]. 오리건 주 토종 벌을 끌어들이는 오리건 토종 식물은 오리건 주립대학교 Aaron Anderson 연구팀의 연구를 기반으로 합니다[^2]. 출처: Frankie 외 공저 *California Bees & Blooms*, blogs.oregonstate.edu/gardenecologylab/[^3].

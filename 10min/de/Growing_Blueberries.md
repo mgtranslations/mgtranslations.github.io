@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Blaubeeren anbauen
 
 ### Warum Blaubeeren anbauen?
@@ -38,7 +36,6 @@
 - **Sorten**: Ammoniumsulfat, Harnstoff, Rhododendrondünger, Federmehl, Baumwollsamen- oder Sojamehl.
 - **Anwendung**: Verteile den Dünger gleichmäßig im Bereich 30 bis 45 cm um jede Pflanze, nicht direkt auf die Basis oder die Stängel.
 
-#### Stickstoffmenge (N) nach Pflanzalter
 
 | Pflanzjahr | Menge N (in Unzen) pro Jahr |
 |------------|-----------------------------|
@@ -54,7 +51,6 @@
 - **Zeitpunkt**: Teile die Gesamtmenge an N in drei gleiche Portionen, die erste Mitte April, die zweite Mitte Mai, die letzte Mitte bis Ende Juni ausbringen.
 - **Frischer Sägemehlmulch**: Streue den Dünger auf den Mulch, erhöhe die Gesamtmenge aber um 25 %.
 
-#### Berechnung der Düngermenge
 
 So berechnest du, wie viel Produkt du verwenden musst:
 - Teile die empfohlene N-Menge durch den Prozentsatz N im gewählten Dünger.
@@ -87,10 +83,3 @@ So berechnest du, wie viel Produkt du verwenden musst:
 - [Beerenanbau an der Oregon-Küste: Blaubeeren EM9179](https://catalog.extension.oregonstate.edu/)
 - [Schnittmodul](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Bodensäuerung für Blaubeeren und Zierpflanzen im Garten EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Master Gardener™ Beratung · Rufe die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere Handouts und Stundenpläne der 10-Minuten-Universität™ findest du unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus staatlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien wegen vorheriger Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

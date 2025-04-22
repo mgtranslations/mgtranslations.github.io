@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ururka Beeraleyda Sare ee Clackamas County oo kaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Sida Loola Tacaalo Gophers
 
 ### Hordhac
@@ -16,13 +14,11 @@ Gophers-ku waxay ku noolyihiin nidaam godad ah oo dabooli kara aag u dhexeeya 20
 
 Gophers-ka jeebka leh waxaa la xakameyn karaa waqti kasta oo sanadka ah, balse isticmaalka dabinada ama sunta ayaa ugu waxtar badan marka buuraha cusub ee ciidda la arko, taasoo inta badan dhacda guga iyo dayrta. Labada dabin iyo sunba waa waxtar leh.
 
-#### Dabinada
 
 - Noocyo badan oo dabino loogu talagalay gophers ayaa si fudud loo heli karaa waana fudud yihiin in la isticmaalo. Waxaad ku rakibi kartaa tuubada qalloocan ee buurta u dhow, balse waxay ka waxtar badan tahay in lagu rakibo jidka weyn.
 - Jidka weyn ka raadi adigoo qodaya qiyaastii hal foot meel buurta ka durugsan. Wixii faahfaahin ah ee ku saabsan sida loo helo godadka, eeg *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands*, oo bilaash laga heli karo [OSU Extension Catalog](http://extension.oregonstate.edu/catalog).
 - Laba dabin is-barkaan u dhig jidka qotada dheer, adigoo dhulka ku xidhaya. Haddii waxba lagu qaban waayo 2 ama 3 maalmood gudaheed, meel kale u rar.
 
-#### Isticmaalka Sunta
 
 - Ku rid sunta godadka waaweyn sida ku cad tilmaamaha sumadda. Tuubada ku hel godka, kadibna sunta ka dhig daloolkaad qoday.
 - Hab kale waa in aad godka si toos ah uga furto fara-gacmeed, kadibna sunta toos ugu dhig jidka weyn.
@@ -30,11 +26,9 @@ Gophers-ka jeebka leh waxaa la xakameyn karaa waqti kasta oo sanadka ah, balse i
 - Ka hubi aagga si joogto ah laba toddobaad kadib daaweynta, una tuur meydadka aad hesho.
 - **Muhiim:** Haddii aan si taxadar leh loo raacin tilmaamaha sumadda, waxaa dhaawacmi kara xayawaanka aan la beegsan, xayawaanka guriga, ama carruurta. Sunta u isticmaal xalka ugu dambeeya.
 
-#### Qiiqa (Fumigants)
 
 - Qiiqa, oo mararka qaar loo yaqaan “gopher gassers,” badanaa ma waxtar badanayn ilaa ciidda si wanaagsan ugu qoyan tahay ama ay tahay dhoobo cufan.
 
-#### Ka Xiridda
 
 - Xayndaab dhulka hoostiisa la geliyo waxaa laga yaabaa inuu qiimo leeyahay haddii aad rabto in aad ka ilaaliso geedaha quruxda badan ama geedaha muuqaalka leh.
 - Si aad u ilaaliso dhirta jirta, gali shabaq bir ah ama silig ¾-inch ah ugu yaraan 2 feet oo qoto dheer, adigoo 6 inch oo kale u leexinaya siligga si uu uga jeesto dhirta.
@@ -45,15 +39,12 @@ Gophers-ka jeebka leh waxaa la xakameyn karaa waqti kasta oo sanadka ah, balse i
 - Isticmaal silig khafiif ah oo kaliya geedaha ama geedaha u baahan ilaalin intay yaryihiin. Ka tag meel ku filan oo xididdadu ugu koraan. Siligga galvanized-ka ah ayaa leh ilaalinta ugu dheer.
 - Lix ilaa siddeed inch oo dhagax weyn (hal inch ama ka weyn) oo lagu wareejiyo tuubooyinka waraabka ama fiilooyinka dhulka hoostiisa ayaa sidoo kale ka hortagi kara gophers-ka.
 
-#### Xakameynta Dabiiciga ah
 
 - Duurjoogta sida baloogyada, abeesooyinka, bisadaha, eeyaha, iyo yeyda ayaa laga yaabaa inay yareeyaan tirada gophers-ka, balse mar walba kuma filna.
 
-#### Daadinta
 
 - Gophers-ka jeebka leh way adkeysan karaan waraabka caadiga ah ee beerta ama degaanka guriga, balse mararka qaar daadinta ayaa ka saari karta godadka, taasoo u fududaynaysa in ugaarsato xayawaanka kale.
 
-#### Hababka aan Waxtarka Lahayn
 
 - Qalabyo badan ayaa sheegta inay cabsi geliyaan gophers-ka jeebka leh—sida ulaha gariira, aaladaha dhawaaqa sare leh, iyo dabaysha wareegta. Si kastaba ha ahaatee, xayawaankan kuma cabsadaan si fudud, sababtoo ah waxay si joogto ah ula qabsadaan dhawaqa iyo gariirka ka yimaada waraabka, mishiinka cawska, baabuurta, iyo dadka socda.
 - Hababka kale ee aan waxtarka lahayn waxaa ka mid ah in la dhigo cunto sonkor ah ama daawo laxoox ah (laxatives) godadka si loo dilo gophers-ka.
@@ -66,15 +57,9 @@ Kuwani waa qaar ka mid ah ilo badan oo la heli karo:
   - *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands* (PNW 627E)
   - *Sustainable Gardening* (EM8742)
 
-#### Talooyinka Master Gardener™
 
 - **La xiriir Khadka Caawinta Beeraleyda Guriga:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Si aad u hesho warqadaha casharrada 10-Minute University™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Adeegga Ballaarinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka uu bixiyo, iyadoo aan loo eegayn jinsiyadda, midabka, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaalada ciidamada, aargoosi ama ciqaab la xiriirta hawlo hore ee xuquuqda madaniga. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

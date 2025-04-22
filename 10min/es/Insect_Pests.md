@@ -1,7 +1,3 @@
-#### 10-Minute University™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU
-
----
-
 ## Plagas de Insectos
 
 ### Resumen
@@ -18,7 +14,6 @@ A menudo es difícil identificar al culpable del daño en las plantas porque muc
 
 Afortunadamente, los hábitos de alimentación de los insectos pueden dar pistas útiles. Los insectos se distinguen por su método de alimentación: **masticadores/raspadores** o **chupones-perforadores**.
 
-#### Insectos Masticadores/Raspadores
 
 Los insectos masticadores o raspadores tienen piezas bucales que pueden hacer agujeros en hojas, brotes, raíces, semillas, frutos o partes leñosas de las plantas. Ejemplos incluyen:
 
@@ -26,7 +21,6 @@ Los insectos masticadores o raspadores tienen piezas bucales que pueden hacer ag
 - **Alimentadores de flores, frutos y semillas**: Moscas de la fruta, mosquitos, avispas amarillas, avispas, polilla de la manzana, gusanos de la mazorca de maíz, gorgojos de semillas.
 - **Plagas estructurales**: Hormigas carpinteras, termitas, escarabajos polvorientos.
 
-#### Insectos Chupones-Perforadores
 
 Los insectos chupadores-perforadores no solo dañan las plantas al alimentarse, sino que a veces inyectan sustancias tóxicas que causan síntomas desde simples manchas en las hojas hasta daño extenso en toda la planta. Las manchas ocurren cuando el clorofila es destruida por las piezas bucales chupadoras. Ejemplos incluyen:
 
@@ -92,12 +86,3 @@ El Manejo Integrado de Plagas es un enfoque sistemático y holístico que contro
 - **Insectos del Jardín** de Crenshaw, 2004
 - **Publicaciones de Extensión de la Universidad Estatal de Oregón**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Jardinería Orgánica de Rodale: Controlando Plagas y Enfermedades**, Rodale Publishing, 1994
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda de horticultura en casa: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos y horarios de clases de 10-Minute University™, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingreso derivado de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

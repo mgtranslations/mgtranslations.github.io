@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Growing Blueberries
 
 ### Why Grow Blueberries?
@@ -38,7 +36,6 @@
 - **Types**: Ammonium sulfate, urea, rhododendron food, feather meal, cottonseed, or soybean meal.
 - **Application**: Sprinkle the fertilizer evenly within 12 to 18 inches of each plant, not directly on the crown or stems.
 
-#### Rate of Nitrogen (N) per Planting Age
 
 | Planting Year | Rate of N (in ounces) per Year |
 |---------------|-------------------------------|
@@ -54,7 +51,6 @@
 - **Timing**: Divide the total amount of N into three equal portions, applying the first in mid-April, the second in mid-May, and the last in mid- to late-June.
 - **Fresh sawdust mulch**: Apply the fertilizer on top of the mulch, but add 25% to the total rate.
 
-#### Calculating Fertilizer Amount
 
 To calculate how much product to use:
 - Divide the recommended rate of N by the percent N in the fertilizer you choose.
@@ -87,9 +83,3 @@ To calculate how much product to use:
 - [Growing Berries on the Oregon Coast: Blueberries EM9179](https://catalog.extension.oregonstate.edu/)
 - [Pruning Module](https://workspace.oregonstate.edu/course/pruning-blueberries?hsLang=en)
 - [Acidifying Soil for Blueberries and Ornamental Plants in the Yard and Garden EC1560e](https://catalog.extension.oregonstate.edu/)
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

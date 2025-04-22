@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Xirfadlayaasha ah ee Oregon – Laanta Clackamas · Iyadoo la kaashanayo Adeegga Kordhinta Jaamacadda Oregon State
-
 # Beerashada Carruurta Da’doodu Tahay 11-14
 
 Beerashada la wadaagta carruurta da’doodu u dhaxayso 11 ilaa 14 waa mid xiiso leh oo faa’iido u leh labadaba carruurta iyo dadka waaweyn. Waxay carruurta ka fogeysaa kombiyuutarada iyo shaashadaha kale, waxay kicisaa mala-awaalka, waxayna yareysaa walbahaarka iyo welwelka. Carruurta da’dan waxay u diyaarsan yihiin jir ahaan inay qabtaan shaqooyin beereed oo ballaaran waxayna xiisayn doonaan inay sahamiyaan dhismayaasha beerta sida dhisidda tiirar geedo lagu xiro ama sariir beero kor loo qaado. Waxqabadyadani waxay badbaadiyaan meel, waxay bixiyaan iftiin qorraxeed iyo carrada ugu fiican, waana kuwo aad ugu dhiirigeliya carruurta.
@@ -72,12 +70,3 @@ Waxaa jira buugaag sawir leh iyo kuwa waxbarid ah oo badan oo ku saabsan beerash
 ## Khayraad Jaamacadda Oregon State
 
 - [Tilmaamaha Barayaasha ee Beerashada Khudaarta](https://catalog.extension.oregonstate.edu/em9032)
-
----
-
-#### Talooyinka Beeralayda Xirfadlayaasha ah™ · Wac Khadka Caawinta Beeraha ee Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado iyo jadwalka fasallada ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa iyadoo lagu saleynayo midab, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jaceylka, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda halgamaha, aargudasho, ama ciqaab loo geystay la dagaalanka xuquuqda madaniga ah ee hore. (Dhammaan sababaha mamnuuca ah lama khuseeyo dhammaan barnaamijyada.)
----

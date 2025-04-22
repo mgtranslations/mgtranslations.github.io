@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien avec le programme des Maîtres Jardiniers™ de l’OSU Extension
-
 # Annuelles, Bisannuelles et Vivaces
 
 ### Aperçu
@@ -141,12 +139,3 @@ De nombreux livres sur la culture des annuelles, bisannuelles et vivaces sont di
 - *Le Jardin Vivace Bien Entretenu* par Tracy DiSabato-Aust
 - *Sunset Western Garden Book*
 - *The AHS A-Z Encyclopedia of Garden Plants*
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression du genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, du revenu provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou des représailles pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

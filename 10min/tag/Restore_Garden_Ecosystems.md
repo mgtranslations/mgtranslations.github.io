@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang ng at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Ibalik ang Likas na Ekosistema sa mga Hardin sa Lungsod
 
 Ang mabilis na paglaki ng populasyon ng tao sa mga urban na lugar ay kadalasang nagdudulot ng pag-unlad at pagpapalawak ng mga daanan ng transportasyon na nagpuputol-putol sa mga likas na tanawin at ekosistema. Nasisira nito ang mga natural na proseso at nababawasan ang kakayahan ng mga ekosistema na bawasan ang epekto ng bagyo, baha, wildfire, matinding init, at tagtuyot. Nagdudulot din ito ng pagkawala ng tirahan para sa mga pollinator, paniki, ibon, at palaka. (Hardy et al. 2022)
@@ -70,8 +68,3 @@ Magbigay ng tahanan para sa iba’t ibang uri ng hayop na kumakain, naglalagi, a
 - **Mga Pahina tungkol sa Climate Resilience:** Mga Ekosistema, Lupa, Damuhan, Tubig, Halaman.
 - **Mga Sanggunian sa Katutubong Halaman:** Paggamit ng Katutubong Halaman sa Iyong Hardin, Portland Plant List, Backyard Habitat Program.
 - **Iba pang Gabay:** Firewise Landscapes, Integrated Pest Management para sa mga Home Garden, Pagdagdag ng Bioswale, Pagdagdag ng Rain Garden.
-
----
-
-###### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, gawain, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan sa kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan sa pamilya/magulang, kita mula sa programa ng pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti o paghihiganti sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

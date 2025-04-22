@@ -1,7 +1,3 @@
-#### 10-Minute University™ · Koom Haum Tswj Kawm Ua Vaj Tshiab Clackamas County koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
-
----
-
 ## Kab Tsiaj Ua Phem
 
 ### Saib Dav
@@ -18,7 +14,6 @@ Feem ntau nyuaj heev los paub tias dab tsi ua rau cov nroj tsuag puas vim ntau h
 
 Qhov zoo ces, txoj kev noj mov ntawm kab tsiaj tej zaum yuav muab tau ib co cim qhia. Kab tsiaj txawv los ntawm lawv txoj kev noj mov: **zom/khawb** lossis **ntxiv-hlais-nqus**.
 
-#### Kab Tsiaj Zom/Khawb
 
 Kab tsiaj zom/khawb muaj qhov ncauj uas zom tau qhov hauv nplooj, paj, cag, noob, txiv hmab txiv ntoo, lossis tej ntoo. Piv txwv muaj:
 
@@ -26,7 +21,6 @@ Kab tsiaj zom/khawb muaj qhov ncauj uas zom tau qhov hauv nplooj, paj, cag, noob
 - **Kab noj paj, txiv hmab txiv ntoo, thiab noob**: Kab fruit flies, kab midges, kab yellow jackets, kab hornets, kab codling moth, kab corn earworms, kab seed weevils.
 - **Kab ua puas tsev**: Kab carpenter ants, kab termites, kab powderpost beetles.
 
-#### Kab Tsiaj Ntshiv-Hlais-Nqus
 
 Kab tsiaj ntshiv-hlais-nqus tsis tsuas yog ua rau nroj tsuag puas ncaj qha los ntawm kev noj, tab sis qee zaum lawv tseem txhaws tshuaj lom uas ua rau nplooj muaj kab cim los mus puas tag nrho cov nroj tsuag. Txheej kab cim thiab kab cim me me tshwm sim thaum chlorophyll raug rhuav tshem los ntawm qhov ncauj nqus. Piv txwv muaj:
 
@@ -92,12 +86,3 @@ Kev Tswj Kab Tsiaj Sib Xws yog ib txoj kev ua haujlwm zoo thiab saib xyuas txhua
 - **Garden Insects** los ntawm Crenshaw, 2004
 - **Oregon State University Extension Publications**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam 10-Minute University™ ntawv qhia thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub ua qhov kev ntxub ntxaug hauv txhua yam kev pab cuam, kev pab, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, tebchaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev ua niam txiv, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim, lossis kev raug pauj vim ua kev ua raws cai. (Tsis yog txhua yam txwv no siv rau txhua yam kev pab cuam.)
----

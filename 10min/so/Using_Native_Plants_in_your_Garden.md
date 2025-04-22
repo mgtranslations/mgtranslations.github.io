@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Clackamas County oo iskaashanaya lana shaqeynaya Barnaamijka OSU Extension Master Gardener™
-
 # Isticmaalka Dhirta Dabiiciga ah ee Beertaada
 
 ### Hordhac
@@ -69,8 +67,3 @@ Khabiirada beeraleyda iyo naqshadeeyayaasha beerta ayaa soo xulay dhir tayo sare
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Daraasadda Quruxda Dhirta Dabiiciga ah – Liiska Dhirta**, 10-Minute University™ warqad  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Ballaarinta Jaamacadda Gobolka Oregon waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ay bixiso, iyadoo aan loo eegin jinsiyadda, midabka, asalka dalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhliga laga helo barnaamijka gargaarka dadweynaha, caqiidada siyaasadeed, xogta hiddo-sideyaasha, xaaladda ciidanimada, aargudasho ama ciqaab la xiriirta hawlo hore oo xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

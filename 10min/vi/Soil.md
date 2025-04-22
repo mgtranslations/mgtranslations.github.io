@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Gia của OSU Extension
-
 ## Làm Vườn Chống Chịu Tốt Hơn Với Biến Đổi Khí Hậu: Đất
 
 Trái đất đang trải qua xu hướng ấm lên dẫn đến băng tan, mực nước biển dâng, axit hóa đại dương tăng và hạn hán, lũ lụt xảy ra thường xuyên và nghiêm trọng hơn. Khu vực Tây Bắc Thái Bình Dương đã chứng kiến hạn kéo dài, cháy rừng tăng cả về số lượng và mức độ, các đợt nắng nóng, sâu bệnh và các bệnh cây gia tăng. Tuyết ít đi làm cho các dòng sông và suối đạt đỉnh sớm hơn, dẫn đến nguồn nước bị giảm. Ngoài những thay đổi này, biến đổi khí hậu còn đem đến các hiện tượng thời tiết cực đoan, thất thường (như nắng nóng, mưa lớn) với tần suất cao hơn.
@@ -61,8 +59,3 @@ Chúng ta nên làm vườn như thế nào trong thời điểm hiện tại? T
 - [Bí Mật Của Một Hệ Sinh Thái Sống, Đại học Bang Oregon EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Lưu Trữ Cacbon Trong Đất, Hiệp hội Sinh thái Hoa Kỳ](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. và cộng sự. *Sinh khối rễ cây và chất tiết rễ liên kết đa dạng thực vật với sinh khối vi khuẩn, nấm đất.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, xuất xứ quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, độ tuổi, tình trạng hôn nhân, gia đình/con cái, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả thù, trả đũa liên quan đến hoạt động dân quyền trước đó. (Không phải tất cả căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

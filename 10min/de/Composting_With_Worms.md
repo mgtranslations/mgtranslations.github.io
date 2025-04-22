@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Kompostieren mit Würmern
 
 Eine Wurmtonne ist eine einfache Möglichkeit, Küchenabfälle in Dünger und Bodenverbesserer für deinen Garten zu verwandeln. Kompostwürmer sind fleißige Recycler, die Apfelschalen, Zucchinistiele und andere Küchenabfälle in nur wenigen Monaten umwandeln. Gib ihnen ein Zuhause mit Einstreu und Futter, und sie legen direkt los.
@@ -32,7 +30,6 @@ Würmer können in 24 Stunden die Hälfte ihres eigenen Gewichts an Futter fress
 
 Auch wenn Würmer fast jede Art von organischem Abfall zersetzen können, ist es am besten, sie wie Vegetarier zu behandeln.
 
-#### Das solltest du füttern:
 
 - Gemüseabfälle
 - Kaffeesatz & Filter
@@ -43,7 +40,6 @@ Auch wenn Würmer fast jede Art von organischem Abfall zersetzen können, ist es
 - Tierhaare
 - Zerrissenes Papier
 
-#### Das solltest du NICHT füttern:
 
 - Fleisch, Fisch, Milchprodukte
 - Fettige oder ölige Speisen
@@ -73,7 +69,6 @@ Kompostwürmer brauchen das ganze Jahr über feuchte Bedingungen, da sie – and
 
 ### Mögliche Probleme und Lösungen
 
-#### Geruch
 
 Du kannst Gerüche vermeiden, indem du:
 
@@ -81,7 +76,6 @@ Du kannst Gerüche vermeiden, indem du:
 - Die Abfälle, die unter „Das solltest du NICHT füttern“ stehen, weglässt
 - Frische Einstreu regelmäßig hinzufügst
 
-#### Schädlinge
 
 - **Essigfliegen:** Manchmal tauchen sehr kleine Essigfliegen (oft mit Fruchtfliegen verwechselt) auf, sie sind aber harmlos. Sehr viele Essigfliegen deuten darauf hin, dass du zu viel fütterst. Um Essigfliegen loszuwerden:
   - Füttere nur so viel, wie die Würmer an einem Tag schaffen.
@@ -104,12 +98,3 @@ Du kannst Gerüche vermeiden, indem du:
   [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Worms Eat My Garbage**, Mary Appelhof, Zweite Auflage
 - **Welcome to the Can-O-Worms**, N. Nattrass
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Merkblätter und Kurspläne besuche [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkünften aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien wegen früherer Aktivitäten im Bereich der Bürgerrechte. (Nicht alle genannten Punkte gelten für alle Programme.)
----

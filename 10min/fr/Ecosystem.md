@@ -1,5 +1,3 @@
-#### Université en 10 minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme Maître Jardinier™ de l’Extension OSU
-
 ## Rendez votre jardin plus résilient face au climat : Écosystème
 
 La Terre connaît une tendance au réchauffement qui entraîne la fonte des glaciers, l’élévation du niveau de la mer, une acidité accrue des océans et des sécheresses et inondations plus fréquentes et plus graves. Le Nord-Ouest Pacifique a connu des sécheresses prolongées, une augmentation de l’incidence et de la gravité des incendies de forêt, des vagues de chaleur, des invasions d’insectes et des maladies des arbres. La diminution du manteau neigeux entraîne des crues de rivières et de ruisseaux plus précoces et réduit les réserves d’eau. En plus de ces tendances, le changement climatique apporte des événements météorologiques extrêmes et imprévisibles (vagues de chaleur, fortes pluies) plus fréquents.  
@@ -75,8 +73,3 @@ Certains animaux peuvent avoir une aire de vie adaptée à votre jardin. Exemple
 ### Réensauvagement
 
 Le réensauvagement s’applique en général à de grandes zones, avec pour objectif de restaurer les fonctions écologiques. Certains principes peuvent s’adapter aux jardins particuliers. [En savoir plus sur le réensauvagement](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
-
----
-
-#### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans l’ensemble de ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou des représailles pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

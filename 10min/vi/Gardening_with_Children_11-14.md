@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Oregon™ – Chi nhánh Quận Clackamas · Phối hợp cùng Dịch vụ Khuyến nông Đại học Bang Oregon
-
 # Làm Vườn Cùng Trẻ Em Từ 11-14 Tuổi
 
 Làm vườn cùng trẻ em từ 11 đến 14 tuổi có thể rất thú vị và bổ ích cho cả trẻ em lẫn người lớn. Việc này giúp các em rời xa máy tính và thời gian trước màn hình, khơi gợi trí tưởng tượng và giảm căng thẳng, lo âu. Trẻ ở độ tuổi này đã sẵn sàng về thể chất để làm những công việc làm vườn lớn hơn và sẽ thích khám phá các công trình trong vườn, như xây dựng giàn leo hoặc luống vườn nâng. Những hoạt động này tiết kiệm diện tích, mang lại ánh sáng mặt trời và đất tốt hơn, đồng thời giúp các em cảm thấy tự tin và làm chủ.
@@ -72,12 +70,3 @@ Có rất nhiều sách tranh và sách hướng dẫn tuyệt vời về làm v
 ## Tài Nguyên Đại học Bang Oregon
 
 - [Hướng Dẫn Giáo Viên Làm Vườn Rau](https://catalog.extension.oregonstate.edu/em9032)
-
----
-
-#### Tư Vấn Làm Vườn Chuyên Gia™ · Gọi Đường Dây Trợ Giúp Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm cả thể hiện giới tính), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

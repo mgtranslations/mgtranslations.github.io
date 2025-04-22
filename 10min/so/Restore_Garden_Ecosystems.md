@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ururka Clackamas County Master Gardener oo iskaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Soo Celinta Deegaannada Dabiiciga ah ee Beerooyinka Magaalooyinka
 
 Kobaca degdega ah ee aadanaha ee magaalooyinka wuxuu sababaa dhisidda iyo ballaarinta shabakadaha gaadiidka taasoo kala jebisa dhulka iyo deegaannada dabiiciga ah. Tani waxay carqaladeyneysaa hababka dabiiciga ah waxayna yaraysaa awoodda deegaannada ee ay ku yareyn karaan saameynta duufaannada, fatahaadaha, dabka duurjoogta ah, hirarka kulaylka, iyo abaaraha. Sidoo kale waxay keentaa lumis deegaan oo ay u baahan yihiin cayayaanka dhirta bacrimisa, bakaylaha, shimbiraha, iyo amfibiyaannada. (Hardy et al. 2022)
@@ -70,8 +68,3 @@ Bixi hoyooyin loogu talagalay noocyo kala duwan oo duurjoog ah kuwaasoo cunto ka
 - **Warqadooyinka Adkeysiga Cimilada:** Deegaannada, Ciidda, Cawska, Biyaha, Dhirta.
 - **Kheyraadka Dhirta Asalka ah:** Isticmaalka Dhirta Asaliga ah ee Beertaada, Liiska Dhirta Portland, Barnaamijka Deegaanka Guryaha.
 - **Warqado Kale:** Muuqaalka Dab-diidka ah ee Beerta, Maareynta Cayayaanka si Wadajir ah ee Beerta Guryaha, Ku Darida Bioswale, Ku Darida Beerta Roobka.
-
----
-
-###### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabyadiisa oo dhan, iyadoo aan loo eegayn midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiyadeed (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidka, dakhliga laga helo barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda ciidanimada, ama aargoosi ama ciqaab la xiriirta waxqabad hore oo xuquuqda madaniga ah. (Dhammaan waxyaabaha mamnuuca ah lama dabaqayo barnaamijyada oo dhan.)
----

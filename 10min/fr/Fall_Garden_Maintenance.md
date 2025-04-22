@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration avec et en soutien du programme OSU Extension Master Gardener™
-
 # Entretien du jardin à l’automne
 
 ### Aperçu
@@ -76,10 +74,3 @@ L’automne est un bon moment pour ajouter de nouvelles plantations, déplacer o
 
 - **Service de vulgarisation de l’Université d’État de l’Oregon :**  
   [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
-
-#### Conseils de Maîtres Jardiniers™ · Appelez la ligne d’aide en horticulture à domicile : 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Pour les fiches de l’Université en 10 Minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org) · Retrouvez les Maîtres Jardiniers sur les marchés de producteurs locaux.
-
----
-
-##### Le Service de vulgarisation de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut marital, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, l’information génétique, le statut d’ancien combattant, les représailles ou les mesures de rétorsion à la suite d’une activité de droits civiques antérieure. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

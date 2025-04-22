@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Thành thạo Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Thành thạo của OSU Extension
-
 # Chất hữu cơ làm chất cải tạo đất vườn
 
 Chất cải tạo đất có thể cải thiện cấu trúc đất, tăng độ phì nhiêu và giữ nước tốt hơn. Các chất cải tạo nên có hàm lượng muối hóa học thấp và chứa đủ nitơ để nuôi cây và vi sinh vật đất. Để có lợi cho cây, hãy cải tạo toàn bộ luống trồng. Nếu điều đó không thực tế, hãy lấp lại hố trồng bằng đất tại chỗ. Việc chỉ thêm phân hữu cơ hoặc các chất cải tạo khác vào hố trồng sẽ tạo ra một lớp tiếp xúc giữa hai loại đất (đất cải tạo và đất tự nhiên), điều này cản trở sự di chuyển của không khí, nước và rễ cây.
@@ -117,8 +115,3 @@ Không còn được khuyến khích do gây hại môi trường trong quá tr�
 
 **Lập kế hoạch:** Để thành công, cần gieo và tiêu hủy cây che phủ đúng thời điểm để tránh cạnh tranh với rau màu.  
 [Cây che phủ cho vườn rau gia đình](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình / làm cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho mọi chương trình.)
----

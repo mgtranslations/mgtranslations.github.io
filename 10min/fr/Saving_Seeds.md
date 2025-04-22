@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Sauvegarder les graines
 
 ### Pourquoi collecter des graines ?
@@ -19,7 +17,6 @@ Il existe trois moyens de pollinisation : le vent, les insectes et les humains.
 - **Autopollinisation** : Plantes dont les fleurs possèdent à la fois les parties femelles et mâles. Cela inclut les tomates, haricots, laitues et aubergines.
 - **Pollinisation croisée** : Les plantes comme le concombre et la courge ont besoin du vent ou des insectes pour transporter le pollen des fleurs mâles vers les fleurs femelles sur la même plante ou sur une autre.
 
-#### Pollinisation manuelle pour les jardiniers amateurs
 
 Pour récolter des graines de plantes à pollinisation croisée :
 
@@ -38,7 +35,6 @@ Choisissez des plantes saines pour la récolte des graines. Pensez au goût, à 
   - Les concombres au stade comestible n’ont pas de graines mûres. La maturité arrive après la première gelée, comme pour les citrouilles et les courges d’hiver.
   - Récoltez les graines de fleurs lorsque les fleurs fanent et sèchent, ont des têtes gonflées sèches ou des gousses sèches qui commencent à s’ouvrir.
 
-#### La méthode sèche
 
 Les plantes à graines sèches incluent les pois, haricots, carottes, poivrons, et la plupart des fleurs et herbes.
 
@@ -50,7 +46,6 @@ Les plantes à graines sèches incluent les pois, haricots, carottes, poivrons, 
 **Remarque** :  
 - Les poivrons doivent être rouges/jaunes et ratatinés pour la récolte des graines. Portez des gants pour les poivrons forts !
 
-#### La méthode humide
 
 Les plantes avec des fruits charnus comme les tomates sont mieux traitées par fermentation :
 
@@ -91,10 +86,3 @@ Prévoyez d’utiliser vos graines dans les trois ans. Comme la viabilité et la
   - *Concepts de base de la production et de la régénération des graines*
 - Université du Maine, Publications Coopérative Extension : [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *Introduction à la sauvegarde des graines pour le jardinier amateur 2750e*
-
-#### Conseils du Maître Jardinier™ · Appelez la ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour les fiches et le planning des cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents en raison de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, du revenu provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, de représailles ou de mesures de rétorsion pour une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

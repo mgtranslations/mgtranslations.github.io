@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 # Grandes Escolhas de Plantas: Árvores
 
 **S:** Jardim de Sombra  
@@ -59,8 +57,3 @@ As plantas GPP selecionadas para esta lista atendem aos seguintes critérios:
 - Oferecem mais de uma estação de interesse no jardim.
 
 Muitas plantas GPP também trazem benefícios ecológicos, como apoiar polinizadores, fornecer alimento para pássaros e oferecer abrigo para a vida selvagem.
-
----
-
-#### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por participação anterior em atividades de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

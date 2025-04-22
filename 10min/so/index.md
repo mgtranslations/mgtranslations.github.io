@@ -116,5 +116,3 @@ Ilo Asal ah:
 
 - [Daboolka Dhirta: Wanaagga, Xumaanta, iyo Runtii, Runtii Foolxun. – Linda Chalker-Scott, PhD, WSU](Mulches.md)
 - [Kala soocista iyo Jarista Clematis – Linda Beutler](Clematis.md)
-
----

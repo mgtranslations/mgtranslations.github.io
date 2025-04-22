@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension
-
 # Làm Vườn Trên Đất Sét
 
 ### Giới Thiệu
@@ -39,34 +37,27 @@ Kết cấu đất phản ánh tỷ lệ cát, bùn, sét. Cấu trúc đất t�
 
 ### Khoa Học Đất Cho Biết Gì?
 
-#### Độ Phì Nhiêu
 - Đất sét giàu dinh dưỡng cho cây.
 - Hạt sét mang điện tích âm, giúp giữ các ion dương như canxi, kali, magie, sắt và các chất dinh dưỡng thực vật khác.
 
-#### Độ Thấm Nước
 - Đất ướt và đất kết cấu mịn (nhiều sét hoặc bùn) dễ bị nén chặt.
 - Đất bị nén có các cục đất bị dẹp, cản trở nước và rễ di chuyển.
 - Đất sét bị nén rất khó phục hồi.
 - Đất khỏe mạnh có nhiều khoảng trống giữa các cục đất (**khoảng trống lớn/macropores**) giúp nước, khí và rễ di chuyển dễ dàng. Nhiều khoảng trống lớn giúp đất thoát nước tốt hơn.
 
-#### Khả Năng Giữ Nước
 - Các lỗ nhỏ hay **khoảng trống nhỏ/micropores** (bên trong một cục đất) quyết định khả năng giữ nước của đất.
 
-#### Làm Xáo Trộn Đất
 - Đào xới đất phá vỡ các cục đất nhưng cũng đưa không khí vào các khoảng trống lớn.
 - Xới đất quá nhiều làm hỏng sợi nấm, giết chết tuyến trùng có lợi và thường khiến đất bị nén chặt.
 
-#### Sự Sống Trong Đất
 - Đất chứa rất nhiều sinh vật sống, nhiều loại có ích cho cây.
 - Đất giàu chất hữu cơ thường có nhiều vi sinh vật hơn.
 - Vi sinh vật đất hoạt động mạnh nhất ở nhiệt độ **21°C – 38°C (70°F – 100°F)**, giun đất hoạt động mạnh khoảng **10°C (50°F)**.
 
-#### Rễ Cây Và Chất Tiết Rễ
 - Rễ cây tiết ra một chất gọi là **chất tiết rễ (exudate)**, chứa đường, vitamin, oxy và các hợp chất khác.
 - Chất tiết rễ thu hút vi sinh vật tới gần rễ cây.
 - Nghiên cứu cho thấy thành phần chất tiết rễ thay đổi theo loài cây và ảnh hưởng đến cộng đồng nấm quanh rễ.
 
-#### Vi Sinh Vật Có Lợi
 - **Vi khuẩn Rhizobia** cố định đạm từ không khí cho cây sử dụng.
 - Tuyến trùng có lợi rất nhạy cảm với xáo trộn, nhiều con sẽ chết khi xới đất, làm ảnh hưởng toàn bộ mạng lưới thức ăn trong đất.
 - Nhiều loại nấm tạo quan hệ cộng sinh có lợi (**mycorrhizae**) với rễ cây.
@@ -77,37 +68,30 @@ Kết cấu đất phản ánh tỷ lệ cát, bùn, sét. Cấu trúc đất t�
 
 ### Cách Quản Lý Đất Sét
 
-#### Kiểm Tra Đất
 - Trước khi bổ sung chất, hãy kiểm tra đất.
 - Chỉ bón phân nếu kết quả kiểm tra cho thấy thiếu chất hoặc cây không phát triển tốt.
 - Nhớ rằng đất sét giàu dinh dưỡng.
 - Ở Thung lũng Willamette, hầu hết cây thân gỗ, cây bụi, và cây lâu năm không cần bón phân.
 
-#### Duy Trì Rễ Sống
 - Cây sống hấp thụ năng lượng mặt trời và nuôi dưỡng cộng đồng vi sinh vật đất qua chất tiết rễ.
 - Nghiên cứu cho thấy chất tiết rễ quyết định thành phần vi sinh vật trong đất.
 - Trồng đa dạng nhiều loại cây giúp tăng đa dạng sinh học đất, từ đó xây dựng đất khỏe mạnh.
 
-#### Hạn Chế Xáo Trộn
 - Mọi hoạt động xáo trộn đất (dẫm chân, đào, xới) đều có thể phá vỡ hoặc nén cục đất, giảm khoảng trống – rất quan trọng cho độ thấm nước và giữ nước.
 
-#### Luôn Phủ Đất
 - Phủ đất bằng vật liệu hữu cơ giúp điều hòa nhiệt độ, hạn chế bốc hơi nước và giảm cỏ dại.
 - Phủ hữu cơ sẽ phân huỷ, bổ sung chất hữu cơ cho đất.
   - Vật liệu thô cho phép không khí lưu thông, còn vật liệu đặc như bìa các tông hạn chế trao đổi khí.
   - Mùn gỗ từ thợ cắt tỉa cây (4-6 inch) là loại phủ đất tốt – vừa thông khí vừa phân hủy từ từ để bổ sung chất hữu cơ.
 
-#### Nuôi Vi Sinh Vật Đất
 - Chất hữu cơ (**OM**) là nền tảng của chuỗi thức ăn trong đất; bổ sung OM giúp nuôi vi sinh vật.
 - Chọn loại đã ủ hoai kỹ, không chứa muối hay kim loại nặng độc hại.
 - OM như lá ủ hoai, rác vườn có thể trộn vào đất hoặc phủ một lớp mỏng (1-2,5 cm) lên để tạo môi trường thuận lợi cho vi sinh vật phát triển.
 
-#### Tạo Luống Trồng Cho Mùa Này
 - Nếu cần luống mới cho rau hằng năm, hãy trộn OM đã ủ vào toàn bộ luống.
 - Điều này giúp đất dễ làm, tăng độ phì nhanh chóng.
 - Tuy nhiên, lợi ích này chỉ ngắn hạn do OM phân huỷ nhanh, dinh dưỡng không dùng hết sẽ bị rửa trôi, đất sẽ lún xuống.
 
-#### Thay Đổi So Với Trước Đây
 - Câu khẩu hiệu “Chỉ cần bổ sung chất hữu cơ!” như là giải pháp cho đất sét đã được điều chỉnh.
 - Trước đây, khuyến nghị ban đầu là bổ sung 5-10 cm OM, những lần sau giảm dần.
 - Nghiên cứu gần đây ở vườn đô thị nơi bổ sung OM nhiều năm cho thấy lượng photpho và OM quá cao.
@@ -119,7 +103,6 @@ Kết cấu đất phản ánh tỷ lệ cát, bùn, sét. Cấu trúc đất t�
 
 ### Tìm Hiểu Thêm Về Đất
 
-#### Ấn Phẩm
 
 **Ấn phẩm của Đại học Bang Oregon**
 - [Hướng dẫn lấy mẫu đất, EC628](https://catalog.extension.oregonstate.edu/)
@@ -135,7 +118,6 @@ Kết cấu đất phản ánh tỷ lệ cát, bùn, sét. Cấu trúc đất t�
 **Giải mã những lầm tưởng về đất cho giáo viên Extension**  
 [Xem xét tài liệu về cấu trúc và chức năng đất](https://www.nacaa.com/journal/index.php?jid=1024)
 
-#### Video
 
 - [Phủ đất: Tốt, xấu và cực kỳ xấu](https://www.youtube.com/watch?v=NXL9n2KNm1E)
 - [Hướng dẫn lấy mẫu đất tại nhà, Đại học Bang Washington](https://www.youtube.com/watch?v=0tRQUPDRiDU)
@@ -143,12 +125,6 @@ Kết cấu đất phản ánh tỷ lệ cát, bùn, sét. Cấu trúc đất t�
 - [Những người chăn bò carbon trên đất](https://www.youtube.com/watch?v=ZGvVli0OTrQ)
 - [Từ bụi đất thành đất tốt](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)
 
-#### Trang Web
 
 - [Web Soil Survey](http://www.websoilsurvey.sc.egov/)
 - [Tài liệu và video Đại học 10 Phút™](http://www.cmastergardeners.org/10-minute-university)
-
----
-
-###### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm diễn đạt giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc đáp trả do đã thực hiện quyền dân sự trước đó. (Không phải tất cả căn cứ bị cấm đều áp dụng cho mọi chương trình).
----

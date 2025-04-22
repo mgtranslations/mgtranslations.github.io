@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Paillis : Les bons, les mauvais et les vraiment, vraiment affreux
 
 **Dr Linda Chalker-Scott**  
@@ -150,30 +148,25 @@ Université d'État de Washington
 
 ### Problèmes avec les paillis de bois grossiers
 
-#### Paillis d'écorce
 
 - Peut être contaminé par du sel ou des graines de mauvaises herbes
 - L'écorce contient des cires qui empêchent l'absorption et la libération de l'eau dans le sol
 - Les paillis d'écorce de résineux sont souvent désagréables à manipuler à cause de petites fibres pointues
 
-#### Copeaux de bois d'arboriste
 
 - Inquiétudes concernant le rapport carbone/azote élevé – cela provoque-t-il une carence en azote ?
 - Le bois malade transmettra-t-il des pathogènes s'il est utilisé en copeaux ?
 
-#### Disponibilité de l'azote
 
 - Les paillis de copeaux de bois ont un rapport C:N élevé, entraînant une carence en azote localisée à la surface du sol
 - Les paillis de copeaux de bois ne causent pas de carence en azote chez les plantes déjà établies
 - Le rapport C:N élevé des copeaux de bois empêche probablement la germination de certaines graines de mauvaises herbes
 
-#### Pathogènes fongiques et copeaux de bois
 
 - Armillaria, Cytospora, Thyronectria et Verticillium peuvent survivre sur de gros morceaux de bois pendant des mois
 - La survie est améliorée si les copeaux de bois sont incorporés dans le sol
 - Aucune preuve que les pathogènes du paillis infectent les racines sous la surface du sol
 
-#### Communautés fongiques dans les copeaux de bois
 
 - Les espèces de champignons dans les copeaux de bois sont généralement des décomposeurs, pas des pathogènes
 - Dans les sols sains (aérobiques), les champignons bénéfiques surpassent probablement les champignons pathogènes
@@ -230,12 +223,3 @@ Blog : http://www.gardenprofessors.com
 Livres : http://www.sustainablelandscapesandgardens.com  
 Page Facebook : http://www.facebook.com/TheGardenProfessors  
 Groupe Facebook : https://www.facebook.com/groups/GardenProfessors/
-
----
-
-#### Conseil Maître Jardinier™ · Appelez la ligne d'aide horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d'autres fiches et horaires de cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Service d'extension de l'Université d'État de l'Oregon · Le service d'extension de l'Université d'État de l'Oregon interdit toute discrimination dans l'ensemble de ses programmes, services, activités et supports sur la base de la race, de la couleur, de l'origine nationale, de la religion, du sexe, de l'identité de genre (y compris l'expression de genre), de l'orientation sexuelle, du handicap, de l'âge, de l'état matrimonial, du statut familial/parental, du revenu provenant d'une aide publique, des opinions politiques, des informations génétiques, du statut d'ancien combattant, des représailles ou des mesures de rétorsion pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s'appliquent pas à tous les programmes.)
----

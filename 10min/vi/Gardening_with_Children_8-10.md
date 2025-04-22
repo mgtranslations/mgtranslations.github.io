@@ -1,5 +1,3 @@
-#### Đại Học 10 Phút™ · Hiệp Hội Làm Vườn Chuyên Nghiệp Oregon – Chi Nhánh Quận Clackamas · Hợp tác với Dịch Vụ Mở Rộng Đại Học Bang Oregon
-
 # Làm Vườn Cùng Trẻ Em Từ 8-10 Tuổi
 
 ### Tại Sao Nên Làm Vườn Cùng Trẻ Em?
@@ -21,14 +19,12 @@ Làm vườn với trẻ em từ 8 đến 10 tuổi đặc biệt bổ ích vì 
 
 Trẻ trong độ tuổi này sẽ có ý tưởng về những loại cây mà chúng muốn trồng và chăm sóc, nên hãy để các em tự lên kế hoạch cho khu vườn của mình. Các em cần được nhắc nhở đọc kỹ bao bì hạt giống để biết thời gian nảy mầm, khoảng cách trồng và số ngày thu hoạch. Đôi khi thử và sai là cách tuyệt vời để học cách trồng cây và thời gian trồng phù hợp trong khu vườn của mình.
 
-#### Cải Thiện Đất Trước Khi Trồng Rau
 
 Bổ sung phân chuồng gà hoặc bò đã ủ vào luống vườn sẽ giúp trẻ hiểu được vai trò của nitơ trong đất vườn và cách việc sử dụng phân động vật là một cách tốt để tái chế chất thải đồng thời giúp cây phát triển. Các em có thể nói rằng nó “kinh tởm” và “bẩn”, nhưng hãy khuyến khích các em trở thành những nhà khoa học.
 
 Tài liệu "Làm Vườn Rau ở Oregon" (trang 1) có một số thông tin:  
 [Trồng Rau ở Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-#### Làm Thùng Nuôi Giun
 
 Thùng nuôi giun có thể làm từ nhiều loại vật liệu khác nhau và có thể lớn hoặc nhỏ tùy ý. Khi làm thùng nuôi giun, bạn cần nghĩ về vật chứa, lớp lót, oxy và thức ăn cho giun. Bạn sẽ tạo ra một hệ vi sinh phân hủy. Hãy chọn vật liệu phù hợp để xử lý quá trình phân hủy, độ ẩm, cũng như chịu được nhiệt và lạnh quanh năm.
 
@@ -37,7 +33,6 @@ Tài liệu tham khảo:
 - [Ủ Phân Bằng Giun Đất](https://catalog.extension.oregonstate.edu/em9034)
 - *Giun Ăn Rác Nhà Tôi* của Mary Appelhof
 
-#### Trồng Ngô và Hoa Hướng Dương
 
 Việc trồng trọt dạy trẻ cách gieo hạt ở độ sâu phù hợp tùy kích thước hạt và khoảng cách để cây có đủ không gian phát triển. Một số câu hỏi nên xem xét:
 
@@ -48,7 +43,6 @@ Việc trồng trọt dạy trẻ cách gieo hạt ở độ sâu phù hợp tù
 
 Tài liệu [Tự Trồng Rau Củ](https://catalog.extension.oregonstate.edu/em9027) cung cấp thông tin "cách làm" cho nhiều loại cây trồng khác nhau.
 
-#### Trồng Cây Thu Hút Côn Trùng Thụ Phấn
 
 Bắt đầu bằng việc quan sát xem những loại côn trùng thụ phấn nào thường đến khu vườn của bạn. Bạn có ong, bướm, chim ruồi không? Các loài thụ phấn thích màu hoa nào, ví dụ như đỏ, tím, hồng, trắng và vàng?
 
@@ -64,7 +58,6 @@ Gợi ý:
 
 Có rất nhiều sách tranh đẹp và sách hướng dẫn về làm vườn mà trẻ em sẽ thích trước và trong khi làm vườn. Đọc to cho trẻ nghe sẽ khuyến khích các em đặt câu hỏi và là bước khởi đầu cho kế hoạch làm vườn. Thủ thư tại thư viện địa phương có thể giúp bạn tìm tài liệu phù hợp mà cả bạn và con đều yêu thích.
 
-#### Sách Đề Xuất
 
 - *Tops and Bottoms* của Janet Stevens
 - *Phòng Thí Nghiệm Làm Vườn Cho Trẻ Em: 52 Thí Nghiệm Vui Nhộn Để Học, Trồng, Thu Hoạch, Làm, Chơi Và Tận Hưởng Khu Vườn Của Bạn* của Renata Fossen Brown
@@ -83,15 +76,9 @@ Có rất nhiều sách tranh đẹp và sách hướng dẫn về làm vườn 
 
 [Hướng Dẫn Giáo Viên Về Trồng Rau](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Lời Khuyên Từ Chuyên Gia Làm Vườn
 
 - **Gọi Đường Dây Tư Vấn Làm Vườn Tại Nhà:**
   - 503-655-8631 (Quận Clackamas)
   - 503-821-1150 (Quận Washington)
   - 503-445-4608 (Quận Multnomah)
 - Để xem thêm các tài liệu và lịch học của Đại Học 10 Phút™, hãy truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch Vụ Mở Rộng Đại Học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa liên quan đến các hoạt động quyền công dân trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
----

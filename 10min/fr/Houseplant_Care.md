@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Comment Prendre Soin des Plantes d’Intérieur
 
 Faire pousser des plantes d’intérieur est une excellente façon d’ajouter de la verdure à votre maison. Même si certaines plantes sont très faciles à cultiver, toutes ont besoin de soins de base. Les plantes poussent mieux dans un environnement qui ressemble à leur habitat d’origine. Avant d’acheter de nouvelles plantes, renseignez-vous sur leurs besoins de base pour savoir si vous avez le bon endroit chez vous et si vous pouvez bien en prendre soin.
@@ -83,12 +81,3 @@ La poussière peut s’accumuler sur les feuilles, les rendre ternes et empêche
 - [Les plantes grasses faciles continuent de gagner en popularité](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Les plantes d’intérieur colorées font de jolis cadeaux pour les fêtes](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Des herbes aromatiques faciles à cultiver pour relever vos plats](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Conseils de Maître Jardinier™ · Contactez votre bureau local de l’OSU Extension pour obtenir des conseils de Maître Jardinier. Consultez ce site pour les coordonnées : [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Pour les fiches pratiques et le calendrier des cours de la 10-Minute University™, visitez [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents en raison de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression du genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus provenant d’une aide publique, les opinions politiques, l’information génétique, le statut de vétéran, des représailles ou des mesures de rétorsion pour une activité antérieure liée aux droits civils. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
----

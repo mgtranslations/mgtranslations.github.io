@@ -1,7 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm Vườn Chuyên Gia của OSU Extension Master Gardener™
-
----
-
 ## CẢNH BÁO: Tệp gốc chứa nhiều hình ảnh và không thể dịch đầy đủ, vui lòng tham khảo thêm tệp pdf gốc [tại đây](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
 
 # Những Loại Cây Tốt Nhất Cho Vườn
@@ -232,12 +228,3 @@ Hình ảnh có tại [https://jfschmidt.com](https://jfschmidt.com).
 - *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
 - *Trees to Know in Oregon and Washington*, Edward C. Jensen, Dịch vụ OSU Extension, EC1450
 - [i-Tree](https://www.itreetools.org/)
-
----
-
-#### Tư vấn Làm Vườn Chuyên Gia™ · Gọi Đường dây Tư vấn Làm Vườn Gia đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ OSU Extension nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ các chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa do các hoạt động quyền dân sự trước đó. (Không phải tất cả các căn cứ cấm đều áp dụng cho tất cả các chương trình.)
----

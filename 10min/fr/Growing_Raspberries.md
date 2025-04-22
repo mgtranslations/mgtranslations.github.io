@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration et en soutien avec le programme OSU Extension Master Gardener™
-
 # Cultiver les Framboises
 
 ### Pourquoi cultiver des framboises ?
@@ -42,7 +40,6 @@ Les framboises sont généralement vendues sous forme de plants à racines nues.
 
 ### Fertilisation
 
-#### Nouvelles plantations
 La première année, fertilisez chaque plant avec un total de **56 g d’azote (N)** par rangée de 3 mètres. Utilisez un engrais équilibré comme le **16-16-16** ou une source organique (par exemple, farine de graines de coton).
 
 Pour calculer la quantité nécessaire :
@@ -54,7 +51,6 @@ N’appliquez pas tout l’engrais en une seule fois. Divisez la quantité total
 2. Appliquez le deuxième tiers 1 mois plus tard.
 3. Appliquez le dernier tiers encore un mois après.
 
-#### Plants établis
 Fertilisez chaque année pour garder une bonne croissance :
 - **Quantité** : 56 à 85 g d’azote par rangée de 3 mètres.
   - Exemple : 370 à 540 g d’engrais 16-16-16 ou 1,1 kg d’engrais 5-5-3.
@@ -102,14 +98,8 @@ Publications OSU disponibles en ligne à [https://extension.oregonstate.edu/](ht
 - **Cultiver des petits fruits sur la côte de l’Oregon : framboises et mûres** (EM 9180) – Contenu également utile pour la vallée de la Willamette.
 - Apprenez à tailler les framboisiers avec un module en ligne sur [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
 
-#### Conseil du Maître Jardinier™
 - **Appelez le service d’aide Horticulture à domicile :**
   - 503-655-8631 (Comté de Clackamas)
   - 503-821-1150 (Comté de Washington)
   - 503-445-4608 (Comté de Multnomah)
 - Pour d’autres fiches pratiques 10-Minute University™ et les horaires des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu provenant d’un programme d’assistance publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

@@ -1,7 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Khabiirka ah ee Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener™
-
----
-
 ## Cayayaanka Dhibaatada Leh
 
 ### Guudmar
@@ -18,7 +14,6 @@ Mararka qaar way adag tahay in la ogaado cidda waxyeellada u geysatay dhirta sab
 
 Nasiib wanaag, sida ay u quudaan cayayaanka ayaa bixin karta tilmaamo muhiim ah. Cayayaanka waxaa lagu kala gartaa habka ay u cunaan: **calalin/qodid** ama **mudid-nuugid**.
 
-#### Cayayaanka Calaliya/Qoda
 
 Cayayaankan waxay leeyihiin afaf u suurto galinaya inay dalooliyaan caleemo, ubaxyo, xididdo, abuur, miro, ama qaybo adag oo dhirta ka mid ah. Tusaalooyin waxaa ka mid ah:
 
@@ -26,7 +21,6 @@ Cayayaankan waxay leeyihiin afaf u suurto galinaya inay dalooliyaan caleemo, uba
 - **Cunayaasha ubaxa, miraha, iyo abuurka**: Duqsiyada miraha, midges, geel-jireyaasha jaalaha ah, hornets, diirimmada codling moth, diirimmada dhagaxa galleyda, abuur-cunayaasha.
 - **Cayayaanka dhismaha waxyeelleeya**: Shinniyaasha dhismaha, termites, beetle-yada budada.
 
-#### Cayayaanka Muda-Nuuga
 
 Cayayaankan waxay si toos ah u waxyeelleeyaan dhirta iyagoo quudaya, mararka qaarna waxay geliyaan walxo sun ah oo keena calaamado kala duwan oo ka bilaabma dhibco caleemaha ah ilaa burbur dhir dhan ah. Dhibcaha iyo midab-beelka caleemaha waxay dhacaan marka chlorophyll-ka la burburiyo. Tusaalooyin waxaa ka mid ah:
 
@@ -92,11 +86,3 @@ Maaraynta Isku-dhafan ee Cayayaanka waa hannaan nidaamsan oo dhamaystiran oo la 
 - **Cayayaanka Beerta** oo uu qoray Crenshaw, 2004
 - **Daabacaadaha Oregon State University Extension**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Beerta Dabiiciga ah ee Rodale: Xakamaynta Cayayaanka iyo Cudurrada**, Rodale Publishing, 1994
-
----
-
-#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo kale ah ee 10-Minute University™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State waxay mamnuucaysaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, jinsiyadda, asalka qaranka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhli ka soo gala barnaamijka caawimada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sideyaasha, xaaladda askarinimada, ciqaab ama aargoosi la xiriira hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay ma khusayaan barnaamij kasta.)

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta sa OSU Extension Master Gardener™ Program
-
 # Pag-aalaga at Pagpapanatili ng mga Kagamitang Pangkubeta
 
 Ang mga kagamitan ay nasisira dahil sa panahon, basa, lupa, at kalawang. Ang tamang paglilinis at pag-aalaga na nakasaad sa ibaba ay makakatulong upang mapanatili silang maayos gamitin at mapahaba ang buhay ng mga ito.
@@ -61,12 +59,3 @@ Narito ang ilang OSU Publications na matatagpuan online sa:
 - [Praktikal na Mga Kagamitan para sa Gulayan](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Alagaan nang Mabuti ang Masisipag na Kagamitang Pangkubeta](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Paghasa ng Iyong Mga Kagamitang Pangkubeta](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanyang mga programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlang pangkasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan sa pag-aasawa, katayuan bilang magulang/pamilya, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuang beterano, pagganti, o paghihiganti dahil sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

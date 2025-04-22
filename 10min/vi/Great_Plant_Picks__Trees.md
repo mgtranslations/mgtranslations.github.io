@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Những Lựa Chọn Cây Tuyệt Vời: Cây Bóng Mát
 
 **S:** Vườn Bóng Râm  
@@ -59,8 +57,3 @@ Các cây GPP được chọn trong danh sách này đáp ứng các tiêu chí 
 - Đem lại nhiều giá trị cảnh quan qua nhiều mùa trong vườn.
 
 Nhiều cây GPP còn mang lại lợi ích sinh thái như hỗ trợ thụ phấn, cung cấp thức ăn cho chim và tạo môi trường sống cho động vật hoang dã.
-
----
-
-#### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

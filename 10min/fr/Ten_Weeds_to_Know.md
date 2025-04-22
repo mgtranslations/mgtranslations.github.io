@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme Maître Jardinier™ de l’Extension OSU
-
 # Dix Mauvaises Herbes à Connaître
 
 Une mauvaise herbe est une plante qui est un danger ou une nuisance, ou qui peut blesser les personnes, les animaux ou une culture désirée. Dans le jardin familial, les mauvaises herbes peuvent :
@@ -95,8 +93,3 @@ Connaître vos mauvaises herbes aide à identifier les meilleures façons de les
 
 - [Biologie et gestion des mauvaises herbes vivaces, EM 8776](https://catalog.extension.oregonstate.edu)
 - [Plantes envahissantes/Gestion des plantes et ravageurs envahissants, Ville de Portland, Oregon](https://www.portlandoregon.gov)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus provenant d’une aide publique, les convictions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

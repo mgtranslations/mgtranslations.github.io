@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hội Làm Vườn Master Gardener™ Quận Clackamas · Phối hợp với Dịch vụ Khuyến nông Đại học Bang Oregon
-
 ## Làm Vườn Cùng Trẻ Em Từ 4-7 Tuổi
 
 Làm vườn cùng trẻ em có thể là một trong những trải nghiệm bổ ích nhất cho cả trẻ lẫn cha mẹ, ông bà hoặc người hướng dẫn. Trẻ em vốn là những người làm vườn tự nhiên vì các em tò mò, thích học qua trải nghiệm, và thích chơi với đất.
@@ -25,7 +23,6 @@ Trồng rau có thể đặc biệt hấp dẫn với trẻ ở mọi lứa tu�
 
 Bạn có thể điều chỉnh khối lượng công việc phù hợp với trẻ và thời gian có thể tham gia. Hãy nhớ, điều quan trọng là làm cho trải nghiệm này bổ ích cho cả hai bên, nên hãy cân nhắc phạm vi hoạt động và dừng lại khi ai đó (kể cả người lớn) bắt đầu thấy mệt hoặc chán nản.
 
-#### Trồng Hoa hoặc Rau Hấp Dẫn Côn Trùng Thụ Phấn
 
 Người làm vườn đánh giá cao các loại côn trùng và sinh vật thụ phấn sống và ghé thăm vườn. Bạn có thể trồng hoa hướng dương, cúc zinnia hoặc hoa mõm chó. Chúng vừa đẹp vừa cung cấp thức ăn cho các loài thụ phấn.
 
@@ -34,7 +31,6 @@ Xem thêm các tài liệu từ Đại học Bang Oregon:
 - [Khuyến khích Côn Trùng Có Lợi Trong Vườn Của Bạn](https://catalog.extension.oregonstate.edu/pnw550)
 - [Hướng Dẫn Dành Cho Giáo Viên Về Trồng Rau](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Săn Sên
 
 Trẻ sẽ học được vai trò của sên trong hệ sinh thái. Có ba loại sên phổ biến ở vùng Tây Bắc Thái Bình Dương:
 
@@ -49,7 +45,6 @@ Tham khảo các nguồn dưới đây:
 - [Nhận Diện Sên và Ốc Sên](https://agsci.oregonstate.edu/slug-portal/identification)
 - [Sên và Ốc Sên](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
 
-#### Tìm Kiếm Các Loài Phân Hủy
 
 Giun đất, rệp đất, kiến và ốc sên đều là thành phần của hệ sinh thái và rất quan trọng trong việc phân hủy chất hữu cơ thành mùn. Hãy trân trọng chúng.
 
@@ -59,7 +54,6 @@ Tham khảo tài liệu của Đại học Bang Oregon về sinh vật phân h�
 
 - [Giun đất Là Loài Phân Hủy](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
 
-#### Mẹo Trồng Cây
 
 Hãy cho trẻ biết những thông tin cơ bản về việc trồng cây ở nơi nhiều nắng nhất và phủ đất lên hạt (không quá sâu). Khuyến khích trẻ quan sát cách côn trùng tương tác với cây khi chúng lớn lên.
 
@@ -87,10 +81,3 @@ Một vài đề xuất sách:
 - *Lật, Bay, Trôi: Hạt Giống Di Chuyển* của JoAnn Early Macken
 - *Quả Mọng, Hạt và Quả Hạch* của Diane L. Burns
 - *Khu Vườn Của Jack* của Henry Cole
-
-#### Tư Vấn Từ Master Gardener™ · Gọi Đường Dây Hỗ Trợ Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu trên cơ sở chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới tính (bao gồm thể hiện giới tính), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đây. (Không phải tất cả các lý do cấm đều áp dụng cho mọi chương trình.)
----

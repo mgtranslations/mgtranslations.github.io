@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo del Programa Maestro Jardinero™ de la Extensión de OSU
-
 # Jardinería en Invernadero 101
 
 ### Introducción
@@ -34,7 +32,6 @@ Agregar un invernadero a tu jardín en casa puede darte una ventaja para iniciar
 
 ### Tipos de Invernaderos
 
-#### Invernaderos Adosados
 
 - **Ventajas:**
   - Pueden ser menos costosos.
@@ -45,7 +42,6 @@ Agregar un invernadero a tu jardín en casa puede darte una ventaja para iniciar
   - La altura puede estar limitada por la estructura del edificio.
   - Se necesita una buena barrera de vapor para evitar que la humedad entre en el aislamiento de la casa.
 
-#### Invernaderos Independientes
 
 - **Ventajas:**
   - Más flexibilidad en la ubicación y más luz disponible.
@@ -143,8 +139,3 @@ Muchos invernaderos requieren cimientos, que pueden ser de madera tratada, mampo
 
 **Invernaderos para Propietarios y Jardineros (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, situación de veterano, represalias o venganza por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

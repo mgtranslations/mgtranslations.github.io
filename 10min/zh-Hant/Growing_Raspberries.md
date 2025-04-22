@@ -1,5 +1,3 @@
-#### 10分鐘大學™ · Clackamas County Master Gardener Association 與 OSU Extension Master Gardener™ 計畫合作並支持
-
 # 種植覆盆子
 
 ### 為什麼要種覆盆子？
@@ -42,7 +40,6 @@
 
 ### 施肥
 
-#### 新植株
 種植當年，每 10 英尺行距施用 **2 盎司氮（N）**。可選用均衡肥料如 **16-16-16**，或有機來源（如棉籽粕）。
 
 計算所需肥料量方法：
@@ -54,7 +51,6 @@
 2. 一個月後施第二份。
 3. 再一個月後施最後一份。
 
-#### 已建立植株
 每年施肥以維持良好生長：
 - **用量**：每 10 英尺行距施 2 至 3 盎司氮。
   - 例：13 至 19 盎司 16-16-16 肥料，或 2.5 磅 5-5-3 肥料。
@@ -102,14 +98,8 @@ OSU 出版品線上查詢：[https://extension.oregonstate.edu/](https://extensi
 - **在奧勒岡海岸種植漿果：覆盆子與黑莓**（EM 9180）——內容同樣適用於威拉米特河谷。
 - 線上學習覆盆子修剪：[https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en)
 
-#### Master Gardener™ 諮詢
 - **家庭園藝諮詢專線**：
   - 503-655-8631（Clackamas 縣）
   - 503-821-1150（Washington 縣）
   - 503-445-4608（Multnomah 縣）
 - 其他 10分鐘大學™ 講義與課程資訊，請見 [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### 奧勒岡州立大學擴展服務部在其所有計畫、服務、活動和材料中，禁止基於種族、膚色、國籍、宗教、性別、性別認同（含性別表現）、性傾向、殘障、年齡、婚姻狀況、家庭/父母身份、公共救助所得、政治信仰、基因資訊、退伍軍人身分、因從事過民權活動而受報復等理由的歧視。（並非所有禁用項目都適用於所有計畫。）
----

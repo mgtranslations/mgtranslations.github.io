@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Pflege von Rosen
 
 ### Mach einen Ausflug
@@ -42,7 +40,6 @@ Neben der Auswahl der richtigen Rose ist das richtige Pflanzen wahrscheinlich di
 
 ### Rückschnitt
 
-#### Hauptschnitt Mitte Februar
 
 Öffne die Mitte der Pflanze für gute Belüftung:
 
@@ -55,14 +52,12 @@ Neben der Auswahl der richtigen Rose ist das richtige Pflanzen wahrscheinlich di
 
 Am Ende sollten nur kräftige, gesunde Triebe von der Basis der Pflanze ausgehen.
 
-#### Verblühtes Entfernen (Deadheading)
 
 Entferne alle verwelkten Blüten:
 
 1. Schneide bei der letzten verwelkten Blüte knapp über einem Blatt mit 3 oder 5 Blättchen ab.
 2. Je höher du am Stängel schneidest, desto schneller blüht die Rose wieder, aber die Blüten werden kleiner. Je tiefer du schneidest, desto länger dauert es, bis neue Blüten kommen, aber sie werden größer.
 
-#### Rückschnitt im November
 
 Kürze die Triebe, damit der Wind die Wurzeln nicht lockert:
 
@@ -86,12 +81,3 @@ Entferne alle Blätter, damit die Pflanze in die Winterruhe geht.
 
 - [Krankheiten und Blattläuse an Rosen bekämpfen (EC 1520)](https://catalog.extension.oregonstate.edu/ec1520)
 - [Mulchen von Gehölzen mit organischem Material (EC 1629-E)](https://catalog.extension.oregonstate.edu/ec1629-e)
-
----
-
-#### Master Gardener™ Beratung · Hotline für Gartenfragen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere 10-Minuten-Universität™ Merkblätter und Kurstermine findest du auf [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

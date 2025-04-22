@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Pagpapalago ng Raspberry
 
 ### Bakit Magtanim ng Raspberry?
@@ -42,7 +40,6 @@ Kadalasang binebenta ang raspberry bilang bare-root na halaman. Bumili ng certif
 
 ### Pag-abono
 
-#### Bagong Tanim
 Sa unang taon, mag-abono ng **2 ounces ng nitrogen (N)** sa bawat 10 talampakang hanay ng tanim. Gumamit ng balanseng abono tulad ng **16-16-16** o organikong alternatibo (hal. cottonseed meal).
 
 Para makuha ang tamang dami:
@@ -54,7 +51,6 @@ Huwag ilagay nang sabay-sabay ang lahat ng abono. Hatiin ito sa tatlo:
 2. Ilagay ang pangalawang bahagi makalipas ang 1 buwan.
 3. Ilagay ang huling bahagi makalipas pa ang 1 buwan.
 
-#### Lumang Tanim
 Mag-abono taon-taon para mapanatili ang magandang paglaki:
 - **Dami**: 2 hanggang 3 ounces ng nitrogen kada 10 talampakang hanay.
   - Halimbawa: 13 hanggang 19 ounces ng 16-16-16 na abono o 2.5 libra ng 5-5-3 na abono.
@@ -102,14 +98,8 @@ Makikita ang mga publikasyon ng OSU online sa [https://extension.oregonstate.edu
 - **Growing Berries on the Oregon Coast: Raspberries and Blackberries** (EM 9180) – May kaugnayan din para sa Willamette Valley.
 - Matutunan kung paano magpungos ng raspberry sa online module na ito: [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
 
-#### Master Gardener™ na Payo
 - **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Para sa iba pang 10-Minute University™ na handouts at iskedyul ng klase, bumisita sa [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (pati gender expression), sexual orientation, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita mula sa public assistance program, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti, o paghihiganti sa dating aktibidad ng civil rights. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

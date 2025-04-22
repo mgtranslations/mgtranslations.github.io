@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Bio-Gemüsegarten: So klappt’s
 
 ### Was ist „Bio-Gärtnern“?
@@ -69,7 +67,6 @@ Kompost verbessert die Bodenstruktur und langfristige Bodengesundheit. Er ist ab
 
 Besuchen Sie [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 
-#### Für Master Gardener™ Beratung
 
 - **Home Horticulture Helpline anrufen:**
   - 503-655-8631 (Clackamas County)
@@ -77,8 +74,3 @@ Besuchen Sie [https://catalog.extension.oregonstate.edu](https://catalog.extensi
   - 503-445-4608 (Multnomah County)
 - Stellen Sie eine Frage unter [www.metromastergardeners.org](http://www.metromastergardeners.org)
 - Besuchen Sie die Website der Clackamas Chapter Master Gardeners [www.cmastergardeners.org](http://www.cmastergardeners.org) für 10-Minuten-Universität™-Handouts und den kostenlosen Kursplan.
-
----
-
-##### Der Extension Service der Oregon State University untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Meinung, genetischer Information, Veteranenstatus, Vergeltung oder Benachteiligung wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Diskriminierungsverbote gelten für alle Programme.)
----

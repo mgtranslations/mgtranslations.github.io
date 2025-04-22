@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão OSU
-
 # Abelha-Mascarada do Pomar
 
 ### Visão Geral
@@ -42,7 +40,6 @@ Vários parasitas, predadores e patógenos podem ferir ou matar as abelhas-masca
 
 Você pode eliminar ácaros e chalkbrood limpando os casulos entre outubro e dezembro. Os adultos já estão totalmente formados nessa época e aguentam esse processo.
 
-#### Processo de Limpeza
 
 1. Lave suas abelhas em água não mais quente que 10°C (50°F) para não acordá-las.
 2. Deixe os casulos de molho por no máximo 5 minutos em água fria com uma mistura de água sanitária a 0,05% (1 colher de sopa para 4 litros de água).
@@ -59,12 +56,3 @@ Você pode eliminar ácaros e chalkbrood limpando os casulos entre outubro e dez
   [Leia mais aqui](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Nurturing Mason Bees in Your Back Yard in Western Oregon*, publicação de extensão da Oregon State University EM 9130  
   [Leia mais aqui](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Dicas do Mestre Jardineiro™ · Ligue para a Linha de Ajuda de Horticultura Doméstica: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Para outros folhetos e vídeos do Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Serviço de Extensão da Universidade Estadual de Oregon · O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, condição familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informação genética, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

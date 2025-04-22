@@ -1,5 +1,3 @@
-#### 10-Minute University™ The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Great Plant Picks: Shrubs
 
 *S: Shade Garden, D: Drought-tolerant Plant, W: Wildlife Benefit: Birds, Bees, Butterflies, Hummingbirds*

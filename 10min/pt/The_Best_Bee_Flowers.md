@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Jardineiros Mestres do Condado de Clackamas · Em colaboração e apoio ao Programa Jardineiro Mestre™ da Extensão da OSU
-
 # As Melhores Flores para Abelhas — Comprovado por Pesquisas em Horticultura
 
 Esta lista inclui plantas comprovadas pelo Dr. Gordon Frankie, da Universidade da Califórnia, e colegas, como sendo as melhores para atrair abelhas[^1]. As plantas nativas do Oregon que atraem abelhas nativas são baseadas em pesquisas de Aaron Anderson, Laboratório de Ecologia de Jardins da Universidade Estadual do Oregon[^2]. Fontes: *California Bees & Blooms* de Frankie et al. e blogs.oregonstate.edu/gardenecologylab/[^3].

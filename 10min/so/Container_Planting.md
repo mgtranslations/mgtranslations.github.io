@@ -1,5 +1,3 @@
-#### Jaamacadda 10 Daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo kaashanaya lana shaqaynaya Barnaamijka Master Gardener™ ee OSU Extension
-
 # Geed-beerista Weelasha
 
 ### Guudmar
@@ -73,8 +71,3 @@ Bacriminta weelka waxa la dhaqaa mar kasta oo la waraabiyo. Sidaas darteed, waa 
   - 503-445-4608 (Multnomah County)
 - [Muuqaalka Geed-beerista Weelasha](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
 - Wixii qoraallo iyo muuqaallo dheeraad ah ee Jaamacadda 10 Daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-#### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada sababo la xiriira: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmo, naafonimo, da', xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka yimaada barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda halgamaha, aargoosiga ama ciqaabta tallaabo hore oo xuquuqda madaniga ah ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

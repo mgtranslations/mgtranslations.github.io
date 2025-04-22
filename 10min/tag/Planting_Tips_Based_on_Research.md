@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 ## Mga Tip sa Pagtatanim Batay sa Pananaliksik sa Hortikultura
 
 ### Pangkalahatang-ideya
@@ -56,11 +54,4 @@ Ang prinsipyo sa pagpapabuti ng lupa ay huwag magdagdag ng anumang bagay sa buta
 ### Dagdag na Impormasyon
 
 - **Sustainable Gardening**, Oregon State University Extension Publication EM 8742  
-- **Sustainable Landscapes and Gardens: Good Science-Practical Application**, Washington State University  
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa mga handout at video ng 10-Minute University™, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang ekspresyon ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa lahi, estado bilang beterano, pagganti o paghihiganti dahil sa naunang aktibidad na may kaugnayan sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----
+- **Sustainable Landscapes and Gardens: Good Science-Practical Application**, Washington State University

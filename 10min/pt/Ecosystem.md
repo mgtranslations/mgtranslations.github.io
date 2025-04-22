@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros da Extensão da OSU
-
 ## Torne Seu Jardim Mais Resiliente ao Clima: Ecossistema
 
 A Terra está passando por um período de aquecimento que resulta no derretimento de geleiras, aumento do nível do mar, maior acidez dos oceanos e secas e enchentes mais frequentes e graves. O Noroeste do Pacífico tem visto secas prolongadas, aumento da ocorrência e gravidade de incêndios florestais, ondas de calor, surtos de insetos e doenças em árvores. A diminuição do acúmulo de neve leva a picos de enchentes mais cedo em rios e córregos e reduz o abastecimento de água. Além dessas tendências, a mudança climática traz eventos climáticos extremos e irregulares (ondas de calor, chuvas intensas) com maior frequência.  
@@ -75,8 +73,3 @@ O território de alguns animais pode coincidir com o seu jardim. Exemplos inclue
 ### Rewilding
 
 O rewilding normalmente é aplicado a grandes áreas, com foco na restauração das funções ecológicas. Alguns princípios podem ser úteis para jardins residenciais. [Saiba mais sobre rewilding](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/de responsabilidade parental, renda oriunda de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior relacionada a direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

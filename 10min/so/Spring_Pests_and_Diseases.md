@@ -1,7 +1,3 @@
-#### Jaamacadda 10 Daqiiqo™ · Ururka Beeraleyda Khibrada Leh ee Degmada Clackamas oo kaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
----
-
 ## Cayayaanka iyo Cudurrada Guga
 
 ### Dhaawaca Jiilaalka (Deegaanka)

@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 ## Torne Seu Jardim Mais Resiliente ao Clima: Solo
 
 A Terra está passando por um período de aquecimento que resulta em derretimento de geleiras, aumento do nível do mar, maior acidez dos oceanos e secas e enchentes mais frequentes e intensas. O Noroeste do Pacífico tem enfrentado secas prolongadas, aumento na incidência e gravidade de incêndios florestais, ondas de calor, surtos de insetos e doenças em árvores. A redução da neve resulta em picos mais cedo no fluxo de rios e córregos, o que diminui o abastecimento de água. Além dessas tendências, as mudanças climáticas trazem eventos climáticos extremos e irregulares (ondas de calor, chuvas fortes) com maior frequência.
@@ -61,8 +59,3 @@ Como podemos cultivar jardins nesses tempos? Este folheto oferece ideias para to
 - [Os Segredos Sujos de uma Paisagem Viva, Universidade Estadual de Oregon EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
 - [Sequestro de Carbono no Solo, Sociedade Ecológica da América](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
 - Eisenhauer, N., Lanoue, A., Strecker, T. et al. *Root biomass and exudates link plant diversity with soil bacterial and fungal biomass.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
-
----
-
-#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior relacionada a direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Thạc sĩ Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Thạc sĩ OSU Extension™
-
 # Trồng Xà Lách & Các Loại Rau Lá Khác
 
 ### Tổng Quan
@@ -121,12 +119,3 @@ Rau lá có rễ nông, chỉ cần **18-20 cm đất màu mỡ**. Bón phân đ
 - [Cách tự làm nhà lưới cho luống nâng (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [Làm vườn với phân hữu cơ, phủ đất, và lưới che hàng (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [Sổ tay Làm vườn Bền vững (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### Tư vấn Làm vườn Thạc sĩ™ · Gọi Đường dây Tư vấn Nông nghiệp: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm các tài liệu và lịch học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con cái, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các tiêu chí cấm đều áp dụng cho mọi chương trình.)
----

@@ -1,5 +1,3 @@
-#### 10-Minute University™ · La Asociación de Jardineros Master de Clackamas County en colaboración y apoyo al Programa de Jardineros Master de Extensión OSU
-
 # Cómo Cuidar las Plantas de Interior
 
 Tener plantas de interior es una excelente forma de agregar vegetación a tu hogar. Aunque algunas plantas son muy fáciles de cuidar, todas necesitan atención básica. Las plantas crecen mejor en un ambiente que se parece a su hábitat natural. Antes de comprar nuevas plantas, conoce sus necesidades básicas para saber si tienes el lugar adecuado en tu casa y puedes darles el cuidado necesario.
@@ -83,12 +81,3 @@ El polvo puede acumularse en las hojas, haciendo que se vean opacas e impidiendo
 - [Las suculentas fáciles de cuidar siguen ganando popularidad](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Plantas de interior coloridas son excelentes regalos en las fiestas](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Hierbas fáciles de cultivar en interior para dar sabor a la cocina](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Consejos de Jardineros Master™ · Contacta a tu oficina local de Extensión de OSU para recibir consejos de un Jardinero Master. Consulta este sitio para información de contacto: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Para folletos y horarios de clases de 10-Minute University™, visita [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paternal, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

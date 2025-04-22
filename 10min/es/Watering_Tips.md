@@ -1,5 +1,3 @@
-#### 10-Minute University™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de la Extensión de OSU
-
 ## Consejos para el Riego
 
 ### Teoría y Técnicas
@@ -33,13 +31,11 @@
 
 ### Riego Ineficaz
 
-#### Síntomas de Exceso de Riego
 
 - Hojas amarillas o manchadas
 - Las hojas se vuelven verde pálido o amarillas y luego se caen
 - Las plantas crecen poco y los tallos delgados se caen
 
-#### Síntomas de Falta de Riego
 
 - Hojas amarillas o manchadas
 - Las hojas se ven opacas, algo grisáceas y sin brillo
@@ -54,22 +50,18 @@ Cualquiera que sea el método de riego que prefieras, revisa la humedad del suel
 
 - Flores y vegetales: 12–15 pulgadas de profundidad
 
-#### Riego por Aspersión
 
 - El riego por aspersión de árboles y arbustos (aspersor o manual) puede favorecer problemas fúngicos y bacterianos como sarna de manzana, roya y manchas negras en rosas.
 - Riega lo suficientemente temprano para que las hojas se sequen antes de la tarde.
 
-#### Riego Manual
 
 - El riego manual puede aplicar agua más rápido de lo que el suelo puede absorber, causando escurrimiento.
 
-#### Aspersores
 
 - Los aspersores pueden dispersar agua donde no se necesita y a menudo aplican el agua más rápido de lo que puede absorber el suelo.
 - Usa aspersores que cubran solo el jardín, no las áreas cercanas.
 - Minimiza la pérdida por evaporación regando en momentos frescos y sin viento (de la tarde a la mañana).
 
-#### Sistemas de Bajo Flujo
 
 - **Ventajas:**
   - Entregan la humedad directamente a la zona de raíces a una tasa uniforme durante toda la temporada.
@@ -98,15 +90,9 @@ Cualquiera que sea el método de riego que prefieras, revisa la humedad del suel
   - [Claves para jardines eficientes en el uso del agua, EM 9134](https://catalog.extension.oregonstate.edu/)
   - [Mantenimiento de jardines para conservar el agua, EM 9135](https://catalog.extension.oregonstate.edu/)
 
-#### Consejos de Maestros Jardineros™
 
 - **Llama a la Línea de Ayuda de Horticultura Doméstica:**
   - 503-655-8631 (Condado de Clackamas)
   - 503-821-1150 (Condado de Washington)
   - 503-445-4608 (Condado de Multnomah)
 - Para otros folletos de 10-Minute University™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-#### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivo de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, condición familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

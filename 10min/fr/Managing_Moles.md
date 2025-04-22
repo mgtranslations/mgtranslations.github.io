@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension de l’OSU
-
 # Gérer les taupes
 
 ### Introduction
@@ -52,10 +50,3 @@ Les taupes ont besoin de beaucoup de nourriture et peuvent parcourir jusqu’à 
 
 - [Contrôle des taupes EC 987](https://catalog.extension.oregonstate.edu)
 - [Guide du jardinage durable EM 8742](https://catalog.extension.oregonstate.edu)
-
-#### Conseil de Maître Jardinier™ · Appelez la ligne d’assistance en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour les fiches et le calendrier de 10-Minute University™ : [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial ou parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

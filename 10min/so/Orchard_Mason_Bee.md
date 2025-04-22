@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeraleyda Khibradda leh ee Clackamas County oo kaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Shinnida Orchard Mason
 
 ### Guudmar
@@ -42,7 +40,6 @@ Cayayaanno, cadow iyo xanuunno ayaa dhaawaci kara ama dili kara shinnida mason:
 
 Waxaad ka takhalusi kartaa mites iyo chalkbrood adigoo nadiifinaya goonada inta u dhexeysa Oktoobar iyo Diseembar. Shinnida dadka waaweyn ee buuxda waa la sameeyay waqtigaas waxayna u dulqaadan karaan habkan.
 
-#### Habka Nadiifinta
 
 1. Ku dhaq shinnidaada biyo aan ka kululayn 50°F si aadan u kicin.
 2. Ku qooy goonada ugu badnaan 5 daqiiqo biyo qabow oo lagu daray 0.05% bleach (1 qaado bleach ah halkii gallon biyo ah).
@@ -59,13 +56,3 @@ Waxaad ka takhalusi kartaa mites iyo chalkbrood adigoo nadiifinaya goonada inta 
   [Akhri wax dheeraad ah halkan](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Daryeelka Shinnida Mason ee Beertaada ee Galbeedka Oregon*, Oregon State University Extension publication EM 9130  
   [Akhri wax dheeraad ah halkan](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Talo Beeraleyda Khibradda leh™ · Wac Khadka Gargaarka Horticulture ee Guriga: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Wixii handouts iyo fiidiyowyo kale ee 10-Daqiiqo Jaamacad™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku saleysan jinsiyadda, midabka, asalka dalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), nooca galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidde-sidaha, xaaladda askarnimo, ciqaab ama aargoosi la xiriirta dhaqdhaqaaqyo xuquuq madani ah oo hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
-
----

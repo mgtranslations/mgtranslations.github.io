@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Cuidado del Césped
 
 ### Introducción
@@ -109,12 +107,3 @@ Publicaciones de OSU disponibles en línea en [http://catalog.extension.oregonst
 - **Cuidado práctico del césped en el oeste de Oregón** (EC1521)  
 - **Establecimiento y renovación práctica del césped** (EC1550)  
 - **Mezclas comerciales de semillas para césped en el oeste de Oregón y Washington** (EM9100)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la Línea de Ayuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folletos de Universidad de 10 Minutos™ y el calendario de clases, visita [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos provenientes de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias o venganza por actividades anteriores de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
----

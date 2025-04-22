@@ -1,5 +1,3 @@
-#### Jaamacadda 10 Daqiiqo™ · Ururka Beeralayda Khabiirka ah ee Clackamas County oo iskaashi la leh Barnaamijka OSU Extension Master Gardener™
-
 # Beeralayda Awooda leh
 
 ### Hordhac
@@ -12,7 +10,6 @@ Beeralayntu waa hiwaayad nolosha oo dhan lagu raaxaysan karo, waxayna leedahay f
 
 Doorashada qalabka beeralaynta ee cabbirka iyo shaqada saxda ah leh waxay ka dhigi kartaa shaqada mid raaxo leh oo waxtar leh.
 
-#### Qalabka Jarista
 
 - **Qalabka Jarka**
   - Cabbirku waa muhiim! Ka raadi cabbirka ugu habboon ee gacantaada si aad si fudud u isticmaasho. Qalabka jarka badankoodu waxay yimaadaan cabbir yar, dhexdhexaad iyo weyn. Sidoo kale waxaa jira noocyo loogu talagalay dadka bidix iyo midig isticmaalayaasha.
@@ -30,7 +27,6 @@ Doorashada qalabka beeralaynta ee cabbirka iyo shaqada saxda ah leh waxay ka dhi
   - **Geared Loppers**
     - Waxay bixiyaan 40% awood dheeraad ah marka la jarayo. Gacanaha dheer waxay bixiyaan xoog badan.
 
-#### Qalabka Gacanta
 
 - Raadi qalab ergonomic ah oo laabtaada si toos ah ula jaanqaada, si aan curcurka loo qaloocin. Marka dhaqdhaqaaqa iyo xooggu yaraadaan, waxay waxtar u leedahay in la isticmaalo kala-goysyada waaweyn sida garabka iyo gacanta.
 - Qalabka la qabsiga sida “D” handles waxaa lagu dari karaa faasas iyo xaaqin caadi ah si loo helo gacan fiican loona ilaaliyo curcurka.
@@ -89,12 +85,3 @@ Doorashada qalabka beeralaynta ee cabbirka iyo shaqada saxda ah leh waxay ka dhi
   - [Soo degso Hagaha](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Sii Wad Beeraleyda**
   - [Talooyin Sare oo loogu talagalay Beeraleyda Naafada ah](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
-
----
-
-#### Talooyinka Master Gardener™ · La xiriir Khadka Caawinta Beerta: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608
-
----
-
-##### Adeegga Ballaarinta Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan: jinsiyadda, midabka, asal ahaan, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadda, xogta hidaha, xaaladda halyeeyga, ciqaabta ama aargoosiga falal xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay looma adeegsan karo dhammaan barnaamijyada.)
----

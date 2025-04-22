@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y en apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Jardinería con Mulch
 
 El mulch es una capa de material que se coloca sobre la superficie del suelo para lograr uno o más de los siguientes beneficios:
@@ -53,23 +51,19 @@ El mulch plástico se usa a menudo para suprimir malezas o calentar el suelo.
 
 ### Cómo Usar Mulch Plástico
 
-#### Para Suprimir Malezas
 
 1. Coloca plástico negro después de preparar el suelo para la siembra o plantación y después de instalar las líneas de riego.
 2. Coloca tierra en los bordes para sujetarlo.
 3. Inserta semillas o trasplantes haciendo un corte en X en el plástico.
 4. Usa plástico perforado o haz perforaciones con un picahielos para permitir el paso del agua.
 
-#### Para Calentar el Suelo
 
 - **Plástico transparente o translúcido**: Calienta el suelo más eficazmente pero puede crear un "invernadero" para las malezas.
 - **Plástico negro**: Calienta el suelo en menor medida pero suprime las malezas.
 
-#### Para Mantener el Suelo Seco
 
 Cubre el área con plástico negro durante el invierno para mantener la cama del jardín seca y lista para la preparación del suelo y la siembra temprana en primavera. Asegura los bordes con tierra para evitar que se convierta en un invernadero para malezas o un escondite para plagas.
 
-#### Para Acelerar el Crecimiento y Maduración de Plantas que Aman el Calor
 
 El tomate, el pimiento, el melón, la fresa y otras plantas que aman el calor han sido estudiadas para determinar los efectos de los diferentes colores de mulch plástico en su crecimiento, maduración y producción.
 
@@ -81,10 +75,3 @@ El tomate, el pimiento, el melón, la fresa y otras plantas que aman el calor ha
 ## Recursos Adicionales
 
 - **Publicación de OSU Extension Service**: [Mulching Woody Ornamentals with Organic Materials](https://catalog.extension.oregonstate.edu/ec1629)
-
-#### Consejos de Maestros Jardineros™ · Llame a la línea de ayuda de horticultura doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otras hojas informativas de la Universidad de 10 Minutos™ y horarios de clases, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paternal, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

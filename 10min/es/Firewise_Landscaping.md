@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU™
-
 # Diseño de Jardines Resistente al Fuego para Reducir el Riesgo de Incendios Forestales
 
 ### Introducción
@@ -17,14 +15,12 @@ Los jardines resistentes al fuego ayudan a proteger tu casa, propiedad y a salva
 
 Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus siglas en inglés).**
 
-#### Zona Inmediata (HIZ 1)
 
 - **Incluye:** La casa y hasta 5 pies (1.5 metros) desde la base de la casa.
 - **Objetivo:** Reducir la posibilidad de ignición cerca de la casa.
 - **Guías:**
   - No tener vegetación salvo canastas/contenedores de plantas anuales y césped bien mantenido.
 
-#### Zona Intermedia (HIZ 2)
 
 - **Incluye:** De 5 a 30 pies (1.5 a 9 metros) alrededor de tu casa.
 - **Objetivo:** Evitar que el fuego suba a las partes altas de los árboles o arbustos para mantener la casa segura.
@@ -32,7 +28,6 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
   - Elimina “combustible de escalera” (ramas bajas de árboles y arbustos cercanos que pueden ayudar a que las llamas lleguen a la casa).
   - Esta zona debe mantenerse “limpia, ordenada y verde”.
 
-#### Zona Extendida (HIZ 3)
 
 - **Incluye:** De 30 a 100 pies (9 a 30 metros o más) alrededor de tu casa.
 - **Objetivo:** Reducir la energía del incendio forestal y ralentizar su avance hacia los edificios.
@@ -48,7 +43,6 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
 
 ¿Sabías que la mayoría de las casas que se pierden en incendios forestales se deben a brasas voladoras y no al fuego mismo?
 
-#### Puntos Clave
 
 - **Techos:**
   - Los techos son la parte más vulnerable durante un incendio por las brasas voladoras.
@@ -63,13 +57,11 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
 
 ### Jardinería Resistente al Fuego vs. Jardinería Tradicional
 
-#### Características de Plantas Resistentes al Fuego
 
 - Alto contenido de humedad.
 - Ramas abiertas y vegetación no resinosa.
 - Los árboles y plantas de hoja caduca generalmente son menos inflamables que las coníferas.
 
-#### Características de Plantas Altamente Inflamables
 
 - Bajo contenido de humedad.
 - Contienen sustancias como aceites, resinas, ceras o brea.
@@ -79,12 +71,10 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
 
 ### Opciones de Plantas Resistentes al Fuego
 
-#### HIZ 1
 
 - **Recomendado:** Plantas anuales y césped (mantener bien regados).
 - **Evitar:** Arbustos que contienen compuestos volátiles (por ejemplo, enebro, tuya, romero). Evitar árboles que sobresalgan sobre el techo.
 
-#### HIZ 2
 
 - **Recomendado:**
   - Arbustos bajos y de ramas abiertas (por ejemplo, lila, snowberry).
@@ -92,7 +82,6 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
   - Plantas anuales y perennes sin compuestos volátiles.
 - **Evitar:** Plantas altamente inflamables junto a las estructuras.
 
-#### HIZ 3
 
 - **Recomendado:**
   - Árboles y arbustos grandes con espacio suficiente entre ellos.
@@ -106,19 +95,16 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
 
 ### Prácticas Culturales Positivas en el Hogar
 
-#### HIZ 1
 
 - Mantén las plantas con riego y poda adecuados.
 - Desecha restos de plantas muertas.
 - Mantén el césped cortado.
 
-#### HIZ 2
 
 - Mantén las plantas saludables con riego y poda.
 - Usa mantillo solo si hay riego.
 - Barre y quita los residuos.
 
-#### HIZ 3
 
 - Mantén caminos amplios para el acceso de los servicios de emergencia.
 - Recorta las ramas bajas de árboles y arbustos maduros.
@@ -129,18 +115,15 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
 
 ### Riesgos de Incendio Alrededor de la Casa y la Propiedad
 
-#### HIZ 1
 
 - Evita el mantillo, ya que es combustible.
 - Cercas, portones y pérgolas de madera pueden servir como “combustible de escalera”.
 - Mantén las terrazas de madera y evita almacenar materiales combustibles debajo o cerca de ellas.
 
-#### HIZ 2
 
 - Evita plantas altamente inflamables junto a las estructuras.
 - Mantén el césped corto y retira restos de vegetación.
 
-#### HIZ 3
 
 - Almacena la leña a por lo menos 30 pies (9 metros) de la casa.
 
@@ -148,12 +131,10 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
 
 ### Guía de Materiales de Jardinería Resistentes al Fuego
 
-#### Materiales Recomendados
 
 - Materiales no combustibles: concreto, grava, ladrillo, piedra, hierro, aluminio, vidrio.
 - Césped y cubresuelos bajos pueden ralentizar las llamas y crear cortafuegos.
 
-#### Materiales Altamente Inflamables
 
 - La corteza de cedro rojo occidental es el mantillo más fácil de encender.
 - Cercas, portones y enrejados de madera son combustibles.
@@ -167,8 +148,3 @@ Estos dos elementos definen la **Zona de Ignición del Hogar (HIZ, por sus sigla
 
 - **Plantas Resistentes al Fuego para Jardineros de Hogar**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)
-
----
-
-###### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

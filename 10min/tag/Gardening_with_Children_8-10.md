@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Sa Pakikipagtulungan sa Oregon State University Extension Service
-
 # Paghahalaman Kasama ang mga Bata Edad 8-10
 
 ### Bakit Dapat Maghalaman Kasama ang mga Bata?
@@ -21,14 +19,12 @@ Ang paghahalaman kasama ang mga batang edad 8 hanggang 10 ay mas kapaki-pakinaba
 
 Ang mga bata sa ganitong edad ay may mga ideya na tungkol sa mga bagay na gusto nilang itanim at alagaan, kaya hayaan silang magplano ng kanilang hardin. Kailangan nila ng paalala na basahin ng maigi ang mga pakete ng binhi para sa germination time, tamang agwat, at bilang ng araw bago maani. Minsan, ang pagsubok at pagkakamali ay magandang paraan para matutunan kung paano at kailan magtanim sa iyong espasyo sa hardin.
 
-#### Pabutin ang Lupa ng Hardin Bago Magtanim ng Gulay
 
 Ang pagdagdag ng composted na dumi ng manok o baka sa nakatalagang bahagi ng hardin ay makakatulong sa mga bata na maintindihan ang kahalagahan ng nitrogen sa hardin at kung paano ang paggamit ng dumi ng hayop ay isang magandang paraan ng pag-recycle ng basura habang tinutulungan ang mga halaman na lumaki. Maaaring sabihin nilang "kadiri" o "nakakadiri," pero dapat silang hikayatin na maging parang mga siyentipiko.
 
 Ang Vegetable Gardening in Oregon (pahina 1) ay may ilang impormasyon:  
 [Vegetable Gardening in Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-#### Gumawa ng Worm Bin
 
 Ang worm bin ay maaaring gawin gamit ang iba't ibang materyales at pwedeng maliit o malaki ayon sa gusto. Kapag gumagawa ng worm bin, isipin ang lalagyan, bedding, oxygen, at pagkain. Gumagawa ka ng maliit na micro-ecosystem para sa agnas. Isaalang-alang ang materyales na kayang tumagal sa proseso ng agnas, basa, at posibleng lamig o init sa buong taon.
 
@@ -37,7 +33,6 @@ Mga Sanggunian:
 - [Composting with Worms](https://catalog.extension.oregonstate.edu/em9034)
 - *Worms Eat My Garbage* ni Mary Appelhof
 
-#### Pagtatanim ng Mais at Sunflower
 
 Ang pagtatanim ay nagtuturo sa mga bata ng tamang lalim sa pagtanim ng mga buto ng iba't ibang laki at kung gaano kalayo dapat ang pagitan ng mga ito upang lumaki ng maayos. Mga tanong na dapat isaalang-alang:
 
@@ -48,7 +43,6 @@ Ang pagtatanim ay nagtuturo sa mga bata ng tamang lalim sa pagtanim ng mga buto 
 
 Nagbibigay ang [Growing Your Own](https://catalog.extension.oregonstate.edu/em9027) ng “paano” na impormasyon sa maraming uri ng halaman.
 
-#### Magtanim para sa mga Pollinator
 
 Magsimula sa pagmamasid kung anong mga pollinator ang dumadalaw sa inyong hardin. May mga bubuyog ba, paru-paro, o hummingbird? Anong kulay ng bulaklak ang gusto ng mga pollinator, tulad ng pula, lila, pink, puti, at dilaw?
 
@@ -64,7 +58,6 @@ Mga mungkahi:
 
 Maraming magagandang picture book at instructional book tungkol sa paghahalaman na magugustuhan ng mga bata bago magsimula at habang nagtatrabaho sa hardin. Ang pagbabasa nang malakas sa kanila ay naghihikayat ng pagtatanong at maaaring magsilbing simula ng mga plano para sa hardin. Ang inyong lokal na librarian ay makakatulong maghanap ng mga aklat na pareho ninyong magugustuhan ng inyong anak.
 
-#### Mga Inirerekomendang Libro
 
 - *Tops and Bottoms* ni Janet Stevens
 - *Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden* ni Renata Fossen Brown
@@ -83,15 +76,9 @@ Maraming magagandang picture book at instructional book tungkol sa paghahalaman 
 
 [Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Master Gardener™ na Payo
 
 - **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
   - 503-821-1150 (Washington County)
   - 503-445-4608 (Multnomah County)
 - Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, gawain, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang ekspresyon ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa programang pampublikong tulong, paniniwalang pampolitika, impormasyong henetiko, estado ng pagiging beterano, paghihiganti, o pagganti para sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

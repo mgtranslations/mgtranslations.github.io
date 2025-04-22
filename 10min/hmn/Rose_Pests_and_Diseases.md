@@ -1,5 +1,3 @@
-#### 10-Feeb Chav Kawm Ntawv™ · Clackamas County Master Gardener Association koom tes nrog thiab txhawb OSU Extension Master Gardener™ Program
-
 # Kab Mob thiab Kab Puas Tshaj Plaws ntawm Roses
 
 Roses yog paj tsw qab thiab zoo nkauj uas koj tuaj yeem cog rau hauv lub vaj nyob rau Pacific Northwest. Tab sis, roses kuj muaj qee yam kab mob thiab kab puas uas tshwm sim zoo. Phau ntawv no qhia txog txoj kev saib xyuas thiab tiv thaiv kom koj muaj tau paj roses zoo thiab nplooj zoo tag nrho lub caij ntuj sov.
@@ -62,8 +60,3 @@ Roses yog paj tsw qab thiab zoo nkauj uas koj tuaj yeem cog rau hauv lub vaj nyo
 Tiv tauj koj lub chaw OSU Extension ze koj kom tau txais kev pab los ntawm Master Gardener. Mus xyuas qhov chaw no kom tau xov xwm: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
 
 Yog xav tau 10-Feeb Chav Kawm Ntawv™ cov ntaub ntawv thiab daim ntawv qhia kawm, mus xyuas [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua qhov haujlwm, kev pabcuam, kev ua ub ua no, thiab ntaub ntawv vim yog haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia txog poj niam txiv neej (xws li qhia tawm poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, muaj menyuam los yog tsis muaj, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, yog tub rog qub, los yog raug tsim txom vim txoj kev tiv thaiv cai qub. (Tsis yog txhua yam uas txwv yuav siv rau txhua qhov haujlwm.)
----

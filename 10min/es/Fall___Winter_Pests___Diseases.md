@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU
-
 ## Plagas y Enfermedades de Otoño e Invierno
 
 ### Chinches Apestosas y Chinches de los Arces (Insectos)
@@ -90,12 +88,3 @@
 - Pode las ramas y hojas muertas siguiendo procedimientos adecuados: corte las ramas grandes en tres pasos y las pequeñas a una yema exterior en un ángulo de 45 grados.
 - Revise las grietas en la corteza por insectos y, si encuentra alguno, elimínelos.
 - Antes de quitar una planta, espere hasta que comience el crecimiento activo para asegurarse de que esté muerta.
-
----
-
-#### Consejos de Maestro Jardinero™ · Llame a la Línea de Ayuda en Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para más folletos de Universidad de 10 Minutos™ y horarios de clases, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

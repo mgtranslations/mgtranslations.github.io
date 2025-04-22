@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · In collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 ## Annual Vegetable Production Specifics for Oregon
 
 ### Seeding and Planting Information Table
@@ -58,7 +56,6 @@
 
 ### Crop Season Information
 
-#### Cool Season Crops
 
 - Prefer cool growing temperatures (60°F to 80°F) of spring and fall.
 - Most are intolerant of summer heat but tolerate light frosts.
@@ -70,7 +67,6 @@
 - Quality relates to rapid growth in good soil with frequent light fertilization and constant water.
 - Crops become strong-flavored if they become dry.
 
-#### Warm Season Crops
 
 - Prefer warmer summer temperatures (70°F to 95°F) and are intolerant of frost.
 - Typically planted after the average spring frost date.
@@ -83,11 +79,3 @@
 - Sustainable Gardening. OSU Extension Service publication EM8782.
 - Vegetable Planting Guide. Colorado State Extension publication CMG Garden Notes #720. [http://cmg.colostate.edu/gardennotes/720.pdf](http://cmg.colostate.edu/gardennotes/720.pdf)
 - Growing Your Own. OSU Extension Service Publication EM 9027. [http://ir.library.oregonstate.edu/xmlui/handle/1957/21092](http://ir.library.oregonstate.edu/xmlui/handle/1957/21092)
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation

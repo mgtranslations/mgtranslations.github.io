@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Organikong Bagay Bilang Pandagdag sa Lupa ng Hardin
 
 Ang mga pandagdag sa lupa ay maaaring magpabuti ng istraktura ng lupa, magdagdag ng pagkamayabong, at makatulong magpanatili ng tubig. Ang mga pandagdag ay dapat mababa sa kemikal na asin at may sapat na nitrogen para mapakain ang mga halaman at mikrobyo ng lupa. Para makinabang ang mga halaman, lagyan ng pandagdag ang buong lupang tatamnan. Kung hindi ito praktikal, ibalik ang orihinal na lupa kapag nagtatanim ng bago. Ang pagpuno ng butas ng tanim gamit ang compost at iba pang pandagdag ay lumilikha ng hangganan sa pagitan ng dalawang uri ng lupa, na maaaring hadlangan ang galaw ng hangin, tubig, at ugat.
@@ -117,8 +115,3 @@ Hindi na inirerekomenda dahil sa pinsalang dulot ng pag-ani ng peat sa kalikasan
 
 **Pagpaplano:** Kailangan itanim at tanggalin ang cover crop sa tamang oras para hindi makasagabal sa gulay na itatanim.  
 [Cover Crops for Home Vegetable Gardens](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, gawain, at materyales nito base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan sa pag-aasawa, katayuan sa pamilya o pagiging magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genes, pagiging beterano, o paghihiganti o pagganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

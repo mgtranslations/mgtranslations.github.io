@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Pag-iipon ng Binhi
 
 ### Bakit Mangolekta ng Binhi?
@@ -19,7 +17,6 @@ May tatlong paraan ng polinasyon: hangin, insekto, at tao.
 - **Self-Pollination**: Tumutukoy sa mga halaman na may bulaklak na may parehong pambabae at panlalaking bahagi. Kabilang dito ang kamatis, sitaw, letsugas, at talong.
 - **Cross-Pollination**: Ang mga halaman tulad ng pipino at kalabasa ay nangangailangan ng hangin o insekto upang madala ang polen mula sa bulaklak ng lalaki papunta sa bulaklak ng babae, sa parehong halaman o sa ibang halaman.
 
-#### Manwal na Polinasyon para sa Mga Hardinero sa Bahay
 
 Para mangolekta ng binhi mula sa mga halaman na nagko-cross-pollinate:
 
@@ -38,7 +35,6 @@ Pumili ng mga halamang walang sakit bilang pinagkukunan ng binhi. Isaalang-alang
   - Ang mga pipino na pwedeng kainin ay wala pang hinog na binhi. Ang hinog na binhi ay nangyayari matapos ang unang hamog na nagyelo, tulad ng sa kalabasa at winter squash.
   - Kolektahin ang binhi ng bulaklak kapag natuyo na at nalalanta, may tuyong ulo o bungang natutuyo at nabubuka na.
 
-#### Ang Tuyong Paraan
 
 Ang mga halamang may tuyong binhi ay kinabibilangan ng gisantes, sitaw, karot, sili, at karamihan sa bulaklak at halamang-gamot.
 
@@ -50,7 +46,6 @@ Ang mga halamang may tuyong binhi ay kinabibilangan ng gisantes, sitaw, karot, s
 **Tandaan:**  
 - Dapat pula/dilaw at kulubot na ang sili bago kolektahin ang binhi. Magsuot ng guwantes para sa maanghang na sili!
 
-#### Ang Basang Paraan
 
 Ang mga halamang may makakatas na bunga tulad ng kamatis ay pinakamabuting iproseso sa pamamagitan ng fermentasyon:
 
@@ -91,10 +86,3 @@ Planuhin na gamitin ang iyong binhi sa loob ng tatlong taon. Dahil bumababa ang 
   - *Mga Pangunahing Konsepto ng Produksyon at Pagpaparami ng Binhi*
 - University of Maine, Cooperative Extension Publications: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *Panimula sa Pag-iipon ng Binhi para sa Mga Hardinero sa Bahay 2750e*
-
-#### Master Gardener™ Payong Horticulture · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, gawain, at materyales batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya o magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, paghihiganti o pagganti dahil sa naunang aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

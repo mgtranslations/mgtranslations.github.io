@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Jardinagem em Canteiros Elevados
 
 Cultivar em canteiros elevados é uma prática comum há séculos. “Elevado” significa que o nível do solo no canteiro é mais alto que o solo ao redor, e “canteiro” indica que é pequeno o suficiente para ser trabalhado a partir dos caminhos.
@@ -89,12 +87,3 @@ A seguir estão algumas publicações da OSU disponíveis no [Catálogo da Exten
 
 - **Raised Bed Gardening FS 270**
 - **How to Build Your Own Raised Bed Cloche EC 1627-E**
-
----
-
-#### Dicas de Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos do 10-Minute University™ e horários das aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paterna, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

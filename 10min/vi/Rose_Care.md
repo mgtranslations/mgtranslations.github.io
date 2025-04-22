@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas · Phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp của OSU Extension
-
 # Chăm Sóc Hoa Hồng
 
 ### Tham Quan Thực Tế
@@ -42,7 +40,6 @@ Sau khi chọn được giống hoa phù hợp, trồng đúng cách là việc 
 
 ### Tỉa Cành
 
-#### Tỉa Chính Giữa Tháng 2
 
 Mở rộng trung tâm cây để không khí lưu thông tốt:
 
@@ -55,14 +52,12 @@ Mở rộng trung tâm cây để không khí lưu thông tốt:
 
 Sau khi tỉa, chỉ giữ lại các cành khỏe mạnh tỏa đều từ gốc.
 
-#### Tỉa Hoa Tàn
 
 Loại bỏ tất cả hoa đã tàn:
 
 1. Khi tỉa hoa cuối cùng, cắt ngay phía trên một lá có 3 hoặc 5 lá chét.
 2. Cắt càng cao trên thân cây thì hoa mới ra càng nhanh, nhưng kích thước hoa nhỏ hơn. Cắt càng thấp thì hoa ra chậm hơn nhưng bông lớn hơn.
 
-#### Tỉa Tháng 11
 
 Cắt ngắn cành để giảm gió làm lay gốc:
 
@@ -86,12 +81,3 @@ Loại bỏ toàn bộ lá để cây bước vào thời kỳ ngủ đông.
 
 - [Kiểm soát bệnh và rệp trên hoa hồng của bạn (EC 1520)](https://catalog.extension.oregonstate.edu/ec1520)
 - [Phủ gốc cây thân gỗ bằng vật liệu hữu cơ (EC 1629-E)](https://catalog.extension.oregonstate.edu/ec1629-e)
-
----
-
-#### Tư vấn Làm Vườn Chuyên Nghiệp · Gọi Tổng đài Làm Vườn Gia đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm các tài liệu 10-Minute University™ và lịch học, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon · Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong mọi chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì đã thực hiện quyền dân sự trước đó. (Không phải mọi tiêu chí đều áp dụng cho tất cả các chương trình.)
----

@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Machen Sie Ihren Garten klimaresistenter: Ökosystem
 
 Die Erde erlebt eine Erwärmung, die zum Schmelzen der Gletscher, zum Anstieg des Meeresspiegels, zur zunehmenden Versauerung der Ozeane und zu häufigeren sowie heftigeren Dürren und Überschwemmungen führt. Im pazifischen Nordwesten gab es lang anhaltende Dürren, zunehmende Häufigkeit und Schwere von Waldbränden, Hitzewellen, Insektenausbrüchen und Baumkrankheiten. Weniger Schneefall führt zu früheren Höchstständen in Flüssen und Bächen und verringert die Wasserversorgung. Zusätzlich zu diesen Trends bringt der Klimawandel häufiger unberechenbare extreme Wetterereignisse (Hitzewellen, Starkregen).  
@@ -75,8 +73,3 @@ Manche Tiere haben ein Verbreitungsgebiet, das zum eigenen Garten passt. Beispie
 ### Wiederverwilderung
 
 Wiederverwilderung wird meist auf große Gebiete angewendet und konzentriert sich darauf, ökologische Funktionen wiederherzustellen. Einige Prinzipien sind auch für Hausgärten sinnvoll. [Mehr über Wiederverwilderung erfahren](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
-
----
-
-#### Der Oregon State University Extension Service verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Kriterien gelten für alle Programme.)
----

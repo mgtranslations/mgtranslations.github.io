@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Machen Sie Ihren Garten klimaresistenter: Wasser
 
 Die Erde erlebt eine Erwärmung, die zum Schmelzen der Gletscher, zum Anstieg des Meeresspiegels, zu steigender Versauerung der Ozeane sowie zu häufigeren und stärkeren Dürren und Überschwemmungen führt. Im pazifischen Nordwesten gab es lang anhaltende Dürren, zunehmende Häufigkeit und Schwere von Waldbränden, Hitzewellen, Insektenplagen und Baumkrankheiten. Weniger Schneefall führt dazu, dass Flüsse und Bäche früher ihren Höchststand erreichen und die Wasserversorgung abnimmt. Zusätzlich zu diesen Entwicklungen bringt der Klimawandel häufiger unberechenbare und extreme Wetterereignisse (wie Hitzewellen oder Starkregen).
@@ -80,8 +78,3 @@ Einige Städte und Landkreise haben spezielle Vorschriften für das Ableiten ode
 
   - [Tropfbewässerung: Eine Einführung (englisch)](https://extension.oregonstate.edu/catalog/pub/em8782-s)
   - [Tipps zum Gießen (englisch)](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
-
----
-
-#### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternschaft, Einkommen aus öffentlichen Mitteln, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Beschwerden zu Bürgerrechten. (Nicht alle genannten Gründe gelten für alle Programme.)
----

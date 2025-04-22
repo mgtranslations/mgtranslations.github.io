@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Clackamas County ee Master Gardener oo kaashanaya lana shaqeynaya Barnaamijka OSU Extension Master Gardener™
-
 ## Ka Dhig Beertaada Mid U Adkaysata Isbedelka Cimilada: Nidaamka Deegaanka
 
 Dhulka wuxuu marayaa koror diirimaad ah taasoo keentay barafyo dhalaalaya, heerarka badda oo kor u kaca, aashitoobada badaha oo kordhaysa, iyo abaaro iyo fatahaado badan oo aad u daran. Waqooyiga Baasifigga waxaa laga arkay abaar dheer, dabaylo badan oo waaweyn iyo tiro badan, mowjado kulayl ah, weerar xamaarato ah, iyo cudurro dhirta ku dhaca. Barafkii oo yaraada wuxuu keenayaa in wabiyada iyo durdurrada biyaha ugu badan la helo xilli hore, taasoo biyo yaraanta keenta. Marka laga soo tago arrimahaas, isbedelka cimilada wuxuu keenayaa dhacdooyin cimilada oo aan la saadaalin karin (kuleyl aad u daran, roobab xoogan) oo marar badan dhaca.  
@@ -75,8 +73,3 @@ Guriga xayawaanka qaar wuxuu la jaanqaadi karaa beertaada. Tusaalooyinka waxaa k
 ### Dabeecad-dib-u-celin (Rewilding)
 
 Dabeecad-dib-u-celin guud ahaan waxay khuseysaa dhul waaweyn oo lagu dadaalayo in la soo celiyo shaqooyinka dabiiciga ah. Qaar ka mid ah mabda’aas waxay ku habboon yihiin beero guri. [Wax badan ka ogow dabeecad-dib-u-celinta](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
-
----
-
-#### Adeegga Kordhinta Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka iyadoo la eegayo: midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidka, dakhliga ka yimaada barnaamijyada kaalmo dowladeed, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaalada ciidanimada, aargoosi ama jawaab celin ku aaddan hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha mamnuuca ah looma adeegsan karo dhammaan barnaamijyada.)
----

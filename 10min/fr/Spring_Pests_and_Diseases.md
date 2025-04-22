@@ -1,7 +1,3 @@
-#### Université 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension de l’OSU
-
----
-
 ## Ravageurs et Maladies du Printemps
 
 ### Dommages Hivernaux (Environnementaux)
@@ -123,12 +119,3 @@ Un champignon, *Calonectria pseudonaviculata*. Peut aussi infecter le pachysandr
 
 **Solution :**  
 Limitez la taille par temps humide ; enlevez et détruisez les feuilles et débris morts ; désinfectez le matériel de taille ; évitez l’arrosage par aspersion ; espacez et éclaircissez les plantes (en automne, par temps sec) pour améliorer la circulation de l’air. Envisagez le houx japonais (*Ilex crenata*) comme alternative.
-
----
-
-#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour plus de fiches et le calendrier des cours 10-Minute University™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, en raison de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut matrimonial, le statut familial/parental, les revenus issus d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les mesures de rétorsion pour une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

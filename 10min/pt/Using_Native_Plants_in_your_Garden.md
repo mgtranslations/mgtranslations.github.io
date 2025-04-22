@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração com e em apoio ao Programa de Mestres Jardineiros da Extensão OSU™
-
 # Usando Plantas Nativas em Seu Jardim
 
 ### Introdução
@@ -69,8 +67,3 @@ Profissionais experientes de viveiros e designers de jardins indicaram espécies
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Estudo de Atratividade de Plantas Nativas – Lista de Plantas**, folheto da 10-Minute University™  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/de pais, renda derivada de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

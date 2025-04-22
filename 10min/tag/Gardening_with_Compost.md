@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Pagtatanim gamit ang Compost
 
 Ang compost ay mahusay na mulch kapag inilalagay sa ibabaw ng lupa. Pinagmumulan ito ng pataba at pampaganda ng lupa kapag hinalo sa lupa. Sundan ang mga hakbang sa handout na ito at maaring gawing compost ng isang hardinero sa bahay ang mga damo, dahon, at iba pang basura sa bakuran para magamit sa bahay.
@@ -137,12 +135,3 @@ Inirerekomenda ang paglalagay ng compost sa ibabaw ng damuhan para dahan-dahang 
 ## Mga Resources ng OSU Extension Service
 
 - [Pagtatanim gamit ang Compost, Mulches at Row Covers, EC 1247](https://catalog.extension.oregonstate.edu)
-
----
-
-#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa 10-Minute University™ handouts at iskedyul ng klase: Bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, kalagayan ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyong henetiko, katayuan bilang beterano, pagganti o paghihiganti sa dating gawaing karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

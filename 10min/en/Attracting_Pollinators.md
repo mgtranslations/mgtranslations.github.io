@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · In collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 ## Attracting Pollinators to Your Garden
 
 ### Pollination & Pollinators
@@ -12,15 +10,12 @@ Common pollinators include birds, bees, butterflies, moths, flies, and beetles. 
 
 ### Recent Threats to Pollinators
 
-#### Habitat Loss
 
 As wildlife habitats are converted for other uses, it destroys pollinators’ food sources and homes.
 
-#### Pesticides
 
 Bees, butterflies, and most other insects are susceptible to pesticides. Exposure can kill or gradually weaken their ability to fly, forage, and produce young.
 
-#### Invasive Species
 
 Some introduced plants take over natural areas and displace native plants that provide a diversity of food resources and habitat types for native pollinators. See *Invasive Species: What Gardeners Need to Know* for more information.
 
@@ -28,13 +23,11 @@ Some introduced plants take over natural areas and displace native plants that p
 
 ### Ways to Help Pollinators
 
-#### Provide Food with Flowering Plants Spring Through Fall
 
 Flowers provide nectar (sugar) and pollen (protein) for pollinators and their young. Because different pollinators may have different food preferences, variety is important. Recent research shows that areas with 15 or more species of flowering plants increase bee diversity.
 
 Gardeners who want to conserve bees should strive to provide a minimum of three species of blooming plants at any given time from spring through fall. Place like flowers together to catch the attention of passing pollinators.
 
-#### General Flower Characteristics for Pollinators
 
 | Flower      | Bee                              | Butterfly                | Bird                        | Fly                                 |
 |-------------|----------------------------------|--------------------------|-----------------------------|-------------------------------------|
@@ -47,19 +40,15 @@ Gardeners who want to conserve bees should strive to provide a minimum of three 
 
 Include spring-blooming plants so that early-season native bees have an immediate food source upon emerging from winter dormancy. Plant late summer bloomers to fuel bees that overwinter as adults (e.g., bumblebees). *Plants for Pollinators*, a 10-Minute University™ handout, offers many ideas.
 
-#### Provide Nesting Habitats for Native Bees
 
 Many native bees nest in the ground. A patch of bare soil or a dry bed of sparsely planted ornamental grass clumps is ideal. Covering soil with plastic mulch or frequent rototilling can destroy nests. Other bees nest in abandoned beetle tunnels in dead tree trunks or brush piles. Ideal nesting areas are dry, warm, protected from predators, and close to food sources.
 
-#### Provide Host Plants for Butterflies and Moths
 
 Adult butterflies and moths usually prefer to feed on nectar, but their young feed on plant leaves. This “host plant” is where the adult lays its eggs. Native ornamental trees and shrubs often make great host plants for many species.
 
-#### Use Native and Exotic Plants
 
 Native plants are fantastic host plants for butterflies and moths and provide food for other pollinators. However, home gardeners who favor exotic plants, particularly floriferous annuals and smaller perennials, should not hesitate to use them to maintain a long season of blooms in the garden.
 
-#### Avoid Pesticides
 
 At the first sign of plant distress, collect evidence for a proper diagnosis. Understanding the problem is requisite to taking effective action. Many plant problems, when detected early, can be managed through non-chemical means. Be vigilant in the garden.
 
@@ -92,11 +81,3 @@ To protect pollinators:
 
 - **The Best Bee Flowers**  
   [Watch on YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

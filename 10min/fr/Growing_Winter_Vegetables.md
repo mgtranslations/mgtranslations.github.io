@@ -1,5 +1,3 @@
-#### Université 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien du programme OSU Extension Master Gardener™
-
 # Cultiver des légumes d’hiver
 
 ### Avantages de cultiver ses propres légumes
@@ -25,17 +23,14 @@ Il est important de connaître la date du premier gel dans votre région. Consul
 
 ### Comment planter
 
-#### Origine
 
 Les légumes peuvent être semés directement ou plantés à partir de jeunes plants. Utilisez des plants spécialement adaptés à la plantation d’automne.
 
-#### Emplacement
 
 Choisissez un endroit qui reçoit six à huit heures de soleil par jour. Profitez des structures comme des murs ou des clôtures orientés au sud qui reflètent et retiennent la chaleur plus longtemps. Les plates-bandes surélevées, faites avec des structures en bois ou simplement en formant des buttes de terre, se réchauffent plus tôt au printemps et gardent la chaleur plus longtemps.
 
 Assurez-vous que votre emplacement est protégé contre les vents forts et que le sol a un bon drainage.
 
-#### Préparation du sol
 
 Préparez votre sol en retirant les pierres et les mauvaises herbes, puis améliorez-le si besoin.
 
@@ -74,7 +69,6 @@ Retrouvez ces publications en ligne sur [https://catalog.extension.oregonstate.e
 - **Améliorer le sol du jardin avec de la matière organique** EC 1561
 - **Fertilité du sol en agriculture biologique** PNW 646
 
-#### Conseils des Maîtres Jardiniers™
 
 - **Appelez la ligne d’assistance horticole à domicile :**
   - 503-655-8631 (Comté de Clackamas)
@@ -82,8 +76,3 @@ Retrouvez ces publications en ligne sur [https://catalog.extension.oregonstate.e
   - 503-445-4608 (Comté de Multnomah)
 - Visitez [www.cmastergardeners.org](https://www.cmastergardeners.org) pour des documents et des vidéos de l’Université 10 Minutes™.
 - Retrouvez les Maîtres Jardiniers sur les marchés de producteurs locaux.
-
----
-
-##### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu issu d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion liées à une précédente action pour les droits civiques. (Tous les critères d’interdiction ne s’appliquent pas à tous les programmes.)
----

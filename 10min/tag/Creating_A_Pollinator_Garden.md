@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Paggawa ng Hardin para sa mga Pollinator
 
 Ang susi sa paggawa ng matagumpay na hardin para sa mga pollinator ay bigyan ang mga insektong nagpapalipat-lipat ng polen at iba pang hayop ng lugar para magpalaki ng kanilang mga anak at tiyakin na may sapat silang mapagkukunan ng pagkain mula tagsibol hanggang huling taglagas. Karaniwang mga pollinator sa hardin ay mga bubuyog, putakti, paru-paro, gamu-gamo, langaw, salagubang, ibon, at maging mga langgam. Dahil maraming uri ng pollinator na may iba-ibang pangangailangan, ang pinakamagandang paraan ay magtanim ng maraming klase ng halamang namumulaklak na nagbibigay ng nektar at polen.
@@ -84,8 +82,3 @@ Iwanan ang mga dahon, tangkay, at buto ng mga halamang walang sakit hanggang hul
 Makipag-ugnayan sa lokal mong OSU Extension office para sa payo mula sa Master Gardener. Tingnan ang site na ito para sa impormasyon sa pakikipag-ugnayan: [Find Your Local Extension Office](https://extension.oregonstate.edu/find-us).
 
 Para sa mga handout at iskedyul ng klase ng 10-Minute University™, bisitahin ang [Clackamas County Master Gardeners](https://cmastergardeners.org).
-
----
-
-#### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti, o paghihiganti para sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay tumutukoy sa lahat ng programa.)
----

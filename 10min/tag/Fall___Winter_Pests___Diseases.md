@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 ## Mga Peste at Sakit Tuwing Taglagas at Taglamig
 
 ### Stink Bugs at Box Elder Bugs (Insekto)
@@ -90,12 +88,3 @@
 - Putulin ang mga patay na sanga at dahon. Sundin ang tamang paraan ng pagpuputol: ang malalaking sanga ay putulin sa tatlong bahagi, at ang maliliit ay putulin sa labas ng usbong sa 45-degree na anggulo.
 - Suriin ang mga bitak sa balat ng puno para sa mga insekto, at alisin kung meron.
 - Bago alisin ang halaman, maghintay muna hanggang magsimulang tumubo upang masigurong patay na ito.
-
----
-
-#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Ang Oregon State University Extension Service ay mahigpit na ipinagbabawal ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang may asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuang beterano, paghihiganti o ganti para sa naunang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
----

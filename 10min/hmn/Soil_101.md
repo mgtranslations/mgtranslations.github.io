@@ -1,5 +1,3 @@
-#### 10-Feeb Thib Tsev Kawm Ntawv™ · Lub Koom Haum Kws Tswv Zos Clackamas County ua ke nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Av 101
 
 ### Av yog dab tsi?
@@ -64,10 +62,3 @@ Tsis txhob khawb av thaum av ntub. Ua li ntawd yuav ua rau av ua pob thiab tawv.
 - [Yuav Ua Li Cas Thiaj Xeem Tau Av thiab Vim Li Cas (EC 628)](https://catalog.extension.oregonstate.edu/)
 - [Ntxiv Tshuaj Ntsuab Rau Koj Vaj: Zaub, Txiv Hmab Txiv Ntoo thiab Paj Zoo Nkauj (EC 1503)](https://catalog.extension.oregonstate.edu/)
 - Ua Vaj Tsev nrog Kompost, 10-Feeb Thib Tsev Kawm Ntawv™ ntawv qhia: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Kws Tswv Zos Qhia · Hu Xovtooj Nug Vaj Ntsuab: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Rau lwm yam 10-Feeb Thib Tsev Kawm Ntawv™ ntawv qhia, mus xyuas [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Oregon State University Extension Service tsis pub cais tawm txhua yam hauv nws cov kev pab, kev ua haujlwm, kev ua si, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, tus kheej txheeb ze (xws li kev qhia tus kheej), kev sib deev, kev xiam oob khab, hnub nyoog, poj niam txiv neej muaj txij nkawm, muaj me nyuam, nyiaj los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, muaj npe ua tub rog, raug txwv tsis pub ua haujlwm yav tag los. (Tsis yog txhua txoj kev txwv no siv rau txhua txoj kev pab.)
----

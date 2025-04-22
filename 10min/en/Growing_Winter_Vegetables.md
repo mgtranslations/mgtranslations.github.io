@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Growing Winter Vegetables
 
 ### Benefits of Growing Your Own
@@ -25,17 +23,14 @@ It is important to know the first frost date for your area. Consult planting gui
 
 ### How to Plant
 
-#### Source
 
 Vegetables can be directly sown from seed or transplanted from starts. Use plants that are specifically designated for fall planting.
 
-#### Location
 
 Choose a site that gets six to eight hours of sunlight. Take advantage of structures such as south-facing walls or fences that reflect and hold heat longer. Raised beds, made with wood structures or simply by mounding soil, heat up earlier in the spring and hold heat longer.
 
 Be sure that your site is protected from strong winds and that the soil has good drainage.
 
-#### Soil Preparation
 
 Prepare your soil by removing any rocks and weeds and amend the soil as needed.
 
@@ -74,7 +69,6 @@ Get these publications online at [https://catalog.extension.oregonstate.edu](htt
 - **Improving Garden Soil with Organic Matter** EC 1561
 - **Soil Fertility in Organic Systems** PNW 646
 
-#### Master Gardener™ Advice
 
 - **Call Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas County)
@@ -82,7 +76,3 @@ Get these publications online at [https://catalog.extension.oregonstate.edu](htt
   - 503-445-4608 (Multnomah County)
 - Visit [www.cmastergardeners.org](https://www.cmastergardeners.org) for 10-Minute University™ handouts and videos.
 - Look for Master Gardeners at area Farmers’ Markets.
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

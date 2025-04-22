@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Jardineros Master del Condado de Clackamas en colaboración y apoyo del Programa Master Gardener™ de OSU Extension
-
 # Instalando un Bioswale
 
 En zonas urbanizadas, la lluvia que cae sobre superficies duras se dirige a tuberías, zanjas y desagües pluviales antes de descargarse en arroyos y ríos. Un bioswale está diseñado para recolectar la escorrentía de agua de lluvia de techos, entradas de autos u otras superficies impermeables. Permite que el agua de lluvia se filtre en el suelo y sea limpiada por las plantas y la tierra, reduciendo así la escorrentía y la contaminación hacia los cauces naturales. El diseño lineal de los bioswales los hace adecuados para captar el agua que corre por los bordes de las calles, pero también se pueden usar en patios delanteros y traseros y bajo las bajadas de agua de los techos. Los bioswales también pueden servir como sustituto de los bordillos o canales.
@@ -76,8 +74,3 @@ Las plantas requieren riego adicional durante el primer verano para ayudarles a 
 
 - **Laboratorios Analíticos que Sirven a Oregón**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, situación familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

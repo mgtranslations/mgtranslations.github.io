@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Clackamas County ee Master Gardener oo kaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Sida loo Koro Suufka (Strawberries)
 
 ### Maxaad U Beerataa Suufka?
@@ -65,7 +63,6 @@ Booqo adeegga OSU Extension Service online: [https://catalog.extension.oregonsta
 - **Noocyada Suufka ee Galbeedka Oregon iyo Washington** (EC 1618)
 - **Koritaanka Miro Oregon Coast: Suufka** (EM 9178) (Sidoo kale waa loo isticmaali karaa Willamette Valley)
 
-#### Talooyinka Master Gardener™
 
 - **Wac Line-ta Talooyinka Beerta Guriga:**
   - 503-655-8631 (Clackamas County)
@@ -73,7 +70,3 @@ Booqo adeegga OSU Extension Service online: [https://catalog.extension.oregonsta
   - 503-445-4608 (Multnomah County)
 - Si aad u hesho waraaqo kale oo 10-Minute University™ ah iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
 - Ka raadi Master Gardeners suuqyada beeraleyda ee deegaanka.
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State University wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku saleysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), nooca galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijyada kaalmada dadweynaha, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, heerka ciidanimada, ama aargudasho/tallaabo laga qaaday xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay looguma dabaqo barnaamij kasta.)

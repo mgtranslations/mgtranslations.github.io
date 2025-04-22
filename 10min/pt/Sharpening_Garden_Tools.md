@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Jardineiros Mestres do Condado de Clackamas em colaboração com e em apoio ao Programa Master Gardener™ da Extensão da OSU
-
 # Como Afiar Ferramentas de Jardim
 
 ### Introdução
@@ -23,7 +21,6 @@ Não é necessário desmontar a ferramenta toda vez que você for afiá-la; por�
 
 ### Como Afiar
 
-#### 1. Descubra Qual Superfície Deve Ser Afiada
 
 | Ferramenta              | Número de Lâminas a Afiar | Lados da Lâmina para Afiar              |
 |-------------------------|---------------------------|------------------------------------------|
@@ -35,15 +32,12 @@ Não é necessário desmontar a ferramenta toda vez que você for afiá-la; por�
 | Picaretas, machados     | Uma                       | Ambos                                    |
 | Forcado de feno         | Várias                    | Cada dente afiado até ficar com ponta arredondada |
 
-#### 2. Limpe as Ferramentas
 
 Remova terra e resina para limpar a superfície de cada ferramenta, alinhe os dentes dos forcados e verifique se as limas estão com materiais presos entre os dentes. Se encontrar sujeira, limpe a lima usando a escova, passando-a no sentido dos dentes da lima. Para limas de corte duplo, passe a escova no ângulo de cada corte. **NÃO** use sabão ou água para limpar a lima.
 
-#### 3. Use um Torno para Prender a Ferramenta
 
 Coloque sua ferramenta no torno na parte mais plana da base da lâmina. Se você prender o torno no lugar errado, pode entortar sua ferramenta de poda.
 
-#### 4. Defina o Ângulo de Afiação
 
 O ângulo ideal para afiar é de 20° a 25°. Para determinar:
 
@@ -51,7 +45,6 @@ O ângulo ideal para afiar é de 20° a 25°. Para determinar:
 - Gire a lima para baixo até a metade, formando um ângulo de 45 graus.
 - Gire novamente pela metade. Isso cria um ângulo de aproximadamente 22,5 graus, ideal para afiar.
 
-#### 5. Comece a Afiar
 
 - Cada movimento da lima deve ser paralelo à lâmina e cobrir todo o comprimento dela.
 - Aplique pressão uniforme da ponta até a base e apenas no movimento para frente.
@@ -60,7 +53,6 @@ O ângulo ideal para afiar é de 20° a 25°. Para determinar:
 
 > **Nota:** Em podadores fora de ajuste, você vai notar metal brilhante na base da lâmina de apoio, mostrando que a lâmina de corte está cortando forte demais ou até entrando na lâmina de apoio. Reajuste as lâminas imediatamente.
 
-#### 6. Finalize
 
 Para lâminas de metal duro, use uma pedra de afiar tipo carborundum média como último passo. Se você tem lâminas de aço duro como Felco, ARS ou outras, pode finalizar usando um afiador de diamante fino ou cerâmica ultrafina. Esse passo leva só uma ou duas passadas.
 
@@ -76,10 +68,3 @@ Para lâminas de metal duro, use uma pedra de afiar tipo carborundum média como
 - [Ferramentas Práticas para o Jardineiro de Hortaliças](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Cuide Bem das Ferramentas de Jardim que Trabalham Muito](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Como Afiar Suas Ferramentas de Jardim](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
-#### Dicas dos Jardineiros Mestres™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos da 10-Minute University™ e horários das aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividades anteriores de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

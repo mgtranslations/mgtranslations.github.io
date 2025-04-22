@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Kws Ua Liaj Ua Teb Clackamas County hauv kev koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Organic Matter Ua Ib Yam Kho Av Rau Vaj
 
 Cov khoom kho av pab txhim kho cov av kom ruaj, pab kom muaj txiaj ntsig zoo, thiab pab kom av tuav dej tau zoo dua. Cov khoom kho av yuav tsum muaj tsawg yam tshuaj ntsev thiab muaj nitrogen txaus rau cov nroj tsuag thiab kab mob me me hauv av noj. Yog xav pab cov nroj tsuag loj hlob zoo, kho tag nrho daim av uas yuav cog nroj tsuag. Yog tias tsis yooj yim ua tau, rov siv av qub los ntim rau hauv qhov uas cog nroj tsuag tshiab. Yog tias tsuas yog muab khoom kho av rau hauv qhov txhaws xwb, nws yuav ua kom muaj qhov sib txawv ntawm ob hom av uas yuav ua kom huab cua, dej, thiab cag nroj tsuag tsis txav taus yooj yim.
@@ -117,8 +115,3 @@ Tsis muaj kev pom zoo ntxiv lawm vim kev puas tsuaj ib puag ncig los ntawm kev k
 
 **Npaj Ua Ntej:** Yuav tsum npaj thiab txiav cov nroj tsuag npog av rau sijhawm kom tsis txhob sib tw nrog vaj zaub.  
 [Cover Crops for Home Vegetable Gardens](https://cmastergardeners.files.wordpress.com/2022/10/cover-crops-for-home-vegetable-gardens.pdf)
-
----
-
-#### Oregon State University Extension Service tsis pub cais tawm leej twg hauv nws cov haujlwm, kev pab, thiab ntaub ntawv, vim yog haiv neeg, xim tawv nqaij, teb chaws, kev ntseeg, poj niam txiv neej, leej twg yog tus qhia txog poj niam txiv neej, kev nyiam sib deev, xiam oob khab, hnub nyoog, kev muaj poj niam/txiv, muaj menyuam, nyiaj los ntawm kev pab pej xeem, kev ntseeg txog kev nom tswv, ntaub ntawv caj ces, ua tub rog, raug nplua lossis raug rau txim vim yog kev tiv thaiv cai. (Tsis tag nrho cov kev cais tawm no siv rau txhua qhov program.)
----

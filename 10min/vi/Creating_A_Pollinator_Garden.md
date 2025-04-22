@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia của OSU Extension Master Gardener™
-
 # Tạo Vườn Thu Hút Côn Trùng Thụ Phấn
 
 Chìa khóa để tạo ra một khu vườn thu hút côn trùng thụ phấn thành công là cung cấp cho côn trùng thụ phấn và các sinh vật khác một nơi để nuôi con non và đảm bảo rằng chúng có nguồn thức ăn ổn định từ mùa xuân đến cuối mùa thu. Những loài thụ phấn phổ biến trong vườn bao gồm ong, ong bắp cày, bướm, bướm đêm, ruồi, bọ cánh cứng, chim và thậm chí cả kiến. Vì có rất nhiều loài thụ phấn với nhiều nhu cầu khác nhau, chiến lược tốt nhất là trồng nhiều loại cây hoa khác nhau có thể cung cấp mật hoa và phấn hoa.
@@ -84,8 +82,3 @@ Giữ lại các lá, thân cây và đầu hạt không bị bệnh trong vư�
 Liên hệ với văn phòng OSU Extension địa phương để được tư vấn từ Master Gardener. Kiểm tra trang này để biết thông tin liên hệ: [Tìm văn phòng Extension gần bạn](https://extension.oregonstate.edu/find-us).
 
 Để xem tài liệu và lịch học của 10-Minute University™, hãy truy cập [Clackamas County Master Gardeners](https://cmastergardeners.org).
-
----
-
-#### Dịch vụ Mở rộng Đại học Bang Oregon · Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, quốc tịch, tôn giáo, giới tính, nhận dạng giới (bao gồm cả biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc trẻ em, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả đũa vì các hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

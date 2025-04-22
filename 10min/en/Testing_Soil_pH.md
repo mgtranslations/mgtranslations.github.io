@@ -1,7 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
----
-
 ## Testing Soil pH
 
 ### Overview
@@ -71,7 +67,6 @@ Each sample will yield a pH reading:
 
 When Master Gardeners conduct the test, they also help interpret the results and provide information on remedies. It is best to adjust soil pH over several years. Add the appropriate amendment in the fall and check the soil pH again in 3 to 6 months. Repeat as needed.
 
-#### Raising Soil pH
 
 - Add lime in the fall for optimal results.
 - Use **5 to 10 pounds of lime per 100 square feet** if mixing into the soil before planting.
@@ -85,7 +80,6 @@ When Master Gardeners conduct the test, they also help interpret the results and
 - If using powdered lime, wear a mask.
 - Dolomite lime contains magnesium and is a good choice for gardeners in Western Oregon, where soils are often deficient in magnesium.
 
-#### Lowering Soil pH
 
 - Add elemental sulfur in the fall for best results.
 - For established trees and shrubs, add a small amount to the soil along the drip line or broadcast in a band along a row of blueberries.
@@ -102,11 +96,3 @@ Visit your OSU Extension Service office at 200 Warner-Milne Road, Oregon City, f
 - **A List of Analytical Labs Serving Oregon** (EM 8677)
 - **Soil Sampling for Home Gardens and Small Acreages** (EC 628)
 - **Acidifying Soil for Blueberries and Ornamental Plants in the Yard and Garden** (EC 1560-E)
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For more 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](http://www.cmastergardeners.org) or [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

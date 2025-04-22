@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Maulwürfe Bekämpfen
 
 ### Einführung
@@ -52,10 +50,3 @@ Maulwürfe brauchen viel Nahrung und können bis zu einem halben Kilometer am Ta
 
 - [Maulwürfe bekämpfen EC 987](https://catalog.extension.oregonstate.edu)
 - [Handbuch nachhaltiges Gärtnern EM 8742](https://catalog.extension.oregonstate.edu)
-
-#### Master Gardener™-Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für Handouts und Kursplan der 10-Minuten-Universität™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Oregon State University Extension Service untersagt Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Ausdruck der Geschlechtsidentität), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Informationen, Veteranenstatus sowie Vergeltungsmaßnahmen oder Repressalien im Zusammenhang mit früherer Ausübung von Bürgerrechten. (Nicht alle ausgeschlossenen Kriterien gelten für alle Programme.)
----

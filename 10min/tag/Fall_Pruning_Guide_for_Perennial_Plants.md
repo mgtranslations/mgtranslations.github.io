@@ -1,5 +1,3 @@
-#### Gabay sa Pagputol ng mga Halamang Perennial tuwing Taglagas · Inihanda ni Laura Eyer · 10/9/2018
-
 ## Putulin
 
 - Bearded Iris
@@ -43,7 +41,6 @@
 
 ## Huwag Putulin, Hayaan Lang Tumayo
 
-#### Inihanda ni Laura Eyer · 10/9/2018
 
 - Artemisia
 - Aster

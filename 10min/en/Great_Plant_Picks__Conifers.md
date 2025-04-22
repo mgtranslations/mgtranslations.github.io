@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # 10-Minute University
 
 ## Great Plant Picks: Conifers
@@ -60,5 +58,3 @@
 ---
 
 Great Plant Picks (GPP) is the primary educational program of the Elisabeth C. Miller Botanical Garden. In 2001 the first list debuted with recommendations for building a comprehensive palette of outstanding plants for the maritime Pacific Northwest. To date over 1,000 exceptional plants have been selected for gardeners living west of the Cascade Mountains from Eugene, Oregon, USA to Vancouver, British Columbia, Canada. GPP plants selected for this list meet these criteria: can live in a variety of soils, need moderate or less supplemental water, can tolerate heat, are cold hardy in USDA zone 7, are not prone to disease/pest problems, and offer more than 1-season of interest in the garden. Many GPP plants also offer ecological benefits (pollinators, bird food, habitat for wildlife, etc.)
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran's status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

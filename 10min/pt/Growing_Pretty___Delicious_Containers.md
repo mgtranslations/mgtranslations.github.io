@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Cultivando Vasos Bonitos e Deliciosos
 
 ### Visão Geral
@@ -44,7 +42,6 @@ Considere plantas com alturas diferentes e vegetais de cores vibrantes. É impor
 
 ### Design
 
-#### Estrutura de Design: Destaque, Preenchimento e Queda
 
 - **Destaque (Thriller)**: A planta maior e mais marcante do vaso, geralmente colocada no centro (se o vaso for visto por todos os lados) ou na parte de trás (se visto só de um lado). Essa planta traz um elemento vertical forte ao arranjo.
   - Exemplos: Pimenteira, estrutura de feijões trepadores, arbusto de mirtilo, tomateiro ou couve-russa alta para vasos menores.
@@ -79,10 +76,3 @@ A maioria das plantas listadas aqui vai passar por seu ciclo de vida, produzindo
 - **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
 - **Materiais e vídeos da Universidade de 10 Minutos™**  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
-#### Conselho de Mestre Jardineiro™ · Ligue para o Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Para outros materiais e cronogramas de aulas da Universidade de 10 Minutos™, acesse [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais, com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade prévia de direitos civis. (Nem todos os critérios proibidos se aplicam a todos os programas.)
----

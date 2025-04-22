@@ -1,5 +1,3 @@
-#### 10-Feeb University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kawm Ua Vaj Tsev Zaub Siv Dej Tsawg
 
 ### Saib Dav
@@ -96,11 +94,3 @@ Lub OSU Extension Small Farms tau sim xyuas seb puas yog “ua qoob loo tsis siv
   - Nichols Garden Nursery
   - Peace Seeds
   - Siskiyou Seeds
-
----
-
-#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm phau ntawv qhia 10-Minute University™ thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub ua txhaum cai, tsis pub cais tawm hauv txhua qhov kev pab, kev pabcuam, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim tawv nqaij, tebchaws yug, kev ntseeg, poj niam txiv neej, tus kheej txheeb ze poj niam txiv neej (xws li kev qhia tus kheej), kev nyiam poj niam/txiv neej, xiam oob qhab, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, lossis kev raug txim rau kev tiv thaiv cai qub. (Tsis yog txhua yam uas txwv tsis pub siv rau txhua qhov kev pab.)

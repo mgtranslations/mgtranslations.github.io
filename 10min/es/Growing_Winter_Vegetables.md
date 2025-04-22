@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Cultivar Verduras de Invierno
 
 ### Beneficios de Cultivar Tus Propias Verduras
@@ -25,17 +23,14 @@ Es importante conocer la fecha de la primera helada en tu área. Consulta guías
 
 ### Cómo Plantar
 
-#### Fuente
 
 Las verduras pueden sembrarse directamente de semilla o trasplantarse de plántulas. Usa plantas específicamente indicadas para siembra de otoño.
 
-#### Ubicación
 
 Elige un lugar que reciba de seis a ocho horas de sol. Aprovecha estructuras como paredes o cercas orientadas al sur que reflejen y retengan el calor por más tiempo. Las camas elevadas, hechas con madera o simplemente amontonando tierra, se calientan antes en primavera y retienen el calor por más tiempo.
 
 Asegúrate de que tu sitio esté protegido de vientos fuertes y que el suelo tenga buen drenaje.
 
-#### Preparación del Suelo
 
 Prepara tu suelo quitando piedras y maleza y enmiéndalo según sea necesario.
 
@@ -74,7 +69,6 @@ Encuentra estas publicaciones en línea en [https://catalog.extension.oregonstat
 - **Mejorando el Suelo del Huerto con Materia Orgánica** EC 1561
 - **Fertilidad del Suelo en Sistemas Orgánicos** PNW 646
 
-#### Consejos de Maestros Jardineros™
 
 - **Llama a la Línea de Ayuda de Horticultura en el Hogar:**
   - 503-655-8631 (Condado de Clackamas)
@@ -82,8 +76,3 @@ Encuentra estas publicaciones en línea en [https://catalog.extension.oregonstat
   - 503-445-4608 (Condado de Multnomah)
 - Visita [www.cmastergardeners.org](https://www.cmastergardeners.org) para folletos y videos de Universidad de 10 Minutos™.
 - Busca Maestros Jardineros en los mercados de agricultores de la zona.
-
----
-
-##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

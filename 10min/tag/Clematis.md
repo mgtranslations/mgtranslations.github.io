@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
-
 # Binagong Hortikultural na Pag-uuri para sa Genus *Clematis*
 **Tinanggap ng I.Cl.S. Council Hunyo 2019**  
 *(Sinimulan sa isang workshop ng International Clematis Society sa Wisley Garden, 3–5 Hulyo 2017, na may mga kasunod na anotasyon mula sa mga miyembro ng working group)*
@@ -120,18 +118,15 @@
 
 **Mga Katangian ng Saklaw:** Malalagas ang dahon. Umaakyat, kadalasan ay malalakas ang tubo. Kadalasang namumulaklak ng tag-init, sa bagong tubo ng kasalukuyang taon. Maraming bulaklak, 1–5 cm ang lapad, kadalasang hugis kampana o bituin, kadalasan ay puti o dilaw.
 
-#### Huling Bituin na Clematis
 
 - **Mga Katangian:** Katamtamang laki na umaakyat, ang mga bulaklak ay hugis bituin, kadalasang puti at mabango.
 - **Mga Halimbawa:** *flammula*, *terniflora*, × *triternata* ‘Rubromarginata’, ‘Sweet Summer Love’.
 - **Pagputol:** Opsyonal, depende sa espasyo. Kung kinakailangan, putulin ng matindi sa <0.5m sa gitna ng tagsibol, paglabas ng bagong tubo. Kung nais, linisin na lang.
 
-#### Huling Dilaw na Clematis
 
 - **Mga Katangian:** Ang mga bulaklak ay kadalasang dilaw at hugis kampana o nakabuka.
 - **Mga Halimbawa:** *buchananiana*, *connata*, *intricata*, *ladakhiana*, *orientalis*, *rehderiana*, *tangutica*, *tibetana*, ‘Bill MacKenzie’, ‘Helios’ (tinanggap bilang ‘Daihelios’ sa Japan), ‘Kugotia’, GOLDEN TIARA, ‘Lambton Park’.
 
-#### Mararahas Tumubo na Clematis
 
 - **Mga Katangian:** Mabilis tumubo, kadalasang puti ang bulaklak, at ang mga usbong at bulaklak ay nakaharap pataas.
 - **Mga Halimbawa:** *ligusticifolia*, *potaninii*, *vitalba*, *virginiana*, ‘Paul Farges’ SUMMER SNOW.
@@ -144,12 +139,3 @@
 **Mga Katangian ng Saklaw:** Mga katangian na hindi madaling magkasya sa alinman sa itaas.
 
 - **Mga Halimbawa:** *columbiana*.
-
----
-
-#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan sa pamilya/magulang, kita mula sa pampublikong programa, paniniwalang pampulitika, impormasyon ng genetika, katayuan bilang beterano, paghihiganti, o pagdanas ng represyon dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

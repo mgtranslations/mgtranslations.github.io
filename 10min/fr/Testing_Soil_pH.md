@@ -1,7 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
----
-
 ## Tester le pH du sol
 
 ### Aperçu
@@ -71,7 +67,6 @@ Chaque échantillon donnera une valeur de pH :
 
 Quand les Maîtres Jardiniers font le test, ils vous aident aussi à interpréter les résultats et vous donnent des conseils pour corriger le pH. Il est préférable d’ajuster le pH du sol sur plusieurs années. Ajoutez l’amendement approprié à l’automne et vérifiez à nouveau le pH du sol après 3 à 6 mois. Répétez si nécessaire.
 
-#### Augmenter le pH du sol
 
 - Ajoutez de la chaux à l’automne pour de meilleurs résultats.
 - Utilisez **5 à 10 livres de chaux pour 10 m²** si vous mélangez dans le sol avant de planter.
@@ -85,7 +80,6 @@ Quand les Maîtres Jardiniers font le test, ils vous aident aussi à interpréte
 - Si vous utilisez de la chaux en poudre, portez un masque.
 - La chaux dolomitique contient du magnésium et est un bon choix pour les jardiniers de l’ouest de l’Oregon, où les sols manquent souvent de magnésium.
 
-#### Diminuer le pH du sol
 
 - Ajoutez du soufre élémentaire à l’automne pour de meilleurs résultats.
 - Pour les arbres et arbustes déjà en place, ajoutez-en une petite quantité sur le pourtour des racines ou étalez-en une bande le long d’une rangée de bleuets.
@@ -102,12 +96,3 @@ Rendez-vous à votre bureau du Service de vulgarisation OSU au 200 Warner-Milne 
 - **Liste des laboratoires d’analyses desservant l’Oregon** (EM 8677)
 - **Prélèvement d’échantillons de sol pour jardins familiaux et petites propriétés** (EC 628)
 - **Acidification du sol pour les bleuets et les plantes ornementales de la cour et du jardin** (EC 1560-E)
-
----
-
-#### Conseils de Maître Jardinier™ · Appelez la ligne d’aide en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour plus de fiches et d’horaires de cours 10-Minute University™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org) ou [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### Le Service de vulgarisation de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut matrimonial, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, l’information génétique, le statut d’ancien combattant, les représailles ou les rétorsions pour une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

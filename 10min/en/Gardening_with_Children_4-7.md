@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · In Cooperation with Oregon State University Extension Service
-
 ## Gardening with Children Ages 4-7
 
 Gardening with children can be one of the most rewarding experiences for both the child and the parent, grandparent, or mentor. Children are natural gardeners because they are curious, learn by doing, and enjoy playing in the dirt.
@@ -25,7 +23,6 @@ Vegetable gardening can be especially rewarding for children of all ages. Young 
 
 You can adjust the amount of work to fit the child and the time frame. Remember, it is important to make the experience rewarding for both of you, so be sure to think about the scope of the activity and quit before anyone becomes overwhelmed or frustrated—including adults.
 
-#### Plant Flowers or Vegetables for Pollinators
 
 Gardeners value insects and pollinators that live in and visit the garden. You can plant sunflowers, zinnias, or nasturtiums. They are attractive and provide food for pollinators.
 
@@ -34,7 +31,6 @@ Check out these publications from Oregon State University:
 - [Encouraging Beneficial Insects in Your Garden](https://catalog.extension.oregonstate.edu/pnw550)
 - [Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)
 
-#### Go on a Slug Hunt
 
 Children will learn how slugs play a role in an ecosystem. There are three common slugs in the Pacific Northwest:
 
@@ -49,7 +45,6 @@ Check out these resources:
 - [Identifying Slugs and Snails](https://agsci.oregonstate.edu/slug-portal/identification)
 - [Slugs and Snails](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
 
-#### Hunt for Decomposers
 
 Worms, sowbugs, ants, and snails are all part of the ecosystem and are essential in breaking down organic matter into humus. They are to be celebrated.
 
@@ -59,7 +54,6 @@ Check out Oregon State University’s resource on decomposers:
 
 - [Worms as Decomposers](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
 
-#### Planting Tips
 
 Give kids essential information about planting in a spot with the most sunlight and ensuring the soil covers the seeds (not too deeply). Encourage them to observe how insects interact with the plants as they grow.
 
@@ -87,9 +81,3 @@ Here are a few suggestions:
 - *Flip, Float, Fly: Seeds on the Move* by JoAnn Early Macken
 - *Berries, Nuts and Seeds* by Diane L. Burns
 - *Jack’s Garden* by Henry Cole
-
-#### Master Gardener™ Advice · Call the Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For 10-Minute University™ handouts and class schedule: Visit [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

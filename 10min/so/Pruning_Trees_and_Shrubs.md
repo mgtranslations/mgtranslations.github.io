@@ -1,5 +1,3 @@
-#### Jaamacadda 10 Daqiiqo™ · Ururka Beeralayda Xirfadlayaasha ah ee Clackamas County oo kaashanaya iyo taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Goynta Geedaha iyo Dhirta
 
 ### Sababaha Loo Gooyo
@@ -49,7 +47,6 @@ Dhirta ubaxa leh, gooynta waa in la sameeyaa xilli aan la carqaladaynin ubaxa:
 - **Dhirta ubaxda guga** (Jadwalka 1) waxay ubaxaan koritaankii sanadkii hore; gooy si degdeg ah kadib ubaxa si aad u dhiirrigeliso kobaca xagaaga.
 - **Dhirta ubaxda ka dib Juun** (Jadwalka 2) waxay ubaxaan burooyinka ku samaysma laamaha sanadkan; gooy dhirtan dhammaadka jiilaalka si aad u dhiirrigeliso kobaca laanaha guga.
 
-#### Jadwalka 1: Dhir Ubaxda Koritaankii Sanadkii Hore
 
 | Magaca Sayniska           | Magaca Caadiga ah          |
 |-------------------------- |---------------------------|
@@ -72,7 +69,6 @@ Dhirta ubaxa leh, gooynta waa in la sameeyaa xilli aan la carqaladaynin ubaxa:
 | Viburnum spp.             | Viburnum                  |
 | Weigela florida           | Weigela dhaqameed         |
 
-#### Jadwalka 2: Dhir Ubaxda Laamaha Sanadkan
 
 | Magaca Sayniska            | Magaca Caadiga ah         |
 |--------------------------- |--------------------------|
@@ -120,8 +116,3 @@ Laamaha ka weyn 1½ inch ballac ahaan waa in lagu jaraa saddex tallaabo sida hoo
 - [Goynta roses](https://www.youtube.com/watch?v=9Ois08vuz98)
 - [Goynta geedka miraha](https://www.youtube.com/watch?v=ZbVGhlG1LUA)
 - [Tababarka geedka miraha](https://www.youtube.com/watch?v=XvXIqTQcCYI)
-
----
-
-#### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxa uu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan jinsiyad, midab, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhliga laga helo barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadda, xogta hidaha, heerka halyeeynimo, ciqaabta ama aargoosiga la xiriira hawlo xuquuqda madaniga ah oo horey u dhacay. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
----

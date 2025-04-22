@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
-
 # Đại học 10 Phút
 
 ## Những Lựa Chọn Cây Tuyệt Vời: Cây Lá Kim

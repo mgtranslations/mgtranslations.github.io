@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
-
 # Trồng Rau Trên Luống Cao
 
 Trồng cây trên luống cao đã là một phương pháp phổ biến suốt nhiều thế kỷ. "Cao" nghĩa là mặt đất trong luống cao hơn so với đất xung quanh, còn "luống" nghĩa là nó đủ nhỏ để bạn có thể làm việc từ các lối đi bên cạnh.
@@ -89,12 +87,3 @@ Dưới đây là một số tài liệu của Đại học Bang Oregon (OSU). B
 
 - **Raised Bed Gardening FS 270** (Trồng Rau Trên Luống Cao FS 270)
 - **How to Build Your Own Raised Bed Cloche EC 1627-E** (Cách Tự Làm Khung Che Cho Luống Cao EC 1627-E)
-
----
-
-#### Tư Vấn Làm Vườn Chuyên Nghiệp · Gọi Đường Dây Hỗ Trợ Nông Nghiệp Gia Đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng của Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù, hoặc bị trả đũa do các hoạt động quyền dân sự trước đó. (Không phải tất cả các cơ sở cấm đều áp dụng cho mọi chương trình.)
----

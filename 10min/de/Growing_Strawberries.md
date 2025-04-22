@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 # Erdbeeren anbauen
 
 ### Warum Erdbeeren anbauen?
@@ -65,7 +63,6 @@ Besuche den OSU Extension Service online unter [https://catalog.extension.oregon
 - **Erdbeersorten für West-Oregon und Washington** (EC 1618)
 - **Beerenanbau an der Küste Oregons: Erdbeeren** (EM 9178) (Gilt auch für das Willamette Valley)
 
-#### Master Gardener™ Beratung
 
 - **Ruf die Home Horticulture Helpline an:**
   - 503-655-8631 (Clackamas County)
@@ -73,8 +70,3 @@ Besuche den OSU Extension Service online unter [https://catalog.extension.oregon
   - 503-445-4608 (Multnomah County)
 - Weitere 10-Minute University™ Merkblätter und Kurspläne findest du unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
 - Suche nach Master Gardeners auf den Wochenmärkten in deiner Nähe.
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, durch öffentliche Hilfe erzieltem Einkommen, politischen Überzeugungen, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----

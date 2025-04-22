@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
 ## Selecciones de Grandes Plantas: Bulbos, Helechos, Enredaderas y Pastos
 
 ### Clave
@@ -85,8 +83,3 @@ Great Plant Picks (GPP) es el programa educativo principal del Jardín Botánico
 - No son propensas a enfermedades o plagas.
 - Ofrecen más de una temporada de interés en el jardín.
 - Muchas plantas GPP también ofrecen beneficios ecológicos (polinizadores, alimento para aves, hábitat para vida silvestre, etc.).
-
----
-
-###### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingreso derivado de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

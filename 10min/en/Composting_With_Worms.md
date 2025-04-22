@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Composting with Worms
 
 A worm bin is an easy way to turn food waste into fertilizer and amendments for your garden. Redworms are voracious recyclers that transform apple peels, zucchini stems, and other kitchen wastes in just a few months. Supply them with a home furnished with bedding and food, and they will go to work.
@@ -32,7 +30,6 @@ Worms can eat half their weight in food in 24 hours. Estimate the weight of your
 
 Although worms can break down just about any organic waste, it’s best to treat them as vegetarians.
 
-#### Do Feed:
 
 - Vegetable scraps
 - Coffee grounds & filters
@@ -43,7 +40,6 @@ Although worms can break down just about any organic waste, it’s best to treat
 - Animal hair
 - Shredded paper
 
-#### Don’t Feed:
 
 - Meat, fish, dairy products
 - Greasy or oily foods
@@ -73,7 +69,6 @@ Redworms require moist conditions all year-round because they don’t tunnel dee
 
 ### Potential Problems and Solutions
 
-#### Odor
 
 You can control odors by:
 
@@ -81,7 +76,6 @@ You can control odors by:
 - Keeping out items listed under “Don’t Feed” in the “Worm Food” section
 - Providing adequate fresh bedding
 
-#### Pests
 
 - **Vinegar flies**: Sometimes the very small vinegar fly (often mistaken for the fruit fly) gets in, but these do no harm. However, very large numbers of vinegar flies may indicate that you are feeding the worms too much. To eradicate vinegar flies:
   - Slow your rate of feeding to how much the worms will consume in one day.
@@ -104,11 +98,3 @@ You can control odors by:
   [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
 - **Worms Eat My Garbage**, Mary Appelhof, Second Edition
 - **Welcome to the Can-O-Worms**, N. Nattrass
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

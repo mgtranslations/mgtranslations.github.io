@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Saib Xyuas Teb Vaj Clackamas County ua ke nrog thiab pab txhawb rau OSU Extension Master Gardener™ Program
-
 # Mason Bee Nyob Rau Nroj Tsuag
 
 ### Txheej txheem
@@ -42,7 +40,6 @@ Muaj ntau yam kab mob, tsiaj ntxub, thiab kab mob uas ua rau mason bees raug mob
 
 Koj yuav ua kom koj cov bees tsis muaj mites thiab chalkbrood los ntawm kev ntxuav plhaw ntawm Lub Kaum Hli txog Lub Kaum Ob Hlis. Cov kab laus twb loj tag lawm thiab yuav tiv taus txoj kev ntxuav no.
 
-#### Txoj Kev Ntxuav
 
 1. Ntxuav koj cov bees nrog dej tsis txias tshaj 50°F kom lawv tsis sawv los.
 2. Ntuav cov plhaw rau hauv dej txias tsis tshaj 5 feeb nrog 0.05% bleach (1 diav bleach rau 1 gallon dej).
@@ -59,12 +56,3 @@ Koj yuav ua kom koj cov bees tsis muaj mites thiab chalkbrood los ntawm kev ntxu
   [Nyeem ntxiv ntawm no](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Saib Xyuas Mason Bees Nyob Tom Qab Tsev Nyob Western Oregon*, Oregon State University Extension publication EM 9130  
   [Nyeem ntxiv ntawm no](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Lus Qhia Saib Xyuas Vaj · Hu Xov Tooj Nug: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Rau lwm cov ntawv qhia 10-Minute University™ thiab video, mus xyuas [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub ua txhaum cai rau txhua yam hauv nws cov program, kev pab, kev ua haujlwm, thiab cov ntaub ntawv vim kev haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, cim poj niam txiv neej (xws li kev qhia poj niam txiv neej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, lub neej tsev neeg/kev ua niam txiv, nyiaj los ntawm kev pab pej xeem, kev ntseeg ua nom ua tswv, ntaub ntawv caj ces, kev ua rog, kev tsim txom lossis kev rau txim vim ua ntej tau tawm suab txog kev cai. (Tsis yog txhua yam txwv yuav siv rau txhua cov program.)
----

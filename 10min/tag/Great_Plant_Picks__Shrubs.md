@@ -1,5 +1,3 @@
-#### 10-Minute University™ Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
-
 # Mahuhusay na Halamang Pinipili: Mga Palumpong
 
 *S: Halaman para sa Maliwanag o Madilim na Hardin, D: Kayang mabuhay kahit tuyo, W: Pakinabang sa mga Hayop: Ibon, Bubuyog, Paruparo, Hummingbird*

@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Gia của OSU Extension
-
 # Sử Dụng Cây Bản Địa Trong Vườn Của Bạn
 
 ### Giới Thiệu
@@ -69,8 +67,3 @@ Các chuyên gia vườn ươm và thiết kế vườn giàu kinh nghiệm đã
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
 - **Nghiên Cứu Sức Hấp Dẫn Của Cây Bản Địa – Danh Sách Cây**, tài liệu Đại học 10 Phút™  
   [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở rộng Đại học Bang Oregon (Oregon State University Extension Service) nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới tính (bao gồm biểu hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ các chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa cho hoạt động bảo vệ quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
----

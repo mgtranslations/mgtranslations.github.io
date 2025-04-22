@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khibradda leh ee Clackamas County · Iskaashi iyo Taageero Barnaamijka OSU Extension Master Gardener™
-
 ## Hordhac Ku Saabsan Korinta Khudaarta Xididka ah
 
 Khudaarta xididka ah waxay meel muhiim ah ka leedahay beeralayda khudaarta. Waa kuwa ugu horreeya iyo kuwa ugu dambeeya ee la goosto, waxaana suurtagal ah in aad sii haysato ilaa xilliga jiilaalka haddii aad si fiican ugu kaydiso guriga. Khudaartan waxay ku fiican yihiin beerta maxaa yeelay meel yar ayay ka qaataan, muddo dheer ayaa la goosan karaa, waxayna soo saaraan cunto tamar badan leh. Waxay si fiican ugu koraan sariiraha kor loo qaaday, dhulka tooska ah, iyo beero weel lagu beero.
@@ -80,7 +78,6 @@ Fahanka qoysaska dhirta iyo wareejinta dalagga waa muhiim si loo helo dalag caaf
 
 Wareejinta dalagga afar sano ah waxay ka hortagtaa dhibaatooyin, waxayna xoojisaa ciidda, taasoo keenta wax-soosaar fiican oo khudaarta xididka ah ah. Wareejinta dalagga iyo dhirta xiga ee la beero waxay kordhiyaan kala duwanaanshaha dabiiciga ah ee beerta. Dhirta is xigta waa hab fiican oo meel lagu badbaadiyo, dhirtaana waxay is caawiyaa marka la isku beero.
 
-#### Qoysaska Dhirta iyo Kuwo la Weheliyo
 
 - **Chenopodiaceae**: beets, spinach, chard  
   - Kuwo la weheliyo: digir gaaban, lettuce, basal, radish
@@ -107,8 +104,3 @@ Wareejinta dalagga afar sano ah waxay ka hortagtaa dhibaatooyin, waxayna xoojisa
 - [Taxanaha Beeralayda Fudud - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
 - [Khudaarta Xididka](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
 - [Khudaarta Hoos-dhulka ku jirta](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
-
----
-
-#### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabkeeda iyadoo lagu saleynayo: jinsiyadda, midabka, asal qaran, diinta, jinsi, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), galmo, naafonimo, da', xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka yimaada barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidaha, xaaladda duqa ah, ama aargoosi ama ciqaab loo geystay qof hore u qaatay hawlaha xuquuqda madaniga ah. (Dhammaan xeerarka mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
----

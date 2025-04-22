@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Guryaha ee Degmada Clackamas oo kaashanaya isla markaana taageeraya Barnaamijka OSU Extension Master Gardener™
-
 # Sida Loo Daryeelo Dhirta Guriga
 
 Korinta dhirta guriga waa hab fiican oo gurigaaga loogu daro cagaar qurux badan. In kasta oo dhir badan oo guriga lagu beero ay fududahay in la kori karo, dhir kastaa waxay u baahan tahay daryeel aasaasi ah. Dhirta waxay ku korodhsataa meel la mid ah deegaanka ay asal ahaan ka soo jeedaan. Ka hor intaadan iibsan dhir cusub, ogow baahiyahooda aasaasiga ah si aad u hubiso inaad u heli karto meel ku habboon gurigaaga oo aad si fiican ugu daryeeli karto.
@@ -83,12 +81,3 @@ Boodhku wuxuu ku ururi karaa caleemaha, taasoo ka dhigi karta mid madow oo caqab
 - [Succulents-ka sahlan ayaa sii caan baxaya](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [Dhirta midabka leh ee gudaha waxay yihiin hadiyado qurux badan xilliga fasaxyada](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [Dhirta basbaaska gudaha ayaa cuntada dhadhan u yeelaysa](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### Talooyinka Master Gardener™ · La xiriir xafiiska OSU Extension ee deegaankaaga si aad u hesho talooyin Master Gardener. Ka hubi boggan xogta xiriirka: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Wixii warqado iyo jadwal fasallo ah ee Jaamacadda 10-Daqiiqo™, booqo [https://cmastergardeners.org](https://cmastergardeners.org).
-
----
-
-##### Adeegga Kordhinta Jaamacadda Oregon State waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), nooca galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo baxa barnaamijka caawimada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sideyaasha, xaaladda askarnimada, aargoosi ama ciqaab la xiriira ku xadgudubkii hore ee xuquuqda madaniga ah. (Dhammaan saldhigyada la mamnuucay lama daboolayo dhammaan barnaamijyada.)
----

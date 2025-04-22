@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración con y en apoyo del Programa de Maestros Jardineros de Extensión de OSU
-
 # Abeja Albañil de Huerto
 
 ### Resumen
@@ -42,7 +40,6 @@ Varios parásitos, depredadores y patógenos pueden dañar o matar a las abejas 
 
 Puedes eliminar ácaros y moho calcáreo de tus abejas limpiando los capullos entre octubre y diciembre. Los adultos ya están completamente desarrollados en ese momento y pueden soportar este proceso.
 
-#### Proceso de Limpieza
 
 1. Lava tus abejas en agua que no esté más caliente que 50°F (10°C) para evitar que se despierten.
 2. Remoja los capullos por no más de 5 minutos en agua fría con una mezcla de 0.05% de cloro (1 cucharada de cloro por cada galón de agua).
@@ -59,12 +56,3 @@ Puedes eliminar ácaros y moho calcáreo de tus abejas limpiando los capullos en
   [Leer más aquí](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
 - *Cuidando Abejas Albañiles en tu Patio Trasero en el Oeste de Oregón*, Publicación de Extensión de la Universidad Estatal de Oregón EM 9130  
   [Leer más aquí](https://catalog.extension.oregonstate.edu/em9130)
-
----
-
-#### Consejos de Maestros Jardineros™ · Línea de ayuda de horticultura en casa: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Para otros folletos y videos de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

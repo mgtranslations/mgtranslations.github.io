@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Sare ee Clackamas County oo la kaashanaya Barnaamijka OSU Extension Master Gardener™
-
 ## Talooyin Beerista oo ku Salaysan Cilmi-baarista Beeraha
 
 ### Dulmar
@@ -56,11 +54,4 @@ Mabaadi’da hagaajinta ciidda waa in aan waxba la beddelin ama la beddelo dhamm
 ### Macluumaad Dheeraad ah
 
 - **Gardaro Beereed Waarta**, Daabacaadda OSU Extension EM 8742  
-- **Muuqaalada iyo Beero Waara: Cilmi Fiican-Isticmaalka Dhabta ah**, Jaamacadda Gobolka Washington  
-
-#### Talo Beeraley Sare™ · Wac Khadka Gargaarka Beeraha Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Warqadaha iyo muuqaallada Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Adeegga Ballaarinta Jaamacadda Gobolka Oregon waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, dalka aad ka soo jeeddo, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga ka soo baxa barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sidaha, darajada saraakiisha ciidamada, ciqaab ama aargoosi ficil xuquuq aad hore u sameysay. (Dhammaan sababaha mamnuuca ah looma adeegsan karo dhammaan barnaamijyada.)
----
+- **Muuqaalada iyo Beero Waara: Cilmi Fiican-Isticmaalka Dhabta ah**, Jaamacadda Gobolka Washington

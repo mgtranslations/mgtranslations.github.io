@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Txuag Noob
 
 ### Vim Li Cas Yuav Sau Noob?
@@ -19,7 +17,6 @@ Muaj peb txoj kev tuaj yeem ua kom muaj noob: cua, kab, thiab tib neeg.
 - **Noob Lawv Tus Kheej (Self-Pollination)**: Qhov no yog cov nroj tsuag uas paj muaj ob qho - poj niam thiab txiv neej. Xws li txiv lws suav, taum, zaub xas lav, thiab eggplant.
 - **Sib xyaw noob (Cross-Pollination)**: Cov nroj tsuag zoo li dib thiab taub yuav tsum muaj cua lossis kab pab nqa noob txiv neej mus rau paj poj niam ntawm tib lossis txawv nroj tsuag.
 
-#### Kev Sib Noob Los Ntawm Tes Rau Cov Ua Vaj Tsev
 
 Yog xav sau noob los ntawm cov nroj tsuag sib xyaw noob:
 
@@ -38,7 +35,6 @@ Xaiv cov nroj tsuag tsis muaj kab mob los txuag noob. Xav txog yam xws li qab, z
   - Dib thaum noj tau tsis tau noob siav. Noob siav tom qab caij ntuj no los, zoo li taub dag thiab taub caij ntuj no.
   - Sau noob paj thaum paj qhuav thiab daj, muaj taub qhuav saum toj, los yog lub noob txiv qhuav tab tom tawg.
 
-#### Txoj Kev Qhuav
 
 Cov nroj tsuag noob qhuav muaj xws li taum peas, taum, carrots, kua txob, thiab feem coob cov paj thiab tshuaj ntsuab.
 
@@ -50,7 +46,6 @@ Cov nroj tsuag noob qhuav muaj xws li taum peas, taum, carrots, kua txob, thiab 
 **Ceeb Toom**:  
 - Kua txob yuav tsum ua liab/daus daus thiab qhuav kom txuag tau noob. Hnav hnab looj tes yog ua kua txob kub!
 
-#### Txoj Kev Ntub
 
 Cov nroj tsuag uas muaj txiv ntsuab zoo li txiv lws suav zoo tshaj yog muab ua los ntawm kev zom:
 
@@ -91,10 +86,3 @@ Npaj siv koj cov noob nyob rau hauv peb xyoos. Vim noob thiab nroj tsuag yuav la
   - *Basic Concepts of Seed Production and Seed Regeneration*
 - University of Maine, Cooperative Extension Publications: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
   - *An Introduction to Seed Saving for the Home Gardener 2750e*
-
-#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau 10-Minute University™ cov ntawv qhia thiab sij hawm kawm, mus xyuas [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service tsis pub muaj kev cais tawm hauv txhua qhov kev pab, kev ua haujlwm, kev ua si, thiab ntaub ntawv raws li haiv neeg, xim, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, cim poj niam txiv neej (xws li kev qhia txog poj niam txiv neej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, kev muaj menyuam, nyiaj tau los los ntawm kev pab nyiaj dawb, kev ntseeg nom tswv, ntaub ntawv caj ces, txoj kev ua tub rog, lossis raug rau txim rau kev tiv thaiv txoj cai pej xeem yav tas los. (Tsis yog txhua qhov yuav siv rau txhua qhov kev pab.)
----

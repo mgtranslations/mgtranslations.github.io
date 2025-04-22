@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas 카운티 마스터 가드너 협회는 OSU Extension 마스터 가드너™ 프로그램과 협력하여 지원합니다
-
 # 실내식물 관리 방법
 
 실내식물을 키우는 것은 집에 푸른 식물을 더하는 좋은 방법입니다. 어떤 실내식물은 쉽게 키울 수 있지만, 모든 식물은 기본적인 관리가 필요합니다. 식물은 자기 원래 서식지와 비슷한 환경에서 가장 잘 자랍니다. 새로운 식물을 사기 전에 그 식물의 기본적인 필요를 알아보고, 집에 맞는 장소가 있는지, 올바른 관리를 할 수 있는지 확인하세요.
@@ -83,12 +81,3 @@
 - [관리 쉬운 다육식물의 인기 상승](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
 - [색감이 아름다운 실내식물은 연말 선물로도 좋아요](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
 - [쉬운 실내 허브로 요리에 풍미를 더하세요](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
-
----
-
-#### 마스터 가드너™ 상담 · 마스터 가드너 상담을 원하시면 가까운 OSU Extension 사무실로 문의하세요. 연락처 정보는 [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us)에서 확인하세요. 10-Minute University™ 안내자료와 강의 일정은 [https://cmastergardeners.org](https://cmastergardeners.org)에서 확인할 수 있습니다.
-
----
-
-##### 오리건 주립대학 Extension 서비스는 인종, 피부색, 출신 국가, 종교, 성별, 성 정체성(성 표현 포함), 성적 지향, 장애, 나이, 결혼 여부, 가족/부모 상태, 공공 지원 프로그램에서 얻은 소득, 정치적 신념, 유전 정보, 군 복무 여부, 과거 시민권 활동에 대한 보복 또는 보복 등 모든 기준에서 차별을 금지합니다. (모든 금지 기준이 모든 프로그램에 적용되는 것은 아닙니다.)
----

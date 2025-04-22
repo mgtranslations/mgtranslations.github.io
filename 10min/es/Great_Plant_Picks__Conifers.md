@@ -1,5 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 # Universidad de 10 Minutos
 
 ## Selecciones de Grandes Plantas: Coníferas
@@ -60,6 +58,3 @@
 ---
 
 Grandes Plantas Seleccionadas (GPP) es el programa educativo principal del Jardín Botánico Elisabeth C. Miller. En 2001 debutó la primera lista con recomendaciones para crear una selección integral de plantas excepcionales para el noroeste marítimo del Pacífico. Hasta la fecha, se han seleccionado más de 1,000 plantas excepcionales para jardineros que viven al oeste de las Montañas Cascade, desde Eugene, Oregón, EE.UU., hasta Vancouver, Columbia Británica, Canadá. Las plantas GPP de esta lista cumplen con estos criterios: pueden vivir en una variedad de suelos, requieren riego moderado o menos, toleran el calor, son resistentes al frío en la zona 7 USDA, no son propensas a problemas de enfermedades o plagas, y ofrecen interés por más de una estación en el jardín. Muchas plantas GPP también ofrecen beneficios ecológicos (polinizadores, alimento para aves, hábitat para la vida silvestre, etc.)
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

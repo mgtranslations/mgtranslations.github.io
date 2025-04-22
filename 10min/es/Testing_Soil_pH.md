@@ -1,7 +1,3 @@
-#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
-
----
-
 ## Prueba del pH del Suelo
 
 ### Descripción General
@@ -71,7 +67,6 @@ Cada muestra dará una lectura de pH:
 
 Cuando los Maestros Jardineros realizan la prueba, también ayudan a interpretar los resultados y brindan información sobre soluciones. Es mejor ajustar el pH del suelo a lo largo de varios años. Agrega el enmienda adecuada en otoño y revisa el pH del suelo nuevamente en 3 a 6 meses. Repite según sea necesario.
 
-#### Cómo Aumentar el pH del Suelo
 
 - Agrega cal (lime) en otoño para mejores resultados.
 - Usa **5 a 10 libras de cal por cada 100 pies cuadrados** si se mezcla en el suelo antes de plantar.
@@ -85,7 +80,6 @@ Cuando los Maestros Jardineros realizan la prueba, también ayudan a interpretar
 - Si usas cal en polvo, usa una mascarilla.
 - La cal dolomítica contiene magnesio y es una buena opción para jardineros del oeste de Oregón, donde los suelos frecuentemente carecen de magnesio.
 
-#### Cómo Disminuir el pH del Suelo
 
 - Agrega azufre elemental en otoño para mejores resultados.
 - Para árboles y arbustos ya establecidos, agrega una pequeña cantidad al suelo a lo largo de la línea de goteo o en banda a lo largo de una hilera de arándanos.
@@ -102,12 +96,3 @@ Visita la oficina de Servicio de Extensión de OSU en 200 Warner-Milne Road, Ore
 - **Lista de Laboratorios Analíticos que Atienden Oregón** (EM 8677)
 - **Toma de Muestras de Suelo para Jardines Caseros y Pequeñas Parcelas** (EC 628)
 - **Acidificación del Suelo para Arándanos y Plantas Ornamentales en el Jardín** (EC 1560-E)
-
----
-
-#### Consejos de Maestros Jardineros™ · Llama a la Línea de Ayuda en Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para más folletos de la Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](http://www.cmastergardeners.org) o [www.metromastergardeners.org](http://www.metromastergardeners.org)
-
----
-
-##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paterno, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

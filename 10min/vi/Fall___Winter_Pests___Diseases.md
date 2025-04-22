@@ -1,5 +1,3 @@
-#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm Vườn Chuyên Gia của OSU Extension
-
 ## Sâu bệnh và dịch bệnh vào mùa thu & đông
 
 ### Bọ Hôi và Bọ Hộp Đỏ (Côn trùng)
@@ -90,12 +88,3 @@
 - Cắt bỏ cành và lá chết. Thực hiện đúng quy trình cắt tỉa: cành lớn cắt ba bước, cành nhỏ cắt chếch 45 độ về phía chồi ngoài.
 - Kiểm tra vết nứt trên vỏ cây xem có côn trùng không, nếu có thì loại bỏ.
 - Trước khi bỏ cây, hãy chờ đến khi cây có dấu hiệu mọc mới để chắc chắn cây đã chết.
-
----
-
-#### Tư vấn Làm Vườn Chuyên Gia™ · Gọi đường dây tư vấn vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học của Đại học 10 Phút™, hãy truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ các chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì hoạt động bảo vệ quyền công dân trước đây. (Không phải tất cả các hành vi bị cấm đều áp dụng cho tất cả các chương trình.)
----

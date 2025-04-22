@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
-
 # Pagpapalago ng Letsugas at Iba Pang Dahon
 
 ### Pangkalahatang-ideya
@@ -121,12 +119,3 @@ Mahilig ang limatik sa mamasa-masa, ma-aninong lupa sa ilalim ng letsugas at mal
 - [Paano gumawa ng sariling raised bed cloche (EC 1627)](https://catalog.extension.oregonstate.edu/)
 - [Paghahalaman gamit ang compost, mulch, at row covers (EC 1247)](https://catalog.extension.oregonstate.edu/)
 - [Handbook ng Sustainable Gardening (EM 8742)](https://catalog.extension.oregonstate.edu/)
-
----
-
-#### Master Gardener™ Advice · Tawagan ang Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya o magulang, kita mula sa public assistance program, paniniwala sa pulitika, genetic information, veteran’s status, reprisal, o paghihiganti dahil sa naunang civil rights activity. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
----

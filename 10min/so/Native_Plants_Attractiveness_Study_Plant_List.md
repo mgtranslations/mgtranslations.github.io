@@ -1,5 +1,3 @@
-#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ah ee Clackamas County · Wada shaqayn iyo Taageero la leh Barnaamijka OSU Extension Master Gardener™
-
 # Daraasadda Quruxda Dhirta Dabiiciga ah
 
 ## Liiska Dhirta
@@ -50,12 +48,3 @@ Fadlan booqo [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](ht
 | Sidalcea virgata        | Rose Checkermallow      |              | Sannadle          | Rosan           |
 | Sisyrinchium idahoense  | Blue-eyed grass         |              | Sannadle          | Buluug/Guduud   |
 | Solidago canadensis     | Goldenrod               | A, B, C, D   | Sannadle          | Jaalle          |
-
----
-
-#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo kale ah iyo jadwalka fasallada Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: isirka, midabka, asalka qaranka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka taageerada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda askariga, aargoosi, ama ciqaab la xiriira hawlaha xuquuqda madaniga ah ee hore. (Ma aha dhammaan arrimaha la mamnuucay inay khuseeyaan dhammaan barnaamijyada.)
----

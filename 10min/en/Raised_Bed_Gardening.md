@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · In collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Raised Bed Gardening
 
 Gardening in raised beds has been a common practice for centuries. "Raised" means the soil level in the bed is higher than the surrounding soil level, and "bed" implies it is small enough to work from the walkways.
@@ -89,11 +87,3 @@ The following are just a few of the OSU Publications available at [OSU Extension
 
 - **Raised Bed Gardening FS 270**
 - **How to Build Your Own Raised Bed Cloche EC 1627-E**
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For other 10-Minute University™ handouts and class schedules, visit [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

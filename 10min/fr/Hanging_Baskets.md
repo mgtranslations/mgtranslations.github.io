@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme des Maîtres Jardiniers™ de l’Extension de l’OSU
-
 # Jardinières Suspendues
 
 ### Aperçu
@@ -61,7 +59,6 @@ Pour garder un bel aspect toute la saison, retirez les fleurs fanées au moins u
 
 De nombreuses plantes réussissent en jardinières suspendues saisonnières. Celles listées ci-dessous ne sont qu’un petit exemple. Notez que certaines plantes conviennent au soleil ou à l’ombre.
 
-#### Plantes Dressées pour le Soleil
 
 - Angélonia
 - Cordyline
@@ -71,7 +68,6 @@ De nombreuses plantes réussissent en jardinières suspendues saisonnières. Cel
 - Géranium
 - Graminées ornementales
 
-#### Plantes Dressées pour l’Ombre
 
 - Héliotrope
 - Coléus d’ombre
@@ -82,7 +78,6 @@ De nombreuses plantes réussissent en jardinières suspendues saisonnières. Cel
 - Impatiens de Nouvelle-Guinée
 - Bégonia tubéreux
 
-#### Plantes en Touffes pour le Soleil
 
 - Bidens
 - Brachycome
@@ -90,7 +85,6 @@ De nombreuses plantes réussissent en jardinières suspendues saisonnières. Cel
 - Pétunia Fantasy
 - Bégonia fibreux
 
-#### Plantes en Touffes pour l’Ombre
 
 - Géranium
 - Nemesia
@@ -99,7 +93,6 @@ De nombreuses plantes réussissent en jardinières suspendues saisonnières. Cel
 - Impatiens
 - Lobélie dressée
 
-#### Plantes Retombantes pour le Soleil
 
 - Anagalis
 - Alyssum
@@ -111,7 +104,6 @@ De nombreuses plantes réussissent en jardinières suspendues saisonnières. Cel
 - Lamium
 - Réglisse ornementale
 
-#### Plantes Retombantes pour l’Ombre
 
 - Lotus rampant
 - Million bells
@@ -134,15 +126,9 @@ Il existe tellement de livres sur les jardinières suspendues qu’il est diffic
 - *Le Jardinage en Pots* (Sunset)
 - *Pots au Jardin* de Ray Rogers
 
-#### Conseils du Maître Jardinier™
 
 - **Appelez la ligne d’assistance en horticulture :**
   - 503-655-8631 (Comté de Clackamas)
   - 503-821-1150 (Comté de Washington)
   - 503-445-4608 (Comté de Multnomah)
 - Pour plus de fiches 10-Minute University™ et le calendrier des cours, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### L’Oregon State University Extension Service interdit toute discrimination dans ses programmes, services, activités et documents, sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus provenant d’une aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les sanctions pour des activités antérieures de droits civils. (Toutes les restrictions ne s’appliquent pas nécessairement à tous les programmes.)
----

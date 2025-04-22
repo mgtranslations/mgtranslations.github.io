@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Chaw Kawm Ua Vaj Tshiab Clackamas County Master Gardener Association koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 ## Ua Koj Lub Vaj Kom Muaj Zog Tiv Thaiv Kev Hloov Huab Cua: Cov Tsob Nroj
 
 Lub ntiaj teb tam sim no tab tom kub zuj zus ua rau cov dej khov yaj, dej hiav txwv siab, dej hiav txwv muaj kua qaub ntau, thiab muaj kev nqhuab thiab nag los loj los ntau dua qub. Hauv Pacific Northwest, peb tau ntsib kev nqhuab ntev, hluav taws hav zoov loj zuj zus, tshav kub kawg, kab tsuag ntau, thiab cov ntoo muaj kab mob. Dej daus tsawg dua ua rau dej txhawv thiab dej ntws tawm hauv cov dej loj thiab dej me los ntxov dua, uas ua rau dej siv tsawg dua. Ntxiv rau qhov no, kev hloov huab cua kuj ua rau huab cua hloov sai thiab muaj kev kub ntxhov (tshav kub heev, los nag loj) rov tshwm sim ntau dua.  
@@ -59,7 +57,6 @@ Peb yuav ua vaj li cas rau lub sijhawm no? Daim ntawv qhia no muaj tswv yim los 
 
 ### Siv Kawm Xyuas Txog Tsob Nroj
 
-#### Kev Tshawb Fawb Tsob Nroj Hauv Northwest
 
 Oregon State University tau sim tsob nroj txog dej nqhuab thiab txias ntawm tsib hom tsob nroj:
 
@@ -69,7 +66,6 @@ Oregon State University tau sim tsob nroj txog dej nqhuab thiab txias ntawm tsib
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Rockrose](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Climate Ready Landscape Plant Project
 
 Kev sim tsob nroj txog dej nqhuab ua los ntawm tsib lub tsev kawm:
 
@@ -81,7 +77,6 @@ Kev sim tsob nroj txog dej nqhuab ua los ntawm tsib lub tsev kawm:
   [Kawm ntxiv](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [Xov Xwm Kev Sim UC](https://ucanr.edu/sites/UCLPIT/)
 
-#### Lwm Qhov Kev Sim
 
 - [Chicago Botanic Garden Trials](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (Sab qaum teb nruab nrab US)
 - [Mt. Cuba Center Trials](https://mtcubacenter.org/research/trial-garden/) (Sab qaum teb hnub tuaj US)
@@ -91,8 +86,3 @@ Kev sim tsob nroj txog dej nqhuab ua los ntawm tsib lub tsev kawm:
 
 - [Great Plant Picks](https://greatplantpicks.org/): Miller Botanical Gardener muaj ntaub ntawv txog ntau tshaj 1,000 tsob nroj, xaiv tau raws qhov chaw (hnub ci/daus npog) thiab yam ntxwv (loj me, xim nplooj).
 - [Perennial Plant of the Year](https://perennialplant.org/page/PPOY): Kev xaiv txhua xyoo rau cov perennial zoo tshaj.
-
----
-
-#### Oregon State University Extension Service tsis pub muaj kev ntxub ntxaug hauv txhua yam haujlwm, kev pabcuam, kev ua ub no, thiab ntaub ntawv vim yog haiv neeg, xim tawv, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia txog poj niam txiv neej), kev nyiam poj niam/txiv neej, xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj tub ki, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg kev nom kev tswv, ntaub ntawv caj ces, muaj kev ua tub rog, lossis raug rau txim vim yog tiv thaiv kev ua phem txog pej xeem kev cai. (Tsis yog txhua yam saum toj no yuav siv rau txhua qhov haujlwm.)
----

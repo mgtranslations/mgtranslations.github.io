@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Lub Koom Haum Tswj Xyuas Paj Ntaub Clackamas County ua ke nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
-
 # Kawm Txog Kev Cog Tshuaj Ntsuab
 
 ## Txheej txheem cej luam
@@ -123,10 +121,3 @@ Yog xav kawm ntxiv txog kev cog, siv, thiab khaws tshuaj ntsuab, saib cov ntaub 
 - *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
 - *Herbs, An Illustrated Guide* (Sunset Books)
 - *All About Herbs* (Ortho Books)
-
-#### Master Gardener™ Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Mus saib ntau 10-Minute University™ ntaub ntawv thiab sijhawm kawm, mus xyuas [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Oregon State University Extension Service txwv tsis pub ua kev ntxub ntxaug txhua yam hauv nws cov kev pab cuam, kev pab, kev ua haujlwm, thiab ntaub ntawv nyob rau ntawm haiv neeg, xim, lub teb chaws, kev ntseeg, poj niam txiv neej, tus kheej (xws li kev qhia tus kheej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, muaj tsev neeg/kev ua niam txiv, nyiaj hli los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, txoj hauj lwm qub tub rog, kev ua phem los yog rau txim vim kev tiv thaiv cai qub. (Tsis yog txhua yam txwv rau txhua txoj kev pab cuam.)
----

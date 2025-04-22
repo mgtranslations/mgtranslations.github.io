@@ -1,5 +1,3 @@
-#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du programme OSU Extension Master Gardener™
-
 ## Rendez votre jardin plus résilient face au climat : Les plantes
 
 La tendance actuelle au réchauffement de la Terre entraîne la fonte des glaciers, l’élévation du niveau de la mer, l’augmentation de l’acidité des océans, ainsi que des sécheresses et des inondations plus fréquentes et plus graves. Le Nord-Ouest Pacifique a connu des sécheresses prolongées, une augmentation de la fréquence et de la gravité des incendies de forêt, des vagues de chaleur, des invasions d’insectes et des maladies des arbres. La réduction de la couverture neigeuse entraîne des débits de pointe plus précoces dans les rivières et les ruisseaux, ce qui réduit l’approvisionnement en eau. En plus de ces tendances, le changement climatique apporte des événements météorologiques extrêmes et irréguliers (vagues de chaleur, fortes pluies) de plus en plus fréquents.  
@@ -59,7 +57,6 @@ Comment jardiner en ces temps ? Ce document propose des idées pour rendre votre
 
 ### Utiliser les résultats des essais de plantes
 
-#### Évaluations de plantes du Nord-Ouest
 
 Études sur la tolérance à la sécheresse et la rusticité au froid de cinq genres à l’Université d’État de l’Oregon :
 
@@ -69,7 +66,6 @@ Comment jardiner en ces temps ? Ce document propose des idées pour rendre votre
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Rockrose](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Projet « Climate Ready Landscape Plant »
 
 Essais de tolérance à la sécheresse menés par cinq universités :
 
@@ -81,7 +77,6 @@ Essais de tolérance à la sécheresse menés par cinq universités :
   [En savoir plus](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [Infos essais UC](https://ucanr.edu/sites/UCLPIT/)
 
-#### Autres essais
 
 - [Essais du Chicago Botanic Garden](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (Haut Midwest des États-Unis)
 - [Essais du Mt. Cuba Center](https://mtcubacenter.org/research/trial-garden/) (Région Mid-Atlantic des États-Unis)
@@ -91,8 +86,3 @@ Essais de tolérance à la sécheresse menés par cinq universités :
 
 - [Great Plant Picks](https://greatplantpicks.org/) : base de données du Miller Botanical Gardener avec plus de 1 000 plantes, triables par conditions du site (soleil/ombre) et par caractéristiques (taille, couleur du feuillage).
 - [Plante vivace de l’année](https://perennialplant.org/page/PPOY) : recommandations annuelles pour des plantes vivaces remarquables.
-
----
-
-#### L’Oregon State University Extension Service interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion pour une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
----

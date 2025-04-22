@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta ng OSU Extension Master Gardener™ Program
-
 # Greenhouse Gardening 101
 
 ### Panimula
@@ -34,7 +32,6 @@ Ang pagdagdag ng greenhouse sa hardin sa bahay ay makakatulong na makapagsimula 
 
 ### Mga Uri ng Greenhouse
 
-#### Attached Greenhouses
 
 - **Mga Bentahe:**
   - Mas mura.
@@ -45,7 +42,6 @@ Ang pagdagdag ng greenhouse sa hardin sa bahay ay makakatulong na makapagsimula 
   - Maaaring limitado ang taas dahil sa istruktura ng bahay.
   - Kailangan ng magandang vapor barrier para hindi pumasok ang halumigmig sa insulation ng bahay.
 
-#### Free-standing Greenhouses
 
 - **Mga Bentahe:**
   - Mas maraming pagpipilian kung saan ilalagay at mas marami ang liwanag.
@@ -143,8 +139,3 @@ Kailangan ng pundasyon sa maraming greenhouse at maaaring gawin sa treated na ka
 
 **Greenhouses for Homeowners and Gardeners (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, genetic information, estado bilang beterano, paghihiganti, o pagganti dahil sa dating aktibidad para sa karapatang sibil. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
----

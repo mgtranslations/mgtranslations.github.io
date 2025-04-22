@@ -1,5 +1,3 @@
-#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
-
 # Começando Sua Horta
 
 ### O Que Plantar
@@ -38,7 +36,6 @@ Uma análise do solo revela o nível de nutrientes e as correções necessárias
 
 As temperaturas do solo e do ar determinam quando plantar.
 
-#### Temperatura do Solo
 
 Temperatura mínima do solo (°F) necessária para algumas culturas populares:
 
@@ -49,7 +46,6 @@ Temperatura mínima do solo (°F) necessária para algumas culturas populares:
 - Berinjela/Pimentão/Tomate: 13°C (55°F)
 - Manjericão: 16°C (60°F)
 
-#### Temperatura do Ar
 
 Temperatura ideal do ar (°F) para algumas culturas:
 
@@ -60,12 +56,10 @@ Temperatura ideal do ar (°F) para algumas culturas:
 
 Se plantar ervilhas no fim do inverno, elas podem germinar, mas só vão crescer bem quando o ar esquentar.
 
-#### Culturas de Ciclo Curto vs. Ciclo Longo
 
 - **Ciclo curto:** Maturam em até 50 dias. Você pode semear direto e garantir boa colheita.
 - **Ciclo longo:** Como tomate, maturam em 75–90 dias. O jardineiro geralmente corre contra o tempo para colher antes das chuvas e noites frias do outono.
 
-#### Mudas
 
 As mudas, compradas em lojas de jardinagem ou produzidas na sua estufa, dão vantagem ao jardineiro.
 
@@ -81,19 +75,15 @@ A maioria dos vegetais é anual e precisa de nutrientes suficientes para produzi
   - Frutos e flores: Mais fósforo (P).
   - Raízes: Mais potássio (K).
 
-#### Plantas Exigentes
 
 Beterraba, couve, alface, salsa, espinafre e tomate podem precisar de mais adubo.
 
-#### Plantas Moderadas
 
 Cenoura, alho, cebola, acelga, mostarda e pimentão precisam de quantidade moderada.
 
-#### Fixadoras de Nitrogênio
 
 Feijão, ervilha, soja e trevo fixam nitrogênio do ar e geralmente vão bem sem adubo.
 
-#### Adubos Orgânicos
 
 Aplique alguns meses antes do plantio para melhores resultados. Exemplos:
 
@@ -110,7 +100,6 @@ Molhe de modo que a zona das raízes fique uniformemente úmida. Cave de 15 a 20
 - **Gotejamento:** Leva água direto às raízes e é melhor que molhar por cima, o que umedece as folhas e pode causar doenças.
 - **Rega por cima:** Minimize o respingo e evite regar no fim do dia. Regar cedo diminui a evaporação.
 
-#### Etapas Críticas da Rega
 
 Fique atento na fase mais crítica do seu cultivo:
 
@@ -124,8 +113,3 @@ Fique atento na fase mais crítica do seu cultivo:
 
 - [EM 9027 Cultivando Sua Própria Comida](https://catalog.extension.oregonstate.edu/em9027)
 - [EC 871 Horta de Legumes no Oregon](https://catalog.extension.oregonstate.edu/ec871)
-
----
-
-##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
----

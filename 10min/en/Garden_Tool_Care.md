@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association in collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Care and Maintenance of Garden Tools
 
 Tools deteriorate from time and dampness combined with soil and rust. Proper cleaning and care described below will keep them in good working condition and extend their life.
@@ -61,11 +59,3 @@ The following are just a few of the OSU Publications available online at:
 - [Practical Tools for the Vegetable Gardener](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Take Good Care of Hard-working Garden Tools](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Sharpening Your Garden Tools](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### Master Gardener™ Advice · Call Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · For 10-Minute University™ handouts and class schedule, visit [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

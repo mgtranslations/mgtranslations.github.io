@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Die Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Spezifische Hinweise zur jährlichen Gemüseproduktion in Oregon
 
 ### Tabelle: Aussaat- und Pflanzinformationen
@@ -58,7 +56,6 @@
 
 ### Saisoninformationen zu Kulturen
 
-#### Kühlzeit-Gemüse
 
 - Bevorzugen kühle Temperaturen zum Wachsen (16°C bis 27°C) im Frühling und Herbst.
 - Die meisten vertragen keine Sommerhitze, kommen aber mit leichtem Frost zurecht.
@@ -70,7 +67,6 @@
 - Die Qualität hängt von schnellem Wachstum in guter Erde mit regelmäßiger leichter Düngung und gleichmäßiger Bewässerung ab.
 - Werden die Pflanzen trocken, bekommen sie einen starken Geschmack.
 
-#### Warmzeit-Gemüse
 
 - Bevorzugen wärmere Sommertemperaturen (21°C bis 35°C) und vertragen keinen Frost.
 - Werden normalerweise nach dem durchschnittlichen letzten Frosttermin gepflanzt.

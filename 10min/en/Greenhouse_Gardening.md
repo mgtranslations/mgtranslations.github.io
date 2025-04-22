@@ -1,5 +1,3 @@
-#### 10-Minute University™ · The Clackamas County Master Gardener Association · In collaboration with and in support of the OSU Extension Master Gardener™ Program
-
 # Greenhouse Gardening 101
 
 ### Introduction
@@ -34,7 +32,6 @@ The addition of a greenhouse to a home garden can provide an early start on the 
 
 ### Types of Greenhouses
 
-#### Attached Greenhouses
 
 - **Pros:**
   - Can be less expensive.
@@ -45,7 +42,6 @@ The addition of a greenhouse to a home garden can provide an early start on the 
   - Height may be restricted by the building structure.
   - A good vapor barrier is needed to prevent greenhouse humidity from seeping into the house insulation.
 
-#### Free-standing Greenhouses
 
 - **Pros:**
   - Offer more flexibility in placement and provide more light.
@@ -143,7 +139,3 @@ Foundations are required for many greenhouses and can be constructed of treated 
 
 **Greenhouses for Homeowners and Gardeners (NRAES 137)**  
 [https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
-
----
-
-#### Oregon State University Extension Service prohibits discrimination in all its programs, services, activities, and materials on the basis of race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital status, familial/parental status, income derived from a public assistance program, political beliefs, genetic information, veteran’s status, reprisal, or retaliation for prior civil rights activity. (Not all prohibited bases apply to all programs.)

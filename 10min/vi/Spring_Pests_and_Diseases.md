@@ -1,7 +1,3 @@
-#### Đại Học 10 Phút™ · Hiệp Hội Làm Vườn Chủ Lực Quận Clackamas phối hợp và hỗ trợ Chương Trình Làm Vườn Chủ Lực của OSU Extension Master Gardener™
-
----
-
 ## Sâu Bệnh và Dịch Hại Mùa Xuân
 
 ### Tổn Thương Mùa Đông (Do Môi Trường)
@@ -123,12 +119,3 @@ Nấm *Calonectria pseudonaviculata*. Cũng có thể lây cho cây pachysandra 
 
 **Giải pháp:**  
 Hạn chế cắt tỉa khi trời ẩm; loại bỏ và tiêu hủy lá chết, tàn dư thực vật; khử trùng dụng cụ cắt tỉa; tránh tưới nước lên tán cây; trồng cây thưa và tỉa vào mùa thu khi trời khô để thông thoáng không khí. Có thể thay thế bằng cây nhựa ruồi Nhật (*Ilex crenata*).
-
----
-
-#### Tư Vấn Làm Vườn Chủ Lực™ · Gọi Đường Dây Tư Vấn Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch lớp học Đại Học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Dịch vụ Mở Rộng Đại Học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các điều cấm áp dụng cho tất cả các chương trình.)
----

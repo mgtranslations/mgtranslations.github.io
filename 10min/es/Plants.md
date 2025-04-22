@@ -1,5 +1,3 @@
-#### Universidad en 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
-
 ## Haz tu Jardín Más Resiliente al Clima: Plantas
 
 La tendencia actual de calentamiento de la Tierra está provocando el derretimiento de glaciares, aumento del nivel del mar, mayor acidez en los océanos, y sequías e inundaciones más frecuentes y severas. El Noroeste del Pacífico ha experimentado sequías prolongadas, mayor incidencia y gravedad de incendios forestales, olas de calor, brotes de insectos y enfermedades en árboles. La reducción de la capa de nieve causa que los ríos y arroyos tengan sus máximos antes, lo que reduce el suministro de agua. Además de estas tendencias, el cambio climático trae más eventos meteorológicos extremos e impredecibles (olas de calor, lluvias intensas) con mayor frecuencia.  
@@ -59,7 +57,6 @@ La tendencia actual de calentamiento de la Tierra está provocando el derretimie
 
 ### Usar Resultados de Ensayos de Plantas
 
-#### Evaluaciones de Plantas del Noroeste
 
 Ensayos de campo de la Universidad Estatal de Oregón sobre tolerancia a la sequía y resistencia al frío de cinco géneros:
 
@@ -69,7 +66,6 @@ Ensayos de campo de la Universidad Estatal de Oregón sobre tolerancia a la sequ
 - [Hebe](https://agsci.oregonstate.edu/hebe-landscape-evaluation)
 - [Jara (Rockrose)](https://agsci.oregonstate.edu/rockrose-cistus-spp-and-halimium-spp-evaluation-western-oregon)
 
-#### Proyecto de Plantas para Paisajes Resistentes al Clima
 
 Ensayos de campo sobre tolerancia a la sequía realizados por cinco universidades:
 
@@ -81,7 +77,6 @@ Ensayos de campo sobre tolerancia a la sequía realizados por cinco universidade
   [Aprende más](https://botanicgardens.uw.edu/science-conservation/climate-ready-plants/)  
   [Información de Ensayo de UC](https://ucanr.edu/sites/UCLPIT/)
 
-#### Otros Ensayos
 
 - [Ensayos del Jardín Botánico de Chicago](https://my.chicagobotanic.org/category/science_conservation/plant_evaluation/) (Región centro-norte de EE.UU.)
 - [Ensayos del Centro Mt. Cuba](https://mtcubacenter.org/research/trial-garden/) (Región mid-Atlantic de EE.UU.)
@@ -91,8 +86,3 @@ Ensayos de campo sobre tolerancia a la sequía realizados por cinco universidade
 
 - [Great Plant Picks](https://greatplantpicks.org/): Base de datos del Jardín Botánico Miller con más de 1,000 plantas, clasificables por condiciones del lugar (sol/sombra) y atributos (tamaño, color del follaje).
 - [Planta Perenne del Año](https://perennialplant.org/page/PPOY): Recomendaciones anuales de plantas perennes destacadas.
-
----
-
-#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
----

@@ -1,5 +1,3 @@
-#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Sare ee Degmada Clackamas · Iskaashi iyo Taageero Barnaamijka Beeralayda Sare ee OSU Extension Master Gardener™
-
 # Erey-Bixinta Carrada
 
 Si aad u hesho dhammaan ereyada, eeg daabacaadda Jaamacadda Washington State University Extension EM063E: *Tilmaamaha Beeralayda Guriga ee Carrada iyo Bacriminta*.
@@ -188,13 +186,3 @@ Sida ciiddu u weyn tahay ama u yar tahay. Waxaa lagu ogaadaa tirooyinka ciidda, 
 ### Awoodda Biyaha Qabashada
 
 Awoodda godadka ciidda ee biyaha u sii haya dhirta.
-
----
-
-#### Talo Beeralay Sare™ · Wac Khadka Caawinta Beeraha Guriga: 503-655-8631 (Degmada Clackamas) · 503-821-1150 (Degmada Washington) · 503-445-4608 (Degmada Multnomah) · Warqadaha 10-Daqiiqo Jaamacad™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
-
----
-
-##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo walxaha ku salaysan: jinsiyadda, midabka, asalka dalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda ciidanimo, aargoosiga, ama ciqaabtii hore ee la xiriirta xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
-
----

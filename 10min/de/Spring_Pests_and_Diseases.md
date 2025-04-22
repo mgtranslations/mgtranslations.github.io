@@ -1,7 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
----
-
 ## Schädlinge und Krankheiten im Frühling
 
 ### Winterschäden (Umweltbedingt)
@@ -123,12 +119,3 @@ Ein Pilz, *Calonectria pseudonaviculata*. Kann auch Pachysandra und Duftende Hec
 
 **Lösung:**  
 Schneide bei feuchtem Wetter möglichst wenig. Entferne und vernichte abgestorbene Blätter und Pflanzenreste. Desinfiziere Schnittwerkzeuge. Vermeide Bewässerung von oben. Pflanze im Herbst bei trockenem Wetter weiter auseinander oder lichte aus, um die Luftzirkulation zu verbessern. Ziehe Japanische Stechpalme (*Ilex crenata*) als Alternative in Betracht.
-
----
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™ Infoblätter und den Kursplan besuche [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlicher Unterstützung, politischer Einstellung, genetischer Informationen, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Gründe gelten für alle Programme.)
----

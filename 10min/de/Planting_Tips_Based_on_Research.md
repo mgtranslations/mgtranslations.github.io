@@ -1,5 +1,3 @@
-#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
-
 ## Pflanztipps basierend auf gartenbaulicher Forschung
 
 ### Überblick
@@ -56,11 +54,4 @@ Das Prinzip der Bodenverbesserung ist, entweder gar nicht oder die gesamte Fläc
 ### Weitere Informationen
 
 - **Nachhaltiges Gärtnern**, Oregon State University Extension Publication EM 8742  
-- **Nachhaltige Gärten und Landschaften: Gute Wissenschaft – praktische Anwendung**, Washington State University  
-
-#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™ Handouts und Videos besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org)
-
----
-
-##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus Sozialhilfe, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
----
+- **Nachhaltige Gärten und Landschaften: Gute Wissenschaft – praktische Anwendung**, Washington State University

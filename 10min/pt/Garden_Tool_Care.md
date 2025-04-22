@@ -1,5 +1,3 @@
-#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU
-
 # Cuidados e Manutenção de Ferramentas de Jardim
 
 As ferramentas se deterioram com o tempo e a umidade, junto com o contato com o solo e ferrugem. A limpeza e os cuidados adequados descritos abaixo vão mantê-las em bom estado de funcionamento e aumentar sua vida útil.
@@ -61,12 +59,3 @@ A seguir estão algumas das publicações da OSU disponíveis online em:
 - [Ferramentas Práticas para o Jardineiro de Hortaliças](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
 - [Cuide Bem das Ferramentas de Jardim que Trabalham Muito](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
 - [Como Afiar suas Ferramentas de Jardim](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
----
-
-#### Dicas do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos e cronograma de aulas do 10-Minute University™, acesse [www.cmastergardeners.org](http://www.cmastergardeners.org).
-
----
-
-##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
----

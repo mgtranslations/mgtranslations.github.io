@@ -1,5 +1,3 @@
-#### Université en 10 Minutes™ L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
-
 # Excellents Choix de Plantes : Arbustes
 
 *S : Jardin d’ombre, D : Plante résistante à la sécheresse, W : Bénéfice pour la faune : Oiseaux, Abeilles, Papillons, Colibris*
