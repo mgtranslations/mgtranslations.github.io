@@ -1,0 +1,1 @@
+Kuv tsis pom ib cov ntawv los txhais. Thov muab cov lus uas koj xav tau txhais rau kuv, thiab kuv yuav pab txhais rau lus Hmoob raws li koj xav tau.

@@ -1,0 +1,87 @@
+### 10/9/2018 作成者: ローラ・アイヤー
+
+## 秋の多年草剪定ガイド
+
+### 剪定する植物
+- ドイツアヤメ（Bearded Iris）
+- ベルガモット（Monarda didyma）
+- ブラックベリーリリー（Belamcanda chinensis）
+- ガイラルディア（Gaillardia x grandiflora）
+- ブロンズフェンネル（Foeniculum vulgare ‘Purpureum’）
+- キャットミント（Nepeta）
+- オダマキ（Aquilegia）
+- コリダリス（Corydalis lutea）
+- クロコスミア（Crocosmia）
+- ヘメロカリス（Hemerocallis）
+- ゴールデンマーガレット（Anthemis tinctoria）
+- ゴールデンスター（Chrysogonum virginianum）
+- グランドクレマチス（Clematis recta）
+- 耐寒性ベゴニア（Begonia grandis）
+- ヘリアンサス（多年草品種 H. x laetiflorus, H. salicifolium...）
+- ホリーホックマロー（Malva alcea）
+- シュウメイギク（Anemone x hybrida）
+- リグラリア（Ligularia dentate）
+- リリーリーフレディベル（Adenophora lilifolia）
+- マスターワート（Astrantia major）
+- メドールー（Thalictrum aquilegiifolium）
+- マウンテンブルー（Centaurea montana）
+- ペイントデイジー（Tanacetum coccineum）
+- ペンステモン（Penstemon barbatus）
+- ボタン（Paeonia）
+- 多年生ヒマワリ（Helianthus）
+- フロックス（Phlox paniculata）
+- プルームポピー（Macleaya cordata）
+- プレーリーの女王、草原の女王（Filipendula rubra, F. ulmaria）
+- シベリアンバグロス（Brunnera macrophylla）
+- サルビア（Salvia nemorosa）
+- スニーズウィード（Helenium autumnale）
+- ソロモンの封印（Polygonatum odoratum）
+- バーロニカ/スパイクスピードウェル（Veronica spicata）
+- ワイルドまたは偽インディゴ（Baptisia australis）
+- ヤロウ（Achillea）
+
+### そのまま残しておく植物
+- アルテミシア（Artemisia）
+- アスター（Aster）
+- アスチルベ（Astilbe）
+- バルーンフラワー（Platycodon grandiflorus）
+- バスケットオブゴールド（Aurinia saxatilis）
+- ベアーズブリーチズ（Acanthus spinosus）
+- ベルゲニア（Bergenia cordifolia）
+- ルドベキア（Rudbeckia fulgida）
+- ブルーミストシュラブ（Caryopteris sp.）
+- バタフライブッシュ（Buddleia davidii）
+- バタフライウィード（Asclepias tuberosa）
+- カンパニュラ（Campanula）
+- カーディナルフラワー（Lobelia cardinalis）
+- コーラルベルズ（Heuchera sp.）
+- クッションスパージ（Euphorbia polychroma）
+- デルフィニウム（Delphinium）
+- ダイアンサス（Dianthus）
+- フォームフラワー（Tiarella cordifolia）
+- フォックスグローブ（Digitalis purpurea）
+- ガスプラント（Dictamnus albus）
+- ゲイフェザー（Liatris spicata）
+- ゲウム（Geum）
+- グローブシスル（Echinops ritro）
+- ゴールデンロッド（Solidago）
+- イタリアンバグロス（Anchusa azurea）
+- ジョーピーウィード（Eupatorium maculatum）
+- レディーズマントル（Alchemilla mollis）
+- ラムズイヤー（Stachys byzantina）
+- ラベンダー（Lavandula sp.）
+- ラベンダーコットン（Santolina chamaecyparissus）
+- ルピナス（Lupinus sp.）
+- マム（Chrysanthemum）
+- ピンクッションフラワー（Scabiosa columbaria）
+- パープルコーンフラワー（Echinacea purpurea）
+- レッドホットポーカー（Kniphofia）
+- ロシアンセージ（Perovskia atriplicifolia）
+- シーラベンダー（Limonium latifolium）
+- シーホリー（Eryngium）
+- セダム（Sedum）
+- ティックシード（Coreopsis species）
+- タートルヘッド（Chelone lyonii）
+- バレリアン（Centranthus ruber）
+- ワンドフラワー（Guara sp.）
+- ウィローアムソニア（Amsonia tabernaemontana）

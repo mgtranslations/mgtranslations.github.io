@@ -1,0 +1,1 @@
+# Fadlan ku soo gudbi qoraalka aad rabto in aan u turjumo.

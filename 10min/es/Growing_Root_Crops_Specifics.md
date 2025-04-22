@@ -1,0 +1,43 @@
+# Universidad de 10 Minutos™
+
+La Asociación de Maestros Jardineros del Condado de Clackamas, en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU.
+
+## Cultivo de Raíces: Especificaciones
+
+### Cultivo de Bulbos
+
+**Plantar Bulbos de Ajo:**  
+Agosto-octubre es el momento óptimo. Divide el bulbo en dientes individuales. Planta a 3 pulgadas de profundidad, 6 pulgadas de distancia, con el extremo puntiagudo hacia arriba. Riega hasta que comiencen las lluvias de invierno o durante períodos secos. Mantén las camas libres de maleza. Fertiliza a mitad de temporada con un fertilizante equilibrado. Los brotes de ajo (capullos florales) pueden cosecharse y comerse a mediados del verano. Reduce el agua a finales de julio. Las hojas comenzarán a secarse y ponerse marrones a mediados de agosto. Usa una horquilla de jardín para aflojar suavemente las raíces y levantar la planta con cuidado. Coloca el ajo en un lugar fresco y seco durante unas semanas. Recorta las hojas y corta las raíces.
+
+**Plantar Conjuntos de Cebolla:**  
+En marzo, cuando esté fresco. Planta a 2-3 pulgadas de distancia, con el extremo puntiagudo hacia arriba. Las plantas prefieren condiciones húmedas y frescas al inicio de su desarrollo. A medida que crecen, adelgazar las plantas promoverá cebollas más grandes. Fertiliza a mitad de temporada con un fertilizante equilibrado. Las cebollas en desarrollo prefieren condiciones cálidas y secas. Cosecha cuando las puntas verdes se caigan y comiencen a ponerse marrones. Reduce el agua en este punto. Usa una horquilla de jardín para aflojar suavemente las raíces y tirar de las plantas. Cepilla la tierra y coloca las cebollas elevadas en un lugar fresco y seco durante una o dos semanas. Recorta las hojas y corta las raíces.
+
+**Cultivo de Puerros desde Semillas:**  
+Lo mejor es comenzar a finales de febrero o principios de marzo (8-10 semanas antes de la última helada) en interiores, en bandejas poco profundas con suelo para plántulas. Después de la germinación, las plántulas pueden trasladarse a un marco frío para desarrollarse. Una vez que pase la amenaza de heladas, los puerros pueden plantarse, colocando una plántula por cada agujero de 6 pulgadas de profundidad, a 8-10 pulgadas de distancia. No llenes el agujero con tierra; permite que se llene gradualmente con un riego suave. Se puede añadir mantillo o compost una vez que estén creciendo activamente. Enterrarlos profundamente ayuda a blanquear los tallos y hacerlos más tiernos. Proporciona humedad constante en la zona de las raíces y aplica fertilizante de uso general a mitad de temporada. Los puerros pueden cosecharse en cualquier etapa de desarrollo. Usa una horquilla de jardín, a 4 pulgadas de la base, para aflojar la tierra y sacar las plantas una por una. Recorta las raíces y corta las hojas 5 pulgadas por encima del tallo blanco/verde claro con forma de punta de flecha. La parte comestible se llama "puya" y está formada por capas de tallos carnosos. Esta estructura y su patrón de crecimiento lo convierten en un bulbo.
+
+### Cultivo de Rizomas
+
+**Jengibre o Cúrcuma:**  
+Se pueden propagar desde un trozo de rizoma de jengibre o cúrcuma saludable y carnoso. Corta el rizoma en piezas de 1 a 1½ pulgadas y déjalas reposar unos días para que cicatricen. Los rizomas pueden haber sido tratados con retardantes de crecimiento, por lo que se deben remojar en agua durante la noche. Planta los rizomas en marzo, con los nodos de crecimiento apuntando hacia arriba, a 2-4 pulgadas de distancia, y cúbrelos con 3 pulgadas de tierra para macetas en una maceta. Mantén las plantas en desarrollo en condiciones cálidas y húmedas para imitar su origen tropical. Desde sus nodos, un rizoma puede desarrollar raíces, ramificarse para crear otras plántulas y emitir brotes. La planta puede trasladarse al exterior o ser trasplantada al jardín en junio. El rizoma crecerá horizontalmente en la maceta o jardín durante el verano, pero debe cosecharse o trasladarse al interior antes de las heladas. Las plantas de jengibre crecerán hasta unos 2 a 3 pies de altura. La cosecha puede ser parcial o de toda la planta. Usa una horquilla de jardín para aflojar suavemente el rizoma/raíces, rompe una porción del rizoma y tira de las hojas. Almacena el rizoma en el congelador o refrigerador. Las hojas pueden secarse para hacer té.
+
+### Cultivo de Raíces Pivotantes
+
+**Zanahorias, Rábanos, Betabeles y Chirivías:**  
+Son cultivos de clima frío, lo que significa que pueden plantarse temprano cuando el suelo está a unos 40 grados en primavera y a finales de verano para una cosecha de otoño. Planta y espacia las semillas según el paquete. Mantén el suelo uniformemente húmedo, especialmente durante la germinación, y riega consistentemente en profundidad durante la temporada de crecimiento. Adelgazar las plántulas jóvenes es esencial para el desarrollo de las raíces (según el paquete de semillas). La cosecha de raíces jóvenes contribuye a este objetivo. Las chirivías necesitan fertilizante rico en nitrógeno a mitad de temporada. Para otros cultivos, aliméntalos moderadamente con énfasis en fósforo y potasio. El tiempo de cosecha depende de la variedad de planta: rábanos listos en 21-35 días, betabeles en 50-65 días, zanahorias en 65-90 días (220 si se pasan el invierno) y chirivías en 100 días antes de que el calor del verano llegue. Cosecha tirando suavemente de la base de las hojas hacia arriba. Lava la tierra y almacena en un refrigerador fresco y húmedo.
+
+### Cultivo de Raíces Tuberosas
+
+**Camotes:**  
+Se cultivan a partir de “esquejes” que crecen en una planta de vid vigorosa. En abril, coloca un camote en una caja de cartón con arena húmeda, cúbrelo con 2 pulgadas de arena. Cierra la tapa y déjalo en un área cálida. Revisa si hay brotes. Un buen esqueje de camote debe ser firme, verde y de 8 a 12 pulgadas de largo, preferiblemente con una o dos hojas. Planta los esquejes con el extremo cortado hacia abajo, a 4 a 5 pulgadas de profundidad y 9 a 15 pulgadas de distancia. Las filas deben estar separadas por 3 a 4 pies. Riega las plantas inmediatamente después de trasplantarlas para promover que se formen raíces en los esquejes. Mantén la humedad uniforme en el suelo. Las variedades de camote varían en días de maduración, pero la mayoría oscila entre 90 y 120 días. Los camotes deben cosecharse a finales de verano o principios de otoño antes de que las temperaturas del suelo bajen de 60°F. La cosecha y almacenamiento son similares a las papas.
+
+### Cultivo de Tubérculos
+
+**Papas:**  
+Plántalas a finales de marzo o principios de abril. Para prepararlas, corta una papa semilla grande en varias piezas (aproximadamente 2 onzas cada una), cada una con 2-3 ojos (brotes latentes), luego déjalas secar al aire durante unos días para que cicatricen las heridas. En suelo suelto y bien drenado, cava agujeros de 2 pies de profundidad, 12 pulgadas de ancho y 3 pies de distancia. Coloca la papa semilla en el agujero y cúbrela con 4-6 pulgadas de tierra. Si el suelo del jardín es duro, cava agujeros de 6 pulgadas de profundidad con la base y los lados aflojados. Cúbrelo con 4-6 pulgadas de tierra. A medida que los brotes de papa emergen con follaje en 3-4 semanas, añade 12 pulgadas de una mezcla de tierra, compost o heno para cubrir. Continúa esto al menos una vez más para fomentar la formación de tubérculos. Las variedades tempranas pueden cosecharse en 9-12 semanas, las variedades tardías en 14-17 semanas, siempre después de que las plantas hayan florecido. Para cosechar, usa una horquilla para aflojar el suelo al menos 6 pulgadas de la planta; cavar y buscar con las manos es otra técnica. Cepilla la tierra (no la laves) y almacénalas en un lugar fresco y seco.
+
+## Recursos
+
+- [Los cultivos de raíces pueden impulsar tu jardín de primavera](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)  
+- [Raíces, tallos y bulbos comestibles - Extensión de Penn State](https://extension.psu.edu/edible-roots-stems-and-bulbs)  
+
+El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias o represalias por actividades previas relacionadas con los derechos civiles. (No todas las bases prohibidas se aplican a todos los programas).
