@@ -1,8 +1,6 @@
-# Master Gardener Resource Translations.
-
 This project aims to provide translations of Oregon Master Gardener materials onto popular languages in the area. 
 
-## Growing Your Own
+# Growing Your Own
 A Practical Guide to Gardening in Oregon. 
 OSU already provides [English](https://extension.oregonstate.edu/catalog/pub/em-9027-growing-your-own) and [Spanish](https://extension.oregonstate.edu/es/catalog/pub/em-9027-s-su-propio-cultivo) versions of this text. 
 
@@ -21,7 +19,7 @@ OSU already provides [English](https://extension.oregonstate.edu/catalog/pub/em-
 * [Ukrainian / Українська](gyo/uk/gyo.md)
 * [Vietnamese / Tiếng Việt](gyo/vi/gyo.md)
 
-## 10 Minute University Handouts
+# 10 Minute University Handouts
 
 This is a mass translation of all the pdf handouts provided by the [10 minute university](https://clackamascountymastergardeners.org/10-minute-university/) program ran by Clackamas County Master Gardeners. The files have been converted from pdf to markdown to simplify translation. 
 
@@ -41,4 +39,3 @@ This is a mass translation of all the pdf handouts provided by the [10 minute un
 * [Ukrainian / Українська](10min/uk/index.md)
 * [Vietnamese / Tiếng Việt](10min/vi/index.md)
 * [English](10min/en/index.md) - converted English format. Might work better than the exisiting pdf format on mobiles and such.
-
