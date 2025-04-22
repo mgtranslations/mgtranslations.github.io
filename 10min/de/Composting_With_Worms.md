@@ -1,56 +1,115 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des  
-OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Kompostieren mit Würmern  
-Eine Wurmkiste ist eine einfache Möglichkeit, Lebensmittelabfälle in Dünger und Bodenverbesserungsmittel für Ihren Garten umzuwandeln. Rotwürmer sind fleißige Recycler, die Apfelschalen, Zucchinistiele und andere Küchenabfälle innerhalb weniger Monate transformieren. Geben Sie ihnen ein Zuhause mit Einstreu und Nahrung, und sie machen sich an die Arbeit.  
+# Kompostieren mit Würmern
 
-### Typ und Anzahl der Würmer  
-Es gibt Tausende von Regenwurmspezies auf der Welt, die alle irgendeine Form von organischem Material fressen. Rotwürmer, *Eisenia foetida*, eignen sich besonders gut für eine Wurmkiste, da sie Obst- und Gemüsereste bevorzugen, gefräßige Esser sind und sich gut in Gefangenschaft vermehren. Sie sind kleiner als Regenwürmer. Sie können diese Würmer nach Gewicht über Gartenkataloge oder Anbieter kaufen, die nützliche Tiere verkaufen.  
-Würmer können innerhalb von 24 Stunden die Hälfte ihres Gewichts an Nahrung fressen. Schätzen Sie das Gewicht der Lebensmittelabfälle Ihres Haushalts pro Tag, um das Gewicht der benötigten Würmer zu bestimmen. Zwei Pfund Würmer sind erforderlich für jedes Pfund Küchenabfall, das täglich hinzugefügt wird. Ein Pfund Würmer entspricht 1.000 bis 2.000 Würmern!  
+Eine Wurmtonne ist eine einfache Möglichkeit, Küchenabfälle in Dünger und Bodenverbesserer für deinen Garten zu verwandeln. Kompostwürmer sind fleißige Recycler, die Apfelschalen, Zucchinistiele und andere Küchenabfälle in nur wenigen Monaten umwandeln. Gib ihnen ein Zuhause mit Einstreu und Futter, und sie legen direkt los.
 
-### Grundlagen der Wurmkiste  
-- Wurmkisten können selbst hergestellt oder gekauft werden. Sie können mit einer Plastikbox beginnen, in die Belüftungslöcher in die Seiten und den Deckel gebohrt werden, oder Sie können eine geeignete Wurmkiste kaufen.  
-- Die Größe hängt davon ab, wie viel Abfall Sie pro Woche erzeugen. Eine Kiste mit den Maßen 1 x 2 x 3 Fuß kann 6 Pfund Küchenabfälle pro Woche verarbeiten (durchschnittlich für eine Familie mit vier bis sechs Personen).  
-- Legen Sie Einstreu in den Behälter. Lose organische Materialien wie Holzspäne (kein Zedernholz), zerrissenes Zeitungspapier und Kokosfaser eignen sich gut als Einstreu. Fügen Sie etwas Sand oder einfachen Gartenboden hinzu – Würmer mögen etwas Körnung. Füllen Sie den Behälter etwa zu 80 Prozent mit Einstreu.  
-- Befeuchten Sie die Einstreu, bis sie tropfnass ist. Überprüfen Sie den Feuchtigkeitsgehalt der Einstreu, indem Sie etwas davon in Ihrer Hand zusammendrücken. Wenn ein paar Tropfen Wasser herauskommen, ist sie ausreichend feucht. Würmer benötigen 75 bis 90 Prozent Feuchtigkeit in ihrem Körper und ihrer Einstreu, um zu überleben.  
-- Luftzirkulation ist ein Muss in und um die Wurmkiste. Würmer brauchen ständig Sauerstoff, daher sollte der Behälter irgendwo Luftlöcher haben – entweder im Deckel oder an den Seiten. Wenn Sie eine Plastikbox verwenden, stellen Sie sicher, dass Sie sowohl Entwässerungs- als auch Belüftungslöcher hinzufügen.  
-- Verteilen Sie Ihre Würmer auf der vorbereiteten Einstreu. Lassen Sie den Deckel offen, bis die Würmer nach unten gewandert sind. Würmer meiden Licht, daher sollte der Behälter innen dunkel sein und einen guten Deckel haben.  
-- Bewahren Sie die Kiste an einem Ort auf, an dem die Temperatur zwischen 10°C und 29°C bleibt.  
-- Wählen Sie einen Standort, der bequem für die Pflege der Kiste ist.  
-- Verwenden Sie niemals einen Behälter, der zuvor zur Lagerung von giftigen Chemikalien verwendet wurde.  
+---
 
-### Wurmnahrung  
-Obwohl Würmer fast jeden organischen Abfall abbauen können, sollten sie am besten als Vegetarier behandelt werden.  
-**Geeignetes Futter:** Gemüseabfälle, Kaffeesatz und Filter, Teebeutel, altes Brot (ohne Butter oder Mayonnaise), Obstschalen oder -mark, zerstoßene Eierschalen, Tierhaare, zerkleinertes Papier.  
-**Nicht geeignetes Futter:** Fleisch, Fisch, Milchprodukte, fettige oder ölige Lebensmittel, Zwiebeln, Zitrusschalen, Gartenabfälle (Blätter, Stängel und Grasschnitt) und tierische Exkremente.  
+### Art und Anzahl der Würmer
 
-Zu Beginn sollten Sie sehr wenig Futter hinzufügen. Dies zwingt die Würmer dazu, tief in die Einstreu einzudringen und sich einzuleben. Wenn Sie Nahrungsabfälle in die Kiste geben, ziehen Sie etwas von der Einstreu zur Seite und vergraben Sie die Nahrung. Begraben Sie die nächsten Portionen an verschiedenen Stellen. Überprüfen Sie, ob alte Abfälle verbraucht wurden, bevor Sie neue hinzufügen. Wenn sich nicht verzehrte Lebensmittel ansammeln, können sie unangenehm riechen. Wenn das passiert, hören Sie auf, die Würmer zu füttern, und rühren Sie die Abfälle mit einer Kelle oder einem Gartengabel um. Fügen Sie frische Einstreu hinzu. Beobachten Sie sorgfältig und fügen Sie in ein paar Tagen neue Nahrung hinzu. Während der kälteren Wintertemperaturen kann die Aktivität der Würmer etwas langsamer werden. Überwachen Sie, wie viel sie fressen, damit Sie ihnen nicht zu viel Nahrung geben.  
+Es gibt tausende Regenwurmsorten auf der Welt, die alle irgendeine Art von organischem Material fressen. Kompostwürmer (*Eisenia foetida*) sind besonders gut für eine Wurmtonne geeignet, weil sie Obst- und Gemüsereste bevorzugen, sehr gefräßig sind und sich gut vermehren. Sie sind kleiner als normale Regenwürmer. Du kannst diese Würmer pfundweise in Gartenkatalogen oder bei Anbietern, die nützliche Tiere verkaufen, kaufen.
 
-Obwohl Würmer sich schnell vermehren, regulieren sie ihre Population entsprechend dem verfügbaren Platz und der Menge an Nahrung, die Sie ihnen geben. Es besteht also keine Gefahr einer Überbevölkerung der Würmer.  
+Würmer können in 24 Stunden die Hälfte ihres eigenen Gewichts an Futter fressen. Schätze das Gewicht der täglichen Küchenabfälle deines Haushalts, um zu bestimmen, wie viele Würmer du brauchst. Zwei Pfund Würmer werden für jedes Pfund Küchenabfall pro Tag benötigt. Ein Pfund Würmer sind etwa 1.000 bis 2.000 Würmer!
 
-### Ernte und Verwendung von Wurmhumus  
-Nach mehreren Monaten des Fütterns wird ein Großteil der Einstreu in dunklen, krümeligen Wurmhumus umgewandelt und befindet sich am Boden der Kiste. Es ist jetzt Zeit, diesen fertigen Kompost zu entfernen und neues Einstreumaterial hinzuzufügen. Der gesammelte Flüssigdünger kann ebenfalls als flüssiger Dünger verwendet werden. Wurmhumus kann Ihrem Gartenboden oder Ihrer Pflanzmischung hinzugefügt werden. Verteilen Sie eine Schicht von etwa 1,5 cm Wurmhumus um Ihre Lieblingspflanzen und gießen Sie sie ein. Für Saatmischungen verwenden Sie 3 Teile gereiften Kompost zu 1 Teil Humus. Wurmhumus ist normalerweise neutral im pH-Wert und enthält Phosphor, Stickstoff und andere Nährstoffe und Mineralien.  
+---
 
-Rotwürmer benötigen das ganze Jahr über feuchte Bedingungen, da sie nicht wie Regenwürmer tief graben, um Feuchtigkeit zu finden. Wenn Sie sie in Ihrem Garten freilassen möchten, geben Sie ihnen eine dicke Mulchschicht, um Feuchtigkeit zu bewahren und sie vor Hitze und Kälte zu isolieren. Wenn das nicht möglich ist, lassen Sie sie nicht frei.  
+### Grundlagen der Wurmtonne
 
-### Mögliche Probleme und Lösungen  
-**Geruch:** Sie können Gerüche kontrollieren, indem Sie die Kiste nicht mit zu viel Lebensmittelabfällen überladen, keine der unter „Nicht geeignetes Futter“ genannten Gegenstände hinzufügen und ausreichende frische Einstreu bereitstellen.  
-**Schädlinge:** Manchmal gelangen sehr kleine Essigfliegen (oft mit Fruchtfliegen verwechselt) in die Kiste, aber diese richten keinen Schaden an. Eine große Anzahl von Essigfliegen könnte jedoch darauf hinweisen, dass Sie die Würmer zu viel füttern. Um die Essigfliegen zu beseitigen, reduzieren Sie das Fütterungstempo auf die Menge, die die Würmer an einem Tag verbrauchen können, und bedecken Sie frisch hinzugefügte Abfälle mit einem feuchten Jutesack oder Zeitungspapier.  
-Ameisen können in Ihre Wurmkiste im Freien gelangen, insbesondere wenn die Einstreu zu trocken oder sauer geworden ist. Fügen Sie Wasser hinzu, um die Feuchtigkeit zu erhöhen, und streuen Sie großzügig Gartenkalk an die Stellen, an denen sich die Ameisen sammeln. Dies sollte sie abschrecken. Wenn sie weiterhin ein Problem darstellen, entfernen Sie sie physisch und schmieren Sie etwas Vaseline um die Eintrittspunkte.  
-Nagetiere können im Freien ein Problem sein. Die einfachste Möglichkeit, sie von der Wurmkiste fernzuhalten, besteht darin, den Deckel geschlossen zu halten und keine Fleischabfälle hineinzugeben. Wenn Anzeichen von Tieren in der Nähe der Kiste auftreten, heben Sie sie 30 bis 45 cm über den Boden oder befestigen Sie ein Drahtgeflecht an der Unterseite der Kiste. Halten Sie den Deckel der Kiste verschlossen oder gut gesichert, wenn Opossums oder Waschbären ein Problem darstellen.  
+- **Wurmtonnen** können selbst gebaut oder gekauft werden. Du kannst mit einer Plastikbox anfangen, in die du Luftlöcher an den Seiten und oben bohrst, oder du kaufst eine passende Wurmtonne.
+- **Größe** hängt davon ab, wie viele Abfälle du pro Woche hast. Eine Kiste mit den Maßen 30 x 60 x 90 cm schafft etwa 2,7 kg Küchenabfälle pro Woche (durchschnittlich für eine Familie mit vier bis sechs Personen).
+- **Einstreu:** Lockeres, organisches Material wie Holzspäne (kein Zedernholz), zerrissenes Zeitungspapier und Kokosfaser eignen sich gut als Einstreu. Gib etwas Sand oder normale Gartenerde dazu – Würmer mögen ein wenig “Grit”. Fülle die Kiste zu etwa 80 % mit Einstreu.
+- **Feuchtigkeit:** Füge Wasser zur Einstreu, bis sie tropfnass ist. Prüfe die Feuchtigkeit, indem du etwas in der Hand zusammendrückst. Wenn ein paar Tropfen Wasser herauskommen, ist es feucht genug. Würmer brauchen 75–90 % Feuchtigkeit sowohl im Körper als auch in der Einstreu.
+- **Luftzirkulation:** Würmer brauchen ständig Sauerstoff, daher sollten irgendwo am Behälter Luftlöcher sein – entweder am Deckel oder an den Seiten. Wenn du eine Plastikbox verwendest, denke an Abfluss- und Belüftungslöcher.
+- **Würmer hinzufügen:** Streue die Würmer auf die vorbereitete Einstreu. Lass den Deckel offen, bis die Würmer hineingekrochen sind. Würmer meiden Licht, also sollte der Behälter innen dunkel sein und einen guten Deckel haben.
+- **Temperatur:** Stelle die Tonne an einen Ort, wo es zwischen 10° und 30°C bleibt.
+- **Standort:** Wähle einen Platz, an dem du die Tonne leicht pflegen kannst.
+- **Sicherheit:** Verwende niemals einen Behälter, in dem giftige Chemikalien gelagert waren.
 
-### Ressourcen der OSU Extension Service und andere Bücher  
-- **Sustainable Gardening – The Oregon-Washington Master Gardener Handbook. EM 8742**  
-  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **Worms Eat My Garbage** von Mary Appelhof, zweite Ausgabe  
-- **Welcome to the Can-O-Worms** von N. Nattrass  
+---
 
-### Master Gardener™ Beratung  
-- Rufen Sie die Home Horticulture Helpline an:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- Für Handouts und Kurspläne der 10-Minuten-Universität™ besuchen Sie: [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+### Wurmfutter
 
-Die Oregon State University Extension Service verbietet Diskriminierung in all ihren Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkommen aus einem öffentlichen Hilfsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+Auch wenn Würmer fast jede Art von organischem Abfall zersetzen können, ist es am besten, sie wie Vegetarier zu behandeln.
+
+#### Das solltest du füttern:
+
+- Gemüseabfälle
+- Kaffeesatz & Filter
+- Teebeutel
+- Altes Brot (ohne Butter oder Mayonnaise)
+- Obstschalen oder -reste
+- Zerdrückte Eierschalen
+- Tierhaare
+- Zerrissenes Papier
+
+#### Das solltest du NICHT füttern:
+
+- Fleisch, Fisch, Milchprodukte
+- Fettige oder ölige Speisen
+- Zwiebeln, Zitrusschalen
+- Gartenabfälle (Laub, Stängel, Rasenschnitt)
+- Tierkot
+
+Fange mit sehr wenig Futter an. So werden die Würmer gezwungen, sich tief in der Einstreu einzuleben. Wenn du Abfälle hinzufügst, schiebe etwas von der Einstreu zur Seite und vergrabe das Futter. Vergrabe das Futter immer an einer anderen Stelle. Bevor du neues Futter hinzugibst, prüfe, ob das alte schon weg ist.
+
+Wenn nicht gefressene Essensreste sich anhäufen, können sie schlecht riechen. In diesem Fall höre auf zu füttern und mische die Abfälle mit einer kleinen Schaufel oder Gabel durch. Gib frische Einstreu dazu. Beobachte alles sorgfältig und gib nach ein paar Tagen wieder neues Futter. Im Winter, wenn es kälter ist, sind die Würmer weniger aktiv. Prüfe regelmäßig, wie viel sie essen, damit du nicht zu viel fütterst.
+
+Würmer vermehren sich zwar schnell, aber sie passen ihre Anzahl an den Platz und das Futterangebot an. Du brauchst dir also keine Sorgen zu machen, dass es zu viele werden.
+
+---
+
+### Ernte & Verwendung von Wurmhumus
+
+Nach mehreren Monaten Füttern ist ein Großteil der Einstreu zu dunklem, krümeligem Wurmhumus geworden, der sich am Boden der Tonne sammelt. Jetzt ist es Zeit, den fertigen Kompost zu entnehmen und neue Einstreu einzufüllen.
+
+Gesammelte Flüssigkeit kann als Flüssigdünger verwendet werden. Wurmhumus kannst du in den Gartenboden oder in Blumenerde mischen. Streue etwa 1 cm Wurmhumus um deine Lieblingspflanzen und gieße sie danach. Für Anzuchterde mische 3 Teile Kompost mit 1 Teil Wurmhumus.
+
+Wurmhumus ist meist pH-neutral und enthält Phosphor, Stickstoff und andere Nährstoffe und Mineralien.
+
+Kompostwürmer brauchen das ganze Jahr über feuchte Bedingungen, da sie – anders als Regenwürmer – nicht tief graben, um Feuchtigkeit zu suchen. Willst du sie im Garten aussetzen, gib ihnen eine dicke Mulchschicht auf die Erde, damit sie Feuchtigkeit und Schutz vor Hitze und Kälte haben. Ist das nicht möglich, setze sie nicht aus.
+
+---
+
+### Mögliche Probleme und Lösungen
+
+#### Geruch
+
+Du kannst Gerüche vermeiden, indem du:
+
+- Nicht zu viel Küchenabfall in die Kiste gibst
+- Die Abfälle, die unter „Das solltest du NICHT füttern“ stehen, weglässt
+- Frische Einstreu regelmäßig hinzufügst
+
+#### Schädlinge
+
+- **Essigfliegen:** Manchmal tauchen sehr kleine Essigfliegen (oft mit Fruchtfliegen verwechselt) auf, sie sind aber harmlos. Sehr viele Essigfliegen deuten darauf hin, dass du zu viel fütterst. Um Essigfliegen loszuwerden:
+  - Füttere nur so viel, wie die Würmer an einem Tag schaffen.
+  - Decke frische Abfälle mit einem feuchten Jutesack oder Zeitungspapier ab.
+- **Ameisen:** Ameisen kommen in die Wurmtonne, wenn die Einstreu zu trocken oder zu sauer ist.
+  - Gib Wasser dazu, damit es feuchter wird.
+  - Streue reichlich Gartenkalk dort, wo die Ameisen sind.
+  - Wenn sie bleiben, entferne sie von Hand und schmiere Vaseline an die Eintrittsstelle.
+- **Nagetiere:** Draußen können Ratten & Mäuse ein Problem sein.
+  - Halte den Deckel immer geschlossen und gib kein Fleisch in die Kiste.
+  - Wenn Tiere in der Nähe sind, stelle die Tonne 30–45 cm erhöht auf oder befestige ein Drahtgitter am Boden der Kiste.
+  - Schließe den Deckel gut, wenn Waschbären oder Opossums in der Gegend sind.
+
+---
+
+### OSU Extension Service Ressourcen & weitere Bücher
+
+- **Sustainable Gardening – Das Oregon-Washington Master Gardener Handbuch**  
+  EM 8742  
+  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Worms Eat My Garbage**, Mary Appelhof, Zweite Auflage
+- **Welcome to the Can-O-Worms**, N. Nattrass
+
+---
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Merkblätter und Kurspläne besuche [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkünften aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien wegen früherer Aktivitäten im Bereich der Bürgerrechte. (Nicht alle genannten Punkte gelten für alle Programme.)
+---

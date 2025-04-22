@@ -1,51 +1,115 @@
-### Universidade de 10 Minutos™  
-A Associação de Mestres Jardineiros do Condado de Clackamas, em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU  
+#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
 
-### Cultivo de Framboesas  
+# Como Cultivar Framboesas
 
-#### Por que cultivar framboesas?  
-Elas são deliciosas, delicadas e melhor apreciadas quando colhidas frescas. Além disso, têm longa duração: framboesas vermelhas e amarelas podem permanecer produtivas por até 15 anos; framboesas pretas permanecem produtivas por 4 a 8 anos.  
+### Por Que Cultivar Framboesas?
+As framboesas são deliciosas, delicadas e ficam ainda melhores quando colhidas na hora. Elas também vivem por muitos anos:
+- Framboesas vermelhas e amarelas podem produzir por até 15 anos.
+- Framboesas pretas produzem por 4 a 8 anos.
 
-#### Tipos e Seleções  
-A primeira decisão é entre os tipos que produzem uma vez, no início do verão (frutificação em floricanas), e os que produzem duas vezes, no verão e no outono (frutificação em primocanas). Depois, você precisa escolher entre os muitos que variam em cor e sabor do fruto. Você pode desejar realizar testes de sabor antes de fazer uma seleção ou consultar a publicação da OSU sobre variedades cultivadas (cultivares) que têm bom desempenho em nossa região. Exemplos: cultivares de frutificação em floricanas vermelhas (Willamette, Meeker e Cascade Delight); cultivares de frutificação em primocanas vermelhas (Vintage, Heritage e Caroline); frutificação em primocanas amarelas (Fallgold e Anne); frutificação em floricanas pretas (Munger e Jewel); e frutificação em floricanas roxas (Royalty e Brandywine).  
+### Tipos e Seleções
+Sua primeira escolha é entre os tipos que produzem:
+1. **Uma vez, no início do verão** (frutificação em floricanos).
+2. **Duas vezes, no verão e no outono** (frutificação em primocanos).
 
-#### Selecionando um Local  
-Framboesas podem tolerar sombra parcial, mas em pleno sol têm melhor rendimento e qualidade de fruto. Evite locais onde batatas, tomates, pimentões, berinjelas, outras frutas de cana ou morangos tenham crescido nos últimos 3 anos. Esses cultivos são suscetíveis a muitos dos mesmos insetos e doenças que as framboesas. Cultive as plantas em solo bem drenado, fértil e argiloso, com capacidade moderada de retenção de água. Evite solos argilosos pesados.  
+Depois, escolha entre as variedades que variam na cor e no sabor dos frutos. Você pode fazer testes de sabor antes de decidir, ou consultar a publicação da OSU sobre variedades cultivadas que se dão bem na nossa região. Exemplos incluem:
+- **Variedades vermelhas de frutificação em floricano**: Willamette, Meeker, Cascade Delight.
+- **Variedades vermelhas de frutificação em primocano**: Vintage, Heritage, Caroline.
+- **Variedades amarelas de frutificação em primocano**: Fallgold, Anne.
+- **Variedades pretas de frutificação em floricano**: Munger, Jewel.
+- **Variedades roxas de frutificação em floricano**: Royalty, Brandywine.
 
-#### Preparando o Solo  
-É melhor cultivar framboesas em um monte elevado de 45 a 60 cm de altura e 60 cm de largura para proporcionar excelente drenagem. Ou construa um canteiro elevado com boa drenagem. O pH do solo deve estar entre 5,6 e 6,5.  
-No ano anterior ao plantio, elimine todas as ervas daninhas perenes. Aplique matéria orgânica no verão ou outono – você pode usar esterco, composto, folhas ou serragem – misturando ao solo. Certifique-se de que esteja decomposta na época do plantio. Plante as framboesas no ano seguinte à preparação do solo.  
+### Escolhendo o Local
+As framboesas toleram meia-sombra, mas produzem mais e têm frutos de melhor qualidade sob sol pleno. Evite locais onde batatas, tomates, pimentões, berinjelas, outras frutas de cana ou morangos foram cultivados nos últimos 3 anos, pois essas culturas compartilham muitos insetos e doenças com as framboesas.
 
-#### Plantio  
-Framboesas são geralmente vendidas como plantas de raiz nua. Compre plantas certificadas livres de doenças para minimizar problemas. Plante no início da primavera, assim que o solo estiver pronto para ser trabalhado. Para plantar, cave um buraco em solo preparado, largo o suficiente para acomodar as raízes bem espalhadas. Coloque o ponto mais alto onde as raízes se conectam aos caules, cerca de 2 a 5 cm abaixo do nível do solo. Cubra com terra e regue bem para remover bolsas de ar.  
+Cultive framboesas em solo fértil, bem drenado e argiloso, com capacidade moderada de retenção de água. Evite solos argilosos pesados.
 
-#### Fertilização  
-No ano de plantio, fertilize cada planta com um total de 56 gramas de nitrogênio (N) por uma linha de 3 metros. Use um fertilizante equilibrado, como 16-16-16, ou uma fonte orgânica (por exemplo, farinha de sementes de algodão). Você pode calcular a quantidade necessária dividindo 56 gramas pela porcentagem de nitrogênio. Por exemplo, você precisará de 340 gramas de fertilizante 16-16-16 para obter 56 gramas de N (56 gramas/% de N no fertilizante = gramas de fertilizante necessárias). Em novos plantios, não aplique todo o fertilizante de uma vez. Divida o total em três partes. Aplique a primeira parte 2 semanas após o plantio, a segunda parte 1 mês depois e a última parte mais um mês depois.  
+### Preparando o Solo
+- Cultive framboesas em um monte elevado (de 45 a 60 cm de altura e 60 cm de largura) ou em um canteiro alto para garantir boa drenagem.
+- Mantenha o pH do solo entre **5,6 e 6,5**.
+- No ano anterior ao plantio, elimine todas as plantas daninhas perenes.
+- Aplique matéria orgânica (ex: esterco, composto, folhas ou serragem) no verão ou outono e misture ao solo. Certifique-se de que esteja decomposta no momento do plantio.
+- Plante as framboesas no ano seguinte à preparação do solo.
 
-Para plantas estabelecidas, aplique fertilizante anualmente para manter um bom crescimento. Aplique um total de 56 a 85 gramas de nitrogênio por cada linha de 3 metros. Isso equivale a 368 a 539 gramas de fertilizante 16-16-16 ou 1,13 kg de fertilizante 5-5-3. Aplique metade entre o final de março e o início de abril e o restante no início de junho. Fertilize framboesas de frutificação em primocanas com um adicional de 14 a 28 gramas de N no final de julho.  
+### Plantio
+Framboesas geralmente são vendidas como mudas de raiz nua. Compre plantas certificadas e livres de doenças para evitar problemas.
 
-#### Rega  
-Plantas estabelecidas precisam de 25 a 38 mm de água por semana entre meados de junho e o final do verão. Tome cuidado para regar apenas a zona das raízes, evitando molhar a área de frutificação.  
+- **Época de plantio**: Início da primavera, assim que o solo estiver pronto para trabalhar.
+- **Como plantar**:
+  1. Cave um buraco no solo preparado, largo o suficiente para acomodar as raízes abertas.
+  2. Coloque o ponto mais alto onde as raízes se juntam ao caule cerca de 2 a 5 cm abaixo do nível do solo.
+  3. Cubra com terra e regue bem para eliminar bolsas de ar.
 
-#### Manejo de Ervas Daninhas  
-Cultive para controlar ervas daninhas e brotos que se desenvolvem fora das fileiras. Cultive a uma profundidade máxima de 2 a 5 cm para prevenir danos às raízes. A cobertura do solo pode ser usada para suprimir ervas daninhas e manter a umidade do solo.  
+### Adubação
 
-#### Sustentação e Poda  
-Os métodos de poda para framboesas variam bastante entre os tipos. Resumidamente, framboesas de verão precisam de suporte para manter os caules eretos. Pode removendo floricanas mortas após a frutificação no verão ou no outono. No inverno, retire primocanas quebradas ou fracas e treine os caules no suporte (estes podem ser cortados a cerca de 2 metros). Para produzir duas safras em framboesas de frutificação em primocanas, remova floricanas mortas após a frutificação no verão ou outono. Depois, retire a ponta morta das primocanas (parte que frutificou no outono anterior). Para produzir apenas uma safra em framboesas de frutificação em primocanas, pode no final do inverno cortando todos os caules até o chão. A safra do outono será produzida nas pontas das primocanas que crescerem durante o verão. Nesse caso, framboesas de frutificação no outono precisam apenas de uma estrutura de suporte temporária.  
+#### Plantios Novos
+No ano do plantio, adube cada planta com um total de **56 gramas de nitrogênio (N)** por fileira de 3 metros. Use um fertilizante equilibrado como **16-16-16** ou uma fonte orgânica (ex: farinha de semente de algodão).
 
-#### Pragas e Doenças  
-A podridão da raiz por Phytophthora pode ser um problema sério. Solos argilosos pesados e áreas de raízes úmidas são condições ideais para esse fungo que mata floricanas. Outras pragas incluem gorgulho da raiz, ácaros-aranha, pulgões, oídio, antracnose e murcha por Verticillium.  
+Para calcular a quantidade necessária:
+- Divida 56 gramas pela porcentagem de nitrogênio do fertilizante.
+  - Exemplo: Você precisará de **340 gramas de fertilizante 16-16-16** para obter 56 gramas de N (56 ÷ porcentagem de N = gramas de fertilizante necessárias).
 
-#### Informações adicionais  
-Publicações da OSU disponíveis online em [https://extension.oregonstate.edu/](https://extension.oregonstate.edu/)  
-- Cultivo de Framboesas no Jardim de Casa EC 1306  
-- Cultivares de Framboesas para o Noroeste do Pacífico PNW 655  
-- Manual de Jardinagem Sustentável EM 8742  
-- Cultivo de Frutas no Litoral de Oregon: Framboesas e Amoras EM 9180 (o conteúdo também é relevante para o Vale Willamette)  
-- Aprenda como podar framboesas em um módulo online em [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en)  
+Não aplique todo o fertilizante de uma vez. Divida o total em três partes:
+1. Aplique a primeira parte 2 semanas após o plantio.
+2. Aplique a segunda parte 1 mês depois.
+3. Aplique a última parte mais 1 mês depois.
 
-#### Conselhos de Mestres Jardineiros™  
-- Ligue para a Linha de Ajuda de Horticultura Residencial: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington) ou 503-445-4608 (Condado de Multnomah).  
-- Para folhetos e cronogramas de aulas da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](www.cmastergardeners.org) ou [www.metromastergardeners.org](www.metromastergardeners.org).  
+#### Plantas já estabelecidas
+Adube anualmente para manter o bom crescimento:
+- **Quantidade**: 56 a 85 gramas de nitrogênio por fileira de 3 metros.
+  - Exemplo: 368 a 539 gramas de fertilizante 16-16-16 ou 1,1 kg de fertilizante 5-5-3.
+- **Quando adubar**:
+  - Aplique metade entre o final de março e início de abril.
+  - Aplique o restante no início de junho.
+- **Framboesas de primocano**: Adube com mais 14 a 28 gramas de nitrogênio no final de julho.
 
-O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parental, renda oriunda de um programa de assistência pública, crenças políticas, informações genéticas, status como veterano, represália ou retaliação por atividades anteriores em direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
+### Irrigação
+Plantas já estabelecidas precisam de **2,5 a 4 cm de água por semana** de meados de junho até o fim do verão. Molhe apenas a zona das raízes, evitando molhar os frutos.
+
+### Controle de Plantas Daninhas
+- Capine para controlar ervas daninhas e brotos que surgem fora das fileiras.
+- Não cave mais que **2,5 a 5 cm** de profundidade para evitar danificar as raízes.
+- Use cobertura morta (mulch) para impedir o crescimento de ervas daninhas e manter a umidade do solo.
+
+### Tutoramento e Poda
+Os métodos de poda variam conforme o tipo de framboesa:
+
+- **Framboesas de verão**:
+  - Sustente os caules com tutores.
+  - Retire os floricanos mortos após a frutificação no verão ou outono.
+  - No inverno, retire primocanos quebrados ou fracos e prenda os caules no tutor (pode-se podar a cerca de 1,8 m de altura).
+
+- **Framboesas de primocano**:
+  - Para produzir duas safras:
+    - Retire os floricanos mortos após a colheita no verão ou outono.
+    - Retire a ponta morta dos primocanos (parte que frutificou no outono anterior).
+  - Para produzir uma safra:
+    - Pode no final do inverno, cortando todos os caules rente ao solo.
+    - A safra de outono será produzida nas pontas dos primocanos que crescerem no verão.
+    - Framboesas de safra de outono precisam apenas de uma estrutura de suporte temporária.
+
+### Pragas e Doenças
+Problemas comuns incluem:
+- **Podridão de raiz por Phytophthora**: Aparece em solos argilosos e áreas encharcadas, matando os floricanos.
+- Outras pragas: Gorgulho-da-raiz, ácaros, pulgões.
+- Doenças: Oídio (pó branco), antracnose, murcha de Verticillium.
+
+### Informações Adicionais
+Publicações da OSU disponíveis online em [https://extension.oregonstate.edu/](https://extension.oregonstate.edu/):
+- **Como Cultivar Framboesas no Seu Jardim** (EC 1306)
+- **Variedades de Framboesa para o Noroeste do Pacífico** (PNW 655)
+- **Manual de Jardinagem Sustentável** (EM 8742)
+- **Como Cultivar Frutas no Litoral do Oregon: Framboesas e Amoras** (EM 9180) – Conteúdo também relevante para o Vale do Willamette.
+- Aprenda a podar framboesas em um módulo online em [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
+
+#### Dicas dos Mestres Jardineiros™
+- **Ligue para o Plantão de Horticultura Doméstica:**
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+- Para outros folhetos e horários de aulas do 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda derivada de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

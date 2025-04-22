@@ -1,61 +1,96 @@
-### Universidade de 10 Minutos™  
-**Associação de Jardineiros Mestres™ de Oregon – Capítulo do Condado de Clackamas**  
-**Em cooperação com o Serviço de Extensão da Universidade Estadual de Oregon**  
+#### 10-Minute University™ · Associação Master Gardener™ do Oregon – Capítulo do Condado de Clackamas · Em Cooperação com o Serviço de Extensão da Universidade Estadual do Oregon
 
-### Jardinagem com Crianças de 4 a 7 Anos  
+## Jardinagem com Crianças de 4 a 7 Anos
 
-Jardinar com crianças pode ser uma das experiências mais gratificantes tanto para a criança quanto para o pai, avô ou mentor. Crianças são jardineiras naturais porque são curiosas, aprendem fazendo e gostam de brincar na terra.  
+Jardinar com crianças pode ser uma das experiências mais gratificantes tanto para a criança quanto para o pai, avô ou mentor. As crianças são jardineiras naturais porque são curiosas, aprendem fazendo e gostam de brincar na terra.
 
-Trabalhar juntos no jardim pode proporcionar horas de qualidade a cada semana e incentivar o interesse da criança pelos processos da natureza e da ciência. As crianças também apreciam a estimulação sensorial, seja ao despejar água de um recipiente ou ao trabalhar no solo removendo ervas daninhas.  
+Trabalhar juntos no jardim pode proporcionar horas de tempo de qualidade toda semana e incentiva o interesse da criança pelo funcionamento da natureza e da ciência. As crianças também apreciam a estimulação dos sentidos, seja despejando água de um recipiente ou trabalhando na terra para tirar ervas daninhas.
 
-### Por Que Jardinar com Crianças?  
-- Elas podem vivenciar o ciclo da vida de forma prática.  
-- Ensina responsabilidade e estimula a criatividade.  
-- Dá-lhes uma compreensão da nossa dependência da natureza e de sua abundância.  
+### Por Que Jardinar com Crianças?
 
-Cultivar hortaliças pode ser especialmente gratificante para crianças de todas as idades. Crianças pequenas se beneficiam ao escolher sementes de hortaliças que sejam maiores e mais fáceis para mãos pequenas manejarem. Essas sementes também germinam mais rapidamente, produzindo resultados comestíveis em uma única estação. Isso promove uma boa nutrição e apresenta alimentos novos às crianças. Elas estarão mais dispostas a experimentar novos alimentos porque os cultivaram elas mesmas.  
+- Elas podem vivenciar o ciclo da vida de perto.
+- Isso ensina responsabilidade e estimula a criatividade.
+- Dá a elas compreensão sobre nossa dependência da natureza e sua abundância.
 
-### Ideias para Considerar  
-- Dê-lhes seu próprio espaço, seja uma cama elevada, vasos ou parcelas no solo. Cada criança deve ter seu próprio espaço.  
-- Mantenha pequeno, pois um espaço menor é mais fácil de gerenciar, e tudo parece maior aos olhos de uma criança. Comece pequeno e aumente o tamanho conforme a idade e o interesse crescem.  
-- Coloque o jardim no melhor local possível, com sol adequado e uma fonte de água.  
-- Use ferramentas sérias. Não dê-lhes ferramentas de plástico que podem quebrar e frustrar um novo jardineiro.  
+Jardins de vegetais podem ser especialmente gratificantes para crianças de todas as idades. As crianças pequenas se beneficiam quando você escolhe sementes de vegetais que são grandes e mais fáceis de manusear. Elas também germinam mais rápido, produzindo resultados comestíveis em uma única estação. A jardinagem promove boa nutrição e apresenta às crianças alimentos que são novos para elas. Elas ficarão mais dispostas a experimentar novos alimentos porque foram elas que plantaram.
 
-### Algumas Atividades  
-Você pode ajustar a quantidade de trabalho para se adequar à criança e ao tempo disponível. Lembre-se, é importante tornar a experiência recompensadora para ambos, então pense no escopo da atividade e termine antes que alguém fique sobrecarregado ou frustrado. Isso inclui os adultos.  
+### Ideias para Considerar
 
-Plante flores ou hortaliças para polinizadores como abelhas, pássaros e borboletas. Jardineiros valorizam insetos e polinizadores que vivem e visitam o jardim. Você pode plantar girassóis, zínias ou capuchinhas. Elas são atraentes e fornecem alimento para polinizadores. Confira estas publicações da Universidade Estadual de Oregon:  
-[Encouraging Beneficial Insects in Your Garden](https://catalog.extension.oregonstate.edu/pnw550)  
-[Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)  
+- **Dê a elas um espaço próprio**: Seja uma horta elevada, vasos ou canteiros no chão, cada criança deve ter seu próprio espaço.
+- **Mantenha pequeno**: Um espaço menor é mais fácil de cuidar, e tudo parece maior aos olhos de uma criança. Comece pequeno e aumente o tamanho conforme a idade e o interesse crescerem.
+- **Coloque o jardim no melhor lugar possível**: Certifique-se de que haja sol suficiente e uma fonte de água próxima.
+- **Use ferramentas de verdade**: Não dê ferramentas de plástico que podem quebrar e frustrar o novo jardineiro.
 
-#### Caça aos Lesmas  
-Crianças aprenderão como as lesmas desempenham um papel em um ecossistema. Há três tipos comuns de lesmas no Noroeste do Pacífico: lesma-banana (uma nativa e benéfica), lesma-leopardo e lesma de dorso vermelho. A lesma cinza do jardim é a mais destrutiva para as culturas. Aprenda que as lesmas têm predadores como cobras e salamandras e, embora as lesmas e os caracóis sejam "pragas" para os jardineiros, eles desempenham um papel essencial no ecossistema do jardim. Se você optar por eliminar as lesmas ou caracóis encontrados, pode fazê-lo gentilmente colocando-os em um balde com água e sabão. Confira estes recursos:  
-[Identifying Slugs and Snails](https://agsci.oregonstate.edu/slug-portal/identification)  
-[Slugs and Snails](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)  
+### Algumas Atividades
 
-#### Caça aos "Decompositores"  
-Crianças adoram procurar "decompositores". Minhocas, tatuzinhos, formigas e caracóis fazem parte do ecossistema e são essenciais para decompor matéria orgânica em húmus. Eles devem ser celebrados. Peça às crianças para cavarem um pequeno balde de solo ou trabalharem em uma pequena área do jardim e registrarem o número de "decompositores" que encontrarem. Será útil se elas tiverem um microscópio ou lupa para usar nessa busca. Confira o recurso da Universidade Estadual de Oregon sobre decompositores:  
-[Worms as Decomposers](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)  
+Você pode ajustar a quantidade de trabalho para se adequar à criança e ao tempo disponível. Lembre-se, é importante tornar a experiência gratificante para vocês dois, então pense bem sobre o tamanho da atividade e pare antes que alguém fique cansado ou frustrado — inclusive os adultos.
 
-Lembre-se de dar às crianças informações essenciais sobre plantio em locais com mais luz solar e de garantir que o solo cubra as sementes (mas não muito profundamente). Incentive-as a observar como os insetos interagem com as plantas enquanto crescem. Algumas sementes favoritas de hortaliças para crianças plantarem: abóboras, feijão-de-vara, rabanetes, ervilhas, feijões escarlate e tomates-cereja.  
+#### Plante Flores ou Vegetais para Polinizadores
 
-### Adicione Alfabetização  
-Há muitos livros ilustrados e instrutivos maravilhosos sobre jardinagem que as crianças apreciarão antes de começar e enquanto trabalham no jardim. Ler em voz alta para elas convida a questionamentos e pode servir de ponto de partida para planos de jardinagem. Seu bibliotecário local ficará feliz em ajudá-lo a encontrar recursos que você e sua criança irão gostar. Aqui estão algumas sugestões:  
-- **“From Seed to Plant”** de Gail Gibbons  
-- **“The Tiny Seed”** de Eric Carle  
-- **“Growing Vegetable Soup”** de Lois Ehlert  
-- **“The Vegetables We Eat”** de Gail Gibbons  
-- **“The Carrot Seed”** de Ruth Krause  
-- **“Muncha! Muncha! Muncha!”** de Candace Fleming  
-- **“Flip, Float, Fly: Seeds on the Move”** de JoAnn Early Macken  
-- **“Berries, Nuts and Seeds”** de Diane L. Burns  
-- **“Jack’s Garden”** de Henry Cole  
+Os jardineiros valorizam os insetos e polinizadores que vivem e visitam o jardim. Você pode plantar girassóis, zínias ou capuchinhas. Elas são bonitas e fornecem alimento para os polinizadores.
 
-### Conselho de Jardineiro Mestre™  
-- Ligue para a Linha de Assistência de Horticultura Doméstica:  
-  - 503-655-8631 (Condado de Clackamas)  
-  - 503-821-1150 (Condado de Washington)  
-  - 503-445-4608 (Condado de Multnomah)  
-- Para folhetos e cronograma de aulas da Universidade de 10 Minutos™, visite: [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+Veja estas publicações da Universidade Estadual do Oregon:
 
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parental, renda proveniente de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
+- [Encorajando Insetos Benéficos no Seu Jardim](https://catalog.extension.oregonstate.edu/pnw550)
+- [Guia do Educador para Jardinagem de Vegetais](https://catalog.extension.oregonstate.edu/em9032)
+
+#### Caça ao Lesma
+
+As crianças vão aprender como as lesmas têm um papel no ecossistema. Existem três tipos comuns de lesmas no Noroeste do Pacífico:
+
+- **Lesma-banana**: Nativa e benéfica.
+- **Lesma-leopardo** e **lesma de dorso vermelho**.
+- **Lesma-cinza de jardim**: A mais destrutiva para as plantações.
+
+As lesmas têm predadores como cobras e salamandras. Mesmo que lesmas e caracóis sejam “pragas” para os jardineiros, eles têm um papel importante no ecossistema do jardim. Se você quiser descartá-los, pode fazer isso de maneira gentil, colocando-os em um balde com água e sabão.
+
+Veja estes recursos:
+
+- [Identificando Lesmas e Caracóis](https://agsci.oregonstate.edu/slug-portal/identification)
+- [Lesmas e Caracóis](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
+
+#### Procure Decompositores
+
+Minhocas, tatuzinhos, formigas e caracóis fazem parte do ecossistema e são essenciais para transformar matéria orgânica em húmus. Eles merecem ser celebrados.
+
+Peça às crianças que cavem um pequeno balde de terra ou façam uma escavação em uma área do jardim e anotem quantos “decompositores” encontrarem. Ajuda muito se elas tiverem um microscópio ou uma lupa para usar na busca.
+
+Confira o recurso da Universidade Estadual do Oregon sobre decompositores:
+
+- [Minhocas como Decompositoras](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
+
+#### Dicas de Plantio
+
+Dê às crianças informações essenciais sobre plantar em um lugar com mais luz solar e garantir que a terra cubra as sementes (não muito fundo). Incentive-as a observar como os insetos interagem com as plantas enquanto crescem.
+
+Algumas sementes de vegetais favoritas para as crianças plantarem:
+
+- Abóboras
+- Feijões-trepadores
+- Rabanetes
+- Ervilhas-tortas
+- Feijão escarlate
+- Tomatinhos-cereja
+
+### Acrescente Leitura
+
+Existem muitos livros ilustrados e instrutivos maravilhosos sobre jardinagem que as crianças vão gostar antes de começar e enquanto trabalham no jardim. Ler em voz alta para elas incentiva perguntas e pode ser o ponto de partida para planos de jardim. Seu bibliotecário local ficará feliz em ajudar a encontrar recursos que você e seu filho vão gostar.
+
+Aqui estão algumas sugestões:
+
+- *Da Semente à Planta* de Gail Gibbons
+- *A Pequena Semente* de Eric Carle
+- *Plantando Sopa de Legumes* de Lois Ehlert
+- *Os Vegetais que Comemos* de Gail Gibbons
+- *A Semente da Cenoura* de Ruth Krause
+- *Muncha! Muncha! Muncha!* de Candace Fleming
+- *Voa, Flutua, Voando: Sementes em Movimento* de JoAnn Early Macken
+- *Frutas, Nozes e Sementes* de Diane L. Burns
+- *O Jardim de Jack* de Henry Cole
+
+#### Dicas dos Master Gardener™ · Ligue para a Linha de Ajuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos e cronograma de aulas do 10-Minute University™: Acesse [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade prévia de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

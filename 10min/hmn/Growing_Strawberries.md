@@ -1,63 +1,80 @@
-# 10-Minute University™  
-Clackamas County Master Gardener Association koom tes nrog thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Lub Koom Haum Master Gardener Hauv Nroog Clackamas koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Kawm Yuav Ua Li Cas Loj Hlob Strawberry  
+# Kev Loj Me Strawberry
 
-### Vim li cas thiaj li yuav tsum loj hlob Strawberry?  
-- Yog koj saib xyuas cov nroj tsuag kom zoo, koj tuaj yeem tau txais cov txiv ntoo txaus rau koj tsev neeg los ntawm ib thaj chaw me me.  
-- Strawberry tuaj yeem tsim tau rau 3 txog 4 xyoos ntxiv.  
+### Vim Li Cas Thiaj Yuav Loj Me Strawberry?
+- Yog koj saib xyuas cov nroj tsuag kom zoo, koj yuav tau txiv txaus rau koj tsev neeg txawm nyob hauv thaj tsam me me xwb.
+- Strawberry loj tau txiv zoo li no tau li 3 txog 4 xyoos.
 
-### Hom Strawberry  
-- **June-bearers** – Tsuas tsim tau ib zaug hauv ib xyoo, feem ntau yog thaum lub Rau Hli. Qauv muaj xws li Hood, Totem, Benton, Sweet Sunrise thiab Tillamook. Lawv tsim tau ntau cov kab tshiab (runners).  
-- **Everbearers** – Tsim tau ob zaug, ib zaug thaum Lub Rau Hli lossis Lub Xya Hli thiab lwm zaug thaum lub caij nplooj zeeg. Qauv muaj xws li Quinault thiab Fort Laramie. Lawv tsim tau tsawg cov kab tshiab.  
-- **Day-neutrals** – Tsim txiv ntoo yuav luag tas lub caij loj hlob tshwj tsis yog thaum nws kub heev. Cov no yog hom zoo tshaj rau vaj tsev thiab cov thawv cog ntoo. Qauv muaj xws li Albion, Seascape, Selva, Tristar thiab Tribute.  
+### Hom Strawberry
+- **June-bearers** – Tsuas loj tau ib zaug xwb hauv ib xyoos, feem ntau nyob rau lub rau hli ntuj. Piv txwv muaj Hood, Totem, Benton, Sweet Sunrise, thiab Tillamook. Lawv muaj ntau cov cag tshiab.
+- **Everbearers** – Loj tau ob zaug hauv ib xyoos, ib zaug hauv lub rau hli lossis xya hli thiab lwm zaug hauv lub caij nplooj zeeg. Piv txwv muaj Quinault thiab Fort Laramie. Lawv muaj tsawg cov cag tshiab.
+- **Day-neutrals** – Loj tau txiv yeej tas lub caij loj tsuas yog thaum kub heev xwb. Hom no zoo tshaj rau tsev neeg cog hauv vaj lossis hauv lub thawv. Piv txwv muaj Albion, Seascape, Selva, Tristar, thiab Tribute.
 
-### Xaiv Qhov Chaw Cog  
-- Xav tau tshav ntuj puv rau kev tsim khoom zoo tshaj plaws thiab txiv ntoo zoo.  
-- Txhawm rau txo cov kab thiab kab mob, hloov qhov chaw txhua zaus koj cog tshiab (txhua 3 txog 4 xyoos).  
-- Tsis txhob cog ze qhov chaw uas txiv lws suav, kua txob, qos yaj ywm, txiv lws suav me, strawberries, raspberries lossis blackberries tau cog rau hauv 3 xyoos dhau los. Cov nroj tsuag no tuaj yeem yog cov kab mob rau koj strawberry xws li Verticillium wilt.  
+### Xaiv Qhov Chaw Cog
+- Qhov chaw yuav tsum muaj hnub ci tas nrho thiaj tau txiv zoo thiab zoo nkauj.
+- Txhawm rau txo cov kab thiab kab mob, hloov qhov chaw cog txhua zaus koj cog tshiab (txhua 3 txog 4 xyoos).
+- Tsis txhob cog qhov twg uas muaj tomato, kua txob, qos yaj ywm, eggplant, strawberry, raspberry, lossis blackberry tau loj hauv 3 xyoos dhau los. Cov nroj tsuag ntawd yuav tuav tau kab mob xws li Verticillium wilt uas yuav ua rau koj cov strawberry muaj mob.
 
-### Npaj Av  
-- **Zoo tshaj plaws**: Ib lub txaj siab ntawm cov av loamy zoo, muaj cov organic ntau thiab pH nruab nrab ntawm 5.6 thiab 6.5.  
-- **Tsis txhob xaiv**: Cog rau hauv cov av nplaum hnyav. Yog tias tsuas muaj av uas tsis zoo dej ntws, koj tuaj yeem txhim kho nws los ntawm kev ntxiv cov organic.  
+### Npaj Av
+- **Zoo Tshaj Plaws:** Av siab, dej ntws tau zoo, muaj organic matter ntau, pH ntawm 5.6 thiab 6.5.
+- **Tsis Pom Zoo:** Tsis txhob cog rau hauv av nplaum tuab. Yog tias koj tsuas muaj av uas dej tsis ntws zoo xwb, koj yuav kho tau los ntawm kev ntxiv organic matter.
 
-### Txoj Kev Cog  
-Muaj ob txoj kev: Matted-row thiab Hill Systems.  
-- **Hill System** — Rau Day-neutrals: Muab cov nroj tsuag cog 12 txog 15 ntiv tes sib nrug hauv cov kab ob lossis peb, tawm 1½ txog 2 ko taw ntawm qhov chaw nyob nruab nrab.  
-- **Matted-row System** — Rau June-bearers: Muab cov nroj tsuag cog kwv yees li 15 ntiv tes sib nrug hauv kab nrog 3 txog 4 ko taw ntawm kab kom tsim tau ib lub txaj dav 1.5 ko taw.  
+### Txheej Txheem Cog
+Muaj ob yam: Matted-row thiab Hill system.
 
-### Txoj Kev Cog  
-- Yuav cov nroj tsuag uas tsis muaj kab mob. Tsis txhob cog cov noob kab tshiab los ntawm koj qhov qub chaw lossis koj tus neeg nyob ze.  
-- Cog ntxov li sai tau thaum koj tuaj yeem ua haujlwm hauv av thaum caij nplooj ntoos hlav.  
-- Qhov tob cog yog qhov tseem ceeb heev rau strawberry. Thaum cog, khawb qhov tob txaus kom haum cov cag tsis tas yuav khoov. Faib cov cag thiab muab cov nroj tsuag cog rau tib qhov tob uas nws nyob hauv lub lauj kaub; rau cov cag liab qab, xyuas kom meej tias qhov nruab nrab ntawm lub taub hau nyob tiaj tus nrog ntawm av.  
+- **Hill system** — Rau day-neutrals: Cog 12 txog 15 nti sib nrug hauv kab ob lossis peb kab, tseg 1½ txog 2 ko taw dav ntawm cov kab.
+- **Matted-row system** — Rau June-bearers: Cog li 15 nti sib nrug hauv ib kab, tseg 3 txog 4 ko taw ntawm cov kab kom ua tau ib kab dav 1.5 ko taw.
 
-- **June-bearers** yuav tsis tsim txiv ntau hauv xyoo cog, thiab nws zoo dua kom tshem cov paj uas tuaj thaum lub caij ntuj sov thawj zaug kom tsis txhob ntxhov cov nroj tsuag. Rau Day-neutrals, tsuas yog tshem tawm cov paj thawj zaug uas tawm tam sim ntawd tom qab cog. Day-neutrals yuav tsim tau ib txwm txiv rau xyoo ntawd. Txhua yam yuav tsim tau ntau nyob rau xyoo tom qab cog.  
+### Kev Cog
+- Yuav cov nroj tsuag uas muaj ntawv pov thawj tias tsis muaj kab mob. Tsis txhob cog cov cag tshiab los ntawm koj qhov qub qhov chaw lossis koj tus neeg nyob ze.
+- Cog thaum ntxov li koj ua tau thaum lub caij nplooj ntoos hlav.
+- **Qhov tob cog:** Khawb ib qhov rau txhua tsob kom cov cag ncaj, tsis txhob khoov. Faib cov cag kom zoo thiab cog ntawm qhov tob uas nws nyob rau hauv lub thawv nursery. Yog bare root, xyuas kom qhov nruab nrab ntawm caj dab nyob ncaj qha rau saum av.
 
-### Fertilizing  
-- Saib xyuas cov nroj tsuag: Cov nplooj ntsuab daj lossis ntsuab daj thiab cov kab kab tshiab tsis zoo tuaj yeem qhia tau tias nws tsis muaj nitrogen (N).  
-- Thaum xyoo cog, muab cov nroj tsuag nrog cov chiv sib npaug zoo xws li 16-16-16 lossis cov organic. Rau ib kab 100-ft, siv 2 ounces ntawm nitrogen (N) ib los yog ob lub lis piam tom qab cog. Qhov no sib npaug rau 13 ounces ntawm 16-16-16 (2 ounces/0.16). Siv lwm 2 ounces ntawm N ib hlis tom qab (lig Tsib Hlis) thiab lwm 0.5 txog 1 ounce ntawm N thaum lig Lub Rau Hli.  
-- Rau strawberry qub, lub sijhawm chiv nyob ntawm hom cog. Rau June-bearers, muab chiv tom qab sau qoob loo. Txiav cov nplooj qub tawm li 1 txog 2 lub lis piam tom qab sau txiv kawg thiab muab 4 ounces ntawm N rau ib kab 100-ft, faib nws sib npaug thoob plaws kab ntev thiab dav. Siv dej tom qab chiv. Rau Day-neutrals, muab N thoob plaws feem ntau ntawm lub caij loj hlob thiab txiv; muab 1 ounce ntawm N rau ib kab 100-ft hauv txhua lub Plaub Hlis, Tsib Hlis, Lub Rau Hli, thiab Lub Xya Hli, thiab txiav txim siab ntxiv 1 ounce ntawm N thaum Lub Yim Hli yog tias cov nroj tsuag tseem muaj zog.  
+- **June-bearers:** Loj tau txiv tsawg heev rau xyoo uas koj cog. Tshem tag nrho cov paj thaum lub caij ntuj sov thawj zaug kom nroj tsuag tsis sab.
+- **Day-neutrals:** Tshem cov paj thawj zaug xwb tom qab cog. Lawv yuav loj tau me ntsis txiv rau xyoo thawj zaug.
+- Tag nrho hom yuav loj tau txiv ntau xyoo tom qab cog.
 
-### Dej  
-- 1 txog 1.5 ntiv tes dej txhua lub lis piam thaum caij loj hlob. Tsis txhob tso cov nroj tsuag kom qhuav.  
+### Fertilizing
+- Saib xyuas kev loj hlob: Yog nplooj ntsuab daj lossis tsis muaj cag tshiab, tej zaum yuav tsis muaj nitrogen txaus.
 
-### Kev Tswj Cov Nyom  
-- Cov nyom sib tw nrog cov nroj tsuag rau dej thiab chiv, yog li tshem cov nyom tawm ntawm cov nroj tsuag los ntawm tes. Yog koj cog Day-neutrals hauv Hill System, koj tuaj yeem siv yas mulch nrog cov dej ntsuas, xws li drip, hauv qab.  
+- **Xyoo koj cog tshiab:**
+  - Tso tshuaj chiv uas muaj txhua yam xws li 16-16-16 lossis cov chiv organic.
+  - Rau 100 ko taw kab, siv 2 ounces nitrogen (N) ib lim tiam tom qab cog. Qhov no yog 13 ounces ntawm 16-16-16 (2 ounces/0.16).
+  - Tso ntxiv 2 ounces N ib hlis tom qab (lub Tsib Hlis) thiab ntxiv 0.5 txog 1 ounce N rau lub Rau Hli.
 
-### Kab thiab Kab Mob  
-- Cov teeb meem kab mob loj tshaj plaws ntawm strawberry yog Botrytis, fruit rot, root rot, thiab Verticillium wilt.  
-- Cov kab teeb meem suav nrog root weevil, aphid, spider mite, thiab crown moth.  
+- **Rau cov strawberry uas loj lawm:**
+  - **June-bearers:** Tso tshuaj chiv tom qab txiav txiv. Txiav cov nplooj qub tshem tawm li 1 txog 2 lub lis piam tom qab khaws txiv kawg, ces tso 4 ounces N rau 100 ko taw kab, faib rau tag nrho kab. Nqus dej tam sim ntawd tom qab tso chiv.
+  - **Day-neutrals:** Tso N tas nrho caij loj thiab caij txiv. Tso 1 ounce N rau 100 ko taw kab rau lub Plaub Hlis, Tsib Hlis, Rau Hli, thiab Xya Hli. Yog tias nroj tsuag loj zoo, xav txog tso ntxiv 1 ounce N rau lub yim hli.
 
-### OSU Extension Service Cov Khoom Siv  
-Mus xyuas OSU Extension Service hauv online ntawm [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- **Growing Strawberries in Your Home Garden** EC 1307  
-- **Strawberry Cultivars for Western Oregon and Washington** EC 1618  
-- **Growing Berries on the Oregon Coast: Strawberries** EM 9178 (Tsis tas rau Willamette Valley)  
+### Tsuag Dej
+- Muab dej 1 txog 1.5 nti hauv ib lub lim tiam thaum caij loj. Tsis txhob cia nroj tsuag tshaib dej.
 
-### Master Gardener™ Cov Lus Qhia  
-- Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Rau lwm 10-Minute University™ phau ntawv thiab chav kawm sijhawm, mus xyuas [www.cmastergardeners.org](http://www.cmastergardeners.org) lossis [www.metromastergardeners.org](http://www.metromastergardeners.org).  
-- Nrhiav Master Gardeners ntawm Farmers’ Markets hauv cheeb tsam.  
+### Tswj Tshuaj Ntsuab
+- Tshuaj ntsuab yuav siv cov dej thiab chiv uas cov nroj tsuag xav tau. Tshem tshuaj ntsuab tawm los ntawm kev muab tes muab pov tseg.
+- Yog koj cog day-neutral hauv hill system, koj siv tau yas npog av thiab tso dej rau hauv qab, piv txwv li drip irrigation.
 
-Oregon State University Extension Service txwv tsis pub kev ntxub ntxaug hauv txhua nws cov kev pab cuam, kev pab, kev ua, thiab cov ntaub ntawv hauv paus ntawm haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, tus kheej tus yam ntxwv (suav nrog tus txiv neej lossis poj niam qhia tawm), kev sib deev, kev tsis taus, hnub nyoog, kev sib yuav, tsev neeg/kev txhawb nqa, nyiaj tau los, kev ntseeg, kev ntseeg, kev ntseeg, tus neeg ntawm kev pab nyiaj los ntawm kev pab cuam pej xeem, kev ntseeg txog kev nom tswv, cov ntaub ntawv caj ces, tus qub tub rog, kev tsim txom lossis kev ua phem rau kev cai lij choj yav dhau los. (Tsis yog txhua yam kev txwv tau siv rau txhua qhov kev pab cuam).
+### Kab thiab Kab Mob
+- **Kab mob:** Kab mob loj tshaj hauv strawberry yog Botrytis, txiv rot, cag rot, thiab Verticillium wilt.
+- **Kab:** Kab muaj teeb meem xws li root weevil, kab nab, kab liab, thiab crown moth.
+
+### OSU Extension Service Cov Kev Pab
+Mus xyuas OSU Extension Service online ntawm [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+
+- **Kev Loj Strawberry Hauv Koj Lub Vaj** (EC 1307)
+- **Hom Strawberry Rau Western Oregon thiab Washington** (EC 1618)
+- **Kev Loj Berries Hauv Oregon Coast: Strawberry** (EM 9178) (Siv tau rau Willamette Valley thiab)
+
+#### Master Gardener™ Cov Lus Qhia
+
+- **Hu Xovtooj Nug Kev Pab Nyob Hauv Tsev:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Rau lwm yam ntaub ntawv 10-Minute University™ thiab sij hawm kawm, mus xyuas [www.cmastergardeners.org](https://www.cmastergardeners.org)
+- Mus nrhiav Master Gardeners ntawm Farmers’ Markets hauv zej zog.
+
+---
+
+##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua yam kev pab cuam, kev pab, kev ua, thiab ntaub ntawv raws li haiv neeg, xim tawv nqaij, teb chaws keeb kwm, kev ntseeg, poj niam los txiv neej, kev qhia txog poj niam/txiv neej (xws li kev qhia txog tus kheej), kev nrog poj niam los txiv neej sib hlub, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj me nyuam, nyiaj hli los ntawm txoj kev pab pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, txoj hauj lwm tub rog, kev raug txim lossis raug pauj vim muaj kev tiv thaiv kev cai lij choj yav dhau los. (Tsis yog txhua txoj cai txwv siv rau txhua yam kev pab cuam).
+---

@@ -1,69 +1,113 @@
-# 10-Minute University™
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-Ang Clackamas County Master Gardener Association, sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
+---
 
-## Pagsusuri ng Soil pH
+## Pagsusuri ng pH ng Lupa
 
-### Overview
+### Pangkalahatang-ideya
 
-Ang matagumpay na hardinero na naghahangad ng pinakamainam na resulta sa pagtatanim ng mga halaman ay nauunawaan ang kahalagahan ng soil pH, na kasinghalaga ng lokasyon, pagkakalantad, at paghahanda ng lupa. Ang soil pH ay sukatan ng antas ng acidity (asim) o alkalinity (tamis) ng lupa. Ito ay sinusukat sa sukatang 0 hanggang 14, kung saan ang mas mababang bilang ay mas acidic at ang mas mataas na bilang ay mas alkaline. Ang halaga na 7.0 ay neutral—ibig sabihin, hindi acidic o alkaline.
+Alam ng mga matagumpay na hardinero na gustong mapabuti ang pagtubo ng mga halaman ang kahalagahan ng pH ng lupa, na kasinghalaga ng lokasyon, pagkaka-expose, at paghahanda ng lupa. Ang pH ng lupa ay sumusukat kung gaano kaasim (maasim) o kaalcaline (matamis) ang lupa. Nasusukat ito sa scale na 0 hanggang 14—mas mababa ang numero, mas maasim; mas mataas ang numero, mas maalcaline. Ang 7.0 ay neutral—ibig sabihin, hindi maasim o maalcaline.
 
-Kapag ang pH level ay masyadong mataas o mababa, ang mga mineral ay nakakapit sa mga particle ng lupa at hindi magagamit ng halaman. Sa ganitong sitwasyon, ang pagdaragdag ng higit pang pataba ay walang silbi. Ang dami ng mineral na naroroon sa natural na lupa at taunang pag-ulan ay nakakaapekto sa soil pH. Sa Western Oregon, ang ulan ay nagtatanggal ng mga mineral at nagreresulta sa mga lupa na mas acidic. Sa Eastern Oregon, ang lupa ay mas alkaline.
+Kapag masyadong mataas o mababa ang pH, nakakabit ang mga mineral sa mga particle ng lupa at hindi magagamit ng halaman. Sa ganitong sitwasyon, hindi rin makakatulong ang pagdagdag ng abono. Parehong ang dami ng mineral sa orihinal na lupa at ang dami ng ulan kada taon ay nakakaapekto sa pH ng lupa. Sa Western Oregon, ang ulang madalas ay nag-aalis ng mga mineral at nagpapasimula ng pagiging maasim ng lupa. Sa Eastern Oregon, mas maalcaline ang mga lupa.
 
-Sa pangkalahatan, karamihan sa mga halaman ay pinakamahusay na tumutubo sa neutral na soil pH, bagama't may mga mahalagang eksepsyon. Halimbawa, ang blueberries, azaleas, at rhododendrons ay mahusay sa soil pH sa pagitan ng 4.5 at 5.5. Ang damuhan ay pabor sa pH na 5.5 hanggang 6, habang ang mga rosas ay pinakamahusay sa lupa na may pH na 6.5 hanggang 7.
+Sa pangkalahatan, karamihan sa mga halaman ay pinakamabuting tumutubo sa neutral na pH ng lupa, ngunit may mahahalagang eksepsiyon. Halimbawa:
+
+- Ang blueberries, azaleas, at rhododendrons ay maganda sa pH ng lupa na 4.5 hanggang 5.5.
+- Mas gusto ng damuhan ang pH na 5.5 hanggang 6.
+- Pinakamaganda ang rosas sa lupa na may pH na 6.5 hanggang 7.
+
+---
 
 ### Mga Uri ng Pagsusuri ng Lupa
 
-Mayroong dalawang pangunahing uri ng pagsusuri ng lupa: Ang isa ay sumusukat sa mga mineral ng lupa at ang isa ay sumusukat sa soil pH. Ang pagsusuri para sa mga mineral ay sinusukat ang mga sustansya ng lupa na magagamit ng halaman. Ang pagsusuri na ito ay kailangang gawin sa isang propesyonal na lab.
+May dalawang pangunahing uri ng pagsusuri ng lupa:
 
-Ang soil pH ay maaaring suriin sa bahay gamit ang isang simpleng kit. Bukod dito, ang Clackamas County Master Gardeners ay nagsasagawa ng libreng pagsusuri ng soil pH nang ilang beses sa isang taon. Gumagamit ang Master Gardeners ng sopistikadong kagamitan na nagbibigay ng mas tumpak na resulta. Tingnan ang www.clackamascountymastergardeners.org o magtanong sa isang Master Gardener para sa mga petsa ng mga libreng pagsusuri ng pH.
+1. **Pagsusuri ng Mineral**: Sinusukat ang mga nutrisyon sa lupa na magagamit ng halaman. Kailangang gawin ito sa isang propesyonal na laboratoryo.
+2. **Pagsusuri ng pH ng Lupa**: Maaaring gawin ito sa bahay gamit ang isang simpleng kit.
+
+Ang Clackamas County Master Gardeners ay nagsasagawa ng libreng pagsusuri ng pH ng lupa ng ilang beses bawat taon gamit ang mas sopistikadong kagamitan para sa mas tumpak na resulta. Tingnan ang [www.clackamascountymastergardeners.org](http://www.clackamascountymastergardeners.org) o magtanong sa isang Master Gardener para sa mga petsa ng libreng pagsusuri ng pH.
+
+---
 
 ### Paano Kumuha ng Sample ng Lupa
 
-Mag-ingat sa pagsunod sa mga hakbang na ito upang ang sample na iyong susuriin ay tunay na kumakatawan sa buong lugar.
+Sundin ang mga hakbang na ito ng maingat upang matiyak na tama ang sample para sa buong lugar:
 
-1. Tukuyin ang bilang ng mga sample batay sa topograpiya at mga tanim na halaman; bawat lugar ay dapat magkaroon ng sariling sample. Halimbawa, kung mayroon kang burol at mababa, basang lugar, kumuha ng magkahiwalay na sample mula sa bawat isa. Kung mayroon kang gulayan, damuhan, at perennial bed, kumuha ng magkahiwalay na sample mula sa bawat isa.
+1. **Tukuyin ang bilang ng mga sample**:
+   - Batay ito sa hugis ng lupa at uri ng pananim.
+   - Bawat lugar ay dapat may sariling sample. Halimbawa:
+     - Ang burol at mababa, mamasa-masang bahagi ay dapat magkahiwalay na sample.
+     - Ang vegetable garden, damuhan, at perennial bed ay dapat may kanya-kanyang sample.
 
-2. Kapag natukoy mo na ang bilang ng mga lugar kung saan kukuha ng sample ng lupa, maghanda ng parehong bilang ng malinis na lalagyan (plastic o glass jar o plastic bag). Ang ideal na kapasidad para sa lalagyan ay mga 1 tasa, bagama't mas malalaki ay katanggap-tanggap.
+2. **Maghanda ng lalagyan**:
+   - Gumamit ng malinis na plastic o glass jar, o plastic bag.
+   - Ang ideal na laki ay mga 1 tasa, pero puwedeng mas malaki.
 
-3. Ang bawat sample ay dapat maglaman ng pagitan ng ½ at ¾ tasa ng lupa. Ang sample ay dapat isang halo ng ilang maliliit na sub-sample mula sa lugar na nais mong suriin.
+3. **Kumolekta ng lupa**:
+   - Bawat sample ay dapat may ½ hanggang ¾ tasa ng lupa.
+   - Paghaluin ang ilang maliliit na sub-sample mula sa lugar na gusto mong suriin.
 
-4. Gumamit ng malinis na kagamitan sa pagkuha ng sample na hindi galvanized, bronze, o brass. Siguraduhing malinis ang iyong mga kamay at guwantes. Ang maliit na dami ng pataba sa kagamitan, sa iyong mga kamay o guwantes ay maaaring seryosong makaapekto sa resulta ng pagsusuri.
+4. **Gumamit ng malinis na kasangkapan**:
+   - Iwasan ang galvanized, bronze, o brass na kasangkapan.
+   - Siguraduhing malinis ang kamay at guwantes para iwas kontaminasyon.
 
-5. Kumuha ng sample sa tamang lalim—ang root zone ng mga halaman sa lugar na iyon. Para sa gulayan, ang sample ay dapat kunin mula sa ibabaw hanggang sa 8” lalim.
+5. **Kumuha ng sample sa tamang lalim**:
+   - Para sa vegetable garden, kumuha mula sa ibabaw hanggang 8” ang lalim.
 
-6. Siguraduhing lagyan ng label ang bawat sample gamit ang iyong pangalan at ang lokasyon sa iyong hardin, hal., rose bed, west lawn, gulayan, atbp.
+6. **Lagyan ng label ang bawat sample**:
+   - Isulat ang iyong pangalan at lokasyon sa hardin (hal., rose bed, west lawn, vegetable garden).
 
-7. Iwasan ang pagkuha ng sample mula sa mga hindi karaniwang lugar tulad ng compost o manure piles, o mga nasunog na lugar, dahil hindi sila kumakatawan sa lupa sa iyong hardin.
+7. **Iwasan ang kakaibang lugar**:
+   - Huwag kumuha ng sample mula sa compost o manure pile, o sa nasunog na lugar, dahil hindi ito kinakatawan ang lupa sa iyong hardin.
 
-### Mga Resulta ng Pagsusuri at Mga Solusyon
+---
 
-Ang bawat sample ay magbibigay ng pH reading. Ang mababang bilang ay nagpapahiwatig ng acidic na lupa, at ang mas mataas na bilang, alkaline na lupa. Kapag isinagawa ng Master Gardeners ang pagsusuri, tinutulungan din nila ang interpretasyon ng mga resulta at nagbibigay ng impormasyon tungkol sa anumang solusyon. Mas mainam na ayusin ang soil pH sa loob ng ilang taon. Magdagdag ng tamang amendment sa taglagas; suriin ang soil pH muli sa loob ng 3 hanggang 6 na buwan. Ulitin kung kinakailangan.
+### Resulta ng Pagsusuri at mga Solusyon
 
-#### Para Itaas ang Soil pH
+Ang bawat sample ay magbibigay ng pH na resulta:
 
-Magdagdag ng apog (lime). Ang paggawa nito sa taglagas ay nagdudulot ng pinakamainam na resulta. Gumamit ng 5 hanggang 10 pounds ng apog kada 100 square feet kung ihahalo sa lupa bago magtanim. Para sa mga established na damuhan o halaman, magdagdag ng 5 pounds kada 100 square feet. Muling suriin ang soil pH sa loob ng 3 hanggang 6 na buwan upang makita kung naabot mo na ang target na pH.
+- **Mababa ang numero** kung maasim ang lupa.
+- **Mataas ang numero** kung maalcaline ang lupa.
 
-May iba't ibang anyo ng apog—pulbos, granular, o pelletized. Ang granular o pelletized na apog ay mas madaling ikalat. Kung gumagamit ng pulbos na anyo, magsuot ng mask. Ang Dolomite lime ay naglalaman ng magnesium at magandang pagpipilian para sa mga hardinero sa Western Oregon kung saan ang mga lupa ay madalas na kulang sa magnesium.
+Kapag Master Gardener ang nagsuri, tutulungan ka rin nilang unawain ang resulta at magbigay ng impormasyon kung paano ito aayusin. Pinakamainam na baguhin ang pH ng lupa sa loob ng ilang taon. Magdagdag ng tamang amendment tuwing taglagas at suriin muli ang pH ng lupa matapos ang 3 hanggang 6 na buwan. Ulitin kung kinakailangan.
 
-#### Para Ibaba ang Soil pH
+#### Pagtaas ng pH ng Lupa
 
-Magdagdag ng elemental sulfur. Kung gumagamit ng pulbos na anyo, magsuot ng mask. Katulad ng apog, pinakamahusay na idagdag ang sulfur sa taglagas. Mas epektibo ang pagdaragdag nito sa isang lugar bago magtanim. Para sa mga established na puno at palumpong, magdagdag ng maliit na dami sa lupa sa kahabaan ng drip line, o ikalat sa isang banda sa kahabaan ng hilera ng mga blueberries. Para sa higit pang impormasyon tungkol sa pagpapababa ng soil pH, tingnan ang EC 1560-E. Walang pagsusuri upang tukuyin ang dami ng sulfur amendment. Ang isang soil pH test sa loob ng 3 hanggang 6 na buwan ay magpapakita kung kailangan pa ng karagdagan.
+- Magdagdag ng apog (lime) sa taglagas para sa pinakamagandang resulta.
+- Gumamit ng **5 hanggang 10 libra ng apog bawat 100 square feet** kung ihahalo bago magtanim.
+- Para sa mga established na damuhan o halaman, magdagdag ng **5 libra bawat 100 square feet**.
+- Suriin muli ang pH ng lupa matapos ang 3 hanggang 6 na buwan upang malaman kung naabot na ang target na pH.
 
-### Mga Mapagkukunan ng OSU Extension Service
+**Mga Uri ng Apog:**
 
-Bisitahin ang iyong OSU Extension Service office sa 200 Warner-Milne Road, Oregon City, para sa mga publikasyong ito, o kunin ang mga ito online sa [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):
+- May powdered, granular, o pelletized na apog.
+- Mas madaling ikalat ang granular o pelletized na apog.
+- Kung powdered ang gagamitin, magsuot ng mask.
+- Ang dolomite lime ay may magnesium at magandang piliin ng mga hardinero sa Western Oregon, kung saan madalas kulang ang lupa sa magnesium.
 
-- A List of Analytical Labs Serving Oregon EM 8677  
-- Soil Sampling for Home Gardens and Small Acreages EC 628  
-- Acidifying Soil for Blueberries and Ornamental Plants in the Yard and Garden, EC 1560-E  
+#### Pagbaba ng pH ng Lupa
 
-### Master Gardener™ Advice
+- Magdagdag ng elemental sulfur sa taglagas para sa pinakamahusay na resulta.
+- Para sa mga established na puno at palumpong, maglagay ng kaunting sulfur sa lupa sa paligid ng drip line o ikalat ito sa hilera ng blueberries.
+- Kung powdered sulfur ang gagamitin, magsuot ng mask.
 
-- Tumawag sa Home Horticulture Helpline:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- Para sa higit pang 10-Minute University™ handouts at class schedule, bisitahin ang [www.cmastergardeners.org](www.cmastergardeners.org) o [www.metromastergardeners.org](www.metromastergardeners.org).  
+Para sa karagdagang impormasyon tungkol sa pagpapababa ng pH ng lupa, tingnan ang **EC 1560-E**. Walang pagsusuri para malaman ang eksaktong dami ng sulfur na kailangan. Ang pagsusuri ng pH ng lupa matapos ang 3 hanggang 6 na buwan ay magsasabi kung kailangan pa ng dagdag.
 
-Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng magulang/pamilya, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon ng genetika, katayuan ng beterano, pagganti o paghihiganti para sa dating aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+---
+
+### Mga Resources ng OSU Extension Service
+
+Bisitahin ang inyong OSU Extension Service office sa 200 Warner-Milne Road, Oregon City para sa mga sumusunod na publikasyon, o i-access online sa [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):
+
+- **Listahan ng Mga Analytical Lab sa Oregon** (EM 8677)
+- **Pagsusuri ng Lupa para sa mga Bahay at Maliit na Sakahan** (EC 628)
+- **Pagpapasimula ng Asim ng Lupa para sa Blueberries at Ornamental Plants sa Hardin** (EC 1560-E)
+
+---
+
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org) o [www.metromastergardeners.org](http://www.metromastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama na ang gender expression), sexual orientation, kapansanan, edad, katayuang may asawa o magulang, kita mula sa public assistance program, paniniwalang pampulitika, impormasyong henetiko, katayuang beterano, parusa o pagganti dahil sa dating aktibidad ng civil rights. (Hindi lahat ng ipinagbabawal ay umaapekto sa lahat ng programa.)
+---

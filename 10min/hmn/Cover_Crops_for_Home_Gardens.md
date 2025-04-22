@@ -1,107 +1,84 @@
-# 10-Minute University™
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Kev Sib Txuas Rau Cov Kws Ua Liaj Ua Teb Hauv Clackamas County Ua Ke Nrog thiab Txhawb Nqa OSU Extension Master Gardener™ Program
+# Nroj Tsuag Npog Av Rau Vaj Zaub Tsev
 
-### Nroj Tsuag Npog Rau Cov Vaj Zaub Hauv Tsev
+Nroj tsuag npog av npog thiab txhim kho av. Lawv yuav cog tau thaum caij nplooj zeeg rau cov chaw seem tsis muaj nroj, lossis cog tau thaum caij nplooj ntoos hlav ua ib feem ntawm kev hloov nroj. Muaj ntau yam nroj tsuag xws li legume, nyom, thiab lwm yam nroj tsuag nplooj dav, uas pab tau rau qhov no.
 
-Cov nroj tsuag npog yog muab npog thiab txhim kho av. Lawv yuav tuaj cog rau lub caij nplooj zeeg rau kev npog thaj chaw tsis cog lossis cog rau lub caij nplooj ntoos hlav ua ib feem ntawm kev hloov pauv qoob loo. Muaj ntau hom nroj tsuag, xws li legumes, nyom, thiab perennial broadleaf uas ua tau lub hom phiaj no.
+## Qhov Zoo
 
----
+- Ntxiv cov organic rau hauv av thiab ua kom av zoo dua
+- Legume pab muab nitrogen
+- Tiv thaiv kom av tsis txhob tsawv
+- Pab thaiv nroj tsuag phem
+- Siv dua cov khoom noj hauv av thiab tiv thaiv kom tsis txhob yuav tawm mus
+- Tiv thaiv kom av tsis txhob ntws mus
+- Muab zaub mov (pollen thiab nectar) rau kab tuaj txi txiv thiab lwm yam kab pab
 
-### Cov Txiaj Ntsig
+## Yuav Xaiv Li Cas
 
-- Ntxiv cov organic rau hauv av thiab txhim kho av kom zoo
-- Legumes muab nitrogen rau hauv av
-- Tiv thaiv av kom tsis txhob nkag
-- Txo cov nroj tsuag phem
-- Rov siv cov khoom noj hauv av thiab tiv thaiv kom tsis txhob muaj dej ua ntxhua
-- Tiv thaiv av kom tsis txhob mus raug dej ntws
-- Muab zaub mov (pollen thiab nectar) rau cov kab txhawb nqa thiab cov kab pab tau
+Muaj ntau hom nroj npog av, txhua yam muaj nws qhov zoo thiab tsis zoo. Feem ntau, lawv loj hlob tau biomass thaum vaj zaub tsis muaj nroj. Thaum txiav lawv tas, biomass no yuav pab rau av kom tuav dej thiab cov khoom noj kom zoo dua. Nroj npog av pab ntxiv cov organic rau hauv av txawm yog lawv txiav los npog lossis muab rau hauv av.
 
----
+- **Legume** tuav nitrogen hauv huab cua thiab khaws cia hauv cov cag. Thaum txiav (ua kom tuag), kab mob hauv av yuav hloov mus ua nitrogen rau lwm yam nroj siv. Legume pab txo kev xav tau tshuaj nitrogen.
+- **Nyom** loj hlob sai, tiv thaiv kom av tsis txhob ntws thiab pab thaiv nroj tsuag phem. Lawv cov cag tob pab ua kom av zoo thiab khaws nitrogen uas tshuav thaum xaus caij cog, tiv thaiv kom khoom noj tsis tawm mus. Yog siv nyom nkaus xwb, tej zaum nitrogen yuav tsawg dua hauv av. Siv nyom thiab legume ua ke thiaj tau qhov zoo tshaj plaws.
+- **Lwm yam nroj nplooj dav** (nrog rau buckwheat thiab phacelia) muaj nitrogen ntau dua nyom tab sis tsawg dua legume. Lawv pab muab nitrogen rau lwm yam nroj tom qab thiab feem ntau tsis ua kom nitrogen tsawg hauv av. Lawv tseem yooj yim los muab rau hauv av thiab tawg paj ntau, pab kab tuaj txi txiv thiab kab pab.
 
-### Yuav Xaiv Li Cas
+## Yuav Pib Li Cas
 
-Muaj ntau hom nroj tsuag npog, txhua tus muaj cov txiaj ntsig thiab tej zaum muaj qee qhov tsis zoo. Feem ntau, lawv tsim biomass thaum lub vaj zaub tsis cog. Cov biomass no, tom qab raug tshem tawm, ua ib qhov chaw ntawm cov organic khoom uas txhim kho kev tuav dej thiab khoom noj hauv av. Cov nroj tsuag npog ua rau av muaj cov organic ntau txawm tias lawv raug txiav thiab siv ua mulch lossis raug tso rau hauv av.
+### Xaiv Hom
 
-Legumes muab nitrogen hauv huab cua thiab khaws rau hauv cov cag. Thaum lub nroj tsuag raug tshem tawm (ua kom tuag), cov kab mob hauv av ua kom tawg thiab tso cov nitrogen rau cov qoob loo siv. Cov nroj tsuag npog legumes txo kev xav tau ntawm nitrogen fertilizer.
+Yog koj tseem tshiab rau nroj npog av, xaiv hom xws li oats thiab daikon uas yuav tuag rau caij ntuj no. Cov nroj no tsis tas yuav muaj kauj ruam ntxiv rau kev txiav ua ntej cog lwm yam. Yog tsis yog, xaiv hom raws li qhov koj xav tau. Qee hom nrov muaj xws li:
 
-Nyom loj hlob sai kom tiv thaiv av los ntawm kev puas tsuaj thiab txo cov nroj tsuag phem. Lawv cov cag tob ua kom av zoo thiab khaws nitrogen uas tseem tshuav hauv av thaum kawg ntawm lub caij cog qoob loo kom tsis txhob muaj dej ntxhua. Thaum siv nyom ib leeg, tej zaum yuav ua rau nitrogen hauv av tsawg. Siv nyom thiab legumes ua ke kom tau txais txiaj ntsig zoo tshaj plaws ntawm cov nroj tsuag npog.
+### Nroj Npog Av Rau Caij Txias
 
-Lwm hom forbs (nroj tsuag uas tsis yog nyom) xws li buckwheat thiab phacelia muaj nitrogen ntau dua nyom, tab sis tsawg dua legumes. Lawv tuaj yeem muab qee yam nitrogen rau cov qoob loo tom ntej thiab feem ntau tsis txo nitrogen hauv av. Lawv kuj yooj yim siv thiab cog rau hauv av. Lawv paj ntau thiab muab zaub mov rau cov kab txhawb nqa thiab cov kab pab tau.
+| Nroj Npog Av         | Muab Nitrogen | Tiv Nroj Phem | Ua Av Zoo | Tiv Thaiv Av Ntws | Muab Zaub Mov Rau Kab |
+|----------------------|:-------------:|:-------------:|:---------:|:-----------------:|:---------------------:|
+| Crimson Clover       | X             |               | X         | X                 |                       |
+| Austrian Winter Pea  | X             | X             | X         | X                 |                       |
+| Cereal Rye           |               | X             | X         | X                 |                       |
+| Oats                 |               | X             | X         | X                 |                       |
+| Forage Radish        |               | X             | X         | X                 |                       |
+| Winter Wheat         |               | X             | X         | X                 |                       |
+| Common Vetch         | X             |               | X         | X                 |                       |
+| Phacelia             |               | X             | X         | X                 | X                     |
 
----
+### Nroj Npog Av Rau Caij Sov
 
-### Yuav Pib Li Cas
+| Nroj Npog Av         | Muab Nitrogen | Tiv Nroj Phem | Ua Av Zoo | Tiv Thaiv Av Ntws | Muab Zaub Mov Rau Kab |
+|----------------------|:-------------:|:-------------:|:---------:|:-----------------:|:---------------------:|
+| Buckwheat            |               | X             |           |                   | X                     |
+| Common Vetch         | X             |               | X         | X                 |                       |
+| Sorghum-Sudangrass   |               | X             | X         | X                 |                       |
+| Phacelia             |               | X             | X         | X                 | X                     |
 
-#### Xaiv
+### Sijhawm Cog
 
-Yog tias koj tshiab rau cov nroj tsuag npog, xaiv cov nroj tsuag xws li oats thiab daikon uas yuav tuag thaum lub caij ntuj no. Cov nroj tsuag no tsis tas yuav muaj kauj ruam ntxiv rau kev tshem tawm ua ntej cog cov qoob loo tom ntej. Txwv tsis pub, xaiv cov nroj tsuag npog raws li cov txiaj ntsig uas xav tau. Qee cov hom nroj tsuag uas siv tau muaj npe hauv qab no:
+Yog xav npog av rau caij nplooj zeeg thiab caij ntuj no, cog nroj npog av thaum xaus caij ntuj sov mus txog caij nplooj zeeg. Ntxuav dej ua ntej los nag kom nroj tawg zoo thiab loj hlob tau zoo. Yog xav npog av rau caij nplooj ntoos hlav thiab caij ntuj sov, cog thaum caij nplooj ntoos hlav thaum av ua tau lawm thiab kub txaus rau nroj tawg.
 
-**COOL SEASON**
+### Txiv Noob
 
-| Cover Crop        | Fix Nitrogen | Suppress Weeds | Build Soil | Control Erosion | Feed Pollinator |
-|-------------------|--------------|----------------|------------|-----------------|-----------------|
-| Crimson Clover    | X            |                | X          | X               |                 |
-| Austrian Winter Pea | X          | X              | X          | X               |                 |
-| Cereal Rye        |              | X              | X          | X               |                 |
-| Oats              |              | X              | X          | X               |                 |
-| Forage Radish     |              | X              | X          | X               |                 |
-| Winter Wheat      |              | X              | X          | X               |                 |
-| Common Vetch      | X            |                | X          | X               |                 |
-| Phacelia          |              | X              | X          | X               | X               |
+Txiv noob ncaj qha rau hauv av uas npaj tseg lawm. Ua raws li cov lus qhia ntawm noob rau kev txiav. Tso noob los ntawm txhais tes lossis siv lub tshuab txiav noob me me. Tsom av thiab nias maj mam nrog ib daim ntoo kom noob nrog av sib chwv. Ntxuav dej kom nroj tawg tau zoo.
 
-**WARM SEASON**
+Yog cog rau qhov chaw uas koj twb sau tau cov zaub caij ntuj sov lawm, cog thoob plaws lub txaj. Tshem mulch, tshem nroj tsuag qub, xuas av saum toj 1–2 nti, mam li txiv noob. Yog tias tseem muaj zaub nyob, tshem mulch, xuas av saum toj, thiab cog nroj npog av rau nruab nrab ntawm cov zaub caij ntuj sov.
 
-| Cover Crop        | Fix Nitrogen | Suppress Weeds | Build Soil | Control Erosion | Feed Pollinator |
-|-------------------|--------------|----------------|------------|-----------------|-----------------|
-| Buckwheat         |              | X              |            |                 | X               |
-| Common Vetch      | X            |                | X          | X               |                 |
-| Sorghum-Sudangrass|              | X              | X          | X               |                 |
-| Phacelia          |              | X              | X          | X               | X               |
+### Txiav Nroj Npog Av
 
----
+Txiav nroj npog av thaum pib tawg paj kom tau biomass thiab khoom noj ntau tshaj plaws. Yog txiav tom qab lawv ua noob lawm, nroj npog av yuav ua nroj tsuag phem rau lwm yam tom qab.
 
-#### Lub Sijhawm
+Kev txiav suav nrog txiav lossis txo caj pas kom tuag thiab tso rau saum av (tsis khaws av) lossis muab rau hauv av. Tso tarp rau saum av pab ua kom txheej txheem sai. Nroj tsuag uas muab rau hauv av yuav tsum txiav ua me kom yaj sai dua. Cia 3–4 lub lis piam ua ntej cog lwm yam.
 
-Txhawm rau npog av hauv lub caij nplooj zeeg thiab caij ntuj no, cog cov nroj tsuag npog rau thaum lig lub caij ntuj sov mus txog caij nplooj zeeg. Ntxuav dej ua ntej los nag kom muaj kev txaus siab thiab kev loj hlob muaj zog. Rau kev npog av thaum lub caij nplooj ntoos hlav thiab caij ntuj sov, cog thaum lig lub caij nplooj ntoos hlav thaum av ua tau thiab sov txaus rau kev tsim txiaj.
-
----
-
-#### Cog Nroj Tsuag
-
-Sow cov noob ncaj qha rau hauv thaj chaw uas npaj tau lawm. Ua raws cov lus qhia uas nrog cov noob rau qhov siv tau. Faib cov noob los ntawm txhais tes lossis siv lub tshuab faib noob. Ntxuav qhov chaw thiab maj mam nias nrog ib daim ntoo kom muaj kev sib tiv tauj zoo nrog av. Ntxuav dej kom zoo rau kev tsim txiaj zoo.
-
-Yog tias cog rau hauv thaj chaw uas cov qoob loo thaum caij ntuj sov twb tas lawm, cog thoob plaws ib lub txaj. Tshem mulch, tshem cov nroj tsuag, maj mam ua kom av 1-2 nti sab saud, ces sow cov noob. Yog tias cov qoob loo thaum caij ntuj sov tsis tau tas, tshem mulch, maj mam ua kom av sab saud, thiab sow cov noob nroj tsuag npog ntawm cov zaub thaum caij ntuj sov.
-
----
-
-#### Tshem Cov Nroj Tsuag Npog
-
-Tshem cov nroj tsuag npog thaum paj pib tawm kom tau txais txiaj ntsig zoo tshaj plaws ntawm biomass thiab khoom noj. Yog tias tshem tawm tom qab cov noob tsim, cov nroj tsuag npog yuav dhau los ua nroj tsuag rau cov qoob loo tom ntej.
-
-Kev tshem tawm muaj xws li txiav lossis khoov cov qia kom tua lub taub hau thiab tso lawv rau saum av (txoj kev no-till) lossis tso rau hauv av. Npog qhov chaw nrog ib daim ntaub yuav ua rau txoj kev no ceev dua. Cov nroj tsuag tso rau hauv av yuav tsum tau txiav ua tej daim kom faib sai dua. Cia 3-4 lub lis piam ua ntej cog cov qoob loo tom ntej.
-
----
-
-### Cov Kev Pab
+## Cov Peev Xwm
 
 - **Managing Cover Crops Profitably**, USDA Sustainable Agriculture Research and Education  
-  [https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/](https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/)  
-
+  [https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/](https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/)
 - **Washington State University Extension Publications**  
-  [https://pubs.extension.wsu.edu/](https://pubs.extension.wsu.edu/)  
-  - Cover Crops for Home Gardens West of the Cascades FS111E  
-  - Cover Crops for Home Gardens East of the Cascades FS117E  
-  - Methods for Successful Cover Crop Management in Your Home Garden FS119E  
+  [https://pubs.extension.wsu.edu/](https://pubs.extension.wsu.edu/)
+    - Nroj Npog Av Rau Vaj Tsev Sab Qab Teb Cascades FS111E
+    - Nroj Npog Av Rau Vaj Tsev Sab Qaum Teb Cascades FS117E
+    - Txoj Kev Ua Kom Nroj Npog Av Loj Hlob Zoo Hauv Koj Lub Vaj FS119E
+
+#### Master Gardener™ Pab Tswv Yim · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Mus xyuas [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) rau 10-Minute University™ cov ntawv qhia thiab video
 
 ---
 
-### Kev Pab Tswv Yim Rau Cov Kws Ua Liaj Ua Teb 
-
-- Hu rau **Home Horticulture Helpline**:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-
-- Mus saib **www.cmastergardeners.org/10-minute-university** rau **10-Minute University™** cov ntawv qhia thiab cov yeeb yaj kiab.
+##### Oregon State University Extension Service txwv tsis pub ua qhov txawv txav hauv txhua qhov kev pab, kev pabcuam, dejnum, thiab ntaub ntawv vim yog haiv neeg, xim, teb chaws, kev ntseeg, poj niam txiv neej, cim xeeb poj niam txiv neej (xws li kev qhia tus kheej), kev sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj tau los los ntawm kev pab pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, kev ua tub rog, kev raug txim lossis kev ua phem rau lwm tus vim yog ua ntej kev tiv thaiv cai pej xeem. (Tsis yog txhua qhov kev txwv siv rau txhua qhov kev pab.)
+---

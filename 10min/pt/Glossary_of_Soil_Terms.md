@@ -1,91 +1,199 @@
-# Solos
+#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
 
-## Glossário de Termos  
-Para o conteúdo completo do glossário, veja a publicação da Extensão da Universidade Estadual de Washington EM063E  
-**Um Guia para Jardineiros Domésticos sobre Solos e Fertilizantes.**
+# Glossário de Solos
 
-### Termos
+Para o glossário completo, veja a publicação EM063E da Extensão da Universidade Estadual de Washington: *Guia do Jardineiro Doméstico para Solos e Fertilizantes*.
 
-**aeração** — Um processo pelo qual o ar é circulado, misturado ou dissolvido em uma substância (solo).  
+---
 
-**agregação** — O processo de formação de grumos de areia, silte, argila e matéria orgânica, também chamados de "peds".  
+## Glossário
 
-**biossólidos** — Produtos do tratamento de esgoto municipal que contêm nutrientes, matéria orgânica e constituintes inorgânicos. Biossólidos classe A foram tratados para remover patógenos e são adequados para uso em jardins e paisagens. Compostos e misturas de biossólidos são emendas do solo, enquanto produtos de biossólidos secos são usados como fertilizantes.  
+### Aeração
 
-**força capilar** — A ação pela qual moléculas de água aderem às superfícies das partículas do solo e umas às outras, mantendo assim a água em microporos contra a força da gravidade.  
+Processo pelo qual o ar é circulado, misturado ou dissolvido em uma substância (solo).
 
-**sequestro de carbono** — Ocorre quando as plantas removem CO2 da atmosfera e o carbono é armazenado em plantas e solos. É uma ferramenta para reduzir os níveis de CO2 atmosférico e mitigar as mudanças climáticas.  
+### Agregação
 
-**argila** — O menor tipo de partícula primária do solo (menos de 0,002 mm de diâmetro).  
+Processo no qual areia, silte, argila e matéria orgânica formam torrões, também chamados de agregados.
 
-**compostagem (fria e quente)** —  
-A. **Compostagem fria** é um processo lento que envolve construir uma pilha de compostagem e deixá-la decompor por um ano ou mais. Compostagem fria não elimina sementes de ervas daninhas ou patógenos.  
-B. **Compostagem quente** produz composto finalizado em dois a quatro meses. O calor é mantido para decomposição através da mistura de volumes equilibrados de materiais energéticos (verde) e agentes de volume (marrom), mantendo a pilha de compostagem úmida e virando-a frequentemente.  
+### Biossólidos
 
-**compactação** — Pressão que comprime o solo em camadas que resistem à penetração de raízes e ao movimento da água. Geralmente resultado de tráfego de pessoas ou máquinas, mas também causado pela chuva em solo descoberto.  
+Produtos do tratamento de esgoto municipal que contêm nutrientes, matéria orgânica e componentes inorgânicos.
 
-**composto** — Matéria orgânica estabilizada produzida pela decomposição biológica controlada de materiais orgânicos. O composto pode ser usado como emenda do solo para adicionar matéria orgânica e liberar nutrientes lentamente ou como cobertura que posteriormente é incorporada ao solo.  
+- **Classe A de biossólidos**: Tratados para remover patógenos e são adequados para uso em jardins e paisagismo.
+- **Usos**: Compostos e misturas de biossólidos são usados para melhorar o solo, enquanto produtos secos de biossólidos são usados como fertilizantes.
 
-**culturas de cobertura** — Plantas cultivadas para proteger o solo contra o escoamento de água e a erosão e para adicionar matéria orgânica ao solo.  
+### Força Capilar
 
-**decomposição** — A quebra de materiais orgânicos por microrganismos.  
+Ação pela qual moléculas de água se ligam às superfícies das partículas do solo e umas às outras, mantendo a água em microporos contra a força da gravidade.
 
-**calcário dolomítico** — Um tipo de calcário que contém magnésio além de cálcio.  
+### Sequestro de Carbono
 
-**fertilizante** — Um produto natural ou sintético adicionado ao solo para fornecer nutrientes às plantas.  
+Ocorre quando plantas removem o CO₂ da atmosfera, e o carbono é armazenado nas plantas e nos solos. É uma ferramenta para reduzir os níveis de CO₂ do ar e ajudar a combater as mudanças climáticas.
 
-**análise de fertilizantes** — A quantidade de nutrientes primários (nitrogênio (N), fósforo (P) e potássio (K)) necessários em grandes quantidades pelas plantas e expressos como porcentagem do peso do fertilizante.  
+### Argila
 
-**adubo verde** — Culturas de cobertura cultivadas para serem incorporadas ao solo para benefícios de nutrientes e matéria orgânica ou deixadas na superfície do solo como cobertura.  
+O menor tipo de partícula primária do solo (menos de 0,002 mm de diâmetro).
 
-**infiltração** — O movimento da água através do solo.  
+### Compostagem (Fria & Quente)
 
-**lixiviação** — Movimento de água e nutrientes solúveis para baixo através do perfil do solo.  
+- **Compostagem Fria**: Processo lento que envolve montar uma pilha de compostagem e deixá-la decompor por um ano ou mais. Não mata sementes de ervas daninhas nem patógenos.
+- **Compostagem Quente**: Produz composto pronto em dois a quatro meses. O calor é mantido durante a decomposição ao misturar volumes equilibrados de materiais energéticos (verdes) e agentes estruturantes (marrom), mantendo a pilha úmida e virando-a frequentemente.
 
-**calcário** — Rocha calcária moída (carbonato de cálcio, CaCO3) aplicada ao solo para aumentar o pH.  
+### Compactação
 
-**terra argilosa** — Um solo com quantidades aproximadamente iguais de partículas de areia, silte e argila.  
+Pressão que comprime o solo em camadas que impedem o crescimento das raízes e o movimento da água. Muitas vezes causada pelo trânsito de pessoas ou máquinas, mas também pode ser causada pela chuva em solo descoberto.
 
-**macroporo** — Um grande poro do solo. Macroporos incluem canais de minhocas e raízes e controlam a permeabilidade e a aeração do solo.  
+### Composto
 
-**micronutriente/elemento traço** — Um nutriente usado pelas plantas em pequenas quantidades (ferro, zinco, molibdênio, manganês, boro, cobre e cloro).  
+Matéria orgânica estabilizada produzida pela decomposição biológica controlada de materiais orgânicos.
 
-**microporo** — Um pequeno poro do solo, geralmente uma fração de milímetro de diâmetro. Microporos são responsáveis pela capacidade de retenção de água de um solo.  
+- **Usos**: Pode ser usado como melhorador do solo para adicionar matéria orgânica e liberar nutrientes lentamente, ou como cobertura morta que depois é incorporada ao solo.
 
-**emenda orgânica** — Um material de origem biológica que é adicionado ao solo para aumentar a matéria orgânica e melhorar a saúde do solo. Exemplos incluem composto, esterco e resíduos de culturas de cobertura.  
+### Planta de Cobertura
 
-**fertilizante orgânico** — Um material fertilizante natural que passou por pouco ou nenhum processamento. Pode incluir materiais vegetais, animais e/ou minerais. Fertilizantes orgânicos geralmente são mais ricos em nutrientes em comparação às emendas orgânicas.  
+Plantas cultivadas para proteger o solo da erosão e do escoamento da água e para adicionar matéria orgânica ao solo.
 
-**cobertura orgânica** — Um material orgânico (frequentemente lenhoso) colocado na superfície do solo para reduzir a perda por evaporação, proteger a superfície do solo contra erosão, sufocar ervas daninhas e amortecer mudanças de temperatura no solo. Exemplos incluem casca moída, aparas de podador e palha.  
+### Decomposição
 
-**patógeno** — Organismos do solo causadores de doenças, incluindo bactérias, vírus, fungos e nematódeos.  
+Quebra de materiais orgânicos por microrganismos.
 
-**permeabilidade** — A taxa na qual a água se movimenta através de um solo.  
+### Calcário Dolomítico
 
-**fosfato** — A forma de fósforo listada na maioria das análises de fertilizantes (P2O5).  
+Tipo de calcário que contém magnésio além de cálcio.
 
-**pH** — Uma medida da acidez ou alcalinidade do solo. Valores menores que 7 indicam acidez, um valor de 7 é neutro e valores maiores que 7 indicam alcalinidade. A maioria dos solos tem pH entre 4,5 e 9.  
+### Fertilizante
 
-**potassa** — A forma de potássio listada na maioria das análises de fertilizantes (K2O), como nos fertilizantes embalados.  
+Produto natural ou sintético adicionado ao solo para fornecer nutrientes às plantas.
 
-**fertilizante processado** — Um fertilizante que é fabricado ou refinado de ingredientes naturais em uma forma mais concentrada e mais disponível para as plantas.  
+### Análise de Fertilizante
 
-**fertilizante de liberação rápida** — Um fertilizante que contém nutrientes em formas disponíveis para as plantas, vendido como amônio e nitrato.  
+Quantidade de nutrientes primários (nitrogênio (N), fósforo (P) e potássio (K)) exigida pelas plantas em grandes quantidades e expressa como porcentagem do peso do fertilizante.
 
-**areia** — O tipo mais grosseiro de partícula primária do solo (0,05 a 2 mm de diâmetro).  
+### Adubo Verde
 
-**nutriente secundário** — Um nutriente necessário em quantidade moderada pelas plantas (enxofre, cálcio e magnésio).  
+Plantas de cobertura cultivadas para serem incorporadas ao solo, fornecendo nutrientes e matéria orgânica, ou deixadas na superfície do solo como cobertura morta.
 
-**silte** — Uma partícula primária do solo de tamanho intermediário (entre o tamanho de areia e argila), com 0,002 a 0,05 mm de diâmetro.  
+### Infiltração
 
-**fertilizante de liberação lenta** — Um material fertilizante que é convertido em uma forma disponível para plantas por microrganismos do solo.  
+Movimento da água através do solo.
 
-**solo** — Uma mistura natural, biologicamente ativa, de fragmentos de rochas desgastadas e matéria orgânica na superfície da terra.  
+### Lixiviação
 
-**saúde do solo** — A capacidade contínua de um solo funcionar como um ecossistema vital e vivo que sustenta plantas, animais e humanos.  
+Movimento da água e de nutrientes solúveis para baixo através do perfil do solo.
 
-**estrutura do solo** — A disposição no solo de agregados (peds) formados pelo processo de partículas individuais de areia, silte e argila, e matéria orgânica que se agrupam e se ligam para formar grumos.  
+### Cal
 
-**textura do solo** — Quão grosseiro ou fino é um solo. A textura é determinada pelas proporções de areia, silte e argila no solo.  
+Rocha calcária moída (carbonato de cálcio, CaCO₃) aplicada ao solo para aumentar o pH.
 
-**capacidade de retenção de água** — A capacidade dos poros de um solo de reter água para uso das plantas.  
+### Solo Argiloso
+
+Solo com quantidades aproximadamente iguais de partículas de areia, silte e argila.
+
+### Macroporo
+
+Poros grandes no solo. Incluem canais de minhocas e raízes, e controlam a permeabilidade e a aeração do solo.
+
+### Micronutriente/Elemento Traço
+
+Nutriente usado pelas plantas em pequenas quantidades (ferro, zinco, molibdênio, manganês, boro, cobre e cloro).
+
+### Microporo
+
+Poros pequenos no solo, geralmente com frações de milímetro de diâmetro. Microporos são responsáveis pela capacidade do solo de reter água.
+
+### Melhorador Orgânico
+
+Material de origem biológica adicionado ao solo para aumentar a matéria orgânica e melhorar a saúde do solo. Exemplos incluem composto, esterco e restos de plantas de cobertura.
+
+### Fertilizante Orgânico
+
+Material de fertilizante natural que passou por pouco ou nenhum processamento.
+
+- **Exemplos**: Materiais vegetais, animais e/ou minerais.
+- **Características**: Geralmente são mais ricos em nutrientes do que melhoradores orgânicos.
+
+### Cobertura Orgânica
+
+Material orgânico (geralmente de origem vegetal) colocado sobre a superfície do solo para reduzir a perda de água por evaporação, proteger o solo da erosão, sufocar ervas daninhas e amenizar mudanças de temperatura.
+
+- **Exemplos**: Casca moída, cavacos de madeira e palha.
+
+### Patógeno
+
+Organismo presente no solo que causa doenças, incluindo bactérias, vírus, fungos e nematoides.
+
+### Permeabilidade
+
+A velocidade com que a água se move através do solo.
+
+### Fosfato
+
+Forma de fósforo indicada na maioria das análises de fertilizantes (P₂O₅).
+
+### pH
+
+Medida da acidez ou alcalinidade do solo.
+
+- **Valores**:
+  - Menor que 7: Ácido
+  - Igual a 7: Neutro
+  - Maior que 7: Alcalino
+- **Faixa**: A maioria dos solos tem pH entre 4,5 e 9.
+
+### Potássio
+
+Forma de potássio indicada na maioria das análises de fertilizantes (K₂O), como nos fertilizantes embalados.
+
+### Fertilizante Processado
+
+Fertilizante fabricado ou refinado a partir de ingredientes naturais em uma forma mais concentrada e mais disponível para as plantas.
+
+### Fertilizante de Liberação Rápida
+
+Fertilizante que contém nutrientes em formas prontamente disponíveis para as plantas, vendidos como amônio e nitrato.
+
+### Areia
+
+O tipo mais grosseiro de partícula primária do solo (0,05 a 2 mm de diâmetro).
+
+### Nutriente Secundário
+
+Nutriente necessário para as plantas em quantidade moderada (enxofre, cálcio e magnésio).
+
+### Silte
+
+Partícula primária do solo de tamanho intermediário (entre areia e argila), com 0,002 a 0,05 mm de diâmetro.
+
+### Fertilizante de Liberação Lenta
+
+Fertilizante que é convertido em forma disponível para as plantas por microrganismos do solo.
+
+### Solo
+
+Mistura natural e biologicamente ativa de fragmentos de rocha desgastada e matéria orgânica na superfície da Terra.
+
+### Saúde do Solo
+
+A capacidade contínua do solo de funcionar como um ecossistema vivo e vital, sustentando plantas, animais e seres humanos.
+
+### Estrutura do Solo
+
+Arranjo dos agregados (torrões) formados no solo pelo agrupamento e ligação das partículas individuais de areia, silte, argila e matéria orgânica.
+
+### Textura do Solo
+
+O quão grosso ou fino é um solo. A textura é determinada pelas proporções de areia, silte e argila no solo.
+
+### Capacidade de Retenção de Água
+
+Capacidade dos poros do solo de reter água para uso das plantas.
+
+---
+
+#### Conselho do Mestre Jardineiro™ · Ligue para o Disque Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outras apostilas e cronogramas de aulas da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Serviço de Extensão da Universidade Estadual do Oregon · O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parenteral, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

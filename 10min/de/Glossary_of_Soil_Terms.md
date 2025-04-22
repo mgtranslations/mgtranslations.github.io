@@ -1,90 +1,199 @@
-# Böden  
-## Glossar der Begriffe  
-Für vollständige Glossarinhalte siehe die Publikation EM063E der Washington State University Extension:  
-**Ein Leitfaden für Hobbygärtner zu Böden und Düngemitteln.**  
+#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-### Begriffe  
+# Glossar der Bodentermini
 
-**Belüftung**—Ein Prozess, bei dem Luft durch, mit oder in eine Substanz (Boden) gemischt oder gelöst wird.  
+Für das vollständige Glossar siehe die Veröffentlichung der Washington State University Extension EM063E: *A Home Gardener’s Guide to Soils and Fertilizers*.
 
-**Aggregation**—Der Prozess, bei dem Sand, Schluff, Ton und organische Stoffe Klumpen bilden, auch genannt Bodenaggregate.  
+---
 
-**Klärschlamm**—Produkte der kommunalen Abwasserbehandlung, die Nährstoffe, organische Stoffe und anorganische Bestandteile enthalten. Klasse-A-Klärschlämme wurden behandelt, um Krankheitserreger zu entfernen und sind für die Verwendung in Gärten und Landschaften geeignet. Komposte und Mischungen aus Klärschlamm sind Bodenverbesserungsmittel, während getrocknete Klärschlammprodukte als Düngemittel verwendet werden.  
+## Glossar
 
-**Kapillarkraft**—Die Wirkung, bei der Wassermoleküle sich an die Oberflächen von Bodenpartikeln und aneinander binden und somit Wasser in Mikroporen gegen die Schwerkraft halten.  
+### Belüftung
 
-**Kohlenstoffbindung**—Tritt auf, wenn Pflanzen CO₂ aus der Atmosphäre aufnehmen und der Kohlenstoff in Pflanzen und Böden gespeichert wird. Dies ist ein Werkzeug, um atmosphärische CO₂-Werte zu reduzieren und den Klimawandel zu mildern.  
+Ein Vorgang, bei dem Luft durch eine Substanz (Boden) zirkuliert, mit ihr vermischt oder in ihr gelöst wird.
 
-**Ton**—Die kleinste Art von primären Bodenpartikeln (weniger als 0,002 mm Durchmesser).  
+### Aggregation
 
-**Kompostierung (kalt & heiß)**—  
-- **Kaltkompostierung** ist ein langsamer Prozess, bei dem ein Komposthaufen gebaut und für ein Jahr oder länger sich selbst überlassen wird. Kaltkompostierung tötet keine Unkrautsamen oder Krankheitserreger.  
-- **Heißkompostierung** produziert fertigen Kompost in zwei bis vier Monaten. Wärme wird durch die Mischung ausgewogener Mengen an energiereichen Materialien (grün) und Füllstoffen (braun) aufrechterhalten, wobei der Komposthaufen feucht gehalten und häufig umgeschichtet wird.  
+Der Vorgang, bei dem Sand, Schluff, Ton und organische Substanz Klumpen bilden, die auch als Aggregate bezeichnet werden.
 
-**Verdichtung**—Druck, der den Boden in Schichten zusammendrückt, die das Eindringen von Wurzeln und die Wasserbewegung hemmen. Oft durch Fuß- oder Maschinenverkehr verursacht, aber auch durch Regen auf unbedecktem Boden.  
+### Klärschlamm (Biosolids)
 
-**Kompost**—Stabilisierte organische Materie, die durch kontrollierte biologische Zersetzung organischer Materialien hergestellt wird. Kompost kann als Bodenverbesserungsmittel verwendet werden, um organische Materie hinzuzufügen und langsam Nährstoffe freizusetzen, oder als Mulch, der später in den Boden eingearbeitet wird.  
+Produkte aus der kommunalen Abwasserbehandlung, die Nährstoffe, organische Substanz und anorganische Bestandteile enthalten.
 
-**Zwischenfrucht**—Pflanzen, die angebaut werden, um den Boden vor Wasserabfluss und Bodenerosion zu schützen und organische Materie hinzuzufügen.  
+- **Klasse A Klärschlamm**: Wird so behandelt, dass Krankheitserreger entfernt werden und ist für den Einsatz in Gärten und Landschaften geeignet.
+- **Verwendung**: Komposte und Mischungen aus Klärschlamm dienen als Bodenverbesserer, während getrocknete Klärschlammprodukte als Dünger eingesetzt werden.
 
-**Zersetzung**—Der Abbau von organischen Materialien durch Mikroorganismen.  
+### Kapillarkraft
 
-**Dolomitkalkstein**—Eine Art Kalkstein, der Magnesium sowie Kalzium enthält.  
+Das Phänomen, bei dem Wassermoleküle an die Oberflächen von Bodenpartikeln und aneinander binden und so Wasser in kleinen Poren gegen die Schwerkraft halten.
 
-**Düngemittel**—Ein natürliches oder synthetisches Produkt, das dem Boden hinzugefügt wird, um Pflanzennährstoffe bereitzustellen.  
+### Kohlenstoffbindung
 
-**Düngemittelanalyse**—Die Menge an primären Nährstoffen (Stickstoff (N), Phosphor (P) und Kalium (K)), die von Pflanzen in großen Mengen benötigt werden und als Prozentsatz des Düngemittelgewichts angegeben werden.  
+Entsteht, wenn Pflanzen CO₂ aus der Atmosphäre aufnehmen und der Kohlenstoff in Pflanzen und Böden gespeichert wird. Dies ist eine Methode, um den CO₂-Gehalt in der Atmosphäre zu senken und den Klimawandel zu mildern.
 
-**Gründüngung**—Zwischenfrüchte, die angebaut werden, um in den Boden eingearbeitet zu werden und Nährstoff- sowie organische Materie-Vorteile zu bieten, oder auf der Bodenoberfläche als Mulch verbleiben.  
+### Ton
 
-**Infiltration**—Die Bewegung von Wasser durch den Boden.  
+Die kleinste Art von primären Bodenpartikeln (weniger als 0,002 mm Durchmesser).
 
-**Auswaschung**—Bewegung von Wasser und löslichen Nährstoffen durch das Bodenprofil nach unten.  
+### Kompostierung (Kalt & Heiß)
 
-**Kalk**—Gemahlener Kalkstein (Kalziumkarbonat, CaCO₃), der auf den Boden aufgebracht wird, um den pH-Wert zu erhöhen.  
+- **Kaltkompostierung**: Ein langsamer Prozess, bei dem ein Komposthaufen aufgesetzt und ein Jahr oder länger sich selbst überlassen wird. Tötet keine Unkrautsamen oder Krankheitserreger ab.
+- **Heißkompostierung**: Führt in zwei bis vier Monaten zu fertigem Kompost. Durch das Mischen ausgewogener Mengen von energiereichen (grünen) und strukturgebenden (braunen) Materialien, Feuchthalten und häufiges Umsetzen bleibt die notwendige Wärme erhalten.
 
-**Lehm**—Ein Boden mit ungefähr gleichen Anteilen an Sand-, Schluff- und Tonpartikeln.  
+### Verdichtung
 
-**Makropore**—Eine große Bodenpore. Makroporen umfassen Kanäle von Regenwürmern und Wurzeln und steuern die Durchlässigkeit und Belüftung eines Bodens.  
+Druck, der den Boden in Schichten zusammendrückt, die das Eindringen von Wurzeln und den Wasserfluss erschweren. Entsteht häufig durch Fuß- oder Maschineneinwirkung, aber auch durch Regen auf unbedecktem Boden.
 
-**Mikronährstoff/Spurenelement**—Ein Nährstoff, der von Pflanzen in kleinen Mengen verwendet wird (Eisen, Zink, Molybdän, Mangan, Bor, Kupfer und Chlor).  
+### Kompost
 
-**Mikropore**—Eine kleine Bodenpore, typischerweise einen Bruchteil eines Millimeters im Durchmesser. Mikroporen sind verantwortlich für die Fähigkeit des Bodens, Wasser zu halten.  
+Stabilisierte organische Substanz, die durch kontrollierten biologischen Abbau organischer Materialien entsteht.
 
-**Organische Bodenverbesserung**—Ein Material biologischen Ursprungs, das dem Boden hinzugefügt wird, um die organische Substanz des Bodens aufzubauen und die Bodenqualität zu verbessern. Beispiele sind Kompost, Dünger und Rückstände von Zwischenfrüchten.  
+- **Verwendung**: Kann als Bodenverbesserer zur Zugabe organischer Substanz und langsamen Nährstofffreisetzung oder als Mulch, der später in den Boden eingearbeitet wird, genutzt werden.
 
-**Organisches Düngemittel**—Ein natürliches Düngemittelmaterial, das wenig oder keine Verarbeitung durchlaufen hat. Es kann pflanzliche, tierische und/oder mineralische Materialien enthalten. Organische Düngemittel sind im Allgemeinen nährstoffreicher als organische Bodenverbesserungen.  
+### Zwischenfrucht
 
-**Organisches Mulchmaterial**—Ein organisches Material (oft holzig), das auf die Bodenoberfläche gelegt wird, um Verdunstungsverluste zu reduzieren, die Bodenoberfläche vor Erosion zu schützen, Unkraut zu ersticken und Temperaturschwankungen im Boden zu dämpfen. Beispiele sind gemahlene Rinde, Holzschnitzel und Stroh.  
+Pflanzen, die angebaut werden, um den Boden vor Wasserabfluss und Erosion zu schützen und organische Substanz hinzuzufügen.
 
-**Pathogen**—Ein krankheitsverursachender Bodenorganismus, einschließlich Bakterien, Viren, Pilze und Nematoden.  
+### Zersetzung
 
-**Durchlässigkeit**—Die Geschwindigkeit, mit der Wasser durch einen Boden bewegt wird.  
+Der Abbau organischer Materialien durch Mikroorganismen.
 
-**Phosphat**—Die Form von Phosphor, die in den meisten Düngemittelanalysen angegeben ist (P₂O₅).  
+### Dolomitkalk
 
-**pH-Wert**—Ein Maß für die Säure oder Alkalität des Bodens. Werte unter 7 zeigen Säure an, ein Wert von 7 ist neutral, und Werte über 7 zeigen Alkalität an. Die meisten Böden haben einen pH-Wert zwischen 4,5 und 9.  
+Eine Kalksteinart, die sowohl Magnesium als auch Kalzium enthält.
 
-**Kaliumsalz**—Die Form von Kalium, die in den meisten Düngemittelanalysen angegeben ist (K₂O), wie auf verpackten Düngemitteln.  
+### Dünger
 
-**Verarbeitetes Düngemittel**—Ein Düngemittel, das hergestellt oder aus natürlichen Inhaltsstoffen in eine konzentriertere Form raffiniert wurde, die für Pflanzen besser verfügbar ist.  
+Ein natürliches oder synthetisches Produkt, das dem Boden zugesetzt wird, um Pflanzen mit Nährstoffen zu versorgen.
 
-**Schnelllösliches Düngemittel**—Ein Düngemittel, das Nährstoffe in pflanzenverfügbaren Formen wie Ammonium und Nitrat enthält.  
+### Düngeanalyse
 
-**Sand**—Die gröbste Art von primären Bodenpartikeln (0,05 bis 2 mm Durchmesser).  
+Die Menge an Hauptnährstoffen (Stickstoff (N), Phosphor (P) und Kalium (K)), die Pflanzen in großen Mengen benötigen, ausgedrückt als Prozentsatz des Düngergewichts.
 
-**Sekundärer Nährstoff**—Ein Nährstoff, der von Pflanzen in moderaten Mengen benötigt wird (Schwefel, Kalzium und Magnesium).  
+### Gründüngung
 
-**Schluff**—Ein primäres Bodenpartikel mittlerer Größe (zwischen der Größe von Sand und Ton) mit einem Durchmesser von 0,002 bis 0,05 mm.  
+Zwischenfrüchte, die zur Verbesserung der Nährstoffversorgung und des Gehalts an organischer Substanz in den Boden eingearbeitet oder als Mulch auf der Bodenoberfläche belassen werden.
 
-**Langsam freisetzendes Düngemittel**—Ein Düngemittelmaterial, das durch Bodenmikroorganismen in eine pflanzenverfügbare Form umgewandelt wird.  
+### Infiltration
 
-**Boden**—Eine natürliche, biologisch aktive Mischung aus verwitterten Gesteinsfragmenten und organischer Substanz an der Erdoberfläche.  
+Die Bewegung von Wasser durch den Boden.
 
-**Bodenqualität**—Die anhaltende Fähigkeit eines Bodens, als lebenswichtiges lebendes Ökosystem zu funktionieren, das Pflanzen, Tiere und Menschen unterstützt.  
+### Auswaschung
 
-**Bodenstruktur**—Die Anordnung im Boden von Aggregaten (Bodenaggregaten), die durch den Prozess entstehen, bei dem individuelle Partikel von Sand, Schluff und Ton sowie organische Materie sich zusammenballen und binden, um Klumpen zu bilden.  
+Die Bewegung von Wasser und löslichen Nährstoffen durch das Bodenprofil nach unten.
 
-**Bodenbeschaffenheit**—Wie grob oder fein ein Boden ist. Die Beschaffenheit wird durch die Anteile von Sand, Schluff und Ton im Boden bestimmt.  
+### Kalk
 
-**Wasserhaltekapazität**—Die Fähigkeit der Bodenporen, Wasser für die Nutzung durch Pflanzen zu halten.
+Gemahlener Kalkstein (Kalziumkarbonat, CaCO₃), der auf den Boden aufgebracht wird, um den pH-Wert zu erhöhen.
+
+### Lehm
+
+Boden, der ungefähr gleiche Anteile an Sand-, Schluff- und Tonpartikeln enthält.
+
+### Makropore
+
+Eine große Bodenpore. Makroporen umfassen Kanäle von Regenwürmern und Wurzeln und bestimmen die Durchlässigkeit und Belüftung des Bodens.
+
+### Mikronährstoff/Spurenelement
+
+Ein Nährstoff, den Pflanzen nur in sehr kleinen Mengen benötigen (Eisen, Zink, Molybdän, Mangan, Bor, Kupfer und Chlor).
+
+### Mikropore
+
+Eine kleine Bodenpore, in der Regel nur einen Bruchteil eines Millimeters groß. Mikroporen ermöglichen es dem Boden, Wasser zu speichern.
+
+### Organische Bodenverbesserung
+
+Ein Material biologischen Ursprungs, das dem Boden zugesetzt wird, um organische Substanz aufzubauen und die Bodengesundheit zu fördern. Beispiele: Kompost, Mist und Ernterückstände von Zwischenfrüchten.
+
+### Organischer Dünger
+
+Ein natürlicher Dünger, der wenig oder gar nicht verarbeitet wurde.
+
+- **Beispiele**: Pflanzliche, tierische und/oder mineralische Materialien.
+- **Eigenschaften**: Enthält in der Regel mehr Nährstoffe als organische Bodenverbesserer.
+
+### Organischer Mulch
+
+Organisches Material (oft holzig), das auf die Bodenoberfläche aufgebracht wird, um Wasserverlust durch Verdunstung zu verringern, die Oberfläche vor Erosion zu schützen, Unkraut zu unterdrücken und Temperaturschwankungen auszugleichen.
+
+- **Beispiele**: Rindenmulch, Gehölzschnitt und Stroh.
+
+### Krankheitserreger
+
+Ein krankheitserregender Bodenorganismus, zum Beispiel Bakterien, Viren, Pilze und Nematoden.
+
+### Durchlässigkeit
+
+Die Geschwindigkeit, mit der Wasser durch einen Boden fließt.
+
+### Phosphat
+
+Die Form von Phosphor, die in den meisten Düngeanalysen angegeben wird (P₂O₅).
+
+### pH-Wert
+
+Ein Maß für den Säure- oder Basengehalt des Bodens.
+
+- **Werte**:
+  - Weniger als 7: Sauer
+  - Genau 7: Neutral
+  - Mehr als 7: Alkalisch
+- **Bereich**: Die meisten Böden haben einen pH-Wert zwischen 4,5 und 9.
+
+### Kaliumsalz (Potash)
+
+Die Form von Kalium, die in den meisten Düngeanalysen (K₂O) angegeben wird, wie auf verpackten Düngern.
+
+### Verarbeiteter Dünger
+
+Ein Dünger, der aus natürlichen Rohstoffen hergestellt oder veredelt wird, um eine konzentriertere und für Pflanzen besser verfügbare Form zu erhalten.
+
+### Schnell wirkender Dünger
+
+Ein Dünger, der Nährstoffe in direkt für Pflanzen verfügbaren Formen wie Ammonium und Nitrat enthält.
+
+### Sand
+
+Die gröbste Art von primären Bodenpartikeln (0,05 bis 2 mm Durchmesser).
+
+### Sekundärer Nährstoff
+
+Ein Nährstoff, den Pflanzen in mittleren Mengen benötigen (Schwefel, Kalzium und Magnesium).
+
+### Schluff
+
+Eine primäre Bodenpartikelgröße, die zwischen Sand und Ton liegt (0,002 bis 0,05 mm Durchmesser).
+
+### Langsam wirkender Dünger
+
+Ein Düngemittel, das erst durch Bodenmikroorganismen in eine für Pflanzen verfügbare Form umgewandelt wird.
+
+### Boden
+
+Eine natürliche, biologisch aktive Mischung aus verwitterten Gesteinsfragmenten und organischer Substanz an der Erdoberfläche.
+
+### Bodengesundheit
+
+Die anhaltende Fähigkeit eines Bodens, als lebenswichtiges Ökosystem zu funktionieren, das Pflanzen, Tiere und Menschen erhält.
+
+### Bodenstruktur
+
+Die Anordnung im Boden von Aggregaten (Klumpen), die durch das Zusammenlagern und Binden einzelner Partikel aus Sand, Schluff, Ton und organischer Substanz entstehen.
+
+### Bodentextur
+
+Wie grob oder fein ein Boden ist. Die Textur wird durch das Verhältnis von Sand, Schluff und Ton im Boden bestimmt.
+
+### Wasserspeicherfähigkeit
+
+Die Fähigkeit der Bodenporen, Wasser für Pflanzen zu speichern.
+
+---
+
+#### Master Gardener™ Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™ Merkblätter und Kurspläne besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkünften aus Sozialleistungen, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien aufgrund früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

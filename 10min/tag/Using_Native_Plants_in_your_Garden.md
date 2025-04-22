@@ -1,40 +1,76 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
 
-## Paggamit ng Mga Katutubong Halaman sa Iyong Hardin  
+# Paggamit ng Katutubong Halaman sa Iyong Hardin
 
-### Panimula  
-Ang pangunahing dahilan ng paggamit ng mga katutubong halaman sa hardin ay ang kanilang mga benepisyo sa wildlife, ang kanilang rehiyonal na estetika, at ang kanilang napatunayan na pag-aangkop sa lokal na klima, lupa, at ekosistema. Kaya’t ginagamit natin ang mga katutubong halaman para sa pagpapanumbalik ng mga protektadong wetland, gilid ng ilog, mga damuhan, savannah, at kagubatan. Gayunpaman, hindi nangangahulugan na ang mga katutubong halaman ay awtomatikong uunlad sa ating mga hardin sa bahay dahil madalas na naiiba ang mga human-made na hardin sa likas na tirahan ng mga halaman. Upang magtagumpay, tandaan ang kasabihan na “ang tamang halaman sa tamang lugar” at itugma ang mga pangangailangan ng halaman (uri ng lupa, sustansya, sikat ng araw/anino, halumigmig, tolerance sa lamig/init) sa kung ano ang maibibigay ng iyong lugar. Sundin ang mga tamang pamamaraan sa pagtatanim, pagdidilig, at pagmamanman ng peste. Siguraduhing alagaan nang maayos ang bagong tanim hanggang ito’y magtaguyod.  
+### Panimula
 
-### Mga Dapat Malaman Bago Magsimula  
-Ang opisyal na kahulugan ng pamahalaan sa katutubong halaman ay “Isang halaman na bahagi ng balanse ng kalikasan na umunlad sa loob ng daan-daang o libu-libong taon sa isang partikular na rehiyon o ekosistema.” Kaya, ang salitang katutubo ay palaging ginagamit na may geographic na qualifier – halimbawa, katutubo sa Kanlurang US. Tanging ang mga halaman na matatagpuan sa bansang ito bago ang pagdating ng mga Europeo ang itinuturing na katutubo sa Estados Unidos. Maraming katutubong halaman ang may mga cultivated varieties na pinili at inalagaan ng mga tao -- ang ilan ay nagmula sa mga mutasyon sa halaman; ang iba ay maaaring hybrid ng dalawang halaman. Tingnan ang ‘Native Plant Glossary’ para sa higit pang impormasyon.  
+Ang mga pangunahing dahilan kung bakit ginagamit ang mga katutubong halaman sa hardin ay dahil sa benepisyo nito sa mga hayop, ang likas nitong ganda, at ang pagiging sanay nito sa lokal na klima, lupa, at ekosistema. Kaya ginagamit natin ang mga katutubong halaman para sa pagpapanumbalik ng mga protektadong latian, gilid ng ilog, damuhan, savannah, at kagubatan.
 
-Bago bumili ng halaman, alamin ang katutubong tirahan nito (halimbawa, kagubatan ng Douglas fir, kagubatan ng deciduous wetland, atbp.). Ang kaalaman dito ay makakatulong sa iyong matukoy kung ang halaman ay angkop sa iyong hardin. Ang Portland Plant List [https://www.portlandoregon.gov/citycode/article/322280](https://www.portlandoregon.gov/citycode/article/322280) ay isang mahusay na mapagkukunan. Kung maliit ang iyong lote, bigyang-pansin ang laki ng halaman kapag ganap na magulang. Ang mas malaking espasyo ay mas naaangkop sa mga halaman na bumubuo ng thicket na may agresibong ugat tulad ng snowberry (Symphoricarpos albus) at Nootka rose (Rosa nutkana).  
+Hindi ibig sabihin na ang mga katutubong halaman ay awtomatikong uunlad sa ating mga hardin sa bahay dahil kadalasan, iba ang ating mga hardin sa likas na tirahan ng mga halaman. Para magtagumpay, tandaan ang kasabihan na “tamang halaman, tamang lugar” at itugma ang pangangailangan ng halaman (uri ng lupa at sustansya, sikat ng araw/o anino, tubig, tolerance sa lamig/init) sa kung anong meron sa iyong lugar. Sundin ang tamang proseso ng pagtatanim, pagdidilig, at pagmamasid sa peste. Siguraduhing alagaan nang maayos ang bagong tanim hanggang ito ay tumatag.
 
-Linawin ang iyong prayoridad. Para sa mga halaman na nagbibigay ng pagkain at tirahan para sa mga ibon, kumuha ng listahan ng mga rekomendadong halaman mula sa Audubon Society [https://www.audubon.org/native-plants](https://www.audubon.org/native-plants). Kung ang pagpapakain sa mga pollinator ang layunin mo, tingnan ang pananaliksik sa OSU’s Garden Ecology Lab [http://blogs.oregonstate.edu/gardenecologylab/](http://blogs.oregonstate.edu/gardenecologylab/) para sa mga ideya.  
+### Mga Kailangan Malaman Bago Magsimula
 
-## Mga Katutubong Halaman na Akma sa Hardin  
+Ang opisyal na kahulugan ng pamahalaan ng katutubong halaman ay:
 
-### Maliit na Puno at Palumpong  
-- **Cascara (Rhamnus purschiana)**: Isang deciduous native Buckthorn, umaabot hanggang 30-paa bilang puno o 15-paa bilang multi-stem shrub, berde ang mga dahon, kulay-abong balat na may mga puting patches, prutas na parang cherry, gusto ng mamasa-masang lokasyon na may lilim.  
-- **Vine maple (Acer circinatum)**: Isang multi-stemmed deciduous tree na tumataas hanggang 20-paa ang taas at lapad, lumalaki sa buong sikat ng araw hanggang malalim na lilim ngunit mas maganda ang kulay ng mga dahon sa taglagas kapag may araw, drought tolerant kapag itinatag.  
-- **Western serviceberry (Amelanchier alnifolia)**: Isang deciduous tree/shrub hanggang 20-paa, mabangong mga puting bulaklak na nagbubunga ng nakakain na prutas, ilagay sa sikat ng araw hanggang kalahating lilim sa ordinaryong lupa ng hardin, gusto ng halumigmig sa tag-init.  
-- **Coast blue blossom (Ceanothus thyrsiflorus ‘Oregon Mist’)**: Umaabot hanggang 15-paa, may maliliit na malalim na berdeng dahon at malambot na turquoise na bulaklak mula huling Abril hanggang maagang Hunyo, putulan pagkatapos mamulaklak, buong sikat ng araw at karaniwang maayos na pinatuyong lupa, kaunti o walang tubig sa tag-init kapag itinatag.  
+> “Isang halaman na bahagi ng balanse ng kalikasan na nadebelop sa daan-daang o libu-libong taon sa isang partikular na rehiyon o ekosistema.”
 
-... *(Patuloy ang listahang ito sa iba pang mga halaman tulad ng Pacific wax myrtle, Ocean spray, Hairy manzanita, Flowering currant, Evergreen huckleberry, at iba pa.)*  
+Kaya, ang salitang *katutubo* ay dapat laging may kasamang pagtukoy sa lugar—halimbawa, katutubo sa Kanlurang US. Tanging mga halaman na matatagpuan dito bago dumating ang mga Europeo ang itinuturing na katutubo sa Estados Unidos. Maraming katutubong halaman ang may mga variety na pinili at pinalago ng mga tao—ang ilan ay nagmula sa mutation ng halaman; ang iba naman ay hybrid ng dalawang halaman. Tingnan ang **Native Plant Glossary** para sa karagdagang impormasyon.
 
-### Mga Pangmatagalang Halaman at Taunang Halaman  
-- **Sword fern (Polysticum munitum)**: Isang evergreen mound na umaabot sa 3-paa ang taas at lapad, tolerates dry shade.  
-- **Tufted hairgrass (Deschampsia caespitosa)**: Isang evergreen grass, sikat ng araw hanggang kalahating lilim, umaabot sa 3-paa ang taas at 2-paa ang lapad, nangangailangan ng kaunting tubig sa tag-init, mababa ang maintenance.  
-- **Rose checker mallow (Sidalcea virgata)**: Namumulaklak ng pink hanggang magenta na bulaklak sa 2-paa na tangkay, nabubuhay sa mayamang lupa na may karaniwang tubig sa tag-init, bumubuo ng 2-paa na kumpol sa paglipas ng panahon.  
+Bago bumili ng halaman, alamin muna ang likas nitong tirahan (halimbawa, kagubatan ng Douglas fir, latian na may mga punong nalalagas ang dahon, atbp.). Makakatulong ito para malaman kung bagay ba ito sa iyong hardin. Ang [Portland Plant List](https://www.portlandoregon.gov/citycode/article/322280) ay isang magandang sanggunian.
 
-... *(Patuloy ang listahang ito sa iba pang mga halaman tulad ng Western columbine, Deer fern, Giant blue-eyed Mary, Coast trillium, Groundcover strawberries, at iba pa.)*  
+Kung maliit lang ang iyong lote, bigyang pansin ang laki ng halaman kapag malaki na ito. Mas angkop ang malalaking espasyo para sa mga halamang mabilis kumalat tulad ng snowberry (*Symphoricarpos albus*) at Nootka rose (*Rosa nutkana*).
 
-## Mga Mapagkukunan mula sa OSU at Iba Pa  
-- **Gardening with Oregon Native Plants West of the Cascades**, OSU Extension Publication EC1577 [https://catalog.extension.oregonstate.edu/ec1577](https://catalog.extension.oregonstate.edu/ec1577)  
-- **Native Plants for Willamette Valley Yards** [https://www.oregonmetro.gov/native-plants-willamette-valley-yards-booklet](https://www.oregonmetro.gov/native-plants-willamette-valley-yards-booklet)  
-- **Native Plant Glossary**, 10-Minute University™ handout, [www.cmastergardeners.org](http://www.cmastergardeners.org)  
-- **Native Plant Attractiveness Study – Plant List**, 10-Minute University™ handout, [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+Linawin ang iyong prayoridad:
 
-Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pinagmulan ng bansa, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang pangkasal, katayuan ng magulang/pamilya, kita mula sa pampublikong tulong na programa, paniniwala sa politika, impormasyon sa genetika, katayuang beterano, paghihiganti o pag-ganti sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
+- Kung gusto mo ng halaman para sa pagkain at tirahan ng mga ibon, kumuha ng listahan ng mga halaman mula sa [Audubon Society](https://www.audubon.org/native-plants).
+- Kung ang pagpapakain sa mga pollinator ang mahalaga sa iyo, tingnan ang pananaliksik ng OSU’s [Garden Ecology Lab](http://blogs.oregonstate.edu/gardenecologylab/) para sa mga ideya.
+
+---
+
+## Mga Katutubong Halaman na Maganda Para sa Hardin
+
+Ang mga bihasang propesyonal sa nursery at tagadisenyo ng hardin ang pumili ng mga halamang may mataas na kalidad, maganda sa hardin, at madaling hanapin sa mga tindahan ng halaman.
+
+### Maliliit na Puno at Palumpong
+
+- **Cascara (*Rhamnus purschiana*)**: Katutubong punong Buckthorn na nalalagas ang dahon, tumutubo hanggang 30 talampakan bilang puno o 15 talampakan bilang palumpong. Berde ang mga dahon, kulay abong balat na may puting batik, at prutas na parang seresa. Mas gusto nito ang mamasa-masa at may lilim na lugar.
+- **Vine maple (*Acer circinatum*)**: Palumpong na puno na nalalagas ang dahon, umaabot ng 20 talampakan ang taas at lapad. Tumutubo ito sa buong araw o anino, pero mas maganda ang kulay ng dahon tuwing taglagas kapag may araw. Matibay sa tagtuyot kapag tumatag na.
+- **Western serviceberry (*Amelanchier alnifolia*)**: Puno/palumpong na nalalagas ang dahon hanggang 20 talampakan. Mabango ang puting bulaklak na nagiging prutas na maaaring kainin. Ilagay sa maaraw hanggang may bahagyang anino na lugar na may karaniwang lupa. Gusto ng tubig tuwing tag-init.
+- **Coast blue blossom (*Ceanothus thyrsiflorus ‘Oregon Mist’*)**: Tumutubo hanggang 15 talampakan, may maliliit na madahong berde at mala-turkesang bulaklak tuwing huling Abril hanggang unang Hunyo. Putulan pagkatapos mamulaklak. Maaraw at karaniwang hindi tinitigilang lupa. Kaunti o walang tubig tuwing tag-init kapag tumatag na.
+- **Silk tassel (*Garrya eliptica*)**: Evergreen na palumpong hanggang 12 talampakan ang taas at lapad. Parehong babae at lalaking halaman ay may catkins (mas maganda ang lalaki). Tumatanggap ng araw o bahagyang anino, kailangan ng maayos na daluyan ng tubig, at matibay sa tagtuyot pagkatapos tumatag.
+- **Pacific wax myrtle (*Morella california*)**: Evergreen na palumpong na malapad, umaabot ng 10-12 talampakan. Maaraw hanggang may anino. Tolerante sa basa at tuyo tuwing tag-init. Maaaring gupitin sa hugis, gawing bakod, o palakihin bilang maliit na puno.
+- **Ocean spray (*Holodiscus discolor*)**: Palumpong hanggang 10 talampakan, may maganda at lumulundag na anyo at puting bulaklak tuwing tag-init. Matibay sa tagtuyot, maganda para sa maaraw na hardin na may puno, mga taniman ng palumpong, o malapit sa gusali.
+- **Hairy manzanita (*Arctostaphylos columbiana ‘Wolf Creek’*)**: Evergreen na palumpong na 8 talampakan taas at lapad. Abuhin-berde ang dahon, puting bulaklak sa tagsibol, at makinis na makopa-pulang balat. Walang tubig tuwing tag-init. Maganda para sa mabangis na lugar at tuyong gilid ng burol.
+- **Flowering currant (*Ribes sanguineum*)**: Palumpong na maraming tangkay na nalalagas ang dahon, umaabot ng 8 talampakan taas at lapad. Namumulaklak tuwing unang bahagi ng tagsibol. Pinakamaganda sa maaraw na lugar pero kaya din sa anino.
+- **Evergreen huckleberry (*Vaccinium ovatum*)**: Tuwid, mabagal tumubong palumpong hanggang 8 talampakan o higit pa. Maliit na puting bulaklak tuwing tagsibol na nagiging asul-itim na prutas sa huling tag-init para gawing jam o jelly. Maganda sa loob ng kagubatan o sa maaraw na lugar. Matibay sa tagtuyot kapag tumatag, pero nakakatulong ang pagdidilig para sa bulaklak at prutas.
+- **Ground cover manzanita (*Arctostaphylos x media ‘Martha Ewan’*)**: Evergreen na palumpong na 2 talampakan taas at 6 talampakan lapad na may madilim na berdeng dahon. Puting bulaklak tuwing tagsibol na sinusundan ng malalaking pulang prutas para sa mga hayop. Maaraw sa may daluyan na lupa. Walang tubig tuwing tag-init kapag tumatag. Maganda para sa maaraw na burol.
+- **Glossy-leaved Spiraea (*Spiraea betulifolia var. lucida*)**: Mababa, bilog na palumpong na 2 talampakan taas at 3 talampakan lapad. Puting bulaklak tuwing huling tagsibol. Nalalagas ang dahon at may kulay tuwing taglagas. Maaraw at mayamang lupa. Kailangan ng kaunting tubig tuwing tag-init.
+
+### Mga Perennial at Annual
+
+- **Sword fern (*Polysticum munitum*)**: Evergreen na palumpong na 3 talampakan taas at lapad. Tolerante sa tuyong anino.
+- **Tufted hairgrass (*Deschampsia caespitosa*)**: Evergreen na damo, maaraw hanggang may anino, hanggang 3 talampakan taas at 2 talampakan lapad. Kailangan ng kaunting tubig tuwing tag-init. Madaling alagaan.
+- **Rose checker mallow (*Sidalcea virgata*)**: Rosas hanggang magenta na bulaklak sa 2 talampakang tangkay. Umunlad sa mayamang lupa na may karaniwang tubig tuwing tag-init. Bumubuo ng kumpol na 2 talampakan kalaunan. Katutubo sa mabigat na lupang putik at sanay sa walang tubig tuwing tag-init, pero mas marami at matagal ang bulaklak kapag dinidiligan.
+- **Western columbine (*Aquilegia formosa*)**: Umaabot ng 2 talampakan, may nakayukong pulang bulaklak. Mas gusto ang mamasa-masang lugar sa ligaw.
+- **Deer fern (*Blechnum spicant*)**: Evergreen na palumpong na 2 talampakan taas. Umunlad sa magaan hanggang malalim na anino, sa mayamang mamasa-masang lupa o maayos na daluyan ng lupa na paminsan-minsan dinidiligan tuwing tag-init. Tolerante sa mabuhangin at putik na lupa.
+- **Giant blue-eyed Mary (*Collinsia grandiflora*)**: Taunang damo na 20 pulgada ang taas na may asul at puting maliit na bulaklak na parang snapdragon mula huling Abril hanggang kalagitnaan ng Hunyo. Gusto ang bukas at maaraw na lugar. Tubigan para tumubo.
+- **Coast trillium (*Trillium ovatum*)**: Umaabot ng 18 pulgada ang taas. Nangangailangan ng mataba, maraming organikong bagay, at maayos na daluyan ng lupa sa medyo anino. Ang batang halaman ay maaaring tumagal ng tatlong taon bago mamulaklak. Huwag tanggalin ang luma o tuyong bulaklak para makabuo ng buto—ang mga langgam ang magpapalaganap nito.
+- **Groundcover strawberries (*Fragaria spp.*)**: Binubuo ng ilang species ng katutubong presa na may prutas para sa hayop at evergreen na dahon. Maaraw hanggang may anino. Maaaring kumalat.
+
+---
+
+## OSU at Iba Pang Mga Sanggunian
+
+- **Gardening with Oregon Native Plants West of the Cascades**, OSU Extension Publication EC1577  
+  [https://catalog.extension.oregonstate.edu/ec1577](https://catalog.extension.oregonstate.edu/ec1577)
+- **Native Plants for Willamette Valley Yards**  
+  [https://www.oregonmetro.gov/native-plants-willamette-valley-yards-booklet](https://www.oregonmetro.gov/native-plants-willamette-valley-yards-booklet)
+- **Native Plant Glossary**, 10-Minute University™ handout  
+  [www.cmastergardeners.org](http://www.cmastergardeners.org)
+- **Native Plant Attractiveness Study – Plant List**, 10-Minute University™ handout  
+  [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, gawain, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuang beterano, paghihiganti o pagganti dahil sa dating gawaing may kinalaman sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
+---

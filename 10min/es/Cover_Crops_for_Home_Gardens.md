@@ -1,79 +1,84 @@
-# Universidad de 10 Minutos™  
-La Asociación de Maestros Jardineros del Condado de Clackamas, en colaboración y en apoyo del Programa de Maestros Jardineros™ de Extensión de OSU  
+#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU
 
-## Cultivos de Cobertura para Huertos Familiares  
-Los cultivos de cobertura cubren y mejoran el suelo. Se pueden plantar en otoño para cubrir áreas en barbecho o en primavera como parte de la rotación de cultivos. Muchas plantas, incluyendo leguminosas, pastos y plantas perennes de hoja ancha, cumplen esta función.  
+# Cultivos de Cobertura para Huertos Caseros
 
-### Beneficios  
-- Aumentan la materia orgánica en el suelo y mejoran su estructura  
-- Las leguminosas suministran nitrógeno  
-- Protegen el suelo contra la compactación  
-- Suprimen las malezas  
-- Reciclan nutrientes y previenen la lixiviación  
-- Protegen el suelo contra la erosión  
-- Proporcionan alimento (polen y néctar) para polinizadores e insectos beneficiosos  
+Los cultivos de cobertura cubren y mejoran el suelo. Se pueden sembrar en el otoño para cubrir áreas en barbecho o en la primavera como parte de la rotación de cultivos. Muchas plantas, incluyendo leguminosas, pastos y plantas perennes de hoja ancha, cumplen esta función.
 
-### Cómo Elegir  
-Hay muchas opciones de cultivos de cobertura, cada una con sus ventajas y desventajas. En general, producen biomasa durante un tiempo en que el huerto está en barbecho. Esta biomasa, después de su eliminación, se convierte en una fuente de materia orgánica que mejora la capacidad del suelo para retener agua y nutrientes. Los cultivos de cobertura aumentan la materia orgánica del suelo, ya sea que se corten y usen como mantillo o se incorporen al suelo.
+## Beneficios
 
-Las leguminosas fijan el nitrógeno del aire y lo almacenan en nódulos de las raíces. Cuando la planta se elimina (se mata), los microbios del suelo la descomponen y liberan el nitrógeno para uso de otras plantas. Los cultivos de cobertura con leguminosas reducen la necesidad de fertilizantes nitrogenados.  
+- Agregan materia orgánica al suelo y mejoran su estructura
+- Las leguminosas aportan nitrógeno
+- Protegen el suelo de la compactación
+- Suprimen las malezas
+- Reciclan nutrientes y previenen el lavado de estos
+- Protegen el suelo de la erosión
+- Proveen alimento (polen y néctar) para polinizadores y otros insectos benéficos
 
-Los pastos se establecen rápidamente para prevenir la erosión del suelo y suprimir las malezas. Sus raíces profundas acondicionan el suelo y capturan el nitrógeno residual al final de la temporada de cultivo para prevenir la lixiviación de nutrientes. Cuando los pastos se usan solos, existe el riesgo de agotar el nitrógeno del suelo. Usa pastos y leguminosas juntos para obtener los mayores beneficios de los cultivos de cobertura.  
+## Cómo Elegir
 
-Otros forbs (plantas herbáceas que no son pastos), como el trigo sarraceno y la facelia, tienen un contenido de nitrógeno más alto que los pastos, pero menor que el de las leguminosas. Pueden suministrar algo de nitrógeno al próximo cultivo y, por lo general, no agotan el nitrógeno del suelo. También son fáciles de incorporar. Florecen abundantemente y pueden proporcionar alimento para polinizadores e insectos beneficiosos.  
+Existen muchas opciones para cultivos de cobertura, cada una con sus ventajas y desventajas. Generalmente, producen biomasa en épocas en que el huerto está en barbecho. Esta biomasa, después de terminar el cultivo, se convierte en una fuente de materia orgánica que mejora la capacidad del suelo para retener agua y nutrientes. Los cultivos de cobertura aumentan la materia orgánica del suelo, ya sea que se corten y usen como mantillo o se incorporen al suelo.
 
-## Cómo Empezar  
+- **Leguminosas** fijan nitrógeno del aire y lo almacenan en nódulos de las raíces. Cuando se termina la planta (se mata), los microbios del suelo la descomponen y liberan el nitrógeno para que lo usen otras plantas. Los cultivos de cobertura leguminosos reducen la necesidad de fertilizantes nitrogenados.
+- **Pastos** se establecen rápidamente para prevenir la erosión del suelo y suprimir malezas. Sus raíces profundas acondicionan el suelo y capturan el nitrógeno restante al final de la temporada de crecimiento, previniendo la pérdida de nutrientes. Si se usan solos, los pastos pueden agotar el nitrógeno del suelo. Use pastos y leguminosas juntos para obtener los mayores beneficios.
+- **Otras herbáceas** (plantas que no son pastos) como el trigo sarraceno y la facelia tienen contenido de nitrógeno más alto que los pastos pero menos que las leguminosas. Pueden aportar algo de nitrógeno al siguiente cultivo y generalmente no agotan el nitrógeno del suelo. También son fáciles de incorporar. Florecen abundantemente y pueden brindar alimento para polinizadores y otros insectos benéficos.
 
-### Selección  
-Si eres nuevo en el uso de cultivos de cobertura, elige opciones como avena y daikon, que probablemente morirán en invierno. Estas plantas no requieren pasos adicionales para su eliminación antes de plantar el próximo cultivo. De lo contrario, selecciona el cultivo de cobertura según los beneficios deseados. Algunas especies comunes se enumeran a continuación:  
+## Cómo Empezar
 
-#### TEMPORADA FRÍA  
-| Cultivo de Cobertura       | Fija Nitrógeno | Suprime Malezas | Mejora el Suelo | Controla Erosión | Alimenta Polinizadores |
-|----------------------------|----------------|------------------|-----------------|------------------|------------------------|
-| Trébol Carmesí            | X              |                  | X               | X                |                        |
-| Arveja de Invierno Austriaca | X           | X                | X               | X                |                        |
-| Centeno Cereal            |                | X                | X               | X                |                        |
-| Avena                     |                | X                | X               | X                |                        |
-| Rábano Forrajero          |                | X                | X               | X                |                        |
-| Trigo de Invierno         |                | X                | X               | X                |                        |
-| Veza Común                | X              |                  | X               | X                |                        |
-| Facelia                   |                | X                | X               |                  | X                      |
+### Selección
 
-#### TEMPORADA CÁLIDA  
-| Cultivo de Cobertura       | Fija Nitrógeno | Suprime Malezas | Mejora el Suelo | Controla Erosión | Alimenta Polinizadores |
-|----------------------------|----------------|------------------|-----------------|------------------|------------------------|
-| Trigo Sarraceno           |                | X                |                  |                  | X                      |
-| Veza Común                | X              |                  | X               | X                |                        |
-| Pasto Sudán-Sorgo         |                | X                | X               | X                |                        |
-| Facelia                   |                | X                | X               |                  | X                      |
+Si eres nuevo en el uso de cultivos de cobertura, elige opciones como avena y rábano daikon, que probablemente mueran en el invierno. Estas plantas no requieren pasos adicionales para terminar el cultivo antes de sembrar el siguiente. De lo contrario, selecciona los cultivos de cobertura según los beneficios que desees. Algunas especies comunes se listan a continuación:
 
-### Momento  
-Para cubrir el suelo durante el otoño e invierno, planta cultivos de cobertura a finales del verano o principios del otoño. Riega antes de que lleguen las lluvias para asegurar una buena germinación y crecimiento fuerte. Para cubrir el suelo durante la primavera y el verano, planta a finales de la primavera, cuando el suelo sea manejable y esté lo suficientemente cálido para la germinación.  
+### Cultivos de Cobertura de Temporada Fresca
 
-### Siembra  
-Siembra las semillas directamente en un área preparada. Sigue las instrucciones que vienen con las semillas para la tasa de aplicación. Esparce las semillas a mano o con un esparcidor manual. Raspa la superficie y presiona suavemente con un pedazo de madera para mejorar el contacto con el suelo. Riega bien para una buena germinación.  
+| Cultivo de Cobertura | Fija Nitrógeno | Suprime Malezas | Mejora el Suelo | Controla Erosión | Alimenta Polinizadores |
+|----------------------|:--------------:|:---------------:|:---------------:|:----------------:|:----------------------:|
+| Trébol Carmesí       | X              |                 | X               | X                |                       |
+| Arveja de Invierno   | X              | X               | X               | X                |                       |
+| Centeno              |                | X               | X               | X                |                       |
+| Avena                |                | X               | X               | X                |                       |
+| Rábano Forrajero     |                | X               | X               | X                |                       |
+| Trigo de Invierno    |                | X               | X               | X                |                       |
+| Veza Común           | X              |                 | X               | X                |                       |
+| Facelia              |                | X               | X               | X                | X                     |
 
-Si estás plantando en un área donde el cultivo de verano ha terminado, planta sobre toda la cama. Retira el mantillo, despeja la vegetación, afloja las primeras 1-2 pulgadas de suelo y luego siembra las semillas. Si el cultivo de verano aún no ha terminado, retira el mantillo, afloja la capa superior del suelo y siembra las semillas de cultivos de cobertura entre las verduras de verano.  
+### Cultivos de Cobertura de Temporada Cálida
 
-### Eliminación  
-Elimina los cultivos de cobertura durante la floración temprana para obtener el máximo beneficio de biomasa y nutrientes. Si se eliminan después de que se forman las semillas, los cultivos de cobertura se convierten en maleza para el próximo cultivo.  
+| Cultivo de Cobertura | Fija Nitrógeno | Suprime Malezas | Mejora el Suelo | Controla Erosión | Alimenta Polinizadores |
+|----------------------|:--------------:|:---------------:|:---------------:|:----------------:|:----------------------:|
+| Trigo Sarraceno      |                | X               |                 |                  | X                     |
+| Veza Común           | X              |                 | X               | X                |                       |
+| Sorgo-Sudán          |                | X               | X               | X                |                       |
+| Facelia              |                | X               | X               | X                | X                     |
 
-La eliminación implica cortar o doblar los tallos para matar la parte superior y colocarlos sobre el suelo (método sin labranza) o incorporarlos al suelo. Cubrir el área con una lona puede acelerar el proceso. Los materiales vegetales incorporados al suelo deben ser picados para una descomposición más rápida. Permite de 3 a 4 semanas antes de plantar el próximo cultivo.  
+### Época de Siembra
 
-## Recursos  
+Para cubrir el suelo durante el otoño e invierno, siembra los cultivos de cobertura a finales del verano o en otoño. Riega antes de que lleguen las lluvias para asegurar una buena germinación y crecimiento fuerte. Para cubrir el suelo en primavera y verano, siembra a finales de la primavera cuando el suelo esté listo para trabajarse y la temperatura sea suficiente.
+
+### Siembra
+
+Siembra las semillas directamente en un área preparada. Sigue las instrucciones que vienen con las semillas para conocer la cantidad adecuada. Esparce a mano o con un sembrador de mano. Rastrilla la superficie y presiona suavemente con una tabla de madera para mejorar el contacto con el suelo. Riega bien para asegurar una buena germinación.
+
+Si siembras en un área donde ya terminó el cultivo de verano, siembra sobre toda la cama. Retira el mantillo, limpia la vegetación, afloja las primeras 1–2 pulgadas de suelo y siembra las semillas. Si el cultivo de verano sigue en pie, retira el mantillo, afloja la capa superior del suelo y siembra el cultivo de cobertura entre las hortalizas de verano.
+
+### Terminación
+
+Se recomienda terminar los cultivos de cobertura durante la floración temprana para obtener el mayor beneficio de biomasa y nutrientes. Si se termina después de la formación de semillas, los cultivos de cobertura pueden convertirse en malezas para el siguiente cultivo.
+
+La terminación consiste en cortar o doblar los tallos para matar la parte aérea y dejarla sobre el suelo (sin labranza), o incorporarla al suelo. Cubrir el área con una lona puede acelerar el proceso. Los materiales vegetales incorporados al suelo deben picarse para una descomposición más rápida. Espera de 3 a 4 semanas antes de sembrar el siguiente cultivo.
+
+## Recursos
+
 - **Managing Cover Crops Profitably**, USDA Sustainable Agriculture Research and Education  
-  [https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/](https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/)  
+  [https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/](https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/)
 - **Publicaciones de Extensión de la Universidad Estatal de Washington**  
-  [https://pubs.extension.wsu.edu/](https://pubs.extension.wsu.edu/)  
-  - Cultivos de Cobertura para Jardines Familiares al Oeste de las Cascadas FS111E  
-  - Cultivos de Cobertura para Jardines Familiares al Este de las Cascadas FS117E  
-  - Métodos para el Manejo Exitoso de Cultivos de Cobertura en Tu Jardín Familiar FS119E  
+  [https://pubs.extension.wsu.edu/](https://pubs.extension.wsu.edu/)
+    - Cultivos de Cobertura para Huertos Caseros al Oeste de las Cascadas FS111E
+    - Cultivos de Cobertura para Huertos Caseros al Este de las Cascadas FS117E
+    - Métodos para el Manejo Exitoso de Cultivos de Cobertura en tu Huerto Casero FS119E
 
-## Consejos de Maestros Jardineros™  
-- Llame a la Línea de Ayuda de Horticultura Familiar:  
-  - **Condado de Clackamas**: 503-655-8631  
-  - **Condado de Washington**: 503-821-1150  
-  - **Condado de Multnomah**: 503-445-4608  
-- Visita [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) para obtener folletos y videos de la Universidad de 10 Minutos™  
+#### Consejos de Maestro Jardinero™ · Llama a la Línea de Ayuda de Horticultura para el Hogar: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Visita [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) para ver hojas informativas y videos de la Universidad de 10 Minutos™
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parenteral, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalias o retaliación por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

@@ -1,69 +1,103 @@
-# Jaamacadda 10 Daqiiqo™
+#### Jaamacadda 10 Daqiiqo™ · Ururka Beeralayda Master-ka ee Clackamas County · Iskaashiga iyo Taageerada Barnaamijka Beeralayda Master-ka ee OSU Extension™
 
-Ururka Beeralayda Master-ka ee Degmada Clackamas oo iskaashanaya una taageeraya Barnaamijka Master Gardener™ ee OSU Extension.
+## Sida Loogu Soo Jiito Xayawaanka Dabiiciga ah ee Beertaada
 
-## Soo Jiidashada Cayayaanka Bacriminta ee Beertaada
+### Bacriminta & Xayawaanka Bacriminta
 
-### Bacriminta iyo Cayayaanka Bacriminta  
-Aqalka Qaranka Cilmiga wuxuu qiyaasayaa in saddex meelood meel cuntada bini'aadanka iyo qayb weyn oo ka mid ah cuntada duurjoogta ay ka yimaadaan dhirta u baahan cayayaanka bacriminta si ay u soo saaraan miro iyo abuur. Sidaas darteed, ka caawinta cayayaanka bacriminta inuu kobco waxay keentaa faa’iidooyin muuqda dhammaanteen.
+Akadeemiyada Qaranka ee Sayniska waxay qiyaastay in saddex-meelood meel raashinka aadamiga iyo qayb ka weyn cuntada duurjoogta ay ka timaado dhirta u baahan xayawaanka bacriminta si ay miro iyo abuur u soo saarto. Caawinta xayawaanka bacriminta in ay ku noolaan karaan si fiican waxay keentaa faa’iidooyin muuqda oo dhammaanteen ina anfacaya.
 
-Cayayaanka bacriminta caanka ah waxaa ka mid ah shimbiraha, shinnida, balanbaalisyada, dhurwaaga, duqsiyada, iyo quraanjada. Hareeraha beerteena, shinnida malabka iyo shimbiraha yaryar ee qudhaanjada cunaya ayaa laga yaabaa inay ugu muuqaal badan yihiin. Si kastaba ha ahaatee, shinnida duurjoogta ah ee maxaliga ah, oo ay ku jiraan shinnida weyn, shinnida qodista, shinnida dhismaha, shinnida dhididka, shinnida goynta caleenta, iyo shinnida alwaaxa ayaa gacan weyn ka geysta. Shinnida maxaliga ah waa cayayaanka bacriminta wax ku ool ah—waxay si fiican u adkeysan karaan cimilada qabow iyo qoyan marka loo eego shinnida malabka—wayna firfircooni badan yihiin bilowga gu'ga waxayna shaqeeyaan saacado badan maalin kasta.
+Xayawaanka bacriminta ee caadiga ah waxaa ka mid ah shimbiraha, shinnida, balanbaalista, diqsiyaasha, duqsiyada iyo cayayaanka kale. Beerteena agteeda, shinnida malabka iyo shimbiraha la yiraahdo hummingbirds ayaa laga yaabaa inay ugu muuqato badan yihiin. Si kastaba ha ahaatee, shinnida duurjoogta ah sida bumblebees, mining bees, mason bees, sweat bees, leaf-cutting bees, iyo carpenter bees, waxay leeyihiin door muhiim ah. Shinnida dabiiciga ah aad bay ugu fiican yihiin bacriminta—way u adkaysi badan yihiin cimilo qabow iyo roobaad marka loo eego shinnida malabka—waxay bilaabaan shaqada xilli hore oo guga ah oo waxay shaqeeyaan saacado badan maalintii.
 
-### Dhibaatooyinka Ugu Dambeeyay ee Soo Food Saaray Cayayaanka Bacriminta  
+---
 
-**Luminta Deegaanka**: Marka meelaha duurjoogta lagu beddelo isticmaal kale, waxay burburisaa ilaha cuntada iyo guryaha cayayaanka bacriminta.  
+### Caqabadaha Ugu Dambeeyay ee Xayawaanka Bacriminta
 
-**Sunta Cayayaanka**: Shinnida, balanbaalisyada, iyo cayayaanka kale ee badankood waxay u nugul yihiin sunta cayayaanka. Dhibaatada ka dhalata waxay dili kartaa ama si tartiib ah u wiiqi kartaa awoodda ay u leeyihiin duulista, raadsashada cunto, iyo dhalidda jiil cusub.  
+#### Luminta Deegaanka
 
-**Noocyada Soo Duulay**: Dhirta qaarkood oo la soo bandhigay ayaa qabsanaya meelaha dabiiciga ah waxayna beddelaan dhirta maxaliga ah oo bixisa kala duwanaansho cunto iyo noocyo deegaan oo loogu talagalay cayayaanka bacriminta ee maxaliga ah.  
+Marka dhulalka duurjoogta loo beddelo isticmaal kale, waxay baabi’isaa cunto iyo hoygii xayawaanka bacriminta.
 
-### Hababka Lagu Caawinayo Cayayaanka Bacriminta  
+#### Sunta Cayayaanka
 
-#### Bixi Cunto oo leh Dhir Ubax Leh Gu'ga ilaa Dayrta  
-Ubaxyadu waxay siiyaan nektar (sonkor) iyo abuurka (borotiinka) cayayaanka bacriminta iyo jiilka cusub. Maadaama cayayaanka bacriminta kala duwan ay yeelan karaan doorbidyo cunto oo kala duwan, kala duwanaansho waa muhiim. Cilmi baaris dhowaan la sameeyay waxay muujisay in meelaha ay ka mid yihiin 15 nooc ama ka badan oo dhir ubax leh ay kordhiyaan kala duwanaanshaha shinnida.  
+Shinnida, balanbaalista, iyo inta badan cayayaanka kale waxay u nugul yihiin sunta cayayaanka. La kulankooda sunta waxay dili kartaa ama si tartiib ah u wiiqi kartaa awooddooda duulista, raadinta cuntada, iyo dhalidda ubadka.
 
-Beeralayda doonaya inay ilaaliyaan shinnida waa inay, sida caadiga ah, bixiyaan ugu yaraan saddex nooc oo dhir ubax leh wakhti kasta laga bilaabo gu'ga ilaa dayrta. Ku ururi dhir isku mid ah si ay u soo jiitaan cayayaanka bacriminta ee maraya.  
+#### Dhirta Soo Galootiga ah
 
-#### Sifooyinka Guud ee Ubaxa ee Cayayaanka Bacriminta  
+Qaar ka mid ah dhirta cusub ee waddanka la keenay waxay qabsadaan deegaanka oo ay baabi’iyaan dhirtii asalka ahayd ee cunto iyo hoy badan u ahayd xayawaanka bacriminta. Eeg *Dhirta Soo Galootiga ah: Waxyaabaha Beeralayda ay u Baahan Yihiin Inay Ogaadaan* si aad u hesho faahfaahin dheeraad ah.
 
-| Ubax | Shinni | Balanbaalis | Shimbir | Duqsiyo |
-|------|-------|------------|--------|--------|
-| Midabka | Cadaan dhalaalaya, jaalle, buluug | Orange, casaan, guduud | Orange, casaan, cadaan | Midab madow ama guduud |
-| Qaabka | Fudud, madal degitaan, dhuuban | Madal ballaaran, tuubo dhuuban | Qaab funnel oo weyn, taageero adag | Qaab funnel ama qabad |
-| Udgoonka | Udgoon cusub, dhadhan fiican | Qaraar ama malaha | Malaha | Udgoon ur |
-| Nektar | Badanaa jira | Badan, si qoto dheer u qarsoon | Badan, si qoto dheer u qarsoon | Badanaa ma jiro |
+---
 
-#### Ku Dar Dhir Ubax Leh Gu'ga iyo Dayrta  
-Ku dar dhir ubax leh gu'ga si shinnida maxaliga ah ee xilli hore ay u helaan ilo cunto marka ay ka soo baxaan jiilaalka. Ku beer dhir ubax leh xagaaga dambe si ay shinnidu ugu hesho tamar ay ku noolaan karto xilliga qaboobaha.  
+### Sida Loo Caawiyo Xayawaanka Bacriminta
 
-#### Bixi Meello Ay Ku Hargan Karaan Shinnida Maxaliga ah  
-Shinnida badan ee maxaliga ah waxay ku hargan yihiin dhulka. Meel bannaan oo ciid ah ama sariir qalalan oo leh cawska qurxoon ayaa ku habboon. Cawska caaga ah iyo qodista joogtada ah waxay burburin kartaa meelo ka fog. Shinnida kale waxay ku hargan karaan godad quraanjada ku dhex jirta jirridaha dhirta geedaha dhintay ama meelaha qashinka ah.  
+#### Bixi Cunto adigoo Dhir Ubax Leh Keena Guga Ilaa Dayrta
 
-#### Bixi Dhir Marti Loo Yahay Balanbaalisyada iyo Dhurwaaga  
-Balanbaalisyada iyo dhurwaaga qaangaarka ah badanaa waxay door bidaan nektar, laakiin jiilalkooda waxay cunaan caleemaha dhirta. "Dhir marti loo yahay" waa meesha ay balanbaalisyada qaangaarka ah ku dhigaan ukunta.  
+Dhirta ubaxa leh waxay bixisaa nectar (sonkor) iyo pollen (borotiin) oo ay cunaan xayawaanka bacriminta iyo ubadkooda. Maadaama xayawaanka bacriminta kala duwan ay leeyihiin doorashooyin cunto oo kala duwan, waxaa muhiim ah in la helo kala duwanaansho. Cilmi baaris cusub ayaa muujisay in meelaha ay ku yaalliin 15 ama ka badan noocyo dhir ubax leh ay kordhiyaan kala duwanaanta shinnida.
 
-#### Isticmaal Dhir Maxaliga ah iyo Kuwo Dibadda ah  
-Dhirta maxaliga ah waa dhir aad u fiican oo marti loo yahay balanbaalisyada iyo dhurwaaga waxayna siiyaan cunto cayayaanka bacriminta kale.  
+Beeralayda raba inay ilaaliyaan shinnida waa inay ugu yaraan beertaan saddex nooc oo dhir ubax leh wakhti kasta laga bilaabo guga ilaa dayrta. Ku beero dhirta isku midka ah meel isku dhow si ay u soo jiitaan xayawaanka bacriminta ee maraya.
 
-#### Ka Fogow Sunta Cayayaanka  
-Marka calaamadaha dhibaatada dhirta ay soo baxaan, ururi cadayn si aad u hesho ogaanshaha saxda ah. Fahamka dhibaatada ayaa muhiim u ah tallaabada waxtarka leh.  
+#### Sifooyinka Guud ee Ubaxa ee Xayawaanka Bacriminta
 
-Haddii isticmaalka sunta cayayaanka uu lama huraan noqdo, raac tilmaamaha sumadda si sax ah si loo ilaaliyo cayayaanka bacriminta.  
+| Ubaxa      | Shinni                            | Balanbaalis             | Shimbir                    | Duqsiyo                              |
+|------------|-----------------------------------|-------------------------|----------------------------|--------------------------------------|
+| **Midabka**| Cadaan dhalaalaya, huruud, buluug | Orange, casaan, guduud  | Orange, casaan, caddaan    | Midab khafiif ah, bunni madow, guduud |
+| **Qaabka** | Fudud, meel la fadhiisan karo, dhuuban | Meel ballaaran oo la fadhiisto, dhuubo | Weel weyn, meel adag oo la fadhiisto | Fudud; weel ama dabin u eg           |
+| **Udugga** | Nadiif, khafiif, udgoon           | Udgoon, ma leh          | Ma leh                     | Udug xun                             |
+| **Nectar** | Badanaa waa jirtaa                | Badan, si qoto dheer u qarsoon | Badan, si qoto dheer u qarsoon | Badanaa ma jirto                     |
 
-### Kheyraadka OSU iyo Kuwo Kale  
-- **Korinta Dhulalka Magaalooyinka iyo Kuwa Miyiga si Loogu Ilaaliyo Cayayaanka Bacriminta**  
-  - [EM9289](https://catalog.extension.oregonstate.edu/em9289)  
+*Xigasho: Gail Langellotto, Jaamacadda Oregon State*
+
+Ku dar dhir ubax leh oo guga ah si shinnida asalka ah ay cunto ugu helaan isla markiiba marka ay ka soo baxaan jiilaalka. Ku beero dhir ubax leh oo dayrka dambe ah si ay u quudiyaan shinnida dadka waaweyn ee jiilaalka ku noolaanaya (tusaale, bumblebees). *Dhirta Xayawaanka Bacriminta*, oo ah warqad 10-Minute University™, waxay bixisaa fikrado badan.
+
+#### Bixi Meelo Ay Ku Dhex Degeen Shinnida Dabiiciga ah
+
+Shinnida badan ee asalka ah waxay ku degaan dhulka. Qayb dhul ah oo aan cidla ahayn ama sariir engegan oo leh dhir doog ah oo si kala fog loo beero ayaa ku fiican. Ku daboolista dhulka bac ah ama qodista badan waxay baabi’isaa godadka degaanka. Shinnida kale waxay ku degaan godad ay horey u qodeen cayayaan kale oo ku yaal jirida geedaha dhintay ama xirmooyinka laamo. Meelaha ugu fiican ee la dego waa inay ahaadaan engegan, diiran, ka xiran ugaadha, kuna dhow yihiin cunto.
+
+#### Bixi Dhir Marti U Ah Balanbaalista iyo Diqsiyaasha
+
+Balanbaalista iyo diqsiyaasha dadka waaweyn badanaa waxay door bidaan inay cabbaan nectar, laakiin ubadkooda waxay cunaan caleenta dhirta. Dhirta “martida” ah waa halka ay dadka waaweyn ukunta dhigaan. Geedaha iyo geedaha yaryar ee asalka u ah deegaanka ayaa inta badan noqon kara dhir marti u ah noocyo badan.
+
+#### Isticmaal Dhir Asal ah iyo Kuwo Kale oo Dibadda ah
+
+Dhirta asalka ah waa mid aad ugu fiican balanbaalista iyo diqsiyaasha, waxayna cunto u yihiin xayawaanka bacriminta kale. Si kastaba ha ahaatee, beeralayda jecel dhirta dibadda ka timid, gaar ahaan kuwa ubaxa badan iyo dhirta yaryar, ha ka waaban inay isticmaalaan si ay u helaan ubax joogto ah beerta.
+
+#### Ka Fogoow Isticmaalka Sunta Cayayaanka
+
+Marka aad aragto calaamado dhibaato beerta ka jirta, ururi caddayn si aad si sax ah u ogaato dhibaatada. Fahamka dhibaatada waa muhiim si wax looga qabto. Dhibaatada dhirta intooda badan, haddii si degdeg ah loo ogaado, waxaa lagu xakameyn karaa hab aan kiimiko ahayn. Taxaddar markasta beertaada.
+
+Kahor intaadan isticmaalin sunta si dhuuxa ugu faafaysa dhirta (systemic pesticides), gaar ahaan dhirta ay booqdaan xayawaanka bacriminta, laba jeer ka fikir faa’iidooyinka iyo khasaaraha. Sunta noocan ahi waxay ka ilaalisaa cayayaanka caleemaha dhirta, laakiin waxay si yar ugu gudbi kartaa nectar-ka iyo pollen-ka. Caterpillars-ka ama shinnida cunta nectar-ka iyo pollen-ka ayaa waxyeeloobaya haddii ay cunto ka helaan dhir lagu ilaaliyo suntaas.
+
+Haddii sunta la isticmaalayo, raac tilmaamaha sumadda si sax ah:
+
+- Isticmaal xaddiga saxda ah.
+- Ku buufi cimilada ku habboon.
+- Ku dawee qaybta saxda ah ee dhirta.
+
+Si aad u ilaaliso xayawaanka bacriminta:
+
+- Iska ilaali in la buufiyo dhirta ubax leh, xataa cawska xun.
+- Ka fogow meelaha ay ku deggan yihiin xayawaanka bacriminta.
+- Buufi xilliyada qabow, sida habeenkii ama markay qorraxdu dhacdo, markaasoo xayawaanka bacriminta intooda badani ay hurdaan.
+
+---
+
+### Khayraadka OSU iyo Kuwo Kale
+
+- **Kordhinta Qurxinta Magaalooyinka iyo Xaafadaha si loo Ilaaliyo Xayawaanka Bacriminta**  
+  [EM9289](https://catalog.extension.oregonstate.edu/em9289)
+
 - **Xerces Society Pollinator Conservation Resource Center**  
-  - [Xerces](www.xerces.org/pollinator-resource-center/)  
-- **Dhirta Cayayaanka Bacriminta**  
-  - [10-Minute University™ publication](www.cmastergardeners.org)  
-- **Ubaxyada Shinnida Ugu Wanaagsan**  
-  - [YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)  
+  [www.xerces.org/pollinator-resource-center/](https://www.xerces.org/pollinator-resource-center/)
 
-### Talooyinka Beeralayda Master-ka™  
-- **Wac Khadka Caawinta Beeraha Guriga**:  
-  - 503-655-8631 (Degmada Clackamas), 503-821-1150 (Degmada Washington), 503-445-4608 (Degmada Multnomah).  
-- **Buug-gacmeedka Jaamacadda 10 Daqiiqo™ iyo Jadwalka Fasalka**  
-  - [www.cmastergardeners.org](www.cmastergardeners.org)  
+- **Dhirta Xayawaanka Bacriminta**, daabacaad Jaamacadda 10 Daqiiqo™  
+  [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
-Oregon State University Extension Service waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, iyo agabkeeda.
+- **Ubaxa ugu Wanaagsan ee Shinnida**  
+  [Daawo YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)
+
+---
+
+#### Talooyinka Beeralayda Master-ka™ · Wac Khadka Gargaarka Beeralayda: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado iyo jadwal fasallo ah ee Jaamacadda 10 Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Oregon State · Adeegga Kordhinta Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha iyo agabka, iyadoo aan loo eegayn jinsiyad, midab, asalka qaran, diinta, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jinsiga la doortay, naafonimo, da’, xaaladda guurka, xaaladda qoyska/waalidka, dakhli ka yimid barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda ciidanimada, ciqaab ama aargoosi la xiriira falal hore oo xuquuqda madaniga ah. (Dhammaan waxyaabaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

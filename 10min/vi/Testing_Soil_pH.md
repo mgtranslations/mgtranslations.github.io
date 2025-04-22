@@ -1,75 +1,113 @@
-### Đại Học 10 Phút™  
-Hiệp hội Người làm vườn chuyên nghiệp Quận Clackamas phối hợp với và hỗ trợ chương trình Người làm vườn chuyên nghiệp của OSU Extension Master Gardener™  
+#### 10-Minute University™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
 
 ---
 
-### Kiểm Tra Độ pH Của Đất  
+## Kiểm Tra Độ pH Đất
 
-#### Tổng Quan  
-Những người làm vườn thành công muốn tối ưu hóa kết quả trồng cây đều hiểu tầm quan trọng của độ pH đất, điều này quan trọng như vị trí, hướng ánh sáng, và chuẩn bị đất. Độ pH của đất là thước đo mức độ axit (chua) hoặc kiềm (ngọt) của đất. Nó được đo trên thang điểm từ 0 đến 14, với số thấp hơn là đất chua và số cao hơn là đất kiềm. Giá trị 7.0 là trung tính—tức là không chua cũng không kiềm.  
+### Tổng Quan
 
-Khi mức độ pH quá cao hoặc quá thấp, các khoáng chất bị giữ lại trong các hạt đất và không thể tiếp cận được với cây. Trong trường hợp này, bổ sung thêm phân bón cũng không có tác dụng. Cả lượng khoáng chất có trong đất tự nhiên và lượng mưa hàng năm đều ảnh hưởng đến độ pH của đất. Ở miền Tây Oregon, mưa thường rửa trôi các khoáng chất và làm cho đất trở nên chua hơn. Trong khi đó, đất ở miền Đông Oregon thường kiềm hơn.  
+Những người làm vườn thành công, muốn đạt kết quả tối ưu khi trồng cây, đều hiểu tầm quan trọng của độ pH đất, điều này quan trọng như vị trí, ánh sáng và chuẩn bị đất. Độ pH đất là thước đo mức độ axit (chua) hoặc kiềm (ngọt) của đất. Độ pH được đo trên thang điểm từ 0 đến 14, số thấp thì đất càng axit, số cao thì đất càng kiềm. Giá trị 7.0 là trung tính—tức là không axit cũng không kiềm.
 
-Nhìn chung, hầu hết các loại cây thường phát triển tốt nhất ở độ pH trung tính, mặc dù có những ngoại lệ quan trọng. Ví dụ, cây việt quất, đỗ quyên và đỗ tùng phát triển tốt ở độ pH đất từ 4.5 đến 5.5. Cỏ sân thường thích độ pH từ 5.5 đến 6, trong khi hoa hồng phát triển tốt nhất ở độ pH từ 6.5 đến 7.  
+Khi độ pH quá cao hoặc quá thấp, các khoáng chất sẽ bị giữ lại trong đất và cây không thể hấp thụ. Trong trường hợp này, bón thêm phân sẽ không có tác dụng. Lượng khoáng chất tự nhiên có trong đất và lượng mưa hàng năm đều ảnh hưởng đến độ pH đất. Ở miền Tây Oregon, mưa thường rửa trôi khoáng chất làm đất trở nên chua hơn. Ở miền Đông Oregon, đất thường có tính kiềm hơn.
 
----
+Nói chung, hầu hết các loại cây phát triển tốt nhất trong đất có độ pH trung tính, tuy nhiên cũng có những ngoại lệ quan trọng. Ví dụ:
 
-### Các Loại Kiểm Tra Đất  
-
-Có hai loại kiểm tra đất chính: Một loại đo các khoáng chất trong đất và loại kia đo độ pH đất. Kiểm tra khoáng chất đo lượng dinh dưỡng có sẵn trong đất cho cây. Loại kiểm tra này cần được thực hiện tại phòng thí nghiệm chuyên nghiệp.  
-
-Độ pH của đất có thể được kiểm tra tại nhà bằng một bộ dụng cụ đơn giản. Ngoài ra, các chuyên gia làm vườn quận Clackamas thường xuyên tổ chức kiểm tra độ pH đất miễn phí vài lần mỗi năm. Các chuyên gia làm vườn sử dụng thiết bị hiện đại tạo ra kết quả chính xác hơn. Kiểm tra www.clackamascountymastergardeners.org hoặc hỏi một chuyên gia làm vườn về lịch trình các sự kiện kiểm tra pH miễn phí này.  
+- Việt quất, đỗ quyên và hoa đỗ quyên thích đất có pH từ 4.5 đến 5.5.
+- Cỏ sân vườn thích pH từ 5.5 đến 6.
+- Hoa hồng phát triển tốt nhất trong đất có pH từ 6.5 đến 7.
 
 ---
 
-### Cách Thu Mẫu Đất  
+### Các Loại Kiểm Tra Đất
 
-Hãy cẩn thận làm theo các bước sau để mẫu thử thực sự đại diện cho toàn bộ khu vực.  
+Có hai loại kiểm tra đất chính:
 
-1. **Xác định số lượng mẫu thử** dựa trên địa hình và cây trồng; mỗi khu vực nên có mẫu riêng. Ví dụ, nếu bạn có một sườn đồi và một khu vực thấp, ẩm ướt, hãy lấy mẫu riêng từ mỗi khu vực. Nếu bạn có vườn rau, sân cỏ và luống cây lâu năm, hãy lấy mẫu riêng từ mỗi khu vực.  
+1. **Kiểm tra khoáng chất**: Đo lượng dinh dưỡng có sẵn cho cây trong đất. Kiểm tra này cần thực hiện tại phòng thí nghiệm chuyên nghiệp.
+2. **Kiểm tra độ pH đất**: Có thể tự làm ở nhà bằng bộ dụng cụ đơn giản.
 
-2. Sau khi xác định số khu vực cần lấy mẫu đất, chuẩn bị số lượng hộp đựng sạch tương ứng (chai nhựa hoặc thủy tinh, hoặc túi nhựa). Dung tích lý tưởng của hộp đựng là khoảng 1 cốc, mặc dù hộp lớn hơn cũng có thể chấp nhận được.  
-
-3. Mỗi mẫu nên chứa từ ½ đến ¾ cốc đất. Mẫu nên là hỗn hợp của nhiều mẫu nhỏ từ khu vực bạn muốn kiểm tra.  
-
-4. **Sử dụng dụng cụ lấy mẫu sạch** không phải bằng kim loại mạ kẽm, đồng, hoặc đồng thau. Đảm bảo tay và găng tay của bạn sạch sẽ. Một lượng nhỏ phân bón trên dụng cụ, tay hoặc găng tay có thể ảnh hưởng nghiêm trọng đến kết quả kiểm tra.  
-
-5. **Lấy mẫu ở độ sâu chính xác**—vùng rễ của cây trong khu vực đó. Đối với vườn rau, mẫu nên được lấy từ bề mặt đến độ sâu 8 inch.  
-
-6. **Ghi nhãn từng mẫu** với tên của bạn và vị trí trong vườn, ví dụ: luống hoa hồng, bãi cỏ phía tây, vườn rau, v.v.  
-
-7. **Tránh lấy mẫu từ các khu vực không bình thường** như đống phân ủ, phân động vật, hoặc khu vực bị cháy, vì chúng không đại diện cho đất trong vườn của bạn.  
+Nhóm Làm Vườn Chuyên Nghiệp Quận Clackamas thường tổ chức kiểm tra độ pH đất miễn phí vài lần trong năm, sử dụng thiết bị hiện đại để cho kết quả chính xác hơn. Xem thông tin tại [www.clackamascountymastergardeners.org](http://www.clackamascountymastergardeners.org) hoặc hỏi chuyên gia làm vườn về lịch kiểm tra pH miễn phí.
 
 ---
 
-### Kết Quả Kiểm Tra Và Biện Pháp  
+### Cách Lấy Mẫu Đất
 
-Mỗi mẫu sẽ cho ra một kết quả đo độ pH. Số thấp hơn cho thấy đất chua, và số cao hơn cho thấy đất kiềm. Khi các chuyên gia làm vườn thực hiện kiểm tra, họ cũng giúp giải thích kết quả và cung cấp thông tin về các biện pháp khắc phục. Điều chỉnh độ pH đất tốt nhất nên thực hiện trong vài năm. Thêm chất điều chỉnh thích hợp vào mùa thu; kiểm tra lại độ pH đất sau 3 đến 6 tháng. Lặp lại nếu cần thiết.  
+Làm theo các bước sau để đảm bảo mẫu đất đại diện cho toàn bộ khu vực bạn muốn kiểm tra:
 
-- **Để tăng độ pH đất**, hãy thêm vôi. Thực hiện vào mùa thu sẽ mang lại kết quả tối ưu. Sử dụng 5 đến 10 pound vôi trên mỗi 100 feet vuông nếu trộn vào đất trước khi trồng. Đối với sân cỏ hoặc cây trồng đã thiết lập, thêm 5 pound vôi trên mỗi 100 feet vuông. Kiểm tra lại độ pH đất sau 3 đến 6 tháng để xem liệu bạn đã đạt được độ pH mục tiêu hay chưa.  
+1. **Xác định số lượng mẫu cần lấy**:
+   - Dựa vào địa hình và loại cây trồng.
+   - Mỗi khu vực nên có một mẫu riêng. Ví dụ:
+     - Sườn đồi và khu vực trũng, ẩm nên lấy mẫu riêng biệt.
+     - Vườn rau, sân cỏ và luống cây lâu năm nên có mẫu riêng từng khu vực.
 
-Có nhiều dạng vôi—dạng bột, dạng hạt, hoặc dạng viên. Vôi dạng hạt hoặc dạng viên dễ rải hơn. Nếu sử dụng dạng bột, hãy đeo khẩu trang. Vôi dolomite chứa magie và là lựa chọn tốt cho người làm vườn ở miền Tây Oregon, nơi đất thường thiếu magie.  
+2. **Chuẩn bị dụng cụ đựng mẫu**:
+   - Dùng lọ nhựa hoặc thủy tinh sạch, hoặc túi nhựa.
+   - Dung tích lý tưởng khoảng 1 cốc, nhưng dùng hộp lớn hơn cũng không sao.
 
-- **Để giảm độ pH đất**, hãy thêm lưu huỳnh nguyên tố. Nếu sử dụng dạng bột, hãy đeo khẩu trang. Giống như vôi, lưu huỳnh tốt nhất nên được thêm vào mùa thu. Hiệu quả hơn khi thêm vào khu vực trước khi trồng. Đối với cây và bụi đã thiết lập, thêm một lượng nhỏ vào đất dọc theo rìa nhỏ giọt, hoặc rải theo hàng cây việt quất. Để biết thêm thông tin về việc giảm độ pH đất, xem tài liệu EC 1560-E. Không có kiểm tra nào để xác định lượng lưu huỳnh cần thêm. Kiểm tra độ pH đất sau 3 đến 6 tháng sẽ cho bạn biết liệu cần thêm nữa hay không.  
+3. **Lấy đất**:
+   - Mỗi mẫu nên có từ ½ đến ¾ cốc đất.
+   - Trộn nhiều mẫu nhỏ từ khu vực bạn muốn kiểm tra lại với nhau.
+
+4. **Dùng dụng cụ sạch**:
+   - Tránh dùng dụng cụ bằng kẽm, đồng hoặc đồng thau.
+   - Đảm bảo tay và găng tay sạch để tránh làm bẩn mẫu.
+
+5. **Lấy mẫu đúng độ sâu**:
+   - Với vườn rau, lấy mẫu từ bề mặt xuống khoảng 20 cm (8 inch).
+
+6. **Ghi nhãn cho từng mẫu**:
+   - Ghi tên bạn và vị trí trong vườn (ví dụ: luống hoa hồng, sân cỏ phía tây, vườn rau).
+
+7. **Tránh những khu vực đặc biệt**:
+   - Không lấy mẫu ở đống phân, đống ủ hoặc khu vực từng bị cháy, vì những nơi này không đại diện cho đất vườn của bạn.
 
 ---
 
-### Tài Nguyên Dịch Vụ OSU Extension  
-Đến văn phòng OSU Extension Service tại địa chỉ 200 Warner-Milne Road, Oregon City, để nhận các tài liệu sau, hoặc tải chúng trực tuyến tại [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):  
-- Danh Sách Các Phòng Thí Nghiệm Phân Tích Phục Vụ Oregon EM 8677  
-- Hướng Dẫn Lấy Mẫu Đất Cho Vườn Gia Đình và Khu Đất Nhỏ EC 628  
-- Điều Chỉnh Đất Chua Cho Việt Quất và Các Loài Cây Cảnh Trong Vườn, EC 1560-E  
+### Kết Quả Kiểm Tra và Cách Khắc Phục
+
+Mỗi mẫu đất sẽ cho một chỉ số pH:
+
+- **Số thấp** nghĩa là đất có tính axit.
+- **Số cao** nghĩa là đất có tính kiềm.
+
+Khi chuyên gia làm vườn kiểm tra, họ cũng sẽ giúp bạn hiểu kết quả và đưa ra lời khuyên khắc phục. Tốt nhất nên điều chỉnh pH đất từ từ trong vài năm. Bổ sung chất điều chỉnh đất vào mùa thu và kiểm tra lại pH sau 3 đến 6 tháng. Lặp lại nếu cần.
+
+#### Tăng Độ pH Đất
+
+- Bón vôi vào mùa thu là tốt nhất.
+- Dùng **5 đến 10 pound vôi cho mỗi 10 mét vuông** nếu trộn vào đất trước khi trồng.
+- Với sân cỏ hoặc cây đã trồng, dùng **5 pound cho mỗi 10 mét vuông**.
+- Kiểm tra lại pH đất sau 3 đến 6 tháng để xem đã đạt mức mong muốn chưa.
+
+**Các loại vôi:**
+
+- Vôi bột, vôi hạt hoặc vôi viên.
+- Vôi hạt hoặc vôi viên dễ rải hơn.
+- Nếu dùng vôi bột, nên đeo khẩu trang.
+- Vôi dolomite có chứa magiê, rất phù hợp cho đất ở miền Tây Oregon, nơi đất thường thiếu magiê.
+
+#### Giảm Độ pH Đất
+
+- Bón lưu huỳnh nguyên chất vào mùa thu là tốt nhất.
+- Với cây ăn quả hoặc cây bụi đã trồng, rải một lượng nhỏ quanh tán cây hoặc rải dọc hàng việt quất.
+- Nếu dùng lưu huỳnh dạng bột, nên đeo khẩu trang.
+
+Để biết thêm thông tin về cách giảm pH đất, xem **EC 1560-E**. Không có kiểm tra nào xác định chính xác lượng lưu huỳnh cần bổ sung. Kiểm tra lại pH đất sau 3 đến 6 tháng để biết có cần thêm không.
 
 ---
 
-### Lời Khuyên Từ Chuyên Gia Làm Vườn™  
-- Gọi đến đường dây nóng Tư Vấn Làm Vườn tại nhà:  
-  - 503-655-8631 (Quận Clackamas)  
-  - 503-821-1150 (Quận Washington)  
-  - 503-445-4608 (Quận Multnomah)  
-- Để nhận thêm tài liệu từ Đại Học 10 Phút™ và lịch học, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org) hoặc [www.metromastergardeners.org](http://www.metromastergardeners.org).  
+### Tài Nguyên của Dịch Vụ Mở Rộng OSU
+
+Đến văn phòng Dịch vụ Mở rộng OSU tại 200 Warner-Milne Road, Oregon City để nhận các tài liệu này, hoặc truy cập trực tuyến tại [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):
+
+- **Danh sách các phòng thí nghiệm phân tích phục vụ Oregon** (EM 8677)
+- **Lấy mẫu đất cho vườn nhà và diện tích nhỏ** (EC 628)
+- **Giảm độ pH đất cho việt quất và cây cảnh trong vườn** (EC 1560-E)
 
 ---
 
-### Dịch Vụ OSU Extension Service  
-Dịch vụ OSU Extension Service cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động, và tài liệu của mình dựa trên các yếu tố sau: chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm biểu hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc sự trả thù hay trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các yếu tố cấm đều áp dụng cho tất cả các chương trình.)
+#### Tư vấn Làm Vườn Chuyên Nghiệp™ · Gọi đường dây tư vấn làm vườn tại nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch lớp học 10-Minute University™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org) hoặc [www.metromastergardeners.org](http://www.metromastergardeners.org)
+
+---
+
+##### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, xuất xứ, tôn giáo, giới tính, bản dạng giới (bao gồm cả thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc trẻ em, thu nhập từ các chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, bị trả thù hoặc bị trả đũa vì hoạt động về quyền dân sự trước đây. (Không phải tất cả các tiêu chí cấm đều áp dụng cho tất cả các chương trình.)
+---

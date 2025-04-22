@@ -1,71 +1,85 @@
-# 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener ua haujlwm ua ke thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
+#### 10-Feeb University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Txiav Txim Siab Cov Cuab Yeej Nyom  
+# Txhim Kho Cov Cuab Yeej Ua Liaj Ua Teb Kom Ntsis
 
-### Taw Qhia  
-Cov cuab yeej nyom ua haujlwm zoo tshaj thaum lawv ntse. Cov cuab yeej txiav tes xws li pruners, loppers, thiab hedge clippers yog ua los ntawm hlau mos thiab tuaj yeem raug txiav ntse nrog daim ntawv txhuam lossis pob zeb txhuam tes. Cov duav (shovels) yog ua los ntawm hlau tawv thiab xav tau daim ntawv txhuam los txiav ntse.  
+### Taw Qhia
 
-Tsis tas yuav tsum rhuav cov cuab yeej txhua zaus koj txiav ntse, tab sis nws yog ib lub tswv yim zoo kom rhuav, ntxuav, txiav ntse, thiab kho kom haum txhua yam cuab yeej thaum pib, nruab nrab, thiab thaum kawg ntawm lub caij txiav ntoo. Txawm koj puas rhuav cov cuab yeej los tsuas txiav ntse xwb, yuav tsum tuav cov cuab yeej kom ruaj. Yog tias rab riam txav thaum txiav ntse, yuav ua rau raug mob hnyav.  
+Cov cuab yeej ua teb ua haujlwm zoo tshaj thaum lawv ntsis. Cov cuab yeej txiav tes xws li pruners, loppers, thiab hedge clippers yog ua los ntawm hlau mos thiab tuaj yeem txhim kho nrog ib daim ntaub lossis pob zeb txhim kho tes. Lub tuam shovel yog ua los ntawm hlau tawv thiab yuav tsum siv daim ntaub txhim kho.
 
-### Cov Cuab Yeej  
-- **6" daim ntawv txhuam mos** (rau cov riam me xws li pruners), tiaj ib sab thiab nkhaus sab tod  
-- **8" mus txog 10" daim ntawv txhuam loj** (rau cov riam loj xws li duav, loppers), tiaj ib sab thiab nkhaus sab tod  
-- **Pob zeb diamond lossis ceramic hone** (yeem – rau hlau tawv hauv cov pruners muaj nqi zoo)  
-- **File card** (rau kev ntxuav daim ntawv txhuam)  
-- **Lubricating roj nyias (xws li 3-in-1 Oil)** rau kev txhuam lub pob qij thiab tiv thaiv hlau tsis txhob xeb  
-- **Cov ntaub** (2 lossis ntau dua, ib qho qhuav thiab ib qho roj)  
-- **Txhuam hlau thiab ntawv txhuam 400 mus txog 600 grit** (rau kev tshem xeb)  
-- **Table vise** rau kev tuav cov cuab yeej kom ruaj  
+Tsis tas yuav muab cuab yeej lov tas txhua zaus koj txhim kho nws; txawm li cas los xij, nws yog ib lub tswv yim zoo kom lov tawm, ntxuav, txhim kho thiab kho rov qab txhua lub cuab yeej thaum pib, nruab nrab, thiab kawg ntawm lub caij txiav pruning. Seb koj puas lov cuab yeej tawm los sis tsuas txhim kho xwb, nco ntsoov muab cuab yeej khi ruaj. Yog tias lub hniav txav thaum txhim kho, tuaj yeem raug mob loj heev.
 
-*Yog tias koj daim ntawv txhuam muaj ib qho tang (ib qho ntsiab pointed uas koj tuav thaum siv), yuav tsum yuav ib lub kov rau daim ntawv txhuam. TSIS TXHOB siv daim ntawv txhuam uas muaj tang tawm – yuav ua rau raug mob hnyav. Qee daim ntawv txhuam muaj ib lub kov dav uas tsis muaj tang. Cov ntawv txhuam no tsis tas yuav muaj kov ntxiv.*  
+### Cov Cuab Yeej Uas Yuav Tsum Muaj
 
-### Yuav Txiav Ntse Li Cas  
+- **6” daim ntaub du** (rau cov hniav me, piv txwv li, hand pruners), ib sab tiaj, ib sab nkhaus
+- **8” mus rau 10” daim ntaub mill** (rau cov hniav loj dua, piv txwv li, shovels, loppers), ib sab tiaj, ib sab nkhaus
+- **Diamond los sis ceramic hone** (yam xaiv tau – rau hlau tawv hauv pruners zoo)
+- **Daim txhuam ntaub (file card)** (rau ntxuav daim ntaub txhim kho)
+- **Roj tshuab me me** (piv txwv li, 3-in-1 Oil) rau muab rau qhov txuas thiab rau hlau kom tsis txhob xeb
+- **Phuam so** (2 los sis ntau dua qhuav, 1 lub phuam roj)
+- **Txhuam hlau thiab 400-600 grit sandpaper** (rau tshem xeb)
+- **Table vise** rau khi cuab yeej kom ruaj
 
-#### 1. Txiav Txim Siab Seb Sab Twg Yuav Txiav Ntse  
-| **Cov Cuab Yeej** | **Tus Naj Npawb Ntawm Rab Riam Xav Txiav Ntse** | **Sab Ntawm Rab Riam Xav Txiav Ntse** |  
-|-------------------|----------------------------------------------|-------------------------------------|  
-| Hand pruner       | Ib rab                                       | Ib sab                               |  
-| Lopper            | Ib rab                                       | Ib sab                               |  
-| Grass shear       | Ib rab                                       | Ob sab                              |  
-| Shovel            | Ib rab                                       | Ib sab                               |  
-| Hoe               | Ib rab                                       | Ib sab                               |  
-| Picks, mattocks, axe | Ib rab                                    | Ob sab                              |  
-| Hay fork          | Ntau rab                                     | Txhua rab txiav kom muaj ib lub ntsis mos |  
+> **Nco Ntsoov:** Yog koj daim ntaub txhim kho muaj ib qho tang (ntawm kawg uas tuav thaum siv), yuav tsum yuav ib lub kov rau daim ntaub. **TSIS TXHOB** siv daim ntaub txhim kho uas muaj tang nthuav – tuaj yeem raug mob loj heev. Qee daim ntaub muaj lub kov dav ua ntej lawm, ces tsis tas yuav muaj tang. Cov no tsis tas yuav muaj kov ntxiv lawm.
 
-#### 2. Ntxuav Cov Cuab Yeej  
-Tshem av thiab nplaum kom ntxuav qhov chaw ntawm txhua rab cuab yeej, kho kom haum cov rab tines ntawm cov forks, thiab xyuas daim ntawv txhuam seb puas muaj cov khoom txhaws rau hauv cov hniav. Yog tias pom, ntxuav daim ntawv txhuam nrog daim file card los ntawm txhuam file card hla daim ntawv txhuam raws li cov hniav. Rau cov ntawv txhuam ob-sab, ua haujlwm nrog daim file card raws li txhua lub kaum. TSIS TXHOB siv xab npum lossis dej rau daim ntawv txhuam.  
+### Yuav Ua Li Cas Kom Ntsis
 
-#### 3. Siv Vise Kom Tuav Cov Cuab Yeej Kom Ruaj  
-Muab koj cov cuab yeej tso rau hauv vise ntawm qhov chaw tiaj ntawm rab riam hauv paus. Yog tias koj qhib vise rau qhov chaw tsis yog, nws yuav ua rau koj rab cuab yeej txiav yoojyim.  
+#### 1. Xyuas Seb Qhov Twg Yuav Tsum Ntsis
 
-#### 4. Tso Lub Kaum Txiav Ntse  
-Lub kaum txiav ntse uas xav tau yog 20° mus txog 25°. Yuav ua li cas kom paub qhov no? Tuav koj daim ntawv txhuam hla rab riam kom nws sib nkhaus 90°. Tam sim no, txo daim ntawv txhuam rau 1/2 ntawm qhov deb mus rau rab riam – qhov no yog 45°. Txo dua ib nrab ntxiv – qhov no yog kwv yees li 22.5°, uas yog qhov koj tuaj yeem pib txiav ntse.  
+| Cuab Yeej             | Pes Tsawg Hniav Yuav Ntsis | Sab Hniav Yuav Ntsis                     |
+|----------------------|----------------------------|------------------------------------------|
+| Hand pruner          | Ib                         | Ib                                      |
+| Lopper               | Ib                         | Ib                                      |
+| Grass shear          | Ib                         | Ob sab                                  |
+| Shovel               | Ib                         | Ib                                      |
+| Hoe                  | Ib                         | Ib                                      |
+| Picks, mattocks, axe | Ib                         | Ob sab                                  |
+| Hay fork             | Ntau                       | Txhua tus tines ntsis kom tsis ntse heev |
 
-#### 5. Pib Txiav Ntse  
-Txhua txoj kev txhuam yuav tsum mus raws li rab riam thiab tsuas ua ntawm qhov ncaj mus txog qhov kawg nkaus. Muab lub zog sib npaug los ntawm qhov ntsis mus txog hauv paus thiab tsuas yog ntawm txoj kev mus rau pem hauv ntej xwb. Thaum koj txhuam, rab riam yuav muaj qhov ci. Qhov no yog qhov bevel. Yog tias koj tuav daim ntawv txhuam kom raug, qhov ci no yuav tsum muaj qhov dav sib npaug thoob plaws rab riam. Thaum lub ntsiab ntse, burrs yuav tshwm tom qab sab ntawm rab riam. Txhawm rau tshem cov no, tuav daim ntawv txhuam tiaj tiaj rau rab riam thiab txhuam mus rau qhov ntsis.  
+#### 2. Ntxuav Cov Cuab Yeej
 
-Rau cov loppers uas tsis haum, koj yuav pom cov hlau ci ntawm lub hauv paus ntawm rab anvil riam uas qhia tias rab txiav riam txiav nruj heev rau lossis txawm nkag mus rau hauv rab anvil. Kho kom haum cov riam tam sim ntawd.  
+Tshem av thiab roj kom huv sab npoo ntawm txhua cuab yeej, kho cov tines ntawm forks kom ncaj, thiab xyuas daim ntaub txhim kho seb puas muaj khoom lo nruab nrab ntawm cov hniav. Yog muaj, siv daim txhuam ntaub los ntxuav raws li cov hniav. Yog daim ntaub txhim kho muaj ob txoj hniav, siv daim txhuam ntaub mus raws txhua txoj kev. **TSIS TXHOB** siv xab npum los sis dej rau daim ntaub txhim kho.
 
-#### 6. Ntxiv Cov Kev Ua Kom Tiav  
-Rau cov hlau tawv, siv ib hom carborundum sharpening stone (medium) ua qhov kawg ntawm koj txoj kev txiav ntse. Yog tias koj muaj Felco, ARS, lossis lwm yam hlau tawv, koj kuj tuaj yeem tiav kev txiav ntse nrog daim diamond lossis ultra-fine ceramic hone. Qhov no tsuas yog siv ib lossis ob txoj kev txhuam xwb.  
+#### 3. Siv Vise Kom Cuab Yeej Ruaj
 
-### Ceeb Toom  
-- Tiv thaiv koj ob lub qhov muag nrog tsom-iav kev nyab xeeb thaum txiav ntse.  
-- Yog tias koj muaj Hickok Lopper, tus neeg tsim khoom pom zoo siv ib hom carborundum sharpening stone (medium lossis fine grade), diamond lossis ceramic stone. Rab riam hollow ground yuav tsum txiav ntse nrog cov cuab yeej no xwb thiab tsis yog daim ntawv txhuam.  
-- Cov pob zeb ceramic triangular yog qhov zoo heev rau kev kho cov riam hauv cov hlau zoo xws li Felco thiab ARS thaum koj tsis tuaj yeem rhuav cov cuab yeej.  
+Muab koj cuab yeej tso rau hauv vise ntawm qhov tiaj tshaj ntawm lub hauv paus hniav. Yog koj khi vise rau qhov tsis yog, koj tuaj yeem ua kom cuab yeej txiav pruning qaug.
 
-### Cov Chaw Xov Xwm OSU Extension  
-- **Practical Tools for the Vegetable Gardener**  
-[http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)  
-- **Take Good Care of Hard-working Garden Tools**  
-[http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)  
-- **Sharpening Your Garden Tools**  
-[http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)  
+#### 4. Tsim Lub Kaum Ntsis
 
-### Master Gardener™ Cov Lus Qhia  
-- Hu rau **Home Horticulture Helpline**: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), lossis 503-445-4608 (Multnomah County).  
-- Rau 10-Minute University™ cov ntawv thiab kev kawm, mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+Ib lub kaum ntsis zoo yog 20° txog 25°. Yuav paub li cas:
 
-**Oregon State University Extension Service** txwv tsis pub kev tsim txom hauv nws cov txheej txheem, kev pabcuam, kev ua si, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia txog poj niam txiv neej, kev nyiam sib deev, kev tsis taus, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj tau los los ntawm txoj kev pabcuam pejxeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, txoj cai qub tub rog, los yog kev ua phem rau cov cai qub. (Tsis yog txhua yam muaj txwv rau txhua txoj kev pabcuam.)
+- Tuav daim ntaub txhim kho hla lub hniav rau hauv kev ncaj. Qhov no yog 90-degree.
+- Tig daim ntaub txhim kho nqes ib nrab. Qhov no yog 45-degree.
+- Tig nqes dua ib nrab ntxiv. Qhov no yuav yog kwv yees li 22.5-degree, uas yog zoo tshaj rau ntsis.
+
+#### 5. Pib Ntsis
+
+- Txhua zaug txhim kho yuav tsum mus raws lub hniav thiab dhau tag nrho ntev lub hniav.
+- Siv zog sib npaug ntawm qhov kawg mus rau hauv paus, tsuas yog tawm tsam thaum txav mus rau tom ntej xwb.
+- Thaum koj txhim kho, lub hniav yuav ci. Qhov no hu ua bevel. Yog koj tuav daim ntaub txhim kho kom raug, qhov chaw ci ntawd yuav sib npaug thoob plaws lub hniav.
+- Thaum lub npoo ntsis, yuav muaj burrs (hnyuv) ntawm sab tom qab lub hniav. Yuav tshem cov no, tuav daim ntaub txhim kho ncaj rau lub hniav thiab txhim kho mus rau txheej kawg.
+
+> **Nco Ntsoov:** Yog loppers tsis muaj kev kho kom raug, koj yuav pom hlau ci ci ntawm hauv paus ntawm anvil blade, qhia tau tias lub hniav tab tom txiav ze heev lossis txiav mus rau hauv anvil lawm. Kho cov hniav ntawd tam sim ntawd.
+
+#### 6. Ua Kom Tiav
+
+Rau cov hniav hlau tawv, siv pob zeb carborundum nruab nrab los ua cov kauj ruam kawg. Yog koj muaj Felco, ARS, los sis lwm yam hlau tawv, kuj siv daim hone diamond zoo los sis ceramic zoo heev los ua kom ntsis. Qhov no tsuas xav tau ib los sis ob zaug xwb.
+
+### Ceeb Toom
+
+- Tiv thaiv koj ob lub qhov muag nrog tsom iav tiv thaiv thaum txhim kho.
+- Yog koj muaj Hickok Lopper, tuam txhab qhia kom siv pob zeb carborundum nruab nrab lossis zoo, diamond los yog ceramic pob zeb. Txhua lub hniav hollow-ground yuav tsum siv ib yam ntawm cov cuab yeej no, tsis txhob siv daim ntaub txhim kho.
+- Cov pob zeb ceramic peb sab zoo heev rau kho kom ntsis rau cov hand pruners hlau zoo xws li Felco thiab ARS thaum koj tsis tuaj yeem lov cuab yeej tawm.
+
+### Cov Kev Kawm Ntxiv
+
+- [OSU Extension Publications](https://catalog.extension.oregonstate.edu)
+- [Cov Cuab Yeej Zoo Rau Tus Ua Teb Zaub](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
+- [Tu Koj Cov Cuab Yeej Ua Teb Kom Zoo](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
+- [Tsim Koj Cov Cuab Yeej Ua Teb Kom Ntsis](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
+
+#### Master Gardener™ Tswv Yim · Hu Xovtooj Hais Txog Teb Vaj Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam ntaub ntawv thiab sijhawm kawm 10-Feeb University™, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service tsis kam cais tawm hauv txhua qhov kev pabcuam, kev pab, kev ua haujlwm, thiab cov ntaub ntawv ntawm qhov kev sib txawv ntawm haiv neeg, xim, lub teb chaws keeb kwm, kev ntseeg, poj niam txiv neej, tus kheej txheeb ze poj niam txiv neej (xws li kev qhia tus kheej), kev nyiam sib deev, xiam oob qhab, hnub nyoog, txoj kev sib yuav, kev muaj niam txiv, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, xov xwm caj ces, kev ua tub rog, kev raug nplua, lossis kev ua phem rau qhov tau tiv thaiv kev cai lij choj yav tas los. (Tsis yog txhua hom kev txwv no siv rau txhua qhov kev pab cuam.)
+---

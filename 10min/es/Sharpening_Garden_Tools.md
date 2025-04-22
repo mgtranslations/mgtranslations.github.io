@@ -1,73 +1,85 @@
-10-Minute University™  
-La Asociación de Maestros Jardineros del Condado de Clackamas, en colaboración con y en apoyo del  
-Programa de Maestros Jardineros™ de Extensión de OSU  
+#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
 
-Afilado de Herramientas de Jardín  
+# Afilar Herramientas de Jardín
 
-### Introducción  
-Las herramientas de jardín funcionan mejor cuando están afiladas. Las herramientas de corte manual, como tijeras de podar, podadoras y cortasetos, están hechas de acero blando y se pueden afilar con una lima o piedra de mano. Las palas están hechas de acero duro y requieren una lima para afilar.  
+### Introducción
 
-No es necesario desarmar la herramienta cada vez que la afile, sin embargo, es una buena idea desarmar, limpiar, afilar y reajustar cada herramienta al inicio, mitad y final de su temporada de poda. Ya sea que desarme la herramienta o simplemente la afile, sujétela firmemente. Si la hoja se mueve mientras se afila, puede causar lesiones graves.  
+Las herramientas de jardín funcionan mejor cuando están afiladas. Las herramientas de corte manual, como las podadoras, tijeras para ramas y tijeras para setos, están hechas de acero suave y se pueden afilar con una lima o piedra para afilar. Las palas están hechas de acero duro y requieren una lima para afilarse.
 
-### Herramientas  
-- Lima lisa de 6" (para hojas más pequeñas, como tijeras de podar), plana en un lado, curva en el otro.  
-- Lima de molino de 8" a 10" (para hojas más grandes, como palas, podadoras), plana en un lado, curva en el otro.  
-- Piedra de diamante o cerámica (opcional – para acero más duro en tijeras de podar de alta calidad).  
-- Cepillo para limpiar limas.  
-- Aceite ligero para máquinas (por ejemplo, Aceite 3-en-1) para lubricar juntas y recubrir superficies metálicas para protegerlas del óxido.  
-- Trapos de taller (2 o más secos, 1 aceitoso).  
-- Cepillo de alambre y papel de lija de grano 400 a 600 (para eliminar el óxido).  
-- Tornillo de banco para asegurar la herramienta.  
+No es necesario desarmar la herramienta cada vez que la afiles; sin embargo, es buena idea desarmar, limpiar, afilar y reajustar cada herramienta al inicio, a la mitad y al final de tu temporada de poda. Ya sea que desarmes la herramienta o simplemente la afiles, sujétala bien con una prensa o tornillo de banco. Si la hoja se mueve mientras la afilas, podrías sufrir una lesión grave.
 
-**Nota:** Si su lima tiene un extremo expuesto puntiagudo (llamado espiga) donde la sostiene durante el uso, también compre un mango para la lima. NUNCA use una lima con una espiga expuesta – puede causar lesiones graves. Algunas limas tienen un mango ancho en lugar de una espiga. Los mangos no son necesarios para estas limas.  
+### Herramientas
 
-### Cómo Afilar  
-1. **Determine qué superficie necesita ser afilada.**  
-   | Herramienta          | Número de hojas a afilar | Lados de la hoja a afilar |  
-   |-----------------------|--------------------------|---------------------------|  
-   | Tijeras de podar     | Una                      | Uno                       |  
-   | Podadoras            | Una                      | Uno                       |  
-   | Tijeras de césped    | Una                      | Ambos                     |  
-   | Pala                 | Una                      | Uno                       |  
-   | Azada                | Una                      | Uno                       |  
-   | Picos, zapapicos, hachas | Una                  | Ambos                     |  
-   | Horca de heno        | Muchas                   | Cada diente afilado a un punto romo |  
+- **Lima lisa de 6”** (para hojas pequeñas, por ejemplo, podadoras de mano), plana de un lado, curva del otro
+- **Lima de taller de 8” a 10”** (para hojas grandes, por ejemplo, palas, tijeras para ramas), plana de un lado, curva del otro
+- **Piedra de diamante o cerámica** (opcional – para acero más duro en podadoras de alta calidad)
+- **Cepillo para limas** (para limpiar las limas)
+- **Aceite ligero para máquinas** (por ejemplo, Aceite 3-en-1) para lubricar las articulaciones y cubrir superficies de metal para protegerlas del óxido
+- **Trapos de taller** (2 o más secos, 1 aceitado)
+- **Cepillo de alambre y lija de grano 400 a 600** (para remover óxido)
+- **Tornillo de banco** para asegurar la herramienta
 
-2. **Limpie las herramientas**  
-   Quite la tierra y resina para limpiar la superficie de cada herramienta, realinee los dientes de las horcas y revise las limas para detectar materiales atrapados entre los dientes. Si los encuentra, limpie la lima con el cepillo, pasándolo en línea con los dientes. Para una lima de doble corte, pase el cepillo en línea con cada ángulo. NO use jabón ni agua en la lima.  
+> **Nota:** Si tu lima tiene una espiga expuesta (un extremo puntiagudo donde la sostienes al usarla), compra también un mango para la lima. **NUNCA** uses una lima con la espiga expuesta – podrías sufrir una lesión grave. Algunas limas ya tienen un mango ancho en vez de espiga. Para esas limas, no es necesario el mango.
 
-3. **Use un tornillo de banco para fijar la herramienta**  
-   Coloque su herramienta en el tornillo de banco en la parte más plana de la base de la hoja. Si aprieta el tornillo en el lugar equivocado, puede doblar su herramienta de poda.  
+### Cómo Afilar
 
-4. **Establezca el ángulo de afilado**  
-   Se desea un ángulo de afilado de 20° a 25°. ¿Cómo determinar esto? Sostenga su lima cruzada sobre la hoja de forma perpendicular. Eso hará un ángulo de 90 grados. Ahora gire la lima hacia abajo la mitad de la distancia hasta la hoja. Eso es 45 grados. Ahora gírela nuevamente la mitad de la distancia restante. Esto lo coloca en aproximadamente 22.5 grados, lo que le permite comenzar a afilar.  
+#### 1. Determina Qué Superficie Necesita Afilarse
 
-5. **Comience a afilar**  
-   Cada pasada de la lima debe correr paralela a la hoja y recorrer toda la longitud de la hoja. Aplique presión uniforme desde la punta hasta la base y solo en la pasada hacia adelante. A medida que lime, la hoja se volverá brillante. Esto es el bisel. Si está sosteniendo la lima correctamente, esta parte brillante debe tener un ancho uniforme a lo largo de toda la hoja. A medida que el borde se afila, aparecerán rebabas en la parte trasera de la hoja. Para eliminarlas, sostenga la lima plana contra la hoja y pase la lima hacia la punta.  
+| Herramienta             | Número de Hojas a Afilar | Lados de la Hoja a Afilar             |
+|-------------------------|--------------------------|---------------------------------------|
+| Podadora de mano        | Una                      | Una                                   |
+| Tijera para ramas       | Una                      | Una                                   |
+| Tijera para pasto       | Una                      | Ambas                                 |
+| Pala                    | Una                      | Una                                   |
+| Azadón                  | Una                      | Una                                   |
+| Picos, zapapicos, hacha | Una                      | Ambas                                 |
+| Horca para heno         | Varias                   | Cada diente afilado en punta roma     |
 
-   En podadoras desajustadas, notará metal brillante en la base de la hoja de yunque, lo que indica que la hoja de corte está cortando demasiado ajustada o incluso dentro del yunque. Reajuste las hojas inmediatamente.  
+#### 2. Limpia las Herramientas
 
-6. **Agregue los toques finales**  
-   Para hojas de metal duro, use una piedra de afilar tipo carborundo mediana como paso final en su proceso de afilado. Si tiene hojas de acero duro como Felco, ARS u otras, también puede terminar de afilarlas con una piedra de diamante fina o una cerámica ultra fina. Este paso solo toma una o dos pasadas.  
+Remueve la tierra y resina para limpiar la superficie de cada herramienta, realinea los dientes de las horcas y revisa si la lima tiene materiales atascados entre los dientes. Si encuentras algo, limpia la lima con el cepillo pasándolo en la misma dirección de los dientes. Para una lima de doble corte, pasa el cepillo siguiendo cada ángulo. **NO uses** jabón ni agua en una lima.
 
-### Precauciones  
-- Proteja sus ojos con gafas de seguridad durante el afilado.  
-- Si tiene una podadora Hickok, el fabricante recomienda usar una piedra de afilar de grado medio o fino de carborundo, diamante o cerámica. Cualquier hoja de filo hueco debe ser afilada con una de estas herramientas y no con una lima.  
-- Las piedras cerámicas triangulares son excelentes para retocar las hojas de tijeras de mejor acero como Felco y ARS cuando no puede desarmar la herramienta.  
+#### 3. Usa un Tornillo de Banco para Sostener la Herramienta
 
-### Publicaciones de Extensión de OSU  
-- Herramientas Prácticas para el Jardinero de Vegetales  
-  [http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)  
-- Cuide Bien las Herramientas de Jardín que Trabajan Duro  
-  [http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)  
-- Afile sus Herramientas de Jardín  
-  [http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)  
+Coloca tu herramienta en el tornillo de banco sobre la parte más plana de la base de la hoja. Si aprietas el tornillo en el lugar equivocado, puedes doblar la herramienta de poda.
 
-### Consejos de Maestros Jardineros™  
-- Llame a la Línea de Ayuda de Horticultura Doméstica:  
-  - 503-655-8631 (Condado de Clackamas)  
-  - 503-821-1150 (Condado de Washington)  
-  - 503-445-4608 (Condado de Multnomah)  
-- Para folletos y horarios de clases de 10-Minute University™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+#### 4. Establece el Ángulo de Afilar
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales en base a raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalias o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)  
+Se recomienda un ángulo de 20° a 25°. Para determinarlo:
+
+- Sostén la lima sobre la hoja, perpendicular a ella. Esto crea un ángulo de 90 grados.
+- Gira la lima hacia abajo hasta la mitad hacia la hoja. Ahora tienes un ángulo de 45 grados.
+- Gírala otra vez a la mitad. Así obtendrás un ángulo de aproximadamente 22.5 grados, ideal para afilar.
+
+#### 5. Comienza a Afilar
+
+- Cada pasada de la lima debe ir paralela a la hoja y cubrir toda la longitud de la hoja.
+- Aplica presión pareja desde la punta hasta la base y solo en la pasada hacia adelante.
+- Al limar, la hoja se volverá brillante. Eso es el bisel. Si sostienes bien la lima, esa parte brillante debe tener el mismo ancho a lo largo de toda la hoja.
+- Al afilar el filo, se formarán rebabas en el reverso de la hoja. Para quitarlas, pon la lima plana sobre la hoja y deslízala hacia la punta.
+
+> **Nota:** Si tienes tijeras para ramas desajustadas, notarás metal brillante en la base de la hoja de yunque, lo que indica que la hoja de corte está rozando demasiado o entrando en el yunque. Ajusta las hojas de inmediato.
+
+#### 6. Da los Toques Finales
+
+Para hojas de metal duro, usa una piedra de afilar carborundum de grano medio como paso final. Si tienes hojas de acero duro como Felco o ARS, puedes terminar de afilarlas con una piedra de diamante fina o una cerámica ultra fina. Este paso toma solo una o dos pasadas.
+
+### Precauciones
+
+- Protege tus ojos con lentes de seguridad al afilar.
+- Si tienes una tijera para ramas Hickok, el fabricante recomienda usar una piedra de afilar carborundum de grano medio o fino, piedra de diamante o cerámica. Toda hoja cóncava debe afilarse con una de estas herramientas y no con lima.
+- Las piedras cerámicas triangulares son excelentes para dar retoques a las hojas de podadoras de acero de mejor calidad como Felco y ARS cuando no puedes desarmar la herramienta.
+
+### Recursos Adicionales
+
+- [Publicaciones de Extensión de OSU](https://catalog.extension.oregonstate.edu)
+- [Herramientas Prácticas para el Jardinero de Hortalizas](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
+- [Cuida Bien Tus Herramientas de Jardín](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
+- [Afilando Tus Herramientas de Jardín](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
+
+#### Consejos de Maestro Jardinero™ · Llama a la Línea de Ayuda de Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluyendo expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa en derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---

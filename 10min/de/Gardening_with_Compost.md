@@ -1,113 +1,148 @@
-# 10-Minute University™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Gartenarbeit mit Kompost  
-Kompost ist ein hervorragender Mulch, wenn er auf die Bodenoberfläche aufgebracht wird. Er dient als Dünger und Bodenverbesserer, wenn er in den Boden eingearbeitet wird. Mit den Schritten in diesem Handzettel kann ein Hobbygärtner Grasschnitt, Blätter und andere Gartenabfälle in Kompost für den Hausgebrauch verwandeln.  
+# Gärtnern mit Kompost
 
-## Rezept für Erfolg  
-Ihr Komposthaufen ist eine lebendige Gemeinschaft von Mikroorganismen (Bakterien, Pilze, Protozoen) und anderen (Hundertfüßer, Tausendfüßer, Käfer und Würmer), die Gartenabfälle „verarbeiten“. Um wesentliche Nährstoffe für die Mikroorganismen bereitzustellen, mischen Sie zwei Teile kohlenstoffreiche („braune“) Materialien mit einem Teil stickstoffreiche („grüne“) Materialien, während Sie Ihren Haufen aufbauen. Ein Haufen mit diesen Proportionen von Kohlenstoff zu Stickstoff fördert große Populationen von Mikroorganismen und produziert schnell Kompost. Andere Mischungsverhältnisse von braun zu grün ergeben ebenfalls guten Kompost, der jedoch langsamer zerfällt.  
+Kompost ist ein hervorragender Mulch, wenn er auf die Erde aufgebracht wird. Wird er in den Boden eingearbeitet, dient er als Dünger und Bodenverbesserer. Mit den Schritten in diesem Merkblatt können Hobbygärtner Grasschnitt, Laub und andere Gartenabfälle zu Kompost für den eigenen Gebrauch verwandeln.
 
-### Grün (ein Teil)  
-- Frischer Grasschnitt  
-- Grüne Blätter  
-- Pflanzenstängel  
-- Heckenschnitt  
-- Einjährige Unkräuter ohne Samenstände  
-- Gemüse- und Obstabfälle  
-- Kaffeefilter und Teebeutel  
-- Alte Blumenerde  
+---
 
-### Braun (zwei Teile)  
-- Äste  
-- Getrocknetes Gras und Blätter  
-- Geschredderte Zeitung  
-- Stroh  
-- Holzspäne  
+## Rezept für den Erfolg
 
-**Nicht kompostieren:**  
-- Kranke Pflanzen  
-- Unkräuter mit Samenständen  
-- Invasive Unkräuter wie Quecke und Winde  
-- Wurzeln von mehrjährigen Unkräutern  
-- Tierkot  
-- Tote Tiere  
-- Brot und Getreide  
-- Fleisch- oder Fischreste  
-- Milchprodukte  
-- Fett, Speiseöl oder ölige Lebensmittel  
+Dein Komposthaufen ist eine lebendige Gemeinschaft von Mikroorganismen (Bakterien, Pilze, Protozoen) und anderen Lebewesen (Tausendfüßer, Hundertfüßer, Käfer und Würmer), die Gartenabfälle „verarbeiten“. Um den Mikroorganismen wichtige Nährstoffe zu geben, mische **zwei Teile kohlenstoffreiche („braune“) Materialien** mit **einem Teil stickstoffreicher („grüner“) Materialien**, wenn du den Haufen baust. Ein Haufen mit diesem Verhältnis von Kohlenstoff zu Stickstoff fördert viele Mikroorganismen und produziert schnell Kompost. Andere Mischverhältnisse bringen auch guten Kompost, aber der Abbau dauert länger.
 
-Fett, Fleisch und Milchprodukte riechen unangenehm und ziehen Schädlinge an. Tierkot kann Krankheiten verbreiten. Unkräuter können sich in anderen Gärten ausbreiten. Ziehen Sie die Verwendung eines Wurmkomposters für Ihre Küchenabfälle in Betracht.  
+### Grün (ein Teil)
 
-Um Probleme mit Herbiziden zu vermeiden: Verwenden Sie wenige oder keine Herbizide. Die warmen Temperaturen in einem Komposthaufen beschleunigen den Abbau von Herbiziden zu ungiftigen Verbindungen. Die Bindung mit organischem Material im Kompost inaktiviert ebenfalls Herbizide. Lassen Sie Ihren Kompost ein Jahr oder länger ruhen, bevor Sie ihn verwenden, um einen nahezu vollständigen Abbau der Herbizide zu gewährleisten.  
+- Frischer Grasschnitt
+- Grüne Blätter
+- Pflanzenstängel
+- Heckenschnitt
+- Einjährige Unkräuter ohne Samenstände
+- Gemüse- und Obstreste
+- Kaffeefilter und Teebeutel
+- Alte Blumenerde
 
-## Aufbau eines Komposthaufens  
+### Braun (zwei Teile)
 
-### Klein schneiden  
-Wenn die Mikroorganismen mehr Oberfläche zum Abbau haben, zerfallen die Materialien schneller. Schneiden Sie Ihre Gartenabfälle mit einer Machete oder verwenden Sie einen Häcksler oder Rasenmäher, um die Materialien zu zerkleinern.  
+- Zweige
+- Getrocknetes Gras und Laub
+- Geschredderte Zeitung
+- Stroh
+- Holzspäne
 
-### Größe zählt  
-Komposthaufen speichern die Wärme, die durch die Aktivität von Millionen Mikroorganismen erzeugt wird. Ein Komposthaufen mit den Maßen 1 Meter x 1 Meter x 1 Meter gilt als Mindestgröße für heißen, schnellen Kompostierungsprozess. Haufen, die breiter oder höher als 1,5 Meter sind, lassen nicht genügend Luft an die Mikroorganismen im Inneren.  
+---
 
-### Luft und Wasser  
-Die meisten Lebewesen benötigen eine bestimmte Menge an Wasser und Luft, um zu überleben. Mikroorganismen im Komposthaufen arbeiten am besten, wenn der Haufen so feucht ist wie ein ausgewrungener Schwamm und viele Luftkanäle hat. Extreme Sonneneinstrahlung oder Regen können das Gleichgewicht von Luft und Feuchtigkeit im Haufen negativ beeinflussen. Die Luft im Haufen wird schneller verbraucht als das Wasser, daher muss der Haufen regelmäßig „umgedreht“ oder durchmischt werden, um Luft hinzuzufügen, die hohe Temperaturen fördert und Gerüche kontrolliert.  
+### Materialien, die du vermeiden solltest
 
-### Zeit und Temperatur  
-Zersetzende Bakterien gedeihen bei Temperaturen zwischen 43 °C und 71 °C. Je heißer der Haufen, desto schneller arbeiten sie. Wenn Sie ein gutes Gleichgewicht von Kohlenstoff und Stickstoff erreichen, eine große Oberfläche innerhalb eines großen Volumens an Material bereitstellen und eine ausreichende Feuchtigkeit und Belüftung aufrechterhalten, steigt die Temperatur innerhalb weniger Tage an.  
+Kompostiere nicht:
 
-## Anwendungen für Kompost  
+- Kranke Pflanzen
+- Unkräuter mit Samenständen
+- Invasive Unkräuter (z. B. Quecke, Ackerwinde)
+- Wurzeln von mehrjährigen Unkräutern
+- Tierkot
+- Tote Tiere
+- Brot und Getreide
+- Fleisch oder Fischreste
+- Milchprodukte
+- Fett, Speiseöl oder ölige Speisen
 
-### Boden verbessern  
-Mischen Sie jedes Jahr vor dem Pflanzen 5 bis 12 Zentimeter Kompost in Gemüse- und Blumengärten.  
+Fett, Fleisch und Milchprodukte riechen schlecht und ziehen Schädlinge an. Tierkot kann Krankheiten übertragen. Unkräuter könnten sich in anderen Gärten ausbreiten. Für Küchenabfälle empfiehlt sich ein Wurmkomposter.
 
-### Blumenerde herstellen  
-Fügen Sie einen Teil Kompost zu zwei Teilen handelsüblicher Blumenerde hinzu oder stellen Sie Ihre eigene Mischung aus gleichen Teilen Kompost und Sand oder Perlit her.  
+### Hinweise zu Herbiziden
 
-### Rasen abdecken  
-Das Abdecken von Rasenflächen mit Kompost wird empfohlen, um eine langsame Freisetzung von Stickstoff zu gewährleisten. Mischen Sie fein gesiebten Kompost mit Sand und verteilen Sie ihn gleichmäßig über den Rasen. Die Verwendung von Kompost verbessert auch die Bodenstruktur und erhöht die Wasserhaltefähigkeit, wodurch Wasser gespart wird.  
+Um Probleme mit Herbiziden zu vermeiden:
 
-## Mögliche Probleme und Lösungen  
+- Verwende wenige oder keine Herbizide.
+- Warme Temperaturen im Komposthaufen beschleunigen den Abbau von Herbiziden zu ungiftigen Stoffen.
+- Das Binden an organische Substanz im Kompost macht Herbizide ebenfalls unwirksam.
+- Lasse deinen Kompost ein Jahr oder länger reifen, bevor du ihn nutzt, um den Abbau der Herbizide nahezu vollständig zu gewährleisten.
 
-### Komposthaufen erwärmt sich nicht  
+---
 
-**Mögliche Ursachen und Lösungen:**  
-- **Zu nass:** Kompostmaterialien sind durchnässt.  
-  - Haufen umdrehen, trockene, absorbierende Materialien wie Sägemehl, Stroh oder Holzspäne hinzufügen.  
-- **Zu trocken:**  
-  - Mit einem Schlauch bewässern; Haufen anfeuchten, ohne ihn zu sättigen.  
-- **Nicht genug Stickstoff:** Komposthaufen ist zu klein; der Haufen ist feucht, aber nur im Zentrum warm.  
-  - Haufen umdrehen, stickstoffreiche Materialien (Mist, Grasschnitt) hinzufügen. Zu einem neuen Haufen mischen; anfeuchten.  
-- **Material ist möglicherweise fertig kompostiert:**  
-  - Fertiger Kompost ist dunkel und krümelig mit erdigem Geruch.  
+## Einen Komposthaufen anlegen
 
-### Komposthaufen riecht nach faulen Eiern  
+### Klein schneiden
 
-**Mögliche Ursachen und Lösungen:**  
-- **Zu nass/nicht genug Sauerstoff:** Komposthaufen verfault statt zu zersetzen.  
-  - Haufen umdrehen, trockene, absorbierende Materialien wie Sägemehl, Stroh oder Holzspäne hinzufügen.  
+Wenn die Mikroorganismen mehr Oberfläche zum „Fressen“ haben, zersetzen sich die Materialien schneller. Zerkleinere deine Gartenabfälle mit einer Machete oder benutze einen Häcksler oder Rasenmäher.
 
-### Komposthaufen riecht nach Ammoniak  
+### Die richtige Größe
 
-**Mögliche Ursachen und Lösungen:**  
-- **Zu viel Stickstoff:** Überschüssiger Stickstoff wird in Form von Ammoniakgas in die Atmosphäre freigesetzt.  
-  - Haufen umdrehen, Sägemehl oder andere Kohlenstoffquellen hinzufügen. Ziel ist es, Stickstoff im Haufen zu halten.  
-- **Zu alkalisch:** Der Verlust von Stickstoff in Form von Ammoniak erhöht sich, wenn der Haufen sehr alkalisch ist (hoher pH-Wert).  
-  - Haufen umdrehen, saure Materialien wie Sägemehl, Eichenblätter, Gemüseabfälle hinzufügen.  
+Komposthaufen speichern Wärme, die durch die Aktivität von Millionen Mikroorganismen entsteht. Ein **Komposthaufen mit 90 x 90 x 90 cm (ca. 3 x 3 x 3 Fuß)** gilt als Mindestgröße für schnellen, heißen Kompost. Haufen, die breiter oder höher als **1,5 Meter (ca. 5 Fuß)** sind, lassen in der Mitte zu wenig Luft an die Mikroorganismen.
 
-### Schädlinge (Ratten, Waschbären, Insekten)  
+### Luft und Wasser
 
-**Mögliche Ursachen und Lösungen:**  
-- **Vorhandensein von Fleisch oder fetthaltigen Lebensmittelabfällen:**  
-  - Entfernen Sie Fleisch/fetthaltige Lebensmittel aus dem Haufen. Drehen Sie ihn, um die Temperatur zu erhöhen und das Kohlenstoff-Stickstoff-Verhältnis auszugleichen; verwenden Sie einen schädlingssicheren Komposter.  
+Fast alles Leben braucht eine bestimmte Menge Wasser und Luft. Mikroorganismen im Komposthaufen arbeiten am besten, wenn der Haufen so feucht ist wie ein ausgewrungener Schwamm und viele Luftkanäle hat. Zu viel Sonne oder Regen kann das Gleichgewicht von Luft und Feuchtigkeit stören. Die Luft wird im Haufen schneller verbraucht als das Wasser, deshalb sollte der Haufen **regelmäßig „umgesetzt“ oder gemischt** werden, damit genug Luft dazu kommt – das fördert hohe Temperaturen und verhindert Gerüche.
 
-## Ressourcen des OSU Extension Service  
-- [Gartenarbeit mit Kompost, Mulch und Reihenabdeckungen, EC 1247](https://catalog.extension.oregonstate.edu)  
+### Zeit und Temperatur
 
-### Master Gardener™ Beratung  
-- Rufen Sie die Home Horticulture Helpline an:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
+Zersetzende Bakterien gedeihen bei Temperaturen zwischen **43°C und 71°C (110°F - 160°F)**. Je wärmer der Haufen, desto schneller arbeiten sie. Mit dem richtigen Verhältnis von Kohlenstoff zu Stickstoff, viel Oberfläche und ausreichend Feuchtigkeit und Belüftung steigt die Temperatur im Haufen in einigen Tagen an.
 
-- Für Handzettel und Kurspläne der 10-Minute University™ besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+---
 
-Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem Sozialhilfeprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+## Verwendung von Kompost
+
+### Zur Bodenverbesserung
+
+Mische **5 bis 12 cm (zwei bis fünf Zoll)** Kompost jedes Jahr vor dem Pflanzen in Gemüse- und Blumenbeete.
+
+### Für Blumenerde
+
+Füge **einen Teil Kompost** zu **zwei Teilen gekaufter Blumenerde** hinzu oder mische gleiche Teile Kompost und Sand oder Perlite.
+
+### Zum Topdressing für den Rasen
+
+Das Ausbringen von Kompost auf der Rasenfläche sorgt für eine langsame Freisetzung von Stickstoff. Mische fein gesiebten Kompost mit Sand und streue ihn gleichmäßig über den Rasen. Kompost verbessert auch die Bodenqualität und das Wasserspeichervermögen, was Wasser spart.
+
+---
+
+## Mögliche Probleme und Lösungen
+
+### Der Komposthaufen wird nicht warm
+
+| **Mögliche Ursachen**                       | **Mögliche Lösungen**                                                                   |
+|---------------------------------------------|----------------------------------------------------------------------------------------|
+| Zu nass: Kompostmaterialien sind durchnässt. | Haufen umsetzen und trockenes, saugfähiges Material wie Sägemehl, Stroh oder Holzspäne hinzufügen. |
+| Zu trocken.                                | Mit dem Schlauch wässern; Haufen anfeuchten, aber nicht durchnässen.                   |
+| Zu wenig Stickstoff: Komposthaufen ist zu klein; der Haufen ist nur in der Mitte warm. | Haufen umsetzen und stickstoffreiches Material (Mist, Grasschnitt) hinzufügen. Neu mischen und anfeuchten. |
+| Das Material ist vielleicht schon kompostiert. | Fertiger Kompost ist dunkel, krümelig und riecht nach Erde.                           |
+
+---
+
+### Der Komposthaufen riecht nach faulen Eiern
+
+| **Mögliche Ursachen**                       | **Mögliche Lösungen**                                                                   |
+|---------------------------------------------|----------------------------------------------------------------------------------------|
+| Zu nass/zu wenig Sauerstoff: Der Haufen fault statt zu verrotten. | Haufen umsetzen, um Luft einzubringen, und trockenes, saugfähiges Material wie Sägemehl, Stroh oder Holzspäne hinzufügen. |
+
+---
+
+### Der Komposthaufen riecht nach Ammoniak
+
+| **Mögliche Ursachen**                       | **Mögliche Lösungen**                                                                   |
+|---------------------------------------------|----------------------------------------------------------------------------------------|
+| Zu viel Stickstoff: Überschüssiger Stickstoff entweicht als Ammoniakgas. | Haufen umsetzen und Sägemehl oder andere Kohlenstoffquellen hinzufügen. Ziel ist, den Stickstoff im Haufen zu halten. |
+| Zu alkalisch: Stickstoffverlust als Ammoniak steigt bei hohem pH-Wert. Zu viel Kalk macht den Haufen alkalisch. | Haufen umsetzen und saure Materialien wie Sägemehl, Eichenlaub oder Gemüseabfälle hinzufügen. |
+| Zu nass/zu wenig Luft.                      | Haufen umsetzen und trockenes, saugfähiges Material wie Sägemehl, Stroh oder Holzspäne hinzufügen. |
+
+---
+
+### Schädlinge (Ratten, Waschbären, Insekten)
+
+| **Mögliche Ursachen**                       | **Mögliche Lösungen**                                                                   |
+|---------------------------------------------|----------------------------------------------------------------------------------------|
+| Fleisch- oder fetthaltige Speisereste im Haufen. | Entferne Fleisch/fetthaltige Reste aus dem Haufen. Setze den Haufen um, um die Temperatur zu erhöhen und das Kohlenstoff-Stickstoff-Verhältnis auszugleichen; verwende einen tierfesten Komposter. |
+
+---
+
+## OSU Extension Service Ressourcen
+
+- [Gärtnern mit Kompost, Mulch und Abdeckungen, EC 1247](https://catalog.extension.oregonstate.edu)
+
+---
+
+#### Master Gardener™-Beratung · Anrufen bei der Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™ Merkblätter und Kursplan: Besuche [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien nach früheren Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

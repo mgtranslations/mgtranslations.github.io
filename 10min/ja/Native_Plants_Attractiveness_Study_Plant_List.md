@@ -1,137 +1,62 @@
-### 自生植物の魅力に関する研究 --- 植物リスト  
-オレゴン州立大学ガーデンエコロジーラボ  
-アーロン・アンダーソンとゲイル・ランゲロットによる研究  
-*2017年と2018年のフィールドシーズンの結果は以下の略語で示されます:  
-A – 2017年の総蜂数のトップアトラクター  
-B – 2017年の在来蜂のトップアトラクター  
-C – 2018年の総蜂数のトップアトラクター  
-D – 2018年の在来蜂のトップアトラクター  
-詳細と最新情報は、http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/ をご覧ください。
+#### 10分間大学™ · クラカマス郡マスターガーデナー協会 · OSUエクステンション マスターガーデナー™プログラムと協力・支援
 
-#### 植物種  普通名  結果*  ライフヒストリー  花の色  
-Acmispon (Lotus) parviflorus  
-- 一年草  
-- 白／ピンク  
+# 在来植物の魅力度調査
 
-Clarkia amoena  
-- Farewell-to-spring  
-- D  
-- 一年草  
-- ピンク  
+## 植物リスト
 
-Collinsia grandiflora  
-- Giant blue eyed Mary  
-- 一年草  
-- 青  
+アーロン・アンダーソンとゲイル・ランジェロット（OSUガーデンエコロジーラボ）による調査
 
-Gilia capitata  
-- Globe gilia  
-- A,B,C  
-- 一年草  
-- 青  
+*2017年と2018年のフィールドシーズンの結果は、以下のように略されています。  
+A - 2017年に全てのハチを最も多く引き寄せた植物  
+B - 2017年に在来ハチを最も多く引き寄せた植物  
+C - 2018年に全てのハチを最も多く引き寄せた植物  
+D - 2018年に在来ハチを最も多く引き寄せた植物。*
 
-Lupinus polycarpus  
-- Miniature lupine  
-- 一年草  
-- 紫／青  
-
-Madia elegans  
-- Common madia  
-- A,B  
-- 一年草  
-- 黄色  
-
-Nemophila menziesii  
-- Baby blue eyes  
-- 一年草  
-- 青／白  
-
-Eschscholzia californica  
-- California Poppy  
-- B,C,D  
-- 一年草  
-- オレンジ  
-
-Helianthus annuus  
-- Common sunflower  
-- 一年草  
-- 黄色  
-
-Phacelia heterophylla  
-- Varied-leaf phacelia  
-- C,D  
-- 一年草  
-- 白  
+詳細や最新情報は [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/) をご覧ください。
 
 ---
 
-#### 植物種  普通名  結果*  ライフヒストリー  花の色  
-Achillea millefolium  
-- Yarrow  
-- D  
-- 多年草  
-- 白  
+### 一年草
 
-Anaphalis margaritacea  
-- Pearly everlasting  
-- 多年草  
-- 白  
+| 学名                           | 一般名                  | 結果*   | 生活史      | 花の色        |
+| :----------------------------- | :---------------------- | :------ | :---------- | :------------ |
+| Acmispon (Lotus) parviflorus   |                         |         | 一年草      | 白/ピンク     |
+| Clarkia amoena                 | フェアウェル・トゥ・スプリング | D       | 一年草      | ピンク        |
+| Collinsia grandiflora          | ジャイアントブルーアイドメアリー |         | 一年草      | 青            |
+| Gilia capitata                 | グローブギリア          | A, B, C | 一年草      | 青            |
+| Lupinus polycarpus             | ミニチュアルピナス      |         | 一年草      | 紫/青         |
+| Madia elegans                  | コモンマディア          | A, B    | 一年草      | 黄色          |
+| Nemophila menziesii            | ベビーブルーアイズ      |         | 一年草      | 青/白         |
+| Eschscholzia californica       | カリフォルニアポピー    | B, C, D | 一年草      | オレンジ      |
+| Helianthus annuus              | コモンヒマワリ          |         | 一年草      | 黄色          |
+| Phacelia heterophylla          | バリエードリーフファセリア | C, D    | 一年草      | 白            |
 
-Asclepias speciosa  
-- Showy milkweed  
-- 多年草  
-- ピンク／白  
+---
 
-Aquilegia formosa  
-- Western red columbine  
-- 多年草  
-- 赤  
+### 多年草
 
-Aster subspicatum  
-- Douglas’ aster  
-- A,B,C,D  
-- 多年草  
-- 紫  
+| 学名                    | 一般名                | 結果*      | 生活史      | 花の色      |
+| :---------------------- | :-------------------- | :--------- | :---------- | :---------- |
+| Achillea millefolium    | ノコギリソウ          | D          | 多年草      | 白          |
+| Anaphalis margaritacea  | パーリーエバーラスティング |         | 多年草      | 白          |
+| Asclepias speciosa      | ショーイミルクウィード  |           | 多年草      | ピンク/白   |
+| Aquilegia formosa       | ウエスタンレッドコロンバイン |         | 多年草      | 赤          |
+| Aster subspicatum       | ダグラスアスター        | A, B, C, D| 多年草      | 紫          |
+| Camassia leichtlinii    | コモンカマス           |           | 多年草      | 紫/白       |
+| Eriophyllum lanatum     | オレゴンサンシャイン    |           | 多年草      | 黄色        |
+| Fragaria vesca          | ワイルドストロベリー    |           | 多年草      | 白          |
+| Iris tenax              | オレゴンアイリス        |           | 多年草      | 紫          |
+| Sedum oregonense        | クリームストーンクロップ |           | 多年草      | 黄色        |
+| Sidalcea virgata        | ローズチェッカーマロー   |           | 多年草      | ピンク      |
+| Sisyrinchium idahoense  | ブルーアイドグラス      |           | 多年草      | 青/紫       |
+| Solidago canadensis     | ゴールデンロッド        | A, B, C, D| 多年草      | 黄色        |
 
-Camassia leichtlinii  
-- Common camas  
-- 多年草  
-- 紫／白  
+---
 
-Eriophyllum lanatum  
-- Oregon sunshine  
-- 多年草  
-- 黄色  
+#### マスターガーデナー™アドバイス · ホーム園芸ヘルプライン：503-655-8631（クラカマス郡）· 503-821-1150（ワシントン郡）· 503-445-4608（マルトノマ郡）· その他の10分間大学™の資料やクラススケジュールは [www.cmastergardeners.org](https://www.cmastergardeners.org) をご覧ください。
 
-Fragaria vesca  
-- Wild strawberry  
-- 多年草  
-- 白  
+---
 
-Iris tenax  
-- Oregon iris  
-- 多年草  
-- 紫  
-
-Sedum oregonense  
-- Cream Stonecrop  
-- 多年草  
-- 黄色  
-
-Sidalcea virgata  
-- Rose Checkermallow  
-- 多年草  
-- ピンク  
-
-Sisyrinchium idahoense  
-- Blue-eyed grass  
-- 多年草  
-- 青／紫  
-
-Solidago canadensis  
-- Goldenrod  
-- A,B,C,D  
-- 多年草  
-- 黄色  
+##### オレゴン州立大学エクステンションサービス · オレゴン州立大学エクステンションサービスは、すべてのプログラム・サービス・活動・教材において、人種、肌の色、国籍、宗教、性別、性自認（性表現を含む）、性的指向、障害、年齢、婚姻状況、家族/親の状況、公的扶助プログラムからの収入、政治的信念、遺伝情報、退役軍人の地位、以前の公民権活動に対する報復や報復の禁止を理由とした差別を禁止しています。（すべての禁止事項がすべてのプログラムに適用されるわけではありません。）
 
 ---

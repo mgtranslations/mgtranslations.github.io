@@ -1,74 +1,100 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association ay nakikipagtulungan at sumusuporta sa OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
 
-## Pagpili ng Tamang Puno para sa Iyong Hardin  
+# Pagpili ng Tamang Puno para sa Iyong Hardin sa Bahay
 
-### Panimula  
-Ang mga puno ay nagbibigay ng maraming benepisyo — kagandahan, harang, privacy, lilim. Maaari rin nilang bawasan ang gastos sa pag-init at pagpapalamig at magdagdag ng halaga sa ari-arian. Ang mga puno ay tahanan at pagkain ng mga hayop, at nagbibigay ng benepisyong pangkalikasan sa pamamagitan ng pagsipsip ng carbon dioxide, pagpapalabas ng oxygen, at paghawak ng tubig sa kanilang ugat.  
+### Panimula
 
-### Paano Pumili ng Puno  
-Bago bumili ng puno, suriin ang posibleng lokasyon. Dahil ang mga puno ay tumatagal ng mahabang panahon, kinakailangan ang maingat na pagsusuri ng lugar. Siguraduhing ang lokasyon at ang puno ay magka-akma. Iwasan ang pagbili ng puno nang padalos-dalos!  
+Maraming benepisyo ang naibibigay ng mga puno—ganda, taguan, privacy, at lilim. Nakakatulong din itong pababain ang gastos sa pagpapainit at pagpapalamig at nagpapataas ng halaga ng ari-arian. Nagbibigay ang mga puno ng tahanan at pagkain sa mga hayop at nakakatulong sa kalikasan sa pamamagitan ng pagsipsip ng carbon dioxide, paglabas ng oxygen, at pagpigil ng tubig sa kanilang mga ugat.
 
-#### Posibleng Lokasyon  
-Gamitin ang checklist sa seksyon sa ibaba. Dahil karamihan sa mga urban na hardin ay may limitadong espasyo, magsagawa ng matapat na pagsusuri ng mga posibleng sagabal habang lumalaki ang puno upang maiwasan ang problema sa hinaharap.  
+### Paano Pumili ng Puno
 
-#### Mga Benepisyong Ninanais  
-Gumawa ng listahan ng mga benepisyong nais mong makuha mula sa puno — lilim, kagandahan, kulay ng dahon, prutas, bulaklak, privacy enclosure, at halaga para sa mga hayop. Dahil walang punong nagbibigay ng lahat ng ito, makakatulong ang pag-isip ng mga kompromiso at pag-alam sa iyong mga prayoridad.  
+Bago bumili ng puno, suriin ang mga posibleng lugar na pagtataniman. Dahil matagal ang buhay ng mga puno, kailangan ng masusing pag-aaral ng lugar. Siguraduhin na ang iyong lugar at ang puno ay tugma. Iwasan ang padalus-dalos na pagbili!
 
-#### Pangkalahatang Mga Pagsasaalang-alang  
-Ilagay ang deciduous na puno sa timog/kanluran upang magbigay ng lilim mula sa araw sa tag-init; gumamit ng conifers upang harangan ang hangin sa taglamig. Kapag pumipili ng puno para sa kagandahan ng dahon, bulaklak, at prutas, ilagay ito kung saan ang mga nalalagas na dahon, bulaklak, at prutas ay hindi magiging sagabal.  
+#### Posibleng Lugar
 
-### Checklist para sa Paglalagay ng Puno  
+Gamitin ang checklist sa ibaba. Dahil karamihan sa mga hardin sa lungsod ay maliit ang espasyo, maging tapat sa pagsuri ng mga posibleng sagabal habang lumalaki ang puno para maiwasan ang problema sa hinaharap.
 
-#### Available na Espasyo  
-Tantiyahin ang espasyo sa itaas at sa ilalim ng lupa na maaaring magamit para sa puno habang lumalaki ito. Konsultahin ang maraming mapagkukunan para sa taas at lapad ng korona ng puno sa pagtanda nito. Tandaan na nagbabago ang hugis ng puno sa pagtanda. Ang laki ng puno ay maaaring mag-iba depende sa lupa at lokasyon. Isang magandang mapagkukunan ay ang Oregon State University landscape plant database [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu).  
+#### Mga Benepisyong Ninanais
 
-#### Direksyon ng Hangin at Pagsikat ng Araw  
-Ang mga conifer o broadleaf evergreen trees ay maaaring harangan ang hangin at araw sa tag-init. Kung gusto mo ng puno na nagbibigay ng lilim sa tag-init ngunit nagpapapasok ng sikat ng araw sa taglamig, pumili ng deciduous na puno. Tandaan na hindi lahat ng conifer ay evergreen — ang deciduous conifers ay kasama ang larch, bald cypress, dawn redwood. Tandaan din na hindi lahat ng broadleaf na puno ay deciduous — ang evergreen broadleaf trees ay kasama ang Southern magnolia, holly, strawberry tree.  
+Gumawa ng listahan ng mga benepisyong gusto mo mula sa puno—lilim, ganda, kulay ng dahon, bunga, bulaklak, privacy, at halaga sa mga hayop ay karaniwang dahilan. Dahil walang punong makakapagbigay ng lahat, mainam na pag-isipan ang mga kailangang palitan at alamin ang iyong prayoridad.
 
-#### Posibleng Sagabal  
-- **Sa ibang halaman** – Isaalang-alang ang hinaharap na abot ng ugat at sanga – isipin kung ano ang itsura ng puno sa loob ng 20 taon. Ang mga korona sa pagtanda ay maaaring maging bilog, hugis plorera, o baligtad na hugis luha; isipin kung paano nito maaapektuhan ang ibang halaman. Ang mga columnar at fastigiate na puno ay mas angkop para sa makitid na espasyo habang ang mga weeping shapes ay bumubuo ng enclosure. Ang ugat ng mga matandang puno ay maaaring umabot lampas sa dripline.  
-- **Sa mga utility wires at istruktura** – Panatilihing hindi bababa sa 3 talampakan mula sa pavement, 15 talampakan mula sa mga gusali at iba pang puno, at kung ang puno ay tataas ng higit sa 30 talampakan, 25 talampakan mula sa overhead electrical wires.  
+#### Mga Pangkalahatang Dapat Isaalang-alang
 
-Ang matataas na puno na umaabot sa 60 talampakan o higit pa ay dapat na 35 talampakan ang layo mula sa bahay para sa tamang pag-unlad ng ugat.  
+- Ilagay ang mga punong nalalagas ang dahon sa timog o kanluran para harangan ang init ng araw tuwing tag-init; gamitin ang mga koniper para harangan ang malamig na hangin tuwing taglamig.
+- Kapag pipili ng puno para sa ganda ng dahon, bulaklak, o bunga, ilagay ito sa lugar na hindi magiging abala ang mga nalalaglag na dahon, talulot, o bunga.
 
-#### Lupa at Tubig  
-Ang mga ugat ay nangangailangan ng hangin at tubig. Ideyal na ang lupa ay may magandang istruktura at nagpapahintulot sa daloy ng hangin at tubig. Ang ugat ng matandang puno ay umaabot nang mas malawak kaysa sa korona nito; ilagay ito sa lokasyong hindi napapalibutan ng impermeable pavement.  
+### Checklist sa Paglalagay ng Puno
 
-#### Mga Benepisyong Ninanais  
-Nagbibigay ng kagandahan ang mga puno sa pamamagitan ng kanilang dahon, bulaklak, prutas, at balat. Ang ilan sa mga benepisyong ito ay may kasamang hindi kaaya-ayang basura. Ilagay ang puno kung saan ang mga magagandang katangian ay masisiyahan habang ang basura ay hindi magiging sagabal.  
+#### Espasyong Magagamit
 
-### Mga Puno para sa Espesyal na Sitwasyon  
-Ang publikasyon ng Oregon State University Extension na *Selecting, Planting, and Caring for a New Tree* (EC1438) ay nagmumungkahi ng mga puno para sa partikular na kondisyon. Para sa libreng download, bisitahin ang [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu).  
-Ang 10-Minute University™ ay nagbibigay ng *Good Trees for the Home Garden* na may higit pang mungkahi mula sa mga eksperto sa hortikultura sa rehiyon. Para sa libreng download, bisitahin ang [https://www.cmastergardeners.org/10-minute-university/](https://www.cmastergardeners.org/10-minute-university/).  
+Tantyahin ang espasyo sa itaas at ilalim ng lupa na maaaring gamitin ng puno habang lumalaki. Tingnan ang iba’t ibang sanggunian para sa taas at lawak ng punong gusto mo. Tandaan na maaaring mag-iba ang hugis ng puno habang tumatanda. Nagkakaiba rin ang laki depende sa lupa at lugar. Isang magandang sanggunian ay ang [Oregon State University landscape plant database](https://landscapeplants.oregonstate.edu/).
 
-#### Mahirap na Lugar (mahinang lupa, urban na kondisyon, pagbabago-bago ng temperatura)  
-- **Goldenrain Tree** *(Koelreuteria paniculata)* Crown spread 30’, zone 5–9  
-- **Thornless Cockspur Hawthorn** *(Crataegus crusgalli inermis)* Crown spread 25’, zone 4–8  
+#### Direksyon ng Hangin at Sikat ng Araw
 
-#### Sa ilalim ng Utility Wires  
-- **Glorybower** *(Clerodendrum trichotomum)* Crown spread 25’, zone 6–8  
-- **Kousa Dogwood** *(Cornus kousa)* Crown spread 25’, zone 5–8  
-- **Vine Maple** *(Acer circinatum)* Crown spread 20’, zone 4–8  
+Ang mga koniper o evergreen na may malalapad na dahon ay maaaring humarang ng hangin at araw tuwing tag-init. Kung gusto mo ng puno na nagbibigay-lilim tuwing tag-init pero nagpapapasok ng araw tuwing taglamig, pumili ng puno na nalalagas ang dahon.
 
-#### Pinagmulan ng Lilim  
-- **Red Maple** *(Acer rubrum)* Crown spread 40’, zone 4–8  
-- **Katsura Tree** *(Cercidiphyllum japonicum)* Crown spread 40’, zone 5–8  
+- Hindi lahat ng koniper ay evergreen—kabilang sa nalalagas ang dahon ay larch, bald cypress, at dawn redwood.
+- Hindi lahat ng malalapad ang dahon ay nalalagas—halimbawa ng evergreen broadleaf ay Southern magnolia, holly, at strawberry tree.
 
-#### Mababa ang Pangangailangan sa Tubig Kapag Na-establish  
-- **Hackberry** *(Celtis occidentalis)* Crown spread 35’, zone 6–9  
-- **Yellowood** *(Cladrastis kentukea)* Crown spread 35–45’, zone 4–8  
-- **Turkish Filbert** *(Corylus colurna)* Crown spread 25’, zone 4–8  
-- **Eastern Redbud** *(Cercis canadensis)* Crown spread 20’, zone 4–8  
+#### Mga Posibleng Sagabal
 
-### Para sa Karagdagang Impormasyon  
-- *Trees and Shrubs for Fall and Winter Bloom* EM9277 [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- *Choosing the Right Tree*, International Society of Arboriculture [https://www.treesaregood.org/treeowner/choosingtherighttree](https://www.treesaregood.org/treeowner/choosingtherighttree)  
+- **Sa ibang halaman**: Isipin ang magiging lawak ng mga ugat at sanga—imahinasyon kung ano ang itsura ng puno matapos ang 20 taon. Ang mga mature na puno ay maaaring maging bilog, hugis plorera, o hugis patak ng luha; isipin kung paano nito maaapektuhan ang ibang halaman. Mas bagay ang columnar at fastigiate na puno para sa makikitid na espasyo, habang ang mga weeping na puno ay nakakabuo ng taguan. Karaniwan, ang mga ugat ng matandang puno ay umaabot lampas sa lawak ng mga sanga.
+- **Sa mga kable at gusali**: Ilayo ang mga puno ng hindi bababa sa 3 talampakan mula sa semento, 15 talampakan mula sa mga gusali at iba pang puno, at kung ang puno ay lalampas ng 30 talampakan ang taas, ilagay ito ng 25 talampakan mula sa mga kable ng kuryente.
 
-### Para sa Master Gardener™ Advice  
-Tumawag sa Home Horticulture Helpline:  
-- 503-655-8631 (Clackamas County)  
-- 503-821-1150 (Washington County)  
-- 503-445-4608 (Multnomah County)  
+Ang matatangkad na punong umaabot ng 60 talampakan o higit pa ay dapat ilagay ng 35 talampakan mula sa bahay para sa tamang paglago ng ugat.
 
-Ang Oregon State University Extension Service ay nagbabawal sa diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang ekspresyon ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang may asawa, katayuan ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang politikal, impormasyon ng genetiko, katayuang beterano, pagganti o pagparusa para sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay nalalapat sa lahat ng programa.)
+#### Lupa at Tubig
+
+Kailangan ng ugat ang hangin at tubig. Mainam na ang lupa ay may magandang istraktura at madaling pasukan ng hangin at tubig. Ang mga ugat ng matandang puno ay sumasakop ng mas malawak kaysa sa lawak ng sanga; ilagay ito sa lugar na hindi napapaligiran ng semento.
+
+#### Mga Benepisyong Ninanais
+
+Ang puno ay nagbibigay ng ganda sa pamamagitan ng dahon, bulaklak, bunga, at balat. Kasama sa mga benepisyong ito ang mga nalalaglag na basura. Ilagay ang puno sa lugar na madaling makita ang magagandang bahagi nito pero hindi abala ang mga nalalaglag.
+
+### Mga Puno para sa Espesyal na Sitwasyon
+
+Ang publikasyon ng Oregon State University Extension na *Selecting, Planting, and Caring for a New Tree* (EC1438) ay nagbibigay ng mga suhestiyon ng puno para sa partikular na kalagayan. Para sa libreng kopya, bisitahin ang [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu).
+
+Nag-aalok ang 10-Minute University™ ng *Good Trees for the Home Garden* na may dagdag na suhestiyon mula sa mga eksperto sa paghahalaman sa rehiyon. Para sa libreng kopya, bisitahin ang [https://www.cmastergardeners.org/10-minute-university/](https://www.cmastergardeners.org/10-minute-university/).
+
+#### Mahihirap na Lugar (mahirap na lupa, kondisyon sa lungsod, pabago-bagong temperatura)
+
+- **Goldenrain Tree** (*Koelreuteria paniculata*): Lawak ng sanga 30’, zone 5–9
+- **Thornless Cockspur Hawthorn** (*Crataegus crusgalli inermis*): Lawak ng sanga 25’, zone 4–8
+
+#### Sa Ilalim ng Mga Kable
+
+- **Glorybower** (*Clerodendrum trichotomum*): Lawak ng sanga 25’, zone 6–8
+- **Kousa Dogwood** (*Cornus kousa*): Lawak ng sanga 25’, zone 5–8
+- **Vine Maple** (*Acer circinatum*): Lawak ng sanga 20’, zone 4–8
+
+#### Pinagmumulan ng Lilim
+
+- **Red Maple** (*Acer rubrum*): Lawak ng sanga 40’, zone 4–8
+- **Katsura Tree** (*Cercidiphyllum japonicum*): Lawak ng sanga 40’, zone 5–8
+
+#### Kaunting Tubig Pagkatapos Tumubo
+
+- **Hackberry** (*Celtis occidentalis*): Lawak ng sanga 35’, zone 6–9
+- **Yellowwood** (*Cladrastis kentukea*): Lawak ng sanga 35–45’, zone 4–8
+- **Turkish Filbert** (*Corylus colurna*): Lawak ng sanga 25’, zone 4–8
+- **Eastern Redbud** (*Cercis canadensis*): Lawak ng sanga 20’, zone 4–8
+
+### Para sa Karagdagang Impormasyon
+
+- *Trees and Shrubs for Fall and Winter Bloom* (EM9277): [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+- *Choosing the Right Tree*, International Society of Arboriculture: [https://www.treesaregood.org/treeowner/choosingtherighttree](https://www.treesaregood.org/treeowner/choosingtherighttree)
+
+#### Master Gardener™ na Payo
+
+- **Tumawag sa Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+
+- Para sa iba pang handout ng 10-Minute University™ at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuan ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang politikal, genetic na impormasyon, katayuang beterano, pagganti, o paghihiganti dahil sa dating aktibidad ng karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

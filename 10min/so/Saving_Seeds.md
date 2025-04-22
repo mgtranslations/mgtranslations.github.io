@@ -1,62 +1,100 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Sare ee Clackamas County oo kaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beerta ee Master Gardener ee Clackamas County oo kaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
+# Kaydinta Abuurka
 
-## Badbaadinta Abuurka
-
-### Maxay Tahay Sababta Loo Ururiyo Abuurka?
-Badbaadinta abuurka waxay baraysaa isku filnaansho. Waxay sidoo kale noo ogolaaneysaa inaan doorano dhadhanka iyo u habeynta ciidda deegaanka, cimilada, iyo cayayaanka.
+### Maxaa Looga Ururiyaa Abuurka?
+Kaydinta abuurku waxay baraysaa qofka inuu isku filnaado. Waxay sidoo kale naga caawisaa inaan dooranno dhadhanka iyo la-qabsiga ciidda deegaanka, cimilada, iyo cayayaanka.
 
 ### Noocyada Dhirta
-Ururinta abuurka dhirta sannadlaha ah waa tan ugu fudud. Dhirta sida yaanyada, digirta, lawska, iyo saladhku waxay dhamaystiraan wareegga nolol maalmeedkooda hal xilli koritaanka waxayna yihiin kuwa is-pollen sameeya. Dhirta sannadlaha ah ee laamo sida qajaar, squash, qare, iyo bocorka ayaa ka adag in la badbaadiyo sababo la xiriira is-dhexgalka pollen-ka.
 
-Dhirta laba-sanno ah sida karootada, kawsariga, iyo Swiss chard waxay nool yihiin laba sano waxayna soo saaraan abuurka sanadka labaad. Ururinta abuurka waxay noqon kartaa mid adag sababo la xiriira baahiyaha jiilaalka iyo is-dhexgalka pollen-ka.
+- **Sanadle**: Ururinta abuurka dhirta sanadla ah waa tan ugu sahlan. Dhirta sida yaanyada, digirta, digiraha, iyo ansalaatada ayaa dhammaysta wareegooda nolosha hal xilli oo kaliya waxayna is-qurxiyaan. Dhirta laanlaanta sanadla ah sida qajaar, kabo, xabxab, iyo bocor way adag tahay in abuurkooda la keydiyo sababtoo ah is-qurxin isku dhafan.
+- **Laba Sano**: Dhirta sida karootada, basbaaska, iyo Swiss chard waxay noolaadaan laba sano waxayna dhalaan abuur sannadkooda labaad. Ururinta abuurka way adkaan kartaa sababtoo ah baahida jiilaalka iyo is-qurxinta isku dhafan.
+- **Dheer-nool**: Dhirtaan waxay noolaadaan saddex sano ama ka badan, badanaa waxaa lagu tarmaa goyn ama qaybin, ma ahan abuur.
 
-Dhirta waarta waxay noolaan karaan 3 sano ama ka badan waxaana badanaa lagu tarmaa goyn ama qaybin halkii laga isticmaali lahaa abuur.
+### Sida Is-Qurxinta U Dhacdo
 
-### Sida Pollen Loogu Gudbo
-Waxaa jira 3 hab oo pollen looga gudbo: dabayl, cayayaanka, iyo bini'aadamka.  
-Pollen furan waxay leedahay awood ay ku dhexgalto dhirta kale oo ku jirta isla qoyska ama nooca. Dhirta kooxdan waxay noqon karaan kuwa is-pollen sameeya, taas oo ka dhigaysa ururinta abuurka mid fudud, ama kuwa pollen-ka is-dhexgalka sameeya, taas oo ka dhigaysa ururinta abuurka mid adag.
+Waxaa jira saddex hab oo is-qurxineed: dabaysha, cayayaanka, iyo dadka.
 
-Is-pollen sameynta waxay tilmaamaysaa dhirta leh ubaxyo leh labada qayb ee dhedig iyo lab. Kuwaas waxaa ka mid ah yaanyada, digirta, saladhka, iyo eggplant-ka. Dhanka kale, qajaarka iyo squash-ka waxay u baahan yihiin is-dhexgalka pollen-ka halkaas oo dabayl ama cayayaan ay u gudbiyaan pollen-ka ubaxyada labka si ay u pollinate ubaxyada dhediga ee isla dhirta ama dhirta kale.
+- **Is-qurxin Furan**: Waa awoodda dhirtu iskula is-qurxiso dhir kale oo la mid ah qoyska ama nooca. Qaar ka mid ah dhirtaas way is-qurxi karaan, taasoo sahlaysa ururinta abuurka, ama way is-qurxin karaan isku dhafan taasoo ka dhigaysa ururinta abuurka mid adag.
+- **Is-qurxin Iskeed ah**: Waxaa loola jeedaa dhirta leh ubaxyo leh lab iyo dheddig labadaba. Kuwaas waxaa ka mid ah yaanyo, digir, ansalaato, iyo eggplant.
+- **Is-qurxin Isku Dhafan**: Dhirta sida qajaarka iyo kabo waxay u baahan yihiin dabaysha ama cayayaan si ay ubaxa lab ka keenaan si loo beero ubaxa dheddig ee dhirta kale ama isla dhirtaas.
 
-Beeraleyda guryaha ee rabta in ay ururiyaan abuurka dhirta pollen-ka is-dhexgal sameeya waxay ku tiirsan yihiin pollination gacanta lagu sameeyo. Si aad u bilowdo, dooro ubaxyada dhediga (waxay leeyihiin miro yar oo ka hooseeya). Xidid ubaxa mid kasta adoo isticmaalaya suunka caagga habeenkii ka hor inta uusan furmin. Subaxnimadii, u gudbi pollen-ka ubaxa labka ubaxa dhediga, ka dibna si degdeg ah xidh ubaxa dhediga adoo isticmaalaya suunka caagga. Ka saar suunka caagga marka miro ay bilaabato inay korodho.
+#### Is-Qurxin Gacan-ku-samays ah oo loogu talagalay Beeraleyda Guryaha
 
-## Ururinta iyo Badbaadinta Abuurka
-Dooro dhir caafimaad qabta oo aan cudur lahayn si loo badbaadiyo abuurka. Ka fiirso astaamaha sida: dhadhanka, quruxda, cabbirka, wax-soosaarka, ubax wakhti hore ama dambe, taariikhda bislaanshaha, habka pollen-ka, iyo ururinta. Ururi abuurka dhowr dhir iyo miro wakhtiga xilliga goosashada. Ururi abuurka miro si buuxda u bislaaday, laakiin aan ahayn mid qudhuntay. Tusaale ahaan, qajaarka heerka la cuni karo ma laha abuur bisil. Bislaanshaha wuxuu dhaca jiilaalka kowaad, sida ay ku dhacdo bocorka iyo squash-ka jiilaalka. Ururi abuurka ubaxa marka ubaxyadu dhamaadaan oo qalalaan, ay leeyihiin qaybo qalalan oo buufin leh ama qaybaha abuurka qalalan oo bilaabaya inay kala furmaan.
+Si aad abuur uga ururiso dhirta is-qurxinta isku dhafan:
 
-### Habka Qalalan:
-Dhirta leh abuurka qalalan waxaa ka mid ah digirta, lawska, karootada, basbaaska, iyo inta badan ubaxyada iyo geedka dhirta. Kuwani waa ugu fiican marka laga tago dhirta ilaa abuurka ay qalalaan. Marka loo baahdo, jiid dhirta oo dhan oo ku dul-dhaji ama gooy qaybaha abuurka oo dhamaystir qalajinta meel hadh ah. Isticmaal bac si loo qabto abuurka soo baxa. Ha isticmaalin kuleyl si aad u qalajiso abuurka; waxay dhaawacdaa.
+1. Dooro ubaxa dheddig (waxay leeyihiin miro yar oo salka uga yaal).
+2. Xidho mid walba habeenkii ka hor intaysan furmin adigoo xadhig jeexan isticmaalaya.
+3. Subaxdii, u gudbi manka ubaxa lab dhanka ubaxa dheddig.
+4. Isla markiiba xidho ubaxa dheddig adigoo xadhig jeexan isticmaalaya.
+5. Ka saar xadhigga marka miraha ay bilaabaan inay koraan.
 
-- Basbaaska waa in ay noqdaan casaan/huruud ah oo laalaaday si loo ururiyo abuurka. Gacmo gashi u xir basbaaska kulul!
+### Ururinta iyo Kaydinta Abuurka
 
-### Habka Qoyaanka:
-Dhirta leh miro jilicsan sida yaanyada waxaa ugu fiican in loo maro habka fermentation-ka. Ka saar abuurka koob galaas ah, ku dar biyo, oo u dhaaf meel diiran 3 maalmood ama ka badan ilaa maqaarka caaryada uu ka samaysmo dusha sare. Ku shub shaandho oo ka dhaq walxaha qudhmay ee jilicsan ee ka hareeraysan abuurka. Ku rushee abuurka xal 20% bleach si loo ilaaliyo cudurada qaar. Kadib ku mayr biyo cusub, dhig abuurka warqad tuwaal ah si ay u qalalaan.
+Dooro dhir caafimaad qabta markaad abuur ururinayso. Tixgeli astaamaha sida dhadhanka, quruxda, cabbirka, dalagga, bilow ama dhammaad ubaxeed, taariikhda bislaanshaha, habka is-qurxinta, iyo ururinta.
 
-- Iska daa squash-ka xagaaga iyo qajaarka dhirta ilaa maqaarku uu noqdo huruud oo adag, si aad u dhaafto heerka la cuni karo.
-- Abuurka eggplant-ka waa bisil marka miraha ay noqdaan bunniyo oo laalaaday. Abuurka ku jira biyo waqti dheer waxay biqilaan.
+- Ka ururi abuurka dhir iyo miro badan xilliga goosashada oo dhan.
+- Ka ururi abuurka miraha si buuxda u bislaaday, laakiin aan qudhmin. Tusaale ahaan:
+  - Qajaarka xilliga la cuni karo abuurkiisu ma bisla. Bislaanshaha dhabta ah wuxuu dhacaa marka barafka hore yimaado, sida bocorka iyo kabaha jiilaalka.
+  - Ururi abuurka ubaxa marka ubaxyadu libdhaan oo qalalaan, ama madaxooda ay noqdaan kuwo buuran oo qalalan, ama baakado abuur oo bilaabaya inay furmaan.
 
-## Kaydinta iyo Isticmaalka Abuurka
-Ku rid abuurka qalalan baqshado ay ku qoran yihiin magaca (tusaale, yaanyo), nooca (tusaale, Indigo Rose), maalmaha bislaanshaha, iyo taariikhda ururinta. Ku rid weel si fiican u xiran oo ku dhig qaboojiyaha 2 maalmood si loo dilo cayayaanka. Si aad u ilaaliso abuurka engegan, ku rid ½ koob oo caano budo ah oo cusub, oo ku duuban tishu, gudaha weelka. Ku kaydi meel qabow, mugdi ah, engegan, sida qaboojiyaha ama barafka, oo ka ilaali cayayaanka iyo jiirka. Ku soo celi abuurka kaydsan ee barafka heerkulka qolka ka hor inta aan la furin. Digirta waxay doorbidaan bac hawo leh.
+#### Habka Qalalan
 
-Ku talo gal inaad isticmaasho abuurkaaga 3 sano gudahood. Maadaama la'aanta abuurka iyo firfircoonaanta dhirta ay hoos u dhacaan wakhti ka dib, filan inaad beerto abuur badan oo gaboobay si aad u hesho tirada dhirta aad rabto.
+Dhirta leh abuur qalalan waxaa ka mid ah digir, digirta, karootada, basbaaska, iyo inta badan ubaxa iyo dhiraha udgoon.
 
-### Dhibaatooyinka Suurtagalka ah
-- Ha ururin abuurka hybrids-ka. Abuurka waxay noqon karaan kuwo aan dhalayn ama keenaya dhir aan u ekaan dhirta waalidka.
-- Abuurka waxay qaadi karaan cudurro; ku rushee bleach, ku mayr, oo qalaji si aad uga fogaato dhibaatadan.
-- Soo saarista abuurka waxay yareysaa firfircoonaanta dhirta; dooro dhirta iyo miraha ugu fiican si loo badbaadiyo abuurka.
-- Ha ku tiirsanaan beerta oo dhan abuurkaaga kaydsan, si aad uga hortagto dhibaatooyin.
+- Ku dhaaf dhirta ilaa abuurku si buuxda u qalalo.
+- Haddii loo baahdo, ka saar dhirta oo dhan oo madaxda hoos u dhig ama gooy baakadaha abuurka oo ku qalaji hadhka.
+- Isticmaal bac si aad u qabato abuurka soo dhacaya.
+- Ha isticmaalin kulayl si aad u qalajiso abuurka; waxay dhaawacaysaa.
 
-## Macluumaad Dheeraad ah
-- Daabacaadaha OSU Extension ee https://catalog.extension.oregonstate.edu
-- Ururinta iyo Kaydinta Abuurka Beertaada FS220
-- Jaamacadda Cornell, http://www.gardening.cornell.edu/vegetables/factsheets.html
-- Mabda'a Aasaasiga ah ee Soo Saarista Abuurka iyo Dib-u-soo nooleynta Abuurka
-- Jaamacadda Maine, Daabacaadaha Iskaashiga https://umaine.edu/publications/2750e
-- Hordhac Badbaadinta Abuurka ee Beeralayda Guriga 2750e
+**Ogow**:  
+- Basbaaska waa inuu casaan/jaalle noqdaa oo qalalo si abuur loo ururiyo. Galoofyo xir markaad la macaamilayso basbaaska kulul!
 
-## Talooyinka Master Gardener™
-- Wac Khadka Caawinta Horticulture-ka Guriga: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), ama 503-445-4608 (Multnomah County).
-- Si aad u hesho xaashiyaha 10-Daqiiqo Jaamacadda™ iyo jadwalka fasalka, booqo www.cmastergardeners.org.
+#### Habka Qoyan
 
-Adeegga Oregon State University Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka iyadoo lagu saleynayo jinsiyadda, midabka, asal ahaan qowmiyadeed, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), dookha galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helay barnaamijka caawinta guud, aaminsanaanta siyaasadeed, xogta hidda, xaaladda ciidan, ama aargoosiga ama ciqaabta falka xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+Dhirta leh miro jilicsan sida yaanyo waxaa ugu fiican in la mariyo habka khamiirka:
+
+1. Ka dalool abuurka koob galaas ah, biyo ku dar, kuna daa meel diiran muddo saddex maalmood ama ka badan ilaa ay ka samaysmaan lakab caariyays ah dusha sare.
+2. Ku shub baare ama shaandho, ka dhaq walxaha qudhmay ee ku dheggan abuurka.
+3. Ku dip abuurka xal bleach ah oo 20% ah si looga ilaaliyo qaar ka mid ah fayruusyada.
+4. Marka aad biyo nadiif ah uga maydho, dhig abuurka tuwaal warqad ah si uu ugu qalalo.
+
+**Ogow**:  
+- Ka daa kabaha xagaaga iyo qajaarka dhirta ilaa maqaarkoodu jaalo noqdo oo adkaado, xilli aad ka sii cuni lahayd.
+- Abuurka eggplant waa bisil marka miraha bunni noqdaan oo ay qalalaan. Abuurka biyaha ku jira in muddo ah way biqili karaan.
+
+### Kaydinta iyo Isticmaalka Abuurka
+
+1. Abuurka qalalan geli baakado warqad ah oo aad ku qortay nooca (tusaale, yaanyo), noociisa (tusaale, Indigo Rose), maalmaha bislaanshaha, iyo taariikhda ururinta.
+2. Gali dhalo si adag u xirantahay, kuna rid qaboojiyaha laba maalmood si aad uga disho cayayaanka.
+3. Si aad abuurka ugu haysato qalalan, dhig ½ koob caano budo cusub ah oo warqad lagu duudduubay gudahooda.
+4. Ku kaydi meel qabow, mugdi ah, qalalan, sida qaboojiyaha ama qaboojiyaha weyn, kana ilaali cayayaanka iyo jiirka.
+
+**Muhiim**:  
+- Soo saar abuurka kaydsan ee qaboojiyaha ka hor intaadan furin si heerkulka qolka ugu dhowaadaan.
+- Digirta iyo digirta kale waxay jecel yihiin bac ogolaanaysa neefsiga.
+
+Isku day inaad abuurkaaga isticmaasho saddex sano gudahood. Sababtoo ah awoodda biqil iyo xoogga dhirtu waa ay yaraadaan waqtiga, fil inaad dhaliso dhir ka badan abuurka duqoobay si aad u hesho tirada dhirta aad rabto.
+
+### Dhibaatooyin Suurtagal ah
+
+- Ha ururin abuurka dhirta iskutallaabta ah (hybrid). Abuurkaas waxay noqon karaan kuwo aan biqil lahayn ama dhir aan u ekaan doonin waalidkood.
+- Abuurku waxa uu siddaa cudurro; ku shub bleach, maydh, oo qalaji si aad kaaga ilaaliso dhibaatooyinkaasi.
+- Dhirta abuurka soosaarta waxay yareeyaan xooggooda; dooro dhirta iyo miraha ugu fiican si aad abuur u kaydiso.
+- Ha isku halleynin dhammaan beertaada abuurka aad kaydsatay oo keliya, si aad uga taxadarto.
+
+## Xog Dheeraad ah
+
+- Daabacaadaha OSU Extension: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
+  - *Ururinta iyo Kaydinta Abuurka Beertaada FS220*
+- Jaamacadda Cornell: [http://www.gardening.cornell.edu/vegetables/factsheets.html](http://www.gardening.cornell.edu/vegetables/factsheets.html)  
+  - *Fahanka Aasaasiga ah ee Soosaarka Abuurka iyo Cusboonaysiinta Abuurka*
+- Jaamacadda Maine, Daabacaadaha Extension: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
+  - *Hordhac Kaydinta Abuurka ee Beeraleyda Guryaha 2750e*
+
+#### Talooyinka Master Gardener™ · Wac Xariirka Beeralayda Guryaha: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Si aad u hesho waraaqaha Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Extension ee Jaamacadda Gobolka Oregon waxa uu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa oo dhan, sabab la xiriirta jinsiyad, midab, asal qaran, diin, jinsi, aqoonsi jinsi (oo ay ku jirto muujinta jinsiga), galmo, naafonimo, da', xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamijka gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaalada ciidan, aargoosi ama ciqaab la xiriirta hawlo xuquuq madaniyeed hore. (Dhammaan sababaha la mamnuucay kuma quseeyaan barnaamij kasta.)
+---

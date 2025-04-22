@@ -1,63 +1,89 @@
-Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-daqiiqo™ · Ururka Beeraleyda Khubaro ee Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beerta Clackamas County Master Gardener oo kaashanaya barnaamijka OSU Extension Master Gardener™
+# Koritaanka Weelasha Quruxda Badan iyo Macaan
 
-### Kobcinta Weelasha Qurux Badan oo Macaan
-#### Guudmar
-Dhalooyinka dhoobada ah, sanduuqyada daaqadaha, iyo weelasha kale oo laga buuxiyay caleemo cagaaran, ubaxyo la cuni karo, dhir udgoon ama khudaarta waa ku habboon yihiin guryaha waaweyn iyo kuwa yar. Weelasha dhirta la cuni karo ee quruxda badan waxay bixiyaan beddelka muuqaalka caadiga ah ee guryaha iyo xaddidaadaha booska. 
+### Dulmar
 
-Muuqaalka dhirta la cuni karo waa isticmaalka dhir soo saarta cunto ee muuqaalka guriga; kiiskan, dhirta lagu koriyo weelasha. Weelal kala duwan ayaa dhirta u kicin kara heerar ay indhaha iyo dhadhanka ku qancaan. Ku raaxayso cusboonaanta iyo dhadhanka midho bisil oo guriga lagu koriyo, salad, dhir udgoon iyo khudaarta.
+Dheriyada dhoobada ah, sanduuqyada daaqadaha, iyo weelal kale oo buuxa caleemo cagaaran, ubax la cuni karo, dhir udgoon, ama khudaar ayaa ku habboon guryaha waaweyn iyo kuwa yar-yar. Weelasha leh dhirta la cuni karo ee quruxda leh waxay bixiyaan beddelka dhulka la beerto ee caadiga ah iyo xaddidaada booska.
 
-#### Goobta
-Inta badan miraha iyo khudaarta waxay u baahan yihiin 6-8 saacadood oo qorrax ah si ay u soo saaraan si wanaagsan. Qaar dhirta u dhashay iyo caleemaha la cuni karo sida saladhka iyo kaale waxay u dulqaadan karaan hooska. Meesha aad dhigto weelasha waa muhiim. Samee xoogaa indho-indheyn ah oo ku saabsan beertaada si aad si wanaagsan u fahanto iftiinka qorraxda ugu fiican subax, duhur iyo galab. Haddii weelka uu ku dhaco meel ku habboon, dhirta udgoonka cusub waxay u badan tahay inay ku soo galaan cuntadaada.
+Beero la cuni karo waa isticmaalka dhirta cunto bixisa ee dhulka guriga; kiiskan, dhirta lagu beero weelal. Weelo kala duwan ayaa dhirta sare u qaadi kara si ay indhaha iyo dhadhanka labadaba u farxiyaan. Ku raaxayso cuslaanta iyo dhadhanka midhaha, saladhka, dhirta udgoon, iyo khudaarta guriga lagaga beero oo si buuxda u bislaaday.
 
-#### Weelasha
-Marka aad dooranayso weelasha, ka fikir sida iyo meesha aad ku wadaagto. Waa maxay qodobka caamka ah ee naqshadeynta ee isku daraya bilicda aad raadinayso? Arrimaha sida midabka weelka, maqaarka, maaddada, qaabka iyo habboonaanta waxay u baahan yihiin fiiro gaar ah. Ha ka baqin inaad u isticmaasho alaabooyinka kale sida baaskiiladii hore, baaldiga biyaha ama xataa kabaha dillaacsan. Nooca weelka aad doorato, waa inuu leeyahay godad biyo daadinta wanaagsan! HA ISTICMAALIN weelasha alwaaxda lagu daweeyay kiimikooyin sun ah sida creosote.
+### Goobta
 
-#### Meesha
-Sida hagitaan, weel balaadhkiisu yahay 12 inch wuxuu noqon lahaa cabbirka ugu yar ee dhirta ubaxa yaryar iyo caleemaha cagaaran. Had iyo jeer tixgeli cabbirka dhirta marka ay bislaan. Macluumaadka fogaanta dhirta ee calaamadaha dhirta ama buugaagta abuurka waa ilo qiimo leh.
+Inta badan midhaha iyo khudaartu waxay u baahan yihiin 6–8 saacadood oo qorax ah si ay si fiican u soo saaraan. Qaar ka mid ah dhirta asaliga ah iyo caleemaha la cuni karo, sida letuska iyo kaalka, waxay u dulqaadan karaan hooska qaar. Goobta aad dhigto weelasha waa muhiim. Ka samee la socodka beertaada si aad u fahanto sida ugu fiican ee qoraxdu u dhacdo subax, duhur, iyo galab. Haddii weelka la dhigo meel fudud, dhirta udgoonka cusub waxay u badan tahay inay cuntooyinkaaga soo galaan.
 
-#### Warbaahinta Koritaanka
-Weelasha waa in lagu buuxiyo isku-darka dhirta beerta (potting mix) ama isku-darka dhirta beerta (planter mix) halkii laga isticmaali lahaa ciidda beerta. Sababo la xiriira habka beerta ee xoojiya, waxaa lagu talinayaa inaad ku darto bacriminta si tartiib ah u sii deysa muddo 3 ilaa 4 bilood ah isku-darka dhirta.
+### Weelasha
 
-#### Waqtiga iyo Daryeelka
-Beeralayda khudaarta, xitaa weelasha dhexdeeda, waxay u baahan yihiin jacayl iyo daryeel. Taas waxaa ka mid ah xakamaynta cayayaanka, nadiifinta iyo waraabinta. Ku dabaq Maareynta Cayayaanka ee Isku dhafan (IPM) oo isticmaal sunta cayayaanka kaliya marka ay tahay ikhtiyaarka ugu dambeeya. Faa'iidada weelka waa nadiifinta fudud iyo helitaanka. Dhirta waxay u baahan yihiin waraabin taxaddar leh. Geli fartaada ilaa faraha labaad ee carrada (2-3 inch). Haddii ay u muuqato qoyan oo qabow, ha waraabin. Waraabin maalinle ah waxaa laga yaabaa inay loo baahdo xagaaga kulul. Waa inaad joogto ahaataa. Jarka toddobaadlaha ah, ubax ka saarida iyo dhirta khafiifinta waxay ka qayb qaadan doontaa goosashada wax soo saar leh. Marka dhirta weelka ku jirta ay koraan, diyaar u noqo inaad ka saarto kuwa aan shaqayn, ka dibna ku dar beddalka si loo sii hayo muuqaalka wanaagsan ee weelka. Beeridda soo noqnoqota ee caleemaha cagaaran waxaa lagu samayn karaa iyadoo la darsayo 3-5 abuur toddobaadle ah. Ugu dambeyntii, bacrinta biyaha ku milma ee la isticmaalo 2-3 toddobaadle waxay quudin doontaa dhirta. Dhammaan dadaalkan waa sababta dhadhankoodu u fiican yahay!
+Marka aad dooranayso weelasha, ka fiirso sida iyo meel aad kuwada xiri doonto. Waa maxay shayga naqshad ee aad isku xiri doonto si aad u hesho muuqaalka aad rabto? Qodobbada sida midabka, dusha, qalabka, qaabka, iyo waxtarka weelka waa in si taxaddar leh loo eegaa. Ha ka baqin inaad dib u isticmaasho alaabo sida gaari gacan duug ah, baaldi biyo, ama xataa kabo daloolay.
 
-#### Quruxda
-Marka aad dhir ku beereyso weel qurux badan oo macaan, marka hore ka fikir waxaad jeceshahay inaad cunto! Naqshadeynta waxay ka imaan doontaa cabbirka dhirta, midabka ubaxa, qaabka caleemaha, qaababka caleemaha iyo kala duwanaanshaha maqaarka. Tixgeli dhir leh joogag kala duwan iyo midabka khudaarta oo firfircoon. Waa muhiim inaad ubaxa ku urursato si loo helo saameyn. Sii khudaarta boos ku filan oo sii taageero toosan dhirta ku kora ama ku faafa marka ay koraan. Samee xoogaa cilmi baaris ah si aad u ogaatid dhirta leh sifooyinka aad qiimeyso.
+Weel kasta oo aad doorato, waa inuu leeyahay daloolo biyo-mareen wanaagsan! **MARNA** ha isticmaalin weelal alwaax ah oo lagu daweeyay kiimikooyin sun ah sida creosote.
 
-#### Naqshadeynta
-**Qaabka Thriller, Filler iyo Spiller:**
+### Booska
 
-- **Thriller**: Dhirta ugu weyn uguna soo jiidashada badan ee weelka, badanaa lagu beero bartamaha (haddii weelka laga fiirin doono dhammaan dhinacyada) ama dhabarka weelka (haddii laga fiirin doono hal dhinac oo kaliya). Thriller wuxuu siinayaa weelka xoog toosan. Tani waxay noqon kartaa dhirta basbaaska, digirta koraysa, geedka blueberry ama geedka yaanyada. Weelasha yaryar, kaale Ruush dheer koraya ayaa shaqayn kara.
+Si tusaale ah, dheri 12-inch ah waa cabbirka ugu yar ee dhirta ubaxda yar-yar iyo caleemaha cagaaran. Had iyo jeer tixgeli cabbirka buuxa ee dhirta marka ay bislaato. Xogta kala fogaanshaha dhirta ee ku qoran calaamadaha dhirta ama buugagga abuurka waa ilo qiimo leh.
 
-- **Filler**: Dhirta gaaban oo leh maqaarka iyo/ama qaabka kale oo kala duwan. Tani waxay qarineysaa jirka alwaaxda ah waxayna qurxisaa weelka. Ku beero dhammaan agagaarka thriller-ka dhexe ama qaab wareeg ah oo ku wareegsan thriller-ka gadaalka. Chard Swiss iftiinka leh, saladhka Oak Leaf ama dhirta udgoonka leh sida basbaaska, xanjada ama dhirta cilantro waxay noqon karaan xulasho.
+### Walxaha Koritaanka
 
-- **Spiller**: Dhirta ka soo baxaysa ama hoos ugu dhacaysa dhinaca dibadda ee weelka. Helitaanka maqaarka, midabka caleemaha/ubaxa ama khudradda koraysa ee ka soo horjeedda ayaa kordhinaya xiisaha weelka. Waxaa lagu beeraa geeska weelka iyo meelaha u dhow fillers-ka. Qumbaha Lemon ama squash xagaaga waxay ku faafi doonaan oo bixiyaan muuqaal qurux badan. Isku-darka dhirta udgoon ee sida rosemary iyo thyme ayaa hoos u dhici doona si ay indhaha u soo jeedaan naqshadeynta waxayna bixiyaan dhadhanka badan, cusub ama qalalan.
+Weelasha waa in lagu buuxiyaa isku-darka dheriga ama isku-darka beerta, ma aha ciidda beerta. Sababo la xiriira beerta xoogan ee lagu sameeyo weelka, waxaa lagula talinayaa in lagu daro bacriminta sii-deynta gaabiska ah (3–4 bilood) gudaha isku-darka dheriga.
 
-#### Ammaanka
-Korinta dhirtaada adiga ayaa kuu keenaysa tayo wanaagsan oo abuur ah iyo doorashooyin badan. Dhamaan ubaxa ma cuni karo. Xaqiiqdii, dhirta qaar waxay soo saaraan sunta si ay u yareeyaan waxyeelada xayawaanka ama cayayaanka. Isla suntaas waa halis bini'aadamka. Marka aad cunto dhirta cusub, ku bilow qiyaas yar si aad u ogaato haddii aad leedahay xasaasiyad cunto. Inta badan, caleemaha waa qaybta ugu macaan ee ubaxa.
+### Waqti iyo Daryeel
 
-#### Xulashada Dhirta
-Hubi calaamadda dhirta si aad u ogaato shuruudaha biyaha, qorraxda iyo fogaanta. Weelasha wadajira, shuruudahaas waa inay isku mid yihiin si guul ugu filan iyo daryeel fudud. Ku darista ubaxa weelka waxay soo jiidan doontaa oo quudin doontaa cayayaanka pollen-ka.
+Beerta khudaarta, xataa weelasha, waxay u baahan tahay jacayl iyo daryeel. Taas micnaheedu waa la dagaalanka cayayaanka, nadiifinta haramaha, iyo waraabinta. Adeegso Maareynta Cayayaanka Isku-dhafan oo isticmaal sunta cayayaanka marka laga fursan waayo kaliya.
 
-Inta badan dhirta halkan lagu taxay waxay ku sii socon doonaan wareegga noloshooda; soo saaraya caleemo, ubax ka dibna abuur. Kuwan waxaa lagu kala soocay xaaladooda la cuni karo ee ugu caansan:
+Faa'iidada weelka waa inay fududahay nadiifinta haramaha iyo helitaanka dhirta. Dhirta waxay u baahan yihiin waraabin taxadar leh. Fartaada geli ciidda ilaa lafta labaad (2–3 inch). Haddii ay qoyan tahay oo qabow tahay, ha waraabin. Waraabinta maalin kasta ayaa laga yaabaa inay lagama maarmaan noqoto xilliga kulul ee xagaaga. Isku day inaad joogto noqoto.
 
-- **Caleemaha cagaaran**: Arugula, Beebalm, Kaale, Saladhyada Caleemaha, Caleemo Khardal, Chard Swiss.
-- **Khudaarta**: Qumbaha, Egg Plant, Basbaaska, Digirta Tiirarka, Digirta Scarlet Runner, Spinach, Squash, Yaanyada Balakoonka.
-- **Ubaxa**: Bachelor Buttons, Borage, Calendula, Daylily, Chamomile, Elderberry, Fennel, Lilac, Hibiscus, Hops, Hyssop, Lavender, Linden, Nasturtium, Pansy, Pea, Pinks, Rose, Geraniums Udgoon, Signet Marigold, Begonia Tuberous, Tulip, Yucca.
-- **Dhir Udgoon**: Basil, Chives, Coriander, Oregano, Dill, Lemon Balm, Lemon Verbena, Mint, Pineapple Sage, Rosemary, Sage, Sweet Marjoram, Thyme (Badanaa dhadhan fiican caleemaha, ubaxa ama abuurka).
+Tallaabinta toddobaadle, ka goynta ubaxyada dhintay, iyo khafiifinta dhirta waxay kordhin doontaa goosasho fiican. Marka dhirta weelka ku jirta ay korto, diyaar u noqo inaad ka saarto kuwa aan shaqaynayn oo beddel kuwa cusub si weelku u ekaado mid wanaagsan. Beerta saladhka waxaa lagu sii wadan karaa adigoo toddobaadkiiba ku daraya 3–5 abuur.
 
-#### Ilo Dheeraad ah
-- **Ubaxa la cuni karo 7.237** by S.E. Newman iyo Steven O’Connor [https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/](https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/)
-- **Ubaxa la cuni karo** by Julie Weisenhorn iyo Ginny Coyle [https://extension.umn.edu/flowers/edible-flowers](https://extension.umn.edu/flowers/edible-flowers)
-- AMA Handbook of Poisonous and Injurious Plants, Lampe, Kenneth F, 1985. American Medical Association.
-- **Handouts iyo fiidiyowyo ka socda Jaamacadda 10-Daqiiqo™** [www.cmastergardeners.org](http://www.cmastergardeners.org)
+Ugu dambeyn, isticmaalka bacriminta biyo ku milma 2–3 toddobaad kasta waxay dhirtii siisaa nafaqo. Dadaalkani waa sababta ay dhirtu u dhadhamiyaan sida fiican!
 
-#### Talooyinka Beerta Master Gardener
-Wac Khadka Caawinta Beeraha Guriga:  
-- 503-655-8631 (Clackamas)  
-- 503-821-1150 (Washington)  
-- 503-445-4608 (Multnomah)
+### Quruxda
 
-Adeegga Oregon State University Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, waxqabadyada, iyo agabyada ku salaysan jinsiyad, midab, dhalasho, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muuqa jinsiga), doonista galmada, naafonimo, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda sidaha, xaaladda askar hore, aargoosi ama aargoosi ka dhashay hawlaha xuquuqda madaniga ah ee hore. (Maaha dhammaan sababaha la mamnuucay ayaa khuseeya dhammaan barnaamijyada.)
+Markaad beereyso weel macaan leh, marka hore ka fiirso waxaad jeceshahay inaad cunto! Naqshaddu waxay ka imaan doontaa cabbirka dhirta, midabka ubaxa, qaabka caleemaha, naqshadaha caleemaha, iyo isbeddelka dusha.
+
+Tixgeli dhir leh dherer kala duwan iyo midab khudaar oo firfircoon. Waa muhiim in ubaxyada la isugu geeyo si ay u yeeshaan saamayn muuqata. Si khudaartu u hesho meel ku filan, siiya taageero toosan dhirta kora ama fidiya. Samee cilmi-baaris yar si aad u ogaato dhirta leh sifooyinka aad qiimeyneyso.
+
+### Naqshad
+
+#### Qaab-dhismeedka Thriller, Filler, iyo Spiller
+
+- **Thriller**: Waa dhirta ugu weyn uguna soo jiidashada badan ee weelka, badanaa la dhigaa bartamaha (haddii weelka laga eegayo dhammaan dhinacyada) ama gadaasha (haddii hal dhinac laga eegayo). Thriller-ku wuxuu weelka siiyaa muuqaal toosan oo xooggan.
+  - Tusaale: Geedka basbaaska, tiir digir fuusha, geedka blueberries, geed yaanyo, ama kaal Ruush ah oo dherer leh weelasha yar-yar.
+- **Filler**: Waa dhir gaaban oo leh dusha ama naqshad kale. Tani waxay qarin doontaa jirridda adag waxayna buuxin doontaa weelka qurux.
+  - Tusaale: Swiss chard dhalaalaya, letus caleen ah, ama dhir udgoon buuran sida parsley, sage, ama cilantro.
+- **Spiller**: Waa dhir fidsan ama hoos u daadata dhinacyada weelka. Haddii ay leedahay dusha, midab caleen/ubax ah, ama khudaar kala duwan waxay kordhinaysaa xiisaha weelka.
+  - Tusaale: Khudaarta lemon cucumber, squash xagaaga, ama dhir udgoon hoos u daadata sida rosemary iyo thyme.
+
+### Badbaado
+
+Korinta dhirtaada abuurka waxay kuu keenaysaa geedo tayo leh iyo xulashooyin badan. Dhammaan ubaxyadu ma la cuni karo. Xaqiiqdii, qaar dhir ah waxay sameeyaan sun si ay uga hortagaan xayawaanka ama cayayaanka, taasoo dadka u keeni karta waxyeello.
+
+Markaad cunto dhir “cusub”, bilow tiro yar si aad u ogaato haddii aad xasaasiyad u leedahay. Badanaa, baalasha ubaxu waa qaybta ugu macaan ee ubaxa.
+
+### Xulashada Dhirta
+
+Hubi calaamadda dhirta ee ku saabsan baahida biyaha, qoraxda, iyo kala fogaanshaha. Weel “isku-dhafan” ah, baahiyuhu waa inay isku eeg yihiin si guul iyo daryeel fudud loo helo. Ku darista ubax weelka waxay soo jiidanaysaa oo quudisaa cayayaanka dhirta bacrimiya.
+
+Inta badan dhirta halkan ku xusan waxay mari doonaan marxalado kala duwan: caleemo, ubax, ka dibna abuur. Waxaa loo kala saaray sida ay caan ugu yihiin in la cuno:
+
+- **Caleemo cagaaran**: Arugula, Beebalm, Kaal, Letus Caleen ah, Mustard Greens, Swiss Chard
+- **Khudaar**: Khambo, Baamiye, Basbaas, Digir fuusha, Scarlet Runner Beans, Spinach, Squash, Yaanyo beerta lagu beero
+- **Baalasha Ubaxa**: Bachelor Buttons, Borage, Calendula, Daylily, Chamomile, Elderberry, Fennel, Lilac, Hibiscus, Hops, Hyssop, Lavender, Linden, Nasturtium, Pansy, Pea, Pinks, Rose, Scented Geraniums, Signet Marigold, Tuberous Begonia, Tulip, Yucca
+- **Dhirta Udgoon**: Basil, Chives, Coriander, Oregano, Dill, Lemon Balm, Lemon Verbena, Mint, Pineapple Sage, Rosemary, Sage, Sweet Marjoram, Thyme
+
+### Kheyraad Dheeraad ah
+
+- **Ubaxa la cuni karo 7.237** by S.E. Newman iyo Steven O’Connor  
+  [https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/](https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/)
+- **Ubaxa la cuni karo** by Julie Weisenhorn iyo Ginny Coyle  
+  [https://extension.umn.edu/flowers/edible-flowers](https://extension.umn.edu/flowers/edible-flowers)
+- **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
+- **Warqadaha iyo muuqaallada Jaamacadda 10-daqiiqo™**  
+  [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+#### Talo Beeraley Khabiir ah™ · Wac Khadka Gargaarka Beerta Guriga: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Wixii warqado iyo jadwal fasallo dheeraad ah ee Jaamacadda 10-daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucaysaa takoorka barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimo, dakhli laga helo barnaamij gargaar ah, aaminsanaanta siyaasadda, xogta hidda-socodka, xaaladda ciidanimada, aargoosiga ama falcelinta waxyeellada xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay lama dabaqo dhammaan barnaamijyada.)
+
+---

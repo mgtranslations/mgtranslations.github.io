@@ -1,128 +1,199 @@
-# Sols  
-## Glossaire des termes  
+#### 10-Minute University™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien du programme OSU Extension Master Gardener™
 
-Pour le contenu complet du glossaire, voir la publication EM063E de l'Extension de l'Université d'État de Washington : *Un guide du jardinier amateur sur les sols et les engrais*.  
+# Glossaire des sols
 
-### aeration  
-Un processus par lequel l'air est circulé, mélangé ou dissous dans une substance (sol).  
+Pour consulter le glossaire complet, voir la publication EM063E de l’Extension de l’Université d’État de Washington : *A Home Gardener’s Guide to Soils and Fertilizers*.
 
-### agrégation  
-Le processus par lequel le sable, le limon, l'argile et la matière organique forment des amas, également appelés agrégats.  
+---
 
-### biosolides  
-Produits du traitement des eaux usées municipales contenant des nutriments, de la matière organique et des constituants inorganiques. Les biosolides de classe A sont traités pour éliminer les agents pathogènes et sont adaptés à une utilisation dans les jardins et les paysages. Les composts et mélanges de biosolides sont des amendements de sol, tandis que les produits biosolides séchés sont utilisés comme engrais.  
+## Glossaire
 
-### force capillaire  
-L'action par laquelle les molécules d'eau se lient aux surfaces des particules de sol et entre elles, retenant ainsi l'eau dans les micropores contre la gravité.  
+### Aération
 
-### séquestration du carbone  
-Se produit lorsque les plantes retirent le CO2 de l'atmosphère et que le carbone est stocké dans les plantes et les sols. C'est un outil pour réduire les niveaux de CO2 atmosphérique et atténuer le changement climatique.  
+Processus par lequel l’air est diffusé, mélangé ou dissous dans une substance (le sol).
 
-### argile  
-Le plus petit type de particule primaire du sol (moins de 0,002 mm de diamètre).  
+### Agrégation
 
-### compostage (froid & chaud)  
-- **Compostage froid** : Un processus lent qui consiste à construire un tas de compost et à le laisser se décomposer pendant un an ou plus. Le compostage froid ne tue pas les graines de mauvaises herbes ni les agents pathogènes.  
-- **Compostage chaud** : Produit du compost fini en deux à quatre mois. La chaleur est maintenue pendant la décomposition en mélangeant des volumes équilibrés de matériaux énergétiques (verts) et d'agents de structure (bruns), en gardant le tas de compost humide et en le retournant fréquemment.  
+Processus par lequel le sable, le limon, l’argile et la matière organique forment des amas, aussi appelés agrégats.
 
-### compaction  
-Pression qui comprime le sol en couches résistantes à la pénétration des racines et au mouvement de l'eau. Souvent causée par le piétinement ou le trafic des machines, mais aussi par la pluie sur un sol nu.  
+### Biosolides
 
-### compost  
-Matière organique stabilisée produite par la décomposition biologique contrôlée de matériaux organiques. Le compost peut être utilisé comme amendement de sol pour ajouter de la matière organique et libérer lentement des nutriments ou comme paillis qui est ensuite intégré au sol.  
+Produits issus du traitement des eaux usées municipales qui contiennent des nutriments, de la matière organique et des éléments inorganiques.
 
-### culture de couverture  
-Plantes cultivées pour protéger le sol contre le ruissellement et l'érosion, et pour ajouter de la matière organique au sol.  
+- **Biosolides de classe A** : Traités pour éliminer les agents pathogènes et adaptés à une utilisation dans les jardins et les paysages.
+- **Utilisations** : Les composts et mélanges de biosolides servent d’amendements du sol, tandis que les produits biosolides séchés sont utilisés comme engrais.
 
-### décomposition  
-La dégradation des matériaux organiques par les microorganismes.  
+### Force capillaire
 
-### calcaire dolomitique  
-Un type de calcaire contenant du magnésium ainsi que du calcium.  
+Action par laquelle les molécules d’eau s’attachent aux surfaces des particules du sol et entre elles, retenant ainsi l’eau dans les micropores contre la force de gravité.
 
-### engrais  
-Un produit naturel ou synthétique ajouté au sol pour fournir des nutriments aux plantes.  
+### Séquestration du carbone
 
-### analyse d'engrais  
-La quantité de nutriments primaires (azote (N), phosphore (P) et potassium (K)) requise par les plantes en grandes quantités et exprimée en pourcentage du poids de l'engrais.  
+Se produit lorsque les plantes retirent le CO₂ de l’atmosphère et que le carbone est stocké dans les plantes et les sols. C’est un outil pour réduire le CO₂ atmosphérique et atténuer le changement climatique.
 
-### engrais vert  
-Cultures de couverture cultivées pour être intégrées au sol afin d'apporter des nutriments et de la matière organique, ou laissées sur la surface du sol comme paillis.  
+### Argile
 
-### infiltration  
-Le mouvement de l'eau à travers le sol.  
+Le plus petit type de particule primaire du sol (moins de 0,002 mm de diamètre).
 
-### lessivage  
-Mouvement de l'eau et des nutriments solubles vers le bas à travers le profil du sol.  
+### Compostage (froid et chaud)
 
-### chaux  
-Calcaire broyé (carbonate de calcium, CaCO3) appliqué au sol pour augmenter le pH.  
+- **Compostage à froid** : Processus lent qui consiste à monter un tas de compost et à le laisser se décomposer pendant un an ou plus. Ne tue pas les graines de mauvaises herbes ni les agents pathogènes.
+- **Compostage à chaud** : Produit du compost fini en deux à quatre mois. La chaleur nécessaire à la décomposition est maintenue en mélangeant des volumes équilibrés de matières énergétiques (vertes) et d’agents de lestage (bruns), en maintenant le tas humide et en le retournant fréquemment.
 
-### terreau  
-Un sol contenant des quantités approximativement égales de particules de sable, de limon et d'argile.  
+### Compaction
 
-### macropore  
-Un pore de sol de grande taille. Les macropores incluent les canaux des vers de terre et des racines, et contrôlent la perméabilité et l'aération du sol.  
+Pression qui comprime le sol en couches résistantes à la pénétration des racines et au passage de l’eau. Souvent causée par le piétinement ou les machines, mais aussi par la pluie sur un sol nu.
 
-### micronutriment/élément trace  
-Un nutriment utilisé par les plantes en petites quantités (fer, zinc, molybdène, manganèse, bore, cuivre et chlore).  
+### Compost
 
-### micropore  
-Un petit pore de sol, généralement une fraction de millimètre de diamètre. Les micropores sont responsables de la capacité du sol à retenir l'eau.  
+Matière organique stabilisée produite par la décomposition biologique contrôlée de matières organiques.
 
-### amendement organique  
-Un matériau d'origine biologique ajouté au sol pour augmenter la matière organique et améliorer la santé du sol. Exemples : compost, fumier et résidus de cultures de couverture.  
+- **Utilisations** : Sert d’amendement du sol pour ajouter de la matière organique et libérer progressivement des nutriments, ou de paillis qui sera ultérieurement incorporé au sol.
 
-### engrais organique  
-Engrais naturel ayant subi peu ou pas de traitement. Il peut inclure des matériaux végétaux, animaux et/ou minéraux. Les engrais organiques sont généralement plus riches en nutriments que les amendements organiques.  
+### Engrais vert
 
-### paillis organique  
-Un matériau organique (souvent bois) placé sur la surface du sol pour réduire l'évaporation, protéger la surface du sol contre l'érosion, étouffer les mauvaises herbes et tamponner les changements de température du sol. Exemples : écorce broyée, copeaux d'arboriste et paille.  
+Plantes cultivées pour protéger le sol contre le ruissellement de l’eau et l’érosion, et pour ajouter de la matière organique au sol.
 
-### agent pathogène  
-Organisme du sol causant des maladies, incluant bactéries, virus, champignons et nématodes.  
+### Décomposition
 
-### perméabilité  
-Le taux de déplacement de l'eau à travers un sol.  
+Dégradation des matières organiques par les micro-organismes.
 
-### phosphate  
-La forme de phosphore indiquée dans la plupart des analyses d'engrais (P2O5).  
+### Calcaire dolomitique
 
-### pH  
-Une mesure de l'acidité ou de l'alcalinité d'un sol. Les valeurs inférieures à 7 indiquent l'acidité, une valeur de 7 est neutre, et les valeurs supérieures à 7 indiquent l'alcalinité. La plupart des sols ont un pH entre 4,5 et 9.  
+Type de calcaire contenant du magnésium ainsi que du calcium.
 
-### potasse  
-La forme de potassium indiquée dans la plupart des analyses d'engrais (K2O), comme sur les emballages d'engrais.  
+### Engrais
 
-### engrais transformé  
-Un engrais fabriqué ou raffiné à partir d'ingrédients naturels dans une forme plus concentrée et plus disponible pour les plantes.  
+Produit naturel ou synthétique ajouté au sol pour fournir des nutriments aux plantes.
 
-### engrais à libération rapide  
-Un engrais contenant des nutriments sous forme directement disponible pour les plantes, vendu sous forme d'ammonium et de nitrate.  
+### Analyse des engrais
 
-### sable  
-Le type de particule primaire du sol le plus grossier (0,05 à 2 mm de diamètre).  
+Quantité de nutriments principaux (azote (N), phosphore (P) et potassium (K)) requise en grande quantité par les plantes et exprimée en pourcentage du poids de l’engrais.
 
-### nutriment secondaire  
-Un nutriment nécessaire aux plantes en quantité modérée (soufre, calcium et magnésium).  
+### Engrais vert
 
-### limon  
-Une particule primaire du sol de taille intermédiaire (entre la taille du sable et de l'argile) de 0,002 à 0,05 mm de diamètre.  
+Cultures de couverture cultivées pour être incorporées au sol afin d’apporter des nutriments et de la matière organique, ou laissées à la surface comme paillis.
 
-### engrais à libération lente  
-Un matériau d'engrais converti en une forme disponible pour les plantes par des microorganismes du sol.  
+### Infiltration
 
-### sol  
-Un mélange naturel et biologiquement actif de fragments de roche altérée et de matière organique à la surface de la terre.  
+Mouvement de l’eau à travers le sol.
 
-### santé du sol  
-La capacité continue d'un sol à fonctionner comme un écosystème vivant vital qui soutient les plantes, les animaux et les humains.  
+### Lessivage
 
-### structure du sol  
-L'agencement dans le sol des agrégats (pédons) formés par le processus de regroupement des particules individuelles de sable, de limon, d'argile et de matière organique.  
+Déplacement de l’eau et des nutriments solubles vers le bas dans le profil du sol.
 
-### texture du sol  
-Le degré de grossièreté ou de finesse d'un sol. La texture est déterminée par les proportions de sable, de limon et d'argile dans le sol.  
+### Chaux
 
-### capacité de rétention d'eau  
-La capacité des pores du sol à retenir l'eau pour l'utilisation des plantes.  
+Roche calcaire broyée (carbonate de calcium, CaCO₃) appliquée au sol pour augmenter le pH.
+
+### Terre franche (loam)
+
+Sol contenant à peu près des quantités égales de particules de sable, de limon et d’argile.
+
+### Macropore
+
+Grande pore du sol. Les macropores incluent les galeries de vers de terre et les canaux racinaires, et ils contrôlent la perméabilité et l’aération du sol.
+
+### Micronutriment/Élément trace
+
+Nutriment utilisé par les plantes en petite quantité (fer, zinc, molybdène, manganèse, bore, cuivre et chlore).
+
+### Micropore
+
+Petit pore du sol, généralement une fraction de millimètre de diamètre. Les micropores sont responsables de la capacité du sol à retenir l’eau.
+
+### Amendement organique
+
+Matériau d’origine biologique ajouté au sol pour enrichir la matière organique et améliorer la santé du sol. Exemples : compost, fumier et résidus de cultures de couverture.
+
+### Engrais organique
+
+Engrais naturel ayant subi peu ou pas de transformation.
+
+- **Exemples** : Matières végétales, animales et/ou minérales.
+- **Caractéristiques** : Généralement plus riche en nutriments que les amendements organiques.
+
+### Paillis organique
+
+Matériau organique (souvent du bois) placé à la surface du sol pour réduire la perte d’eau par évaporation, protéger la surface du sol contre l’érosion, étouffer les mauvaises herbes et atténuer les variations de température du sol.
+
+- **Exemples** : Écorce broyée, copeaux d’arboriste et paille.
+
+### Agent pathogène
+
+Organisme du sol pouvant causer des maladies, y compris les bactéries, virus, champignons et nématodes.
+
+### Perméabilité
+
+Vitesse à laquelle l’eau circule dans le sol.
+
+### Phosphate
+
+Forme du phosphore indiquée dans la plupart des analyses d’engrais (P₂O₅).
+
+### pH
+
+Mesure de l’acidité ou de l’alcalinité du sol.
+
+- **Valeurs** :
+  - Moins de 7 : Acide
+  - Égale à 7 : Neutre
+  - Plus de 7 : Alcalin
+- **Plage** : La plupart des sols ont un pH entre 4,5 et 9.
+
+### Potasse
+
+Forme du potassium indiquée dans la plupart des analyses d’engrais (K₂O), comme sur les engrais en sachet.
+
+### Engrais transformé
+
+Engrais fabriqué ou raffiné à partir d’ingrédients naturels pour le rendre plus concentré et plus disponible pour les plantes.
+
+### Engrais à libération rapide
+
+Engrais contenant des nutriments sous des formes immédiatement disponibles pour les plantes, comme l’ammonium et le nitrate.
+
+### Sable
+
+Le type de particule primaire du sol le plus grossier (de 0,05 à 2 mm de diamètre).
+
+### Nutriment secondaire
+
+Nutriment nécessaire aux plantes en quantité modérée (soufre, calcium et magnésium).
+
+### Limon
+
+Particule primaire du sol de taille intermédiaire (entre celle du sable et de l’argile), de 0,002 à 0,05 mm de diamètre.
+
+### Engrais à libération lente
+
+Engrais transformé en forme assimilable pour les plantes par les micro-organismes du sol.
+
+### Sol
+
+Mélange naturel, biologiquement actif, de fragments de roche altérée et de matière organique à la surface de la terre.
+
+### Santé du sol
+
+Capacité continue du sol à fonctionner comme un écosystème vivant essentiel qui soutient les plantes, les animaux et les humains.
+
+### Structure du sol
+
+Disposition dans le sol des agrégats (amas) formés par le regroupement et la liaison des particules de sable, de limon, d’argile et de matière organique.
+
+### Texture du sol
+
+Degré de finesse ou de grossièreté du sol. La texture est déterminée par les proportions de sable, de limon et d’argile dans le sol.
+
+### Capacité de rétention d’eau
+
+Capacité des pores du sol à retenir l’eau pour les plantes.
+
+---
+
+#### Conseils Maître Jardinier™ · Appelez la ligne d’aide horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches 10-Minute University™ et les horaires des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Service d’Extension de l’Université d’État de l’Oregon · Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents en raison de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression du genre), de l’orientation sexuelle, du handicap, de l’âge, du statut marital, du statut familial/parental, du revenu issu d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut d’ancien combattant, des représailles, ou de la rétorsion pour une activité antérieure relative aux droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
+---

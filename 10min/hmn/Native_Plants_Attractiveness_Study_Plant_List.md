@@ -1,48 +1,61 @@
-# Kev Kawm Txog Cov Nroj Tsuag Hauv Zos --- Daim Ntawv Teev Nroj Tsuag  
-Kev kawm los ntawm Aaron Anderson thiab Gail Langellotto, OSU Garden Ecology Lab  
-*Cov txiaj ntsig los ntawm 2017 thiab 2018 lub caij tshawb xyuas tau sau luv raws li hauv qab no: A – Cov nroj tsuag uas nyiam cov muv coob tshaj plaws xyoo 2017, B – Cov nroj tsuag uas nyiam cov muv hauv zos tshaj plaws xyoo 2017, C – Cov nroj tsuag uas nyiam cov muv coob tshaj plaws xyoo 2018, D – Cov nroj tsuag uas nyiam cov muv hauv zos tshaj plaws xyoo 2018.  
-Thov mus xyuas http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/ kom paub meej thiab pom cov tshiab.  
+#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County · Ua haujlwm nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Cov Nroj Tsuag  
-**Hom Nroj Tsuag**  **Lub Npe Nrov**  **Txiaj Ntsig**  **Hom Sim Neej**  **Xim Paj**  
-Acmispon (Lotus) parviflorus  
-Yuav Tsim Tawm Ib Xyoos  Dawb/Liav  
-Clarkia amoena  Zoo Siab Loj Sib Ncaim  D  Yuav Tsim Tawm Ib Xyoos  Liab  
-Collinsia grandiflora  Mary Muaj Qhov Muaj Tseeb Loj  
-Yuav Tsim Tawm Ib Xyoos  Xiav  
-Gilia capitata  Globe gilia  A,B,C  Yuav Tsim Tawm Ib Xyoos  Xiav  
-Lupinus polycarpus  Lupine Me Me  
-Yuav Tsim Tawm Ib Xyoos  Ntsuab Xiav/Xiav  
-Madia elegans  Madia Nrov Tshaj Plaws  A,B  Yuav Tsim Tawm Ib Xyoos  Daj  
-Nemophila menziesii  Muaj Qhov Muaj Tseeb Xiav  
-Yuav Tsim Tawm Ib Xyoos  Xiav/Dawb  
-Eschscholzia californica  Paj Kaus Californian  B,C,D  Yuav Tsim Tawm Ib Xyoos  Txiv Kab Ntxwv  
-Helianthus annuus  Paj Ntuj Tshav Ntuj Nrov Tshaj Plaws  
-Yuav Tsim Tawm Ib Xyoos  Daj  
-Phacelia heterophylla  Phacelia Nrog Nplooj Sib Txawv  C,D  Yuav Tsim Tawm Ib Xyoos  Dawb  
+# Kev Tshawb Fawb Txog Tsob Nroj Ib Leeg Hauv Teb Chaws
 
-## Cov Nroj Tsuag  
-**Hom Nroj Tsuag**  **Lub Npe Nrov**  **Txiaj Ntsig**  **Hom Sim Neej**  **Xim Paj**  
-Achillea millefolium  Yarrow  D  Yuav Tsim Tawm Txhua Xyoo  Dawb  
-Anaphalis margaritacea  Pearly Everlasting  
-Yuav Tsim Tawm Txhua Xyoo  Dawb  
-Asclepias speciosa  Paj Nias Zoo Nkauj  
-Yuav Tsim Tawm Txhua Xyoo  Liab/Dawb  
-Aquilegia formosa  Paj Columbine Liab Hauv Zos  
-Yuav Tsim Tawm Txhua Xyoo  Liab  
-Aster subspicatum  Douglas’ Aster  A,B,C,D  Yuav Tsim Tawm Txhua Xyoo  Ntsuab Xiav  
-Camassia leichtlinii  Paj Camas Nrov Tshaj Plaws  
-Yuav Tsim Tawm Txhua Xyoo  Ntsuab Xiav/Dawb  
-Eriophyllum lanatum  Paj Ntuj Khaub Ncaws Oregon  
-Yuav Tsim Tawm Txhua Xyoo  Daj  
-Fragaria vesca  Kua Txob Nyob Zos  
-Yuav Tsim Tawm Txhua Xyoo  Dawb  
-Iris tenax  Paj Iris Hauv Oregon  
-Yuav Tsim Tawm Txhua Xyoo  Ntsuab Xiav  
-Sedum oregonense  Cream Stonecrop  
-Yuav Tsim Tawm Txhua Xyoo  Daj  
-Sidalcea virgata  Paj Rose Checkermallow  
-Yuav Tsim Tawm Txhua Xyoo  Liab  
-Sisyrinchium idahoense  Paj Xiav Muaj Qhov Muaj Tseeb  
-Yuav Tsim Tawm Txhua Xyoo  Xiav/Ntsuab Xiav  
-Solidago canadensis  Paj Goldenrod  A,B,C,D  Yuav Tsim Tawm Txhua Xyoo  Daj
+## Daim Ntawv Teev Cov Nroj Tsuag
+
+Kev tshawb fawb los ntawm Aaron Anderson thiab Gail Langellotto, OSU Garden Ecology Lab
+
+*Cov txiaj ntsig ntawm xyoo 2017 thiab 2018 tau sau luv li no:  
+A - Yuav tau cov kab npoo (bees) ntau tshaj plaws xyoo 2017  
+B - Yuav tau cov kab npoo ib yam hauv teb chaws xyoo 2017  
+C - Yuav tau cov kab npoo ntau tshaj plaws xyoo 2018  
+D - Yuav tau cov kab npoo ib yam hauv teb chaws xyoo 2018.*
+
+Thov mus saib [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/) kom paub meej thiab tau xov xwm tshiab.
+
+---
+
+### Ib Xyoo Tsuag (Annuals)
+
+| Hom Nroj Tsuag                 | Lub Npe Feem Coob | Tshuaj Ntsuam* | Lub Neej | Xim Paj |
+| :----------------------------- | :---------------- | :------------- | :------- | :------ |
+| Acmispon (Lotus) parviflorus   |                   |                | Ib xyoos | Dawb/Paj Liab |
+| Clarkia amoena                 | Paj Nrig Hli Dhau | D              | Ib xyoos | Paj Liab |
+| Collinsia grandiflora          | Paj Ntsuab Xiav Loj |              | Ib xyoos | Xiav |
+| Gilia capitata                 | Paj Gilia Ncig Ncig | A, B, C       | Ib xyoos | Xiav |
+| Lupinus polycarpus             | Paj Lupine Me Me  |                | Ib xyoos | Paj Ntshav Xiav |
+| Madia elegans                  | Paj Madia Feem Coob | A, B         | Ib xyoos | Daj |
+| Nemophila menziesii            | Paj Ntsuab Me Me  |                | Ib xyoos | Xiav/Dawb |
+| Eschscholzia californica       | Paj Kauslimfornia | B, C, D        | Ib xyoos | Txiv kab ntxwv |
+| Helianthus annuus              | Paj Ntuj Noog Feem Coob |          | Ib xyoos | Daj |
+| Phacelia heterophylla          | Paj Phacelia Ntau Yam | C, D        | Ib xyoos | Dawb |
+
+---
+
+### Nroj Tsuag Ntev Ntev (Perennials)
+
+| Hom Nroj Tsuag           | Lub Npe Feem Coob      | Tshuaj Ntsuam* | Lub Neej     | Xim Paj       |
+| :----------------------  | :--------------------- | :------------- | :----------- | :------------ |
+| Achillea millefolium     | Paj Yarrow             | D              | Ntev Ntev    | Dawb          |
+| Anaphalis margaritacea   | Paj Pearly Everlasting |                | Ntev Ntev    | Dawb          |
+| Asclepias speciosa       | Paj Milkweed Zoo Zoo   |                | Ntev Ntev    | Paj Liab/Dawb |
+| Aquilegia formosa        | Paj Columbine Liab Nrab |               | Ntev Ntev    | Liab          |
+| Aster subspicatum        | Paj Aster Douglas      | A, B, C, D     | Ntev Ntev    | Paj Ntshav    |
+| Camassia leichtlinii     | Paj Camas Feem Coob    |                | Ntev Ntev    | Paj Ntshav/Dawb |
+| Eriophyllum lanatum      | Paj Sunshine Oregon    |                | Ntev Ntev    | Daj           |
+| Fragaria vesca           | Strawberry Hav Zoov    |                | Ntev Ntev    | Dawb          |
+| Iris tenax               | Paj Iris Oregon        |                | Ntev Ntev    | Paj Ntshav    |
+| Sedum oregonense         | Paj Stonecrop Cream    |                | Ntev Ntev    | Daj           |
+| Sidalcea virgata         | Paj Checkermallow Liab |                | Ntev Ntev    | Paj Liab      |
+| Sisyrinchium idahoense   | Paj Nyiaj Xiav         |                | Ntev Ntev    | Xiav/Paj Ntshav |
+| Solidago canadensis      | Paj Goldenrod          | A, B, C, D     | Ntev Ntev    | Daj           |
+
+---
+
+#### Kev Tswv Yim los ntawm Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm daim ntawv qhia thiab teev sij hawm kev kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub muaj kev cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua ub no thiab ntaub ntawv raws li haiv neeg, xim tawv, teb chaws keeb kwm, kev ntseeg, poj niam/txiv neej, lub npe poj niam/txiv neej (xws li kev qhia txog poj niam/txiv neej), kev nyiam poj niam/txiv neej, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, tsev neeg/kev ua niam txiv, nyiaj tau los ntawm kev pab nyiaj pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog yav dhau los, lossis rau qhov raug pauj/kev rau txim vim ua haujlwm tiv thaiv cai pej xeem yav dhau los. (Tsis yog txhua yam kev cais tawm no siv rau txhua qhov kev pab cuam.)
+---

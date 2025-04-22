@@ -1,57 +1,115 @@
-# 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener tau sib koom tes nrog thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
+#### Tsev Kawm Ua Liaj Ua Teb 10 Feeb™ · Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Ua Kompost nrog Cov Kab  
-Lub thawv kab yog ib txoj kev yooj yim los hloov cov khib nyiab zaub mov ua chiv thiab kev hloov kho rau koj lub vaj. Cov kab liab yog cov rov ua dua tshiab uas hloov cov tawv txiv apples, qia zucchini, thiab lwm yam khib nyiab hauv chav ua noj hauv ob peb lub hlis xwb.  
-Muab ib lub tsev rau lawv nrog chaw pw thiab khoom noj, thiab lawv yuav pib ua haujlwm.  
+# Ua Compost nrog Cov Kab Nquab (Worms)
 
-### Hom & Tus Naj Npawb Kab  
-Muaj txhiab hom kab hauv ntiaj teb, txhua yam noj cov organic. Cov kab liab, Eisenia foetida, yog qhov zoo rau lub thawv kab vim lawv nyiam cov tawv txiv hmab txiv ntoo thiab zaub, noj tau ntau heev, thiab muaj peev xwm yug tau zoo hauv kev tswj hwm. Lawv me dua kab av. Koj tuaj yeem yuav cov kab li no los ntawm phau ntawv vaj lossis cov chaw muag tsiaj muaj txiaj ntsig.  
-Cov kab tuaj yeem noj tau ib nrab ntawm qhov hnyav ntawm lawv cov zaub mov hauv 24 teev. Kwv yees qhov hnyav ntawm koj lub tsev neeg cov khib nyiab zaub mov txhua hnub los txiav txim seb koj xav tau pes tsawg phaus kab. Ob phaus kab yog xav tau rau txhua phaus ntawm cov khib nyiab hauv chav ua noj ntxiv txhua hnub. Ib phaus kab muaj 1,000 txog 2,000 kab!  
-
-### Cov Yooj Yim Rau Lub Thawv Kab  
-- Lub thawv kab tuaj yeem ua tau homemade lossis yuav tau. Koj tuaj yeem pib nrog ib lub thawv yas, tho qhov rau cua hauv cov sab thiab sab saum toj, lossis koj tuaj yeem yuav ib lub thawv kab uas muaj qhov loj zoo.  
-- Qhov loj ntawm lub thawv yog nyob ntawm seb koj tsim tau pes tsawg khib nyiab hauv ib lub lis piam. Lub thawv loj 1 x 2 x 3 feet tuaj yeem tuav tau 6 phaus khib nyiab hauv chav ua noj hauv ib lub lis piam (ib nrab rau ib tsev neeg plaub mus rau rau tus neeg).  
-- Muab chaw pw rau hauv lub thawv. Cov organic uas xoob xws li cov txiav ntoo (tsis yog cedar), ntawv xov xwm shredded, thiab fiber coconut ua haujlwm zoo rau cov chaw pw. Ntxiv me ntsis xuab zeb lossis av vaj huv si - cov kab nyiam me ntsis. Sau lub thawv txog 80 feem pua ​​nrog cov ntaub ntawv chaw pw.  
-- Ntxiv dej rau cov chaw pw kom txog thaum nws ntub heev. Tshawb xyuas lub chaw pw kom ntub dej los ntawm kev nias qee yam hauv koj txhais tes. Yog tias muaj ob peb tee dej tawm, nws txaus ntub. Txhawm rau kom muaj sia nyob, cov kab xav tau 75 txog 90 feem pua ​​ntawm cov dej noo ntawm lawv lub cev thiab lawv lub chaw pw.  
-- Cua nkag yog qhov yuav tsum tau muaj nyob ib ncig ntawm lub thawv kab. Cov kab xav tau oxygen tsis tu ncua, yog li ntawd yuav tsum muaj qhov rau huab cua nyob rau ntawm lub thawv - nyob rau ntawm lub hau lossis sab. Yog tias koj siv lub thawv yas, nco ntsoov ntxiv qhov dej ntws thiab qhov cua.  
-- Tso koj cov kab rau ntawm cov chaw pw npaj. Tso lub hau qhib kom txog thaum cov kab ua haujlwm mus rau hauv qab. Cov kab tsis nyiam qhov pom kev, yog li lub thawv yuav tsum tsaus ntuj sab hauv thiab muaj lub hau zoo.  
-- Khaws lawv rau qhov chaw uas qhov kub nyob nruab nrab ntawm 50° txog 85°F.  
-- Xaiv qhov chaw uas yooj yim rau kev tswj lub thawv.  
-- Tsis txhob siv lub thawv uas tau siv rau kev khaws cov tshuaj lom.  
-
-### Khoom Noj Kab  
-Txawm hais tias cov kab tuaj yeem rhuav tshem txhua yam khib nyiab organic, nws zoo dua los kho lawv raws li cov neeg noj zaub.  
-- Cov Khoom Noj Uas Muaj Peev Xwm: Ntawv pov tseg zaub, hmoov kas fes & lim, hnab tshuaj yej, ncuav khov (tsis muaj butter lossis mayonnaise), tawv txiv hmab txiv ntoo lossis pulp, tawv qe crushed, cov plaub tsiaj, ntawv shredded.  
-- Cov Khoom Noj Tsis Muaj Peev Xwm: Nqaij, ntses, cov khoom noj mis, cov zaub mov roj lossis roj, dos, tawv txiv qaub, cov khib nyiab vaj (nplooj, qia, thiab nyom), thiab cov khib nyiab tsiaj.  
-
-Thaum pib, ntxiv zaub mov tsawg heev. Qhov no yuam cov kab kom mus tob rau hauv lub chaw pw thiab nyob hauv. Thaum ntxiv cov khib nyiab zaub mov rau lub thawv, txav ib feem ntawm lub chaw pw thiab faus cov zaub mov. Faus cov khoom ntxiv rau lwm qhov chaw sib txawv. Ua ntej ntxiv cov zaub mov tshiab, xyuas seb cov khoom qub puas tau siv. Thaum cov zaub mov tsis noj tau sau ntau, lawv yuav tso tawm ib qho tsw phem. Yog tias qhov ntawd tshwm sim, txiav cov zaub mov thiab ntxeev cov khib nyiab nrog rab rawg vaj.  
-Ntxiv chaw pw tshiab. Saib xyuas kom zoo, ntxiv cov zaub mov tshiab tom qab ob peb hnub. Thaum lub caij ntuj no, kev ua haujlwm ntawm cov kab tuaj yeem qeeb me ntsis. Saib seb lawv noj npaum li cas kom koj tsis txhob muab lawv cov zaub mov ntau dhau.  
-
-Txawm hais tias cov kab yug tau sai heev, lawv yuav tswj lawv cov pej xeem raws li qhov chaw nyob thiab cov zaub mov uas koj muab rau lawv. Yog li ntawd tsis muaj kev txhawj xeeb txog cov kab ntau dhau.  
-
-### Sau & Siv Cov Poov Xaj Kab  
-Tom qab ob peb lub hlis ntawm kev pub mis, feem ntau ntawm lub thawv chaw pw yuav hloov mus rau hauv cov poov kab tsaus thiab xoob thiab yuav pom nyob rau hauv qab ntawm lub thawv. Nws yog lub sijhawm tam sim no los tshem tawm cov kompost tiav thiab ntxiv cov ntaub ntawv chaw pw tshiab. Cov dej chiv uas tau sau kuj tuaj yeem siv tau ua chiv kua.  
-Cov poov xaj kab tuaj yeem ntxiv rau hauv koj cov av vaj lossis av nroj tsuag. Tso ib txheej ntawm kwv yees li ½ nti ntawm cov poov xaj kab ncig koj cov nroj tsuag nyiam, thiab muab dej rau. Rau kev sib tov noob, siv 3 ntu kompost laus rau 1 ntu ntawm cov poov xaj. Cov poov xaj kab feem ntau yog nruab nrab hauv pH thiab muaj cov phosphorus, nitrogen, thiab lwm yam khoom noj thiab minerals.  
-Cov kab liab xav tau cov dej noo txhua xyoo vim lawv tsis mus tob rau kev noo xws li cov kab av. Yog tias koj xav tso lawv rau hauv koj lub vaj, muab lawv ib txheej tuab ntawm mulch saum npoo av kom khaws cov dej noo thiab tiv thaiv lawv los ntawm qhov kub thiab txias. Yog tias qhov ntawd tsis tau ua tau, tsis txhob tso lawv.  
-
-### Cov Teeb Meem Muaj Peev Xwm thiab Kev daws teeb meem  
-- **Tsw Phem:** Koj tuaj yeem tswj qhov tsw phem los ntawm kev tsis txhob ntxiv cov khib nyiab zaub mov ntau dhau rau lub thawv, los ntawm kev khaws cov khoom uas tau teev tseg hauv “Tsis Muaj Peev Xwm” ntawm seem “Khoom Noj Kab,” thiab los ntawm kev muab chaw pw tshiab txaus.  
-- **Kab Tsuag:** Qee zaum cov yoov vinegar me me (feem ntau raug yuam kev rau yoov txiv hmab txiv ntoo) nkag mus, tab sis cov no tsis ua teeb meem. Txawm li cas los xij, tus naj npawb loj ntawm cov yoov vinegar yuav qhia tau tias koj tab tom pub cov kab ntau dhau. Txhawm rau tshem tawm cov yoov vinegar, txo koj tus nqi pub rau qhov ntau ntawm cov kab yuav noj hauv ib hnub thiab npog cov khib nyiab tshiab nrog lub hnab burlap ntub dej lossis ntawv xov xwm.  
-
-Cov cab yuav nkag mus rau koj lub thawv kab sab nraum zoov yog tias koj muaj ntau ntawm lawv, tshwj xeeb yog tias koj tso tus chaw pw kom qhuav dhau lossis muaj kua qaub ntau dhau. Ntxiv dej kom tsa cov dej noo, thiab ntxiv ib qho av lime rau qhov chaw uas cov cab tab tom sib sau. Qhov no yuav tsum ua rau lawv tsis kam. Yog tias lawv tseem nyob, tshem lawv tawm thiab pleev qee Vaseline nyob ib ncig ntawm qhov nkag.  
-Cov nas tuaj yeem yog teeb meem sab nraum zoov. Txoj hauv kev yooj yim tshaj plaws los tiv thaiv lawv nkag mus rau lub thawv kab yog khaws lub hau kaw thiab tsis txhob muaj nqaij khib nyiab. Yog tias muaj cov tsiaj nyob ze lub thawv, tsa lub thawv 12 txog 18 nti ntawm av lossis ruaj ib daim hlau hlau rau hauv qab ntawm lub thawv. Khaws lub thawv lub hau kaw lossis muab ruaj ntseg yog tias muaj cov pos lossis raccoons teeb meem.  
+Ib lub thawv kab nquab yog ib txoj kev yooj yim los hloov cov khoom noj pov tseg ua chiv thiab khoom ntxiv rau koj lub vaj. Cov kab nquab liab yog cov kab paub noj uas yuav hloov phaus txiv apples, ceg zucchini, thiab lwm yam pov tseg hauv chav ua noj ua chiv hauv ob peb lub hlis xwb. Muab ib lub tsev nrog chaw pw thiab khoom noj rau lawv, ces lawv yuav pib ua haujlwm.
 
 ---
 
-### Kev Pab Los Ntawm OSU Extension Service thiab Phau Ntawv  
-- **Sustainable Gardening – The Oregon-Washington Master Gardener Handbook. EM 8742:** [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **Worms Eat My Garbage, Mary Appelhof, Second Edition**  
-- **Welcome to the Can-O-Worms, N. Nattrass**  
+### Hom & Tus Nqi Kab Nquab
 
-### Cov Lus Qhia Master Gardener™  
-- Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Rau 10-Minute University™ cov ntawv thiab cov chav kawm, mus xyuas [www.cmastergardeners.org](www.cmastergardeners.org)  
+Muaj ntau txhiab hom kab nquab nyob rau hauv ntiaj teb no, txhua hom nyias noj nyias hom nroj tsuag pov tseg. Cov kab nquab liab (*Eisenia foetida*) yog haum rau hauv lub thawv kab nquab vim lawv nyiam noj cov txiv hmab txiv ntoo thiab zaub pov tseg, noj heev, thiab yug tau zoo hauv kev tu tsev. Lawv me dua kab nquab av. Koj yuav tau cov kab no ib phaus los ntawm phau ntawv muag vaj lossis cov chaw muag kab pab txhawb rau vaj.
 
-Oregon State University Extension Service tsis pub ua kev ntxub ntxaug hauv txhua qhov kev pab cuam, kev pabcuam, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, tus kheej (nrog rau kev hais lus), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, xwm txheej sib yuav, tsev neeg/kev ua niam txiv, cov nyiaj tau los los ntawm kev pab cuam pej xeem, kev ntseeg txog kev nom kev tswv, cov ntaub ntawv caj ces, tus qub tub rog, kev ua pauj lossis kev ua pauj rau kev ua haujlwm kev cai lij choj ua ntej. (Tsis yog txhua qhov kev txwv tau siv rau txhua qhov kev pab cuam.)
+Kab nquab yuav noj ib nrab ntawm lawv tus kheej qhov hnyav ntawm cov khoom noj hauv 24 teev. Kwv yees seb koj tsev neeg pov tseg noj pes tsawg phaus ib hnub, kom paub yuav tsum muaj pes tsawg phaus kab nquab. Ob phaus kab nquab xav tau ib phaus pov tseg hauv chav ua noj txhua hnub. Ib phaus kab nquab yog 1,000 txog 2,000 tus!
+
+---
+
+### Cov Cai Tseem Ceeb Rau Thawv Kab Nquab
+
+- **Thawv kab nquab** yuav ua tau hauv tsev los yog yuav. Koj pib tau nrog lub thawv yas, xuas cav qhov rau sab thiab saum toj kom cua nkag tau, los yog yuav ib lub thawv kab nquab uas haum.
+- **Qhov loj** nyob ntawm seb koj pov tseg pes tsawg phaus hauv ib lim tiam. Ib lub thawv 1 x 2 x 3 ko taw yuav tuav tau 6 phaus pov tseg hauv chav ua noj ib lim tiam (ib tsev neeg 4-6 leej).
+- **Chaw pw**: Cov khoom nplaum xws li sawdust ntoo (tsis yog ntoo tshauv), ntawv xov xwm txho, thiab fiber ntoo txiv maj phaub yog cov khoom zoo ua chaw pw. Ntxiv me ntsis xuab zeb lossis av vaj — kab nquab nyiam me ntsis pob zeb. Sau kom txog 80% ntawm lub thawv nrog cov khoom no.
+- **Dej noo**: Ntxiv dej kom cov chaw pw ntub nyoos. Kuaj dej noo los ntawm nias me ntsis hauv tes, yog tawm ob peb tee dej ces txaus lawm. Kab nquab xav tau 75–90% dej noo rau lawv lub cev thiab chaw pw.
+- **Cua nkag**: Kab nquab xav tau pa oxygen, xuas cav qhov rau lub thawv — saum lossis sab. Yog siv thawv yas, nco ntsoov muaj qhov tso dej thiab qhov rau cua.
+- **Ntxiv kab nquab**: Tso kab nquab rau saum chaw pw. Cia lub hau qhib kom txog thaum kab nquab nkag mus hauv chaw pw. Kab nquab ntshai tshav ntuj, yog li lub thawv yuav tsum tsaus thiab muaj hau zoo.
+- **Kub**: Cia rau qhov chaw uas kub nyob nruab nrab ntawm 50° txog 85°F.
+- **Qhov chaw**: Xaiv qhov chaw yooj yim rau kev tu thawv.
+- **Kev nyab xeeb**: Tsis txhob siv lub thawv uas siv rau tshuaj lom.
+
+---
+
+### Khoom Noj Rau Kab Nquab
+
+Txawm kab nquab yuav noj tau ntau yam pov tseg, tab sis zoo tshaj yog kom lawv noj zaub xwb.
+
+#### Yuav Pub:
+
+- Cov pov tseg zaub
+- Kua kas fes & lim kas fes
+- Kas fes tshuaj yej
+- Nqeeb mov (tsis txhob muaj butter lossis mayonnaise)
+- Plhaub lossis nplaum txiv hmab txiv ntoo
+- Plua tshauv qe
+- Cov plaub tsiaj
+- Ntawv txho
+
+#### Tsis Pub Noj:
+
+- Nqaij, ntses, khoom mis nyuj
+- Cov zaub mov roj lossis roj ntau
+- Dos, plhaub txiv kab ntxwv, txiv qaub
+- Cov pov tseg vaj (nplooj, ceg, nyom)
+- Pluag tsiaj
+
+Pib mas, muab me ntsis khoom noj xwb. Qhov no ua rau kab nquab nkag mus tob rau hauv chaw pw thiab nyob ruaj. Thaum muab pov tseg rau hauv thawv, qheb me ntsis chaw pw, muab khoom noj zais hauv qab. Zais cov khoom noj tshiab rau ntau qhov sib txawv. Ua ntej ntxiv khoom noj tshiab, xyuas seb cov qub puas tseem tshuav.
+
+Yog cov khoom noj tsis noj tag, nws yuav ua ntxhiab tsw phem. Yog muaj li ntawd, tsum tsis pub noj, siv rab duav lossis faw ntoo los ntxuav pov tseg. Ntxiv chaw pw tshiab. Saib thiab tos ob peb hnub mam ntxiv khoom noj tshiab. Thaum caij no ntuj txias, kab nquab yuav qeeb noj. Saib kom zoo seb lawv noj li cas, txhob pub noj ntau dhau.
+
+Txawm kab nquab yuav yug tau ceev, lawv yuav tswj lawv tus kheej kom haum rau qhov chaw thiab khoom noj. Yog li, tsis txhob txhawj txog kab nquab nyob coob dhau.
+
+---
+
+### Kev Sau & Siv Kab Nquab Cov Quav (Worm Castings)
+
+Tom qab ob peb lub hlis pub noj, feem ntau ntawm cov chaw pw hauv thawv yuav hloov mus ua cov quav kab nquab tsaus nti, muag muag, nyob hauv qab thawv. Sij hawm no koj yuav tsum tshem cov compost tiav thiab ntxiv chaw pw tshiab.
+
+Dej tshuaj chiv uas sau tau, siv tau ua chiv dej. Cov quav kab nquab muab ntxiv rau hauv av vaj lossis av cog paj. Tso ½ ntiv tes quav kab nquab rau ib ncig koj cov nroj tsuag thiab muab dej. Rau av cog yub, siv 3 feem compost laus thiab 1 feem quav kab nquab.
+
+Kab nquab cov quav feem ntau pH nruab nrab, muaj phosphorus, nitrogen, thiab lwm yam tshuaj thiab zaub mov.
+
+Kab nquab liab xav tau chaw noo tag nrho xyoo, vim lawv tsis khawb tob nrhiav dej zoo li kab nquab av. Yog koj xav tso lawv rau hauv vaj, muab ib txheej mulch tuab rau saum av kom muaj dej noo thiab tiv cua txias kub. Yog tsis muaj, tsis txhob tso lawv.
+
+---
+
+### Cov Teeb Meem thiab Kev daws
+
+#### Ntxhiab
+
+Koj tswj tau ntxhiab los ntawm:
+
+- Tsis pub khoom noj pov tseg ntau dhau rau hauv thawv
+- Tsis pub cov khoom sau rau hauv “Tsis Pub Noj” nyob rau seem “Khoom Noj Rau Kab Nquab”
+- Ntxiv chaw pw tshiab zoo txaus
+
+#### Kab/Pluag
+
+- **Kab nplaum kua txob (Vinegar flies)**: Qee zaum muaj kab nplaum me me nkag los, tab sis lawv tsis ua phem. Yog muaj coob heev, tej zaum koj pub kab nquab noj ntau dhau. Yuav tshem kom ploj:
+  - Txo cov khoom noj kab nquab kom noj tag hauv ib hnub.
+  - Npog cov pov tseg tshiab nrog ntaub burlap lossis ntawv xov xwm ntub dej.
+- **Muaj kab ntsaum**: Kab ntsaum nkag yog thaum chaw pw qhuav heev lossis muaj kua qaub ntau.
+  - Ntxiv dej kom chaw pw muaj dej noo.
+  - Ntxiv av lime rau qhov chaw ntsaum coob.
+  - Yog tseem muaj, muab ntsaum tshem tawm thiab pleev Vaseline rau qhov lawv nkag.
+- **Pluag**: Pluag yog teeb meem sab nraum zoov.
+  - Kaw hau kom zoo thiab tsis pub khoom noj nqaij.
+  - Yog pom tsiaj nyob ze thawv, tsa thawv siab 12–18 ntiv taw lossis muab hlau mesh rau hauv qab thawv.
+  - Kaw hau kom ruaj yog muaj possum lossis raccoon tuaj.
+
+---
+
+### OSU Extension Service Cov Kev Pab & Phau Ntawv
+
+- **Sustainable Gardening – The Oregon-Washington Master Gardener Handbook**  
+  EM 8742  
+  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Worms Eat My Garbage**, Mary Appelhof, Tsab 2
+- **Welcome to the Can-O-Worms**, N. Nattrass
+
+---
+
+#### Tswv Yim Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Yog xav paub ntxiv txog cov ntaub ntawv 10-Minute University™ thiab teev sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service txwv tsis pub ua kev ntxub ntxaug hauv txhua txoj haujlwm, kev pabcuam, kev ua si, thiab cov ntaub ntawv raws li haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam txivneej, tus kheej (xws li kev qhia tus kheej), kev nyiam sib deev, xiam oob khab, hnub nyoog, kev muaj txij nkawm, tsev neeg/kev ua niam txiv, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg ua nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev txais txim, lossis kev ua phem vim kev tiv thaiv cai. (Tsis yog txhua cov txwv no siv rau txhua txoj haujlwm.)
+---

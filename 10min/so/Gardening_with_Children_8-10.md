@@ -1,63 +1,97 @@
-# Jaamacadda 10-Daqiiqo™  
-Ururka Oregon Master Gardener™ – Laanta Degmada Clackamas  
-Iyadoo la kaashanayo Adeegga Dheeraadka Jaamacadda Oregon State  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraha Master Gardener™ – Laanta Clackamas County · Wada-shaqayn la leh Adeegga Kordhinta Jaamacadda Gobolka Oregon
 
-## Beerta Carruurta Da'doodu tahay 8-10  
-### Maxay tahay sababta loogu beerayo carruurta?  
-- Waxay si toos ah u arki karaan wareegga nolosha.  
-- Waxay baranayaan mas'uuliyadda waxayna korinayaan hal-abuurka.  
-- Waxay fahmi doonaan sida aan ugu tiirsanahay dabeecadda iyo kheeraadka dabiiciga ah.  
+# Beeraleyda Carruurta Da’doodu Tahay 8-10
 
-Beerta carruurta da'doodu tahay 8 ilaa 10 waa mid aad u abaal marin badan maadaama ay leeyihiin madax-bannaani badan oo ay ku raaxaystaan la shaqeynta dadka waaweyn mashruucyo muhiim ah. Waxay ka soo baxayaan bannaanka waxayna isku xiraan dabeecadda. Waxay weydiin karaan su’aalo, baari karaan, baran karaan sabab iyo natiijo, iyo xirfado ku saabsan qorsheynta iyo xallinta dhibaatooyinka.  
+### Maxaa Loogu Beeralaa Carruurta?
 
-## Fikradaha La Tixgeliyo  
-- U siiyaan boos gaar ah, ha noqoto sariir kor u qaaddan, dheriyo ama qayb ka mid ah dhulka. Carruur kasta waa inuu yeesho booskiisa.  
-- Ka dhig mid yar sababtoo ah boos yar ayaa la maareyn karaa si fudud wax walbana waxay u muuqdaan kuwo waaweyn iyada oo loo marayo indhaha carruurta. Ka bilaab yar oo ku kordhi cabbirka da'dooda iyo xiisahooda.  
-- Ku dhig beertooda meesha ugu fiican ee leh qorrax ku filan iyo ilo biyo ah.  
-- U isticmaal qalab shaqo oo dhab ah. Ha siin qalab caag ah oo jabi kara oo sababi kara niyad-jabka beeralay cusub.  
+- Waxay si toos ah uga baran karaan wareegga nolosha.
+- Waxay ka baranayaan masuuliyadda waxayna horumarinayaan hal-abuurkooda.
+- Waxay fahmayaan sida aan ugu tiirsanahay dabeecadda iyo deeqdeeda.
 
-## Waxqabadyo  
-Carruurta da'dan ku jirta waxay lahaan doonaan fikrado ku saabsan noocyada waxyaabaha ay jeclaan lahaayeen inay koraan oo daryeelaan, sidaas darteed u oggolow inay qorsheeyaan beertooda. Waxay u baahan doonaan xasuusin ah inay si taxaddar leh u akhriyaan xirmooyinka abuurka si ay u ogaadaan wakhtiyada soo baxa, kala dheereynta, iyo maalmaha ilaa beergoosadka. Mararka qaar tijaabo iyo qalad ayaa noqon kara macallin weyn oo ku saabsan sida iyo goorta lagu kori karo booskaaga beeraha.  
+Beerashada la carruurta da’doodu tahay 8 ilaa 10 waa mid aad u faa’iido badan, maadaama ay leeyihiin madax-bannaani dheeraad ah isla markaana ay jecel yihiin inay la shaqeeyaan dadka waaweyn mashaariicda muhiimka ah. Waxay u baxaan bannaanka, waxayna la xiriiraan dabeecadda. Waxay weydiin karaan su’aalo, baari karaan, baran karaan sabab iyo natiijo, waxayna horumarin karaan xirfadaha qorsheynta iyo xallinta dhibaatooyinka.
 
-### Hagaajinta Carrada Beerta Ka Hor Inta Aan Loo Beeran Khudaarta  
-Ku darista saxarada digaagga ama lo'da ee sariirta beerta ee loo qoondeeyay waxay caawinaysaa carruurta inay fahmaan muhiimadda nitrogen-ka ee beerta iyo sida loo isticmaalo saxarada xoolaha si fiican loogu soo celiyo qashinka iyadoo la caawinayo dhirta inay koraan. Waxay u sheegi karaan inay "qadhmuun" tahay oo "naxdin leh" laakiin waa in lagu dhiirrigeliyaa inay noqdaan saynisyahanno. Buugga Khudaarta Beeridda ee Oregon (bogga 1) wuxuu leeyahay warbixin dheeraad ah.  
-[Buugga Khudaarta Beeridda](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)  
+### Fikrado La Tixgeliyo
 
-### Dhis Sanduuqa Cayayaanka  
-Sanduuqyada cayayaanka waxaa laga dhisi karaa agab kala duwan waxayna u noqon karaan kuwo waaweyn ama yaryar sida loo doono. Marka la dhisayo sanduuqa cayayaanka, waxaad u baahan tahay inaad ka fikirto weel, gogol, oksijiin iyo cunto. Waxaad abuuri doontaa nidaam-yar oo decompose ah. Waa inaad tixgelisaa agab ku habboon habka burburka, qoyaanka, iyo kulaylka/kulka suurtagalka ah sanadka oo dhan.  
-[Habka Cayayaanka Ku Composting](https://catalog.extension.oregonstate.edu/em9034)  
-Buugga Cayayaanka Waxay Cunaan Qashinkayga ee ay qortay Mary Appelhof wuxuu sharaxayaa sida loo dhiso loona ilaaliyo sanduuqa cayayaanka.  
+- Siiy carruurta meel u gaar ah, ha noqoto sariir la qaadi karo, dheriyo, ama meel dhulka ah. Mid kasta oo carruurta ka mid ah waa inuu yeeshaa meel u gaar ah.
+- Ka dhig mid yar, sababtoo ah meel yar way fududahay in la maareeyo, wax walbana way u weyn yihiin indhaha carruurta. Ka bilow meel yar, korna u qaad iyadoo da’dooda iyo xiisahooda kordhayo.
+- Ku door beertooda meel ugu fiican oo leh qorrax ku filan iyo biyo u dhaw.
+- Isticmaal qalab shaqo oo dhab ah. Ha siin qalab caag ah oo fudud u jabi kara oo ka niyad jebin kara beeraleyda cusub.
 
-### Beerista Galay iyo Ubaxa Qorraxda  
-Beerista waxay carruurta bartaa qoto-dheerida lagu beero abuurka cabbirro kala duwan iyo kala dheereynta loo baahan yahay si dhirta ay boos ku filan ugu helaan inay koraan. Immisa ayey qaadanaysaa inay soo baxaan? Immisa dheer ayay koraan? Ma ku beereen meel ku habboon beerta? Abuurka ma la qoyn karaa ka hor inta aan la beerin si loo yareeyo wakhtiga soo baxa?  
-Buugga "Korinta Waxaad Koraan" wuxuu bixiyaa macluumaad ku saabsan sida loo koro noocyo badan oo dhir ah.  
-[Korinta Waxaad Koraan](https://catalog.extension.oregonstate.edu/em9027)  
+### Hawlo La Sameeyo
 
-### Beerista Ubax Pollinators  
-Ka bilow adigoo eegaya pollinators-ka booqda beertaada. Ma leedahay shinni, balanbaalis, ama shimbiraha hummingbird? Waa maxay midabada ubaxa ee ay xiiseynayaan pollinators-ka, sida casaan, guduud, rosa, caddaan iyo huruud. Honeysuckle, salvia iyo geedka digirta waa ikhtiyaar u ah hummingbirds-ka, halka milkweed uu yahay ikhtiyaar u ah balanbaalisyada monarch-ka. Dhirta soo socda sidoo kale waxay soo jiitaan pollinators-ka: anise hyssop, basil, catnip, chives, cilantro, dill, fennel iyo lavender.  
-[12 Dhir si loo soo jiito Pollinators-ka](https://extension.oregonstate.edu/news/12-plants-entice-pollinators-your-garden)  
+Carruurta da’dan waxay haystaan fikrado ku saabsan waxa ay rabaan inay beeraan oo koraan, sidaa darteed u oggolow inay qorsheeyaan beertooda. Waa in la xasuusiyaa inay akhriyaan baakadaha abuurka si taxaddar leh, si ay u ogaadaan waqtiga biqilka, kala fogaanta, iyo maalmaha goosashada. Mararka qaar, tijaabo iyo khalad ayaa ah macalin weyn sida iyo goorta wax loo beero.
 
-## Ku Dar Aqoonta Akhriska  
-Waxaa jira buugaag sawirro iyo buugaag waxbarasho oo aad u fiican oo ku saabsan beerista oo carruurta ay jeclaan doonaan ka hor inta aysan bilaabin iyo inta ay ku guda jiraan shaqada beerta. Akhriska codka dheer u akhri carruurta waxay dhiirrigelisaa su'aalo waxayna noqon kartaa bilow qorshooyin beerta. Makaanihiintaada maxalliga ah ayaa ku farxi doona inay kaa caawiyaan inaad hesho ilo aad adiga iyo ilmahaagu ku raaxaysan kartaan. Waa kuwan talooyin:  
-- “Tops and Bottoms” oo ay qortay Janet Stevens  
-- “Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden” oo ay qortay Renata Fossen Brown  
-- “Let’s Get Gardening” oo ay qortay DK  
-- “How Plants Work” oo ay qortay Linda Chalker-Scott  
-- “Plants You Can’t Kill” oo ay qortay Stacy Tornio  
-- “Dana Digs In” oo ay qortay Laura Pedersen  
-- “Harlem Grown” oo ay qortay Tony Hillery  
-- “The Little Gardener: Helping Children Connect with the Natural World” oo ay qortay Julie A. Cerny  
-- “One Small Square – Backyard” oo ay qortay Donald Silver  
-- “Flowers Are Calling” oo ay qortay Rita Gray  
-- “Bees, Bugs and Butterflies: A Family Guide to our Garden Heroes and Helpers” oo ay qortay Ben Raskin  
-- “The Reason For A Flower” oo ay qortay Ruth Heller  
+#### Hagaaji Carada Beerta Ka Hor Intaadan Beerin Khudrado
 
-## Kheyraadka Jaamacadda Oregon State  
-Buugga Waxbarista ee Beerta Khudaarta  
-[Educator’s Guide](https://catalog.extension.oregonstate.edu/em9032)  
+Ku darista digada digaagga ama lo’da ee la qariyey sariirta beerta ayaa ka caawinaysa carruurta inay fahmaan muhiimadda ay leedahay nitrogen-ka beerta, iyo sida isticmaalka digada xoolaha ay uga qayb qaadato dib u warshadaynta qashinka iyadoo caawineysa koritaanka dhirta. Waxay dhihi karaan waa “wasakh” ama “xun,” balse waa in lagu dhiirrigeliyaa inay u shaqeeyaan sidii saynisyahano.
 
-## Talooyinka Master Gardener™  
-- Wac Khadka Caawinta Horticulture: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Wixii qoraallo ah iyo jadwalka fasalka ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](www.cmastergardeners.org).  
+Buugga “Vegetable Gardening in Oregon” (bogga 1) wuxuu bixiyaa macluumaad:  
+[Vegetable Gardening in Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-Adeegga Dheeraadka Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan midabka, asal ahaan qowmiyada, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), xuquuqda galmada, naafada, da’da, heerka guurka, heerka qoyska/waalidka, dakhliga laga helay barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-wadaha, heerka halyeeyga, ama ciqaabta ama aargoosiga hawlihii hore ee xuquuqda madaniga. (Maahan dhammaan saldhigyada mamnuuca ee ay khuseyso dhammaan barnaamijyada).
+#### Samee Sandiq Quraansho
+
+Sandiqyada quraanshada waxaa laga sameyn karaa walxo kala duwan, waxayna noqon karaan kuwo waaweyn ama yaryar sidaad rabto. Marka aad dhisayso sanduuqa quraanshada, waa inaad ka fikirtaa weelka, gogosha, hawada, iyo cunto. Waxaad abuureysaa nidaam yaryar oo burburinaya qashinka. Ka fiirso walxo u adkeysan kara burburka, qoyaan, iyo kulka ama qabowga sanadka oo dhan.
+
+Khayraad:
+
+- [Composting with Worms](https://catalog.extension.oregonstate.edu/em9034)
+- *Worms Eat My Garbage* by Mary Appelhof
+
+#### Beero Galley iyo Ubax Qorraxeed
+
+Beerista waxay baraysaa carruurta sida qoto dheer ee abuurka kala duwan loo geliyo dhulka iyo inta ay kala fog yihiin si dhirtu ay u hesho meel ay ku korto. Su’aalo la is weydiiyo:
+
+- Intee in le’eg ayay qaadanaysaa in ay biqilaan?
+- Intee dheer ayay kori doonaan?
+- Ma meel ku habboon ayay ku beereen beerta?
+- Abuurka ma la qoyaa ka hor inta aan la beerin si loo yareeyo waqtiga biqilka?
+
+[Growing Your Own](https://catalog.extension.oregonstate.edu/em9027) wuxuu bixiyaa tilmaamo “sida loo sameeyo” dhir kala duwan.
+
+#### Beero Ubaxyo Soo Jiita Duqsiyada Dabeecadda
+
+Ka bilow daawashada duqsiyada dabeecadda ee ugu badan beertaada. Ma leedahay shinni, balanbaalis, ama shimbiro yaryar? Waa maxay midabada ubaxa ee ay jecel yihiin duqsiyada dabeecadda, sida casaan, buluug, pink, caddaan, iyo huruud?
+
+Talooyin:
+
+- Ubaxyo sida honeysuckle, salvia, iyo digirta oo u fiican shimbiraha yaryar.
+- Milkweed oo u fiican balanbaalisyada nooca monarch.
+- Dhirta udgoon ee soo jiidata duqsiyada: anise hyssop, basil, catnip, chives, cilantro, dill, fennel, iyo lavender.
+
+[12 Plants to Encourage Pollinators](https://extension.oregonstate.edu/news/12-plants-entice-pollinators-your-garden)
+
+### Ku Dar Akhris
+
+Waxaa jira buugaag sawiro iyo kuwo tilmaamo bixinaya oo beeraleyda carruurta aad u qadariyaan ka hor inta aysan bilaabin beerta iyo inta ay ku jiraan shaqada. Akhrinta cod dheer waxay keentaa su’aalayn, waxayna noqon kartaa meel laga bilaabo qorshaha beerta. Maktabadda deegaankaaga ayaa kaa caawin karta inaad hesho buugaag adiga iyo ilmahaaguba aad jeclaan doontaan.
+
+#### Buugaag Lagu Taliyo
+
+- *Tops and Bottoms* by Janet Stevens
+- *Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden* by Renata Fossen Brown
+- *Let’s Get Gardening* by DK
+- *How Plants Work* by Linda Chalker-Scott
+- *Plants You Can’t Kill* by Stacy Tornio
+- *Dana Digs In* by Laura Pedersen
+- *Harlem Grown* by Tony Hillery
+- *The Little Gardener: Helping Children Connect with the Natural World* by Julie A. Cerny
+- *One Small Square – Backyard* by Donald Silver
+- *Flowers Are Calling* by Rita Gray
+- *Bees, Bugs and Butterflies: A Family Guide to Our Garden Heroes and Helpers* by Ben Raskin
+- *The Reason for a Flower* by Ruth Heller
+
+### Khayraadka Jaamacadda Gobolka Oregon
+
+[Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)
+
+#### Talooyinka Master Gardener™
+
+- **Wac Khadka Caawinta Beeraleyda:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Wixii warqado kale oo 10-Minute University™ ah iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadooda, adeegyada, hawlaha, iyo agabka dhammaan asbaabaha la xiriira jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhliga laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda askarnimo, aargudasho, ama ciqaab lagu sameeyay hawlo xuquuqda bulshada ee hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan barnaamijyada oo dhan.)
+---

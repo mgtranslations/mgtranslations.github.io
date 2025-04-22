@@ -1,77 +1,84 @@
-### 10-Minute University™  
-Ang Clackamas County Master Gardener Association, sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-#### Mga Panakip na Pananim para sa Hardin ng Gulay sa Bahay  
-Ang mga panakip na pananim ay nagtatakip at nagpapabuti sa lupa. Maaaring itanim ang mga ito sa taglagas upang matakpan ang mga bakanteng lugar o itanim sa tagsibol bilang bahagi ng pag-ikot ng pananim. Maraming mga halaman, kabilang ang mga legumbre, damo, at mga perennial na malalapad ang dahon, ang nagsisilbi sa layuning ito.  
+# Mga Cover Crop para sa Home Vegetable Gardens
 
-#### Mga Benepisyo  
-- Nagdadagdag ng organikong materyal sa lupa at nagpapabuti sa kalidad nito  
-- Ang mga legumbre ay nagbibigay ng nitrogen  
-- Pinoprotektahan ang lupa laban sa pagkapipi  
-- Pinipigilan ang pagkalat ng mga damo  
-- Binabalik ang mga sustansya at pinipigilan ang pagtagas  
-- Pinoprotektahan ang lupa laban sa erosyon  
-- Nagbibigay ng pagkain (pulot at nektar) para sa mga polinator at iba pang kapaki-pakinabang na insekto  
+Ang mga cover crop ay tumatakip at nagpapabuti ng lupa. Maaari silang itanim sa taglagas para takpan ang mga bakanteng bahagi o itanim sa tagsibol bilang bahagi ng crop rotation. Maraming uri ng halaman, kabilang ang mga legume, damo, at malalapad na perennial, ang nagsisilbi para sa layuning ito.
 
-#### Paano Pumili  
-Maraming kandidato para sa mga panakip na pananim, bawat isa ay may mga kalamangan at kahinaan. Sa pangkalahatan, gumagawa sila ng biomass sa panahon na ang hardin ay bakante. Ang biomass na ito, pagkatapos ng pagpatay, ay nagiging pinagmulan ng organikong materyal na nagpapabuti sa kakayahan ng lupa na maghawak ng tubig at sustansya. Tumaas ang organikong materyal ng lupa kahit na ang mga panakip na pananim ay pinutol at ginamit bilang mulch o isinama sa lupa.  
+## Mga Benepisyo
 
-Ang mga legumbre ay nag-aayos ng nitrogen sa hangin at iniimbak ito sa mga ugat. Kapag ang halaman ay pinatay, binabasag ito ng mga mikrobyo sa lupa at inilalabas ang nitrogen para magamit ng mga halaman. Ang mga panakip na pananim na legumbre ay nagpapababa ng pangangailangan para sa pataba na may nitrogen.  
+- Nagdadagdag ng organikong bagay sa lupa at nagpapaganda ng kalagayan ng lupa
+- Ang mga legume ay nagbibigay ng nitrogen
+- Pinoprotektahan ang lupa mula sa pagkasiksik
+- Nakakapigil ng mga damo
+- Nirerecycle ang mga sustansya at pinipigilan ang pag-leach nito
+- Pinoprotektahan ang lupa laban sa erosion
+- Nagbibigay ng pagkain (pollen at nectar) para sa mga pollinator at iba pang kapaki-pakinabang na insekto
 
-Ang mga damo ay mabilis tumubo upang maiwasan ang erosyon ng lupa at mapigilan ang mga damo. Ang kanilang malalalim na ugat ay nagpapabuti sa lupa at kumukuha ng natitirang nitrogen sa lupa sa pagtatapos ng panahon ng tanim upang maiwasan ang pagtagas ng sustansya. Kapag ang damo lamang ang ginamit, may posibilidad na maubos ang nitrogen sa lupa. Gumamit ng damo at legumbre nang magkasama upang makuha ang pinakamalaking benepisyo mula sa mga panakip na pananim.  
+## Paano Pumili
 
-Ang iba pang mga halamang damo tulad ng buckwheat at phacelia ay may mas mataas na nilalaman ng nitrogen kaysa sa damo ngunit mas mababa kaysa sa legumbre. Maaari silang magbigay ng nitrogen para sa susunod na pananim at kadalasan ay hindi nauubos ang nitrogen sa lupa. Madali rin silang isama sa lupa. Sila ay mabilis mamulaklak at maaaring magbigay ng pagkain para sa mga polinator at iba pang kapaki-pakinabang na insekto.  
+Maraming klase ng cover crop, bawat isa ay may sariling benepisyo at kahinaan. Sa pangkalahatan, sila ay lumalago at gumagawa ng biomass habang bakante ang hardin. Pagkatapos patayin, ang biomass na ito ay nagiging organikong bagay na nagpapabuti sa kapasidad ng lupa na humawak ng tubig at sustansya. Tumataas ang organikong bagay sa lupa, kahit putulin at gawing mulch o ihalo sa lupa ang mga pananim na ito.
 
-#### Paano Magsimula  
+- **Legume** ay kumukuha ng nitrogen mula sa hangin at iniimbak ito sa mga ugat. Pag napatay na ang halaman, binabasag ito ng mga mikrobyo at pinapalaya ang nitrogen para magamit ng ibang halaman. Nakakatulong ang legumes na mabawasan ang pangangailangan sa nitrogen fertilizer.
+- **Damo (Grasses)** ay mabilis tumubo para pigilan ang erosion at damo. Ang kanilang malalim na ugat ay nagpapabuti ng lupa at kumukuha ng natitirang nitrogen para hindi ito mawala. Kapag damo lang ang ginamit, maaaring maubos ang nitrogen sa lupa. Mas mainam kung pagsasamahin ang damo at legume para makuha ang pinakamaraming benepisyo.
+- **Ibang halamang damo** (forbs) tulad ng buckwheat at phacelia ay may mas mataas na nitrogen kaysa damo ngunit mas mababa kaysa legumes. Nakakatulong din sila magbigay ng nitrogen at hindi masyadong nauubos ang nitrogen ng lupa. Madali rin silang ihalo sa lupa. Mahilig silang mamulaklak at nagbibigay ng pagkain sa mga pollinator at kapaki-pakinabang na insekto.
 
-##### Pagpili  
-Kung ikaw ay baguhan sa mga panakip na pananim, pumili ng mga opsyon tulad ng oats at daikon na malamang ay mamamatay sa taglamig. Ang mga halamang ito ay hindi nangangailangan ng karagdagang hakbang para sa pagpatay bago magtanim ng susunod na pananim. Kung hindi, pumili ng panakip na pananim batay sa nais na benepisyo. Ang ilan sa mga karaniwang uri ay nakalista sa ibaba:  
+## Paano Magsimula
 
-###### PANAHON NG TAGLAMIG  
-| Panakip na Pananim | Nagbibigay ng Nitrogen | Pinipigilan ang Damo | Nagpapabuti sa Lupa | Kinokontrol ang Erosyon | Nagbibigay ng Pagkain sa Polinator |  
-|--------------------|------------------------|----------------------|---------------------|-------------------------|------------------------------------|  
-| Crimson Clover     | X                    | X                  | X                 |                         |                                    |  
-| Austrian Winter Pea| X                    | X                  | X                 | X                       |                                    |  
-| Cereal Rye         |                      | X                  | X                 | X                       |                                    |  
-| Oats               |                      | X                  | X                 | X                       |                                    |  
-| Forage Radish      |                      | X                  | X                 | X                       |                                    |  
-| Winter Wheat       |                      | X                  | X                 | X                       |                                    |  
+### Pagpili
 
-###### PANAHON NG TAG-INIT  
-| Panakip na Pananim | Nagbibigay ng Nitrogen | Pinipigilan ang Damo | Nagpapabuti sa Lupa | Kinokontrol ang Erosyon | Nagbibigay ng Pagkain sa Polinator |  
-|--------------------|------------------------|----------------------|---------------------|-------------------------|------------------------------------|  
-| Buckwheat          |                      | X                  |                   |                         | X                                  |  
-| Common Vetch       | X                    |                    | X                 | X                       |                                    |  
-| Sorghum-Sudangrass |                      | X                  | X                 | X                       |                                    |  
-| Phacelia           |                      | X                  |                   |                         | X                                  |  
+Kung bago ka sa cover crops, pumili ng mga opsyon gaya ng oats at daikon na malamang ay mamamatay sa taglamig. Hindi na kailangan ng dagdag na hakbang para patayin ang mga ito bago magtanim ng susunod na pananim. Kung hindi, pumili ng cover crop base sa benepisyong gusto mo. Ilan sa mga karaniwang species ay nasa ibaba:
 
-##### Oras  
-Upang matakpan ang lupa sa panahon ng taglagas at taglamig, magtanim ng panakip na pananim sa huling bahagi ng tag-init hanggang taglagas. Diligan bago dumating ang ulan para sa magandang pagtubo at matibay na paglaki. Para sa pagtatakip ng lupa sa panahon ng tagsibol at tag-init, magtanim sa huling bahagi ng tagsibol kapag ang lupa ay maaaring trabahuhin at sapat na mainit para sa pagtubo.  
+### Mga Cover Crop para sa Malamig na Panahon
 
-##### Pagtatanim  
-Direktang itanim ang mga buto sa isang handa na lugar. Sundin ang mga tagubilin na kasama ng mga buto para sa tamang dami ng pagtatanim. Ikalat gamit ang kamay o gamit ang pang-ikalat na pangkamay. Kalikutin ang ibabaw at bahagyang pindutin gamit ang kahoy upang mapabuti ang kontak sa lupa. Diligan nang maayos para sa magandang pagtubo.  
+| Cover Crop           | Nag-aayos ng Nitrogen | Nakakapigil ng Damo | Nagpapaganda ng Lupa | Kontrol sa Erosion | Pagkain para sa Pollinator |
+|----------------------|:--------------------:|:-------------------:|:--------------------:|:------------------:|:--------------------------:|
+| Crimson Clover       | X                    |                     | X                    | X                  |                            |
+| Austrian Winter Pea  | X                    | X                   | X                    | X                  |                            |
+| Cereal Rye           |                      | X                   | X                    | X                  |                            |
+| Oats                 |                      | X                   | X                    | X                  |                            |
+| Forage Radish        |                      | X                   | X                    | X                  |                            |
+| Winter Wheat         |                      | X                   | X                    | X                  |                            |
+| Common Vetch         | X                    |                     | X                    | X                  |                            |
+| Phacelia             |                      | X                   | X                    | X                  | X                          |
 
-Kung magtatanim sa lugar kung saan tapos na ang pananim sa tag-init, magtanim sa buong kama. Alisin ang mulch, linisin ang mga halaman, paluwagin ang pinakamataas na 1-2 pulgada ng lupa, pagkatapos ay itanim ang mga buto. Kung hindi pa tapos ang pananim sa tag-init, alisin ang mulch, paluwagin ang pinakamataas na bahagi ng lupa, at itanim ang mga buto ng panakip na pananim sa pagitan ng mga gulay sa tag-init.  
+### Mga Cover Crop para sa Mainit na Panahon
 
-##### Pagpatay  
-Patayin ang mga panakip na pananim sa panahon ng maagang pamumulaklak upang maibalik ang pinakamataas na benepisyo ng biomass at sustansya. Kung ang pagpatay ay naganap pagkatapos ng pagbuo ng buto, ang mga panakip na pananim ay nagiging damo para sa susunod na pananim.  
+| Cover Crop           | Nag-aayos ng Nitrogen | Nakakapigil ng Damo | Nagpapaganda ng Lupa | Kontrol sa Erosion | Pagkain para sa Pollinator |
+|----------------------|:--------------------:|:-------------------:|:--------------------:|:------------------:|:--------------------------:|
+| Buckwheat            |                      | X                   |                      |                    | X                          |
+| Common Vetch         | X                    |                     | X                    | X                  |                            |
+| Sorghum-Sudangrass   |                      | X                   | X                    | X                  |                            |
+| Phacelia             |                      | X                   | X                    | X                  | X                          |
 
-Kasama sa pagpatay ang paggapas o pagbaluktot ng mga tangkay upang mapatay ang itaas na bahagi at ilagay ito sa ibabaw ng lupa (no-till na pamamaraan) o isama sa lupa. Ang pagtatakip ng lugar gamit ang trapal ay maaaring mapabilis ang proseso. Ang mga materyales ng halaman na isinama sa lupa ay dapat hiwain para sa mas mabilis na pagkabulok. Maghintay ng 3-4 na linggo bago magtanim ng susunod na pananim.  
+### Tamang Oras ng Pagtatanim
 
-#### Mga Sanggunian  
+Para matakpan ang lupa sa taglagas at taglamig, magtanim ng cover crop sa huling bahagi ng tag-init hanggang taglagas. Diligan bago dumating ang ulan para tumubo at lumakas. Para matakpan ang lupa sa tagsibol at tag-init, magtanim sa huling bahagi ng tagsibol kapag kaya na ng lupa at mainit na para tumubo ang binhi.
+
+### Pagtatanim
+
+Itanim nang direkta ang mga buto sa inihandang lugar. Sundin ang instruksyon sa pakete ng binhi para sa dami ng itatanim. Pwede itong isaboy gamit ang kamay o maliit na seed broadcaster. Kalatin gamit ang rake at dahan-dahang diinan gamit ang kahoy para mas magkadikit sa lupa ang mga binhi. Diligan nang mabuti para siguradong tumubo.
+
+Kung magtatanim sa lugar na tapos na ang pananim sa tag-init, itanim sa buong kama. Alisin ang mulch, linisin ang mga halaman, paluwagin ang 1-2 pulgada ng ibabaw ng lupa, saka maghasik ng binhi. Kung hindi pa tapos ang summer crop, alisin ang mulch, paluwagin ang ibabaw ng lupa, at itanim ang cover crop sa pagitan ng mga gulay sa tag-init.
+
+### Pagpatay ng Cover Crop
+
+Patayin ang cover crop habang nagsisimula pa lang mamulaklak para makuha ang pinakamaraming benepisyo sa biomass at sustansya. Kapag pinatayan sila pagkatapos ng pagbuo ng binhi, maaari silang maging damo sa susunod na tanim.
+
+Kasama sa pagpapatay ang paggapas o pagyuko ng mga tangkay para mamatay ang taas at ilatag sa ibabaw ng lupa (no-till na paraan) o ihalo sa lupa. Ang pagtatakip gamit ang tarp ay makakatulong mapabilis ang proseso. Ang mga plant material na ihahalo sa lupa ay dapat tadtarin para mas mabilis maagnas. Maghintay ng 3–4 linggo bago magtanim ng susunod na pananim.
+
+## Mga Sanggunian
+
 - **Managing Cover Crops Profitably**, USDA Sustainable Agriculture Research and Education  
-  [https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/](https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/)  
+  [https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/](https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/)
 - **Washington State University Extension Publications**  
-  [https://pubs.extension.wsu.edu/](https://pubs.extension.wsu.edu/)  
-  - Cover Crops for Home Gardens West of the Cascades FS111E  
-  - Cover Crops for Home Gardens East of the Cascades FS117E  
-  - Methods for Successful Cover Crop Management in Your Home Garden FS119E  
+  [https://pubs.extension.wsu.edu/](https://pubs.extension.wsu.edu/)
+    - Cover Crops for Home Gardens West of the Cascades FS111E
+    - Cover Crops for Home Gardens East of the Cascades FS117E
+    - Methods for Successful Cover Crop Management in Your Home Garden FS119E
 
-#### Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- Bisitahin ang [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) para sa mga handouts at video ng 10-Minute University™  
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Bisitahin ang [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) para sa mga handout at video ng 10-Minute University™
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, identidad ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan ng pag-aasawa, katayuan ng pamilya/magulang, kita na nagmumula sa pampublikong programa ng tulong, paniniwalang pampulitika, impormasyon ng genetiko, katayuan ng beterano, paghihiganti o pagganti para sa nakaraang aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal na batayan ay nalalapat sa lahat ng programa.)
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa public assistance program, paniniwala sa pulitika, impormasyon ng genetika, katayuang beterano, pagganti o paghihiganti sa dating civil rights activity. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

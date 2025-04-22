@@ -1,46 +1,200 @@
-# Dhoobo  
-## Qaamuuska Erayo  
-**Waxaa aad u arki kartaa dhammaan waxyaabaha qaamuuska ku jira daabacaadda Jaamacadda Washington State Extension EM063E: Hagaha Guriga ee Beerta iyo Bacriminta.**  
+#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Sare ee Degmada Clackamas · Iskaashi iyo Taageero Barnaamijka Beeralayda Sare ee OSU Extension Master Gardener™
 
-### Erayo iyo Macno  
-**hawada gelinta**—Hawsha lagu wareejiyo hawada, lagu qaso, ama lagu milo maaddo (dhoobo).  
-**isku urursanaanta**—Habka ciidda, dhoobada, dhoobo yar-yar (silt), iyo maaddooyinka dabiiciga ah ay u samaysmaan kooxo loo yaqaan peds.  
-**biosolids**—Waxyaabaha ka dhasha daaweynta biyaha wasakhda ah ee magaalooyinka, kuwaas oo ay ku jiraan nafaqooyin, maaddooyinka dabiiciga ah, iyo waxyaabaha aan dabiiciga ahayn. Biosolids nooca A waxa lagu daweeyaa in laga saaro cudurada faafa waxaana loo isticmaali karaa beeraha iyo muuqaalka dhulka. Biosolids-ka iyo isku dhafka compost-ka waa waxyaabo lagu daro dhoobada, halka waxyaabaha biosolids-ka qalalan loo isticmaalo bacriminta.  
-**xoogga capillary**—Falgalka ay sameeyaan qaybaha biyaha kuwaas oo ku xidha dusha walxaha dhoobada iyo iyaga oo kale, sidaas awgeed biyaha ayaa lagu hayaa godadka yaryar iyada oo aanay cufisjiidku ka soo baxsan.  
-**kaydinta kaarboonka**—Waxay dhacdaa marka dhirta ay ka saarto CO2 hawada, kaarboonkana lagu kaydiyo dhirta iyo dhoobada. Waa hab loo adeegsado in lagu yareeyo heerarka CO2 ee hawada laguna yareeyo isbedelka cimilada.  
-**dhoobo yar**—Qaybta ugu yar ee walxaha dhoobada (ka yar 0.002 mm dhexroor ahaan).  
-**composting (qabow & kulul)**— A. Compost qabow waa hab gaabis ah oo ku lug leh samaynta dhisme compost ah oo laga tago si uu u baaba’o muddo sannad ah ama ka badan. Compost qabow ma dilo abuurka cawska ama cudurada faafa. B. Compost kulul wuxuu soo saara compost dhamaystiran muddo laba ilaa afar bilood ah. Kulaylka waxa lagu hayaa si loo baabi’iyo adigoo isku dheelitiraya mugta waxyaabaha tamarta (cagaaran) iyo wakiilada buuxinta (bunni), qoyaan la haysto, iyo compost-ka oo si joogto ah loo rogo.  
-**cadaadiska**—Cadaadis ku riixa dhoobada lakabyo adkeeya xididada in ay galaan iyo biyaha in ay dhaqaajiyaan. Badanaa waxaa keena lug ama mashiinka oo marar badan mara, laakiin sidoo kale waxaa keeni kara roobka oo ku dhaca dhoobo aan daboolnayn.  
-**compost**—Maaddo dabiici ah oo deggan oo ka dhalatay baabi’inta nidaamka noolaha ee maaddooyinka dabiiciga ah. Compost-ka waxa loo isticmaali karaa wax lagu daro dhoobada si loo kordhiyo maaddooyinka dabiiciga ah loona siiyo nafaqooyin si tartiib ah ama mulch oo markii dambe lagu daro dhoobada.  
-**dalagga daboolka**—Dhirta lagu beero si ay u ilaaliyaan dhoobada roobka iyo nabaad-guurka dhoobada isla markaana nafaqooyin dabiici ah u siiyaan dhoobada.  
-**dumin**—Baabi’inta maaddooyinka dabiiciga ah ee ay sameeyaan noolaha yaryar.  
-**dolomitic limestone**—Nooc ka mid ah dhagaxa lime-ka ee ay ku jiraan magnesium iyo calcium labadaba.  
-**bacriminta**—Wax dabiici ah ama macmal ah oo lagu daro dhoobada si ay nafaqo u siiso dhirta.  
-**qiimaynta bacriminta**—Tirada nafaqooyinka muhiimka ah (nitrojiin (N), fosfooraska (P), iyo potassium (K)) ee dhirta u baahan tahay tiro badan oo loo muujiyo boqolkiiba miisaanka bacriminta.  
-**cawska cagaaran**—Dalagga daboolka ee loo isticmaalo in lagu daro dhoobada si loo helo faa’iidooyinka nafaqooyinka iyo maaddooyinka dabiiciga ah, ama lagu reebo dusha dhoobada sida mulch.  
-**gudbinta biyaha**—Dhaqdhaqaaqa biyaha ee dhex mara dhoobada.  
-**dhex-socodka**—Dhaqdhaqaaqa biyaha iyo nafaqooyinka ku milmay ee dhex mara lakabyada dhoobada.  
-**lime**—Dhagax lime-ka dhulka (calcium carbonate, CaCO3) oo lagu dabaqay dhoobada si pH loo kordhiyo.  
-**loam**—Dhoobo leh tiro isku mid ah oo ciid ah, dhoobo yar-yar (silt), iyo dhoobo yar-yar (clay).  
-**macropore**—God weyn oo ku jira dhoobada. Macropores waxaa ka mid ah kanaalada ay abuuray dhir ama aboor, waxayna xukumaan hawo-gelinta iyo gudbinta biyaha ee dhoobada.  
-**micronutrient**—Nafaqooyinka dhirta isticmaasho tiro yar (birta, zinc, molybdenum, manganese, boron, copper, iyo chlorine).  
-**micropore**—God yar oo ku jira dhoobada, badanaa dhexroor yar-yar oo milimitar ah. Micropores waxay xukumaan awoodda dhoobada ee biyaha lagu hayo.  
-**wakhtiga bacriminta dabiiciga ah**—Waxyaabo dabiici ah oo lagu daro dhoobada si loo dhiso maaddooyinka dabiiciga ah ee dhoobada loona hagaajiyo caafimaadka dhoobada, tusaale ahaan compost, saxaro, iyo haraaga dalagga daboolka.  
-**bacriminta dabiiciga ah**—Waxyaabaha dabiiciga ah ee bacriminta ah oo aan si buuxda loo farsameynin. Waxaa ku jiri kara dhir, xoolo, iyo/ama maaddooyin macdan ah. Bacriminta dabiiciga ah badanaa way ka nafaqo badan tahay waxyaabaha dabiiciga ah ee lagu daro dhoobada.  
-**mulch dabiici ah**—Wax dabiici ah (badanaa alwaax) oo lagu dul dhigo dusha dhoobada si loo yareeyo biyaha lumaya, looga ilaaliyo dusha dhoobada nabaad-guurka, loo xakameeyo cawska, loona hagaajiyo isbeddelka heerkulka dhoobada. Tusaalooyinka waxaa ka mid ah bark alwaax ah, chips-ka dhirta, iyo cawska.  
-**pathogen**—Noolaha cudurada dhoobada keena, oo ay ku jiraan bakteeriyada, fayraska, fungus, iyo nematodes.  
-**gudbinta biyaha**—Xawaaraha ay biyaha ku dhex maraan dhoobada.  
-**fosfooraska**—Foomka fosfooraska ee ku qoran falanqaynta bacriminta (P2O5).  
-**pH**—Cabirka sida dhoobada u tahay asiidh ama alkali. Qiimayaal ka yar 7 waxay muujinayaan asiidh, qiimaha 7 waa dhexdhexaad, qiimayaal ka badan 7 waxay muujinayaan alkali. Inta badan dhoobada waxay leeyihiin pH u dhexeeya 4.5 ilaa 9.  
-**potash**—Foomka potassium ee ku qoran falanqaynta bacriminta (K2O), sida bacriminta xirmooyinka ku jirta.  
-**bacriminta la farsameeyey**—Bacriminta la soo saaray ama laga farsameeyey waxyaabo dabiici ah oo loo bedelay foomka aad u xooggan oo dhirta si fudud u heli kara.  
-**bacriminta si degdeg ah u soo baxda**—Bacriminta leh maaddooyin si fudud dhirta u heli karto sida ammonium iyo nitrate.  
-**ciid**—Walxaha ugu qaro weyn ee walxaha dhoobada (0.05 ilaa 2 mm dhexroor ahaan).  
-**nafaqooyinka labaad**—Nafaqooyinka dhirta u baahan tahay tiro dhexdhexaad ah (sulfur, calcium, iyo magnesium).  
-**dhoobo yar-yar (silt)**—Walxaha dhoobada ee dhexroor ahaan u dhexeeya ciid iyo dhoobo yar yar (clay), oo ah 0.002 ilaa 0.05 mm.  
-**bacriminta si tartiib ah u soo baxda**—Bacriminta lagu beddelo foomka dhirta si fudud u heli karto iyada oo loo marayo noolaha dhoobada.  
-**dhoobo**—Isku-darka dabiici ah oo firfircoon oo ka kooban dhagaxyo burburay iyo maaddooyin dabiici ah oo ku yaal dusha dhulka.  
-**caafimaadka dhoobada**—Awooda sii socota ee dhoobada si ay u shaqayso sidii nidaam nool oo firfircoon oo taageera dhirta, xoolaha, iyo dadka.  
-**dhismaha dhoobada**—Qaabka dhoobada ee ay samaysay urursanaanta (peds) ee ka dhalatay walxaha ciid, dhoobo yar-yar (silt), iyo dhoobo yar-yar (clay), iyo maaddooyinka dabiiciga ah ee isku urursan oo samaysta kooxo.  
-**texture-ka dhoobada**—Sida dhoobadu u tahay mid qaro weyn ama mid yar-yar. Texture-ka waxaa lagu go’aamiyaa saamiga ciidda, dhoobo yar-yar (silt), iyo dhoobo yar yar (clay) ee ku jirta dhoobada.  
-**awoodda haynta biyaha**—Awoodda ay dhoobada leedahay ee ay biyaha ku hayaan si dhirta u isticmaasho.
+# Erey-Bixinta Carrada
+
+Si aad u hesho dhammaan ereyada, eeg daabacaadda Jaamacadda Washington State University Extension EM063E: *Tilmaamaha Beeralayda Guriga ee Carrada iyo Bacriminta*.
+
+---
+
+## Erey-Bixinta
+
+### Hawada Gelinta
+
+Habka hawada lagu dhex wareejiyo, lagu qaso, ama lagu milo walax kale (sida carrada).
+
+### Isku-Ururinta
+
+Habka ay ciidda, dhoobada, iyo walxaha organic-ku isugu urursadaan kooxo yaryar oo la yiraahdo peds.
+
+### Biosolids
+
+Waxyaabaha ka dhasha sifeynta biyaha wasakhda ah ee magaalooyinka, kuwaas oo leh nafaqooyin, walxo organic ah, iyo walxo aan organic ahayn.
+
+- **Biosolids Class A**: Waa kuwa si fiican loo daweeyay oo laga saaray jeermiska, waxaana loo isticmaali karaa beero iyo dhul daaqsimeedyo ah.
+- **Isticmaalka**: Compost-ka biosolids iyo isku-darka waxaa loo isticmaalaa horumarinta carrada, halka alaabada biosolids la qalajiyay loo isticmaalo bacriminta.
+
+### Awoodda Capillary
+
+Falcelinta ay biyuhu isugu dhegayaan dusha sare ee qaybo ka mid ah carrada iyo midba midka kale, taasoo biyaha ku haynaysa godadka yaryar ee ciidda xitaa marka cufis-jiidadka uu jiro.
+
+### Kaydinta Kaaboonka
+
+Waxay dhacdaa marka dhirta ay ka saarto CO₂ hawada, kadibna kaaboonka lagu kaydiyo dhirta iyo carrada. Waa hab lagu yareeyo heerka CO₂ ee hawada lana xakameeyo isbeddelka cimilada.
+
+### Dhoobo
+
+Qaybta ugu yar ee ciidda (ka yar 0.002 mm ballac ahaan).
+
+### Compost-ga (Qabow & Kulul)
+
+- **Compost Qabow**: Waa hab tartiib ah oo la dhiso qashin-qaad, kadibna la iskaga tago in uu qudhmo muddo sanad ah ama ka badan. Ma dilo abuurka cawska xun ama jeermiska.
+- **Compost Kulul**: Waxay dhammays tirtaa compost laba ilaa afar bilood. Kulaylka waxaa lagu hayaa iyadoo la isku qaso walxo tamar leh (cagaar) iyo walxo buuxin ah (bunni), la qoynayo compost-ka, lana rogrogayo badanaa.
+
+### Cadaadiska
+
+Cadaadis ciidda lagu saaro oo sababa in ciiddu is xoqdo oo adag noqoto, taasoo adkeysa in xididada dhirta iyo biyuhu dhex maraan. Badanaa waxaa keena socodka dadka ama mashiinada, mararka qaarna roobka ku dhaca ciidda furan.
+
+### Compost
+
+Walxo organic ah oo si nidaamsan loo qudhmiyay loona beddelay walxo deggan oo nafaqo leh.
+
+- **Isticmaalka**: Waxaa loo isticmaalaa in lagu kordhiyo walxaha organic-ka ee ciidda iyo in si tartiib ah loogu sii daayo nafaqooyinka ama sidii mulching loo isticmaalo kadibna lagu qaso ciidda.
+
+### Dalagga Daboolka
+
+Dhirta la beero si ay u ilaaliso ciidda kana ilaaliso daadadka iyo nabaad-guurka, isla markaana ku kordhiso walxo organic ah.
+
+### Qudhmid
+
+Bur-burinta walxo organic ah iyadoo ay cunaan bakteeriyada iyo noolaha yaryar.
+
+### Dolomitic Limestone
+
+Nooc lime ah oo leh magnesium iyo calcium labadaba.
+
+### Bacriminta
+
+Walax dabiici ah ama la sameeyay oo lagu daro ciidda si ay dhirtu u hesho nafaqooyin.
+
+### Falanqaynta Bacriminta
+
+Tirada nafaqooyinka muhiimka ah (nitrogen (N), phosphorus (P), iyo potassium (K)) ee dhirta u baahan tahay tiro badan, kana muuqda boqolkiiba miisaanka bacriminta.
+
+### Cagaar Bacrimineed
+
+Dalagyo dabool ah oo lagu beero si loo qaso ciidda, loogu kordhiyo nafaqooyinka iyo walxaha organic-ka, ama lagu daayo dusha ciidda si ay u noqdaan mulching.
+
+### Nuugista
+
+Sida biyaha ugu dhex socdaan ciidda.
+
+### Daadinta
+
+Sida biyaha iyo nafaqooyinka milmay ay ugu socdaan hoos ee ciidda.
+
+### Lime
+
+Dhagax lime ah oo la shiiday (calcium carbonate, CaCO₃) oo ciidda lagu daro si kor loogu qaado heerka pH.
+
+### Loam
+
+Ciid leh tiro siman oo ciid, dhoobo, iyo dhoobo yar ah.
+
+### Macropore
+
+God weyn oo ciidda ah. Macropore-yadu waxay ku jiraan marinada ay sameeyaan cayayaanka iyo xididada dhirta, waxayna xakameeyaan sida ciiddu u nuugto biyaha iyo hawada.
+
+### Micronutrient/Unug-Yare
+
+Nafaqo dhirtu ugu baahan tahay tiro aad u yar (bir, zinc, molybdenum, manganese, boron, copper, iyo chlorine).
+
+### Micropore
+
+God yar oo ciidda ah, badanaa cabbirkiisu waa qaybo millimitir ah. Micropore-yadu waa kuwa ka saacida ciidda inay biyo sii hayso.
+
+### Wax Lagu Kordhiyo Organic
+
+Walax ka timaadda noolaha oo lagu daro ciidda si loo kordhiyo walxaha organic-ka loona hagaajiyo caafimaadka ciidda. Tusaale: compost, digada xoolaha, iyo haraaga dalagga daboolka.
+
+### Bacriminta Organic
+
+Bacriminta dabiiciga ah oo aan la farsamayn ama si yar loo farsameeyay.
+
+- **Tusaalayaal**: Walxo ka yimid dhirta, xoolaha, iyo/ama macdanaha.
+- **Astaamo**: Badanaa waxay ka nafaqo badan yihiin waxyaabaha organic-ka ah ee la kordhiyo.
+
+### Mulching Organic
+
+Walax organic ah (badanaa alwaax) oo la saaro dusha sare ee ciidda si loo yareeyo luminta biyaha, ciidda looga ilaaliyo roobka, looga hortago cawska xun, iyo in la xakameeyo isbeddelka heerkulka ciidda.
+
+- **Tusaalayaal**: Qoryo la shiiday, xabag geed, iyo caws.
+
+### Jeermis
+
+Noolaha cudurka keena ee ciidda ku jira, oo ay ka mid yihiin bakteeriyada, fayrasyada, fungi, iyo nematodes.
+
+### Nuugista Biyaha
+
+Xawaaraha biyuhu ugu socdaan ciidda.
+
+### Phosphate
+
+Nooca phosphorus ee lagu qoro falanqaynta bacriminta (P₂O₅).
+
+### pH
+
+Cabbirka sida ciiddu u acidic ama alcaline u tahay.
+
+- **Qiimaha**:
+  - Ka yar 7: Acidic
+  - La eg 7: Dhexdhexaad
+  - Ka weyn 7: Alcaline
+- **Xadka**: Badanaa pH-ga ciiddu wuxuu u dhexeeyaa 4.5 ilaa 9.
+
+### Potash
+
+Nooca potassium ee lagu qoro falanqaynta bacriminta (K₂O), sida ku qoran bacriminta la baakadeeyay.
+
+### Bacriminta La Farsameeyay
+
+Bacriminta laga farsameeyay ama laga xareeyay walxo dabiici ah si loo sameeyo noocyo dareere ah ama adag oo dhirta si fudud u heli karto.
+
+### Bacriminta Si Degdeg ah Ugu Faa'iideysa
+
+Bacriminta leh nafaqooyin si fudud dhirtu u heli karto, sida ammonium iyo nitrate.
+
+### Ciid
+
+Qaybta ugu weyn ee ciidda (0.05 ilaa 2 mm ballac ahaan).
+
+### Nafaqo Dhexdhexaad ah
+
+Nafaqo dhirtu u baahan tahay tiro dhexdhexaad ah (sulfur, calcium, iyo magnesium).
+
+### Silt
+
+Qaybta ciidda oo cabbir dhexdhexaad ah (ka weyn dhoobo, ka yar ciid) - 0.002 ilaa 0.05 mm ballac ahaan.
+
+### Bacriminta Si Tartib ah Ugu Faa'iideysa
+
+Bacriminta oo ay noolaha ciiddu u beddelaan qaab dhirtu si tartiib ah u heli karto.
+
+### Carro
+
+Isku-darka dabiiciga ah ee firfircoon ee dhagaxyo jajaban iyo walxo organic ah oo dhulka dusha sare ah.
+
+### Caafimaadka Carrada
+
+Awoodda joogtada ah ee ciidda inay u shaqeyso sida nidaam nool oo taageera dhirta, xoolaha, iyo dadka.
+
+### Dhismaha Carrada
+
+Sida ay u kala habaysan yihiin kooxaha ciidda (peds) ee ka sameysma isku ururinta ciidda, dhoobada, silt, iyo walxo organic ah.
+
+### Dabeecadda Carrada
+
+Sida ciiddu u weyn tahay ama u yar tahay. Waxaa lagu ogaadaa tirooyinka ciidda, dhoobada, iyo silt-ka ee ku jira ciidda.
+
+### Awoodda Biyaha Qabashada
+
+Awoodda godadka ciidda ee biyaha u sii haya dhirta.
+
+---
+
+#### Talo Beeralay Sare™ · Wac Khadka Caawinta Beeraha Guriga: 503-655-8631 (Degmada Clackamas) · 503-821-1150 (Degmada Washington) · 503-445-4608 (Degmada Multnomah) · Warqadaha 10-Daqiiqo Jaamacad™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo walxaha ku salaysan: jinsiyadda, midabka, asalka dalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda ciidanimo, aargoosiga, ama ciqaabtii hore ee la xiriirta xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+
+---

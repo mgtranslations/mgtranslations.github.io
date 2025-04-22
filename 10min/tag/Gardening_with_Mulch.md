@@ -1,55 +1,90 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta sa OSU Extension Master Gardener™ Program
 
-## Paghahalaman Gamit ang Mulch  
-Ang mulch ay isang patong ng materyal na inilalagay sa ibabaw ng lupa upang makamit ang isa o higit pa sa mga sumusunod na benepisyo:  
-- Bawasan ang pagkakasiksik ng lupa mula sa ulan  
-- Bawasan ang pagguho ng lupa  
-- Pigilan ang pag-usbong ng damo  
-- Bawasan ang pagkalat ng sakit  
-- Painitin ang lupa  
-- Protektahan ang lupa mula sa matinding temperatura  
-- Bawasan ang pagsingaw ng tubig at/o  
-- Panatilihing basa ang lupa  
+# Paghahalaman Gamit ang Mulch
 
-## Uri  
-- **Organic mulches**: Gawa mula sa mga materyal na dating nabubuhay. Halimbawa ay sawdust, dayami, basura sa bakuran, dumi ng hayop, at dahon.  
-- **Plastic mulch**: Ang mga kulay ay mula sa itim, pula, at pilak hanggang transparent.  
+Ang mulch ay isang patong ng materyal na inilalagay sa ibabaw ng lupa upang makamit ang isa o higit pa sa mga sumusunod na benepisyo:
 
-### Organic Mulches  
-Ang organic mulches ay nabubulok sa paglipas ng panahon, nagbibigay ng pagkain para sa mga bulate at iba pang mikrobyo sa lupa. Kapag naglalagay ka ng organic mulch sa hardin sa taglagas bilang paghahanda para sa pagtatanim sa tagsibol, maaaring gumamit ng berdeng materyal na hindi pa na-compost. Gayunpaman, kung ilalagay ito malapit sa panahon ng pagtatanim sa tagsibol, mas mabuti na gumamit ng na-compost na materyal. Kung hindi, habang nabubulok ang mulch, maaaring makipagkumpitensya ito sa iyong mga halaman para sa sustansya.  
+- Bawasan ang paninikip ng lupa dahil sa ulan
+- Mabawasan ang pagguho ng lupa
+- Pigilin ang pag-usbong ng damo
+- Bawasan ang pagkalat ng sakit
+- Painitin ang lupa
+- Insulasyon ng lupa laban sa matinding temperatura
+- Bawasan ang pagkatuyo ng lupa (evaporation)
+- Panatilihing mamasa-masa ang lupa
 
-Kapag gumagamit ng dayami, dahon ng taglagas, o iba pang organic na materyal na may kaunting nitrogen, magdagdag ng karagdagang nitrogen fertilizer upang makatulong sa pagkabulok nito. Ang dayami na walang damo ay magaan ngunit maaaring maging panganib sa sunog. Kapag gumagamit ng mga damo bilang mulch, maglagay ng manipis na patong upang mabilis itong matuyo. Ang mas makapal na patong ay maaaring maging malagkit o bumuo ng tuyong crust na pumipigil sa pagpasok ng tubig.  
+### Mga Uri ng Mulch
 
-Maglatag ng 2” hanggang 4” na patong ng organic mulch sa ibabaw ng lupa sa paligid ng iyong mga halaman; huwag takpan ang mga halaman o ang korona ng mga halaman. Sa pagtatapos ng panahon ng paghahalaman, maaaring ihalo sa lupa ang organic mulches upang mapabuti ang tekstura nito para sa susunod na panahon ng pagtatanim.  
-
-### Paano Gumamit ng Organic Mulches  
-- **Sa taglagas**: Alisin ang mga dahon na may sakit at damo mula sa hardin, pagkatapos ay magdagdag ng patong ng organic mulch. Mapapanatili nitong mababa ang damo sa taglamig at tagsibol habang pinoprotektahan ang mga ugat ng halaman mula sa pagyeyelo.  
-- **Sa tagsibol**: Itulak ang mulch palayo sa halaman upang makatulong sa mas mabilis na pag-init ng lupa sa zone ng ugat.  
-- **Sa tag-init**: Bago tumaas ang temperatura, ibalik ang mulch upang takpan ang zone ng ugat. Mapapaliit nito ang pagsingaw ng tubig at mapapababa ang pagbabago sa temperatura ng lupa.  
-
-Mag-reapply ng organic mulch habang ito ay nabubulok upang patuloy makuha ang mga benepisyo ng paggamit nito.  
-
-## Plastic Mulch  
-Ang plastic mulch ay madalas gamitin upang pigilan ang damo o painitin ang lupa. Ang 3- hanggang 5-foot na patong ng plastic mulch na inilalagay sa zone ng ugat ng mga halaman tulad ng kamatis ay maaaring pabilisin ang pagkahinog ng mga bunga ng 10 hanggang 14 na araw. Binabawasan din nito ang pagsingaw ng tubig. Dahil ang ultra-violet na liwanag ay bumubuo ng plastic, palitan ito kung kinakailangan.  
-
-### Paano Gumamit ng Plastic Mulch  
-- **Para pigilan ang damo**: Maglatag ng itim na plastic pagkatapos ihanda ang lupa para sa pagtatanim o paglalagay ng binhi at pagkatapos mailagay ang mga linya ng tubig. Timbangin ang gilid gamit ang lupa. Ilagay ang mga binhi o transplants sa pamamagitan ng X na hiwa sa plastic. Ang ilang plastics ay may butas para makadaan ang tubig, o maaari kang gumamit ng ice pick upang magbutas ng plastic.  
-- **Para painitin ang lupa**: Ang transparent at kulay na plastic na tila malinaw ay mas pinapainit ang lupa kaysa sa itim na plastic. Gayunpaman, dahil pinapayagan nitong makapasok ang liwanag, maaari rin itong magdulot ng “greenhouse” para sa damo sa ilalim ng plastic. Ang itim na plastic ay mas kaunting nagpapainit sa lupa ngunit pinipigilan din ang damo.  
-- **Para panatilihing tuyo ang lupa**: Kung balak mong trabahuin ang lupa nang maaga sa tagsibol, maaari kang magtakip ng malaking patong ng itim na plastic sa taglamig. Mapapanatili nitong tuyo ang bahagi ng hardin para sa maagang paghahanda ng lupa at pagtatanim. Siguraduhing timbangin ang gilid upang maiwasan ang pagiging greenhouse para sa damo at taguan ng daga.  
-- **Para pabilisin ang paglaki at pagkahinog ng mga halaman na mahilig sa init**: Ang mga halaman tulad ng kamatis, sili, melon, strawberry, at iba pang mahilig sa init ay naging paksa ng maraming pag-aaral ng unibersidad tungkol sa epekto ng iba't ibang kulay ng plastic mulch sa paglaki, pagkahinog, at ani ng mga halaman. Ang pulang plastic mulch ay iniisip na nakakareflect ng spektrum ng liwanag na may espesyal na epekto sa paglaki at pagkahinog ng kamatis. Ang resulta ng mga pag-aaral ay nag-iiba. Lumalabas na maraming salik tulad ng intensity ng araw, temperatura, uri ng halaman, uri at tatak ng plastic, at panahon ng taon kung kailan inilapat ang plastic ay maaaring makaapekto sa resulta.  
+- **Organic na mulch** ay gawa sa mga materyal na dating buhay. Halimbawa nito ay sawdust, dayami, basura sa bakuran, dumi ng hayop, at mga dahon.
+- **Plastic na mulch** ay may iba't ibang kulay, tulad ng itim, pula, pilak, at malinaw.
 
 ---
 
-### OSU Extension Service Publication  
-**Mulching Woody Ornamentals with Organic Materials**  
-[https://catalog.extension.oregonstate.edu/ec1629](https://catalog.extension.oregonstate.edu/ec1629)  
+## Organic na Mulch
 
-### Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), o 503-445-4608 (Multnomah County).  
-- Para sa 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](www.cmastergardeners.org)  
+Ang organic na mulch ay nabubulok sa paglipas ng panahon at nagbibigay ng pagkain sa mga bulati at iba pang mikrobyo sa lupa.
+
+- **Paglalagay tuwing Taglagas**: Gumamit ng berde, hindi pa napuputok na materyal para ihanda ang hardin sa pagtatanim sa tagsibol.
+- **Paglalagay tuwing Tagsibol**: Gumamit ng composted na materyal para hindi makipagkompetensya ang mga halaman sa sustansya habang nabubulok ang mulch.
+
+Kapag gumagamit ng dayami, dahon ng taglagas, o iba pang organic na materyal na mababa ang nitrogen, magdagdag ng dagdag na nitrogen na pataba para mapabilis ang pagkabulok.
+
+- **Dayami**: Weed-free na dayami ay magaan ngunit maaaring maging panganib sa sunog.
+- **Damong Bagong Gapas**: Maglagay ng manipis na patong upang maiwasan ang pagkadulas o pagbuo ng matigas na ibabaw na pumipigil sa pagpasok ng tubig.
+
+Maglagay ng 2–4 pulgadang patong ng organic na mulch sa paligid ng mga halaman, iwasan ang pagtakip sa mismong halaman o sa base nito. Sa pagtatapos ng panahon ng paghahalaman, haluin ang organic mulch sa lupa upang mapaganda ang pagkakayari nito para sa susunod na taniman.
+
+### Paano Gamitin ang Organic na Mulch
+
+1. **Taglagas**: Alisin ang mga dahong may sakit at damo, pagkatapos ay maglagay ng patong ng organic mulch para mapigil ang damo at maprotektahan ang mga ugat ng halaman mula sa malamig na panahon.
+2. **Tagsibol**: Itulak palayo ang mulch mula sa mga halaman para mas mabilis uminit ang lupa sa ugat.
+3. **Tag-init**: Bago tumaas ang temperatura, ibalik ang mulch para takpan ang ugat at mabawasan ang pagkatuyo at pagbabago ng temperatura ng lupa.
+
+Maglagay ulit ng organic na mulch habang ito ay nabubulok upang mapanatili ang mga benepisyo nito.
 
 ---
 
-Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita na nagmumula sa programa ng tulong publiko, paniniwala sa politika, impormasyon ng genetiko, estado ng beterano, pagganti o paghihiganti para sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay nalalapat sa lahat ng programa.)
+## Plastic na Mulch
+
+Madalas gamitin ang plastic na mulch upang pigilan ang damo o painitin ang lupa.
+
+- Ang 3–5 talampakang lapad na plastic mulch na inilagay sa paligid ng ugat ng halaman ng kamatis ay maaaring magpabilis ng paghinog ng 10–14 na araw.
+- Binabawasan ng plastic mulch ang pagkatuyo ng lupa ngunit madaling masira sa ilalim ng ultraviolet na ilaw, kaya kailangan palitan kapag kinakailangan.
+
+### Paano Gamitin ang Plastic na Mulch
+
+#### Para Pigilan ang Damo
+
+1. Ilatag ang itim na plastic matapos ihanda ang lupa para sa pagtatanim at pagkatapos mailagay ang mga linya ng tubig.
+2. Lagyan ng lupa sa gilid upang hindi liparin.
+3. Itusok ang buto o punla sa pamamagitan ng X na hiwa sa plastic.
+4. Gumamit ng plastic na may butas o gumawa ng mga butas gamit ang ice pick para makalusot ang tubig.
+
+#### Para Painitin ang Lupa
+
+- **Malinaw o Translucent na Plastic**: Mas mahusay magpainit ng lupa pero maaaring magdulot ng "greenhouse" effect para sa damo.
+- **Itim na Plastic**: Hindi kasing init magpainit ng lupa ngunit mas epektibo kontra damo.
+
+#### Para Panatilihing Tuyong Lupa
+
+Takpan ang lugar ng itim na plastic tuwing taglamig para panatilihing tuyo ang taniman sa maagang paghahanda at pagtatanim sa tagsibol. Lagyan ng pabigat ang mga gilid para hindi maging greenhouse ng damo o taguan ng peste.
+
+#### Para Pabilisin ang Paglaki at Paghinog ng Mga Halamang Mahilig sa Init
+
+Ang kamatis, sili, melon, strawberry, at iba pang mahilig sa init na halaman ay pinag-aralan upang malaman ang epekto ng iba't ibang kulay ng plastic mulch sa paglaki, paghinog, at ani.
+
+- **Pulang Plastic Mulch**: Pinaniniwalaang nagbabalik ng partikular na spectrum ng sikat ng araw na maaaring makaapekto sa paglaki at paghinog ng kamatis.
+- Nagkakaiba-iba ang resulta depende sa lakas ng sikat ng araw, temperatura, uri ng halaman, klase at brand ng plastic, at oras ng paglalagay.
+
+---
+
+## Karagdagang Sanggunian
+
+- **OSU Extension Service Publication**: [Mulching Woody Ornamentals with Organic Materials](https://catalog.extension.oregonstate.edu/ec1629)
+
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang may pamilya/magulang, kita mula sa pampublikong tulong, paniniwala sa politika, impormasyong henetiko, katayuan bilang beterano, paghihiganti, o pagganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

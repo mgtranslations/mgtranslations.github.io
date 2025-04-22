@@ -1,52 +1,122 @@
-# 10-Minute University™  
-**Kev Ua Liaj Ua Teb tswj Kab Ntxwv thiab Kab Txwv**  
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Qee Yam Tseem Ceeb  
-Kab ntxwv thiab kab txwv yog cov tsiaj mos, nyob hauv av, thiab muaj lub cev mos uas muaj sia txog rau rau xyoo. Thaum lawv txav mus rau tom ntej ntawm ib "txhais taw" uas niaj hnub tso kua nplaum, lawv tso tseg ib txoj kev nplaum tom qab. Cov neeg laus feem ntau nkag mus thaum hmo ntuj thiab thaum hnub pos huab lossis hnub uas tsis muaj tshav ntuj, thaum lawv nrhiav chaw zais thaum hnub ci.  
+# Kev Tswj Kab Npauj Npaim Thiab Kob
 
-Kab ntxwv feem ntau nkag mus rau hauv av, tob txog rau rau taw, rau qhov chaw txias thiab muaj dej noo. Kab txwv muab lawv tus kheej kaw nrog ib daim membrane zoo li daim ntawv los tiv thaiv thaum lub sijhawm kub heev, qhuav, lossis thaum nws txias. Thaum huab cua txias, kab txwv thiab kab ntxwv pw tsaug zog hauv av saum npoo. Nyob rau thaj chaw uas huab cua tsis txias heev, kab txwv thiab kab ntxwv tuaj yeem ua neej nyob thoob plaws xyoo.  
+### Qee Yam Tseem Ceeb
 
-Feem ntau kab ntxwv thiab kab txwv yog hermaphrodites, uas txhua tus neeg laus muaj ob tug noob txiv thiab noob poj niam. Kab txwv xim av nyob rau hauv vaj ua tiav rau ob xyoos thiab pib tso nruab nrab ntawm 80 lub qe zoo li pob, dawb zoo nkauj ib zaug hauv av, txog rau rau zaug hauv ib xyoos. Kab ntxwv tuaj yeem loj hlob tom qab 3 txog rau 6 lub hlis thiab tso cov qe uas zoo li pob los yog oval, uas yog dawb zoo li mis, hauv pab ntawm 3 txog 40 lub qe.  
+Kab npauj npaim thiab kob yog cov muaj cev mos muag, nyob hauv av, uas muaj peev xwm nyob tau txog rau 6 xyoo. Thaum lawv txav mus rau ntawm ib sab ceg muaj leeg, lawv tawm mucus thiab yuav tso ib txoj kab nplaum nyob tom qab. Cov laus feem ntau tawm mus noj hmo ntuj thiab thaum hnub los nag lossis huab ntog, lawv yuav mus zais rau hnub ci.
 
-## Kev puas tsuaj  
-Kab txwv thiab kab ntxwv noj cov nroj tsuag uas tseem muaj sia thiab cov nroj tsuag uas twb lwj lawm, ua rau cov nplooj, paj, txiv hmab txiv ntoo, thiab lwm yam nroj tsuag puas. Nrhiav cov kev nplaum ntsa lo ua pov thawj tias lawv muaj nyob. Lawv feem ntau ua rau cov nplooj puas uas zoo li lub qhov tsis hloov, nrog cov ntug du.  
+Kab npauj npaim feem ntau khawb av mus txog rau 6 ko taw tob kom tau chaw txias thiab ntub. Kob yuav kaw lawv tus kheej nrog ib daim tawv zoo li ntawv kom tiv thaiv thaum kub heev, qhuav, lossis thaum txias. Thaum huab cua txias, kob thiab kab npauj npaim yuav mus pw tsaug zog hauv av saum toj. Nyob rau tej cheeb tsam uas caij ntuj no tsis txias heev, kob thiab kab npauj npaim yuav tseem ua neej nyob txhua xyoo.
 
-## Yuav Ua Li Cas Tswj Kab Ntxwv thiab Kab Txwv  
-Kev siv ntau txoj hauv kev yuav muaj txiaj ntsig zoo tshaj plaws los txo kab ntxwv thiab kab txwv thiab txo kev puas tsuaj hauv koj lub vaj. Lub sijhawm zoo tshaj plaws rau kev tswj mus ntev yog kho tag nrho lub vaj thaum lub caij nplooj zeeg. Qhov no yuav ua rau muaj tsawg tus neeg laus kab ntxwv thiab kab txwv tso lawv cov qe. Kev thov zaum ob thaum lub caij ntuj no lig lossis thaum lub caij nplooj ntoos hlav ntxov yuav pab txo cov neeg laus. Kev thov zaum peb ib hlis tom qab yuav pab kom koj lub vaj zoo rau lub caij cog qoob loo. Txawm li cas los xij, kev soj ntsuam tas li kuj tseem ceeb vim kab ntxwv thiab kab txwv tuaj yeem rov qab tuaj rau lub vaj los ntawm cov vaj nyob ze.  
+Feem ntau kab npauj npaim thiab kob nyob hauv av yog ob hom txiv/poj nyob hauv ib tus, txhais tau tias txhua tus laus muaj lub cev muaj peev xwm yug me nyuam thiab txi giống. Kob xim av uas loj nyob rau hauv vaj yuav laus txaus rau 2 xyoos thiab yuav mus tso nruab nrab txog 80 lub qe zoo li pob, dawb dawb, ib zaug hauv av, thiab yuav tso txog 6 zaug hauv ib xyoos. Kab npauj npaim yuav laus txaus rau 3 txog 6 hlis thiab yuav tso cov qe pob zeb los yog dawb dawb, zoo li oval lossis round, ib pab muaj 3 txog 40 lub.
 
-### Xaiv Koj Cov Nroj Nroj Kom Zoo  
-**Cov nroj tsuag tiv taus kab ntxwv thiab kab txwv:**  
-Agapanthus, Anemone, Astilbe, Bamboo, Bleeding Hearts, Candytuft, Coral Bells, Ferns, Foxglove, Hens and chicks, Ivy, Juniper, Nandina, Sedum, Solomon’s Seal, Sweet Woodruff, Wintergreen, Yew  
+### Kev Ua Phem
 
-**Cov nroj tsuag kab ntxwv thiab kab txwv nyiam noj:**  
-Basil, Broccoli family, Carrots, Lettuce, Potatoes, Strawberries, Campanula, Daffodils, Gardenia, Gentian, Hosta, Impatiens, Japanese Painted Fern, Leopard’s bane, Lilies, Lobelia (perennial), Marigold, Narcissus, Primrose, Star of Bethlehem, Trillium, Tuberose Begonia, Viola, Wild Ginger  
+Kob thiab kab npauj npaim noj tsob nroj nyob thiab tej nplooj nroj tsuag uas tab tom lwj, ua rau nplooj, paj, txiv hmab txiv ntoo, thiab lwm yam tshooj nroj tsuag tawg. Saib kab nplaum ci ci kom paub tias lawv nyob ntawd. Lawv noj nroj tsuag ua qhov nqaim tsis zoo, tab sis ntug du.
 
-### Tshem Cov Chaw Zais Uas Muaj Dej Ntxhua thiab Tsaus Ntuj  
-- **Lub sijhawm ywg dej:** Txhob ywg dej hauv koj lub vaj thaum yav tsaus ntuj vim kab ntxwv thiab kab txwv feem ntau tawm los noj. Ywg dej thaum sawv ntxov.  
-- **Vaj txhuam thaum lub caij nplooj ntoos hlav:** Txo cov nplooj uas poob rau hauv av uas kab ntxwv thiab kab txwv noj thaum lawv yug.  
-- **Hloov chaw mulch caij ntuj no:** Lub mulch yog qhov zoo rau nroj tsuag thiab av, tab sis nws kuj yog qhov chaw zais zoo. Hloov chaw mulch thiab lwm yam pov tseg hauv vaj kom kab ntxwv thiab kab txwv pom rau cov tsiaj yeej.  
+---
 
-### Tsim Cov Phab Ntsa Tiv Thaiv  
-- **Kab hlau:** Kab ntxwv thiab kab txwv tuaj yeem txais hluav taws xob me me thaum lawv nkag mus rau kab hlau yog tias kab hlau dav txaus los tiv thaiv lawv los ntawm tsa lawv tus kheej dhau. Tab sis feem ntau kab hlau muag hauv khw tsis dav txaus los ua ib phab ntsa zoo.  
-- **Lime, hmoov txhuv nplej, thiab diatomaceous av (hauv daim ntawv qhuav):** Cov no ua rau kab ntxwv qeeb, tab sis tsis tua lawv. Cov phab ntsa no tseem yuav tsum tau hloov dua tshiab tom qab nag lossis ywg dej.  
+## Yuav Ua Li Cas Tswj Kab Npauj Npaim Thiab Kob
 
-### Txhawb Cov Tsiaj Noj Kab Ntxwv thiab Kab Txwv  
-Muaj ntau tus tsiaj noj kab ntxwv thiab kab txwv, xws li kab laug sab, nab, kab txwv, kab tsib, noog, vaub kib, thiab lwm yam. Txhawb cov tsiaj uas haum koj txoj kev ua liaj ua teb.  
+Yooj yim tshaj yog siv ntau txoj hauv qab no ua ke kom txo tau tus kab npauj npaim thiab kob thiab ua kom koj lub vaj muaj tsawg tus kab. Lub sijhawm zoo tshaj rau kev tswj mus ntev yog thaum lub caij nplooj zeeg. Qhov no pab txo cov laus uas yuav mus tso qe. Thib ob rov siv dua thaum caij ntuj no kawg los yog thaum pib caij nplooj ntoos hlav, pab txo cov laus. Thib peb rov siv ib hlis tom qab, pab npaj koj lub vaj rau caij loj hlob. Yuav tsum soj ntsuam tas li, vim kob thiab kab npauj npaim yuav rov los ntawm tej vaj nyob ze.
 
-### Siv Cov Phiaj Ntes  
-- **Phiaj ntes hauv vaj tsev:** Siv ib daim ntoo tiaj lossis lub hub paj tig rov qab nrog ib sab tsa. Cabbage nplooj tig rov qab, txiv kab ntxwv lossis txiv qaub rinds kuj zoo kawg nkaus. Muab tso rau hauv thaum yav tsaus ntuj. Tshawb txhua tag kis thiab tua kab ntxwv thiab kab txwv kom txog thaum lawv tsawg, tom qab ntawd tshawb txhua lub lim tiam.  
-- **Siv tes ntes:** Ib zaug hauv ib lub lim tiam thaum lub caij nplooj ntoos hlav thiab caij nplooj zeeg, nrhiav nyob rau hauv cov chaw zais xws li pob zeb. Ua qhov no thaum hmo ntuj lossis thaum nruab hnub; muab kab ntxwv thiab kab txwv rau hauv ib lub thoob dej xab npum. Hnav hnab looj tes lossis siv tweezers. Yog tias koj tau txais kua nplaum ntawm koj daim tawv nqaij, ntxuav nrog vinegar dawb thiab dej sov.  
+### Xaiv Koj Cov Nroj Tsuag Kom Zoo
 
-### Siv Cov Qe Nplaum  
-- **Npias los yog hmoov nplej thiab zib ntab sib tov:** Siv lub thawv tob, xws li lub thawv yogurt, nrog lub ncauj ntawm qib av. Qhov no pab kom kab ntxwv thiab kab txwv tsis tuaj yeem rov qab tawm. Tshawb xyuas txhua hnub kom paub tseeb tias lwm tus tsiaj tsis tau poob rau hauv. Ntxuav thiab rov muab ntxiv txhua ob peb hnub.  
-- **Iron Phosphate (Sluggo, Escar-Go):** Nws cuam tshuam rau kev siv calcium hauv plab, ua rau kab ntxwv thiab kab txwv tsis noj thiab tuag tom qab 3-6 hnub. Cov tshuaj no muaj kev nyab xeeb siv nyob ib puag ncig tsiaj, tib neeg, ntses, noog, kab txiaj ntsig, thiab tsiaj txhu. Nws tuaj yeem siv rau ntawm nroj tsuag cog qoob, paj, vaj, tsev cog khoom, thiab txiv hmab txiv ntoo. Nws tseem ua haujlwm tau txog ob lub lis piam txawm tias muaj dej nag rov qab los.  
-- **Metaldehyde (Deadline):** Ua rau kab ntxwv thiab kab txwv poob dej sai yog tias noj. Tab sis yog tias muaj dej ze lossis los nag tam sim ntawd, nws yuav tsis ua haujlwm. Kab ntxwv tuaj yeem poob ib nrab ntawm lawv lub cev qhov hnyav thiab rov qab tau lub cev loj yog tias lawv tau txais av ntub, lossis nag. Kev siv cov khoom no tsis pom zoo rau cov zaub noj, thiab tuaj yeem ua rau dev, miv, thiab ntses puas tsuaj. Ua raws li cov lus qhia hauv daim ntawv lo kom zoo.  
+**Nroj Tsuag Kab Npauj Npaim Thiab Kob Tsis Nyiam Noj:**
+- Agapanthus
+- Anemone
+- Astilbe
+- Ntoo txhuam txhuam (Bamboo)
+- Bleeding Hearts
+- Candytuft
+- Coral Bells
+- Ferns
+- Foxglove
+- Hens and chicks
+- Ivy
+- Juniper
+- Nandina
+- Sedum
+- Solomon’s Seal
+- Sweet Woodruff
+- Wintergreen
+- Yew
 
-## Cov Kev Pab  
-Tau txais kev qhia los ntawm OSU Extension Service ntawm https://catalog.extension.oregonstate.edu/  
+**Nroj Tsuag Kab Npauj Npaim Thiab Kob Nyiam Noj:**
+- Basil
+- Tsev neeg Broccoli
+- Carrots
+- Zaub xas lav
+- Qos yaj ywm
+- Strawberries
+- Campanula
+- Daffodils
+- Gardenia
+- Gentian
+- Hosta
+- Impatiens
+- Japanese Painted Fern
+- Leopard’s bane
+- Lilies
+- Lobelia (perennial)
+- Marigold
+- Narcissus
+- Primrose
+- Star of Bethlehem
+- Trillium
+- Tuberose Begonia
+- Viola
+- Wild Ginger
 
-**Kev Pab Tswv Yim Master Gardener™**  
-- Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County)  
-- Rau 10-Minute University™ phau ntawv thiab cov chav kawm teem caij, mus xyuas www.cmastergardeners.org  
+### Tshem Chaw Ntub, Tsaus, Thiab Zais
 
-Oregon State University Extension Service txwv kev cais tawm hauv txhua qhov kev pabcuam, kev pab, kev ua ub ua no, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev txheeb xyuas poj niam txiv neej (xws li kev qhia poj niam txiv neej), kev sib deev, kev txwv tsis taus, hnub nyoog, kev sib yuav, kev ua niam txiv, kev muaj nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg hauv kev nom tswv, kev qhia txog caj ces, kev ua tub rog, kev ua phem lossis kev ua pauj rau kev ua haujlwm hauv kev ua haujlwm hauv zej zog yav dhau los. (Tsis yog txhua yam kev txwv raug siv rau txhua qhov kev pabcuam.)
+- **Teem caij tua dej:** Tsis txhob tua dej koj lub vaj thaum tsaus ntuj, vim kab npauj npaim thiab kob tawm noj. Tua dej thaum sawv ntxov.
+- **Tiv av thaum nplooj ntoos hlav:** Txo cov nplooj nroj tsuag poob kom kab npauj npaim thiab kob me tsis muaj noj thaum lawv tawm ntawm qe.
+- **Hloov mulch hauv caij ntuj no:** Muab mulch thiab lwm yam khib nyiab hauv vaj tig kom tau pom kab thiab lawv cov qe rau cov tsiaj qus noj.
+
+### Tsim Kev Tiv Thaiv
+
+- **Kab hlau liab (copper):** Kev sim qhia tias kab npauj npaim yuav raug hluav taws xob me me thaum lawv hla kab hlau liab yog tias kab hlau ntawd dav txaus. Tab sis feem ntau kab hlau liab muag hauv khw tsis dav txaus los tiv thaiv tau.
+- **Laim, tshauv, diatomaceous av (qhuav):** Cov no ua kom kab npauj npaim qeeb, tsis tua lawv. Yuav tsum rov muab ntxiv tom qab nag los lossis tua dej.
+
+### Txhawb Cov Tsiaj Qus
+
+Muaj ntau yam tsiaj noj kab npauj npaim thiab kob, xws li:
+- Qaib toad
+- Nab
+- Kab (beetles)
+- Kab ya dej (marsh flies)
+- Noog
+- Qaib frog
+- Salamander
+- Newts
+- Ducks
+- Millipedes
+- Nab Nqos Daj
+- Raccoons
+
+Txhawb cov tsiaj no yog tias haum koj txoj kev ua vaj.
+
+### Tso Cov Liaj
+
+- **Liaj hauv tsev:** Siv daim nplaim ntoo du lossis lauj kaub paj tig rov qab, muab ib sab tsa kom ua chaw zais. Siv nplooj zaub pob los yog tawv txiv kab ntxwv/txiv pos nphuab kuj zoo. Tso liaj tawm thaum tsaus ntuj thiab mus xyuas txhua tag kis txog tus kab tsawg, mam mus xyuas ib lub lim tiam ib zaug.
+- **Ntes tes:** Ob zaug rau ib lim tiam thaum caij nplooj ntoos hlav thiab lub caij nplooj zeeg, mus nrhiav lawv nyob hauv tej pob zeb thiab nplooj. Ua thaum hmo ntuj (ua tau zoo dua) lossis thaum nruab hnub. Muab kab pov rau hauv ib tho soapy dej. Hnav hnab looj tes lossis siv twj. Yog slime lo rau koj tawv nqaij, ntxuav nrog vinegar dawb thiab dej sov.
+
+### Tso Tshuaj Ntes
+
+- **Cawv lossis mis yeast thiab zib ntab:** Npaj ib tho tob, xws li lub thawv yogurt, tso ntug thawv sib npaug rau hauv av kom kab tsis txawj tawm rov qab. Los ua mis zib ntab thiab yeast, muab dej rhaub nrog zib ntab thiab yeast; tsis tas yuav ntsuas me me. Cawv siv li qub. Saib thawv txhua hnub xyuas kom tsis muaj tsiaj xav tau poob rau hauv. Nchuav tawm thiab ntxiv tshiab txhua ob peb hnub.
+- **Iron Phosphate (Sluggo, Escar-Go):** Ua rau kab npauj npaim thiab kob tsis noj thiab tuag tom qab 3 txog 6 hnub. Iron phosphate muaj kev nyab xeeb rau tsiaj, tib neeg, ntses, noog, kab muaj txiaj ntsig, thiab lwm yam tsiaj. Siv tau rau zaub mov, paj, nyom, vaj, tsev cog ntoo, thiab vaj txiv pos nphuab txog caij sau. Iron phosphate ua tau zoo txog 2 lub lis piam txawm tias los nag.
+- **Metaldehyde (Deadline):** Ua rau kab npauj npaim thiab kob qhuav sai thaum lawv noj. Tab sis yog muaj dej nyob ze lossis nag los tom qab, nws yuav tsis ua haujlwm zoo. Kab npauj npaim yuav poob 50% lawv qhov hnyav thiab txo mus txog 1/3 ntawm lawv qhov loj tab sis rov zoo tau yog lawv mus txog av ntub los yog nag los. Cov tshuaj no tsis pom zoo siv ze cov zaub noj thiab ua phem tau rau dev, miv, thiab ntses. Ua raws li ntawv qhia siv.
+
+---
+
+## Cov Chaw Pab
+
+Tau cov ntawv qhia los ntawm OSU Extension hauv [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Master Gardener™ Pab Tswv Yim · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau 10-Minute University™ ntawv qhia thiab teev caij kawm: Mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service tsis pub muaj kev txawv txav rau txhua qhov kev pab, kev pabcuam, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, qab ke, kev ntseeg, poj niam txiv neej, tus kheej paub (xws li kev qhia tus kheej), kev nyiam sib deev, xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/txiv niam txiv, nyiaj tau los ntawm kev pab pej xeem, ntseeg kev nom kev tswv, ntaub ntawv caj ces, qub tub rog, kev rov tshwm sim vim kev tiv thaiv cai. (Tsis yog txhua qhov kev txwv no siv rau txhua qhov kev pab.)
+---

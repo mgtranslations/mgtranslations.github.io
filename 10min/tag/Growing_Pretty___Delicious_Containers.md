@@ -1,75 +1,88 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association, sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
 
-## Pagtatanim ng Magaganda at Masarap na Halaman sa Lalagyan  
+# Pagtatanim ng Magaganda at Masarap na Halaman sa Paso
 
-### Pangkalahatang Ideya  
-Ang mga ceramic pots, window boxes, at iba pang sisidlan na punung-puno ng mga dahon, nakakain na bulaklak, herbs, o gulay ay perpekto para sa malalaki o maliliit na tahanan. Ang mga lalagyan na may magagandang edible plants ay nagbibigay ng alternatibo sa tradisyunal na residential landscapes at limitado sa espasyo.  
+### Pangkalahatang-ideya
 
-Ang edible landscaping ay ang paggamit ng mga halaman na nagbubunga ng pagkain sa residential landscape; sa kasong ito, mga halaman na itinatanim sa mga lalagyan. Ang iba't ibang uri ng lalagyan ay maaaring itaas ang mga halaman sa antas kung saan sila maaaring hangaan para sa kanilang ganda at lasa. Masiyahan sa kasariwaan at lasa ng home-grown, fully ripened fruits, salads, herbs, at gulay.  
+Ang mga paso na ceramic, window box, at iba pang sisidlan na puno ng mga dahon, nakakain na bulaklak, halamang gamot, o gulay ay magandang solusyon para sa malalaki o maliliit na bahay. Ang mga paso na may magagandang nakakain na halaman ay alternatibo sa karaniwang taniman sa bakuran, lalo na kung limitado ang espasyo.
 
-### Lokasyon  
-Karamihan sa mga prutas at gulay ay nangangailangan ng 6-8 oras ng araw para magbunga nang maayos. Ang ilang native na halaman at edible leaves, tulad ng lettuce at kale, ay maaaring magtiis sa kaunting lilim. Mahalagang masuri kung saan mo ilalagay ang iyong mga lalagyan. Magmasid sa iyong bakuran upang mas maunawaan ang pinakamahusay na sikat ng araw sa umaga, tanghali, at hapon. Kung ang lalagyan ay nasa lugar na madali mong maabot, mas malamang na maisama ang mga sariwang herbs sa iyong diyeta.  
+Ang edible landscaping ay paggamit ng mga halamang nagbibigay ng pagkain sa iyong bakuran; sa pagkakataong ito, sa mga paso itinatanim ang mga halaman. Iba't ibang klase ng paso ang puwedeng magpakita ng ganda at magbigay ng pagkain. Masarap ang lasa ng mga prutas, gulay, at halamang gamot na itinanim at hinog sa sariling bakuran.
 
-### Mga Lalagyan  
-Kapag pumipili ng mga lalagyan, isipin kung paano at saan mo sila ilalagay. Ano ang magiging karaniwang elemento ng disenyo na magpapaganda sa aesthetics na hinahanap mo? Ang mga salik tulad ng kulay, texture, materyal, hugis, at praktikalidad ng lalagyan ay nangangailangan ng masusing pagsasaalang-alang. Huwag matakot na muling gamitin ang mga bagay tulad ng lumang wheelbarrow, watering can, o kahit mga butas na bota. Anuman ang lalagyan na pipiliin mo, siguraduhin na mayroon itong maayos na drainage holes! HUWAG gumamit ng mga lalagyan na gawa sa kahoy na tinratong may nakalalasong preservatives tulad ng creosote.  
+### Lokasyon
 
-### Espasyo  
-Bilang gabay, ang isang paso na may sukat na 12 pulgada ang lapad ang pinakamababang sukat para sa maliliit na halaman na namumulaklak at leafy greens. Palaging isaalang-alang ang mature size ng halaman. Ang impormasyon tungkol sa tamang pagitan ng tanim sa mga plant labels o sa seed catalogs ay mahalagang mapagkukunan.  
+Karamihan sa mga prutas at gulay ay kailangan ng 6–8 oras ng araw para mamunga nang maayos. Ang ilang mga native na halaman at mga dahon tulad ng letsugas at kale ay puwedeng mabuhay kahit may konting lilim. Mahalagang pag-isipan kung saan ilalagay ang mga paso. Obserbahan ang iyong bakuran para malaman kung saan pinakamaraming araw sa umaga, tanghali, at hapon. Kapag malapit sa kusina ang mga paso, mas madali mo ring magagamit ang mga sariwang halamang gamot.
 
-### Panlupa  
-Ang mga lalagyan ay dapat punuin ng potting mix o planter mix at hindi ordinaryong garden soil. Dahil sa masinsinang pamamaraan ng pagtatanim, inirerekomenda ang pagdaragdag ng 3 hanggang 4 na buwang slow-release fertilizer sa potting mix.  
+### Mga Paso o Sisidlan
 
-### Oras at Pangangalaga  
-Ang vegetable gardens, kahit sa mga lalagyan, ay nangangailangan ng pagmamahal at pansin. Ibig sabihin nito ay pest control, pag-aalis ng damo, at pagdidilig. Gamitin ang Integrated Pest Management at gumamit ng pestisidyo bilang huling opsyon. Ang bentahe ng lalagyan ay mas madaling mag-alis ng damo at mas madaling maabot. Ang mga halaman ay nangangailangan ng maingat na pagdidilig. Ipasok ang iyong daliri hanggang sa ikalawang kasukasuan sa lupa (2-3 pulgada). Kapag ito ay basa at malamig, huwag magdilig. Ang pang-araw-araw na pagdidilig ay maaaring kailanganin sa init ng tag-init. Maging pare-pareho. Ang lingguhang pagputol, pag-alis ng mga patay na bahagi, at pagnipis ng mga halaman ay magpapabuti sa produktibong ani. Habang lumalaki ang mga halaman sa lalagyan, huwag matakot na alisin ang mga hindi maganda ang resulta, at palitan ang mga ito upang mapanatili ang magandang hitsura ng lalagyan. Ang succession planting ng greens ay maaaring gawin sa pamamagitan ng pagdaragdag ng 3-5 buto lingguhan. Panghuli, ang aplikasyon ng water-soluble fertilizer tuwing 2-3 linggo ay magpapakain sa mga halaman. Ang lahat ng pagsisikap na ito ang dahilan kung bakit masarap ang kanilang lasa!  
+Kapag pumipili ng paso, isipin kung paano at saan mo ito ilalagay. Ano ang magiging tema ng disenyo na babagay sa gusto mong itsura? Mahalagang pag-isipan ang kulay, texture, materyal, hugis, at praktikalidad ng paso. Huwag matakot gumamit ng mga lumang bagay tulad ng sirang kariton, lumang pandilig, o butas na bota bilang paso.
 
-### Kagandahan  
-Kapag nagtatanim ng masasarap na halaman, isipin muna kung ano ang gusto mong kainin! Ang disenyo ay magmumula sa laki ng halaman, kulay ng bulaklak, hugis ng dahon, pattern ng dahon, at iba't ibang texture. Isaalang-alang ang mga halaman na may iba't ibang taas at matingkad na kulay ng gulay. Mahalagang pagsamasamahin ang mga bulaklak para sa impact. Bigyan ang mga gulay ng espasyo at magbigay ng vertical support para sa mga halaman na umaakyat o gumagapang habang lumalaki. Mag-research nang kaunti upang mahanap ang mga halaman na may mga katangiang pinahahalagahan mo.  
+Anumang paso ang piliin mo, siguraduhing may maayos itong butas para sa drainage! **HUWAG** gumamit ng mga kahoy na paso na may nakalalasong kemikal tulad ng creosote.
 
-### Disenyo  
-#### Thriller, Filler at Spiller Design Framework  
-**Thriller:** Ang pinakamalaki at pinaka-kapansin-pansing halaman sa lalagyan, kadalasang inilalagay sa gitna (kung ang paso ay makikita mula sa lahat ng panig) o sa likod ng paso (kung makikita mula sa isang panig lamang). Ang Thriller ay nagbibigay ng malakas na vertical na elemento sa lalagyan. Maaaring ito ay isang pepper plant, teepee ng climbing beans, blueberry bush, o tomato plant. Para sa mas maliit na lalagyan, ang tall-growing Russian Kale ay isang magandang opsyon.  
+### Espasyo
 
-**Filler:** Isang mas maikling halaman na may ibang texture at/o pattern. Ito ay magtatago sa woody stem at magbibigay ng mas maganda at mas puno na lalagyan. Itanim ang mga ito sa paligid ng thriller sa gitna o sa semi-circle para sa back thriller. Ang maliwanag na Swiss Chards, Oak Leaf Lettuce, o malalagong herbs tulad ng parsley, sage, o cilantro ay maaaring kunin ayon sa pangangailangan para sa sariwang ani.  
+Bilang gabay, ang paso na may 12 pulgadang lapad ang pinakamaliit na sukat para sa maliliit na bulaklak at mga leafy greens. Isaalang-alang ang magiging laki ng halaman kapag lumaki na ito. Mahalaga rin ang impormasyon tungkol sa tamang agwat ng pagtatanim na makikita sa mga label ng halaman o seed catalog.
 
-**Spiller:** Isang halaman na gumagapang o umaagos pababa sa gilid ng lalagyan. Ang pagkakaroon ng contrasting texture, kulay ng dahon/bulaklak, o nagbubunga ng gulay ay magpapaganda sa lalagyan. Itanim sila sa gilid ng paso malapit sa fillers. Ang Lemon Cucumbers o summer squash ay gumagapang at nagbibigay ng mga kaakit-akit na dilaw na prutas. Ang kombinasyon ng trailing herbs tulad ng rosemary at thyme ay magpapababa ng mata sa disenyo at mag-aalok ng maraming lasa, sariwa o tuyo.  
+### Lupa o Potting Mix
 
-### Kaligtasan  
-Ang pagtatanim ng sariling mga halaman mula sa binhi ay nagbibigay ng mas mataas na kalidad ng mga punla at mas maraming pagpipilian. Hindi lahat ng bulaklak ay nakakain. Sa katunayan, ang ilang halaman ay gumagawa ng toxins upang maprotektahan ang sarili mula sa mga hayop o insekto. Ang mga toxins na ito ay maaaring mapanganib sa tao. Kapag kumakain ng "bagong" mga halaman, magsimula sa maliit na dami upang malaman kung mayroon kang sensitibong reaksyon. Kadalasan, ang petals ang pinakamasarap na bahagi ng bulaklak.  
+Dapat punuin ang mga paso ng potting mix o planter mix, hindi ng karaniwang lupa sa bakuran. Dahil mas intensive ang pagtatanim sa paso, mainam na maghalo ng slow-release fertilizer na tatagal ng 3–4 na buwan sa potting mix.
 
-### Pagpili ng Halaman  
-Suriin ang label ng halaman para sa mga pangangailangan sa tubig, araw, at espasyo. Sa isang “combination container,” ang mga pangangailangan na ito ay dapat magkatulad para sa tagumpay at mas madaling pangangalaga. Ang pagdaragdag ng mga bulaklak sa lalagyan ay mag-aakit at magpapakain sa mga pollinator.  
+### Oras at Pag-aalaga
 
-Karamihan sa mga halaman na nakalista dito ay magpapatuloy sa kanilang life cycle; magbubunga ng dahon, bulaklak, at kalaunan ng buto. Ang mga ito ay inayos ayon sa kanilang pinakapopular na nakakain na estado.  
+Kahit sa paso, nangangailangan pa rin ng pagmamahal at atensyon ang gulayan. Kabilang dito ang pag-control ng peste, pag-aalis ng damo, at regular na pagdidilig. Gumamit ng Integrated Pest Management at gumamit lamang ng pesticide kung kinakailangan.
 
-#### Greens:  
-Arugula, Beebalm, Kale, Leafy Lettuces, Mustard Greens, Swiss Chard  
+Madali lang magtanggal ng damo sa paso at madaling abutin ang mga halaman. Kailangang bantayan ang pagdidilig. Ipinasok ang daliri hanggang sa pangalawang buko (2–3 pulgada) sa lupa; kung malamig at mamasa-masa, huwag munang diligan. Maaaring kailanganin ang araw-araw na pagdidilig sa mainit na tag-init. Maging consistent.
 
-#### Gulay:  
-Cucumbers, Egg Plant, Peppers, Pole Beans, Scarlet Runner Beans, Spinach, Squash, Patio Tomatoes  
+Lingguhang paggupit, pagtanggal ng tuyong bulaklak, at pagbabawas ng siksik na halaman ay makakatulong sa masaganang ani. Habang lumalaki ang mga halaman sa paso, alisin ang mga hindi nababagay at palitan ng mas angkop. Para tuloy-tuloy ang ani ng mga leafy greens, magtanim ng 3–5 buto bawat linggo.
 
-#### Mga Petals ng Bulaklak:  
-Bachelor Buttons, Borage, Calendula, Daylily, Chamomile, Elderberry, Fennel, Lilac, Hibiscus, Hops, Hyssop, Lavender, Linden, Nasturtium, Pansy, Pea, Pinks, Rose, Scented Geraniums, Signet Marigold, Tuberous Begonia, Tulip, Yucca  
+Sa huli, maglagay ng water-soluble fertilizer kada 2–3 linggo para mapakain ang mga halaman. Kaya masarap ang tanim sa paso—dahil inaalagaan mo!
 
-#### Herbs:  
-Basil, Chives, Coriander, Oregano, Dill, Lemon Balm, Lemon Verbena, Mint, Pineapple Sage, Rosemary, Sage, Sweet Marjoram, Thyme (Karaniwang masarap ang dahon, bulaklak o buto nito)  
+### Ganda
 
-### Karagdagang Mga Mapagkukunan  
-**Edible Flowers 7.237** nina S.E. Newman at Steven O’Connor  
-[https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/](https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/)  
+Sa pagtatanim ng paso ng masasarap na halaman, unahin ang gusto mong kainin! Ang disenyo ay pwedeng basehan sa laki ng halaman, kulay ng bulaklak, hugis ng dahon, at iba’t ibang texture.
 
-**Edible Flowers** nina Julie Weisenhorn at Ginny Coyle  
-[https://extension.umn.edu/flowers/edible-flowers](https://extension.umn.edu/flowers/edible-flowers)  
+Isaalang-alang ang mga halaman na may iba-ibang taas at kulay. Mahalaga ang maramihang bulaklak para makatawag-pansin. Bigyan ng sapat na espasyo ang mga gulay at maglagay ng suporta para sa gumagapang o umaakyat na halaman. Mag-research para makahanap ng halaman na bagay sa gusto mo.
 
-**AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association  
+### Disenyo
 
-**10-Minute University™ handouts and videos**  
-[www.cmastergardeners.org](http://www.cmastergardeners.org)  
+#### Thriller, Filler, at Spiller na Disenyo
 
-### Master Gardener Advice  
-Tumawag sa Home Horticulture Helpline:  
-- 503-655-8631 (Clackamas)  
-- 503-821-1150 (Washington)  
-- 503-445-4608 (Multnomah)  
+- **Thriller**: Pinakamalaki at pinakapansin-pansing halaman sa paso, kadalasan nasa gitna (kung makikita mula sa lahat ng anggulo) o sa likod (kung mula sa isang gilid lang titingnan). Ang Thriller ay nagbibigay ng taas at vertical na elemento.
+  - Halimbawa: Pepper plant, teepee ng climbing beans, blueberry bush, tomato plant, o matangkad na Russian kale para sa mas maliit na paso.
+- **Filler**: Mas mababa ang taas, may ibang texture o pattern. Pinagtatakpan nito ang mga matitigas na tangkay at pinapaganda ang paso.
+  - Halimbawa: Makukulay na Swiss chard, oak leaf lettuce, o bushy na herbs tulad ng parsley, sage, o cilantro.
+- **Spiller**: Halamang gumagapang o tumutubo pababa sa gilid ng paso. Kapag may kakaibang texture, kulay ng dahon/bulaklak, o kakaibang gulay, lalong nagiging interesante ang paso.
+  - Halimbawa: Lemon cucumber, summer squash, o trailing herbs tulad ng rosemary at thyme.
 
+### Kaligtasan
+
+Ang pagtatanim mula sa buto ay nagbibigay ng magagandang punla at mas maraming pagpipilian. Hindi lahat ng bulaklak ay nakakain. May ibang halaman na may lason bilang panlaban sa hayop o insekto, na puwedeng makasama sa tao.
+
+Kapag kumakain ng bagong halaman, magsimula sa kaunting dami para malaman kung may allergy ka. Madalas, ang mga talulot ng bulaklak ang pinakamasarap kainin.
+
+### Pagpili ng Halaman
+
+Tingnan ang label ng halaman para sa pangangailangan nito sa tubig, araw, at espasyo. Sa “combination container,” dapat ay magkapareho ang mga pangangailangang ito para mas madali at matagumpay ang pag-aalaga. Ang pagdagdag ng bulaklak sa paso ay nakakatulong para dumami ang pollinators.
+
+Karamihan sa mga nakalistang halaman dito ay magdadaan sa mga yugto ng buhay—dahon, bulaklak, at buto. Pinili sila base sa pinakakilalang bahagi na nakakain:
+
+- **Mga Dahon**: Arugula, Beebalm, Kale, Leafy Lettuces, Mustard Greens, Swiss Chard
+- **Gulay**: Pipino, Talong, Sili, Pole Beans, Scarlet Runner Beans, Spinach, Kalabasa, Patio Tomatoes
+- **Mga Talulot ng Bulaklak**: Bachelor Buttons, Borage, Calendula, Daylily, Chamomile, Elderberry, Fennel, Lilac, Hibiscus, Hops, Hyssop, Lavender, Linden, Nasturtium, Pansy, Pea, Pinks, Rose, Scented Geraniums, Signet Marigold, Tuberous Begonia, Tulip, Yucca
+- **Herbs**: Basil, Chives, Coriander, Oregano, Dill, Lemon Balm, Lemon Verbena, Mint, Pineapple Sage, Rosemary, Sage, Sweet Marjoram, Thyme
+
+### Karagdagang Sanggunian
+
+- **Edible Flowers 7.237** nina S.E. Newman at Steven O’Connor  
+  [https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/](https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/)
+- **Edible Flowers** nina Julie Weisenhorn at Ginny Coyle  
+  [https://extension.umn.edu/flowers/edible-flowers](https://extension.umn.edu/flowers/edible-flowers)
+- **AMA Handbook of Poisonous and Injurious Plants**, Lampe, Kenneth F, 1985. American Medical Association
+- **10-Minute University™ mga handout at video**  
+  [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+#### Master Gardener™ na Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Para sa iba pang 10-Minute University™ na handout at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa o pamilya, kita mula sa public assistance program, paniniwalang politikal, impormasyon sa genes, status bilang beterano, at pagganti sa dating sumbong ukol sa civil rights. (Hindi lahat ng basehan ng pagbabawal ay naaangkop sa lahat ng programa.)
 ---

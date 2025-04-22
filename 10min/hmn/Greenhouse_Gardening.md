@@ -1,85 +1,149 @@
-# Tsev Cog Kho Zaub 101
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener · Ua Ke Nrog Thiab Txhawb Nqa OSU Extension Master Gardener™ Program
 
-## Kev Taw Qhia  
-Kev ntxiv tsev cog zaub rau hauv vaj tsev cog zaub tuaj yeem pab tau kom pib cog zaub ntxov rau lub caij nplooj ntoos hlav thiab txuas ntxiv caij cog zaub rau lub caij nplooj ntoos zeeg. Nws kuj tseem pab tiv thaiv cov nroj tsuag uas nyiam kub. Rau ntawm tib neeg sab, nws yog kev lom zem cog zaub thaum lub caij ntuj no thaum muaj kev tiv thaiv los ntawm cov huab cua txias. Ib lub tsev cog zaub tuaj yeem yog ib qho yooj yim hauv qhov rai lossis qhov chaw uas muaj kev tsim qauv zoo nrog kev tiv thaiv kub, tshuab cua sov, dej, kiv cua, thiab cov khoom siv cua.
+# Kev Ua Vaj Tse Nyob Hauv Tsev 101
 
-## Txhais Koj Lub Tsev Cog Zaub Lub Hom Phiaj
-### Tsev Txias
-Zoo rau cov neeg cog zaub uas nyob rau hauv huab cua sov thiab xav khaws nroj tsuag rau lub caij ntuj no thiab pib cog noob rau lub caij nplooj ntoos hlav. Hom tsev cog zaub no khaws qhov kub tsis txhob tsawg dua 40 degrees.
+### Taw Qhia
 
-### Tsev Sov
-Zoo rau cov neeg cog zaub uas nyob rau hauv huab cua txias thiab xav cog orchids thiab txiv ntoo. Qhov kub hmo ntuj yuav tsum yog 55 degrees.
+Yog koj ntxiv ib lub tsev iav rau hauv koj lub vaj, koj yuav pib cog tau thaum ntxov thiab txuas tau lub caij cog txog rau thaum lub caij nplooj zeeg. Nws tseem pab tiv thaiv cov nroj tsuag uas tsis kam txias thiab. Rau tib neeg, nws zoo siab heev uas tseem mus ua vaj tau thaum lub caij ntuj no uas tsis muaj nag los cua. Lub tsev iav muaj ntau hom, los ntawm ib lub me me ntawm qhov rai mus rau ib lub loj uas muaj rwb thaiv tsev zoo, tshuab cua sov, dej, kiv cua, thiab tshuab cua.
 
-### Tsev Kub
-Tsim rau cov neeg cog zaub uas xav cog cov nroj tsuag nyob rau hauv huab cua sov, xws li cov nroj tsuag hauv huab cua tropics, thiab xav tau qhov kub tsawg kawg 60 degrees rau hmo ntuj.
+---
 
-## Txhais Qhov Chaw
-Yog tias tau ntau lub hnub ci, qhov ntawd zoo dua, tshwj xeeb yog lub caij ntuj no. Tsev cog zaub zoo tshaj yog muab qhov ntev rau sab hnub tuaj lossis sab qab teb. Tsev cog zaub uas tig rau sab hnub poob tuaj yeem dhau lawm kub, hos tsev cog zaub uas tig rau sab qaum tuaj yog qhov zoo tshaj rau cov nroj tsuag uas tsis xav tau ntau lub teeb. Kev tso nyob ze cov ntoo uas poob nplooj tuaj yeem tso qhov ci rau lub caij txias tab sis muab ntxoov ntxoo thaum lub caij ntuj sov kub. Qhov chaw uas tiaj thiab muaj kev ntws dej zoo yog qhov zoo tshaj. Tsev cog zaub hauv qhov semi-pit lossis pit, nrog ib lossis ntau sab nyob hauv av, tuaj yeem tsim rau ntawm qhov chaw siab, muab kev tiv thaiv ntxiv.
+### Txiav Txim Siab Koj Lub Hom Phiaj Ua Vaj Tsev Iav
 
-Nyob ntawm qhov chaw, tej zaum cov koom haum vaj tsev thiab cov koom haum tso cai hauv zos yuav muaj kev txwv rau qhov chaw tso tsev cog zaub. Xyuas nrog cov neeg saib xyuas thaum ntxov hauv txoj kev npaj kom paub seb puas muaj daim ntawv tso cai xav tau.
+- **Tsev Txias**
+  Zoo rau cov neeg ua vaj uas nyob qhov chaw tsis txias heev thiab xav cia nroj tsuag hibernate los yog pib cog noob hauv caij nplooj ntoos hlav. Hom tsev iav no tswj kub kom nyob saum 40°F.
 
-## Hom Tsev Cog Zaub
-### Tsev Cog Zaub Uas Txuas
-Tsev cog zaub uas txuas rau ntawm ib sab ntev lossis ib sab ntawm tsev lossis lub tsev tsheb.  
-**Qhov Zoo** – Yuav tsis kim heev thiab muab kev tiv thaiv zoo dua los ntawm huab cua txias nrog ib sab uas muaj tsev tiv thaiv. Cov hluav taws xob thiab dej feem ntau nyob ze. Qhov chaw nyob ze tsev yog qhov zoo thaum huab cua tsis zoo.  
-**Qhov Tsis Zoo** – Qhov siab yuav muaj kev txwv los ntawm lub tsev. Kev thaiv dej zoo yuav tsum tau ua kom tiv thaiv dej los ntawm tsev cog zaub nkag mus rau hauv tsev.
+- **Tsev Sov**
+  Zoo rau cov neeg ua vaj uas nyob qhov chaw txias heev thiab xav cog paj orchids thiab txiv kab ntxwv. Hmo ntuj kub yuav tsum nyob ncig 55°F.
 
-### Tsev Cog Zaub Uas Nyob Ntxeev
-Tsev cog zaub uas nyob cais ntawm lwm lub tsev.  
-**Qhov Zoo** – Muaj kev ywj pheej ntau dua rau kev teeb tsa thiab muab ntau lub teeb. Muaj ntau yam kev xaiv tsim qauv, thiab yooj yim ntxiv qhov chaw rau tsev cog zaub.  
-**Qhov Tsis Zoo** – Koj yuav tsum coj dej thiab hluav taws xob mus rau tsev cog zaub. Tus nqi cua sov yuav siab dua vim muaj ntau phab ntsa thiab huab cua txias.
+- **Tsev Kub**
+  Tsim rau cov neeg uas xav cog nroj tsuag kub xws li cov hauv teb chaws tropics thiab yuav tsum muaj kub hmo ntuj tsis txhob tsawg dua 60°F.
 
-## Cov Tsev Rau Vaj Tsev Cog Zaub
-Cov tsev yuav tsum tau ua rau ntau lub tsev cog zaub thiab tuaj yeem ua los ntawm ntoo uas muaj tshuaj tiv thaiv, masonry lossis pob zeb. Nws yog ib qho tseem ceeb kom tsim cov tsev rau vaj raws li lub tsev cog zaub uas koj npaj yuav teeb.
+---
 
-## Cov Khoom Siv Rau Vaj Tsev Cog Zaub
-### Hlau Txhuam Kom Tiv Thaiv Xeb
-Feem ntau siv rau cov tsev cog zaub uas yog qauv hoop lossis gothic. Hlau yuav tsum tau siv tshuaj tiv thaiv kom tsis txhob xeb.
+### Xaiv Qhov Chaw Tsim Tsev Iav
 
-### Aluminium
-Ib qho kev xaiv uas nyiam rau ntau lub tsev cog zaub uas tuaj hauv cov khoom siv teeb tsa; nws ruaj khov, sib zog, thiab muaj xim ntau.
+- Qhov chaw uas muaj ntau hnub ci yog qhov zoo tshaj—tshwj xeeb tshaj yog lub caij ntuj no. Tsev iav zoo tshaj yog muab sab ntev rau hnub tuaj lossis sab qab teb.
+- Tsev iav uas tig mus rau sab hnub poob yuav kub heev, thaum tig mus sab qaum teb yog rau cov nroj tsuag uas tsis xav hnub ci ntau.
+- Kev muab ze ntawm cov ntoo uas poob nplooj yuav pab muaj hnub ci thaum caij txias thiab muab ntxoov ntxoo thaum caij ntuj kub.
+- Xaiv qhov chaw tiaj thiab muaj kev xau dej zoo. Tsev iav uas qhib ib feem hauv av (semi-pit) los yog hauv av (pit greenhouse) yuav pab rwb thaiv kub zoo dua.
 
-### Ntoo  
-Ntoo muaj kev tiv thaiv txias zoo tshaj, thiab nws nyiam rau cov neeg uas xav tsim lawv tus kheej tsev cog zaub. Ntoo uas muaj tshuaj tiv thaiv yuav siv tau ntev tshaj. Redwood, cedar, thiab ntoo oak muaj kev tiv thaiv zoo tshaj rau kev puas ntsoog. Xim lossis pleev ntoo ua ntej sib dhos kuj pab ntev.
+**Nco tseg:** Xyuas nrog koj lub zej zog thiab tsoom fwv seb lawv puas muaj kev txwv txog kev tsim tsev iav. Tej zaum yuav tsum tau muaj ntaub ntawv tso cai.
 
-## Cov Khoom Siv Rau Cov Qhov Rooj thiab Qhov Rai
-### Iav
-Iav yog qhov ib txwm siv rau cov tsev cog zaub. Nws muab kev hla lub teeb zoo tshaj thiab ua rau pom vaj tsev zoo. Iav ib lub txheej muaj kev hla lub teeb ntawm 85% - 95%. Iav ob txheej yuav tawg tau thaum kub hloov pauv. Iav npaj los ntawm lub tsev tsim muaj kev hla lub teeb ntawm 70% - 75%.
+---
 
-### Polycarbonate
-Ntev dua iav, nws xav tau kev txhawb tsawg dua. Twin wall polycarbonate yog qhov kev xaiv zoo rau tsev cog zaub lub ru tsev vim kev sib txuam lub teeb thiab tiv thaiv kev tawg. Kev hla lub teeb yog 83%.
+### Hom Tsev Iav
 
-### Yas
-Yas siv rau tsev cog zaub qauv hoop. Yas 6 mil hauv pob tshab muaj kev hla lub teeb ntawm 87%. Yas 6 mil hauv dawb muaj kev hla lub teeb ntawm 40%.
+#### Tsev Iav Uas Nrog Nrog Tsev
 
-## Cov Kev Siv Hauv Tsev Cog Zaub
-### Hluav Taws Xob
-Hluav taws xob hauv tsev cog zaub muab kev ywj pheej rau kev siv. Lub teeb cog zaub, ntaub sov, kiv cua thiab lub tshuab cua sov yuav tsum tau siv hluav taws xob.
+- **Zoo:**
+  - Yuav tsis kim npaum li tsev iav tib leeg.
+  - Ib sab tsev iav tau txais kev tiv thaiv los ntawm qhov tsev.
+  - Dej thiab hluav taws xob nyob ze.
+  - Ze tsev yog zoo thaum huab cua phem.
+- **Tsis Zoo:**
+  - Qhov siab yuav raug txwv los ntawm tsev.
+  - Yuav tsum muaj rwb thaiv av kom cov av ntub tsis mus rau hauv tsev.
 
-### Dej
-Kev nkag tau yooj yim rau lub raj dej yuav txuag sijhawm thiab zog.
+#### Tsev Iav Tib Leeg
 
-### Roj
-Ib qho kev xaiv ntxiv rau qhov chaw sov. Kev teeb tsa thiab kev tso pa kom zoo tsim nyog.
+- **Zoo:**
+  - Xaiv qhov chaw tso tau yooj yim thiab muaj hnub ci ntau dua.
+  - Muaj ntau hom qauv xaiv tau.
+  - Yuav nthuav tau ntxiv yog xav loj dua.
+- **Tsis Zoo:**
+  - Yuav tsum coj dej thiab hluav taws xob tuaj rau ntawd.
+  - Kev siv hluav taws xob los yog cua sov yuav kim vim muaj ntau phab ntsa thiab tsis muaj tsev tiv thaiv.
 
-## Cov Khoom Siv Ntxiv
-### Lub Tshuab Cua Sov
-Txawm tias tsev cog zaub txias yuav xav tau txheej cua sov kom kub tsis txhob poob qis dua qhov khov. Cua sov ntxiv tuaj yeem yooj yim xws li lub tshuab cua sov me me lossis kev siv hnub ci. Rau qhov kub siab dua, yuav tsum tau muaj 220 V hluav taws xob.
+---
 
-### Thermometer
-Thermometer uas muaj kev saib qhov kub siab thiab kub tsawg pab saib xyuas qhov kub hauv tsev cog zaub. Thermometer uas muaj Bluetooth tuaj yeem ceeb toom thaum kub tsis haum.
+### Qhoov (Foundations)
 
-### Kev Ncig Cua thiab Kev Tswj Kub
-Kev ncig cua zoo yog qhov tseem ceeb rau cov nroj tsuag kom loj hlob zoo. Muab qhov cua rau sab ru tsev thiab qis hauv tsev cog zaub kom cua nkag thiab tawm tau thaum hnub kub. Lub kiv cua pab ncig cua sov rau lub caij ntuj no thiab txias rau lub caij ntuj sov.
+Ntau lub tsev iav yuav tsum muaj qhoov, ua tau ntawm ntoo, cib, los yog cement. Muab qhov qhoov ua raws li cov qauv ntawm koj lub tsev iav.
 
-### Mats Rau Kev Pib Cog Noob
-Mats ua kom sov qhov chaw cog noob kom noob tuaj sai.
+---
 
-### Lub Teeb
-Lub teeb muaj ntau yam kev xaiv rau kev teeb tsa thiab cov teeb. Lub teeb uas muaj xim xiav pab cov nroj tsuag cog nplooj, lub teeb uas muaj xim liab pab cov nroj tsuag tawg. Thaum pib cog noob, lub teeb yuav tsum nyob li 4 ntiv tes ntawm qhov chaw cog, tom qab ntawd txav siab raws li noob loj hlob.
+### Cov Khoom Siv Ua Qauv Ncej
 
-## Xav Paub Ntxiv
-- **Greenhouses for Homeowners and Gardeners (NRAES 137)**  
-  [Link rau qhov chaw ntaub ntawv](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
+- **Hlau Galvanized**
+  - Siv rau tsev iav zoo li hoop lossis gothic style.
+  - Yuav tsum muaj tshuaj tiv xeb.
 
-Oregon State University Extension Service tsis pub txwv kev sib txawv hauv txhua qhov haujlwm, kev pab, kev ua, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia tus kheej, kev xaiv poj niam txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, kev txhawb nqa, nyiaj los ntawm kev pab pej xeem, kev ntseeg txog kev nom tswv, ntaub ntawv caj ces, kev pab tub rog, kev txhawb nqa lossis kev rov qab los ntawm kev ua haujlwm rau kev cai lij choj yav dhau los. (Tsis yog txhua qhov kev txwv siv rau txhua qhov haujlwm.)
+- **Aluminiam**
+  - Siv ntau hauv tsev iav uas muag ua pob.
+  - Ua tau ntev, nyhav me, thiab muaj ntau xim.
+
+- **Ntoo**
+  - Ua kom tsev iav sov tshaj.
+  - Ntoo uas tau kho yuav nyob ntev dua thiab zoo rau tso hauv av.
+  - Ntoo uas tsis txawj lwj xws li redwood, cedar, thiab white oak heartwood.
+  - Xab xim los yog pleev ua ntej sib dhos yuav ua kom ntev dua.
+
+---
+
+### Cov Khoom Siv Qhwv (Glazing Materials)
+
+- **Iav**
+  - Siv los ua tsev iav ib txwm.
+  - Muab hnub ci zoo tshaj thiab saib pom nroj tsuag zoo.
+  - Iav ib txheej pub tau 85%–95% hnub ci.
+  - Iav ob txheej yuav tawg tau yog kub hloov sai. Iav ob txheej uas hauv hoobkas sib khi tau pub 70%–75% hnub ci.
+
+- **Polycarbonate**
+  - Nyhav dua iav thiab tsis tas yuav muaj ncej ntau.
+  - Polycarbonate ob txheej zoo rau ru tsev iav vim muaj kev faib hnub ci thiab tsis tawg yooj yim. Pub tau 83% hnub ci.
+
+- **Yas**
+  - Siv ntau hauv tsev iav hoop.
+  - Yas huv 6 mil pub 87% hnub ci.
+  - Yas dawb 6 mil pub 40% hnub ci.
+
+---
+
+### Siv Hluav Taws Xob, Dej, Roj
+
+- **Hluav Taws Xob**
+  - Siv tau teeb, pad cua sov, kiv cua, thiab tshuab cua sov.
+
+- **Dej**
+  - Muaj dej hose ze yuav pab txuag sijhawm thiab zog.
+
+- **Roj**
+  - Lwm txoj kev siv cua sov. Yuav tsum muaj raj thiab tshuab cua kom zoo.
+
+---
+
+### Cov Khoom Siv Ntxiv
+
+- **Tshuab Cua Sov**
+  - Txawm tias tsev iav txias kuj yuav xav tau cua sov kom kub saum freezing.
+  - Cua sov ntxiv tau los ntawm tshuab cua sov me me los yog siv zog hnub.
+  - Tsev iav kub yuav xav tau hluav taws xob 220 V.
+
+- **Thermometer**
+  - Thermometer uas qhia kub siab thiab kub qis yuav pab saib xyuas kub.
+  - Bluetooth thermometer yuav ceeb toom koj tam sim thaum kub hloov.
+
+- **Kev Ncig Cua thiab Tswj Kub**
+  - Cua zoo pab nroj tsuag loj zoo.
+  - Muab qhov cua rau saum ru tsev thiab hauv qab kom cua mus tau, tshwj xeeb thaum kub.
+  - Kiv cua pab cua sov thaum ntuj no thiab pab txias thaum ntuj kub.
+
+- **Pad Pib Noob**
+  - Ua kom av sov kom noob sprout sai.
+
+- **Teeb**
+  - Muaj ntau hom thiab txawb tau ntau qhov.
+  - Teeb xiav pab kom nplooj loj, teeb liab pab kom paj tawg.
+  - Thaum pib cog noob, muab teeb li 4 ntiv tes saum av, thiab nce siab thaum noob loj.
+
+---
+
+### Paub Ntxiv
+
+**Tsev Iav Rau Cov Ua Vaj (NRAES 137)**  
+[https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
+
+---
+
+#### Oregon State University Extension Service tsis pub cais tawm leej twg hauv nws cov kev pabcuam, kev ua haujlwm, kev ua si, thiab ntaub ntawv vim yog haiv neeg, xim tawv nqaij, lub teb chaws tuaj, kev ntseeg, poj niam txiv neej, tus kheej kev paub (xws li kev qhia tus kheej), kev nyiam tib poj niam los txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, kev yug menyuam, nyiaj txiag los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qib tub rog, kev raug txim, lossis rov ua phem vim tej kev tiv thaiv cai. (Tsis yog txhua yam kev txwv no siv rau txhua yam kev pabcuam.)

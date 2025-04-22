@@ -1,61 +1,92 @@
-10-Nas Ntiag Tsev Kawm Ntawv™  
-Kev Koom Tes ntawm Clackamas County Master Gardener Association nrog thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
-Cov Nroj Tsuag Zoo Tshaj Plaws: Cov Nroj Tsuag Nroj, Cov Nroj Ntoos Tsawb, Cov Nroj Ntoos Nqaij thiab Cov Nyom  
-S: Lub Vaj Duab Nroj Tsuag, D: Cov Nroj Tsuag Ua Tau Tsis Muaj Dej, W: Txiaj Ntsig Rau Tsiaj: Noog, Kab Ntxwv, Ntxhw Tsov Ntxhw, Noog Ntxhw  
+#### 10-Feeb Chav Kawm Ua Liaj Ua Teb™ · Lub Koom Haum Clackamas County Master Gardener · Ua Haujlwm Ua Ke thiab Txhawb Nqa OSU Extension Master Gardener™ Program
 
-### Cov Nroj Nroj
-**Lub Npe** | **S/D/W** | **10 Xyoo** | **Hnub/Qhov Duab Nroj Tsuag** | **Cov Nta Zoo Tshaj Plaws**  
----|---|---|---|---  
-Naked Ladies  
-Amaryllis belladonna | | 1’ 6” x 1’ 6” | Hnub ci ntsa iab | Nws muaj cov ceg ntoo uas tuag hauv lub caij ntuj sov thiab tom qab ntawd muaj cov paj zoo nkauj zoo ib yam li lub raj xyoob uas zoo nkauj hauv lub caij nplooj zeeg.  
-Windflower  
-Anemone blanda | | 4” x 1’ | Hnub ci ntsa iab | Paj hauv lub caij nplooj ntoo hlav nrog cov paj zoo ib yam li daisy hauv cov xim ntawm liab dawb, thiab xiav indigo.  
-Cusick’s Camas  
-Camassia cusickii | S, W | 3’ x 3’ | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | PNW keeb kwm. Cov nroj tsuag bulb nrog cov paj xiav zoo nkauj los ntawm lub caij nplooj ntoo hlav mus txog thaum lub caij ntuj kub.  
-Camas  
-Camassia quamash | S, W | 2’ x 2’ | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | PNW keeb kwm. Cov bulb yooj yim hlob no tsim cov paj zoo nkauj xiav rau violet-xim paj hauv lub Tsib Hlis.  
-Autumn Crocus  
-Colchicum autumnale | D | 1’ x 6” | Hnub ci ntsa iab | Thaum lub caij nplooj zeeg ntxov, cov paj xim lavender-pink loj zoo nkauj tshwm sim los ntawm qhov av los ua ib qho kev zoo nkauj tshiab.  
-Autumn Crocus  
-Colchicum ‘The Giant’ | D | 1’ x 4” | Hnub ci ntsa iab | Cov paj loj heev zoo nkauj xim lavender-rose nrog dawb hauv qab cov nplaim paj. Cov paj no zoo heev tshwm sim los ntawm qhov av thaum lub caij nplooj zeeg ntxov.  
-Large-Flowering Crocus  
-Crocus ‘Flower Record’ | | 5” x 6” | Hnub ci ntsa iab | Cov paj goblet zoo nkauj paj xim xiav zoo nkauj.  
-Large-Flowering Crocus  
-Crocus ‘Goldilocks’ | | 5” x 5” | Hnub ci ntsa iab | Cov paj golden uas muaj ib qho xim burgundy.  
-Large-Flowering Crocus  
-Crocus Jeanne d’ Arc’ | | 5” x 9” | Hnub ci ntsa iab | Cov paj goblet zoo nkauj xim dawb nrog xiav sab nraum. Cov crocus no ntev thiab zoo nkauj.  
-Large-Flowering Crocus  
-Crocus ‘King of the Striped’ | | 5” x 9” | Hnub ci ntsa iab | Cov paj goblet zoo nkauj uas muaj xiav veining, lossis "striping," nyob hauv cov nplaim dawb. Cov xim txiv kab ntxwv ntxiv kev zoo nkauj.  
+## Cov Nroj Tsuag Zoo Tshaj Plaws: Pauj, Nroj Tsuag Qab Zib, Nroj Hnav, thiab Nyom
 
-Large-Flowering Crocus  
-Crocus ‘Pickwick’ | | 5” x 9” | Hnub ci ntsa iab | Cov crocus zoo nkauj ntxiv nrog xiav veining hauv cov nplaim dawb. Cov xim txiv kab ntxwv ntxiv kev zoo nkauj.  
-Large-Flowering Crocus  
-Crocus ‘Yellow Mammoth’ | | 5” x 9” | Hnub ci ntsa iab | Cov paj goblet zoo nkauj xim daj buttercup thiab cov xim sib xws ntawm anthers.  
-Persian Violet  
-Cyclamen coum | S | 4” x 6” | Qhov duab nroj tsuag | Cov keeb kwm ntawm Mediterranean yog lub caij ntuj sov tsis muaj paj. Cov nplooj nyiaj-tsuas loj tshwm sim hauv lub caij nplooj zeeg ntxov, ntawm xiav ntsuab mus rau nyiaj. Cov paj sib txawv ntawm dawb, magenta, mus rau liab.  
-Ivy Leaf Cyclamen  
-Cyclamen hederifolium | S | 6” x 6” | Qhov duab nroj tsuag | Cov nroj tsuag paj hauv lub cuaj hlis thiab lub kaum hli nrog cov paj liab, tab sis cov paj dawb kuj tshwm sim, tom qab ntawd cov nplooj tshwm sim.  
-Summer Snowflake  
-Leucojum aestivum ‘Gravetye Giant’ | | 1’ 6” x 1” | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | Ib lub sijhawm ntev nrog cov nplooj glossy xim ntsuab tsaus. Thaum lub caij nplooj ntoo hlav, cov ceg ntoo tsis muaj nplooj uas mus txog 36 nti siab, muaj txog 8 lub paj xiav me me.  
-Miniature Daffodil  
-Narcissus ‘February Gold’ | | 12” x 12” | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | Cov paj xim daj zoo nkauj peb-nti ntawm ib lub ceg ntoo khov kho, 12-nti. Nroj tsuag hauv pawg rau ib qho zoo nkauj zoo nkauj.  
-Miniature Daffodil  
-Narcissus ‘Jack Snipe’ | | 8” x 4” | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | Cov paj zoo nkauj, 1.5-nti xim dawb, muaj ib qhov zoo nkauj xim daj-xim hauv qab.  
-White Trumpet Daffodil  
-Narcissus ‘Mount Hood’ | | 1’ 3” x 0.5’ | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | Cov paj dawb plaub-nti ntawm ib lub ceg ntoo khov kho, 18 txog 20-nti. Qhov zoo tshaj yog nroj tsuag hauv pawg ntawm 5 txog 7.  
-Golden Trumpet Daffodil  
-Narcissus ‘Saint Keverne’ | | 1’ 3” x 0.5’ | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | Cov paj loj xim daj zoo nkauj ntawm ib lub ceg ntoo khov kho, 18 txog 20-nti.  
-Miniature daffodil  
-Narcissus ‘Tete-a-Tete’ | | 8” x 1’ | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | Cov paj zoo nkauj xim daj 2.5-nti.  
-White Orchid Daffodil  
-Narcissus ‘Thalia’ | | 1’ x 4” | Hnub ci ntsa iab mus rau qhov duab nroj tsuag | Cov paj dawb muaj ntau lub taub hau ntawm ib lub ceg ntoo khov kho. Zoo nkauj thaum nroj tsuag hauv pawg.  
-Purple Fool’s Onion  
-Triteleia ‘Corrina’ | D, W | 1’ x 6” | Hnub ci ntsa iab | Cov keeb kwm ntawm West Coast. Cov paj xiav zoo nkauj zoo ib yam li lub hnub qub ntawm ib lub cev ntoo ib-foot ntev tshwm sim thaum lub caij ntuj kub mus txog thaum lub caij ntuj sov.  
-Yellow Fool’s Onion  
-Triteleia ixioides ‘Starlight’ | D | 1’ x 6” | Hnub ci ntsa iab | Cov keeb kwm ntawm West Coast. Paj thaum lub caij ntuj kub mus txog thaum lub caij ntuj sov nrog cov paj xiav zoo nkauj ntev ob-nti.  
-Blue Fool’s Onion  
-Triteleia laxa ‘Queen Fabiola’ | D, W | 1’ x 6” | Hnub ci ntsa iab | Cov keeb kwm ntawm West Coast. Cov paj xiav zoo nkauj zoo ib yam li lub hnub qub ntawm ib lub cev ntoo ib-foot ntev tshwm sim thaum lub caij ntuj kub mus txog thaum lub caij ntuj sov.  
+### Cov Cim Tseem Ceeb
 
----  
-**Ntxiv rau cov ntaub ntawv thiab cov nroj tsuag muaj nyob hauv cov vaj zoo nkauj no, cov kev pab cuam Great Plant Picks (GPP) yog ib qho kev qhia txhawb nqa rau Elisabeth C. Miller Botanical Garden.**  
+- **S**: Vaj Nroj Tsuag Ntxoov Ntoos  
+- **D**: Nroj Tsuag Tiv Taus Kev Qhuav  
+- **W**: Muaj Txiaj Ntsig Rau Tsiaj Quav: Noog, Ntsaum, Nab Kuab, Noog Nqaj  
+
+---
+
+## Pauj
+
+| Lub Npe                                   | S/D/W | Loj             | Tshav Ntuj/Ntxoov Ntoos         | Cov Yam Tseem Ceeb                                                                 |
+|-------------------------------------------|-------|-----------------|-------------------------------|-------------------------------------------------------------------------------------|
+| **Nroj Tsuag Liab Nplua**                 |       | 1' 6" x 1' 6"   | Tshav ntuj puv                 | Caj ntoo tuag rov qab thaum tav su; paj loj 18" zoo nkauj zoo li raj tshwm rau lub caij nplooj zeeg. |
+| **Paj Cua**                               |       | 4" x 1'         | Tshav ntuj puv                 | Paj tawg thaum ntxov nplooj ntoos hlav, zoo li paj daisy muaj xim liab, dawb, thiab xiav.|
+| **Cusick’s Camas**                        | S, W  | 3' x 3'         | Tshav ntuj puv mus txog ntxoov ntxoo | PNW keeb kwm. Paj xiav txias mus txog xiav ntuj tshwm txij thaum lig nplooj ntoos hlav mus txog ntxov lub caij ntuj sov. |
+| **Camas**                                 | S, W  | 2' x 2'         | Tshav ntuj puv mus txog ntxoov ntxoo | PNW keeb kwm. Paj ntsuab xiav ci mus rau paj liab tsaus nyob rau lub Tsib Hlis.  |
+| **Autumn Crocus**                         | D     | 1' x 6"         | Tshav ntuj puv                 | Paj loj zoo li vase xim paj yeeb-paj liab ntuj tshwm tawm hauv av thaum ntxov nplooj zeeg.    |
+| **Autumn Crocus ‘The Giant’**             | D     | 1' x 4"         | Tshav ntuj puv                 | Paj loj tshaj, xim paj yeeb-rose thiab dawb sab hauv nplooj paj.                   |
+| **Large-Flowering Crocus ‘Flower Record’**|       | 5" x 6"         | Tshav ntuj puv                 | Paj dub xiav xiav zoo li khob.                                                    |
+| **Large-Flowering Crocus ‘Goldilocks’**   |       | 5" x 5"         | Tshav ntuj puv                 | Paj daj ci nrog me ntsis xim liab.                                                 |
+| **Large-Flowering Crocus ‘Jeanne d’Arc’** |       | 5" x 9"         | Tshav ntuj puv                 | Paj dawb zoo li khob, sab nraud muaj xim xiav.                                     |
+| **Large-Flowering Crocus ‘King of the Striped’** |   | 5" x 9"         | Tshav ntuj puv                 | Paj dawb muaj kab xiav (“kab zeb”), nplaim paj daj ua kom zoo nkauj.               |
+| **Large-Flowering Crocus ‘Pickwick’**     |       | 5" x 9"         | Tshav ntuj puv                 | Paj dawb muaj kab xiav; nplaim paj daj ua kom zoo nkauj.                           |
+| **Large-Flowering Crocus ‘Yellow Mammoth’**|      | 5" x 9"         | Tshav ntuj puv                 | Paj daj zoo li paj buttercup, nplaim paj daj tib yam.                              |
+| **Persian Violet**                        | S     | 4" x 6"         | Ntxoov ntxoo me mus rau tob    | Nroog pw thaum ntuj sov. Nplooj loj li nyiaj tshwm thaum ntxov nplooj zeeg. Paj muaj ntau xim. |
+| **Ivy Leaf Cyclamen**                     | S     | 6" x 6"         | Ntxoov ntxoo me mus rau tob    | Paj tawg rau lub Cuaj Hli thiab Kaum Hli nrog paj liab; nplooj tshwm tom qab.      |
+| **Summer Snowflake**                      |       | 1' 6" x 1"      | Tshav ntuj puv mus txog ntxoov ntxoo | Nplooj ntev zoo li tawv, xim ntsuab tsaus; tiaj ntoo dawb muaj ntxhiab chocolate ntawm lub caij nplooj hlav. |
+| **Miniature Daffodil ‘February Gold’**    |       | 12" x 12"       | Tshav ntuj puv mus txog ntxoov ntxoo | Paj daj ci saum ceg ntoo ruaj khov. Cog ua pawg kom zoo li ntuj tsim.              |
+| **Miniature Daffodil ‘Jack Snipe’**       |       | 8" x 4"         | Tshav ntuj puv mus txog ntxoov ntxoo | Paj dawb zoo li ivory, nruab nrab muaj raj daj ci.                                 |
+| **White Trumpet Daffodil ‘Mount Hood’**   |       | 1' 3" x 0.5'    | Tshav ntuj puv mus txog ntxoov ntxoo | Paj dawb loj plaub nti, txawv ruaj khov. Zoo tshaj yog cog ua pawg.              |
+| **Golden Trumpet Daffodil ‘Saint Keverne’**|      | 1' 3" x 0.5'    | Tshav ntuj puv mus txog ntxoov ntxoo | Paj daj loj zoo li daj noog canary, txawv ruaj khov.                             |
+| **Miniature Daffodil ‘Tete-a-Tete’**      |       | 8" x 1'         | Tshav ntuj puv mus txog ntxoov ntxoo | Paj daj ci loj 2.5 nti.                                                            |
+| **White Orchid Daffodil ‘Thalia’**        |       | 1' x 4"         | Tshav ntuj puv mus txog ntxoov ntxoo | Paj dawb muaj ntau taub hau, txawv ruaj khov. Zoo nkauj thaum cog ua pawg.        |
+| **Purple Fool’s Onion ‘Corrina’**         | D, W  | 1' x 6"         | Tshav ntuj puv                 | Paj xiav tsaus zoo li hnub qub, nyob saum ceg ntoo ntev ib ko taw.                 |
+| **Yellow Fool’s Onion ‘Starlight’**       | D     | 1' x 6"         | Tshav ntuj puv                 | Paj daj me me zoo li hnub qub, tawg lig nplooj hlav mus txog ntxov lub caij ntuj sov. |
+| **Blue Fool’s Onion ‘Queen Fabiola’**     | D, W  | 1' x 6"         | Tshav ntuj puv                 | Paj xiav ci zoo li hnub qub, nyob saum ceg ntoo ntev ib ko taw.                    |
+
+---
+
+## Nroj Tsuag Qab Zib
+
+| Lub Npe                        | S/D/W | Loj         | Tshav Ntuj/Ntxoov Ntoos | Cov Yam Tseem Ceeb                                               |
+|-------------------------------|-------|-------------|------------------------|-------------------------------------------------------------------|
+| **Maidenhair Spleenwort**     | S     | 6" x 6"     | Ntxoov ntxoo me mus rau tob | PNW keeb kwm. Nroj tsuag ntsuab tuab txiag zoo nkauj ua pawg me. |
+| **Autumn Fern**               |       | 2' x 2'     | Ntxoov ntxoo me mus rau tob | Yooj yim loj, nroj tsuag ntsuab, paj tshiab xim liab-nkhaus. Nplooj qub xim ntsuab ci. |
+| **Brilliance Autumn Fern**     |       | 2' x 2'     | Tshav ntuj puv mus txog ntxoov ntxoo | Xim ci tshaj hauv tshav ntuj. Paj tshiab ncaj, sib txawv nrog nplooj qub ci. |
+| **Sword Fern**                | S     | 3' x 3'     | Ntxoov ntxoo me mus rau tob | PNW keeb kwm. Nroj tsuag ntsuab, zoo li tog ntoo ncaj, tiv taus av qhuav.   |
+| **Soft Shield Fern**          | S     | 1.5' x 2'   | Ntxoov ntxoo me mus rau tob | Nplooj txiav kom zoo nkauj, khoov zoo nkauj, ua kom nroj tsuag loj pawg.   |
+
+---
+
+## Nyom
+
+| Lub Npe                                 | S/D/W | Loj         | Tshav Ntuj/Ntxoov Ntoos | Cov Yam Tseem Ceeb                                           |
+|-----------------------------------------|-------|-------------|------------------------|-------------------------------------------------------------|
+| **Feather Reed Grass ‘Karl Foerster’**  |       | 5' x 2'     | Tshav ntuj puv         | Paj ntev zoo li plhaw liab-nkhaus hloov mus rau xim daj.    |
+| **Blue Oat Grass**                      |       | 2' x 2'     | Tshav ntuj puv         | Nplooj nyias xiav-ntsuab ua pawg zoo nkauj.                 |
+| **Giant Feather Grass**                 |       | 2' x 4'     | Tshav ntuj             | Nyom loj nrog noob zoo li lub kua muag, qhuav mus rau xim qeeb daj. |
+
+---
+
+## Nroj Hnav
+
+| Lub Npe                         | S/D/W | Loj          | Tshav Ntuj/Ntxoov Ntoos         | Cov Yam Tseem Ceeb                                                   |
+|----------------------------------|-------|--------------|--------------------------------|---------------------------------------------------------------------|
+| **Crimson Glory Vine**           |       | 30' x 20'    | Tshav ntuj puv mus txog ntxoov ntxoo | Nplooj loj xim liab, zoo li plawv, loj txog ib ko taw. Nplooj ntoo zeeg zoo nkauj. |
+| **Purple Leaf Grape Vine**       |       | 20' x 6'     | Tshav ntuj                     | Nplooj tshiab tawm xim ntsuab nrog me ntsis liab; nplooj ntoo zeeg liab heev.       |
+
+---
+
+## Txog Great Plant Picks
+
+Great Plant Picks (GPP) yog qhov kev pab qhia ntawv tseem ceeb ntawm Elisabeth C. Miller Botanical Garden. Xyoo 2001, daim ntawv thawj zaug tau tshaj tawm nrog cov tswv yim rau kev xaiv cov nroj tsuag zoo tshaj rau thaj tsam Pacific Northwest. Txog tam sim no, muaj ntau tshaj 1,000 hom nroj tsuag zoo tau xaiv rau cov neeg ua vaj nyob sab hnub poob ntawm toj roob hauv pes Cascade, txij li Eugene, Oregon, USA mus rau Vancouver, British Columbia, Canada.
+
+### Cov Qhia Tawm Tsim Nyog
+
+- Yuav loj tau hauv ntau hom av.
+- Xav tau dej nruab nrab los yog tsawg.
+- Txi taus cua sov.
+- Tshiab txias tau hauv USDA cheeb tsam 7.
+- Tsis nyiam muaj kab mob/kab tsuag.
+- Muaj ntau tshaj ib caij uas zoo nkauj hauv vaj.
+- Ntau hom GPP nroj tsuag kuj tseem pab tau rau ib puag ncig (pab kab, pub noog noj, chaw nyob rau tsiaj qus, thiab lwm yam).
+
+---
+
+###### Oregon State University Extension Service txwv tsis pub ua qhov txawv txav los sis saib tsis taus hauv tag nrho nws cov kev pab cuam, kev pab, kev ua ub no, thiab khoom, raws li haiv neeg, xim, lub teb chaws yug, kev ntseeg, tub los ntxhais, tus kheej/cim xeeb (xws li kev qhia tus kheej), kev nyiam sib deev, xiam oob khab, hnub nyoog, txij nkawm, kev muaj me nyuam, nyiaj tau los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, xov xwm caj ces, kev ua qub tub rog, los sis ua pauj/tsis kam rau qhov kev ua haujlwm yeej cai neeg. (Tsis yog txhua yam uas txwv tau no siv rau txhua qhov kev pab cuam.)
+---

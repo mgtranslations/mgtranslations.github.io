@@ -1,64 +1,73 @@
-Đại học 10 phút™  
-Hiệp hội Làm Vườn Master Clackamas County hợp tác và hỗ trợ Chương trình Làm Vườn Master của OSU Extension™  
+#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension Master Gardener™
 
-**Lựa chọn cây tuyệt vời: Cây lâu năm**  
-S: Cây chịu bóng, D: Cây chịu hạn, Lợi ích cho động vật hoang dã: Chim, Ong, Bướm, Chim ruồi  
+## Lựa Chọn Thực Vật Tuyệt Vời: Cây lâu năm
 
-### Tên cây S/D/W Kích thước trưởng thành sau 10 năm Ánh sáng Mặt trời/Bóng râm Đặc điểm nổi bật  
+**S:** Cây chịu bóng  
+**D:** Cây chịu hạn  
+**Lợi ích cho động vật hoang dã:** Chim, Ong, Bướm, Chim ruồi
 
-**Cỏ thi**  
-Achillea ‘Moonshine’  
-W 3’ x 3’ 3’ x 4’ Ánh sáng đầy đủ  
-Hoa hấp dẫn đối với các loài thụ phấn từ mùa hè đến đầu mùa thu.  
+### Danh Sách Cây
 
-**Cỏ vàng sọc**  
-Acorus gramineus ‘Ogon’  
-1’ x 3’ 1’ x 5’ Ánh sáng đầy đủ,  
-bóng râm nhẹ đến bóng râm mở  
-Lá giống cỏ có sọc màu vàng chanh đẹp mắt, đa dụng và có thể dùng làm điểm nhấn trong vườn hỗn hợp, cây trong chậu, hoặc bên mép nước.  
+| Tên                              | S/D/W   | Kích thước trưởng thành sau 10 năm | Nắng/Bóng                                 | Đặc điểm nổi bật                                                                   |
+|-----------------------------------|---------|-------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------|
+| **Cỏ Ngải cứu (Yarrow)**          | W       | 90cm x 90cm                        | Nắng hoàn toàn                            | Hoa hấp dẫn cho các loài thụ phấn từ mùa hè đến đầu mùa thu.                       |
+| **Cỏ Lác Sọc Vàng (Golden Variegated Sweetflag)** |         | 30cm x 90cm                        | Nắng hoàn toàn, bóng nhẹ đến bóng mở       | Lá sọc vàng chanh nổi bật, giống cỏ, đa năng cho bồn cây, chậu hoặc ven nước.      |
+| **Cúc Gỗ (Wood Anemone)**         | S, W    | 10cm x 90cm                        | Nắng hoàn toàn hoặc bóng nhẹ đến bóng mở   | Thấp, lan rộng, hoa đơn màu sắc rực rỡ vào mùa xuân.                              |
+| **Bergenia Trắng Bressingham**    |         | 45cm x 90cm                        | Nắng hoàn toàn đến bóng nhẹ hoặc bóng mở   | Chuông trắng tinh khôi trên thân cứng, lá bầu bóng mượt.                           |
+| **Bergenia Lá Tim**               | S       | 45cm x 90cm                        | Nắng hoàn toàn đến bóng nhẹ hoặc bóng mở   | Chùm hoa hình chuông màu hồng đến hồng đỏ trên thân mập vào mùa xuân.              |
+| **Bergenia Ánh Hồng Đông (Winter Glow Bergenia)** | S       | 45cm x 90cm                        | Nắng hoàn toàn đến bóng nhẹ hoặc bóng mở   | Lá xanh bóng đậm, hoa màu tím hồng vào mùa xuân, lá đổi màu đẹp vào mùa đông.      |
+| **Tim Rỉ Máu (Bleeding Heart Dicentra)** | S, W    | 30cm x 60cm                        | Bóng mở hoặc bóng loang lổ                 | Lá xanh xám, chùm hoa hình tim màu đỏ rượu vang thả xuống dịu dàng.                |
+| **Fuchsia Humboldt County**       | D       | 30cm x 90cm                        | Nắng hoàn toàn                            | Lá bạc mờ nổi bật với hoa hình ống đỏ cam rực rỡ, từ giữa hè đến giữa thu.         |
 
-**Cỏ Anemone rừng**  
-Anemone nemorosa  
-S, W 4” x 3’ 4” x 3.5’ Ánh sáng đầy đủ hoặc  
-bóng râm nhẹ đến bóng râm mở  
-Cây thấp lan rộng, cho hoa đơn sáng màu vào mùa xuân.  
+### Các Loại Epimedium
 
-**Bergenia trắng Bressingham**  
-Bergenia ‘Bressingham White’  
-1.5’ x 3’ 1.5’ x 4’ Ánh sáng đầy đủ đến  
-bóng râm nhẹ hoặc bóng râm mở  
-Chuông trắng tinh trên thân cây chắc chắn và lá hình oval bóng loáng là đặc điểm nổi bật của loài Bergenia này.  
+| Tên                              | S/D/W   | Kích thước trưởng thành sau 10 năm | Nắng/Bóng                                 | Đặc điểm nổi bật                                                                   |
+|-----------------------------------|---------|-------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------|
+| **Epimedium Biển Đen (Black Sea Epimedium)** | W       | 40cm x 90cm                        | Bóng nhẹ đến bóng loang lổ                | Nhiều hoa nhỏ màu vàng trên thân đỏ mảnh, từ cuối đông đến đầu xuân.               |
+| **Epimedium Sấm Sét (Thunderbolt Epimedium)** |         | 40cm x 90cm                        | Bóng nhẹ đến bóng mở                      | Lá màu tím cà với gân xanh như hình sét, lá đổi màu vào mùa thu.                   |
+| **Epimedium Perralchicum**        | D, W    | 40cm x 150cm                       | Bóng nhẹ đến bóng loang lổ                | Hoa vàng bơ vào cuối đông và đầu xuân, phát triển nhanh, khỏe mạnh.                |
+| **Epimedium Lai (Hybrid Epimedium)** | S, D, W | 40cm x 150cm                       | Bóng nhẹ đến bóng loang lổ                | Hoa vàng bơ, sau đó là lá nhỏ hình tim viền đỏ.                                    |
+| **Epimedium Đỏ (Red Epimedium)**  | S, D, W | 40cm x 90cm                        | Bóng nhẹ đến bóng loang lổ                | Hoa đỏ hồng vào cuối tháng 3, sau đó lá non đỏ nổi bật.                            |
+| **Epimedium Sweetheart**          | D, W    | 40cm x 60cm                        | Bóng nhẹ đến bóng mở                      | Phát triển tốt ở bóng nhẹ đến bóng loang lổ, ra hoa ít hơn ở bóng sâu.              |
+| **Epimedium Cherry Tart**         | D, W    | 40cm x 60cm                        | Bóng nhẹ đến bóng mở                      | Hoa hồng phấn với nhụy vàng trên nền lá tím socola.                                |
+| **Epimedium Vàng Lưu Huỳnh (Sulfur Epimedium)** | D, W    | 40cm x 90cm                        | Bóng nhẹ đến bóng loang lổ                | Cây phủ đất khỏe, đài hoa vàng nhạt và cánh hoa vàng bơ.                           |
+| **Epimedium Warley’s**            | S, D, W | 40cm x 60cm                        | Bóng nhẹ đến bóng loang lổ                | Hoa màu cam đỏ đồng vào đầu xuân, lá non hình tim viền đỏ.                         |
+| **Epimedium Nữ Hoàng Cam (Orange Queen Epimedium)** | D, W    | 40cm x 60cm                        | Bóng nhẹ đến bóng loang lổ                | Giống phát triển chậm, cuối cùng phủ một vùng rộng làm cây phủ đất.                |
 
-**Bergenia lá tim**  
-Bergenia cordifolia  
-S 1.5’ x 3’ 1.5’ x 4’ Ánh sáng đầy đủ đến  
-bóng râm nhẹ hoặc bóng râm mở  
-Cụm hoa màu hồng đến hồng đỏ hình chuông xuất hiện trên thân cây vào mùa xuân.  
+### Các Loại Cây Khác
 
-**Bergenia ánh sáng mùa đông**  
-Bergenia cordifolia ‘Vinterglod’  
-S 1.5’ x 3’ 1.5’ x 4’ Ánh sáng đầy đủ đến  
-bóng râm nhẹ hoặc bóng râm mở  
-Lá xanh bóng bẩy với hoa màu đỏ tía vào mùa xuân và lá đổi màu vào mùa đông.  
+| Tên                              | S/D/W   | Kích thước trưởng thành sau 10 năm | Nắng/Bóng                                 | Đặc điểm nổi bật                                                                   |
+|-----------------------------------|---------|-------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------|
+| **Hải Tảo Lá Thùa (Agave-Leaf Sea Holly)** | D, W    | 90cm x 30cm                        | Nắng hoàn toàn đến bóng nhẹ               | Lá độc đáo, thân hoa cao vào cuối hè.                                              |
+| **Hải Tảo Núi (Alpine Sea Holly)** | D, W    | 60cm x 30cm                         | Nắng hoàn toàn                            | Hoa xanh thép hoặc trắng như cổ áo thời Elizabeth.                                 |
+| **Fuchsia Chịu Lạnh (Hardy Fuchsia)** | W       | 90cm x 90cm                         | Nắng hoàn toàn đến bóng nhẹ hoặc bóng mở   | Đài hoa đỏ và cánh hoa tím nở rực rỡ từ hè đến khi có sương giá.                   |
+| **Fuchsia Lá Vàng (Golden Leaf Hardy Fuchsia)** | W       | 120cm x 120cm                       | Nắng sáng sớm đến bóng nhẹ hoặc bóng mở    | Lá vàng óng dần chuyển vàng lục, đài hoa đỏ thẫm, cánh hoa tím.                    |
+| **Hellebore Corse (Corsican Hellebore)** |         | 90cm x 90cm                         | Nắng hoàn toàn đến bóng nhẹ hoặc bóng mở   | Hoa xanh nhạt kem vào cuối đông trên nền lá thường xanh dày dặn.                   |
+| **Hellebore Hôi (Stinking Hellebore)** | S       | 45cm x 45cm                         | Bóng nhẹ đến bóng sâu                     | Hoa chuông xanh nhạt từ giữa tháng 11 đến cuối xuân, lá xanh quanh năm mảnh mai.   |
 
-**Hoa tim rỉ máu Dicentra**  
-Dicentra formosa ‘Bacchanal’  
-S, W 1’ x 2’ 1’ x 4’ Bóng râm mở nhẹ hoặc bóng râm có vệt sáng  
-Cụm lá xám-xanh, phủ lên trên là chùm hoa hình tim màu đỏ rượu vang. Một cây lãng mạn trong rừng.  
+### Cây Phủ Đất
 
-**Fuchsia Humboldt County**  
-Epilobium septentrionale ‘Select Mattole’  
-D 1’ x 3’ 1’ x 5’ Ánh sáng đầy đủ  
-Lá bạc sáng tạo sự tương phản nổi bật với hoa hình ống màu đỏ cam từ giữa mùa hè đến giữa mùa thu. Cây có thói quen lan rộng nhưng gọn gàng.  
+| Tên                              | S/D/W   | Kích thước trưởng thành sau 10 năm | Nắng/Bóng                                 | Đặc điểm nổi bật                                                                   |
+|-----------------------------------|---------|-------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------|
+| **Cỏ Mondo Lùn (Dwarf Mondo Grass)** |         | 10cm x 30cm                         | Bóng nhẹ đến bóng loang lổ                | Lá xanh quanh năm nhỏ nhắn, lan chậm.                                              |
+| **Cỏ Mondo Đen (Black Mondo Grass)** |         | 25cm x 90cm                         | Nắng hoàn toàn đến bóng sâu               | Hoa tím nhạt và quả đen tồn tại qua mùa đông, tạo điểm nhấn đẹp.                   |
+| **Chua Me Đỏ Lá Thường Xanh (Evergreen Redwood Sorrel)** |         | 15cm x 180cm                        | Bóng nhẹ đến bóng sâu                     | Cây bản địa PNW phủ đất, phù hợp nơi râm mát.                                      |
 
-**Epimedium Black Sea**  
-Epimedium ‘Black Sea’  
-W 1’3” x 3’ 1’3” x 5’ Bóng râm nhẹ đến bóng râm có vệt sáng  
-Cây lâu năm này dễ trồng và đẹp mắt. Từ cuối mùa đông đến đầu mùa xuân, một lượng lớn hoa nhỏ màu vàng nhảy múa trên thân cây đỏ mỏng.  
+### Great Plant Picks (GPP)
 
-**Epimedium Thunderbolt**  
-Epimedium pinnatum ssp. Colchicum ‘Thunderbolt’  
-1’3”x3’ 1’3”x5’ Bóng râm nhẹ đến bóng râm mở  
-Vào mùa thu, lá chuyển sang màu tím đậm với các đường gân xanh, giống như tia sét trên cây lâu năm này.  
+Great Plant Picks (GPP) là chương trình giáo dục chính của Vườn Thực vật Elisabeth C. Miller. Năm 2001, danh sách đầu tiên được công bố với các gợi ý xây dựng bộ sưu tập cây xuất sắc cho vùng ven biển Tây Bắc Thái Bình Dương. Đến nay, hơn 1.000 loài cây đặc biệt đã được chọn cho người làm vườn sống phía tây dãy núi Cascade từ Eugene, Oregon (Mỹ) đến Vancouver, British Columbia (Canada).
 
-_... (Tiếp tục dịch toàn bộ danh sách cây và nội dung còn lại theo yêu cầu của bạn)_
+#### Tiêu chí lựa chọn GPP
+
+- Phát triển tốt trên nhiều loại đất.
+- Cần tưới bổ sung vừa phải hoặc ít.
+- Chịu nhiệt tốt.
+- Chịu lạnh ở vùng USDA số 7.
+- Kháng bệnh và sâu hại.
+- Có giá trị thẩm mỹ trong vườn nhiều hơn một mùa.
+- Đem lại lợi ích sinh thái (hỗ trợ thụ phấn, thức ăn cho chim, nơi sống cho động vật, v.v.).
+
+---
+
+##### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho mọi chương trình.)
+---

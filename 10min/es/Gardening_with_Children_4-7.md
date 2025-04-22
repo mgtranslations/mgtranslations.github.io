@@ -1,56 +1,96 @@
-# Universidad de 10 Minutos™  
-## Asociación de Jardineros Maestros™ de Oregon – Capítulo del Condado de Clackamas  
-### En cooperación con el Servicio de Extensión de la Universidad Estatal de Oregon  
+#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros™ de Oregón – Capítulo del Condado de Clackamas · En cooperación con el Servicio de Extensión de la Universidad Estatal de Oregón
 
-## Jardinería con Niños de 4 a 7 Años  
+## Jardinería con Niños de 4 a 7 Años
 
-La jardinería con niños puede ser una de las experiencias más gratificantes tanto para el niño como para el padre, abuelo o mentor. Los niños son jardineros naturales porque son curiosos, aprenden haciendo y disfrutan jugando en la tierra.  
+Jardinear con niños puede ser una de las experiencias más gratificantes tanto para el niño como para el padre, abuelo o mentor. Los niños son jardineros naturales porque son curiosos, aprenden haciendo y disfrutan jugar en la tierra.
 
-Trabajar juntos en el jardín puede proporcionar horas de tiempo de calidad cada semana y fomentar el interés del niño en el funcionamiento de la naturaleza y la ciencia. Los niños también aprecian la estimulación sensorial, ya sea al verter agua de un recipiente o al trabajar en la tierra para quitar malezas.  
+Trabajar juntos en el jardín puede brindar horas de tiempo de calidad cada semana y fomenta el interés del niño en cómo funciona la naturaleza y la ciencia. Los niños también aprecian la estimulación sensorial, ya sea al verter agua de un recipiente o trabajar en la tierra para sacar malezas.
 
-### ¿Por Qué Jardinear con Niños?  
-- Pueden experimentar el ciclo de vida de primera mano.  
-- Les enseñará responsabilidad y fomentará la creatividad.  
-- Les dará una comprensión de nuestra dependencia de la naturaleza y su abundancia.  
+### ¿Por Qué Hacer Jardinería con Niños?
 
-La jardinería de vegetales puede ser especialmente gratificante para niños de todas las edades. Los niños pequeños se benefician cuando se eligen semillas de vegetales grandes y fáciles de manejar para sus pequeñas manos. Estas semillas también germinan rápidamente, produciendo resultados comestibles en una sola temporada. Promueve una buena nutrición e introduce a los niños a alimentos nuevos para ellos. Es más probable que prueben nuevos alimentos porque los cultivaron ellos mismos.  
+- Pueden experimentar el ciclo de la vida de primera mano.
+- Les enseñará responsabilidad y fomentará la creatividad.
+- Les ayudará a comprender nuestra dependencia de la naturaleza y su abundancia.
 
-### Ideas para Considerar  
-- Dales su propio espacio, ya sea un lecho elevado, macetas o parcelas en el suelo. Cada niño debe tener su propio espacio.  
-- Mantén el espacio pequeño porque un área más pequeña es más manejable, y todo parece más grande a través de los ojos de un niño. Comienza pequeño y aumenta el tamaño con su edad e interés creciente.  
-- Coloca su jardín en el mejor lugar posible con suficiente sol y una fuente de agua.  
-- Usa herramientas de trabajo serias. No les des herramientas de plástico que puedan romperse y frustrar a un nuevo jardinero.  
+La jardinería de hortalizas puede ser especialmente gratificante para niños de todas las edades. Los niños pequeños se benefician cuando eliges semillas de vegetales que son grandes y más fáciles de manejar para manos pequeñas. También germinan más rápido, produciendo resultados comestibles en una sola temporada. La jardinería promueve una buena nutrición y presenta a los niños alimentos nuevos. Es más probable que prueben nuevos alimentos porque ellos mismos los cultivaron.
 
-### Algunas Actividades  
-Puedes ajustar la cantidad de trabajo para adaptarte al niño y al marco de tiempo. Recuerda que es importante hacer que la experiencia sea gratificante para ambos, así que asegúrate de considerar el alcance de la actividad y detenerte antes de que alguien se sienta abrumado o frustrado, incluidos los adultos.  
+### Ideas para Considerar
 
-Planta flores o vegetales para polinizadores como abejas, aves y mariposas. Los jardineros valoran los insectos y polinizadores que viven y visitan el jardín. Puedes plantar girasoles, zinnias o capuchinas. Son atractivos y proporcionan alimento para los polinizadores. Consulta estas publicaciones de la Universidad Estatal de Oregon:  
-- [Fomentando Insectos Beneficiosos en tu Jardín](https://catalog.extension.oregonstate.edu/pnw550)  
-- [Guía Educativa de Jardinería de Vegetales](https://catalog.extension.oregonstate.edu/em9032)  
+- **Dales su propio espacio**: Ya sea un cajón elevado, macetas o un espacio en el suelo, cada niño debe tener su propio lugar.
+- **Manténlo pequeño**: Un espacio más pequeño es más manejable y todo parece más grande a través de los ojos de un niño. Empieza pequeño y aumenta el tamaño según su edad e interés.
+- **Ubica su jardín en el mejor lugar posible**: Asegúrate de que haya suficiente sol y una fuente de agua.
+- **Usa herramientas de trabajo de verdad**: No les des herramientas de plástico que puedan romperse y frustrar a un nuevo jardinero.
 
-Sal de cacería de babosas. Los niños aprenderán cómo las babosas desempeñan un papel en un ecosistema. Hay tres babosas comunes en el Pacífico Noroeste: la babosa banana (nativa y beneficiosa), la babosa leopardo y la babosa redonda roja. La babosa gris del jardín es la más destructiva para los cultivos. Aprenderán que las babosas tienen depredadores como serpientes y salamandras, y aunque las babosas y caracoles son "plagas" para los jardineros, desempeñan un papel clave en el ecosistema del jardín. Si decides deshacerte de babosas o caracoles encontrados, puedes hacerlo suavemente colocándolos en un balde con agua jabonosa. Consulta estos recursos:  
-- [Identificación de Babosas y Caracoles](https://agsci.oregonstate.edu/slug-portal/identification)  
-- [Babosas y Caracoles](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)  
+### Algunas Actividades
 
-A los niños les encanta buscar "descomponedores". Lombrices, cochinillas, hormigas y caracoles son parte del ecosistema y son esenciales para descomponer materia orgánica en humus. Deben ser celebrados. Haz que los niños excaven un pequeño balde de tierra o excaven en un área pequeña del jardín y lleven un registro de la cantidad de "descomponedores" que encuentren. Es útil si tienen un microscopio o lupa para usar en su búsqueda. Consulta el recurso de la Universidad Estatal de Oregon sobre descomponedores:  
-- [Lombrices como Descomponedores](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)  
+Puedes ajustar la cantidad de trabajo según el niño y el tiempo disponible. Recuerda, es importante que la experiencia sea gratificante para ambos, así que piensa en el alcance de la actividad y para antes de que alguien se sienta abrumado o frustrado, incluidos los adultos.
 
-Recuerda darles a los niños la información esencial sobre plantar en un lugar con la mayor cantidad de luz solar y asegurarte de que la tierra cubra las semillas (no demasiado profundamente). Anímales a observar cómo los insectos interactúan con las plantas mientras crecen. Algunas semillas de vegetales favoritas para que los niños planten: calabazas, frijoles trepadores, rábanos, arvejas dulces, frijoles escarlata y tomates cherry.  
+#### Planta Flores o Hortalizas para Polinizadores
 
-### Agrega Alfabetización  
-Hay muchos libros ilustrados e instructivos maravillosos sobre jardinería que los niños apreciarán antes de comenzar y mientras trabajan en el jardín. Leer en voz alta les invita a hacer preguntas y puede ser un trampolín para planes de jardín. Tu bibliotecario local estará encantado de ayudarte a encontrar recursos que tanto tú como tu hijo disfrutarán. Aquí hay algunas sugerencias:  
-- *“De Semilla a Planta”* por Gail Gibbons  
-- *“La Semilla Pequeña”* por Eric Carle  
-- *“Cultivando Sopa de Vegetales”* por Lois Ehlert  
-- *“Los Vegetales que Comemos”* por Gail Gibbons  
-- *“La Semilla de Zanahoria”* por Ruth Krause  
-- *“Muncha! Muncha! Muncha!”* por Candace Fleming  
-- *“Voltea, Flota, Vuela: Semillas en Movimiento”* por JoAnn Early Macken  
-- *“Bayas, Nueces y Semillas”* por Diane L. Burns  
-- *“El Jardín de Jack”* por Henry Cole  
+Los jardineros valoran a los insectos y polinizadores que viven y visitan el jardín. Puedes plantar girasoles, zinnias o capuchinas. Son atractivas y proporcionan alimento a los polinizadores.
 
-### Consejos de Jardineros Maestros™  
-- Llama a la Línea de Ayuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington), 503-445-4608 (Condado de Multnomah).  
-- Para folletos y horarios de clases de la Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+Consulta estas publicaciones de la Universidad Estatal de Oregón:
 
-El Servicio de Extensión de la Universidad Estatal de Oregon prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalias o retaliación por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas).
+- [Fomentando Insectos Beneficiosos en tu Jardín](https://catalog.extension.oregonstate.edu/pnw550)
+- [Guía para Educadores sobre Jardinería de Hortalizas](https://catalog.extension.oregonstate.edu/em9032)
+
+#### Sal a Buscar Babosas
+
+Los niños aprenderán cómo las babosas cumplen un papel en el ecosistema. Hay tres babosas comunes en el Noroeste del Pacífico:
+
+- **Babosa plátano**: Una especie nativa y beneficiosa.
+- **Babosa leopardo** y **babosa de lomo rojo**.
+- **Babosa gris de jardín**: La más destructiva para los cultivos.
+
+Las babosas tienen depredadores como serpientes y salamandras. Aunque las babosas y los caracoles son "plagas" para los jardineros, cumplen un papel clave en el ecosistema del jardín. Si decides deshacerte de las babosas o caracoles que encuentres, puedes hacerlo suavemente colocándolos en un balde con agua jabonosa.
+
+Consulta estos recursos:
+
+- [Identificación de Babosas y Caracoles](https://agsci.oregonstate.edu/slug-portal/identification)
+- [Babosas y Caracoles](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
+
+#### Busca Descomponedores
+
+Lombrices, cochinillas, hormigas y caracoles son parte del ecosistema y son esenciales para descomponer la materia orgánica en humus. ¡Hay que celebrarlos!
+
+Haz que los niños caven un pequeño balde de tierra o excaven en un área pequeña del jardín y lleven la cuenta de la cantidad de “descomponedores” que encuentran. Ayuda si pueden usar un microscopio o una lupa en su búsqueda.
+
+Consulta el recurso de la Universidad Estatal de Oregón sobre descomponedores:
+
+- [Lombrices como Descomponedores](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
+
+#### Consejos para Plantar
+
+Dale a los niños información esencial sobre plantar en un lugar con la mayor cantidad de sol y asegurarse de que la tierra cubra las semillas (no demasiado profundo). Anímales a observar cómo los insectos interactúan con las plantas a medida que crecen.
+
+Algunas semillas de hortalizas favoritas para que planten los niños:
+
+- Calabazas
+- Ejotes de enrame
+- Rábanos
+- Chícharos (arvejas) dulces
+- Ejotes rojos escarlata
+- Tomates cherry
+
+### Agrega Lectura
+
+Hay muchos libros ilustrados e instructivos sobre jardinería que los niños apreciarán antes de empezar y mientras trabajan en el jardín. Leerles en voz alta fomenta preguntas y puede ser el comienzo de nuevos planes para el jardín. Tu bibliotecario local estará feliz de ayudarte a encontrar recursos que ambos disfrutarán.
+
+Aquí tienes algunas sugerencias:
+
+- *De la Semilla a la Planta* de Gail Gibbons
+- *La Semilla Pequeña* de Eric Carle
+- *Cultivando Sopa de Verduras* de Lois Ehlert
+- *Las Verduras que Comemos* de Gail Gibbons
+- *La Semilla de la Zanahoria* de Ruth Krause
+- *¡Muncha! ¡Muncha! ¡Muncha!* de Candace Fleming
+- *Gira, Flota, Vuela: Semillas en Movimiento* de JoAnn Early Macken
+- *Bayas, Nueces y Semillas* de Diane L. Burns
+- *El Jardín de Jack* de Henry Cole
+
+#### Consejo del Maestro Jardinero™ · Llame a la Línea de Ayuda de Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folletos de la Universidad de 10 Minutos™ y horarios de clases: Visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

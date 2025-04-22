@@ -1,83 +1,137 @@
-### Đại Học 10 Phút™  
-**Hiệp hội Làm Vườn Bậc Thầy Quận Clackamas** hợp tác và hỗ trợ **Chương trình Làm Vườn Bậc Thầy™ của OSU**  
+#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Giỏi Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Giỏi Mở Rộng OSU
 
-### Trồng Cà Chua Trong Vườn Nhà  
+# Trồng Cà Chua Trong Vườn Nhà
 
-#### Quyết Định Các Loại Cà Chua Để Trồng  
-- Xác định mục đích sử dụng – ăn tươi, làm khô, đóng hộp, hoặc làm nước sốt  
-- Đánh giá diện tích vườn có sẵn – số lượng cây và loại cây phù hợp  
-- Chọn giữa việc bắt đầu từ hạt giống hoặc mua cây con, và  
-- Biết liệu cà chua loại xác định hay không xác định sẽ phù hợp nhất với vườn nhà bạn.  
+## Quyết Định Loại Giống Nào Nên Trồng
 
-| **Loại Cà Chua** | **Yêu Cầu Diện Tích / Hỗ Trợ** | **Thói Quen Sinh Trưởng** | **Thu Hoạch** |  
-|-------------------|-------------------------------|---------------------------|---------------|  
-| **Xác định**      | Ít hơn / có thể không cần hỗ trợ nhiều / dạng bụi | Quả chín cùng lúc |  
-| **Không xác định** | Nhiều hơn / cần hỗ trợ chắc chắn / phát triển liên tục | Quả chín suốt mùa |  
+- Xác định mục đích sử dụng – ăn tươi, sấy khô, đóng hộp hay làm sốt.
+- Đánh giá diện tích vườn có sẵn – có thể trồng bao nhiêu cây, loại nào phù hợp.
+- Chọn giữa gieo hạt hoặc mua cây con.
+- Biết cà chua loại xác định hay không xác định loại nào tốt nhất cho vườn của bạn.
 
-#### Bắt Đầu Từ Hạt Giống  
-Có nhiều loại hơn và chi phí thấp hơn so với cây con, đồng thời mang lại niềm vui khi nhìn thấy cây phát triển.  
-- Nảy mầm hạt giống vào đầu tháng Ba (8 tuần trước đợt sương giá cuối cùng, từ ngày 1-10 tháng Năm ở đây). Đặt hỗn hợp đất ẩm trong các chậu nhỏ (1-1,5”), nén đất, thả vào một hạt giống, và phủ lên bằng 1/4” than bùn hoặc hỗn hợp đất ban đầu. Giữ hạt giống ấm (65° đến 70°F) bằng cách sử dụng thảm nhiệt bên dưới và bọc để ngăn khô. Hạt giống sẽ nảy mầm và mọc trong 6 đến 10 ngày. Cho cây con ánh sáng đủ để phát triển.  
-- Chuyển cây con sang chậu 3-4” khi cây có bộ lá thật thứ hai. Sử dụng hỗn hợp đất ẩm cho lần chuyển chậu này. Để chuyển chậu hoặc trồng cà chua:  
-  1. Làm ẩm hỗn hợp đất;  
-  2. Tưới nước cho cây kỹ bằng nước nhiệt độ phòng trước khi chuyển chậu hoặc trồng;  
-  3. Xử lý cây con bằng lá, không phải thân;  
-  4. Đặt cây sâu hơn trong chậu mới (cây cà chua phát triển rễ dọc theo thân bị chôn);  
-  5. Nén đất xung quanh cây; để lại ½” ở trên cùng;  
-  6. Tưới nước để đảm bảo tiếp xúc tốt giữa rễ và đất;  
-  7. Đặt cây ở nơi ấm, nhiều nắng (8+ giờ nắng), tránh gió.  
-- Chuyển chậu lần thứ hai sang chậu cỡ gallon khi cây cao 6”-10”. Các bước thực hiện:  
-  1. Làm ẩm đất trồng;  
-  2. Làm ẩm cây bằng cách ngâm chậu vào xô nước cho đến khi ngừng sủi bọt và chậu chìm xuống đáy;  
-  3. Loại bỏ các lá chạm hoặc nằm dưới mức đất, cẩn thận lấy cây ra khỏi chậu. Thực hiện các bước 4 đến 7 ở trên. Bảo vệ cây khỏi lạnh bằng cách đặt xung quanh cây các bình sữa đầy nước, phủ vải hoặc bọc nhựa, hoặc đặt cây cạnh tường hoặc hàng rào. "Làm cứng" cây bất kỳ lúc nào sau lần chuyển chậu đầu tiên khi cây cao 3”. Bắt đầu với vài giờ trong bóng râm và trong 7-10 ngày, tăng dần để cây ở dưới ánh nắng cả ngày.  
+#### Loại Cà Chua
 
-#### Trồng Xuống Đất  
-Cây sẵn sàng trồng xuống đất khi cao 10-15” và nhiệt độ đất đạt 60°F (vào tháng Sáu). Chuẩn bị địa điểm và trồng như sau:  
-1. Chọn nơi có 8+ giờ nắng, đất pha cát, và ít gió (tránh những vùng thấp nơi nước và không khí lạnh tụ lại gây hại cho cây);  
-2. Xới đất sâu 10 inches bằng xẻng;  
-3. Thêm 2 inches phân compost và trộn đều;  
-4. Làm ẩm cây 1 đến 2 giờ trước khi trồng bằng phương pháp ngâm xô ở trên;  
-5. Tỉa lá dưới và tất cả các nhánh phụ (chồi bên nơi lá trưởng thành gặp thân) dưới cụm hoa đầu tiên;  
-6. Chọn phương pháp trồng.  
+| Loại          | Yêu cầu không gian / hỗ trợ         | Dáng cây        | Thu hoạch                              |
+|---------------|-------------------------------------|-----------------|----------------------------------------|
+| Xác định      | Ít / có thể cần ít hỗ trợ hơn        | Dạng bụi        | Quả chín cùng lúc                      |
+| Không xác định| Nhiều / cần hỗ trợ chắc chắn         | Cứ tiếp tục lớn | Quả chín kéo dài suốt mùa              |
 
-**Phương Pháp Rãnh**:  
-- **Ưu điểm**: Rễ ở phần đất ấm nhất; tốt cho cây dài.  
-- **Nhược điểm**: Cần tưới nước thường xuyên và xới đất cẩn thận, nông.  
+---
 
-Đào một rãnh sâu 8”-10”; thêm phân bón và vôi (dựa trên kiểm tra đất) vào đáy; phủ lớp cải tạo với 1”-2” đất để tránh làm cháy rễ. Đặt cây nằm ngang, lấp đất vào rãnh, tưới nước, và đắp đất quanh thân cây. Cây sẽ nhanh chóng đứng thẳng lên. Đặt dấu tại đầu rễ để tránh làm hỏng rễ khi làm cỏ. Thêm cấu trúc hỗ trợ khi trồng để tránh làm tổn thương rễ.  
+## Gieo Từ Hạt
 
-**Phương Pháp Thẳng Đứng**:  
-- **Ưu điểm**: Khu vực giữ ẩm lớn hơn cho rễ; ít nứt quả hơn.  
-- **Nhược điểm**: Đất sâu lạnh hơn, gây tăng trưởng và chín quả chậm hơn.  
+Gieo từ hạt có nhiều lựa chọn giống hơn và chi phí thấp hơn mua cây con, đồng thời bạn sẽ được trải nghiệm niềm vui khi quan sát cây lớn lên.
 
-Đào một hố sâu 10”; thêm phân bón và vôi, phủ như Phương Pháp Rãnh. Đặt cây sâu hơn để thúc đẩy sự phát triển của rễ trên thân bị chôn. Lấp đất đến mức đất, tưới nước và thêm cấu trúc hỗ trợ.  
+1. **Ủ Mầm Hạt**
+   - Bắt đầu vào đầu tháng 3 (8 tuần trước đợt sương giá cuối cùng, khoảng 1–10 tháng 5).
+   - Cho giá thể gieo hạt đã làm ẩm vào chậu nhỏ (2,5–3,8 cm), nén nhẹ đất, cho 1 hạt vào, phủ lên trên 0,6 cm than bùn hoặc giá thể gieo hạt.
+   - Giữ ấm (18–21°C) bằng tấm sưởi đáy chậu và phủ lên để tránh khô.
+   - Hạt sẽ nảy mầm sau 6–10 ngày. Đảm bảo đủ ánh sáng cho cây phát triển.
 
-#### Thực Hành Văn Hóa  
-- Hỗ trợ cả hai loại cà chua xác định và không xác định để cải thiện sự lưu thông không khí và ngăn ngừa bệnh dịch và sâu bệnh. Các loại hỗ trợ cà chua bao gồm lồng cà chua dạng vòng, giàn, cọc, và dây thép gia cố bê tông. Cố định hỗ trợ bằng cọc 2”X2” để tăng độ ổn định.  
-- Lớp phủ giúp giảm cỏ dại, giữ độ ẩm đất, và ngăn ngừa bệnh từ đất. Lớp phủ nhựa (trong, đen, hoặc đỏ) giúp làm ấm đất, có thể đặt trước hoặc khi trồng cà chua. Lớp phủ hữu cơ cải thiện đất nhưng phải đặt sau khi đất ấm vào cuối tháng Sáu.  
-- Tỉa cây không xác định giúp quả chín và ngăn ngừa bệnh. Quyết định số thân chính của cây và chỉ cho phép các chồi bên được chọn phát triển. Khi cây lớn, tỉa để nhìn xuyên qua cây.  
+2. **Chuyển Chậu Cây Non**
+   - Chuyển sang chậu lớn 7,5–10 cm khi cây có bộ lá thật thứ hai, dùng giá thể ẩm.
+   - Các bước chuyển chậu:
+     1. Làm ẩm giá thể.
+     2. Tưới đẫm cây bằng nước ở nhiệt độ phòng.
+     3. Cầm cây bằng lá, không cầm thân.
+     4. Đặt cây sâu hơn vào chậu mới (cà chua mọc rễ dọc thân bị chôn đất).
+     5. Nén đất quanh cây, chừa 1,2 cm phía trên.
+     6. Tưới nước để rễ tiếp xúc tốt với đất.
+     7. Đặt cây nơi nắng ấm (8+ giờ nắng), tránh gió.
 
-#### Mẹo Khác  
-- Nếu cây non bị bọ chét gây hại (nhiều lỗ nhỏ trên lá), bón phân để cây phát triển mạnh hơn. Thường không cần điều trị khác nếu cây đủ khỏe.  
-- Trong thời tiết khô hoặc nóng, tưới ít nhất 1 inch nước mỗi 7 đến 10 ngày.  
-- Để thúc đẩy quả chín, 30 ngày trước đợt sương giá đầu tiên (tháng Tám/Tháng Chín) ngừng tưới nước, loại bỏ hoa mới và quả chưa chín mà không thể chín trước sương giá.  
-- Che cây bằng nhựa để bảo vệ khỏi mưa và nhiệt độ lạnh, kéo dài mùa vụ. Hoặc thu hoạch các quả xanh lớn, đặt chúng thành một lớp duy nhất (không chạm nhau) ở nơi ấm (65° đến 70°F), tối để tiếp tục chín trong nhà.  
-- Loại bỏ toàn bộ tàn dư cây vào cuối mùa để giảm sâu bệnh và dịch bệnh trong tương lai.  
-- Xoay vòng cây trồng – chờ 3 đến 4 năm trước khi trồng các thành viên họ cà chua (cà chua, cà tím, ớt, và khoai tây) ở cùng một chỗ.  
+3. **Chuyển Chậu Lần 2**
+   - Chuyển sang chậu khoảng 4 lít khi cây cao 15–25 cm.
+   - Các bước:
+     1. Làm ẩm đất trồng.
+     2. Làm ẩm cây bằng cách ngâm chậu vào xô nước cho đến khi hết bọt khí và chậu chìm.
+     3. Ngắt bỏ lá chạm hoặc nằm dưới mặt đất khi trồng.
+     4. Nhẹ nhàng lấy cây ra khỏi chậu và thực hiện các bước 4–7 ở trên.
+   - Bảo vệ cây khỏi lạnh bằng bình sữa đựng nước, vải phủ hoặc đặt gần tường/rào.
+   - Làm quen cây với môi trường bên ngoài sau lần chuyển chậu đầu tiên khi cây cao 7,5 cm. Bắt đầu bằng vài giờ trong bóng râm rồi tăng dần thời gian ra nắng trong 7–10 ngày.
 
-#### Tài Nguyên Dịch Vụ Mở Rộng OSU  
-[http://catalog.extension.oregonstate.edu/](http://catalog.extension.oregonstate.edu/)  
-- **Rụng Hoa Cuối Quả của Cà Chua FS 139**  
-- **Video Đại Học 10 Phút™**  
-  - [Các Loại Cà Chua](https://www.youtube.com/watch?v=K0Sl3YWDazo)  
-  - [Bắt Đầu Từ Hạt Giống](https://www.youtube.com/watch?v=Zs0lZNMIuzA)  
-  - [Trồng Cà Chua Trong Vườn Nhà](https://www.youtube.com/watch?v=Pucpx5fuKdk)  
-  - [Thực Hành Văn Hóa Đã Được Chứng Minh](https://www.youtube.com/watch?v=lpVBg-e_1vE)  
+---
 
-#### Lời Khuyên Làm Vườn Bậc Thầy™  
-- Gọi đến Đường Dây Nóng Làm Vườn Tại Nhà:  
-  - 503-655-8631 (Quận Clackamas),  
-  - 503-821-1150 (Quận Washington),  
-  - 503-445-4608 (Quận Multnomah).  
-- Để nhận tài liệu và video Đại Học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+## Trồng Xuống Đất
 
-**Dịch Vụ Mở Rộng Đại Học Bang Oregon** cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động, và tài liệu của mình trên cơ sở chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa cho hoạt động quyền dân sự trước đó. (Không phải tất cả các cơ sở bị cấm áp dụng cho tất cả các chương trình).
+Cây sẵn sàng trồng ra đất khi cao 25–38 cm và nhiệt độ đất đạt 16°C (vào tháng 6).
+
+### Chuẩn Bị Và Các Bước Trồng
+
+1. Chọn vị trí có 8+ giờ nắng, đất tơi xốp, ít gió (tránh chỗ trũng đọng nước và khí lạnh).
+2. Xới đất sâu 25 cm bằng xẻng.
+3. Bón thêm 5 cm phân hữu cơ và trộn đều.
+4. Làm ẩm cây 1–2 giờ trước khi trồng bằng phương pháp ngâm xô.
+5. Tỉa bỏ lá và chồi nách (chồi mọc ở điểm nối giữa lá già và thân) dưới cành hoa đầu tiên.
+6. Chọn phương pháp trồng:
+
+#### Phương Pháp Đào Rãnh
+
+- **Ưu điểm:** Rễ nằm ở lớp đất ấm nhất; phù hợp với cây cao, ốm yếu.
+- **Nhược điểm:** Cần tưới thường xuyên và xới đất nông cẩn thận.
+- Các bước:
+  - Đào rãnh sâu 20–25 cm.
+  - Bón phân và vôi (theo kết quả kiểm tra đất) xuống đáy.
+  - Phủ lên phân bón 2–5 cm đất để tránh cháy rễ.
+  - Đặt cây nằm ngang, lấp đất, tưới nước và vun đất quanh thân.
+  - Đặt dấu đánh dấu đầu gốc để tránh làm hỏng rễ khi làm cỏ.
+  - Lắp giá đỡ ngay khi trồng để không làm tổn thương rễ sau này.
+
+#### Phương Pháp Đứng Thẳng
+
+- **Ưu điểm:** Rễ có nhiều nước hơn; ít nứt quả.
+- **Nhược điểm:** Đất sâu thường mát, cây và quả trưởng thành chậm hơn.
+- Các bước:
+  - Đào hố sâu 25 cm.
+  - Bón phân và vôi, phủ như phương pháp rãnh.
+  - Đặt cây sâu xuống để thân bị chôn sẽ ra rễ mới.
+  - Lấp đất ngang mặt đất, tưới nước và lắp giá đỡ.
+
+---
+
+## Kỹ Thuật Chăm Sóc
+
+- **Giá Đỡ:**
+  - Hỗ trợ cả hai loại cà chua để tăng lưu thông không khí, giảm sâu bệnh.
+  - Giá đỡ gồm lồng, giàn, cọc hoặc lưới thép xây dựng. Cố định bằng cọc gỗ 5x5 cm cho chắc chắn.
+
+- **Phủ Đất:**
+  - Phủ đất giúp giảm cỏ dại, giữ ẩm và hạn chế bệnh từ đất bắn lên.
+  - Phủ nhựa (trong, đen, đỏ) giúp đất ấm hơn, có thể phủ trước hoặc khi trồng.
+  - Phủ hữu cơ giúp cải thiện đất nhưng nên phủ sau khi đất đã đủ ấm vào cuối tháng 6.
+
+- **Tỉa Cành:**
+  - Tỉa cành cây loại không xác định để quả nhanh chín và ít bệnh.
+  - Quyết định số thân chính cho cây, chỉ giữ lại những chồi nách được chọn.
+  - Thưa bớt lá để cây thông thoáng khi lớn.
+
+---
+
+## Mẹo Khác
+
+- **Sâu bọ nhỏ hại lá:** Nếu cây non có lỗ nhỏ trên lá, hãy bón phân để cây khỏe mạnh hơn. Nếu cây khỏe, không cần xử lý thêm.
+- **Tưới nước:** Khi thời tiết khô/nóng, tưới đủ 2,5 cm nước mỗi 7–10 ngày.
+- **Kích thích chín quả:**
+  - 30 ngày trước sương giá đầu tiên (tháng 8/9), ngừng tưới, ngắt bỏ hoa mới và quả non khó chín kịp.
+  - Phủ cây bằng nhựa để tránh mưa, lạnh hoặc hái quả xanh to, xếp thành lớp đơn (không chồng lên nhau) ở nơi ấm (18–21°C), tối để quả chín dần trong nhà.
+- **Vệ sinh cuối mùa:** Thu dọn hết tàn dư cây để giảm sâu bệnh cho mùa sau.
+- **Luân canh:** Chờ 3–4 năm mới trồng lại họ cà chua (cà chua, cà tím, ớt, khoai tây) trên cùng một vị trí.
+
+---
+
+## Nguồn Tài Liệu Dịch Vụ Mở Rộng OSU
+
+- [Thối Đáy Quả Cà Chua FS 139](http://catalog.extension.oregonstate.edu/)
+- **Video Đại học 10 Phút™:**
+  - [Các Loại Cà Chua](https://www.youtube.com/watch?v=K0Sl3YWDazo)
+  - [Gieo Cà Chua Từ Hạt](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
+  - [Trồng Cà Chua Ngoài Vườn](https://www.youtube.com/watch?v=Pucpx5fuKdk)
+  - [Kỹ Thuật Chăm Sóc Đã Được Kiểm Chứng](https://www.youtube.com/watch?v=lpVBg-e_1vE)
+
+---
+
+#### Tư vấn Làm Vườn Giỏi · Đường dây hỗ trợ Làm vườn tại nhà: Quận Clackamas: 503-655-8631 · Quận Washington: 503-821-1150 · Quận Multnomah: 503-445-4608 · Tài liệu và Video Đại học 10 Phút™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (kể cả thể hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc bị trả đũa vì các hoạt động quyền dân sự trước đó. (Không phải tất cả các lý do cấm đều áp dụng cho mọi chương trình.)
+---

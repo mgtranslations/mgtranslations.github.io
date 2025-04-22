@@ -1,83 +1,137 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Tomaten im Hausgarten anbauen  
+# Tomaten im Hausgarten anbauen
 
-### Auswahl der Sorten  
-- Bestimmen Sie die gewünschte Verwendung – frisch essen, trocknen, einmachen oder Soße herstellen  
-- Bewerten Sie den verfügbaren Gartenraum – wie viele Pflanzen und welche Art  
-- Entscheiden Sie, ob Sie mit Samen starten oder Pflanzen kaufen möchten  
-- Wissen Sie, ob determinate oder indeterminate Tomaten am besten für Ihren Garten geeignet sind.  
+## Die Wahl der richtigen Sorten
 
-#### Tomatentyp | Platz-/Unterstützungsbedarf | Wachstumsverhalten | Ernte  
-**Determinate** | Weniger / kann mit weniger Unterstützung auskommen / buschig | Früchte reifen etwa zur gleichen Zeit  
-**Indeterminate** | Mehr / benötigt stabile Unterstützung / wächst weiter | Früchte reifen über eine lange Saison  
+- Überlege, wofür du die Tomaten verwenden möchtest – frisch essen, trocknen, einmachen oder Soße machen.
+- Prüfe, wie viel Platz du im Garten hast – wie viele Pflanzen und welche Art passen dort hin.
+- Entscheide, ob du mit Samen starten oder fertige Pflanzen kaufen möchtest.
+- Finde heraus, ob bestimmte oder unbestimmte Tomaten am besten zu deinem Garten passen.
 
-### Mit Samen starten  
-Mit Samen gibt es mehr Vielfalt und geringere Kosten als bei Topfpflanzen, und es ist erfreulich, sie wachsen zu sehen.  
-- Keimen Sie die Samen Anfang März (8 Wochen vor dem letzten Frost, hier vom 1.-10. Mai). Geben Sie feuchte Sämlingsmischung in kleine Töpfe (1-1,5”), drücken Sie die Erde fest, legen Sie einen Samen hinein und bedecken Sie ihn mit 1/4” Torf oder Startermischung. Halten Sie die Starts warm (65° bis 70°F) mit einer Heizmatte und einer Abdeckung, um sie vor dem Austrocknen zu schützen. Sie sollten in 6 bis 10 Tagen keimen und sprießen. Geben Sie den Sämlingen ausreichend Licht zum Wachsen.  
-- Pikieren Sie die Sämlinge in 3-4” Töpfe, nachdem das zweite Paar echter Blätter erschienen ist. Verwenden Sie feuchte Sämlingsmischung für diese Pikierphase. Für das Pikieren oder Umpflanzen von Tomaten:  
-  1. Sämlingsmischung befeuchten  
-  2. Pflanze vor dem Pikieren oder Umpflanzen gründlich mit Raumtemperaturwasser gießen  
-  3. Sämlinge an den Blättern, nicht am Stängel halten  
-  4. Pflanze tiefer in den neuen Topf setzen (Tomatenpflanzen bilden Wurzeln entlang des vergrabenen Stängels)  
-  5. Erde um die Pflanze festdrücken, ½” Platz am Rand lassen  
-  6. Gießen, um guten Kontakt zwischen Wurzeln und Erde sicherzustellen  
-  7. Pflanze an einen warmen, sonnigen Ort (8+ Stunden Sonne) stellen, windgeschützt.  
-- Pikieren Sie ein zweites Mal in einen Topf in Gallonengröße, wenn die Pflanze 6”-10” groß ist. Die Schritte sind:  
-  1. Topferde befeuchten  
-  2. Pflanze durch Eintauchen des Topfes in einen Eimer Wasser befeuchten, bis keine Blasen mehr sichtbar sind und der Topf auf den Boden sinkt  
-  3. Blätter entfernen, die den Boden berühren oder unter der Bodenoberfläche liegen könnten, und Pflanze vorsichtig aus dem Topf nehmen  
-  4. Schritte 4 bis 7 oben befolgen  
-  Pflanzen vor Kälte schützen, indem man sie mit wassergefüllten Milchkannen, Stoff- oder Plastikabdeckungen umgibt oder die Pflanze neben eine Wand oder einen Zaun stellt. „Abhärten“ Sie die Pflanze nach dem ersten Pikieren bei 3”. Beginnen Sie mit ein paar Stunden im Schatten und arbeiten Sie sich über 7-10 Tage bis zu ganztägigem Sonnenlicht vor.  
+#### Tomatenarten
 
-### In den Boden pflanzen  
-Die Pflanze ist bereit, in den Boden zu kommen, wenn sie 10-15” groß ist und die Bodentemperatur bei 60°F liegt (im Juni). Bereiten Sie den Standort und die Pflanzung wie folgt vor:  
-1. Wählen Sie einen Standort mit 8+ Stunden Sonne, lehmiger Erde und wenig Wind (vermeiden Sie tiefe Bereiche, in denen Wasser und kalte Luft sich sammeln und der Pflanze schaden können)  
-2. Bearbeiten Sie die Erde 10 Zoll tief, indem Sie sie mit einer Schaufel umdrehen  
-3. Fügen Sie 2 Zoll Kompost hinzu und arbeiten Sie ihn gut ein  
-4. Pflanze 1 bis 2 Stunden vor dem Umpflanzen mit der oben beschriebenen Eimermethode befeuchten  
-5. Untere Blätter und alle Seitentriebe (Triebe, die sich dort bilden, wo ein reifes Blatt auf den Stängel trifft) unterhalb der ersten Blüten entfernen  
-6. Wählen Sie eine Pflanzmethode  
+| Art           | Platz- / Stützbedarf              | Wuchsform         | Ernte                                  |
+|---------------|-----------------------------------|-------------------|----------------------------------------|
+| Bestimmt      | Weniger / kommt mit wenig Stütze aus | Buschig            | Früchte reifen ungefähr gleichzeitig   |
+| Unbestimmt    | Mehr / braucht stabile Stütze        | Wächst immer weiter | Früchte reifen über eine lange Saison  |
 
-#### Grabenmethode  
-**Vorteile** – Wurzeln befinden sich in der wärmsten Erde; gut für lange Pflanzen.  
-**Nachteile** – erfordert häufiges Gießen und sorgfältige, flache Bearbeitung.  
+---
 
-Graben Sie einen Graben 8”-10” tief; geben Sie Dünger und Kalk (basierend auf Bodenanalyse) auf den Boden; bedecken Sie die Zusätze mit 1”-2” Erde, um die Wurzeln vor Verbrennungen zu schützen. Legen Sie die Pflanze auf die Seite, füllen Sie das Loch mit Erde, gießen Sie und drücken Sie Erde um den Stängel. Die Pflanze richtet sich schnell auf. Platzieren Sie einen Marker am Ende des Wurzelballens, um Wurzelschäden beim Jäten zu vermeiden. Fügen Sie eine Stützstruktur beim Pflanzen hinzu, um Wurzelschäden zu vermeiden.  
+## Aus Samen ziehen
 
-#### Vertikalmethode  
-**Vorteile** – größerer Feuchtigkeitsvorrat für die Wurzeln; weniger Risse.  
-**Nachteile** – tiefere Erde ist kühler, was zu langsamem Wachstum und Fruchtreife führt.  
+Tomaten aus Samen zu ziehen bietet mehr Auswahl, kostet weniger als fertige Pflanzen und macht Spaß, beim Wachsen zuzusehen.
 
-Graben Sie ein 10 Zoll tiefes Loch, fügen Sie Dünger und Kalk hinzu und bedecken Sie es wie bei der Grabenmethode. Platzieren Sie die Pflanze tiefer, um das Wachstum von Wurzeln am vergrabenen Stängel zu fördern. Füllen Sie die Erde bis zur Bodenoberfläche, gießen Sie und fügen Sie eine Stützstruktur hinzu.  
+1. **Samen keimen lassen**
+   - Starte Anfang März (8 Wochen vor dem letzten Frost, 1.–10. Mai).
+   - Gib angefeuchtete Aussaat-Erde in kleine Töpfe (2,5–4 cm), drücke die Erde fest, lege einen Samen hinein und bedecke ihn mit 0,5 cm Torf oder Anzuchterde.
+   - Halte die Töpfe warm (18–21°C) mit einer Heizmatte und decke sie ab, damit sie nicht austrocknen.
+   - Die Samen keimen in 6–10 Tagen. Stelle sicher, dass sie genug Licht bekommen.
 
-### Kultivierungspraktiken  
-- Unterstützen Sie sowohl determinate als auch indeterminate Tomatensorten, um die Luftbewegung zu verbessern und Krankheiten und Schädlinge zu verhindern. Tomatenstützen reichen von Reifenkäfigen über Gitter, Pfähle bis zu Drahtgeflecht. Verankern Sie die Stützen mit 2”X2” Pfählen für zusätzliche Stabilität.  
-- Mulch minimiert Unkraut, erhält die Bodenfeuchtigkeit und verhindert bodenbedingte Krankheiten. Kunststoffmulch (klar, schwarz oder rot) hilft, den Boden zu erwärmen, und kann vor oder beim Pflanzen der Tomaten angebracht werden. Organischer Mulch verbessert den Boden, sollte jedoch erst nach dem Erwärmen des Bodens Ende Juni verwendet werden.  
-- Das Beschneiden von indeterminate Pflanzen hilft, Früchte zu reifen und Krankheiten zu verhindern. Entscheiden Sie, wie viele Hauptstängel Ihre Pflanze haben soll, und lassen Sie nur die ausgewählten Seitentriebe wachsen. Dünnen Sie die Pflanze aus, um sie zu durchsichtig zu machen, während sie wächst.  
+2. **Pikieren (Umtopfen der Sämlinge)**
+   - Topfe in 8–10 cm Töpfe um, wenn die zweite richtige Blattreihe erscheint, und verwende feuchte Anzuchterde.
+   - Schritte beim Umtopfen:
+     1. Erde anfeuchten.
+     2. Pflanze mit zimmerwarmem Wasser gut gießen.
+     3. Sämlinge an den Blättern anfassen, nicht am Stängel.
+     4. Pflanze im neuen Topf tiefer setzen (Tomaten bilden am vergrabenen Stängel Wurzeln).
+     5. Erde um die Pflanze andrücken, oben 1 cm Platz lassen.
+     6. Gießen, damit Wurzeln und Erde gut Kontakt haben.
+     7. An einen warmen, sonnigen Platz (mind. 8 Stunden Sonne) ohne Wind stellen.
 
-### Weitere Tipps  
-- Wenn Schäden durch Flohkäfer an jungen Pflanzen auftreten (viele kleine Löcher in den Blättern), düngen Sie für ein stärkeres Wachstum. Normalerweise ist keine weitere Behandlung erforderlich, wenn die Pflanze stark ist.  
-- Bei trockenem oder heißem Wetter den Boden alle 7 bis 10 Tage mit mindestens 1 Zoll Wasser durchtränken.  
-- Um die Fruchtreife zu fördern, 30 Tage vor dem ersten Frost (August/September) das Gießen einstellen, neue Blüten und unreife Tomaten entfernen, die vor dem Frost nicht reifen werden.  
-- Pflanzen mit Plastik abdecken, um sie vor Regen und kühleren Temperaturen zu schützen und die produktive Saison zu verlängern. Oder größere grüne Tomaten ernten, sie in einer einzigen Schicht (nicht berührend) an einem warmen (65° bis 70°F), dunklen Ort lagern, um drinnen weiter zu reifen.  
-- Entfernen Sie alle Pflanzenreste am Ende der Saison, um zukünftige Schädlinge und Krankheiten zu reduzieren.  
-- Fruchtfolge – Warten Sie 3 bis 4 Jahre, bevor Sie Mitglieder der Tomatenfamilie (Tomaten, Auberginen, Paprika und Kartoffeln) an derselben Stelle pflanzen.  
+3. **Zweites Umtopfen**
+   - Wenn die Pflanze 15–25 cm groß ist, in einen 4-Liter-Topf umtopfen.
+   - Schritte:
+     1. Blumenerde anfeuchten.
+     2. Die Pflanze durch Untertauchen des Topfes in einem Wassereimer gut wässern, bis keine Blasen mehr aufsteigen und der Topf sinkt.
+     3. Blätter entfernen, die den Boden berühren oder darunter liegen würden.
+     4. Pflanze vorsichtig aus dem Topf nehmen und Schritte 4–7 von oben wiederholen.
+   - Schütze die Pflanzen vor Kälte, z.B. mit wassergefüllten Milchkannen, Stoff-/Plastikabdeckungen oder durch Aufstellen an einer Wand oder einem Zaun.
+   - Nach dem ersten Umtopfen bei 7 cm die Pflanzen abhärten: Beginne mit ein paar Stunden Schatten und steigere die Zeit in voller Sonne über 7–10 Tage.
 
-### OSU Extension Service Ressourcen  
-[Blütenendfäule bei Tomaten FS 139](http://catalog.extension.oregonstate.edu/)  
-**10-Minuten-Universität™ Videos**  
-[Tomatensorten](https://www.youtube.com/watch?v=K0Sl3YWDazo)  
-[Tomaten aus Samen starten](https://www.youtube.com/watch?v=Zs0lZNMIuzA)  
-[Tomaten in Ihrem Garten pflanzen](https://www.youtube.com/watch?v=Pucpx5fuKdk)  
-[Bewährte Kultivierungspraktiken](https://www.youtube.com/watch?v=lpVBg-e_1vE)  
+---
 
-### Master Gardener™ Beratung  
-- Rufen Sie die Home Horticulture Helpline an:  
-  - **503-655-8631** (Clackamas County)  
-  - **503-821-1150** (Washington County)  
-  - **503-445-4608** (Multnomah County)  
-- Für Handouts und Videos der **10-Minuten-Universität™** besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+## Auspflanzen ins Beet
 
-Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Vergeltung für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme).
+Die Pflanzen können in die Erde, wenn sie 25–38 cm groß sind und die Bodentemperatur 16°C erreicht hat (im Juni).
+
+### Vorbereitung und Pflanzanleitung
+
+1. Wähle einen Standort mit mindestens 8 Stunden Sonne, lockerer Erde und wenig Wind (vermeide Senken, in denen Wasser und Kaltluft stehen).
+2. Lockere die Erde 25 cm tief mit dem Spaten.
+3. Mische 5 cm Kompost unter.
+4. Pflanze 1–2 Stunden vor dem Umpflanzen mit der Eimermethode wässern.
+5. Untere Blätter und Geiztriebe (Seitentriebe an der Stelle, wo ein Blatt am Stängel sitzt) unterhalb des ersten Blütenstandes entfernen.
+6. Wähle eine Pflanzmethode:
+
+#### Grabenmethode
+
+- **Vorteile:** Wurzeln liegen im wärmsten Boden; gut für lange, dünne Pflanzen.
+- **Nachteile:** Muss oft gegossen und vorsichtig, flach gelockert werden.
+- Schritte:
+  - Grabe einen Graben, 20–25 cm tief.
+  - Gib Dünger und Kalk (nach Bodenprobe) auf den Boden.
+  - Bedecke die Düngemittel mit 2–5 cm Erde, damit die Wurzeln nicht verbrennen.
+  - Pflanze seitlich hineinlegen, Loch mit Erde füllen, gießen und Erde um den Stängel anhäufeln.
+  - Einen Marker am Wurzelballenende anbringen, damit die Wurzeln beim Jäten nicht verletzt werden.
+  - Stütze direkt beim Pflanzen anbringen, um spätere Wurzelverletzungen zu vermeiden.
+
+#### Senkrechte Methode
+
+- **Vorteile:** Größere Wassermenge steht den Wurzeln zur Verfügung; weniger Aufplatzen der Früchte.
+- **Nachteile:** Tiefere Erde ist kühler, Wachstum und Reife gehen langsamer.
+- Schritte:
+  - Grabe ein 25 cm tiefes Loch.
+  - Dünge und kalk wie bei der Grabenmethode.
+  - Pflanze tiefer setzen, damit am Stängel neue Wurzeln wachsen.
+  - Mit Erde auffüllen, gießen und Stütze anbringen.
+
+---
+
+## Pflegetipps
+
+- **Stützen:**
+  - Stütze sowohl bestimmte als auch unbestimmte Tomaten, um die Luftzirkulation zu verbessern und Krankheiten und Schädlinge zu vermeiden.
+  - Mögliche Stützen sind Tomatenkäfige, Rankgitter, Stäbe und Armierungsgitter aus Metall. Am besten mit 5x5 cm Holzpfosten fixieren.
+
+- **Mulchen:**
+  - Mulch unterdrückt Unkraut, hält die Erde feucht und schützt vor bodenbürtigen Krankheiten.
+  - Plastikmulch (durchsichtig, schwarz oder rot) wärmt den Boden und kann vor oder beim Pflanzen ausgelegt werden.
+  - Organischer Mulch verbessert die Erde, sollte aber erst nach dem Erwärmen der Erde im späten Juni aufgebracht werden.
+
+- **Ausgeizen (Beschneiden):**
+  - Unbestimmte Sorten sollten ausgegeizt werden, damit die Früchte reifen und Krankheiten vermieden werden.
+  - Entscheide, wie viele Haupttriebe die Pflanze haben soll, und lasse nur ausgewählte Seitentriebe wachsen.
+  - Die Pflanze auslichten, wenn sie größer wird, um Licht und Luft besser durchzulassen.
+
+---
+
+## Weitere Tipps
+
+- **Schäden durch Flohkäfer:** Dünne Blätter mit kleinen Löchern bei jungen Pflanzen bedeuten oft Flohkäfer. Dünge, damit die Pflanzen kräftig wachsen – weitere Behandlung ist meist nicht nötig.
+- **Gießen:** Bei Trockenheit oder Hitze wöchentlich mindestens 2,5 cm Wasser geben.
+- **Reifeförderung:**
+  - 30 Tage vor dem ersten Frost (August/September) nicht mehr gießen, neue Blüten und unreife Früchte entfernen, die nicht mehr reif werden.
+  - Pflanze mit Plastik abdecken, um sie vor Regen und Kälte zu schützen, oder größere grüne Tomaten ernten. Diese einzeln und nebeneinander (ohne Berührung) an einem warmen (18–21°C), dunklen Ort nachreifen lassen.
+- **Aufräumen am Saisonende:** Entferne alle Pflanzenreste, um künftigen Schädlingen und Krankheiten vorzubeugen.
+- **Fruchtwechsel:** Mindestens 3–4 Jahre warten, bevor du Tomatengewächse (Tomaten, Auberginen, Paprika und Kartoffeln) an der gleichen Stelle anbaust.
+
+---
+
+## OSU Extension Service Ressourcen
+
+- [Blütenendfäule bei Tomaten FS 139](http://catalog.extension.oregonstate.edu/)
+- **10-Minuten-Universität™ Videos:**
+  - [Tomatensorten](https://www.youtube.com/watch?v=K0Sl3YWDazo)
+  - [Tomaten aus Samen ziehen](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
+  - [Tomaten im Garten pflanzen](https://www.youtube.com/watch?v=Pucpx5fuKdk)
+  - [Bewährte Pflegemethoden](https://www.youtube.com/watch?v=lpVBg-e_1vE)
+
+---
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · 10-Minuten-Universität™ Infoblätter und Videos: [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlicher Unterstützung, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Merkmale gelten für alle Programme.)
+---

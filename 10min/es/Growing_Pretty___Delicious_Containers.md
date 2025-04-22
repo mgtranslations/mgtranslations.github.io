@@ -1,64 +1,88 @@
-# Universidad de 10 Minutos™
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
 
-La Asociación de Jardineros Maestros del Condado de Clackamas, en colaboración y apoyo al Programa de Jardineros Maestros™ de Extensión de la Universidad Estatal de Oregón (OSU).
-
-## Cultivando Contenedores Hermosos y Deliciosos
+# Cultivando Macetas Bonitas y Deliciosas
 
 ### Resumen
-Macetas de cerámica, jardineras de ventana y otros recipientes llenos de verduras de hoja, flores comestibles, hierbas o vegetales son ideales para hogares grandes y pequeños. Contenedores con hermosas plantas comestibles ofrecen una alternativa a los paisajes residenciales convencionales y superan las limitaciones de espacio.  
 
-El paisajismo comestible utiliza plantas que producen alimentos en el paisaje residencial; en este caso, plantas cultivadas en contenedores. Una variedad de contenedores puede elevar las plantas a alturas donde se puedan apreciar tanto visualmente como en el paladar. Disfruta de la frescura y el sabor de frutas, ensaladas, hierbas y vegetales cultivados en casa y completamente maduros.
+Macetas de cerámica, jardineras de ventana y otros recipientes llenos de hojas verdes, flores comestibles, hierbas o verduras son ideales para casas grandes y pequeñas. Los contenedores con plantas comestibles hermosas ofrecen una alternativa a los paisajes residenciales tradicionales y ayudan a superar las limitaciones de espacio.
+
+El paisajismo comestible es el uso de plantas que producen alimentos en el paisaje residencial; en este caso, plantas cultivadas en macetas. Una variedad de recipientes puede elevar las plantas a una altura donde se pueden apreciar tanto con la vista como con el paladar. Disfruta la frescura y el sabor de frutas, ensaladas, hierbas y verduras completamente maduras, cultivadas en casa.
 
 ### Ubicación
-La mayoría de las frutas y vegetales necesitan de 6 a 8 horas de sol para producir bien. Algunas plantas nativas y hojas comestibles, como la lechuga y la col rizada, pueden tolerar algo de sombra. Es importante dónde coloques tus contenedores. Observa tu patio para entender mejor la exposición al sol en la mañana, al mediodía y por la tarde. Si el contenedor está en un lugar accesible, es más probable que esas hierbas frescas se integren a tu dieta.
+
+La mayoría de las frutas y verduras requieren de 6 a 8 horas de sol para producir bien. Algunas plantas nativas y hojas comestibles, como la lechuga y la col rizada, pueden tolerar algo de sombra. El lugar donde pongas tus macetas es importante. Observa tu patio para entender mejor la exposición al sol en la mañana, al mediodía y en la tarde. Si la maceta está en un lugar conveniente, es más probable que esas hierbas frescas lleguen a tu cocina.
 
 ### Contenedores
-Al seleccionar contenedores, piensa en cómo y dónde los agruparás. ¿Cuál será el elemento común de diseño que unirá la estética que deseas? Factores como el color, textura, material, forma y practicidad del contenedor requieren una consideración cuidadosa. No tengas miedo de reutilizar objetos como una carretilla vieja, una regadera o incluso esas botas que tienen fugas. ¡Sea cual sea el contenedor que elijas, debe tener buenos agujeros de drenaje! NUNCA uses contenedores de madera tratados con conservantes tóxicos como el creosoto.
+
+Al seleccionar macetas, piensa en cómo y dónde las agruparás. ¿Cuál será el elemento común de diseño que unirá la estética que buscas? Factores como el color, textura, material, forma y practicidad del recipiente necesitan consideración cuidadosa. No tengas miedo de reutilizar objetos como una carretilla vieja, una regadera o incluso botas con fugas.
+
+¡No importa qué recipiente elijas, debe tener buenos agujeros de drenaje! **NUNCA** uses macetas de madera tratadas con conservantes tóxicos como creosota.
 
 ### Espacio
-Como guía general, una maceta de 12 pulgadas de diámetro sería el tamaño mínimo para pequeñas plantas con flores y verduras de hoja. Siempre considera el tamaño maduro de la planta. La información sobre el espacio necesario, que aparece en las etiquetas de las plantas o en los catálogos de semillas, es un recurso valioso.
 
-### Medio de cultivo
-Los contenedores deben llenarse con mezcla para macetas o mezcla para jardineras, no con tierra de jardín. Debido a la práctica intensiva de jardinería, se recomienda agregar un fertilizante de liberación lenta de 3 a 4 meses a la mezcla para macetas.
+Como guía, una maceta de al menos 12 pulgadas de ancho es el tamaño mínimo para plantas pequeñas con flores y hojas verdes. Siempre considera el tamaño adulto de la planta. La información de espaciamiento en las etiquetas de la planta o en los catálogos de semillas es un recurso valioso.
 
-### Tiempo y cuidado
-Los huertos, incluso en contenedores, requieren amor y atención. Esto incluye control de plagas, eliminación de malezas y riego. Aplica Manejo Integrado de Plagas y usa pesticidas solo como último recurso. La ventaja de los contenedores es que facilitan la eliminación de malezas y el acceso. Las plantas requieren riego cuidadoso. Introduce tu dedo hasta el segundo nudillo en el suelo (2-3 pulgadas). Si se siente húmedo y fresco, no riegues. En el calor del verano, puede ser necesario regar diariamente. Sé constante. Recortar semanalmente, quitar las flores marchitas y adelgazar las plantas contribuirá a cosechas productivas. A medida que las plantas crecen en el contenedor, elimina aquellas que no funcionen y agrega reemplazos para mantener el contenedor luciendo bien. La plantación sucesiva de verduras puede hacerse agregando de 3 a 5 semillas semanalmente. Finalmente, la aplicación de un fertilizante soluble en agua cada 2-3 semanas alimentará las plantas. ¡Todo este esfuerzo es la razón por la que saben tan bien!
+### Sustrato
+
+Las macetas deben llenarse con una mezcla para macetas o mezcla para jardineras, no con tierra del jardín. Debido a la jardinería intensiva, se recomienda agregar un fertilizante de liberación lenta de 3 a 4 meses a la mezcla de tierra.
+
+### Tiempo y Cuidado
+
+Los huertos, incluso en macetas, requieren cariño y atención. Eso significa controlar plagas, deshierbar y regar. Aplica Manejo Integrado de Plagas y usa pesticidas solo como último recurso.
+
+El beneficio de la maceta es el deshierbe más fácil y mejor acceso. Las plantas requieren riego cuidadoso. Mete tu dedo hasta el segundo nudillo en la tierra (2–3 pulgadas). Si se siente húmeda y fresca, no riegues. Podrías necesitar regar todos los días en el calor del verano. Sé constante.
+
+Recorta, despunta y aclara las plantas cada semana para contribuir a cosechas productivas. A medida que las plantas de la maceta crecen, retira las que no funcionen y agrega reemplazos para mantener la maceta bonita. Puedes sembrar más hojas verdes añadiendo 3 a 5 semillas cada semana.
+
+Finalmente, aplicar un fertilizante soluble en agua cada 2 o 3 semanas alimentará las plantas. ¡Todo este esfuerzo es la razón por la que saben tan bien!
 
 ### Belleza
-Al plantar una maceta deliciosa, considera primero lo que te gusta comer. El diseño se basará en el tamaño de las plantas, el color de las flores, la forma del follaje, los patrones de las hojas y una variación de texturas. Considera plantas con alturas variadas y colores vibrantes de vegetales. Es importante agrupar las flores para generar impacto. Dale espacio a los vegetales y ofrece soporte vertical para plantas que trepan o se extienden mientras crecen. Investiga un poco para descubrir plantas con las características que valoras.
+
+Al plantar una maceta deliciosa, piensa primero en lo que te gusta comer. El diseño vendrá del tamaño de las plantas, color de las flores, forma del follaje, patrones de hojas y variación de texturas.
+
+Considera plantas con alturas variadas y colores vibrantes de verduras. Es importante agrupar las flores para crear impacto. Deja espacio para las verduras y ofrece soporte vertical para plantas que trepan o se extienden al crecer. Investiga un poco para encontrar plantas con las características que valoras.
 
 ### Diseño
+
 #### Marco de Diseño: Thriller, Filler y Spiller
 
-- **Thriller**: Es la planta más grande y llamativa en el contenedor, generalmente colocada en el centro (si la maceta será vista desde todos los lados) o en la parte trasera (si se verá desde un solo lado). El Thriller aporta un elemento vertical fuerte al contenedor. Esto podría ser una planta de pimiento, un tipi de frijoles trepadores, un arbusto de arándanos o una planta de tomate. Para contenedores más pequeños, una col rizada rusa alta funciona bien.
-
-- **Filler**: Una planta más corta con una textura y/o patrón diferente. Esto disimula el tallo leñoso y llena el contenedor con elegancia. Plántalas alrededor del Thriller central o en un semicírculo detrás del Thriller. Acelgas brillantes, lechugas de hoja de roble o hierbas frondosas como perejil, salvia o cilantro pueden ser recogidas según se necesiten.
-
-- **Spiller**: Una planta que se extiende o que rebosa hacia abajo en el exterior del contenedor. Un contraste en textura, color del follaje/flor o vegetales en desarrollo aumentará el interés en el contenedor. Se plantan en el borde de la maceta junto a los Fillers. Pepinos limón o calabacines de verano se extenderán y ofrecerán atractivos globos soleados. Una combinación de hierbas colgantes como romero y tomillo se desbordará hacia abajo para captar la atención y ofrecer mucho sabor, fresco o seco.
+- **Thriller**: La planta más grande y llamativa de la maceta, usualmente colocada en el centro (si la maceta se verá de todos lados) o en la parte trasera (si se verá de solo un lado). El Thriller añade un elemento vertical fuerte al recipiente.
+  - Ejemplos: Planta de pimiento, estructura de ejotes trepadores, arándano, planta de tomate o col rizada rusa de crecimiento alto para macetas pequeñas.
+- **Filler**: Una planta más baja con textura y/o patrón diferente. Esto disfraza el tallo leñoso y llena la maceta con belleza.
+  - Ejemplos: Acelgas brillantes, lechuga tipo hoja de roble o hierbas tupidas como perejil, salvia o cilantro.
+- **Spiller**: Una planta que cuelga o rebosa hacia abajo por el borde del recipiente. Tener una textura, color de follaje/flor o verdura en desarrollo contrastante aumentará el interés en la maceta.
+  - Ejemplos: Pepinos limón, calabacitas de verano o hierbas colgantes como romero y tomillo.
 
 ### Seguridad
-Cultivar tus propias plantas desde semillas te da calidad en los plantines y mayores opciones. No todas las flores son comestibles. De hecho, algunas plantas generan toxinas para evitar daños por animales o insectos. Esas mismas toxinas son perjudiciales para los humanos. Cuando comas plantas "nuevas", empieza con pequeñas cantidades para determinar si tienes sensibilidad alimentaria. En la mayoría de los casos, los pétalos son la parte más sabrosa de la flor.
 
-### Selección de plantas
-Revisa la etiqueta de la planta para ver los requisitos de agua, sol y espacio. En un "contenedor combinado", esos requisitos deben ser similares para tener éxito y facilitar el cuidado. Agregar flores al contenedor atraerá y alimentará a los polinizadores.
+Cultivar tus propias plantas desde semilla te da plántulas de calidad y muchas opciones. No todas las flores son comestibles. De hecho, algunas plantas producen toxinas para evitar daños de animales o insectos, lo cual puede ser peligroso para las personas.
 
-La mayoría de las plantas mencionadas aquí progresarán en su ciclo de vida, produciendo hojas, flores y luego semillas. Estas se han clasificado según su estado comestible más popular:
+Al probar plantas “nuevas”, empieza con pequeñas cantidades para ver si tienes alguna sensibilidad alimentaria. En la mayoría de los casos, los pétalos son la parte más sabrosa de la flor.
 
-- **Hojas verdes**: Rúcula, Monarda, Col rizada, Lechugas de hoja, Mostaza, Acelga.
-- **Vegetales**: Pepinos, Berenjena, Pimientos, Frijoles trepadores, Frijoles escarlata, Espinaca, Calabaza, Tomates de patio.
-- **Pétalos de flores**: Aciano, Borraja, Caléndula, Lirio de día, Manzanilla, Sauco, Hinojo, Lila, Hibisco, Lúpulo, Hisopo, Lavanda, Tilo, Capuchina, Pensamiento, Guisante, Claveles, Rosa, Geranios aromáticos, Caléndulas Signet, Begonia tuberosa, Tulipán, Yuca.
-- **Hierbas**: Albahaca, Cebollín, Cilantro, Orégano, Eneldo, Melisa, Verbena de limón, Menta, Salvia piña, Romero, Salvia, Mejorana dulce, Tomillo (a menudo deliciosos por sus hojas, flores o semillas).
+### Selección de Plantas
 
-### Recursos adicionales
-- [Flores comestibles 7.237 por S.E. Newman y Steven O’Connor](https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/)
-- [Flores comestibles por Julie Weisenhorn y Ginny Coyle](https://extension.umn.edu/flowers/edible-flowers)
-- AMA Handbook of Poisonous and Injurious Plants, Lampe, Kenneth F, 1985. American Medical Association.
-- Folletos y videos de la Universidad de 10 Minutos: [www.cmastergardeners.org](http://www.cmastergardeners.org)
+Revisa la etiqueta de la planta para conocer las necesidades de agua, sol y espaciamiento. En una “maceta combinada”, esos requisitos deben ser similares para tener éxito y facilitar el cuidado. Agregar flores a la maceta atraerá y alimentará a los polinizadores.
 
-### Asesoramiento de Jardineros Maestros
-Llama a la línea de ayuda de horticultura doméstica:
-- 503-655-8631 (Clackamas)
-- 503-821-1150 (Washington)
-- 503-445-4608 (Multnomah)
+La mayoría de las plantas aquí listadas avanzarán en su ciclo de vida, produciendo hojas, flores y luego semillas. Estas han sido clasificadas por su estado comestible más popular:
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales sobre la base de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+- **Hojas Verdes**: Arúgula, Monarda (Beebalm), Col rizada (Kale), Lechugas de hoja, Mostaza, Acelga suiza
+- **Verduras**: Pepinos, Berenjena, Pimientos, Ejotes trepadores, Ejotes escarlata, Espinaca, Calabaza, Tomates para maceta
+- **Pétalos de Flor**: Botón de soltero, Borraja, Caléndula, Hemerocallis (Daylily), Manzanilla, Saúco, Hinojo, Lila, Hibisco, Lúpulo, Hisopo, Lavanda, Tilo, Capuchina, Pensamiento, Flor de guisante, Clavelina, Rosa, Geranios aromáticos, Tagete signet, Begonia tuberosa, Tulipán, Yuca
+- **Hierbas**: Albahaca, Cebollín, Cilantro, Orégano, Eneldo, Melisa, Verbena de limón, Menta, Salvia piña, Romero, Salvia, Mejorana dulce, Tomillo
+
+### Recursos Adicionales
+
+- **Flores Comestibles 7.237** por S.E. Newman y Steven O’Connor  
+  [https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/](https://extension.colostate.edu/topic-areas/yard-garden/edible-flowers-7-237/)
+- **Flores Comestibles** por Julie Weisenhorn y Ginny Coyle  
+  [https://extension.umn.edu/flowers/edible-flowers](https://extension.umn.edu/flowers/edible-flowers)
+- **Manual AMA de Plantas Venenosas y Dañinas**, Lampe, Kenneth F, 1985. American Medical Association
+- **Handouts y videos de Universidad de 10 Minutos™**  
+  [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda de horticultura doméstica: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Para otros folletos y horarios de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paternal, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o castigo por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---

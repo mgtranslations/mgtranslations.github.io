@@ -1,54 +1,122 @@
-# Jaamacadda 10-Daqiiqo™  
-Ururka Beeralayda Master ee Degmada Clackamas oo iskaashi la leh una taageeraya  
-Barnaamijka OSU Extension Master Gardener™  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Khabiirka ah ee Clackamas County iyagoo kaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
 
-## Maareynta Qandhada iyo Qoolleyda  
+# Sida Loo Xakameeyo Qariirada iyo Gafuurleyda
 
-### Xaqiiqooyin Aasaasi ah  
-Qandhada iyo qoolleyda dhulka ku nool waa noocyo jilicsan oo mollusks ah oo ku nool dhulka, kuwaas oo noolaan kara ilaa lix sano. Waxay ku socdaan lug muruq leh oo si joogto ah sii deysa dheecaanka, iyagoo ka tagaya raad slime oo muuqda. Dadka waaweyn waxay firfircoon yihiin habeenkii iyo maalmaha daruurta leh ama ceeryaanta, halka ay raadsadaan meelo ay iska qariyaan maalmaha cadceedda leh.  
+### Xaqiiqooyin Muhiim ah
 
-Qandhada waxay badanaa ku qotomaan dhulka ilaa lix fuudh si ay ugu helaan meel qabow oo qoyan. Qoolleydu waxay isku daboolaan membrane u eg warqad si ay uga badbaadaan xilliyada kulul ee qalalan ama marka ay qabow tahay. Xilliyada qabow, qoolleyda iyo qandhada waxay ku seexdaan dhulka sare. Meelaha ay jiilaalka fudud yihiin, qoolleyda iyo qandhada waxay firfircoon yihiin sanadka oo dhan.  
+Qariirada iyo gafuurleyda dhulka waxay ka mid yihiin xayawaanka jilicsan ee ku nool dhulka kuwaas oo noolaan kara ilaa lix sano. Markay ku socdaan lug muruq ah oo siideysa dheecaan, waxay ka tagaan raad dufan leh. Dadka waaweyn waxay firfircoon yihiin habeenkii iyo maalmaha daruuriga ah ama ceeryaanta leh, waxayna raadsadaan meelaha ay ku dhuuntaan marka cadceedu jirto.
 
-Inta badan qandhada iyo qoolleyda dhulka ku nool waa hermaphrodites, taas oo la micno ah in qof kasta oo qaangaar ah uu leeyahay xubno taran lab iyo dheddigba. Qoolleyda cagaaran ee qaangaarka ah waxay bislaadaan laba sano kadib waxayna bilaabaan inay dhigaan celcelis ahaan 80 ukun wareegsan oo cad oo dhalaalaya mar kasta oo ay samaystaan xilliyada dhulka hoostiisa, ilaa lix jeer sanadkii. Qandhada waxay bislaadaan saddex ilaa lix bilood gudahood waxayna dhigaan ukun cad ama caano leh oo ooval ilaa wareegsan oo ku jira kooxo ka kooban 3 ilaa 40.  
+Qariiradu waxay badanaa quusaan ilaa lix cagood oo dhulka hoose ah si ay u helaan deegaan qabow oo qoyan. Gafuurleydu waxay is xiraan iyagoo adeegsanaya xuub u eg warqad si ay uga badbaadaan kulaylka, qallaylka, ama qabowga. Xilliga qabowga, gafuurleyda iyo qariiradu waxay ku seexdaan dhulka sare. Meelaha cimilo diiran leh, gafuurleyda iyo qariiradu way firfircoonaan karaan sanadka oo dhan.
 
-### Waxyeello  
-Qoolleyda iyo qandhada labaduba waxay cunaan dhirta nool iyo hadhaaga dhirta burburay, iyagoo waxyeello u geysanaya caleemaha, ubaxyada, miraha, iyo qaybaha dhirta ee jilicsan. Raad mucus ah oo dhalaalaya ayaa xaqiijinaya joogitaankooda. Waxyeelladooda badanaa waxay qaabaysan tahay godad aan caadi ahayn oo leh geeso siman.  
+Qariirada iyo gafuurleyda dhulka intooda badan waa lab iyo dheddig isku mar, mid kasta oo weyn wuxuu leeyahay xubno taran lab iyo dheddig ah. Gafuurleyda beerta bunni waxay qaataan laba sano si ay u bislaadaan waxayna dhigaan celcelis ahaan 80 ukun oo wareegsan oo caddaan dhalaalaya mar kasta, ilaa lix jeer sanadkii. Qariiradu waxay bislaadaan 3 ilaa 6 bilood waxayna dhigaan ukun cad ama caddaan cirro leh, wareegsan ama oval ah, tiro ahaan 3 ilaa 40 mar kasta.
 
-### Sida Looga Hortago Qandhada iyo Qoolleyda  
-Isku dhafka farsamooyinka hoos ku xusan ayaa si wax ku ool ah u yareyn kara tirada qandhada iyo qoolleyda, iyadoo sidoo kale yareynaysa waxyeellada beerahaaga. Wakhtiga ugu wanaagsan ee lagu maareeyo wakhtiga fog waa xilliga dayrta oo dhan. Sidan, qoolleyda iyo qandhada qaangaarka ah ayaa yaraan doona si aysan u dhigin ukuntooda. Codsiga labaad ee jiilaalka dambe ama gu'ga hore ayaa hoos u dhigaya tirada dadka waaweyn. Codsi saddexaad oo hal bil kadib ah ayaa beerahaaga ku hayn doona xaalad wanaagsan xilliga koritaanka. Si kastaba ha ahaatee, kormeer joogto ah ayaa sidoo kale loo baahan yahay maadaama qoolleyda iyo qandhada ay dib uga soo bixi karaan beero dariska ah.  
+### Waxyeello
 
-#### • Doorashada Dhirta  
-**Dhirta iska caabbinta leh:** Agapanthus, Anemone, Astilbe, Bamboo, Bleeding Hearts, Candytuft, Coral Bells, Ferns, Foxglove, Hens and chicks, Ivy, Juniper, Nandina, Sedum, Solomon’s Seal, Sweet Woodruff, Wintergreen, Yew.  
-**Qandhada aad u jeceshahay inay cunto:** Basil, broccoli, karootada, lettuce, baradhada, strawberries, Campanula, Daffodils, Gardenia, Gentian, Hosta, Impatiens, Japanese Painted Fern, Leopard’s bane, Lilies, Lobelia (perennial), Marigold, Narcissus, Primrose, Star of Bethlehem, Trillium, Tuberose Begonia, Viola, Wild Ginger.  
+Gafuurleyda iyo qariiradu waxay quutaan dhirta nool iyo dhirta daadisay, waxayna dhaawacaan caleemaha, ubaxa, miraha, iyo qaybo kale oo dhir ah oo jilicsan. Ka raadi raad dheecaan qalin ah si aad u hubiso joogitaankooda. Waxyeelladooda badanaa waxay u muuqataa daloolo aan joogto ahayn oo leh geeso siman.
 
-#### • Ka Saar Meelaha Qoyaanka iyo Mugdiga  
-**Wakhtiga waraabka** – Ka fogow inaad waraabiso beertaada fiidkii marka qandhada iyo qoolleyda ay soo baxaan si ay u cunaan. Halkii, waraabi subaxdii.  
-**Qotomi gu'ga** si aad u yarayso hadhaaga caleemaha oo qandhada iyo qoolleyda yaryar ay ku quutaan marka ay dillaacaan.  
-**U rog mulch** – Inkastoo mulch uu faa'iido u leeyahay dhirta iyo dhulka, waa meel wanaagsan oo lagu dhuunto. Ka rog mulch iyo hadhaaga kale ee beerta si aad u soo bandhigto cayayaanka iyo ukuntooda si ay uga cararaan ugaarsadayaasha.  
+---
 
-#### • Dhis Xayndaabyo  
-**Cajaladaha copper-ka:** Tijaabooyinku waxay muujinayaan in qandhada ay ku dhici karto shoog koronto marka ay ku socdaan copper haddii cajaladda ama mesh-ku uu ku filan yahay si looga hortago qandhada inay kor u qaadaan jirkooda. Si kastaba ha ahaatee, inta badan cajaladaha copper-ka ee lagu iibiyo dukaamada beerta ujeedkan maaha kuwo ku filan oo waxtar leh.  
-**Lime, dambaska, diatomaceous earth (qaab qalalan):** Waxyaabahan waxay gaabiyaan qandhada, laakiin ma dilaan. Xayndaabyadani waxay u baahan yihiin in dib loo cusboonaysiiyo roobka ama waraabka kadib.  
+## Sida Loo Xakameeyo Qariirada iyo Gafuurleyda
 
-#### • Dhiirigeli Ugaarsadayaasha  
-Xayawaanno badan ayaa ugaarsada qandhada iyo qoolleyda, oo ay ku jiraan: toads, abeesooyin, beetles, marsh flies, shimbiraha, rahyada, salamanders, newts, ducks, millipedes, porcupines iyo raccoons. U dhiirigeli kuwa ku habboon habkaaga beero.  
+Isku darka farsamooyinka hoos ku taxan ayaa ugu waxtar badan yareynta tirada qariirada iyo gafuurleyda iyo in la yareeyo waxyeellada beertaada. Waqtiga ugu fiican ee xakameyn muddo dheer ah waa in beerta dhan la daweeyo xilliga dayrta. Tani waxay yareynaysaa tirada qariirada iyo gafuurleyda waaweyn ee dhiga ukunta. Mar labaad oo la mariyo daawo xilliga jiilaalka dambe ama gu’ga hore waxay caawinaysaa in la yareeyo tirada dadka waaweyn. Mar saddexaad oo la mariyo hal bil ka dib waxay diyaarisaa beertaada xilliga koritaanka. Had iyo goor waa in la kormeeraa, maadaama qariiradu iyo gafuurleydu ay mar kale ka imaan karaan beero deriska ah.
 
-#### • Samee Dabinnada  
-**Dabinno guri:** Sida looxa fidsan ama dheri ubax oo dhinac u furan waa meelaha ay ku dhuuntaan. Sidoo kale, caleemaha kabbajka ee rogman, maqaar orange/ grapefruit-ka ayaa si fiican u shaqeeya. Ku rid habeenkii. Hubi dabinnada oo burburi cayayaanka subax kasta ilaa tiradoodu hoos u dhacdo, ka dibna hubi toddobaadkii.  
-**Gacanta ku soo ururi:** Laba jeer toddobaadkii xilliga gu'ga hore iyo dayrta, raadso meelaha caadiga ah ee lagu dhuunto sida dhagaxyada hoostooda iyo caleemaha hoostooda. Samee habeenkii (wax soo saar wanaagsan) ama maalintii; ku rid qandhada iyo qoolleyda baaldi biyo saabuun leh. Xidho galoofyo ama isticmaal tweezers. Haddii dheecaanka slime-ka uu ku dhaco maqaarkaaga, ku dhaq khal cad iyo biyo diirran.  
+### Xulo Dhirtaada Si Taxaddar Leh
 
-#### • Bait  
-**Khamiirka iyo macaanka malabka:** Samee dabin qoto dheer, sida weel qoto dheer oo yogurt ah, oo leh geeska dhulka ku yaal. Tani waxay xaqiijineysaa cayayaanku inay dib uga soo bixi karin. Diyaari isku dar malabka iyo khamiirka adoo karkarinaya biyo leh malab iyo khamiir; saamiga muhiim ma aha. Biirka waxaa loo isticmaali karaa sidii uu yahay. Hubi weelka maalin kasta si aad u xaqiijiso in rah ama shay kale aan si qalad ah ugu dhicin. Ku shub oo buuxi laba maalmood kasta.  
+**Dhirta U Adkaysata Qariirada iyo Gafuurleyda:**
+- Agapanthus
+- Anemone
+- Astilbe
+- Bamboo
+- Bleeding Hearts
+- Candytuft
+- Coral Bells
+- Qodaxda (Ferns)
+- Foxglove
+- Hens and chicks
+- Ivy
+- Juniper
+- Nandina
+- Sedum
+- Solomon’s Seal
+- Sweet Woodruff
+- Wintergreen
+- Yew
 
-**Iron Phosphate (Sluggo, Escar-Go):** Waxay faragelisaa dheef-shiidka kalsiyumka ee caloosha, iyadoo sababaysa qoolleyda iyo qandhada inay joojiyaan cunista oo ay dhintaan 3 ilaa 6 maalmood gudahood. Iron phosphate waa ammaan in loo isticmaalo agagaarka xayawaanka, dadka, kalluunka, shimbiraha, cayayaanka faa'iidada leh, iyo xayawaanka. Waxaa loo isticmaali karaa agagaarka dalagga cuntada, dhirta qurxinta, cawska, beeraha, aqalka dhirta lagu koriyo, iyo beeraha berry ilaa goosashada. Iron phosphate waxay firfircoonaataa ilaa 2 toddobaad, xitaa iyadoo dib u qoyaan.  
+**Dhirta Qariirada Jecel Yihiin:**
+- Basil
+- Qoyska Broccoli
+- Karootada
+- Lettuce
+- Baradho
+- Strawberries
+- Campanula
+- Daffodils
+- Gardenia
+- Gentian
+- Hosta
+- Impatiens
+- Japanese Painted Fern
+- Leopard’s bane
+- Lilies
+- Lobelia (perennial)
+- Marigold
+- Narcissus
+- Primrose
+- Star of Bethlehem
+- Trillium
+- Tuberose Begonia
+- Viola
+- Wild Ginger
 
-**Metaldehyde (Deadline):** Waxay si degdeg ah u qalajisaa qoolleyda ama qandhada haddii la cuno. Si kastaba ha ahaatee, haddii ay biyo u dhow yihiin ama haddii uu roob da’o isla markiiba codsiga kadib, waxay noqon kartaa mid aan shaqayn. Qandhada waxay lumin kartaa nus culeyskeeda jirka waxayna u yaraan kartaa saddex-meelood meel cabbirkeedii Metaldehyde ama cusbo kadib waxayna soo kaban kartaa haddii ay si degdeg ah u gaarto dhulka qoyan, ama haddii uu roob da'o. Alaabooyinkan laguma talinayo in loo isticmaalo agagaarka khudaarta la cuni karo, waxayna halis ku yihiin eyda, bisadaha, iyo kalluunka. Si taxaddar leh u raac qoraalka astaanta.  
+### Ka Saar Goobaha Qoyan ee Madow ee Lagu Dhuunto
 
-### Kheyraadka  
-Ka hel daabacaadaha OSU Extension: [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
+- **Waqtiyeynta waraabinta:** Iska ilaali inaad waraabiso beertaada fiidkii, waayo waa markaas qariirada iyo gafuurleydu soo baxaan. Waraabi subaxdii halkii aad habeenki ku waraabi lahayd.
+- **Qod xilliga gu’ga:** Yaree caleenta daadisay si aysan cunno ugu helin qariirada iyo gafuurleyda yaryar marka ay dillaacaan.
+- **Rogo cawska jiilaalka:** Inkasta oo cawska jiilaalku uu faa’iido u leeyahay dhirta iyo ciidda, haddana waa meel fiican oo lagu dhuunto. Rogo cawska iyo qashinka beerta si aad uga dhigto bahalka iyo ukuntiisa mid banaan.
 
-#### Talooyinka Beeralayda Master  
-- Wac Khadka Caawinta Horticulture-ka Guriga: 503-655-8631 (Degmada Clackamas), 503-821-1150 (Degmada Washington), 503-445-4608 (Degmada Multnomah).  
-- Wixii ku saabsan jaamacadda 10-Daqiiqo™ buug-yaraha iyo jadwalka fasalka, booqo: [www.cmastergardeners.org](www.cmastergardeners.org)  
+### Dhis Xayndaab
 
-Adeegga Extension Oregon State University wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan jinsiyadda, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dookha galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/walidnimada, dakhliga laga helo barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidde-wadaha, xaaladda halyeeynimo, aargoosi ama ciqaab u aargudasho hawlaha xuquuqda madaniga ah ee hore. (Ma aha dhammaan saldhigyada la mamnuucay waxay khuseeyaan dhammaan barnaamijyada.)
+- **Xarig naxaas ah:** Tijaabooyinku waxay muujiyeen in qariiradu koronto yar dareemaan marka ay dul marayaan naxaas ballaaran, haddii xarigu ama shabagyadu ay ku filan yihiin oo aysan ka kor boodin karin. Laakiin inta badan xarigga naxaasta ee laga helo dukaamada beerta ma ahan mid ballaaran oo xayndaab waxtar leh sameeya.
+- **Lime, dambas, ama dhulka diatomaceous (qaab qalalan):** Kuwani waxay gaabiyaan dhaqaaqa qariirada balse ma dilaan. Waa in la beddelaa marka roob da’o ama la waraabiyo.
+
+### Dhiiri Geli Bahalaha Dila Qariirada
+
+Xayawaanno badan ayay quutaan qariirada iyo gafuurleyda, oo ay ka mid yihiin:
+- Dabaqallooc
+- Masas
+- Kaneecooyin (beetles)
+- Marsh flies
+- Shimbiro
+- Qalloocyo
+- Salamanders
+- Newts
+- Digaag
+- Quraanjoc
+- Porcupines
+- Racoons
+
+Dhiirigeli bahalaha kugu habboon beertaada.
+
+### Dhig Dabino
+
+- **Dabinka guriga lagu sameeyo:** Isticmaal loox fidsan ama dheriga ubaxa oo la rogay, ee geeska midna kor loo qaaday, si ay u noqoto meel lagu dhuunto. Caleemaha kaabishka la rogay ama qolofka liinta/oranjada ayaa sidoo kale shaqeeya. Ku dhig dabinnada fiidkii oo hubi subax kasta ilaa tiradu yaraato, markaas toddobaadki mar hubi.
+- **Gacanta ku ururi:** Laba jeer todobaadkii xilliga gu’ga hore iyo dayrta, ka raadi meelaha ay ku dhuuntaan sida dhagaxaanta hoostooda iyo caleemaha. Samee habeenkii (waxa ay wax badan qabataa) ama maalintii. Ku rid qariirada iyo gafuurleyda baaldi biyo saabuun leh. Gacmo gashi xir ama tongs isticmaal. Haddii dufan kugu dhaco, ku dhaq khal cad iyo biyo diirran.
+
+### Isticmaal Baa’inta
+
+- **Biyo khamri ama isku-darka khamiir iyo malab:** Ku rid dabin qoto dheer, sida weelka yogurt-ka, si cirifkiisu ula siman yahay dhulka si bahalku uusan uga bixin karin. Isku-darka malabka iyo khamiirka ku kari biyo kulul; cabbirka ma muhiim ahan. Khamriga si toos ah u isticmaal. Maalin walba hubi in xayawaan aan la rabin uusan ku dhicin. Maalmo kasta nadiifi oo dib u buuxi.
+- **Iron Phosphate (Sluggo, Escar-Go):** Waxay dhibaato ku keentaa dheefsashada kalsiyumka, waxayna joojisaa cunto cunka, taasoo keenta inay dhintaan 3 ilaa 6 maalmood. Iron phosphate waa badbaado in lagu isticmaalo agagaarka xayawaanka, dadka, kalluunka, shimbiraha, cayayaanka waxtarka leh, iyo xayawaanka kale. Waxaa loo isticmaali karaa agagaarka dalagga cuntada, dhirta qurxinta, dooxooyinka, beero, dhismayaasha cagaaran, iyo beerta miraha ilaa goosashada. Waxay firfircoonaanaysaa ilaa 2 todobaad, xitaa haddii la waraabiyo dhowr jeer.
+- **Metaldehyde (Deadline):** Si degdeg ah bay biyaha uga saartaa qariirada iyo gafuurleyda haddii la cuno. Laakiin haddii biyo meel dhow ku yaallaan ama roob da’o markiiba, ma shaqayn karto. Qariiradu waxay lumin karaan nus miisaankooda oo way yaraadaan, laakiin way soo kaban karaan haddii ay gaaraan dhul qoyan ama roob da’o. Alaabtan looma oggola in la isticmaalo agagaarka khudradda la cuno waxayna halis u tahay eeyaha, bisadaha, iyo kalluunka. Si taxaddar leh u akhri tilmaamaha.
+
+---
+
+## Kheyraadka
+
+Ka hel buugaagta OSU Extension: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Talo Master Gardener™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado ah iyo jadwalka fasalada Jaamacadda 10-Daqiiqo™: Booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga OSU Extension Service waxay mamnuucday takoorka barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan midab, jinsiyad, asal qaran, diin, jinsi, aqoonsi jinsi (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhli laga helo barnaamij gargaar dadwayne, aaminsanaanta siyaasadda, xogta hidaha, heerka ciidanimo, aargoosi ama ciqaab loo geystay hawl ka horreysay oo xuquuqda madaniga ah la xiriirta. (Dhammaan sababaha la mamnuucay lama daboolo dhammaan barnaamijyada.)
+---

@@ -1,45 +1,100 @@
-# 10-Nas Ntuav Tsev Kawm Ntawv™  
-Lub Koom Haum Clackamas County Master Gardener Association koom tes thiab pab txhawb OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb OSU Extension Master Gardener™ Program
 
-## Kev Tu Tsev Nyom  
+# Kev Tu Tswj Nyom
 
-### Kev Qhia  
-Nkag siab txog kev hloov pauv ntuj tsim ntawm tsev nyom yog qhov tseem ceeb rau kev ua kom tsev nyom zoo nkauj yam tsawg kev siv zog thiab tshuaj. Ua ntej, tus neeg ua teb hauv tsev yuav tsum lees txais ib qhov tseeb -- tsev nyom tshiab uas cog nrog cov nyom xws li perennial ryegrass thiab fine fescue yuav maj mam hloov mus rau bentgrasses thiab annual bluegrasses. Qhov txheej txheem no yog qhov tsis hloov tau los ntawm cov noob uas cua nqa los yog cov uas twb muaj nyob hauv koj av thaum tsev nyom tau cog. Qhov kawg, ib yam hu ua "climax lawn", yog qhov zoo tshaj rau koj thaj chaw. Yog tus neeg ua teb hauv tsev ua raws li cov lus qhia hauv phau ntawv no, climax lawn yuav zoo nkauj, noj qab nyob zoo, thiab ntxim nyiam.  
+### Taw Qhia
 
----
-
-### Kev Txiav Nyom  
-Kev txiav nyom yog qhov tseem ceeb rau kev tswj tsev nyom. Kev txiav nyom kom raug yuav tsum muaj kev teeb tsa siab ntawm tshuab txiav nyom thiab kev txiav nyom raws sijhawm: Txiav siab, thiab txiav ntau zaus!  
-- **Zaus** -- Txiav nyom tsawg kawg ib zaug hauv ib lub lis piam txij lub Peb Hlis txog Lub Kaum Hli thiab ib zaug hauv ib hlis rau lub xyoo seem. Cov nyom uas tso kom qhuav thaum lub caij ntuj sov tsis tas yuav txiav nyom tsis tu ncua.  
-- **Siab txiav nyom** - Teem siab txiav nyom raws li cov nyom tseem ceeb: 1-1.5” rau colonial bentgrass; 1.5-2.5” rau fine fescue, perennial rye thiab Kentucky blue; 2-3” rau tall fescue. Yog koj tsis paub koj muaj yam twg, teem siab txiav nyom rau 2”.  
-- **Cov nyom txiav tawm** – Siv tshuab txiav nyom uas rov muab cov nyom txiav mus rau tsev nyom. Qhov no txo qhov yuav tsum tau ntxiv chiv nitrogen. Cov nyom txiav yuav tsum yog cov mos mos thiab nyias nyias. Cov nyom txiav uas sib tsoo thiab ntub yuav tsum muab sib cais thiab txiav dua lossis muab khaws cia rau hauv lub thoob compost.  
-- **Hniav tshuab txiav nyom** – Khaws kom ntse kom cov nyom txiav zoo thiab tsis txiav.  
-- **Kev nyem av** – Kev taug kev thiab lub log tshuab txiav nyom yuav nyem av. Hloov cov qauv txiav nyom kom txo qhov kev cuam tshuam.  
+Kawm paub txog kev hloov pauv ntuj ntawm nyom hauv tsev yog qhov tseem ceeb rau kev muaj nyom zoo nkauj thiab txo kev ua haujlwm hnyav thiab siv tshuaj lom neeg. Ua ntej, tus neeg ua vaj tsev yuav tsum lees txais ib qhov tseeb: nyom tshiab uas cog nrog hom nyom xws li perennial ryegrass thiab fine fescue yuav maj mam hloov mus rau bentgrasses thiab annual bluegrasses. Qhov no tshwm sim vim cov noob nyom tuaj nrog cua los yog twb nyob hauv av thaum pib cog nyom lawm. Thaum kawg, “climax lawn” yog hom nyom uas haum rau koj qhov chaw. Yog tus neeg ua vaj raws li cov lus qhia hauv daim ntawv no, climax lawn yuav zoo nkauj, noj qab haus huv thiab zoo siab txais tos.
 
 ---
 
-### Kev Siv Chiv  
-Ib tsev nyom noj qab nyob zoo yuav tsum tau pub zaub mov tsawg kawg 2 txog 4 zaug hauv ib xyoos. Chiv pab txhawb kev loj hlob thiab kev noj qab nyob zoo ntawm cov nyom kom lawv muaj peev xwm sib tw nrog cov nroj tsuag phem.  
-- **Kev xav tau ntawm cov nyom** – Perennial ryegrass xav tau nitrogen ntau tshaj; tall fescue muaj kev xav tau nruab nrab; thiab fine fescues thiab bentgrasses ua tau zoo rau nitrogen tsawg.  
-- **Zaus** – Cov nyom tseem ceeb yuav txiav txim siab zaus; perennial rye xav tau 2 txog 4 zaug ntawm nitrogen hauv ib xyoos, tall fescue thiab fine fescue xav tau 1 txog 3 zaug hauv ib xyoos, thiab climax lawn yuav tsum tau pub chiv 2 zaug hauv ib xyoos.  
-- **Sijhawm** – Yog koj pub chiv ob zaug hauv ib xyoos, ua ib zaug hauv nruab nrab lub Tsib Hlis thiab dua ib zaug ntawm nruab nrab lub Cuaj Hli txog nruab nrab lub Kaum Hli. Yog koj pub chiv 4 zaug hauv ib xyoos, ua thawj zaug hauv lub Plaub Hlis, zaum ob hauv lub Tsib Hlis-Lub Rau Hli, zaum peb hauv Lub Yim Hli-Lub Cuaj Hli, thiab zaum kawg hauv Lub Kaum Hli.  
-- **Cov ntsiab lus chiv (N-P-K)** – Cov chiv tsev nyom yuav tsum muaj nitrogen (N) ntau thiab phosphorus (P) thiab potassium (K) tsawg. Hauv peb cheeb tsam, P feem ntau tsis txaus, yog li, tsuas yog muaj kev tshuaj xyuas av qhia tias xav tau, ntxiv cov khoom uas muaj N thiab K xwb.  
-- **Kev xaiv chiv** – Thaum yuav chiv, nrhiav cov khoom uas muaj ib feem sib npaug ntawm dej-soluble (nyob rau hauv kev tso tawm sai) thiab dej-insoluble (nyob rau hauv kev tso tawm qeeb) nitrogen, uas yuav raug sau npe hauv daim ntawv chiv.  
-- **Dej-soluble nitrogen** – Cov dej-soluble nitrogen muab cov txiaj ntsig sai, thaum cov dej-insoluble nitrogen ua haujlwm tsis tu ncua. Cov khoom uas muaj ob hom nitrogen no yuav muab kev loj hlob sib npaug.  
-- **Kev siv chiv organic** – Yog koj xaiv siv chiv organic, feather meal lossis corn gluten meal yog cov khoom siv nitrogen zoo; cov chiv organic yog cov qauv ntawm cov khoom tso tawm qeeb.  
-- **Kev pub chiv** – Siv chiv ntawm 0.5 txog 1.5 phaus ntawm N rau 1,000 square feet, nyob ntawm cov nyom noj qab nyob zoo. Cov nyom zoo nkauj yuav ua tau ntawm qhov tsawg kawg, thaum cov nyom npub thiab daj yuav tsum tau txais qhov siab kawg.  
+### Kev Txiav Nyom
+
+Kev txiav nyom yog ib feem tseem ceeb ntawm kev tswj nyom hauv tsev. Txiav kom raug txhais tau tias yuav tsum tso tshuab txiav nyom rau qhov siab kom raug thiab txiav raws sijhawm: **Txiav siab, thiab txiav ntau zaus!**
+
+- **Zaus**  
+  Txiav nyom tsawg kawg ib zaug ib asthiv txij lub Peb Hlis mus txog Lub Kaum Hli, thiab ib zaug ib hlis rau lub caij tshuav. Nyom uas cia kom pw tsaug zog hauv lub caij ntuj sov tsis tas txiav li.
+
+- **Qhov siab txiav**  
+  Tso qhov siab txiav raws hom nyom ntau tshaj hauv koj nyom:  
+  - 1–1.5” rau colonial bentgrass  
+  - 1.5–2.5” rau fine fescue, perennial rye, thiab Kentucky blue  
+  - 2–3” rau tall fescue  
+  Yog koj tsis paub koj muaj hom nyom dab tsi, tso qhov siab txiav 2”.
+
+- **Grass clippings**  
+  Siv tshuab txiav nyom uas tuaj yeem ua kom nyom rov qab rau hauv av. Qhov no pab txo qhov xav tau chiv nitrogen ntxiv. Zoo tshaj, cov nyom txiav yuav tsum yog nyias nyias, txiav kom me me. Nyom txiav uas ua pawg los yog ntub yuav tsum muab faib thiab txiav dua, lossis khawb pov rau hauv daim compost.
+
+- **Hniav tshuab txiav nyom**  
+  Khaws kom ntse kom txiav nyom kom huv, tsis txhob txiav nphau.
+
+- **Av tuab**  
+  Kev taug kev thiab log tshuab txiav nyom ua rau av tuab. Hloov kev txiav nyom kom txo qhov no.
 
 ---
 
-### Kev Tso Dej  
-Kev tso dej luv luv thiab ntau zaus yog qhov zoo tshaj. Cov av nplaum xav tau kev tso dej luv luv thiab ntau zaus kom dej tsaws cov cag thaum zam qhov dej txhawv, thaum cov av xuab zeb xav tau kev tso dej luv luv thiab ntau zaus kom hloov cov dej me me uas nws muaj peev xwm khaws tau. Kev nchuav dej yog lwm yam tseem ceeb cuam tshuam txog kev tso dej: Tso dej ntau thaum huab cua kub.  
-- **Kev hloov pauv caij nyoog** – Vim kev tso dej hauv tsev yog ntxiv rau dej nag, kev tso dej xav tau hloov pauv nrog kev nag. Tua koj lub tshuab tso dej thaum lub caij ntuj no.  
-- **Zaus tso dej** – Thaum lub caij nplooj ntoos hlav/thaum ntxov lub caij ntuj sov thaum kub tseem nruab nrab thiab nchuav dej tsawg, tso dej ¼” ob mus rau peb zaug hauv ib lub lis piam (txhais tau rau ½ txog ¾ inch hauv ib lub lis piam). Ntxiv cov hnub tso dej lossis kev tso dej thaum kub thiab kev xav tau dej nce. Siv cov thoob ntim tuna lossis rain gauges los ntsuas qhov tob ntawm kev tso dej, npaj rau ¼” rau ib zaug.  
-- **Lub caij kub kub heev** – Thaum lub caij kub kub thiab kev qhuav heev hauv Willamette Valley, tsev nyom yuav tsum tau txais 1 txog 1 ½” dej ntxiv hauv ib lub lis piam.  
-- **Kev tshuaj xyuas dej** – Nyob nruab nrab ntawm kev tso dej, tshuaj xyuas cov av kom paub tias dej puas txaus los ntawm kev siv rab ntsia hlau ntxig rau hauv tsev nyom; yog av tawv thiab qhuav, ntxiv kev tso dej rau hauv koj cov kev pab cuam. Tso dej thaum ntxov sawv ntxov kom txo qhov poob dej rau kev nchuav.  
-- **Kev txuag dej** – Koj tuaj yeem tso tsev nyom kom daj thaum lub caij ntuj sov; feem ntau cov nyom yuav ciaj sia thiab rov ntsuab dua thaum lub caij nplooj zeeg los nag. Kev qhuav ntev ntev yuav tua cov cag shallow thiab ua rau cov nyom raug kev txom nyem los ntawm cov nroj tsuag phem. Kev tso dej kom txaus ib zaug hauv ib hlis yuav txo kev puas tsuaj rau cag thiab pab kev rov zoo thaum lub caij nplooj zeeg.  
+### Kev Ntxiv Chiv
+
+Nyom noj qab haus huv yuav tsum tau chiv 2 txog 4 zaug ib xyoos. Chiv pab kom nyom muaj zog thiab noj qab haus huv kom lawv yeej tau cov nroj tsuag phem.
+
+- **Yuav tau raws hom nyom**  
+  - Perennial ryegrass xav tau nitrogen tshaj plaws.  
+  - Tall fescue nyob nruab nrab.  
+  - Fine fescues thiab bentgrasses xav tau nitrogen tsawg xwb.
+
+- **Zaus**  
+  Hom nyom uas muaj ntau tshaj txiav txim siab zaus:  
+  - Perennial rye xav tau chiv nitrogen 2 txog 4 zaug ib xyoos.  
+  - Tall fescue thiab fine fescue xav tau 1 txog 3 zaug ib xyoos.  
+  - Climax lawn yuav tsum chiv 2 zaug ib xyoos.
+
+- **Sijhawm**  
+  - Yog tias koj chiv 2 zaug ib xyoos, ua thawj zaug thaum nruab nrab Lub Tsib Hlis thiab ntxiv dua thaum nruab nrab Lub Cuaj Hlis txog nruab nrab Lub Kaum Hli.  
+  - Yog tias koj chiv 4 zaug ib xyoos, thawj zaug nyob rau lub Plaub Hlis, zaum ob Lub Tsib Hlis–Lub Rau Hli, zaum peb Lub Yim Hli–Lub Cuaj Hlis, thiab zaum kawg Lub Kaum Hli.
+
+- **Cov chiv muaj dab tsi (N-P-K)**  
+  Cov chiv rau nyom yuav tsum muaj nitrogen (N) ntau thiab phosphorus (P) thiab potassium (K) tsawg. Hauv peb cheeb tsam, P feem ntau tsis tshaib, yog li yog tsis muaj kev tshuaj ntsuam av ces tsuas ntxiv N thiab K xwb.
+
+- **Xaiv hom chiv**  
+  Saib cov khoom uas muaj nruab nrab ntawm nitrogen uas yaj hauv dej (tso sai) thiab nitrogen uas tsis yaj hauv dej (tso qeeb), uas yuav sau rau ntawm lub thawv chiv.  
+  - Nitrogen yaj hauv dej yuav pom txiaj ntsig sai, hos tshuaj qeeb yuav ua haujlwm ntev.  
+  - Cov khoom uas muaj ob hom nitrogen no yuav pab kom nyom loj zuj zus.
+
+- **Hom chiv ntuj**  
+  Yog koj xav siv chiv ntuj, feather meal los yog corn gluten meal yog cov chaw zoo rau nitrogen. Chiv ntuj feem ntau yog hom qeeb tso.
+
+- **Kev siv chiv**  
+  Ntxiv chiv 0.5 txog 1.5 phaus nitrogen rau 1,000 square feet, nyob ntawm seb nyom muaj kev noj qab haus huv licas. Nyom tuab tuaj yeem siv qhov tsawg, hos nyom nyias thiab daj yuav tsum tau siv qhov siab. Hloov tus chiv raws li qhov concentration ntawm N sau rau ntawm lub thawv. Piv txwv, yog chiv muaj 20% nitrogen (piv txwv, 20-x-y sau rau ntawm thawv), koj yuav siv 5 phaus chiv kom tau 1 phaus nitrogen.
 
 ---
 
-### Kev Tshem Cov Nroj Tsuag Phem  
-Ua tib zoo tshem cov nroj tsuag phem loj uas muaj cag tob, xws li dandelions, thiab xav txog kev zam cov me me xws li clover thiab English daisy. Yog koj muaj co
+### Kev Tsuag Dej
+
+Kev tsuag dej kom luv, thiab tsuag ntau zaus yog txoj kev zoo. Av nplaum yuav tsum tau tsuag luv thiab ntau zaus kom dej mus txog cag tab sis tsis muaj dej khiav, hos av xuab zeb yuav tsum tau tsuag luv kom hloov dej tshiab. Kev yaj ntawm dej kuj yog ib qhov tseem ceeb: tsuag dej ntau dua thaum huab cua kub.
+
+- **Hloov pauv raws caij nyoog**  
+  Vim kev tsuag dej hauv tsev yog los pab ntxiv rau nag, qhov xav tau dej yuav hloov raws nag. Tua koj lub tshuab tsuag dej thaum caij ntuj no.
+
+- **Zaus**  
+  - Caij nplooj ntoos hlav/lub caij ntuj sov thaum huab cua tsis tau kub thiab dej tsis yaj ntau, tsuag ¼” ob los yog peb zaug ib asthiv (tag nrho ½ txog ¾ nti ib asthiv).  
+  - Ntxiv hnub tsuag lossis zaus raws li huab cua kub thiab xav tau dej ntau. Siv lub thawv tuna los yog rain gauge los ntsuas qhov tob ntawm dej, xav kom tau ¼” ib zaus.  
+  - Thaum caij qhuav tshaj plaws hauv Willamette Valley, nyom yuav tsum tau txais 1 txog 1½ nti dej ntxiv ib asthiv.
+
+- **Tswv yim**  
+  - Nyob nruab nrab ntawm kev tsuag dej, saib av dej los ntawm kev muab rab ntsia hlau txhaws rau hauv nyom; yog av tawv thiab qhuav, ces ntxiv zaus tsuag rau koj qhov kev pab cuam.  
+  - Tsuag dej thaum ntxov sawv ntxov kom txo qhov dej yaj.
+
+- **Kev txuag dej**  
+  Koj tuaj yeem cia nyom tig daj thaum caij ntuj sov; feem ntau nyom yuav ciaj sia thiab rov ntsuab thaum los nag caij nplooj zeeg. Tab sis yog qhuav ntev, nyom cag yuav tuag thiab nyom yuav raug nroj tsuag phem. Tsuag dej kom puv ib zaug ib hlis yuav pab txo kev piam sij rau cag thiab pab kom rov loj hlob sai thaum caij nplooj zeeg.
+
+---
+
+### Kev Rho Nroj Tsuag Phem
+
+Ua tib zoo tshem cov nroj tsuag phem loj nrog cag tob, xws li dandelion, thiab xav txog kev tso cai rau cov me me xws li clover thiab English daisy. Yog koj muaj nroj tsuag phem hauv nyom, rho tawm los ntawm tes lossis siv tshuaj tua nroj tsuag phem rau qhov chaw ntawd xwb. Sau cov chaw dawb nrog compost thiab cog nyom ntxiv. Yog koj tsis muab noob nyom rau, qhov chaw ntawd yuav rov muaj nroj tsuag phem dua. Txoj kev no yuav pab txuag sijhawm, nyiaj, thiab txo kev siv tshuaj lom neeg tsis tsim nyog.
+
+---
+
+### Kev Tshem Thatch
+
+Thatch yog txheej nyias ntawm ceg nyom thiab cag, qee qhov tseem muaj sia, qee qhov tuag lawm, uas tsim tawm nt

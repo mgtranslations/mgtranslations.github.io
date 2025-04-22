@@ -1,59 +1,83 @@
-10-Minute University™  
-Hiệp hội Làm vườn Bậc thầy Oregon™ – Chi nhánh Quận Clackamas  
-Hợp tác với Dịch vụ Khuyến nông Đại học Bang Oregon  
+#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Oregon™ – Chi nhánh Quận Clackamas · Phối hợp cùng Dịch vụ Khuyến nông Đại học Bang Oregon
 
-### Làm vườn với trẻ em từ 11-14 tuổi  
+# Làm Vườn Cùng Trẻ Em Từ 11-14 Tuổi
 
-Làm vườn với trẻ em từ 11 đến 14 tuổi có thể rất thú vị và bổ ích cho cả trẻ em lẫn người lớn. Nó giúp trẻ tránh xa máy tính và thời gian sử dụng màn hình, đồng thời kích thích trí tưởng tượng, từ đó giảm căng thẳng và lo âu. Trẻ em ở độ tuổi này đã sẵn sàng về thể chất để thực hiện các công việc làm vườn phức tạp hơn và sẽ thích khám phá các cấu trúc trong vườn như xây dựng giàn trồng cây hoặc luống trồng nâng cao để tiết kiệm không gian hoặc cung cấp ánh sáng mặt trời và đất tốt hơn. Những hoạt động này mang lại cảm giác tự lập mạnh mẽ cho trẻ em.  
+Làm vườn cùng trẻ em từ 11 đến 14 tuổi có thể rất thú vị và bổ ích cho cả trẻ em lẫn người lớn. Việc này giúp các em rời xa máy tính và thời gian trước màn hình, khơi gợi trí tưởng tượng và giảm căng thẳng, lo âu. Trẻ ở độ tuổi này đã sẵn sàng về thể chất để làm những công việc làm vườn lớn hơn và sẽ thích khám phá các công trình trong vườn, như xây dựng giàn leo hoặc luống vườn nâng. Những hoạt động này tiết kiệm diện tích, mang lại ánh sáng mặt trời và đất tốt hơn, đồng thời giúp các em cảm thấy tự tin và làm chủ.
 
-Trẻ em từ 11 đến 14 tuổi có thể lập kế hoạch, dự đoán nguyên nhân và kết quả, cũng như quan sát và dự đoán kết quả. Làm vườn giúp phát triển kỹ năng học tập, lập kế hoạch, giải quyết vấn đề và trách nhiệm. Đây là những kỹ năng suốt đời cần thiết trong mọi khía cạnh của cuộc sống trẻ em. Tìm hiểu về sự phụ thuộc lẫn nhau giữa thực vật và động vật rất thú vị đối với nhóm tuổi này. Làm thế nào côn trùng, động vật lưỡng cư, thực vật và các động vật trong vườn khác như chuột chũi, chuột đồng và chuột nhắt tương tác với nhau là yếu tố quan trọng để làm vườn thành công. Việc giảm sử dụng thuốc trừ sâu và thuốc diệt cỏ làm gián đoạn các quy trình tự nhiên là điều quan trọng, và việc học cách đất, nước và phân hữu cơ đóng góp vào một khu vườn màu mỡ cần được quan sát để có sự hiểu biết rõ ràng.  
+Trẻ trong nhóm tuổi này có thể lên kế hoạch, dự đoán nguyên nhân – kết quả, quan sát và tiên đoán các kết quả. Làm vườn giúp xây dựng các kỹ năng học tập, lập kế hoạch, giải quyết vấn đề và trách nhiệm – những kỹ năng cần thiết suốt đời trong mọi lĩnh vực. Việc tìm hiểu về sự phụ thuộc lẫn nhau giữa thực vật và động vật đặc biệt hấp dẫn với lứa tuổi này. Hiểu được cách côn trùng, lưỡng cư, thực vật và các động vật khác trong vườn như chuột chũi, chuột đồng, chuột túi tương tác với nhau là chìa khóa để làm vườn thành công. Giảm sử dụng thuốc trừ sâu và diệt cỏ làm gián đoạn quá trình tự nhiên, đồng thời tìm hiểu cách đất, nước và phân hữu cơ góp phần tạo nên khu vườn màu mỡ là những bài học rất quan trọng.
 
-### Một số hoạt động  
+---
 
-#### Xây dựng luống rau nâng cao  
-Lập kế hoạch và thiết kế một luống để trồng rau là cách tuyệt vời để trẻ em hiểu được sự cần thiết của ánh sáng mặt trời đầy đủ, nguồn nước và cấu trúc đất cần thiết để trồng rau. Trẻ cũng cần lập kế hoạch cho việc trồng cây để sử dụng không gian tốt nhất và phối hợp thời gian trồng cây.  
-- [Làm vườn rau tại Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)  
-- [Làm vườn với luống nâng cao](https://catalog.extension.oregonstate.edu/fs270)  
+## Một Số Hoạt Động
 
-#### Xây dựng vườn mưa  
-Hoạt động này có thể đơn giản hoặc phức tạp nhưng là cơ hội tuyệt vời để trẻ em học về tầm quan trọng của nước sạch và cách đóng góp vào môi trường sạch. Có rất nhiều tài nguyên trực tuyến giúp bạn quyết định loại vườn mưa phù hợp nhất với sân nhà bạn.  
+### Xây Luống Rau Nâng
 
-Hãy đọc các cuốn sách mô tả cách thực vật giữ cấu trúc đất, làm chậm dòng nước, giữ lại chất dinh dưỡng và lọc chất ô nhiễm. Nghiên cứu về loại thực vật phát triển và thích nghi ở vùng đất ngập nước hoặc không gian ẩm ướt theo mùa. Những loại thực vật nào là loài có lợi cho vườn mưa? Thư viện công cộng và nhân viên của họ có thể giúp bạn tìm kiếm các tựa sách phù hợp với nghiên cứu của bạn. Một số tài nguyên được đề xuất:  
-- [Bài viết PDF về vườn mưa tại Oregon](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)  
-- [Hướng dẫn về vườn mưa của thành phố Portland](https://www.portlandoregon.gov/bes/article/188636)  
+Lên kế hoạch và thiết kế một luống để trồng rau là cách tuyệt vời để trẻ hiểu được tầm quan trọng của ánh sáng mặt trời đầy đủ, nguồn nước và cấu trúc đất cần thiết để trồng rau. Các em cũng sẽ cần lên kế hoạch trồng loại rau gì để sử dụng không gian hiệu quả nhất và phối hợp thời gian trồng hợp lý.
 
-#### Xây dựng môi trường sống cho động vật lưỡng cư  
-Dự án này có thể thực hiện trong một vườn mưa hoặc nếu bạn có đủ không gian, bạn có thể tạo một hồ nhỏ ở khu vực bóng râm, ẩm ướt trong một khu vườn hiện có. Khuyến khích hoạt động của động vật lưỡng cư có lợi cho khu vườn vì chúng là loài săn mồi của nhiều loại côn trùng có thể gây hại cho cây cảnh và rau.  
+- [Làm Vườn Rau ở Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
+- [Làm Vườn trên Luống Nâng](https://catalog.extension.oregonstate.edu/fs270)
 
-Một số loài ếch và kỳ giông đa dạng là loài bản địa của Oregon. Chúng cần bóng râm, lỗ hổng, khe nứt hoặc không gian được che phủ tùy thuộc vào loài. Vỏ cây, chậu cũ, que, đá các loại, rêu và các vật liệu tự nhiên khác là những vật liệu có thể sử dụng cho dự án. Một số tài nguyên được đề xuất:  
-- Landscaping for Wildlife in the Pacific Northwest by Russell Link  
-- Attracting Amphibians by the National Wildlife Federation  
-- [Thu hút động vật lưỡng cư đến sân nhà bạn](https://www.google.com/search?q=why+are+amphibians+beneficial+to+the+garden+in+oregon%3Aedu&rlz=1C1PRFC_enUS734US734&oq=why+are+amphibians+be)  
+### Xây Dựng Vườn Mưa
 
-#### Hỗ trợ đa dạng sinh học  
-Xây dựng hộp môi trường sống cho nhiều loài địa phương. Tầm quan trọng của chim ruồi, chim di cư và dơi trong không gian vườn là gì? Còn ong thợ mason thì sao?  
+Hoạt động này có thể đơn giản hoặc phức tạp nhưng mang lại cơ hội tuyệt vời để trẻ học về tầm quan trọng của nước sạch và cách góp phần bảo vệ môi trường trong lành.
 
-Trẻ em có thể xây dựng những hộp môi trường sống được thiết kế tốt và tăng cơ hội môi trường sống cho các loài địa phương. “All About Birdhouses” từ NestWatch thuộc Cornell Lab of Ornithology có thể hữu ích cho nghiên cứu của bạn, nhưng có rất nhiều thông tin về nhà chim cho các loài cụ thể cũng như thiết kế và vị trí hộp dơi trực tuyến hoặc tại thư viện địa phương. Nếu trẻ em quan tâm đến ong thợ mason, tài liệu của Khuyến nông OSU “Nurturing Mason Bees in Western Oregon” sẽ rất hữu ích.  
+- Đọc sách mô tả cách thực vật giữ cấu trúc đất, làm chậm dòng nước, giữ lại chất dinh dưỡng và lọc chất ô nhiễm.
+- Tìm hiểu về các loại cây phát triển tốt ở vùng đất ngập nước hoặc khu vực ẩm ướt theo mùa. Những loài cây nào có ích cho vườn mưa?
 
-Những khám phá về môi trường sống này có thể dẫn đến suy nghĩ về các loại cây thu hút loài thụ phấn. Liên kết sau đây sẽ hướng dẫn bạn trồng các loài thu hút chim và côn trùng đến khu vườn:  
-- [Xây dựng hộp làm tổ cho chim hoang dã](https://catalog.extension.oregonstate.edu/ec1556)  
+Tài nguyên gợi ý:
+- [Vườn Mưa ở Oregon (PDF)](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
+- [Hướng Dẫn Vườn Mưa Thành Phố Portland](https://www.portlandoregon.gov/bes/article/188636)
 
-### Thêm vào hoạt động đọc sách  
-Có rất nhiều sách tranh và sách hướng dẫn về làm vườn mà trẻ em sẽ yêu thích trước khi bắt đầu và trong lúc làm việc trong vườn. Đọc to cho trẻ nghe mời gọi sự tò mò và có thể là khởi đầu cho kế hoạch làm vườn. Thủ thư địa phương sẽ vui lòng giúp bạn tìm một số tài nguyên mà cả bạn và trẻ sẽ thích.  
-- “Up in the Garden and Down in the Dirt” của Kate Messner  
-- “The Ugly Vegetables” của Grace Lin  
-- “In A Garden” của Tim McCanna  
-- “I Am a Farmer” của Baptiste và Miranda Paul  
-- “Harlem Grown” của Tony Hillery  
-- “A Green Place to Be” của Ashley Yazdani  
-- “Let’s Build a Rain Garden” của Sally Wenczel  
-- “Rain Gardens: Managing Water Sustainably in The Garden and Designed Landscape” của Nigel Dunnett và Andy Clayden  
+### Xây Dựng Môi Trường Sống Cho Lưỡng Cư
 
-### Tài nguyên từ Đại học Bang Oregon  
-- [Hướng dẫn Giáo dục về Làm vườn rau](https://catalog.extension.oregonstate.edu/em9032)  
+Dự án này có thể thực hiện trong vườn mưa hoặc nếu bạn có đủ diện tích, có thể tạo một ao nhỏ ở khu vực râm mát, ẩm ướt trong vườn hiện có. Khuyến khích hoạt động của lưỡng cư rất có lợi cho vườn vì chúng là loài ăn thịt nhiều côn trùng gây hại cho cây cảnh và rau củ.
 
-### Lời khuyên từ Master Gardener™  
-- Gọi đến đường dây nóng về Làm vườn tại nhà: 503-655-8631 (Quận Clackamas), 503-821-1150 (Quận Washington), 503-445-4608 (Quận Multnomah).  
-- Để biết tài liệu và lịch học của 10-Minute University™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+Có nhiều loài ếch và kỳ giông bản địa ở Oregon. Chúng cần bóng râm, lỗ, khe hở hoặc những nơi được che phủ tùy theo từng loài. Các vật liệu như vỏ cây, chậu cũ, cành cây, các loại đá, rêu và những vật liệu tự nhiên khác đều có thể sử dụng.
 
-Dịch vụ Khuyến nông Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm biểu hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì hoạt động dân quyền trước đây. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình).  
+Tài nguyên gợi ý:
+- *Làm Vườn Cho Động Vật Hoang Dã ở Tây Bắc Thái Bình Dương* của Russell Link
+- *Thu Hút Lưỡng Cư* của National Wildlife Federation
+- [Thu Hút Bò Sát và Lưỡng Cư đến Sân Vườn của Bạn](https://www.google.com/search?q=why+are+amphibians+beneficial+to+the+garden+in+oregon%3Aedu)
+
+### Hỗ Trợ Đa Dạng Sinh Học
+
+Làm các hộp trú ẩn cho nhiều loài động vật địa phương. Khám phá tầm quan trọng của chim ruồi, chim di cư, dơi và ong mason trong khu vườn.
+
+Trẻ có thể xây các hộp trú ẩn chắc chắn, hữu ích để tăng cơ hội sinh sống cho các loài địa phương. Tài nguyên như “Tất Cả Về Nhà Chim” của NestWatch (Cornell Lab of Ornithology) có thể hữu ích. Ngoài ra còn rất nhiều thông tin trực tuyến hoặc tại thư viện địa phương về nhà chim cho từng loài cụ thể, cũng như thiết kế và vị trí đặt nhà dơi.
+
+Nếu trẻ quan tâm đến ong mason, ấn phẩm [Chăm Sóc Ong Mason ở Tây Oregon](https://catalog.extension.oregonstate.edu/em9130) của OSU Extension sẽ hữu ích. Việc khám phá môi trường sống này cũng có thể dẫn đến những ý tưởng về các loại cây thu hút côn trùng thụ phấn.
+
+Tài nguyên gợi ý:
+- [Xây Dựng Hộp Làm Tổ cho Chim Hoang Dã](https://catalog.extension.oregonstate.edu/ec1556)
+
+---
+
+## Tăng Cường Khả Năng Đọc Hiểu
+
+Có rất nhiều sách tranh và sách hướng dẫn tuyệt vời về làm vườn mà trẻ sẽ yêu thích trước khi bắt đầu và trong khi làm vườn. Đọc to cho trẻ nghe giúp các em đặt ra nhiều câu hỏi hơn và có thể là nguồn cảm hứng cho các kế hoạch làm vườn. Thủ thư địa phương có thể giúp bạn tìm những tài liệu phù hợp mà cả bạn và trẻ đều thích.
+
+### Sách Gợi Ý
+
+- *Trên Vườn và Dưới Lớp Đất* của Kate Messner
+- *Rau Xấu Xí* của Grace Lin
+- *Trong Một Khu Vườn* của Tim McCanna
+- *Tôi Là Người Nông Dân* của Baptiste và Miranda Paul
+- *Nông Trại Harlem* của Tony Hillery
+- *Một Nơi Xanh Để Ở* của Ashley Yazdani
+- *Cùng Xây Dựng Vườn Mưa* của Sally Wenczel
+- *Vườn Mưa: Quản Lý Nước Bền Vững Trong Vườn Và Cảnh Quan Thiết Kế* của Nigel Dunnett và Andy Clayden
+
+---
+
+## Tài Nguyên Đại học Bang Oregon
+
+- [Hướng Dẫn Giáo Viên Làm Vườn Rau](https://catalog.extension.oregonstate.edu/em9032)
+
+---
+
+#### Tư Vấn Làm Vườn Chuyên Gia™ · Gọi Đường Dây Trợ Giúp Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Dịch vụ Khuyến nông Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm cả thể hiện giới tính), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
+---

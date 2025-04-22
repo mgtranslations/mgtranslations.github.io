@@ -1,39 +1,156 @@
-# Universidade de 10 Minutos™  
-A Associação de Jardineiros Mestres do Condado de Clackamas, em colaboração e apoio ao Programa de Jardineiros Mestres™ da Extensão da OSU  
+#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
 
-## Cultivo de Raízes - Especificações  
+---
 
-### Cultivo de Bulbos  
-**Plantar Alhos**  
-De agosto a outubro é o período ideal. Divida o bulbo em dentes individuais. Plante a 3” de profundidade, 6” de distância, com a ponta para cima. Regue até as chuvas de inverno começarem ou durante períodos de seca. Mantenha os canteiros livres de ervas daninhas. Fertilize no meio da temporada com um fertilizante equilibrado. Os brotos de alho (botões florais) podem ser colhidos e consumidos no meio do verão. Reduza a irrigação no final de julho. As folhas começarão a secar e ficar marrons em meados de agosto. Use um garfo de jardim para soltar suavemente as raízes e puxar a planta com cuidado. Deixe o alho em um local fresco e seco por algumas semanas. Corte as folhas e as raízes.  
+## Especificidades do Cultivo de Hortaliças de Raiz
 
-**Plantar Cebolas**  
-Plante os bulbos em março, quando está fresco. Plante a 2-3” de distância, com a ponta para cima. As plantas preferem condições úmidas e frescas no início do desenvolvimento. Conforme desenvolvem, o desbaste promove cebolas maiores. Fertilize no meio da temporada com um fertilizante equilibrado. As cebolas em desenvolvimento gostam de condições quentes e secas. Colha quando as folhas verdes tombarem e começarem a ficar marrons. Reduza a irrigação nesse ponto. Use um garfo de jardim para soltar suavemente as raízes e puxar. Remova o solo e deixe as cebolas elevadas em um local fresco e seco por uma ou duas semanas. Corte as folhas e as raízes.  
+### Cultivo de Bulbos
 
-**Cultivo de Alho-Poró**  
-Cultive a partir de sementes, começando no final de fevereiro ou início de março (8-10 semanas antes da última geada), em bandejas rasas com mistura de solo para mudas. Após a germinação, as mudas podem ser transferidas para uma estufa fria para desenvolvimento. Após o risco de geada, plante as mudas em buracos de 6” de profundidade, com 8-10” de distância entre elas. Não preencha o buraco com terra; permita que o solo o preencha gradualmente com regas suaves. Compostagem ou cobertura morta pode ser adicionada quando as plantas estiverem crescendo ativamente. Enterrar profundamente ajuda a branquear os talos e a torná-los macios. Forneça umidade consistente à zona das raízes e aplique fertilizante multifuncional no meio da temporada de crescimento. O alho-poró pode ser colhido em qualquer fase de desenvolvimento. Use um garfo de jardim, 4” da base, para soltar o solo e puxar as plantas uma a uma. Corte as raízes e as folhas a 5” acima do caule branco/verde claro com forma de seta na ponta. A parte comestível é chamada de “talo”, composta por camadas de caules carnudos. Essa estrutura e padrão de crescimento o caracterizam como bulbo.  
+#### Alho
 
-### Cultivo de Rizomas  
-**Gengibre ou Cúrcuma**  
-Podem ser propagados a partir de pedaços saudáveis e carnudos de gengibre ou cúrcuma. Corte o rizoma em pedaços de 1 a 1½ polegadas e deixe-os cicatrizar por alguns dias. Os rizomas podem ter sido tratados com retardador de crescimento; nesse caso, deixe-os de molho em água durante a noite. Plante os rizomas em março, com os nós de crescimento voltados para cima, 2-4” de distância, e cubra com 3” de terra em um vaso. Mantenha as plantas em desenvolvimento em condições quentes e úmidas, imitando seu ambiente tropical de origem. Os rizomas podem desenvolver raízes, ramificar para criar novas mudas e produzir brotos. A planta pode ser levada para fora ou transplantada para um jardim em junho. O rizoma crescerá horizontalmente no vaso ou jardim durante o verão, mas deve ser colhido ou levado para dentro antes da geada. As plantas de gengibre crescem cerca de 2 a 3 pés de altura. A colheita pode ser parcial ou da planta inteira. Use um garfo de jardim para soltar suavemente o rizoma/raízes, quebre uma porção do rizoma e retire as folhas. Armazene o rizoma no freezer ou na geladeira. As folhas podem ser secas para chá.  
+- **Plantio:**
+  - Plante os bulbos de alho de agosto a outubro para melhores resultados.
+  - Separe o bulbo em dentes individuais.
+  - Plante os dentes a 8 cm de profundidade, 15 cm de distância, com a ponta para cima.
+- **Cuidados:**
+  - Regue até começarem as chuvas de inverno ou em períodos de seca.
+  - Mantenha os canteiros livres de ervas daninhas.
+  - Adube no meio da estação com fertilizante balanceado.
+- **Colheita:**
+  - As flores do alho (cabeças florais) podem ser colhidas e comidas no meio do verão.
+  - Reduza a irrigação no fim de julho.
+  - As folhas começam a secar e amarelar em meados de agosto.
+  - Use um garfo de jardim para soltar suavemente as raízes e puxar a planta.
+  - Deixe o alho secar em local fresco e seco por algumas semanas.
+  - Apare as folhas e corte as raízes.
 
-### Cultivo de Raízes Pivotantes  
-**Cenouras, Rabanetes, Beterrabas e Pastinacas**  
-São culturas de clima fresco, ou seja, podem ser plantadas no início da primavera, quando o solo está a cerca de 40 graus, ou no final do verão para colheita no outono. Plante e espaçe as sementes conforme as instruções do pacote. Mantenha o solo uniformemente úmido, especialmente durante a germinação, e regue consistentemente durante a estação de crescimento. Desbastar mudas jovens é essencial para o desenvolvimento das raízes (conforme o pacote de sementes). Colher raízes jovens ajuda nesse processo. As pastinacas precisam de fertilizante rico em nitrogênio no meio da temporada. Outras culturas devem ser fertilizadas moderadamente, com ênfase em fósforo e potássio. O tempo de colheita depende da variedade: rabanetes ficam prontos em 21-35 dias, beterrabas em 50-65 dias, cenouras em 65-90 dias (220 dias se passarem o inverno) e pastinacas em 100 dias antes que o calor do verão comece. Para colher, puxe suavemente pela base das folhas e levante. Lave o solo e armazene em uma geladeira fresca e úmida.  
+#### Cebolas
 
-### Cultivo de Raízes Tuberosas  
-**Batata-Doce**  
-São cultivadas a partir de “mudas” que se transformam em plantas vigorosas de videira. No início de abril, coloque uma batata-doce em uma caixa de papelão com areia úmida, cubra com 2” de areia e feche a tampa. Deixe em um local quente e verifique se há brotos. Uma boa muda de batata-doce deve ser firme, verde e medir de 8 a 12”, preferencialmente com uma ou duas folhas. Plante as mudas com a extremidade cortada voltada para baixo, a 4-5” de profundidade e 9-15” de distância. As fileiras devem estar separadas por 3-4 pés. Regue imediatamente após o transplante para promover o enraizamento das mudas. Mantenha a umidade do solo uniforme. As variedades de batata-doce têm diferentes períodos de maturação, geralmente entre 90 e 120 dias. A colheita deve ocorrer no final do verão ou início do outono, antes que a temperatura do solo caia abaixo de 60°F. A colheita e o armazenamento são semelhantes aos das batatas.  
+- **Plantio:**
+  - Plante mudas de cebola em março, quando está mais fresco.
+  - Plante a 5–8 cm de distância, ponta para cima.
+- **Cuidados:**
+  - Condições úmidas e frescas são melhores no início do desenvolvimento.
+  - Faça o desbaste das plantas para formar cebolas maiores.
+  - Adube no meio da estação com fertilizante balanceado.
+  - As cebolas em desenvolvimento preferem clima quente e seco.
+- **Colheita:**
+  - Colha quando as folhas verdes caírem e começarem a amarelar.
+  - Reduza a irrigação nesse momento.
+  - Use um garfo de jardim para soltar suavemente as raízes e puxar.
+  - Retire o excesso de terra e deixe as cebolas elevadas em local fresco e seco por 1–2 semanas.
+  - Corte as folhas e as raízes.
 
-### Cultivo de Tubérculos  
-**Batatas**  
-Plante no final de março ou início de abril. Para prepará-las, corte batatas grandes em pedaços de cerca de 2 onças, cada um com 2-3 olhos (brotos dormentes), e deixe-os secar ao ar por alguns dias para cicatrizar. Em solo solto e bem drenado, cave buracos de 2 pés de profundidade, 12” de largura e 3’ de distância. Coloque o pedaço de batata no buraco e cubra com 4-6” de terra. Se o solo do jardim for duro, cave buracos rasos de 6” com base e laterais soltas e cubra com 4-6” de terra. Quando os brotos emergirem com folhagem em 3-4 semanas, adicione 12” de uma mistura de solo, composto ou feno para cobrir. Repita pelo menos mais uma vez para estimular a formação de tubérculos. Variedades precoces podem ser colhidas em 9-12 semanas e variedades tardias em 14-17 semanas, sempre após as plantas florescerem. Para colher, use um garfo para soltar o solo pelo menos 6” da planta; cavar e procurar com as mãos é outra técnica. Remova o solo (não lave) e armazene em local fresco e seco.  
+#### Alho-poró
 
-## Recursos  
-**Culturas de raízes podem impulsionar seu jardim na primavera**  
-[https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)  
+- **Plantio:**
+  - Comece as sementes em bandejas dentro de casa no fim de fevereiro ou início de março (8–10 semanas antes da última geada), usando solo para mudas.
+  - Após a germinação, transfira as mudas para uma estufa fria para desenvolver.
+  - Depois da ameaça de geada, plante cada muda de alho-poró em um buraco de 15 cm de profundidade, com 20–25 cm de distância entre elas.
+  - Não preencha o buraco com terra; deixe que a terra entre aos poucos com rega suave.
+- **Cuidados:**
+  - Adicione cobertura morta ou composto após as plantas iniciarem o crescimento ativo.
+  - Enterrar mais fundo ajuda a clarear e deixar os talos mais macios.
+  - Mantenha a umidade constante na zona das raízes.
+  - Aplique fertilizante multiuso no meio da estação.
+- **Colheita:**
+  - O alho-poró pode ser colhido em qualquer estágio de desenvolvimento.
+  - Use um garfo de jardim a 10 cm da base para soltar a terra e puxar as plantas uma a uma.
+  - Corte as raízes e apare as folhas a 12 cm acima do caule branco/verde-claro.
+  - A parte comestível, chamada “haste”, é formada por camadas de caules suculentos.
 
-**Raízes, Caules e Bulbos Comestíveis - Extensão da Penn State**  
-[https://extension.psu.edu/edible-roots-stems-and-bulbs](https://extension.psu.edu/edible-roots-stems-and-bulbs)  
+---
 
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar ou parental, renda oriunda de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividades anteriores de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+### Cultivo de Rizomas
+
+#### Gengibre ou Açafrão-da-terra (Cúrcuma)
+
+- **Plantio:**
+  - Propague a partir de um rizoma saudável e firme.
+  - Corte o rizoma em pedaços de 2,5–4 cm e deixe cicatrizar por alguns dias.
+  - Deixe o rizoma de molho durante a noite se tiver sido tratado com inibidor de crescimento.
+  - Plante os rizomas em março, com os brotos voltados para cima, de 5–10 cm de distância, e cubra com 7 cm de substrato em um vaso.
+- **Cuidados:**
+  - Mantenha as plantas em ambiente quente e úmido, imitando o clima tropical.
+  - Transplante para o lado de fora ou para o jardim em junho.
+  - Os rizomas crescem horizontalmente durante o verão, mas devem ser colhidos ou levados para dentro de casa antes da geada.
+- **Colheita:**
+  - As plantas de gengibre chegam a 60–90 cm de altura.
+  - Colha parcialmente ou totalmente usando um garfo de jardim para soltar os rizomas/raízes.
+  - Quebre porções do rizoma e retire as folhas.
+  - Guarde os rizomas no congelador ou na geladeira.
+  - As folhas podem ser secas para chá.
+
+---
+
+### Cultivo de Raízes Pivotantes
+
+#### Cenoura, Rabanete, Beterraba e Pastinaca
+
+- **Plantio:**
+  - Plante as sementes no início da primavera, quando o solo estiver em torno de 4°C, ou no fim do verão para uma colheita no outono.
+  - Siga as instruções do envelope de sementes para espaçamento.
+- **Cuidados:**
+  - Mantenha o solo uniformemente úmido, especialmente durante a germinação.
+  - Regue de forma consistente e profunda durante o crescimento.
+  - Faça o desbaste das mudas para favorecer o desenvolvimento das raízes (conforme o envelope).
+  - Pastinaca precisa de fertilizante rico em nitrogênio no meio da estação; as outras culturas exigem adubação moderada, com ênfase em fósforo e potássio.
+- **Colheita:**
+  - Rabanetes: 21–35 dias.
+  - Beterrabas: 50–65 dias.
+  - Cenouras: 65–90 dias (220 dias se passar o inverno).
+  - Pastinaca: 100 dias antes do calor do verão.
+  - Colha puxando suavemente a base da folhagem para cima.
+  - Lave a terra e armazene na geladeira em local fresco e úmido.
+
+---
+
+### Cultivo de Raízes Tuberosas
+
+#### Batata-doce
+
+- **Plantio:**
+  - Plante a partir de “mudas” no início de abril.
+  - Coloque uma batata-doce em uma caixa de papelão com areia úmida, cubra com 5 cm de areia e deixe em local aquecido.
+  - Verifique se brotou; as mudas devem ser firmes, verdes e ter de 20 a 30 cm de comprimento, com uma ou duas folhas.
+  - Plante as mudas com a ponta cortada para baixo, a 10–13 cm de profundidade e 23–38 cm de distância.
+  - As fileiras devem ficar a 90–120 cm de distância.
+- **Cuidados:**
+  - Regue imediatamente após o transplante para estimular o enraizamento.
+  - Mantenha a umidade do solo constante.
+- **Colheita:**
+  - Batatas-doces amadurecem em 90–120 dias.
+  - Colha do fim do verão ao início do outono, antes que a temperatura do solo caia abaixo de 16°C.
+  - Colha e armazene como batatas comuns.
+
+---
+
+### Cultivo de Tubérculos
+
+#### Batata
+
+- **Plantio:**
+  - Plante no fim de março ou início de abril.
+  - Corte batatas-semente grandes em pedaços de cerca de 60 g, cada um com 2–3 “olhos”; deixe secar por alguns dias para cicatrizar.
+  - Em solo solto e bem drenado, cave buracos de 60 cm de profundidade, 30 cm de largura e 90 cm de distância.
+  - Coloque a batata-semente no buraco e cubra com 10–15 cm de terra.
+  - Em solo duro, faça buracos rasos de 15 cm e afrouxe a base e as laterais. Cubra com 10–15 cm de terra.
+- **Cuidados:**
+  - Quando os brotos surgirem com folhagem, em 3–4 semanas, adicione 30 cm de mistura de terra, composto ou palha para cobrir. Repita pelo menos mais uma vez para incentivar a formação de tubérculos.
+- **Colheita:**
+  - Variedades precoces: 9–12 semanas.
+  - Variedades tardias: 14–17 semanas (após a floração das plantas).
+  - Use um garfo de jardim a pelo menos 15 cm da planta para soltar a terra; cavar e procurar manualmente também é uma técnica.
+  - Retire a terra (não lave) e armazene em local fresco e seco.
+
+---
+
+## Recursos
+
+- [Culturas de raiz podem impulsionar sua horta na primavera](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
+- [Raízes, caules e bulbos comestíveis - Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
+
+---
+
+###### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar ou parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior relacionada a direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

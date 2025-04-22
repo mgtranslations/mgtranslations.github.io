@@ -1,46 +1,61 @@
-# Université en 10 Minutes™  
-L'Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme des Maîtres Jardiniers™ de l'Extension de l'Université d'État de l'Oregon (OSU)  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension de l’OSU
 
-## Gestion des Taupes  
+# Gérer les taupes
 
-### Introduction  
-Les taupes sont des insectivores qui mangent des vers de terre, des larves, des coléoptères et des larves d'insectes. Parfois, elles peuvent goûter aux bulbes, aux cultures racines et aux graines en germination, mais les scientifiques ne s'accordent pas sur ce point.  
+### Introduction
 
-Les taupes vivent dans des sols humides, fertiles et riches en matière organique. Elles passent la majeure partie de leur temps dans des galeries souterraines, ce qui provoque la formation de petites crêtes. Les galeries des taupes forment un vaste réseau interconnecté. Le célèbre "monticule de taupe" est un tas de terre rond et symétrique poussé à la surface lorsque les taupes creusent activement. Le nombre de monticules n'indique pas nécessairement combien de taupes se trouvent dans la zone. Une seule taupe qui envahit activement une nouvelle zone peut construire 3 à 4 nouveaux monticules par jour et produire 30 à 60 monticules en un mois. Les taupes sont également très territoriales et défendent leur territoire contre d'autres taupes. Vous avez donc probablement beaucoup moins de taupes que vous ne le pensez.  
+Les taupes sont des insectivores, elles mangent des vers de terre, des larves, des coléoptères et d’autres insectes. Parfois, elles peuvent goûter aux bulbes, aux racines ou aux graines qui germent, mais les scientifiques ne sont pas tous d’accord à ce sujet.
 
-Les taupes causent des dégâts en déracinant les plantes avec leurs tunnels. Cela pose des problèmes pour maintenir les racines des plantes humides, en particulier dans un potager. Les tunnels de taupes créent également des points d'accès pour les campagnols (également appelés souris des champs) qui mangent la plupart des matériaux végétaux pour lesquels les taupes sont souvent blâmées. Enfin, de nombreux propriétaires trouvent les monticules très inesthétiques, surtout sur les pelouses. Les tunnels peuvent persister dans les sols argileux pendant plusieurs années, mais lorsqu'ils s'effondrent, la surface de la pelouse peut devenir très irrégulière.  
+Les taupes vivent dans un sol humide, fertile et très riche en matière organique. Elles passent la plupart de leur temps dans des galeries souterraines, ce qui crée de petites bosses à la surface du sol. Les galeries de taupe forment un vaste réseau interconnecté. La célèbre « taupinière » est un tas de terre rond et symétrique que les taupes poussent à la surface en creusant. Le nombre de taupinières ne reflète pas forcément le nombre de taupes présentes. Une seule taupe qui envahit un nouvel endroit peut construire 3 à 4 taupinières par jour et peut en faire 30 à 60 en un mois. Les taupes sont aussi très territoriales et défendent leur espace contre les autres taupes. Vous avez donc probablement moins de taupes que vous ne le pensez.
 
-Les taupes ont besoin de grandes quantités de nourriture et peuvent parcourir jusqu'à un demi-mile par jour pour en trouver. Leur mobilité rend leur contrôle difficile.  
+Les taupes causent des dégâts en creusant des tunnels sous les plantes. Cela rend plus difficile de garder les racines humides, surtout dans un potager. Les galeries de taupe créent aussi des passages pour les campagnols (souris des champs), qui mangent la plupart des plantes et sont souvent accusés à tort avec les taupes. Enfin, beaucoup de propriétaires trouvent les taupinières très inesthétiques, surtout sur les pelouses. Les tunnels peuvent rester dans les sols argileux pendant plusieurs années, mais lorsqu’ils s’effondrent, la pelouse devient très irrégulière.
 
-### Quelques considérations avant d'agir  
-- Êtes-vous sûr que les taupes sont les animaux nuisibles ?  
-- Combien de dégâts peuvent survenir sans aucun contrôle ?  
-- Quels sont les avantages du contrôle ? Quels sont les coûts des dégâts ?  
-- Comment votre action pourrait-elle affecter d'autres animaux ? Les humains ?  
+Les taupes ont besoin de beaucoup de nourriture et peuvent parcourir jusqu’à un demi-mile par jour pour la trouver. Leur mode de vie mobile rend leur contrôle difficile.
 
-### Options de contrôle  
-- **Extermination** : L'extermination est difficile et prend du temps ; éliminer les taupes de votre jardin n'empêchera pas celles de votre voisin de s'y installer. Si vous êtes désespéré, envisagez de poser des pièges. De nombreuses autres options existent, mais aucune ne donne des résultats constants. Méfiez-vous des produits qui prétendent "repousser" les taupes – aucun n'a été prouvé efficace. Si vous choisissez d'utiliser des produits chimiques, assurez-vous de suivre les instructions sur l'étiquette car l'étiquette fait loi.  
+### Quelques questions à se poser avant d’agir
 
-- **Exclusion** : Il est possible d'attacher un treillis métallique sous des plates-bandes surélevées en bois pour empêcher les taupes d'y pénétrer. Utilisez un treillis galvanisé d'un quart de pouce et fixez-le solidement au fond du cadre de la plate-bande.  
+- **Êtes-vous sûr que ce sont bien des taupes qui causent les problèmes ?**
+- **Quels dégâts risquent d’arriver si vous ne faites rien ?**
+- **Quels sont les avantages du contrôle ? Quels sont les coûts des dégâts ?**
+- **Comment votre intervention pourrait-elle affecter d’autres animaux ? Ou des humains ?**
 
-- **Utilisation de pièges** : Prenez le temps de localiser un tunnel actif. Identifiez les tunnels actifs en écrasant les monticules de taupes pendant la journée. Vérifiez le lendemain matin si de nouveaux monticules apparaissent, ce qui indique des tunnels actifs juste en dessous. Sondez à 15-45 cm du centre du monticule avec un tournevis long ou une tige métallique. Si la sonde s'enfonce soudainement de quelques centimètres, vous avez trouvé un tunnel. Sondez à nouveau pour cartographier la galerie. Une fois le tunnel localisé, découpez une section de terre jusqu'au fond du tunnel. Prenez soin d'adapter la largeur de la section à celle du piège. Placez le piège en suivant les instructions du fabricant. Couvrez l'emplacement du piège avec un seau et un bloc de béton pour éviter les blessures accidentelles.  
+### Options pour contrôler les taupes
 
-  Le territoire moyen d'une taupe est de 1/4 d'acre. Si le piège ne donne pas de résultat en quelques jours, déplacez-le vers un autre emplacement actif.  
+- **Éradication :**  
+  L’éradication est difficile et prend du temps ; enlever les taupes de votre jardin n’empêche pas celles du voisin de venir. Si vous voulez absolument un résultat, pensez à poser des pièges. Il existe d’autres solutions, mais aucune n’est garantie. Attention aux produits qui promettent de « repousser » les taupes – aucun n’a prouvé son efficacité. Si vous décidez d’utiliser des produits chimiques, suivez bien les instructions sur l’étiquette, car l’étiquette fait loi.
 
-- **Concussions** : Les taupes sont sensibles aux chocs. Frapper le sol avec une pelle près d'une taupe en activité peut l'étourdir ou la tuer. Cela nécessite beaucoup de patience et une bonne coordination œil-main.  
+- **Exclusion :**  
+  Il est possible de fixer un grillage sous les bacs de culture surélevés en bois pour empêcher les taupes d’y entrer. Utilisez un grillage galvanisé à mailles de 6 mm et fixez-le bien au fond du bac.
 
-- **Fumigation** : L'utilisation de gaz mortels est rarement efficace contre les taupes.  
+- **Utilisation de pièges :**  
+  Si vous choisissez d’utiliser des pièges, prenez le temps de repérer un tunnel actif. Pour trouver les tunnels actifs, tassez les taupinières pendant la journée. Regardez le lendemain matin si de nouvelles taupinières sont apparues : cela indique des tunnels actifs juste en dessous. Enfoncez une tige ou un long tournevis à 15–45 cm du centre de la taupinière pour trouver un tunnel : si la tige s’enfonce soudainement, vous avez trouvé un tunnel. Répétez pour cartographier la galerie.
 
-- **Appâts empoisonnés** : Des formulations d'appâts empoisonnés sont actuellement disponibles. Les nouveaux appâts en forme de vers de terre peuvent être les plus efficaces, mais aucun appât n'a montré une efficacité constante. Lisez et suivez toutes les instructions sur l'étiquette des appâts très attentivement. Les taupes peuvent pousser les appâts hors du tunnel, à la surface. Couvrez toujours l'emplacement des appâts avec un seau et un bloc lourd et bouchez l'ouverture du tunnel avec une pierre si possible. Les appâts poussés à la surface peuvent blesser d'autres animaux, des animaux domestiques ou des enfants.  
+  Une fois le tunnel repéré, découpez une section de terre jusqu’au fond du tunnel. Faites en sorte que la largeur de votre trou corresponde à celle du piège. Placez le piège en suivant les instructions du fabricant. Recouvrez l’endroit du piège avec un seau et un bloc de béton lourd pour éviter tout accident.
 
-- **Techniques rarement efficaces** : Ces méthodes comprennent l'inondation des galeries, l'insertion d'objets pointus dans les tunnels, la plantation de "plantes anti-taupes", l'utilisation de répulsifs "soniques" ou l'appâtage avec du chewing-gum.  
+  Une taupe occupe en moyenne un territoire de 1 000 m². Si le piège ne donne pas de résultats au bout de quelques jours, déplacez-le à un autre endroit actif.
 
-### Publications de l'Université d'État de l'Oregon  
-- [Contrôler les taupes EC 987](https://catalog.extension.oregonstate.edu)  
-- [Guide de jardinage durable EM 8742](https://catalog.extension.oregonstate.edu)  
+- **Commotion :**  
+  Les taupes sont sensibles aux chocs. Frapper le sol avec une pelle près d’une taupe en activité peut l’assommer ou la tuer. Il faut être patient et avoir de bons réflexes.
 
-### Conseils des Maîtres Jardiniers™  
-- Appelez la ligne d'assistance en horticulture : 503-655-8631 (Comté de Clackamas), 503-821-1150 (Comté de Washington), ou 503-445-4608 (Comté de Multnomah).  
-- Pour les documents et le programme de cours de l'Université en 10 Minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+- **Fumigation :**  
+  La fumigation avec des gaz toxiques fonctionne rarement contre les taupes.
 
-L'Université d'État de l'Oregon interdit toute discrimination dans ses programmes, services, activités et matériels sur la base de la race, de la couleur, de l'origine nationale, de la religion, du sexe, de l'identité de genre (y compris l'expression de genre), de l'orientation sexuelle, du handicap, de l'âge, du statut marital, du statut familial/parantal, des revenus provenant d'un programme d'assistance publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours de bâton pour une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s'appliquent pas à tous les programmes.)
+- **Appâts empoisonnés :**  
+  Il existe aujourd’hui des appâts empoisonnés. Les nouveaux appâts en forme de ver de terre semblent plus efficaces, mais aucun n’a prouvé d’efficacité constante. Lisez et suivez très attentivement toutes les instructions sur l’étiquette.
+
+  Les taupes peuvent repousser les appâts vers la surface. Recouvrez toujours l’endroit où vous mettez l’appât avec un seau et un bloc lourd, et bouchez l’entrée du tunnel avec une pierre si possible. Les appâts remontés à la surface peuvent blesser d’autres animaux, des animaux domestiques ou des enfants.
+
+- **Techniques qui fonctionnent rarement :**  
+  Certaines techniques sont rarement efficaces, comme inonder les galeries, planter des objets pointus dans les tunnels, planter des « plantes anti-taupe », utiliser des répulsifs « soniques » ou mettre du chewing-gum dans les galeries.
+
+### Publications de l’Extension de l’Université d’État de l’Oregon
+
+- [Contrôle des taupes EC 987](https://catalog.extension.oregonstate.edu)
+- [Guide du jardinage durable EM 8742](https://catalog.extension.oregonstate.edu)
+
+#### Conseil de Maître Jardinier™ · Appelez la ligne d’assistance en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour les fiches et le calendrier de 10-Minute University™ : [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial ou parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+---

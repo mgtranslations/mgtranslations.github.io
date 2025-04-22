@@ -1,40 +1,61 @@
-# Jaamacadda 10-Daqiiqo™  
-Ururka Beeraleyda Master-ka ah ee Degmada Clackamas oo kaashanaya barnaamijka OSU Extension Master Gardener™  
+#### Jaamacadda 10 Daqiiqo™ · Ururka Beeralayda Khabiirka ah ee Clackamas County oo iskaashanaya oo taageeraya Barnaamijka Khabiirada Beeralayda ee OSU Extension Master Gardener™
 
-## Maareynta Jiirarka  
-### Hordhac  
-Jiirarka waa xayawaan quuta cayayaanka, waxay cunaan dhulka qod-qodaya, dhuunta cayayaanka, quraanjada, iyo dirxiga cayayaanka. Mararka qaar waxay sidoo kale cunaan bulbooyinka, dalagyada xididka, iyo abuurta soo baxaysa, laakiin khubarada sayniska ayaa ku kala aragti duwan arrintan.  
+# Maareynta Moolayaasha
 
-Jiirarka waxay ku noolyihiin dhul qoyan, bacrin ah, oo hodan ku ah walxaha dabiiciga ah. Inta badan wakhtigooda waxay ku qaataan marinnada dhulka hoostiisa ku yaal, taas oo sababi karta in ridges hoose ay samaysmaan. Marinnada jiirarka waxay sameeyaan shabakad ballaaran oo isku xiran. "Buurka jiirka" waa meel wareegsan oo nidaamsan oo ciid ah oo dusha sare loo soo riixay halkaas oo jiirku si firfircoon u qodayo. Tirada buuraha jiirka maaha calaamad muujinaysa inta jiir ee goobta ku sugan. Hal jiir oo firfircoon oo degaan cusub soo gelaya ayaa maalin kasta dhisi kara 3 illaa 4 buurood oo cusub, waxaana uu abuuri karaa 30 illaa 60 buurood bil gudaheed. Jiirarka sidoo kale aad bay u ilaalinayaan dhulkooda oo waxay ka difaacaan jiirarka kale. Sidaas darteed, waxaa laga yaabaa inaad leedahay jiir ka yar inta aad u malaynayso.  
+### Hordhac
 
-Jiirarka waxay waxyeelo ku geystaan iyaga oo hoosta ka qodaya dhirta. Tani waxay dhibaato ku keentaa in xididdada dhirtu qoyaan sii haystaan, gaar ahaan beeraha khudradda. Marinnada jiirarka waxay sidoo kale fursad u abuuraan jiirarka kale ee loo yaqaano voles (meadow mice) kuwaas oo inta badan cunaya walxaha dhirta oo dhan, iyada oo jiirka lagu eedeeyo. Ugu dambayntii, dad badan oo guryaha leh ayaa buuraha jiirarka ka helaya kuwo foolxun, gaar ahaan meelo doog leh. Marinnada jiirarka waxay sii jiri karaan sanado badan marka dhulku dhoobo yahay, laakiin marka ay ku burburaan, dhulka doogga ah wuxuu noqon karaa mid aan leexan lahayn.  
+Moolayaashu waa cunto-xayawaan, waxay cunaan diiryo, dirxiyo, cayayaanka, iyo ukunta cayayaanka. Mararka qaar waxay dhadhamin karaan bulbooyin, dalagyada xididka leh, iyo abuurka soo baxaya, balse saynisyahannadu way ku kala aragti duwan yihiin arrintan.
 
-Jiirarku waxay u baahan yihiin cunto badan waxaana ay socon karaan ilaa nus mayl maalintii si ay cunto u helaan. Caadadooda guurguurka ah ayaa ka dhigaysa in la xakameeyo ay adag tahay.  
+Moolayaashu waxay ku noolyihiin carrada qoyan, bacrimiin, oo hodan ku ah walxaha noolaha dilaaca. Inta badan waqtigooda waxay ku qaataan godad hoos mara dhulka, taasoo keenta in la arko buurbuur yar oo dhulka ka kacaya. Godadka moolaha ayaa sameeya shabakad isku xidhan oo ballaaran. “Buurta moolaha” waa buuro yar oo wareegsan oo dhagax ah oo ay moolayaashu dhulka sare usoo riixaan marka ay qodayaan. Tirada buuraha moolaha ma aha calaamad muujinaysa inta mool ee deegaanka ku sugan. Hal mool oo deegaan cusub galaya ayaa maalintii dhisi kara 3 ilaa 4 buur, waxayna bishiiba dhisi kartaa 30 ilaa 60 buur. Moolayaashu waa xayawaan deegaan ilaaliya, waxayna ka ilaashadaan moolo kale dhulkooda. Sidaas darteed, waxaa laga yaabaa inay jiraan moolo aad uga yar inta aad u malaynayso.
 
-## Tixgelinno Kahor Inta Aan Wax Lala Tacaalin  
-- Intee ayaad hubin kartaa in jiirarka ay yihiin xayawaanka dhibta keenaya?  
-- Inta ay le'eg tahay waxyeelada dhici karta haddii aan la xakameyn?  
-- Maxay yihiin faa'iidooyinka xakamaynta? Waa maxay qiimaha waxyeelada?  
-- Sidee ficilkaaga u saameyn karaa xayawaanka kale? Dadka kale?  
+Moolayaashu waxay waxyeelleeyaan dhirta iyagoo godadkooda ka hoos mara, taasoo dhib ku keenta sida xididdada dhirtu u heleyso biyo, gaar ahaan beerta khudradda. Godadka moolaha waxay sidoo kale furfuraan waddooyin ay galaan jiirka dhirta cuna (loogu yeero voles ama jiirka duurjoogta ah), kuwaas oo cunaya inta badan dhirta oo moolaha lagu eedeeyo. Ugu dambayn, dad badan oo guryaha leh way neceb yihiin buuraha moolaha, gaar ahaan garoomada cawska ah. Godadka moolaha waxay sanado ku sii jiri karaan carrada dhoobada ah, balse marka ay burburaan, garoomada cawska ah way noqdaan kuwo aan sinnayn.
 
-## Xulashooyinka Xakamaynta  
-- **Dilka:** Jiirarka la dabar gooyo waa hawl adag oo waqti qaadata; in laga saaro jiirarka beertaada kama hor istaagayso jiirarka deriska inay soo guuraan. Haddii aad natiijooyin degdeg ah u baahan tahay, tixgeli inaad qabsato dabinno. Waxaa jira siyaabo kale oo badan laakiin midna ma bixiyo natiijooyin joogto ah. Ka taxaddar alaabada sheegata inay "celiso" jiirarka – midna lama xaqiijin inuu shaqeynayo. Haddii aad doorato inaad isticmaasho kiimiko, hubi inaad raacdo tilmaamaha ku qoran calaamadda maxaa yeelay calaamadda waa sharciga.  
+Moolayaashu waxay u baahan yihiin cunto badan waxayna maalin kasta safri karaan ilaa nus mayl si ay cunto u helaan. Caadadooda guurguurista ah waxay adkaynaysaa in la xakameeyo.
 
-- **Ka Hortagga:** Waa suurtogal in mesh bir ah lagu rakibo hoosta sariiraha kor loo qaado ee ka samaysan alwaax si looga hortago jiirarka inay galaan sariirahaas. Isticmaal mesh bir ah oo fidsan oo cabbirkiisu yahay ¼ inch oo si fiican ugu xaji xagga hoose ee sariirta.  
+### Qodobo Laga Fiirsado Ka Hor Intaadan Waxba Qaadin
 
-- **Haddii aad doorato dabinno:** Waqti ku qaado inaad ogaato marin firfircoon. Si aad u ogaato marinnada firfircoon, ku cadaadi buuraha jiirka maalintii. Hubi subaxa dambe buuraha cusub, kuwaas oo tilmaamaya marinnada firfircoon ee hoosta ku yaal. Qod 6-18 inch u jira bartamaha buuraha jiirka si aad u hesho marinnada; waxaad isticmaali kartaa bir dhuuban ama usha birta ah. Haddii birta si lama filaan ah 2 inch hoos ugu dhacdo, waxaad heshay marin. Mar kale qod si aad u sawirto jidka marinka. "Controlling Moles" waxay bixisaa faahfaahin faa'iido leh oo si bilaash ah waa laga heli karaa khadka internetka. Marka aad ogaato jidka marinka, ka jar qayb ka mid ah ciidda ilaa meesha hoose ee marinka. Hubso in ballaca qaybta aad ka jarayso uu la mid yahay ballaca dabinka. Ku rakib dabinka adigoo raacaya tilmaamaha soo saaraha. Dabool goobta dabinka ku rakiban yahay baaldi iyo block culus si looga hortago dhaawac shil ah.  
+- **Intee le’eg ayaad hubtaa in mooluhu yahay xayawaanka dhibka keenaya?**
+- **Imisa waxyeello ah ayaa dhici karta haddii aan waxba la qaban?**
+- **Maxay yihiin faa'iidooyinka xakameynta? Maxayse tahay kharashka waxyeellada?**
+- **Tallaabadaada sidee bay u saameyn kartaa xayawaanka kale? Dadka?**
 
-- Celceliska jiirka wuxuu leeyahay dhul dhan ¼ acre. Haddii dabinku aysan natiijo muujin maalmo yar gudaheed, u wareeji goob firfircoon oo kale.  
+### Xulashooyinka Xakameynta
 
-- Jiirarku waa kuwo dareen u leh burburka. Garaacidda qoryo dhulka ku dhow halka jiirku ka shaqeynayo ayaa laga yaabaa inay suuxiso ama disho. Waxaad u baahan tahay dulqaad badan iyo xirfad wanaagsan oo gacmo iyo indho isku dhafan ah.  
+- **Dilka:**  
+  Dilku waa mid adag oo waqti qaata; ka saarista moolaha beertaada ma joojiso moolaha deriska inay soo galaan. Haddii aad si degdeg ah u rabto natiijo, tixgeli inaad dhigato dabinno. Fursado kale ayaa jira, balse midkoodna ma bixiyo natiijo joogto ah. Ka digtoonow alaab badan oo sheegta inay “ka eryaan” moolaha – midna lama xaqiijin inuu shaqeeyo. Haddii aad doorato inaad isticmaasho kiimikooyin, fadlan raac tilmaamaha ku qoran xirmada sababtoo ah waa sharciga.
 
-- **Qiiqinta (fumigation):** Isticmaalka gaasaska dilka ah inta badan kuma guuleysto jiirarka.  
+- **Ka Hortagga Gelitaanka:**  
+  Waxaa suurtagal ah in la dhigo shabaq bir ah oo hooseeya sariiraha beerta ee alwaaxda leh si mooluhu uusan u geli karin. Adeegso shabaq bir ah oo hal rubuc inch ah oo si wanaagsan ugu xiro hoose ee sariirta.
 
-- **Sunta abuurka ah:** Sunta cusub oo qaab dhulka qod-qodaya u samaysan ayaa laga yaabaa inay noqoto tan ugu waxtarka badan, laakiin sun kasta kama midaysan inay si joogto ah u shaqeyso. Hubi inaad akhriso oo raacdo dhammaan tilmaamaha calaamadda sunta abuurka si aad u isticmaasho si taxaddar leh. Jiirarka waxay ku riixi karaan sunta marinka una soo saari karaan dusha sare. Had iyo jeer ku dabool goobta sunta baaldi iyo block culus oo xiro furitaanka marinka haddii suurtagal ah dhagax. Sunta dusha sare loo soo saaray waxay khatar ku tahay xayawaanka kale, xayawaanka rabaayada ah, ama carruurta.  
+- **Isticmaalka Dabinada:**  
+  Haddii aad doorato dabinno, waqti sii si aad u hesho godad firfircoon. Goobo godadka firfircoon adigoo cagta ku cadaadinaya buuraha moolaha maalintii. Subaxda xigta eeg buuraha cusub, kuwaasoo muujinaya godad firfircoon oo hoos ku yaal. 6–18 inch ka fog bartamaha buurta moolaha ku baadh godadka; marmar bir dheer ama ushi bir ah ayaa ku filan. Haddii baadhitaanku si lama filaan ah hoos ugu dhaco dhowr inch, waxaad heshay godad. Sii baadh si aad u ogaatid jihada godadka.
 
-- **Hababka aan inta badan shaqeynin:** Waxa ka mid ah daadinta marinnada, ku mudidda wax fiiqan marinnada, beerashada "dhirta jiirka celisa", isticmaalka qalabka "sonic" ee celisa, ama isticmaalka xanjada bait ahaan.  
+  Marka aad hesho godadka, jar qayb carrada ah ilaa hoosta godadka. Hubi in ballaca la jarayo uu la siman yahay ballaca dabinka. Dabin dhig adigoo raacaya tilmaamaha soo saaraha. Dabinka ku dabool baaldi iyo dhagax culus si aan waxyeello loo geysan.
 
-## Talooyinka Beeraleyda Master™  
-- Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Degmada Clackamas), 503-821-1150 (Degmada Washington), ama 503-445-4608 (Degmada Multnomah).  
-- Si aad u hesho qoraallada Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org).  
-- Adeegga Balaadhinta ee Jaamacadda Oregon waxay mamnuucdaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabyada iyadoo lagu saleynayo midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sidaha, xaaladda halyeeyga, cawaaqibka ama aargoosiga waxqabadka xuquuqul insaanka ee hore. (Dhammaan saldhigyada mamnuuc ah ma khuseeyaan dhammaan barnaamijyada.)
+  Mool kasta wuxuu leeyahay deegaan dhan ¼ acre. Haddii dabinku natiijo keenin dhowr maalmood gudahood, u rar meel kale oo firfircoon.
+
+- **Dhawaqa Dhibta Leh:**  
+  Moolayaashu way u nugul yihiin dhawaqa. Ku garaacidda fargeeto ama faas dhulka meel u dhow mool firfircoon waxay suurtagal tahay in la suuxiyo ama la dilo. Tani waxay u baahan tahay dulqaad badan iyo feejignaan.
+
+- **Uurka La Gubo:**  
+  Isticmaalka gaas sun ah si loo dilo moolaha ma badna inuu guuleysto.
+
+- **Baqtiyaal Sun ah:**  
+  Waxaa hadda jira baqtiyaal sun ah oo loo diyaariyey moolaha. Baqtiyaasha cusub ee qaabka diirka ah ayaa laga yaabaa inay yihiin kuwa ugu waxtarka badan, balse midna si joogto ah u ma shaqeeyo. Fadlan si taxaddar leh u akhri oo u raac dhammaan tilmaamaha sunta.
+
+  Moolaha waxay baqtiyaasha ka saari karaan godka oo dhulka sare u soo saari karaan. Had iyo jeer ku dabool meesha baqtiyaasha la dhigay baaldi iyo dhagax culus, godkuna ku xidh dhagax haddii aad awoodo. Baqtiyaasha dhulka sare la soo saaray waxay dhaawici karaan xayawaanka kale, xayawaanka rabaayada, ama carruurta.
+
+- **Farsamooyin aan Badanaa Shaqayn:**  
+  Farsamooyinka aan badanaa shaqayn waxaa ka mid ah daadinta godadka, ku mudista walxo fiiqan, beerida “dhirta moolaha,” isticmaalka qalabka “dhawaqa” leh, ama gelinta godadka nacnac.
+
+### Daabacaadaha Kordhinta Jaamacadda Gobolka Oregon
+
+- [Xakameynta Moolaha EC 987](https://catalog.extension.oregonstate.edu)
+- [Buugga Beerta Waarta EM 8742](https://catalog.extension.oregonstate.edu)
+
+#### Talo Khabiirka Beeralayda™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Warqadaha iyo jadwalka fasallada Jaamacadda 10 Daqiiqo™: [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ay bixiso iyadoo loo eegayo: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, heerka ciidanimo, ama aargoosi/tallo ka dhan ah la-dagaalanka xuquuqda madaniga. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

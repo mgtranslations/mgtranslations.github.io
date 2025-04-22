@@ -1,68 +1,85 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta ng OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Paghasa ng Mga Kagamitang Panghardin  
+# Paghasa ng Mga Kagamitang Panggarden
 
-### Panimula  
-Mas mahusay gumagana ang mga kagamitang panghardin kapag matalim ang mga ito. Ang mga kagamitang panggupit tulad ng pruners, loppers, at hedge clippers ay gawa sa malambot na bakal at maaaring hasain gamit ang file o hand stone. Ang mga pala ay gawa sa matigas na bakal at nangangailangan ng file upang mahasa.  
+### Panimula
 
-Hindi kinakailangan na i-disassemble ang kagamitan sa bawat paghasa, subalit magandang ideya na i-disassemble, linisin, hasain, at ayusin ang bawat kagamitan sa simula, gitna, at dulo ng iyong pruning season. Kung i-disassemble man o hindi ang kagamitan, tiyaking nakakapit ito nang maayos. Kung gumagalaw ang talim habang hinahasa, maaaring magdulot ito ng malubhang pinsala.  
+Mas mahusay gumagana ang mga kagamitang panggarden kapag matalim ang mga ito. Ang mga hand cutting tool gaya ng pruners, loppers, at hedge clippers ay gawa sa malambot na bakal at maaaring hasain gamit ang file o hand stone. Ang mga pala naman ay gawa sa matigas na bakal at kailangan ng file para hasain.
 
-### Mga Kagamitang Kakailanganin  
-- **6” smooth file** (para sa mas maliliit na talim, halimbawa, hand pruners), patag sa isang gilid, kurbado sa kabila  
-- **8” hanggang 10” mill file** (para sa mas malalaking talim, halimbawa, pala, loppers), patag sa isang gilid, kurbado sa kabila  
-- **Diamond o ceramic hone** (opsyonal – para sa mas matigas na bakal ng de-kalidad na pruners)  
-- **File card** (para linisin ang mga file)  
-- **Light machine oil** (halimbawa, 3-in-1 Oil) para sa pagpapadulas ng mga kasukasuan at proteksyon ng metal laban sa kalawang  
-- **Shop rags** (2 o higit pang tuyo, 1 na may langis)  
-- **Wire brush at 400 hanggang 600 grit sandpaper** (para alisin ang kalawang)  
-- **Table vise** upang ma-secure ang kagamitan  
+Hindi kinakailangang paghiwa-hiwalayin ang tool kada hasa; pero maganda ring alisin, linisin, hasain, at ayusin ang bawat tool sa simula, kalagitnaan, at katapusan ng iyong pruning season. Kung paghiwa-hiwalayin mo man o simpleng hasa lamang, siguraduhing nakakapit nang maayos ang tool. Kung gagalaw ang talim habang hinahasa, puwedeng magdulot ito ng malubhang pinsala.
 
-*Kung ang iyong file ay may nakalitaw na tang (ang matulis na dulo kung saan ito hinahawakan habang ginagamit), bumili rin ng hawakan para dito. HUWAG gumamit ng file na may nakalitaw na tang – maaaring magdulot ng malubhang pinsala. Ang ilang file ay may malawak na hawakan imbes na tang. Hindi na kinakailangan ng hawakan para sa mga file na ito.*  
+### Mga Kagamitan
 
-### Paano Maghasa  
+- **6” smooth file** (para sa maliliit na talim, hal., hand pruners), patag ang isang gilid, kurbado ang kabila
+- **8” hanggang 10” mill file** (para sa mas malalaking talim, hal., pala, loppers), patag ang isang gilid, kurbado ang kabila
+- **Diamond o ceramic hone** (opsyonal – para sa mas matigas na bakal sa de-kalidad na pruners)
+- **File card** (panglinis ng files)
+- **Magaan na langis ng makina** (hal., 3-in-1 Oil) para mag-lubricate ng mga joint at mag-coat ng metal para hindi kalawangin
+- **Shop rags** (dalawa o higit pang tuyo, isa ay may langis)
+- **Wire brush at 400 hanggang 600 grit sandpaper** (para alisin ang kalawang)
+- **Table vise** para sa matibay na paghawak ng tool
 
-#### 1. Tukuyin kung aling bahagi ang kailangang hasain  
-| Uri ng Kagamitan | Bilang ng Talim na Kailangan Hasain | Mga Gilid ng Talim na Kailangang Hasain |  
-|------------------|------------------------------------|-----------------------------------------|  
-| Hand pruner      | Isa                                | Isa                                     |  
-| Lopper           | Isa                                | Isa                                     |  
-| Grass shear      | Isa                                | Dalawa                                  |  
-| Shovel           | Isa                                | Isa                                     |  
-| Hoe              | Isa                                | Isa                                     |  
-| Picks, mattocks, axe | Isa                           | Dalawa                                  |  
-| Hay fork         | Marami                             | Bawat dulo ng ngipin ay hinahasa papunta sa mapurol na punto |  
+> **Tandaan:** Kung ang file mo ay may exposed tang (matulis na dulo kung saan ito hinahawakan), bumili rin ng handle para sa file. **Huwag kailanman** gumamit ng file na may exposed tang – puwedeng magdulot ito ng malubhang pinsala. May mga file na may malapad na hawakan imbes na tang. Hindi na kailangan ng handle para sa mga ganitong file.
 
-#### 2. Linisin ang mga kagamitan  
-Tanggalin ang lupa at dagta upang malinis ang ibabaw ng bawat kagamitan, itama ang mga ngipin ng fork, at suriin ang file para sa mga materyal na nakabara sa mga ngipin nito. Kung meron, linisin ang file gamit ang file card sa pamamagitan ng pagpunas nito sa file ayon sa linya ng mga ngipin. Para sa double-cut file, gamitin ang file card ayon sa linya ng bawat anggulo. HUWAG gumamit ng sabon o tubig sa file.  
+### Paano Maghasa
 
-#### 3. Gumamit ng vise upang patatagin ang kagamitan  
-Ilagay ang iyong kagamitan sa vise sa pinakamapantay na bahagi ng base ng talim. Kung higpitan mo ang vise sa maling lugar, maaaring mabaluktot ang iyong pruning tool.  
+#### 1. Tukuyin Kung Aling Bahagi ang Kailangan Hasain
 
-#### 4. Itakda ang anggulo ng paghasa  
-Ang 20° hanggang 25° na anggulo ng paghasa ay ninanais. Paano ito matutukoy? Hawakan ang file nang patayo sa talim nang perpendicular. Ito ay bubuo ng 90-degree na anggulo. Ibaluktot ang file pababa ng 1/2 ng distansya papunta sa talim. Ito ay magiging 45 degrees. Ibaluktot ito ng 1/2 ng natitirang distansya muli. Ito ay magbibigay ng humigit-kumulang 22.5 degrees, na sapat upang simulan ang paghasa.  
+| Tool                | Bilang ng Talim na Hahasaing | Gilid ng Talim na Hahasaing                |
+|---------------------|-----------------------------|---------------------------------------------|
+| Hand pruner         | Isa                         | Isa                                         |
+| Lopper              | Isa                         | Isa                                         |
+| Grass shear         | Isa                         | Parehong gilid                              |
+| Shovel              | Isa                         | Isa                                         |
+| Hoe                 | Isa                         | Isa                                         |
+| Picks, mattocks, axe| Isa                         | Parehong gilid                              |
+| Hay fork            | Marami                      | Bawat tines ay hahasaing patungo sa mapurol na dulo |
 
-#### 5. Simulan ang paghasa  
-Ang bawat stroke ng pag-file ay dapat parallel sa talim at tumakbo sa buong haba nito. Maglagay ng pantay na presyon mula sa dulo hanggang base at sa forward stroke lamang. Habang ini-file, ang talim ay magiging makintab. Ito ang bevel. Kung tama ang pagkakahawak mo sa file, ang makintab na bahaging ito ay dapat pantay ang lapad sa buong talim. Habang tumatalim ang gilid, lilitaw ang mga burr sa likod na bahagi ng talim. Upang alisin ang mga ito, hawakan ang file nang patag sa talim at stroke ang file papunta sa dulo.  
+#### 2. Linisin ang mga Tool
 
-Sa mga loppers na hindi maayos ang pagkaka-adjust, mapapansin ang makintab na metal sa base ng anvil blade na nagpapahiwatig na ang cutting blade ay masyadong mahigpit na dumudulas laban o, kahit papaano, pumapasok sa anvil. Ayusin agad ang mga talim.  
+Alisin ang lupa at dagta para luminis ang ibabaw ng bawat tool, i-align muli ang mga tinidor ng fork, at tingnan kung may nakasiksik na materyal sa pagitan ng mga ngipin ng file. Kung meron, linisin ito gamit ang file card sa pamamagitan ng pagpahid ng file card kasabay ng direksyon ng mga ngipin. Para sa double-cut file, gamitin ang file card ayon sa bawat anggulo ng mga ngipin. **Huwag** gumamit ng sabon o tubig sa file.
 
-#### 6. Magdagdag ng finishing touches  
-Para sa mga matitigas na metal blades, gumamit ng medium carborundum type sharpening stone bilang huling hakbang sa proseso ng paghasa. Kung mayroon kang Felco, ARS, o iba pang matitigas na bakal na talim, maaari mo ring tapusin ang paghasa gamit ang fine diamond o ultra-fine ceramic hone. Ang hakbang na ito ay nangangailangan lamang ng isa o dalawang pasada.  
+#### 3. Gamitin ang Vise para Patatagin ang Tool
 
-### Mga Babala  
-- Protektahan ang iyong mga mata gamit ang safety glasses habang naghahasa.  
-- Kung mayroon kang Hickok Lopper, inirerekomenda ng tagagawa ang paggamit ng medium o fine grade carborundum sharpening stone, diamond, o ceramic stone. Ang anumang hollow ground blade ay dapat hasaing gamit ang isa sa mga kagamitang ito at hindi isang file.  
-- Ang mga triangular ceramic stone ay mahusay para sa paghasa ng mga talim ng mas mahusay na bakal ng hand pruners tulad ng Felco at ARS kapag hindi mo ma-disassemble ang kagamitan.  
+Ilagay ang iyong tool sa vise sa pinaka-patag na bahagi ng base ng talim. Kung mali ang pagkakatighten ng vise, puwedeng mabaluktot ang pruning tool mo.
 
-### Mga Mapagkukunan  
-- **OSU Extension Publications:** https://catalog.extension.oregonstate.edu  
-- **Practical Tools for the Vegetable Gardener:** http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener  
-- **Take Good Care of Hard-working Garden Tools:** http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools  
-- **Sharpening Your Garden Tools:** http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf  
+#### 4. Itakda ang Anggulo ng Paghasa
 
-### Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), o 503-445-4608 (Multnomah County).  
-- Para sa 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang www.cmastergardeners.org.  
+Ang nais na anggulo ng paghasa ay 20° hanggang 25°. Para matukoy ito:
 
-*Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlang pangkasarian (kabilang ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita mula sa pampublikong programa ng tulong, paniniwalang pampolitika, impormasyon sa genetika, katayuan bilang beterano, pagganti o paghihiganti para sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)*
+- Hawakan ang file nang nakatayo sa talim, pahalang. Ito ay 90-degree na anggulo.
+- I-yuko ang file pababa, kalahati. Ito ay 45-degree na anggulo.
+- I-yuko muli ng kalahati. Ito ay mga 22.5-degree na anggulo, na perpekto para sa paghasa.
+
+#### 5. Simulan ang Paghasa
+
+- Bawat stroke ng file ay dapat kasabay ng talim at sumasakop sa buong haba ng talim.
+- Pantay na idiin mula dulo hanggang base, at sa forward stroke lang.
+- Habang hinahasa, kikinang ang talim. Ito ang bevel. Kung tama ang hawak mo, pantay ang kintab sa buong talim.
+- Kapag tumatalim na ang gilid, magkakaroon ng burrs sa likod ng talim. Para alisin ito, hawakan ang file nang patag sa talim at i-stroke ito papunta sa dulo.
+
+> **Tandaan:** Sa loppers na wala sa ayos, mapapansin ang makintab na bakal sa base ng anvil blade, ibig sabihin masyadong dikit o pumapasok na ang cutting blade sa anvil. Ayusin agad ang mga blade.
+
+#### 6. Final na Hasa
+
+Para sa matitigas na talim, gumamit ng medium carborundum-type sharpening stone bilang final step. Para sa Felco, ARS, o iba pang matigas na bakal, puwede ring tapusin gamit ang fine diamond o ultra-fine ceramic hone. Isa o dalawang pasada lang ito.
+
+### Mga Paalala
+
+- Protektahan ang iyong mga mata gamit ang safety glasses habang naghahasa.
+- Kung may Hickok Lopper ka, inirerekomenda ng manufacturer na gumamit ng medium o fine-grade carborundum sharpening stone, diamond, o ceramic stone. Ang anumang hollow-ground blade ay dapat hasain gamit ang mga ito, hindi file.
+- Ang triangular ceramic stones ay mahusay para sa paghasa ng mga de-kalidad na hand pruners gaya ng Felco at ARS kapag hindi mo mabaklas ang tool.
+
+### Karagdagang Mga Mapagkukunan
+
+- [OSU Extension Publications](https://catalog.extension.oregonstate.edu)
+- [Practical Tools for the Vegetable Gardener](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
+- [Take Good Care of Hard-working Garden Tools](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
+- [Sharpening Your Garden Tools](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
+
+#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ na handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, marital status, familial/parental status, kita galing sa public assistance program, paniniwalang pampulitka, genetic information, status bilang beterano, paghihiganti, o retaliation dahil sa dating civil rights activity. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
+---

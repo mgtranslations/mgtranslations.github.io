@@ -1,46 +1,61 @@
+#### 10-Minute University™ · Clackamas County Master Gardener Association · Sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-### Pag-aaral ng Kaakit-akit ng Katutubong Halaman --- Listahan ng Halaman  
-Isang pag-aaral nina Aaron Anderson at Gail Langellotto, OSU Garden Ecology Lab  
-*Mga resulta mula sa mga panahon ng field noong 2017 at 2018 ay pinaikli bilang sumusunod:  
-A – Nangungunang mga atraksyon ng kabuuang bubuyog noong 2017  
-B – Nangungunang mga atraksyon ng katutubong bubuyog noong 2017  
-C – Nangungunang mga atraksyon ng kabuuang bubuyog noong 2018  
-D – Nangungunang mga atraksyon ng katutubong bubuyog noong 2018  
+# Pag-aaral sa Kaakit-akit ng Mga Katutubong Halaman
 
-Mangyaring bisitahin ang http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/ para sa mga detalye at update.  
+## Listahan ng mga Halaman
 
-#### Mga Halaman  
-##### Mga Halaman na Taunan (Annual)
+Isang pag-aaral nina Aaron Anderson at Gail Langellotto, OSU Garden Ecology Lab
 
-| Espesye ng Halaman               | Karaniwang Pangalan          | Mga Resulta* | Kasaysayan ng Buhay | Kulay ng Bulaklak |
-|----------------------------------|------------------------------|--------------|---------------------|-------------------|
-| Acmispon (Lotus) parviflorus     |                              |              | Taunan              | Puti/Rosas        |
-| Clarkia amoena                   | Farewell-to-spring           | D            | Taunan              | Rosas             |
-| Collinsia grandiflora            | Giant blue eyed Mary         |              | Taunan              | Asul              |
-| Gilia capitata                   | Globe gilia                  | A,B,C        | Taunan              | Asul              |
-| Lupinus polycarpus               | Miniature lupine             |              | Taunan              | Lila/Asul         |
-| Madia elegans                    | Common madia                 | A,B          | Taunan              | Dilaw             |
-| Nemophila menziesii              | Baby blue eyes               |              | Taunan              | Asul/Puti         |
-| Eschscholzia californica         | California Poppy             | B,C,D        | Taunan              | Kahel             |
-| Helianthus annuus                | Common sunflower             |              | Taunan              | Dilaw             |
-| Phacelia heterophylla            | Varied-leaf phacelia         | C,D          | Taunan              | Puti              |
+*Ang mga resulta mula sa 2017 at 2018 na field seasons ay pinaikli bilang:  
+A - Pinaka-kaakit-akit sa kabuuang bilang ng mga bubuyog noong 2017  
+B - Pinaka-kaakit-akit sa katutubong bubuyog noong 2017  
+C - Pinaka-kaakit-akit sa kabuuang bilang ng mga bubuyog noong 2018  
+D - Pinaka-kaakit-akit sa katutubong bubuyog noong 2018.*
 
-##### Mga Halaman na Pangmatagalan (Perennial)
+Mangyaring bisitahin ang [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/) para sa mga detalye at update.
 
-| Espesye ng Halaman               | Karaniwang Pangalan          | Mga Resulta* | Kasaysayan ng Buhay | Kulay ng Bulaklak |
-|----------------------------------|------------------------------|--------------|---------------------|-------------------|
-| Achillea millefolium             | Yarrow                      | D            | Pangmatagalan       | Puti              |
-| Anaphalis margaritacea           | Pearly everlasting          |              | Pangmatagalan       | Puti              |
-| Asclepias speciosa               | Showy milkweed              |              | Pangmatagalan       | Rosas/Puti        |
-| Aquilegia formosa                | Western red columbine       |              | Pangmatagalan       | Pula              |
-| Aster subspicatum                | Douglas’ aster              | A,B,C,D      | Pangmatagalan       | Lila              |
-| Camassia leichtlinii             | Common camas                |              | Pangmatagalan       | Lila/Puti         |
-| Eriophyllum lanatum              | Oregon sunshine             |              | Pangmatagalan       | Dilaw             |
-| Fragaria vesca                   | Wild strawberry             |              | Pangmatagalan       | Puti              |
-| Iris tenax                       | Oregon iris                 |              | Pangmatagalan       | Lila              |
-| Sedum oregonense                 | Cream Stonecrop             |              | Pangmatagalan       | Dilaw             |
-| Sidalcea virgata                 | Rose Checkermallow          |              | Pangmatagalan       | Rosas             |
-| Sisyrinchium idahoense           | Blue-eyed grass             |              | Pangmatagalan       | Asul/Lila         |
-| Solidago canadensis              | Goldenrod                   | A,B,C,D      | Pangmatagalan       | Dilaw             |
+---
 
+### Taunang Halaman
+
+| Uri ng Halaman                  | Karaniwang Pangalan        | Resulta* | Uri ng Buhay    | Kulay ng Bulaklak |
+| :------------------------------ | :------------------------- | :------- | :-------------- | :---------------- |
+| Acmispon (Lotus) parviflorus    |                            |          | Taunan          | Puti/Rosas        |
+| Clarkia amoena                  | Farewell-to-spring         | D        | Taunan          | Rosas             |
+| Collinsia grandiflora           | Giant blue eyed Mary       |          | Taunan          | Asul              |
+| Gilia capitata                  | Globe gilia                | A, B, C  | Taunan          | Asul              |
+| Lupinus polycarpus              | Miniature lupine           |          | Taunan          | Lila/Asul         |
+| Madia elegans                   | Common madia               | A, B     | Taunan          | Dilaw             |
+| Nemophila menziesii             | Baby blue eyes             |          | Taunan          | Asul/Puti         |
+| Eschscholzia californica        | California Poppy           | B, C, D  | Taunan          | Kahel             |
+| Helianthus annuus               | Common sunflower           |          | Taunan          | Dilaw             |
+| Phacelia heterophylla           | Varied-leaf phacelia       | C, D     | Taunan          | Puti              |
+
+---
+
+### Perennial na Halaman
+
+| Uri ng Halaman            | Karaniwang Pangalan    | Resulta*   | Uri ng Buhay   | Kulay ng Bulaklak |
+| :------------------------ | :--------------------- | :--------- | :------------- | :---------------- |
+| Achillea millefolium      | Yarrow                | D          | Perennial      | Puti              |
+| Anaphalis margaritacea    | Pearly everlasting    |            | Perennial      | Puti              |
+| Asclepias speciosa        | Showy milkweed        |            | Perennial      | Rosas/Puti        |
+| Aquilegia formosa         | Western red columbine |            | Perennial      | Pula              |
+| Aster subspicatum         | Douglas' aster        | A, B, C, D | Perennial      | Lila              |
+| Camassia leichtlinii      | Common camas          |            | Perennial      | Lila/Puti         |
+| Eriophyllum lanatum       | Oregon sunshine       |            | Perennial      | Dilaw             |
+| Fragaria vesca            | Wild strawberry       |            | Perennial      | Puti              |
+| Iris tenax                | Oregon iris           |            | Perennial      | Lila              |
+| Sedum oregonense          | Cream Stonecrop       |            | Perennial      | Dilaw             |
+| Sidalcea virgata          | Rose Checkermallow    |            | Perennial      | Rosas             |
+| Sisyrinchium idahoense    | Blue-eyed grass       |            | Perennial      | Asul/Lila         |
+| Solidago canadensis       | Goldenrod             | A, B, C, D | Perennial      | Dilaw             |
+
+---
+
+#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan sa kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti, o pagpaparusa dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
 ---

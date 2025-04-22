@@ -1,49 +1,76 @@
-10-Minute University™  
-La Asociación de Jardineros Maestros del Condado de Clackamas en colaboración y apoyo del  
-Programa de Jardineros Maestros™ de Extensión de OSU  
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión OSU
 
-Usando Plantas Nativas en Tu Jardín  
-### Introducción  
-Las principales razones para usar plantas nativas en el jardín son sus beneficios para la vida silvestre, su estética regional y su comprobada adaptación al clima, suelo y ecosistemas locales. Es por eso que usamos plantas nativas para la restauración de humedales protegidos, orillas de ríos, praderas, sabanas y bosques. Esto no significa que las plantas nativas automáticamente prosperarán en nuestros jardines domésticos porque estas creaciones humanas generalmente difieren del entorno nativo de las plantas. Para tener éxito, recuerda el viejo adagio “planta correcta, lugar correcto” y ajusta lo que la planta necesita (tipo de suelo y nutrientes, sol/sombra, humedad, tolerancia al frío/calor) a lo que tu sitio ofrece. Sigue los procedimientos establecidos para plantar, regar y monitorear plagas. Asegúrate de darle a tu nueva planta el cuidado adecuado hasta que se establezca.  
+# Usando Plantas Nativas en Tu Jardín
 
-### Conoce Esto Antes de Comenzar  
-La definición oficial del gobierno de planta nativa es: “Una planta que es parte del equilibrio de la naturaleza que se ha desarrollado durante cientos o miles de años en una región o ecosistema particular.” Por lo tanto, la palabra nativa siempre debe usarse con un calificativo geográfico, por ejemplo, nativa del oeste de los Estados Unidos. Solo las plantas que se encontraban en este país antes de la colonización europea se consideran nativas de los Estados Unidos. Muchas plantas nativas tienen variedades cultivadas seleccionadas y cultivadas por humanos; algunas se originan como mutaciones en plantas, otras podrían ser híbridos de dos plantas. Consulta el ‘Glosario de Plantas Nativas’ para más información.  
+### Introducción
 
-Antes de comprar una planta, averigua su hábitat nativo (como bosque de abetos Douglas, humedal de bosque caducifolio, etc.). Saber esto te ayuda a determinar si la planta se adapta a tu jardín. La Lista de Plantas de Portland  
-[https://www.portlandoregon.gov/citycode/article/322280](https://www.portlandoregon.gov/citycode/article/322280) es un buen recurso. Si tienes un lote pequeño, presta especial atención al tamaño de la planta madura. Un espacio grande es más apropiado para plantas que forman matorrales con raíces agresivas como el snowberry (Symphoricarpos albus) y la rosa Nootka (Rosa nutkana).  
+Las principales razones para usar plantas nativas en el jardín son los beneficios para la vida silvestre, su belleza regional y su comprobada adaptación al clima, suelo y ecosistemas locales. Por eso usamos plantas nativas para la restauración de humedales protegidos, orillas de ríos, praderas, sabanas y bosques.
 
-Aclara tu prioridad. Para plantas que ofrecen alimento y hábitat para aves, obtén una lista de plantas sugeridas de la Sociedad Audubon [https://www.audubon.org/native-plants](https://www.audubon.org/native-plants). Si alimentar polinizadores es lo tuyo, consulta la investigación en el Laboratorio de Ecología de Jardines de OSU [http://blogs.oregonstate.edu/gardenecologylab/](http://blogs.oregonstate.edu/gardenecologylab/) para ideas.  
+Esto no significa que las plantas nativas automáticamente prosperarán en nuestros jardines, porque los jardines caseros suelen ser diferentes al ambiente nativo de las plantas. Para tener éxito, recuerda el viejo dicho “la planta correcta, en el lugar correcto” y elige plantas según lo que necesitan (tipo de suelo y nutrientes, sol/sombra, humedad, tolerancia al frío/calor) y lo que tu sitio puede ofrecer. Sigue los procedimientos recomendados para plantar, regar y monitorear plagas. Asegúrate de cuidar bien tu nueva planta hasta que se establezca.
 
-### Plantas Nativas Atractivas para Jardín  
+### Lo que Debes Saber Antes de Empezar
 
-#### Árboles Pequeños y Arbustos  
-- **Cascara (Rhamnus purschiana):** Es un Buckthorn nativo y caducifolio, alcanza hasta 30 pies como árbol o 15 pies como arbusto de múltiples tallos, hojas verdes, corteza grisácea con parches blancos, frutos similares a cerezas, prefiere ubicaciones húmedas y sombreadas.  
-- **Arce enredadera (Acer circinatum):** Árbol caducifolio de múltiples tallos que madura a 20 pies de altura y ancho, crece desde pleno sol hasta sombra profunda, pero con sol tiene mejores colores de follaje otoñal, tolerante a la sequía una vez establecido.  
-- **Amelanchier occidental (Amelanchier alnifolia):** Árbol/arbusto caducifolio de hasta 20 pies, flores blancas fragantes producen frutos comestibles, colócalo en sol o sombra parcial, en suelo de jardín común, prefiere humedad en verano.  
-- **Ceanothus azul costero (Ceanothus thyrsiflorus ‘Oregon Mist’):** Alcanza 15 pies, con pequeñas hojas verdes oscuras y flores turquesa suaves de finales de abril a principios de junio, podar después de la floración, pleno sol y suelo promedio bien drenado, poca o ninguna agua en verano una vez establecido.  
-- **Tassel de seda (Garrya eliptica):** Arbusto perenne de hasta 12 pies de altura y ancho, plantas femeninas y masculinas tienen amentos (los masculinos son más vistosos), requiere sol o sombra parcial, buen drenaje y tolerante a la sequía después de establecido.  
-- **Myrtle de cera del Pacífico (Morella california):** Arbusto perenne de hojas anchas que crece hasta 10-12 pies, sol a sombra parcial, tolera lugares húmedos y sequía en verano, puede podarse en formas geométricas, setos o cultivarse como un árbol pequeño.  
-- **Ocean spray (Holodiscus discolor):** Arbusto de hasta 10 pies, con hábito arqueado elegante, racimos de flores colgantes en blanco cremoso en verano, tolerante a la sequía y buena elección para un jardín boscoso soleado, cerca del fondo de un macizo de arbustos o junto a un edificio.  
-- **Manzanita peluda (Arctostaphylos columbiana ‘Wolf Creek’):** Arbusto perenne de hasta 8 pies por 8 pies, con hojas verde grisáceas, flores blancas en primavera y corteza caoba suave exfoliante, sin agua en verano, ideal para áreas silvestres y colinas secas.  
-- **Grosellero florido (Ribes sanguineum):** Arbusto caducifolio de múltiples tallos que crece hasta 8 pies de altura y ancho, florece a principios de primavera, y es mejor en una ubicación soleada pero tolerará sombra.  
-- **Arándano perenne (Vaccinium ovatum):** Arbusto de crecimiento lento que alcanza hasta 8 pies o más, pequeñas flores blancas en primavera se convierten en bayas azul-negras para mermelada o jalea, funciona igual de bien en bosques que en pleno sol, tolerante a la sequía después de establecido, pero la irrigación ayuda a la floración y fructificación.  
-- **Manzanita rastrera (Arctostaphylos x media ‘Martha Ewan’):** Arbusto perenne de 2 pies de altura y 6 pies de ancho con hojas verdes intensas, flores blancas en primavera seguidas de grandes bayas rojas para la vida silvestre, pleno sol en suelos bien drenados, sin agua en verano una vez establecido, excelente para pendientes soleadas.  
-- **Spiraea de hojas brillantes (Spiraea betulifolia var. lucida):** Montículo bajo de 2 pies de altura y 3 pies de ancho, flores blancas a finales de primavera, hojas caducifolias con colores otoñales, pleno sol y suelo rico, necesita agua ligera en verano.  
+La definición oficial del gobierno de una planta nativa es:
 
-#### Perennes y Anuales  
-- **Helecho espada (Polysticum munitum):** Montículo perenne de 3 pies de altura y ancho, tolera sombra seca.  
-- **Hierba de pelo tupido (Deschampsia caespitosa):** Hierba perenne, sol a sombra parcial, hasta 3 pies de altura y 2 pies de ancho, algo de agua en verano, bajo mantenimiento.  
-- **Malva rosa (Sidalcea virgata):** Produce flores rosadas a magenta en tallos de 2 pies, prospera en suelo rico con agua promedio en verano y forma un grupo de 2 pies con el tiempo. Nativa de suelos arcillosos pesados, adaptada a no requerir agua en verano, pero la irrigación aumenta la cantidad y duración de las flores.  
-- **Columbina occidental (Aquilegia formosa):** Hasta 2 pies, con flores rojas inclinadas, prefiere áreas húmedas en su hábitat silvestre.  
-- **Helecho de ciervo (Blechnum spicant):** Ofrece frondas perennes de 2 pies de altura, en sombra ligera a profunda, en suelos ricos y húmedos o bien drenados con agua ocasional en verano, tolera suelos arenosos y arcillosos.  
-- **Mary de ojos azules gigante (Collinsia grandiflora):** Anual herbácea de 20 pulgadas de altura que forma una nube de pequeñas flores azules y blancas tipo boca de dragón desde finales de abril a mediados de junio, prefiere sitios soleados abiertos, agua para establecerse.  
-- **Trillium costero (Trillium ovatum):** Crece hasta 18 pulgadas de altura, requiere suelo fértil, rico en humus y bien drenado en sombra ligera, las plantas jóvenes pueden tardar tres años en florecer, deja las flores viejas para que formen semillas: las hormigas las dispersarán.  
-- **Fresas para cobertura del suelo (Fragaria spp.):** Incluyen varias especies de fresas nativas con frutos para la vida silvestre y follaje perenne, sol a sombra parcial, pueden extenderse.  
+> “Una planta que es parte del equilibrio de la naturaleza y que se ha desarrollado durante cientos o miles de años en una región o ecosistema en particular.”
 
-### Recursos de OSU y Otros  
-- Jardinería con Plantas Nativas de Oregón al Oeste de las Cascadas, Publicación de Extensión de OSU EC1577 [https://catalog.extension.oregonstate.edu/ec1577](https://catalog.extension.oregonstate.edu/ec1577)  
-- Plantas Nativas para Jardines del Valle de Willamette [https://www.oregonmetro.gov/native-plants-willamette-valley-yards-booklet](https://www.oregonmetro.gov/native-plants-willamette-valley-yards-booklet)  
-- Glosario de Plantas Nativas, folleto de 10-Minute University™ [www.cmastergardeners.org](http://www.cmastergardeners.org)  
-- Estudio de Atracción de Plantas Nativas – Lista de Plantas, folleto de 10-Minute University™ [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+Por eso, la palabra *nativa* siempre debe usarse con un calificativo geográfico – por ejemplo, nativa del oeste de Estados Unidos. Solo las plantas que se encontraban en este país antes de la llegada de los europeos se consideran nativas de Estados Unidos. Muchas plantas nativas tienen variedades cultivadas seleccionadas y cultivadas por humanos—algunas surgen como mutaciones en plantas; otras pueden ser híbridos de dos plantas. Consulta el **Glosario de Plantas Nativas** para más información.
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)  
+Antes de comprar una planta, averigua cuál es su hábitat nativo (como bosque de abeto de Douglas, humedal de bosque caducifolio, etc.). Saber esto te ayuda a decidir si la planta es adecuada para tu jardín. La [Lista de Plantas de Portland](https://www.portlandoregon.gov/citycode/article/322280) es un buen recurso.
+
+Si tienes un terreno pequeño, pon especial atención al tamaño de la planta cuando sea adulta. Un espacio grande es más apropiado para plantas que forman matorrales y tienen raíces que se extienden agresivamente, como el “snowberry” (*Symphoricarpos albus*) y la rosa Nootka (*Rosa nutkana*).
+
+Aclara tu prioridad:
+
+- Si buscas plantas que ofrezcan alimento y refugio para aves, obtén una lista sugerida de plantas de la [Sociedad Audubon](https://www.audubon.org/native-plants).
+- Si tu enfoque es alimentar polinizadores, revisa las investigaciones del [Laboratorio de Ecología de Jardines de OSU](http://blogs.oregonstate.edu/gardenecologylab/) para obtener ideas.
+
+---
+
+## Plantas Nativas Recomendadas para el Jardín
+
+Profesionales experimentados de viveros y diseñadores de jardines nominaron plantas de alta calidad estética, buen comportamiento en el jardín y disponibles en viveros.
+
+### Árboles Pequeños y Arbustos
+
+- **Cascara (*Rhamnus purschiana*)**: Arbusto nativo caducifolio que puede crecer hasta 9 metros como árbol o 4,5 metros como arbusto de varios tallos. Hojas verdes, corteza grisácea con manchas blancas y frutos parecidos a cerezas. Prefiere lugares húmedos y sombreados.
+- **Arce vid (*Acer circinatum*)**: Árbol caducifolio de varios tallos, alcanza 6 metros de alto y ancho. Crece desde pleno sol hasta sombra profunda, pero con sol tiene mejores colores otoñales. Tolera sequía cuando está establecido.
+- **Amelanchier del oeste (*Amelanchier alnifolia*)**: Árbol/arbusto caducifolio de hasta 6 metros. Flores blancas fragantes producen frutos comestibles. Coloca en sol o semisombra en suelo común de jardín. Prefiere humedad en verano.
+- **Ceanoto costero (*Ceanothus thyrsiflorus ‘Oregon Mist’*)**: Crece hasta 4,5 metros, con hojas pequeñas verde oscuro y flores azul turquesa suave de finales de abril a principios de junio. Pode después de la floración. Pleno sol y suelo bien drenado. Poco o nada de agua de verano cuando está establecido.
+- **Garrya (*Garrya eliptica*)**: Arbusto perenne de hasta 3,6 metros de alto y ancho. Plantas masculinas y femeninas tienen amentos (los masculinos son más vistosos). Tolera sol o semisombra, buen drenaje y sequía cuando está establecido.
+- **Myrica de la costa (*Morella california*)**: Arbusto perenne de hojas anchas que crece de 3 a 3,6 metros. Sol a semisombra. Tolera lugares húmedos y sequía en verano. Puede podarse en formas geométricas, setos o crecer como árbol pequeño.
+- **Arroyo blanco (*Holodiscus discolor*)**: Arbusto de hasta 3 metros, con hábito arqueado y racimos de flores blancas cremosas en verano. Tolera sequía y es buena opción para jardines soleados, áreas de arbustos o cerca de edificios.
+- **Manzanita vellosa (*Arctostaphylos columbiana ‘Wolf Creek’*)**: Arbusto perenne de 2,4 metros de alto y ancho. Hojas verde grisáceo, flores blancas en primavera y corteza caoba lisa que se pela. No requiere agua en verano. Buena para áreas silvestres y laderas secas.
+- **Grosellero florido (*Ribes sanguineum*)**: Arbusto caducifolio de varios tallos que crece hasta 2,4 metros de alto y ancho. Florece a principios de primavera. Mejor en lugar soleado pero tolera sombra.
+- **Arándano perenne (*Vaccinium ovatum*)**: Arbusto erecto de crecimiento lento de hasta 2,4 metros o más. Flores pequeñas blancas en primavera se convierten en bayas azul-negras a fines del verano para mermelada o jalea. Se adapta igual de bien a zonas boscosas y pleno sol. Tolera sequía cuando está establecido, pero el riego ayuda a la floración y fructificación.
+- **Manzanita cubresuelo (*Arctostaphylos x media ‘Martha Ewan’*)**: Arbusto perenne de 60 cm de alto por 1,8 metros de ancho, hojas verde oscuro. Flores blancas en primavera seguidas de grandes bayas rojas para la fauna. Pleno sol en suelos bien drenados. No necesita agua en verano cuando está establecido. Excelente para laderas soleadas.
+- **Spiraea de hojas brillantes (*Spiraea betulifolia var. lucida*)**: Montículo bajo de 60 cm de alto y 90 cm de ancho. Flores blancas a fines de primavera. Hojas caducas con colores otoñales. Pleno sol y suelo fértil. Necesita riego ligero en verano.
+
+### Plantas Perennes y Anuales
+
+- **Helecho espada (*Polysticum munitum*)**: Montículo perenne de 90 cm de alto y ancho. Tolera sombra seca.
+- **Pasto de penacho (*Deschampsia caespitosa*)**: Pasto perenne, sol a semisombra, hasta 90 cm de alto y 60 cm de ancho. Requiere algo de agua en verano. Bajo mantenimiento.
+- **Malva rosada (*Sidalcea virgata*)**: Flores rosadas a magenta en tallos de 60 cm. Crece bien en suelo fértil con agua regular en verano. Forma un macizo de 60 cm con el tiempo. Nativa de suelos arcillosos y adaptada a no tener agua en verano, pero el riego aumenta la cantidad y duración de la floración.
+- **Aguileña del oeste (*Aquilegia formosa*)**: Llega a 60 cm, con flores rojas colgantes. Prefiere lugares húmedos en la naturaleza.
+- **Helecho de ciervo (*Blechnum spicant*)**: Frondas perennes de 60 cm de alto. Crece bien en sombra ligera a profunda, en suelos ricos y húmedos o bien drenados con riego ocasional en verano. Tolera suelos arenosos y arcillosos.
+- **Collinsia de flores grandes (*Collinsia grandiflora*)**: Anual de 50 cm de alto con flores pequeñas azules y blancas tipo boca de dragón de fines de abril a mediados de junio. Prefiere sitios abiertos y soleados. Riega para establecer.
+- **Trillium de la costa (*Trillium ovatum*)**: Llega a 45 cm de alto. Requiere suelo fértil, rico en humus, bien drenado y en semisombra. Las plantas jóvenes pueden tardar tres años en florecer. Deja las flores viejas para que produzcan semillas—las hormigas las dispersarán.
+- **Fresas cubresuelo (*Fragaria spp.*)**: Incluye varias especies de fresas nativas con frutos para la fauna y follaje perenne. Sol a semisombra. Puede expandirse.
+
+---
+
+## Recursos de OSU y Otros
+
+- **Jardinería con Plantas Nativas de Oregón al Oeste de las Cascadas**, Publicación de Extensión OSU EC1577  
+  [https://catalog.extension.oregonstate.edu/ec1577](https://catalog.extension.oregonstate.edu/ec1577)
+- **Plantas Nativas para Jardines del Valle Willamette**  
+  [https://www.oregonmetro.gov/native-plants-willamette-valley-yards-booklet](https://www.oregonmetro.gov/native-plants-willamette-valley-yards-booklet)
+- **Glosario de Plantas Nativas**, folleto de Universidad de 10 Minutos™  
+  [www.cmastergardeners.org](http://www.cmastergardeners.org)
+- **Estudio de Atractivo de Plantas Nativas – Lista de Plantas**, folleto de Universidad de 10 Minutos™  
+  [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paterno, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---

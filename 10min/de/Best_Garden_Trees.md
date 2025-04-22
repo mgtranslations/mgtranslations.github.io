@@ -1,230 +1,243 @@
-# Beste Gartenbäume  
-### 10-Minuten-Universität™  
-### Clackamas County Master Gardener™ Association  
-
-Clackamas County Master Gardener™ Association  
-10-Minuten-Universität™  
-In Zusammenarbeit und Unterstützung des  
-OSU Extension Service Master Gardener Program™  
-
-## Ziele  
-Diese Präsentation hilft Ihnen:  
-- Zu lernen, wie man einen Gartenbaum platzieren, pflanzen und pflegen kann, damit er gedeiht.  
-- Sich über ausgezeichnete Kandidaten für Hausgärten im pazifischen Nordwesten bewusst zu werden.  
-
-## Ressourcen  
-**Oregon State University Extension Publikation EC1438**  
-[https://catalog.extension.oregonstate.edu/ec1438](https://catalog.extension.oregonstate.edu/ec1438)  
-*Selecting, Planting, and Caring for a New Tree* (Paul Ries, Co-Autor)  
-
-### Sechs Gartenbau-Experten:  
-- **Paul Bonine**, Mitinhaber, XERA Plants, [www.xeraplants.com](https://www.xeraplants.com)  
-- **Nancy Buley**, Marketing-Direktorin, J. Frank Schmidt & Son Co., [www.jfschmidt.com](https://www.jfschmidt.com)  
-- **Jane Hartline**, Inhaberin, Sauvie Island Natives, [https://sauvienatives.com](https://sauvienatives.com)  
-- **Sean Hogan**, Inhaber, Cistus Design Nursery, [www.cistus.com](https://www.cistus.com)  
-- **Martin Nicholson**, Kurator, Hoyt Arboretum, [www.hoytarboretum.org](https://www.hoytarboretum.org)  
-- **Richie Steffen**, Geschäftsführer, Elizabeth C. Miller Botanical Garden & Great Plant Picks, [www.greatplantpicks.org](https://www.greatplantpicks.org)  
+#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
 ---
 
-## Platzanforderungen für Bäume  
-- Schätzen Sie den verfügbaren Platz über und unter der Erde.  
-- Schätzen Sie die zukünftige Reichweite von Wurzeln und Trieben.  
-- Konsultieren Sie mehrere Quellen für die endgültige Höhe und Breite.  
+## WARNUNG: Die Originaldatei enthält viele Bilder und konnte nicht vollständig übersetzt werden. Bitte schauen Sie sich auch die Original-PDF-Datei [hier](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf) an.
 
-### Nützliche Quellen:  
-- OSU Landscape Plant Database: [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu)  
-- *The Tree Book*, Michael Dirr & Keith Warren, Timber Press, 2019  
-- *Trees to Know in Oregon and Washington*, Edward Jensen, OSU Extension Publikation EC1450 [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-
-**Hinweis:** Die Größe eines Baumes hängt von Boden und Standort ab.  
+# Die besten Bäume für den Garten
 
 ---
 
-## Orte, um Bäume zu sehen  
-- **Hoyt Arboretum**, Portland, OR [https://hoytarboretum.gardenexplorer.org/](https://hoytarboretum.gardenexplorer.org/)  
-- **Oregon State University Campus**, Corvallis, OR [https://landscapeplants.oregonstate.edu/](https://landscapeplants.oregonstate.edu/)  
-- **Portland Straßen und Parks** [https://www.portland.gov/trees/get-involved/treeinventory](https://www.portland.gov/trees/get-involved/treeinventory)  
-- **Cistus Nursery Schaugarten**, Sauvie Island, OR  
-- **Iseli Nursery**, Boring, OR  
-- **J. Frank Schmidt Arboretum**, Boring, OR  
+## Ziele
+
+Diese Präsentation hilft dir:
+
+- Zu wissen, wie man einen Gartenbaum richtig platziert, pflanzt und pflegt, damit er gut wächst.
+- Exzellente Baumarten für Hausgärten im Pazifischen Nordwesten kennenzulernen.
 
 ---
 
-## Baumformen im Erwachsenenalter  
-Die Form eines Baumes kann sich mit dem Alter ändern.  
-**Bilder verfügbar unter:** [https://jfschmidt.com](https://jfschmidt.com)  
+## Ressourcen
+
+- **Oregon State University Extension Veröffentlichung EC1438**  
+  [Auswahl, Pflanzung und Pflege eines neuen Baumes](https://catalog.extension.oregonstate.edu/ec1438) (Paul Ries, Mitautor)
+- **Sechs Gartenbau-Expert*innen**
+  - Paul Bonine, Miteigentümer, XERA Plants, [www.xeraplants.com](https://www.xeraplants.com)
+  - Nancy Buley, Marketingdirektorin, J. Frank Schmidt & Son Co., [www.jfschmidt.com](https://www.jfschmidt.com)
+  - Jane Hartline, Inhaberin, Sauvie Island Natives, [https://sauvienatives.com](https://sauvienatives.com)
+  - Sean Hogan, Inhaber, Cistus Design Nursery, [www.cistus.com](https://www.cistus.com)
+  - Martin Nicholson, Kurator, Hoyt Arboretum, [www.hoytarboretum.org](https://www.hoytarboretum.org)
+  - Richie Steffen, Geschäftsführer, Elizabeth C. Miller Botanical Garden & Great Plant Picks, [www.greatplantpicks.org](https://www.greatplantpicks.org)
 
 ---
 
-## Greifen Wurzeln Abwasserrohre an?  
-- Wählen Sie kleinere Bäume, wenn Konflikte mit Abwasserrohren ein Problem sind.  
-- Größere Bäume haben ausgedehntere Wurzeln. Beispiele für Bäume mit „aggressiven“ Wurzeln:  
-  - Weide, Esche, Pappel, Baumwollholz, Amberbaum, Platanen, einige Ahornarten (Norwegen-, Silber-, Boxelder-, Rotahorn).  
-- Wurzeln wachsen dort, wo Wasser und Luft vorhanden sind, und dringen in Risse oder schwache Verbindungen von Abwasserrohren ein.  
-- Betonbegrenzungen zwingen Wurzeln, entweder über der Erde oder tiefer zu wachsen.  
+## Platzbedarf für die Baumpflanzung
 
-**Weiterführende Informationen:**  
-- *Landscaping and Utilities: Problems, Prevention, and Plant Selection* [https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf](https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf)  
-
----
-
-## Draht- und Strukturprobleme bei der Platzierung eines Baumes  
-**USDA Tree Owners Manual:** [www.treeownersmanual.info](https://www.treeownersmanual.info)  
-- Halten Sie Bäume mindestens 3 Fuß von Pflasterflächen, 15 Fuß von Gebäuden und anderen Bäumen entfernt.  
-- Wenn der Baum höher als 30 Fuß wächst, pflanzen Sie ihn 25 Fuß entfernt von Überlandleitungen.  
-- Hohe Bäume, die 60 Fuß oder mehr erreichen, sollten mindestens 35 Fuß vom Haus entfernt sein, um eine ordnungsgemäße Wurzelentwicklung zu gewährleisten.  
-
-**International Society of Arboriculture:** [www.isa-arbor.com](https://www.isa-arbor.com)  
-- Bäume, die innerhalb von 15 Fuß von Versorgungsleitungen gepflanzt werden, sollten bei voller Größe nicht höher als 20 Fuß sein.  
+- Schätze den verfügbaren Platz über und unter der Erde ab.
+- Schätze die zukünftige Ausbreitung der Wurzeln und Zweige ab.
+- Konsultiere mehrere Quellen für die Endgröße (Höhe und Breite):
+  - [OSU Landscape Plant Database](https://landscapeplants.oregonstate.edu)
+  - *The Tree Book*, Michael Dirr & Keith Warren, Timber Press, 2019
+  - *Trees to Know in Oregon and Washington*, Edward Jensen, OSU Extension Veröffentlichung EC1450, [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- Bedenke, dass die Größe je nach Boden und Standort variieren kann.
 
 ---
 
-## Boden- und Wasserprobleme bei der Platzierung eines Baumes  
-- Wurzeln benötigen sowohl Luft als auch Wasser.  
-- Gesunder Boden ermöglicht den Durchfluss von Luft und Wasser, verdichteter Boden nicht.  
-- Platzieren Sie Bäume dort, wo die Wurzeln nicht von Pflaster oder Beton bedeckt werden.  
-- Sorgen Sie für eine Bewässerungsquelle.  
-- Gießen Sie die Wurzelzone während der Anwuchsphase (erste 3 Jahre).  
-- Einige ausgewachsene Bäume benötigen während Dürreperioden Wasser.  
-- Rasen und Baum haben selten denselben Wasserbedarf.  
-- Einige Bäume, wie Zypressen und einheimische Eichen, mögen kein Sommerwasser.  
+## Orte, um Bäume zu sehen
+
+- Hoyt Arboretum, Portland, OR  
+  [https://hoytarboretum.gardenexplorer.org](https://hoytarboretum.gardenexplorer.org)
+- Oregon State University Campus, Corvallis, OR  
+  [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu)
+- Straßen und Parks in Portland  
+  [https://www.portland.gov/trees/get-involved/treeinventory](https://www.portland.gov/trees/get-involved/treeinventory)
+- Schaugarten der Cistus Nursery, Sauvie Island, OR
+- Iseli Nursery, Boring, OR
+- J. Frank Schmidt Arboretum, Boring, OR
 
 ---
 
-## Verwendung von Bäumen als Windschutz oder Schatten  
-- Verwenden Sie Nadel- oder breitblättrige immergrüne Bäume, um den vorherrschenden Wind zu blockieren.  
-- Nutzen Sie Baumkronen, um die Sommersonne zu beschatten.  
-- Verwenden Sie einen Laubbaum für Sommerschatten, wenn Sie möchten, dass im Winter Sonnenlicht durchscheint.  
+## Baumformen im Erwachsenenalter
+
+Die Form eines Baumes kann sich mit dem Alter verändern.  
+Bilder findest du unter [https://jfschmidt.com](https://jfschmidt.com).
 
 ---
 
-## Beste kleine Bäume  
-### Laubabwerfend  
-- Fernleaf Fullmoon Maple  
-- Chinese Fringetree  
-- Sparkling Sprite® Crabapple  
-- Persian Ironwood  
-- Crapemyrtle  
-- Gold Spire™ Ginkgo  
-- Vine Maple (OR einheimisch)  
-- Cascara (OR einheimisch)  
-- Western Crabapple (OR einheimisch)  
+## Greifen Baumwurzeln Abwasserrohre an?
 
-### Immergrün  
-- Tree Mock Orange  
-- Loquat  
-- Magnolia ‘Largess’  
-- New Zealand Lacebark  
-- Noble Fir ‘Rick’s Foxtail’  
+- Wähle kleinere Bäume, wenn Konflikte mit Abwasserrohren möglich sind.
+- Größere Bäume haben weitreichendere Wurzeln; Bäume mit sogenannten „aggressiven“ Wurzeln sind z. B.:
+  - Weide, Esche, Pappel, Zitterpappel, Amberbaum, Platane, einige Ahornarten (Norwegen-, Silber-, Eschenahorn, Rotahorn).
+- Wurzeln wachsen dorthin, wo Wasser und Luft sind, und dringen in Risse oder schwache Stellen von Abwasserrohren ein.
+- Betonränder zwingen Wurzeln dazu, über der Erde oder tiefer zu wachsen.
 
-*Details zu jedem Baum, einschließlich seiner Größe, Pflegeanforderungen und USDA-Zonen, sind oben aufgeführt.*  
+**Ressource:**  
+[Landscaping and Utilities: Problems, Prevention, and Plant Selection](https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf)
 
 ---
 
-## Beste Windschutz- oder Schattenbäume  
-### Windschutz  
-- Incense Cedar (OR einheimisch)  
+## Probleme mit Leitungen & Bauwerken bei der Baumpflanzung
 
-### Immergrüne Schattenspender  
-- Silver Leaf Oak  
-
-### Laubabwerfende Schattenspender  
-- ‘Pink Dawn’ Chitalpa  
-- Redpoint® Maple  
-- Firestarter® Tupelo  
-- Pink Flair® Cherry  
-- City Sprite® Zelkova  
-- Japanese Stewartia  
+- **USDA Tree Owners Manual**: [www.treeownersmanual.info](https://www.treeownersmanual.info)
+  - Pflanze Bäume mindestens 1 Meter von Gehwegen sowie 4,5 Meter von Gebäuden und anderen Bäumen entfernt.
+  - Wenn der Baum höher als 9 Meter wird, pflanze ihn 7,5 Meter entfernt von Stromleitungen.
+  - Hohe Bäume (ab 18 Meter) sollten mindestens 10,5 Meter vom Haus entfernt stehen, damit sich die Wurzeln richtig entwickeln können.
+- **International Society of Arboriculture**: [www.isa-arbor.com](https://www.isa-arbor.com)
+  - Bäume, die näher als 4,5 Meter an Stromleitungen stehen, sollten ausgewachsen nicht höher als 6 Meter werden.
 
 ---
 
-## Beste Bäume für sonnige und trockene Standorte  
-### Einheimisch in Oregon  
-- California Lilac  
-- Macnab's Cypress  
-- Canyon Live Oak  
-- Oregon White Oak  
+## Boden- und Wasserfragen bei der Baumpflanzung
 
-### Nicht einheimisch  
-- Cork Oak  
-- Channel Island Oak  
-- Olive  
-- Jounama Snow Gum  
-
-*Details zu jedem Baum, einschließlich seiner Pflege, sind oben aufgeführt.*  
+- Wurzeln brauchen Luft und Wasser.
+- Gesunder Boden ermöglicht Luft- und Wassertransport; verdichteter Boden nicht.
+- Pflanze Bäume dort, wo die Wurzeln nicht unter Asphalt oder Beton geraten.
+- Sorge für eine Bewässerungsmöglichkeit.
+- Bewässere die Wurzelzone während der Anwachsphase (erste 3 Jahre).
+- Manche ausgewachsenen Bäume benötigen Wasser in Trockenzeiten.
+- Rasen und Baum haben meistens unterschiedliche Wasserbedürfnisse.
+- Einige Bäume, z. B. Zypressen und heimische Eichen, mögen im Sommer kein Wasser.
 
 ---
 
-## Den richtigen Baum kaufen: Größer ≠ schneller  
-- Normaler Wuchs setzt sich fort, wenn ein transplantierter Baum ein Verhältnis zwischen Trieben und Wurzeln erreicht, das vergleichbar mit nicht transplantierten Bäumen ist.  
-- Kleinere transplantierte Bäume setzen das Wachstum schneller fort.  
-- Größere transplantierte Bäume benötigen viel länger.  
-- Nach der Transplantation wachsen Bäume jahrelang langsam, während die Wurzeln langsam die Größe eines nicht transplantierten Baums erreichen.  
+## Bäume als Windschutz oder Schattenspender nutzen
 
-**Weiterführend:**  
-- *Influence of Tree Size on Transplant Establishment and Growth*, HortTechnology [https://journals.ashs.org/horttech/view/journals/horttech/15/1/article-p118.xml](https://journals.ashs.org/horttech/view/journals/horttech/15/1/article-p118.xml)  
+- Nutze Nadel- oder immergrüne Laubbäume, um vorherrschenden Wind zu blockieren.
+- Verwende Baumkronen als Schattenspender gegen die Sommersonne.
+- Ein laubabwerfender Baum spendet im Sommer Schatten, lässt aber im Winter Sonnenlicht durch.
 
 ---
 
-## Pflanztipps  
-### Pflanzen  
-- Graben Sie ein Loch in der gleichen Tiefe wie das Wurzelsystem, mindestens doppelt so breit.  
-- Entfernen Sie Wurzeln und große Steine aus diesem Loch.  
-- Lockern Sie den ausgegrabenen Boden.  
-- Formen Sie einen Hügel aus natürlichem Boden in der Mitte.  
-- Platzieren Sie die Wurzeln über dem Hügel und verteilen Sie sie sternförmig.  
-- Überprüfen Sie die Krone, um sicherzustellen, dass sie ÜBER dem Bodenniveau ist.  
-- Füllen Sie das Loch mit Erde und wässern Sie es gut.  
+## Beste kleine Bäume
+
+### Laubabwerfend
+
+- Farnblättriger Ahorn
+- Chinesischer Blumenhartriegel
+- Sparkling Sprite® Zierapfel
+- Persische Eisenholzbaum
+- Lagerströmie
+- Gold Spire™ Ginkgo
+- Kletter-Ahorn (heimisch in Oregon)
+- Cascara (heimisch in Oregon)
+- Westlicher Zierapfel (heimisch in Oregon)
+
+### Immergrün
+
+- Immergrüner Pfeifenstrauch
+- Wollmispel
+- Magnolie ‘Largess’
+- Neuseeländischer Lacebark
+- Edeltanne ‘Rick’s Foxtail’
 
 ---
 
-### Nicht zu tief pflanzen  
-- Wurzelansatz freilassen.  
+## Beste Windschutz- oder Schattenspender-Bäume
+
+### Windschutz
+
+- Weihrauchzeder (heimisch in Oregon)
+
+### Immergrüner Schattenspender
+
+- Silberblatteiche
+
+### Laubabwerfender Schattenspender
+
+- ‘Pink Dawn’ Chitalpa
+- Redpoint® Ahorn
+- Firestarter® Tupelobaum
+- Pink Flair® Kirsche
+- City Sprite® Zelkove
+- Japanische Stewartie
 
 ---
 
-### Nur wenn nötig stützen  
-- Toplastige Pflanzen.  
-- Windige Standorte.  
-- Verwenden Sie ein Paar Pfähle, die vor dem Pflanzen in den Boden getrieben werden, um die Wurzeln nicht zu beschädigen.  
-- Binden Sie tief (unteres Drittel des Stammes).  
-- Locker genug, um „Bewegung“ zu ermöglichen.  
-- Verwenden Sie Materialien, die die Rinde nicht beschädigen.  
-- Nicht länger als ein Jahr stützen.  
+## Beste Bäume für sonnige & trockene Standorte
+
+### Heimisch in Oregon
+
+- Kalifornischer Flieder
+- Macnab’s Zypresse
+- Canyon-Live-Eiche
+- Oregon-Weißeiche
+
+### Nicht-heimisch
+
+- Korkeiche
+- Channel Island Eiche
+- Olive
+- Jounama Schnee-Eukalyptus
 
 ---
 
-### Gut gießen  
-- Häufig gießen, wenn in der warmen Jahreszeit gepflanzt wird.  
-- Herbstpflanzungen benötigen weniger zusätzliches Wasser.  
-- Vor dem Frost wässern.  
-- Immergrüne Nadelbäume nutzen auch im Winter Wasser.  
-- Wässern Sie die Wurzelzone während der Etablierung (erste 3 Jahre).  
-- Pro Woche 2 Gallonen pro Zoll Stammdurchmesser.  
-- Wurzeln reichen weiter als die Baumkrone.  
-- Befeuchten Sie die Wurzelzone mit einem langsamen Wasserstrahl.  
-- Tropfschlauch oder Löcher in einem 5-Gallonen-Eimer bohren, über der Wurzelzone platzieren und füllen.  
+## Baumkauf: Größer ist nicht immer besser
+
+- Das normale Wachstum setzt wieder ein, wenn ein umgepflanzter Baum ein ähnliches Verhältnis von Trieben zu Wurzeln wie nicht umgepflanzte Bäume erreicht.
+- Kleinere Bäume wachsen nach dem Umsetzen schneller wieder an.
+- Größere Bäume brauchen viel länger.
+- Nach dem Umpflanzen wachsen Bäume viele Jahre langsam, während die Wurzeln langsam das Niveau von nicht umgepflanzten Bäumen erreichen.
+
+**Ressource:**  
+[Influence of Tree Size on Transplant Establishment and Growth](https://journals.ashs.org/horttech/view/journals/horttech/15/1/article-p118.xml)
 
 ---
 
-### Mulch verwenden  
-- 4 Zoll Holzspäne auf die Erde legen (bis zu 12 Zoll laut Forschung möglich).  
-- Frisch ist besser als kompostiert – fördert Pilze und bereichert die Bodenmikrobiologie.  
-- Nicht in den Boden mischen.  
-- Die gesamte Wurzelzone abdecken.  
-- Bis zum Stamm ausdünnen.  
+## Pflanztipps
 
-**Kostenlose Holzspäne:**  
-[https://portlandgeneral.com/outages-safety/safety/tree-maintenance/free-wood-chips](https://portlandgeneral.com/outages-safety/safety/tree-maintenance/free-wood-chips)  
+### Nicht zu tief pflanzen
 
-*Using Arborist Wood Chips as a Landscape Mulch*, Washington State University FS160E [https://pubs.extension.wsu.edu/search?q=FS160E](https://pubs.extension.wsu.edu/search?q=FS160E)  
+- Die Wurzelanläufe sollen über dem Erdboden liegen.
+
+### Nur wenn nötig anbinden
+
+- Bei kopflastigen Pflanzen oder windigen Standorten.
+- Schlage die Pfähle vor dem Pflanzen in die Erde, um die Wurzeln nicht zu beschädigen.
+- Binde niedrig (im unteren Drittel des Stamms), locker genug, damit der Baum „wackeln“ kann.
+- Verwende Materialien, die die Rinde nicht beschädigen.
+- Maximal ein Jahr anbinden.
+
+### Gut wässern
+
+- Gieße häufig, wenn du in der warmen Jahreszeit pflanzt.
+- Im Herbst braucht es weniger zusätzliches Wasser.
+- Vor Frostperioden ausreichend wässern.
+- Immergrüne Nadelbäume brauchen auch im Winter Wasser.
+- Während der Anwachsphase (erste 3 Jahre) die Wurzelzone wässern.
+- Pro Woche 8 Liter Wasser pro Zentimeter Stammumfang.
+- Die Wurzeln reichen weiter als die Krone.
+- Wässere die Wurzelzone langsam und gründlich:
+  - Tröpfchenbewässerung / Sickerschlauch ODER
+  - Löcher in den Boden eines 20-Liter-Eimers bohren, über die Wurzelzone stellen und dann füllen.
+
+### Mulch verwenden
+
+- 10 cm Häckselholz auf die Erde geben (Forschung zeigt bis zu 30 cm sind in Ordnung).
+- Frisches Material ist besser als kompostiertes – es fördert Pilze und das Bodenleben.
+- Nicht in die Erde einarbeiten.
+- Die ganze Wurzelzone bedecken, zum Stamm hin dünner werden lassen.
+
+**Ressourcen:**
+
+- [Kostenlose Holzhackschnitzel](https://portlandgeneral.com/outages-safety/safety/tree-maintenance/free-wood-chips)
+- [Arboristenschnitzel als Mulch verwenden](https://pubs.extension.wsu.edu/search?q=FS160E)
 
 ---
 
-## Weitere Ressourcen  
-- *Selecting, Planting, and Caring for a New Tree*, Oregon State University Extension Publikation EC1438 [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- *The Sibley Guide to Trees*, David Allen Sibley, Knopf, 2009  
-- *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019  
-- *Trees to Know in Oregon and Washington*, Edward C. Jensen, Oregon State University Extension Service, EC1450  
+## Weitere Ressourcen
+
+- *Auswahl, Pflanzung und Pflege eines neuen Baumes*, Oregon State University Extension Veröffentlichung EC1438, kostenloser Download unter [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- *The Sibley Guide to Trees*, David Allen Sibley, Knopf, 2009
+- *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
+- *Trees to Know in Oregon and Washington*, Edward C. Jensen, Oregon State University Extension Service, EC1450
 - [i-Tree](https://www.itreetools.org/)
+
+---
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Handouts und Kurspläne besuche [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich geschlechtlicher Ausdrucksweise), sexueller Orientierung, Behinderung, Alter, Familienstand, elterlichem Status, Einkommen aus öffentlichen Hilfsprogrammen, politischen Überzeugungen, genetischer Information, Veteranenstatus, Repressalien oder Vergeltung wegen früherer Bürgerrechtsaktivitäten. (Nicht alle untersagten Gründe gelten für alle Programme.)
+---

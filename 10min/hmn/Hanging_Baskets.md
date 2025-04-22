@@ -1,131 +1,148 @@
-# 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener hauv kev koom tes thiab kev txhawb nqa ntawm  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Koom Haum Master Gardener Clackamas County koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Pob tawb dai  
-### Txheej txheem  
-Pob tawb dai, uas muaj paj zoo nkauj thiab muaj xim nplua nuj, yog ib qho tseem ceeb rau lub caij ntuj sov nyob hauv ntau lub nroog thiab vaj.  
+# Lub Pob Tseg Puav Hnab (Hanging Baskets)
 
-### Xaiv ib lub chaw ntim  
-Ib lub chaw ntim zoo yuav tsum loj txaus kom siv tau tag lub caij loj hlob thiab txaus kom nqa tau rau qhov chaw dai. Lub chaw ntim uas yooj yim yuav ua tau zoo vim tias tom qab ib ntus, lub lauj kaub yuav raug npog tag los ntawm cov nroj tsuag uas dai.  
+### Txheej txheem
 
-Cov chaw ntim tuaj rau hauv ntau yam zoo, loj, thiab khoom siv. Cov ntoo, sphagnum moss, thiab av ci lossis terra cotta, tuaj yeem qhuav sai. Cov no tuaj yeem muaj txheej sab hauv (feem ntau yog yas uas muaj qhov tho) kom tuav dej ntev dua. Xav txog tias av ci thiab terra cotta yuav hnyav heev tom qab cog thiab muab dej. Xaiv cov chaw ntim uas haum rau koj tus qauv, qhov zoo nkauj, thiab toj roob hauv pes.  
+Lub pob tseg puav hnab uas muaj paj xim zoo nkauj thiab ntau, yog ib qho kev zoo nkauj rau lub caij ntuj sov hauv ntau lub nroog thiab vaj.
 
-Xav txog tias ib lub chaw ntim loj 10-nti yuav tsum tau muab dej txhua 1 mus rau 2 hnub. Cov chaw ntim me yuav xav tau dej ntau dua.  
+### Xaiv Lub Thawv
 
-### Siv av cog paj  
-Siv ib qho av cog paj zoo zoo los sau koj lub chaw ntim. Cov khoom no yog tsim los kom zoo heev, uas yuav pab kom dej ntws tau zoo hauv cov chaw ntim. Cov av uas ntws tau zoo pab txhawb kev loj hlob rau cov nroj tsuag.  
+Ib lub thawv tsim nyog yog ib lub uas loj txaus kom siv tau tag nrho lub caij loj hlob thiab lub teeb txaus kom muab dai tau. Ib lub thawv yooj yim los siv vim tias tom qab ob peb lub lis piam, koj cov nroj tsuag yuav npog tag lub thawv lawm.
 
-Yog tias koj rov siv lub chaw ntim rau lwm lub caij, xav txog kev hloov cov av cog paj. Kev hloov yuav yog qhov tseem ceeb rau kev vam meej yog tias cov nroj tsuag yav dhau los muaj kab mob hauv paus; yog tias muaj, kuj ntxuav lub chaw ntim kom huv.  
+Cov thawv muaj ntau hom, loj me sib txawv thiab ua los ntawm ntau yam khoom siv. Ntoo, moss, thiab av nplaum uas tsis muaj glaze, los yog terra cotta, yuav qhuav sai heev. Cov thawv no yuav tsum muab ntaub yas (uas muaj qhov) rau hauv kom nws nyob ntub ntev dua. Nco ntsoov tias av nplaum thiab terra cotta yuav hnyav heev tom qab cog thiab muab dej. Xaiv cov thawv uas haum koj tus style thiab kev zoo nkauj ntawm koj lub vaj.
 
-Tsis txhob siv av vaj rau hauv cov chaw ntim vim nws cov qauv zoo heev yuav txwv tsis pub dej ntws thiab, yog li ntawd, txwv tsis pub cov hauv paus loj hlob. Av vaj kuj tuaj yeem nqa kab mob, kab tsuag, thiab noob nroj tsuag.  
+Nco ntsoov tias lub thawv 10-nti yuav tsum tau muab dej txhua 1 mus rau 2 hnub. Lub thawv me dua yuav xav tau dej ntau zaus dua.
 
-Nco ntsoov tias qhov uas feem ntau hais txog "cov khoom loj hauv qab lub chaw ntim rau dej ntws" tsis yog. Vim qhov kev txav ntawm dej hauv lub chaw ntim, cov khoom loj ntawd yuav txwv tsis pub dej ntws.  
+### Siv Av Cog Nroj
 
-### Siv chiv  
-Pab koj cov nroj tsuag pib zoo los ntawm kev tov chiv rau hauv cov av cog paj ua ntej cog. Cov chiv uas tso tawm maj mam tsim los kom siv tau 3 mus rau 4 lub hlis yuav ua tau zoo vim tias nws yuav siv tau tag lub caij.  
+Siv hom av cog nroj zoo kom puv koj lub thawv. Cov av no tsim los kom mob nyoos, thiaj li dej siav tau zoo hauv thawv. Av zoo dej siav pab kom cov nroj tsuag loj hlob zoo.
 
-Tom qab tag nrho cov nroj tsuag tau nyob rau hauv chaw, muab dej rau cov av cog paj nyob ib ncig ntawm cov hauv paus nrog dej uas muaj chiv soluble ib nrab zog.  
+Yog tias koj rov siv lub thawv rau lwm lub caij, xav txog kev hloov lub av cog nroj tshiab. Qhov no tseem ceeb heev yog tias cov nroj tsuag uas dhau los muaj kab mob hauv cag; yog muaj, kuj ntxuav lub thawv kom huv thiab.
 
-### Xaiv koj cov nroj tsuag  
-Nws yog qhov tseem ceeb uas cov nroj tsuag nyob hauv ib lub chaw ntim yuav loj hlob tau zoo hauv tib yam kev loj hlob, yog hnub ci lossis ntxoov ntxoo, ntub dej lossis qhuav. Kuj nco ntsoov txog kev loj hlob ntawm cov nroj tsuag, xws li ncaj lossis dai. Koj tuaj yeem sib xyaw cov nroj tsuag ib xyoos thiab ntau xyoo hauv ib lub chaw ntim rau lub caij xwb, ces thaum kawg ntawm lub caij, koj tuaj yeem hloov cov nroj tsuag ib xyoos kom tau qhov tshiab.  
+Tsis txhob siv av ntawm vaj nyob rau hauv thawv vim nws mos heev, ua rau dej tsis siav thiab cag tsis loj hlob. Av ntawm vaj kuj tuaj yeem coj kab mob, kab, thiab noob nyom tuaj nrog.
 
-### Tsim thiab cog  
-Tom qab koj xaiv ib lub chaw ntim, thiab muaj cov nroj tsuag thiab av cog paj, ua raws cov kauj ruam no kom ua tiav:  
-1. Nchuav tawm qhov av cog paj uas koj xav tau, tom qab ntawd tov ib qho chiv uas tso tawm maj mam tsim los siv tau 3 mus rau 4 lub hlis; ua raws cov lus qhia ntawm daim ntawv lo rau cov chiv.  
-2. Nchuav av cog paj rau hauv koj lub chaw ntim kom cov nroj tsuag muaj chaw nyob thiab tseem nyob 1 nti hauv qab lub npoo ntawm koj lub chaw ntim. (Nco ntsoov tias yog koj sau lub chaw ntim tag, koj yuav tsum khawb tawm av cog paj rov qab los ua chaw rau cov hauv paus ntxiv.)  
-3. Muab cov nroj tsuag siab nyob rau hauv nruab nrab lossis tom qab ntawm lub chaw ntim, sau rau hauv cov nroj tsuag uas sib txuam tom ntej, thiab ua tiav nrog cov nroj tsuag dai nyob ze ntawm lub npoo ntawm lub chaw ntim. Txhawm rau tsim kev sib npaug, muab ob lossis ntau dua ntawm tib lub nroj tsuag (los yog ntau cov nroj tsuag uas muaj qhov loj, nplooj, thiab xim zoo sib xws) sib xyaw ua ke nyob hauv lub chaw ntim.  
-4. Txhawm rau ua tiav kev cog, sau cov av cog paj ntxiv rau ib ncig ntawm cov nroj tsuag kom sib xyaw ua ke thiab npog lub hauv paus uas pom. Thaum txhua yam nyob rau hauv chaw, cov av cog paj yuav tsum yog 1 nti hauv qab lub npoo ntawm lub chaw ntim kom muaj chaw rau dej.  
-5. Txhim kho cov av cog paj nyob ib ncig ntawm cov hauv paus nrog dej uas muaj chiv soluble ib nrab zog.  
-6. Dai koj lub chaw ntim nyob rau qhov chaw uas qhov chaw ci lossis ntxoov ntxoo haum rau koj cov nroj tsuag. Tam sim no koj tuaj yeem zaum, so, thiab txaus siab!  
+Nco ntsoov tias kev muab tej yam loj loj rau hauv qab thawv kom dej siav zoo yog tsis yog lawm. Vim txoj kev txav dej hauv thawv, tej yam loj ntawd yuav ua rau dej siav nyuaj dua.
 
-### Tu lub chaw ntim  
-Muab dej thaum twg tsim nyog. Koj yuav tsis tas muab dej ntau thaum huab cua txias lossis me me zoo li thaum huab cua sov, txawm kub, thiab/los yog cua. Thaum huab cua kub, koj yuav tsum muab dej ib zaug lossis ob zaug hauv ib hnub nyob ntawm qhov loj ntawm lub chaw ntim thiab tus naj npawb thiab hom nroj tsuag hauv nws.  
+### Siv Tshuaj Ntsuab (Fertilizer)
 
-Thaum tsis paub txog kev xav tau dej, kov sab saum toj ntawm cov av cog paj. Muab dej yog tias nws qhuav, tsis txhob yog tias nws ntub.  
+Pab kom koj cov nroj tsuag loj hlob zoo los ntawm kev xyaw tshuaj ntsuab rau hauv av cog nroj ua ntej cog. Siv hom qeeb tso tawm uas siv tau 3 rau 4 hlis, yog qhov zoo rau tag caij.
 
-Cov chiv thawj uas koj tov rau hauv cov av cog paj yuav tsum txaus rau cov nroj tsuag tag lub caij. Tab sis yog tias cov nroj tsuag pib tsis zoo, ntxiv chiv uas soluble hauv dej ib zaug lossis ob zaug hauv ib lub lim tiam, tom qab ntawd rov ua dua raws li xav tau.  
+Tom qab muab cov nroj tsuag tso rau hauv lawm, muab dej sib xyaw nrog tshuaj ntsuab uas yog ib nrab zog (half-strength) rau hauv kom av puag cov cag nroj tsuag.
 
-Thiab kom txhua yam zoo nkauj tag lub caij, tshem tawm cov paj uas qhuav tsawg kawg ib zaug hauv ib lub lim tiam.  
+### Xaiv Koj Cov Nroj Tsuag
 
-### Qee yam nroj tsuag uas pom zoo  
-Muaj ntau yam nroj tsuag uas ua tau zoo hauv pob tawb dai. Cov nroj tsuag hauv qab no tsuas yog qee yam uas pom zoo xwb. Xav txog tias qee cov nroj tsuag haum rau hnub ci thiab ntxoov ntxoo.  
+Yog ib qho tseem ceeb uas cov nroj tsuag hauv tib lub thawv yuav loj hlob zoo hauv tib lub teeb, txawm yog tshav ntuj los yog ntxoov ntoos, av ntub los yog av qhuav. Xav txog tus cwj pwm loj hlob ntawm nroj tsuag, xws li ncaj nrig los yog maj mam tsaws.
 
-#### Cov nroj tsuag ncaj rau hnub ci  
-- Angelonia  
-- Lantana  
-- Cosmos  
-- Osteospermum  
-- Dracaena  
-- Salvia  
-- Geranium  
-- Snapdragon  
-- Ornamental grasses  
+Koj tuaj yeem sib xyaw cov nroj tsuag ib xyoos thiab ntau xyoo hauv ib lub thawv rau ib lub caij nkaus xwb. Thaum kawg caij, hloov cov nroj tsuag ib xyoos kom muaj qhov tshiab dua.
 
-#### Cov nroj tsuag ncaj rau ntxoov ntxoo  
-- Heliotrope  
-- Shade coleus  
-- Double impatiens  
-- Rex begonia  
-- Ferns  
-- Fuchsia  
-- New Guinea impatiens  
-- Tuberous begonia  
+### Tsim thiab Cog
 
-#### Cov nroj tsuag sib txuam rau hnub ci  
-- Bidens  
-- Brachycome  
-- Diascia  
-- Fantasy petunia  
-- Fibrous begonia  
+Tom qab koj xaiv tau lub thawv, coj tau cov nroj tsuag thiab av cog nroj, ua raws li cov kauj ruam no:
 
-#### Cov nroj tsuag sib txuam rau ntxoov ntxoo  
-- Geranium  
-- Nemesia  
-- Coleus  
-- Polka dot plant  
-- Impatiens  
-- Upright lobelia  
+1. Nchuav av cog nroj kom koj xav siv, ces xyaw tshuaj ntsuab qeeb tso tawm siv tau 3-4 hlis; ua raws li daim ntawv qhia.
+2. Nchuav av cog nroj kom txaus rau hauv thawv kom cov nroj tsuag tso tau thiab tseem tshuav 1 nti hauv qab ntug thawv. (Nco ntsoov tias yog koj puv tag thawv, koj yuav tau khawb av tawm mus ntxiv txhua zaug.)
+3. Muab cov nroj tsuag siab tso rau hauv nruab nrab los yog tom qab thawv, ntxiv cov nroj tsuag sib npaug tom ntej, thiab kawg nrog cov nroj tsuag maj mam tsaws rau ntug thawv. Txhawm rau tsim kom zoo, tso ob los yog ntau ntawm tib hom nroj tsuag (los yog cov uas loj, nplooj, thiab xim sib xws) rau ntawm ob sab.
+4. Kom tiav kev cog, ntxiv av cog nroj rau puag ncig cov nroj tsuag kom lawv sib txuas thiab npog txhua cag uas pom. Thaum txhua yam nyob hauv lawm, av yuav tsum yog kwv yees li 1 nti hauv qab ntug thawv kom muaj chaw rau dej.
+5. Muab dej sib xyaw tshuaj ntsuab uas yog ib nrab zog rau av puag cov cag nroj tsuag.
+6. Dai koj lub thawv rau qhov chaw uas muaj tshav ntuj los yog ntxoov ntoos raws li cov nroj tsuag xav tau. Tam sim no koj tuaj yeem zaum so thiab txaus siab!
 
-#### Cov nroj tsuag dai rau hnub ci  
-- Anagalis  
-- Lotus vine  
-- Alyssum  
-- Million bells  
-- Bacopa  
-- Portulaca  
-- Creeping Charlie  
-- Creeping Jenny  
-- Creeping Zinnia  
-- Ivy  
-- Lamium  
-- Licorice plant  
+### Tu Koj Lub Thawv
 
-#### Cov nroj tsuag dai rau ntxoov ntxoo  
-- Bacopa  
-- Lamium  
-- Creeping Charlie  
-- Licorice plant  
-- Creeping Jenny  
-- Lotus vine  
-- Fuchsia  
-- Sweet potato vine  
-- Ivy  
-- Trailing lobelia  
+Muab dej thaum xav tau. Koj yuav tsis tas muab dej ntau thaum huab cua txias los yog txias me ntsis, tab sis thaum kub lossis cua ntau, tej zaum koj yuav tsum muab dej ib zaug los yog ob zaug hauv ib hnub, nyob ntawm qhov loj ntawm thawv, thiab hom nroj tsuag.
 
-### Cov ntaub ntawv ntxiv  
-Muaj ntau phau ntawv txog kev loj hlob pob tawb dai uas nws nyuaj los txwv peb cov lus pom zoo rau ib co xwb. Koj yuav pom ntau ntxiv hauv tsev qiv ntawv thiab tsev muag ntawv.  
+Yog koj tsis paub puas xav tau dej, kov saum av cog nroj. Muab dej yog tias nws qhuav; tsis txhob muab yog tias tseem ntub.
 
-**Cov phau ntawv pom zoo:**  
-- *Hanging Baskets: A Practical Step-By-Step Guide* los ntawm Jenny Hendy  
-- *Year-Round Containers, Baskets & Boxes* los ntawm Graham Strong thiab Claire Phoenix  
-- *The Hanging Garden* los ntawm Sue Fisher  
-- *Container and Hanging Gardens* (Ortho Books)  
-- *Gardening in Containers* (Sunset)  
-- *Pots in the Garden* los ntawm Ray Rogers  
+Qhov tshuaj ntsuab thawj zaug uas koj xyaw rau av tej zaum yuav txaus rau tag caij. Tab sis yog nroj tsuag pib qeeb lawm, muab tshuaj ntsuab sib xyaw dej ib los ob zaug hauv ib as thiv ntxiv, rov ua ntxiv yog xav tau.
 
-### Kev Pab los ntawm Master Gardener™  
-- Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), lossis 503-445-4608 (Multnomah County).  
-- Txog cov ntawv qhia 10-Minute University™ thiab cov sij hawm kawm, mus saib www.cmastergardeners.org  
+Txhawm rau kom txhua yam zoo nkauj tag caij, txiav (tshem) paj uas txawj tuag los yog xia tsawg kawg ib zaug hauv ib as thiv.
 
-Oregon State University Extension Service txwv tsis pub kev ntxub ntxaug hauv txhua qhov kev pab cuam, kev pabcuam, kev ua haujlwm, thiab cov ntaub ntawv ntawm kev ntxub ntxaug raws li haiv neeg, xim, lub teb chaws keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia txog poj niam txiv neej (xws li kev qhia txog tus kheej), kev nyiam poj niam txiv neej, kev xiam oob qhab, hnub nyoog, kev sib yuav, tsev neeg/kev tu menyuam, nyiaj tau los uas tau los ntawm kev pab nyiaj pej xeem, kev ntseeg hauv kev nom tswv, cov ntaub ntawv caj ces, txoj haujlwm qub tub rog, kev txhawj xeeb lossis kev rau txim rau kev ua haujlwm hauv kev tiv thaiv kev txwv tsis pub dhau. (Tsis yog txhua qhov kev txwv siv rau txhua qhov kev pab cuam.)
+### Qee Yam Nroj Tsuag Pom Zoo
+
+Muaj ntau hom nroj tsuag loj hlob zoo hauv lub pob tseg puav hnab. Cov hauv qab no tsuas yog qee qhov piv txwv xwb. Qee hom nroj tsuag tuaj yeem loj hlob txog hauv tshav ntuj thiab ntxoov ntoos.
+
+#### Nroj Tsuag Ncaj Rau Tshav Ntuj
+
+- Angelonia
+- Cordyline
+- Cosmos
+- Daisies
+- Dracaena
+- Geranium
+- Nroj tsuag nyom zoo nkauj
+
+#### Nroj Tsuag Ncaj Rau Ntxoov Ntoos
+
+- Heliotrope
+- Coleus ntxoov ntoos
+- Impatiens ob npaug
+- Rex begonia
+- Nroj tsuag qos ntoos
+- Fuchsia
+- New Guinea impatiens
+- Begonia qos tub
+
+#### Nroj Tsuag Clumping Rau Tshav Ntuj
+
+- Bidens
+- Brachycome
+- Diascia
+- Fantasy petunia
+- Fibrous begonia
+
+#### Nroj Tsuag Clumping Rau Ntxoov Ntoos
+
+- Geranium
+- Nemesia
+- Coleus
+- Nroj tsuag polka dot
+- Impatiens
+- Lobelia ncaj
+
+#### Nroj Tsuag Maj Mam Tsaws Rau Tshav Ntuj
+
+- Anagalis
+- Alyssum
+- Bacopa
+- Creeping Charlie
+- Creeping Jenny
+- Creeping Zinnia
+- Ivy
+- Lamium
+- Licorice plant
+
+#### Nroj Tsuag Maj Mam Tsaws Rau Ntxoov Ntoos
+
+- Lotus vine
+- Million bells
+- Portulaca
+- Scaevola
+- Sweet potato vine
+- Lobelia maj mam tsaws
+- Petunia maj mam tsaws
+- Verbena
+- Vinca
+
+### Xav Paub Ntxiv
+
+Muaj ntau phau ntawv qhia txog kev cog pob tseg puav hnab heev, yog li peb tsuas muab ob peb phau xwb. Koj yuav nrhiav tau ntau ntxiv hauv tsev qiv ntawv thiab khw muag ntawv.
+
+- *Hanging Baskets: A Practical Step-By-Step Guide* los ntawm Jenny Hendy
+- *Year-Round Containers, Baskets & Boxes* los ntawm Graham Strong thiab Claire Phoenix
+- *The Hanging Garden* los ntawm Sue Fisher
+- *Container and Hanging Gardens* (Ortho Books)
+- *Gardening in Containers* (Sunset)
+- *Pots in the Garden* los ntawm Ray Rogers
+
+#### Lus Qhia los ntawm Master Gardener™
+
+- **Hu rau Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Mus saib ntau yam ntaub ntawv thiab jadwal kawm ntxiv ntawm [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service tsis pub muaj kev cais tawm hauv nws cov kev pab, kev kawm, kev ua haujlwm thiab ntaub ntawv, ntawm tus neeg txoj kev haiv neeg, xim tawv nqaij, lub teb chaws, kev ntseeg, poj niam txiv neej, tus kheej txheem kev sib deev, kev sib deev, kev tsis taus, hnub nyoog, txoj kev sib yuav, muaj me nyuam, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, kev rau txim lossis kev pauj rau kev tawm tsam kev cai. (Tsis yog txhua qhov laj thawj no siv rau txhua qhov kev pab.)
+---

@@ -1,80 +1,97 @@
-# 10-Minute University™  
-## Oregon Master Gardener™ Association – Clackamas County Chapter  
-### Sa Pakikipagtulungan ng Oregon State University Extension Service  
+#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Sa Pakikipagtulungan sa Oregon State University Extension Service
 
-## Paghahalaman Kasama ang mga Bata Edad 8-10  
+# Paghahalaman Kasama ang mga Bata Edad 8-10
 
-### Bakit Magtanim Kasama ang mga Bata?  
-- Mararanasan nila ang siklo ng buhay nang personal.  
-- Ituturo nito sa kanila ang responsibilidad at magpapalago ng kanilang pagiging malikhain.  
-- Magbibigay ito ng pag-unawa sa ating depende sa kalikasan at sa kasaganaan nito.  
+### Bakit Dapat Maghalaman Kasama ang mga Bata?
 
-Ang paghahalaman kasama ang mga bata edad 8 hanggang 10 ay maaaring maging kapaki-pakinabang dahil mas may kalayaan sila at nasisiyahan sa pakikipagtulungan sa mga matatanda sa mahahalagang proyekto. Nailalabas sila sa labas ng bahay at nakakonekta sa kalikasan. Maaari silang magtanong, mag-explore, matuto ng sanhi at epekto, at makakuha ng kasanayan sa pagpaplano at paglutas ng problema.  
+- Makikita nila mismo ang siklo ng buhay.
+- Matututo silang maging responsable at mapapalago ang kanilang pagiging malikhain.
+- Magkakaroon sila ng mas malalim na pag-unawa sa ating pagdepende sa kalikasan at sa mga biyaya nito.
 
-## Mga Ideya na Maaaring Isaalang-alang  
-- Bigyan sila ng sarili nilang espasyo, maaaring sa isang raised bed, mga paso, o lupa. Ang bawat bata ay dapat magkaroon ng sariling espasyo.  
-- Panatilihin itong maliit dahil ang mas maliit na espasyo ay mas madali pamahalaan, at ang lahat ay mukhang mas malaki sa mata ng bata. Magsimula sa maliit at palakihin ang sukat depende sa kanilang edad at interes.  
-- Ilagay ang kanilang hardin sa pinakamainam na lugar na may sapat na sikat ng araw at may mapagkukunan ng tubig.  
-- Gumamit ng seryosong kasangkapan. Huwag gumamit ng plastik na kasangkapan na maaaring masira at magdulot ng frustrasyon sa mga bagong hardinero.  
+Ang paghahalaman kasama ang mga batang edad 8 hanggang 10 ay mas kapaki-pakinabang dahil mas independent na sila at masaya silang nagtatrabaho kasama ang matatanda sa mga importanteng proyekto. Napapalabas sila sa bahay at nakakakonekta sila sa kalikasan. Pwede silang magtanong, mag-explore, matuto tungkol sa sanhi at epekto, at makakuha ng kasanayan sa pagpaplano at paglutas ng mga problema.
 
-## Ilang Aktibidad  
-Ang mga bata sa ganitong edad ay may mga ideya tungkol sa mga bagay na gusto nilang itanim at alagaan, kaya hayaan silang magplano ng kanilang hardin. Kailangan nila ng paalala na maingat na basahin ang mga seed packet para sa mga oras ng germination, espasyo, at mga araw bago anihin. Kung minsan, ang pagsubok at pagkakamali ay maaaring maging isang mahusay na guro sa kung paano at kailan magtanim sa espasyo ng hardin.  
+### Mga Ideya na Dapat Isaalang-alang
 
-### Pagpapabuti ng Lupa sa Hardin Bago Magtanim ng Gulay  
-Ang pagdaragdag ng composted chicken o steer manure sa isang nakatalagang hardin bed ay makakatulong sa mga bata na maunawaan ang kahalagahan ng nitrogen sa hardin at kung paano ang paggamit ng animal manure ay isang mahusay na paraan ng pag-recycle ng basura habang tumutulong sa paglago ng mga halaman. Maaaring sabihin nila na ito ay "kadiri" at "nakakadiri," ngunit dapat silang hikayatin na maging siyentipiko.  
+- Bigyan sila ng sariling espasyo, pwedeng raised bed, paso, o lupa. Dapat may sariling espasyo ang bawat bata.
+- Panatilihing maliit ang espasyo dahil mas madaling pamahalaan ito at lahat ay mas malaki sa paningin ng bata. Magsimula sa maliit at palakihin habang tumatanda at lumalaki ang interes nila.
+- Ilagay ang kanilang hardin sa pinakamagandang lugar na may sapat na araw at may mapagkukunan ng tubig.
+- Gumamit ng totoong mga kagamitan sa paghahalaman. Iwasan bigyan ng plastik na kagamitan na madaling masira at nakakadismaya para sa bagong hardinero.
 
-**Vegetable Gardening in Oregon** (pahina 1) ay may ilang impormasyon.  
-[Vegetable Gardening in Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)  
+### Ilang Gawain
 
-### Gumawa ng Worm Bin  
-Ang mga worm bin ay maaaring itayo mula sa iba't ibang materyales at maaaring maging malaki o maliit ayon sa nais. Kapag gumagawa ng worm bin, kailangan mong mag-isip tungkol sa lalagyan, bedding, oxygen, at pagkain. Magkakaroon ka ng decomposing micro-ecosystem. Kailangan mong isaalang-alang ang materyal na pinakamahusay na makakayanan ang proseso ng decomposition, ang moisture, at ang posibleng init at lamig sa buong taon.  
+Ang mga bata sa ganitong edad ay may mga ideya na tungkol sa mga bagay na gusto nilang itanim at alagaan, kaya hayaan silang magplano ng kanilang hardin. Kailangan nila ng paalala na basahin ng maigi ang mga pakete ng binhi para sa germination time, tamang agwat, at bilang ng araw bago maani. Minsan, ang pagsubok at pagkakamali ay magandang paraan para matutunan kung paano at kailan magtanim sa iyong espasyo sa hardin.
 
-**Composting with Worms**  
-[Composting with Worms](https://catalog.extension.oregonstate.edu/em9034)  
+#### Pabutin ang Lupa ng Hardin Bago Magtanim ng Gulay
 
-Ang *Worms Eat My Garbage* ni Mary Appelhof ay tungkol sa pagtatayo at pagpapanatili ng worm bin.  
+Ang pagdagdag ng composted na dumi ng manok o baka sa nakatalagang bahagi ng hardin ay makakatulong sa mga bata na maintindihan ang kahalagahan ng nitrogen sa hardin at kung paano ang paggamit ng dumi ng hayop ay isang magandang paraan ng pag-recycle ng basura habang tinutulungan ang mga halaman na lumaki. Maaaring sabihin nilang "kadiri" o "nakakadiri," pero dapat silang hikayatin na maging parang mga siyentipiko.
 
-### Pagtatanim ng Mais at Sunflowers  
-Ang pagtatanim ay nagtuturo sa mga bata ng lalim ng pagtatanim ng mga buto ng iba't ibang laki at ang tamang pagkakahiwalay upang mabigyan ang mga halaman ng sapat na espasyo upang lumago. Gaano katagal bago sila tumubo? Gaano sila katangkad lalaki? Nailagay ba nila ito sa tamang lugar sa hardin? Dapat bang ibabad ang mga buto bago itanim upang mapabilis ang panahon ng germination?  
+Ang Vegetable Gardening in Oregon (pahina 1) ay may ilang impormasyon:  
+[Vegetable Gardening in Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-**Growing Your Own** ay nag-aalok ng impormasyon sa "paano" sa iba't ibang uri ng halaman.  
-[Growing Your Own](https://catalog.extension.oregonstate.edu/em9027)  
+#### Gumawa ng Worm Bin
 
-### Magtanim Para sa Pollinators  
-Simulan sa pagmamasid kung aling mga pollinator ang bumibisita sa iyong hardin. Mayroon ka bang mga bubuyog, butterflies, hummingbirds? Anong kulay ng mga bulaklak ang gusto ng mga pollinator, tulad ng pula, purple, pink, puti, at dilaw.  
+Ang worm bin ay maaaring gawin gamit ang iba't ibang materyales at pwedeng maliit o malaki ayon sa gusto. Kapag gumagawa ng worm bin, isipin ang lalagyan, bedding, oxygen, at pagkain. Gumagawa ka ng maliit na micro-ecosystem para sa agnas. Isaalang-alang ang materyales na kayang tumagal sa proseso ng agnas, basa, at posibleng lamig o init sa buong taon.
 
-Ang honeysuckle, salvia, at bean plants ay maaaring opsyon para sa mga hummingbird, habang ang milkweed ay opsyon para sa mga monarch butterflies. Ang mga sumusunod na herbs ay nakakaakit din sa mga pollinator: anise hyssop, basil, catnip, chives, cilantro, dill, fennel, at lavender.  
+Mga Sanggunian:
 
-**12 Plants to Encourage Pollinators**  
-[12 Plants to Encourage Pollinators](https://extension.oregonstate.edu/news/12-plants-entice-pollinators-your-garden)  
+- [Composting with Worms](https://catalog.extension.oregonstate.edu/em9034)
+- *Worms Eat My Garbage* ni Mary Appelhof
 
-### Magdagdag ng Literacy  
-Maraming magagandang larawan at instructional books tungkol sa paghahalaman na pinahahalagahan ng mga bata bago sila magsimula at habang sila ay nagtatrabaho sa hardin. Ang pagbabasa nang malakas sa kanila ay nag-aanyaya ng pagtatanong at maaaring maging simula ng mga plano sa hardin. Ang iyong lokal na librarian ay magiging masaya na tulungan kang makahanap ng ilang mga mapagkukunan na parehong magugustuhan mo at ng iyong anak.  
+#### Pagtatanim ng Mais at Sunflower
 
-Narito ang ilang mga mungkahi:  
-- *“Tops and Bottoms”* ni Janet Stevens  
-- *“Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden”* ni Renata Fossen Brown  
-- *“Let’s Get Gardening”* ni DK  
-- *“How Plants Work”* ni Linda Chalker-Scott  
-- *“Plants You Can’t Kill”* ni Stacy Tornio  
-- *“Dana Digs In”* ni Laura Pedersen  
-- *“Harlem Grown”* ni Tony Hillery  
-- *“The Little Gardener: Helping Children Connect with the Natural World”* ni Julie A. Cerny  
-- *“One Small Square – Backyard”* ni Donald Silver  
-- *“Flowers Are Calling”* ni Rita Gray  
-- *“Bees, Bugs and Butterflies: A Family Guide to our Garden Heroes and Helpers”* ni Ben Raskin  
-- *“The Reason For A Flower”* ni Ruth Heller  
+Ang pagtatanim ay nagtuturo sa mga bata ng tamang lalim sa pagtanim ng mga buto ng iba't ibang laki at kung gaano kalayo dapat ang pagitan ng mga ito upang lumaki ng maayos. Mga tanong na dapat isaalang-alang:
 
-## Resource ng Oregon State University  
-**Educator’s Guide to Vegetable Gardening**  
-[Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)  
+- Gaano katagal bago sila tumubo?
+- Gaano kataas sila lalaki?
+- Nailagay ba nila ito sa tamang lugar sa hardin?
+- Dapat bang ibabad muna ang mga buto bago itanim para mapabilis ang pagtubo?
 
-## Master Gardener™ Advice  
-- Tawagan ang Home Horticulture Helpline:  
-  - Clackamas County: 503-655-8631  
-  - Washington County: 503-821-1150  
-  - Multnomah County: 503-445-4608  
+Nagbibigay ang [Growing Your Own](https://catalog.extension.oregonstate.edu/em9027) ng “paano” na impormasyon sa maraming uri ng halaman.
 
-- Para sa mga handout at iskedyul ng klase ng 10-Minute University™, bisitahin ang [cmastergardeners.org](http://www.cmastergardeners.org)  
+#### Magtanim para sa mga Pollinator
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang ekspresyon ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita mula sa pampublikong tulong na programa, paniniwala sa politika, impormasyon ng genetiko, katayuan bilang beterano, pagganti o paghihiganti para sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+Magsimula sa pagmamasid kung anong mga pollinator ang dumadalaw sa inyong hardin. May mga bubuyog ba, paru-paro, o hummingbird? Anong kulay ng bulaklak ang gusto ng mga pollinator, tulad ng pula, lila, pink, puti, at dilaw?
+
+Mga mungkahi:
+
+- Honeysuckle, salvia, at halamang sitaw para sa hummingbird.
+- Milkweed para sa monarch butterfly.
+- Mga halamang nakakaakit ng pollinator: anise hyssop, basil, catnip, chives, cilantro, dill, fennel, at lavender.
+
+[12 Plants to Encourage Pollinators](https://extension.oregonstate.edu/news/12-plants-entice-pollinators-your-garden)
+
+### Magdagdag ng Pagbabasa
+
+Maraming magagandang picture book at instructional book tungkol sa paghahalaman na magugustuhan ng mga bata bago magsimula at habang nagtatrabaho sa hardin. Ang pagbabasa nang malakas sa kanila ay naghihikayat ng pagtatanong at maaaring magsilbing simula ng mga plano para sa hardin. Ang inyong lokal na librarian ay makakatulong maghanap ng mga aklat na pareho ninyong magugustuhan ng inyong anak.
+
+#### Mga Inirerekomendang Libro
+
+- *Tops and Bottoms* ni Janet Stevens
+- *Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden* ni Renata Fossen Brown
+- *Let’s Get Gardening* ng DK
+- *How Plants Work* ni Linda Chalker-Scott
+- *Plants You Can’t Kill* ni Stacy Tornio
+- *Dana Digs In* ni Laura Pedersen
+- *Harlem Grown* ni Tony Hillery
+- *The Little Gardener: Helping Children Connect with the Natural World* ni Julie A. Cerny
+- *One Small Square – Backyard* ni Donald Silver
+- *Flowers Are Calling* ni Rita Gray
+- *Bees, Bugs and Butterflies: A Family Guide to Our Garden Heroes and Helpers* ni Ben Raskin
+- *The Reason for a Flower* ni Ruth Heller
+
+### Resource mula sa Oregon State University
+
+[Educator’s Guide to Vegetable Gardening](https://catalog.extension.oregonstate.edu/em9032)
+
+#### Master Gardener™ na Payo
+
+- **Tumawag sa Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, gawain, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang ekspresyon ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa programang pampublikong tulong, paniniwalang pampolitika, impormasyong henetiko, estado ng pagiging beterano, paghihiganti, o pagganti para sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
+---

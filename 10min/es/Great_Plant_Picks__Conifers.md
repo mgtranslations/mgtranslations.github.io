@@ -1,88 +1,65 @@
-# Universidad de 10 Minutos™  
-La Asociación de Maestros Jardineros del Condado de Clackamas, en colaboración con y en apoyo del Programa Maestro Jardinero™ de Extensión de la Universidad Estatal de Oregón (OSU).  
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
 
-## Elección de Plantas Destacadas: Coníferas  
-S: Jardín de sombra, D: Planta tolerante a la sequía, Vida silvestre – pájaros, abejas, mariposas, colibríes  
+# Universidad de 10 Minutos
 
-### Nombre | S/D/W | 10 años | Madurez | Sol/Sombra | Características Destacadas  
+## Selecciones de Grandes Plantas: Coníferas
 
-**Cedro amarillo de Alaska llorón**  
-Callitropsis nootkatensis ‘Green Arrow’  
-- **Tamaño:** 15’ x 3’ (10 años), 35’ x 5’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a abierta  
-- **Características:** Un árbol perenne estrecho nativo del noroeste del Pacífico. Forma un punto de exclamación en el jardín. Ideal para jardines pequeños o espacios reducidos.  
+*S: Jardín de sombra, D: Planta tolerante a la sequía, Vida silvestre - Aves, Abejas, Mariposas, Colibríes*
 
-**Cedro amarillo de Alaska llorón**  
-Callitropsis nootkatensis ‘Pendula’  
-- **Tamaño:** 18’ x 8’ (10 años), 35’ x 12’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a abierta  
-- **Características:** Una de las coníferas lloronas más hermosas, crea un acento elegante en el paisaje. Tolerante a la sequía después de establecerse.  
-
-**Cedro amarillo de Alaska estrecho**  
-Callitropsis nootkatensis ‘Van den Akker’  
-- **Tamaño:** 15’ x 3’ (10 años), 35’ x 5’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a abierta  
-- **Características:** Este pilar en forma de espiral es extremadamente útil para jardines pequeños o espacios reducidos. Agrega altura sin crecer demasiado ancho.  
-
-**Cedro de incienso**  
-Calocedrus decurrens  
-- **Tamaño:** 18’ x 5’ (10 años), 40’ x 12’ (madurez)  
-- **Sol/Sombra:** Pleno sol  
-- **Características:** Conífera resistente y fácil de cultivar nativa del suroeste y centro de Oregón. Su forma vertical majestuosa mejora con el tiempo. El follaje tiene una fragancia similar al cedro en climas cálidos.  
-
-**Cedro del Himalaya azul divino**  
-Cedrus deodara ‘Divinely Blue’  
-- **Tamaño:** 4’ x 6’ (10 años), 5’ x 8’ (madurez)  
-- **Sol/Sombra:** Pleno sol  
-- **Características:** Una conífera perenne semi-enana con follaje azul verdoso a azul polvo. Se muestra mejor en pleno sol, pero tolera sombra ligera.  
-
-**Ciprés Hinoki**  
-Chamaecyparis obtusa ‘Gracilis’  
-- **Tamaño:** 15’ x 6’ (10 años), 25’ x 10’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a moteada  
-- **Características:** Elegante y hermoso arbusto columnar grande o pequeño árbol perenne. El ciprés Hinoki es una excelente elección para jardines pequeños.  
-
-**Ciprés Hinoki enano**  
-Chamaecyparis obtusa ‘Kosteri’  
-- **Tamaño:** 4’ x 5’ (10 años), 8’ x 6’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a moteada  
-- **Características:** De crecimiento lento y forma piramidal suelta, con follaje brillante y verde oscuro que se tuerce, creando una textura rica.  
-
-**Ciprés Hinoki enano**  
-Chamaecyparis obtusa ‘Nana’  
-- **Tamaño:** 1’ x 2’ (10 años), 2’ x 3’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a moteada  
-- **Características:** Cultivar de crecimiento muy lento. Sus ramas verde oscuro se tuercen de manera apretada y se aplanan en pequeños abanicos superpuestos, formando lo que parecen pequeñas copas verdes.  
-
-**Ciprés Hinoki enano**  
-Chamaecyparis obtusa ‘Nana Gracilis’  
-- **Tamaño:** 3’ x 2’ (10 años), 6’ x 4’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a moteada  
-- **Características:** Conífera de crecimiento lento que se convierte en una hermosa pirámide estrecha de color verde oscuro con el tiempo. El follaje brillante crece en abanicos superpuestos que crean capas como copas en forma de jarrón.  
-
-**Ciprés Hinoki enano**  
-Chamaecyparis obtusa ‘Spiralis’  
-- **Tamaño:** 5’ x 3’ (10 años), 8’ x 6’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a abierta  
-- **Características:** Una excelente opción como espécimen único pequeño o como planta en maceta.  
-
-**Ciprés de hilo dorado enano**  
-Chamaecyparis obtusa ‘Golden Mop’  
-- **Tamaño:** 4’ x 4’ (10 años), 8’ x 7’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera a abierta  
-- **Características:** Esta conífera perenne resistente forma un montículo delicado y dorado en el jardín. El nuevo crecimiento emerge amarillo dorado brillante y mantiene el color durante toda la temporada de crecimiento.  
-
-**Cedro japonés**  
-Cryptomeria japonica ‘Black Dragon’  
-- **Tamaño:** 6’ x 4’ (10 años), 10’ x 8’ (madurez)  
-- **Sol/Sombra:** Pleno sol, sombra ligera, abierta o moteada  
-- **Características:** Esta conífera de follaje muy oscuro es fácil de cultivar y combina bien con plantas de hojas grandes o variegadas.  
-
-### Elecciones de Plantas Destacadas  
-El programa educativo principal del Jardín Botánico Elisabeth C. Miller, Great Plant Picks (GPP), comenzó en 2001 con una lista de recomendaciones para crear una paleta completa de plantas destacadas para el noroeste marítimo del Pacífico. Hasta la fecha, más de 1,000 plantas excepcionales han sido seleccionadas para jardineros que viven al oeste de las Montañas Cascade, desde Eugene, Oregón, hasta Vancouver, Columbia Británica, Canadá.  
-
-Las plantas GPP seleccionadas para esta lista cumplen con los siguientes criterios: pueden vivir en una variedad de suelos, necesitan agua suplementaria moderada o menos, toleran el calor, son resistentes al frío en la zona 7 del USDA, no son propensas a problemas de enfermedades/plagas y ofrecen más de una temporada de interés en el jardín. Muchas plantas GPP también ofrecen beneficios ecológicos (polinizadores, alimento para aves, hábitat para la vida silvestre, etc.).  
+| Nombre | S/D/W | Tamaño a 10 años | Tamaño maduro | Sol/Sombra | Características destacadas |
+|---|---|---|---|---|---|
+| Cedro amarillo de Alaska llorón Callitropsis nootkatensis 'Green Arrow' |  | 15' x 3' | 35' x 5' | Sol pleno, sombra ligera o abierta | Un siempreverde estrecho nativo del noroeste del Pacífico. Forma un punto de exclamación en el jardín. Ideal para jardines pequeños o espacios reducidos. |
+| Cedro amarillo de Alaska llorón Callitropsis nootkatensis 'Pendula' |  | 18' x 8' | 35' x 12' | Sol pleno, sombra ligera o abierta | Una de las coníferas lloronas más hermosas, aporta un acento elegante en el paisaje. Tolera la sequía después de establecerse. |
+| Cedro amarillo de Alaska estrecho Callitropsis nootkatensis 'Van den Akker' |  | 15' x 3' | 35' x 5' | Sol pleno, sombra ligera o abierta | Esta columna similar a una aguja es extremadamente útil para jardines pequeños o espacios muy reducidos. Añade altura sin ensancharse mucho. |
+| Cedro de incienso Calocedrus decurrens |  | 18' x 5' | 40' x 12' | Sol pleno | Conífera resistente y fácil de cultivar, nativa del suroeste y centro de Oregón. Su forma erguida y majestuosa mejora con la edad. El follaje desprende aroma a cedro en clima cálido. |
+| Cedro Deodar azul Cedrus deodara 'Divinely Blue' |  | 4' x 6' | 5' x 8' | Sol pleno | Conífera siempreverde semi-enana con follaje azul verdoso a azul polvo. Prefiere sol pleno, pero tolera sombra ligera. |
+| Ciprés Hinoki Chamaecyparis obtusa 'Gracilis' | S | 15' x 6' | 25' x 10' | Sol pleno, sombra ligera o moteada | Un arbusto columnar grande y elegante, o pequeño árbol siempreverde, ideal para jardines pequeños. |
+| Ciprés Hinoki enano Chamaecyparis obtusa 'Kosteri' | S | 4' x 5' | 8' x 6' | Sol pleno, sombra ligera o moteada | De crecimiento lento y forma piramidal suelta, con follaje verde oscuro brillante que se tuerce, creando una textura lujosa. |
+| Ciprés Hinoki enano Chamaecyparis obtusa 'Nana' | S | 1' x 2' | 2' x 3' | Sol pleno, sombra ligera o moteada | Cultivar de crecimiento muy lento. Sus ramitas verdes oscuras se tuercen y aplanan en pequeños abanicos superpuestos, formando lo que parecen pequeñas tazas verdes. |
+| Ciprés Hinoki enano Chamaecyparis obtusa 'Nana Gracilis' | S | 3' x 2' | 6' x 4' | Sol pleno, sombra ligera o moteada | Conífera de crecimiento lento que forma una pirámide estrecha y verde oscuro con los años. El follaje brillante crece en abanicos superpuestos, creando copas en capas. |
+| Ciprés Hinoki enano Chamaecyparis obtusa 'Spiralis' |  | 5' x 3' | 8' x 6' | Sol pleno, sombra ligera o abierta | Excelente elección como ejemplar pequeño o para maceta. |
+| Ciprés Hinoki enano dorado Chamaecyparis obtusa 'Golden Mop' | S, D | 4' x 4' | 8' x 7' | Sol pleno, sombra ligera o abierta | Esta conífera siempreverde y resistente forma un delicado montículo dorado en el jardín. El nuevo crecimiento es amarillo brillante y mantiene el color durante toda la temporada. |
+| Cedro japonés Cryptomeria japonica 'Black Dragon' |  | 6' x 4' | 10' x 8' | Sol pleno, sombra ligera, abierta o moteada | Conífera de follaje muy oscuro, fácil de cultivar y combina bien con plantas de hojas grandes o variegadas. |
+| Cedro japonés plumoso rosa Cryptomeria japonica Elegans Group |  | 15' x 5' | 30' x 10' | Sol pleno, sombra ligera, abierta o moteada | El follaje es más parecido a agujas y suave, de ahí el nombre común de cedro plumoso. Verde en verano y se vuelve color caoba ciruela en otoño e invierno. |
+| Cedro japonés dorado Cryptomeria japonica 'Sekkan-sugi' |  | 10' x 6' | 30' x 18' | Sol pleno, sombra ligera, abierta o moteada | El follaje termina en amarillo cremoso, más intenso al inicio de primavera y verano. Árbol muy llamativo en el paisaje por la intensidad del color. |
+| Cedro japonés de rulos Cryptomeria japonica 'Spiralis' |  | 4' x 6' | 15' x 8' | Sol pleno, sombra ligera | Verde manzana brillante, como la piel de una manzana Granny Smith. Este cultivar es de crecimiento lento y semi-enano. |
+| Cedro japonés enano Cryptomeria japonica 'Tansu' |  | 3' x 3' | 4' x 4' | Sol pleno, sombra ligera o moteada | Cedro japonés enano y compacto con patrón de crecimiento corto y tupido, formando una pirámide irregular. |
+| Cedro japonés enano Vilmoriniana Cryptomeria japonica 'Vilmoriniana' |  | 2' x 2' | 3' x 3' | Sol pleno, sombra ligera | Forma enana cautivadora, con ramificación densa que crea una forma redondeada de hasta 2 pies de alto y ancho en diez años. |
+| Cedro japonés Yoshino Cryptomeria japonica 'Yoshino' |  | 20' x 10' | 35' x 20' | Sol pleno, sombra ligera | El follaje verde brillante a verde azulado es atractivo todo el año. |
+| Enebro de Hollywood Juniperis chinensis 'Kaizuka' |  | 12' x 8' | 15' x 12' | Sol pleno | Crecimiento ascendente en espiral, con ramas densas e irregulares. Produce bayas y conos azul verdoso. |
+| Metasecuoya Metasequoia glyptostroboides |  | 30' x 12" | 70' x 25' | Sol pleno | Requiere mucho espacio y luce espectacular como ejemplar o en grupos. Sus ramitas semejan helechos verdes en primavera y las agujas se tornan rojizas en otoño. |
+| Ciprés siberiano Microbiota decussata |  | 1.5' x 5' | 2' x 8' | Sol pleno, sombra moteada | Follaje delicado y plumoso en capas elegantes. Las puntas de las ramas se curvan un poco hacia abajo. En temporada de crecimiento es verde brillante, y en clima frío cambia a púrpura-marrón terroso. |
+| Abeto serbio Picea omorika | W | 15' x 5' | 30' x 10' | Sol pleno | Uno de los mejores siempreverdes para zonas urbanas, con forma columnar estrecha y ramas laterales arqueadas. Resistente a insectos y enfermedades. |
+| Abeto serbio llorón Picea omorika 'Pendula Bruns' |  | 8' x 2' | 30' x 6' | Sol pleno | Excelente ejemplar focal. Las agujas son verde azuladas arriba y blanco plateadas debajo. |
+| Abeto caucásico Picea orientalis | W | 15' x 7' | 40' x 15' | Sol pleno | Agujas cortas, brillantes y verde oscuro. El color se mantiene vibrante en invierno. |
+| Abeto caucásico dorado Picea orientalis 'Aureospicata' | W | 15' x 7' | 40' x 15' | Sol pleno | Siempreverde majestuoso con agujas cortas y oscuras. En primavera brotes nuevos de color chartreuse brillante. El contraste es espectacular. |
+| Abeto caucásico dorado Picea orientalis 'Skylands' | W | 15' x 7' | 40' x 15' | Sol pleno, sombra ligera | Árbol piramidal, con follaje dorado nuevo en primavera. |
+| Pino de la costa Pinus contorta var. contorta | W | 15' x 12' | 35' x 25' | Sol pleno | Crece en casi cualquier lugar con suficiente luz. Es de las pocas coníferas que toleran lugares húmedos, siempre que no haya agua estancada todo el año. |
+| Pino bosnio Pinus heldreichii | D, W | 15' x 7' | 25' x 12' | Sol pleno | Pino de crecimiento lento, resistente y versátil. Tolera suelos pobres y sol fuerte. |
+| Pino negro japonés compacto Pinus thunbergii 'Thunderhead' | W | 8' x 8' | 12' x 15' | Sol pleno | Forma irregular atractiva, agujas verde bosque oscuro, tolerante a la sequía y mucho más compacto. |
+| Pino ciruela azul de montaña Podocarpus lawrencei 'Blue Gem' | W | 4' x 8' | 6' x 12' | Sol pleno, sombra ligera o abierta | En primavera, el nuevo crecimiento es azul verdoso brillante que se intensifica en verano. Es de los Podocarpus más resistentes y de mejor follaje azul para el PNW. |
+| Podocarpus lawrencei 'Purple King' |  | 7' x 7' | 12' x 15' | Sol pleno, sombra ligera o abierta | El follaje nuevo en primavera es gris rosado pálido, madurando a ramas densas verde oliva oscuro. Estos colores inusuales son un fondo ideal para plantas variegadas o doradas. Puede podarse como seto. |
+| Pino ciruela de montaña de punta roja Podocarpus lawrencei 'Red Tip' | W | 3' x 4' | 4' x 6' | Sol pleno, sombra ligera o abierta | Follaje espectacular todo el año, con brotes rojos en primavera que resaltan sobre el verde oscuro. En invierno, el follaje rojizo añade interés al jardín. |
+| Tortara alpina Podocarpus nivalis |  | 3' x 6' | 4' x 8' | Sol pleno, sombra ligera o moteada | Arbusto siempreverde adaptable que prospera en una amplia gama de suelos. Tolera el calor y es fácil de podar. |
+| Abeto Douglas llorón Pseudotsuga menziesii 'Graceful Grace' | W | 15' x 4' | 30' x 12' | Sol pleno | El hábito de crecimiento llorón de esta conífera nativa del noroeste merece un lugar especial en el jardín para lucir su forma única. |
+| Ciprés de los pantanos Taxodium distichum |  | 20' x 12" | 60' x 35' | Sol pleno | Tolera condiciones húmedas y pierde sus hojas en otoño, dejando ver su hermosa corteza. |
+| Ciprés de estanque Taxodium var. imbricatum 'Nutans' |  | 15' x 5' | 30' x 10' | Sol pleno | Follaje plumoso y verde brillante, destaca en el jardín y también funciona bien en maceta. |
+| Tejo irlandés Taxus baccata 'Fastigiata' |  | 7' x 1.5' | 15' x 3' | Sol pleno, sombra ligera o abierta | Útil al sol o sombra. Muy usado en setos, ya que tolera bien la poda. |
+| Tejo inglés rastrero Taxus baccata 'Repandens' |  | 2' x 5' | 3' x 8' | Sol pleno, sombra ligera o abierta | De porte bajo, con ramas arqueadas que caen en las puntas. Ideal como cubresuelos de tamaño mediano. |
+| Tejo dorado columnar Taxus baccata 'Standishii' |  | 5' x 1.5' | 12' x 2' | Sol pleno | Siempreverde excelente y de crecimiento lento, crea un acento vertical de bajo mantenimiento. |
+| Thuja columnar compacta Thuja occidentalis 'Degroot's Spire' |  | 8' x 1.5' | 15' x 3' | Sol pleno | Muy popular por su forma estrecha y columnar, con follaje verde denso que a veces se tuerce y se superpone. Usado como seto, pantalla o ejemplar único. |
+| Cedro esmeralda Thuja occidentalis 'Smaragd' |  | 12' x 3' | 18' x 4' | Sol pleno | Popular porque mantiene su color verde esmeralda todo el año y tiene un patrón atractivo en las ramas. Crece naturalmente de forma compacta. |
+| Cedro rojo occidental Thuja plicata | S | 25' x 8' | 100' x 30' | Sol pleno, sombra ligera a profunda | Habitante importante de los bosques del noroeste, es una conífera muy atractiva para espacios grandes o jardines amplios. |
+| Cedro rojo occidental variegado Thuja plicata 'Zebrina' |  | 20' x 12' | 60' x 30' | Sol pleno, sombra ligera o abierta | Cedro rojo occidental variegado con follaje verde y dorado cremoso. Tras establecerse, regar cada 10-14 días en época seca. |
+| Cedro Hiba Thujopsis dolabrata | S | 15' x 6' | 30' x 20' | Sol pleno, sombra ligera o abierta | Similar a nuestro cedro rojo occidental, pero con follaje más atrevido, verde bosque brillante arriba y marcas blancas sorprendentes debajo. |
+| Cedro Hiba enano Thujopsis dolabrata 'Nana' |  | 3' x 4' | 6' x 8' | Sol pleno, sombra ligera o abierta | Conífera siempreverde compacta, de crecimiento lento, con follaje inusual similar a astas de venado. |
+| Tsuga canadiense postrada Tsuga canadensis 'Cole's Prostrate' |  | 2' x 4' | 2.5' x 6' | Sombra ligera o abierta | Conífera enana postrada que encaja bien en jardines pequeños, de rocas o alpinos, o para efecto siempreverde. |
+| Tsuga canadiense enana Tsuga canadensis "Jervis" | S | 3' x 2' | 5' x 3' | Sol pleno a sombra abierta | Excelente ejemplar pequeño para jardín de rocas o maceta. Cultivar de crecimiento lento, compacto, cónico y erguido. |
+| Tsuga canadiense llorona de Sargent Tsuga canadensis 'Pendula' | S | 3' x 6' | 6' x 12' | Sol pleno a sombra moteada | Se debe dejar suficiente espacio para que desarrolle su forma madura y característica. |
 
 ---
 
-La Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o retaliación por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas).
+Grandes Plantas Seleccionadas (GPP) es el programa educativo principal del Jardín Botánico Elisabeth C. Miller. En 2001 debutó la primera lista con recomendaciones para crear una selección integral de plantas excepcionales para el noroeste marítimo del Pacífico. Hasta la fecha, se han seleccionado más de 1,000 plantas excepcionales para jardineros que viven al oeste de las Montañas Cascade, desde Eugene, Oregón, EE.UU., hasta Vancouver, Columbia Británica, Canadá. Las plantas GPP de esta lista cumplen con estos criterios: pueden vivir en una variedad de suelos, requieren riego moderado o menos, toleran el calor, son resistentes al frío en la zona 7 USDA, no son propensas a problemas de enfermedades o plagas, y ofrecen interés por más de una estación en el jardín. Muchas plantas GPP también ofrecen beneficios ecológicos (polinizadores, alimento para aves, hábitat para la vida silvestre, etc.)
+
+#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

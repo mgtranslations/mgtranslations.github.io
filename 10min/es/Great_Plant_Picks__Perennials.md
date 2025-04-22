@@ -1,68 +1,73 @@
-### Universidad de 10 Minutos™  
-La Asociación de Jardineros Maestros del Condado de Clackamas, en colaboración y apoyo del Programa de Jardineros Maestros™ de Extensión de OSU  
+#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión OSU
 
-### Selección de Plantas Destacadas: Perennes  
-S: Planta para sombra, D: Planta tolerante a la sequía, Beneficio para la vida silvestre: Aves, Abejas, Mariposas, Colibríes  
+## Selecciones de Grandes Plantas: Plantas Perennes
 
-#### Nombre | S/D/W | Maduración en 10 años | Sol/Sombra | Características Destacadas  
+**S:** Planta de sombra  
+**D:** Planta tolerante a la sequía  
+**Beneficio para la vida silvestre:** Aves, abejas, mariposas, colibríes
 
-**Milenrama**  
-Achillea ‘Moonshine’  
-W | 3’ x 3’ | 3’ x 4’ | Sol pleno | Flores atractivas para polinizadores desde verano hasta principios de otoño.  
+### Lista de Plantas
 
-**Bandera Dorada**  
-Acorus gramineus ‘Ogon’  
-- | 1’ x 3’ | 1’ x 5’ | Sol pleno, sombra ligera o abierta | Follaje llamativo con rayas chartreuse parecido a la hierba. Versátil, ideal como acento en bordes mixtos, macetas, o cerca del agua.  
+| Nombre                            | S/D/V   | Tamaño maduro a 10 años | Sol/Sombra                        | Características destacadas                                                                      |
+|------------------------------------|---------|-------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|
+| **Milenrama**                      | V       | 90 cm x 90 cm           | Sol pleno                         | Flores atractivas para polinizadores desde el verano hasta principios de otoño.                |
+| **Acorus dorado abigarrado**       |         | 30 cm x 90 cm           | Sol pleno, sombra ligera o abierta | Llamativo follaje rayado color chartreuse, versátil para bordes mixtos, macetas o bordes de agua. |
+| **Anémona de bosque**              | S, V    | 10 cm x 90 cm           | Sol pleno o sombra ligera/abierta  | Colonizadora de bajo crecimiento con flores simples y coloridas en primavera.                  |
+| **Bergenia Bressingham White**     |         | 45 cm x 90 cm           | Sol pleno a sombra ligera/abierta  | Campanas blancas puras en tallos fuertes y follaje ovalado brillante.                          |
+| **Bergenia de hoja de corazón**    | S       | 45 cm x 90 cm           | Sol pleno a sombra ligera/abierta  | Racimos de flores en forma de campana, color rosa a rosado, en tallos firmes durante la primavera. |
+| **Bergenia Winter Glow**           | S       | 45 cm x 90 cm           | Sol pleno a sombra ligera/abierta  | Follaje verde brillante y robusto con flores magenta en primavera y follaje colorido en invierno. |
+| **Corazón sangrante (Dicentra)**   | S, V    | 30 cm x 60 cm           | Sombra ligera o moteada           | Hojas gris-verdes coronadas por racimos de delicadas flores colgantes en forma de corazón, color rojo vino. |
+| **Fucsia de Humboldt County**      | D       | 30 cm x 90 cm           | Sol pleno                         | Hojas plateadas contrastan con flores tubulares rojo-naranja, de mediados de verano a otoño.    |
 
-**Anémona del Bosque**  
-Anemone nemorosa  
-S, W | 4” x 3’ | 4” x 3.5’ | Sol pleno o sombra parcial | Colonia de crecimiento bajo que produce flores brillantes en primavera.  
+### Variedades de Epimedium
 
-**Bergenia ‘Bressingham White’**  
-Bergenia ‘Bressingham White’  
-- | 1.5’ x 3’ | 1.5’ x 4’ | Sol pleno a sombra ligera o abierta | Campanas blancas en tallos robustos, con follaje brillante y ovalado.  
+| Nombre                            | S/D/V   | Tamaño maduro a 10 años | Sol/Sombra                    | Características destacadas                                                                |
+|------------------------------------|---------|-------------------------|-------------------------------|------------------------------------------------------------------------------------------|
+| **Epimedium Black Sea**            | V       | 40 cm x 90 cm           | Sombra ligera o moteada       | Profusión de pequeñas flores amarillas delicadas en tallos rojos delgados, de invierno a primavera. |
+| **Epimedium Thunderbolt**          |         | 40 cm x 90 cm           | Sombra ligera o abierta       | Hojas de tono berenjena con venas verdes como relámpagos, follaje otoñal.                |
+| **Epimedium perralchicum**         | D, V    | 40 cm x 1.5 m           | Sombra ligera o moteada       | Flores amarillo mantequilla a finales de invierno y principios de primavera, rápido y resistente. |
+| **Epimedium híbrido**              | S, D, V | 40 cm x 1.5 m           | Sombra ligera o moteada       | Flores amarillo mantequilla seguidas de folíolos en forma de corazón con toques rojos.   |
+| **Epimedium rojo**                 | S, D, V | 40 cm x 90 cm           | Sombra ligera o moteada       | Flores rojo rosado a finales de marzo, seguidas de follaje con matices rojos llamativos. |
+| **Epimedium Sweetheart**           | D, V    | 40 cm x 60 cm           | Sombra ligera o abierta       | Prosperan en sombra ligera o moteada, menos flores en sombra profunda.                   |
+| **Epimedium Cherry Tart**          | D, V    | 40 cm x 60 cm           | Sombra ligera o abierta       | Flores rosa con centro amarillo limón sobre follaje púrpura chocolate.                   |
+| **Epimedium Sulfur**               | D, V    | 40 cm x 90 cm           | Sombra ligera o moteada       | Cubresuelos vigoroso con sépalos amarillo pastel y pétalos amarillo mantequilla.         |
+| **Epimedium Warley’s**             | S, D, V | 40 cm x 60 cm           | Sombra ligera o moteada       | Flores cobre naranja-rojo en primavera y folíolos en forma de corazón con toques rojos.  |
+| **Epimedium Orange Queen**         | D, V    | 40 cm x 60 cm           | Sombra ligera o moteada       | Cultivar de crecimiento lento, eventualmente cubre grandes áreas como cubresuelos.        |
 
-**Bergenia de Hoja Corazón**  
-Bergenia cordifolia  
-S | 1.5’ x 3’ | 1.5’ x 4’ | Sol pleno a sombra ligera o abierta | Racimos de flores rosadas en forma de campana sobre tallos robustos en primavera.  
+### Plantas Adicionales
 
-**Bergenia ‘Glow de Invierno’**  
-Bergenia cordifolia ‘Vinterglod’  
-S | 1.5’ x 3’ | 1.5’ x 4’ | Sol pleno a sombra ligera o abierta | Follaje verde brillante con flores magenta en primavera y hojas coloridas en invierno.  
+| Nombre                            | S/D/V   | Tamaño maduro a 10 años | Sol/Sombra                        | Características destacadas                                                                   |
+|------------------------------------|---------|-------------------------|-----------------------------------|---------------------------------------------------------------------------------------------|
+| **Cardo marino hoja de agave**     | D, V    | 90 cm x 30 cm           | Sol pleno a sombra ligera         | Follaje distintivo con tallo floral alto a finales del verano.                              |
+| **Cardo marino alpino**            | D, V    | 60 cm x 30 cm           | Sol pleno                         | Flores azul acero o blancas que parecen un cuello isabelino.                                |
+| **Fucsia resistente**              | V       | 90 cm x 90 cm           | Sol pleno a sombra ligera/abierta | Sépalos rojos y corolas púrpura, flores abundantes desde el verano hasta las heladas.       |
+| **Fucsia resistente de hoja dorada** | V     | 1.2 m x 1.2 m            | Sol de la mañana a sombra ligera/abierta | Follaje dorado que se vuelve verde-amarillo, sépalos carmesí y corolas púrpura.         |
+| **Hellebore de Córcega**           |         | 90 cm x 90 cm           | Sol pleno a sombra ligera/abierta | Flores cremosas verde pálido a fines del invierno sobre follaje perenne coriáceo.           |
+| **Hellebore apestoso**             | S       | 45 cm x 45 cm           | Sombra ligera a profunda          | Flores verde pálido en forma de campana desde noviembre hasta finales de primavera, hojas perennes finas. |
 
-**Corazón Sangrante**  
-Dicentra formosa ‘Bacchanal’  
-S, W | 1’ x 2’ | 1’ x 4’ | Sombra ligera o moteada | Hojas gris-verde con racimos de delicadas flores rojo vino en forma de corazón. Ideal para jardines boscosos.  
+### Cubresuelos
 
-**Fucsia de Condado Humboldt**  
-Epilobium septentrionale ‘Select Mattole’  
-D | 1’ x 3’ | 1’ x 5’ | Sol pleno | Hojas plateadas contrastan con flores tubulares rojo-naranja desde verano hasta otoño.  
+| Nombre                            | S/D/V   | Tamaño maduro a 10 años | Sol/Sombra                    | Características destacadas                                                         |
+|------------------------------------|---------|-------------------------|-------------------------------|------------------------------------------------------------------------------------|
+| **Pasto mondo enano**              |         | 10 cm x 30 cm           | Sombra ligera o moteada       | Follaje perenne pequeño en forma de pasto, se extiende lentamente.                 |
+| **Pasto mondo negro**              |         | 25 cm x 90 cm           | Sol pleno a sombra profunda   | Flores malva y frutos negros duran todo el invierno, excelente planta de acento.   |
+| **Oxalis rojo perenne**            |         | 15 cm x 1.8 m           | Sombra ligera a profunda      | Cubresuelo perenne nativo del noroeste del Pacífico para áreas sombreadas.         |
 
-**Epimedium ‘Black Sea’**  
-Epimedium ‘Black Sea’  
-W | 1’3” x 3’ | 1’3” x 5’ | Sombra ligera o moteada | Fácil de cultivar; pequeñas flores amarillas en invierno y primavera.  
+### Great Plant Picks (GPP)
 
-**Epimedium ‘Thunderbolt’**  
-Epimedium pinnatum ssp. Colchicum ‘Thunderbolt’  
-- | 1’3”x3’ | 1’3”x5’ | Sombra ligera o abierta | Follaje púrpura con venas verdes en otoño.  
+Great Plant Picks (GPP) es el programa educativo principal del Jardín Botánico Elisabeth C. Miller. En 2001, se publicó la primera lista con recomendaciones para crear una paleta completa de plantas excepcionales para el Noroeste Pacífico marítimo. Hasta la fecha, se han seleccionado más de 1,000 plantas excepcionales para jardineros que viven al oeste de las Montañas Cascade, desde Eugene, Oregón, EE. UU. hasta Vancouver, Columbia Británica, Canadá.
 
-**Epimedium × perralchicum**  
-D, W | 1’3” x 5’ | 1’3” x 8’ | Sombra ligera o moteada | Flores amarillas en invierno y primavera; resistente y de rápido crecimiento.  
+#### Criterios de Selección de GPP
 
-**Epimedium x perralchicum ‘Frohnleiten’**  
-S, D, W | 1’3” x 5’ | 1’3” x 8’ | Sombra ligera o moteada | Flores amarillas en invierno y hojas verdes con detalles rojos entre las venas.  
-
-**Epimedium x rubrum**  
-S, D, W | 1’3” x 3’ | 1’3” x 5’ | Sombra ligera o moteada | Cobertura duradera con flores rojas en marzo y follaje rojo intenso.  
-
-[...]
-
-### Información del Programa  
-Great Plant Picks (GPP) es el programa educativo principal del Jardín Botánico Elisabeth C. Miller. Desde 2001, se han seleccionado más de 1,000 plantas excepcionales para jardineros que viven al oeste de las Montañas Cascade, desde Eugene, Oregón, hasta Vancouver, Columbia Británica.  
-
-Las plantas GPP seleccionadas cumplen con estos criterios: toleran diferentes tipos de suelo, necesitan agua suplementaria moderada o menos, resisten el calor, son resistentes al frío en la zona USDA 7, no son propensas a enfermedades/plagas, y ofrecen interés en el jardín durante más de una temporada.  
+- Prosperan en una variedad de suelos.
+- Requieren riego suplementario moderado o menos.
+- Toleran el calor.
+- Resistentes al frío en la zona 7 del USDA.
+- Resistentes a enfermedades y plagas.
+- Ofrecen interés en más de una estación en el jardín.
+- Brindan beneficios ecológicos (polinizadores, alimento para aves, hábitat para la vida silvestre, etc.).
 
 ---
 
-### Política de No Discriminación  
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género, orientación sexual, discapacidad, edad, estado civil, estatus familiar, ingresos provenientes de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias por actividad previa en derechos civiles. (No todas las bases prohibidas aplican a todos los programas).
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, situación familiar/paternal, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalia por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

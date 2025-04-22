@@ -1,135 +1,132 @@
-# Đại Học 10 Phút™  
-Hiệp Hội Làm Vườn Bậc Thầy Quận Clackamas phối hợp và hỗ trợ  
-Chương Trình Làm Vườn Bậc Thầy™ của OSU Extension  
+#### Đại học 10 Phút™ · Hiệp hội Làm vườn Thạc sĩ Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Thạc sĩ OSU Extension™
 
-## Trồng Xà Lách và Các Loại Rau Lá Khác  
+# Trồng Xà Lách & Các Loại Rau Lá Khác
 
-### Tổng Quan  
-Xà lách và các loại rau lá là những cây trồng tuyệt vời dành cho cả người mới bắt đầu và người làm vườn có kinh nghiệm.  
-Thời gian sinh trưởng ngắn giúp có kết quả nhanh chóng và có thể trồng nhiều vụ mỗi mùa.  
-Yêu cầu chăm sóc thấp làm cho chúng phù hợp với ban công căn hộ cũng như vườn sau nhà.  
-Giá trị trang trí cao làm cho chúng trở thành một loại rau ăn được lý tưởng để trồng trong các chậu trên sân.  
-Không giống như hầu hết các loại rau, rau lá có thể chịu được một chút bóng râm, và việc tự trồng sẽ tiết kiệm chi phí.  
-Một gói hạt giống có trung bình 2.000 hạt và có thể cung cấp rau lá hỗn hợp trong vài tháng, một trong những món ăn cao cấp đắt đỏ ngoài thị trường.  
+### Tổng Quan
 
-### Các Loại Rau Lá Thông Dụng  
-- **Xà lách lá lỏng:**  
-Oak Leaf, Red Sails, Salad Bowl  
-- **Xà lách đầu lỏng:**  
-Buttercrunch, Bibb, Boston  
-- **Xà lách Romaine:**  
-Valmaine, Cos  
-- **Xà lách Iceberg:**  
-Summertime, Red Iceberg  
-- **Rau bina:**  
-Châu Á – mùa lạnh hoặc lá rộng  
-New Zealand – mùa nóng  
+Xà lách và các loại rau lá là cây trồng tuyệt vời cho cả người mới bắt đầu lẫn người làm vườn có kinh nghiệm. Mùa sinh trưởng ngắn giúp thu hoạch nhanh và có thể trồng nhiều vụ trong một mùa. Yêu cầu chăm sóc đơn giản khiến chúng dễ thích nghi cả với ban công chung cư và vườn sau nhà. Giá trị thẩm mỹ cao giúp chúng trở thành loại rau ăn được lý tưởng để trồng trong chậu ngoài hiên. Khác với đa số các loại rau, rau lá có thể chịu được một chút bóng râm, và tự trồng sẽ tiết kiệm chi phí. Một gói hạt giống trung bình chứa khoảng 2.000 hạt, đủ cung cấp rau trộn lá trong nhiều tháng – một trong những mặt hàng đắt đỏ ngoài thị trường.
 
-### Các Loại Rau Khác Có Nhu Cầu Trồng Tương Tự  
-- **Rau arugula:** thêm hương vị bùi dễ chịu  
-- **Cải xanh:** cung cấp vị cay nhẹ  
-- **Cải thìa:** tốt nhất dùng trong món xào  
-- **Cải cầu vồng và cải xoăn:** cây cứng cáp, chịu lạnh; nấu chín để ăn  
+### Các Loại Rau Lá Thường Gặp
 
-## Cách Bắt Đầu  
-Xà lách và các loại rau lá khác có thể được trồng từ hạt giống hoặc cây con.  
-Nguyên tắc khi gieo hạt là gieo ở độ sâu bằng 2 đến 4 lần chiều rộng của hạt.  
-Nói cách khác, hạt càng nhỏ thì càng nên gieo nông hơn.  
-Tham khảo thông tin trên gói hạt giống để biết thêm chi tiết.  
+- **Xà lách lá rời:** Lá Sồi, Red Sails, Salad Bowl
+- **Xà lách bắp lỏng:** Buttercrunch, Bibb, Boston
+- **Xà lách Romaine:** Valmaine, Cos
+- **Xà lách Iceberg:** Summertime, Red Iceberg
+- **Cải bó xôi (Spinach):**
+  - Loại châu Á – mùa mát hoặc lá rộng
+  - Loại New Zealand – mùa ấm
 
-- **Gieo trực tiếp:**  
-Loại bỏ hết cỏ dại; bón đất nếu cần.  
-San phẳng luống đất, rắc nhẹ hạt giống và phủ chúng bằng lớp đất dày ¼ inch.  
-Khi cây lớn lên, tỉa bớt để tránh cây mọc quá dày và để lại đủ khoảng trống cho các cây phát triển thành cây trưởng thành.  
-Các cây con có thể được sử dụng làm "rau lá non".  
+### Các Loại Rau Lá Khác Có Nhu Cầu Chăm Sóc Tương Tự
 
-- **Trồng cây con:**  
-Chọn cây khỏe mạnh; ngâm kỹ trong chậu trước khi trồng để đảm bảo được tưới nước đầy đủ.  
-Nới lỏng rễ và trồng vào đất hoặc chậu.  
-
-- **Trồng trong chậu:**  
-Chậu là lý tưởng để trồng xà lách và các loại rau lá khác.  
-Bắt đầu với hỗn hợp đất chậu tốt.  
-Đất vườn có thể thay thế không quá 1/3 tổng hỗn hợp.  
-
-Đối với mỗi 2,5 feet khối đất trồng không có chất bón bổ sung, hãy thêm:  
-1 cốc vôi dolomite,  
-1 cốc bột hạt bông hoặc bột cỏ linh lăng hoặc 2/3 cốc bột máu,  
-2 cốc bột xương hoặc đá mềm phốt phát,  
-và 1 cốc bột rong biển.  
-
-Để dễ thu hoạch, nhóm các cây trồng theo nhu cầu chăm sóc và thói quen sinh trưởng.  
-Ví dụ, xà lách có thời gian sinh trưởng dài hơn bông cải xanh.  
-Trồng chúng trong các chậu khác nhau giúp bạn thu hoạch bông cải xanh trước vài tuần khi xà lách hoàn thành.  
-Chậu có thể được tái sử dụng cho loại cây khác.  
-
-## Thời Điểm Trồng  
-Nhiệt độ đất tối thiểu nên đạt từ 40 đến 45 độ.  
-Đất trong luống nâng và chậu sẽ đạt nhiệt độ này sớm hơn đất thường.  
-Sử dụng nhiệt kế đất, có sẵn tại các trung tâm ươm cây và cung cấp dụng cụ làm vườn, để kiểm tra nhiệt độ đất.  
-
-Rau lá phát triển tốt nhất khi nhiệt độ không khí từ 60 đến 70 độ.  
-Thời tiết mát hơn sẽ không làm hư hại cây nhưng chỉ làm chậm sự phát triển.  
-Trồng rau lá vào đầu xuân đến đầu hè để thu hoạch mùa hè.  
-Để thu hoạch mùa thu, trồng rau lá vào cuối hè.  
-
-Thời tiết nóng khiến rau lá ra hoa hoặc tạo hạt.  
-Khi điều này xảy ra, lá trở nên thô và đắng.  
-Các giống chậm ra hoa hoặc lâu đứng sẽ tốt hơn vào mùa hè.  
-
-## Đất  
-Rau lá thích nghi với nhiều loại đất khác nhau;  
-tuy nhiên, đất sét nặng nên được cải tạo bằng phân hữu cơ hoặc cát để đảm bảo thoát nước tốt.  
-Xà lách trồng trong điều kiện ẩm ướt dễ bị nấm mốc trắng (Sclerotinia sclerotiorum).  
-
-Rau lá cần khoảng 1 inch nước mỗi tuần;  
-tưới thường xuyên để giữ đất ẩm.  
-Nếu bạn chọn tưới từ trên cao, hãy đảm bảo để lá khô trước buổi tối.  
-
-## Phân Bón  
-Rau lá có rễ nông và chỉ cần khoảng 7 đến 8 inch đất màu mỡ.  
-Bón phân chứa nitơ với tỷ lệ 0,2 pound trên mỗi 100 feet vuông.  
-
-## Ốc Sên  
-Đất ẩm và bóng râm dưới cây xà lách cùng với lá non ngọt ngào tạo môi trường hoàn hảo cho ốc sên.  
-Ốc sên có thể được xử lý bằng một số cách thân thiện với môi trường.  
-Cắt đôi chúng bằng kéo là cách dễ dàng.  
-Bẫy làm từ hộp nhỏ như hộp cá ngừ, đặt chìm sao cho mép trên hơi cao hơn đất và đổ đầy bia, có tác dụng thu hút ốc sên.  
-
-Nếu sử dụng mồi ốc sên thương mại, hãy đảm bảo rằng nó an toàn cho thú cưng và các động vật khác có thể ghé thăm khu vườn của bạn.  
-
-## Thu Hoạch và Bảo Quản  
-Thu hoạch rau lá vào buổi sáng trước khi lá bắt đầu héo.  
-Thu hoạch "rau lá non" bằng cách cắt toàn bộ cây sát mặt đất, để lại đủ khoảng trống giữa các cây còn lại để phát triển thành đầu cây.  
-Để thu hoạch từ đầu cây, có thể cắt toàn bộ cây sát mặt đất hoặc chỉ ngắt các lá bên ngoài.  
-Để lại các lá bên trong sẽ giúp cây tiếp tục sản xuất.  
-
-Ngay sau khi thu hoạch, làm tươi xà lách bằng cách ngâm trong chậu nước mát khoảng 15 phút.  
-Vắt hoặc để ráo nước, đóng kín và bảo quản trong tủ lạnh tối đa ba ngày.  
-
-Để nấu cải cầu vồng hoặc cải xoăn, cắt bỏ phần gân giữa vì chúng có thể dai hoặc đắng.  
-Cắt nhỏ lá và xào với một ít dầu ô liu.  
-Tỏi, muối, và tiêu là những gia vị tốt để thêm vào.  
-Phần gân giữa thích hợp làm nguyên liệu cho súp hoặc món hầm.  
+- **Cải arugula:** Thêm vị béo nhẹ nhàng
+- **Cải mù tạt:** Tạo vị cay nhẹ
+- **Cải thìa (bok choy):** Ngon nhất khi xào
+- **Cải cầu vồng và kale:** Cây khỏe, chịu lạnh tốt; cần nấu chín trước khi ăn
 
 ---
 
-### Tài Nguyên Dịch Vụ Mở Rộng OSU  
-https://catalog.extension.oregonstate.edu/  
-- Trồng xà lách, rau bina, và cải cầu vồng (EC 1268)  
-- Lập kế hoạch và chuẩn bị khu vườn rau của bạn (EC 1228)  
-- Làm vườn trong luống nâng (FS 270)  
-- Cách tự dựng luống nâng có mái che (EC 1627)  
-- Làm vườn với phân hữu cơ, lớp phủ, và tấm che hàng (EC 1247)  
-- Sổ tay Làm Vườn Bền Vững (EM 8742)  
+## Bắt Đầu Như Thế Nào
 
-### Tư Vấn Làm Vườn Bậc Thầy™  
-- Gọi đường dây nóng Tư Vấn Làm Vườn Tại Nhà:  
-503-655-8631 (Quận Clackamas);  
-503-821-1150 (Quận Washington);  
-hoặc 503-445-4608 (Quận Multnomah).  
-- Để biết thêm tài liệu và lịch học Đại Học 10 Phút™, truy cập www.cmastergardeners.org  
+Xà lách và các loại rau lá khác có thể trồng từ hạt hoặc cây con. Nguyên tắc gieo hạt là gieo sâu bằng 2 đến 4 lần chiều rộng của hạt. Nói cách khác, hạt càng nhỏ thì gieo càng nông. Xem thêm thông tin trên bao bì hạt giống.
+
+### Gieo Trực Tiếp
+
+1. Nhổ sạch cỏ dại; cải tạo đất nếu cần.
+2. San phẳng luống, rắc nhẹ hạt lên bề mặt và phủ một lớp đất dày khoảng 0,6 cm (1/4 inch).
+3. Khi cây lớn lên, tỉa bớt để tránh chen chúc, giúp cây còn lại có chỗ phát triển thành cây to.
+4. Cây non có thể dùng làm “rau non”.
+
+### Trồng Cây Con
+
+- Chọn cây khỏe mạnh; tưới đẫm cây trong chậu trước khi trồng để đảm bảo cây đủ nước.
+- Nới lỏng bộ rễ rồi trồng xuống đất hoặc vào chậu.
+
+### Trồng Trong Chậu
+
+Chậu là lựa chọn lý tưởng để trồng xà lách và các loại rau lá. Bắt đầu với hỗn hợp đất trồng chậu tốt. Đất vườn tơi xốp có thể thay thế tối đa 1/3 tổng hỗn hợp.
+
+Với mỗi 2,5 feet khối đất không có phân bón sẵn, hãy thêm:
+
+- 1 cốc vôi dolomite
+- 1 cốc bột bông hoặc bột cỏ linh lăng (hoặc 2/3 cốc bột máu)
+- 2 cốc bột xương hoặc photphat đá mềm
+- 1 cốc bột tảo biển
+
+Để dễ thu hoạch, hãy nhóm các loại cây theo nhu cầu chăm sóc và thói quen sinh trưởng. Ví dụ, xà lách có mùa sinh trưởng dài hơn bông cải xanh. Trồng chúng trong các chậu khác nhau giúp bạn thu hoạch bông cải xanh trước khi xà lách xong vụ, giải phóng chậu cho cây khác.
 
 ---
 
-Dịch Vụ Mở Rộng Đại Học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động, và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa cho hoạt động dân quyền trước đây. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho mọi chương trình.)
+## Thời Điểm Gieo Trồng
+
+- Nhiệt độ đất tối thiểu nên đạt **40 đến 45 độ F**. Đất ở luống nâng và chậu sẽ ấm lên nhanh hơn đất vườn. Dùng nhiệt kế đất (bán ở cửa hàng cây cảnh) để kiểm tra nhiệt độ đất.
+- Rau lá phát triển tốt nhất khi nhiệt độ không khí **60 đến 70 độ F**. Thời tiết lạnh hơn không làm hại cây, chỉ làm chậm phát triển.
+
+### Mùa Gieo Trồng
+
+- **Thu hoạch mùa hè:** Gieo rau từ đầu xuân đến đầu hè.
+- **Thu hoạch mùa thu:** Gieo rau vào cuối hè.
+
+Thời tiết nóng làm rau lá trổ ngồng hoặc ra hoa, khiến lá trở nên dai và đắng. Các giống chậm trổ ngồng hoặc chịu nóng sẽ phát triển tốt hơn vào mùa hè.
+
+---
+
+## Đất
+
+Rau lá thích nghi nhiều loại đất; tuy nhiên, đất sét nặng nên trộn thêm phân hữu cơ hoặc cát để thoát nước tốt hơn. Xà lách trồng nơi ẩm ướt dễ bị nấm trắng (*Sclerotinia sclerotiorum*).
+
+- Rau lá cần khoảng **2,5 cm nước mỗi tuần**. Tưới thường xuyên để giữ ẩm cho đất.
+- Nếu tưới lên lá, đảm bảo lá khô trước khi trời tối.
+
+---
+
+## Phân Bón
+
+Rau lá có rễ nông, chỉ cần **18-20 cm đất màu mỡ**. Bón phân đạm với liều **0,2 pound cho mỗi 9,3 m²** (100 square feet).
+
+---
+
+## Ốc Sên
+
+Đất ẩm, râm dưới tán xà lách cùng lá non ngọt là môi trường lý tưởng cho ốc sên. Có nhiều cách thân thiện với môi trường để xử lý ốc sên:
+
+- Dùng kéo cắt đôi ốc, rất dễ làm.
+- Dùng bẫy bằng hộp nhỏ (ví dụ lon cá ngừ), chôn sao cho miệng hộp cao hơn mặt đất một chút và đổ bia vào để dụ ốc.
+- Nếu dùng bả diệt ốc bán sẵn, hãy chọn loại an toàn cho thú cưng và động vật khác ghé vườn.
+
+---
+
+## Thu Hoạch và Bảo Quản
+
+- **Thu hoạch:**
+  - Thu hoạch rau lá vào buổi sáng, trước khi lá bị héo.
+  - Với “rau non”, cắt sát gốc cả cây, chừa khoảng cách cho cây còn lại phát triển thành cây to.
+  - Khi thu hoạch từ cây trưởng thành, có thể cắt cả cây sát gốc hoặc ngắt từng lá ngoài. Giữ lại lá non ở giữa giúp cây tiếp tục phát triển.
+
+- **Bảo quản:**
+  - Ngay sau khi thu hoạch, làm tươi xà lách bằng cách ngâm trong chậu nước mát 15 phút.
+  - Vắt hoặc để ráo nước, đóng kín và bảo quản trong tủ lạnh tối đa 3 ngày.
+
+- **Nấu cải cầu vồng hoặc kale:**
+  - Bỏ phần gân giữa vì có thể dai hoặc đắng.
+  - Cắt nhỏ lá, xào với một ít dầu ô liu. Có thể thêm tỏi, muối và tiêu cho ngon hơn.
+  - Phần gân giữa dùng nấu súp hoặc hầm.
+
+---
+
+## Tài Nguyên từ Dịch vụ Khuyến nông OSU Extension
+
+- [Tự trồng xà lách, cải bó xôi và cải cầu vồng (EC 1268)](https://catalog.extension.oregonstate.edu/)
+- [Lập kế hoạch và chuẩn bị vườn rau (EC 1228)](https://catalog.extension.oregonstate.edu/)
+- [Làm vườn trên luống nâng (FS 270)](https://catalog.extension.oregonstate.edu/)
+- [Cách tự làm nhà lưới cho luống nâng (EC 1627)](https://catalog.extension.oregonstate.edu/)
+- [Làm vườn với phân hữu cơ, phủ đất, và lưới che hàng (EC 1247)](https://catalog.extension.oregonstate.edu/)
+- [Sổ tay Làm vườn Bền vững (EM 8742)](https://catalog.extension.oregonstate.edu/)
+
+---
+
+#### Tư vấn Làm vườn Thạc sĩ™ · Gọi Đường dây Tư vấn Nông nghiệp: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm các tài liệu và lịch học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc con cái, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các tiêu chí cấm đều áp dụng cho mọi chương trình.)
+---

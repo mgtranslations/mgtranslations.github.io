@@ -1,57 +1,113 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Khibradda leh ee Degmada Clackamas oo kaashanaya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beeralayda Sare ee Clackamas County isagoo iskaashi la leh oo taageeraya Barnaamijka OSU Extension Master Gardener™.
+---
 
-## Tijaabinta pH dhulka  
+## Tijaabinta pH-ga Dhulka
 
-### Guudmar  
-Beeralayda guuleysta ee doonaya inay ka faa'iidaystaan natiijada beero dhirta waxay fahamsan yihiin muhiimadda pH dhulka, oo muhiim u ah sida goobta, iftiinka qorraxda, iyo diyaarinta dhulka. pH dhulka waa cabirka heerka aashitada (dhanaan) ama alkalinimada (macaan) ee dhulka. Waxaa lagu cabiraa miisaanka 0 illaa 14, oo tirooyin hoose ay yihiin kuwo aad u aashid ah, halka tirooyin sare ay yihiin kuwo alkalin ah. Qiimaha 7.0 waa dhexdhexaad—macnaheedu waa, midna maaha aashid iyo alkalin.
+### Dulmar
 
-Marka heerarka pH ay aad u sareeyaan ama aad u hooseeyaan, macdanta waxay ku dhegtaa qaybaha dhulka, taasoo ka dhigan in dhirta aysan heli karin macdantaas. Xaaladdan, ku darista bacriminta badan wax faa'iido ah ma yeelaneyso. Labada qaddar ee macdanta ku jirta dhulka iyo roobabka sannadlaha ah waxay saameeyaan pH dhulka. Galbeedka Oregon, roobka wuxuu dhaqaajiyaa macdanta, taasoo keenta dhul aad u aashid ah. Bariga Oregon dhulku waa alkalin.
+Beeralayda guuleysta ee doonaya in ay kor u qaadaan natiijada beerkooda waxay ogyihiin muhiimadda pH-ga dhulka, taasoo la mid ah muhiimadda goobta, iftiinka, iyo diyaarinta dhulka. pH-ga dhulka waa cabbirka heerka aashitada (dhanaan) ama alkaliinnimada (macaan) ee dhulka. Waxaa lagu cabbiraa miisaan u dhexeeya 0 ilaa 14; tiro hoose oo aashito badan iyo tiro sare oo alkaliin badan. Qiimaha 7.0 waa dhexdhexaad—macnaheedu waa inuusan aashito ama alkaliin midna ahayn.
 
-Guud ahaan, dhir badan waxay si fiican ugu koriyaan pH dhexdhexaad ah, inkastoo ay jiraan waxyaabo muhiim ah oo ka reeban. Tusaale ahaan, blueberries, azaleas, iyo rhododendrons waxay ku fiican yihiin pH dhulka oo u dhaxeeya 4.5 illaa 5.5. Cawska wuxuu jecel yahay pH 5.5 illaa 6, halka ubaxyada roses ay ku fiican yihiin pH dhulka oo u dhaxeeya 6.5 illaa 7.
+Marka pH-ga dhulku uu aad u hooseeyo ama u sarreeyo, macdanta waxay ku xiran tahay walxaha dhulka mana heli karaan dhirtu. Xaaladdan, bacriminta dheeraad ah waxba tari mayso. Tirada macdanta ee dhulka dabiiciga ah iyo roobka sannadlaha ah labaduba waxay saameeyaan pH-ga dhulka. Galbeedka Oregon, roobku wuxuu dhaqaajiyaa macdanta wuxuuna keenaa dhul aashito leh. Bariga Oregon, dhulku waa alkaliin badan yahay.
 
-### Noocyada Tijaabada Dhulka  
-Waxaa jira laba nooc oo tijaabo dhulka ah: Mid waxaa lagu cabiraa macdanta dhulka, halka midka kale uu cabiraa pH dhulka. Tijaabada macdanta waxay cabirtaa nafaqooyinka dhulka ee dhirta heli karto. Tijaabadan waxaa lagu sameeyaa sheybaar xirfadle ah.
+Guud ahaan, inta badan dhirta waxay si fiican ugu koraan dhul pH-goodu dhexdhexaad yahay, inkastoo ay jiraan waxyaabo muhiim ah oo ka reeban. Tusaale ahaan:
 
-pH dhulka waxaa lagu hubin karaa guriga iyadoo la adeegsanayo qalab fudud. Intaas waxaa dheer, Beeralayda Sare ee Clackamas County waxay dhowr jeer sannadkii qabtaan tijaabooyin pH dhulka oo bilaash ah. Beeralayda Sare waxay isticmaalaan qalab casri ah oo soo saaraya natiijooyin sax ah. Booqo www.clackamascountymastergardeners.org ama weydii Beeralay Sare taariikhaha dhacdooyinkan bilaashka ah ee tijaabada pH.
+- Blueberries, azaleas, iyo rhododendrons waxay ku fiican yihiin pH u dhexeeya 4.5 iyo 5.5.
+- Doogagga waxay jecel yihiin pH-ga 5.5 ilaa 6.
+- Ubaxa roses-ka wuxuu ugu fiican yahay dhul pH-giisu yahay 6.5 ilaa 7.
 
-### Sida Loo Qaado Muunad Dhulka  
-Si taxaddar leh u raac tallaabooyinkan si muunadda aad tijaabinayso ay si dhab ah u matasho dhammaan aagga.
+---
 
-1. Go'aami tirada muunadaha ku saleysan dhulka iyo dhirta/beerta la koriyo; aagga kasta waa inuu yeesho muunad u gaar ah. Tusaale ahaan, haddii aad leedahay buuro iyo meel hoose oo qoyan, qaado muunado kala duwan oo labada aag ah. Haddii aad leedahay beer khudaar, cawska, iyo sariir ubaxyo, qaado muunado kala duwan oo mid kasta.
+### Noocyada Tijaabada Dhulka
 
-2. Marka aad go'aamiso tirada aagagga aad ka qaadanayso muunadaha dhulka, diyaarso tiradaas weel nadiif ah (caag ama dhalo ama bac caag ah). Awoodda ugu habboon ee weelka waa ku dhawaad 1 koob, inkastoo kuwa waaweyn ay sidoo kale ku habboon yihiin.
+Waxaa jira laba nooc oo waaweyn oo tijaabo dhul ah:
 
-3. Muunad kasta waa inay ka kooban tahay inta u dhaxaysa ½ iyo ¾ koob oo dhulka ah. Muunaddan waa inay noqotaa isku-dheelli ah oo ka kooban dhowr muunado yar oo ka imanaya aagga aad rabto inaad tijaabiso.
+1. **Tijaabada Macdanta**: Waxay cabbirtaa nafaqooyinka dhulka ee dhirta la heli karo. Tijaabadan waa in lagu sameeyaa shaybaar xirfadaysan.
+2. **Tijaabada pH-ga Dhulka**: Waxaa lagu tijaabin karaa guriga iyadoo la adeegsanayo qalab sahlan.
 
-4. Isticmaal qalabyada muunada qaadista ee nadiif ah oo aan ahayn galvanized, bronze, ama brass. Hubi in gacmahaaga iyo gacmo-gashiyadaada ay nadiif yihiin. Qaddar yar oo bacriminta ah oo ku jirta qalabka, gacmahaaga, ama gacmo-gashiyadaada waxay si weyn u saameyn kartaa natiijooyinka tijaabada.
+Beeralayda Khibradda leh ee Degmada Clackamas waxay sameeyaan tijaabooyin pH oo lacag la’aan ah dhowr jeer sanadkii, iyagoo adeegsanaya qalab casri ah si ay natiijooyin sax ah u helaan. Ka hubi [www.clackamascountymastergardeners.org](http://www.clackamascountymastergardeners.org) ama weydii Beeralayda Khibradda leh taariikhaha dhacdooyinka tijaabada pH ee lacag la’aanta ah.
 
-5. Qaado muunadaha qoto dheer ee saxda ah -- aagga xididka dhirta ee aaggaas. Beerta khudaarta, muunadaha waa in laga qaado dusha illaa 8” qoto dheer.
+---
 
-6. Hubi inaad ku calaamadiso muunad kasta magacaaga iyo goobta beertaada, tusaale, sariir ubaxyo rose ah, cawska galbeed, beerta khudaarta, iwm.
+### Sida Loo Qaado Tusaale Dhul
 
-7. Ka fogow qaadista muunadaha meelaha aan caadiga ahayn sida meelaha compostka ama meelaha qashinka, ama meelaha gubtay, sababtoo ah ma matalaan dhulka beertaada.
+Raac tillaabooyinkan si aad u hubiso in tusaalaha aad qaaday ay si dhab ah u metelayso goobta oo dhan:
 
-### Natiijooyinka Tijaabada iyo Talooyinka  
-Muunad kasta waxay soo saari doontaa akhrinta pH. Tirooyin hoose waxay muujinayaan dhul aashid ah, halka tirooyin sare ay muujinayaan dhul alkalin ah. Marka Beeralayda Sare ay sameeyaan tijaabada, waxay sidoo kale kaa caawiyaan tarjumidda natiijooyinka waxayna ku siinayaan macluumaad ku saabsan wax ka qabashada. Waxaa ugu fiican in pH dhulka la hagaajiyo muddo dhowr sannadood ah. Ku dar wax ka beddel ku habboon xilliga dayrta; dib u hubi pH dhulka 3 illaa 6 bilood kadib. Ku celi sidii loo baahdo.
+1. **Go’aami tirada tusaalooyinka aad u baahan tahay**:
+   - Ku saley intaas dhulka iyo dhirta aad ku beertay.
+   - Goob kasta waa in ay leedahay tusaale gaar ah. Tusaale ahaan:
+     - Buur iyo meel hoose oo qoyan waa in tusaalooyin kala duwan laga qaadaa.
+     - Beerta khudaarta, doogga, iyo sariirta ubaxyada waa in mid walba tusaale gaar ah laga qaadaa.
 
-Si loo kordhiyo pH dhulka, ku dar lime. Ku darista xilliga dayrta waxay soo saartaa natiijooyin ugu fiican. Isticmaal 5 illaa 10 rodol lime halkii 100 ft² haddii lagu darayo dhulka kahor beerto. Cawska ama dhirta la dhisay, ku dar 5 rodol halkii 100 ft². Dib u tijaabi pH dhulka 3 illaa 6 bilood kadib si aad u aragto haddii aad gaadhay pH bartilmaameedka.
+2. **Diyaari weelasha**:
+   - Isticmaal dhalooyinka caaga ah ama galaaska ah ee nadiif ah, ama bacaha caagga ah.
+   - Xaddiga ugu fiican waa qiyaastii koob, laakin weel ka weyn waa la isticmaali karaa.
 
-Waxaa jira noocyo kala duwan oo lime ah—budada, granular, ama pelletized. Granular ama pelletized lime waa sahlan tahay in la faafiyo. Haddii aad isticmaalayso budada, xir maaskaro. Dolomite lime oo ay ku jirto magnesium waxay u fiican tahay beeralayda galbeedka Oregon, halkaas oo dhulku inta badan ka maqan yahay magnesium.
+3. **Soo ururi dhulka**:
+   - Tusaale walba waa in uu ahaadaa inta u dhaxaysa ½ ilaa ¾ koob oo dhul ah.
+   - Isku dar dhowr tusaale oo yar-yar oo ka kala yimid qaybta aad rabto inaad tijaabiso.
 
-pH dhulka oo ka weyn 7.0 maaha caadi galbeedka Cascades, sidaa darteed beeralayda aaggaas waxay sida caadiga ah dhulkooda ku aashidiyaan oo kaliya dhirta jecel aashida. Dhulka bariga Cascades waa alkalin, waxaana laga yaabaa inay u baahan yihiin in la aashidiyo dhulka dhammaan dalagyada.
+4. **Isticmaal qalab nadiif ah**:
+   - Ka fogow qalabka galvanized, birta ah ee bronze ama brass ah.
+   - Hubi in gacmaha iyo galoofyada nadiif yihiin si aadan u wasakheynin tusaalaha.
 
-Si loo yareeyo pH dhulka, ku dar sulfur asal ah. Haddii aad isticmaalayso budada, xir maaskaro. Sida lime, sulfur-ka waxaa ugu fiican in lagu daro xilliga dayrta. Waa mid waxtar badan haddii lagu daro aagga kahor beerto. Geedaha iyo geedaha dhirta la dhisay, ku dar qaddar yar dhulka dushiisa oo ku yaal meelaha biyuhu ku ururaan, ama ku faafi safka blueberries. Wixii macluumaad dheeraad ah ee ku saabsan sida loo yareeyo pH dhulka, eeg EC 1560-E. Ma jiro tijaabo lagu ogaanayo qaddarka sulfur-ka loo baahan yahay wax ka beddel. Tijaabada pH dhulka 3 illaa 6 bilood kadib waxay ku tusi doontaa haddii wax intaas ka badan loo baahan yahay.
+5. **Qaado tusaalaha qoto dheer oo sax ah**:
+   - Beerta khudaarta, ka qaad tusaalaha dusha ilaa 8 inch oo qoto dheer.
 
-### Agab OSU Extension Service  
-Booqo xafiiska OSU Extension Service ee 200 Warner-Milne Road, Oregon City, si aad u hesho daabacaaddan, ama ka hel khadka internetka http://catalog.extension.oregonstate.edu  
-- Liiska Sheybaarada Falanqeynta ee Oregon EM 8677  
-- Qaadista Muunada Dhulka ee Beerta Guriga iyo Aagagga Yar EC 628  
-- Dhulka Aashidiya ee Blueberries iyo Dhirta Qurxinta ee Beerta, EC 1560-E  
+6. **Ku qor magac iyo goob**:
+   - Ku qor magacaaga iyo meesha beerta ee aad ka soo qaaday (tusaale, sariirta roses-ka, doogga galbeed, beerta khudaarta).
 
-### Talooyinka Beeralayda Sare  
-- Wac Khadka Caawinta Beeraha Guriga: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Wixii daabacaaddo ah iyo jadwalka fasallada ee Jaamacadda 10-Daqiiqo™, booqo www.cmastergardeners.org ama www.metromastergardeners.org.  
+7. **Ka fogow meelaha aan caadiga ahayn**:
+   - Ha ka qaadin tusaalooyin meelaha compost-ka, xoolaha, ama meelaha la gubay, sababtoo ah ma matalaan dhulka beertaada.
 
-Adeegga OSU Extension Service wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabkeeda iyadoo ku saleysan jinsiyadda, midabka, asal ahaan qowmiyadda, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), qowmiyadda galmada, naafonimada, da'da, heerka guurka, heerka qoyska/waalidka, dakhliga ka soo baxa barnaamijka kaalmo dadweyne, aragtida siyaasadeed, macluumaadka hidda-sidaha, heerka shaqaalaha hore, ama aargoosasho ama dib u dhac kadib hawlaha xuquuqda madaniga ah. (Dhammaan saldhigyada mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
+---
+
+### Natiijooyinka Tijaabada iyo Xalka
+
+Tusaale walba wuxuu soo saari doonaa akhris pH:
+
+- **Tiro hoose** waxay muujinaysaa dhul aashito leh.
+- **Tiro sare** waxay muujinaysaa dhul alkaliin badan.
+
+Marka Beeralayda Khibradda leh ay sameeyaan tijaabada, waxay kaa caawinayaan fahamka natiijooyinka waxayna bixiyaan talo ku saabsan xalalka. Waxaa fiican in si tartiib ah loo beddelo pH-ga dhulka muddo sannado ah. Ku dar wax ka beddelka ku habboon xilliga dayrta, dibna u tijaabi pH-ga dhulka kadib 3 ilaa 6 bilood. Ku celi haddii loo baahdo.
+
+#### Kordhinta pH-ga Dhulka
+
+- Ku dar lime xilliga dayrta si aad u hesho natiijo fiican.
+- Isticmaal **5 ilaa 10 rodol oo lime ah 100 ft laba jibbaaran** haddii aad ku qasayso dhulka ka hor intaadan beeri.
+- Haddii ay tahay doog ama dhir horey u taalla, ku dar **5 rodol 100 ft laba jibbaaran**.
+- Mar kale tijaabi pH-ga dhulka 3 ilaa 6 bilood ka dib si aad u aragto in la gaaray pH-gii la rabay.
+
+**Noocyada Lime-ka:**
+
+- Lime budo ah, granular, ama pellet ah.
+- Granular ama pellet waa sahlan tahay in la firdhiyo.
+- Haddii aad isticmaaleyso lime budo ah, xir maaskaro.
+- Dolomite lime wuxuu leeyahay magnesium waxaana ku habboon beeralayda Galbeedka Oregon, halkaasoo dhulku inta badan magnesium yari ka jirto.
+
+#### Hoos U Dhigista pH-ga Dhulka
+
+- Ku dar sulfur cayriin xilliga dayrta si aad u hesho natiijo fiican.
+- Geedaha iyo geedaha waaweyn, ku dar xaddi yar dhulka agagaarka laanta biyaha ama ku fidi saf blueberry ah.
+- Haddii aad isticmaaleyso sulfur budo ah, xir maaskaro.
+
+Wixii faahfaahin dheeraad ah ee ku saabsan hoos u dhigista pH-ga dhulka, eeg **EC 1560-E**. Ma jiro tijaabo si loo go'aamiyo xaddiga sulfur ee la baahan yahay. Tijaabada pH-ga dhulka 3 ilaa 6 bilood kadib ayaa kuu sheegi doonta haddii wax kale loo baahan yahay.
+
+---
+
+### Kheyraadka Adeegga OSU Extension
+
+Booqo xafiiskaaga OSU Extension Service ee 200 Warner-Milne Road, Oregon City, si aad u hesho buugaagtaan, ama kala soo bax online-ka [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):
+
+- **Liiska Shaybaarada Falanqeeya ee Oregon** (EM 8677)
+- **Qaabka Loo Qaado Tusaale Dhul Beerta Guriga iyo Dhul Yar** (EC 628)
+- **Aashitadeynta Dhulka Blueberries-ka iyo Dhirta Qurxinta Beerta** (EC 1560-E)
+
+---
+
+#### Talo Beeraleyda Khibradda leh™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado ah ee Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org) ama [www.metromastergardeners.org](http://www.metromastergardeners.org)
+
+---
+
+##### Adeegga OSU Extension Service wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan: midab, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/walidnimada, dakhliga ka yimaada barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda halyeeynimada, aargoosiga ama ciqaabta la xiriirta dhaqdhaqaaqyada hore ee xuquuqda madaniga ah. (Dhammaan xeerarkan lama dabaqo barnaamij kasta.)
+---

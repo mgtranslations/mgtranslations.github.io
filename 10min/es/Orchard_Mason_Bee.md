@@ -1,44 +1,70 @@
-# Universidad de 10 Minutos™  
-La Asociación de Jardineros Maestros del Condado de Clackamas, en colaboración y apoyo del Programa de Jardineros Maestros™ de Extensión de OSU  
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración con y en apoyo del Programa de Maestros Jardineros de Extensión de OSU
 
-## Abeja Mason de Huerto  
+# Abeja Albañil de Huerto
 
-### Resumen  
-La abeja mason de huerto, *Osmia lignaria*, es un polinizador temprano y efectivo nativo del oeste de los Estados Unidos y Canadá. Emergen en primavera antes que las abejas melíferas. Como polinizador, es mucho más eficiente que la abeja melífera, ya que transfiere más polen y visita más tipos y cantidades de flores.  
+### Resumen
 
-El macho de la abeja mason no pica. La hembra es considerada no agresiva y solo pica si es manipulada de forma brusca o si queda atrapada bajo la ropa. Las abejas mason son solitarias: muchas reinas ponen entre 14 y 40 huevos. No producen miel. Se alimentan de néctar y recolectan polen y néctar para alimentar a las larvas cuando nacen.  
+La abeja albañil de huerto (*Osmia lignaria*) es un polinizador temprano muy eficaz, nativo del oeste de EE.UU. y Canadá. Sale en la primavera antes que las abejas melíferas. Como polinizadora, es mucho más eficiente que la abeja melífera porque transfiere más polen y visita más tipos y cantidades de flores.
 
-Una abeja mason es ligeramente más pequeña que una abeja melífera. Se parecen a una pequeña mosca negra, pero las moscas tienen solo un par de alas, mientras que las abejas tienen dos pares. En el área de Portland también tenemos abejas mason con cara de cuerno (*Osmia cornifrons*) que no son nativas. Son de color similar a las abejas melíferas, pero más pequeñas, y cohabitan con las abejas mason de huerto. Las abejas mason vuelan cuando la temperatura del aire sube a aproximadamente 55 °F.  
+El macho de la abeja albañil no pica. La hembra es considerada poco agresiva, picando solo si se le manipula bruscamente o si queda atrapada bajo la ropa. Las abejas albañiles son solitarias, con muchas reinas poniendo de 14 a 40 huevos. No producen miel. Se alimentan de néctar y recolectan polen y néctar para alimentar a las larvas cuando nacen.
 
-### Ciclo de Vida  
-Las abejas mason están activas en tu jardín durante uno a tres meses comenzando a principios de primavera. Durante los meses fríos, una abeja completamente formada permanece en su capullo en el nido. Cuando las temperaturas suben a 50 °F durante un par de días a principios de primavera, la abeja adulta mastica el capullo y emerge. La emergencia continúa por hasta dos semanas.  
+Una abeja albañil es un poco más pequeña que una abeja melífera. Se parece a una pequeña mosca negra, pero las moscas solo tienen un par de alas, mientras que las abejas tienen dos pares. En el área de Portland, también tenemos abejas albañiles de cara de cuerno (*Osmia cornifrons*), que no son nativas. Son similares en color a las abejas melíferas pero más pequeñas y coexisten con las abejas albañiles de huerto. Las abejas albañiles vuelan después de que la temperatura del aire sube a unos 55°F (13°C).
 
-Cuando los huevos fueron puestos la primavera anterior, los huevos de machos se colocaron cerca de la entrada del nido, mientras que los de hembras se colocaron en el fondo. Por lo tanto, los machos emergen primero. Esperan a que las hembras emerjan para aparearse. Las hembras comienzan a construir nidos aproximadamente 3 a 4 días después de aparearse, prefiriendo agujeros existentes para sus nidos. Escoge un agujero ligeramente más grande que su cuerpo, usualmente de 1/4 a 3/8 de pulgada de diámetro. Coloca un tapón de barro en el fondo del agujero y comienza a traer néctar y polen.  
+---
 
-Cuando ha almacenado suficiente comida para las crías, pone un huevo sobre el polen y sella la celda con una delgada partición de barro. Luego repite el proceso hasta que utiliza toda la longitud del túnel. La hembra almacena el semen del apareamiento y solo lo usa para fertilizar el huevo si desea que sea una cría hembra. Un huevo no fertilizado se convertirá en macho.  
+### Ciclo de Vida
 
-Unos días después de que los huevos son puestos, las larvas nacen. Las larvas se alimentan del polen y néctar almacenados en el nido. Después de 10 días, las larvas comienzan a hilar un capullo y pasan a la etapa de pupa dentro de la celda. Cerca del final del verano, la abeja se transforma en su etapa adulta llamada imago, pero permanece en el capullo durante todo el invierno.  
+Las abejas albañiles están activas en tu jardín durante uno a tres meses empezando a principios de primavera. Durante los meses fríos, una abeja adulta completamente formada permanece en su capullo dentro del nido. Cuando las temperaturas suben a 50°F (10°C) por varios días a principios de primavera, la abeja adulta mastica el capullo y sale. La emergencia puede continuar hasta por dos semanas.
 
-### Requisitos para las Abejas Mason  
-Los agujeros de anidación para las abejas mason deben tener entre 1/4 y 3/8 de pulgada de diámetro y preferiblemente 6 pulgadas de profundidad. El agujero debe estar abierto solo en el extremo de entrada. Las abejas mason prefieren madera (no tratada a presión ni cedro) o casas hechas específicamente para ellas, como bloques laminados de madera, agujeros preperforados o pajillas de papel para anidar, pero también utilizarán otros materiales y ubicaciones como revestimientos de madera o enchufes eléctricos.  
+Cuando se pusieron los huevos la primavera anterior, los huevos de macho se colocaron cerca de la entrada del nido, mientras que los de hembra se pusieron en la parte de atrás. Así, los machos emergen primero. Ellos esperan a que las hembras salgan para aparearse. Las hembras comienzan a anidar unos 3 a 4 días después del apareamiento, prefiriendo agujeros existentes para sus nidos. Ella elegirá un agujero apenas más grande que su cuerpo, usualmente de 1/4 a 3/8 de pulgada de diámetro. Colocará un tapón de barro en el fondo del agujero y comenzará a llevar néctar y polen.
 
-Coloca el nido en un lugar seco y protegido, preferiblemente con exposición al este o sureste. Tener una fuente de barro tipo arcilla es importante. Si no hay una fuente de barro, las abejas se irán a otro lugar. Inserta un forro de pajilla de papel en cada agujero para facilitar la recuperación de los capullos si planeas "lavar" tus abejas en el otoño. Los bloques laminados de madera para abejas se pueden desmontar para facilitar la recuperación de los capullos.  
+Cuando haya almacenado suficiente comida para las crías, pondrá un huevo sobre el polen y sellará la celda con una delgada partición de barro. Luego repetirá el proceso hasta usar toda la longitud del túnel. La hembra almacena el semen del apareamiento y solo lo usa para fertilizar el huevo si quiere producir una descendencia hembra. Un huevo no fertilizado será macho.
 
-### Parásitos, Depredadores y Patógenos  
-Varios parásitos, depredadores y patógenos pueden dañar o matar a las abejas mason. Pequeñas avispas cálcidas perforan los capullos de las abejas mason y ponen huevos en ellos. Estas avispas emergen más tarde que las abejas mason, por lo que puedes reducir el riesgo retirando los nidos de abejas mason antes del 1 de junio. Guarda los capullos en un lugar cálido (un garaje o cobertizo funciona bien). Colocar el material de anidación en una bolsa de malla ayuda a protegerlos de las avispas.  
+Pocos días después de poner los huevos, las larvas nacen. Las larvas se alimentan del polen y néctar almacenados en el nido. Después de 10 días, las larvas forman un capullo y pupan dentro de la celda. Cerca del final del verano, la abeja se transforma en adulto (imago) pero permanece en el capullo durante todo el invierno.
 
-El ácaro Krombein se reproduce dentro de una celda de abeja mason y se alimenta del polen almacenado para la joven larva de abeja. Para el final del verano, la celda está llena de granos de polen vacíos y miles de ácaros. La cría calcificada es un hongo que mata a las abejas en la etapa larval y se propaga cuando las abejas entran en contacto con él al emerger.  
+---
 
-Puedes eliminar los ácaros y la cría calcificada limpiando los capullos entre octubre y diciembre. Los adultos están completamente desarrollados en este momento y pueden resistir este proceso. Lava tus abejas en agua a no más de 50 °F para evitar "despertarlas". Remoja los capullos por no más de 5 minutos en agua fría con una mezcla de 0.05 por ciento de cloro (1 cucharada de cloro por cada galón de agua). Enjuaga bien con agua fría para eliminar todos los rastros de cloro. Seca sobre una toalla de papel limpia o una pantalla hasta que los capullos estén completamente secos. Clasifica y desecha los capullos dañados, enfermos o parasitados, y elimina las larvas afectadas por la cría calcificada (larvas momificadas usualmente son de color negro). Coloca los capullos limpios y secos en un pequeño contenedor con agujeros para aire y guárdalos en el refrigerador hasta la primavera siguiente.  
+### Requisitos para las Abejas Albañiles
 
-### Referencias  
-- *How to Manage the Blue Orchard Bee*, Jordi Bosch y William Kemp, 2001, Sustainable Agriculture Network  
-  [https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)  
-- *Nurturing Mason Bees in Your Back Yard in Western Oregon*, publicación de Extensión de la Universidad Estatal de Oregon EM 9130  
-  [https://catalog.extension.oregonstate.edu/em9130](https://catalog.extension.oregonstate.edu/em9130)  
+Los agujeros de anidación para las abejas albañiles deben tener entre 1/4 y 3/8 de pulgada de diámetro y preferiblemente 6 pulgadas de profundidad. El agujero debe estar abierto solo en la entrada. Las abejas albañiles prefieren madera (que no sea tratada a presión ni de cedro) o casas hechas específicamente para ellas, como bloques laminados de madera, agujeros pre-perforados o popotes/pajillas de papel donde puedan anidar. Sin embargo, también usan otros materiales y lugares como revestimientos de madera o enchufes eléctricos.
 
-### Consejos de Jardineros Maestros™  
-- Llame a la línea de ayuda de Horticultura Hogareña: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington), 503-445-4608 (Condado de Multnomah).  
-- Para otros folletos y videos de la Universidad de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+Coloca el nido en un lugar seco y protegido, preferiblemente orientado al este o sureste. Es importante tener una fuente de barro arcilloso. Si no hay barro disponible, las abejas se irán a otro lugar. Inserta un forro de popote de papel en cada agujero para facilitar la recolección de los capullos si planeas “lavar” tus abejas en otoño. Los bloques de abejas laminados de madera se pueden separar para facilitar la recolección de capullos.
 
-El Servicio de Extensión de la Universidad Estatal de Oregon prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paterno, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalias o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas).
+---
+
+### Parásitos, Depredadores y Patógenos
+
+Varios parásitos, depredadores y patógenos pueden dañar o matar a las abejas albañiles:
+
+- **Avispas Calcídidas Pequeñas**: Estas perforan los capullos de las abejas albañiles y ponen huevos dentro. Estas avispas emergen después que la abeja albañil, así que puedes reducir el riesgo retirando los nidos de abejas albañiles antes del primero de junio. Guarda los capullos en un lugar cálido (un garaje o cobertizo funciona bien). Poner el material de anidación en una bolsa de malla ayuda a protegerlos de las avispas.
+- **Ácaros Krombein**: Estos se reproducen dentro de la celda de la abeja albañil y se alimentan del polen almacenado para la larva. Al final del verano, la celda está llena de granos de polen vacíos y miles de ácaros.
+- **Chalkbrood (Moho Calcáreo)**: Este hongo mata a las abejas en la etapa larval y se propaga cuando las abejas entran en contacto con él al emerger.
+
+Puedes eliminar ácaros y moho calcáreo de tus abejas limpiando los capullos entre octubre y diciembre. Los adultos ya están completamente desarrollados en ese momento y pueden soportar este proceso.
+
+#### Proceso de Limpieza
+
+1. Lava tus abejas en agua que no esté más caliente que 50°F (10°C) para evitar que se despierten.
+2. Remoja los capullos por no más de 5 minutos en agua fría con una mezcla de 0.05% de cloro (1 cucharada de cloro por cada galón de agua).
+3. Enjuaga bien con agua fría para eliminar todos los residuos de cloro.
+4. Seca sobre una toalla de papel limpia o una malla hasta que los capullos estén completamente secos.
+5. Separa y descarta los capullos dañados, enfermos o parasitados. Retira las larvas afectadas por moho calcáreo (las larvas momificadas suelen ser negras).
+6. Coloca los capullos limpios y secos al aire en un pequeño recipiente con orificios de ventilación y guárdalos en el refrigerador hasta la siguiente primavera.
+
+---
+
+### Referencias
+
+- *Cómo Manejar la Abeja Azul de Huerto*, Jordi Bosch y William Kemp, 2001, Red de Agricultura Sostenible  
+  [Leer más aquí](https://www.sare.org/wpcontent/uploads/How_to_Manage_the_Blue_Orchard_Bee.pdf)
+- *Cuidando Abejas Albañiles en tu Patio Trasero en el Oeste de Oregón*, Publicación de Extensión de la Universidad Estatal de Oregón EM 9130  
+  [Leer más aquí](https://catalog.extension.oregonstate.edu/em9130)
+
+---
+
+#### Consejos de Maestros Jardineros™ · Línea de ayuda de horticultura en casa: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608 · Para otros folletos y videos de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

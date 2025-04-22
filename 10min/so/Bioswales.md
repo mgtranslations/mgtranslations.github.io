@@ -1,49 +1,84 @@
-## Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Degmada Clackamas oo kaashanaya lana taageeraya Barnaamijka Beeralayda Master-ka ee OSU Extension™
 
-Ururka Clackamas County Master Gardener oo iskaashanaya kuna taageeraya Barnaamijka Master Gardener™ ee OSU Extension.
+# Ku Darista Bioswale
 
-### Ku darista Bioswale
+Goobaha la horumariyey, roobka ku dhaca meelaha adag waxaa loo diraa tuubooyin, jeex-jeexyo, iyo biyo-mareenno ka hor inta aan lagu shubin webiyada, togagga, iyo wabiyaasha. Bioswale waa nidaam loo sameeyey inuu ururiyo biyaha roobka ee ka soo qulqulaya saqafyada, dariiqyada, ama meelaha adag ee aan biyuhu dhex mari karin. Waxay u oggolaaneysaa biyaha roobka inay dhulka ku dhex milmaan oo ay dhirta iyo ciidda sifeyso si loo yareeyo qulqulka iyo wasakhowga biyaha dabiiciga ah. Qaab-dhismeedka tooska ah ee bioswale-ka wuxuu u habboon yahay in loo isticmaalo meelaha biyuhu ka soo ruaan ee dhinacyada wadooyinka, laakiin sidoo kale bioswale waa lagu isticmaali karaa hore iyo gadaal guryaha iyo hoosta tuubooyinka saqafka. Bioswale sidoo kale waxa ay beddeli kartaa kabaha ama biyo-mareennada yar-yar.
 
-Goobaha la horumariyay, roobka ku dhaca meelaha adag waxaa loo sii gudbiyaa tuubooyin, biyo-mareeno, iyo dhuumaha roobka ka hor inta aan loo sii dayn webiyada, togagga, iyo durdurada. Bioswale waxaa loogu talagalay in ay ururiso biyaha roobka ee kasoo baxa saqafyada, waddooyinka, ama meelaha aan biyuhu ka dhex mari karin. Waxay u oggolaataa biyaha roobka inay galaan dhulka oo ay ku sifeyn karaan dhirta iyo ciidda si loo yareeyo daadinta iyo wasakheynta biyaha dabiiciga ah. Naqshadda toosan ee bioswales-ka waxay ka dhigeysaa inay ku habboon yihiin daadinta waddooyinka laakiin bioswales sidoo kale waxaa loo isticmaalaa bannaanka hore iyo gadaal iyo hoosta saqafka roobka. Bioswales sidoo kale waxay beddeli karaan jidadka ama biyo-mareenada.
+## Meelaha Suurtogalka ah ee Bioswale
 
-### Meelaha Ku Habboon Bioswale
+Meelaha bioswale laga sameyn karo waa in ay buuxiyaan shuruudahan:
 
-Meelaha ku habboon bioswale waa inay buuxiyaan shuruudaha soo socda:
+- Biyaha dhulka hoostiisa xilliga roobka waa inaysan ka sarreyn 24 inji xagga hoose ee bioswale-ka.
+- Dhagaxa adag waa inuu ka hooseeyaa 18 inji xagga hoose ee bioswale-ka.
+- Adeegyada dhulka hoostiisa ah waa inay ugu yaraan 5 fiit u jiraan. Waa sharciga Oregon in la waco Xarunta Ogeysiinta Adeegyada (1-800-332-2344 ama 811) ka hor inta aan la bilaabin qodista.
+- Dhismayaasha waa inay ugu yaraan 10 fiit u jiraan.
+- Meelaha buuraha leh ee leh 10% isbeddel waa inay ugu yaraan 100 fiit ka fogaadaan. Ka fogaado in bioswale laga sameeyo meelaha hoos u degdeg ah ee ka badan 30%.
 
-- Biyaha dhulka-hoosaadka xilliga xagaaga waa inaysan ka hooseynin 24 inches oo ka yar gunta bioswale.
-- Dhagaxa dhulka hoostiisa waa inuu ka hooseeyo 18 inches oo ka hooseeya gunta bioswale.
-- Adeegyada dhulka hoostiisa waa inay ugu yaraan ahaadaan 5 feet. Waa sharci Oregon in lala xiriiro Xarunta Ogeysiiska Adeegyada (1-800-332-2344) ama (811) ka hor inta aan la bilaabin qodista.
-- Dhismayaasha waa inay ugu yaraan ahaadaan 10 feet oo ka fog.
-- Meelaha u janjeera 10 boqolkiiba waa inay ka fog yihiin 100 feet. Ka fogow inaad ku rakibto bioswale halka ay ka badan tahay 30 boqolkiiba.
+La xiriir waaxda qorsheynta magaaladaada ama degmadaada si aad u ogaato haddii loo baahan yahay oggolaansho ama haddii aad u baahan tahay inaad raacdo shuruudaha dhismaha ee magaalada/degmada.
 
-La xiriir waaxda qorsheynta magaalada ama degmada si aad u ogaato haddii ay u baahan yihiin ruqsad ama haddii aad u baahan tahay inaad raacdo shuruudaha magaalada/degmada ee rakibista.
+---
 
-### Naqshadda iyo Cabirka
+## Naqshadeynta iyo Cabbirka
 
-Naqshadeynta waxay kordhin kartaa waxtarka bioswale. Qaabka trapezoidal, "u"-qaabeeya ama saddex xagal leh oo si buuxda u dhirta bioswale waa midka ugu waxtarka badan. Cabirka bioswale waa inuu ugu yaraan noqdaa hal boqolkiiba cabbirka dusha sare ee biyuhu ka daadanayaan. Bioswale-ka weyn wuxuu bixin karaa kayd iyo galinta biyo badan, taasoo u oggolaaneysa maareynta dhacdooyinka roobaadka weyn. Waa muhiim inaad tixgeliso sida biyuhu u dhaqaaqi doonaan xilliga roobabka aadka u badan. Tuubo ka gudubta socodka sare ama meesha laga xakameeyo daadinta waa lagula talinayaa si loo gudbiyo biyaha badan si ammaan ah. Tani waxay noqon kartaa biyaha oo ku daadanaya aag caws leh oo siman ama nidaamka biyaha roobka.
+Naqshadeynta wanaagsan waxay kordhisaa waxtarka bioswale-ka. Qaab afar-gees ah, “U”-qaabeeya, ama saddex-xagal leh oo si buuxda loo geedo beero ayaa ah kuwa ugu waxtarka badan. Cabbirka bioswale waa inuu ugu yaraan noqdaa boqolkiiba hal (1%) ee aagga biyuhu ka soo qulqulaya. Haddii uu weynaado bioswale-ku, wuxuu hayn karaa biyo badan oo uu si fiican u nuugi karaa, taasoo ka caawineysa xakameynta roobab badan.
 
-Meelaha dhinacyada bioswale waa inay u janjeeraan si tartiib ah si looga hortago nabaad guurka. Sida ugu wanaagsan, qoto dheer ee socodka biyaha ee bioswale waa inuusan ka badnaan 6 inches xilliga roobka. Bioswale waa inuu ku daadiyaa biyaha 24 ilaa 30 saacadood gudahood. Haddii biyaha aysan ku jirin bioswale ugu yaraan 9 daqiiqo, ma jiri doono galinta biyo ama sifeyn wasakheynta. Waxaa lagula talinayaa in janjeera bioswale uu ka yar yahay 10%.
+Waa muhiim in la tixgeliyo halka ay biyuhu u socon doonaan marka ay roobab aad u xoog badan da’aan. Waxaa lagu taliyaa in la sameeyo tuubbo biyo-dhaaf ah ama meel biyo-mareen kormeerta si badbaado leh loogu gudbiyo biyaha badan. Tani waxay u oggolaan kartaa biyaha inay ku fatahaan meel doog leh ama inay galaan nidaamka biyaha daadadka.
 
-### Dhagxaan
+Dhinacyada bioswale-ka waa in si deggan loo leexiyaa si looga hortago nabaad-guurka. Sida ugu wanaagsan, qoto dheerida biyaha ee bioswale-ka waa inaysan ka badnaan 6 inji marka roobku da’o. Bioswale-ku waa inuu biyaha daadinta ka dhigo 24 ilaa 30 saacadood gudahood. Haddii biyuhu aanay ku jirin bioswale ugu yaraan 9 daqiiqo, wax yar ama waxba lagama filayo in la nuugo ama la sifeeyo wasakhda. Waxaa lagu taliyaa in leexashada bioswale-ku ka yar tahay 10%.
 
-Waxaa muhiim ah in la dhigo dhagxaan waaweyn meesha laga galo iyo laga baxo bioswale si loo yareeyo socodka biyaha loona fududeeyo nadiifinta dhoobo iyo qashinka kale. Si loo gaaro faa'iidooyinka tayada biyaha ugu badan, dhagxaan waaweyn ayaa si joogto ah looga dhex dhigi karaa dhererka bioswale si loo yareeyo xawaaraha biyaha loona hagaajiyo galinta biyaha dhulka.
+---
 
-### Ciidda
+## Dhagaxyo
 
-18 inches ee ugu sareysa ciidda bioswale inta badan waxaa lagu daraa compost organic ah. Tani waxay u oggolaaneysaa dhirta inay si xoog leh u koraan iyo daaweynta biyaha roobka. Waa muhiim inaad ciiddaada tijaabiso pH-keeda (5.5–7.5 waa bartilmaameedka) iyo dabacsanaanta. Shaybaarada Falanqeeya ee Adeegga Oregon waa laga heli karaa: [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf).
+Waa muhiim in dhagaxyo waaweyn la dhigo meelaha laga soo galo iyo laga baxo bioswale-ka si loo yareeyo xawaaraha biyaha loona fududeeyo nadiifinta ciidda iyo wasakhowga kale. Si loo helo tayada biyaha ugu fiican, dhagaxyo waaweyn waa in la dhigaa meelaha kala duwan ee dhererka bioswale-ka si loo yareeyo xawaaraha biyaha loona kordhiyo nuugista biyaha ee ciidda.
 
-### Dhirta
+---
 
-Si loo helo galinta iyo daaweynta ugu wanaagsan, waxaad u baahan doontaa dhir kala duwan sida geedo, geedo yaryar, cawska, iyo daboolka dhulka. Ubaxyada sannadlaha ah, dhirta dabiiciga ah, iyo cawska ornamental-ka waxay ku dari karaan muuqaal aad u qurux badan. Dhirta bioswales waa inay noqdaan kuwo cufan si loo yareeyo xawaare socodka, looga hortago nabaad guurka, loona xakameeyo haramaha. Xulo dhirta ku habboon fatahaadda iyo awoodda ay ugu noolaadaan xaaladaha cimilada deegaanka iyada oo aan loo baahnayn bacriminta, sunta cayayaanka, ama sunta haramaha. Xulo dhirta u dulqaadan karta biyaha sida cawska iyo dhirta kale meesha laga galo iyo gunta bioswale. Daboolka dhulka wuxuu ka caawin doonaa ka hortagga nabaad guurka dhinacyada. Dhirta waa inaysan u baahnayn biyo badan ka dib sannadka ugu horreeya ee isku dhafka. Waxaa ugu wanaagsan in la beero xilliga dayrta. Roobka dayrta wuxuu ka caawin doonaa dhirta inay degaan.
+## Carrada
 
-### Daryeelka iyo Dayactirka
+18-ka inji ee ugu sareeya ee carrada bioswale-ka badiyaa waxaa lagu daraa bacriminta dabiiciga ah. Tani waxay u oggolaaneysaa dhirta inay si xooggan u baxdo oo ay si fiican u nadiifiso biyaha roobka. Waa muhiim in la baaro carradaada si loo hubiyo pH (5.5–7.5 waa bartilmaameedka) iyo neefsanaanta ciidda. Shirkadaha baarista ee Oregon waxaa laga heli karaa:  
+[https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
 
-Dhirta waxay u baahan yihiin biyo dheeraad ah xagaaga ugu horreeya si ay u caawiyaan inay degaan. Ku rushee mulch 2 ilaa 3 inches oo qaro weyn, adoo adeegsanaya mulch alwaax oo wanaagsan si loo hayo qoyaanka loona yareeyo haramaha. Hubi bioswale-kaaga ka dib dhacdooyinka roobka si aad uga saarto dhoobo urursan meelaha laga galo ama laga baxo. Dib u beero haddii loo baahdo oo si joogto ah ula soco haramaha ilaa dhirta ay buuxiso oo ay si fiican u degaan. Ka fogow isticmaalka bacriminta, sunta haramaha, iyo sunta cayayaanka.
+---
 
-### Kheyraadka
+## Dhirta
 
-- **Water-Quality Swales Low Impact Development Fact Sheet:** [https://catalog.extension.oregonstate.edu/em9209](https://catalog.extension.oregonstate.edu/em9209)
-- **The Rain Garden Guide:** [https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
-- **Analytical Laboratories Serving Oregon:** [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
+Si aad u hesho nuugista iyo sifeeynta ugu fiican, waxaad u baahan doontaa dhir kala duwan sida geedo, geedaha gaagaaban, cawska, iyo dhirta daboolka dhulka. Ubaxa sannadlaha ah, dhirta dabiiciga ah, iyo cawsyada qurxinta ayaa kordhin kara muuqaalka quruxda badan.
 
-Adeegga Ballaarinta Jaamacadda Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada iyadoo ku saleysan jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka gargaarka dadweynaha, aragtida siyaasadeed, macluumaadka hidaha, xaaladda halyeeynimada, cawaaqib xumo ama aargoosi ka dhashay hawlaha xuquuqda madaniga ah ee hore. (Lama sheegin dhammaan saldhigyada la mamnuucay inay khuseeyaan dhammaan xaaladaha).
+Dhirta bioswale waa in la beeraa si cufan si loo yareeyo xawaaraha biyaha, looga hortago nabaad-guurka, lana xakameeyo haramaha. Dooro dhir u adkeysata biyaha badan iyo kuwa ku noolaan kara cimilada deegaanka adigoon isticmaalin bacriminta, sunta haramaha, ama cayayaanka.
+
+- Dooro dhir u dulqaata biyo sida sedges iyo cawska meelaha laga soo galo iyo xagga hoose ee bioswale-ka.
+- Dhirta daboolka dhulka waxay ka hortagi doontaa nabaad-guurka ee dhinacyada.
+- Dhirta waa inay u baahdaan biyo yar ama aysan u baahnayn biyo ka dib sannadkii ugu horeeyey ee la beero.
+
+Waa ugu fiican in la beero xilliga dayrta. Roobka dayrta ayaa ka caawin doona dhirta inay si fiican u baxdo.
+
+---
+
+## Daryeelka iyo Dayactirka
+
+Dhirta waxay u baahan doonaan biyo dheeri ah xagaaga ugu horeeya si ay u koraan.
+
+- Ku rushee mulching qiyaas ahaan 2 ilaa 3 inji oo ah mulch alwaax jilicsan si loo ilaaliyo qoyaan iyo loo yareeyo haramaha.
+- Ka fiiri bioswale-kaaga marka roobab da’aan si aad uga saarto ciidda iyo wasakhowga ku uruuray meelaha laga soo galo ama laga baxo.
+- Mar labaad ku beero dhirta hadii loo baahdo, si joogto ahna u la soco haramaha ilaa dhirtu si fiican u korto.
+- Iska ilaali isticmaalka bacriminta, sunta haramaha, iyo sunta cayayaanka.
+
+---
+
+## Kheyraadka
+
+- **Warqadda Xaqiiqda ee Tayada Biyaha Swales - Horumarinta Saameynta Yar**  
+  [https://catalog.extension.oregonstate.edu/em9209](https://catalog.extension.oregonstate.edu/em9209)
+
+- **Hagaha Beerta Roobka**  
+  [https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
+
+- **Shirkadaha Baarista ee Oregon**  
+  [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
+
+---
+
+#### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka, sabab la xiriirta: jinsiyadda, midabka, asalka, diinta, jinsi, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda askarinimada, aargoosiga, ama ciqaabta la xiriirta waxqabadkii hore ee xuquuqda madaniga ah. (Dhammaan sababaha mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
+
+---

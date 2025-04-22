@@ -1,79 +1,44 @@
-# Universidad de 10 Minutos™
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros de Extensión de OSU
 
-La Asociación de Maestros Jardineros del Condado de Clackamas, en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de la Universidad Estatal de Oregón (OSU).
+## Haz tu jardín más resistente al clima: Césped
 
-## Haz que tu jardín sea más resistente al clima: Céspedes
+La tendencia actual de calentamiento de la Tierra provoca el derretimiento de glaciares, el aumento del nivel del mar, mayor acidez en los océanos y sequías e inundaciones más frecuentes y severas. El noroeste del Pacífico ha experimentado sequías prolongadas, aumento en la incidencia y gravedad de incendios forestales, olas de calor, brotes de insectos y enfermedades de los árboles. La reducción en la acumulación de nieve resulta en flujos máximos más tempranos en ríos y arroyos, lo que reduce el suministro de agua. Además de estas tendencias, el cambio climático trae eventos climáticos extremos e impredecibles (ola de calor, lluvias intensas) con mayor frecuencia.  
+[https://blogs.oregonstate.edu/occri/oregon-climate-assessments/](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
 
-La tendencia actual de calentamiento de la Tierra está provocando el derretimiento de glaciares, aumento del nivel del mar, mayor acidez en los océanos y sequías e inundaciones más frecuentes y severas. El noroeste del Pacífico ha experimentado sequías prolongadas, un aumento en la incidencia y severidad de incendios forestales, olas de calor, brotes de insectos y enfermedades de árboles. La reducción del manto de nieve resulta en flujos máximos más tempranos en ríos y arroyos, lo que reduce el suministro de agua. Además de estas tendencias, el cambio climático trae eventos climáticos extremos y erráticos (olas de calor, lluvias intensas) con mayor frecuencia. [Más información sobre evaluaciones climáticas en Oregón](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/).
-
-### ¿Cómo podemos cuidar nuestros jardines en estos tiempos?
-
-Este folleto ofrece ideas para aumentar la resiliencia en los jardines a través de la elección de plantas y prácticas de cultivo.
+¿Cómo podemos cultivar un jardín en estos tiempos? Este folleto ofrece ideas para aumentar la resiliencia del jardín a través de la selección de plantas y prácticas de cultivo.
 
 ## Lo que sabemos
 
-- El cambio climático ocurre debido a la acumulación excesiva de dióxido de carbono (CO2) en la atmósfera. Todas las plantas verdes tienen el potencial de capturar carbono de la atmósfera mediante la fotosíntesis.
-- La larga temporada de crecimiento de un césped significa un mayor potencial para extraer carbono del aire hacia las hojas y el sistema de raíces.
-- Los suelos desnudos y las superficies impermeables (como el asfalto y el concreto) aumentan las temperaturas en comparación con las superficies cubiertas de plantas. El césped es 4°C más fresco que las superficies urbanas sin césped y hasta 39°C más fresco que el césped sintético en un día caluroso.
-- Los investigadores del Programa de Manejo de Césped de la Universidad Estatal de Oregón están estudiando cómo hacer que tu césped sea más amigable con el clima. Los céspedes absorben carbono del aire y lo almacenan temporalmente en las hojas y raíces. Sin embargo, parte de ese carbono regresa a la atmósfera debido a los microorganismos del suelo que descomponen las raíces y el thatch. [Detalles en Céspedes Amigables con el Clima](https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly).
+El cambio climático ocurre porque una cantidad excesiva de dióxido de carbono (CO₂) se está acumulando en la atmósfera. Todas las plantas verdes tienen el potencial de capturar carbono de la atmósfera mediante la fotosíntesis.
 
-### Mitigación Climática Potencial
+La larga temporada de crecimiento del césped significa una mayor capacidad para extraer carbono del aire hacia las hojas y el sistema de raíces del pasto.
 
-- Estudios muestran que cortar, fertilizar y regar puede impulsar la fotosíntesis y aumentar la cantidad de carbono que se mueve hacia las plantas de césped y el suelo.
-- Algunas prácticas culturales fomentan que los microbios del suelo descompongan materia orgánica, liberando carbono nuevamente a la atmósfera.
+El suelo desnudo y las superficies impermeables (como asfalto y concreto) aumentan la temperatura en comparación con las superficies cubiertas de plantas. El césped es $14^{\circ}C$ más fresco que las superficies urbanas no cubiertas con césped y hasta $39^{\circ}C$ más fresco que el césped sintético en un día caluroso.
+
+Los investigadores del Programa de Manejo de Césped de la Universidad Estatal de Oregón están estudiando cómo hacer que tu césped sea más amigable con el clima. Los céspedes absorben carbono del aire y lo almacenan temporalmente en las hojas y raíces. Pero parte de ese carbono regresa a la atmósfera por microorganismos del suelo que descomponen las raíces y el thatch (capa de material orgánico no descompuesto).  
+Para más detalles, lee Céspedes amigables con el clima: [https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly](https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly)
+
+## Potencial de mitigación climática
+
+- Los estudios muestran que cortar, fertilizar y regar puede aumentar la fotosíntesis y la cantidad de carbono que entra a las plantas de césped y al suelo.
+- Algunas prácticas culturales fomentan que los microbios del suelo descompongan materia orgánica, lo que libera carbono de nuevo a la atmósfera.
 
 ## Qué hacer
 
-### Corta a la altura óptima
-
-Los céspedes manejados a una mayor altura de corte tienen mayor biomasa en los brotes. Sin embargo, una altura de corte más baja produce mayor densidad al estimular el crecimiento lateral. La investigación de OSU sugiere que una altura de corte de 2 pulgadas o más es óptima para la salud del césped, la prevención de malezas de hoja ancha y la captura de carbono. Cortar a menos de 2 pulgadas aumenta la posibilidad de que las malezas se propaguen. Cortar a 4 pulgadas maximiza la captura de carbono y la prevención de malezas.
-
-### Reduce emisiones
-
-Cambia a cortadoras, bordeadoras, desbrozadoras, sopladoras y otros equipos eléctricos. Las cortadoras manuales de carrete son otra opción más económica que solo utiliza energía humana.
-
-### Deja los recortes en el césped
-
-Evita usar bolsas o utiliza una cortadora con función de mulching para devolver los recortes al césped. Usa un rastrillo para separar los montones grandes de recortes y evitar que asfixien el césped. Esto recicla nutrientes en el césped y reduce la necesidad de fertilizantes. Las investigaciones muestran que embolsar y eliminar los recortes de césped elimina aproximadamente la mitad del nitrógeno aplicado en un año.
-
-### Aplica fertilizante de manera consciente
-
-Las tasas de fertilización anual deben ser de entre 2 y 4 libras de nitrógeno (N) por cada 1,000 pies cuadrados. Para reducir tu huella de carbono, utiliza fertilizantes orgánicos dos veces al año, una en primavera y otra en otoño, aplicando de 1 a 2 libras de N por cada 1,000 pies cuadrados en cada aplicación. Si eliges fertilizante sintético, selecciona un producto de liberación lenta con baja concentración de fósforo, como una proporción de 10:1 de nitrógeno a fósforo.
-
-### Mejora el suelo
-
-Agregar compost puede ayudar a construir el suelo. Esparce una capa de un cuarto de pulgada sobre un césped existente en primavera u otoño y rastrilla. Esta capa de compost proporcionará aproximadamente 2 libras de N por cada 1,000 pies cuadrados. Por lo tanto, dos aplicaciones a esta tasa proporcionarían 4 libras de N por cada 1,000 pies cuadrados anualmente.
-
-### Añade trébol a tu césped
-
-El trébol y otras legumbres pueden capturar nitrógeno de la atmósfera. Agrega estos elementos para crear un "césped ecológico" y evitar las emisiones de carbono que se producen durante la fabricación y entrega de fertilizantes.
-
-### Usa agua sabiamente
-
-La investigación reciente en el oeste de Oregón ha demostrado que aplicar aproximadamente un cuarto de pulgada de agua cuatro veces por semana (totalizando una pulgada por semana) resulta en un césped más verde y saludable, con menos malezas, que un césped que recibe una sola aplicación de una pulgada por semana. Reducir la cantidad de agua de riego también disminuye la actividad microbiana del suelo y las emisiones de carbono.
-
-### Permite que el césped se vuelva marrón
-
-Si puedes tolerar un césped marrón en verano, déjalo entrar en dormancia sin regarlo. Ten en cuenta que los céspedes no irrigados son más susceptibles a la invasión de malezas de hoja ancha y requerirán mantenimiento en otoño. Los céspedes dormidos son generalmente neutrales en carbono: no están creciendo ni absorbiendo carbono, pero los microbios del suelo tampoco están activos liberando carbono.
-
-### Sustituye tu césped que requiere mucha agua
-
-El festuca alta es generalmente un pasto de estación fría resistente a la sequía que puede mantener algo de color verde en verano sin riego. La investigación de OSU en el Valle del Willamette ha demostrado que media pulgada de agua por semana es suficiente para el festuca alta, mientras que el raigrás perenne requiere una pulgada por semana. En el este y centro de Oregón, el festuca alta necesitará más riego (aproximadamente una pulgada por semana).
-
-El milenrama común (Achillea millefolium) es un componente típico utilizado en plantaciones de céspedes ecológicos en Oregón. Una mezcla de milenrama común y pasto mantendrá los céspedes verdes por más tiempo en los meses de verano sin riego. Si se aplica riego mensual (media pulgada a una pulgada una vez al mes), el césped puede permanecer verde todo el verano. Las semillas de milenrama común y otros céspedes ecológicos pueden comprarse en compañías de semillas especializadas en línea. Los céspedes ecológicos pueden sembrarse sobre un césped existente o durante una renovación completa.
-
-### Otras cubiertas vegetales de bajo crecimiento
-
-Incluyen tomillo rastrero, menta rastrera, manzanilla de bajo crecimiento o incluso musgo. Asegúrate de elegir la cubierta vegetal adecuada según la cantidad de luz solar y humedad que recibe el área.
-
-### Aumenta tu tolerancia a las malezas
-
-Las malezas pueden ayudar a aumentar la biodiversidad en tu jardín al proporcionar fuentes de alimento para diferentes insectos. Las malezas con flores pueden apoyar a los polinizadores.
-
-### Usa herbicidas de manera consciente, si es necesario
-
-Corta antes de que las semillas de las malezas se establezcan para evitar su propagación o utiliza métodos de eliminación física para controlar las malezas. Si se necesita un herbicida químico, elige un producto de bajo impacto de la lista: [Pesticidas para IPM escolar](https://blogs.oregonstate.edu/schoolipm/pesticides/).
+- **Corta el césped a la altura óptima:** Los céspedes cortados a mayor altura tienen más masa vegetal. Sin embargo, una altura más baja da mayor densidad al césped estimulando el crecimiento lateral. La investigación de OSU sugiere que una altura de corte de 2 pulgadas o más es óptima para la salud del césped, la prevención de malezas de hoja ancha y la captura de carbono. Cortar a menos de 2 pulgadas da oportunidad a que entren malezas. Cortar a 4 pulgadas maximiza la captura de carbono y la prevención de malezas.
+- **Evita emisiones:** Cambia a cortadoras, bordadoras, desbrozadoras, sopladores y otros equipos eléctricos. Las cortadoras manuales de carrete son otra opción económica que solo usan la fuerza humana.
+- **Deja los recortes de pasto en su lugar:** No uses la bolsa recolectora o usa una cortadora con función de triturado para devolver los recortes al césped. Usa un rastrillo para separar montones grandes y evitar ahogar el pasto. Esto recicla nutrientes en el césped y reduce la necesidad de fertilizante. La investigación muestra que recolectar y desechar los recortes elimina alrededor de la mitad del nitrógeno aplicado en un año.
+- **Aplica fertilizante de manera responsable:** La cantidad anual debe ser de 2 a 4 libras de nitrógeno (N) por cada 1,000 pies cuadrados. Para reducir tu huella de carbono, usa fertilizantes orgánicos en dos aplicaciones al año, una en primavera y otra en otoño, de 1 a 2 libras de N por 1,000 pies cuadrados por aplicación. Si usas fertilizante sintético, elige un producto de liberación lenta y con baja concentración de fósforo, como una proporción de 10:1 de nitrógeno a fósforo.
+- **Mejora el suelo:** Agregar composta puede ayudar a mejorar el suelo. Esparce una capa de un cuarto de pulgada sobre el césped existente en primavera u otoño y rastrilla. Esta capa aporta aproximadamente 2 libras de N por 1,000 pies cuadrados. Por lo tanto, dos aplicaciones darían 4 libras de N por 1,000 pies cuadrados al año.
+- **Agrega trébol a tu césped:** El trébol y otras leguminosas pueden capturar nitrógeno de la atmósfera. Agrega estos elementos para crear un "eco-césped" y evita las emisiones de carbono producidas durante la fabricación y entrega de fertilizantes.
+- **Usa el agua sabiamente:** Estudios recientes en el oeste de Oregón muestran que aplicar un cuarto de pulgada de agua cuatro veces por semana, para un total de una pulgada a la semana, resulta en un césped más verde y saludable, con menos malezas que uno que recibe una sola pulgada de agua en una sola aplicación. Reducir la cantidad de agua también disminuye la actividad microbiana del suelo y reduce las emisiones de carbono.
+- **Déjalo ponerse café:** Si puedes tolerar un césped café en verano, deja que se duerma no regándolo. Recuerda que los céspedes sin riego son más susceptibles a la invasión de malezas de hoja ancha y requerirán mantenimiento en otoño. Los céspedes dormidos son generalmente neutros en carbono: no están creciendo ni absorbiendo carbono, pero los microbios del suelo tampoco están activos liberando carbono.
+- **Reemplaza tu césped que necesita mucha agua:** El festuca alta es generalmente un pasto tolerante a la sequía y de estación fría, que puede mantener algo de color verde en verano sin riego. Investigación de OSU en el Valle Willamette ha mostrado que media pulgada de agua por semana es suficiente para festuca alta, mientras que el pasto ryegrass perenne requiere una pulgada semanal. En el este y centro de Oregón, la festuca alta necesitará más riego (aproximadamente una pulgada por semana). El millefolio común (Achillea millefolium) es un componente típico en los "eco-céspedes" de Oregón. Una mezcla de millefolio común y pasto mantendrá el césped verde más tiempo durante el verano sin riego. Si se aplica riego mensual (media a una pulgada una vez al mes), el césped puede permanecer verde todo el verano. Semillas de millefolio común y otros eco-céspedes pueden comprarse en empresas especializadas en línea. Los eco-céspedes pueden sembrarse sobre el césped existente o durante una renovación completa.
+- **Otras cubiertas vegetales bajas que no son pasto** incluyen tomillo rastrero, menta rastrera, manzanilla de bajo crecimiento o incluso musgo. Elige la cubierta según la cantidad de sol y humedad que recibe el sitio.
+- **Aumenta tu tolerancia a las malezas:** Las malezas pueden ayudar a aumentar la biodiversidad en tu jardín al proveer alimento para diferentes insectos. Las malezas con flores apoyan a los polinizadores.
+- **Usa herbicidas con cuidado, si es que los usas:** Corta antes de que las malezas den semilla para evitar su dispersión o retíralas físicamente. Si necesitas usar un herbicida químico, elige un producto de bajo impacto de esta lista: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
 
 ---
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas).
+#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales, por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paternal, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---

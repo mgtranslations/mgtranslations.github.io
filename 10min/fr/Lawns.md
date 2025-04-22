@@ -1,73 +1,44 @@
-# Université en 10 Minutes™  
-L'Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration avec et en soutien au Programme des Maîtres Jardiniers™ de l'Extension de l'Université d'État de l'Oregon (OSU)  
+#### Université en 10 Minutes™ · L'Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du programme Maître Jardinier™ de l’OSU Extension
 
-## Rendez votre jardin plus résilient face au climat : Pelouses  
+## Rendez votre jardin plus résilient face au climat : Pelouses
 
-La tendance actuelle au réchauffement de la Terre entraîne la fonte des glaciers, l'élévation du niveau de la mer, une acidité accrue des océans, ainsi que des sécheresses et des inondations plus fréquentes et plus graves. Le Nord-Ouest du Pacifique a observé des sécheresses prolongées, une augmentation de l'incidence et de la gravité des incendies de forêt, des vagues de chaleur, des infestations d'insectes et des maladies des arbres. Une diminution de la couverture neigeuse provoque des pics de débit plus précoces dans les rivières et les ruisseaux, ce qui réduit les réserves d'eau. En plus de ces tendances, le changement climatique apporte des événements météorologiques extrêmes et imprévisibles (vagues de chaleur, fortes pluies) avec une fréquence accrue.  
-[Plus d'informations](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)  
+Le réchauffement actuel de la Terre entraîne la fonte des glaciers, l’élévation du niveau de la mer, l’augmentation de l’acidité des océans et des sécheresses et inondations plus fréquentes et plus graves. Le nord-ouest du Pacifique connaît des sécheresses prolongées, une augmentation de la fréquence et de la gravité des incendies de forêt, des vagues de chaleur, des invasions d’insectes et des maladies des arbres. La diminution de la couverture neigeuse entraîne des pics de débit plus précoces dans les rivières et les ruisseaux, ce qui réduit les réserves d’eau. En plus de ces tendances, le changement climatique provoque des événements météorologiques extrêmes et imprévisibles (vagues de chaleur, fortes pluies) de plus en plus fréquents.  
+[https://blogs.oregonstate.edu/occri/oregon-climate-assessments/](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
 
-### Comment jardiner en ces temps difficiles ?  
-Ce document propose des idées pour renforcer la résilience de votre jardin grâce au choix des plantes et aux pratiques de culture.  
+Comment jardiner dans ces conditions ? Cette fiche propose des idées pour renforcer la résilience de votre jardin grâce au choix des plantes et aux pratiques de culture.
 
----
+## Ce que nous savons
 
-## Ce que nous savons  
+Le changement climatique se produit parce qu’une quantité excessive de dioxyde de carbone (CO₂) s’accumule dans l’atmosphère. Toutes les plantes vertes peuvent capturer le carbone de l’atmosphère grâce à la photosynthèse.
 
-- Le changement climatique se produit en raison d'une accumulation excessive de dioxyde de carbone (CO2) dans l'atmosphère. Toutes les plantes vertes ont le potentiel de capturer le carbone de l'atmosphère par la photosynthèse.  
-- La longue saison de croissance d'une pelouse signifie un potentiel accru pour extraire le carbone de l'air dans les brins d'herbe et le système racinaire.  
-- Les sols nus et les surfaces imperméables (comme l'asphalte et le béton) augmentent la température par rapport aux surfaces couvertes de plantes. Le gazon est 4 °C plus frais que les surfaces urbaines sans gazon et jusqu'à 39 °C plus frais que le gazon synthétique lors d'une journée chaude.  
-- Les chercheurs du programme de gestion des gazons de l'OSU étudient comment rendre votre pelouse plus respectueuse du climat. Les pelouses absorbent le carbone de l'air et le stockent temporairement dans les brins d'herbe et les racines. Cependant, une partie de ce carbone retourne dans l'atmosphère en raison des microorganismes du sol qui décomposent les racines et le chaume. [En savoir plus sur les pelouses respectueuses du climat](https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly)  
+La longue saison de croissance d’une pelouse signifie qu’elle a un plus grand potentiel pour absorber le carbone de l’air dans les brins d’herbe et le système racinaire.
 
----
+Le sol nu et les surfaces imperméables (comme l’asphalte et le béton) augmentent la température par rapport aux surfaces couvertes de plantes. Le gazon est $14^{\circ}C$ plus frais que les surfaces urbaines sans gazon et jusqu’à $39^{\circ}C$ plus frais que le gazon synthétique lors d’une journée chaude.
 
-## Potentiel de mitigation climatique  
+Les chercheurs du programme de gestion des pelouses de l’Oregon State University étudient comment rendre votre pelouse plus respectueuse du climat. Les pelouses absorbent le carbone de l’air et le stockent temporairement dans les brins d’herbe et les racines. Mais une partie de ce carbone est renvoyée dans l’atmosphère par les micro-organismes du sol qui décomposent les racines et le chaume.  
+Pour plus de détails, lisez Pelouses respectueuses du climat : [https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly](https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly)
 
-- Les études montrent que tondre, fertiliser et arroser peuvent stimuler la photosynthèse et augmenter la quantité de carbone absorbée par les plantes et le sol.  
-- Certaines pratiques culturelles encouragent les microbes du sol à décomposer la matière organique, ce qui libère du carbone dans l'atmosphère.  
+## Potentiel d’atténuation du climat
 
----
+- Des études montrent que la tonte, la fertilisation et l’arrosage peuvent stimuler la photosynthèse et augmenter la quantité de carbone absorbée par les plantes et le sol.
+- Certaines pratiques culturales encouragent les microbes du sol à décomposer la matière organique, ce qui libère du carbone dans l’atmosphère.
 
-## Que faire ?  
+## Que faire
 
-### Tondez à une hauteur optimale  
-Les pelouses gérées à une hauteur de tonte plus élevée ont une plus grande biomasse des pousses. Cependant, une hauteur de tonte plus basse produit une densité de pelouse plus grande en stimulant la croissance latérale. Les recherches de l'OSU suggèrent qu'une hauteur de tonte de 2 pouces ou plus est optimale pour la santé de la pelouse, la prévention des mauvaises herbes à larges feuilles et la séquestration du carbone. Tondre à moins de 2 pouces favorise l'invasion des mauvaises herbes. Tondre à 4 pouces maximise la séquestration du carbone et la prévention des mauvaises herbes.  
-
-### Évitez les émissions  
-Passez aux tondeuses, coupe-bordures, débroussailleuses, souffleuses et autres équipements électriques. Les tondeuses manuelles à rouleaux sont une option moins coûteuse qui fonctionne uniquement à l'énergie humaine.  
-
-### Gardez les résidus de tonte sur place  
-Ne ramassez pas ou utilisez une tondeuse mulching pour retourner les résidus de tonte sur la pelouse. Utilisez un râteau pour séparer les gros amas de résidus afin d'éviter d'étouffer la pelouse. Cela recycle les nutriments dans la pelouse et réduit les besoins en engrais. Les recherches montrent que ramasser et retirer les résidus de tonte élimine environ la moitié de l'azote appliqué en un an.  
-
-### Appliquez l'engrais avec réflexion  
-Les taux de fertilisation annuels devraient être de 2 à 4 lb d'azote (N) par 1 000 pieds carrés. Pour réduire votre empreinte carbone, utilisez des engrais organiques pour deux applications par an, au printemps et à l'automne, à raison de 1 à 2 lb de N par 1 000 pieds carrés pour chaque application. Si vous choisissez un engrais synthétique, optez pour un produit à libération lente avec une faible concentration de phosphore, comme un rapport azote/phosphore de 10:1.  
-
-### Améliorez le sol  
-Ajouter du compost peut aider à améliorer la qualité du sol. Étalez une couche d'un quart de pouce sur une pelouse existante au printemps ou à l'automne et ratissez. La couche de compost fournira environ 2 lb de N par 1 000 pieds carrés. Deux applications à ce taux fourniront 4 lb de N par 1 000 pieds carrés par an.  
-
-### Ajoutez du trèfle à votre pelouse  
-Le trèfle et autres légumineuses peuvent capturer l'azote de l'atmosphère. Ces éléments peuvent créer une "pelouse écologique" et éviter les émissions de carbone liées à la fabrication et à la livraison des engrais.  
-
-### Utilisez l'eau avec parcimonie  
-Des recherches récentes dans l'ouest de l'Oregon montrent qu'environ un quart de pouce d'eau appliqué quatre fois par semaine, soit un total d'un pouce par semaine, permet d'obtenir une pelouse plus verte et en meilleure santé avec moins de mauvaises herbes qu'une pelouse recevant un pouce en une seule application. Réduire la quantité d'eau d'irrigation diminue également l'activité microbienne du sol et réduit les émissions de carbone.  
-
-### Laissez votre pelouse brunir  
-Si vous pouvez tolérer une pelouse brune en été, laissez-la entrer en dormance en arrêtant l'arrosage. Gardez à l'esprit que les pelouses non irriguées sont plus susceptibles à l'invasion des mauvaises herbes à larges feuilles et nécessiteront un peu d'entretien à l'automne. Les pelouses dormantes sont généralement neutres en carbone : elles ne poussent pas et n'absorbent pas de carbone, mais les microbes du sol ne sont pas actifs et ne libèrent pas de carbone.  
-
-### Remplacez votre pelouse gourmande en eau  
-La fétuque élevée est généralement une herbe de saison fraîche et tolérante à la sécheresse qui peut conserver une certaine couleur verte en été sans irrigation. Les recherches de l'OSU dans la vallée de la Willamette montrent qu'un demi-pouce par semaine est suffisant pour la fétuque élevée tandis qu'un pouce par semaine est nécessaire pour le ray-grass vivace. Dans l'est et le centre de l'Oregon, la fétuque élevée nécessitera plus d'irrigation (environ un pouce par semaine).  
-
-L'achillée millefeuille (Achillea millefolium) est un élément typique utilisé dans les plantations de pelouses écologiques en Oregon. Une plantation mixte d'achillée millefeuille et de gazon permet de garder les pelouses vertes plus longtemps en été sans irrigation. Si une irrigation mensuelle est appliquée (un demi-pouce à un pouce une fois par mois), la pelouse peut rester verte tout l'été. Les graines d'achillée millefeuille et autres pelouses écologiques peuvent être achetées auprès de sociétés spécialisées en ligne. Les pelouses écologiques peuvent être plantées en sursemis sur une pelouse existante ou lors d'une rénovation complète.  
-
-### Autres options de couvre-sol  
-Les couvre-sols bas non herbeux incluent le thym rampant, la menthe rampante, la camomille basse ou même la mousse. Choisissez le couvre-sol en fonction de la quantité de lumière du soleil et d'humidité que le site reçoit.  
-
-### Tolérez les mauvaises herbes  
-Les mauvaises herbes peuvent même aider à augmenter la biodiversité de votre jardin en fournissant des sources de nourriture pour différents insectes. Les mauvaises herbes en fleurs peuvent soutenir les pollinisateurs.  
-
-### Utilisez les herbicides avec discernement, si nécessaire  
-Tondez avant que les graines des mauvaises herbes ne se développent pour éviter leur propagation ou utilisez une méthode de retrait physique pour les gérer. Si un herbicide chimique est nécessaire, choisissez un produit à faible impact dans la liste [des pesticides de l'OSU](https://blogs.oregonstate.edu/schoolipm/pesticides/).  
+- **Tondre à une hauteur optimale :** Les pelouses entretenues avec une hauteur de coupe plus élevée ont une biomasse aérienne plus importante. Cependant, une coupe plus basse favorise la densité du gazon en stimulant la croissance latérale. Les recherches de l’OSU suggèrent qu’une hauteur de coupe de 5 cm ou plus est optimale pour la santé de la pelouse, la prévention des mauvaises herbes à larges feuilles et la séquestration du carbone. Tondre à moins de 5 cm favorise l’installation des mauvaises herbes. Tondre à 10 cm permet une séquestration maximale du carbone et une meilleure prévention des mauvaises herbes.
+- **Réduire les émissions :** Passez à des tondeuses, coupe-bordures, coupe-fil, souffleurs et autres équipements électriques. Les tondeuses manuelles à cylindre sont une option économique qui ne nécessitent que la force humaine.
+- **Laissez les résidus de tonte sur place :** Ne ramassez pas l’herbe coupée ou utilisez une tondeuse mulching pour la répartir sur la pelouse. Utilisez un râteau pour séparer les gros tas afin d’éviter d’étouffer le gazon. Cela recycle les nutriments et réduit les besoins en engrais. Les recherches montrent que ramasser et retirer les résidus de tonte élimine environ la moitié de l’azote appliqué sur une année.
+- **Fertilisez judicieusement :** Les apports annuels d’engrais doivent être de 1 à 2 kg d’azote (N) pour 100 m². Pour réduire votre empreinte carbone, utilisez des engrais organiques lors de deux applications par an, une au printemps et une à l’automne, à raison de 0,5 à 1 kg de N par 100 m² à chaque application. Si vous choisissez un engrais synthétique, optez pour un produit à libération lente et à faible teneur en phosphore, comme un rapport azote/phosphore de 10:1.
+- **Améliorez le sol :** Ajouter du compost peut améliorer la structure du sol. Étalez une couche de 0,5 cm sur la pelouse existante au printemps ou à l’automne puis ratissez. Cette couche de compost fournira environ 1 kg de N par 100 m². Ainsi, deux applications à ce taux fourniront 2 kg de N par 100 m² par an.
+- **Ajoutez du trèfle à votre pelouse :** Le trèfle et d’autres légumineuses peuvent capturer l’azote de l’air. Ajoutez ces plantes pour créer une « éco-pelouse » et éviter les émissions de carbone liées à la fabrication et à la livraison des engrais.
+- **Utilisez l’eau avec sagesse :** Des recherches récentes en Oregon occidental montrent qu’un arrosage d’environ 0,5 cm quatre fois par semaine, soit 2,5 cm par semaine, donne une pelouse plus verte, en meilleure santé et avec moins de mauvaises herbes qu’un arrosage unique de 2,5 cm par semaine. Réduire la quantité d’eau d’arrosage diminue aussi l’activité microbienne du sol et réduit les émissions de carbone.
+- **Laissez la pelouse brunir :** Si vous pouvez tolérer une pelouse brune en été, laissez-la entrer en dormance en n’arrosant pas. Gardez à l’esprit que les pelouses non arrosées sont plus sensibles à l’invasion des mauvaises herbes à larges feuilles et nécessiteront un peu d’entretien à l’automne. Les pelouses en dormance sont généralement neutres en carbone : la pelouse ne pousse pas et n’absorbe pas de carbone, mais les microbes du sol ne sont pas actifs non plus et ne libèrent pas de carbone.
+- **Remplacez votre pelouse gourmande en eau :** La fétuque élevée est une graminée résistante à la sécheresse et de saison fraîche, qui garde une couleur verte l’été sans arrosage. Les recherches de l’OSU dans la vallée de la Willamette montrent qu’un arrosage de 1,25 cm par semaine suffit pour la fétuque élevée, alors que le ray-grass anglais a besoin de 2,5 cm par semaine. Dans l’est et le centre de l’Oregon, la fétuque élevée demandera un peu plus d’eau (environ 2,5 cm par semaine). L’achillée millefeuille (Achillea millefolium) est un composant courant des éco-pelouses en Oregon. Un mélange d’achillée et de gazon permet à la pelouse de rester verte plus longtemps en été sans arrosage. Avec un arrosage mensuel (1,25 à 2,5 cm une fois par mois), la pelouse peut rester verte tout l’été. Les graines d’achillée et d’autres éco-pelouses sont disponibles auprès de semenciers spécialisés en ligne. Les éco-pelouses peuvent être installées en sursemant une pelouse existante ou lors d’une rénovation complète.
+- **D’autres couvre-sols bas non gazonnés** incluent le thym rampant, la menthe rampante, la camomille naine ou même la mousse. Choisissez le couvre-sol en fonction de la lumière et de l’humidité du site.
+- **Tolérez davantage les mauvaises herbes :** Les mauvaises herbes peuvent même augmenter la biodiversité de votre jardin en offrant de la nourriture à différents insectes. Les mauvaises herbes fleuries aident aussi les pollinisateurs.
+- **Utilisez les herbicides avec précaution, voire pas du tout :** Tondez avant la montée en graines des mauvaises herbes pour éviter leur propagation, ou retirez-les manuellement. Si un herbicide chimique est vraiment nécessaire, choisissez un produit à faible impact parmi la liste suivante : [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
 
 ---
 
-### Note  
-Le Service d'Extension de l'Université d'État de l'Oregon interdit la discrimination dans tous ses programmes, services, activités et supports sur la base de la race, de la couleur, de l'origine nationale, de la religion, du sexe, de l'identité de genre (y compris l'expression de genre), de l'orientation sexuelle, du handicap, de l'âge, de l'état civil, du statut familial/parental, des revenus provenant d'un programme d'assistance publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours de bâton pour une activité précédente liée aux droits civils. (Toutes les bases interdites ne s'appliquent pas à tous les programmes.)
+#### Le Service d’Extension de l’Oregon State University interdit toute discrimination dans l’ensemble de ses programmes, services, activités et supports sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, d’un handicap, de l’âge, de l’état matrimonial ou familial, du revenu provenant d’une aide publique, des convictions politiques, des informations génétiques, du statut d’ancien combattant, de représailles ou de mesures de rétorsion pour une activité antérieure en matière de droits civiques. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
+---

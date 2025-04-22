@@ -1,38 +1,83 @@
-## Universidad de 10 Minutos™
-La Asociación de Jardineros Maestros del Condado de Clackamas, en colaboración y apoyo del Programa de Jardineros Maestros™ de Extensión de OSU.
+#### Universidad de 10 Minutos™ · La Asociación de Jardineros Master del Condado de Clackamas en colaboración y apoyo del Programa Master Gardener™ de OSU Extension
 
-### Añadiendo una Biogrieta
-En áreas desarrolladas, la lluvia que cae sobre superficies duras es dirigida hacia tuberías, zanjas y desagües pluviales antes de ser descargada en arroyos, riachuelos y ríos. Una biogrieta está diseñada para recolectar la escorrentía de agua de lluvia de techos, entradas de autos u otras superficies impermeables. Permite que el agua de lluvia se infiltre en el suelo y sea filtrada por plantas y tierra, reduciendo la escorrentía y la contaminación en los cuerpos de agua naturales. El diseño lineal de las biogrietas las hace adecuadas para la escorrentía en los bordes de caminos, pero también se usan en patios delanteros y traseros o debajo de bajantes de techos. Incluso pueden sustituir los bordillos o canaletas.
+# Instalando un Bioswale
 
-#### Requisitos para Ubicaciones Potenciales de una Biogrieta
-- El nivel freático estacional debe estar a menos de 24 pulgadas del fondo de la biogrieta.  
-- La roca madre debe estar a más de 18 pulgadas del fondo de la biogrieta.  
-- Las instalaciones subterráneas deben estar al menos a 5 pies de distancia. Es ley en Oregón llamar al Centro de Notificación de Servicios Públicos (1-800-332-2344) o (811) antes de comenzar cualquier excavación.  
-- Los edificios deben estar al menos a 10 pies de distancia.  
-- Pendientes del 10% deben estar al menos a 100 pies de distancia. Evite instalar una biogrieta donde la pendiente en descenso sea superior al 30%.  
+En zonas urbanizadas, la lluvia que cae sobre superficies duras se dirige a tuberías, zanjas y desagües pluviales antes de descargarse en arroyos y ríos. Un bioswale está diseñado para recolectar la escorrentía de agua de lluvia de techos, entradas de autos u otras superficies impermeables. Permite que el agua de lluvia se filtre en el suelo y sea limpiada por las plantas y la tierra, reduciendo así la escorrentía y la contaminación hacia los cauces naturales. El diseño lineal de los bioswales los hace adecuados para captar el agua que corre por los bordes de las calles, pero también se pueden usar en patios delanteros y traseros y bajo las bajadas de agua de los techos. Los bioswales también pueden servir como sustituto de los bordillos o canales.
 
-Consulte con el departamento de planificación de su ciudad o condado para verificar si necesita un permiso o si debe cumplir con requisitos específicos para la instalación.
+## Lugares Potenciales para un Bioswale
 
-### Diseño y Dimensiones
-El diseño puede aumentar la eficiencia de una biogrieta. Los diseños trapezoidales, en forma de “u” o triangulares, completamente vegetados, son los más efectivos. El tamaño de la biogrieta debe ser al menos el 1% del área de superficie que drena hacia ella. Cuanto más grande sea la biogrieta, más almacenamiento e infiltración de agua de lluvia será posible, permitiendo controlar eventos de lluvia más intensos. Es importante considerar hacia dónde se moverá el agua durante lluvias muy intensas. Se recomienda un tubo de desvío de alto flujo o una salida de control de desbordamiento para transportar de manera segura los altos flujos. Esto podría permitir que el agua se derrame hacia un área plana cubierta de césped o hacia el sistema de aguas pluviales. Las pendientes laterales de la biogrieta deben ser lo más suaves posibles para evitar la erosión.
+Los lugares potenciales para instalar un bioswale deben cumplir con estos requisitos:
 
-Idealmente, la profundidad del flujo en la biogrieta no debe exceder las 6 pulgadas durante un evento de lluvia. La biogrieta debe drenar en un plazo de 24 a 30 horas. Si el agua no permanece en la biogrieta al menos 9 minutos, habrá poca o ninguna infiltración de agua ni filtrado de contaminantes. Se recomienda que la pendiente de una biogrieta sea inferior al 10%.
+- El nivel más alto de agua subterránea en temporada está a menos de 24 pulgadas del fondo del bioswale.
+- La roca madre está a más de 18 pulgadas del fondo del bioswale.
+- Las instalaciones subterráneas (servicios públicos) están al menos a 5 pies de distancia. Es obligatorio por ley en Oregón llamar al Centro de Notificación de Servicios Públicos (1-800-332-2344 o 811) antes de comenzar cualquier excavación.
+- Los edificios están al menos a 10 pies de distancia.
+- Las pendientes del 10% están al menos a 100 pies de distancia. Evite instalar un bioswale donde la pendiente cuesta abajo supere el 30%.
 
-### Rocas
-Es importante colocar rocas grandes en la entrada y salida de la biogrieta para reducir la velocidad del flujo de agua y facilitar la limpieza de sedimentos y otros desechos. Para obtener los mayores beneficios en la calidad del agua, coloque rocas grandes periódicamente a lo largo de la biogrieta para reducir la velocidad del agua y mejorar la absorción en el suelo.
+Consulte con el departamento de planificación local de su ciudad o condado para ver si necesita un permiso o si debe seguir requisitos específicos para la instalación.
 
-### Suelo
-Las primeras 18 pulgadas de suelo en una biogrieta suelen enriquecerse con compost orgánico. Esto permite un establecimiento robusto de plantas y un mejor tratamiento del agua de lluvia. Es importante analizar su suelo para verificar el pH (el objetivo es entre 5.5 y 7.5) y la porosidad. Puede encontrar laboratorios analíticos que sirven a Oregón en el siguiente enlace: [Analytical Laboratories Serving Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf).
+---
 
-### Plantas
-Para lograr la mejor infiltración y tratamiento, necesitará una variedad de árboles, arbustos, pastos y cubiertas vegetales. Las flores perennes, las plantas nativas y los pastos ornamentales pueden añadir un atractivo visual significativo. Las plantaciones en biogrietas deben ser densas para reducir la velocidad del flujo, prevenir la erosión y controlar las malas hierbas. Seleccione plantas según su tolerancia a inundaciones y su capacidad para sobrevivir en las condiciones climáticas locales sin fertilizantes, herbicidas ni insecticidas. Elija plantas tolerantes al agua, como juncos y pastos, en los puntos de entrada y en el fondo de la biogrieta. Las cubiertas vegetales ayudarán a prevenir la erosión en las pendientes. Las plantas deben requerir poca o ninguna agua después del primer año de establecimiento. Es mejor plantar en el otoño, ya que las lluvias ayudarán a establecer las plantas.
+## Diseño y Dimensiones
 
-### Cuidado y Mantenimiento
-Las plantas necesitan agua adicional durante el primer verano para ayudarles a establecerse. Aplique una capa de mantillo de 2 a 3 pulgadas de profundidad, usando un mantillo fino de madera para retener la humedad y reducir las malas hierbas. Inspeccione su biogrieta después de eventos de lluvia para eliminar la acumulación de sedimentos en los puntos de entrada o salida. Vuelva a plantar si es necesario y monitoree frecuentemente las malas hierbas hasta que las plantas se establezcan completamente. Evite el uso de fertilizantes, herbicidas y pesticidas.
+El diseño puede aumentar la eficiencia de un bioswale. Un bioswale completamente cubierto de vegetación, con forma trapezoidal, de "U" o triangular, es el más efectivo. El tamaño del bioswale debe ser al menos el uno por ciento del área de la superficie que drena hacia él. Cuanto más grande sea el bioswale, más capacidad tendrá de almacenar y filtrar el agua de lluvia, permitiendo controlar lluvias más intensas.
 
-### Recursos
-- [Swales para Mejorar la Calidad del Agua - Hoja Informativa de Desarrollo de Bajo Impacto](https://catalog.extension.oregonstate.edu/em9209)  
-- [Guía de Jardines de Lluvia de Oregón](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)  
-- [Laboratorios Analíticos en Oregón](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)  
+Es importante considerar hacia dónde se moverá el agua durante lluvias muy intensas. Se recomienda instalar una tubería de desvío o una salida de control de desbordamiento para conducir de manera segura los flujos altos. Esto puede permitir que el agua se derrame hacia un área plana y cubierta de césped o hacia el sistema de aguas pluviales.
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales con base en raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas).
+Las laderas laterales del bioswale deben tener la menor pendiente posible para evitar la erosión. Idealmente, la profundidad del flujo en el bioswale no debe superar las 6 pulgadas durante una lluvia. El bioswale debe drenar en un plazo de 24 a 30 horas. Si el agua no permanece en el bioswale por al menos 9 minutos, ocurrirá poca o ninguna infiltración o filtración de contaminantes. Se recomienda que la pendiente de un bioswale sea menor al 10%.
+
+---
+
+## Rocas
+
+Es importante colocar rocas grandes en la entrada y salida del bioswale para ralentizar el flujo de agua y facilitar la limpieza de sedimentos y otros residuos. Para obtener los mayores beneficios en la calidad del agua, coloque rocas grandes a lo largo del bioswale para disminuir la velocidad del agua y mejorar su absorción en el suelo.
+
+---
+
+## Suelo
+
+Las 18 pulgadas superiores del suelo en un bioswale suelen mejorarse con composta orgánica. Esto permite que las plantas se establezcan bien y ayuda a tratar el agua de lluvia. Es importante analizar el suelo para saber el pH (la meta es 5.5–7.5) y la porosidad. Puede encontrar laboratorios analíticos que sirven a Oregón en:  
+[https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
+
+---
+
+## Plantas
+
+Para lograr la mejor filtración y tratamiento, necesitará una variedad de árboles, arbustos, pastos y cubresuelos. Flores perennes, plantas nativas y pastos ornamentales pueden agregar mucho atractivo visual.
+
+Las plantas en los bioswales deben estar densamente plantadas para reducir la velocidad del agua, prevenir la erosión y controlar las malezas. Seleccione plantas según su tolerancia a las inundaciones y su capacidad para sobrevivir en el clima local sin fertilizantes, herbicidas o insecticidas.
+
+- Elija plantas tolerantes al agua como juncos y pastos en las entradas y en el fondo del bioswale.
+- Los cubresuelos ayudarán a prevenir la erosión en las pendientes.
+- Las plantas deberían necesitar poco o ningún riego después del primer año de establecimiento.
+
+Lo mejor es plantar en otoño. Las lluvias de otoño ayudarán a establecer las plantas.
+
+---
+
+## Cuidado y Mantenimiento
+
+Las plantas requieren riego adicional durante el primer verano para ayudarles a establecerse.
+
+- Coloque una capa de mantillo de 2 a 3 pulgadas de profundidad, usando mantillo de madera fina para retener la humedad y reducir las malezas.
+- Revise su bioswale después de eventos de lluvia para quitar la acumulación de sedimentos en los puntos de entrada o salida.
+- Vuelva a plantar si es necesario y monitoree frecuentemente para controlar las malezas hasta que las plantas se establezcan bien.
+- Evite usar fertilizantes, herbicidas y pesticidas.
+
+---
+
+## Recursos
+
+- **Hojas informativas sobre Swales para la Calidad del Agua y Desarrollo de Bajo Impacto**  
+  [https://catalog.extension.oregonstate.edu/em9209](https://catalog.extension.oregonstate.edu/em9209)
+
+- **Guía de Jardines de Lluvia**  
+  [https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
+
+- **Laboratorios Analíticos que Sirven a Oregón**  
+  [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
+
+---
+
+#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, situación familiar/parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

@@ -1,33 +1,49 @@
-10-Daqiiqo Jaamacad™  
-Ururka Clackamas County Master Gardener oo iskaashanaya isla markaana taageeraya  
-Barnaamijka OSU Extension Master Gardener™  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Sare ee Degmada Clackamas iyadoo la kaashaneysa lana taageerayo Barnaamijka Beeraleyda Sare ee OSU Extension
 
-Daryeelka iyo Dayactirka Qalabka Beerta  
+# Daryeelka iyo Dayactirka Qalabka Beerta
 
-Qalabka waxa uu xumaadaa wakhti, qoyaan, ciid, iyo miridh awgeed. Nadiifinta iyo daryeelka habboon ee hoos ku xusan waxay ka caawin doonaan inay ku sii jiraan xaalad shaqo oo wanaagsan oo ay cimrigooda dheerayso.  
+Qalabka beertu wuu xumaadaa waqti ka dib iyo qoyaan oo ay weheliso ciid iyo miridh. Nadiifinta iyo daryeelka saxda ah ee hoos ku xusan waxay ka caawin doontaa in qalabkaagu sii shaqeeyo muddo dheer oo uu waxtar yeesho.
 
-### Kaydinta  
-Ku kaydi qalabka meel nadiif ah oo qalalan. Qalabka waxaa lagu kaydin karaa khaanadaha ama raxamada, ama si fudud ugu tiirsii gidaarka. Ha kaydin qalabka leh qaybaha alwaaxa ah iyadoo alwaaxu taabanayo ciid ama sibidh. Si fiican u nadiifi oo dib u hagaaji heerka alwaaxa kahor intaadan kaydin xilliga jiilaalka.  
+---
 
-### Daryeelka Xilliga Beerashada  
-Shuufal, faasaska, fargeetooyinka iyo qalabka birta dheer leh ee gacanta lagu hayo, hayso baaldi 5-gallon ah oo 4/5 ka buuxo ciid, oo (ikhtiyaari ahaan) ku dar qiyaastii kwart saliid matoor baabuur oo si fiican loogu qasay. Maalin kasta markaad isticmaasho, ku qabo qalabka baaldiga dhowr jeer si aad u nadiifiso seefka oo saliid ugu sii marsato. Ka saar qalabka oo ku tirtir maro saliid yar leh.  
+### Kaydinta
 
-### Kaydinta Xilliga Jiilaalka  
-Nadiifi qalabka si fiican kahor intaadan kaydin xilliga jiilaalka. Ka xoq ciidda adoo isticmaalaya burush adag haddii loo baahdo. Ka saar miridhka adoo isticmaalaya warqad ciid ah. Ka dib markaad nadiifiso, mari meelaha birta ah daahan difaac ah sida WD-40 ama saliid matoor khafiif ah oo nadiif ah.  
+Ku keydi qalabka meel nadiif ah oo qalalan. Waxaad qalabka dhigtaa miisas ama shub la saaro, ama si fudud derbiga uga dhigo. Ha ku kaydin qalabka ay jiridoodu alwaax ka tahay si ay alwaaxdu u taabato ciidda ama shubka. Si fiican u nadiifi oo dib ugu celi dhammaan jirida alwaaxda kahor intaadan kaydin xilliga jiilaalka.
 
-### Tilaabooyinka Nadiifinta Dhamaystiran  
-Ku hay qalabka si fiican oo nadiif ah oo fiiqan – qalabka si fiican loo ilaaliyo waxay ka dhigaan shaqada mid fudud oo xiiso leh. Isticmaalka ka dib, ka nadiifi ciidda ama miridhka. Nadiifi qalabka oo dhan oo ay ku jiraan seefaha, gacmaha, iwm.  
-1. Isticmaal burush si aad uga nadiifiso ciidda, ka dibna maro qalalan.  
-2. Haddii loo baahdo, ku sii xigsii maro qoyan, ka dib qalaji qalabka.  
-3. Haddii ay jirto uruuris badan oo xabag ah, ka xoq adoo isticmaalaya xoqid rinji ama qashin fiiqan iyadoo aan la dhaawacayn birta. Ku nadiifi khamri, ruuxa macdanta (thinner rinji), ama nadiifiyaha foosha musqusha. Ka sii xigsii suuf bir khafiif ah.  
-4. Haddii miridhku weli jiro, ka saar adoo isticmaalaya burush bir ah iyo/ama warqad ciid ah.  
-5. Marka seefku nadiif yahay, ku tirtir dhammaan meelaha birta ah maro saliid yar leh.  
-6. Qaybaha alwaaxa ah waa in laga nadiifiyaa meelaha qallafsan ama qallafsan adoo ka jaraya oo simaya. Ilaali daahan saliid flaxseed ama macdanta.  
+---
 
-### Tilaabooyinka Habaynta Seefaha  
-Qalabka goynta ee leh laba seef, mararka qaar seefaha way fiiqan yihiin laakiin qalabku ma gooyo. Haddii maqasku fiiqan yahay laakiin walaxda la gooyay aysan si siman u go’in, ay jeexjeexdo ama ka tagto cidhif yar, maqaska waa mid aan habboonayn. Baadh qalabka si aad u aragto qaybaha dabacsan. Iska soo xidh gacmaha oo eeg booska u dhexeeya seefaha. Haddii seefaha aan habboonayn, dabacsan yihiin, ama qalloocan yihiin, qalabka waa in la kala fur-furo si loo hagaajiyo.  
-1. Qalabka si fiican u xajiso, iyadoo barta isku xidhka ay muuqato, madaxa boolka iyo lowska labadaba la heli karo. Fadhi adag oo miiska ku dheggan ayaa kaa caawin doona, laakiin miis adag oo lagu xidhay qabsado ayaa shaqayn kara. Waa muhiim in qalabka si adag loo hayo, maadaama xoog lagu saarayo xagag kala duwan inta lagu guda jiro kala fur-furid iyo dib u uruurin, haddii qalabka uu dhaqaaqo dhaawac halis ah ayaa dhici kara.  
-2. Waxaa laga yaabaa inaad u baahan tahay inaad marka hore furto boolalka miridhka leh. Ku mari WD-40, Liquid Wrench, ama dareere kale oo dhex gala, adoo raacaya tilmaamaha summada.  
-3. Adoo isticmaalaya furayaal, screwdriver, ama qalab kale oo ku habboon, ka saar boolka isku xidhka. Hubso inaad xasuusato meesha iyo habaynta kala-shaandhaynta ama cirifka. Qaar waxay noqon karaan kuwo foorro u samaysan si ay cadaadis ugu saaraan qaybaha kale ee isku xidhka, markaa xasuuso jihada foorro marka dib loo uruurinayo. Mararka qaar waxaa jira lows xiraya ama qalab kale oo ka ilaalinaya lowska inuu wareego. Haddii ay jirto, marka hore fur oo ka saar. Mararka qaar lowska waxaa si joogto ah loogu rakibaa hal seef, laakiin badanaa waa xor. FIIRO GAAR AH: qaar ka mid ah boolalka isku xidhka ayaa leh dunta dhinaca bidix (loo adkeeyo iyadoo loo wareegayo dhanka lidka saacada). Kuwaas badanaa waxay leeyihiin fallaadh ku taal madaxa boolka oo muujinaysa jihada loo wareejiyo si loo furo boolka.  
-4. Hubi qaybaha qalloocan oo toosi ama beddel haddii loo baahdo.  
-5. Nadiifi dhamm
+### Daryeelka Inta Lagu Jiro Xilliga Beerta
+
+Qalabka birta dheer ee sida fargeetada, caboorka, iyo baangada, ku hay baaldi 5-gallon ah oo 4/5 ka buuxda ciid, waxaadna ku dari kartaa ilaa hal litir oo saliid mishiinka baabuurta ah oo si fiican loogu walaaqay. Markasta oo aad qalab isticmaasho, ku mud qalabka baaldiga dhowr jeer si uu u nadiifo birta una dahaadho saliid. Kadib qalabka ka saar oo ku masax maro saliid yar leh.
+
+---
+
+### Kaydinta Jiilaalka
+
+Qalabka si fiican u nadiifi ka hor intaadan kaydin jiilaalka. Ka xoq ciidda, isticmaal burush bir ah haddii loo baahdo. Ka saar miridhka adoo isticmaalaya warqad xoqan (sandpaper). Markaad nadiifiso, biraha ku mari saliid difaac leh sida WD-40 ama saliid mishiin iftiin leh oo nadiif ah.
+
+---
+
+### Tallaabo-Tallaabo: Sida Loo Nadiifiyo Qalabka
+
+Qalabkaaga nadiifi oo fiiqanow – qalab si fiican loo daryeelayaa shaqada way fududaynaysaa waana kaaga dhigi doontaa mid xiiso leh. Isticmaal kasta kadib, ka nadiifi ciidda iyo miridhka. Nadiifi qalabka oo dhan, oo ay ku jiraan birta iyo jiridaha.
+
+1. Isticmaal burush si aad uga saarto ciidda, kadibna maro qalalan.
+2. Haddii loo baahdo, raac maro qoyan kadibna qalabka qalaji.
+3. Haddii la jiro xabag badan oo ku dul dhisan, xoq adigoo isticmaalaya xoqe rinji ama chisel fiiqan, adigoon birta dhaawicin. Nadiifi adigoo isticmaalaya aalkolo, nafta rinjiga (paint thinner), ama nadiifiye musqul oo xumbo leh. Raac bir khafiif ah (steel wool).
+4. Haddii miridhku haro, ka saar adigoo isticmaalaya burush bir ah ama warqad xoqan.
+5. Marka birta nadiif noqoto, ku masax dhammaan meelaha birta ah maro saliid yar leh.
+6. Qaybaha alwaaxda ah, meelaha qallafsan ama dhagaxa ah ka jar oo ku masax si ay siman u noqoto. Mar walba ku hay saliid linseed ama saliid macdan ah.
+
+---
+
+### Tallaabo-Tallaabo: Sida Loo Hagaajiyo Biraha Goynta
+
+Qalabka leh laba birood oo goyn ah, mararka qaar biraha way fiiqan yihiin laakiin qalabku ma goynayo si fiican. Haddii maqasyadaadu ay fiiqan yihiin laakiin waxa la gooyay uusan simanayn, dillaaco, ama uu reebo meel aan qurux badnayn, maqasyadu waxay noqon karaan kuwo aan isku fidsanayn. Fiiri qalabka si aad u aragto wax dabacsan. Isku xiro gacmaha oo eeg meelaha biraha. Haddii biraha ay is dhaafeen, dabacsan yihiin ama foorarsan yihiin, waa in qalabka la furaa si loo hagaajiyo.
+
+1. Qalabka si fiican u xaji, si dhibicda wareega (pivot) loo helo, madaxa boolta iyo nuts-kuna la heli karo. Miis adag iyo qabsad (vise) ayaa caawin doona, ama miis adag oo la qabsaday. Waa muhiim in qalabka si adag loo hayo, maxaa yeelay xoog ayaa la saari doonaa xilliga la furayo iyo la isku xirayo, haddii qalabku dhaqaaqana dhaawac halis ah ayaa dhici kara.
+2. Waxaa laga yaabaa inaad u baahan tahay inaad furto boolal miridhaysan. Ku mari WD-40, Liquid Wrench, ama dareere kale oo furfuraya, adoo raacaya tilmaamaha.
+3. Isticmaal qalabka ku habboon sida furayaal ama screwdriver, si aad u furto boolta. Xasuuso meesha iyo sida ay washers iyo spacers u yaalliin. Qaar waxaa laga yaabaa inay u leexan yihiin si ay cadaadis ugu saaraan qaybaha kale, sidaas darteed xasuuso jihada ay u leexan yihiin si aad markale ugu celiso. Mararka qaar, waxaa jira lock nut oo u diida inuu wareego; haddii ay sidaas tahay, marka hore fur oo ka saar. Mararka qaar, nut-ku si joogto ah ayuu ugu xiran yahay birta, laakin badanaa waa xor. **Ogeysiis:** Qaarkood boolalka wareega waxaa laga yaabaa inay yihiin gacan-bidix (tightens counter-clockwise). Qaar waxay leeyihiin fallaar ku taalla madaxa boolta si ay kuu tusto jihada loosii rogo si loo furo.
+4. Fiiri haddii ay jiraan qaybaha foorarsan, toosi ama beddel hadba sida loo baahdo.
+5. Si fiican u nadiifi dhammaan qaybaha, oo ay ku jiraan godadka boolta, boolta, iyo nut-ka.
+6. Isticmaal saliid mishiin khafiif ah (tusaale, 3-in-1 Oil), ku mari b

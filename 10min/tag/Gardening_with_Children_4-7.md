@@ -1,67 +1,96 @@
-# 10-Minute University™  
-## Oregon Master Gardener™ Association – Clackamas County Chapter  
-### Sa Pakikipagtulungan ng Oregon State University Extension Service  
+#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Sa Pakikipagtulungan ng Oregon State University Extension Service
 
-## Paghahalaman Kasama ang Mga Bata Edad 4-7  
+## Pagtatanim Kasama ang mga Bata Edad 4-7
 
-Ang paghahalaman kasama ang mga bata ay maaaring maging isa sa mga pinaka-rewarding na karanasan para sa parehong bata at magulang, lolo’t lola, o mentor. Ang mga bata ay natural na mga hardinero dahil sila ay mausisa, natututo sa pamamagitan ng paggawa, at nasisiyahan sa paglalaro sa lupa.  
+Ang pagtatanim kasama ang mga bata ay isa sa mga pinaka-rewarding na karanasan para sa bata at sa magulang, lolo’t lola, o tagapagturo. Ang mga bata ay likas na mga hardinero dahil sila ay mausisa, natututo sa pamamagitan ng paggawa, at mahilig maglaro sa lupa.
 
-Ang pagtatrabaho nang magkasama sa hardin ay maaaring magbigay ng oras ng de-kalidad na pagsasama tuwing linggo at maghikayat sa interes ng bata sa kalikasan at agham. Ang mga bata ay natutuwa rin sa sensory stimulation, maging ito man ay pagbu-buhos ng tubig mula sa isang lalagyan o paghuhukay sa lupa upang alisin ang mga damo.  
+Ang pagtutulungan sa hardin ay maaaring magbigay ng oras ng de-kalidad na pagkakasama bawat linggo at naghihikayat sa interes ng bata sa kalikasan at agham. Pinahahalagahan din ng mga bata ang mga karanasan ng kanilang mga pandama, halimbawa ang pagbubuhos ng tubig mula sa isang lalagyan o paghuhukay ng lupa para alisin ang mga damo.
 
-### Bakit Mag-Hardin Kasama ang Mga Bata?  
-- Makakaranas sila ng cycle ng buhay nang harapan.  
-- Matututo silang maging responsable at mapapalakas ang kanilang pagkamalikhain.  
-- Magkakaroon sila ng kaalaman tungkol sa ating pagdepende sa kalikasan at ang yaman nito.  
+### Bakit Magtanim Kasama ang mga Bata?
 
-Ang paghahalaman ng gulay ay maaaring maging lubos na rewarding para sa mga bata ng lahat ng edad. Ang mga maliliit na bata ay mas makikinabang kung pipili ka ng mga buto ng gulay na malalaki at mas madaling hawakan ng maliliit na kamay. Ang ganitong uri ng mga buto ay mabilis na tumutubo, na nagdudulot ng nakakain na resulta sa loob ng isang season. Ito rin ay nagpo-promote ng mabuting nutrisyon at nagpapakilala ng bagong pagkain sa mga bata. Sila ay mas malamang na subukan ang mga bagong pagkain dahil sila mismo ang nagtanim nito.  
+- Maaaring masaksihan nila mismo ang paikot ng buhay.
+- Matututo silang maging responsable at mapapalawak ang kanilang pagkamalikhain.
+- Mauunawaan nila ang ating pagdepende sa kalikasan at ang yaman nito.
 
-### Mga Ideya na Dapat Isaalang-alang  
-- Bigyan sila ng sariling espasyo, maging ito ay raised bed, paso, o lupa. Ang bawat bata ay dapat mayroong sariling espasyo.  
-- Panatilihing maliit ang espasyo dahil mas madaling pamahalaan ito, at ang lahat ng bagay ay tila mas malaki sa mata ng bata. Magsimula sa maliit na espasyo at palakihin ito habang tumatanda at lumalaki ang kanilang interes.  
-- Ilagay ang kanilang hardin sa pinakamagandang lugar na may sapat na sikat ng araw at mapagkukunan ng tubig.  
-- Gumamit ng seryosong mga kasangkapan. Huwag magbigay ng mga plastik na kasangkapan na maaaring madaling masira at magdulot ng pagkadismaya sa batang hardinero.  
+Ang pagtatanim ng gulay ay lalo nang kaaya-aya para sa mga bata anuman ang edad. Mas mainam para sa mga bata kung ang pipiliin mong buto ng gulay ay malalaki at madaling hawakan ng maliliit na kamay. Mas mabilis din silang tumubo at nagbibigay ng makakain sa loob ng isang season. Ang pagtatanim ay nagpo-promote ng tamang nutrisyon at nagpapakilala ng bagong pagkain sa mga bata. Mas malamang na subukan nila ang mga bagong pagkain dahil sila mismo ang nagtanim.
 
-### Mga Gawain  
-Maaaring ibagay ang dami ng gawain sa kakayahan ng bata at sa oras na magagamit. Tandaan, mahalaga na gawing rewarding ang karanasan para sa inyong dalawa, kaya siguraduhing iayos ang saklaw ng aktibidad at huminto bago maging labis ang pagod o pagkadismaya. Kasama na rito ang mga matatanda.  
+### Mga Ideya na Dapat Isaalang-alang
 
-Magtanim ng mga bulaklak o gulay para sa mga pollinator tulad ng mga bubuyog, ibon, at paru-paro. Ang mga hardinero ay pinahahalagahan ang mga insekto at pollinator na naninirahan at bumibisita sa hardin. Maaari kang magtanim ng mga sunflower, zinnia, o nasturtium. Ang mga ito ay kaakit-akit at nagbibigay ng pagkain para sa mga pollinator.  
+- **Bigyan sila ng sariling espasyo**: Maaaring sa raised bed, paso, o maliit na bahagi ng lupa, dapat may sariling espasyo ang bawat bata.
+- **Panatilihing maliit**: Mas madaling pamahalaan ang maliit na espasyo, at mas malaki ang tingin ng bata sa lahat ng bagay. Magsimula sa maliit at palakihin habang tumatanda at dumadagdag ang interes nila.
+- **Ilagay ang hardin sa pinakamagandang lugar**: Siguraduhin na may sapat na araw at may mapagkukunan ng tubig.
+- **Gamitin ang totoong mga kagamitan**: Huwag bigyan ng plastik na gamit na madaling masira at makaka-frustrate sa batang baguhan.
 
-#### Maghanap ng mga Slug  
-Matututunan ng mga bata kung paano gumaganap ang mga slug sa ecosystem. Mayroong tatlong karaniwang uri ng slug sa Pacific Northwest: ang Banana slug (na katutubo at kapaki-pakinabang), leopard slug, at red roundback slug. Ang gray garden slug ang pinaka-mapaminsala sa mga pananim. Matututuhan nila na ang mga slug ay may mga predator tulad ng mga ahas at salamander. Kahit na ang mga slug at snail ay itinuturing na "peste" ng mga hardinero, sila ay mahalagang bahagi ng ecosystem ng hardin. Kung magpasya kang alisin ang mga slug o snail, maaari mo itong gawin nang maingat sa pamamagitan ng paglalagay sa isang timba ng tubig na may sabon.  
+### Ilang Aktibidad
 
-#### Maghanap ng Mga "Decomposer"  
-Ang mga bata ay mahilig maghanap ng mga "decomposer." Ang mga bulate, sowbugs, langgam, at snail ay bahagi ng ecosystem at mahalaga sa pag-breakdown ng organic matter upang maging humus. Dapat silang ipagdiwang. Hikayatin ang mga bata na maghukay ng maliit na balde ng lupa o maghukay sa isang maliit na bahagi ng hardin at bilangin ang bilang ng mga "decomposer" na kanilang natagpuan. Makakatulong kung mayroon silang microscope o magnifying glass na magagamit sa kanilang paghanap.  
+Maaari mong ayusin ang dami ng gawain ayon sa kakayahan ng bata at sa haba ng oras. Tandaan, mahalaga na maging masaya ang karanasan para sa inyong dalawa, kaya siguraduhing isaalang-alang ang saklaw ng aktibidad at tumigil bago kayo mapagod o mainis—pati na rin ang mga matatanda.
 
-### Pangunahing Impormasyon  
-Ipaliwanag sa mga bata ang mahalagang impormasyon tungkol sa pagtatanim sa lugar na may pinakamaraming sikat ng araw at tiyakin na ang lupa ay sapat na sumasakop sa mga buto (hindi masyadong malalim). Hikayatin silang obserbahan kung paano nakikisalamuha ang mga insekto sa mga halaman habang tumutubo ang mga ito.  
+#### Magtanim ng Bulaklak o Gulay para sa mga Pollinator
 
-#### Mga Paboritong Buto ng Gulay para sa mga Bata:  
-- Kalabasa  
-- Pole beans  
-- Labanos  
-- Snap peas  
-- Scarlet runner beans  
-- Cherry tomatoes  
+Pinahahalagahan ng mga hardinero ang mga insekto at pollinator na naninirahan o bumibisita sa hardin. Maaari kayong magtanim ng sunflower, zinnia, o nasturtium. Kaakit-akit sila at nagbibigay ng pagkain sa mga pollinator.
 
-### Magdagdag ng Literacy  
-Maraming magagandang larawan at mga aklat na nagbibigay ng instruksyon tungkol sa paghahalaman na maaaring pahalagahan ng mga bata bago magsimula at habang nagtatrabaho sa hardin. Ang pagbabasa ng malakas sa kanila ay nag-aanyaya ng pagtatanong at maaaring magsilbing springboard para sa mga plano sa hardin. Ang iyong lokal na librarian ay magiging masaya na tulungan kang makahanap ng mga resources na parehong magugustuhan mo at ng iyong anak.  
+Tingnan ang mga publication mula sa Oregon State University:
 
-#### Mga Rekomendadong Aklat:  
-- “From Seed to Plant” ni Gail Gibbons  
-- “The Tiny Seed” ni Eric Carle  
-- “Growing Vegetable Soup” ni Lois Ehlert  
-- “The Vegetables We Eat” ni Gail Gibbons  
-- “The Carrot Seed” ni Ruth Krause  
-- “Muncha! Muncha! Muncha!” ni Candace Fleming  
-- “Flip, Float, Fly: Seeds on the Move” ni JoAnn Early Macken  
-- “Berries, Nuts and Seeds” ni Diane L. Burns  
-- “Jack’s Garden” ni Henry Cole  
+- [Pagpapalago ng Mga Kapaki-pakinabang na Insekto sa Iyong Hardin](https://catalog.extension.oregonstate.edu/pnw550)
+- [Gabay ng Guro sa Pagtatanim ng Gulay](https://catalog.extension.oregonstate.edu/em9032)
 
-### Master Gardener™ Advice  
-- Tawagan ang Home Horticulture Helpline:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- Para sa mga handout ng 10-Minute University™ at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+#### Maghanap ng Mga Susô at Limatik
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang ekspresyon ng kasarian), oryentasyong sekswal, kapansanan, edad, marital status, status ng pamilya/magulang, kita mula sa pampublikong programa ng tulong, paniniwalang politikal, impormasyon ng genetiko, status ng beterano, paghihiganti o pagganti para sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+Matututo ang mga bata kung paano may papel ang mga limatik sa ekosistema. May tatlong karaniwang limatik sa Pacific Northwest:
+
+- **Banana slug**: Katutubo at kapaki-pakinabang.
+- **Leopard slug** at **red roundback slug**.
+- **Gray garden slug**: Pinakamapinsala sa mga pananim.
+
+May mga natural na kalaban ang mga limatik tulad ng ahas at salamander. Kahit na tinuturing silang “peste” ng mga hardinero, mahalaga pa rin ang kanilang papel sa ekosistema ng hardin. Kung nais alisin ang mga nakuhang limatik o susô, maaari itong gawin nang maingat sa pamamagitan ng paglagay sa balde na may sabon at tubig.
+
+Tingnan ang mga resources na ito:
+
+- [Pagkilala sa Mga Limatik at Susô](https://agsci.oregonstate.edu/slug-portal/identification)
+- [Mga Limatik at Susô](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
+
+#### Maghanap ng mga Decomposer
+
+Ang mga bulati, sowbug, langgam, at susô ay bahagi ng ekosistema at mahalaga sa pagbubulok ng organikong bagay tungo sa humus. Sila ay dapat ipagdiwang.
+
+Pahukayin ang mga bata ng isang timba ng lupa o maghukay sa maliit na bahagi ng hardin at bilangin kung ilan ang “decomposer” na kanilang nakita. Makakatulong kung may magnifying glass o microscope silang magagamit.
+
+Tingnan ang resource ng Oregon State University tungkol sa mga decomposer:
+
+- [Mga Bulating Decomposer](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
+
+#### Mga Tip sa Pagtatanim
+
+Bigyan ang mga bata ng mahahalagang impormasyon tungkol sa pagtatanim sa lugar na may pinakamaraming sikat ng araw at siguraduhing natatakpan ng lupa ang binhi (huwag masyadong malalim). Hikayatin silang obserbahan kung paano nakikipag-ugnayan ang mga insekto sa mga halaman habang tumutubo.
+
+Ilan sa mga paboritong buto ng gulay para sa mga bata:
+
+- Kalabasa
+- Pole beans
+- Labanos
+- Snap peas
+- Scarlet runner beans
+- Cherry tomato
+
+### Isama ang Pagbabasa
+
+Maraming magagandang larawan at aklat ng pagtuturo tungkol sa paghahardin na magugustuhan ng mga bata bago magsimula at habang nagtatanim. Ang pagbabasa nang malakas sa kanila ay nakakapukaw ng tanong at maaaring simula ng plano para sa hardin. Masaya ang inyong lokal na librarian na tulungan kayong makahanap ng mga aklat na pareho ninyong magugustuhan.
+
+Narito ang ilang suhestiyon:
+
+- *Mula Binhi Hanggang Halaman* ni Gail Gibbons
+- *Ang Maliit na Binhi* ni Eric Carle
+- *Pagtanim ng Gulay na Sopas* ni Lois Ehlert
+- *Ang mga Gulay na Kinakain Natin* ni Gail Gibbons
+- *Ang Binhi ng Karot* ni Ruth Krause
+- *Muncha! Muncha! Muncha!* ni Candace Fleming
+- *Lipad, Lutang, Lipad: Mga Binhing Naglalakbay* ni JoAnn Early Macken
+- *Mga Berries, Mani at Butil* ni Diane L. Burns
+- *Hardin ni Jack* ni Henry Cole
+
+#### Master Gardener™ na Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa 10-Minute University™ handouts at iskedyul ng klase: Bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang mag-asawa, katayuang may pamilya o magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa henetika, katayuang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

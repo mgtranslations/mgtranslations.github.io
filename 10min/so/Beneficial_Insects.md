@@ -1,53 +1,82 @@
-# Jaamacadda 10-Daqiiqo™
+#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Master-ka ee Clackamas County oo kaashanaya kana taageeraya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Clackamas County Master Gardener oo iskaashanaya barnaamijka OSU Extension Master Gardener™  
-**Cayayaanka Waxtarka Leh ee Beerta Guriga**
+# Cayayaanka Faa’iidada leh ee Beerta Guriga
 
-## Guudmar
-In ka badan 28,000 nooc oo cayayaanka ah ayaa laga helaa Waqooyi-Galbeed Baasifik, laakiin boqolkiiba hal ilaa laba ayaa waxyeeleeya dalagyada, dhirta ama dhismayaasha. Inta badan cayayaanka waa waxtar leh oo ka caawiya beerta guriga xakamaynta cayayaanka ama siinta pollination miro iyo khudaarta. Qoraalkan wuxuu sahaminayaa cayayaanka caadiga ah ee waxtarka leh ee ka jira gobolkaaga wuxuuna la wadaagayaa fikrado ku saabsan sida loo dhiirrigeliyo joogitaankooda beeraha guriga.
+### Dulmar
 
-## Cayayaanka Waxtarka Leh
-Saddexda nooc ee waaweyn ee cayayaanka waxtarka leh waa pollinators, predators, iyo parasitoids.
+Waxaa jira in ka badan 28,000 nooc oo cayayaan ah Woqooyiga Galbeed ee Baasifik, balse kaliya boqolkiiba 1 ilaa 2 ayaa waxyeeleeya dalagyada, dhirta, ama dhismayaasha. Inta kale waa kuwa faa’iido leh oo caawiya beeralayda guriga iyagoo xakameeya cayayaanka waxyeellada leh ama pollinate gareeya miro iyo khudrad. Qoraalkan waxa uu sharxayaa cayayaanka faa’iidada leh ee caamka ah ee deegaankeena laga helo iyo talooyin lagu dhiirrigelinayo joogitaankooda beerta guriga.
 
-### Pollinators
-Pollinators-ka waxaa ka mid ah shinnida, duqsiga, balanbaalisyada iyo aboorada. Beeraha guriga, shinnida malabka, shinnida buufiska, shinnida Mason-ka ee beerta, iyo duqsiyada syrphid waa pollinators-ka ugu muhiimsan, laakiin pollinators kale oo yaryar sida kabtanka, quraanjada, cayayaanka yar-yar, iyo quraanjada ayaa sidoo kale door ka ciyaara. Pollinators-ka waxay door muhiim ah ka ciyaaraan soo saarista dalagyada cuntada iyo dhirta beerta. Beeralayda guriga waxay caawin karaan caafimaadka iyo wax-soosaarka beertooda iyaga oo dhiirrigelinaya joogitaanka pollinators-ka.
+---
 
-### Predators
-Predators-ka sida lady beetles, cayayaanka praying mantis, lacewings, cayayaanka dhulka, cayayaanka minute pirate bugs, damsel bugs, duqsiyada syrphid larvae, iyo snake flies, waxay cunaan tiro badan oo cayayaanka kale ah. Waxay hoos u dhigaan heerka cayayaanka waxyeelada leh. Haddii la dhiirrigeliyo joogitaanka predators-ka, beeralayda guriga waxay yarayn karaan baahida loo qabo xakameynta cayayaanka waxyeelada leh.
+## Cayayaanka Faa’iidada Leh
 
-### Parasitoids
-Parasitoids waa cayayaanka ku nool ama ku dhex nool cayayaan kale iyagoo ka cunaya martida waxayna badanaa dilaan martida waqti ka dib. Parasitoids-ka waxtarka leh ee caadiga ah waa shinnida yaryar ee aan qaniinin iyo duqsiyada tachinid. Cayayaankan si sahal ah looma arko laakiin cilmi-baaristu waxay muujisay inay saameyn weyn ku leeyihiin tirada cayayaanka waxyeelada leh. Beeralayda guriga waxay soo jiidan karaan parasitoids iyagoo siinaya dhir ay jecel yihiin inay cunaan. Tani waxay ku jirtaa dhirta leh ubaxyo yar-yar oo koox-koox ah sida karootada, kawsariga, dillka, clover-ka macaan, fennel, iyo Queen Anne’s lace.
+Saddexda nooc ee ugu waaweyn ee cayayaanka faa’iidada leh waa:
 
-## Sida Loogu Dhiirrigeliyo Cayayaanka Waxtarka Leh
+1. **Kuwa pollinate gareeya**  
+   Kuwa pollinate gareeya waxaa ka mid ah shinnida, duqsiyada, balanbalada iyo baloolleyda. Beerta guriga, shinnida malabka, shinnida weyn, shinnida beerta, iyo duqsiyada syrphid waa kuwa ugu muhiimsan. Waxaa kale oo jira kuwo kale oo yaryar sida diinka, abeesada, duqsiyada yaryar, iyo cayayaanka kale oo aan la dareemin. Pollinators-ku waxay door muhiim ah ka ciyaaraan soosaarista dalagyada cunto iyo dhirta beerta. Beeralayda guriga waxay kor u qaadi karaan caafimaadka iyo wax-soosaarka beertooda iyagoo dhiirrigeliya joogitaanka pollinators-ka.
 
-### Samee Deegaan
-Waxaad siin kartaa deegaan cayayaanka waxtarka leh ee kala duwan oo ku yaal beerta gurigaaga. Cayayaanka dhulka iyo kuwa rove-ka oo habeenkii ku wareegaya dhulka iyagoo cunaya slugs iyo cayayaanka cutworms ayaa u baahan meel ay ka galaan cadawgooda maalintii. Daboolka dhulka iyo mulch-yada qafiifka ah sida bark dust, straw-ka, iyo mulch-ka caleemaha organic-ka ayaa bixin kara deegaan. Shinnida deegaanka qaarkood waxay ku dhex nool yihiin dhulka. Meel dhulka bannaan ah ama sariir qalalan oo leh dhir ornamental ah oo si khafiif ah loo beeray ayaa ku habboon. Daboolidda dhulka caag mulch ah ama dib u qodista joogtada ah waxay burburin kartaa shinnida deegaanka. Waxaad soo jiidan kartaa oo hayn kartaa shinnida deegaanka sida Mason bees adiga oo siinaya sanduuqyo buul ah oo la sameeyay ama la soo iibsaday.
+2. **Dugaagga**  
+   Dugaagga sida cayayaanka lady beetle, mantis-ka, lacewing, beetle-ka dhulka, minute pirate bugs, damsel bugs, larvae-da syrphid fly, iyo snake flies waxay cunaan tiro badan oo cayayaan ah, waxayna xakameeyaan cayayaanka waxyeellada leh. Haddii la dhiirrigeliyo dugaagga, waxaa suurtagal ah in loo baahdo yaraynta isticmaalka sunta cayayaanka.
 
-### Bixi Cunto iyo Biyo
-Cayayaanka waxay u baahan yihiin biyo si ay u noolaadaan. Bixi biyo ku jira saxan lagu buuxiyay dhagxaan; ka buuxi maalmihii qalalan. Ubaxyadu waxay siiyaan nectar (sonkor) iyo pollen (borotiin) pollinators-ka iyo dhalinyaradooda. Maadaama pollinators kala duwan laga yaabo inay leeyihiin doorbidyo cunto oo kala duwan, kala duwanaanshuhu waa muhiim. Cilmi-baaris cusub waxay muujisay in aagag ay ku jiraan 15 nooc ama ka badan oo dhirta ubaxa ah ay kordhiyaan kala-duwanaanta shinnida. Beeralayda doonaya inay ilaaliyaan shinnida waa inay dadaalaan, sida xeer guud, inay bixiyaan ugu yaraan saddex nooc oo dhir ubax ah wakhti kasta, laga bilaabo gu’ ilaa dayr.
+3. **Parasitoids**  
+   Parasitoids waa cayayaan ku nool ama ku dhexjira cayayaan kale, kana quudiya ilaa uu dhinto. Kuwa ugu caansan waxaa ka mid ah diinka yar ee aan qaniinin iyo duqsiyada tachinid. Inkastoo aan si sahlan loo arki karin, cilmi-baaristu waxay muujisay in ay saameyn weyn ku leeyihiin yareynta cayayaanka waxyeellada leh. Beeralayda guriga waxay soo jiidan karaan parasitoids iyagoo beerta ku beera dhirta ay jecelyihiin, sida kuwa leh ubaxyo yaryar oo isku urursan sida karootada, cilantro, dill, sweet clover, fennel, iyo Queen Anne’s lace.
 
-Balanbaalisyada iyo aboorada qaangaarka ah badanaa waxay doorbidaan inay cunaan nectar, laakiin dhalinyaradoodu waxay cunaan caleemaha dhirta. “Dhirta martida” waa halka qaangaarka ay dhigaan ukumaha. Geedaha iyo geedaha dhirta ornamental ee deegaanka badanaa waa dhirta martida fiican. Cayayaanka predators-ka qaangaarka ah iyo parasitoids badanaa waxay cunaan nectar iyo pollen ee dhirta sida yarrow, dill, marigold, iyo sunflower.
+---
 
-### Ku Dhaqan Maaraynta Cayayaanka Isku Dhafan
-Maaraynta Cayayaanka Isku Dhafan waa hab dhammaystiran oo nidaamsan oo lagu xalliyo dhibaatooyinka dhirta. Marka calaamadda ugu horreysa ee dhibaato dhirta laga arko, ururi cadaymo si aad u hesho ogaansho sax ah. Fahamka dhibaatada waa shuruud lagama maarmaan u ah qaadashada tallaabo wax ku ool ah. Dhibaatooyin badan oo dhirta, marka la ogaado horraantii, waxaa lagu maareyn karaa hab aan kiimiko ahayn. Haddaba u fiirso beerta si joogto ah.
+## Sida Loo Dhiirrigeliyo Cayayaanka Faa’iidada Leh
 
-Ka hor inta aan la isticmaalin sunta cayayaanka systemic, gaar ahaan dhirta ay booqdaan pollinators-ka, laba jeer ka fikir faa'iidooyinka marka loo eego khasaaraha. Sunta systemic waxay ilaalisaa caleemaha dhirta cayayaanka, waxayna ku wareejin kartaa qadar yar oo ah nectar iyo pollen. Caterpillars-ka cunaya dhirta ama pollinators-ka ururinta nectar iyo pollen-ka ayaa waxyeeloobi kara marka ay cunaan dhirta ay ilaalinayaan sunta systemic.
+### Abuur Deegaanka Ku Habboon
 
-Haddii sunta cayayaanka loo baahan yahay in la isticmaalo, raac tilmaamaha ku yaal calaamadda si loo hubiyo in loo isticmaalo xaddiga saxda ah, xaalada cimilada ku habboon, qaybta saxda ah ee dhirta. Ha daaweyn dhirta ubaxaysa, oo ay ku jiraan cawska; ka fogow meelaha ugu dhow buulasha; una buufi qaybaha qabow ee maalinta, sida waqtiga qorrax dhaca ama fiidkii, marka pollinators-ka badankoodu ay yar yihiin firfircoon.
+Waxaad beertaada guriga ku abuuri kartaa deegaan ku habboon cayayaanka faa’iidada leh ee kala duwan:
 
-## Khayraadka
-- **Insects of the Pacific Northwest**, Peter iyo Judy Haggard  
-- **Encouraging Beneficial Insects to Your Garden PNW 550**  
-  [http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/38715/pnw550.pdf](http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/38715/pnw550.pdf)  
-- **Attracting Pollinators to Your Garden**, 10-Minute University™ Handout, [www.cmastergardeners.org](www.cmastergardeners.org)  
-- **Clark County Washington Presents Bugs and Pests**  
-  [http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)  
+- **Ground Beetles iyo Rove Beetles**  
+  Cayayaankan habeenkii ayay dhulka wax ka ugaarsadaan, waxayna cunaan slugs iyo cutworms. Waxaa ay u baahan yihiin meel ay ku dhuuntaan maalintii. Dhumucda dhulka daboolka ah iyo mulch-ka sida bark dust, straw, iyo caleenta qalalan ee la jarjaray ayaa u abuura deegaan wanaagsan.
 
-## Talooyinka Master Gardener™
-- La xiriir Khadka Caawinta Horticulture Guriga:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- Wixii qoraallo kale ah ee 10-Minute University™ iyo jadwalka fasalka, booqo [www.cmastergardeners.org](www.cmastergardeners.org)  
+- **Shinnida Dabiiciga ah**  
+  Shinnida badan ee dabiiciga ah waxay guryahooda ka dhigtaan dhulka. Goob yar oo carro ah oo aan waxba saarnayn ama sariir qallalan oo lagu beero cawska qurxinta ah ee kala fog-fog ayaa ku habboon. Haddii aad dhulka daboosho ama aad si badan u qodo, waxay baabi’in kartaa guryaha shinnida. Waxaad soo jiidan kartaa oo beertaada ku hayn kartaa shinnida dabiiciga ah sida Mason bees adiga oo siinaya sanduuqyo ay ku dhisan karaan oo aad adigu sameysay ama iibsatay.
 
-Adeegga Oregon State University Extension wuxuu mamnuucayaa kala soocidda dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku saleysan jinsiyadda, midabka, asal ahaan qowmiyadda, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihaynta galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helay barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-wadaha, xaaladda ciidanka, aargoosiga ama aargoosiga ka dhashay hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada mamnuuca ahi ma khuseeyaan dhammaan barnaamijyada.)
+### Sii Cunto iyo Biyo
+
+Cayayaanka waxay u baahan yihiin biyo si ay u noolaadaan. Sii biyo saxan yar oo dhagxaan ku jiraan, kana buuxi maalmaha qalalan.
+
+- **Ubaxa Pollinators-ka**  
+  Ubaxu wuxuu bixiyaa nectar (sonkor) iyo pollen (borotiin) oo ay cunaan pollinators-ka iyo caruurtooda. Kala duwanaanta ubaxa waa muhiim sababtoo ah pollinators-ka kala duwan waxay leeyihiin cuntooyin kala duwan. Cilmi-baaris dhowaan la sameeyay waxay muujisay in goobaha ay ku yaalliin ugu yaraan 15 nooc oo dhir ubax leh ay kordhiyaan kala duwanaanta shinnida. Beeralaydu waa in ay isku dayaan in ay mar walba, laga bilaabo guga ilaa dayrta, beertooda ku hayaan ugu yaraan saddex nooc oo dhir ubax leh.
+
+- **Balanbalada iyo Baloolleyda**  
+  Balanbalada iyo baloolleyda qaangaarka ah badanaa waxay jecel yihiin nectar, balse carruurtooda waxay cunaan caleenta dhirta. “Host plants” waa dhirta ay dadka waaweyn ukunta ku dul dhigaan. Geedaha iyo baadiyaha qurxinta ee dabiiciga ah badanaa waa host plants fiican.
+
+- **Dugaagga iyo Parasitoids-ka**  
+  Dugaagga qaangaarka ah iyo parasitoids-ka badan waxay cunaan nectar iyo pollen ka yimaada dhirta sida yarrow, dill, marigold, iyo sunflower.
+
+### Adeegso Maareynta Badbaadinta Cayayaanka (IPM)
+
+Maareynta Isku-dhafan ee Cayayaanka (IPM) waa hab dhammaystiran oo la tacaalida dhibaatooyinka dhirta:
+
+1. **Ogaanshaha Hore**  
+   Marka calaamadaha ugu horreeya ee dhibaatada dhirta la arko, ururi caddeyn si aad si sax ah u ogaato dhibaatada. Fahamka dhibaatooyinka waa muhiim si wax looga qabto. Dhibaatooyin badan oo dhirta ah, haddii la ogaado xilli hore, waxaa lagu xakameyn karaa hab aan sun ahayn.
+
+2. **Ka Fiirso Sunta Si Taxaddar Leh**  
+   Ka hor intaadan isticmaalin sunta systemic, gaar ahaan dhirta ay booqdaan pollinators-ka, ka fiirso faa’iidada iyo khasaaraha. Sunta systemic waxay ilaalisaa caleemaha dhirta laakiin waxay waxyeello u geysan kartaa balanbalada, shinnida, iyo cayayaanka kale ee faa’iidada leh marka ay u gudubto nectar iyo pollen.
+
+3. **Isticmaalka Saxda ah**  
+   Haddii sunta la isticmaalayo, raac tilmaamaha si taxaddar leh. Ku rid qiyaasta saxda ah, cimilada ku haboon, oo u isticmaal qeybta saxda ah ee dhirta. Ka fogow in la buufiyo dhirta ubaxaysa, meelaha lagu dhasho, iyo buufinta xilliyada qabow (tusaale, fiidkii ama habeenkii) markaas oo pollinators-ka aan firfircoonayn.
+
+---
+
+## Kheyraad
+
+- *Insects of the Pacific Northwest*, Peter iyo Judy Haggard
+- *Encouraging Beneficial Insects to Your Garden*, PNW 550  
+  [Halkan ka akhri hagaha](http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/38715/pnw550.pdf)
+- *Attracting Pollinators to Your Garden*, 10-Minute University™ Handout  
+  [Booqo halkan](https://www.cmastergardeners.org)
+- *Clark County Washington Presents Bugs and Pests*  
+  [Akhri wax badan halkan](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
+
+---
+
+#### Talada Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii warqado kale oo 10-Daqiiqo Jaamacad™ ah iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay ka mamnuucday takoorid dhammaan barnaamijyadeeda, adeegyadeeda, hawlaheeda, iyo agabyadeeda ku salaysan: midab, asal qaran, diin, jinsi, aqoonsi jinsiyeed (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaalada guurka, xaalada qoyska/waalidnimada, dakhli laga helo barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, heerka ciidanimada, aargudasho, ama ciqaab la xiriirta hawlo xuquuq madani ah oo hore. (Ma aha in dhammaan sababaha la mamnuucay ay khuseeyaan dhammaan barnaamijyada.)

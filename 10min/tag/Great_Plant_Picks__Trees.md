@@ -1,124 +1,66 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Mga Mahuhusay na Halaman: Mga Puno  
-S: Hardin na may lilim, D: Halamang matibay sa tagtuyot, Benepisyo sa Kalikasan: Mga Ibon, Bubuyog, Paruparo, Hummingbird  
+# Mahuhusay na Halamang Pipiliin: Mga Puno
 
-### Pangalan  
-#### S/D/W 10 Taon ng Paglaki Araw/Lilim Mga Natatanging Katangian  
+**S:** Hardin na May Lilim  
+**D:** Halamang Matibay sa Tagtuyot  
+**Benepisyo sa Kalikasan:** Mga Ibon, Bubuyog, Paruparo, Kolibri
 
-**Vine Maple**  
-*Acer circinatum*  
-S 15’ x 15’ 20’ x 20’ Buong araw hanggang  
-malalim na lilim  
-Katutubong puno sa PNW. Multi-stemmed tree na may kulay sa taglagas, mas patayo kapag nakatanim sa araw, mas bukas kapag nakatanim sa lilim.  
+## Listahan ng mga Halaman
 
-**Paperbark Maple**  
-*Acer griseum*  
-S 18’ x 15’ 30’ x 25’ Buong araw, bahagyang  
-hanggang malalim  
-na lilim  
-Mahusay na puno para sa maliliit na hardin, may kaakit-akit na baling balat buong taon at kulay ng dahon sa taglagas.  
+| Pangalan                            | S/D/W | 10-Taong Laki      | Araw/Lilim                        | Natatanging Katangian                                                                  |
+|--------------------------------------|-------|--------------------|------------------------------------|----------------------------------------------------------------------------------------|
+| **Vine Maple**                      | S     | 15’ x 15’          | Buong araw hanggang malalim na lilim | Katutubong PNW. Maraming sanga, makulay tuwing taglagas, tuwid sa araw, bukas sa lilim.|
+| **Paperbark Maple**                 | S     | 18’ x 15’          | Buong araw, bahagya hanggang malalim na lilim | Kaakit-akit na balat na natatanggal buong taon at kulay ng dahon tuwing taglagas.       |
+| **Three Flowered Maple**            | S     | 18’ x 15’          | Buong araw, bahagya hanggang malalim na lilim | Matibay na puno, kakaibang balat at kulay tuwing taglagas. Ligtas sa sakit/peste sa ugat.|
+| **Painted Maple**                   |       | 20’ x 18’          | Buong araw, bahagya hanggang malalim na lilim | Kayang tumagal sa lungsod, maganda ang kulay tuwing taglagas.                          |
+| **Boxleaf Azara**                   |       | 15’ x 6’           | Buong araw, bahagya hanggang patak-patak na lilim | Laging berde ang dahon, bulaklak na amoy banilya tuwing huling bahagi ng taglamig.      |
+| **White Bark River Birch**          | S     | 30’ x 20’          | Buong araw, bahagyang lilim         | Kaakit-akit ang balat buong taon, hindi tinatablan ng birch borer.                      |
+| **Columnar Hornbeam**               |       | 25’ x 6’           | Buong araw hanggang malalim na lilim | Payat at matuwid na anyo, mahaba ang buhay kahit sa mahirap na lugar.                   |
+| **Golden Catalpa**                  |       | 15’ x 20’          | Buong araw, bahagya hanggang bukas na lilim | Dramatic na gintong dahon tuwing tagsibol.                                             |
+| **Cornelian Cherry Dogwood**        | S, W  | 15’ x 15’          | Buong araw, bahagya hanggang bukas na lilim | Dilaw na bulaklak tuwing taglamig, nakakain na bunga tuwing tag-init, pulang-lila na dahon tuwing taglagas.|
+| **Purple Leaf Contorted Filbert**   | D     | 6’ x 5’            | Buong araw, bahagyang lilim         | Mala-ubeng dahon, baluktot na anyo, hindi tinatamaan ng filbert blight.                |
+| **Turkish Filbert**                 |       | 25’ x 20’          | Buong araw                         | Hugis piramide, makukulay na dahon, panlaban sa filbert blight, kagiliw-giliw tuwing taglamig.|
+| **Lavallei Hawthorn**               | W     | 15’ x 15’          | Buong araw, bahagya hanggang bukas na lilim | Matibay sa lungsod, kahel-pulang bunga na tumatagal hanggang taglamig.                 |
+| **Maidenhair Tree**                 |       | 15’ x 6’           | Buong araw                         | Sinaunang puno, may tabas-tabas na dahon, matingkad na dilaw tuwing taglagas.          |
+| **Gold Spire Ginkgo**               |       | 20’ x 6’           | Buong araw, bahagya hanggang bukas na lilim | Matangkad, makitid, kakaibang tabas ng dahon, bagay sa masikip na lugar.               |
+| **Princeton Sentry Ginkgo**         |       | 20’ x 12’          | Buong araw, bahagya hanggang bukas na lilim | Matingkad na berdeng dahon, matingkad na dilaw tuwing taglagas.                        |
+| **Saratoga Ginkgo**                 |       | 12’ x 5’           | Buong araw, bahagya hanggang bukas na lilim | Lalaki, walang kalat na bunga, maganda ang kulay tuwing taglagas.                      |
+| **Presidential Gold Ginkgo**        | D     | 20’ x 15’          | Buong araw, bahagya hanggang bukas na lilim | Malapad at oval, matingkad na berdeng dahon na nagiging ginto tuwing taglagas, matibay sa lungsod.|
+| **Golden Raintree**                 |       | 18’ x 15’          | Buong araw                         | Matingkad na dilaw na bulaklak tuwing tag-init, mapula-pulang bunga, matibay sa lungsod.|
+| **Golden Raintree 'Coral Sun'**     |       | 15’ x 12’          | Buong araw hanggang bahagyang lilim | Koral-rosas na dahon tuwing tagsibol, kakaibang tangkay.                               |
+| **Flowering Crabapple**             | W     | 12’ x 8’           | Buong araw                         | Pulang-pula na usbong na nagiging puting bulaklak, masaganang namumulaklak.            |
+| **Dwarf Sargeant’s Crabapple**      | W     | 4’ x 5’            | Buong araw                         | Napakaliit, matingkad na pulang bunga, bagay sa maliliit na hardin o paso.             |
+| **Cutleaf Crabapple**               |       | 12’ x 14’          | Buong araw                         | Hindi madaling magkasakit, kumikislap na puting bulaklak, gintong bunga pagkayelo.     |
+| **Persian Ironwood**                | D     | 18’ x 15’          | Buong araw, bahagya hanggang patak-patak na lilim | Natatanging dahon, sanga, at balat. Matingkad na kulay tuwing taglagas.                |
+| **Persian Ironwood 'Vanessa'**      | D     | 18’ x 8’           | Buong araw, bahagya hanggang patak-patak na lilim | Pulang bulaklak sa huling taglamig, napakagandang kulay ng dahon tuwing taglagas.      |
+| **Red Oak**                         | W     | 25’ x 20’          | Buong araw, bahagya hanggang bukas na lilim | Matikas na puno, madilim na berdeng dahon na nagiging pula tuwing taglagas.            |
+| **Golden Locust**                   |       | 25’ x 15’          | Buong araw, bahagya hanggang bukas na lilim | Dahon na kulay lemon, mabangong puting bulaklak tuwing huling tagsibol.                |
+| **Wheel Tree**                      |       | 8’ x 6’            | Buong araw hanggang bahagyang lilim | Malapad na laging berdeng puno na may pahalang na sanga.                               |
+| **Japanese Zelkova**                | D     | 30’ x 30’          | Buong araw                         | Hugis plorera, kaakit-akit at matibay sa lungsod.                                     |
+| **Japanese Zelkova 'Green Vase'**   |       | 30’ x 20’          | Buong araw                         | Hugis plorera, mabilis lumaki, maganda ang anyo tuwing taglamig.                      |
+| **Japanese Zelkova 'Village Green'**|       | 25’ x 25’          | Buong araw                         | Mataas ang tolerance sa hangin, polusyon, tagtuyot, at siksik na lupa.                 |
 
-**Three Flowered Maple**  
-*Acer trifolium*  
-S 18’ x 15’ 30’ x 25’ Buong araw, bahagyang  
-hanggang malalim  
-na lilim  
-Kaakit-akit at matibay na may kawili-wiling balat at kulay ng dahon sa taglagas. Matibay, lumalaban sa sakit at peste, walang agresibong ugat.  
+---
 
-**Painted Maple**  
-*Acer ‘Warrenred’ PACIFIC SUNSET*  
-20’ x 18’ 30’ x 25’ Buong araw, bahagyang  
-hanggang malalim  
-na lilim  
-Mahusay na puno na panggitna ang laki na kaya ang mahirap na kondisyon ng lungsod at nag-aalok ng magagandang kulay sa taglagas.  
+## Tungkol sa Mahuhusay na Halamang Pipiliin
 
-**Boxleaf Azara**  
-*Azara microphylla*  
-15’ x 6’ 25’ x 12’ Buong araw, bahagyang  
-hanggang dappled  
-na lilim  
-Kahanga-hangang maliit na puno na may laging berde na dahon. Ang mga bulaklak sa huling taglamig ay may amoy na vanilla. Perpekto para sa pagtatanim sa ilalim ng limbed-up conifers.  
+Ang Great Plant Picks (GPP) ay pangunahing programang pang-edukasyon ng Elisabeth C. Miller Botanical Garden. Noong 2001, inilabas ang unang listahan na may mga rekomendasyon para makabuo ng komprehensibong pagpipilian ng mahuhusay na halaman para sa maritime Pacific Northwest. Sa ngayon, mahigit 1,000 natatanging halaman ang napili para sa mga hardinero na nakatira sa kanluran ng Cascade Mountains mula Eugene, Oregon, USA hanggang Vancouver, British Columbia, Canada.
 
-**White Bark River Birch**  
-*Betula nigra ‘Cully’ Heritage*  
-S 30’ x 20’ 60’ x 30’ Buong araw, bahagyang  
-lilim  
-Kaakit-akit na balat buong taon, lalo na sa taglamig. Lumalaban sa birch borer.  
+### Pamantayan sa Pagpili
 
-**Columnar Hornbeam**  
-*Carpinus betulus ‘Frans Fontaine’*  
-25’ x 6’ 50’ x 20’ Buong araw  
-hanggang bahagyang  
-hanggang malalim  
-na lilim  
-Ang pinakamahusay na seleksyon ng European hornbeam para magamit bilang puno sa kalsada. Nananatili ang makinis, haliging anyo nito hanggang sa maturity. Matagal ang buhay kahit sa mahirap na mga lugar.  
+Ang mga halaman ng GPP na napili para sa listahang ito ay tumutugon sa sumusunod na pamantayan:
 
-**Golden Catalpa**  
-*Catalpa bignonioides ‘Aurea’*  
-15’ x 20’ 20’ x 30’ Buong araw, bahagyang  
-hanggang bukas  
-na lilim  
-Sa kalagitnaan hanggang huling bahagi ng tagsibol, sumasabog ang malalaking hugis-pusong, gintong dahon mula sa bukas na balangkas ng mga sanga, lumilikha ng isa sa mga pinaka-dramatikong display ng dahon na posible.  
+- Kayang mabuhay sa iba’t ibang uri ng lupa.
+- Nangangailangan ng katamtaman o mas kaunting dagdag na tubig.
+- Kayang magtiis ng init.
+- Matibay sa lamig sa USDA zone 7.
+- Hindi madaling kapitan ng sakit o peste.
+- Nagbibigay ng higit sa isang panahon ng kagandahan sa hardin.
 
-**Cornelian Cherry Dogwood**  
-*Cornus mas*  
-S, W 15’ x 15’ 20’ x 20’ Buong araw, bahagyang  
-hanggang bukas  
-na lilim  
-Maliit na puno na may magaganda, dilaw na bulaklak sa taglamig, nakakain na prutas sa huling tag-init, at purple-red na dahon sa taglagas.  
+Marami ring halaman sa GPP ang nagbibigay ng benepisyo sa kalikasan, tulad ng pagsuporta sa mga polinator, pagbibigay ng pagkain sa ibon, at tirahan ng mga hayop.
 
-**Purple Leaf Contorted Filbert**  
-*Corylus avellana ‘Red Dragon’*  
-D 6’ x 5’ 8’ x 7’ Buong araw, bahagyang  
-lilim  
-Dekorasyon na catkins sa huling taglamig, madilim na purple-red na dahon sa tag-init, at baluktot na anyo sa taglagas at taglamig. Lumalaban sa filbert blight.  
+---
 
-**Turkish Filbert**  
-*Corylus colurna*  
-25’ x 20’ 40’ x 30’ Buong araw  
-Mahusay na puno para sa kondisyon ng lungsod at tuyong lugar. Pinahahalagahan para sa hugis pyramid nito, makulay na dahon, at interes ng catkins sa taglamig. Lumalaban sa filbert blight.  
-
-**Lavallei Hawthorn**  
-*Crataegus x lavallei*  
-W 15’ x 15’ 25’ x 25’ Buong araw, bahagyang  
-hanggang bukas  
-na lilim  
-Matibay na puno sa lungsod na may masaganang berdeng dahon na tumatagal hanggang taglamig. Mga puting bulaklak sa tagsibol, nagiging orange-red na prutas na nananatili sa buong taglamig.  
-
-**Maidenhair Tree**  
-*Ginkgo biloba ’Autumn Gold’*  
-15’ x 6’ 60’ x 30’ Buong araw  
-Ang Ginkgo ay nag-evolve mahigit 200 milyong taon na ang nakalipas. Ang hugis ng dahon ng Ginkgo, na may scalloped na panlabas na gilid, ay katulad ng mga maidenhair ferns, kaya tinawag itong pangkaraniwang pangalan.  
-
-**Gold Spire Ginkgo**  
-*Ginkgo biloba ‘Blagon’ GOLD SPIRE*  
-20’ x 6’ 30’ x 8’ Buong araw, bahagyang  
-hanggang bukas  
-na lilim  
-Isang pinnacle ng kagandahan para sa makitid o mas maliit na lugar. Mula sa matangkad, makitid na anyo hanggang sa natatanging mga dahon na may scalloped na panlabas na gilid, ang natatanging cultivar na ito ay mahusay na pagpipilian.  
-
-**Princeton Sentry Ginkgo**  
-*Ginkgo biloba ‘PNI2720’ PRINCETON SENTRY*  
-20’ x 12’ 60’ x 25’ Buong araw, bahagyang  
-hanggang bukas  
-na lilim  
-Natatanging maliwanag na berdeng, squatty na mga dahon ay scalloped sa gilid. Sa taglagas, ang dahon ay kumikinang ng maliwanag na dilaw bago bumagsak sa lupa.  
-
-**Saratoga Ginkgo**  
-*Ginkgo biloba ‘Saratoga’*  
-12’ x 5’ 45’ x 25’ Buong araw, bahagyang  
-hanggang bukas  
-na lilim  
-Isang male clone na nangangahulugang walang magulong prutas. Natural na magandang anyo na nangangailangan ng kaunti o walang pruning. Magandang kulay sa taglagas.  
-
-**Presidential Gold Ginkgo**  
-*Ginkgo biloba ‘The President’ PRESIDENTIAL GOLD*  
-D 20’ x 15’ 50’ x 40’ Buong araw, bahagyang  
-hanggang bukas  
-na lilim  
-Malawak na oval na hugis, at makapal ang mga sanga, ang superior cultivar na ito ay lumilikha ng magandang puno na nagbibigay-lilim. Ang natatanging mga dahon ay maliwanag na berde na may scalloped na panlabas na gilid at nagiging ginto sa taglagas. Kayang tiisin ang kondisyon ng lungsod.  
-
-Mahaba pa ang listahan ng mga puno, ngunit nagtatapos dito ang sipi.
+#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, estado ng pamilya/magulang, kita mula sa programang pampublikong tulong, paniniwalang pampulitika, impormasyon sa henetika, katayuang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

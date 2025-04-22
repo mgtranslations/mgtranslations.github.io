@@ -1,68 +1,85 @@
-# 10-Minute University™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des  
-OSU Extension Master Gardener™ Programms  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Schärfen von Gartengeräten  
+# Schärfen von Gartengeräten
 
-### Einführung  
-Gartengeräte funktionieren am besten, wenn sie scharf sind. Handschneidwerkzeuge wie Baumscheren, Astscheren und Heckenscheren bestehen aus weichem Stahl und können mit einer Feile oder einem Schleifstein geschärft werden. Schaufeln bestehen aus hartem Stahl und erfordern eine Feile zum Schärfen.  
+### Einführung
 
-Es ist nicht notwendig, das Werkzeug jedes Mal auseinanderzunehmen, wenn Sie es schärfen. Es ist jedoch eine gute Idee, jedes Werkzeug zu Beginn, in der Mitte und am Ende Ihrer Schnittsaison zu zerlegen, zu reinigen, zu schärfen und neu einzustellen. Unabhängig davon, ob Sie das Werkzeug zerlegen oder einfach nur schärfen, sichern Sie das Werkzeug fest. Wenn sich die Klinge während des Schärfens bewegt, kann dies zu schweren Verletzungen führen.  
+Gartengeräte funktionieren am besten, wenn sie scharf sind. Handwerkzeuge wie Astscheren, Baumscheren und Heckenscheren bestehen aus weichem Stahl und können mit einer Feile oder einem Schleifstein geschärft werden. Schaufeln bestehen aus hartem Stahl und benötigen eine Feile zum Schärfen.
 
-### Werkzeuge  
-- 6” glatte Feile* (für kleinere Klingen, z. B. Handscheren), flach auf einer Seite, gebogen auf der anderen  
-- 8” bis 10” Flachfeile* (für größere Klingen, z. B. Schaufeln, Astscheren), flach auf einer Seite, gebogen auf der anderen  
-- Diamant- oder Keramikschleifstein (optional – für härteren Stahl in hochwertigen Scheren)  
-- Feilenbürste (zum Reinigen der Feilen)  
-- Leichtes Maschinenöl (z. B. 3-in-1 Öl) zum Schmieren von Gelenken und zum Schutz von Metalloberflächen vor Rost  
-- Werkstatttücher (mindestens 2 trockene, 1 öliges)  
-- Drahtbürste und Schleifpapier mit 400 bis 600 Körnung (zum Entfernen von Rost)  
-- Tischschraubstock zum Fixieren des Werkzeugs  
+Es ist nicht notwendig, das Werkzeug jedes Mal auseinanderzunehmen, wenn Sie es schärfen. Es ist jedoch eine gute Idee, jedes Werkzeug zu Beginn, in der Mitte und am Ende der Schnittsaison auseinanderzunehmen, zu reinigen, zu schärfen und neu einzustellen. Egal, ob Sie das Werkzeug zerlegen oder einfach nur schärfen, klemmen Sie es sicher fest. Wenn sich die Klinge während des Schärfens bewegt, kann es zu schweren Verletzungen kommen.
 
-*Wenn Ihre Feile eine freiliegende Spitze hat (einen spitzen Endbereich, den Sie während des Gebrauchs halten), kaufen Sie auch einen Griff für die Feile. BENUTZEN SIE NIEMALS eine Feile mit freiliegender Spitze – schwere Verletzungen können die Folge sein. Einige Feilen haben stattdessen einen breiten Griff. Für diese Feilen sind keine zusätzlichen Griffe erforderlich.  
+### Werkzeuge
 
-### Anleitung zum Schärfen  
+- **15 cm glatte Feile** (für kleinere Klingen, z. B. Handscheren), eine Seite flach, die andere gewölbt
+- **20 bis 25 cm Schruppfeile** (für größere Klingen, z. B. Schaufeln, Astscheren), eine Seite flach, die andere gewölbt
+- **Diamant- oder Keramikschleifstein** (optional – für härteren Stahl bei hochwertigen Scheren)
+- **Feilenbürste** (zum Reinigen der Feilen)
+- **Leichtes Maschinenöl** (z. B. 3-in-1 Öl) zum Schmieren der Gelenke und zum Schutz der Metallflächen vor Rost
+- **Werkstattlappen** (mindestens 2 trockene, 1 öliger)
+- **Drahtbürste und Schleifpapier mit 400 bis 600 Körnung** (zum Entfernen von Rost)
+- **Schraubstock** zum sicheren Fixieren des Werkzeugs
 
-#### 1. Bestimmen Sie, welche Oberfläche geschärft werden muss.  
-| Werkzeug         | Anzahl der zu schärfenden Klingen | Seiten der Klinge, die geschärft werden müssen |  
-|------------------|-----------------------------------|-----------------------------------------------|  
-| Handschere       | Eine                            | Eine                                          |  
-| Astschere        | Eine                            | Eine                                          |  
-| Grasschere       | Eine                            | Beide                                         |  
-| Schaufel         | Eine                            | Eine                                          |  
-| Hacke            | Eine                            | Eine                                          |  
-| Spitzhacke, Axt  | Eine                            | Beide                                         |  
-| Heugabel         | Viele                           | Jede Zinke bis zu einer stumpfen Spitze       |  
+> **Hinweis:** Wenn Ihre Feile einen offenen Dorn (ein spitzes Ende zum Halten) hat, kaufen Sie bitte einen Griff für die Feile. **NIEMALS** eine Feile mit offenem Dorn benutzen – schwere Verletzungen können die Folge sein. Einige Feilen haben statt eines Dorns einen breiten Griff. Für diese Feilen ist ein zusätzlicher Griff nicht nötig.
 
-#### 2. Reinigen Sie die Werkzeuge  
-Entfernen Sie Erde und Harz von der Oberfläche jedes Werkzeugs, richten Sie die Zinken von Gabeln neu aus und überprüfen Sie die Feilen auf Materialreste zwischen den Zähnen. Falls vorhanden, reinigen Sie die Feile mit der Feilenbürste, indem Sie diese entlang der Feile in Richtung der Zähne wischen. Bei einer Kreuzhiebfeile arbeiten Sie die Feilenbürste entlang jeder Schräge. VERWENDEN SIE KEIN Wasser oder Seife für eine Feile.  
+### So schärfen Sie Ihre Werkzeuge
 
-#### 3. Befestigen Sie das Werkzeug in einem Schraubstock  
-Setzen Sie Ihr Werkzeug in den Schraubstock auf den flachsten Teil der Klingenbasis. Wenn Sie den Schraubstock an der falschen Stelle festziehen, können Sie Ihr Schneidwerkzeug verbiegen.  
+#### 1. Bestimmen Sie die zu schärfende Oberfläche
 
-#### 4. Stellen Sie den Schärfwinkel ein  
-Ein Schärfwinkel von 20° bis 25° ist wünschenswert. Wie bestimmen Sie diesen? Halten Sie Ihre Feile senkrecht zur Klinge. Das ergibt einen 90-Grad-Winkel. Drehen Sie die Feile nun halb so weit nach unten zur Klinge hin. Das ergibt 45 Grad. Drehen Sie sie erneut halb so weit. Das ergibt etwa 22,5 Grad – der ideale Winkel, um mit dem Schärfen zu beginnen.  
+| Werkzeug                | Anzahl der zu schärfenden Klingen | Seiten der Klinge, die geschärft werden sollen        |
+|-------------------------|-----------------------------------|-------------------------------------------------------|
+| Handschere              | Eine                              | Eine                                                  |
+| Astschere               | Eine                              | Eine                                                  |
+| Grasschere              | Eine                              | Beide                                                 |
+| Schaufel                | Eine                              | Eine                                                  |
+| Hacke                   | Eine                              | Eine                                                  |
+| Pickel, Mattock, Axt    | Eine                              | Beide                                                 |
+| Heugabel                | Viele                             | Jede Zinke stumpf zuspitzen                           |
 
-#### 5. Beginnen Sie mit dem Schärfen  
-Jeder Feilenstrich sollte parallel zur Klinge verlaufen und über die gesamte Länge der Klinge gehen. Üben Sie gleichmäßigen Druck vom Ende bis zur Basis aus, und zwar nur beim Vorwärtshub. Während Sie feilen, wird die Klinge glänzend. Dies ist die Fase. Wenn Sie die Feile korrekt halten, sollte dieser glänzende Bereich entlang der gesamten Klinge gleichmäßig breit sein. Während die Kante schärfer wird, bilden sich Grate auf der Rückseite der Klinge. Um diese zu entfernen, halten Sie die Feile flach gegen die Klinge und streichen Sie sie in Richtung der Spitze.  
+#### 2. Werkzeuge reinigen
 
-Wenn Astscheren falsch eingestellt sind, werden Sie glänzendes Metall an der Basis der Ambossklinge bemerken, was darauf hinweist, dass die Schneidklinge zu fest gegen den Amboss schneidet oder sogar in ihn eindringt. Stellen Sie die Klingen sofort neu ein.  
+Entfernen Sie Erde und Harz, um die Oberfläche jedes Werkzeugs zu reinigen, richten Sie die Zinken von Gabeln gerade und prüfen Sie die Feile(n) auf Materialreste zwischen den Zähnen. Wenn Sie etwas finden, reinigen Sie die Feile mit der Feilenbürste, indem Sie diese entlang der Zähne führen. Bei einer doppelt geschnittenen Feile arbeiten Sie die Feilenbürste entlang jeder Schneidrichtung. **KEIN** Wasser oder Seife an der Feile verwenden.
 
-#### 6. Abschließende Schritte  
-Für Klingen aus hartem Metall verwenden Sie als letzten Schritt einen mittleren Karborund-Schleifstein. Wenn Sie Felco-, ARS- oder andere Klingen aus hartem Stahl haben, können Sie sie auch mit einem feinen Diamant- oder einem ultrafeinen Keramikschleifstein fertig schärfen. Dieser Schritt erfordert nur ein oder zwei Durchgänge.  
+#### 3. Werkzeug im Schraubstock sichern
 
-### Vorsichtsmaßnahmen  
-- Schützen Sie Ihre Augen während des Schärfens mit einer Schutzbrille.  
-- Wenn Sie eine Hickok-Astschere haben, empfiehlt der Hersteller die Verwendung eines mittleren oder feinen Karborund-Schleifsteins, Diamant- oder Keramiksteins. Jede hohlgeschliffene Klinge sollte mit einem dieser Werkzeuge und nicht mit einer Feile geschärft werden.  
-- Dreieckige Keramiksteine sind hervorragend geeignet, um die Klingen von hochwertigen Handscheren aus besserem Stahl wie Felco oder ARS nachzuschärfen, wenn Sie das Werkzeug nicht auseinandernehmen können.  
+Legen Sie Ihr Werkzeug mit dem flachsten Teil des Klingenansatzes in den Schraubstock. Wenn Sie an der falschen Stelle festziehen, können Sie das Schneidwerkzeug verbiegen.
 
-### OSU Extension Publikationen  
-- Praktische Werkzeuge für den Gemüsegärtner: [https://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener](https://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)  
-- Pflege von hart arbeitenden Gartengeräten: [http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)  
-- Schärfen Ihrer Gartengeräte: [http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)  
+#### 4. Schärfwinkel einstellen
 
-### Master Gardener™ Ratschläge  
-- Rufen Sie die Hotline für Gartenbau an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County) oder 503-445-4608 (Multnomah County).  
-- Für 10-Minute University™ Handouts und Stundenplan besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+Ein Schärfwinkel von 20° bis 25° ist ideal. So bestimmen Sie diesen:
 
-Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/elterlichem Status, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+- Halten Sie Ihre Feile quer zur Klinge, sodass sie einen 90-Grad-Winkel bildet.
+- Drehen Sie die Feile halb nach unten zur Klinge. Das ergibt einen 45-Grad-Winkel.
+- Drehen Sie sie nochmals halb. Das ergibt etwa einen 22,5-Grad-Winkel, der ideal zum Schärfen ist.
+
+#### 5. Schärfen beginnen
+
+- Jede Feilenbewegung sollte parallel zur Klinge verlaufen und die gesamte Klingenlänge abdecken.
+- Üben Sie gleichmäßigen Druck von der Spitze bis zur Basis aus, und nur beim Vorwärtshub.
+- Während Sie feilen, wird die Klinge glänzend. Das ist die Fase. Wenn Sie die Feile richtig halten, sollte dieser glänzende Bereich entlang der ganzen Klinge gleich breit sein.
+- Beim Schärfen entstehen auf der Rückseite der Klinge Grate. Um diese zu entfernen, halten Sie die Feile flach an die Klinge und führen Sie sie in Richtung Spitze.
+
+> **Hinweis:** Bei falsch eingestellten Astscheren sehen Sie glänzendes Metall an der Basis der Ambossklinge. Das bedeutet, dass die Schneidklinge zu fest gegen oder sogar in den Amboss schneidet. Stellen Sie die Klingen sofort neu ein.
+
+#### 6. Feinschliff
+
+Für harte Metallklingen verwenden Sie zum Schluss einen mittleren Schleifstein aus Karborund (Silikonkarbid). Bei Felco-, ARS- oder anderen harten Stahlklingen können Sie sie auch mit einem feinen Diamant- oder ultrafeinen Keramikschleifstein fertig schärfen. Dieser Schritt benötigt nur ein oder zwei Striche.
+
+### Vorsichtsmaßnahmen
+
+- Schützen Sie Ihre Augen beim Schärfen mit einer Schutzbrille.
+- Bei Hickok Astscheren empfiehlt der Hersteller einen mittleren oder feinen Schleifstein aus Karborund, Diamant oder Keramik. Jede Hohlschliff-Klinge sollte mit einem dieser Werkzeuge und nicht mit einer Feile geschärft werden.
+- Dreieckige Keramiksteine sind hervorragend, um die Klingen von hochwertigen Handscheren wie Felco und ARS aufzufrischen, wenn Sie das Werkzeug nicht auseinandernehmen können.
+
+### Weitere Ressourcen
+
+- [OSU Extension Veröffentlichungen](https://catalog.extension.oregonstate.edu)
+- [Praktische Werkzeuge für den Gemüsegarten](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
+- [Pflegen Sie Ihre fleißigen Gartengeräte gut](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
+- [Gartengeräte schärfen](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Der Oregon State University Extension Service untersagt Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

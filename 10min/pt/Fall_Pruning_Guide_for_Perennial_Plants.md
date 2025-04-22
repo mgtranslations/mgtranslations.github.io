@@ -1,90 +1,92 @@
-10/9/2018 1 Preparado por Laura Eyer
+#### Guia de Poda de Outono para Plantas Perenes · Preparado por Laura Eyer · 09/10/2018
 
-Guia de Poda de Outono para Plantas Perenes
+## Podar
 
-**Podar**  
-Íris Barbuda  
-Bálsamo de Abelhas (Monarda didyma)  
-Lírio Amora (Belamcanda chinensis)  
-Flor Cobertor (Gaillardia x grandiflora)  
-Funcho Bronze (Foeniculum vulgare ‘Purpureum’)  
-Erva-dos-Gatos (Nepeta)  
-Columbina (Aquilegia)  
-Corydalis (Corydalis lutea)  
-Crocosmia  
-Lírio-do-Dia (Hemerocallis)  
-Margarida Dourada (Anthemis tinctoria)  
-Estrela Dourada (Chrysogonum virginianum)  
-Clemátide Rasteira (Clematis recta)  
-Begônia Resistente (Begonia grandis)  
-Helianthus (variedades perenes) H. x laetiflorus, H. salicifolium...)  
-Malva Real (Malva alcea)  
-Anêmona Japonesa (Anemone x hybrida)  
-Ligularia (Ligularia dentate)  
-Campainha-de-Folha-de-Lírio (Adenophora lilifolia)  
-Astrância (Astrantia major)  
-Ruda do Prado (Thalictrum aquilegiifolium)  
-Centáurea das Montanhas (Centaurea montana)  
-Margarida Pintada (Tanacetum coccineum)  
-Penstemon (Penstemon barbatus)  
-Peônia (Paeonia)  
-Girassol Perenne (Helianthus)  
-Floxo (Phlox paniculata)  
-Papoula Pluma (Macleaya cordata)  
-Rainha-das-Pradarias, Rainha-dos-Prados (Filipendula rubra, F. ulmaria)  
-Bugloss Siberiano (Brunnera macrophylla)  
-Sálvia (Salvia nemorosa)  
-Helenium (Helenium autumnale)  
-Selo-de-Salomão (Polygonatum odoratum)  
-Verônica/Espigão (Veronica spicata)  
-Índigo Falso ou Selvagem (Baptisia australis)  
-Mil-folhas (Achillea)
+- Íris-barbada
+- Monarda (*Monarda didyma*)
+- Lírio-amora (*Belamcanda chinensis*)
+- Flor-manta (*Gaillardia x grandiflora*)
+- Funcho bronzeado (*Foeniculum vulgare ‘Purpureum’*)
+- Catnip (*Nepeta*)
+- Aquilégia (*Aquilegia*)
+- Corydalis (*Corydalis lutea*)
+- Crocosmia
+- Lírio-do-dia (*Hemerocallis*)
+- Margarida dourada (*Anthemis tinctoria*)
+- Estrela-dourada (*Chrysogonum virginianum*)
+- Clemátide rasteira (*Clematis recta*)
+- Begônia resistente (*Begonia grandis*)
+- Helianthus (Variedades perenes: *H. x laetiflorus*, *H. salicifolium*, etc.)
+- Malva-rosa (*Malva alcea*)
+- Anêmona japonesa (*Anemone x hybrida*)
+- Ligulária (*Ligularia dentate*)
+- Sinos-de-dama (*Adenophora lilifolia*)
+- Astrância (*Astrantia major*)
+- Arruda-do-campo (*Thalictrum aquilegiifolium*)
+- Centáurea montana (*Centaurea montana*)
+- Margarida pintada (*Tanacetum coccineum*)
+- Penstemon (*Penstemon barbatus*)
+- Peônia (*Paeonia*)
+- Girassol perene (*Helianthus*)
+- Phlox (*Phlox paniculata*)
+- Papoula-pluma (*Macleaya cordata*)
+- Rainha-dos-prados, rainha-dos-campos (*Filipendula rubra*, *F. ulmaria*)
+- Brunnera da Sibéria (*Brunnera macrophylla*)
+- Sálvia (*Salvia nemorosa*)
+- Helenium (*Helenium autumnale*)
+- Selo-de-Salomão (*Polygonatum odoratum*)
+- Verônica/Espigão-verônica (*Veronica spicata*)
+- Falso-índigo (*Baptisia australis*)
+- Mil-folhas (*Achillea*)
 
-**Deixar em Pé**  
-Artemísia  
-Áster  
+---
 
-10/9/2018 2 Preparado por Laura Eyer
+## Deixar em Pé
 
-Astilbe  
-Flor Balão (Platycodon grandiflorus)  
-Cesta-de-Ouro (Aurinia saxatilis)  
-Patas de Urso (Acanthus spinosus)  
-Bergenia (Bergenia cordifolia)  
-Susan-de-Olhos-Pretos (Rudbeckia fulgida)  
-Arbusto Névoa Azul (Caryopteris sp.)  
-Arbusto das Borboletas (Buddleia davidii)  
-Erva das Borboletas (Asclepias tuberosa)  
-Campânula  
-Flor Cardeal (Lobelia cardinalis)  
-Sinos de Coral (Heuchera sp.)  
-Eufórbia Almofada (Euphorbia polychroma)  
-Delphinium  
-Cravo (Dianthus)  
-Flor Espuma (Tiarella cordifolia)  
-Dedaleira (Digitalis purpurea)  
-Planta Gás (Dictamnus albus)  
-Pena de Galo (Liatris spicata)  
-Geum  
-Cardo Globo (Echinops ritro)  
-Vara-de-Ouro (Solidago)  
-Bugloss Italiano (Anchusa azurea)  
-Erva-de-João-Pio (Eupatorium maculatum)  
-Manto-da-Senhora (Alchemilla mollis)  
-Orelha-de-Cordeiro (Stachys byzantina)  
-Lavanda (Lavandula sp.)  
-Algodão-de-Lavanda (Santolina chamaecyparissus)  
-Lupino (Lupinus sp.)  
-Crisântemos (Chrysanthemum)  
-Flor Almofada (Scabiosa columbaria)  
-Coneflowers Roxas (Echinacea purpurea)  
-Tocha Vermelha (Kniphofia)  
-Sálvia Russa (Perovskia atriplicifolia)  
-Lavanda Marinha (Limonium latifolium)  
-Azevinho-do-Mar (Eryngium)  
-Sedum  
-Coreopsis (espécies de Coreopsis)  
-Cabeça-de-Tartaruga (Chelone lyonii)  
-Valeriana (Centranthus ruber)  
-Flor Varinha (Guara sp.)  
-Amsonia Salgueiro (Amsonia tabernaemontana)
+#### Preparado por Laura Eyer · 09/10/2018
+
+- Artemísia
+- Áster
+- Astilbe
+- Flor-balão (*Platycodon grandiflorus*)
+- Cesta-de-ouro (*Aurinia saxatilis*)
+- Acanto (*Acanthus spinosus*)
+- Bergenia (*Bergenia cordifolia*)
+- Rudbéquia (*Rudbeckia fulgida*)
+- Arbusto Névoa Azul (*Caryopteris sp.*)
+- Arbusto das borboletas (*Buddleia davidii*)
+- Asclépia (*Asclepias tuberosa*)
+- Campânula
+- Flor-cardeal (*Lobelia cardinalis*)
+- Heuchera (*Heuchera sp.*)
+- Euphorbia-amarela (*Euphorbia polychroma*)
+- Delfínio
+- Cravina (*Dianthus*)
+- Flor-espuma (*Tiarella cordifolia*)
+- Dedaleira (*Digitalis purpurea*)
+- Dictamnus (*Dictamnus albus*)
+- Penas-de-galinha (*Liatris spicata*)
+- Geum
+- Equinops (*Echinops ritro*)
+- Solidago (*Solidago*)
+- Anchusa (*Anchusa azurea*)
+- Eupatorium (*Eupatorium maculatum*)
+- Capa-de-dama (*Alchemilla mollis*)
+- Orelha-de-cordeiro (*Stachys byzantina*)
+- Lavanda (*Lavandula sp.*)
+- Algodão-lavanda (*Santolina chamaecyparissus*)
+- Lupino (*Lupinus sp.*)
+- Crisântemo (*Chrysanthemum*)
+- Flor-alfinete (*Scabiosa columbaria*)
+- Equinácea (*Echinacea purpurea*)
+- Tocha-vermelha (*Kniphofia*)
+- Sálvia-russa (*Perovskia atriplicifolia*)
+- Statice-do-mar (*Limonium latifolium*)
+- Cardo-marítimo (*Eryngium*)
+- Sedum
+- Coreopsis (*Coreopsis species*)
+- Cabeça-de-tartaruga (*Chelone lyonii*)
+- Valeriana (*Centranthus ruber*)
+- Flor-varinha (*Guara sp.*)
+- Amsonia-salgueiro (*Amsonia tabernaemontana*)
+---

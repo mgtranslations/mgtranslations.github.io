@@ -1,24 +1,80 @@
-10-Minute University™  
-La Asociación de Jardineros Maestros del Condado de Clackamas en colaboración y en apoyo del Programa Master Gardener™ de Extensión de la Universidad Estatal de Oregón (OSU)  
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión OSU
 
-### Manejo de los Tuza  
+# Control de Topos de Bolsillo
 
-#### Introducción  
-Los tuzas son roedores cavadores que pueden causar mucho daño a la vegetación, cables enterrados, diques y tuberías de riego de plástico. A diferencia de los topos, los tuzas se alimentan casi exclusivamente de material vegetal, tanto por debajo como ocasionalmente por encima del suelo.  
+### Introducción
 
-Existen seis especies de tuzas en el Pacífico Noroeste. La mayoría mide entre 5 y 6 ½ pulgadas de largo con una cola de 2 a 3 pulgadas. Su pelaje suele ser marrón o grisáceo, y los típicos dientes delanteros de roedor son fácilmente visibles. El nombre "tuza" proviene de las bolsas externas revestidas de pelo en las mejillas de cada lado de la boca, que se usan para transportar comida a áreas de almacenamiento.  
+Los topos de bolsillo son roedores que cavan túneles y pueden causar muchos daños a la vegetación, cables enterrados, diques y tuberías de riego de plástico. A diferencia de los topos comunes, los topos de bolsillo se alimentan casi exclusivamente de material vegetal que crece bajo tierra y, ocasionalmente, por encima del suelo.
 
-Los tuzas forman montículos al cavar túneles y empujar la tierra suelta hacia la superficie. Típicamente, los montículos tienen forma de media luna o herradura cuando se ven desde arriba. El agujero, que está a un lado del montículo, generalmente está tapado. En contraste, los montículos de los topos suelen ser más altos y con forma de volcán, sin un tapón visible.  
+Existen seis especies de topos de bolsillo en el Noroeste del Pacífico. La mayoría mide entre 13 y 16.5 centímetros de largo, con una cola de 5 a 8 centímetros. Su pelaje suele ser marrón o grisáceo, y los dientes delanteros típicos de los roedores son fáciles de ver. El nombre "topo de bolsillo" viene de las bolsas externas forradas de pelo a cada lado de la boca, que usan para transportar comida hacia sus áreas de almacenamiento.
 
-Los tuzas viven en un sistema de túneles que puede cubrir un área de 200 a 2,000 pies cuadrados. Los túneles tienen aproximadamente entre 2 ½ y 3 ½ pulgadas de diámetro. Los túneles de alimentación suelen estar entre 6 y 12 pulgadas por debajo del suelo, y la cámara de almacenamiento de alimentos y el nido pueden estar a una profundidad de hasta 6 pies. Los tuzas sellan las entradas al sistema de túneles con tapones de tierra. Túneles laterales cortos e inclinados conectan el sistema principal de túneles con la superficie; los tuzas crean estos túneles mientras empujan tierra hacia la superficie para construir el túnel principal.  
+Los topos de bolsillo forman montículos al cavar túneles y empujar la tierra suelta hacia la superficie. Típicamente, los montículos tienen forma de media luna o herradura vistos desde arriba. El agujero, que está a un lado del montículo, normalmente está tapado. En cambio, los montículos de los topos comunes suelen ser más altos, con forma de volcán y sin tapón visible.
+
+Los topos de bolsillo viven en sistemas de túneles que pueden cubrir áreas desde 18 hasta 185 metros cuadrados. Los túneles miden unos 6.5 a 9 centímetros de diámetro. Los túneles donde se alimentan suelen estar entre 15 y 30 centímetros bajo tierra, y la cámara del nido o almacén de comida puede estar hasta 1.8 metros de profundidad. Los topos sellan las entradas de sus túneles con tapones de tierra. Túneles laterales cortos y en pendiente conectan el sistema principal con la superficie; los topos los crean mientras empujan tierra hacia arriba para construir el túnel principal.
+
+### Opciones de Control
+
+Se puede controlar a los topos de bolsillo en cualquier época del año, pero el uso de trampas o cebos es más efectivo cuando aparecen nuevos montículos, generalmente en primavera y otoño. Tanto las trampas como los cebos tóxicos funcionan bien.
+
+#### Trampas
+
+- Hay varios tipos de trampas para topos de bolsillo disponibles y son fáciles de usar. Puedes colocarlas en el túnel lateral que lleva a un montículo, pero son más efectivas si se ponen en el túnel principal.
+- Localiza el túnel principal sondeando a unos 30 centímetros de un montículo. Para instrucciones detalladas sobre cómo encontrar un túnel, consulta *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands*, disponible gratis en línea en el [Catálogo de Extensión OSU](http://extension.oregonstate.edu/catalog).
+- Coloca dos trampas espalda con espalda en el túnel profundo y sujétalas al suelo. Cambia las trampas de lugar si no hay captura en 2 o 3 días.
+
+#### Uso de cebos
+
+- Coloca cebos tóxicos en los túneles principales siguiendo las instrucciones de la etiqueta. Ubica los túneles con una sonda y deposita el cebo por el agujero.
+- Otra opción es excavar el túnel con una palita y poner el cebo directamente.
+- Para mejores resultados, pon cebo en dos o tres lugares de cada sistema de túneles.
+- Revisa el área periódicamente durante 2 semanas después del tratamiento y desecha cualquier animal muerto que encuentres.
+- **Importante:** No seguir las instrucciones de la etiqueta puede causar daños a animales no objetivo, mascotas o niños. Usa cebos solo como último recurso.
+
+#### Fumigantes
+
+- Los fumigantes, a veces llamados “gopher gassers”, rara vez son efectivos a menos que el suelo esté saturado de agua o sea de arcilla densa.
+
+#### Exclusión
+
+- Puede justificarse poner cercas subterráneas para proteger arbustos ornamentales o árboles valiosos.
+- Para proteger plantas ya establecidas, entierra tela metálica o malla de gallinero de 1.9 centímetros de abertura al menos 60 centímetros de profundidad, con 15 centímetros adicionales doblados en ángulo de 90 grados alejados de las plantas.
+- **Nota:** Este método no es perfecto porque los topos persistentes pueden excavar más abajo de la malla; además, la malla puede limitar y dañar el crecimiento de las raíces de los árboles.
+- Protege áreas pequeñas, como camas de flores, cubriendo completamente los lados y fondos bajo tierra.
+- Al construir camas elevadas para hortalizas o flores, pon malla bajo la tierra para evitar que entren los topos.
+- Para proteger plantas individuales, instala canastas de malla, que puedes hacer en casa o comprar, al momento de plantar.
+- Usa malla liviana solo en arbustos y árboles jóvenes que necesiten protección. Deja suficiente espacio para el crecimiento de las raíces. La malla galvanizada ofrece la protección de mayor duración.
+- De 15 a 20 centímetros de grava gruesa de 2.5 centímetros de diámetro o más alrededor de tuberías de riego subterráneas o cables puede también disuadir a los topos.
+
+#### Controles Naturales
+
+- Depredadores como búhos, serpientes, gatos, perros y coyotes pueden reducir la población de topos, pero puede no ser suficiente.
+
+#### Inundación
+
+- Los topos de bolsillo pueden resistir el riego normal de jardines o paisajes, pero a veces las inundaciones los obligan a salir de sus túneles y los exponen a depredadores.
+
+#### Métodos Ineficaces
+
+- Muchos dispositivos prometen espantar a los topos de bolsillo, como estacas vibradoras, aparatos ultrasónicos y molinetes movidos por el viento. Sin embargo, estos roedores no se asustan fácilmente, probablemente porque están acostumbrados al ruido y vibraciones de aspersores, cortadoras de césped, vehículos y personas.
+- Otros métodos ineficaces incluyen poner chicle o laxantes en los túneles con la esperanza de matar a los topos.
+
+### Información Adicional
+
+Estos son solo algunos de los muchos recursos disponibles:
+
+- **Publicaciones de OSU** disponibles en línea en el [Catálogo de Extensión OSU](https://catalog.extension.oregonstate.edu/)
+  - *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands* (PNW 627E)
+  - *Sustainable Gardening* (EM8742)
+
+#### Consejos de Master Gardener™
+
+- **Llama a la línea de ayuda de horticultura:**
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+- Para folletos y el horario de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org).
 
 ---
 
-### Opciones para el Control  
-Los tuzas pueden controlarse en cualquier época del año, pero el control con trampas o cebos tóxicos es más efectivo cuando aparecen nuevos montículos, generalmente en primavera y otoño. Tanto las trampas como los cebos tóxicos son efectivos.  
-
-- **Trampas**  
-  Existen varios estilos de trampas para tuzas ampliamente disponibles y fáciles de usar. Puedes colocarlas en el túnel lateral que lleva a un montículo, pero son más efectivas si se colocan en el túnel principal. Localiza el túnel principal sondeando aproximadamente un pie lejos de un montículo. Para instrucciones detalladas sobre cómo localizar un túnel, consulta la publicación *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands*, disponible gratuitamente en línea en [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog). Coloca dos trampas espalda con espalda en el túnel profundo y fíjalas con estacas. Reubica las trampas si no atrapas nada en 2 o 3 días.  
-
-- **Cebos tóxicos**  
-  Otro método es el uso de cebos tóxicos. Coloca los cebos tóxicos en los túneles principales siguiendo las instrucciones de la etiqueta. Localiza los túneles con una sonda y coloca el cebo en el agujero de la sonda. Una alternativa es excavar el túnel con una pala pequeña y colocar el cebo directamente en el túnel. Para obtener mejores resultados, ceba cada sistema de túneles en dos o tres lugares. Revisa la zona periódicamente durante 2 semanas después del tratamiento y desecha cualquier cadáver que encuentres. No se
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, condición familiar o parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, condición de veterano, represalias o represalia por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---

@@ -1,61 +1,89 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des  
-OSU Extension Master Gardener™ Programms  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Anbau von Wintergemüse  
+# Wintergemüse anbauen
 
-### Vorteile des eigenen Anbaus  
-Mit der zunehmenden Beliebtheit von Nachhaltigkeit und Selbstversorgung wird auch das Gärtnern zu Hause immer populärer. Persönliche Zufriedenheit, Zugang zu verschiedenen Sorten und wirtschaftliche Überlegungen gehören ebenfalls zu den vielen Gründen, warum man eigenes Gemüse anbauen sollte.  
+### Vorteile des eigenen Anbaus
 
-### Was pflanzen?  
-Westlich der Cascade Mountains gibt es viele Gemüsesorten, die im Sommer gepflanzt werden können, um sie im Herbst oder Winter zu ernten. Einige können im Boden überwintern und im frühen Frühling geerntet werden:  
+Da Nachhaltigkeit und Selbstversorgung immer beliebter werden, steigt auch das Interesse am eigenen Garten. Persönliche Zufriedenheit, Zugang zu verschiedenen Sorten und wirtschaftliche Gründe sind nur einige der Vorteile, eigenes Gemüse anzubauen.
 
-- **Kohlgemüse** – Brokkoli, Rosenkohl, Kohl, Blumenkohl  
-- **Wurzelgemüse** – Rote Bete, Karotten, Kohlrabi, Radieschen, Steckrüben, Rüben  
-- **Blattgemüse** – Blattkohl, Grünkohl, Kopfsalat, Spinat, Mangold  
-- **Hülsenfrüchte** – Erbsen, Puffbohnen  
-- **Überwinternde Gemüse** – Brassica-Arten, Wurzelgemüse  
+### Was man pflanzen kann
 
-### Wann pflanzen?  
-Es ist wichtig, das Datum des ersten Frosts in Ihrer Region zu kennen. Konsultieren Sie Pflanzkalender mit Angaben, wann Samen und Setzlinge gepflanzt werden sollen. Die meisten Gemüsesorten sollten im Juli, August und September für die Ernte im Herbst, Winter und Frühling gepflanzt werden; Knoblauch und Schalotten werden im Oktober gepflanzt, um im folgenden Sommer geerntet zu werden.  
+Westlich der Cascades gibt es viele Gemüsesorten, die im Sommer gepflanzt werden können, um sie im Herbst oder Winter zu ernten. Manche können auch im Boden überwintern und liefern im frühen Frühling eine Ernte:
 
-### Wie pflanzen?  
+- **Kohlgemüse** – Brokkoli, Rosenkohl, Kohl, Blumenkohl
+- **Wurzelgemüse** – Rote Bete, Karotten, Kohlrabi, Radieschen, Steckrübe, Mairübe
+- **Blattgemüse** – Grünkohl, Palmkohl, Kopfsalat, Spinat, Mangold
+- **Hülsenfrüchte** – Erbsen, Ackerbohnen
+- **Überwinternde Gemüse** – Brassicas, Wurzelgemüse
 
-#### Saatgut und Setzlinge  
-Gemüse kann direkt aus Samen gesät oder aus Setzlingen gepflanzt werden. Verwenden Sie Pflanzen, die speziell für die Herbstpflanzung vorgesehen sind.  
+### Wann man pflanzen sollte
 
-#### Standort  
-Wählen Sie einen Standort, der sechs bis acht Stunden Sonnenlicht erhält. Nutzen Sie Strukturen wie nach Süden ausgerichtete Wände oder Zäune, die Wärme reflektieren und länger speichern. Hochbeete, die aus Holzstrukturen bestehen oder einfach durch Aufhäufen von Erde entstehen, erwärmen sich im Frühling früher und speichern die Wärme länger. Achten Sie darauf, dass der Standort vor starkem Wind geschützt ist und der Boden gut drainiert ist.  
+Es ist wichtig, das Datum des ersten Frosts in deiner Gegend zu kennen. Schau in Pflanzanleitungen nach, wann du Samen und Setzlinge pflanzen solltest.
 
-#### Bodenvorbereitung  
-Bereiten Sie den Boden vor, indem Sie Steine und Unkraut entfernen und den Boden nach Bedarf verbessern. Lehmböden können durch die Zugabe von organischem Material verbessert werden. Falls nötig, verwenden Sie einen stickstoffarmen Dünger, um das Wachstum von Wurzeln und Früchten zu fördern und nicht von Blättern. Verwenden Sie im Herbst keinen stickstoffreichen Dünger, da dieser späte Blattbildung anregen kann, die anfällig für Frostschäden ist. Stellen Sie sicher, dass Ihre Beete mindestens 15 bis 18 Zoll lockeren Boden haben, um ausreichend Platz für Wurzelwachstum und Wasserverteilung zu gewährleisten. Ist der trockene Boden zu hart zum Graben, versuchen Sie, ihn im Voraus einzuweichen.  
+- Die meisten Gemüse werden im Juli, August und September für Ernten im Herbst, Winter und Frühling gepflanzt.
+- Knoblauch und Schalotten werden im Oktober gepflanzt und im folgenden Sommer geerntet.
 
-### Pflege Ihrer jungen Pflanzen  
-Wenn es heiß und sonnig ist, brauchen junge Pflanzen besondere Pflege. Gießen Sie Setzlinge täglich. Möglicherweise müssen Samen und frisch gekeimte Keimlinge zweimal täglich besprüht werden, damit sie nicht austrocknen.  
+### Wie man pflanzt
 
-Um den Boden feucht zu halten und junge Pflanzen vor der Sonne zu schützen, beschatten Sie sie vorübergehend. Bretter und Regenschirme eignen sich gut als Schattenspender.  
+#### Herkunft
 
-Wenn die kalte Jahreszeit naht, mulchen Sie Ihre Pflanzen mit Laub oder Stroh. Reihenabdeckungen, Glashauben, Plastiktunnel und Frühbeetkästen eignen sich gut, um die Saison zu verlängern.  
+Gemüse kann direkt aus Samen gesät oder als vorgezogene Pflänzchen gesetzt werden. Verwende Pflanzen, die speziell für die Herbstpflanzung geeignet sind.
 
-### Ernte Ihres Herbst- und Wintergartens  
-Wurzelgemüse wie Rüben, Rote Bete und Karotten sind nach einem Frost süßer, da die Pflanze ihre Zucker konzentriert. Diese Kulturen können im Boden bleiben und den ganzen Winter über geerntet werden. Kopfsalat und andere Salatblätter wachsen bei kaltem Wetter langsamer, können aber mit etwas Schutz bis Temperaturen von 20 °F (-6 °C) widerstandsfähig sein.  
+#### Standort
 
-### Ressourcen des OSU Extension Service  
-Diese Publikationen finden Sie online unter [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu):  
+Wähle einen Platz, der sechs bis acht Stunden Sonnenlicht bekommt. Nutze Mauern oder Zäune mit Südausrichtung, die Wärme reflektieren und länger speichern. Hochbeete aus Holz oder aufgeschütteter Erde erwärmen sich im Frühling schneller und halten die Wärme länger.
 
-- Fall and Winter Vegetable Gardening in the Pacific Northwest PNW 548  
-- Constructing Coldframes and Hotbeds FS 246-E  
-- How to Build Your Own Raised-Bed Cloche EC 1627  
-- Grow Your Own EM 9027  
-- Grow Your Own Rhubarb EC 797  
-- Grow Your Own Tomatoes and Tomatillos EC 1333  
-- Storing Pumpkin and Winter Squash at Home EC 1632  
-- Improving Garden Soil with Organic Matter EC 1561  
-- Soil Fertility in Organic Systems PNW646  
+Stelle sicher, dass dein Standort vor starkem Wind geschützt ist und der Boden gut entwässert.
 
-### Master Gardener™-Beratung  
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County) oder 503-445-4608 (Multnomah County).  
-- Besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org) für 10-Minuten-Universität™-Handouts und Videos.  
-- Treffen Sie Master Gardeners auf lokalen Bauernmärkten.  
+#### Bodenvorbereitung
 
-Die Oregon State University Extension Service verbietet Diskriminierung in all ihren Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich des Ausdrucks), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Vergeltungsmaßnahmen für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+Bereite deinen Boden vor, indem du Steine und Unkraut entfernst und den Boden nach Bedarf verbesserst.
+
+- Verbessere schweren Lehmboden durch Zugabe von organischem Material.
+- Dünge mit einem stickstoffarmen Dünger, um das Wachstum von Wurzeln und Früchten zu fördern, nicht von Blättern. Vermeide im Herbst stickstoffreiche Dünger, da sie späten Blattwuchs anregen, der frostempfindlich ist.
+
+Deine Beete sollten mindestens 38 bis 45 cm lockere Erde haben, damit die Wurzeln genug Platz haben und das Wasser gut verteilt wird. Wenn dein trockener Boden zu hart ist, gieße ihn vorher gut ein.
+
+### Pflege deiner neuen Pflanzen
+
+Wenn es beim Pflanzen heiß und sonnig ist, brauchen junge Pflanzen besondere Aufmerksamkeit:
+
+- Gieße Setzlinge täglich.
+- Befeuchte Samen und frisch gekeimte Pflänzchen zwei Mal am Tag, damit sie nicht austrocknen.
+- Schatte junge Pflanzen vorübergehend ab, um den Boden feucht zu halten und sie vor der Sonne zu schützen. Bretter und Sonnenschirme eignen sich gut als Schattenspender.
+
+Wenn es kälter wird, mulche deine Pflanzen mit Laub oder Stroh. Reihenabdeckungen, Frühbeetkästen, Plastiktunnel und Frühbeete helfen, die Saison zu verlängern.
+
+### Ernte aus deinem Herbst- und Wintergarten
+
+Wurzelgemüse wie Rüben, Rote Bete und Karotten schmecken nach dem ersten Frost süßer, weil die Pflanzen dann mehr Zucker einlagern. Diese Pflanzen können den Winter über im Boden bleiben und nach Bedarf geerntet werden.
+
+Kopfsalat und andere Blattsalate wachsen im Winter langsamer, können mit etwas Schutz aber Temperaturen bis -6°C aushalten.
+
+### Materialien des OSU Extension Service
+
+Diese Publikationen findest du online unter [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu):
+
+- **Fall and Winter Vegetable Gardening in the Pacific Northwest** PNW 548
+- **Constructing Coldframes and Hotbeds** FS 246-E
+- **How to Build Your Own Raised-Bed Cloche** EC 1627
+- **Grow Your Own** EM 9027
+- **Grow Your Own Rhubarb** EC 797
+- **Grow Your Own Tomatoes and Tomatillos** EC 1333
+- **Storing Pumpkin and Winter Squash at Home** EC 1632
+- **Improving Garden Soil with Organic Matter** EC 1561
+- **Soil Fertility in Organic Systems** PNW 646
+
+#### Master Gardener™ Beratung
+
+- **Home Horticulture Helpline anrufen:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Besuche [www.cmastergardeners.org](https://www.cmastergardeners.org) für Handouts und Videos der 10-Minuten-Universität™.
+- Triff Master Gardeners auf lokalen Bauernmärkten.
+
+---
+
+##### Oregon State University Extension Service · Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich geschlechtlicher Ausdrucksformen), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus sowie Vergeltungsmaßnahmen bei früherer Wahrnehmung von Bürgerrechten. (Nicht alle genannten Gründe gelten für alle Programme.)
+---

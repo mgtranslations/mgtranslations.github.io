@@ -1,55 +1,96 @@
-## Đại Học 10 Phút™  
-Hiệp Hội Làm Vườn Bậc Thầy Oregon™ – Chương Clackamas County  
-Hợp Tác Với Dịch Vụ Khuyến Nông Đại Học Bang Oregon  
+#### Đại học 10 Phút™ · Hội Làm Vườn Master Gardener™ Quận Clackamas · Phối hợp với Dịch vụ Khuyến nông Đại học Bang Oregon
 
-### Làm Vườn Với Trẻ Em Từ 4-7 Tuổi  
-Làm vườn với trẻ em có thể là một trong những trải nghiệm thú vị nhất cho cả trẻ em và người lớn, như cha mẹ, ông bà, hoặc người hướng dẫn. Trẻ em là những người làm vườn tự nhiên bởi vì chúng tò mò, học hỏi qua hành động, và thích chơi trong đất.  
+## Làm Vườn Cùng Trẻ Em Từ 4-7 Tuổi
 
-Làm việc cùng nhau trong vườn có thể mang lại hàng giờ thời gian chất lượng mỗi tuần và khuyến khích sự quan tâm của trẻ đối với tự nhiên và khoa học. Trẻ em cũng thích sự kích thích giác quan, cho dù đó là đổ nước từ một bình chứa hay làm việc trong đất để nhổ cỏ dại.  
+Làm vườn cùng trẻ em có thể là một trong những trải nghiệm bổ ích nhất cho cả trẻ lẫn cha mẹ, ông bà hoặc người hướng dẫn. Trẻ em vốn là những người làm vườn tự nhiên vì các em tò mò, thích học qua trải nghiệm, và thích chơi với đất.
 
-### Tại Sao Nên Làm Vườn Với Trẻ Em?  
-- Trẻ có thể trải nghiệm chu kỳ của sự sống một cách trực tiếp.  
-- Điều này sẽ dạy trẻ trách nhiệm và khuyến khích sự sáng tạo.  
-- Nó sẽ giúp trẻ hiểu về sự phụ thuộc của chúng ta vào tự nhiên và sự phong phú của nó.  
+Cùng nhau làm vườn sẽ mang lại nhiều giờ chất lượng mỗi tuần và khơi dậy sự quan tâm của trẻ đến thiên nhiên và khoa học. Trẻ cũng sẽ yêu thích những trải nghiệm cảm giác, dù là tưới nước từ bình hay cào đất để nhổ cỏ dại.
 
-Làm vườn rau củ đặc biệt thú vị đối với trẻ em ở mọi lứa tuổi. Trẻ nhỏ sẽ dễ dàng hơn khi bạn chọn hạt giống rau củ lớn, dễ cầm nắm. Những hạt giống này cũng nảy mầm nhanh hơn, mang lại kết quả ăn được trong một mùa. Điều này thúc đẩy dinh dưỡng tốt và giới thiệu cho trẻ những loại thực phẩm mới. Trẻ sẽ có xu hướng thử những loại thực phẩm mới vì chúng đã tự tay trồng chúng.  
+### Tại Sao Nên Làm Vườn Cùng Trẻ Em?
 
-### Ý Tưởng Để Cân Nhắc  
-- Dành cho trẻ một không gian riêng, có thể là luống vườn nâng cao, chậu cây, hoặc mảnh đất. Mỗi trẻ nên có không gian riêng.  
-- Giữ không gian nhỏ vì không gian nhỏ dễ quản lý hơn, và mọi thứ dường như lớn hơn qua mắt trẻ. Bắt đầu từ nhỏ và tăng kích thước theo độ tuổi và sự quan tâm của trẻ.  
-- Đặt khu vườn của trẻ ở vị trí tốt nhất với ánh nắng đầy đủ và nguồn nước.  
-- Sử dụng dụng cụ làm việc nghiêm túc. Không nên cho trẻ các dụng cụ nhựa dễ bị hỏng, vì điều đó có thể làm trẻ mới làm vườn cảm thấy thất vọng.  
+- Trẻ có thể tự mình trải nghiệm vòng đời của cây cối.
+- Việc này dạy trẻ biết trách nhiệm và phát huy sức sáng tạo.
+- Giúp trẻ hiểu về sự phụ thuộc của con người vào thiên nhiên và sự phong phú của nó.
 
-### Một Số Hoạt Động  
-Bạn có thể điều chỉnh lượng công việc phù hợp với trẻ và khung thời gian. Hãy nhớ rằng điều quan trọng là làm cho trải nghiệm trở nên thú vị cho cả hai, vì vậy hãy cân nhắc phạm vi hoạt động và dừng lại trước khi ai đó trở nên quá tải hoặc thất vọng, kể cả người lớn.  
+Trồng rau có thể đặc biệt hấp dẫn với trẻ ở mọi lứa tuổi. Trẻ nhỏ sẽ thuận lợi hơn khi bạn chọn những loại hạt rau củ to, dễ cầm nắm cho bàn tay nhỏ. Chúng cũng nảy mầm nhanh hơn, cho kết quả ăn được chỉ trong một mùa. Làm vườn còn giúp trẻ ăn uống tốt hơn và làm quen với những loại thực phẩm mới. Trẻ sẽ có xu hướng thử món mới hơn khi chính tay mình trồng được.
 
-- **Trồng hoa hoặc rau củ cho các loài thụ phấn như ong, chim và bướm.** Những người làm vườn đánh giá cao các loài côn trùng và động vật thụ phấn sống trong và ghé thăm vườn. Bạn có thể trồng hoa hướng dương, hoa zinnia, hoặc hoa kim châm. Chúng đẹp mắt và cung cấp thức ăn cho các loài thụ phấn. Xem các tài liệu sau từ Đại Học Bang Oregon:  
-  - [Khuyến Khích Côn Trùng Có Lợi Trong Vườn Của Bạn](https://catalog.extension.oregonstate.edu/pnw550)  
-  - [Hướng Dẫn Giáo Viên Về Làm Vườn Rau](https://catalog.extension.oregonstate.edu/em9032)  
+### Một Số Ý Tưởng Nên Xem Xét
 
-- **Đi săn sên.** Trẻ sẽ học cách sên đóng vai trò trong hệ sinh thái. Có ba loại sên phổ biến ở Tây Bắc Thái Bình Dương: Sên chuối (loài bản địa và có lợi), sên báo và sên lưng đỏ. Sên xám vườn là loài gây hại phá hoại nhất. Tìm hiểu rằng sên có các loài săn mồi như rắn và kỳ nhông, và mặc dù sên và ốc sên là “loài gây hại” đối với người làm vườn, chúng đóng vai trò quan trọng trong hệ sinh thái của vườn. Nếu bạn chọn loại bỏ sên hoặc ốc sên đã tìm thấy, bạn có thể làm điều đó một cách nhẹ nhàng bằng cách đặt chúng vào một xô nước xà phòng. Xem các tài nguyên sau:  
-  - [Xác Định Sên Và Ốc Sên](https://agsci.oregonstate.edu/slug-portal/identification)  
-  - [Sên Và Ốc Sên](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)  
+- **Cho trẻ không gian riêng**: Dù là luống đất cao, chậu cây hay một góc đất, mỗi trẻ nên có khu vườn của riêng mình.
+- **Giữ quy mô nhỏ**: Một không gian nhỏ dễ quản lý hơn, và mọi thứ đều trở nên to lớn qua ánh mắt trẻ thơ. Bắt đầu nhỏ, tăng dần diện tích khi trẻ lớn lên và có thêm hứng thú.
+- **Chọn vị trí tốt nhất cho khu vườn của trẻ**: Đảm bảo đủ ánh sáng mặt trời và có nguồn nước gần đó.
+- **Dùng dụng cụ làm vườn thật**: Không nên cho trẻ dùng dụng cụ nhựa dễ gãy, gây thất vọng cho người mới bắt đầu.
 
-- **Trẻ em thích tìm kiếm “các loài phân hủy.”** Giun đất, bọ rùa, kiến, và ốc sên đều là một phần của hệ sinh thái và rất quan trọng trong việc phân hủy chất hữu cơ thành mùn. Hãy để trẻ đào một xô nhỏ đất hoặc đào một khu vực nhỏ trong vườn và ghi lại số lượng “các loài phân hủy” mà trẻ tìm thấy. Sẽ hữu ích nếu trẻ có kính hiển vi hoặc kính lúp để sử dụng trong nhiệm vụ này. Xem tài liệu từ Đại Học Bang Oregon về các loài phân hủy tại:  
-  - [Giun Đất Là Các Loài Phân Hủy](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)  
+### Một Số Hoạt Động
 
-Hãy nhớ cung cấp cho trẻ thông tin cần thiết về việc trồng ở một vị trí có nhiều ánh sáng mặt trời nhất và đảm bảo đất che phủ hạt giống (không quá sâu). Khuyến khích trẻ quan sát cách các loài côn trùng tương tác với cây khi chúng lớn lên. Một số loại hạt giống rau củ yêu thích cho trẻ trồng: bí ngô, đậu leo, củ cải, đậu hà lan, đậu đỏ, và cà chua cherry.  
+Bạn có thể điều chỉnh khối lượng công việc phù hợp với trẻ và thời gian có thể tham gia. Hãy nhớ, điều quan trọng là làm cho trải nghiệm này bổ ích cho cả hai bên, nên hãy cân nhắc phạm vi hoạt động và dừng lại khi ai đó (kể cả người lớn) bắt đầu thấy mệt hoặc chán nản.
 
-### Thêm Yếu Tố Đọc Viết  
-Có rất nhiều sách tranh và sách hướng dẫn về làm vườn mà trẻ sẽ yêu thích trước khi bắt đầu và trong khi làm việc trong vườn. Đọc to cho trẻ nghe sẽ mời gọi sự hỏi han và có thể là điểm khởi đầu cho các kế hoạch làm vườn. Nhân viên thư viện địa phương của bạn sẽ sẵn lòng giúp bạn tìm các tài liệu mà cả bạn và trẻ đều yêu thích. Dưới đây là một vài gợi ý:  
-- “From Seed to Plant” của Gail Gibbons  
-- “The Tiny Seed” của Eric Carle  
-- “Growing Vegetable Soup” của Lois Ehlert  
-- “The Vegetables We Eat” của Gail Gibbons  
-- “The Carrot Seed” của Ruth Krause  
-- “Muncha! Muncha! Muncha!” của Candace Fleming  
-- “Flip, Float, Fly: Seeds on the Move” của JoAnn Early Macken  
-- “Berries, Nuts and Seeds” của Diane L. Burns  
-- “Jack’s Garden” của Henry Cole  
+#### Trồng Hoa hoặc Rau Hấp Dẫn Côn Trùng Thụ Phấn
 
-### Lời Khuyên Từ Làm Vườn Bậc Thầy™  
-- Gọi đến Đường Dây Tư Vấn Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas), 503-821-1150 (Quận Washington), 503-445-4608 (Quận Multnomah).  
-- Để xem tài liệu và lịch học 10-Minute University™, hãy truy cập www.cmastergardeners.org  
+Người làm vườn đánh giá cao các loại côn trùng và sinh vật thụ phấn sống và ghé thăm vườn. Bạn có thể trồng hoa hướng dương, cúc zinnia hoặc hoa mõm chó. Chúng vừa đẹp vừa cung cấp thức ăn cho các loài thụ phấn.
 
-Dịch Vụ Khuyến Nông Đại Học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động, và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm cách thể hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, hoặc trả đũa cho hoạt động dân sự trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)  
+Xem thêm các tài liệu từ Đại học Bang Oregon:
+
+- [Khuyến khích Côn Trùng Có Lợi Trong Vườn Của Bạn](https://catalog.extension.oregonstate.edu/pnw550)
+- [Hướng Dẫn Dành Cho Giáo Viên Về Trồng Rau](https://catalog.extension.oregonstate.edu/em9032)
+
+#### Săn Sên
+
+Trẻ sẽ học được vai trò của sên trong hệ sinh thái. Có ba loại sên phổ biến ở vùng Tây Bắc Thái Bình Dương:
+
+- **Sên chuối**: Loài bản địa và có ích.
+- **Sên báo** và **sên lưng đỏ**.
+- **Sên xám vườn**: Gây hại nhiều nhất cho cây trồng.
+
+Sên có các loài ăn thịt như rắn và kỳ nhông. Dù sên và ốc sên là “sâu hại” với người làm vườn, chúng lại đóng vai trò quan trọng trong hệ sinh thái vườn. Nếu bạn muốn loại bỏ sên hoặc ốc sên, hãy làm nhẹ nhàng bằng cách bỏ chúng vào xô nước xà phòng.
+
+Tham khảo các nguồn dưới đây:
+
+- [Nhận Diện Sên và Ốc Sên](https://agsci.oregonstate.edu/slug-portal/identification)
+- [Sên và Ốc Sên](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
+
+#### Tìm Kiếm Các Loài Phân Hủy
+
+Giun đất, rệp đất, kiến và ốc sên đều là thành phần của hệ sinh thái và rất quan trọng trong việc phân hủy chất hữu cơ thành mùn. Hãy trân trọng chúng.
+
+Hãy để trẻ đào một xô đất nhỏ hoặc đào ở một góc vườn nhỏ và ghi lại số lượng “sinh vật phân hủy” tìm thấy được. Nếu có kính hiển vi hay kính lúp thì càng tốt cho việc khám phá này.
+
+Tham khảo tài liệu của Đại học Bang Oregon về sinh vật phân hủy:
+
+- [Giun đất Là Loài Phân Hủy](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
+
+#### Mẹo Trồng Cây
+
+Hãy cho trẻ biết những thông tin cơ bản về việc trồng cây ở nơi nhiều nắng nhất và phủ đất lên hạt (không quá sâu). Khuyến khích trẻ quan sát cách côn trùng tương tác với cây khi chúng lớn lên.
+
+Một số loại hạt rau củ trẻ em thích trồng:
+
+- Bí ngô
+- Đậu leo
+- Củ cải đỏ
+- Đậu Hà Lan
+- Đậu đỏ leo
+- Cà chua bi
+
+### Kết Hợp Với Việc Đọc Sách
+
+Có rất nhiều sách tranh và sách hướng dẫn tuyệt vời về làm vườn mà trẻ sẽ thích trước khi bắt đầu và trong quá trình làm vườn. Đọc cho trẻ nghe sẽ gợi ra nhiều câu hỏi và là điểm khởi đầu cho các kế hoạch trong vườn. Thủ thư ở thư viện địa phương sẽ sẵn lòng giúp bạn tìm kiếm những tài liệu phù hợp cho cả bạn và trẻ.
+
+Một vài đề xuất sách:
+
+- *Từ Hạt Đến Cây* của Gail Gibbons
+- *Hạt Giống Nhỏ Bé* của Eric Carle
+- *Trồng Canh Rau Củ* của Lois Ehlert
+- *Các Loại Rau Chúng Ta Ăn* của Gail Gibbons
+- *Hạt Cà Rốt* của Ruth Krause
+- *Muncha! Muncha! Muncha!* của Candace Fleming
+- *Lật, Bay, Trôi: Hạt Giống Di Chuyển* của JoAnn Early Macken
+- *Quả Mọng, Hạt và Quả Hạch* của Diane L. Burns
+- *Khu Vườn Của Jack* của Henry Cole
+
+#### Tư Vấn Từ Master Gardener™ · Gọi Đường Dây Hỗ Trợ Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu trên cơ sở chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới tính (bao gồm thể hiện giới tính), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đây. (Không phải tất cả các lý do cấm đều áp dụng cho mọi chương trình.)
+---

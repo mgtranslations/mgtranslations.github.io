@@ -1,54 +1,94 @@
-### Đại Học 10 Phút™  
-Hiệp hội Làm Vườn Clackamas County phối hợp và hỗ trợ Chương trình Làm Vườn của OSU  
+#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Hạt Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp của OSU Extension Master Gardener™
 
-### Cách Chăm Sóc Cây Cảnh  
-Trồng cây cảnh là một cách tuyệt vời để thêm cây xanh tươi mát vào ngôi nhà của bạn. Mặc dù một số loại cây cảnh rất dễ trồng, nhưng tất cả các loại cây đều cần được chăm sóc cơ bản. Thực vật phát triển mạnh trong môi trường giống với môi trường sống tự nhiên của chúng. Trước khi mua cây mới, hãy tìm hiểu nhu cầu cơ bản của chúng để xác định xem bạn có chỗ thích hợp trong nhà và có thể cung cấp sự chăm sóc phù hợp hay không.  
+# Cách Chăm sóc Cây Cảnh Trong Nhà
 
-#### Ánh sáng  
-Ánh sáng là yếu tố quan trọng để trồng cây cảnh thành công. Thông thường, bạn có thể dựa vào hướng cửa sổ để xác định lượng ánh sáng. Cửa sổ hướng nam nhận được ánh sáng mạnh nhất, hướng tây và đông có ánh sáng trung bình, còn cửa sổ hướng bắc được coi là ánh sáng yếu. Hãy cẩn thận không để cây quá gần hoặc chạm vào cửa sổ, vì sự thay đổi nhiệt độ và gió lạnh có thể làm hỏng lá. Đèn LED trồng cây là cách tiết kiệm năng lượng để bổ sung ánh sáng. Tránh đặt cây gần lỗ thông hơi sưởi ấm hoặc lò sưởi.  
+Trồng cây cảnh trong nhà là cách tuyệt vời để thêm màu xanh tươi mát cho ngôi nhà của bạn. Dù một số loại cây cảnh rất dễ trồng, tất cả các loại cây đều cần được chăm sóc cơ bản. Cây phát triển tốt nhất trong môi trường gần giống với môi trường tự nhiên của chúng. Trước khi mua cây mới, hãy tìm hiểu nhu cầu cơ bản của chúng để xem bạn có chỗ thích hợp trong nhà và có thể chăm sóc tốt cho cây không.
 
-#### Vị trí  
-Cây cảnh cần không khí lưu thông tốt để phát triển khỏe mạnh và giảm thiểu các vấn đề về côn trùng. Nhóm các cây cảnh theo nhu cầu về ánh sáng và nhiệt độ. Tránh đặt gần lỗ thông hơi sưởi ấm hoặc lò sưởi.  
+## Ánh sáng
 
-#### Tưới nước  
-Tưới nước dựa theo nhu cầu của từng loại cây. Hãy kiểm tra bằng cách dùng ngón tay cắm vào đất, đến đốt thứ hai để xem độ ẩm của đất. Hoặc nhấc chậu lên, nếu thấy nhẹ thì cây cần được tưới nước. Đảm bảo sử dụng chậu có lỗ thoát nước ở đáy, nếu không nước sẽ đọng lại ở đáy và gây thối rễ. Tưới quá nhiều nước giết chết cây nhiều hơn là tưới thiếu nước. Đảm bảo tưới vào đất, không tưới lên lá. Vào mùa đông, tưới nước nhẹ nhàng và chỉ khi đất khô.  
+Ánh sáng là yếu tố quan trọng để trồng cây cảnh thành công. Thường bạn có thể dựa vào hướng cửa sổ:
 
-#### Độ ẩm  
-Nhiều loại cây cảnh có nguồn gốc từ các khu rừng nhiệt đới ẩm, trong khi các loại như xương rồng và cây mọng nước lại sống ở vùng khô cằn. Không khí trong nhà có thể khô, đặc biệt trong những tháng mùa đông khi hệ thống sưởi hoạt động. Không khí quá khô có thể làm lá nhăn nheo, héo, cong, vàng hoặc nâu. Quá nhiều độ ẩm có thể gây bệnh. Độ ẩm lý tưởng cho hầu hết cây cảnh là 40-60%.  
+- Cửa sổ hướng nam nhận được ánh nắng mạnh nhất.
+- Cửa sổ hướng tây và đông có ánh sáng trung bình.
+- Cửa sổ hướng bắc được coi là ít sáng.
 
-Cách tăng độ ẩm không khí:  
-- Phun sương lên lá cây thường xuyên.  
-- Đặt cây trên khay đầy sỏi và nước. Đảm bảo đáy chậu không ngập trong nước.  
-- Sử dụng máy tạo độ ẩm.  
-- Đặt cây trong phòng có độ ẩm cao hơn như phòng tắm hoặc bếp.  
+Hãy cẩn thận không đặt cây quá gần hoặc chạm vào cửa sổ, vì sự thay đổi nhiệt độ và gió lùa lạnh có thể làm hỏng lá. Đèn LED trồng cây là cách tiết kiệm năng lượng để bổ sung ánh sáng. Cũng nên tránh đặt cây gần lỗ thông hơi máy sưởi và lò sưởi.
 
-#### Chậu  
-Kích thước và loại chậu rất quan trọng đối với sức khỏe của cây cảnh. Chậu đất nung khô nhanh nhất và phù hợp với cây sa mạc. Chậu quá lớn có thể khiến rễ bị thối, trong khi chậu quá nhỏ có thể hạn chế sự hấp thụ nước và chất dinh dưỡng. Bắt đầu với một chậu lớn hơn khối rễ từ 1-2 inch và dần dần chuyển sang chậu lớn hơn. Đảm bảo chậu có lỗ thoát nước ở đáy để nước thừa thoát ra ngoài.  
+## Vị trí đặt cây
 
-Hằng năm, hãy lấy cây ra khỏi chậu để kiểm tra rễ. Nếu rễ quấn quanh chậu và bị bó chặt, đã đến lúc chuyển cây sang chậu lớn hơn. Thời gian tốt nhất để thay chậu là vào mùa xuân hoặc mùa hè khi cây đang phát triển tích cực, hoặc cắt bớt một phần ba rễ để giữ nguyên kích thước cây.  
+Cây cảnh trong nhà cần không khí lưu thông tốt xung quanh để khỏe mạnh và giảm thiểu sâu bệnh. Hãy nhóm các cây theo nhu cầu ánh sáng và nhiệt độ. Cũng nên tránh đặt gần lỗ thông hơi máy sưởi và lò sưởi.
 
-#### Đất  
-Cây cảnh cần một loại đất trung gian để phát triển, mặc dù một số loại như cây không khí có thể phát triển mà không cần đất. Hỗn hợp đất trồng chậu được pha chế cho các loại cây khác nhau. Hầu hết các loại cây cảnh sẽ phát triển tốt trong đất trồng chậu thông thường. Xương rồng và cây mọng nước thích hợp với hỗn hợp đất có nhiều cát hoặc perlite để thoát nước tốt hơn. Phong lan phát triển tốt nhất trong hỗn hợp vỏ cây. Để cây khỏe mạnh, hãy sử dụng đất trồng mới, tiệt trùng để giảm nguy cơ mắc bệnh.  
+## Tưới nước
 
-#### Phân bón  
-Khi cây đang phát triển, hãy bón phân vừa phải bằng phân bón tan chậm dạng hạt, viên hoặc que. Loại phân này thường kéo dài 2-3 tháng nhưng có thể lâu hơn tùy theo sản phẩm. Một số thương hiệu có phân bón tan chậm kéo dài đến 6 tháng. Ngoài ra, bạn có thể sử dụng phân bón dạng lỏng hai tuần một lần theo hướng dẫn. Cây không cần phân bón khi tăng trưởng chậm hoặc ngừng lại, thường từ tháng 11 đến tháng 3.  
+Tưới nước tùy theo nhu cầu từng loại cây:
 
-Cây cảnh như hoa violet châu Phi và phong lan cần bón phân thường xuyên để ra nụ. Các loại khác như xương rồng và cây mọng nước phát triển tốt hơn khi ít hoặc không bón phân. Bón phân quá nhiều có thể làm cháy lá hoặc gây hại, trong khi thiếu dinh dưỡng có thể khiến cây yếu hoặc căng thẳng. Nếu bạn thấy đầu lá bị cháy hoặc có lớp vỏ trắng trên đất, có thể bạn đã bón phân quá nhiều.  
+- Kiểm tra bằng cách dùng ngón tay chọc vào đất, sâu đến đốt ngón tay thứ hai để kiểm tra độ ẩm của đất.
+- Hoặc nhấc chậu lên. Nếu thấy nhẹ, cây cần được tưới nước.
 
-#### Làm sạch lá  
-Bụi có thể tích tụ trên lá, làm chúng trông xỉn màu và cản trở khả năng hấp thụ ánh sáng của cây. Rửa hoặc lau lá bằng khăn ẩm để làm mới.
+Hãy chắc chắn sử dụng chậu có lỗ thoát nước ở đáy, nếu không nước sẽ đọng lại gây thối rễ. Tưới nước quá nhiều giết chết nhiều cây hơn là thiếu nước. Hãy tưới vào đất, không tưới lên lá. Vào mùa đông, chỉ tưới nhẹ và chỉ khi đất khô.
+
+## Độ ẩm
+
+Nhiều loại cây cảnh có nguồn gốc từ rừng mưa nhiệt đới ẩm, trong khi các loại xương rồng và cây mọng nước lại sống ở vùng khô hạn. Không khí trong nhà có thể rất khô, nhất là vào mùa đông khi sử dụng máy sưởi. Không khí quá khô có thể làm lá cây héo, quăn, vàng hoặc nâu. Độ ẩm quá cao lại dễ sinh bệnh. Độ ẩm lý tưởng cho hầu hết cây cảnh là từ 40-60%.
+
+Tăng độ ẩm không khí bằng một hoặc nhiều cách sau:
+
+- Phun sương lên lá cây thường xuyên.
+- Đặt cây lên khay có sỏi và nước. Đảm bảo đáy chậu không ngập trong nước.
+- Dùng máy tạo ẩm.
+- Đặt cây trong phòng có độ ẩm cao hơn như phòng tắm hoặc nhà bếp.
+
+## Chậu trồng
+
+Kích thước và loại chậu rất quan trọng đối với sức khỏe của cây:
+
+- Chậu đất nung khô nhanh, phù hợp với cây sa mạc.
+- Chậu quá lớn dễ gây thối rễ, chậu quá nhỏ làm cây khó hút nước và dinh dưỡng.
+
+Bắt đầu với chậu lớn hơn bầu rễ 2-5cm, sau đó chuyển sang chậu lớn dần. Đảm bảo chậu có lỗ thoát nước dưới đáy để nước thừa thoát ra ngoài.
+
+Mỗi năm nên lấy cây ra khỏi chậu để kiểm tra rễ. Nếu rễ quấn quanh chậu và bị bó chặt, đã đến lúc chuyển sang chậu lớn hơn. Thời điểm tốt nhất để thay chậu là mùa xuân hoặc hè khi cây phát triển mạnh, hoặc có thể tỉa tối đa một phần ba rễ để giữ kích thước cây.
+
+## Đất
+
+Cây cảnh cần môi trường đất để phát triển, dù một số loại như cây không khí có thể sống không cần đất. Đất trồng cây được pha trộn phù hợp cho từng loại cây:
+
+- Hầu hết cây cảnh phát triển tốt trong đất trồng đa năng.
+- Cây xương rồng, mọng nước thích đất có nhiều cát hoặc perlite để thoát nước tốt hơn.
+- Lan phát triển tốt nhất trong giá thể chủ yếu là vỏ cây.
+
+Để cây khỏe mạnh, hãy dùng đất trồng mới, sạch để giảm nguy cơ bệnh.
+
+## Bón phân
+
+Khi cây phát triển mạnh, bón phân vừa phải bằng phân tan chậm dạng hạt, viên hoặc que cắm. Loại này thường có tác dụng 2-3 tháng, có loại kéo dài 6 tháng. Ngoài ra, có thể dùng phân nước cách tuần theo hướng dẫn.
+
+Cây không cần bón phân khi ngừng hoặc chậm phát triển, thường từ tháng 11 đến tháng 3.
+
+- Một số cây như violet châu Phi, lan cần bón phân đều đặn để ra nụ hoa.
+- Các loại như xương rồng, mọng nước chỉ cần bón rất ít hoặc không cần.
+
+Bón phân quá nhiều có thể làm cháy lá hoặc gây hại khác, thiếu phân có thể làm cây yếu hoặc căng thẳng. Nếu thấy đầu lá bị cháy hoặc có lớp màu trắng trên mặt đất, có thể bạn đang bón phân quá nhiều.
+
+## Làm sạch lá
+
+Bụi có thể tích tụ trên lá, làm lá xỉn màu và cản trở cây hấp thụ ánh sáng. Hãy rửa hoặc lau lá bằng khăn ẩm để làm sạch.
 
 ---
 
-### Nguồn tài liệu từ Đại học Bang Oregon  
-- [Ánh sáng là yếu tố quan trọng để trồng cây cảnh thành công](https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants)  
-- [Muối hòa tan gây hại cho cây cảnh](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)  
-- [Xương rồng dễ chăm sóc ngày càng được ưa chuộng](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)  
-- [Cây cảnh đầy màu sắc là món quà tuyệt vời cho ngày lễ](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)  
-- [Thảo mộc trong nhà dễ trồng để làm gia vị nấu ăn](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)  
+## Tài nguyên Đại học Bang Oregon
 
-### Lời khuyên từ Master Gardener™  
-Liên hệ văn phòng OSU Extension địa phương để nhận lời khuyên từ Master Gardener. Xem thông tin liên lạc tại [đây](https://extension.oregonstate.edu/find-us).  
-Để xem tài liệu và lịch học Đại Học 10 Phút™, truy cập [cmastergardeners.org](https://cmastergardeners.org).  
+- [Ánh sáng là yếu tố quan trọng để trồng cây cảnh thành công](https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants)
+- [Muối hòa tan gây hại cho cây cảnh trong nhà](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)
+- [Cây mọng nước dễ chăm sóc ngày càng được ưa chuộng](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
+- [Cây cảnh nhiều màu sắc là món quà tuyệt vời dịp lễ](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
+- [Các loại thảo mộc dễ trồng trong nhà giúp món ăn ngon hơn](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
 
-**Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hành vi phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động, và tài liệu của mình dựa trên các yếu tố như chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính, xu hướng tính dục, khuyết tật, độ tuổi, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì đã tham gia hoạt động bảo vệ quyền dân sự trước đây. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho mọi chương trình.)**
+---
+
+#### Tư vấn Làm vườn Chuyên nghiệp™ · Liên hệ văn phòng OSU Extension tại địa phương để được tư vấn. Thông tin liên hệ xem tại: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Tài liệu và lịch học Đại học 10 Phút™: [https://cmastergardeners.org](https://cmastergardeners.org).
+
+---
+
+##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm thể hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trừng phạt hoặc trả đũa vì hoạt động quyền dân sự trước đây. (Không phải tất cả các tiêu chí cấm đều áp dụng cho mọi chương trình.)
+---

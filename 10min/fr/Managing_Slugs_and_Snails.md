@@ -1,62 +1,122 @@
-# Université en 10 minutes™
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
 
-L'Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration avec et en soutien au Programme Master Gardener™ de l'Extension de l'Université d'État de l'Oregon (OSU).
+# Gérer les limaces et les escargots
 
-## Gérer les Limaces et les Escargots
+### Quelques faits de base
 
-### Quelques Faits de Base
-Les limaces et escargots terrestres sont des mollusques à corps mou vivant sur terre, pouvant vivre jusqu'à six ans. En glissant sur un « pied » musculaire qui sécrète constamment du mucus, ils laissent derrière eux une trace de bave caractéristique. Les adultes sont actifs la nuit et les jours nuageux ou brumeux, cherchant des endroits où se cacher les jours ensoleillés.
+Les limaces et escargots terrestres sont des mollusques à corps mou, vivant sur la terre ferme, qui peuvent vivre jusqu’à six ans. Lorsqu’ils se déplacent sur un “pied” musclé qui sécrète du mucus, ils laissent derrière eux une trace de bave caractéristique. Les adultes sont actifs la nuit ainsi que les jours nuageux ou brumeux, et cherchent des cachettes les jours ensoleillés.
 
-Les limaces s'enfouissent souvent dans le sol, jusqu'à six pieds de profondeur, pour trouver un environnement frais et humide. Les escargots se protègent avec une membrane semblable à du parchemin pendant les périodes chaudes et sèches ou lorsqu'il fait froid. Pendant le froid, les escargots et les limaces hibernent dans la couche supérieure du sol. Dans les régions aux hivers doux, ils peuvent être actifs toute l'année.
+Les limaces s’enfoncent souvent dans le sol, jusqu’à deux mètres de profondeur, pour trouver un environnement frais et humide. Les escargots se protègent pendant les périodes chaudes et sèches, ou lorsqu’il fait froid, en se scellant avec une membrane semblable à du parchemin. Pendant l’hiver, limaces et escargots hibernent dans la couche supérieure du sol. Dans les régions aux hivers doux, ils peuvent rester actifs toute l’année.
 
-La plupart des limaces et escargots terrestres sont hermaphrodites, chaque adulte possédant à la fois des organes reproducteurs mâles et femelles. Les escargots bruns du jardin atteignent leur maturité en deux ans et commencent à pondre en moyenne 80 œufs sphériques et blancs nacrés à la fois dans des nids souterrains, jusqu'à six fois par an. Les limaces atteignent leur maturité en trois à six mois et pondent des œufs blancs translucides ou laiteux, ovales ou ronds, en lots de 3 à 40.
+La plupart des limaces et escargots terrestres sont hermaphrodites, chaque adulte possédant des organes reproducteurs mâles et femelles. Les escargots de jardin bruns deviennent adultes en deux ans et pondent en moyenne 80 œufs ronds et blanc nacré à la fois, dans des nids souterrains, jusqu’à six fois par an. Les limaces atteignent la maturité en trois à six mois et pondent des œufs transparents ou blanc laiteux, ovales ou ronds, par groupes de 3 à 40.
 
-### Dommages
-Les escargots et les limaces se nourrissent de plantes vivantes et de matière végétale en décomposition, causant des dégâts aux feuilles, fleurs, fruits et autres parties succulentes des plantes. Cherchez les traces muqueuses argentées pour confirmer leur présence. Les dommages sont généralement des trous irréguliers aux bords lisses.
+### Dégâts
 
-### Comment Contrôler les Limaces et les Escargots
-Une combinaison des techniques ci-dessous sera la plus efficace pour réduire les populations de limaces et d’escargots et minimiser les dégâts dans votre jardin. Le meilleur moment pour un contrôle à long terme est de traiter tout le jardin à l'automne. Ainsi, il y aura moins de limaces et d’escargots adultes pour pondre leurs œufs. Une deuxième application à la fin de l'hiver ou au début du printemps permettra de réduire les populations adultes. Une troisième application un mois plus tard devrait maintenir votre jardin en bon état pour la saison de croissance. Cependant, une surveillance régulière est également nécessaire, car les limaces et escargots peuvent réinfester les jardins depuis les propriétés voisines.
+Les escargots et les limaces se nourrissent de plantes vivantes et de matières végétales en décomposition, causant des dégâts aux feuilles, fleurs, fruits et autres parties tendres des plantes. Cherchez des traces argentées de mucus pour confirmer leur présence. Leurs dégâts apparaissent généralement comme des trous irréguliers avec des bords lisses.
 
-#### Choisissez Vos Plantes avec Soin
-**Plantes résistantes :** Agapanthus, Anémone, Astilbe, Bambou, Cœurs saignants, Iberis, Heuchère, Fougères, Digitale, Joubarbe, Lierre, Genévrier, Nandina, Sedum, Sceau de Salomon, Asperule odorante, Gaulthérie, If.
+---
 
-**Plantes appréciées des limaces :** Basilic, Famille des brocolis, Carottes, Laitue, Pommes de terre, Fraises, Campanule, Jonquilles, Gardénia, Gentiane, Hostas, Impatientes, Fougère japonaise peinte, Oeil de léopard, Lys, Lobélie (vivace), Œillets d’Inde, Narcisse, Primevère, Étoile de Bethléem, Trillium, Bégonia tubéreux, Viola, Gingembre sauvage.
+## Comment contrôler les limaces et les escargots
 
-#### Éliminez les Endroits Humides et Obscurs
-- **Arrosez au bon moment :** Évitez d'arroser votre jardin le soir lorsque les limaces et escargots sortent pour se nourrir. Arrosez plutôt le matin.
-- **Labourez au printemps :** Réduisez les débris de feuilles pour limiter la nourriture disponible pour les jeunes limaces et escargots lors de leur éclosion.
-- **Retournez le paillis d'hiver :** Bien que le paillis soit bénéfique pour les plantes et le sol, il constitue également un bon abri. Retournez le paillis et autres débris de jardin pour exposer ces nuisibles et leurs œufs aux prédateurs.
+Une combinaison des techniques ci-dessous est la plus efficace pour réduire les populations de limaces et d’escargots et limiter les dégâts dans votre jardin. Le meilleur moment pour un contrôle à long terme est de traiter tout le jardin à l’automne. Cela réduit le nombre d’adultes qui pondent des œufs. Une deuxième application à la fin de l’hiver ou au début du printemps aidera à limiter la population adulte. Une troisième application un mois plus tard préparera votre jardin pour la saison de croissance. Une surveillance régulière est nécessaire car les limaces et escargots peuvent revenir depuis les propriétés voisines.
 
-#### Installez des Barrières
-- **Bandes de cuivre :** Les tests montrent que les limaces peuvent recevoir une décharge électrique lorsqu'elles rampent sur du cuivre, si la bande ou le filet est assez large pour empêcher les limaces de lever leur corps au-dessus. Cependant, la majorité des bandes de cuivre vendues dans les magasins de jardinage ne sont pas assez larges pour créer une barrière efficace.
-- **Chaux, cendres, terre de diatomées (sous forme sèche) :** Ces barrières ralentissent les limaces, mais ne les tuent pas. Elles doivent également être remplacées après la pluie ou l’arrosage.
+### Choisissez vos plantes avec soin
 
-#### Encouragez les Prédateurs
-De nombreux animaux se nourrissent de limaces et escargots, notamment les crapauds, serpents, coléoptères, mouches des marais, oiseaux, grenouilles, salamandres, tritons, canards, mille-pattes, porcs-épics et ratons laveurs. Encouragez ceux qui s'intègrent bien à votre approche de jardinage.
+**Plantes résistantes :**
+- Agapanthe
+- Anémone
+- Astilbe
+- Bambou
+- Cœur de Marie
+- Iberis (corbeille d’argent)
+- Heuchère
+- Fougères
+- Digitale
+- Joubarbe
+- Lierre
+- Genévrier
+- Nandina
+- Sédum
+- Sceau de Salomon
+- Aspérule odorante
+- Gaulthérie
+- If
 
-#### Installez des Pièges
-- **Pièges faits maison :** Une planche plate ou un pot de fleurs renversé avec un bord surélevé constitue un abri attrayant. De même, des feuilles de chou renversées, des écorces d'orange/pamplemousse fonctionnent bien. Placez-les le soir. Vérifiez les pièges et détruisez les nuisibles chaque matin jusqu’à ce que leur nombre diminue, puis vérifiez chaque semaine.
-- **Ramassage manuel :** Deux fois par semaine, au début du printemps et à l'automne, cherchez dans les endroits typiques sous les rochers et le feuillage. Faites cela la nuit (plus efficace) ou le jour ; plongez les limaces et escargots dans un seau d’eau savonneuse. Portez des gants ou utilisez des pinces. Si vous avez du mucus sur la peau, lavez avec du vinaigre blanc et de l’eau tiède.
+**Plantes que les limaces aiment manger :**
+- Basilic
+- Famille du brocoli
+- Carottes
+- Laitue
+- Pommes de terre
+- Fraises
+- Campanule
+- Jonquille
+- Gardénia
+- Gentiane
+- Hosta
+- Impatiens
+- Fougère peinte du Japon
+- Doronic
+- Lys
+- Lobélie vivace
+- Œillet d’Inde
+- Narcisse
+- Primevère
+- Ornithogale (Étoile de Bethléem)
+- Trille
+- Bégonia tubéreux
+- Violette
+- Asaret sauvage
 
-#### Appâts
-- **Bière ou mélange de levure et miel :** Installez un piège profond, comme un pot de yaourt profond, avec le rebord au niveau du sol pour empêcher les nuisibles de sortir. Préparez le mélange de miel et levure en faisant bouillir de l’eau avec du miel et de la levure ; les proportions ne sont pas critiques. La bière peut être utilisée telle quelle. Vérifiez le piège quotidiennement pour s'assurer qu'aucun animal comme une grenouille n'y est tombé accidentellement. Videz et remplissez tous les deux jours.
+### Enlevez les cachettes humides et sombres
 
-- **Phosphate de fer (Sluggo, Escar-Go) :** Interfère avec le métabolisme du calcium dans l’intestin, ce qui fait que les escargots et limaces arrêtent de se nourrir et meurent 3 à 6 jours plus tard. Le phosphate de fer est sûr à utiliser autour des animaux domestiques, humains, poissons, oiseaux, insectes bénéfiques et mammifères. Il peut être utilisé autour des cultures alimentaires, des plantes ornementales, des pelouses, des jardins, des serres et des jardins de baies jusqu’à la récolte. Le phosphate de fer reste actif jusqu'à 2 semaines, même avec des arrosages répétés.
+- **Programmez l’arrosage :** Évitez d’arroser votre jardin le soir, moment où les limaces et escargots sortent pour manger. Arrosez plutôt le matin.
+- **Bêchez au printemps :** Réduisez au minimum les débris de feuilles pour éviter de nourrir les jeunes limaces et escargots à l’éclosion.
+- **Retournez le paillis d’hiver :** Même si le paillis est bénéfique pour les plantes et le sol, il offre aussi de bonnes cachettes. Retournez le paillis et autres débris du jardin pour exposer les nuisibles et leurs œufs aux prédateurs.
 
-- **Métaldéhyde (Deadline) :** Déshydrate rapidement l’escargot ou la limace s’il est ingéré. Cependant, s’il y a de l’eau à proximité ou s’il pleut peu après l’application, cela peut ne pas fonctionner. Une limace peut perdre la moitié de son poids et se réduire à un tiers de sa taille avec du métaldéhyde ou du sel, puis récupérer si elle peut atteindre un sol humide rapidement ou s’il pleut. Ces produits ne sont pas recommandés autour des légumes comestibles et peuvent être nocifs pour les chiens, chats et poissons. Suivez attentivement les instructions sur l’étiquette.
+### Mettez en place des barrières
+
+- **Bandes de cuivre :** Des tests montrent que les limaces peuvent recevoir un choc électrique en rampant sur le cuivre si la bande ou le grillage est assez large pour les empêcher de s’y soulever. Cependant, la plupart des bandes de cuivre vendues dans le commerce sont trop étroites pour être efficaces.
+- **Chaux, cendres, terre de diatomée (sèche) :** Ces obstacles ralentissent les limaces mais ne les tuent pas. Il faut renouveler ces barrières après la pluie ou l’arrosage.
+
+### Encouragez les prédateurs
+
+De nombreux animaux mangent les limaces et escargots, notamment :
+- Crapauds
+- Serpents
+- Coléoptères
+- Mouches des marais
+- Oiseaux
+- Grenouilles
+- Salamandres
+- Tritons
+- Canards
+- Mille-pattes
+- Porc-épic
+- Raton laveur
+
+Encouragez les prédateurs qui conviennent à votre façon de jardiner.
+
+### Posez des pièges
+
+- **Pièges faits maison :** Utilisez une planche plate ou un pot de fleurs retourné, légèrement soulevé sur un côté, comme cachette attrayante. Des feuilles de chou retournées ou des écorces d’orange/pamplemousse fonctionnent aussi très bien. Placez les pièges le soir et vérifiez-les chaque matin jusqu’à ce que le nombre de nuisibles diminue, puis vérifiez une fois par semaine.
+- **Ramassage à la main :** Deux fois par semaine, au début du printemps et en automne, cherchez les cachettes habituelles sous les pierres et le feuillage. Faites-le la nuit (plus efficace) ou le jour. Jetez les limaces et escargots dans un seau d’eau savonneuse. Portez des gants ou utilisez une pince. Si du mucus touche votre peau, lavez-vous avec du vinaigre blanc et de l’eau chaude.
+
+### Appâts
+
+- **Bière ou mélange de levure et de miel :** Installez un piège profond, comme un pot de yaourt, avec le bord au niveau du sol pour éviter que les nuisibles n’en ressortent. Préparez le mélange miel et levure en faisant bouillir de l’eau avec du miel et de la levure ; les proportions ne sont pas importantes. La bière peut être utilisée telle quelle. Vérifiez le piège tous les jours pour vous assurer qu’aucun animal non souhaité n’y est tombé. Videz et remplissez tous les deux jours.
+- **Phosphate de fer (Sluggo, Escar-Go) :** Perturbe le métabolisme du calcium dans l’intestin, ce qui fait cesser l’alimentation des escargots et limaces, qui meurent en 3 à 6 jours. Le phosphate de fer est sans danger pour les animaux domestiques, humains, poissons, oiseaux, insectes utiles et mammifères. Il peut être utilisé autour des cultures vivrières, des plantes ornementales, pelouses, jardins, serres et jardins de petits fruits jusqu’à la récolte. Il reste actif jusqu’à 2 semaines, même après plusieurs arrosages.
+- **Métaldéhyde (Deadline) :** Déshydrate rapidement les escargots et limaces s’ils l’ingèrent. Mais si de l’eau est à proximité ou s’il pleut juste après l’application, cela peut ne pas fonctionner. Les limaces peuvent perdre la moitié de leur poids et rétrécir à un tiers de leur taille à cause du métaldéhyde ou du sel, mais elles récupèrent si elles atteignent un sol humide ou s’il pleut. Ces produits ne sont pas recommandés près des légumes à consommer et peuvent être dangereux pour les chiens, chats et poissons. Suivez attentivement l’étiquette.
 
 ---
 
 ## Ressources
-Obtenez des publications de l'Extension de l'OSU : [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
 
-### Conseils de Maîtres Jardiniers™
-- Appelez la ligne d’assistance en horticulture domestique :
-  - 503-655-8631 (Comté de Clackamas)
-  - 503-821-1150 (Comté de Washington)
-  - 503-445-4608 (Comté de Multnomah)
-- Pour les fiches et le calendrier des cours de l'Université en 10 minutes™, visitez : [www.cmastergardeners.org](http://www.cmastergardeners.org)
+Obtenez les publications de l’OSU Extension sur [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Conseils de Maître Jardinier™ · Appelez la ligne d’assistance en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour les fiches et le calendrier des cours 10-Minute University™ : Visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
 ---
 
-L’Université d’État de l’Oregon interdit la discrimination dans tous ses programmes, services, activités et matériaux sur la base de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris expression de genre), orientation sexuelle, handicap, âge, état matrimonial, statut familial/parental, revenu provenant d’un programme d’assistance publique, croyances politiques, informations génétiques, statut de vétéran, représailles ou rétorsions pour une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+##### Le Service de vulgarisation de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, le statut matrimonial, le statut familial/parental, les revenus provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+---

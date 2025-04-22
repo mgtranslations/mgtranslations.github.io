@@ -1,57 +1,115 @@
-# Université en 10 minutes™  
-L'Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme Maître Jardinier™ de l'Extension de l'Université d'État de l'Oregon (OSU)  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme Maître Jardinier™ de l’Extension OSU
 
-## Compostage avec des vers  
-Un bac à vers est un moyen simple de transformer les déchets alimentaires en engrais et amendements pour votre jardin. Les vers rouges sont de voraces recycleurs qui transforment les pelures de pommes, les tiges de courgettes et autres déchets de cuisine en quelques mois seulement. Fournissez-leur une maison avec de la litière et de la nourriture, et ils se mettront au travail.  
+# Le Compostage avec des Vers
 
-### Type et nombre de vers  
-Il existe des milliers d'espèces de vers de terre dans le monde, toutes se nourrissant d'une forme de matière organique. Les vers rouges, Eisenia foetida, sont bien adaptés à un bac à vers car ils préfèrent les déchets de fruits et légumes, sont de gros mangeurs et se reproduisent bien en captivité. Ils sont plus petits que les vers de terre ordinaires. Vous pouvez acheter ces vers au poids dans des catalogues de jardinage ou auprès de fournisseurs spécialisés.  
+Un bac à vers est un moyen facile de transformer les déchets alimentaires en engrais et en amendements pour votre jardin. Les vers rouges sont de grands recycleurs qui transforment les pelures de pomme, les tiges de courgette et d’autres déchets de cuisine en seulement quelques mois. Donnez-leur un foyer avec de la litière et de la nourriture, et ils se mettront au travail.
 
-Les vers peuvent manger la moitié de leur poids en nourriture en 24 heures. Estimez le poids des déchets alimentaires de votre foyer par jour pour déterminer le poids de vers dont vous avez besoin. Deux livres de vers sont nécessaires pour chaque livre de déchets de cuisine ajoutée par jour. Une livre de vers correspond à 1 000 à 2 000 vers !  
+---
 
-### Les bases du bac à vers  
-- Les bacs à vers peuvent être faits maison ou achetés. Vous pouvez commencer avec un bac en plastique en perforant des trous d'aération sur les côtés et le dessus, ou vous pouvez acheter un bac à vers de taille adéquate.  
-- La taille dépend de la quantité de déchets que vous produisez par semaine. Un bac mesurant 30 x 60 x 90 cm peut traiter 2,7 kg de déchets de cuisine par semaine (moyenne pour une famille de quatre à six personnes).  
-- Placez de la litière dans le bac. Une matière organique légère comme des copeaux de bois (pas de cèdre), du papier journal déchiqueté et de la fibre de coco fonctionne bien comme matériau de litière. Ajoutez un peu de sable ou de terre de jardin — les vers aiment un peu de granulat. Remplissez le bac à environ 80 % avec le matériau de litière.  
-- Ajoutez de l'eau à la litière jusqu'à ce qu'elle soit bien humide. Vérifiez l'humidité en pressant un peu dans votre main. Si quelques gouttes d'eau s'écoulent, c'est suffisamment humide. Les vers ont besoin d'une humidité de 75 à 90 % dans leur corps et leur habitat pour survivre.  
-- Une bonne circulation d'air est indispensable dans et autour du bac à vers. Les vers ont besoin d'un approvisionnement constant en oxygène, donc il doit y avoir des trous d'air quelque part sur le bac — soit sur le couvercle, soit sur les côtés. Si vous utilisez un bac en plastique, assurez-vous d'ajouter des trous de drainage et d'aération.  
-- Répartissez vos vers sur la litière préparée. Laissez le couvercle ouvert jusqu'à ce que les vers descendent. Les vers évitent la lumière, donc le bac doit être sombre à l’intérieur et avoir un bon couvercle.  
-- Gardez-les dans un endroit où la température reste entre 10°C et 30°C.  
-- Choisissez un emplacement pratique pour entretenir le bac.  
-- N’utilisez jamais un récipient ayant servi à stocker des produits chimiques toxiques.  
+### Type et Nombre de Vers
 
-### Nourriture pour les vers  
-Bien que les vers puissent décomposer presque tous les déchets organiques, il est préférable de les traiter comme des végétariens.  
-- **À donner :** Déchets de légumes, marc de café et filtres, sachets de thé, pain rassis (sans beurre ni mayonnaise), pelures ou pulpes de fruits, coquilles d'œufs écrasées, poils d'animaux, papier déchiqueté.  
-- **À éviter :** Viande, poisson, produits laitiers, aliments gras ou huileux, oignons, pelures d’agrumes, débris de jardin (feuilles, tiges et tonte de gazon), excréments d’animaux.  
+Il existe des milliers d’espèces de vers de terre dans le monde, qui se nourrissent toutes de matière organique. Les vers rouges (*Eisenia foetida*) conviennent bien à un bac à vers car ils préfèrent les restes de fruits et légumes, mangent beaucoup et se reproduisent bien en captivité. Ils sont plus petits que les vers de terre ordinaires. Vous pouvez acheter ces vers au poids dans des catalogues de jardinage ou auprès de fournisseurs d’insectes utiles.
 
-Pour commencer, ajoutez très peu de nourriture. Cela force les vers à s’enfoncer dans la litière et à s’installer. Lorsque vous ajoutez des déchets alimentaires, écartez une partie de la litière et enterrez la nourriture. Enterrez les charges successives à différents endroits. Avant d’ajouter de nouveaux déchets, vérifiez si les anciens ont été consommés. Si les aliments non consommés s'accumulent, ils peuvent dégager une odeur désagréable. Si cela se produit, arrêtez de nourrir et remuez les déchets avec une truelle ou une fourche de jardin. Ajoutez une litière fraîche. Observez attentivement et ajoutez de la nouvelle nourriture dans quelques jours. Pendant les températures froides de l’hiver, l'activité des vers peut ralentir. Surveillez ce qu’ils mangent pour éviter de leur donner trop de nourriture.  
+Les vers peuvent manger la moitié de leur poids en nourriture en 24 heures. Estimez le poids des déchets alimentaires de votre foyer par jour pour savoir combien de vers il vous faut. Il faut deux livres de vers pour chaque livre de déchets de cuisine ajoutée par jour. Une livre de vers correspond à 1 000 à 2 000 vers !
 
-Bien que les vers se multiplient rapidement, ils régulent leur population en fonction de l'espace disponible et de la quantité de nourriture que vous leur donnez. Il n'y a donc aucune inquiétude concernant une surpopulation de vers.  
+---
 
-### Récolte et utilisation des déjections des vers  
-Après plusieurs mois de nourrissage, une grande partie de la litière du bac se transformera en déjections de vers sombres et friables, que l’on trouvera au fond du bac. Il est temps de retirer ce compost fini et d’ajouter un nouveau matériau de litière. Le liquide récolté peut également être utilisé comme engrais liquide.  
+### Les Bases du Bac à Vers
 
-Les déjections de vers peuvent être ajoutées au sol de votre jardin ou à votre terreau. Étalez une couche d’environ 1 cm de déjections autour de vos plantes préférées et arrosez. Pour le mélange de semis, utilisez 3 parties de compost vieilli pour 1 partie de déjections. Les déjections de vers sont généralement neutres en pH et contiennent du phosphore, de l’azote et d’autres nutriments et minéraux.  
+- **Bacs à vers** : Vous pouvez en fabriquer un vous-même ou en acheter un. Commencez avec une boîte en plastique percée de trous d’aération sur les côtés et le dessus, ou achetez un bac à vers de taille adaptée.
+- **Taille** : Cela dépend de la quantité de déchets que vous produisez par semaine. Un bac de 1 x 2 x 3 pieds peut traiter 6 livres de déchets de cuisine par semaine (moyenne pour une famille de quatre à six personnes).
+- **Litière** : De la matière organique lâche comme des copeaux de bois (pas de cèdre), du papier journal déchiqueté ou de la fibre de coco fonctionne bien comme litière. Ajoutez un peu de sable ou de terre de jardin – les vers aiment un peu de gravier. Remplissez le bac à environ 80 % de litière.
+- **Humidité** : Ajoutez de l’eau jusqu’à ce que la litière soit bien humide. Vérifiez l’humidité en pressant un peu de litière dans votre main. Si quelques gouttes d’eau sortent, c’est assez humide. Les vers ont besoin de 75 à 90 % d’humidité, dans leur corps comme dans la litière.
+- **Aération** : Les vers ont besoin d’oxygène en continu, donc il doit y avoir des trous d’air sur le bac – sur le couvercle ou les côtés. Si vous utilisez une boîte en plastique, ajoutez aussi des trous de drainage.
+- **Ajout des vers** : Répartissez les vers sur la litière préparée. Laissez le couvercle ouvert jusqu’à ce que les vers s’enfoncent. Les vers évitent la lumière, donc le bac doit être sombre à l’intérieur et bien fermé.
+- **Température** : Gardez-les dans un endroit où il fait entre 10°C et 30°C (50° à 85°F).
+- **Emplacement** : Choisissez un endroit pratique pour l’entretien du bac.
+- **Sécurité** : N’utilisez jamais de récipient ayant contenu des produits chimiques toxiques.
 
-Les vers rouges nécessitent des conditions humides toute l’année car ils ne creusent pas profondément pour chercher de l’humidité comme le font les vers de terre. Si vous souhaitez les libérer dans votre jardin, fournissez-leur une épaisse couche de paillis en surface pour maintenir l’humidité et les isoler du chaud et du froid. Si cela n’est pas possible, ne les libérez pas.  
+---
 
-### Problèmes et solutions possibles  
-- **Odeur :** Vous pouvez contrôler les odeurs en ne surchargeant pas le bac avec des déchets alimentaires, en évitant les éléments listés sous "À éviter" dans la section "Nourriture pour les vers" et en fournissant une litière fraîche adéquate.  
-- **Nuisibles :** Parfois, la petite mouche du vinaigre (souvent confondue avec la mouche des fruits) s'infiltre, mais elle ne cause aucun dommage. Cependant, un grand nombre de mouches du vinaigre peut indiquer que vous nourrissez trop les vers. Pour éliminer les mouches du vinaigre, réduisez la quantité de nourriture à ce que les vers peuvent consommer en une journée et couvrez les déchets fraîchement ajoutés avec un sac en toile de jute humide ou du papier journal.  
+### Nourriture pour les Vers
 
-Les fourmis peuvent entrer dans votre bac à vers extérieur si elles sont nombreuses, surtout si la litière est devenue trop sèche ou acide. Ajoutez de l’eau pour augmenter le niveau d’humidité et ajoutez une quantité généreuse de chaux de jardin à l’endroit où les fourmis se rassemblent. Cela devrait les décourager. Si elles persistent, retirez-les physiquement et appliquez de la vaseline autour des points d’entrée.  
+Même si les vers peuvent décomposer presque tous les déchets organiques, il vaut mieux les traiter comme des végétariens.
 
-Les rongeurs peuvent poser problème à l’extérieur. La façon la plus simple de les empêcher d’entrer dans un bac à vers est de garder le couvercle fermé et de ne pas y mettre de déchets de viande. Si vous remarquez des signes d’animaux près du bac, surélevez-le de 30 à 45 cm du sol ou fixez une feuille de grillage métallique au fond intérieur du bac. Fixez le couvercle ou assurez-vous qu’il est bien fermé si les opossums ou les ratons laveurs posent problème.  
+#### À donner :
 
-### Ressources de l’Extension de l’OSU et autres livres  
-- **Jardinage durable – Manuel des Maîtres Jardiniers de l'Oregon-Washington.** EM 8742  
-  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **Worms Eat My Garbage**, Mary Appelhof, Deuxième édition  
-- **Welcome to the Can-O-Worms**, N. Nattrass  
+- Restes de légumes
+- Marc de café et filtres
+- Sachets de thé
+- Pain rassis (sans beurre ni mayonnaise)
+- Pelures ou pulpes de fruits
+- Coquilles d’œuf écrasées
+- Poils d’animaux
+- Papier déchiqueté
 
-### Conseils des Maîtres Jardiniers™  
-- Appelez la ligne d’assistance en horticulture domestique : 503-655-8631 (Comté de Clackamas), 503-821-1150 (Comté de Washington), 503-445-4608 (Comté de Multnomah).  
-- Pour les fiches pratiques de l’Université en 10 minutes™ et le calendrier des cours, visitez [www.cmastergardeners.org](www.cmastergardeners.org).  
+#### À ne pas donner :
 
-L’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et matériels en raison de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, du statut marital, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours négatifs pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+- Viande, poisson, produits laitiers
+- Nourriture grasse ou huileuse
+- Oignons, pelures d’agrumes
+- Déchets de jardin (feuilles, tiges, tontes de gazon)
+- Déjections d’animaux domestiques
+
+Au début, mettez très peu de nourriture. Cela oblige les vers à aller au fond de la litière et à s’installer. Quand vous ajoutez des déchets, écartez la litière et enterrez la nourriture. À chaque ajout, changez d’endroit. Avant d’ajouter de nouveaux déchets, vérifiez que les anciens ont été mangés.
+
+Si la nourriture non consommée s’accumule, une mauvaise odeur peut apparaître. Si cela arrive, arrêtez de nourrir et mélangez les déchets avec une pelle ou une fourche. Ajoutez de la litière fraîche. Observez bien, puis recommencez à nourrir après quelques jours. En hiver, quand il fait plus froid, les vers mangent moins. Vérifiez ce qu’ils mangent pour ne pas leur donner trop.
+
+Même si les vers se multiplient vite, ils adapteront leur nombre à l’espace et à la nourriture disponibles. Il n’y a donc pas de risque de surpopulation.
+
+---
+
+### Récolte et Utilisation des Déjections de Vers
+
+Après plusieurs mois, la litière du bac se transforme en déjections de vers noires et friables, qu’on trouve au fond du bac. Il est temps de retirer ce compost fini et d’ajouter de la nouvelle litière.
+
+Le liquide récolté peut servir d’engrais liquide. Les déjections de vers peuvent être ajoutées à la terre de votre jardin ou à du terreau. Étalez une couche d’environ 1,5 cm autour de vos plantes préférées et arrosez. Pour le mélange à semis, utilisez 3 parts de compost mûr pour 1 part de déjections de vers.
+
+Les déjections de vers sont généralement neutres en pH et contiennent du phosphore, de l’azote et d’autres nutriments et minéraux.
+
+Les vers rouges ont besoin d’humidité toute l’année car ils ne creusent pas profondément comme les vers de terre. Si vous voulez les relâcher dans le jardin, mettez une épaisse couche de paillis pour garder l’humidité et les protéger du chaud et du froid. Sinon, ne les relâchez pas.
+
+---
+
+### Problèmes Possibles et Solutions
+
+#### Odeur
+
+Pour contrôler les odeurs :
+
+- Ne surchargez pas le bac de déchets de cuisine
+- N’ajoutez pas les éléments listés dans “À ne pas donner” dans la section “Nourriture pour les Vers”
+- Ajoutez régulièrement de la litière fraîche
+
+#### Nuisibles
+
+- **Mouches du vinaigre** : Parfois, de toutes petites mouches du vinaigre (qu’on confond avec les mouches à fruits) apparaissent, mais elles sont inoffensives. Si elles sont très nombreuses, c’est peut-être que vous donnez trop à manger aux vers. Pour vous en débarrasser :
+  - Réduisez la quantité de nourriture à ce que les vers peuvent manger en un jour.
+  - Recouvrez les déchets ajoutés d’un sac en toile de jute humide ou de papier journal.
+- **Fourmis** : Les fourmis entrent dans le bac si la litière est trop sèche ou acide.
+  - Ajoutez de l’eau pour augmenter l’humidité.
+  - Ajoutez beaucoup de chaux de jardin là où les fourmis se regroupent.
+  - Si elles restent, retirez-les et mettez de la vaseline autour des points d’entrée.
+- **Rongeurs** : Les rongeurs peuvent poser problème à l’extérieur.
+  - Gardez le couvercle fermé et n’ajoutez pas de viande.
+  - Si vous voyez des traces d’animaux, surélevez le bac de 30 à 45 cm du sol ou fixez un grillage au fond.
+  - Fermez bien le couvercle si des opossums ou des ratons laveurs sont dans les environs.
+
+---
+
+### Ressources du Service d’Extension OSU et Autres Livres
+
+- **Jardinage durable – Le guide du Maître Jardinier Oregon-Washington**  
+  EM 8742  
+  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Les Vers mangent mes déchets**, Mary Appelhof, Deuxième édition
+- **Bienvenue au Can-O-Worms**, N. Nattrass
+
+---
+
+#### Conseils Maître Jardinier™ · Appelez la Ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches 10-Minute University™ et le calendrier des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents, basée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus issus d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les conséquences d’une activité antérieure relative aux droits civils. (Toutes les restrictions ne s’appliquent pas à tous les programmes.)
+---

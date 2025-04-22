@@ -1,55 +1,89 @@
-# Université en 10 Minutes™  
-L'association des jardiniers experts du comté de Clackamas, en collaboration et en soutien au programme des jardiniers experts de l'extension OSU™  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme des Maîtres Jardiniers™ de l’Extension de l’OSU
 
-## Jardinage hydroponique à faible technologie en intérieur  
-L'hydroponie consiste à cultiver des plantes sans sol, dans une solution nutritive à base d'eau. Les systèmes hydroponiques à grande échelle utilisent une technologie sophistiquée pour surveiller le niveau des nutriments, le pH, l'oxygène dissous, la température de la solution nutritive et la quantité de lumière reçue par les plantes. Ce guide présente une option à faible technologie, adaptée aux jardiniers amateurs.  
+# Jardinage Hydroponique à Faible Technologie en Intérieur
 
-### La méthode Kratky d'hydroponie – Une option adaptée aux jardiniers amateurs  
-Bernard A. Kratky, horticulteur à l'Université d'Hawaï, a découvert que les plantes suspendues au-dessus d'une solution nutritive pouvaient développer des racines absorbant l'air à mesure que la solution nutritive était utilisée. La méthode Kratky élimine le besoin de pompes et d'air comprimé. Les avantages de la méthode Kratky incluent :  
-- **Respect de l'environnement** – utilise très peu d'eau et n'a pas besoin de pompes ou de compresseurs pour faire circuler l'eau  
-- **Peu coûteux à démarrer** – nécessite des composants simples et facilement accessibles  
-- **Facile à utiliser** – les nutriments sont incorporés dans l'eau au début du projet ; cette configuration dure toute la période de croissance jusqu'à la récolte  
-- **Résultats rapides** – la culture dans une solution riche en nutriments sous des lumières d'intérieur produit rapidement des produits récoltables  
-- **Moins de pressions de parasites et de maladies en intérieur** – veillez à ne pas introduire d'insectes tels que les pucerons, les tétranyques et les moucherons fongiques à l'intérieur.  
+L’hydroponie consiste à faire pousser des plantes, sans terre, dans une solution nutritive à base d’eau. Les grands systèmes hydroponiques utilisent une technologie avancée pour surveiller le niveau de nutriments, le pH, l’oxygène dissous, la température de la solution nutritive et la quantité de lumière reçue par les plantes. Ce document présente une option simple adaptée aux jardiniers à la maison.
 
 ---
 
-## Liste des fournitures et conseils pour la mise en place du système  
-- **Conteneur pour contenir la solution nutritive/eau** : Tout conteneur solide avec des côtés sombres conviendra. Exemples : bac de mélange de béton (9 gallons), bacs et seaux en plastique (5 gallons), et même des bocaux Mason enveloppés dans du papier sombre. Choisissez la taille en fonction du nombre de légumes que vous prévoyez de cultiver. Prévoyez environ 1,5 gallon par plante et assurez-vous qu'il y ait suffisamment d'espace pour les racines des plantes.  
-- **Couvercle pour le conteneur** : Il remplit trois fonctions :  
-  1. Réduire l'évaporation  
-  2. Soutenir les godets filetés  
-  3. Exclure la lumière  
-Les godets filetés sont suspendus au couvercle pour que les racines des plantes poussent dans la solution nutritive. Le couvercle peut être fourni avec le conteneur ou fabriqué à partir de planche de mousse ou d'autres matériaux.  
-- **Godets filetés** : Ils sont poreux et contiennent le milieu de plantation entourant les graines ou les plants. Les racines poussent à travers les godets filetés dans la solution nutritive. Taille courante des godets : 2 pouces.  
-- **Milieu de plantation** : Il sert d'ancrage pour les graines ou les plants. Options organiques : fibre de coco, perlite, tourbe, ou mélange de terreau. Les billes d'argile inorganiques et la laine minérale peuvent également fonctionner. Vous pouvez planter directement des graines dans les godets filetés remplis de milieu de plantation ou commencer les graines à l'avance et transférer les petits plants dans le godet.  
-- **Nutriments hydroponiques** : Disponibles sous forme liquide ou sèche. La forme sèche est facile à utiliser et coûte moins cher à expédier. MaxiGro et Master Blend sont deux exemples de mélange sec. Il faut environ 2,5 cuillères à soupe de MaxiGro pour préparer 5 gallons de solution nutritive (500-600 ppm).  
-- **Eau** : Utilisez de l'eau avec un pH proche de la neutralité pour préparer la solution nutritive. Vérifiez votre source d'eau : l'eau de puits peut nécessiter un ajustement du pH.  
-- **Lumière** : Suspendue pour être ajustée en hauteur selon la croissance des plantes. Pensez à un système de poulie – souvent fourni avec les lampes de culture. Une lampe LED équivalente à 300–600 W, coûtant entre 35 et 60 $, couvre environ une zone de 3' x 3'. Vérifiez les spécifications des lampes de culture : elles sont étiquetées comme lumière bleue, rouge ou blanche/équilibrée.  
-  - Les lampes bleues ou mixtes conviennent au démarrage des graines et aux légumes à feuilles.  
-  - Les lampes rouges ou mixtes conviennent à la formation des bourgeons des plantes à fleurs et permettent de garder les plantes plus petites.  
-  - Les lampes blanches ou mixtes/équilibrées conviennent à la plupart des plantes à tout stade de croissance.  
-Utilisez une minuterie pour fournir de la lumière 12 à 14 heures par jour et 10 à 12 heures d'obscurité.  
+## La Méthode Kratky d’Hydroponie – Un Bon Choix pour les Jardiniers à la Maison
+
+Bernard A. Kratky, horticulteur à l’Université d’Hawaï, a découvert que les plantes suspendues au-dessus d’une solution nutritive peuvent développer des racines aériennes à mesure que la solution est utilisée. La méthode Kratky élimine le besoin de pompes et d’air comprimé. Les avantages de la méthode Kratky incluent :
+
+- **Respectueuse de l’environnement** – Elle utilise très peu d’eau et n’a pas besoin de pompes ni de compresseurs pour faire circuler l’eau.
+- **Peu coûteuse à démarrer** – Elle nécessite des composants simples et faciles à trouver.
+- **Facile à utiliser** – Les nutriments sont ajoutés à l’eau au début du projet ; cette installation dure toute la période de croissance jusqu’à la récolte.
+- **Résultats rapides** – La culture dans une solution nutritive sous lumière d’intérieur produit rapidement des récoltes.
+- **Moins de maladies et de ravageurs en intérieur** – Faites attention à ne pas introduire d’insectes comme les pucerons, acariens et moucherons.
 
 ---
 
-## Comment commencer la culture hydroponique  
-1. Installez l'ensemble du système.  
-2. Mélangez la solution nutritive. Dans le cas des nutriments secs, veillez à bien les dissoudre.  
-3. Remplissez le conteneur à une profondeur permettant d'immerger le fond du godet filet à environ ¼".  
-4. Ajoutez le milieu de plantation dans le godet filet et insérez les graines (éclaircissez à une graine après la germination) ou transplantez les plants.  
-5. Réglez le niveau de lumière et la minuterie.  
-6. Surveillez les performances des plantes et ajustez la lumière à mesure qu'elles grandissent.  
-7. Récoltez les légumes à feuilles comme la laitue, la bette à carde, les épinards et le basilic en retirant les feuilles extérieures au fur et à mesure de leur croissance pour prolonger la saison de récolte, au lieu de couper toute la plante lorsqu'elle est mature.  
-8. Après la récolte, démontez le conteneur, le couvercle et le godet filet. Versez la solution nutritive restante dans le jardin. Nettoyez les composants avant la prochaine utilisation.  
+## Liste de Fournitures & Conseils pour l’Installation
+
+- **Contenant pour la solution nutritive** :  
+  Tout récipient solide avec des côtés foncés conviendra. Exemples : bacs à ciment (9 gallons), boîtes ou seaux en plastique (5 gallons), ou bocaux Mason enveloppés de papier foncé. Choisissez la taille selon le nombre de légumes à cultiver. Prévoyez environ 5,5 litres (1,5 gallon) par plante et assurez-vous qu’il y a assez d’espace pour les racines.
+
+- **Couvercle pour le contenant** :  
+  Le couvercle a trois fonctions :  
+  1. Limite l’évaporation.  
+  2. Soutient les godets filets.  
+  3. Empêche la lumière d’entrer.  
+  Les godets filets pendent du couvercle pour que les racines poussent dans la solution. Le couvercle peut venir avec le contenant ou être fabriqué à partir de panneaux de mousse ou autres matériaux.
+
+- **Godets filets** :  
+  Les godets filets sont poreux et contiennent le substrat de culture qui entoure les graines ou plants. Les racines traversent les godets pour atteindre la solution nutritive. La taille courante est de 5 cm (2 pouces).
+
+- **Substrat de culture** :  
+  Sert de support aux graines ou plants. Options organiques : fibre de coco, perlite, tourbe ou terreau. Les billes d’argile et la laine minérale fonctionnent aussi. On peut semer directement dans les godets remplis de substrat ou démarrer les plants à l’avance et les déplacer ensuite dans le godet.
+
+- **Nutriments hydroponiques** :  
+  Disponibles sous forme liquide ou sèche. La forme sèche est facile à utiliser et moins chère à expédier. MaxiGro et Master Blend sont deux exemples de mélanges secs. Il faut environ 2,5 cuillères à soupe de MaxiGro pour 19 litres (5 gallons) de solution nutritive (500–600 ppm).
+
+- **Eau** :  
+  L’eau pour la solution doit avoir un pH presque neutre. Vérifiez votre eau. L’eau de puits peut nécessiter un ajustement du pH.
+
+- **Lumière** :  
+  La lumière est suspendue pour être ajustée selon la croissance des plantes. Un système de poulie peut être inclus avec les lampes de culture. Une lampe LED équivalente à 300–600 W, coûtant entre 35 et 60 $, couvre une surface d’environ 90 x 90 cm (3’ x 3’).
+
+  Vérifiez les spécifications d’une lampe de culture :
+  - Les lumières bleues ou mixtes conviennent au démarrage des semis et aux plantes à feuilles.
+  - Les lumières rouges ou mixtes favorisent la floraison et gardent les plantes plus courtes.
+  - Les lumières blanches ou mixtes conviennent à la plupart des plantes à tout stade de croissance.
+
+  Utilisez une minuterie pour fournir 12 à 14 heures de lumière et 10 à 12 heures d’obscurité.
 
 ---
 
-## Pour plus d'informations  
-- **Trois méthodes hydroponiques sans circulation pour cultiver de la laitue**, vidéo de B. A. Kratky : [https://www.youtube.com/watch?v=jiGQsfiPwkI](https://www.youtube.com/watch?v=jiGQsfiPwkI)  
-- **Culture hydroponique à la maison**, vidéo de l'Université en 10 Minutes™ : [www.cmastergardeners.org/10-minute-university](www.cmastergardeners.org/10-minute-university)  
-- **Cultivez de la laitue dans votre salon : Nourrissez votre famille grâce à votre jardin hydroponique intérieur LED**, Dan Chiras & Victor Zaderej  
+## Méthode Hydroponique Kratky
+
+À la plantation :
+- La solution nutritive remplit presque le contenant pour immerger le bas du godet filet d’environ 6 mm (¼ po).
+
+À la récolte :
+- La solution nutritive a été absorbée par la plante et a beaucoup diminué. L’espace entre le couvercle et la solution est occupé par de l’air humide.
 
 ---
 
-L'Oregon State University Extension Service interdit toute discrimination dans ses programmes, services, activités et matériels sur la base de la race, de la couleur, de l'origine nationale, de la religion, du sexe, de l'identité de genre (y compris l'expression de genre), de l'orientation sexuelle, du handicap, de l'âge, du statut marital, du statut familial/parental, du revenu provenant d'un programme d'aide publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retorsions pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s'appliquent pas à tous les programmes.)
+## Comment Commencer à Cultiver en Hydroponie
+
+1. Installez tout le système.
+2. Mélangez la solution nutritive. Pour les nutriments secs, veillez à bien les dissoudre.
+3. Remplissez le contenant afin d’immerger le bas du godet filet d’environ 6 mm (¼ po).
+4. Ajoutez le substrat dans le godet et insérez les graines (éclaircissez à une seule après germination) ou transplantez un plant.
+5. Réglez la lumière et la minuterie.
+6. Surveillez la croissance et ajustez la lumière au fur et à mesure.
+7. Récoltez les feuilles de laitue, bette, épinard et basilic en retirant les feuilles extérieures au fur et à mesure, pour prolonger la saison, au lieu de couper toute la plante à maturité.
+8. Après la récolte, démontez le contenant, le couvercle et les godets. Jetez la solution nutritive restante dans le jardin. Nettoyez les éléments avant la prochaine utilisation.
+
+---
+
+## Pour Plus d’Informations
+
+- [Trois méthodes hydroponiques non circulantes pour cultiver la laitue](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Vidéo de B. A. Kratky
+- [La culture hydroponique à la maison](http://www.cmastergardeners.org/10-minute-university) – Une vidéo de 10-Minute University™
+- *Cultivez de la laitue dans votre salon : nourrissez votre famille grâce à votre jardin hydroponique intérieur à LED* par Dan Chiras & Victor Zaderej
+
+---
+
+###### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+---

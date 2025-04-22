@@ -1,70 +1,122 @@
-# Đại học 10 Phút™
+#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chủ Chốt Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chủ Chốt của OSU Extension
 
-Hiệp hội Người Làm Vườn Chuyên Gia Quận Clackamas hợp tác và hỗ trợ với Chương trình Người Làm Vườn Chuyên Gia của OSU Extension™
+# Quản Lý Sên và Ốc Sên
 
-## Quản lý Sên và Ốc Sên
+### Một Số Thông Tin Cơ Bản
 
-### Một số thông tin cơ bản
+Sên và ốc sên trên cạn là những loài động vật thân mềm sống trên đất liền, thân mềm và có thể sống đến sáu năm. Khi chúng di chuyển trên “bàn chân” cơ bắp tiết ra chất nhầy, chúng để lại một vệt nhớt đặc trưng. Những con trưởng thành hoạt động vào ban đêm và những ngày nhiều mây hoặc sương mù, tìm nơi ẩn nấp vào những ngày nắng.
 
-Sên và ốc sên trên đất liền là các loài thân mềm sống trên đất, mềm, sống tới sáu năm. Khi chúng di chuyển trên một "bàn chân" cơ bắp liên tục tiết ra chất nhờn, chúng để lại một dấu vết chất nhờn đặc trưng. Loài trưởng thành hoạt động vào ban đêm và vào những ngày nhiều mây hoặc sương mù, trong khi tìm nơi ẩn náu vào những ngày nắng.
+Sên thường đào sâu vào đất, có thể sâu tới 1,8 mét, để tìm môi trường mát mẻ và ẩm ướt. Ốc sên tự bịt mình lại bằng một màng mỏng như giấy để bảo vệ trong thời kỳ nóng, khô hoặc khi trời lạnh. Khi trời lạnh, cả ốc sên và sên đều ngủ đông ở lớp đất mặt. Ở những nơi có mùa đông ôn hòa, ốc sên và sên có thể hoạt động quanh năm.
 
-Sên thường đào sâu vào đất, tới sáu feet, để tìm môi trường mát mẻ và ẩm ướt. Ốc sên tự bảo vệ mình bằng một màng giống như giấy da trong các giai đoạn nóng, khô hoặc khi trời lạnh. Trong thời tiết lạnh, ốc sên và sên ngủ đông ở lớp đất mặt. Ở những khu vực có mùa đông ôn hòa, ốc sên và sên có thể hoạt động suốt cả năm.
+Hầu hết các loài sên và ốc sên trên cạn đều là lưỡng tính, mỗi con trưởng thành đều có cả cơ quan sinh dục đực và cái. Ốc sên nâu trưởng thành trong hai năm và đẻ trung bình 80 quả trứng hình cầu, màu trắng ngọc trai mỗi lần trong tổ dưới đất, có thể đến 6 lần mỗi năm. Sên trưởng thành sau ba đến sáu tháng và đẻ trứng có màu trắng trong hoặc trắng sữa, hình bầu dục đến tròn, mỗi lần từ 3 đến 40 quả.
 
-Hầu hết các loài sên và ốc sên trên đất đều là loài lưỡng tính, với mỗi cá thể trưởng thành có cả cơ quan sinh sản nam và nữ. Ốc sên nâu trưởng thành trong hai năm và bắt đầu đẻ trung bình 80 quả trứng hình cầu, màu trắng ngọc trai vào một thời điểm trong các tổ dưới đất, lên tới sáu lần mỗi năm. Sên đạt độ trưởng thành trong ba đến sáu tháng và đẻ trứng màu trắng trong suốt hoặc trắng sữa, hình bầu dục hoặc tròn, theo từng lô từ 3 đến 40 quả.
+### Tác Hại
 
-### Tác hại
-
-Cả ốc sên và sên đều ăn các cây sống và các chất thối rữa từ cây, gây hại cho lá, hoa, quả và các bộ phận cây mọng nước khác. Hãy tìm các dấu vết nhờn bạc để xác nhận sự có mặt của chúng. Thiệt hại của chúng thường có dạng các lỗ không đều với cạnh mịn.
-
-### Cách kiểm soát sên và ốc sên
-
-Kết hợp các kỹ thuật dưới đây sẽ hiệu quả nhất trong việc giảm số lượng sên và ốc sên và giảm thiểu thiệt hại cho khu vườn của bạn. Thời điểm tốt nhất để kiểm soát lâu dài là xử lý toàn bộ khu vườn vào mùa thu. Bằng cách này, sẽ có ít sên và ốc sên trưởng thành để đẻ trứng. Một lần xử lý thứ hai vào cuối mùa đông hoặc đầu mùa xuân sẽ giúp giảm số lượng cá thể trưởng thành. Một lần xử lý thứ ba sau đó một tháng sẽ giúp khu vườn của bạn trong tình trạng tốt cho mùa trồng trọt. Tuy nhiên, việc theo dõi thường xuyên cũng cần thiết vì sên và ốc sên có thể tái nhiễm khu vườn từ các khu vực lân cận.
-
-#### Chọn cây một cách cẩn thận
-
-**Cây chống chịu:** Agapanthus, Anemone, Astilbe, Tre, Hoa Tim Chảy, Candytuft, Coral Bells, Dương Xỉ, Foxglove, Hens and Chicks, Ivy, Juniper, Nandina, Sedum, Solomon’s Seal, Sweet Woodruff, Wintergreen, Yew.
-
-**Sên thích ăn:** Húng quế, Họ Cải Broccoli, Cà rốt, Xà lách, Khoai tây, Dâu tây, Campanula, Hoa Thủy Tiên, Gardenia, Gentian, Hosta, Impatiens, Dương Xỉ Nhật Bản, Leopard’s Bane, Hoa Lily, Lobelia (đa niên), Cúc Vạn Thọ, Narcissus, Hoa Anh Đào, Star of Bethlehem, Trillium, Tuberose Begonia, Viola, Gừng Dại.
-
-#### Loại bỏ nơi ẩn nấp ẩm ướt và tối
-
-- **Tưới nước hợp lý:** Tránh tưới nước cho khu vườn vào buổi tối khi sên và ốc sên ra ngoài kiếm ăn. Hãy tưới vào buổi sáng thay vào đó.
-- **Xới đất vào mùa xuân:** Giảm thiểu lá cây vụn để tránh tạo điều kiện cho sên và ốc sên non khi chúng nở.
-- **Lật lớp phủ mùa đông:** Mặc dù lớp phủ có lợi cho cây và đất, nó cũng là nơi ẩn nấp tốt. Lật lớp phủ và các mảnh vụn trong vườn để lộ các loài gây hại và trứng của chúng cho các loài săn mồi.
-
-#### Dựng rào chắn
-
-- **Dải đồng:** Các thử nghiệm cho thấy sên có thể nhận được một cú sốc điện khi chúng bò qua đồng nếu dải hoặc lưới đồng đủ rộng để ngăn chúng nâng cơ thể qua. Tuy nhiên, phần lớn dải đồng được bán trong các cửa hàng làm vườn cho mục đích này không đủ rộng để tạo ra rào chắn hiệu quả.
-- **Vôi, tro, đất diatomite (dạng khô):** Làm chậm sên nhưng không giết chúng. Các rào chắn này cần được thay thế sau khi có mưa hoặc tưới nước.
-
-#### Khuyến khích loài săn mồi
-
-Nhiều loài động vật ăn sên và ốc sên, bao gồm cóc, rắn, bọ, ruồi đầm lầy, chim, ếch, kỳ nhông, con rái cá, vịt, cuốn chiếu, nhím và gấu mèo. Khuyến khích những loài phù hợp với cách làm vườn của bạn.
-
-#### Đặt bẫy
-
-- **Bẫy tự chế:** Các bẫy tự chế như một tấm ván phẳng hoặc chậu hoa úp ngược với một cạnh được nâng lên là nơi ẩn nấp hấp dẫn. Tương tự, lá bắp cải úp ngược, vỏ cam/quýt cũng hoạt động tốt. Đặt các bẫy vào buổi tối. Kiểm tra bẫy và tiêu diệt loài gây hại mỗi sáng cho đến khi số lượng giảm, sau đó kiểm tra hàng tuần.
-- **Nhặt bằng tay:** Hai lần mỗi tuần vào đầu mùa xuân và mùa thu, kiểm tra các nơi ẩn nấp điển hình dưới đá và dưới tán lá. Thực hiện việc này vào ban đêm (hiệu quả hơn) hoặc ban ngày; bỏ sên và ốc sên vào một xô nước xà phòng. Đeo găng tay hoặc sử dụng nhíp. Nếu bạn bị chất nhờn trên da, hãy rửa bằng giấm trắng và nước ấm.
-
-#### Mồi
-
-- **Bia hoặc hỗn hợp men và mật ong:** Đặt một bẫy sâu, như hộp sữa chua sâu, với mép ở mức mặt đất. Điều này đảm bảo các loài gây hại không thể bò ra ngoài. Chuẩn bị hỗn hợp mật ong và men bằng cách đun sôi nước với một ít mật ong và men; tỷ lệ không quan trọng. Bia có thể được sử dụng nguyên trạng. Kiểm tra hộp hàng ngày để đảm bảo không có ếch hoặc sinh vật khác bị rơi vào. Làm trống và bổ sung mồi mỗi vài ngày.
-
-- **Sắt Phosphate (Sluggo, Escar-Go):** Gây rối loạn chuyển hóa canxi trong ruột, khiến ốc sên và sên ngừng ăn và chết sau 3 đến 6 ngày. Sắt phosphate an toàn để sử dụng quanh thú cưng, con người, cá, chim, côn trùng có lợi, và động vật có vú. Nó có thể được sử dụng quanh cây trồng thực phẩm, cây trang trí, bãi cỏ, nhà kính, và vườn berry cho đến khi thu hoạch. Sắt phosphate vẫn hoạt động trong tối đa 2 tuần, ngay cả khi bị ướt lặp lại.
-
-- **Metaldehyde (Deadline):** Làm mất nước ốc sên hoặc sên nhanh chóng nếu ăn phải. Tuy nhiên, nếu có nước gần đó hoặc nếu trời mưa ngay sau khi sử dụng, nó có thể không hoạt động. Một con sên có thể mất một nửa trọng lượng cơ thể và co lại thành một phần ba kích thước từ Metaldehyde hoặc muối và hồi phục nếu nó có thể đến được đất ướt đủ nhanh hoặc nếu trời mưa. Các sản phẩm này không được khuyến nghị sử dụng quanh rau ăn được và có thể gây hại cho chó, mèo và cá. Làm theo nhãn cẩn thận.
+Cả sên và ốc sên đều ăn cây sống và xác thực vật, gây hại cho lá, hoa, quả, và các bộ phận cây mọng nước khác. Hãy tìm dấu vết chất nhầy màu bạc để xác nhận sự hiện diện của chúng. Tác hại thường xuất hiện dưới dạng các lỗ không đều với mép nhẵn.
 
 ---
 
-## Tài nguyên
+## Cách Kiểm Soát Sên và Ốc Sên
 
-Nhận các ấn phẩm của OSU Extension tại [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+Kết hợp các phương pháp dưới đây sẽ hiệu quả nhất trong việc giảm số lượng sên và ốc sên cũng như hạn chế tác hại cho vườn của bạn. Thời điểm tốt nhất để kiểm soát lâu dài là xử lý toàn bộ khu vườn vào mùa thu. Điều này giúp giảm số lượng sên và ốc sên trưởng thành đẻ trứng. Lần xử lý thứ hai vào cuối mùa đông hoặc đầu mùa xuân sẽ giúp giữ số lượng trưởng thành ở mức thấp. Lần xử lý thứ ba sau đó một tháng nên chuẩn bị cho mùa trồng trọt. Cần kiểm tra thường xuyên, vì sên và ốc sên có thể quay lại từ các khu vườn lân cận.
 
-### Lời khuyên của Người Làm Vườn Chuyên Gia™
+### Lựa Chọn Cây Trồng Cẩn Thận
 
-- Gọi đến đường dây trợ giúp về làm vườn tại nhà: 503-655-8631 (Quận Clackamas), 503-821-1150 (Quận Washington), 503-445-4608 (Quận Multnomah).
-- Để có tài liệu và lịch trình lớp học của Đại học 10 Phút™, hãy truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org).
+**Cây Kháng Sên:**
+- Lan Ý (Agapanthus)
+- Thược dược
+- Astilbe
+- Tre
+- Tim chảy máu (Bleeding Hearts)
+- Candytuft
+- Chuông san hô (Coral Bells)
+- Dương xỉ
+- Hoa mao địa hoàng (Foxglove)
+- Hens and chicks (Sen đá)
+- Ivy (Dây thường xuân)
+- Bách xù (Juniper)
+- Nandina (Trúc đào Nhật)
+- Sedum
+- Solomon’s Seal
+- Sweet Woodruff
+- Wintergreen
+- Yew (Thanh tùng)
+
+**Cây Sên Thích Ăn:**
+- Húng quế
+- Các loại họ cải (Bông cải)
+- Cà rốt
+- Xà lách
+- Khoai tây
+- Dâu tây
+- Campanula (Hoa chuông)
+- Thủy tiên (Daffodils)
+- Gardenia (Dành dành)
+- Gentian (Long đởm)
+- Hosta (Cây hosta)
+- Impatiens (Hoa mai địa thảo)
+- Dương xỉ Nhật Bản
+- Leopard’s bane
+- Lily (Hoa loa kèn)
+- Lobelia (hoa lâu năm)
+- Cúc vạn thọ
+- Narcissus (Thủy tiên)
+- Hoa anh thảo (Primrose)
+- Star of Bethlehem
+- Trillium
+- Tuberose Begonia (Thu hải đường củ)
+- Viola (Hoa tím)
+- Gừng rừng (Wild Ginger)
+
+### Loại Bỏ Nơi Ẩn Nấp Ẩm Ướt, Tối
+
+- **Tưới nước hợp lý:** Tránh tưới vườn vào buổi tối khi sên và ốc sên ra ăn. Thay vào đó, hãy tưới vào buổi sáng.
+- **Làm đất vào mùa xuân:** Giảm thiểu lá rụng để hạn chế thức ăn cho sên và ốc sên non khi chúng nở.
+- **Lật lớp phủ mùa đông:** Mặc dù lớp phủ có lợi cho cây và đất, nhưng cũng là nơi ẩn nấp tốt cho sên và ốc sên. Hãy lật lớp phủ và rác vườn để lộ ra những con vật gây hại và trứng của chúng cho các loài ăn thịt.
+
+### Dựng Hàng Rào Ngăn
+
+- **Dải đồng:** Các thí nghiệm cho thấy sên có thể bị điện giật nhẹ khi bò qua đồng nếu dải đủ rộng để sên không thể nâng mình lên. Tuy nhiên, hầu hết các dải đồng bán trên thị trường không đủ rộng để làm rào chắn hiệu quả.
+- **Vôi, tro, đất tảo cát (dạng khô):** Những chất này làm chậm sên nhưng không giết được chúng. Hàng rào này cần được thay mới sau khi mưa hoặc tưới nước.
+
+### Khuyến Khích Động Vật Ăn Sên
+
+Nhiều loài động vật ăn sên và ốc sên, bao gồm:
+- Cóc
+- Rắn
+- Bọ cánh cứng
+- Ruồi đầm lầy
+- Chim
+- Ếch
+- Kỳ giông
+- Sa giông
+- Vịt
+- Rết
+- Nhím
+- Gấu mèo
+
+Khuyến khích các loài ăn thịt phù hợp với phong cách làm vườn của bạn.
+
+### Đặt Bẫy
+
+- **Bẫy tự chế:** Dùng tấm gỗ phẳng hoặc chậu hoa lật úp với một cạnh kê lên để làm nơi ẩn hấp dẫn. Lá bắp cải hoặc vỏ cam/quýt lật úp cũng rất hiệu quả. Đặt bẫy vào buổi tối và kiểm tra mỗi sáng cho đến khi số lượng giảm, sau đó kiểm tra hàng tuần.
+- **Bắt tay:** Hai lần mỗi tuần vào đầu mùa xuân và mùa thu, tìm kiếm ở những nơi ẩn nấp điển hình dưới đá hoặc tán lá. Làm điều này vào ban đêm (hiệu quả hơn) hoặc ban ngày. Thả sên và ốc sên vào xô nước xà phòng. Đeo găng tay hoặc dùng nhíp. Nếu dính nhớt lên da, rửa bằng giấm trắng và nước ấm.
+
+### Bả
+
+- **Bia hoặc hỗn hợp men và mật ong:** Đặt bẫy sâu như hộp sữa chua, miệng ngang mặt đất để sên không bò ra ngoài. Nấu hỗn hợp mật ong và men với nước sôi, tỉ lệ không cần chính xác. Có thể dùng bia nguyên chất. Kiểm tra hộp hàng ngày để đảm bảo không có con vật nào khác rơi vào. Đổ bỏ và thay mới sau vài ngày.
+- **Sắt Phốt Phát (Sluggo, Escar-Go):** Làm gián đoạn chuyển hóa canxi trong ruột, khiến sên và ốc sên ngừng ăn và chết sau 3 đến 6 ngày. Sắt phốt phát an toàn cho thú cưng, người, cá, chim, côn trùng có ích và động vật có vú. Có thể dùng quanh cây thực phẩm, cây cảnh, bãi cỏ, vườn, nhà kính và vườn dâu cho đến khi thu hoạch. Sắt phốt phát có tác dụng đến 2 tuần, kể cả khi bị ướt nhiều lần.
+- **Metaldehyde (Deadline):** Làm mất nước nhanh chóng nếu sên và ốc sên ăn phải. Tuy nhiên, nếu có nước gần đó hoặc mưa ngay sau khi rải, hiệu quả sẽ giảm. Sên có thể mất nửa trọng lượng cơ thể, teo lại còn một phần ba kích thước do Metaldehyde hoặc muối nhưng sẽ hồi phục nếu gặp đất ướt hoặc mưa. Không nên dùng sản phẩm này quanh rau ăn và có thể gây hại cho chó, mèo và cá. Tuân thủ hướng dẫn trên nhãn.
 
 ---
 
-Dịch vụ Extension của Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc trẻ em, thu nhập từ chương trình hỗ trợ công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa cho hoạt động dân quyền trước đây (không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình).
+## Tài Nguyên
+
+Nhận tài liệu của OSU Extension tại [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Tư Vấn Làm Vườn Chủ Chốt™ · Gọi đường dây tư vấn Làm Vườn Gia Đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để nhận tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Dịch vụ mở rộng của Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình, thu nhập từ chương trình trợ giúp công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hay phân biệt đối xử vì hoạt động dân quyền trước đó. (Không phải tất cả các điều cấm phân biệt đều áp dụng cho tất cả các chương trình.)
+---

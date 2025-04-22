@@ -1,58 +1,102 @@
-### 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener Association tau koom tes nrog thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-### Kauj Ruam Kawm 10 Yam Nroj Qus  
-**Nroj Qus** yog cov nroj tsuag uas ua teeb meem lossis ua kev phiav raws rau tib neeg, tsiaj, lossis cov qoob loo uas xav tau.  
-Hauv vaj tsev, lawv tuaj yeem sib tw nrog cov qoob loo uas xav tau, ua rau vaj tsev zoo nkauj tsawg dua, ua rau muaj kev fab los sis muaj tshuaj lom rau tib neeg thiab tsiaj, lossis ua chaw rau kab mob, nas, thiab kab tsuag.  
+# Kaum Tsob Nyom Tseem Ceeb Uas Yuav Tau Paub
 
-### Yuav Tswj Nroj Qus Li Cas  
-Paub txog koj cov nroj qus pab txhawb kom paub txoj hauv kev zoo tshaj los tswj lawv. **Cov nroj qus ib xyoos** loj hlob ib lub caij xwb, yog li tseem ceeb yog tshem lawv tawm ua ntej lawv sib tw nrog qoob loo lossis tsim noob. **Cov nroj qus nyob tau ntau xyoo** xav tau kev tshem tawm kom huv si ntawm lawv cov cag lossis tua lawv nrog tshuaj tua nroj qus. Cov nroj qus no tseem faib los ntawm noob.  
-- **Kev Tiv Thaiv Nroj Qus:** Tshawb xyuas cov khoom koj nqa mus rau hauv vaj tsev kom zoo. Qhov no yuav suav nrog cov av sib xyaw, av, thiab nroj tsuag. Xyuas koj lub vaj kom tsis txhob muaj cov nroj qus nthuav tawm ntawm cov nroj qus nyob ze.  
-- **Kev Siv Txuj Ci thiab Cov Cuab Yeej Tswj:** Yuav tsum tshem nroj qus ntxov thiab tas li kom lawv tsis txhob muaj chaw txhawb. Tiv thaiv nroj qus los ntawm kev tsim noob. Hloov cov nroj tsuag zaub thiab cog cov nroj tsuag npog tuaj yeem txo cov nroj qus.  
-- **Kev Siv Cov Mulching:** Mulching pab txo nroj qus. Cov mulching organic uas siv ntau yog tawv ntoo los sis nplooj sib xyaw, av sib xyaw, thiab ntawv xov. Cov mulching uas tsis yog organic muaj xws li yas los sis ntaub npog vaj.  
-- **Kev Siv Dej Rau Cov Nroj Tsaug Xav Tau:** Siv dej rau cov nroj tsuag uas xav tau, xws li siv dej txaws lossis dej tes tsom rau cov nroj tsuag, yuav txo nroj qus loj hlob.  
-- **Kev Siv Tshuaj Tua Nroj Qus:** Siv tshuaj tua nroj qus thaum kawg xwb. Ua raws li cov lus qhia ntawm daim ntawv lo. Cov lus txhais luv luv:  
-  - **Pre-emergent herbicides** siv rau ua ntej nroj qus tawm.  
-  - **Post-emergent herbicides** siv tom qab nroj qus tawm.  
-  - **Selective herbicides** tswj tau qee cov nroj tsuag tab sis tsis yog txhua yam.  
-  - **Non-selective herbicides** puas tau ntau hom nroj tsuag.  
-  - **Systemic herbicides** txav ntawm qhov chaw thov mus rau lwm qhov ntawm cov nroj tsuag.  
-  - **Non-systemic herbicides** tsuas cuam tshuam qhov chaw uas lawv txhob.  
+Ib tsob nyom yog ib tsob nroj uas ua teeb meem lossis ntxhov siab, lossis ua rau tib neeg, tsiaj txhu, lossis cov qoob loo uas peb xav tau raug mob. Nyob hauv vaj tsev, cov nyom tuaj yeem:
+- Sib tw nrog cov nroj uas peb xav loj hlob
+- Ua rau tej chaw zoo nkauj tsis zoo saib lawm
+- Ua rau tib neeg lossis tsiaj txhu ua xuas ntxhiab lossis lom
+- Cia tus kab mob, nas, thiab kab tsuag nyob
 
-### Cov Nroj Qus Uas Pom Nyob Hauv Peb Cheeb Tsam  
-#### **Dandelion (Asteraceae) – Cov Nroj Qus Nyob Tau Ntau Xyoo**  
-Dandelion yog ib hom nroj tsuag nyob ntev, muaj paj daj me me nyob saum tus ncej. Nws loj hlob zoo nyob rau chaw ntub dej. **Kev Tswj:** Tshem tag nrho cov cag txhub uas tuaj yeem tob thiab nthuav tawm ua ntej nroj qus tsim noob. Nyob hauv vaj nyom, ntxiv cov noob nyom rau qhov chaw khoob kom txo nroj qus ntxiv.  
+---
 
-#### **Clover (Trifolium, Medicago, thiab Melilotus) – Qee Yam Ib Xyoos, Qee Yam Nyob Tau Ntau Xyoo**  
-Cov clover muaj cag txhub thiab nplooj zoo li clover. Cov nroj uas nthuav mus rau hauv cov pob loj loj. **Kev Tswj:** Tshem cov cag txhub ua ntej lawv tsim noob. Noob muaj kev tiv thaiv thiab nyuaj tua; siv mulching los tiv thaiv noob loj hlob.  
+## Yuav Tswj Cov Nyom Li Cas
 
-#### **Quackgrass (Elytrigia repens) - Cov Nroj Qus Nyob Tau Ntau Xyoo**  
-Quackgrass yog nroj tsuag siab, tuaj yeem tsim cov pob, thiab loj hlob txog ze li 4 ko taw. Nws tsim los ntawm noob thiab cov cag nthuav tawm hauv av. **Kev Tswj:** Ntxiv nitrogen rau av thiab txiav nyom tas li. Nws nyuaj tshem tawm cov nroj qus no siv cuab yeej.  
+Paub koj cov nyom pab kom koj nrhiav tau txoj kev tswj hwm zoo tshaj plaws:
+- **Nyom ib xyoos** loj hlob ib xyoos xwb. Tshem tawm ua ntej lawv sib tw nrog qoob loo thiab/los yog tso noob.
+- **Nyom ntev** nyob tau ntau xyoo. Yuav tsum khawb kom tau tag nrho cov cag los yog siv tshuaj tua nroj uas nkag mus rau txhua qhov ntawm tsob nroj. Lawv kuj tseem muaj peev xwm sib faib los ntawm noob.
 
-#### **Annual Bluegrass (Poa annua) – Cov Nroj Qus Ib Xyoos**  
-Annual bluegrass muaj ncej du uas tuaj yeem ncaj lossis nthuav. Lawv yog 2 txog 12 ntiv tes ntev thiab qee zaum tsim cov pob tuab. Lub sijhawm paj thiab tsim noob yog Lub Peb Hlis txog Lub Yim Hli. **Kev Tswj:** Siv rab liag lossis tshem tawm ua ntej tsim noob. Nyuaj tswj hauv vaj nyom.  
+### Txoj Kev Tswj Cov Nyom
 
-#### **English Ivy (Hedera helix) - Cov Nroj Qus Nyob Tau Ntau Xyoo**  
-English ivy faib los ntawm noob thiab stolon. Cov ncej loj hlob hauv ntoo yuav tsim txiv uas cov noob faib tau los ntawm noog. **Kev Tswj:** Siv tes khawb lossis rub tawm. Txiav cov ivy uas loj hlob hauv ntoo ntawm qhov siab ntawm lub duav thiab khawb cov cag.  
+1. **Txwv tsis pub nkag los**
+   - Saib zoo zoo txhua yam uas koj nqa los rau hauv vaj, xws li compost, av, thiab nroj tsuag.
+   - Saib xyuas koj thaj av tiv thaiv cov nyom uas tawm ntawm neeg zej zog tuaj.
 
-#### **Creeping Buttercup (Ranunculus repens) – Cov Nroj Qus Nyob Tau Ntau Xyoo**  
-Cov nroj tsuag no loj hlob txog ib ko taw siab, faib los ntawm stolon thiab noob, thiab tsim cov ntaub tuab hauv chaw av ntub uas tsis zoo. Nplooj yog ntsuab tsaus nrog qhov chaw kaj thiab muab faib ua peb lub nplooj me me. Paj yog daj ci. **Kev Tswj:** Hauv vaj nyom, txhim kho dej ntws, tiv thaiv av nkhaus, thiab txhawb nyom noj qab haus huv los ntawm ntxiv cov noob thiab cov chiv raws li xav tau. Tshem tawm cov cag thiab cov stolon thaum av ntub dej, feem ntau ua tau zoo tshaj nyob rau lub caij nplooj zeeg mus rau lub caij nplooj ntoos hlav.  
+2. **Kev coj thiab siv cuab yeej ua haujlwm**
+   - Tso nyom thaum ntxov thiab ntau zaus kom lawv tsis muaj sijhawm loj hlob.
+   - Tsis pub cov nyom pib tso noob.
+   - Hloov qoob loo thiab cog nroj npog av los pab txo cov nyom.
 
-#### **Curly Dock (Rumex crispus L.) - Cov Nroj Qus Nyob Tau Ntau Xyoo**  
-Curly dock yog cov nroj qus muaj cag txhub uas loj hlob txog 2 - 5 ko taw siab, muaj nplooj loj loj uas nyob hauv qab, thiab muaj qhov ntug nplooj nkhaus. Paj thiab tag nrho cov nroj tsuag tuaj yeem tig mus rau xim liab thaum laus. **Kev Tswj:** Khawb tag nrho cov cag (yuav nyuaj) ua ntej tsim noob. Xyuas cov cag seem tshiab thiab tshem tawm cov nroj tsuag tshiab.  
+3. **Tso nplooj, ntaub, lossis lwm yam npog av**
+   - Txo kom cov nyom tsis loj hlob.
+   - Cov nplooj npog av ntuj: ntoo nplooj, nplooj, compost, ntawv xov xwm.
+   - Cov nplooj npog av yas: yas, ntaub npog av.
 
-#### **Field Bindweed/Morning Glory (Convolvulus arvensis L.) - Cov Nroj Qus Nyob Tau Ntau Xyoo**  
-Field bindweed feem ntau tsim cov ntaub quav ntxhuav ntawm cov nplooj zoo li xub thiab paj zoo li lub tswb, dawb mus rau xim liab me me. Cov cag txhub tuaj yeem tob txog 10 ko taw nrog cov cag nthuav tawm ze rau saum av. **Kev Tswj:** Rub tawm cov nroj tsuag saum toj tas li, rub cov cag nthuav tawm yog tias ua tau, thiab tiv thaiv tsim noob. Siv tshuaj tua nroj qus thaum lub caij ntuj sov mus txog lub caij nplooj zeeg thaum ntxov.  
+4. **Tsuag dej**
+   - Tsuag dej tsuas yog rau cov nroj uas xav loj hlob xwb, siv dej los ntawm kab dej me me lossis txhais tes, txo kom cov nyom loj hlob.
 
-#### **Little Bittercress (Cardamine oligosperma) – Cov Nroj Qus Ib Xyoos Rau Lub Caij Ntuj No**  
-Cov nroj tsuag no loj hlob 3 txog 12 ntiv tes siab, muaj ncej du uas faib ntawm qab av. Nplooj tsim lub rooj ntawm lub hauv paus ncej. Paj me me, dawb, nyob ntawm tus ncej. Thaum cov noob siav, cov noob "tawm mus" deb rau ntau yards. **Kev Tswj:** Tshem tawm ua ntej tsim noob. Siv mulching 2 txog 3 ntiv tes nyob rau hauv thaj chaw muaj teeb meem thaum lub caij ntuj sov kom txo noob loj hlob.  
+5. **Tshuaj tua nyom** (yog tias tsis muaj lwm txoj lawm)
+   - Ua raws li cov lus qhia ntawm lub thawv tshuaj.
+   - **Cov lus piav txog tshuaj tua nyom**:
+     - *Tshuaj tua nyom ua ntej tawm* (Pre-emergent): Siv ua ntej cov nyom pib hlob.
+     - *Tshuaj tua nyom tom qab tawm* (Post-emergent): Siv thaum cov nyom twb hlob lawm.
+     - *Tshuaj tua nyom xaiv tsob* (Selective): Tso cai tua tsuas yog qee hom nroj xwb.
+     - *Tshuaj tua nyom tsis xaiv tsob* (Non-selective): Tua ntau hom nroj.
+     - *Tshuaj nkag mus hauv tsob nroj* (Systemic): Nkag mus los ntawm qhov chaw tsuag mus rau lwm qhov ntawm tsob nroj.
+     - *Tshuaj tua tsuas yog qhov chwv xwb* (Non-systemic/contact): Tsuas tua ib feem ntawm tsob nroj uas tau kov tshuaj xwb.
 
-#### **Crabgrass (Digitaria ischaemum) -- Cov Nroj Qus Ib Xyoos**  
-Crabgrass yog nroj qus uas pom ntau hauv vaj zaub, vaj tsev, thiab txoj kev gravel. Nws yog nroj tsuag uas loj hlob tsawg, sib faib los ntawm noob thiab cov ncej qis tshaj ntawm cov ncej. **Kev Tswj:** Tswj ua ntej tsim noob. Tshem tawm tag nrho cov pob nrog cov cag.  
+---
 
-### Cov Kev Pab  
-**Perennial Weed Biology thiab Kev Tswj, EM 8776:** [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-**Cov Nroj Tsuag Ntxeev Siab/Nroj Tsuag thiab Kab Tsuag Kev Tswj:** Lub Nroog Portland, Oregon  
+## Cov Nyom Uas Nquag Pom Hauv Peb Cheeb Tsam
 
-Lub Oregon State University Extension Service ua rau muaj kev xaiv tsis pub leej twg tawm hauv nws cov kev pab cuam, kev pab, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev cai dab qhuas, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia tus kheej), kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, txoj cai tsev neeg/kev ua niam txiv, cov nyiaj tau los los ntawm kev pab nyiaj rau pej xeem, kev ntseeg, kev ntseeg txog kev ua haujlwm rau pej xeem, cov ntaub ntawv caj ces, txoj cai voj voog, lossis kev tsim txom rau kev ua haujlwm hauv kev cai lij choj yav dhau los. (Tsis yog txhua qhov kev txwv raug siv rau txhua qhov kev pab cuam.)
+### Dandelion (*Asteraceae*) – Nyom Ntev
+- **Kev piav qhia**: Paj daj me me nyob saum ib lub qia; loj hlob zoo nyob hauv qhov chaw av noo.
+- **Kev tswj hwm**: Khawb tes tshem tawm kom tau tag nrho cov cag loj (cag tob thiab muaj ceg) ua ntej nws tso noob. Nyob hauv nyom laj, cog noob nyom ntxiv rau qhov chaw uas nyom ploj lawm kom txo kev rov loj hlob dua.
+
+### Clover (*Trifolium*, *Medicago*, thiab *Melilotus*) – Qee Hom Ib Xyoos, Qee Hom Ntev
+- **Kev piav qhia**: Muaj cag loj thiab nplooj zoo li clover; tej hom mus ncig loj hlob mus ua pawg loj.
+- **Kev tswj hwm**: Tshem tawm cag loj ua ntej lawv tso noob. Siv nplooj npog av kom txo qhov lawv loj hlob, vim noob muaj tawv tiv thaiv.
+
+### Quackgrass (*Elytrigia repens*) – Nyom Ntev
+- **Kev piav qhia**: Nyom ntev, loj hlob ua pawg, siab txog li 4 ko taw; muaj noob thiab cag nqaj (rhizome) nyob hauv av.
+- **Kev tswj hwm**: Siv chiv nitrogen ntau thiab hlais nyom. Tsuas nyuaj khawb tau tawm.
+
+### Annual Bluegrass (*Poa annua*) – Nyom Ib Xyoos
+- **Kev piav qhia**: Qia nyom tiaj, loj hlob ncaj lossis nthuav, ntev 2–12 nti; tej zaum loj hlob ua pawg tuab. Paj thiab noob loj hlob txij lub Peb Hlis txog Lub Yim Hli.
+- **Kev tswj hwm**: Tso los yog tshem tawm ua ntej muaj noob. Nyuaj tswj hauv nyom laj.
+
+### English Ivy (*Hedera helix*) – Nroj Ntev
+- **Kev piav qhia**: Loj hlob los ntawm noob thiab cag nthuav; qia nce ntoo yuav muaj txiv uas noog nqa mus.
+- **Kev tswj hwm**: Khawb los yog rub tawm. Txiav cov ivy uas twb nce ntoo lawm ntawm qhov siab ntawm duav thiab khawb tag nrho cov cag tawm.
+
+### Creeping Buttercup (*Ranunculus repens*) – Nyom Ntev
+- **Kev piav qhia**: Loj hlob txog li 1 ko taw; nthuav mus los ntawm cag thiab noob; ua ib daim npua nroj tuab nyob rau qhov chaw av noo lossis dej tsis ntws. Nplooj ntsuab tsaus nrog dawb me me, muab faib ua peb ceg, txhua ceg muaj hniav. Paj ci, daj zoo nkauj.
+- **Kev tswj hwm**: Nyob hauv nyom laj, txhim kho kom dej ntws zoo, tsis pub av khov, thiab txhawb kom nyom loj hlob zoo los ntawm cog noob ntxiv thiab siv chiv. Khawb tes tshem tawm tag nrho cag thiab qhov chaw loj hlob thaum lub caij nplooj zeeg mus txog lub caij nplooj hlav thaum av tseem noo.
+
+### Curly Dock (*Rumex crispus L.*) – Nyom Ntev
+- **Kev piav qhia**: Nyom loj muaj cag loj, siab 2–5 ko taw; nplooj loj hauv qab muaj ntug nkhaus; paj thiab tsob nroj hloov mus rau xim liab thaum laus.
+- **Kev tswj hwm**: Khawb tag nrho cag tawm ua ntej nws tso noob. Xyuas kom tsis muaj cov cag tshiab hlob tuaj, txuas ntxiv tshem tawm cov nyom tshiab.
+
+### Field Bindweed/Morning Glory (*Convolvulus arvensis L.*) – Nyom Ntev
+- **Kev piav qhia**: Loj hlob ua pawg nyom tuab, nplooj zoo li taub hau xub, paj zoo li lub raj dawb mus rau liab daj me me; cag loj tob mus txog 10 ko taw thiab cag nqaj nyob saum npoo av. Noob nyob tau txog 50 xyoo.
+- **Kev tswj hwm**: Rub tes tshem tawm cov ceg saum toj txhua lim tiam, rub tawm cov cag nqaj tau li cas los rub, thiab tsis pub tso noob. Tsuag tshuaj nkag mus hauv tsob nroj thaum caij ntuj sov kawg mus txog lub caij nplooj zeeg pib.
+
+### Little Bittercress (*Cardamine oligosperma*) – Nyom Ib Xyoos Los Yog Ob Xyoos
+- **Kev piav qhia**: Loj hlob ntawm 3–12 nti; qia muaj ceg thiab du tawm hauv av; nplooj loj hlob ua pawg. Paj me me dawb nyob saum qia. Thaum noob loj, lub hnab noob yuav tua noob mus deb.
+- **Kev tswj hwm**: Khawb tes tshem tawm ua ntej muaj noob. Tso nplooj npog av 2–3 nti thaum lub caij nplooj zeeg los txo qhov noob loj hlob.
+
+### Crabgrass (*Digitaria ischaemum*) – Nyom Ib Xyoos
+- **Kev piav qhia**: Nyom qis loj hlob rau lub caij ntuj sov; nthuav los ntawm noob thiab qee zaum cag tawm ntawm cov ceg qis. Nquag pom hauv vaj zaub, chaw cog paj, thiab kev pob zeb.
+- **Kev tswj hwm**: Tshem tawm ua ntej nws tso noob. Khawb tes tshem tawm pawg nyom thiab cag.
+
+---
+
+## Cov Chaw Pab Tau
+
+- [Perennial Weed Biology and Management, EM 8776](https://catalog.extension.oregonstate.edu)
+- [Invasive Plants/Invasive Plant & Pest Management, The City of Portland, Oregon](https://www.portlandoregon.gov)
+
+---
+
+##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua haujlwm, thiab ntaub ntawv nyob rau hauv txhua yam, xws li haiv neeg, xim tawv nqaij, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, cim xeeb poj niam txiv neej (xws li kev qhia txog poj niam txiv neej), kev nyiam sib deev, xiam oob khab, hnub nyoog, txij nkawm, muaj me nyuam, nyiaj txiag los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, raug tsim txom los yog raug pauj vim kev tiv thaiv txoj cai tib neeg yav dhau los. (Tsis yog txhua hom kev txwv no siv rau txhua qhov kev pab cuam.)
+---

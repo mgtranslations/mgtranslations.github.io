@@ -1,56 +1,152 @@
-# Jaamacadda 10-Daqiiqo  
-Ururka Beeralayda Sare ee Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener  
+#### Jaamacadda 10-daqiiqo™ · Ururka Beeralayda Masterka ee Clackamas County · Iskaashi iyo Taageero Barnaamijka OSU Extension Master Gardener™
 
-## Beeraleyda Guriga ee Aqalka Dhirta 101  
+# Barashada Beerista Greenhouse-ga 101
 
-### Hordhac  
-Ku darista aqalka dhirta beerta guriga waxay ka caawin kartaa in xilli-beerashada hore loo bilaabo oo lagu dheereeyo xilli-beerashada xilliga dayrta. Waxay sidoo kale siin kartaa dhirta u nugul heerkulka ilaalin. Dhanka dadka, waxay noqon kartaa mid aad u farxad leh in lagu beero xilliga qaboobaha adigoo ka ilaalinaya cimilada adag. Aqalka dhirta wuxuu noqon karaa mid fudud sida mid ku dheggan daaqad ama mid aad u adag oo leh dhismo leh qiime sare oo dahaarka ah, nidaam kululaynta otomaatig ah, tuubooyin, marawaxado, iyo qalab hawada ka saaraya.  
+### Hordhac
 
-### Go'aaminta Yoolalka Aqalka Dhirta  
-- **Guri Qabow** – Ku habboon beeralayda ku nool cimilada dhexdhexaadka ah ee doonaya inay dhirta ku ilaaliyaan xagaaga oo ay bilaabaan abuurka guga. Noocan aqalka dhirta wuxuu heerkulka ku hayaa 40 digrii iyo ka sare.  
-- **Guri Diirran** – Ku habboon beeralayda ku nool cimilada qabow ee rabta inay beeraan orchids iyo geedo liin. Heerkulka habeenkii oo ku dhow 55 digrii ayaa si fiican u shaqeeya.  
-- **Guri Kulul** – Loogu talagalay beeralayda raba inay beeraan dhirta kulaylaha leh iyadoo heerkulka habeenkii uusan ka yaraan 60 digrii.  
+Ku darista greenhouse (aqal dhir) beerta guriga waxay kaa caawin kartaa inaad xilli hore bilowdo beerista oo aad xilliga dayrta sii dheereyso. Waxa kale oo ay dhirta xasaasiga ah ka ilaalisaa qabowga ama kulaylka. Dhanka dadka, aad bay ugu farxad badan tahay in la beero xilliga jiilaalka adigoo ka ilaalanaya cimilada adag. Greenhouse-gu wuu ka bilaabmi karaa mid fudud oo daaqadda la saaro ilaa mid aad u weyn oo leh difaac kulka wanaagsan, kulayliyayaal otomaatig ah, tuubooyin, marawaxado iyo qalab hawo gelin ah.
 
-### Go'aaminta Meesha Aqalka Dhirta  
-Qorraxda badan ayaa ka wanaagsan, gaar ahaan xilliga jiilaalka. Aqalka dhirta waxaa ugu fiican in dhinaca dheer loo jeediyo koonfur ama bari. Aqalka dhirta oo loo jeediyo galbeed wuxuu halis ugu jiraa inuu aad u kululaado, halka aqalka dhirta ee loo jeediyo waqooyi uu ku habboon yahay dhirta u baahan iftiin yar. Ku dhawaanshaha geedaha caleenta ka dhaca xilliga qaboobaha waxay awood u siin kartaa qorraxda inay soo gasho xilliga qabow laakiin waxay bixisaa hooska xagaaga kulul. Meel siman oo leh biyo-mareen wanaagsan ayaa ugu fiican. Aqalka dhirta ee dhulka ka hooseeya ama ku dhisan meel buur leh wuxuu siinayaa dahaarka wanaagsan.  
+---
 
-Waxaa laga yaabaa in ururada milkiilayaasha guryaha iyo hay'adaha dawladda ee maxalliga ah ay xaddidaan meelaynta aqalka dhirta. Hubi hay'adaha si ay u arkaan haddii ruqsado loo baahan yahay.  
+### Ujeeddooyinkaaga Beerista Greenhouse-ga
 
-### Noocyada Aqalka Dhirta  
-- **Aqalka Dhirta ee Ku Dheggan** – Waxaa lagu dhejiyaa dhinaca dheer ee aqalka dhirta ama dhanka gable ee gidaarka guriga ama garaashka.  
-  - **Faa’iidooyinka** – Waxay noqon kartaa mid jaban oo waxay bixisaa ilaalin dheeri ah iyadoo hal dhinac uu ka soo horjeedo dhisme. Korontada iyo biyaha ayaa inta badan u dhow. Ku dhawaanshaha guriga waxay noqon kartaa faa’iido marka cimiladu xumaato.  
-  - **Khasaaraha** – Dhererka waxaa laga yaabaa in lagu xaddido qaab-dhismeedka dhismaha. Dahaarka hawo-qaadista wanaagsan ayaa loo baahan yahay si looga hortago qoyaanka aqalka dhirta inuu ku faafiyo dahaarka guriga.  
-- **Aqalka Dhirta ee Madax-Bannaan** – Waxa uu ka durugsan yahay dhismayaasha kale.  
-  - **Faa’iidooyinka** – Waxay leedahay dabacsanaan badan oo meelaynta ah waxayna bixisaa iftiin badan. Waxaa jira noocyo badan oo naqshad ah, waana sahlan tahay in la ballaariyo dhismaha iyadoo lagu darayo dhinacyada.  
-  - **Khasaaraha** – Waa inaad biyo iyo koronto u keentaa aqalka dhirta. Qiimaha kululaynta ayaa sare u kaca sababtoo ah derbiyada waaweyn iyo soo-gaadhista cimilada adag.  
+- **Aqal Qabow (Cool House)**  
+  Ku habboon beeralayda ku nool cimilo deggan oo raba inay dhirta ku ilaaliyaan jiilaalka ama ay abuurka bilaabaan guga. Greenhouse-kan wuxuu heystaa heerkul ka sarreeya 40°F.
 
-### Aasaaska Aqalka Dhirta  
-Aqalka dhirta badan ayaa u baahan aasaas, waxaana lagu dhisi karaa alwaax la daaweeyey, dhagax ama shub. Waxaa muhiim ah in aasaaska loo dhiso si uu ugu habboonaado naqshadda aqalka dhirta ee aad qorshaynayso inaad rakibto.  
+- **Aqal Diiran (Warm House)**  
+  Ku fiican beeralayda ku nool cimilo qabow oo raba inay beeraan orchids iyo geedaha liinta. Heerkulka habeenkii wuxuu dhowr yahay 55°F.
 
-### Qalabka Dhismaha  
-- **Birta Galvanized** – Aad ugu badan noocyada aqalka dhirta ee hoop ama gothic. Xalka galvanized ayaa loo baahan yahay si looga hortago birta inay miridhyeysato.  
-- **Aluminium** – Waa ikhtiyaar caan ah oo loogu talagalay qalabka aqalka dhirta, waa mid adkeysi leh, fudud, oo leh midabbo kala duwan.  
-- **Alwaax** – Waxay bixisaa dahaarka ugu fiican, alwaaxa ayaa caan ku ah dadka raba inay dhistaan aqalka dhirta. Alwaaxa la daweeyey wuxuu sii ahaanayaa mid waara, waana kan ugu fiican marka alwaaxu dhulka ku taabto. Redwood, cedar, iyo alwaax white oak ayaa ah kuwa si wanaagsan u adkaysta dayacnaanta. Ku rinjiyeynta ama ku midabaynta alwaaxa ka hor inta aan la isu keenin waxay dheeraynaysaa nolosha.  
+- **Aqal Kulul (Hot House)**  
+  Loogu talagalay beeralayda raba inay beeraan dhirta kulaylaha, iyadoo looga baahan yahay heerkulka habeenkii inuusan ka hooseyn 60°F.
 
-### Qalabka Dahaarka  
-- **Muraayad** – Waa qalabka dhaqameed ee aqalka dhirta. Waxay bixisaa gudbinta iftiinka ugu badan waxayna ka dhigtaa mid fiican in laga arko beerta. Muraayadda hal-lakab waxay gudbisaa iftiin 85% - 95%. Muraayadda laba-lakab waxay jabin kartaa marka heerkulka isbeddelo. Gudbinta iftiinka muraayadaha laba-lakab ee warshadaha lagu xiray waa 70% - 75%.  
-- **Polycarbonate** – Ka fudud miisaanka muraayadda, waxay u baahan tahay qaab-dhismeed yar. Polycarbonate laba-darbi ayaa ah ikhtiyaar aad u fiican oo loogu talagalay saqafka aqalka dhirta sababtoo ah qaybinta iftiinka iyo iska caabbinta jabashada. Gudbinta iftiinka waa 83%.  
-- **Caag** – Waxaa loo isticmaalaa aqalka dhirta ee hoop. Caagga cad ee 6 mil wuxuu gudbiyaa 87% iftiin. Caagga cad ee 6 mil wuxuu gudbiyaa 40%.  
+---
 
-### Adeegyada  
-- **Koronto** – Korontada aqalka dhirta waxay bixisaa dabacsanaan ku saabsan sida aqalka dhirta loo isticmaalo. Laydhka beeritaanka, suufka kulaylka, marawaxadaha iyo kululeeyeyaasha dhamaantood waxay u baahan yihiin koronto.  
-- **Biyo** – Helitaanka tuubo biyood oo sahlan ayaa badbaadinaysa waqti iyo shaqo.  
-- **Gaaska** – Waa ikhtiyaar kale oo ah il kulayl. Ducting iyo hawo-qaadista saxda ah ayaa loo baahan yahay.  
+### Go'aaminta Goobta Greenhouse-ga
 
-### Agabka  
-- **Kululeeyeyaasha** – Xitaa aqalka dhirta ee qabow ayaa laga yaabaa inuu u baahan yahay kulayl si uu u ilaaliyo heerkulka ka sarreeya heerka barafka. Kululeeyeyaasha dheeraadka ah waxay noqon karaan kuwo fudud sida kululeeyaha booska ama tamarta qoraxda. Si loo bixiyo heerkul diiran, wareegga 220 V ayaa loo baahan karaa.  
-- **Thermometers** – Thermometer-ka ugu yar/ugu badan wuxuu kormeerayaa heerkulka sare iyo kan hoose. Thermometer-ka leh Bluetooth wuxuu si degdeg ah kuu soo wargelin karaa marka heerkulku aad u hooseeyo ama aad u sarreeyo.  
-- **Wareegga hawada iyo xakamaynta heerkulka** – Bixinta socodka hawada wanaagsan waa muhiim si dhir caafimaad leh loo helo. Ku rakib daloolo saqafka iyo meel hoose oo aqalka dhirta ah si hawadu u dhaafto una baxdo maalmaha kulul. Marawaxaddu waxay wareejisaa hawada si ay u hagaajiso kulaylka xilliga jiilaalka iyo qaboojinta xagaaga.  
-- **Suufka Abuurka** – Waxay kululeeyaan dhexdhexaadka koritaanka si ay u dedejiyaan biqilka.  
-- **Laydhka** – Waxay ku yimaadaan noocyo rakibidda iyo ikhtiyaarrada nalalka. Laydhka u janjeera xagga buluugga waxay kor u qaadaan caleemaha, laydhka u janjeera xagga cas waxay kor u qaadaan ubax. Marka abuurka la bilaabayo, laydhka waa in lagu rakibaa qiyaastii 4” ka fog dusha dhexdhexaadka koritaanka, kadibna waa in kor loo qaadaa sida geedaha yaryari u koraan.  
+- Qorrax badan ayaa fiican—gaar ahaan jiilaalka. Greenhouse-ku waa in la dhigaa si dhinaca dheer uu u jeedo koonfur ama bari.
+- Greenhouse-ga galbeed u jeeda wuu kululaadaa, halka kuwa waqooyi u jeedana ay ku fiican yihiin dhirta iftiin yar u baahan.
+- Meel u dhow geedaha caleenta daata waxay dhirta siin kartaa qorrax xilliga qabow iyo hadh xilliga kulaylaha.
+- Goob siman oo biyo-mareen fiican leh ayaa ugu fiican. Greenhouse la galiyo buur ama hoos dhulka ah wuxuu bixiyaa difaac dheeraad ah.
 
-### Macluumaad Dheeraad ah  
+**Ogeysiis:** La xariir ururada milkiilayaasha guryaha iyo dawlada hoose si aad u hubiso xeerarka ku saabsan dhisitaanka greenhouse-ga. Ogolaansho ayaa laga yaabaa in la rabo.
+
+---
+
+### Noocyada Greenhouse-yada
+
+#### Greenhouse-ga ku xiran dhisme kale
+
+- **Faa'iidooyin:**
+  - Qiimo jaban.
+  - Difaac dheeraad ah maadaama hal dhinac uu dhisme ka difaacayo.
+  - Koronto iyo biyo meel dhow.
+  - Aad ugu habboon in la galo cimilada xun.
+
+- **Qasaarooyin:**
+  - Dhererka waxaa xaddidi kara dhismaha guriga.
+  - Waa in la isticmaalaa xannibaad uumiga si qoyaanka greenhouse-gu uusan ugu dhex bixin gidaarada guriga.
+
+#### Greenhouse isku taagan (Free-standing Greenhouse)
+
+- **Faa'iidooyin:**
+  - Meel kasta waa la dhigi karaa, iftiin badan ayuu helaa.
+  - Naqshado badan ayaa la heli karaa.
+  - Si fudud ayaa loo ballaarin karaa adigoo dhinacyo dheeraad ah ku daraya.
+
+- **Qasaarooyin:**
+  - Biyo iyo koronto waa in loo keenaa greenhouse-ga.
+  - Kharashaadka kulayliyaha ayaa badan kara sababo la xiriira derbiyada oo badan iyo dabeyl furan.
+
+---
+
+### Aasaaska (Foundations)
+
+Aasaas ayaa loo baahan yahay greenhouses badan, waxaana laga dhisi karaa alwaax la daweeyay, dhagax ama shub. Waa muhiim inaad aasaaska dhisto sida la isku raacay ee greenhouse-ka aad rabto.
+
+---
+
+### Qalabka Qaab-dhiska
+
+- **Bir Galvanized ah**
+  - Caadiyan loo isticmaalo greenhouse-yada qaabka wareegsan ama gothic.
+  - Waxa la mariyaa xal ka ilaaliya miridhku.
+
+- **Aluminum**
+  - Aad loogu jecel yahay qalabka greenhouse-yada la isku keeno.
+  - Waara, fudud, midabo kala duwanna waa laga helaa.
+
+- **Alwaax**
+  - Iska celin heerkul badan.
+  - Alwaax la cadaadiyay ayaa ugu dheer cimri, gaar ahaan marka dhulka la taabsiiyo.
+  - Noocyada adkeysiga leh waxaa ka mid ah redwood, cedar iyo qalbiga geedka white oak.
+  - Ka hor inta aan la isku keenin, rinjiyeynta ama midabaynta alwaaxa waxay dheeraynaysaa cimrigiisa.
+
+---
+
+### Qalabka Dabka iyo Iftiinka (Glazing Materials)
+
+- **Muraayad**
+  - Waa qalabka dhaqameed ee greenhouse-ka.
+  - Iftiinka ugu badan ayuu gudbiyaa, beertana waa la arki karaa.
+  - Muraayadda hal lakab ah waxay gudbisaa 85%–95% iftiinka.
+  - Muraayadda laba lakab ah way jabin kartaa isbedelka heerkulka. Muraayadda laba lakab ah oo warshad lagu xiray waxay gudbisaa 70%–75% iftiinka.
+
+- **Polycarbonate**
+  - Ka fudud muraayadda, qaab-dhis yar ayuu u baahan yahay.
+  - Polycarbonate laba lakab ah waa mid fiican oo u fiican saqafka greenhouse-ka, iftiin baahiya, oon fududaynin jabitaanka. Waxay gudbisaa 83% iftiinka.
+
+- **Baalal caag ah (Plastic)**
+  - Loogu isticmaal badan yahay aqal-dhirta wareegsan.
+  - Caag cad oo 6 mil ah wuxuu gudbiyaa 87% iftiinka.
+  - Caag cad oo 6 mil ah wuxuu gudbiyaa 40% iftiinka.
+
+---
+
+### Adeegyada (Utilities)
+
+- **Koronto**
+  - Waxay kuu fududaynaysaa isticmaalka iftiinka korontada, kulayliyeyaasha, marawaxadaha iyo qalabka kale.
+
+- **Biyo**
+  - Tuubo meel dhow ah ayaa badbaadinaysa waqti iyo dadaal.
+
+- **Gaaska**
+  - Waa xulasho kale oo kulayliyaha. Waa in la isticmaalaa tuubooyin iyo hawo-mareen sax ah.
+
+---
+
+### Qalabka Dheeraadka ah (Accessories)
+
+- **Kulayliyeyaasha**
+  - Xitaa Greenhouse qabow ah waxay u baahan kartaa kulayliyo si heerkulku uga sarreeyo eberka.
+  - Kulayl dheeraad ah wuxuu noqon karaa heater yar ama qoraxda oo la keydiyo.
+  - Heerkul diiran waxay u baahan kartaa wareeg koronto 220V ah.
+
+- **Heerkulbeegyo**
+  - Heerkulbeeg min/max wuxuu muujinayaa heerkulka ugu sarreeya iyo ugu hooseeya.
+  - Heerkulbeeg Bluetooth ah wuxuu si deg deg ah kuu ogeysiin karaa marka heerkulku aad u hooseeyo ama aad u sareeyo.
+
+- **Wareegga Hawada iyo Xakamaynta Heerkulka**
+  - Socodka hawo wanaagsan ayaa lagama maarmaan u ah dhirta caafimaad qabta.
+  - Furtayaal saaran saqafka iyo hoose ee greenhouse-ka waxay oggolaanayaan hawo dhaqaaq iyo baxsasho xilliyada kulaylaha.
+  - Marawaxad ayaa hagaajinaysa kulaylka xilliga jiilaalka iyo qaboojinta xilliga xagaaga.
+
+- **Kaleenta Abuurka**
+  - Waxay kululeeyaan ciidda si ay abuurku si dhaqso ah u soo baxaan.
+
+- **Iftiinka**
+  - Waxaa jira noocyo badan oo la rakibi karo iyo nalal kala duwan.
+  - Iftiinka buluugga u janjeera wuxuu dhirta ka caawiyaa inay caleen badan yeeshaan, kan cas u janjeerana wuxuu kiciyayaa ubax.
+  - Marka abuur la bilaabayo, nalalka waa in la dhigaa qiyaastii 4 inch dusha sare ee ciidda, korna waa loo qaadayaa marka dhirta koraan.
+
+---
+
+### Wixii Faahfaahin Dheeraad ah
+
 **Greenhouses for Homeowners and Gardeners (NRAES 137)**  
-[https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)  
+[https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
 
-Adeegga Oregon State University Extension Service wuxuu ka mamnuucayaa kala soocidda dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyadiisa iyadoo lagu saleynayo midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmada, naafanimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda dhanka ciidan, aargoosiga ama aargoosiga ka dhashay hawlaha xuquuqda madaniga ah ee hore. (Dhamaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---
+
+#### Adeegyada Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucdaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha iyo agabkeeda iyadoo loo eegayo midabka, jinsiyadda, asalka qaranka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-socodka, xaaladda askarnimada, ciqaabta ama aargoosiga la xiriira hawlaha xuquuqda madaniga. (Dhammaan xeerarkan mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
+---

@@ -1,119 +1,148 @@
-# Universidad de 10 Minutos™
+#### 10-Minute University™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
 
-### Asociación de Jardineros Maestros del Condado de Clackamas  
-**En colaboración y apoyo del Programa de Jardineros Maestros™ de Extensión de la OSU**  
+# Canastas Colgantes
 
-## Cestas Colgantes  
+### Resumen
 
-### Resumen  
-Las cestas colgantes, rebosantes de flores ricas y coloridas, son características muy valoradas en los jardines y ciudades durante el verano.  
+Las canastas colgantes, llenas de flores de colores vivos, son elementos muy valorados en el verano en muchas ciudades y jardines.
 
-### Elige un contenedor  
-Un contenedor adecuado debe ser lo suficientemente grande para durar toda la temporada de crecimiento y lo suficientemente ligero para colgarlo en su lugar. Un contenedor sencillo funciona bien porque, en poco tiempo, el recipiente estará completamente cubierto por las plantas colgantes.  
+### Elige un Contenedor
 
-Los contenedores vienen en una variedad de formas, tamaños y materiales. La madera, el musgo de esfagno y la arcilla sin esmaltar o terracota pueden secarse rápidamente. Estos pueden revestirse (usualmente con plástico perforado) para mantener la humedad por más tiempo. Ten en cuenta que la arcilla y la terracota serán muy pesadas después de ser plantadas y regadas. Selecciona contenedores que se adapten a tu estilo, decoración y paisaje.  
+Un contenedor adecuado es lo suficientemente grande como para durar toda la temporada de crecimiento y lo bastante liviano como para colgarlo en su lugar. Un recipiente sencillo funciona bien porque, en poco tiempo, la maceta quedará completamente cubierta por tus plantas colgantes.
 
-Ten en cuenta que un contenedor de 10 pulgadas puede necesitar ser regado cada 1 o 2 días. Los contenedores más pequeños requerirán riego aún más frecuente.  
+Los contenedores vienen en una variedad de formas, tamaños y materiales. La madera, el musgo esfagno y la arcilla sin esmaltar o terracota se pueden secar rápidamente. Estos pueden ser forrados (generalmente con plástico perforado) para mantener la humedad por más tiempo. Ten en cuenta que la arcilla y la terracota serán muy pesadas después de plantar y regar. Elige contenedores que se adapten a tu estilo, decoración y paisaje.
 
-### Usa una mezcla para macetas  
-Utiliza una mezcla para macetas de buena calidad para llenar tu contenedor. Estos productos están formulados para ser muy gruesos, lo que garantiza un buen drenaje en los contenedores. Una mezcla bien drenada contribuye en gran medida a promover plantas saludables.  
+Ten en cuenta que una maceta de 10 pulgadas puede necesitar riego cada 1 o 2 días. Los contenedores más pequeños requerirán riego aún más frecuente.
 
-Si reutilizas el contenedor en otra temporada, considera reemplazar la mezcla para macetas. Esto será crítico para el éxito si la plantación anterior tuvo una enfermedad en las raíces; de ser así, también lava bien el contenedor.  
+### Usa una Mezcla para Macetas
 
-No uses tierra de jardín en contenedores porque su textura fina limita severamente el drenaje e inhibe el crecimiento de las raíces. La tierra de jardín también puede traer enfermedades, insectos y semillas de malezas.  
+Usa una mezcla para macetas de buena calidad para llenar tu contenedor. Estos productos están formulados para ser muy gruesos, asegurando un buen drenaje. Una mezcla bien drenada es clave para tener plantas sanas.
 
-Ten en cuenta que la sugerencia común de poner "material grueso en el fondo del contenedor para drenaje" es incorrecta. Debido a la dinámica del movimiento del agua dentro de un contenedor, ese material grueso inhibirá el drenaje.  
+Si reutilizas el contenedor en otra temporada, considera reemplazar la mezcla para macetas. Es especialmente importante si la siembra anterior tuvo una enfermedad de raíz; en ese caso, también lava bien el contenedor.
 
-### Usa fertilizante  
-Dale a tus plantas un buen comienzo mezclando fertilizante en la mezcla para macetas antes de plantar. Una fórmula de liberación lenta diseñada para durar de 3 a 4 meses funciona bien porque durará toda la temporada.  
+No uses tierra de jardín en macetas porque su textura fina limita el drenaje e impide el crecimiento de las raíces. Además, la tierra de jardín puede traer enfermedades, insectos y semillas de malezas.
 
-Después de colocar todas las plantas, asienta la mezcla para macetas alrededor de las raíces con agua enriquecida con fertilizante soluble a media concentración.  
+Ten presente que la sugerencia común de “poner material grueso en el fondo del contenedor para el drenaje” es incorrecta. Por cómo se mueve el agua dentro de una maceta, ese material grueso en realidad dificulta el drenaje.
 
-### Elige tus plantas  
-Es esencial que las plantas en un contenedor individual prosperen bajo las mismas condiciones de crecimiento, ya sea sol o sombra, húmedo o relativamente seco. También ten en cuenta el hábito de crecimiento de las plantas, como vertical o colgante.  
+### Usa Fertilizante
 
-Puedes combinar anuales y perennes en un contenedor individual durante solo una temporada y, al final de la temporada, reemplazar las anuales para un aspecto fresco y renovado.  
+Ayuda a tus plantas a empezar bien mezclando fertilizante en la mezcla para macetas antes de plantar. Una fórmula de liberación lenta diseñada para durar de 3 a 4 meses funciona bien porque dura toda la temporada.
 
-### Diseño y plantación  
-Una vez que hayas seleccionado un recipiente y tengas las plantas y la mezcla para macetas a la mano, sigue estos pasos para tener éxito:  
+Después de colocar todas las plantas, acomoda la mezcla para macetas alrededor de las raíces usando agua con fertilizante soluble a la mitad de la dosis recomendada.
 
-1. Vierte la cantidad de mezcla para macetas que creas necesitar y mezcla un fertilizante de liberación lenta de 3 a 4 meses; sigue las instrucciones de la etiqueta para la cantidad a usar.  
-2. Llena el contenedor con suficiente mezcla para que las plantas puedan colocarse y queden a 1 pulgada por debajo del borde del recipiente. (Ten en cuenta que si llenas completamente el contenedor, tendrás que sacar mezcla repetidamente para hacer espacio para las raíces).  
-3. Coloca las plantas altas y verticales en el centro o atrás del recipiente, llena con plantas agrupadas y termina con plantas colgantes hacia el borde del contenedor. Para crear un aspecto equilibrado, coloca dos o más de la misma planta (o varias plantas de tamaño, follaje y color similares) opuestas entre sí en el contenedor.  
-4. Completa la plantación rellenando alrededor de las plantas con mezcla para macetas adicional para integrar la combinación y cubrir las raíces expuestas. Cuando todo esté en su lugar, la mezcla para macetas debe quedar aproximadamente a 1 pulgada por debajo del borde del recipiente para permitir espacio para el agua.  
-5. Asienta la mezcla para macetas alrededor de las raíces con agua enriquecida con fertilizante mezclado a media concentración.  
-6. Cuelga tu recipiente donde las condiciones de sol o sombra coincidan con los requisitos de tus plantas. ¡Ahora puedes sentarte, relajarte y disfrutar!  
+### Elige Tus Plantas
 
-### Mantén tu contenedor  
-Riega según sea necesario. No necesitarás regar tan frecuentemente durante climas frescos o moderados como lo harás cuando esté cálido, incluso caluroso, o haya viento. Durante el clima cálido, puede ser necesario regar una o dos veces al día dependiendo del tamaño del contenedor y la cantidad y tipo de plantas que haya.  
+Es esencial que las plantas en un mismo contenedor prosperen bajo las mismas condiciones de luz y humedad, ya sea sol o sombra, húmedo o relativamente seco. También considera el hábito de crecimiento de las plantas, como vertical o colgante.
 
-Si tienes dudas sobre la necesidad de agua, siente la superficie de la mezcla para macetas. Riega si está seca, no lo hagas si está húmeda.  
+Puedes combinar plantas anuales y perennes en una maceta para una sola temporada. Al final de la temporada, puedes reemplazar las anuales para lograr una apariencia fresca y nueva.
 
-La dosis inicial de fertilizante que mezclaste en la mezcla para macetas puede ser suficiente para mantener las plantas durante la temporada. Pero si las plantas comienzan a decaer, suplementa con un fertilizante soluble en agua una o dos veces por semana y repite según sea necesario.  
+### Diseña y Planta
 
-Para mantener todo luciendo ordenado durante la temporada, corta las flores marchitas al menos una vez por semana.  
+Después de elegir un recipiente y tener las plantas y la mezcla para macetas listas, sigue estos pasos para tener éxito:
 
-### Algunas plantas sugeridas  
-Muchas plantas son exitosas en cestas colgantes de temporada. Las siguientes son solo algunas de las tantas posibles sugerencias. Observa que algunas plantas son adecuadas tanto para sol como para sombra.  
+1. Saca la cantidad de mezcla que creas necesitar y mézclala con fertilizante de liberación lenta para 3 a 4 meses; sigue las instrucciones de la etiqueta para la cantidad.
+2. Llena el contenedor con suficiente mezcla para que las plantas puedan colocarse y queden a 1 pulgada por debajo del borde. (Si llenas completamente el recipiente, tendrás que sacar mezcla repetidamente para hacer espacio a las raíces.)
+3. Coloca las plantas altas en el centro o en la parte trasera del recipiente, luego las plantas en grupo, y termina con las plantas colgantes en el borde. Para un aspecto equilibrado, pon dos o más de la misma planta (o varias de tamaño, follaje y color similares) una frente a otra.
+4. Para terminar de plantar, rellena alrededor de las plantas con más mezcla para unir la combinación y cubrir cualquier raíz expuesta. Al final, la mezcla debe quedar a 1 pulgada por debajo del borde para permitir el riego.
+5. Acomoda la mezcla alrededor de las raíces con agua enriquecida con fertilizante a la mitad de la dosis recomendada.
+6. Cuelga tu recipiente donde las condiciones de sol o sombra coincidan con lo que requieren tus plantas. ¡Ahora puedes sentarte, relajarte y disfrutar!
 
-#### Plantas verticales para sol  
-- Angelonia  
-- Cordyline  
-- Cosmos  
-- Margaritas  
-- Dracaena  
-- Geranio  
-- Hierbas ornamentales  
+### Mantén Tu Contenedor
 
-#### Plantas verticales para sombra  
-- Heliotropo  
-- Coleus de sombra  
-- Impatiens dobles  
-- Helechos  
-- Fucsia  
+Riega cuando sea necesario. No tendrás que regar tan seguido cuando el clima sea fresco o templado, pero cuando haga calor y/o viento, puede que necesites regar una o dos veces al día, según el tamaño del recipiente y la cantidad y tipo de plantas.
 
-#### Plantas agrupadas para sol  
-- Bidens  
-- Brachycome  
-- Diascia  
-- Begonia fibrosa  
+Si tienes duda sobre si debes regar, toca la superficie de la mezcla para macetas. Riega si está seca; no lo hagas si está húmeda.
 
-#### Plantas agrupadas para sombra  
-- Geranio  
-- Nemesia  
-- Coleus  
-- Impatiens  
+La dosis inicial de fertilizante mezclada con la mezcla puede ser suficiente para toda la temporada. Pero si las plantas comienzan a decaer, agrega fertilizante soluble en agua una o dos veces por semana, repitiendo según sea necesario.
 
-#### Plantas colgantes para sol  
-- Anagalis  
-- Alyssum  
-- Bacopa  
-- Creeping Charlie  
-- Jenny rastrera  
+Para mantener todo ordenado durante la temporada, retira las flores marchitas (deadhead) al menos una vez a la semana.
 
-#### Plantas colgantes para sombra  
-- Lamium  
-- Planta de regaliz  
-- Fucsia  
-- Hiedra  
-- Loto rastrero  
+### Algunas Plantas Sugeridas
 
-### Información adicional  
-Hay muchos libros disponibles sobre cómo cultivar cestas colgantes, por lo que es difícil limitar nuestras sugerencias a solo unos pocos títulos. Podrás encontrar más en bibliotecas y librerías.  
+Hay muchas plantas que funcionan bien en canastas colgantes de temporada. Las siguientes son solo algunas sugerencias. Nota que algunas sirven tanto para sol como para sombra.
 
-- *Hanging Baskets: A Practical Step-By-Step Guide* por Jenny Hendy  
-- *Year-Round Containers, Baskets & Boxes* por Graham Strong y Claire Phoenix  
-- *The Hanging Garden* por Sue Fisher  
-- *Container and Hanging Gardens* (Ortho Books)  
-- *Gardening in Containers* (Sunset)  
-- *Pots in the Garden* por Ray Rogers  
+#### Plantas Verticales para Sol
 
-### Consejos de Jardineros Maestros™  
-- Llama a la Línea de Ayuda en Horticultura Doméstica:  
-  - 503-655-8631 (Condado de Clackamas),  
-  - 503-821-1150 (Condado de Washington),  
-  - 503-445-4608 (Condado de Multnomah).  
-- Para más folletos de la Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+- Angelonia
+- Cordyline
+- Cosmos
+- Margaritas
+- Dracaena
+- Geranio
+- Pastos ornamentales
 
-### Declaración de Igualdad  
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluyendo expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas).
+#### Plantas Verticales para Sombra
+
+- Heliotropo
+- Coleus para sombra
+- Impatiens dobles
+- Begonia rex
+- Helechos
+- Fucsia
+- Impatiens de Nueva Guinea
+- Begonia tuberosa
+
+#### Plantas en Grupo para Sol
+
+- Bidens
+- Brachycome
+- Diascia
+- Petunia ‘fantasy’
+- Begonia fibrosa
+
+#### Plantas en Grupo para Sombra
+
+- Geranio
+- Nemesia
+- Coleus
+- Planta de lunares (Polka dot)
+- Impatiens
+- Lobelia vertical
+
+#### Plantas Colgantes para Sol
+
+- Anagalis
+- Alyssum
+- Bacopa
+- Creeping Charlie
+- Creeping Jenny
+- Zinnia rastrera
+- Hiedra
+- Lamium
+- Planta de regaliz
+
+#### Plantas Colgantes para Sombra
+
+- Loto enredadera
+- Million bells
+- Portulaca
+- Scaevola
+- Enredadera de camote
+- Lobelia colgante
+- Petunia colgante
+- Verbena
+- Vinca
+
+### Información Adicional
+
+Existen muchos libros sobre cómo cultivar canastas colgantes, por lo que es difícil limitar nuestras sugerencias a solo algunos títulos. Encontrarás muchos más en bibliotecas y librerías.
+
+- *Canastas Colgantes: Una guía práctica paso a paso* por Jenny Hendy
+- *Contenedores, Canastas y Cajas todo el año* por Graham Strong y Claire Phoenix
+- *El Jardín Colgante* por Sue Fisher
+- *Jardines en Contenedores y Colgantes* (Ortho Books)
+- *Jardinería en Contenedores* (Sunset)
+- *Macetas en el Jardín* por Ray Rogers
+
+#### Consejos de Maestros Jardineros™
+
+- **Llama a la Línea de Ayuda de Horticultura en el Hogar:**
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+- Para más folletos de 10-Minute University™ y el calendario de clases, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

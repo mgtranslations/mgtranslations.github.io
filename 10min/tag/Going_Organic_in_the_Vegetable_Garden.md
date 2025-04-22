@@ -1,43 +1,84 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Paggamit ng Organikong Pamamaraan sa Pagtatanim ng Gulay  
+# Pagsusulong ng Organikong Pagtatanim ng Gulay
 
-### Ano ang “Organikong Pagtatanim”?  
-Ang paggamit ng “Organikong Pagtatanim” ay nangangahulugan ng pagtigil sa paggamit ng mga sintetikong produkto. Sa halip, natural na mga produkto lamang na nagpapayaman sa lupa at tumutulong sa paggamot sa mga sakit, peste, at damo ang ginagamit.  
-Ang ibang aspeto ng pagtatanim ay nananatiling pareho; magtatanim, mag-aalaga, magdidilig, at mag-aani katulad ng dati. Maaari kang lumipat sa mga organikong pamamaraan nang buo o gumamit ng kombinasyon ng mga pamamaraan. Halimbawa, maaari mong piliing alisin ang sintetikong mga pestisidyo at herbisidyo ngunit magpatuloy sa paggamit ng ilang sintetikong pataba.  
+### Ano ang “Organikong Pagtatanim”?
 
-### Ang Kompost ay Nagpapabuti sa Lupa  
-Ang mabuting lupa ang susi sa matagumpay na pagtatanim, at ang pagdaragdag ng kompostadong organikong materyales ay nagpapabuti sa lupa. Simulan ang bagong hardin sa pamamagitan ng pagdaragdag ng 2 hanggang 4 na pulgada ng kompost bawat taon. Gumamit ng mas marami para sa mabigat na luad o napakasandy na lupa. Humigit-kumulang kalahati ng organikong materyales sa kompost ang nabubulok bawat taon. Kaya, ang organikong materyales ay unti-unting naiipon sa lupa sa paglipas ng panahon. Kung nais mong mas mabilis na resulta, gumawa ng raised bed na may halong lokal na lupa, kompost, buhangin, at dumi ng hayop.  
-Ang pagdaragdag ng kompost sa lupa ay nagpapabuti sa istruktura at pangmatagalang kalusugan nito. Gayunpaman, hindi ito maaasahang mapagkukunan ng pataba. Kung mahalaga ang matibay na paglago, tulad sa gulay, magdagdag ng karagdagang pataba.  
+Ang paggamit ng “Organikong Pagtatanim” ay nangangahulugan ng pagtigil sa paggamit ng mga sintetikong produkto. Sa halip, tanging mga likas na produkto lamang na nagpapayaman ng lupa at tumutulong sa pagkontrol at paggamot ng sakit, peste, at damo ang ginagamit. Lahat ng iba ay pareho pa rin; nagtatanim ka, nag-aalaga, nagdidilig, at nag-aani gaya ng dati. Maaari kang magpalit nang buo sa organikong paraan o gumamit ng pinagsamang mga pamamaraan. Halimbawa, maaari mong tanggalin ang paggamit ng sintetikong pestisidyo at herbicide ngunit patuloy na gumamit ng ilang sintetikong abono.
 
-### Ang Organikong Pataba ay Nagdadagdag ng Sustansya  
-- Ang lupa ay nawawala ang sustansya sa paglipas ng panahon: ginagamit ng mga halaman ang mga sustansya habang sila’y tumutubo, at ang ulan sa taglamig ay naghuhugas ng mga natutunaw na sustansya. Kaya, kailangan nating magdagdag ng pataba bawat taon.  
-- Ang mga halaman ay gumagamit lamang ng sustansyang natutunaw; karamihan sa organikong pataba ay naglalaman ng hindi natutunaw na sustansya na kailangang sirain ng mga organismo sa lupa bago magamit ng mga halaman.  
-- Ang pre-mixed, balanseng organikong pataba na naglalaman ng nitrogen (N), phosphorus (P), at potassium (K) ay mas madaling simulan.  
-- Kung nais mong gumawa ng sarili mong halo, pagsamahin ang mabilis at mabagal na epekto ng pataba upang mapakain ang iyong mga halaman sa buong panahon ng pagtubo. Karaniwang mabilis na epekto ng organikong pataba (kasama ang N-P-K assay) ay ang fish emulsion (5-1-1), blood meal (15-1-1), fish meal (10-4-0), at bat guano (10-3-1). Mabagal na epekto ng pataba ay ang cottonseed meal (7-2-1), alfalfa (2-1-2), bone meal (2-15-0), soft rock phosphate (0-3-0), kelp meal (0-0-10), at greensand (0-0-5). Ihalo ang mabagal na epekto ng pataba sa lupa ilang buwan bago magtanim. Ang mga organismo sa lupa ay aktibo sa mas mainit na temperatura.  
-- Ang mataas na sustansya sa lupa ay mahalaga para sa mga punla at transplant upang magtagumpay. Ang mga punlang masigla ay mas may kakayahang labanan ang mga peste at sakit, gayundin ang makipagkompetensya sa mga damo. Ang natutunaw na pataba tulad ng likidong fish emulsion ay tumutulong sa maliliit na halaman na maging matatag nang mabilis. Kapag uminit ang lupa, ang sustansya mula sa mabagal na epekto ng pataba ay magiging magagamit ng mga halaman hanggang sa pag-aani.  
-- Ang mga cover crop na lumalaki sa taglamig ay makakabawas sa erosion at compression ng lupa. Habang lumalaki, ang mga halaman na ito ay nakakakuha ng sustansya sa lupa kaya mas kaunti ang hinuhugas ng ulan. Sa tagsibol, putulin ang mga tangkay at dahon ng mga cover crop bago sila mamulaklak at idagdag ito sa compost pile. Baligtarin ang lupa upang patayin ang mga ugat.  
+---
 
-### Organikong Pamamaraan sa Kontrol ng Peste  
-- Maging mapagmasid. Ang unang hakbang sa kontrol ng peste ay tukuyin ang peste na nagdudulot ng pinsala. Ang paggamit ng slug bait o pestisidyo na dinisenyo para sa insekto ay walang tulong kung ang mga ibon ang sanhi ng pinsala. Maaaring makakuha ng tulong mula sa mga Master Gardeners online sa www.metromastergardeners.org o tawagan ang mga numero sa ibaba.  
-- Ang malulusog na halaman ay mas malamang na makaakit ng mga peste at mas may kakayahang mapanatili ang pinsala.  
-- Mag-ingat sa kontrol ng peste at sakit lalo na kapag ang mga gulay ay punla. Ang maliliit at maselan na halaman ay maaaring mabilis na masira; kapag lumaki na, ang mga halaman ay mas may kakayahang tiisin ang pinsala nang hindi nababawasan ang ani.  
-- Ang pag-iwas sa mga punla at transplant sa mga peste ay isa sa pinakaepektibong organikong pamamaraan. Ang floating row covers ay magpapalayo sa mga lumilipad na insekto at ibon. Maaari itong ilagay nang direkta sa ibabaw ng mga halaman at hawakan sa gilid gamit ang mga bato o kahoy. Habang lumalaki ang mga halaman, itutulak nila ang row cover pataas. Sa puntong ito, ang mga halaman ay sapat na malaki upang hindi makaakit ng maraming peste. Ang mga cover na ito ay nagpapainit din sa lupa upang hikayatin ang mas mabilis na paglago ng mga punla.  
-- Sa Kanlurang Oregon, ang mga slug ang No. 1 na peste sa hardin. Ang susi ay kontrolin sila bago magtanim ng mga buto o transplant. Ang bait ay nagiging hindi epektibo kapag ang mga slug ay may malambot na punla na kanilang kinakain; maaari nilang sirain ang isang buong hilera ng maliliit na halaman sa isang gabi ng pagpapakain. Ang pagpulot sa gabi o sa kanilang taguan sa araw, beer traps, o organikong slug bait na naglalaman ng iron phosphate ay maaaring maging epektibo.  
-- Ang mga benepisyong insekto ay mga insekto na kumakain ng mga peste sa hardin at tumutulong sa pagbawas ng populasyon ng peste. Ang nectar at pollen ng maliliit na bulaklak ay umaakit sa mga adult na benepisyong insekto sa iyong hardin. Ang perennial na herb garden ng mint, oregano, marjoram, at thyme ay namumulaklak sa iba’t ibang oras sa tag-init; ang mga bulaklak na ito ay umaakit sa mga adult na benepisyong insekto na kumakain sa iyong hardin. Kung bibisitahin nila, ang ilan ay maglalagay ng mga itlog na magiging larvae na kumakain sa mga peste ng insekto.  
-- Kung wala nang ibang magagawa, maaaring gumamit ng organikong pestisidyo upang alisin ang nakakapinsalang peste. Tukuyin ang peste bago pumili ng pestisidyo na partikular sa peste na nais mong kontrolin. Halimbawa ay ang paggamit ng Bacillus thuringiensis upang kontrolin ang larvae ng cabbage butterfly sa mga halaman ng pamilya ng repolyo. Ang broad-spectrum pestisidyo ay pumapatay nang walang pinipili, na nakakasakit sa mga bubuyog, benepisyong insekto, at organismo sa lupa. Ang Rotenone, Neem, at Pyrethrins ay halimbawa ng broad-spectrum na organikong pestisidyo.  
+### Ang Compost ay Nagpapalusog ng Lupa
 
-### Mga Pamamaraan ng Kontrol sa Damo  
-- Ang mga taunang damo–mga tumutubo mula sa buto bawat taon–ay pinakamahusay na kontrolin sa pamamagitan ng pag-iwas sa kanilang pagdami ng buto at sa pamamagitan ng pag-hoe o pagbunot ng mga punla. Ang pag-atake sa kanila habang sila’y maliit at madaling bunutin ang pinakamabuting paraan. Ang pag-mulch gamit ang organikong materyales, tulad ng kompost o dayami, ay maaaring magpatigil sa mga buto ng damo. Dapat itong gawin sa tag-init kapag ang lupa ay mainit na. Sa pagtatanim, ang paggamit ng transplant sa halip na buto ay nagbibigay sa transplant ng 3- hanggang 4 na linggong kalamangan sa mga damo; ang mga malapit na nakatanim na transplant ay maaaring magbigay ng lilim sa maliliit na damo. Muli, ang pamamaraang ito ay pinakamahusay na gumagana sa malulusog at mabilis na tumutubo na mga halaman na maaaring magpalago kaysa sa mga damo.  
-- Ang mga perennial na damo–mga tumutubo sa parehong lugar bawat taon–ay maaaring maging mahirap kontrolin. Ang mga damo na ito ay kailangang alisin bago ka magtanim ng mga gulay. Ang sheet mulch ay isang alternatibo sa pag-alis ng damo: takpan ang mga damo ng makapal na layer ng diyaryo o karton. Ang mga layer ay maaaring ilagay at lupa ay maaaring dalhin upang gumawa ng mga taniman sa ibabaw ng sheet mulch. Sa paglipas ng panahon, ang sheet mulch ay nabubulok at maaaring isama sa lupa.  
+Ang magandang lupa ay susi sa matagumpay na pagtatanim, at ang pagdadagdag ng compost na organikong materyal ay nagpapaganda pa ng lupa. Sa simula ng bagong hardin, magdagdag ng 2 hanggang 4 na pulgada ng compost bawat taon. Gumamit ng mas marami kung mabigat ang clay o sobrang buhaghag ang lupa. Halos kalahati ng organikong materyal sa compost ay nabubulok bawat taon. Dahil dito, unti-unting nadadagdagan ang organikong materyal sa iyong lupa. Kung gusto mo ng mabilisang resulta, gumawa ng raised bed na gamit ang native na lupa, compost, buhangin, at dumi ng hayop.
 
-### Mga Mapagkukunan mula sa OSU Extension Service  
-[https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
+Ang pagdagdag ng compost sa lupa ay nagpapaganda ng estraktura at pangmatagalang kalusugan nito. Gayunman, hindi ito maaasahang mapagkukunan ng abono. Kung mahalaga ang malakas na paglaki, gaya sa gulayan, magdagdag pa ng karagdagang abono.
 
-#### Para sa Patnubay mula sa Master Gardener™  
-- Tawagan ang Home Horticulture Helpline: 503-655-8631 (Clackamas County); 503-725-2300 (Washington County); 503-445-4608 (Multnomah County). O magtanong sa [www.metromastergardeners.org](http://www.metromastergardeners.org)  
-- Bisitahin ang website ng Clackamas Chapter Master Gardeners [www.cmastergardeners.org](http://www.cmastergardeners.org) para sa mga 10-Minute University™ handouts at iskedyul ng mga libreng klase.  
+---
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pinagmulan ng bansa, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng kasal, estado ng pamilya/magulang, kita na nagmumula sa pampublikong programa ng tulong, mga paniniwalang pampolitika, impormasyong genetiko, estado ng beterano, pagganti o paghihiganti sa nakaraang aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay nalalapat sa lahat ng mga programa.)
+### Organikong Abono Para sa Mas Matabang Lupa
+
+- Nababawasan ang kasapatan ng lupa sa pagdaan ng panahon: ginagamit ng mga halaman ang sustansya habang lumalaki, at hinuhugas ng ulan sa taglamig ang mga natutunaw na sustansya. Kaya, kailangan nating magdagdag ng abono bawat taon.
+- Tanging ang mga natutunaw na sustansya lamang ang magagamit ng halaman; maraming organikong abono ang may lamang hindi natutunaw na sustansya na kailangang himayin muna ng mga organismo sa lupa bago ito magamit ng halaman.
+- Ang pre-mixed na organikong abono na balanse ang nitrogen (N), phosphorus (P), at potassium (K) ay madaling simulan gamitin.
+- Kung gusto mong gumawa ng sarili mong halo, pagsamahin ang mabilis at mabagal na abono para mapakain ang mga halaman buong panahon ng pagtatanim.
+
+  Karaniwang mabilis na organikong abono (may N-P-K na pagsusuri):
+  - Fish emulsion (5-1-1)
+  - Blood meal (15-1-1)
+  - Fish meal (10-4-0)
+  - Bat guano (10-3-1)
+
+  Mabagal na abono:
+  - Cottonseed meal (7-2-1)
+  - Alfalfa (2-1-2)
+  - Bone meal (2-15-0)
+  - Soft rock phosphate (0-3-0)
+  - Kelp meal (0-0-10)
+  - Greensand (0-0-5)
+
+  Ihalo ang mabagal na abono sa lupa ilang buwan bago magtanim. Aktibo ang mga organismo sa lupa kapag mainit ang panahon.
+
+- Mahalaga ang mataas na kasapatan ng lupa para umusbong ang mga punla at transplant. Ang malulusog na punla ay mas kayang labanan ang peste at sakit at makipagkumpetensya sa damo. Ang natutunaw na abono gaya ng likidong fish emulsion ay tumutulong sa mga maliliit na halaman na mabilis na lumaki. Kapag uminit na ang lupa, magiging available na sa halaman ang sustansya mula sa mabagal na abono hanggang anihan.
+- Ang mga cover crop na itinatanim sa taglamig ay makakatulong maiwasan ang pagguho at paninikip ng lupa. Habang lumalaki, nakukuha ng mga halamang ito ang nutrisyon sa lupa kaya hindi ito nahuhugas ng ulan. Sa tagsibol, putulin ang tangkay at dahon ng cover crop bago mamulaklak at idagdag sa compost. Bungkalin ang lupa para patayin ang mga ugat.
+
+---
+
+### Organikong Paraan ng Pagkontrol ng Peste
+
+- **Maging mapanuri.** Ang unang hakbang sa pagkontrol ng peste ay alamin kung anong peste ang nagdudulot ng pinsala. Walang silbi ang slug bait o mga pestisidyo laban sa insekto kung ibon naman ang sumisira ng iyong tanim. Maaari kang humingi ng tulong mula sa Master Gardeners online sa [www.metromastergardeners.org](http://www.metromastergardeners.org) o tumawag sa mga numerong nakalista sa ibaba.
+- Mas malulusog ang mga halaman na hindi madaling dapuan ng peste at kayang makabawi mula sa pinsala.
+- Maging mapagmatyag lalo na sa mga punla. Ang maliliit at malalambot na halaman ay madaling masira; kapag malaki na, kaya na nilang tiisin ang kaunting pinsala nang hindi bumababa ang ani.
+- Ang paghihiwalay ng mga punla at transplant mula sa peste ay isa sa pinakamabisang organikong paraan ng pagkontrol. Ang floating row cover ay nakakapigil sa mga lumilipad na insekto at ibon. Maaaring ilatag ito sa ibabaw ng halaman at ipitin sa gilid ng bato o kahoy. Habang lumalaki ang halaman, itutulak nito pataas ang row cover. Sa puntong iyon, malaki na ang halaman at hindi na kaakit-akit sa maraming peste. Nakakatulong din ang mga cover na ito na painitin ang lupa para mas mabilis lumaki ang punla.
+- Sa Western Oregon, ang mga slug ang pangunahing peste sa hardin. Mahalaga na kontrolin sila bago magtanim ng buto o transplant. Hindi na epektibo ang bait kapag may malalambot na punla na silang makakain; kaya nilang ubusin ang isang hanay ng maliit na halaman sa isang gabi. Ang pamimitas sa gabi o sa mga taguan nila sa araw, beer trap, o organikong slug bait na may iron phosphate ay mabisang paraan.
+- Ang mga kapaki-pakinabang na insekto ay kumakain ng mga peste at tumutulong magpababa ng bilang ng peste sa iyong hardin. Ang nectar at pollen mula sa mga maliliit na bulaklak ay umaakit ng mga adultong kapaki-pakinabang na insekto. Ang hardin ng perennial na halamang gamot gaya ng mint, oregano, marjoram, at thyme ay namumulaklak sa iba't ibang panahon ng tag-init; ang mga bulaklak na ito ay umaakit ng mga adultong kapaki-pakinabang na insekto sa iyong hardin. Kapag bumisita sila, ang ilan ay nangingitlog; ang mga itlog ay nagiging larvae na kumakain ng mga peste.
+- Kung hindi na talaga kaya, maaaring gumamit ng organikong pestisidyo para alisin ang mapaminsalang peste. Tiyaking tukuyin muna ang peste bago pumili ng pestisidyong angkop.
+
+  Halimbawa: Paggamit ng Bacillus thuringiensis para kontrolin ang uod ng cabbage butterfly sa mga halamang repolyo. Ang broad-spectrum na pestisidyo ay pumapatay ng walang pinipili, kabilang ang mga bubuyog, kapaki-pakinabang na insekto, at mga organismo sa lupa. Ang Rotenone, Neem, at Pyrethrins ay halimbawa ng broad-spectrum organikong pestisidyo.
+
+---
+
+### Organikong Paraan ng Pagkontrol ng Damo
+
+- **Taunang damo** – iyong tumutubo mula sa buto bawat taon – ay pinakamabisang kontrolin sa pamamagitan ng pagpigil na mamulaklak at magbunga ng buto, at sa pamamagitan ng paghuhukay at pagbunot ng mga supling. Ang pag-atake sa kanila habang maliit pa at madaling bunutin ay pinakamabisang paraan. Ang pagmumulch gamit ang organic na materyal, gaya ng compost o dayami, ay maaaring sumakal sa mga buto ng damo. Gawin ito tuwing tag-init kapag mainit na ang lupa. Sa pagtatanim, ang paggamit ng transplant imbes na buto ay nagbibigay ng 3- hanggang 4-na linggong lamang sa damo; ang dikit-dikit na transplant ay nakakaagaw ng liwanag at nasasapawan ang mga uusbong na damo. Muli, epektibo ito kung malusog at mabilis tumubo ang mga halaman.
+- **Pangmatagalang damo** – iyong muling tumutubo taon-taon sa parehong lugar sa hardin – ay mahirap kontrolin. Kailangan itong alisin bago magtanim ng gulay. Ang sheet mulch ay alternatibo sa pagbubunot: takpan ang damo ng makakapal na layer ng diyaryo o karton. Maaaring ilatag ang mga layer at buhusan ng lupa para gawing taniman sa ibabaw ng sheet mulch. Sa pagdaan ng panahon, mabubulok ang sheet mulch at maaaring haluin sa lupa.
+
+---
+
+### Mga Mapagkukunan mula sa OSU Extension Service
+
+Bisitahin ang [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Para sa Payong Master Gardener™
+
+- **Tumawag sa Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-725-2300 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Magpadala ng tanong sa [www.metromastergardeners.org](http://www.metromastergardeners.org)
+- Bisitahin ang website ng Clackamas Chapter Master Gardeners [www.cmastergardeners.org](http://www.cmastergardeners.org) para sa 10-Minute University™ na handouts at iskedyul ng mga libreng klase.
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, kalagayan ng pamilya/magulang, kita mula sa programa ng pampublikong tulong, paniniwalang pampulitika, impormasyon sa genetika, katayuang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

@@ -1,38 +1,61 @@
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ah ee Clackamas County · Wada shaqayn iyo Taageero la leh Barnaamijka OSU Extension Master Gardener™
 
-**Daraasad Ku Saabsan Soo Jiidashada Dhirta Dabiiciga ah — Liiska Dhirta**  
-Daraasad uu sameeyay Aaron Anderson iyo Gail Langellotto, OSU Garden Ecology Lab  
-*Natiijooyinka xilliyadii 2017 iyo 2018 waxaa loo soo koobay sida soo socota: A – Kuwa ugu soo jiidashada badan shinnida guud ee 2017, B – Kuwa ugu soo jiidashada badan shinnida dabiiciga ah ee 2017, C – Kuwa ugu soo jiidashada badan shinnida guud ee 2018, D – Kuwa ugu soo jiidashada badan shinnida dabiiciga ah ee 2018.*  
-Fadlan booqo http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/ si aad u hesho faahfaahin dheeraad ah iyo cusbooneysiin.  
+# Daraasadda Quruxda Dhirta Dabiiciga ah
 
-### **Noocyada Dhirta**  
-**Magaca Sayniska** | **Magaca Caanka ah** | **Natiijooyinka** | **Taariikh Nololeed** | **Midabka Ubaxa**  
----|---|---|---|---  
-*Acmispon (Lotus) parviflorus* |   |   | Sanadle | Caddaan/Rosan  
-*Clarkia amoena* | Farewell-to-spring | D | Sanadle | Rosan  
-*Collinsia grandiflora* | Giant blue eyed Mary |   | Sanadle | Buluug  
-*Gilia capitata* | Globe gilia | A,B,C | Sanadle | Buluug  
-*Lupinus polycarpus* | Miniature lupine |   | Sanadle | Purple/Buluug  
-*Madia elegans* | Common madia | A,B | Sanadle | Jaalle  
-*Nemophila menziesii* | Baby blue eyes |   | Sanadle | Buluug/Caddaan  
-*Eschscholzia californica* | California Poppy | B,C,D | Sanadle | Orange  
-*Helianthus annuus* | Common sunflower |   | Sanadle | Jaalle  
-*Phacelia heterophylla* | Varied-leaf phacelia | C,D | Sanadle | Caddaan  
+## Liiska Dhirta
 
-### **Noocyada Dhirta**  
-**Magaca Sayniska** | **Magaca Caanka ah** | **Natiijooyinka** | **Taariikh Nololeed** | **Midabka Ubaxa**  
----|---|---|---|---  
-*Achillea millefolium* | Yarrow | D | Joogto | Caddaan  
-*Anaphalis margaritacea* | Pearly everlasting |   | Joogto | Caddaan  
-*Asclepias speciosa* | Showy milkweed |   | Joogto | Rosan/Caddaan  
-*Aquilegia formosa* | Western red columbine |   | Joogto | Casaan  
-*Aster subspicatum* | Douglas’ aster | A,B,C,D | Joogto | Purple  
-*Camassia leichtlinii* | Common camas |   | Joogto | Purple/Caddaan  
-*Eriophyllum lanatum* | Oregon sunshine |   | Joogto | Jaalle  
-*Fragaria vesca* | Wild strawberry |   | Joogto | Caddaan  
-*Iris tenax* | Oregon iris |   | Joogto | Purple  
-*Sedum oregonense* | Cream Stonecrop |   | Joogto | Jaalle  
-*Sidalcea virgata* | Rose Checkermallow |   | Joogto | Rosan  
-*Sisyrinchium idahoense* | Blue-eyed grass |   | Joogto | Buluug/Purple  
-*Solidago canadensis* | Goldenrod | A,B,C,D | Joogto | Jaalle  
+Daraasad uu sameeyay Aaron Anderson iyo Gail Langellotto, OSU Garden Ecology Lab
 
+*Natiijooyinka xilliyada beerta ee 2017 iyo 2018 waxaa loo soo gaabiyay sidan:  
+A - Kuwa ugu badan ee soo jiita shinnida guud ee 2017  
+B - Kuwa ugu badan ee soo jiita shinnida dabiiciga ah ee 2017  
+C - Kuwa ugu badan ee soo jiita shinnida guud ee 2018  
+D - Kuwa ugu badan ee soo jiita shinnida dabiiciga ah ee 2018.*
+
+Fadlan booqo [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/) si aad u hesho faahfaahin dheeraad ah iyo warar cusub.
+
+---
+
+### Dhirta Sanadlaha ah
+
+| Nooca Dhirta                   | Magaca Guud            | Natiijooyin* | Taariikh Nololeed | Midabka Ubaxa   |
+| :----------------------------- | :--------------------- | :----------- | :---------------- | :-------------- |
+| Acmispon (Lotus) parviflorus   |                        |              | Sanadle           | Caddaan/Rosan   |
+| Clarkia amoena                 | Sagootiska guga        | D            | Sanadle           | Rosan           |
+| Collinsia grandiflora          | Giant blue eyed Mary   |              | Sanadle           | Buluug          |
+| Gilia capitata                 | Globe gilia            | A, B, C      | Sanadle           | Buluug          |
+| Lupinus polycarpus             | Miniature lupine       |              | Sanadle           | Guduudan/Buluug |
+| Madia elegans                  | Madia caadi ah         | A, B         | Sanadle           | Jaalle          |
+| Nemophila menziesii            | Ilmo indho buluug ah   |              | Sanadle           | Buluug/Caddaan  |
+| Eschscholzia californica       | Ubaxa California       | B, C, D      | Sanadle           | Oranjo          |
+| Helianthus annuus              | Ubaxa qorraxda         |              | Sanadle           | Jaalle          |
+| Phacelia heterophylla          | Phacelia caleedo kala duwan | C, D    | Sanadle           | Caddaan         |
+
+---
+
+### Dhirta Sannadle ah (Perennials)
+
+| Nooca Dhirta            | Magaca Guud             | Natiijooyin* | Taariikh Nololeed | Midabka Ubaxa   |
+| :---------------------- | :---------------------- | :----------- | :---------------- | :-------------- |
+| Achillea millefolium    | Yarrow                  | D            | Sannadle          | Caddaan         |
+| Anaphalis margaritacea  | Pearly everlasting      |              | Sannadle          | Caddaan         |
+| Asclepias speciosa      | Showy milkweed          |              | Sannadle          | Rosan/Caddaan   |
+| Aquilegia formosa       | Columbine casri ah      |              | Sannadle          | Casaan          |
+| Aster subspicatum       | Aster-ka Douglas        | A, B, C, D   | Sannadle          | Guduudan        |
+| Camassia leichtlinii    | Camas caadi ah          |              | Sannadle          | Guduudan/Caddaan|
+| Eriophyllum lanatum     | Qorraxda Oregon         |              | Sannadle          | Jaalle          |
+| Fragaria vesca          | Strawberry duurjoog ah  |              | Sannadle          | Caddaan         |
+| Iris tenax              | Iris-ka Oregon          |              | Sannadle          | Guduudan        |
+| Sedum oregonense        | Cream Stonecrop         |              | Sannadle          | Jaalle          |
+| Sidalcea virgata        | Rose Checkermallow      |              | Sannadle          | Rosan           |
+| Sisyrinchium idahoense  | Blue-eyed grass         |              | Sannadle          | Buluug/Guduud   |
+| Solidago canadensis     | Goldenrod               | A, B, C, D   | Sannadle          | Jaalle          |
+
+---
+
+#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo kale ah iyo jadwalka fasallada Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon · Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: isirka, midabka, asalka qaranka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka taageerada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda askariga, aargoosi, ama ciqaab la xiriira hawlaha xuquuqda madaniga ah ee hore. (Ma aha dhammaan arrimaha la mamnuucay inay khuseeyaan dhammaan barnaamijyada.)
 ---

@@ -1,73 +1,85 @@
-# Jaamacadda 10-Daqiiqo™  
-Ururka Clackamas County Master Gardener oo wada shaqeyn la leh oo taageeraya Barnaamijka OSU Extension Master Gardener™  
+#### 10-Daqiiqo Jaamacad™ · Ururka Beeraleyda Master-ka ee Degmada Clackamas oo iskaashanaya una adeegaya Barnaamijka OSU Extension Master Gardener™
 
-## Dalagyada Daboolka ee Beerta Khudaarta Guriga  
-Dalagyada daboolka waxay daboolaan oo hagaajiyaan ciidda. Waxaa lagu beeri karaa dayrta si ay u daboolaan meelaha bannaan ama lagu beeri karaa gu’ga oo qayb ka ah wareegga dalagga. Dhir badan, oo ay ku jiraan legumes, cawska, iyo dhirta gu’ga, ayaa u adeega ujeedkan.  
+# Dalagyada Daboolka ah ee Beero Khudradeed Guryaha
 
-### Faa'iidooyinka  
-- Ku dar walax organic ah ciidda oo hagaaji tayada ciidda  
-- Legumes waxay keeni karaan nitrogen  
-- Ilaalinta ciidda oo ka ilaalinaysa isku urur  
-- Ka hortagga haramaha  
-- Dib u warshadaynta nafaqada oo ka hortagaysa daadinta  
-- Ka ilaalinta ciidda halista qoyaanka  
-- Siiya cunto (malab iyo nectar) cayayaanka faa'iidada leh  
+Dalagyada daboolka ah waxay daboolaan oo hagaajiyaan ciidda. Waxaa la beeri karaa xilliga dayrta si ay u daboolaan meelaha bannaan ama xilliga gu’ga qayb ka mid ah wareegga dalagga. Dhirta badan sida lowska, cawska, iyo dhirta caleenta ballaaran ayaa u adeega ujeedadan.
 
-## Sida Loo Doorto  
-Waxaa jira doorashooyin badan oo dalagyada daboolka ah, mid walba wuxuu leeyahay faa'iidooyin iyo caqabado. Guud ahaan, waxay soo saaraan biomass xilliga beertu bannaan tahay. Biomass-kan, marka la joojiyo, wuxuu noqdaa isha walax organic ah si loo hagaajiyo awoodda ciiddu u leedahay in ay hayso biyo iyo nafaqo. Dalagyada daboolka waxay kordhiyaan walaxda organic ee ciidda iyagoo la jarayo oo loo adeegsado mulch ama lagu darayo ciidda.  
+## Faa'iidooyinka
 
-Legumes waxay nitrogen ka soo ururiyaan hawada oo ku kaydiyaan xididdada. Marka geedka la joojiyo (la dilo), microbes-ka ciidda ayaa kala dirta oo sii daaya nitrogen-ka si geedka u isticmaalo. Dalagyada legumes-ka ah waxay yarayn karaan baahida bacriminta nitrogen.  
-Cawska si degdeg ah ayuu u xoogaysanayaa si uu uga hortago gubashada ciidda oo uu yareeyo haramaha. Xididdadooda qoto dheer waxay hagaajiyaan ciidda oo waxay qabtaan nitrogen-ka haray ee ciidda dhammaadka xilli-beeridda si ay uga hortagaan daadinta nafaqada. Marka cawska keligood la isticmaalo, waxaa dhici karta in ay nitrogen ka dhameeyaan ciidda. Isticmaal cawska iyo legumes-ka si wadajir ah si aad uga faa'iidaysato dalagyada daboolka.  
-Dhirta kale sida buckwheat iyo phacelia waxay leeyihiin nitrogen ka badan cawska, laakiin ka yar legumes. Waxay siin karaan nitrogen qaar dalagga xiga oo badanaa kuma dhameeyaan nitrogen-ka ciidda. Sidoo kale way fududahay in lagu daro ciidda. Waxay ubaxaan si badan oo waxay cunto u siiyaa cayayaanka pollinators-ka iyo kuwa kale ee faa'iidada leh.  
+- Waxay ciidda ku daraan walxo dabiici ah oo hagaajiya tayada ciidda
+- Lowska waxay keenaan nafaqo nitrogen ah
+- Waxay ciidda ka ilaaliyaan cufnaanta
+- Waxay xakameeyaan haramaha
+- Waxay dib ugu celiyaan nafaqooyinka ciidda oo ka hortagaan biyo-maraynta
+- Waxay ciidda ka ilaaliyaan nabaad guurka
+- Waxay u noqdaan cunto (malab iyo man) shinnida iyo cayayaanka faa'iidada leh
 
-## Sida Loo Bilaabo  
+## Sida Loo Doorto
 
-### Xulashada  
-Haddii aad ku cusub tahay dalagyada daboolka, dooro ikhtiyaaro sida oats iyo daikon oo u badan inay dhintaan xilliga jiilaalka. Dhirtaani ma u baahan yihiin talaabooyin dheeraad ah oo joojinta ah ka hor inta aan la beerin dalagga xiga. Haddii kale, dooro dalagga daboolka iyadoo lagu saleynayo faa'iidooyinka la rabo. Qaar kamid ah noocyada caanka ah waxaa ka mid ah:  
+Waxaa jira dhir badan oo noqon kara dalagga daboolka ah, mid walbana wuxuu leeyahay faa'iidooyin iyo caqabado. Badanaa, waxay soo saaraan biomass (xadi badan oo dhir ah) xilliga beertu bannaan tahay. Biomass-kan, marka la joojiyo, wuxuu noqdaa isha walxo dabiici ah si ay u hagaajiso awoodda ciidda ee biyaha iyo nafaqooyinka. Dalagyada daboolka ah waxay kordhiyaan walxaha dabiiciga ah ee ciidda, xataa haddii la jarjaro lana isticmaalo sida mulching ama lagu qaso ciidda.
 
-#### XILLIGA QABOW  
-| Dalagga Daboolka | Nitrogen | Ka Hortag Haramaha | Dhisidda Ciidda | Xakameynta Qoyaanka | Quudinta Pollinators |  
-|------------------|----------|--------------------|-----------------|---------------------|----------------------|  
-| Crimson Clover    | X        | X                  | X               |                     | X                    |  
-| Austrian Winter Pea | X        | X                  | X               | X                   |                      |  
-| Cereal Rye        |          | X                  | X               | X                   |                      |  
-| Oats              |          | X                  | X               | X                   |                      |  
-| Forage Radish     |          | X                  | X               | X                   |                      |  
-| Winter Wheat      |          | X                  | X               | X                   |                      |  
-| Common Vetch      | X        |                    | X               |                     | X                    |  
-| Phacelia          |          | X                  |                 |                     | X                    |  
+- **Lowska** waxay nitrogen ka qaadaan hawada, waxayna ku kaydiyaan xididdada. Marka la joojiyo (la dilo), jeermiska ciidda ayaa jabinaya dhirta oo sii daaya nitrogen si dhirta kale ay u isticmaasho. Dalagyada daboolka ah ee lowska waxay yareeyaan baahida bacrinta nitrogen-ka.
+- **Cawska** si degdeg ah ayuu u baxaa si uu uga hortago nabaad guurka ciidda iyo haramaha. Xididdadooda qoto dheer waxay hagaajiyaan ciidda oo soo qabtaan nitrogen-ka haray dhammaadka xilliga wax-soo-saarka si looga hortago luminta nafaqooyinka. Haddii cawska kaliya la isticmaalo, waxaa dhici karta inuu ka dhimo nitrogen-ka ciidda. Isticmaal caws iyo lowska si wadajir ah si aad u hesho faa’iidooyinka ugu badan.
+- **Dhirta kale ee aan cawska ahayn** sida buckwheat iyo phacelia waxay leeyihiin nitrogen ka badan cawska laakiin ka yar lowska. Waxay bixin karaan nitrogen yar dalagga xiga, badanaana ma dhimin nitrogen-ka ciidda. Way fududahay in lagu qaso ciidda. Waxay ubaxaan si badan, waxayna cunto u noqdaan shinnida iyo cayayaanka kale ee faa’iidada leh.
 
-#### XILLIGA DIIRAN  
-| Dalagga Daboolka | Nitrogen | Ka Hortag Haramaha | Dhisidda Ciidda | Xakameynta Qoyaanka | Quudinta Pollinators |  
-|------------------|----------|--------------------|-----------------|---------------------|----------------------|  
-| Buckwheat        |          | X                  |                 |                     | X                    |  
-| Common Vetch     | X        |                    | X               |                     | X                    |  
-| Sorghum-Sudangrass |          | X                  | X               | X                   |                      |  
-| Phacelia          |          | X                  |                 |                     | X                    |  
+## Sida Loo Bilaabo
 
-### Waqtiga  
-Si aad u daboosho ciidda xilliga dayrta iyo jiilaalka, beer dalagga daboolka xilliga xagaaga dambe ilaa dayrta. Biyo ku shub ka hor roobka si aad u hesho abuur wanaagsan iyo koritaan xoogan. Si aad u daboosho ciidda xilliga gu’ga iyo xagaaga, beer xilliga gu’ga markii ciiddu shaqeyn karto oo ay ku filan tahay diirimaad si ay u dhasho.  
+### Xulashada
 
-### Abuuridda  
-Ku beer abuurka si toos ah meel la diyaariyey. Raac tilmaamaha ku jira abuurka ee ku saabsan heerka codsiga. Ku faafi gacanta ama qalab faafin gacanta lagu hayo. Ku xoq dusha sare oo si tartiib ah ugu cadaadi alwaax si aad u hagaajiso xiriirka ciidda. Si fiican u waraabi si aad u hesho abuur wanaagsan.  
+Haddii aad cusub tahay isticmaalka dalagyada daboolka ah, dooro dhir sida oats iyo daikon oo dhici doonta inay dhintaan xilliga qaboobaha. Dhirtaan ma u baahna tallaabooyin dheeraad ah si loo joojiyo ka hor intaadan beerin dalagga xiga. Haddii kale, dooro dalagga daboolka ah marka loo eego faa’iidooyinka aad rabto. Qaar ka mid ah dhirta caanka ah waa sidan:
 
-Haddii aad ku beerayso meel dalagga xagaaga lagu dhammeeyey, beer dalagga daboolka dusha sariirta oo dhan. Ka saar mulch, nadiifi dhirta, dabci dusha sare ee ciidda 1-2 inch, ka dibna beer abuurka. Haddii dalagga xagaaga aan la dhammeeynin, ka saar mulch, dabci lakabka sare ee ciidda, beer abuurka dalagga daboolka inta u dhaxaysa dhirta xagaaga.  
+### Dalagyada Daboolka ah ee Xilliga Qaboobaha
 
-### Joojinta  
-Dalagyada daboolka waa in la joojiyaa xilliga ubaxyada hore si loo soo celiyo faa'iidada ugu badan ee biomass-ka iyo nafaqada. Haddii joojinta ay dhacdo ka dib samayska abuurka, dalagyada daboolka waxay noqonayaan haramaha dalagga xiga.  
+| Dalagga Daboolka ah | Fix Nitrogen | Xakameyn Haramaha | Dhis Ciidda | Xakameyn Nabaad Guur | Cunto Siinta Shinnida |
+|---------------------|:------------:|:-----------------:|:-----------:|:--------------------:|:---------------------:|
+| Crimson Clover      | X            |                   | X           | X                    |                       |
+| Austrian Winter Pea | X            | X                 | X           | X                    |                       |
+| Cereal Rye          |              | X                 | X           | X                    |                       |
+| Oats                |              | X                 | X           | X                    |                       |
+| Forage Radish       |              | X                 | X           | X                    |                       |
+| Winter Wheat        |              | X                 | X           | X                    |                       |
+| Common Vetch        | X            |                   | X           | X                    |                       |
+| Phacelia            |              | X                 | X           | X                    | X                     |
 
-Joojinta waxay ku lug leedahay goynta ama qalloocinta laamaha si loo dilo qaybta sare oo lagu dul dhigo ciidda (habka aan-till). Ama sidoo kale ku dar ciidda. Daboolka aagga oo leh tarp wuxuu dedejin karaa geedi-socodka. Qalabka dhirta ee lagu daro ciidda waa in la jaro si loo dedejiyo kala-goynta. U oggolow 3-4 toddobaad ka hor inta aan la beerin dalagga xiga.  
+### Dalagyada Daboolka ah ee Xilliga Kulaylaha
 
-## Kheyraadka  
-- **Maareynta Dalagyada Daboolka si Faa'iido Leh**, USDA Sustainable Agriculture Research and Education  
-  [https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/](https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/)  
-- Daabacaadaha Ballaarinta Jaamacadda Gobolka Washington: [https://pubs.extension.wsu.edu/](https://pubs.extension.wsu.edu/)  
-  - **Dalagyada Daboolka ee Beerta Guriga Galbeedka Cascades FS111E**  
-  - **Dalagyada Daboolka ee Beerta Guriga Bariga Cascades FS117E**  
-  - **Hababka Maareynta Guusha ee Dalagyada Daboolka ee Beerta Gurigaaga FS119E**  
+| Dalagga Daboolka ah | Fix Nitrogen | Xakameyn Haramaha | Dhis Ciidda | Xakameyn Nabaad Guur | Cunto Siinta Shinnida |
+|---------------------|:------------:|:-----------------:|:-----------:|:--------------------:|:---------------------:|
+| Buckwheat           |              | X                 |             |                      | X                     |
+| Common Vetch        | X            |                   | X           | X                    |                       |
+| Sorghum-Sudangrass  |              | X                 | X           | X                    |                       |
+| Phacelia            |              | X                 | X           | X                    | X                     |
 
-## Talooyinka Master Gardener™  
-- Wac Khadka Gargaarka Beeraha Guriga: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Booqo [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) si aad u hesho buug-yareyaal iyo fiidiyowyo Jaamacadda 10-Daqiiqo™.  
+### Xilliga
 
-**Adeegga Ballaarinta Jaamacadda Gobolka Oregon** wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka iyadoo ku saleysan jinsiyadda, midabka, asal ahaan qowmiyadeed, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), qaabka galmada, naafada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsan siyaasadeed, macluumaadka hidda-sidaha, xaaladda ciidanka, dib-u-ciqaabid ama aargudasho fal hore oo xuquuqda madaniga ah. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+Si aad ciidda u daboosho xilliga dayrta iyo qaboobaha, beer dalagga daboolka ah dhammaadka xagaaga ama dayrta. Biyo siinta ka hor roobka waxay caawisaa in abuurku si fiican u baxo. Si aad u daboosho ciidda xilliga gu’ga iyo xagaaga, beer dhammaadka gu’ga marka ciiddu noqoto mid la shaqeyn karo oo kulul.
+
+### Beerista
+
+Abuurka si toos ah ugu beero dhul diyaarsan. Raac tilmaamaha ku qoran abuurka si aad u ogaatid inta loo baahan yahay. Ku firdhi gacanta ama mashiinka yar ee firdhiya abuurka. Caarada sare ku riji si tartiib ah adigoo isticmaalaya loox si abuurku ugu dhowaado ciidda. Biyo si fiican si abuurku u baxo.
+
+Haddii aad ku beereyso meel dalaggii xagaaga la goostay, beero dalagga daboolka ah dhamaan sariirta. Ka saar mulch, nadiifi dhirta, jilci 1–2 inch ee ciidda sare, kadibna beero abuurka. Haddii dalaggii xagaaga weli socdo, ka saar mulch, jilci lakabka sare ee ciidda, beero abuurka dalagga daboolka ah inta u dhaxaysa khudradda xagaaga.
+
+### Joojinta
+
+Jooji dalagga daboolka ah xilliga ubaxista hore si aad u hesho faa’iidooyin badan oo biomass iyo nafaqooyin. Haddii la joojiyo ka dib marka abuurka sameysmo, dalagga daboolka ah wuxuu noqdaa haram dalagga xiga.
+
+Joojintu waxay ku lug leedahay jarista ama laabista laamaha si loo dilo qaybta kore ee dhirta, lana dhigo dhulka dushooda (habka aan la qodin/dillaacin), ama lagu qaso ciidda. Daboolida aagga marada madow waxay dedejin kartaa habka. Dhirta la galay ciidda waa in la jaraa si si degdeg ah u qudhunto. Sug 3–4 toddobaad ka hor intaadan beerin dalagga xiga.
+
+## Kheyraadka
+
+- **Maareynta Dalagyada Daboolka ah si Faa’iido Leh**, USDA Sustainable Agriculture Research and Education  
+  [https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/](https://www.sare.org/resources/managing-cover-crops-profitably-3rd-edition/)
+- **Daabacaadaha Kordhinta Jaamacadda Gobolka Washington**  
+  [https://pubs.extension.wsu.edu/](https://pubs.extension.wsu.edu/)
+    - Dalagyada Daboolka ah ee Beero Guriyeedka Galbeedka Cascades FS111E
+    - Dalagyada Daboolka ah ee Beero Guriyeedka Bariga Cascades FS117E
+    - Hababka Maareynta Guusha ee Dalagyada Daboolka ah ee Beertaada FS119E
+
+#### Talo Beeraleyda Master™ · Wac Khadka Caawinta Beeraha Guriga: 503-655-8631 (Degmada Clackamas) · 503-821-1150 (Degmada Washington) · 503-445-4608 (Degmada Multnomah) · Booqo [www.cmastergardeners.org/10-minute-university](http://www.cmastergardeners.org/10-minute-university) si aad u hesho waraaqo iyo muuqaal 10-Daqiiqo Jaamacad™
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka oo dhan iyadoo lagu salaynayo: midabka, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimo, da’, xaalad guur, xaalad qoys/waalidnimo, dakhli laga helo barnaamij caawimaad dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidaha, xaalad ciidanimo, aargoosi ama ciqaab ka dhalatay hawlo xuquuq madaniyeed hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+
+---

@@ -1,87 +1,92 @@
-### 10/9/2018 作成者: ローラ・アイヤー
+#### 宿根草の秋の剪定ガイド · 作成：ローラ・アイヤー · 2018年10月9日
 
-## 秋の多年草剪定ガイド
+## 剪定する植物
 
-### 剪定する植物
-- ドイツアヤメ（Bearded Iris）
-- ベルガモット（Monarda didyma）
-- ブラックベリーリリー（Belamcanda chinensis）
-- ガイラルディア（Gaillardia x grandiflora）
-- ブロンズフェンネル（Foeniculum vulgare ‘Purpureum’）
-- キャットミント（Nepeta）
-- オダマキ（Aquilegia）
-- コリダリス（Corydalis lutea）
-- クロコスミア（Crocosmia）
-- ヘメロカリス（Hemerocallis）
-- ゴールデンマーガレット（Anthemis tinctoria）
-- ゴールデンスター（Chrysogonum virginianum）
-- グランドクレマチス（Clematis recta）
-- 耐寒性ベゴニア（Begonia grandis）
-- ヘリアンサス（多年草品種 H. x laetiflorus, H. salicifolium...）
-- ホリーホックマロー（Malva alcea）
-- シュウメイギク（Anemone x hybrida）
-- リグラリア（Ligularia dentate）
-- リリーリーフレディベル（Adenophora lilifolia）
-- マスターワート（Astrantia major）
-- メドールー（Thalictrum aquilegiifolium）
-- マウンテンブルー（Centaurea montana）
-- ペイントデイジー（Tanacetum coccineum）
-- ペンステモン（Penstemon barbatus）
-- ボタン（Paeonia）
-- 多年生ヒマワリ（Helianthus）
-- フロックス（Phlox paniculata）
-- プルームポピー（Macleaya cordata）
-- プレーリーの女王、草原の女王（Filipendula rubra, F. ulmaria）
-- シベリアンバグロス（Brunnera macrophylla）
-- サルビア（Salvia nemorosa）
-- スニーズウィード（Helenium autumnale）
-- ソロモンの封印（Polygonatum odoratum）
-- バーロニカ/スパイクスピードウェル（Veronica spicata）
-- ワイルドまたは偽インディゴ（Baptisia australis）
-- ヤロウ（Achillea）
+- ジャーマンアイリス
+- ビーバーム（タイマツバナ、*Monarda didyma*）
+- ブラックベリーリリー（ヒオウギ、*Belamcanda chinensis*）
+- ブランケットフラワー（ガイラルディア、*Gaillardia x grandiflora*）
+- ブロンズフェンネル（銅葉ウイキョウ、*Foeniculum vulgare ‘Purpureum’*）
+- キャットミント（*Nepeta*）
+- オダマキ（*Aquilegia*）
+- コリダリス（キケマンソウ、*Corydalis lutea*）
+- クロコスミア
+- デイリリー（ヘメロカリス、*Hemerocallis*）
+- ゴールデンマーガレット（イエローマーガレット、*Anthemis tinctoria*）
+- ゴールデンスター（*Chrysogonum virginianum*）
+- グランドクレマチス（*Clematis recta*）
+- 耐寒性ベゴニア（*Begonia grandis*）
+- ヘリアンサス（多年性品種：*H. x laetiflorus*, *H. salicifolium* など）
+- ホリホックマロー（*Malva alcea*）
+- 秋明菊（シュウメイギク、*Anemone x hybrida*）
+- リグラリア（ツワブキ属、*Ligularia dentate*）
+- リリーリーフレディベル（*Adenophora lilifolia*）
+- マスターワート（*Astrantia major*）
+- メドウルー（カラマツソウ、*Thalictrum aquilegiifolium*）
+- マウンテンブルー（ヤグルマギク、*Centaurea montana*）
+- ペインテッドデイジー（*Tanacetum coccineum*）
+- ペンステモン（*Penstemon barbatus*）
+- ボタン（*Paeonia*）
+- 多年性ヒマワリ（*Helianthus*）
+- フロックス（クサキョウチクトウ、*Phlox paniculata*）
+- プルームポピー（*Macleaya cordata*）
+- クイーン・オブ・ザ・プレーリー、クイーン・オブ・ザ・メドウ（セイヨウシモツケソウ、*Filipendula rubra*, *F. ulmaria*）
+- シベリアンバグロス（ブルンネラ、*Brunnera macrophylla*）
+- サルビア（*Salvia nemorosa*）
+- スニーズウィード（*Helenium autumnale*）
+- アマドコロ（*Polygonatum odoratum*）
+- ベロニカ／スパイクスピードウェル（*Veronica spicata*）
+- ワイルドインディゴ／フェイクインディゴ（*Baptisia australis*）
+- ノコギリソウ（ヤロー、*Achillea*）
 
-### そのまま残しておく植物
-- アルテミシア（Artemisia）
-- アスター（Aster）
-- アスチルベ（Astilbe）
-- バルーンフラワー（Platycodon grandiflorus）
-- バスケットオブゴールド（Aurinia saxatilis）
-- ベアーズブリーチズ（Acanthus spinosus）
-- ベルゲニア（Bergenia cordifolia）
-- ルドベキア（Rudbeckia fulgida）
-- ブルーミストシュラブ（Caryopteris sp.）
-- バタフライブッシュ（Buddleia davidii）
-- バタフライウィード（Asclepias tuberosa）
-- カンパニュラ（Campanula）
-- カーディナルフラワー（Lobelia cardinalis）
-- コーラルベルズ（Heuchera sp.）
-- クッションスパージ（Euphorbia polychroma）
-- デルフィニウム（Delphinium）
-- ダイアンサス（Dianthus）
-- フォームフラワー（Tiarella cordifolia）
-- フォックスグローブ（Digitalis purpurea）
-- ガスプラント（Dictamnus albus）
-- ゲイフェザー（Liatris spicata）
-- ゲウム（Geum）
-- グローブシスル（Echinops ritro）
-- ゴールデンロッド（Solidago）
-- イタリアンバグロス（Anchusa azurea）
-- ジョーピーウィード（Eupatorium maculatum）
-- レディーズマントル（Alchemilla mollis）
-- ラムズイヤー（Stachys byzantina）
-- ラベンダー（Lavandula sp.）
-- ラベンダーコットン（Santolina chamaecyparissus）
-- ルピナス（Lupinus sp.）
-- マム（Chrysanthemum）
-- ピンクッションフラワー（Scabiosa columbaria）
-- パープルコーンフラワー（Echinacea purpurea）
-- レッドホットポーカー（Kniphofia）
-- ロシアンセージ（Perovskia atriplicifolia）
-- シーラベンダー（Limonium latifolium）
-- シーホリー（Eryngium）
-- セダム（Sedum）
-- ティックシード（Coreopsis species）
-- タートルヘッド（Chelone lyonii）
-- バレリアン（Centranthus ruber）
-- ワンドフラワー（Guara sp.）
-- ウィローアムソニア（Amsonia tabernaemontana）
+---
+
+## そのまま残す植物
+
+#### 作成：ローラ・アイヤー · 2018年10月9日
+
+- アルテミシア（ヨモギ類）
+- アスター
+- アスチルベ
+- バルーンフラワー（キキョウ、*Platycodon grandiflorus*）
+- バスケット・オブ・ゴールド（アウリニア、*Aurinia saxatilis*）
+- ベアーズブリーチ（ハアザミ、*Acanthus spinosus*）
+- ベルゲニア（ヒマラヤユキノシタ、*Bergenia cordifolia*）
+- ブラックアイドスーザン（ルドベキア、*Rudbeckia fulgida*）
+- ブルーミストシュラブ（カリオプテリス、*Caryopteris sp.*）
+- ブッドレア（バタフライブッシュ、*Buddleia davidii*）
+- バタフライウィード（トウワタ、*Asclepias tuberosa*）
+- カンパニュラ
+- カーディナルフラワー（ロベリア、*Lobelia cardinalis*）
+- ヒューケラ（コーラルベル、*Heuchera sp.*）
+- クッションスパージ（*Euphorbia polychroma*）
+- デルフィニウム
+- ダイアンサス（ナデシコ）
+- フォームフラワー（ティアレラ、*Tiarella cordifolia*）
+- ジギタリス（キツネノテブクロ、*Digitalis purpurea*）
+- ガスプラント（ハマゴウ、*Dictamnus albus*）
+- ゲイフェザー（リアトリス、*Liatris spicata*）
+- ゲウム（ダイコンソウ）
+- グローブシスル（エキノプス、*Echinops ritro*）
+- ゴールデンロッド（セイタカアワダチソウ、*Solidago*）
+- イタリアンバグロス（アンキューサ、*Anchusa azurea*）
+- ジョーピーウィード（ヒヨドリバナ、*Eupatorium maculatum*）
+- レディスマントル（アルケミラ、*Alchemilla mollis*）
+- ラムズイヤー（スタキス・ビザンティナ、*Stachys byzantina*）
+- ラベンダー（*Lavandula sp.*）
+- ラベンダーコットン（サントリナ、*Santolina chamaecyparissus*）
+- ルピナス（*Lupinus sp.*）
+- マム（キク、*Chrysanthemum*）
+- ピンクッションフラワー（スカビオサ、*Scabiosa columbaria*）
+- パープルコーンフラワー（エキナセア、*Echinacea purpurea*）
+- レッドホットポーカー（トリトマ、*Kniphofia*）
+- ロシアンセージ（ペロフスキア、*Perovskia atriplicifolia*）
+- シーラベンダー（リモニウム、*Limonium latifolium*）
+- シーホリー（エリンギウム、*Eryngium*）
+- セダム（ベンケイソウ）
+- ティックシード（コレオプシス属、*Coreopsis species*）
+- タートルヘッド（チェロネ、*Chelone lyonii*）
+- バレリアン（セントランサス、*Centranthus ruber*）
+- ワンドフラワー（ガウラ、*Guara sp.*）
+- ウィローアムソニア（*Amsonia tabernaemontana*）
+---

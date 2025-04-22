@@ -1,67 +1,91 @@
-# Universidade de 10 Minutos™  
-A Associação de Jardineiros Mestres do Condado de Clackamas, em colaboração e apoio ao Programa de Jardineiros Mestres™ da Extensão da OSU  
+#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
 
-## Criando um Jardim para Polinizadores  
-O segredo para criar um jardim de polinizadores bem-sucedido é oferecer aos insetos polinizadores e outros animais um local para criar seus filhotes e garantir que tenham uma fonte confiável de alimento desde a primavera até o final do outono. Polinizadores comuns em jardins incluem abelhas, vespas, borboletas, mariposas, moscas, besouros, pássaros e até formigas. Como há uma grande variedade de polinizadores com diferentes necessidades, a melhor estratégia é cultivar muitos tipos diferentes de plantas com flores que produzam néctar e pólen.  
+# Criando um Jardim para Polinizadores
 
-Com esse objetivo em mente, aqui estão os passos para criar um espaço bonito e acolhedor para insetos polinizadores:  
+O segredo para criar um jardim de polinizadores de sucesso é oferecer aos insetos polinizadores e outros bichinhos um lugar para criar seus filhotes e garantir que eles tenham uma fonte confiável de alimento da primavera até o final do outono. Polinizadores comuns nos jardins incluem abelhas, vespas, borboletas, mariposas, moscas, besouros, pássaros e até formigas. Como existe uma grande variedade de polinizadores com diferentes necessidades, a melhor estratégia é cultivar muitos tipos diferentes de plantas com flores que produzem néctar e pólen.
 
-### 1. Tamanho e Localização  
-Seis a oito horas de luz solar são ideais. Você pode introduzir plantas polinizadoras em um canteiro já existente ou criar um novo canteiro.  
+Com esse objetivo em mente, aqui estão os passos para criar um espaço bonito e acolhedor para insetos polinizadores:
 
-### 2. Solo  
-Avalie seu solo. Ele é arenoso e bem drenado ou mais argiloso e úmido? O tipo de solo determinará quais plantas prosperarão, dependendo de sua necessidade de boa drenagem e fertilidade. Caso não tenha certeza sobre o tipo de solo, faça um teste. O pH do solo deve estar entre 6,0 e 7,0.  
+### 1. Tamanho e Localização
 
-### 3. Irrigação  
-Regar é importante, especialmente durante o estabelecimento das plantas, que pode levar de 1 a 3 anos. Determine como você fornecerá água às suas plantas. Use mangueiras de irrigação ou outros métodos para direcionar a água para a zona das raízes.  
+Seis a oito horas de sol por dia é o ideal. Você pode adicionar plantas para polinizadores em um canteiro já existente ou criar um novo.
 
-### 4. Seleção de Plantas  
-- Busque uma diversidade de formas, tamanhos e cores de flores.  
-- Garanta floração contínua desde o início da primavera até o final do outono.  
-- Use plantas nativas, incluindo arbustos e árvores, que fornecem flores precoces e abundantes.  
-- Utilize plantas não nativas que ofereçam pólen e néctar.  
-- Plante variedades de flores simples, que oferecem pólen e néctar facilmente acessíveis, em comparação com flores dobradas.  
-- Coloque flores polinizadoras em blocos maiores para manter a eficiência na busca de alimento.  
+### 2. Solo
 
-Consulte as recomendações do Laboratório de Ecologia de Jardins da Universidade Estadual de Oregon para sugestões sobre como atrair abelhas nativas. A publicação *Escolhas de Plantas Nativas para Abelhas* da Universidade Estadual de Oregon oferece muitas indicações: [https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees).  
+Avalie seu solo. Ele é arenoso e bem drenado ou mais argiloso e úmido? O tipo de solo vai determinar quais plantas vão crescer melhor, dependendo da necessidade de boa drenagem e fertilidade. Faça um teste de solo se não souber o tipo de solo que tem. O pH do solo deve estar entre 6,0 e 7,0.
 
-### 5. Considerações sobre Tamanho  
-Comece pequeno e aumente o tamanho do seu jardim ao longo do tempo, seja criando um novo canteiro ou adicionando vasos. Observe frequentemente e veja quais polinizadores são atraídos pelas suas plantas. Há abelhas, borboletas, beija-flores ou pássaros?  
+### 3. Irrigação
 
-### 6. Duração da Floração  
-O objetivo é projetar um jardim com flores desde o início da primavera até o final do outono. Use anuais e bulbos, como papoula da Califórnia, íris de Oregon e camas, para complementar arbustos e plantas perenes e aumentar a diversidade de plantas. Se tiver espaço, muitas árvores e arbustos nativos, como Manzanita e lilás da Califórnia, florescem no início da estação de crescimento e oferecem recursos florais abundantes.  
+Regar é importante, especialmente quando as plantas estão se estabelecendo, o que pode levar de 1 a 3 anos. Decida como vai fornecer água para suas plantas. Use mangueiras de irrigação ou outros métodos para direcionar a água até as raízes.
 
-### 7. Manutenção  
-O jardim se beneficia de capina e rega regulares. Aplique uma leve camada de cobertura para reduzir ervas daninhas. Deixe áreas de solo exposto para fornecer habitat para abelhas nativas que fazem ninhos.  
+### 4. Seleção de Plantas
 
-### 8. Pesticidas  
-Proteja os polinizadores usando uma abordagem de Manejo Integrado de Pragas para controlar pragas e doenças no jardim. Escolha plantas resistentes para minimizar a ocorrência de pragas e doenças, pode partes infectadas e use outros controles culturais e biológicos para resolver problemas. Use produtos químicos apenas como último recurso.  
+- Procure diversidade de formas, tamanhos e cores de flores.
+- Garanta floração contínua desde o início da primavera até o final do outono.
+- Use plantas nativas, incluindo arbustos e árvores, que fornecem flores cedo e em abundância.
+- Use espécies não nativas que ofereçam pólen e néctar.
+- Plante variedades de flores simples, que oferecem pólen e néctar acessíveis, ao invés de flores dobradas.
+- Plante flores para polinizadores em blocos maiores para facilitar o trabalho dos polinizadores.
 
-### 9. Limpeza de Outono  
-Mantenha folhas saudáveis, caules de plantas e cabeças de sementes no jardim até o final da primavera para apoiar o inverno de larvas, ovos, pupas e adultos de polinizadores.  
+Consulte as recomendações do Laboratório de Ecologia de Jardins da Universidade Estadual do Oregon para saber quais plantas atraem abelhas nativas. *Native Plant Picks for Bees* é uma publicação da Oregon State University que oferece muitas sugestões: [Native Plant Picks for Bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees).
 
-## Recursos Universitários e Outros  
+### 5. Considerações de Tamanho
 
-### Planos de Jardim para Polinizadores  
-[https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi](https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi)  
+Comece pequeno e aumente o tamanho do seu jardim com o tempo, seja criando um novo canteiro ou usando vasos. Observe sempre e veja quais polinizadores são atraídos para suas plantas. Existem abelhas, borboletas, beija-flores ou outros pássaros?
 
-### Melhorando Paisagens Urbanas e Suburbanas para Proteger Polinizadores  
-[https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators](https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators)  
+### 6. Duração da Floração
 
-### Escolhas de Plantas Nativas para Abelhas  
-[https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)  
+O objetivo é criar um jardim que tenha flores desde o início da primavera até o final do outono. Use anuais e bulbos, como a papoula da Califórnia, o lírio do Oregon e camas, para complementar arbustos e plantas perenes e aumentar a diversidade. Se tiver espaço, muitas árvores e arbustos nativos, como manzanita e lilás da Califórnia, florescem cedo na estação e oferecem muitos recursos florais.
 
-### Laboratórios Analíticos que Atendem Oregon  
-[https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf](https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf)  
+### 7. Manutenção
 
-### Viveiros de Plantas Nativas  
-[https://portlandnativeplants.org/native-plant-nurseries](https://portlandnativeplants.org/native-plant-nurseries)  
+O jardim se beneficia de capinas e regas regulares. Coloque uma camada fina de cobertura morta para reduzir ervas daninhas. Deixe áreas de solo exposto para servir de habitat para abelhas nativas que fazem ninhos no solo.
 
-### Conselho de Jardineiros Mestres™  
-Entre em contato com o escritório local da Extensão da OSU para obter conselhos de Jardineiros Mestres. Confira este site para informações de contato: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).  
+### 8. Pesticidas
 
-Para folhetos e cronograma de aulas da Universidade de 10 Minutos™, visite [https://cmastergardeners.org](https://cmastergardeners.org).  
+Proteja os polinizadores usando o Manejo Integrado de Pragas para controlar pragas e doenças no seu jardim.
+
+- Escolha plantas resistentes para reduzir o aparecimento de pragas e doenças.
+- Pode as partes infectadas e use outros controles culturais e biológicos para resolver problemas.
+- Use produtos químicos apenas como último recurso.
+
+### 9. Limpeza de Outono
+
+Mantenha folhas, caules e sementes de plantas que não estejam doentes no jardim até o final da primavera para apoiar o ciclo de vida dos polinizadores durante o inverno, incluindo larvas, ovos, pupas e adultos.
 
 ---
 
-A Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, condição familiar ou parental, renda proveniente de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividades anteriores relacionadas aos direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
+## Recursos da Universidade e Outros
+
+### Planos de Jardins para Polinizadores
+
+[Planos de Jardins para Polinizadores](https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi)
+
+### Melhorando Paisagens Urbanas e Suburbanas para Proteger Polinizadores
+
+[Melhorando Paisagens Urbanas e Suburbanas para Proteger Polinizadores](https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators)
+
+### Plantas Nativas Indicadas para Abelhas
+
+[Plantas Nativas Indicadas para Abelhas](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)
+
+### Laboratórios Analíticos que Atendem Oregon
+
+[Laboratórios Analíticos que Atendem Oregon](https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf)
+
+### Viveiros de Plantas Nativas
+
+[Viveiros de Plantas Nativas](https://portlandnativeplants.org/native-plant-nurseries)
+
+---
+
+## Orientação de Mestre Jardineiro™
+
+Entre em contato com o escritório local de Extensão da OSU para orientação de Mestres Jardineiros. Veja este site para informações de contato: [Encontre o Escritório de Extensão Local](https://extension.oregonstate.edu/find-us).
+
+Para folhetos e cronogramas de aulas do 10-Minute University™, visite [Mestres Jardineiros do Condado de Clackamas](https://cmastergardeners.org).
+
+---
+
+#### Serviço de Extensão da Oregon State University · O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar ou parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

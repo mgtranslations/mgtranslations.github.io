@@ -1,66 +1,148 @@
-# 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb txhim kho  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Ua Teb Nrog Compost  
-Compost yog ib qho zoo heev rau kev npog av thaum muab tso rau saum npoo av. Nws yog ib qho chiv thiab pab kho av thaum muab sib xyaw rau hauv av. Ua raws cov kauj ruam hauv daim ntawv no, tus neeg ua teb hauv tsev tuaj yeem hloov cov nyom txiav, nplooj, thiab cov khib nyiab vaj rau hauv compost siv hauv tsev.  
+# Ua Vaj Tse Nrog Compost
 
-### Daim Ntawv Qhia Txog Kev Ua Tau Zoo  
-Koj lub compost yog ib lub zej zog muaj sia nrog cov kab me me (kab mob, fungi, protozoa) thiab lwm yam (kab menyuam, kab txaij, kab thiab kab ntxwv) uas “ua haujlwm” cov khib nyiab vaj. Yuav muab cov khoom tseem ceeb rau cov kab me me, sib xyaw ob feem ntawm cov khoom muaj carbon (“xim av”) nrog ib feem ntawm cov khoom muaj nitrogen (“xim ntsuab”) thaum tsim koj lub compost. Qhov sib xyaw no ntawm carbon thiab nitrogen yuav txhawb cov kab me me kom muaj ntau thiab tsim compost sai. Lwm qhov kev sib xyaw yuav tsim compost zoo tab sis yuav tawg qeeb dua.  
+Compost yog ib hom mulch zoo thaum tso rau saum av. Nws pab kom av muaj chiv thiab zoo dua thaum txua rau hauv av. Yog koj ua raws li cov kauj ruam hauv phau ntawv no, ib tus neeg ua vaj hauv tsev yuav hloov tau nyom txiav, nplooj, thiab lwm yam pov tseg hauv vaj mus ua compost siv hauv tsev.
 
-#### Xim Ntsuab (ib feem) thiab Xim Av (ob feem)  
-- Cov nyom tshiab txiav  
-- Cov nplooj ntsuab  
-- Cov ceg ntoo  
-- Cov nyom txiav  
-- Cov nroj tsuag ib xyoos tsis muaj noob  
-- Cov zaub thiab txiv hmab txiv ntoo khib nyiab  
-- Cov ntawv lim kas fes thiab hnab tshuaj yej  
-- Cov av qub  
-- Cov ceg ntoo me  
-- Cov nyom thiab nplooj qhuav  
-- Cov ntawv xov xwm shredded  
-- Cov nroj straw  
-- Cov ntoo me chips  
+---
 
-Tsis txhob compost cov nroj tsuag muaj kab mob; cov nroj tsuag muaj noob; cov nroj tsuag uas muaj kev txhawb nqa zoo li quack grass thiab morning glory; cov cag ntawm cov nroj tsuag mus tas li; cov tsiaj quav; cov tsiaj tuag; cov ncuav mog qab zib thiab nplej; cov nqaij lossis ntses; cov khoom mis; roj, roj ua noj, lossis cov zaub mov muaj roj. Cov roj, nqaij, thiab cov khoom mis yuav ua rau tsw phem thiab nyiam cov kab tsuag. Cov quav tsiaj tuaj yeem kis tau kab mob. Cov nroj tsuag tuaj yeem kis tau lwm lub vaj. Xav txog kev siv lub thoob compost tsiaj txhu rau koj cov khib nyiab hauv chav ua noj.  
-Txhawm rau zam teeb meem tshuaj tua nroj: Siv tsawg lossis tsis siv tshuaj tua nroj. Cov cua sov hauv lub compost yuav ceev cov tshuaj tua nroj mus rau hauv cov tshuaj tsis muaj tshuaj lom. Kev sib xyaw nrog cov organic hauv compost kuj ua rau cov tshuaj tua nroj tsis muaj zog. Cia koj lub compost nyob rau ib xyoos lossis ntau dua ua ntej siv nws kom ua tiav cov tshuaj tua nroj.  
+## Daim Ntawv Qhia Kom Ua Tau Zoo
 
-### Kev Tsim Lub Compost  
-- **Txiav Me Me**: Yog tias cov kab me me muaj ntau qhov chaw rau noj, cov khoom yuav tawg sai dua. Txiav koj cov khib nyiab vaj nrog rab riam, lossis siv tshuab txiav khoom/me nyuam nyom los txiav cov khoom.  
-- **Qhov Loj Tseem Ceeb**: Cov compost khaws cov cua sov tsim los ntawm kev ua haujlwm ntawm ntau lab kab me me. Lub compost uas muaj 3 ko taw x 3 ko taw x 3 ko taw yog qhov tsawg kawg rau compost uas ceev. Cov compost uas dav lossis siab tshaj 5 ko taw tsis pub cua rau cov kab me me hauv nruab nrab.  
-- **Cua thiab Dej**: Feem ntau ntawm lub neej hauv ntiaj chaw xav tau dej thiab cua kom muaj sia. Cov kab me me hauv compost ua haujlwm zoo thaum lub compost ntub zoo li daim txhuam tes thiab muaj ntau qhov cua. Qhov ntau ntawm lub hnub lossis nag tuaj yeem cuam tshuam qhov sib npaug ntawm huab cua thiab dej hauv compost. Cov huab cua hauv compost siv tau sai dua dej, yog li compost yuav tsum tau “sib xyaw” los ntxiv huab cua uas yuav txhawb cov cua sov thiab tswj qhov tsw phem.  
-- **Sijhawm thiab Cua Sov**: Cov kab mob decomposition ua haujlwm zoo hauv qhov kub ntawm 110°F - 160°F. Qhov kub kub, lawv ua haujlwm sai. Yog tias koj tsim cov kev sib xyaw carbon thiab nitrogen zoo, muab qhov chaw zoo rau hauv cov khoom loj thiab tswj dej thiab huab cua kom zoo, qhov kub yuav nce ntau hnub.  
+Koj lub compost yog ib lub zej zog muaj tej kab mob me me (kab mob, pwm, protozoa) thiab lwm yam (centipede, millipede, kab, thiab kab ntsaum) uas pab “ua” cov pov tseg hauv vaj. Yuav kom muab cov tshuaj noj tseem ceeb rau cov kab no, sib tov **ob feem cov khoom muaj carbon (“xim av”)** nrog **ib feem cov khoom muaj nitrogen (“xim ntsuab”)** thaum koj txua koj pawg compost. Qhov kev sib tov no yuav ua kom muaj ntau tus kab ua haujlwm thiab compost yuav npaj sai. Yog siv lwm yam sib npaug ntawm xim av thiab xim ntsuab, tseem ua tau compost zoo tab sis yuav qeeb dua.
 
-### Kev Siv Compost  
-- **Kho Av**: Sib xyaw ob txog tsib nti compost rau hauv teb zaub thiab paj txhua xyoo ua ntej cog.  
-- **Ua Potting Mix**: Ntxiv ib feem compost rau ob feem av cog khoom lag luam, lossis ua koj tus kheej nrog qhov sib npaug ntawm compost thiab xuab zeb lossis perlite.  
-- **Npog Nyom**: Npog cov nyom nrog compost yog qhov zoo kom muaj cov nitrogen tso tawm maj mam. Sib xyaw compost uas zoo thiab xuab zeb, thiab kis nws rau ntawm cov nyom. Kev siv compost kuj yuav txhim kho cov av thiab ua kom dej nyob tau, txuag dej.  
+### Xim Ntsuab (Ib Feem)
 
-### Teeb Meem thiab Txoj Kev daws  
-#### Lub compost tsis kub:  
-**Ua tau vim li cas** | **Kev daws teeb meem**  
-Soggy compost | Txo cov compost, ntxiv cov khoom zoo li sawdust, straw lossis ntoo chips.  
-Qhuav heev | Siv dej los ntub compost yam tsis ua kom dej ntau dhau.  
-Tsis muaj nitrogen | Txo cov compost, ntxiv cov khoom muaj nitrogen zoo li tso quav tsiaj lossis nyom txiav. Sib xyaw thiab tsim compost tshiab; ntub me ntsis.  
-Cov khoom ua tiav lawm | Cov compost ua tiav yog xim av tsaus thiab tawg yooj yim nrog tsw zoo.  
+- Nyom txiav tshiab
+- Nplooj ntsuab
+- Qia nroj tsuag
+- Yaj kab txiav
+- Nroj tsuag ib xyoos uas tsis muaj noob
+- Noj zaub thiab txiv hmab txiv ntoo pov tseg
+- Cov hnab kas fes thiab hnab tshuaj yej
+- Av cog nroj qub
 
-#### Compost tsw phem:  
-**Ua tau vim li cas** | **Kev daws teeb meem**  
-Tsis muaj oxygen | Txo compost kom muaj huab cua, ntxiv cov khoom zoo li sawdust, straw lossis ntoo chips.  
+### Xim Av (Ob Feem)
 
-#### Compost muaj ammonia tsw phem:  
-**Ua tau vim li cas** | **Kev daws teeb meem**  
-Nitrogen ntau dhau | Txo compost, ntxiv cov khoom carbon zoo li sawdust.  
-Alkaline ntau dhau | Txo compost, ntxiv cov khoom muaj acidic zoo li nplooj oak, zaub khib nyiab.  
-Tsis muaj oxygen | Txo compost, ntxiv cov khoom zoo li sawdust, straw lossis ntoo chips.  
+- Qos ntoo
+- Nyom thiab nplooj qhuav
+- Xovxwm ntawv pov tseg
+- Qos nplej
+- Ntoo me me
 
-#### Kab tsuag:  
-**Ua tau vim li cas** | **Kev daws teeb meem**  
-Muaj nqaij lossis roj | Tshem cov nqaij/roj tawm ntawm compost. Txo kom muaj cua sov thiab txhim kho qhov sib npaug ntawm carbon thiab nitrogen. Siv lub thoob compost tiv thaiv tsiaj.  
+---
 
-### OSU Extension Cov Kev Pab  
-- **Kev Pab Tswv Yim Ua Teb**: Hu xov tooj rau Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- **Kev Qhia 10-Minute University™**: Mus saib www.cmastergardeners.org rau cov ntawv qhia thiab jadwal kawm.  
+### Cov Khoom Yuav Tsis Txhob Siv
 
-Oregon State University Extension Service tsis pub cais tawm hauv nws cov haujlwm, kev pabcuam, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm lub tebchaws, kev ntseeg, poj niam txiv neej, kev qhia tus kheej, kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj tau los los ntawm txoj haujlwm pabcuam pej xeem, kev ntseeg nom tswv, xov xwm keeb kwm caj ces, kev ua tub rog qub, kev ua phem lossis kev rau txim siab rau kev ua txhaum cai ua ntej. (Tsis yog txhua qhov txwv tsis pub siv rau txhua qhov haujlwm).
+Tsis txhob muab cov no rau hauv compost:
+
+- Nroj tsuag muaj kab mob
+- Nroj tsuag muaj noob
+- Nroj tsuag phem uas loj hlob sai (xws li quack grass, morning glory)
+- Keeb nroj tsuag ntev xyoo
+- Tsiaj pov tseg
+- Tsiaj tuag
+- Nqeeb thiab nplej
+- Nqaij los yog ntses
+- Mis nyuj los yog khoom muaj mis nyuj
+- Roj, roj ua noj, los yog khoom noj muaj roj
+
+Roj, nqaij, thiab mis nyuj yuav ua rau tsw phem thiab nyiam tsiaj tuaj. Tsiaj pov tseg tuaj yeem kis kab mob. Nroj tsuag phem yuav nthuav mus rau lwm qhov vaj. Xav txog kev siv lub thawv ua compost nrog kab ntsaum rau cov pov tseg hauv chav ua noj.
+
+### Tswv Yim Txog Herbicide
+
+Yog xav zam kev teeb meem los ntawm herbicide:
+
+- Siv tsawg los yog tsis siv herbicide.
+- Kub hauv compost pab kom herbicide tawg sai rau yam tsis muaj tshuaj lom.
+- Herbicide uas nplaum nrog cov organic hauv compost kuj ua rau nws ua tsis tau zoo lawm thiab.
+- Cia koj compost zaum ib xyoo los yog ntau dua ua ntej siv kom herbicide yuav luag tawg tag nrho.
+
+---
+
+## Yuav Ua Compost Li Cas
+
+### Txiav Kom Me Me
+
+Yog cov kab me me muaj chaw noj ntau, cov khoom yuav tawg sai dua. Txiav cov pov tseg hauv vaj nrog rab riam, los yog siv tshuab txiav nyom los txiav.
+
+### Qhov Loj Tseem Ceeb
+
+Compost yuav kub los ntawm cov kab ua haujlwm. Ib **pawg compost loj 3 x 3 x 3 ko taw** yog qhov tsawg kawg kom kub thiab tawg sai. Yog loj dua **5 ko taw** dav los siab, huab cua tsis txaus mus txog hauv nruab nrab.
+
+### Cua thiab Dej
+
+Feem coob yam muaj sia nyob xav tau dej thiab cua. Cov kab hauv compost ua haujlwm zoo tshaj thaum pawg compost ntub li daim ntaub so tes thiab muaj kev ncig cua. Kab hnub kub los nag ntau dhau yuav cuam tshuam kev sib npaug ntawm cua thiab dej hauv koj pawg compost. Cua hauv pawg yuav ploj sai dua dej, yog li yuav tsum **tov lossis xyaw pawg compost tsis tu ncua** kom cua los tau, pab kom kub thiab tswj tsw phem.
+
+### Sijhawm thiab Kub
+
+Cov kab mob tawg ua haujlwm zoo thaum kub **110°F - 160°F**. Qhov kub tshaj, lawv ua haujlwm sai dua. Yog koj muaj kev sib npaug zoo ntawm carbon thiab nitrogen, muaj chaw txaus rau cov khoom, thiab tuav kom muaj dej thiab cua txaus, qhov kub yuav nce mus ntau hnub.
+
+---
+
+## Siv Compost Li Cas
+
+### Rau Kev Txhim Kho Av
+
+Sib tov **ob mus tsib nti** compost rau hauv vaj zaub thiab paj txhua xyoo ua ntej cog.
+
+### Ua Av Cog Nroj
+
+Ntxiv **ib feem compost** rau **ob feem av cog nroj uas yuav hauv khw**, los yog sib tov ib feem compost nrog ib feem xuab zeb los yog perlite.
+
+### Tso Rau Saum Nyom
+
+Tso compost rau saum nyom pab kom nitrogen tawm maj mam. Sib tov compost uas ntxhib nrog xuab zeb thiab co evenly rau nyom. Siv compost tseem pab kom av zoo dua thiab tuav dej tau zoo dua, ces txuag tau dej.
+
+---
+
+## Teeb Meem Uas Yuav Tsum Saib Xyuas Thiab Txhim Kho
+
+### Compost Tsis Kub
+
+| **Tej Yam Muaj Teeb Meem**                  | **Kev daws teeb meem**                                                                 |
+|---------------------------------------------|----------------------------------------------------------------------------------------|
+| Ntub dhau: compost ntub.                    | Tov pawg compost, ntxiv khoom qhuav xws li sawdust, qos nplej, los yog ntoo me me.      |
+| Qhuav dhau.                                 | Ntxiv dej me me; kom pawg compost tsuas ntub xwb.                                      |
+| Tsis muaj nitrogen txaus: compost me dhau; pawg compost tsuas ntub, tsuas kub nruab nrab xwb. | Tov pawg compost, ntxiv khoom nitrogen xws li tsiaj nyeg pov tseg, nyom txiav. Sib tov thiab ntub. |
+| Tej zaum compost twb npaj lawm.             | Compost tiav yog tsaus thiab tawg nrog tsw av zoo.                                      |
+
+---
+
+### Compost Muaj Tsw Qab Zib Tsis Zoo
+
+| **Tej Yam Muaj Teeb Meem**                  | **Kev daws teeb meem**                                                                 |
+|---------------------------------------------|----------------------------------------------------------------------------------------|
+| Ntub dhau/tsis muaj cua: compost tsis tawg kom zoo. | Tov pawg compost kom muaj cua, ntxiv khoom qhuav xws li sawdust, qos nplej, los yog ntoo me me.  |
+
+---
+
+### Compost Muaj Tsw Ammonia
+
+| **Tej Yam Muaj Teeb Meem**                  | **Kev daws teeb meem**                                                                 |
+|---------------------------------------------|----------------------------------------------------------------------------------------|
+| Nitrogen ntau dhau: nitrogen tawm los ua ammonia. | Tov pawg compost, ntxiv sawdust los yog khoom muaj carbon. Lub hom phiaj yog kom nitrogen nyob hauv pawg compost. |
+| Alkaline ntau dhau: Nitrogen ploj ua ammonia ntau dua thaum pawg compost alkaline (pH siab). Siv limestone ntau dhau yuav ua kom alkaline. | Tov pawg compost, ntxiv khoom muaj acid xws li sawdust, nplooj oak, los yog zaub pov tseg. |
+| Ntub dhau/tsis muaj cua.                    | Tov pawg compost, ntxiv khoom qhuav xws li sawdust, qos nplej, los yog ntoo me me.      |
+
+---
+
+### Kab (Nas, Nas Npua, Kab)
+
+| **Tej Yam Muaj Teeb Meem**                  | **Kev daws teeb meem**                                                                 |
+|---------------------------------------------|----------------------------------------------------------------------------------------|
+| Muaj nqaij los yog khoom muaj roj.          | Tshem nqaij/roj tawm ntawm pawg compost. Tov kom kub thiab sib npaug carbon-nitrogen; siv thawv compost uas tsis pub tsiaj nkag. |
+
+---
+
+## Kev Pab Los Ntawm OSU Extension Service
+
+- [Ua Vaj Tsev Nrog Compost, Mulches thiab Row Covers, EC 1247](https://catalog.extension.oregonstate.edu)
+
+---
+
+#### Kev Pab Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau 10-Minute University™ phau ntawv thiab teev sijhawm kawm: Mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service tsis pub muaj kev cais tawm hauv txhua yam haujlwm, kev pab, dej num, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws ib txwm, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (raug kev hloov poj niam txiv neej), kev nyiam sib deev, xiam oob khab, hnub nyoog, yuav poj niam los txiv neej, tsev neeg/kev ua niam txiv, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, txwj laus, los yog raug tsim txom/ua phem rau txoj cai. (Tsis yog txhua yam no muaj cuam tshuam rau txhua qhov dej num.)
+---

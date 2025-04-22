@@ -1,62 +1,80 @@
-# Université en 10 minutes™  
-L'Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration et en soutien au programme OSU Extension Master Gardener™  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du programme OSU Extension Master Gardener™
 
-## Cultiver des Fraises  
+# Cultiver des Fraises
 
-### Pourquoi cultiver des fraises ?  
-- Si vous prenez soin des plantes correctement, vous pouvez obtenir assez de fraises pour votre famille sur une surface relativement petite.  
-- Les plantations de fraises peuvent rester productives pendant 3 ou 4 années de fructification.  
+### Pourquoi cultiver des fraises ?
+- Si vous vous occupez bien des plantes, vous pouvez récolter assez de fraises pour votre famille sur une petite surface.
+- Les fraisiers peuvent rester productifs pendant 3 ou 4 années de récolte.
 
-### Types de fraises  
-- **Fraises à floraison de juin** : produisent une seule récolte par an, principalement en juin. Exemples : Hood, Totem, Benton, Sweet Sunrise et Tillamook. Elles produisent de nombreux stolons.  
-- **Fraises remontantes** : produisent deux récoltes, une en juin ou juillet et l'autre à l'automne. Exemples : Quinault et Fort Laramie. Elles produisent peu de stolons.  
-- **Fraises jour neutre** : produisent des fruits presque en continu pendant la saison de croissance, sauf lorsqu'il fait très chaud. Ce sont les meilleures pour les jardins familiaux et les contenants. Exemples : Albion, Seascape, Selva, Tristar et Tribute.  
+### Types de fraises
+- **Variétés de juin** – Produisent une seule récolte par an, principalement en juin. Exemples : Hood, Totem, Benton, Sweet Sunrise et Tillamook. Elles produisent beaucoup de stolons.
+- **Variétés remontantes** – Produisent deux récoltes, une en juin ou juillet et l’autre à l’automne. Exemples : Quinault et Fort Laramie. Elles produisent peu de stolons.
+- **Variétés neutres au jour** – Produisent des fruits presque continuellement pendant la saison de croissance, sauf quand il fait très chaud. Ce sont les meilleures variétés pour le jardin familial et les pots. Exemples : Albion, Seascape, Selva, Tristar et Tribute.
 
-### Choisir un emplacement  
-- Le plein soleil est nécessaire pour une meilleure production et qualité des fruits.  
-- Pour minimiser les problèmes d'insectes et de maladies, changez de site à chaque nouvelle plantation (tous les 3 ou 4 ans).  
-- Évitez de planter là où des tomates, poivrons, pommes de terre, aubergines, fraises, framboises ou mûres ont poussé au cours des 3 dernières années. Ces plantes peuvent héberger des champignons responsables de maladies comme le flétrissement de la verticilliose.  
+### Choisir un emplacement
+- Le plein soleil est nécessaire pour une bonne production et des fruits de qualité.
+- Pour limiter les problèmes d’insectes et de maladies, changez d’emplacement à chaque nouvelle plantation (tous les 3 à 4 ans).
+- Évitez de planter là où des tomates, poivrons, pommes de terre, aubergines, fraises, framboises ou mûres ont poussé ces 3 dernières années. Ces plantes peuvent abriter des champignons responsables de maladies comme la verticilliose.
 
-### Préparer le sol  
-- **Idéal** : une plate-bande surélevée avec un sol limoneux bien drainé, riche en matière organique et ayant un pH entre 5,6 et 6,5.  
-- **À éviter** : planter dans des sols argileux lourds. Si le sol disponible a un mauvais drainage, il peut être amélioré en ajoutant de la matière organique.  
+### Préparer le sol
+- **Idéal :** Une plate-bande surélevée avec un sol limoneux bien drainé, riche en matière organique, avec un pH entre 5,6 et 6,5.
+- **À éviter :** Planter dans un sol argileux lourd. Si votre sol d’origine draine mal, vous pouvez l'améliorer en ajoutant de la matière organique.
 
-### Systèmes de plantation  
-Il existe deux systèmes : le système en rangs entrelacés et le système en butte.  
-- **Système en butte** — Pour les fraises jour neutre : espacez les plantes de 30 à 38 cm dans des rangs doubles ou triples avec des allées de 45 à 60 cm entre eux.  
-- **Système en rangs entrelacés** — Pour les fraises à floraison de juin : espacez les plantes d'environ 38 cm dans le rang avec 90 à 120 cm entre les rangs pour produire une bande de plantes de 45 cm de large.  
+### Systèmes de plantation
+Il existe deux systèmes : le système en tapis (« matted-row ») et le système en butte (« hill system »).
 
-### Plantation  
-- Achetez des plantes certifiées exemptes de maladies. Ne plantez pas des stolons provenant de votre ancienne parcelle ou de celle de votre voisin.  
-- Plantez dès que le sol peut être travaillé au printemps.  
-- La profondeur de plantation est très importante pour les fraises. Creusez un trou assez grand pour les racines sans les plier. Étalez les racines et plantez à la même profondeur que dans le conteneur de la pépinière. Pour les plants à racines nues, assurez-vous que le milieu de la couronne est au niveau de la surface du sol.  
+- **Système en butte** — Pour les variétés neutres au jour : Plantez les fraisiers à 30-38 cm d’intervalle en doubles ou triples rangées, avec des allées de 45 à 60 cm de large entre les rangs.
+- **Système en tapis** — Pour les variétés de juin : Plantez les fraisiers à environ 38 cm d’intervalle sur le rang, avec 90 à 120 cm entre les rangs, pour former un tapis de plantes de 45 cm de large.
 
-- Les fraises à floraison de juin produisent très peu de fruits la première année, il est préférable de retirer les fleurs qui apparaissent au cours du premier été pour ne pas stresser les plantes. Pour les fraises jour neutre, retirez seulement la première série de fleurs après la plantation. Ces dernières produiront une petite récolte le premier été. Tous les types seront en pleine production l'année suivant la plantation.  
+### Plantation
+- Achetez des plants certifiés exempts de maladies. N’utilisez pas les stolons de votre ancienne parcelle ou de votre voisin.
+- Plantez dès que le sol peut être travaillé au printemps.
+- **Profondeur de plantation :** Creusez un trou assez grand pour que les racines s’étalent sans être pliées. Étalez les racines et plantez à la même profondeur qu’en pépinière. Pour les plants à racines nues, veillez à ce que le centre de la couronne soit au niveau du sol.
 
-### Fertilisation  
-- Observez la croissance des plantes : des feuilles vert pâle ou jaunes et une faible croissance des stolons peuvent indiquer une carence en azote (N).  
-- La première année, fertilisez avec un engrais équilibré comme du 16-16-16 ou un produit biologique. Pour une rangée de 30 m, appliquez 56 g d'azote (N) une à deux semaines après la plantation, ce qui équivaut à 368 g de 16-16-16. Appliquez 56 g supplémentaires un mois plus tard (fin mai) et 14 à 28 g en fin juin.  
-- Pour les fraises établies, le moment de la fertilisation dépend du type cultivé. Pour les fraises à floraison de juin, fertilisez après la récolte. Coupez les vieilles feuilles 1 à 2 semaines après la dernière récolte, puis appliquez 113 g d'azote par rangée de 30 m, répartis uniformément sur la longueur et la largeur de la rangée. Irriguez juste après la fertilisation. Pour les cultivars jour neutre, appliquez de l'azote tout au long de la saison de croissance et de fructification : 28 g d'azote par rangée de 30 m en avril, mai, juin et juillet, et envisagez de rajouter 28 g en août si la vigueur des plantes est modérée à bonne.  
+- **Variétés de juin :** Peu de fruits la première année. Enlevez toutes les fleurs durant le premier été pour ne pas fatiguer les plantes.
+- **Variétés neutres au jour :** Enlevez seulement la première vague de fleurs juste après la plantation. Elles donneront une petite récolte le premier été.
+- Toutes les variétés seront pleinement productives l’année suivant la plantation.
 
-### Irrigation  
-- Fournissez 2,5 à 3,8 cm d'eau par semaine pendant la saison de croissance. Ne laissez pas les plantes subir un stress dû à la sécheresse.  
+### Fertilisation
+- Observez la croissance : des feuilles vert pâle ou jaunes et peu de stolons peuvent indiquer une carence en azote (N).
 
-### Gestion des mauvaises herbes  
-- Les mauvaises herbes concurrencent les plantes pour l'eau et les nutriments. Éliminez-les à la main. Si vous cultivez des fraises jour neutre en système de butte, vous pouvez utiliser un paillis plastique avec un système d'irrigation, comme le goutte-à-goutte, en dessous.  
+- **Année de plantation :**
+  - Fertilisez avec un engrais équilibré comme 16-16-16 ou un produit organique.
+  - Pour une rangée de 30 mètres, appliquez 57 g d’azote une ou deux semaines après la plantation (cela correspond à 370 g de 16-16-16, soit 57 g/0,16).
+  - Appliquez de nouveau 57 g d’azote un mois plus tard (fin mai) et 15 à 30 g d’azote fin juin.
 
-### Ravageurs et maladies  
-- Les maladies les plus graves des fraises sont la botrytis, la pourriture des fruits, la pourriture des racines et le flétrissement de la verticilliose.  
-- Les problèmes d'insectes incluent le charançon des racines, les pucerons, les acariens et la teigne de la couronne.  
+- **Pour les fraisiers établis :**
+  - **Variétés de juin :** Fertilisez après la récolte. Coupez les vieilles feuilles 1 à 2 semaines après la dernière récolte, puis appliquez 113 g d’azote par rangée de 30 m, en le répartissant sur toute la largeur et la longueur du rang. Arrosez juste après la fertilisation.
+  - **Variétés neutres au jour :** Appliquez de l’azote presque toute la saison de croissance et de fructification. Mettez 28 g d’azote par rangée de 30 m début avril, mai, juin et juillet. Si les plantes sont vigoureuses, ajoutez 28 g d’azote en août.
 
-## Ressources du Service OSU Extension  
-Visitez le site OSU Extension Service en ligne : [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- **Cultiver des fraises dans votre jardin familial** EC 1307  
-- **Cultivars de fraises pour l'Oregon occidental et Washington** EC 1618  
-- **Cultiver des baies sur la côte de l'Oregon : fraises** EM 9178 (s'applique également à la vallée de Willamette)  
+### Irrigation
+- Apportez 2,5 à 4 cm d’eau par semaine pendant la saison de croissance. Évitez le stress hydrique.
 
-### Conseils des Maîtres Jardiniers™  
-- Appelez la ligne téléphonique d'horticulture domestique : 503-655-8631 (Comté de Clackamas), 503-821-1150 (Comté de Washington), 503-445-4608 (Comté de Multnomah).  
-- Pour d'autres dépliants de l'Université en 10 minutes™ et le programme des cours, visitez [www.cmastergardeners.org](www.cmastergardeners.org) ou [www.metromastergardeners.org](www.metromastergardeners.org).  
-- Retrouvez les Maîtres Jardiniers sur les marchés fermiers de la région.  
+### Gestion des mauvaises herbes
+- Les mauvaises herbes concurrencent les plantes pour l’eau et les nutriments. Enlevez-les à la main.
+- Si vous cultivez des variétés neutres au jour en butte, vous pouvez utiliser un paillis plastique avec un système d’irrigation, comme un goutte-à-goutte, en dessous.
 
-L'Extension Service de l'Oregon State University interdit toute discrimination dans ses programmes, services, activités et supports sur la base de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris expression de genre), orientation sexuelle, handicap, âge, statut matrimonial, statut familial/parental, revenu issu d'un programme d'assistance publique, opinions politiques, informations génétiques, statut de vétéran, représailles ou retorsions pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s'appliquent pas à tous les programmes).
+### Ravageurs et maladies
+- **Maladies :** Les problèmes les plus graves sont la pourriture grise (Botrytis), la pourriture des fruits, la pourriture des racines et la verticilliose.
+- **Insectes :** Les problèmes courants sont le charançon des racines, les pucerons, les tétranyques et le papillon de la couronne.
+
+### Ressources du service de vulgarisation OSU
+Visitez le service de vulgarisation OSU en ligne : [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+
+- **Cultiver des fraises dans votre jardin** (EC 1307)
+- **Variétés de fraises pour l’ouest de l’Oregon et de Washington** (EC 1618)
+- **Cultiver des petits fruits sur la côte de l’Oregon : Fraises** (EM 9178) (S’applique aussi à la vallée de la Willamette)
+
+#### Conseils de Maîtres Jardiniers™
+
+- **Appelez la ligne d’aide en horticulture :**
+  - 503-655-8631 (Comté de Clackamas)
+  - 503-821-1150 (Comté de Washington)
+  - 503-445-4608 (Comté de Multnomah)
+- Pour d’autres fiches et le calendrier des cours de la 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+- Retrouvez les Maîtres Jardiniers sur les marchés fermiers de la région.
+
+---
+
+##### Le Service de vulgarisation de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents, sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, du statut matrimonial, du statut familial/parental, des revenus issus d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut de vétéran, des représailles ou des mesures prises à la suite d’une activité relative aux droits civils antérieure. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
+---

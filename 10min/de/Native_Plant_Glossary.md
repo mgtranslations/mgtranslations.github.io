@@ -1,34 +1,44 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Glossar für heimische Pflanzen  
+## Glossar einheimischer Pflanzen
 
-### Heimische Pflanze  
-Die offizielle Definition der US-Regierung wird vom Natural Resources and Conservation Service (NRCS) bereitgestellt.  
-NRCS definiert eine heimische Pflanze als „Eine Pflanze, die Teil des natürlichen Gleichgewichts ist und sich über Hunderte oder Tausende von Jahren in einer bestimmten Region oder einem bestimmten Ökosystem entwickelt hat. Hinweis: Das Wort 'heimisch' sollte immer mit einem geografischen Qualifikator verwendet werden (zum Beispiel: heimisch in Neuengland). Nur Pflanzen, die in diesem Land vor der europäischen Besiedlung gefunden wurden, gelten als heimisch in den Vereinigten Staaten.“  
+### Einheimische Pflanze
 
-### Nicht-heimische Pflanze  
-Eine Pflanze, die mit menschlicher Hilfe an einen neuen Ort oder in einen neuen Lebensraum eingeführt wurde, an dem sie zuvor nicht gefunden wurde.  
+Die offizielle Definition der US-Regierung stammt vom Natural Resources and Conservation Service (NRCS). Der NRCS definiert eine einheimische Pflanze als:
 
-### Eingebürgerte Pflanze  
-Eine nicht-heimische Pflanze, die keine menschliche Hilfe benötigt, um sich über die Zeit hinweg in einem Gebiet zu erhalten, in dem sie nicht heimisch ist. Eingebürgerte Pflanzen sind nicht heimisch.  
+> „Eine Pflanze, die Teil des natürlichen Gleichgewichts ist und sich über Hunderte oder Tausende von Jahren in einer bestimmten Region oder einem bestimmten Ökosystem entwickelt hat. Hinweis: Das Wort 'einheimisch' sollte immer mit einem geografischen Zusatz verwendet werden (zum Beispiel, einheimisch in Neuengland). Nur Pflanzen, die in diesem Land vor der europäischen Besiedlung vorkamen, gelten als einheimisch für die Vereinigten Staaten.“
 
-### Kultivar  
-Eine Pflanze, die von Pflanzenzüchtern aufgrund bestimmter Eigenschaften ausgewählt wurde, die während der Vermehrung erhalten bleiben.  
-- Ein Kultivar wächst nicht aus Samen und benötigt weiterhin eine durch Menschen vermittelte Vermehrung, um fortzubestehen.  
-- Ein Kultivar ist an seinem wissenschaftlichen Namen erkennbar, der mit seinem Gattungsnamen beginnt, gefolgt von seiner Art und dann seinem Kultivarnamen in Anführungszeichen. Zum Beispiel ist Ribes sanguineum ‘Oregon snowflake’ ein Kultivar, der von der heimischen Pflanze Ribes sanguineum abgeleitet ist.  
-- Nativar ist ein umgangssprachlicher Begriff für einen Kultivar einer heimischen Pflanze.  
+### Nicht-einheimische Pflanze
 
-### Hybrid  
-Eine Pflanze, die durch Kreuzung des genetischen Materials von zwei verschiedenen Arten erzeugt wurde. Hybriden sind keine Kultivare, aber es können Kultivare von Hybriden existieren.  
-- Lavandula x intermedia ist eine Kreuzung zwischen Lavandula angustifolia (Englischer Lavendel) und Lavandula latifolia (Portugiesischer Lavendel).  
-- Lavandula x intermedia ‘Grosso’ und Lavandula x intermedia ‘Provence’ sind zwei Kultivare von Lavandula x intermedia.  
+Eine Pflanze, die mit menschlicher Hilfe an einen neuen Ort oder in einen neuen Lebensraum gebracht wurde, wo sie vorher nicht vorkam.
 
-### Mutation  
-Pflanzenmutationen, auch bekannt als Sport oder Chimären, sind genetische Veränderungen, die das Erscheinungsbild des Laubs, der Blüten, der Früchte oder der Stängel beeinflussen können.  
-- Vegetative Vermehrung wird verwendet, um wünschenswerte Eigenschaften zu erhalten. Pflanzen neigen oft zur "Rückbildung", was bedeutet, dass ein Teil oder die gesamte Pflanze zu ihrer ursprünglichen Form zurückkehrt.  
-- Beispiele: Kamelienblüten mit Flecken und Streifen  
+### Eingebürgerte Pflanze
+
+Eine nicht-einheimische Pflanze, die keine menschliche Hilfe benötigt, um sich im Laufe der Zeit in einem Gebiet zu halten, in dem sie nicht einheimisch ist. Eingebürgerte Pflanzen sind nicht einheimisch.
+
+### Sorte (Kultivar)
+
+Eine Pflanze, die von Pflanzenzüchtern wegen bestimmter Eigenschaften ausgewählt wurde, die während der Vermehrung erhalten bleiben.
+
+- Eine Sorte wächst nicht sortenrein aus Samen und braucht ständige, vom Menschen gesteuerte Vermehrung, um erhalten zu bleiben.
+- Eine Sorte erkennt man am wissenschaftlichen Namen: Zuerst steht die Gattung, dann die Art und dann der Sortenname in Anführungszeichen. Zum Beispiel ist *Ribes sanguineum ‘Oregon snowflake’* eine Sorte, die von der einheimischen Pflanze *Ribes sanguineum* abstammt.
+- **Nativar** ist ein umgangssprachliches Wort für eine Sorte einer einheimischen Pflanze.
+
+### Hybrid
+
+Eine Pflanze, die durch Kreuzung des genetischen Materials von zwei verschiedenen Arten entsteht. Sie sind keine Sorten, aber es gibt auch Sorten von Hybriden.
+
+- *Lavandula x intermedia* ist eine Kreuzung zwischen *Lavandula angustifolia* (englischer Lavendel) und *Lavandula latifolia* (portugiesischer Lavendel).
+- *Lavandula x intermedia ‘Grosso’* und *Lavandula x intermedia ‘Provence’* sind zwei Sorten von *Lavandula x intermedia*.
+
+### Mutation
+
+Pflanzenmutationen, auch als „Sports“ oder „Chimären“ bekannt, sind genetische Veränderungen, die das Aussehen von Blättern, Blüten, Früchten oder Stängeln beeinflussen können.
+
+- Vegetative Vermehrung wird genutzt, um gewünschte Eigenschaften zu erhalten. Pflanzen neigen oft zur „Rückmutation“, das heißt, dass Teile oder die ganze Pflanze zu ihrer ursprünglichen Form zurückkehren.
+- **Beispiele:** Kamelienblüten mit Flecken und Streifen.
 
 ---
 
-Der Oregon State University Extension Service untersagt Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/elterlicher Status, Einkommen aus einem Sozialhilfeprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/elterlicher Status, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus sowie Vergeltungsmaßnahmen oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Merkmale gelten für alle Programme.)
+---

@@ -1,74 +1,150 @@
-# 10-Minuten-Universität
+#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener Program.
-
-## Gewächshaus-Gartenbau 101
+# Gewächshaus-Gärtnern 101
 
 ### Einführung
 
-Der Bau eines Gewächshauses im Hausgarten kann einen frühen Start in die Anbausaison ermöglichen und die Saison im Herbst verlängern. Es bietet auch Schutz für temperaturempfindliche Pflanzen. Auf der menschlichen Seite kann es eine Freude sein, mitten im Winter geschützt vor den Elementen zu gärtnern. Ein Gewächshaus kann so einfach sein wie eine Einheit in einer Fensteröffnung oder so komplex wie eine Struktur mit hoher Isolierung, automatischen Heizsystemen, Rohrleitungen, Ventilatoren und Belüftungsausrüstung.
+Ein Gewächshaus im eigenen Garten ermöglicht einen frühen Start in die Gartensaison und verlängert die Saison im Herbst. Es bietet außerdem Schutz für empfindliche Pflanzen, die auf bestimmte Temperaturen angewiesen sind. Für Menschen ist es ein schönes Erlebnis, mitten im Winter geschützt vor Wind und Wetter zu gärtnern. Ein Gewächshaus kann ganz einfach ein Fensteraufsatz sein oder auch ein komplexes Gebäude mit guter Isolierung, automatischer Heizung, Wasserleitungen, Ventilatoren und Belüftungssystemen.
 
-### Bestimmen Sie Ihre Ziele für den Gewächshaus-Gartenbau
+---
 
-- **Kühles Gewächshaus** – Perfekt für Gärtner, die in einem milden Klima leben und Pflanzen überwintern sowie im Frühjahr Samen starten möchten. Diese Art von Gewächshaus hält die Temperatur bei 40 Grad und darüber.
-- **Warmes Gewächshaus** – Für Gärtner, die in einem kalten Klima leben und Orchideen sowie Zitrusbäume anbauen möchten. Nachttemperaturen um die 55 Grad funktionieren gut.
-- **Heißes Gewächshaus** – Für Gärtner, die tropische Pflanzen anbauen möchten und Nachttemperaturen von mindestens 60 Grad benötigen.
+### Bestimme deine Ziele für das Gärtnern im Gewächshaus
 
-### Bestimmen Sie den Standort
+- **Kühles Haus**  
+  Perfekt für Gärtner, die in einem milden Klima leben und Pflanzen überwintern oder im Frühling Samen anziehen möchten. In diesem Gewächshaus bleibt die Temperatur bei mindestens 4°C.
 
-Je mehr Sonne, desto besser, insbesondere im Winter. Gewächshäuser sollten mit der langen Seite nach Süden oder Osten ausgerichtet sein. Gewächshäuser, die nach Westen ausgerichtet sind, laufen Gefahr, zu heiß zu werden, während nach Norden ausgerichtete Gewächshäuser am besten für Pflanzen mit geringem Lichtbedarf geeignet sind. Die Platzierung in der Nähe von Laubbäumen kann in den kälteren Monaten des Jahres Sonnenlicht hereinlassen, aber im heißen Sommer willkommenen Schatten bieten. Ein ebener Standort mit guter Drainage ist optimal. Ein halb versenktes oder versenktes Gewächshaus, bei dem eine oder mehrere Seiten unterhalb der Bodenhöhe liegen, kann in einen Hang gebaut werden und bietet mehr Isolierung.
+- **Warmes Haus**  
+  Ideal für Gärtner in kaltem Klima, die Orchideen oder Zitrusbäume anbauen möchten. Nachttemperaturen um die 13°C sind optimal.
 
-Je nach Standort können Hausbesitzerverbände und lokale Behörden Einschränkungen für die Platzierung von Gewächshäusern haben. Informieren Sie sich frühzeitig bei den zuständigen Behörden, ob Genehmigungen erforderlich sind.
+- **Heißes Haus**  
+  Gedacht für Gärtner, die tropische Pflanzen anbauen möchten und nachts Temperaturen von mindestens 16°C benötigen.
 
-### Arten von Gewächshäusern
+---
 
-#### Angebaute Gewächshäuser
+### Standortwahl
 
-Angebaute Gewächshäuser sind entweder an der langen Seite oder am Giebelende des Gewächshauses an einer Wand des Hauses oder der Garage befestigt.
+- Je mehr Sonne, desto besser – besonders im Winter. Die lange Seite des Gewächshauses sollte am besten nach Süden oder Osten ausgerichtet sein.
+- Gewächshäuser, die nach Westen zeigen, können schnell überhitzen; nach Norden gerichtete Gewächshäuser eignen sich für Pflanzen, die wenig Licht brauchen.
+- Ein Standort in der Nähe von laubabwerfenden Bäumen lässt im Winter Licht herein und spendet im heißen Sommer Schatten.
+- Ein ebener Platz mit guter Drainage ist optimal. Ein halb eingesenktes oder ganzes Grubengewächshaus, das in einen Hang gebaut ist und teilweise unter der Erde liegt, isoliert zusätzlich.
 
-- **Vorteile** – Können weniger teuer sein und bieten durch die geschützte Seite mehr Schutz vor den Elementen. Strom und Wasser sind in der Regel in der Nähe. Die Nähe zum Haus kann bei schlechtem Wetter von Vorteil sein.
-- **Nachteile** – Die Höhe kann durch die Gebäudestruktur eingeschränkt sein. Eine gute Dampfsperre ist erforderlich, um zu verhindern, dass die Feuchtigkeit aus dem Gewächshaus in die Hausdämmung eindringt.
+**Hinweis:** Prüfe bei der Hausverwaltung oder bei lokalen Behörden, ob es Vorschriften für den Bau von Gewächshäusern gibt. Eventuell brauchst du eine Genehmigung.
+
+---
+
+### Gewächshaustypen
+
+#### Angelehnte Gewächshäuser
+
+- **Vorteile:**
+  - Oft günstiger.
+  - Bieten mehr Schutz, da eine Seite an ein Gebäude angelehnt ist.
+  - Strom und Wasser sind meist in der Nähe.
+  - Bei schlechtem Wetter ist der Zugang zum Haus praktisch.
+- **Nachteile:**
+  - Die Höhe kann durch das Gebäude begrenzt sein.
+  - Eine gute Dampfsperre ist nötig, damit keine Feuchtigkeit ins Haus dringt.
 
 #### Freistehende Gewächshäuser
 
-Freistehende Gewächshäuser stehen getrennt von anderen Strukturen.
+- **Vorteile:**
+  - Mehr Möglichkeiten bei der Platzwahl, mehr Licht.
+  - Viele verschiedene Designs möglich.
+  - Leicht zu erweitern, indem man an den Enden anbaut.
+- **Nachteile:**
+  - Strom und Wasser müssen extra zum Gewächshaus gebracht werden.
+  - Höhere Heizkosten wegen größerer Außenfläche und mehr Wind.
 
-- **Vorteile** – Sie bieten mehr Flexibilität bei der Platzierung und mehr Licht. Es gibt eine große Auswahl an Designs, und es ist einfacher, die Struktur durch Erweiterungen an den Enden zu vergrößern.
-- **Nachteile** – Wasser und Strom müssen zum Gewächshaus gebracht werden. Heizkosten sind aufgrund der größeren Wandfläche und der Exposition gegenüber den Elementen höher.
+---
 
 ### Fundamente
 
-Fundamente sind für viele Gewächshäuser erforderlich und können aus behandeltem Holz, Mauerwerk oder Beton bestehen. Es ist wichtig, das Fundament gemäß den Spezifikationen des geplanten Gewächshauses zu bauen.
+Für viele Gewächshäuser ist ein Fundament nötig. Es kann aus behandeltem Holz, Mauerwerk oder Beton bestehen. Wichtig ist, das Fundament nach den Vorgaben des jeweiligen Gewächshauses zu bauen.
+
+---
 
 ### Rahmenmaterialien
 
-- **Verzinkter Stahl** – Am häufigsten für Gewächshäuser im Bogen- oder Gotik-Stil verwendet. Eine Verzinkungslösung ist erforderlich, um Rostbildung zu verhindern.
-- **Aluminium** – Eine beliebte Option für viele Gewächshausbausätze, langlebig, leicht und in verschiedenen Farben erhältlich.
-- **Holz** – Holz bietet die beste Isolierung und ist beliebt bei Menschen, die ihr Gewächshaus selbst bauen möchten. Druckbehandeltes Holz hält am längsten und eignet sich am besten für Holz mit Bodenkontakt. Redwood, Zeder und Weiß-Eichen-Kernholz können sehr widerstandsfähig gegen Verfall sein. Das Streichen oder Beizen des Rahmens vor der Montage verlängert ebenfalls die Lebensdauer.
+- **Verzinkter Stahl**
+  - Häufig für Rundbogen- oder Spitzdach-Gewächshäuser.
+  - Muss gegen Rost geschützt werden.
+
+- **Aluminium**
+  - Beliebt bei vielen Gewächshaus-Bausätzen.
+  - Robust, leicht und in vielen Farben erhältlich.
+
+- **Holz**
+  - Bietet die beste Isolierung.
+  - Druckimprägniertes Holz hält am längsten und eignet sich für den Kontakt mit dem Boden.
+  - Widerstandsfähige Holzarten sind Redwood, Zedernholz und Weiß-Eichenkernholz.
+  - Streiche oder lackiere das Holz vor dem Aufbau, damit es länger hält.
+
+---
 
 ### Verglasungsmaterialien
 
-- **Glas** – Glas ist das traditionelle Verglasungsmaterial für Gewächshäuser. Es bietet die beste Lichtdurchlässigkeit und macht es angenehm, in den Garten zu sehen. Einfachverglasung hat eine Lichtdurchlässigkeit von 85 % bis 95 %. Doppelverglasung kann bei Temperaturschwankungen brechen. Werksseitig versiegelte Doppelverglasungspanels lassen 70 % bis 75 % Licht durch.
-- **Polycarbonat** – Leichter als Glas und benötigt weniger strukturelle Rahmen. Doppelwandiges Polycarbonat eignet sich hervorragend für Gewächshausdächer, da es Licht streut und bruchsicher ist. Lichtdurchlässigkeit: 83 %.
-- **Plastik** – Wird für Tunnelgewächshäuser verwendet. Klarsichtfolie (6 mil) lässt 87 % Licht durch. Weiße Folie (6 mil) lässt 40 % Licht durch.
+- **Glas**
+  - Klassisch für Gewächshäuser.
+  - Lässt am meisten Licht durch und bietet freie Sicht in den Garten.
+  - Einfachglas lässt 85–95% des Lichts durch.
+  - Doppelglas kann bei Temperaturschwankungen reißen. Werkseitig versiegelte Doppelglas-Paneele lassen 70–75% des Lichts durch.
+
+- **Polycarbonat**
+  - Leichter als Glas, braucht weniger stabilen Rahmen.
+  - Doppelwandiges Polycarbonat ist super für Gewächshausdächer, weil es das Licht gut verteilt und bruchsicher ist. Es lässt 83% des Lichts durch.
+
+- **Kunststofffolie**
+  - Wird oft für Folientunnel verwendet.
+  - Klare Folie (6 mil) lässt 87% des Lichts durch.
+  - Weiße Folie (6 mil) lässt 40% des Lichts durch.
+
+---
 
 ### Versorgungseinrichtungen
 
-- **Strom** – Strom im Gewächshaus bietet Flexibilität bei der Nutzung. Wachstumslichter, Heizmatten, Ventilatoren und Heizungen benötigen alle Strom.
-- **Wasser** – Ein einfacher Zugang zu einem Schlauch spart Zeit und Arbeit.
-- **Gas** – Eine weitere Option als Wärmequelle. Eine ordnungsgemäße Leitung und Belüftung sind erforderlich.
+- **Strom**
+  - Bietet Flexibilität für Pflanzenlampen, Heizmatten, Ventilatoren und Heizungen.
+
+- **Wasser**
+  - Ein Wasseranschluss spart Zeit und Arbeit.
+
+- **Gas**
+  - Eine weitere Möglichkeit zum Heizen. Dafür sind richtige Leitungen und Belüftung nötig.
+
+---
 
 ### Zubehör
 
-- **Heizgeräte** – Selbst ein kühles Gewächshaus benötigt möglicherweise etwas Wärme, um die Temperaturen über dem Gefrierpunkt zu halten. Zusatzheizungen können so einfach wie ein Heizlüfter oder eine Solarheizung sein. Für wärmere Temperaturen kann ein 220-V-Stromkreis erforderlich sein.
-- **Thermometer** – Ein Min/Max-Thermometer überwacht die hohen und niedrigen Temperaturen. Bluetooth-Thermometer können sofort warnen, wenn die Temperaturen zu niedrig oder zu hoch sind.
-- **Luftzirkulation und Temperaturregelung** – Eine gute Luftzirkulation ist wichtig für gesunde Pflanzen. Bringen Sie Lüftungsöffnungen am Dach und in den unteren Bereichen des Gewächshauses an, damit die Luft durchströmen und an heißen Tagen entweichen kann. Ein Ventilator sorgt für Luftzirkulation, verbessert die Heizung im Winter und die Kühlung im Sommer.
-- **Anzuchtmatten** – Sie erwärmen das Wachstumsmedium, um die Keimung zu beschleunigen.
-- **Beleuchtung** – Beleuchtung gibt es in verschiedenen Installations- und Glühlampenoptionen. Lichter mit blauer Lichtfarbe fördern das Laubwachstum, während Lichter mit roter Lichtfarbe die Blüte fördern. Beim Starten von Samen sollten die Lichtquellen etwa 10 cm über dem Wachstumsmedium platziert und mit wachsender Höhe der Sämlinge angehoben werden.
+- **Heizungen**
+  - Auch ein kühles Gewächshaus braucht manchmal eine Heizung, um Frost zu verhindern.
+  - Zusätzliche Wärme kann von einem Heizlüfter oder durch eine Solarwärmespeicherwand kommen.
+  - Höhere Temperaturen benötigen vielleicht einen 220 V-Anschluss.
+
+- **Thermometer**
+  - Ein Min/Max-Thermometer zeigt die höchsten und niedrigsten Temperaturen an.
+  - Bluetooth-Thermometer können dich sofort warnen, wenn es zu kalt oder zu warm wird.
+
+- **Luftzirkulation und Temperaturkontrolle**
+  - Gute Luftzirkulation ist für gesunde Pflanzen wichtig.
+  - Lüftungsfenster am Dach und unten im Gewächshaus sorgen für Frischluft und lassen heiße Luft entweichen.
+  - Ein Ventilator hilft im Winter beim Heizen und im Sommer beim Kühlen.
+
+- **Anzuchtmatten**
+  - Erwärmen das Substrat und beschleunigen das Keimen der Samen.
+
+- **Beleuchtung**
+  - Es gibt viele verschiedene Leuchten und Leuchtmittel.
+  - Lampen mit blauem Licht fördern das Blattwachstum, rote Lampen fördern die Blütenbildung.
+  - Beim Vorziehen von Samen sollten die Lampen etwa 10 cm über der Erde hängen und beim Wachsen der Pflanzen höher gestellt werden.
+
+---
 
 ### Weitere Informationen
 
-- **Greenhouses for Homeowners and Gardeners (NRAES 137)**  
-  [ecommons.cornell.edu](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
+**Gewächshäuser für Hausbesitzer und Gärtner (NRAES 137)**  
+[https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
 
-Die Oregon State University Extension Service untersagt Diskriminierung in all ihren Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, elterlichem Status, Einkommen aus einem staatlichen Hilfsprogramm, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Vergeltung für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---
+
+#### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
+---

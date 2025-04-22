@@ -1,78 +1,50 @@
-# Jaamacadda 10-Daqiiqo™
+#### 10-Minute University™ · Ururka Beeralayda Master-ka ee Degmada Clackamas isagoo kaashanaya lana shaqaynaya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beeralayda Khabiirka ah ee Degmada Clackamas oo iskaashanaya barnaamijka OSU Extension Master Gardener™.
+# 10-Minute University
 
-## Ubaxa Wanaagsan: Geedaha Conifers
-S: Beerta hooska, D: Geedo u adkaysta abaaraha, Dabeecadda - Shimbir, Shinni, Boolbooleyda, Shimbiraha Hummingbird.
+## Xulashada Geedaha Wanaagsan: Geedaha Qoryaha Ah (Conifers)
 
-### Magaca S/D/W, 10 Sano Dhererka, Qaan-gaadhka Qorraxda/Hooska, Astaamaha Ugu Muhiimsan
+*S: Beerta Hooska ah, D: Geed Adkaysta Abaarta, Noolaha Dabeecadda - Shimbir, Shinni, Baalalay, Shimbiraha Malabka*
 
-#### Geedka Alaskan Yellow Cedar ee Dhulka Dhaca
-**Callitropsis nootkatensis ‘Green Arrow’**  
-- **Dherer:** 15’ x 3’  
-- **Qaan-gaadh:** 35’ x 5’  
-- **Qorraxda/Hooska:** Qorraxda buuxda, hooska iftiinka ilaa mid furan.  
-- **Astaamaha:** Waa geed cagaar ah oo dhumuc yar oo asal ahaan ka soo jeeda Waqooyi Galbeed ee Pacific. Waxay ka dhigtaa muuqaal sare oo ku yaalla beerta. Ku habboon beero yaryar ama meelaha cidhiidhiga ah.  
-
-#### Geedka Alaskan Yellow Cedar ee Dhulka Dhaca  
-**Callitropsis nootkatensis ‘Pendula’**  
-- **Dherer:** 18’ x 8’  
-- **Qaan-gaadh:** 35’ x 12’  
-- **Qorraxda/Hooska:** Qorraxda buuxda, hooska iftiinka ilaa mid furan.  
-- **Astaamaha:** Mid ka mid ah geedaha dhulka dhaca ee ugu quruxda badan, oo sameeya muuqaal qurxoon oo muuqaalka ah. Adag oo u adkaysta abaaraha marka la dhiso.  
-
-#### Geedka Alaskan Yellow Cedar ee Dhumuc Yar  
-**Callitropsis nootkatensis ‘Van den Akker’**  
-- **Dherer:** 15’ x 3’  
-- **Qaan-gaadh:** 35’ x 5’  
-- **Qorraxda/Hooska:** Qorraxda buuxda, hooska iftiinka ilaa mid furan.  
-- **Astaamaha:** Waa geed dhumuc yar oo si weyn ugu habboon beero yaryar ama meelaha cidhiidhiga ah. Waxay ku darsataa dherer iyada oo aan ballaarin.  
-
-#### Geedka Incense Cedar  
-**Calocedrus decurrens**  
-- **Dherer:** 18’ x 5’  
-- **Qaan-gaadh:** 40’ x 12’  
-- **Qorraxda/Hooska:** Qorraxda buuxda.  
-- **Astaamaha:** Waa geed adag oo si sahlan u koraya, asal ahaan ka soo jeeda Koonfur Galbeed iyo Bartamaha Oregon. Qaabkeeda toosan ee sharaf leh ayaa sii fiicnaanaya marka ay sii gabowdo. Warqaddu waxay leedahay udgoon u eg geed-cedar oo ku jira cimilada diiran.  
-
-#### Geedka Devinely Blue Deodar Cedar  
-**Cedrus deodara ‘Divinely Blue’**  
-- **Dherer:** 4’ x 6’  
-- **Qaan-gaadh:** 5’ x 8’  
-- **Qorraxda/Hooska:** Qorraxda buuxda.  
-- **Astaamaha:** Waa geed cagaar ah oo yar-yar oo leh caleemo buluug-cagaaran ilaa budo buluug ah, oo ugu fiican qorraxda buuxda laakiin u dulqaadan doona hooska iftiinka.  
-
-#### Geedka Hinoki Cypress  
-**Chamaecyparis obtusa ‘Gracilis’**  
-- **Dherer:** 15’ x 6’  
-- **Qaan-gaadh:** 25’ x 10’  
-- **Qorraxda/Hooska:** Qorraxda buuxda, hooska iftiinka ilaa mid dillaacsan.  
-- **Astaamaha:** Waa geed dheer oo qurux badan oo toosan, geedkan Hinoki cypress waa doorasho fiican oo loogu talagalay beero yaryar.  
-
-#### Geedka Hinoki Cypress ee Yar  
-**Chamaecyparis obtusa ‘Kosteri’**  
-- **Dherer:** 4’ x 5’  
-- **Qaan-gaadh:** 8’ x 6’  
-- **Qorraxda/Hooska:** Qorraxda buuxda, hooska iftiinka ilaa mid dillaacsan.  
-- **Astaamaha:** Si tartiib ah u koraya oo qaab pyramid ah oo dabacsan leh caleemo dhalaalaya, cagaar madow oo qalloocan, abuuraya muuqaal qurux badan.  
-
-#### Geedka Hinoki Cypress ee Yar  
-**Chamaecyparis obtusa ‘Nana’**  
-- **Dherer:** 1’ x 2’  
-- **Qaan-gaadh:** 2’ x 3’  
-- **Qorraxda/Hooska:** Qorraxda buuxda, hooska iftiinka ilaa mid dillaacsan.  
-- **Astaamaha:** Waa geed si aad ah u koraya oo leh laamo cagaar madow oo si adag u qalloocan oo u eg koobab yaryar oo cagaaran.  
-
----
-
-### Barnaamijka Great Plant Picks (GPP)
-
-Barnaamijka waxbarasho ee ugu weyn ee Beerta Botanical ee Elisabeth C. Miller. Sanadkii 2001, liiskii ugu horreeyay ayaa la soo bandhigay iyadoo lagu talinayo geedo aad u wanaagsan oo loogu talagalay Pacific Northwest. Ilaa hadda, in ka badan 1,000 geed oo gaar ah ayaa loo doortay beeralayda ku nool galbeedka Buuraha Cascade laga bilaabo Eugene, Oregon, ilaa Vancouver, British Columbia, Kanada.
-
-Geedaha GPP ee liiskan loo xushay waxay la kulmaan shuruudahan: waxay ku noolaan karaan noocyo kala duwan oo ciid ah, uma baahna biyo badan, waxay u dulqaadan karaan kulayl, waxay u adkeysan karaan qabow USDA zone 7, uma nugla xanuun/duqsiyo dhib ah, waxayna bixiyaan xiiso ka badan hal xilli beerta gudaheeda.
-
----
-
-### Adeegga Oregon State University Extension
-
-Adeegga Oregon State University Extension Service wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan jinsiyadda, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga, (oo ay ku jirto muuqa jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo baxa barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda, xaaladda halyeeynimada, ciqaabta ama aargoosiga ka dhashay hawlo xuquuq madaniga ah oo hore. (Dhammaan meelaha mamnuuca ahi ma khuseeyaan dhammaan barnaamijyada.)
+| Magaca | S/D/W | Cabbirka 10 Sano | Cabbirka Bislaanshaha | Qorax/Hoos | Astaamaha Ugu Muhiimsan |
+|---|---|---|---|---|---|
+| Weeping Alaskan Yellow Cedar Callitropsis nootkatensis 'Green Arrow' |  | 15' x 3' | 35' x 5' | Qorax buuxda, hoos yar ilaa mid furan | Waa geed caws ah oo dhuuban, asalna u ah Waqooyiga Galbeed ee Baasifiga. Wuxuu beerta ka dhigayaa sida calaamad taagan. Aad ugu fiican beero yaryar ama meelaha cidhiidhiga ah. |
+| Weeping Alaskan Yellow Cedar Callitropsis nootkatensis 'Pendula' |  | 18' x 8' | 35' x 12' | Qorax buuxda, hoos yar ilaa mid furan | Mid ka mid ah geedaha qoryaha ah ee ugu quruxda badan, si xarrago lehna beerta u qurxiya. Marka la xoogsheego, waa adkayste abaar. |
+| Narrow Alaskan Yellow Cedar Callitropsis nootkatensis 'Van den Akker' |  | 15' x 3' | 35' x 5' | Qorax buuxda, hoos yar ilaa mid furan | Qaab dhismeedkan taagan aad buu ugu habboon yahay beero yaryar ama meelaha cidhiidhiga ah. Dherer ayuu ku kordhiyaa beerta isagoo aan aad u ballaaranayn. |
+| Incense cedar Calocedrus decurrens |  | 18' x 5' | 40' x 12' | Qorax buuxda | Waa geed adag oo fudud in la beero, asalna u ah Koonfur-galbeed iyo Bartamaha Oregon. Qaabkiisa taagan ee xarrago leh ayaa sii fiicnaada marka uu gabowdo. Caleemihiisa waxay u urayaan sida geedka kedarka marka cimiladu kulushahay. |
+| Devinely Blue Deodar Cedar Cedrus deodara 'Divinely Blue' |  | 4' x 6' | 5' x 8' | Qorax buuxda | Waa geed qoryo ah oo dhexdhexaad ah, caleemihiisuna waa buluug-cagaar ilaa budo buluug ah. Wuxuu ugu fiican yahay qoraxda buuxda, laakiin wuu dulqaadan karaa hooska yar. |
+| Hinoki Cypress Chamaecyparis obtusa 'Gracilis' | S | 15' x 6' | 25' x 10' | Qorax buuxda, hoos yar ilaa mid dillaacsan | Waa geed laamo dhaadheer oo qurux badan, mararka qaarna wuxuu noqon karaa geed caws ah oo yaryar. Aad buu ugu fiican yahay beero yaryar. |
+| Dwarf Hinoki Cypress Chamaecyparis obtusa 'Kosteri' | S | 4' x 5' | 8' x 6' | Qorax buuxda, hoos yar ilaa mid dillaacsan | Si tartiib ah ayuu u koraa, qaabkiisuna waa mid pyramidal ah oo dabacsan, caleemihiisuna waa cagaar madow oo dhalaalaya oo is qalloocinaya, taas oo abuuraysa muuqaal qurux badan. |
+| Dwarf Hinoki Cypress Chamaecyparis obtusa 'Nana' | S | 1' x 2' | 2' x 3' | Qorax buuxda, hoos yar ilaa mid dillaacsan | Waa nooc si aad ah u gaabis ah. Laamaha cagaaran ee madow way is qalloociyaan oo waxay sameeyaan qaab koob yar oo cagaar ah. |
+| Dwarf Hinoki Cypress Chamaecyparis obtusa 'Nana Gracilis' | S | 3' x 2' | 6' x 4' | Qorax buuxda, hoos yar ilaa mid dillaacsan | Waa geed qoryo ah oo si tartiib ah u kora, muddo badan kadibna wuxuu noqdaa pyramid cagaar madow ah oo dhuuban. Caleemaha dhalaalaya waxay ku koraan si isku dhafan oo is dul saaran, taas oo abuuraysa qaab koob laab-laaban. |
+| Dwarf Hinoki Cypress Chamaecyparis obtusa 'Spiralis' |  | 5' x 3' | 8' x 6' | Qorax buuxda, hoos yar ilaa mid furan | Aad buu ugu fiican yahay in la beero keli ah ama xitaa weel lagu dhex beero. |
+| Dwarf Golden Threadleaf Cypress Chamaecyparis obtusa 'Golden Mop' | S, D | 4' x 4' | 8' x 7' | Qorax buuxda, hoos yar ilaa mid furan | Waa geed caws ah oo adkaysi badan, beertana wuxuu ka sameeyaa buur dahabi ah oo jilicsan. Caleemaha cusub waxay soo baxaan jaalle dhalaalaya, midabkana way hayaan inta lagu jiro xilliga koritaanka. |
+| Japanese Cedar Cryptomeria japonica 'Black Dragon' |  | 6' x 4' | 10' x 8' | Qorax buuxda, hoos yar, furan, dillaacsan | Geedkan caleemaha madow aad buu u fudud yahay in la beero, waana uu la jaanqaadaa dhirta caleemaha waaweyn ama midabyo leh. |
+| Plumose Rose Japanese Cedar Cryptomeria japonica Elegans Group |  | 15' x 5' | 30' x 10' | Qorax buuxda, hoos yar, furan, dillaacsan | Caleemuhu waa sida irbadaha oo kale, jilicsan, sidaas darteed magaciisa caamka ah waa plume cedar. Xagaaga waa cagaar, marka qabowgu yimaadana wuxuu isu beddelaa midab casaane ah xilliga dayrta iyo jiilaalka. |
+| Golden Japanese Cedar Cryptomeria japonica 'Sekkan-sugi' |  | 10' x 6' | 30' x 18' | Qorax buuxda, hoos yar, furan, dillaacsan | Caleemaha waxaa ku jira jaalle khafiif ah, waana midka ugu iftiinka badan marka caleemuhu cusub yihiin guga iyo xagaaga hore. Waa geed muuqaal ahaan aad u muuqda sababtoo ah midabka caleemaha. |
+| Granny's Ringlets Cryptomeria japonica 'Spiralis' |  | 4' x 6' | 15' x 8' | Qorax buuxda, hoos yar | Midabkiisu waa cagaar tufaax ah, sida maqaarka tufaaxa Granny Smith. Waa nooc si tartiib ah u kora, sidoo kalena dhexdhexaad ah. |
+| Dwarf Japanese Cedar Cryptomeria japonica 'Tansu' |  | 3' x 3' | 4' x 4' | Qorax buuxda, hoos yar ilaa mid dillaacsan | Waa geed yaryar oo cufan, laamihiisuna waa gaagaaban yihiin oo u koraan si aan joogto ahayn, sameeyana qaab pyramid ah. |
+| Vilmoriniana Dwarf Japanese Maple Cryptomeria japonica 'Vilmoriniana' |  | 2' x 2' | 3' x 3' | Qorax buuxda, hoos yar | Waa qaab yaryar oo soo jiidasho leh oo ah geedka Japanese cedar, laamaha gaagaaban ee cufan waxay sameeyaan qaab wareegsan oo gaaban. |
+| Yoshino Japanese Cedar Cryptomeria japonica 'Yoshino' |  | 20' x 10' | 35' x 20' | Qorax buuxda, hoos yar | Caleemaha cagaaran ilaa buluug-cagaar ah aad bay u qurux badan yihiin sanadka oo dhan. |
+| Hollywood Juniper Juniperis chinensis 'Kaizuka' |  | 12' x 8' | 15' x 12' | Qorax buuxda | Qaab koritaan qalloocan oo sare u kacaya, laamaha is qarinaya, waa mid cufan oo aan la falanqayn karin. Wuxuu soo saaraa miraha iyo kiniinada buluug-cagaaran. |
+| Dawn Redwood Metasequoia glyptostroboides |  | 30' x 12" | 70' x 25' | Qorax buuxda | Wuxuu u baahan yahay meel ballaaran, aad buuna u qurux badan yahay marka la beero koox-koox. Laamihiisu waa sida furuqa oo kale xilliga guga waa cagaar jilicsan, caleemuhuna waxay isu beddelaan midab bunni ah xilliga dayrta. |
+| Siberian Cypress Microbiota decussata |  | 1.5' x 5' | 2' x 8' | Qorax buuxda, hoos dillaacsan | Caleemo jilicsan oo laamo ah ayaa si xarrago leh u dhisan. Dhammaan laamaha waxa ay le'eg yihiin hoos yar, taas oo beerta u keenta qurux. Xilliga koritaanka, Siberian cypress waa cagaar dhalaalaya, marka qabowgu yimaadana waxa uu isu beddelaa bunni casaan u eg. |
+| Serbian Spruce Picea omorika | W | 15' x 5' | 30' x 10' | Qorax buuxda | Waa mid ka mid ah dhirta ugu fiican ee cagaaran ee magaalada. Qaabkiisu waa tiir dhuuban oo laamo dhinac u leexsan. Wuxuu iska caabiyaa cayayaanka iyo cudurrada. |
+| Weeping Serbian Spruce Picea omorika 'Pendula Bruns' |  | 8' x 2' | 30' x 6' | Qorax buuxda | Waa geed qurux badan oo beerta lagu dheehan karo. Caleemuhu waa buluug-cagaar dusha sare ah, hoostana waa caddaan qalalan. |
+| Caucasian Spruce Picea orientalis | W | 15' x 7' | 40' x 15' | Qorax buuxda | Caleemo gaagaaban oo cagaar madow ah. Midabka caleemaha madow wuxuu sii ahaanayaa mid dhalaalaya xilliga jiilaalka. |
+| Golden Caucasian Spruce Picea orientalis 'Aureospicata' | W | 15' x 7' | 40' x 15' | Qorax buuxda | Waa geed taagan oo cagaaran, laamihiisuna waa adag yihiin. Guga waxa uu leeyahay caleemo cusub oo jaalle dhalaalaya. Farqiga u dhexeeya caleemaha cusub iyo kuwa duugga ah aad buu u muuqdaa! |
+| Golden Caucasian Spruce Picea orientalis 'Skylands' | W | 15' x 7' | 40' x 15' | Qorax buuxda, hoos yar | Waa geed pyramid ah oo toosan, caleemihiisuna waa jaalle cusub guga. |
+| Shore Pine Pinus contorta var. contorta | W | 15' x 12' | 35' x 25' | Qorax buuxda | Shore Pine wuxuu ku koraa meel kasta oo qoraxda badan tahay. Waa mid ka mid ah geedaha qoryaha ah ee u dulqaata meelaha qoyan haddii biyuhu aysan istaagin sanadka oo dhan. |
+| Bosnian Pine Pinus heldreichii | D, W | 15' x 7' | 25' x 12' | Qorax buuxda | Waa geed pin ah oo si tartiib ah u kora, adag, isla markaana la qabsan kara carrada liidata iyo qoraxda kulul. |
+| Compact Japanese Black Pine Pinus thunbergii 'Thunderhead' | W | 8' x 8' | 12' x 15' | Qorax buuxda | Qaab aan joogto ahayn, caleemo cagaar madow ah, waana geed adkaysta abaar, isla markaana si cufan u kora. |
+| Blue Mountain Plum Pine Podocarpus lawrencei 'Blue Gem' | W | 4' x 8' | 6' x 12' | Qorax buuxda, hoos yar ilaa mid furan | Guga waxa uu leeyahay caleemo buluug-cagaar ah oo dhalaalaya, xagaagana midabka ayaa qoto dheer. Waa mid ka mid ah noocyada ugu adkaysiga badan ee Podocarpus, sidoo kalena waa nooca caleemo buluug ah ee ugu fiican ee laga beeri karo Waqooyiga Galbeed ee Baasifiga. |
+| Podocarpus lawrencei 'Purple King' |  | 7' x 7' | 12' x 15' | Qorax buuxda, hoos yar ilaa mid furan | Caleemaha cusub ee guga waa cawl khafiif ah oo casaane leh, markii uu bislaado waxa uu noqdaa laamo cagaar olive ah oo cufan. Midabkan layaabka leh wuxuu ka dhigaa asalka ugu fiican dhirta caleemaha midabka leh. Sidoo kale waa la goyn karaa si xayndaab loo sameeyo. |
+| Red Tip Mountain Plum Pine Podocarpus lawrencei 'Red Tip' | W | 3' x 4' | 4' x 6' | Qorax buuxda, hoos yar ilaa mid furan | Caleemo qurux badan sanadka oo dhan, guga caleemaha cusub waa casaan, taas oo ka muuqata caleemaha cagaaran ee duugga ah. Jiilaalka caleemaha casaan ah waxay beerta u keenaan muuqaal gaar ah. |
+| Alpine Tortara Podocarpus nivalis |  | 3' x 6' | 4' x 8' | Qorax buuxda, hoos yar ilaa mid dillaacsan | Waa geed caws ah oo la qabsan kara nooc kasta oo carro ah. Wuxuu dulqaadan karaa kulaylka, si fududna waa loo goyn karaa. |
+| Weeping Douglas Fir Pseudotsuga menziesii 'Graceful Grace' | W | 15' x 4' | 30' x 12' | Qorax buuxda | Qaab koritaan la yaab leh, waa geed asal u ah Waqooyiga Galbeed ee Baasifiga, beertana wuxuu ka dhigayaa meel gaar ah si loo muujiyo qaabkiisa aan caadiga ahayn. |
+| Bald Cypress Taxodium distichum |  | 20' x 12" | 60' x 35' | Qorax buuxda | Geedkani wuu adkaysataa meelaha qoyan, caleemihiisana way daataan dayrta, taas oo muujinaysa jiridiisa quruxda badan. |
+| Pond Cypress Taxodium var. imbricatum 'Nutans' |  | 15' x 5' | 30' x 10' | Qorax buuxda | Caleemaha jilicsan ee cagaar dhalaalaya ayaa ka dhigaya mid muuqda beerta, sidoo kalena weel waa lagu beeri karaa. |
+| Irish Yew Taxus baccata 'Fastigiata' |  | 7' x 1.5' | 15' x 3' | Qorax buuxda, hoos yar ama mid furan | Waa geed waxtar leh qoraxda iyo hooskaba. Inta badan waxaa loo isticmaalaa xayndaab, si fiican ayuu u qaataa goynta. |
+| Spreading English Yew Taxus baccata 'Repandens' |  | 2' x 5' | 3' x 8' | Qorax buuxda, hoos yar ama mid furan | Waa geed gaagaaban, laamihiisuna way fidsan yihiin, talana hoos bay ugu dhammaanayaan. Sidaas awgeed, wuxuu ku habboon yahay dhulka daboolidda. |
+| Columnar Golden Yew Taxus baccata 'Standishii' |  | 5' x 1.5' | 12' x 2' | Qorax buuxda | Waa geed qoryo ah oo si tartiib ah u kora, aad buuna ugu fiican yahay in beerta lagu sameeyo tiir muuqaal ah oo aan daryeel badan u baahnayn. |
+| Compact Columnar Arborvitae Thuja occidentalis 'Degroot's Spire' |  | 8' x 1.5' | 15' x 3' | Q

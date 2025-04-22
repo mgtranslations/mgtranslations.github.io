@@ -1,56 +1,89 @@
-# 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener ua ke nrog thiab pab txhawb  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Kawm Txog Kev Loj Hlob Zaub Lub Caij Ntuj No  
+# Kawm Cog Zaub Caij Ntuj No
 
-### Cov Txiaj Ntsig ntawm Kev Kawm Ua Liaj Ua Teb Nyob Hauv Tsev  
-Thaum kev txhawb nqa ib puag ncig thiab kev txaus siab rau kev txhawb nqa tus kheej nrov ntxiv dag zog, kev ua teb hauv tsev kuj tau nrov heev. Muaj kev zoo siab ntawm tus kheej, kev xaiv ntau yam zaub, thiab kev txuag nyiaj yog ib yam ntawm ntau yam uas siv los cog zaub hauv tsev.  
+### Qhov Zoo ntawm Kev Kawm Cog Koj Tus Kheej
 
-### Qhov Cog Dab Tsi  
-Nyob sab hnub poob ntawm Cascades, muaj ntau hom zaub uas tuaj yeem cog tau thaum lub caij ntuj sov rau kev sau thaum lub caij nplooj zeeg lossis lub caij ntuj no, qee yam zaub tseem tuaj yeem ua rau nyob hauv av mus txog qhov sau thaum lub caij nplooj ntoos hlav.  
-- **Zaub Cole** – broccoli, zaub pob kws, zaub qhwv, cauliflower  
-- **Zaub Hauv Av** – beets, carrots, kohlrabi, radish, rutabaga, turnip  
-- **Zaub Ntsuab** – collard, kale, lettuce, spinach, Swiss chard  
-- **Zaub Ntxhais** – peas, fava beans  
-- **Zaub Rau Lub Caij Ntuj No** – Brassicas, zaub hauv av  
+Thaum kev ua neej nyob zoo thiab txawj ua tus kheej txhim kho, kev cog zaub hauv tsev kuj nrov zuj zus. Muaj kev zoo siab tus kheej, nrhiav tau ntau hom zaub, thiab txuag nyiaj yog qee yam zoo uas ua rau tib neeg xav cog lawv tus kheej cov zaub.
 
-### Thaum Cog  
-Nws yog ib qho tseem ceeb kom paub lub hnub nyoog tub yees nyob hauv koj cheeb tsam. Siv cov lus qhia cog rau cov sij hawm cog noob thiab cog tsob ntoo. Cog feem ntau cov zaub rau lub caij nplooj zeeg, lub caij ntuj no, thiab lub caij nplooj ntoos hlav rau lub caij cog zaub thaum lub rau hli ntuj, Lub xya hli ntuj, thiab Lub yim hli ntuj; cog qej thiab shallots thaum Lub kaum hli ntuj rau kev sau rau lub caij ntuj sov tom ntej.  
+### Yuav Cog Dab Tsi
 
-### Txoj Kev Cog  
-#### Qhia txog  
-Zaub tuaj yeem cog ncaj qha los ntawm noob lossis los ntawm cog cov tsob ntoo me. Siv cov tsob ntoo uas yog qhov tsim nyog rau kev cog rau lub caij nplooj zeeg.  
+Sab hnub poob ntawm Cascades, muaj ntau yam zaub uas koj cog tau thaum lub caij ntuj sov kom txiav tau thaum caij nplooj zeeg lossis caij ntuj no thiab qee yam zaub uas tso tau rau hauv av txog thaum caij nplooj ntoos hlav pib:
 
-#### Qhov Chaw  
-Xaiv qhov chaw uas tau txais rau rau yim teev lub hnub ci. Siv lub zog ntawm cov phab ntsa uas tig rau sab hnub poob lossis laj kab uas ua kom sov thiab khaws tau cua sov ntev dua. Cov txaj cog zaub, uas tsim los ntawm cov ntoo lossis tej av uas tau tsa, ua rau lub caij nplooj ntoos hlav sov ntxov thiab khaws cua sov ntev dua. Nco ntsoov tias koj qhov chaw tau tiv thaiv los ntawm cua loj thiab tias cov av muaj kev txhawb nqa zoo.  
+- **Cole crops** – zaub pob, zaub paj, zaub cabbage, zaub cauliflower
+- **Zaub hauv av** – zaub qab rog, zaub carrots, zaub kohlrabi, zaub radish, zaub rutabaga, zaub turnip
+- **Zaub ntsuab** – zaub collard, zaub kale, zaub lettuce, zaub spinach, zaub Swiss chard
+- **Zaub taum** – taum peas, taum fava
+- **Zaub rau caij ntuj no** – Brassicas, zaub hauv av
 
-#### Kev Npaj Av  
-Npaj koj cov av los ntawm kev tshem cov pob zeb thiab nroj tsuag tawm thiab hloov cov av raws li xav tau. Cov av ua npuas tuaj yeem kho tau los ntawm kev ntxiv cov organic matter. Yog tsim nyog, siv cov chiv uas muaj nitrogen tsawg kom txhawb kev loj hlob ntawm cov cag thiab txiv hmab txiv ntoo, tsis yog cov nplooj. Tsis txhob siv cov chiv nitrogen ntau rau cov qoob loo rau lub caij nplooj zeeg vim nws yuav ua rau cov nplooj tshiab loj hlob, uas muaj kev txaus ntshai rau qhov tub yees. Nco ntsoov tias koj cov txaj cog zaub muaj tsawg kawg 15 mus rau 18 ntiv tes ntawm cov av mos kom muaj chaw txaus rau cov cag loj hlob thiab dej ntws tau zoo. Yog tias koj cov av qhuav thiab nyuaj heev rau khawb, sim muab dej rau ua ntej.  
+### Sijhawm Cog Zaub
 
-### Kev Tu Tsob Ntoo Tshiab  
-Yog tias kub thiab hnub ci thaum koj cog, cov tsob ntoo me yuav tsum tau saib xyuas ntxiv. Ntxuav cov tsob ntoo tshiab txhua hnub. Koj yuav tsum tau muab dej rau cov noob thiab cov tsob ntoo uas loj hlob tshiab ob zaug ib hnub kom lawv tsis txhob qhuav.  
-Txhawm rau khaws cov av kom khov thiab tiv thaiv cov tsob ntoo me los ntawm lub hnub, muab kev ntxoov ntxoo rau. Cov ntoo thiab cov kaus mom zoo rau kev ntxoov ntxoo.  
-Thaum lub caij ntuj no los txog, muab cov nplooj ntoos lossis quav nyuj rau koj cov tsob ntoo. Cov ntaub npog, cloches, yas tunnels, thiab cov txaj txias yog qhov zoo rau kev txhawb kev loj hlob.  
+Nws tseem ceeb heev kom paub hnub pib daus thawj zaug hauv koj cheeb tsam. Xyuas cov phau ntawv qhia txog sij hawm cog noob thiab cog paj.
 
-### Kev Sau Koj Lub Vaj Lub Caij Nplooj Zeeg thiab Lub Caij Ntuj No  
-Cov zaub hauv av xws li turnips, beets, thiab carrots yog qab zib tom qab tub yees, uas ua rau cov nroj tsuag ua cov suab thaj. Cov qoob loo no tuaj yeem nyob hauv av thiab raug sau thoob plaws lub caij ntuj no. Zaub xam lav thiab lwm cov zaub ntsuab yuav txo qhov loj hlob thaum lub caij txias, tab sis tuaj yeem tiv taus txias mus txog 20° F nrog qee qhov kev tiv thaiv.  
+- Cog feem ntau cov zaub hauv lub Xya hli, yim hli, thiab cuaj hli kom txiav tau thaum caij nplooj zeeg, caij ntuj no, thiab caij nplooj ntoos hlav.
+- Cog kua txob thiab shallots rau lub Kaum Hli kom txiav tau rau lwm lub caij ntuj sov tom ntej.
 
-### OSU Extension Service Cov Kev Pab  
-Tau cov ntawv no hauv online ntawm [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- Fall and Winter Vegetable Gardening in the Pacific Northwest PNW 548  
-- Constructing Coldframes and Hotbeds FS 246-E  
-- How to Build Your Own Raised-Bed Cloche EC 1627  
-- Grow Your Own EM 9027  
-- Grow Your Own Rhubarb EC 797  
-- Grow Your Own Tomatoes and Tomatillos EC 1333  
-- Storing Pumpkin and Winter Squash at Home EC 1632  
-- Improving Garden Soil with Organic Matter EC 1561  
-- Soil Fertility in Organic Systems PNW646  
+### Yuav Ua Li Cas Cog Zaub
 
-### Master Gardener™ Cov Lus Qhia  
-- Hu Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), lossis 503-445-4608 (Multnomah County).  
-- Mus xyuas [www.cmastergardeners.org](www.cmastergardeners.org) rau 10-Minute University™ cov ntawv thiab cov yeeb yaj kiab.  
-- Nrhiav Master Gardeners ntawm cov lag luam Farmers’ Markets.  
+#### Qhov Chaw Noob los Paj
 
-Oregon State University Extension Service tsis txhawb kev cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua, thiab cov khoom siv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia txog tus kheej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, xwm txheej sib yuav, xwm txheej niam txiv, cov nyiaj tau los uas tau txais los ntawm kev pab nyiaj rau pej xeem, kev ntseeg nom tswv, cov ntaub ntawv noob caj noob ces, xwm txheej tub rog, lossis kev ua pauj rau kev ua txhaum cai kev cai yav dhau los. (Tsis yog txhua qhov kev txwv txwv tau siv rau txhua qhov kev pab cuam.)
+Zaub cog tau ncaj qha los ntawm noob lossis rho tawm los ntawm paj me. Siv cov nroj tsuag uas muaj npe tshwj xeeb rau kev cog caij nplooj zeeg.
+
+#### Qhov Chaw
+
+Xaiv qhov chaw uas tau hnub ci rau 6 txog 8 teev ib hnub. Siv tau tej tsev, phab ntsa lossis laj kab uas tig rau sab qab teb kom pab kom sov tau ntev. Lub txaj cog zaub uas ua los ntawm ntoo los yog txo av kom siab yuav sov sai dua thaum caij nplooj ntoos hlav thiab khaws sov tau ntev.
+
+Kom koj qhov chaw cog zaub tsis raug cua hlob thiab kom av zoo ntws dej.
+
+#### Npaj Av
+
+Npaj koj daim av los ntawm kev tshem pob zeb thiab nroj tsuag phem, thiab txhim kho av raws li xav tau.
+
+- Txhim kho av nplaum los ntawm kev ntxiv nroj tsuag qhuav (organic matter).
+- Siv tshuaj ntsuab nitrogen tsawg kom pab kom nroj tsuag loj hauv cag thiab txiv, tsis yog rau nplooj. Tsis txhob siv tshuaj nitrogen ntau thaum caij nplooj zeeg vim nws ua kom nplooj tshiab tuaj uas yuav raug daus ua puas.
+
+Koj lub txaj cog zaub yuav tsum muaj tsawg kawg 15 txog 18 nti av mos kom cov cag loj tau zoo thiab dej mus taus. Yog tias av qhuav thiab tawv dhau, sim muab dej los nqis ua ntej.
+
+### Tu Koj Cov Nroj Tsuag Tshiab
+
+Yog hnub kub thiab tshav ntuj thaum koj cog, cov nroj tsuag me yuav xav tau kev saib xyuas tshwj xeeb:
+
+- Tso dej rau cov paj txhua hnub.
+- Tawg dej rau cov noob thiab paj tshiab ob zaug ib hnub kom tsis txhob qhuav.
+- Thaiv hnub rau cov nroj tsuag me ib ntus kom av tsw qab dej thiab tsis raug tshav ntuj. Siv daim txiag los yog kaus mom los ua qhov thaiv hnub.
+
+Thaum huab cua txias los txog, muab nplooj lossis quav nyab rau saum koj cov nroj tsuag. Siv ntaub npog kab, cloche, yas tunnels, thiab cold frames los pab kom caij cog ntev dua.
+
+### Txiav Koj Lub Vaj Zaub Caij Nplooj Zeeg thiab Caij Ntuj No
+
+Cov zaub hauv av xws li turnip, beets, thiab carrots tau qab zib dua tom qab daus poob, vim tias nroj tsuag khaws qab zib rau hauv. Cov zaub no tso tau hauv av thiab txiav txhua caij ntuj no.
+
+Zaub lettuce thiab lwm yam zaub salad yuav loj qeeb thaum huab cua txias, tab sis muaj kev tiv taus txog 20°F yog muaj kev tiv thaiv.
+
+### OSU Extension Service Cov Kev Pab
+
+Tau cov phau ntawv no hauv online ntawm [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu):
+
+- **Fall and Winter Vegetable Gardening in the Pacific Northwest** PNW 548
+- **Constructing Coldframes and Hotbeds** FS 246-E
+- **How to Build Your Own Raised-Bed Cloche** EC 1627
+- **Grow Your Own** EM 9027
+- **Grow Your Own Rhubarb** EC 797
+- **Grow Your Own Tomatoes and Tomatillos** EC 1333
+- **Storing Pumpkin and Winter Squash at Home** EC 1632
+- **Improving Garden Soil with Organic Matter** EC 1561
+- **Soil Fertility in Organic Systems** PNW 646
+
+#### Master Gardener™ Cov Lus Qhia
+
+- **Hu Xov Tooj Nug Kev Pab Ua Vaj Tsev:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org) kom tau 10-Minute University™ cov ntaub ntawv thiab yeeb yaj kiab.
+- Nrhiav cov Master Gardeners ntawm Farmers’ Markets hauv zej zog.
+
+---
+
+##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub cais tawm hauv txhua qhov kev pab, kev ua haujlwm, kev lom zem, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej, kev deev poj niam txiv neej, xiam oob khab, hnub nyoog, kev sib yuav, kev muaj menyuam, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qib tub rog, kev raug txim dhau los rau txoj cai li kev tiv thaiv. (Tsuas yog tsis tag nrho cov kev txwv no siv rau txhua qhov kev pab.)
+---

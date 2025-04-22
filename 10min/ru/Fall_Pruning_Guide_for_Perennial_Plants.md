@@ -1,90 +1,92 @@
-10/9/2018 1 Подготовлено Лаурой Эйер
+#### Руководство по осенней обрезке для многолетних растений · Подготовила Лора Айер · 09.10.2018
 
-Осеннее руководство по обрезке многолетних растений
+## Обрезать
 
-Обрезать
-Ирис бородатый  
-Монарда (Monarda didyma)  
-Лилия ежевичная (Belamcanda chinensis)  
-Гайлардия (Gaillardia x grandiflora)  
-Бронзовый фенхель (Foeniculum vulgare ‘Purpureum’)  
-Котовник (Nepeta)  
-Аквилегия (Aquilegia)  
-Коридалис (Corydalis lutea)  
-Крокосмия  
-Лилейник (Hemerocallis)  
-Золотистая маргаритка (Anthemis tinctoria)  
-Золотая звезда (Chrysogonum virginianum)  
-Клематис наземный (Clematis recta)  
-Бегония устойчивая (Begonia grandis)  
-Гелиантус (многолетние виды) H. x laetiflorus, H. salicifolium...  
-Мальва шток-роза (Malva alcea)  
-Анемона японская (Anemone x hybrida)  
-Лигулярия (Ligularia dentate)  
-Аденофора (Adenophora lilifolia)  
-Астранция крупная (Astrantia major)  
-Рутина луговая (Thalictrum aquilegiifolium)  
-Василек горный (Centaurea montana)  
-Ромашка крашеная (Tanacetum coccineum)  
-Пенстемон (Penstemon barbatus)  
-Пион (Paeonia)  
-Гелиантус многолетний (Helianthus)  
-Флокс (Phlox paniculata)  
-Маклея (Macleaya cordata)  
-Таволга розовая, таволга луговая (Filipendula rubra, F. ulmaria)  
-Брунера крупнолистная (Brunnera macrophylla)  
-Шалфей (Salvia nemorosa)  
-Гелениум (Helenium autumnale)  
-Купена душистая (Polygonatum odoratum)  
-Вероника/спик Спидвелл (Veronica spicata)  
-Ложная индиго (Baptisia australis)  
-Тысячелистник (Achillea)
+- Бородатый ирис
+- Монарда (*Monarda didyma*)
+- Лилия ежевичная (*Belamcanda chinensis*)
+- Гайлардия (*Gaillardia x grandiflora*)
+- Бронзовый фенхель (*Foeniculum vulgare ‘Purpureum’*)
+- Кошачья мята (*Nepeta*)
+- Аквилегия (*Aquilegia*)
+- Коридалис (*Corydalis lutea*)
+- Крокосмия
+- Лилейник (*Hemerocallis*)
+- Золотая маргаритка (*Anthemis tinctoria*)
+- Золотая звезда (*Chrysogonum virginianum*)
+- Клематис приземистый (*Clematis recta*)
+- Бегония зимостойкая (*Begonia grandis*)
+- Гелиантус (многолетние виды: *H. x laetiflorus*, *H. salicifolium* и др.)
+- Мальва (*Malva alcea*)
+- Японская анемона (*Anemone x hybrida*)
+- Лигулярия (*Ligularia dentate*)
+- Колокольчик лилиелистный (*Adenophora lilifolia*)
+- Астранция (*Astrantia major*)
+- Василистник (*Thalictrum aquilegiifolium*)
+- Горная василёк (*Centaurea montana*)
+- Пиретрум (*Tanacetum coccineum*)
+- Пенстемон (*Penstemon barbatus*)
+- Пион (*Paeonia*)
+- Многолетний подсолнух (*Helianthus*)
+- Флокс (*Phlox paniculata*)
+- Маклея (*Macleaya cordata*)
+- Лабазник (королева прерий, королева луга) (*Filipendula rubra*, *F. ulmaria*)
+- Бруннера (*Brunnera macrophylla*)
+- Шалфей (*Salvia nemorosa*)
+- Гелениум (*Helenium autumnale*)
+- Купена (*Polygonatum odoratum*)
+- Вероника/вероника колосистая (*Veronica spicata*)
+- Дикий или ложный индиго (*Baptisia australis*)
+- Тысячелистник (*Achillea*)
 
-Оставить стоять
-Артемизия  
-Астра  
+---
 
-10/9/2018 2 Подготовлено Лаурой Эйер
+## Оставить стоять
 
-Астильба  
-Колокольчик (Platycodon grandiflorus)  
-Золотой дождь (Aurinia saxatilis)  
-Медвежья лапа (Acanthus spinosus)  
-Бергения (Bergenia cordifolia)  
-Рудбекия (Rudbeckia fulgida)  
-Голубой куст тумана (Caryopteris sp.)  
-Буддлея (Buddleia davidii)  
-Асклепия (Asclepias tuberosa)  
-Колокольчик  
-Кардинальный цветок (Lobelia cardinalis)  
-Гейхера (Heuchera sp.)  
-Молочай кустарниковый (Euphorbia polychroma)  
-Дельфиниум  
-Гвоздика  
-Тиарелла (Tiarella cordifolia)  
-Наперстянка (Digitalis purpurea)  
-Диктамнус (Dictamnus albus)  
-Лиатрис (Liatris spicata)  
-Гравилат  
-Чертополох шаровидный (Echinops ritro)  
-Золотарник (Solidago)  
-Анхуза итальянская (Anchusa azurea)  
-Джопай (Eupatorium maculatum)  
-Манжетка (Alchemilla mollis)  
-Овечья лапка (Stachys byzantina)  
-Лаванда (Lavandula sp.)  
-Лаванда хлопковая (Santolina chamaecyparissus)  
-Люпин (Lupinus sp.)  
-Хризантема  
-Скабиоза (Scabiosa columbaria)  
-Эхинацея пурпурная (Echinacea purpurea)  
-Книфофия (Kniphofia)  
-Шалфей русский (Perovskia atriplicifolia)  
-Лимониум (Limonium latifolium)  
-Морской чертополох (Eryngium)  
-Очиток  
-Кореопсис (Coreopsis species)  
-Хелоне (Chelone lyonii)  
-Центрантус красный (Centranthus ruber)  
-Гаура (Guara sp.)  
-Амсония ивовая (Amsonia tabernaemontana)
+#### Подготовила Лора Айер · 09.10.2018
+
+- Полынь
+- Астра
+- Астильба
+- Шариковый цветок (*Platycodon grandiflorus*)
+- Золотая корзинка (*Aurinia saxatilis*)
+- Медвежий коготь (*Acanthus spinosus*)
+- Бергения (*Bergenia cordifolia*)
+- Рудбекия (*Rudbeckia fulgida*)
+- Синий туманник (*Caryopteris sp.*)
+- Буддлея (*Buddleia davidii*)
+- Асклепиас (*Asclepias tuberosa*)
+- Колокольчик
+- Лобелия кардинальная (*Lobelia cardinalis*)
+- Гейхера (*Heuchera sp.*)
+- Молочай многоцветковый (*Euphorbia polychroma*)
+- Дельфиниум
+- Гвоздика
+- Тиарелла (*Tiarella cordifolia*)
+- Наперстянка (*Digitalis purpurea*)
+- Ясенец (*Dictamnus albus*)
+- Лиатрис (*Liatris spicata*)
+- Гейхерелла
+- Синеголовник шаровидный (*Echinops ritro*)
+- Золотарник (*Solidago*)
+- Анхуза (*Anchusa azurea*)
+- Сорняк Джо-Пай (*Eupatorium maculatum*)
+- Манжетка (*Alchemilla mollis*)
+- Ягнячьи ушки (*Stachys byzantina*)
+- Лаванда (*Lavandula sp.*)
+- Сантолина (*Santolina chamaecyparissus*)
+- Люпин (*Lupinus sp.*)
+- Хризантема (*Chrysanthemum*)
+- Скабиоза (*Scabiosa columbaria*)
+- Эхинацея пурпурная (*Echinacea purpurea*)
+- Книфофия (*Kniphofia*)
+- Русская шалфей (*Perovskia atriplicifolia*)
+- Лимониум (*Limonium latifolium*)
+- Синеголовник (*Eryngium*)
+- Очиток
+- Кореопсис (*Coreopsis species*)
+- Хелоне (*Chelone lyonii*)
+- Валериана (*Centranthus ruber*)
+- Гаура (*Guara sp.*)
+- Амсония ивовая (*Amsonia tabernaemontana*)
+---

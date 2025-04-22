@@ -1,83 +1,102 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association, sa pakikipagtulungan at suporta sa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Sampung Damo na Dapat Malaman  
+# Sampung Damo na Dapat Makilala
 
-Ang damo ay isang halaman na maaaring maging panganib o istorbo, o isang halaman na nagdudulot ng pinsala sa tao, hayop, o tanim na nais itanim.  
-Sa hardin ng bahay, maaari silang makipagkompetensya sa mga nais na tanim, magpababa ng kagandahan ng tanawin, magdulot ng allergy o lason sa tao o hayop, o magkanlong ng sakit, daga, at mga peste.  
+Ang damo ay halaman na delikado, nakakainis, o nagdudulot ng pinsala sa tao, hayop, o sa mga tanim na gusto mo. Sa bakuran o hardin, ang mga damo ay maaaring:
+- Makipag-agawan ng sustansya sa mga tanim na gusto mo
+- Magpababa ng ganda ng tanawin
+- Maging sanhi ng allergy o lason sa tao o hayop
+- Magdala ng sakit, daga, at mga insekto
 
-### Paano Kontrolin ang mga Damo  
-Ang pagkilala sa iyong mga damo ay nakakatulong upang matukoy ang pinaka-epektibong paraan ng pagkontrol sa mga ito.  
-Ang mga taunang damo ay tumutubo sa loob ng isang panahon kaya mahalaga na alisin ang mga ito bago makipagkompetensya sa mga tanim o magbunga ng mga buto.  
-Ang mga pangmatagalang damo ay nabubuhay ng maraming taon at ang epektibong paraan ng pag-alis ay ang paghuhukay sa kanilang mga ugat o pagpatay sa mga ito gamit ang systemic na herbicide. Sila rin ay kumakalat sa pamamagitan ng mga buto.  
+---
 
-- **Pag-iwas sa mga damo**: Suriin nang mabuti ang mga bagay na dinadala mo sa hardin tulad ng compost, lupa, at mga tanim. Magpatrolya sa iyong ari-arian laban sa mga gumagapang na damo mula sa kapitbahay.  
-- **Paggamit ng mga kultural at mekanikal na kontrol**: Magsimula nang maaga at madalas na pag-aalis ng damo upang hindi sila magkaroon ng puwang. Pigilan ang mga damo sa pagbunga ng buto. Ang pag-ikot ng mga tanim na gulay at pagtatanim ng mga panakip na tanim ay makakabawas sa damo.  
-- **Paggamit ng mulch**: Pinipigilan ng mulch ang damo. Ang mga karaniwang organikong mulch ay kinabibilangan ng pira-pirasong balat ng kahoy o dahon, compost, at dyaryo. Ang mga sintetikong mulch ay kinabibilangan ng plastik o landscape fabrics.  
-- **Pagdidilig lamang sa mga nais na tanim**: Gamit ang drip irrigation o target na pagdidilig gamit ang kamay, mababawasan ang damo.  
-- **Pag-aplay ng herbicide bilang huling opsyon**: Siguraduhing sundin ang mga tagubilin sa label. Narito ang mabilis na gabay sa ilang terminolohiya:  
-  - Ang **Pre-emergent herbicides** ay ginagamit bago tumubo ang damo.  
-  - Ang **Post-emergent herbicides** ay ginagamit pagkatapos tumubo ang damo.  
-  - Ang **Selective herbicides** ay kontrolado ang ilang halaman ngunit hindi ang iba.  
-  - Ang **Non-selective herbicides** ay maaaring makapinsala sa maraming uri ng halaman.  
-  - Ang **Systemic herbicides** ay gumagalaw mula sa lugar ng unang aplikasyon patungo sa ibang bahagi ng halaman.  
-  - Ang **Non-systemic o contact herbicides** ay nakakaapekto lamang sa bahagi ng halaman na nahawakan.  
+## Paano Kontrolin ang mga Damo
 
-## Karaniwang Damo sa Ating Rehiyon  
+Ang pagkilala sa mga damo ay nakakatulong para malaman ang pinakabisa na paraan ng pag-control:
+- **Taunang damo** ay tumutubo sa loob ng isang season lang. Alisin agad bago sila makipag-agawan sa mga tanim o makapagbunga ng buto.
+- **Pangmatagalang damo** ay nabubuhay ng maraming taon. Kailangan hukayin lahat ng ugat o patayin gamit ang systemic na herbicide. Kumakalat din sila sa pamamagitan ng buto.
 
-### Dandelion (Asteraceae)  
-**Uri**: Pangmatagalang damo  
-Ang dandelion ay isang pangmatagalang damo na may maliliit na dilaw na bulaklak sa tuktok ng tangkay. Ito ay tumutubo sa mga basang lugar.  
-**Kontrol**: Mano-manong alisin ang buong tap root, na maaaring malalim at may mga sanga, bago ito magbunga ng buto. Sa damuhan, mag-seeding sa lugar upang mabawasan ang pagpasok ng damo sa hubad na lupa.  
+### Mga Paraan ng Pagkontrol ng Damo
 
-### Clover (Trifolium, Medicago, at Melilotus)  
-**Uri**: May taunang at pangmatagalang uri  
-Ang lahat ng clover ay may tap roots at hugis-clover na dahon. Ang mga gumagapang na uri ay maaaring kumalat sa malalaking bahagi.  
-**Kontrol**: Mano-manong alisin ang tap roots bago magbunga ng buto. Ang mga buto ay may matigas na proteksiyon kaya mahirap patayin; mag-aplay ng mulch upang pigilan ang pagtubo ng buto.  
+1. **Pag-iwas**
+   - Suriing mabuti ang mga bagay na dinadala sa hardin gaya ng compost, lupa, at mga halaman.
+   - Bantayan ang bakuran laban sa mga damong gumagapang mula sa bakuran ng kapitbahay.
 
-### Quackgrass (Elytrigia repens)  
-**Uri**: Pangmatagalang damo  
-Ang quackgrass ay tumutubo nang patayo, maaaring bumuo ng kumpol, at lumalaki hanggang halos 4 na talampakan. Nabubuhay ito sa pamamagitan ng buto at mga gumagapang na tangkay sa ilalim ng lupa (rhizomes).  
-**Kontrol**: Dagdagan ang nitrogen fertilization at pagputol gamit ang lawn mower. Mahirap alisin gamit ang mekanikal na paraan.  
+2. **Kultural at Mekanikal na Pagkontrol**
+   - Magbunot ng damo ng maaga at madalas para di makapagsimula.
+   - Huwag hayaang magbunga ng buto ang mga damo.
+   - Magpalit-palit ng tanim at magtanim ng cover crops para bumaba ang damo.
 
-### Annual Bluegrass (Poa annua)  
-**Uri**: Taunang damo  
-Ang annual bluegrass ay may mga patag na tangkay na patayo o gumagapang. Ang mga ito ay 2 hanggang 12 pulgada ang haba, minsan bumubuo ng makakapal na kumpol. Ang panahon ng pamumulaklak at pagbuo ng buto ay mula Marso hanggang Agosto.  
-**Kontrol**: Gumamit ng hoe o mano-manong bunutin bago magbunga ng buto. Mahirap kontrolin sa damuhan.  
+3. **Paglalagay ng Malts**
+   - Nakatutulong para di tumubo ang damo.
+   - Karaniwang organic na malts: tinadtad na balat ng kahoy, dahon, compost, diyaryo.
+   - Synthetic na malts: plastik, landscape fabric.
 
-### English Ivy (Hedera helix)  
-**Uri**: Pangmatagalang damo  
-Ang English ivy ay nabubuhay sa pamamagitan ng buto at stolon. Ang mga tangkay na tumubo sa mga puno ay magbubunga ng prutas na maaaring ikalat ng mga ibon.  
-**Kontrol**: Mano-manong hukayin o bunutin. Putulin ang mga ivy na tumubo sa puno sa taas ng baywang at hukayin ang mga ugat.  
+4. **Pagdidilig**
+   - Diligan lang ang mga tanim na gusto mo gamit ang drip irrigation o tumpak na pagdidilig para mabawasan ang pagtubo ng damo.
 
-### Creeping Buttercup (Ranunculus repens)  
-**Uri**: Pangmatagalang damo  
-Ang competitive na halaman na ito ay tumutubo hanggang isang talampakan, kumakalat sa pamamagitan ng stolon at buto, at bumubuo ng makakapal na carpet sa basa at mahinang pinatuyong lupa.  
-**Kontrol**: Sa damuhan, pagbutihin ang drainage, iwasan ang pagkapal ng lupa, at palakasin ang damo sa pamamagitan ng overseeding at fertilization kung kinakailangan. Mano-manong alisin ang lahat ng runners, ugat, at mga growing points. Pinakamainam gawin ito mula taglagas hanggang tagsibol kapag basa ang lupa.  
+5. **Herbisidyo** (panghuling opsyon)
+   - Sundin ang tagubilin sa etiketa.
+   - **Gabay sa mga Salita**:
+     - *Pre-emergent herbicides*: Ginagamit bago tumubo ang damo.
+     - *Post-emergent herbicides*: Ginagamit kapag tumubo na ang damo.
+     - *Selective herbicides*: Kumokontrol ng ilang tanim lang.
+     - *Non-selective herbicides*: Nakakasira ng maraming uri ng halaman.
+     - *Systemic herbicides*: Kumakalat mula sa pinahiran papunta sa ibang bahagi ng halaman.
+     - *Non-systemic/contact herbicides*: Nakakaapekto lang sa bahaging natamaan.
 
-### Curly Dock (Rumex crispus L.)  
-**Uri**: Pangmatagalang damo  
-Ang matibay na damo na ito ay may tap root, tumutubo ng 2–5 talampakan ang taas, at may malalaking dahon na may kulot o alon na gilid. Ang bulaklak at buong halaman ay maaaring maging kulay-pula kapag mature na.  
-**Kontrol**: Hukayin ang buong ugat (maaaring mahirap) bago magbunga ng buto. Suriin ang bagong tubo mula sa mga natirang ugat at patuloy na alisin ang mga bagong halaman.  
+---
 
-### Field Bindweed/Morning Glory (Convolvulus arvensis L.)  
-**Uri**: Pangmatagalang damo  
-Ang field bindweed ay karaniwang bumubuo ng makakapal na gulo ng mga dahon na hugis-pana at mga bulaklak na hugis-kampanilya, puti hanggang pinkish. Ang mahabang, malalim na taproot ay maaaring umabot ng 10 talampakan.  
-**Kontrol**: Bunutin ang top growth linggo-linggo (o mas madalas), bunutin ang mga rootstocks kung posible, at huwag hayaang magbunga ng buto. Mag-spray ng systemic herbicide mula huli ng tag-init hanggang maagang taglagas.  
+## Karaniwang Damo sa Ating Lugar
 
-### Little Bittercress (Cardamine oligosperma)  
-**Uri**: Winter annual o biennial  
-Ang mga halaman ay tumutubo ng 3 hanggang 12 pulgada ang taas, may makinis na tangkay na branched na nagmumula sa linya ng lupa. Ang mga dahon ay nagra-radiate mula sa base ng tangkay upang bumuo ng rosette. Maliit na puting bulaklak sa mga tangkay.  
-**Kontrol**: Mano-manong alisin bago magbunga ng buto. Mag-aplay ng 2-3 pulgada ng mulch sa apektadong lugar sa huling tag-init upang pigilan ang pagtubo ng buto.  
+### Dandelion (*Asteraceae*) – Pangmatagalan
+- **Paglalarawan**: Maliit na dilaw na bulaklak sa dulo ng tangkay; mahilig sa basa at mamasa-masang lugar.
+- **Pagkontrol**: Bunutin ng buo ang ugat (malalim at maraming sanga) bago makabunga ng buto. Sa damuhan, magtanim ng damo para di mapasukan ng damo ang mga bakanteng lupa.
 
-### Crabgrass (Digitaria ischaemum)  
-**Uri**: Taunang damo  
-Ang crabgrass ay karaniwang damo sa mga vegetable garden, landscape beds, at gravel driveways. Ito ay mababang damo na tumutubo sa tag-init at kumakalat sa pamamagitan ng buto at paminsang ugat sa mababang bahagi ng tangkay.  
-**Kontrol**: Kontrolin bago magbunga ng buto. Mano-manong alisin ang kumpol kasama ang mga ugat.  
+### Clover (*Trifolium*, *Medicago*, at *Melilotus*) – May Taunan at May Pangmatagalan
+- **Paglalarawan**: May tap root at dahong hugis clover; ang gumagapang na anyo ay kumakalat ng malaki.
+- **Pagkontrol**: Bunutin ang tap root bago magbunga ng buto. Maglagay ng malts para pigilan ang pagtubo ng buto dahil matigas ang balat nito.
 
-## Resources  
-**Perennial Weed Biology and Management**, EM 8776, [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-**Invasive Plants/Invasive Plant & Pest Management**, The City of Portland, Oregon  
+### Quackgrass (*Elytrigia repens*) – Pangmatagalan
+- **Paglalarawan**: Tuwid at namumuong damo na abot hanggang 4 na talampakan; dumadami sa pamamagitan ng buto at gumagapang na ugat (rhizomes).
+- **Pagkontrol**: Dagdagan ang pataba na may nitrogen at maggapas ng madalas. Mahirap tanggalin ng mano-mano.
 
-Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang ekspresyon ng kasarian), oryentasyong sekswal, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon ng genetic, estado ng pagiging beterano, paghihiganti o pagganti para sa nakaraang aktibidad ng mga karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+### Annual Bluegrass (*Poa annua*) – Taunan
+- **Paglalarawan**: Lapat ang mga tangkay, tuwid o gumagapang, 2–12 pulgada ang haba; minsan ay buo-buo. Namumulaklak at namumunga mula Marso–Agosto.
+- **Pagkontrol**: Kalikutin o bunutin bago magbunga ng buto. Mahirap kontrolin sa damuhan.
+
+### English Ivy (*Hedera helix*) – Pangmatagalan
+- **Paglalarawan**: Dumadami sa buto at stolon; ang mga tangkay na gumagapang pataas sa puno ay nagkakabunga na pinapakalat ng ibon.
+- **Pagkontrol**: Hukayin o bunutin ng mano-mano. Putulin ang mga baging sa puno sa taas ng baywang at hukayin ang ugat.
+
+### Creeping Buttercup (*Ranunculus repens*) – Pangmatagalan
+- **Paglalarawan**: Tumataas hanggang 1 talampakan; kumakalat sa pamamagitan ng stolon at buto; bumubuo ng makakapal na sapin sa basang lupa. Ang dahon ay madilim na berde, may mapuputing bahagi, at hinati sa tatlong ngipin. Ang bulaklak ay makintab, maliwanag na dilaw.
+- **Pagkontrol**: Sa damuhan, ayusin ang drainage, iwasan ang pagkasiksik ng lupa, at palakasin ang damo sa pamamagitan ng overseeding at pagpapataba. Bunutin lahat ng gumagapang, ugat, at bagong usbong mula taglagas hanggang tagsibol habang basa ang lupa.
+
+### Curly Dock (*Rumex crispus L.*) – Pangmatagalan
+- **Paglalarawan**: Matibay at malalim ang ugat, 2–5 talampakan taas; malalaking dahon sa ibaba, kulot o alon ang gilid; nagiging mapula-kayumanggi kapag hinog.
+- **Pagkontrol**: Hukayin ang buong ugat bago magbunga ng buto. Tsekahin ang pag-usbong ng bagong sanga mula sa natirang ugat at tanggalin ang mga bagong tanim.
+
+### Field Bindweed/Morning Glory (*Convolvulus arvensis L.*) – Pangmatagalan
+- **Paglalarawan**: Makapal at magulo na tumpok ng dahong hugis pana at bulaklak na puti hanggang rosas; mahaba at malalim ang ugat (hanggang 10 talampakan) na may gumagapang na ugat malapit sa ibabaw. Ang buto ay pwedeng mabuhay hanggang 50 taon.
+- **Pagkontrol**: Bunutin ang mga tumubong bahagi linggo-linggo, bunutin ang gumagapang na ugat kung kaya, at pigilan ang pagbuo ng buto. Mag-spray ng systemic herbicide mula huling tag-init hanggang maagang taglagas.
+
+### Little Bittercress (*Cardamine oligosperma*) – Taunang Panahon o Dalawang Taon
+- **Paglalarawan**: 3–12 pulgada ang taas; maraming sanga at makinis ang tangkay mula sa lupa; ang dahon ay parang rosette. Maliit na puting bulaklak sa tangkay. Kapag hinog, “pumuputok” ang bunga ng buto ng ilang yarda.
+- **Pagkontrol**: Bunutin bago magbunga ng buto. Maglagay ng 2–3 pulgadang malts sa huling tag-init para pigilan ang pagtubo ng buto.
+
+### Crabgrass (*Digitaria ischaemum*) – Taunan
+- **Paglalarawan**: Mababa at gumagapang na damo sa tag-init; kumakalat sa buto at paminsan-minsan sa pag-ugat ng mababang tangkay. Karaniwan sa taniman ng gulay, taniman ng halaman, at grabaang daan.
+- **Pagkontrol**: Alisin bago magbunga ng buto. Bunutin ang buong tumpok kasama ang ugat.
+
+---
+
+## Mga Sanggunian
+
+- [Perennial Weed Biology and Management, EM 8776](https://catalog.extension.oregonstate.edu)
+- [Invasive Plants/Invasive Plant & Pest Management, The City of Portland, Oregon](https://www.portlandoregon.gov)
+
+---
+
+##### Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya o magulang, kita mula sa tulong ng gobyerno, paniniwalang pampulitika, impormasyon ng genetika, katayuang beterano, paghihiganti o retaliation dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
+---

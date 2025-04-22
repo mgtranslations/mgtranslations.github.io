@@ -1,76 +1,112 @@
-### 10-Minute University™  
-Hiệp hội Master Gardener của Hạt Clackamas hợp tác và hỗ trợ Chương trình OSU Extension Master Gardener™  
+#### 10-Minute University™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
 
-### Mẹo Tưới Nước  
+## Mẹo Tưới Nước
 
-#### Lý Thuyết & Kỹ Thuật  
-- Tưới nước vào sáng sớm khi không khí mát mẻ, ít gió, và áp lực nước cao hơn trong hệ thống nước đô thị.  
-- Tưới sâu vào vùng rễ khuyến khích rễ phát triển sâu và cây khỏe mạnh hơn.  
-- Tưới nước cho bãi cỏ đến độ sâu 8 hoặc 10 inch, luống hoa đến độ sâu khoảng 12 đến 15 inch. Hầu hết các cây ở Oregon có phần lớn rễ hấp thụ nằm trong 12 đến 18 inch đất, nhưng rễ sâu có thể phát triển đến khoảng 3 đến 4 feet. Rễ của nhiều loại cây bụi có thể đi sâu vài feet nếu điều kiện đất phù hợp; rễ của cây trà và đỗ quyên là ngoại lệ vì chúng nằm gần bề mặt hơn.  
-- Sử dụng tốc độ tưới nước cho phép nước thấm vào đất thay vì chảy tràn ra ngoài khu vực.  
-- Tập trung tưới nước ở vùng rễ. Càng ít nước được tưới giữa các cây thì càng ít cỏ dại mọc lên.  
-- Đất sét hấp thụ nước chậm và có thể cần nhiều chu kỳ bật-tắt để làm ẩm hoàn toàn. Một khi đã ngấm nước, đất sét khô chậm hơn, vì vậy có thể tưới ít hơn. Đất cát cho phép nước chảy qua nhanh nhưng sẽ khô rất nhanh. Đất mùn nằm ở mức trung bình.  
-- Đo độ sâu nước và độ khô của đất thường xuyên. Hãy để đất khô một phần giữa các lần tưới để oxy có thể quay trở lại đất.  
-- Đất trong chậu khô nhanh hơn luống hoa, vì vậy cây trong chậu cần được tưới nước thường xuyên hơn. Trong vườn rau, hãy trồng cây và hàng gần nhau để tán lá vừa chạm nhau khi cây trưởng thành. Điều này tạo ra một khu vực trồng dày đặc, sử dụng ít nước hơn nhưng cho thu hoạch nhiều hơn. Một lợi ích thêm là đất được che bóng sẽ mất ít nước hơn do bay hơi.  
-- Bảo tồn độ ẩm đất bằng cách phủ một lớp mùn hữu cơ dày 3 inch như vụn gỗ hoặc phân ủ.  
-- Sử dụng mùn nhựa đen giúp giảm bay hơi trong luống rau và làm nóng đất. Với cà chua và ớt, mùn nhựa đỏ còn có lợi ích tăng năng suất. Đất ấm là yếu tố quan trọng để trồng rau thành công trong khí hậu của chúng ta.  
-- Để tưới cây và cây bụi mới trồng một cách hiệu quả, hãy tạo một hồ chứa nước bằng cách xây một gò đất thấp ở mép ngoài của khối rễ. Đổ đầy hồ chứa nước, sau đó để nước thấm vào. Mỗi lần tưới, đổ đầy hồ một lần nếu là đất cát, hai lần nếu là đất mùn, và ba lần nếu là đất sét.  
-- Với cây trong chậu, các dấu vết trắng bao gồm các muối khác nhau từ nước cứng và phân bón có thể tích tụ trên bề mặt đất trồng hoặc trên bề mặt ngoài của chậu đất sét, cho thấy hệ thống thoát nước không đủ hoặc thiếu dòng chảy qua nước. Để giảm thiểu tích tụ muối, hãy tưới nước cho đến khi nước dư thừa chảy ra khỏi lỗ thoát.  
+### Lý Thuyết & Kỹ Thuật
 
-#### Tưới Nước Không Hiệu Quả  
-**Dấu hiệu tưới quá nhiều:**  
-- Lá vàng hoặc loang lổ.  
-- Lá chuyển màu xanh nhạt hoặc vàng và sau đó rụng.  
-- Cây phát triển kém, thân yếu và đổ ngã.  
+- **Tưới vào sáng sớm** khi không khí còn mát, gió nhẹ và áp lực nước trong hệ thống thành phố cao hơn.
+- **Tưới sâu** đến hết vùng rễ giúp cây phát triển rễ sâu, chắc khỏe và khỏe mạnh.
+- **Độ sâu tưới nước:**
+  - Cỏ sân: 8–10 inch (20–25 cm)
+  - Luống hoa: 12–15 inch (30–38 cm)
+  - Cây lớn: Rễ hấp thụ chủ yếu nằm trong lớp đất sâu 12–18 inch (30–45 cm), nhưng rễ cọc có thể ăn sâu 3–4 feet (90–120 cm).
+  - Cây bụi: Rễ có thể ăn sâu vài feet nếu đất phù hợp. Riêng cây trà và đỗ quyên có rễ nông hơn, gần mặt đất.
+- Sử dụng **tốc độ tưới** vừa phải để nước ngấm vào đất thay vì chảy tràn ra ngoài.
+- Tập trung tưới ở **vùng rễ** để giảm mọc cỏ dại.
+- **Các loại đất:**
+  - Đất sét hấp thụ nước chậm, có thể cần tưới nhiều lần ngắt quãng để làm ướt đều. Khi đã thấm, đất sét giữ nước lâu, không cần tưới thường xuyên.
+  - Đất cát cho nước thấm nhanh nhưng cũng nhanh khô.
+  - Đất pha (đất thịt) nằm ở mức trung gian giữa hai loại trên.
+- **Đo độ sâu nước và độ khô của đất** thường xuyên. Để đất hơi khô giữa các lần tưới để oxy có thể thấm vào đất.
+- **Cây trồng trong chậu** khô nhanh hơn so với luống vườn, cần tưới thường xuyên hơn.
+- Đối với vườn rau, trồng cây và hàng đủ gần để tán lá vừa chạm vào nhau khi cây trưởng thành. Điều này tạo thành khu vực trồng dày, giúp tiết kiệm nước và giảm bay hơi.
+- Giữ ẩm cho đất bằng **lớp phủ hữu cơ dày 3 inch** như vụn gỗ hoặc phân compost.
+- **Phủ nhựa:**
+  - Nhựa đen giúp giảm bay hơi và giữ ấm cho đất.
+  - Nhựa đỏ giúp tăng năng suất cà chua và ớt.
+  - Đất ấm rất quan trọng cho việc trồng rau ở khí hậu Oregon.
+- Đối với cây và bụi mới trồng, tạo **vành đón nước** bằng cách đắp đất thấp quanh rìa bầu rễ. Đổ nước vào vành này và để nước ngấm dần. Số lần đổ nước tùy thuộc vào loại đất:
+  - Đất cát: Đổ 1 lần.
+  - Đất pha: Đổ 2 lần.
+  - Đất sét: Đổ 3 lần.
+- **Muối tích tụ trong chậu:** Cặn trắng từ nước cứng và phân bón có thể là dấu hiệu của việc thoát nước hoặc xả nước chưa đủ. Giảm muối tích tụ bằng cách tưới nhiều nước cho đến khi nước thừa chảy ra ngoài đáy chậu.
 
-**Dấu hiệu tưới thiếu:**  
-- Lá vàng hoặc loang lổ.  
-- Lá trông xỉn màu, hơi xám, và thiếu độ bóng.  
-- Bãi cỏ mất độ bóng, có màu xanh-lục-xanh lam và không phục hồi khi bạn bước lên.  
-- Lá héo úa và không phục hồi khi được tưới nước.  
+### Tưới Nước Không Hiệu Quả
 
-Khi cây héo úa vào ngày nóng, hãy kiểm tra đất trước. Nếu đất cảm thấy ẩm, hãy đợi đến tối để xem cây có hồi phục không; nếu không, hãy tưới nước.  
+#### Dấu hiệu tưới quá nhiều
 
-### Phương Pháp Tưới Nước  
-Dù bạn thích phương pháp tưới nước nào, hãy kiểm tra độ ẩm của đất vài giờ sau khi tưới để xác định hiệu quả của nỗ lực. Mục tiêu của bạn là làm ẩm toàn bộ vùng rễ của cây. Nói chung, đó là độ sâu từ 12 đến 15 inch đối với hầu hết các loài hoa và rau.  
+- Lá vàng hoặc lốm đốm
+- Lá chuyển xanh nhạt hoặc vàng rồi rụng
+- Cây phát triển kém, thân yếu ớt và dễ ngã
 
-Tưới nước trên đầu cây, dù bằng vòi phun hay tay, có thể tạo môi trường lý tưởng cho sự lan rộng của các vấn đề nấm và vi khuẩn như bệnh mốc táo, rỉ sắt, và đốm đen trên hoa hồng. Nếu có thể, hãy tưới sớm trong ngày để lá khô trước khi trời tối.  
+#### Dấu hiệu thiếu nước
 
-Tưới nước bằng tay là một thói quen thoải mái đối với nhiều người làm vườn. Nhưng nó có thể cung cấp nước nhanh hơn đất có thể hấp thụ, gây ra sự lãng phí nước.  
+- Lá vàng hoặc lốm đốm
+- Lá trông xỉn màu, hơi xám, không bóng
+- Cỏ mất độ bóng, ngả màu xanh lam-xanh lục, không phục hồi sau khi dẫm lên
+- Lá héo và không hồi phục sau khi tưới
 
-Vòi phun nước có thể làm nước lan ra những nơi không cần thiết. Và, như tưới bằng tay, nước thường được cung cấp nhanh hơn so với khả năng thấm của đất.  
+Khi cây héo vào ngày nắng nóng, hãy kiểm tra đất trước. Nếu đất còn ẩm, hãy đợi đến tối xem cây có hồi phục không; nếu không, hãy tưới nước.
 
-Hãy sử dụng vòi phun nước chỉ phủ khu vực vườn, không phải các khu vực xung quanh. Vòi phun nước dẫn đến sự mất nước do bay hơi nhiều hơn các phương pháp tưới nước khác. Giảm thiểu sự mất nước bằng cách tưới vào thời điểm mát mẻ, không có gió (từ tối đến sáng sớm).  
+### Phương Pháp Tưới Nước
 
-Hệ thống tưới nước lưu lượng thấp (ống nhỏ giọt và ống thấm) có thể cung cấp độ ẩm trực tiếp đến vùng rễ với tốc độ đồng đều trong suốt mùa, thúc đẩy sự phát triển tốt nhất. Bạn có thể kết hợp các đầu nhỏ giọt, ống thấm, và vòi phun nhỏ để tạo ra một hệ thống tưới nước hiệu quả và tiết kiệm.  
+Dù bạn chọn phương pháp tưới nào, hãy kiểm tra độ ẩm đất vài giờ sau khi tưới để đánh giá hiệu quả. Mục tiêu là làm ướt toàn bộ vùng rễ:
 
-Một hệ thống lưu lượng thấp hoạt động tốt sẽ tránh lãng phí nước qua dòng chảy hoặc bay hơi. Và vì nước được cung cấp trực tiếp vào đất, lá cây vẫn khô và bệnh dịch được hạn chế. So với các phương pháp tưới nước thông thường (bằng tay hoặc vòi phun), hệ thống lưu lượng thấp có thể sử dụng ít hơn 50% nước. Tuy nhiên, các hệ thống này cũng có thể lãng phí nước nếu để chạy quá lâu.  
+- Hoa và rau: sâu 12–15 inch (30–38 cm)
 
-Hệ thống lưu lượng thấp dễ dàng lắp đặt, vì đường dẫn nước có thể đặt trên bề mặt đất.  
+#### Tưới Trên Cao
 
-Một số người thích bắt đầu với một bộ dụng cụ để xây dựng sự tự tin, sau đó mở rộng hệ thống của họ bằng cách mua thêm các bộ phận. Bạn thường có thể nhận được các sách hướng dẫn miễn phí từ nhà sản xuất tại các cửa hàng bán lẻ hoặc trực tuyến.  
+- Tưới trên cao cho cây và bụi (bằng vòi phun hoặc tay) có thể làm tăng bệnh nấm và vi khuẩn như bệnh mốc táo, gỉ sắt và đốm đen trên hoa hồng.
+- Tưới đủ sớm trong ngày để lá kịp khô trước khi tối.
 
-Hệ thống nhỏ giọt, ở dạng đơn giản nhất, bắt đầu từ vòi nước ngoài trời, sau đó thêm các thành phần theo thứ tự này: bộ hẹn giờ (cơ học hoặc chạy bằng pin); bộ ngăn dòng chảy ngược; bộ điều áp; bộ lọc; bộ nối ống; ống dẫn nước; và nắp cuối. Thêm các đầu nhỏ giọt điều chỉnh áp lực khi cần thiết để cung cấp đủ nước cho mỗi hệ thống rễ cây. Tránh làm quá tải bộ điều áp bằng cách chỉ mở vòi một phần.  
+#### Tưới Bằng Tay
 
-Bạn có thể cần điều chỉnh để tìm bố cục phù hợp cho khu vườn của mình. Nhưng nó sẽ dễ dàng sửa đổi trong quá trình lắp đặt và thậm chí trong những năm sau, khi cây phát triển hoặc khi bạn thay đổi cách trồng cây.  
+- Tưới bằng tay có thể cung cấp nước nhanh hơn khả năng thấm của đất, gây tràn nước.
 
-Sau khi lắp đặt, bạn sẽ cần thực hiện một thử nghiệm đơn giản để tìm câu trả lời cho một số câu hỏi quan trọng: khoảng cách đặt đầu nhỏ giọt hoặc ống thấm; thời gian chạy hệ thống; và tần suất.  
+#### Vòi Phun
 
-Bắt đầu bằng cách mở nước trong một giờ, dừng lại ít nhất một giờ, sau đó đào đất để xem độ rộng và độ sâu của độ ẩm thấm vào. Nếu nước không đủ sâu cho vùng rễ của cây, di chuyển đầu nhỏ giọt hoặc ống thấm đến một vị trí mới trên đất, sau đó mở nước lâu hơn lần trước, đợi khoảng một giờ và kiểm tra đất lại. Lặp lại cho đến khi bạn có câu trả lời cần thiết.  
+- Vòi phun có thể tưới cả những nơi không cần thiết và thường tưới nhanh hơn tốc độ thấm của đất.
+- Sử dụng loại vòi chỉ tưới cho vườn, không tưới lan ra khu vực xung quanh.
+- Giảm thất thoát do bay hơi bằng cách tưới vào lúc mát, ít gió (buổi tối đến sáng).
 
-### Các Ấn Phẩm Dịch Vụ Khuyến Nông OSU  
-[It Pays to Water Wisely, EM 9133](https://catalog.extension.oregonstate.edu/)  
-[Keys to Water-efficient Landscapes, EM 9134](https://catalog.extension.oregonstate.edu/)  
-[Landscape Maintenance to Conserve Water, EM 9135](https://catalog.extension.oregonstate.edu/)  
+#### Hệ Thống Tưới Nhỏ Giọt
 
-### Lời Khuyên của Master Gardener™  
-Gọi đường dây tư vấn làm vườn tại nhà:  
-- Hạt Clackamas: 503-655-8631  
-- Hạt Washington: 503-821-1150  
-- Hạt Multnomah: 503-445-4608  
+- **Ưu điểm:**
+  - Cung cấp nước trực tiếp vào vùng rễ với lượng đều suốt mùa.
+  - Giúp cây phát triển tối ưu và hạn chế bệnh nhờ giữ lá khô.
+  - Tiết kiệm đến 50% nước so với phương pháp truyền thống.
+- **Thành phần:**
+  - Bộ hẹn giờ (cơ học hoặc dùng pin)
+  - Thiết bị chống chảy ngược
+  - Bộ điều chỉnh áp suất
+  - Bộ lọc
+  - Đầu nối ống
+  - Ống dẫn chính
+  - Nắp cuối ống
+  - Đầu nhỏ giọt bù áp để đảm bảo đủ nước cho từng vùng rễ
+- **Mẹo lắp đặt:**
+  - Đặt ống dẫn trên bề mặt đất.
+  - Bắt đầu bằng bộ lắp ráp sẵn để làm quen, sau đó mở rộng thêm các thiết bị khác.
+  - Thử nghiệm để xác định vị trí, thời gian và tần suất tưới:
+    - Bật nước 1 giờ, tắt 1 giờ, kiểm tra độ sâu và độ rộng ẩm của đất.
+    - Điều chỉnh vị trí và thời gian tưới đến khi vùng rễ được làm ướt đầy đủ.
 
-#### Video 10-Minute University  
-[Using Drip Irrigation](http://www.cmastergardeners.org/10-minute-university/video)  
+### Nguồn Tài Liệu
 
-### Thông Báo  
-Dịch vụ khuyến nông Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa cho các hoạt động dân quyền trước đây. (Không phải tất cả các căn cứ bị cấm áp dụng cho tất cả các chương trình.)
+- **Ấn phẩm của Dịch vụ Khuyến nông OSU:**
+  - [It Pays to Water Wisely, EM 9133](https://catalog.extension.oregonstate.edu/)
+  - [Keys to Water-efficient Landscapes, EM 9134](https://catalog.extension.oregonstate.edu/)
+  - [Landscape Maintenance to Conserve Water, EM 9135](https://catalog.extension.oregonstate.edu/)
+
+#### Tư Vấn Làm Vườn Chuyên Nghiệp
+
+- **Gọi Đường Dây Tư Vấn Làm Vườn Gia Đình:**
+  - 503-655-8631 (Quận Clackamas)
+  - 503-821-1150 (Quận Washington)
+  - 503-445-4608 (Quận Multnomah)
+- Để xem thêm các tài liệu và lịch học 10-Minute University™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+#### Dịch vụ Khuyến nông Đại học Bang Oregon · Dịch vụ Khuyến nông Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong mọi chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả đũa vì các hoạt động quyền công dân trước đó. (Không phải tất cả các yếu tố bị cấm đều áp dụng cho tất cả các chương trình.)
+---

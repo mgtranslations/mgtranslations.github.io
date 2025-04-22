@@ -1,56 +1,132 @@
-# Jaamacadda 10-Daqiiqo™
+#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Khibrad Leh ee Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beeralayda Sare ee Degmada Clackamas oo iskaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
+# Naqshadaynta Beerta 101
 
-## Naqshadaynta Beerta 101
+Naqshad wanaagsan waa aasaaska beero qurux badan, caafimaad qabta, oo waarta. Qorshe si fiican loo fikiray wuxuu isku daraa waxyaabaha naqshadda wanaagsan—xariiq, qaab, taabasho, caraf, iyo midab—iyadoo la tixgelinayo baahiyaha iyo rabitaanka milkiilaha guriga.
 
-Naqshad wanaagsan waa aasaaska beerta qurxoon, caafimaad qabta, oo waarta. Qorshe si fiican loo fikiray wuxuu isku daraa qaybaha naqshadeynta wanaagsan – xariiq, qaab, dhejis, ur, iyo midab – iyadoo loo eegayo baahiyaha iyo rabitaanka milkiilaha guriga.
+---
 
-### Dhismaha Adag
+## Dhagaxaanta Adag
 
-**Jidka:** Jidadka waaweyn waa inay ku filan yihiin ugu yaraan laba qof oo dhinac socon kara, ugu yaraan 5 fiit. Jidadka labaad ee dadka hal dhinac ku socdaan waa inay ahaadaan ugu yaraan 3 fiit ballac.
+### Jidka
 
-**Dabaqyada:** Muhiimad si ay cagtu si ammaan ah u istaagto. Iska ilaali meelaha sibibixda ama dhagxaan dabacsan oo dhaqaaqa. Isticmaal quruurux aan la sifayn oo leh geeso fiiqan jidadka quruuruxa sababtoo ah way si fiican u adkaadaan oo ma dhaqaaqaan.
+- Jidadka waaweyn waa in ay balaadhan yihiin ugu yaraan laba qof inay isla socdaan, ugu yaraan 5 feet.
+- Jidadka labaad ee dadku kali ku socdaan, balacoodu waa inuu ahaadaa ugu yaraan 3 feet.
 
-**Talaabooyinka:** Ka dhig talaabooyinka beerta mid aan ka dheerayn 6 inch. Dhererka talaabo kasta iyo laba jibaarka dhererka waa inay u dhigantaa 26 inch. Sidaa darteed, talaabo leh kor u kaca 6 inch waxay u baahan tahay 14 inch oo run ah. Haddii jaranjarada beerta ay ka kooban tahay in ka badan 10 talaabo, tixgeli inaad ku darto meel nasasho talaabo kasta oo afraad ama shanaad. Meel nasasho oo ballaaran waa muhiim marka jaranjarada jihada beddesho; meelaha nasashadu waa inay ugu yaraan ahaadaan sida talaabooyinku u ballaaran yihiin.
+### Dabaqyada
 
-**Barxad iyo Deked:** Tixgeli sida aad u qorsheynayso inaad u isticmaasho booska cuntada ama wada hadalka iyo tirada martida ee la filayo. Ugu yaraan u ogolow 4 fiit oo laba jibbaaran qofkiiba. Markaad meelaynayso alaabta guriga bannaanka, ka tag 3 fiit oo hareeraha alaabta si si raaxo leh loo socon karo.
+- Badbaadada tallaabada waa inay mudnaanta leedahay.
+- Ka fogow meelaha simbiriirixan ama dhagaxaanta si dabacsan loo dhigay ee gariiraya.
+- Isticmaal ciid aan la sifeyn oo leh geeso fiiqan markaad samaynayso jidad ciid ah si ay si fiican isu qabato oo aysan simbiriirixin.
 
-### Hawlaha Farsamada
+### Jaranjarooyinka
 
-**Jidka Baabuurta:** Ka hor inta aadan dhir, derbiyo, ama xayndaab rakibin, fadhiiso gaarigaaga si aad u hubiso in aan aragtida la xannibin.
+- Jaranjarooyinka beerta ha ka badnaadaan 6 inch dherer ahaan.
+- Dhererka tallaabada iyo laba laab dhererkeeda waa inay isu geysku noqdaa 26 inch. Tusaale ahaan, jaranjaro leh 6 inch oo kor u kac ah waxay u baahan tahay 14 inch ballac ah.
+- Haddii jaranjarooyinka beertaadu ay ka badan yihiin 10 tallaabo, ka fiirso inaad sameyso meel nasasho ah kadib tallaabada afaraad ama shanaad kasta.
+- Meel nasasho oo weyn ayaa muhiim ah marka jaranjarooyinku jihada beddelaan; meelahaas waa inay la egyihiin ama ka balaadhan yihiin jaranjarooyinka.
 
-**Deriska:** Hubi inaad ogtahay shuruudaha ururka milkiilayaasha gurigaaga iyo maamulka degaanka. Ku talo-sii deriskaaga fikradahaaga haddii ay suuragal tahay.
+### Barxad iyo Dabaq
 
-**Adeegyada:** La xidhiidh hay’adahaaga iyo adeegyada bulshada si ay u calaamadiyaan khadadka dhulka hoostiisa haddii aad qorsheyneyso inaad beddesho heerarka, qodo ceelal ka badan 18 inch oo qoto dheer, ama ka qodo barxadaha iyo wadooyinka. Wac 811 ama booqo digsafelyoregon.com.
+- Ka fiirso sidaad rabto inaad u isticmaasho goobta, sida cunid ama kulanno, iyo tirada martida ee suurtagalka ah.
+- U ogolow ugu yaraan 4 feet labajibbaaran qofkiiba.
+- Marka aad dhigeyso kuraasta dibadda, ka tag 3 feet hareeraha agagaarka si si fudud loo socon karo.
 
-### Qorshaha Naqshadeynta
+---
 
-**Khariidada aasaaska:** Samee khariidada aasaaska warqadda garaafka si aad u muujiso goobta dhabta ah ee dhismayaasha, jidadka, geedaha, iyo muuqaalada muhiimka ah. Naqshadeeyayaasha badanaa waxay ka dhigaan hal xagal u dhigma 1 ama 2 fiit oo cabbirka dhabta ah. Isticmaal xeerarka cabbirka, T-squares, saddexagal, iyo shaxanka muuqaalka baahida loo qabo. Kadib, ku dar nalalka, muuqaalada biyaha, jidadka, barxadaha, ama wax kale oo dhismaha adag ah. Sawir qaababka qorraxda iyo hadhka.
+## Qorsheynta
 
-**Naqshadaynta Dhirta:** Cabbir fiican oo laga bilaabo xadka waa 8 fiit ballaaran iyo 24 fiit dheer; dooro cabbir ku habboon goobtaada iyo sidoo kale waqtigaaga iyo miisaaniyaddaada. Marka hore, ku ciyaar qaabka sariiraha beerta khariidadaada, ka dibna dhig tuubooyinka si aad calaamad ugu yeelatid xuduudaha sariiraha mustaqbalka. Isticmaal noocyo dhir ah (geedo, geedaha yaryar, kuwa sanadlaha ah, iyo bulbulada) si aad u abuurto qaab isku dhafan oo caleemo leh iyo ubaxyo xilliyeed oo buuxa. U ogolow meel dhirta ay ku koraan.
+### Jidka Baabuurta
 
-### Dhirta
+- Kahor intaadan dhigin geedo, derbiyo, ama xayndaabyo, fadhiiso baabuurkaaga si aad u hubiso in aragtida jidka aan la xirin.
 
-**Qorshee Kobaca:** Dhig dhirta si aanay isu ciriiriyin marka ay qaan gaadhaan. Tixraac calaamadaha dhirta laakiin ogow in dhirta ku taal Dooxada Willamette ay inta badan ka weyn yihiin intii la tilmaamay. Haddii aad u baahan tahay muuqaal buuxa isla markiiba, ku beero niyad ah inaad dib u dhigto ama ka saarto dhir qaar dambe. Waxaad sidoo kale u isticmaali kartaa dhirta sanadlaha ah iyo kuwa muddo gaaban sii nool sidii buuxin cusub.
+### Deriska
 
-**Meel ku habboon:** Dhig dhirta dheer (30 inch ama ka dheer) ugu yaraan 2 fiit ka fog jidadka iyo geesaha barxadda. Haddii kale, meelahaas waxay dareemi karaan ciriiri. Sidoo kale ka fogee dhirta qodxanta leh sida ubaxyada ka fog aagagga dadku maraan.
+- Hubi inaad garanayso shuruudaha ururka milkiilayaasha iyo maamulka deegaankaaga.
+- La tasho deriskaaga haddii ay suurtogal tahay.
 
-**Ka fikir Ubax ka baxsan:** Inkasta oo ubaxyada ay soo jiidasho leeyihiin, dhir badan waxay bixiyaan caleemo, miraha, iyo jirid si ay midab, qaab, iyo dhejis u yeeshaan sanadka oo dhan. Ku dar soo jiidashada beertaada adoo adeegsanaya midabka caleemaha dhicista iyo xiisaha jiilaalka oo leh miro, jirid, iyo abuur.
+### Adeegyada Hoose
 
-**Cawska Meel Buu Leeyahay:** Cawska wuxuu bixiyaa meel indhaha ay ka nastaan dhirta beertaada. Sidoo kale waxay bixisaa meel lugaha lagu qaawiyo ama ciyaaraha lagu ciyaaro. Dooro cabbir ku habboon oo dabooli kara baahiyahaaga.
+- La xiriir degmadaada iyo shirkadaha adeegyada si ay u calaamadeeyaan khadadka dhulka hoostiisa ah haddii aad qorshaynayso inaad beddesho heerka dhulka, qodid qodxan ka badan 18 inch, ama aad qodayso barxadaha iyo jidadka.
+- Wac 811 ama booqo [digsafelyoregon.com](https://digsafelyoregon.com).
 
-**Xulashada Dhirta:** Ku bilow adoo samaynaya liiska dhammaan dhirta aad rabto inaad beerto; hubi shuruudahooda si aad u xaqiijiso inay ku kobcayaan ciiddaada, qoyaanka, iyo xaaladaha iftiinka. Kadib, samayso jaantus dhirtaas oo leh tiirar nooca (tusaale, geed evergreen), dhererka iyo ballaca, midabka caleemaha, midabka ubaxa iyo wakhtiga, urta, iyo wax kasta oo gaar ah oo ku saabsan dhirtaas. Hubi helitaanka gudaha deegaankaaga.
+---
 
-**Meel u dhig Dhirta:** Isticmaal dhirta muhiimka ah sida aasaaska abuurista isku dhafka dhirta kale. Fiiri jaantuskaaga oo dooro dhir dhowr ah oo leh xiiso xilliyeed badan sida tiirarka naqshadeyntaada oo ku dhis muuqaalyo agtooda. Isku dheeli tir dhirta hawada leh ee dul sabaysa iyo dhirta dhejis adag leh. Dhig qaab wareegsan agagaarka qaab qaanso leh oo isticmaal dhirta hoose ee hor yaal xadka si ay u mideeyaan geeska.
+## Qorshaha Naqshadaynta
 
-Abuur isku dhafka adigoo ku wareejinaya dhirta ku habboon ee ubaxa isku wakhtiga ah. Tani waxay xoojin doontaa soo jiidashada muuqaalka beertaada. Beerta yar, midabyo badan ayaa u ekaan kara mid jahawareer ah. Dooro midab qabow ama diiran oo dooro dhirta liiskaaga dhirta.
+### Khariidadda Aasaasiga ah
 
-Saddex mabda’a ayaa ka dambeeya isku dhafka dhirta ee saameynta sare leh: 1. Qaabka midabka, 2. Dhejiska, 3. Qaabka. Isticmaal mabda’aan si aad u abuurto isbarbardhig isku dhafka dhirtaada. Tusaale ahaan, isticmaal caleemaha si aad midab ugu keento dhirtaada sida cagaar, buluug, jaallo, casaan, iyo cawl kala duwan. Isticmaal dhejisyo sida dhejis adag, qaanso leh, siman, feer leh, iyo jajaban si aad xiiso ugu keento dhirtaada. Isticmaal qaab sida qaab wareegsan, qaanso iyo mid dul sabaysa si aad u abuurto isbarbardhig dhirtaada.
+- Samee khariidad aasaasi ah adigoo isticmaalaya warqad shabag leh si aad u muujiso goobaha hadda yaal ee dhismayaasha, jidadka, geedaha, iyo waxyaabaha kale ee muhiimka ah.
+- Waxaa caadi ah in naqshadeeyayaashu ay hal shabag u dhigaan 1 ama 2 feet cabirka dhabta ah.
+- Isticmaal xariiqe, T-square, saddex-xagal, iyo shaybaaro naqshad beereed haddii loo baahdo.
+- Kadib, ku dar iftiin, biyaha, jidad, barxad, ama wax kasta oo ka mid ah dhagaxaanta adag.
+- Calaamadee goobaha qoraxda iyo hooska.
 
-### Talooyinka Beeralayda Sare™
+### Naqshadaynta Dhirta
 
-- Wac Khadka Caawinta Hortikultura Guriga: 503-655-8631 (Degmada Clackamas), 503-821-1150 (Degmada Washington), 503-445-4608 (Degmada Multnomah).
-- Wixii waraaqo kale ah oo ku saabsan Jaamacadda 10-Daqiiqo™ iyo jadwalka fasalka, booqo www.cmastergardeners.org.
+- Cabbirka bilowga ee xuduud beereed wanaagsan waa 8 feet balaac ah iyo 24 feet dheer; dooro cabbir ku habboon goobtaada, waqtigaaga iyo miisaaniyaddaada.
+- Marka hore, ku cayaari qaabka sariiraha beertaada khariidadda, ka dibna dhig tuubooyin si aad u calaamadiso xuduudaha sariiraha mustaqbalka.
+- Isticmaal dhir kala duwan (geedo, geedo yaryar, dhir muddo dheer baxa, iyo abuur) si aad u abuurto shabag caleen iyo ubax xilliyeedyo kala duwan.
+- U ogolow meel dhirta ay ku koraan si buuxda.
 
-Adeegga Kordhinta Jaamacadda Oregon waxay mamnuucaysaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka iyagoo ku saleynaya jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), rabitaanka galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helay barnaamijka caawinta dadweynaha, aaminaada siyaasadeed, macluumaadka hidde-sidaha, heerka halyeeynimada, aargoosiga ama ciqaabta falka xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada).
+---
+
+## Dhirta
+
+### Qorshee Kobaca
+
+- Dhirta dhig si aysan isku ciriirin marka ay koraan.
+- Eeg calaamadaha dhirta balse ogow in dhirta Dooxada Willamette ay mararka qaarkood ka sii weynaan karaan intii lagu qoray.
+- Haddii aad rabto in beertaadu si dhakhso ah u buuxsanto, ku beero dhirta niyadda ah inaad mustaqbalka kala saari doonto ama qaar ka saari doonto.
+- Waxaad sidoo kale isticmaali kartaa dhir sanadle ah iyo kuwo muddo gaaban nool sida buuxin beerta cusub.
+
+### Ilaali Fogaanta Dhirta
+
+- Dhirta dhaadheer (30 inch ama ka dheer) dhig ugu yaraan 2 feet ka fog jidadka iyo xuduudaha barxadda. Haddii kale, meelahaas waxay noqon karaan kuwo ciriiri ah.
+- Dhirta qodxan sida rose-ka ka fogee meelaha la maro.
+
+### Ka Fikir Wax Ka Baxsan Ubaxa
+
+- In kasta oo ubaxu qurux badan yahay, dhir badan waxay leeyihiin caleemo, miro, iyo jirridda oo midab, qaab, iyo taabasho leh sanadka oo dhan.
+- Quruxda beertaada ku sii dheeree adigoo isticmaalaya caleenta dhicista jiilaalka iyo cajiibka xilliyada qaboobaha sida miro, jirrid, iyo madax abuur.
+
+### Cawska Wuxuu Leeyahay Meel
+
+- Cawska wuxuu bixiyaa meel indhuhu ka nastaan quruxda beertaada.
+- Waxa kale oo uu bixiyaa meel cagaha la qaawan karo ama ciyaarta lagu ciyaaro.
+- Door cabbir caws ah oo sahlan oo daboolaya baahidaada.
+
+### Xulashada Dhirta
+
+- Ku bilow inaad liis gareyso dhirta aad rabto inaad beerto; hubi shuruudaha si ay ugu koraan ciiddaada, qoyaanka, iyo iftiinka.
+- Samee jaantus dhirtaada adigoo u kala saaraya nooca (tusaale, geed cagaaran oo joogto ah), dherer iyo ballac, midabka caleenta, midabka iyo xilliga ubaxa, carafka, iyo wax kasta oo gaar ah oo dhirtaas ah.
+- Hubi helitaanka dhirta gudaha deegaankaaga.
+
+### Meelaynta Dhirta
+
+- Isticmaal dhir muhiim ah si aad u abuurto isku-daridyo dhir kale ah.
+- Dib u eeg jaantuskaaga oo dooro dhir leh qurux xilliyeedyo badan si ay udub dhexaad u noqdaan naqshaddaada, oo dhis muuqaal beereed ku xeeran.
+- Isku dheelli tir dhir laamo badan leh iyo kuwo caleemo waaweyn leh.
+- Dhirta wareega ah dhig geedka laamo fiiqan leh agtiisa, dhir hoose ama kuwa la jiifa dhig xuduudda hore si ay u mideeyaan xadka.
+- Dhis isku-daridyo adigoo ku wareegsan dhir kale oo ubaxa isku mar la leh. Tani waxay xoojinaysaa quruxda muuqaalka beertaada.
+- Beerta yar, midabyo aad u badan waxay keeni karaan jahawareer. Door midab qabow ama mid diiran iskuna day in dhirta aad dooratay ay la jaanqaado.
+
+#### Mabda’a Isku-darka Dhirta Saamayn Weyn Leh
+
+1. **Qaabka Midabka**
+2. **Taabashada**
+3. **Qaabka**
+
+- Isticmaal mabda’adan si aad u abuurto kala duwanaansho isku-darka dhirtaada.
+- Tusaale ahaan, isticmaal caleemo si aad midab ugu keento beertaada sida cagaar, buluug, jaalle, casaan, iyo cawl isku dhafan.
+- Isticmaal taabasho sida caleemo waaweyn, laamo fiiqan, siman, khafiif ah, iyo xariir ah si aad xiiso ugu abuurto beertaada.
+- Isticmaal qaab sida mid wareegsan, mid fiiqan, iyo mid la jiifa si aad u kala duwanaato beertaada.
+
+---
+
+#### Talooyinka Beeralayda Khibradda Leh · Wac Khadka Gargaarka Beerta: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Wixii warqado iyo jadwalka fasallada 10-Daqiiqo Jaamacad™ ah, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan: jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dareenka galmada, naafanimada, da’da, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidde-sideyaasha, heerka askarinimo, ciqaabta, ama aargoosiga fal hore ee xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay laguma dabaqo dhammaan barnaamijyada.)
+---

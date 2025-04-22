@@ -1,95 +1,132 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit und Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program
 
-## Salat und andere Blattgemüse anbauen  
+# Kopfsalat und andere Blattgemüse anbauen
 
-### Überblick  
-Salat und Blattgemüse sind wunderbare Pflanzen für Anfänger und erfahrene Gärtner gleichermaßen. Ihre kurze Wachstumsperiode ermöglicht schnelle Ergebnisse und mehrere Ernten pro Saison. Ihre geringen Pflegeanforderungen machen sie sowohl für Balkone von Wohnungen als auch für Hinterhofgärten geeignet. Ihr hoher dekorativer Wert macht sie zu einer hervorragenden essbaren Pflanze, die in Terrassenbehältern gepflanzt werden kann. Im Gegensatz zu den meisten Gemüsesorten können Blattgemüse etwas Schatten vertragen, und der eigene Anbau ist wirtschaftlich. Eine einzige Saatpackung enthält durchschnittlich 2.000 Samen und kann mehrere Monate lang eine Mischung aus lockerem Blattgemüse bieten, eines der teureren Gourmetprodukte auf dem Markt.  
+### Überblick
 
-### Häufige Blattgemüsesorten  
-- **Lockerer Blattsalat**:  
-  Eichenblatt, Red Sails, Salad Bowl  
-- **Locker-Kopfsalat**:  
-  Buttercrunch, Bibb, Boston  
-- **Römischer Salat**:  
-  Valmaine, Cos  
-- **Eisbergsalat**:  
-  Summertime, Roter Eisberg  
-- **Spinat**:  
-  Asiatischer – für die kühle Jahreszeit oder Breitblatt  
-  Neuseeländischer – für die warme Jahreszeit  
+Kopfsalat und Blattgemüse sind tolle Pflanzen für neue und erfahrene Gärtner. Ihre kurze Wachstumszeit bringt schnelle Ergebnisse und erlaubt mehrere Ernten pro Saison. Sie stellen wenige Ansprüche und können auf dem Balkon oder im Garten wachsen. Da sie auch schön aussehen, passen sie gut in Pflanzgefäße auf der Terrasse. Anders als viele andere Gemüse vertragen Blattsalate etwas Schatten, und sie selbst zu ziehen ist deutlich günstiger. Ein Tütchen Samen enthält etwa 2.000 Samen und reicht für viele Monate frischen Blattsalat – einer der teureren Feinkostartikel im Laden.
 
-### Andere Gemüse mit ähnlichem Pflegebedarf  
-- **Rucola**: verleiht einen angenehmen nussigen Geschmack  
-- **Senf**: sorgt für eine milde Würze  
-- **Bok Choy**: am besten für Wok-Gerichte geeignet  
-- **Mangold und Grünkohl**: robuste, kältebeständige Pflanzen; gekocht servieren  
+### Häufige Blattgemüse
 
-## Wie man anfängt  
-Salat und andere Blattgemüse können entweder aus Samen oder aus Setzlingen gezogen werden. Die Richtlinie für das Pflanzen von Samen ist, sie in einer Tiefe von 2 bis 4 Mal ihrer Breite zu säen. Je feiner der Samen, desto flacher sollte er gesät werden. Weitere Informationen finden Sie auf der Samenpackung.  
+- **Blattsalat:** Oak Leaf, Red Sails, Salad Bowl
+- **Lockerer Kopfsalat:** Buttercrunch, Bibb, Boston
+- **Römersalat:** Valmaine, Cos
+- **Eisbergsalat:** Summertime, Red Iceberg
+- **Spinat:**
+  - Asiatisch – für kühle Jahreszeiten oder Breitblatt
+  - Neuseeländisch – für warme Jahreszeiten
 
-### Direktsaat  
-Entfernen Sie alle Unkräuter; verbessern Sie den Boden bei Bedarf. Ebnen Sie das Beet, streuen Sie die Samen leicht aus und bedecken Sie sie mit einer ¼-Zoll-Schicht Erde. Sobald die Pflanzen wachsen, dünnen Sie sie aus, um Überfüllung zu vermeiden und sicherzustellen, dass die verbleibenden Pflanzen genug Platz haben, um Köpfe zu bilden. Junge Sämlinge können als „Baby-Blattgemüse“ verwendet werden.  
+### Weitere Blattgemüse mit ähnlichen Ansprüchen
 
-### Setzlinge  
-Wählen Sie kräftige Pflanzen aus; gießen Sie die Töpfe vor dem Einpflanzen gründlich, um sicherzustellen, dass sie gut durchfeuchtet sind. Lockern Sie die Wurzeln und pflanzen Sie sie in den Boden oder einen Behälter.  
+- **Rucola:** Nussiges Aroma
+- **Senf:** Milde Schärfe
+- **Pak Choi:** Ideal für Pfannengerichte
+- **Mangold und Grünkohl:** Robuste, kältefeste Pflanzen; gekocht servieren
 
-### Behälterbepflanzung  
-Behälter eignen sich ideal für den Anbau von Salat und anderem Blattgemüse. Beginnen Sie mit einer guten Behältermischung. Gute lehmige Gartenerde kann maximal ein Drittel der gesamten Mischung ersetzen.  
+---
 
-Für jede 2,5 Kubikfuß Mischung ohne zusätzlichen Dünger fügen Sie hinzu:  
-- 1 Tasse Dolomitkalk  
-- 1 Tasse Baumwollsaat- oder Luzernemehl oder 2/3 Tasse Blutmehl  
-- 2 Tassen Knochenmehl oder weiches Felsenphosphat  
-- 1 Tasse Seetangmehl  
+## So fangen Sie an
 
-Um die Ernte zu erleichtern, gruppieren Sie Pflanzen nach Pflegebedarf und Wachstumsgewohnheit. Beispielsweise hat Salat eine längere Wachstumsperiode als Brokkoli. Wenn Sie sie in verschiedenen Behältern anbauen, können Sie Brokkoli Wochen vor dem Salat ernten. Der Behälter kann dann für etwas anderes verwendet werden.  
+Kopfsalat und andere Blattgemüse kann man aus Samen oder als Jungpflanzen anbauen. Die Faustregel: Samen doppelt bis vierfach so tief aussäen, wie sie dick sind. Je feiner der Samen, desto flacher die Aussaat. Hinweise finden Sie auch auf der Samentüte.
 
-## Wann pflanzen  
-Die minimale Bodentemperatur sollte 40 bis 45 Grad betragen. Der Boden in Hochbeeten und Behältern erreicht diese Temperatur früher als Boden direkt im Garten. Verwenden Sie ein Bodenthermometer, das in Baumschulen und Gartencentern erhältlich ist, um die Bodentemperatur zu überprüfen.  
+### Direktsaat
 
-Blattgemüse wächst am besten, wenn die Lufttemperatur zwischen 60 und 70 Grad liegt. Kälteres Wetter schadet den Pflanzen nicht, sondern verlangsamt lediglich ihr Wachstum.  
+1. Entfernen Sie Unkraut und verbessern Sie den Boden nach Bedarf.
+2. Beete eben machen, Samen leicht ausstreuen und mit etwa 0,5 cm Erde bedecken.
+3. Wenn die Pflanzen wachsen, auf Abstand ausdünnen, damit die übrigen genug Platz für Köpfe haben.
+4. Junge Sämlinge können als „Baby Leaf“ geerntet werden.
 
-Pflanzen Sie Blattgemüse von Frühling bis Frühsommer für die Sommerernte. Für die Herbsternte pflanzen Sie Blattgemüse im Spätsommer.  
+### Jungpflanzen
 
-Heißes Wetter bringt Blattgemüse dazu, zu schießen oder Samen zu bilden. Wenn dies geschieht, werden die Blätter grob und bitter. Langsam schießende oder lang haltbare Sorten eignen sich besser für den Sommer.  
+- Wählen Sie kräftige Pflanzen und wässern Sie diese im Topf gründlich vor dem Einpflanzen.
+- Wurzeln lockern und in den Boden oder in einen Topf setzen.
 
-## Boden  
-Blattgemüse ist an verschiedene Bodentypen anpassbar; schwere Lehmböden sollten jedoch mit Kompost oder Sand verbessert werden, um eine gute Drainage zu gewährleisten. Salat, der unter nassen Bedingungen wächst, ist anfällig für weißen Schimmel (Sclerotinia sclerotiorum).  
+### Anbau im Topf
 
-Blattgemüse benötigt etwa 1 Zoll Wasser pro Woche; gießen Sie Gemüse häufig, um den Boden feucht zu halten. Wenn Sie sich für eine Überkopfbewässerung entscheiden, achten Sie darauf, dass die Blätter vor dem Abend trocknen.  
+Gefäße eignen sich sehr gut für Salat und andere Blattgemüse. Nutzen Sie eine gute Erde für Kübelpflanzen. Gartenboden kann bis zu einem Drittel beigemischt werden.
 
-## Dünger  
-Blattgemüse hat flache Wurzeln und benötigt nur 7 bis 8 Zoll fruchtbaren Boden. Tragen Sie einen Stickstoffdünger in einer Menge von 0,2 Pfund pro 100 Quadratfuß auf.  
+Für je 70 Liter Erde ohne Dünger fügen Sie hinzu:
 
-## Schnecken  
-Feuchter, schattiger Boden unter Salatpflanzen und süße, zarte Blätter schaffen die perfekte Umgebung für Schnecken. Schnecken können auf mehrere umweltfreundliche Arten bekämpft werden. Sie mit einer Schere zu halbieren ist einfach. Fallen aus kleinen Dosen, wie Thunfischdosen, die leicht über dem Boden eingelassen und mit Bier gefüllt werden, ziehen Schnecken an.  
+- 1 Tasse Dolomitkalk
+- 1 Tasse Baumwollsamen- oder Luzernemehl (oder 2/3 Tasse Blutmehl)
+- 2 Tassen Knochenmehl oder weichen Fosphat
+- 1 Tasse Algenmehl
 
-Wenn Sie kommerzielles Schneckenköder verwenden, stellen Sie sicher, dass dieser für Haustiere und andere Tiere, die Ihren Garten besuchen könnten, sicher ist.  
+Sortieren Sie Pflanzen nach ähnlichem Bedarf und Wuchs, um leichter zu ernten. Zum Beispiel wächst Salat länger als Brokkoli. Wer beides in verschiedenen Gefäßen anbaut, kann Brokkoli früher ernten und das Gefäß für Neues nutzen, während der Salat weiter wächst.
 
-## Ernte und Lagerung  
-Ernten Sie Blattgemüse morgens, bevor die Blätter zu welken beginnen. Ernten Sie „Baby-Blattgemüse“, indem Sie die gesamte Pflanze auf Bodenhöhe abschneiden und genug Platz zwischen den verbleibenden Pflanzen lassen, damit sie Köpfe bilden können.  
+---
 
-Um von Köpfen zu ernten, schneiden Sie entweder die gesamte Pflanze auf Bodenhöhe ab oder zupfen Sie nur die äußeren Blätter. Wenn die inneren Blätter erhalten bleiben, kann die Pflanze weiterhin wachsen.  
+## Wann pflanzen?
 
-Direkt nach der Ernte können Sie Salat auffrischen, indem Sie ihn 15 Minuten lang in ein Becken mit kaltem Wasser legen. Gut schleudern oder abtropfen lassen, fest verschließen und bis zu drei Tage im Kühlschrank lagern.  
+- Die Bodentemperatur sollte mindestens **4 bis 7 °C** betragen. In Hochbeeten und Töpfen ist es schneller so warm als im Gartenboden. Ein Bodenthermometer hilft beim Kontrollieren (im Gartencenter erhältlich).
+- Blattgemüse wächst am besten bei **15 bis 21 °C** Lufttemperatur. Kältere Temperaturen schaden nicht, verlangsamen aber das Wachstum.
 
-Um Mangold oder Grünkohl zu kochen, entfernen Sie die mittlere Rippe, die zäh oder bitter sein kann. Hacken Sie die Blätter und braten Sie sie in einer kleinen Menge Olivenöl an. Knoblauch, Salz und Pfeffer sind gute Zusätze. Die mittleren Rippen eignen sich gut für Suppen oder Eintöpfe.  
+### Pflanzzeiten
 
-## OSU Extension Service Ressourcen  
-[https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- Anbau von eigenem Salat, Spinat und Mangold (EC 1268)  
-- Planung und Vorbereitung Ihres Gemüsegartenstandorts (EC 1228)  
-- Hochbeetgartenbau (FS 270)  
-- Bau eines eigenen Hochbeet-Schutzes (EC 1627)  
-- Gartenarbeit mit Kompost, Mulch und Reihenabdeckungen (EC 1247)  
-- Handbuch für nachhaltiges Gärtnern (EM 8742)  
+- **Sommerernte:** Blattgemüse ab dem zeitigen Frühjahr bis Frühsommer pflanzen.
+- **Herbsternte:** Blattgemüse im Spätsommer aussäen.
 
-## Master Gardener™ Ratschläge  
-- Rufen Sie die Home Horticulture Helpline an:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- Für weitere 10-Minuten-Universität™ Handouts und den Kursplan besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+Bei Hitze blühen Blattgemüse, und die Blätter werden grob und bitter. Sorten mit „später Blüte“ oder „langer Standzeit“ sind für den Sommer besser geeignet.
 
-Oregon State University Extension Service untersagt Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Farbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkommen aus einem Sozialhilfeprogramm, politischen Ansichten, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---
+
+## Boden
+
+Blattgemüse wächst auf vielen Böden, aber schwere Lehmböden sollten mit Kompost oder Sand aufgelockert werden, damit das Wasser gut abläuft. Salat in zu nasser Erde bekommt leicht weißen Schimmel (*Sclerotinia sclerotiorum*).
+
+- Blattgemüse braucht etwa **2,5 cm Wasser pro Woche**. Regelmäßig gießen, damit die Erde feucht bleibt.
+- Wenn Sie von oben gießen, sollen die Blätter vor dem Abend abtrocknen.
+
+---
+
+## Dünger
+
+Blattgemüse hat flache Wurzeln und braucht nur **18 bis 20 cm nährstoffreichen Boden**. Düngen Sie mit Stickstoff: **90 g pro 10 m²**.
+
+---
+
+## Schnecken
+
+Feuchter, schattiger Boden unter Salatpflanzen und die zarten Blätter sind ideal für Schnecken. Es gibt mehrere umweltfreundliche Möglichkeiten, sie loszuwerden:
+
+- Mit einer Schere durchschneiden – das geht einfach.
+- Fallen aus kleinen Dosen (z.B. Thunfischdosen), so eingegraben, dass der Rand etwas über der Erde liegt, und mit Bier gefüllt, locken Schnecken an.
+- Wenn Sie Schneckenkorn verwenden, achten Sie darauf, dass es für Haustiere und andere Tiere, die in Ihren Garten kommen, ungefährlich ist.
+
+---
+
+## Ernte und Lagerung
+
+- **Ernte:**
+  - Blattgemüse am besten morgens ernten, bevor die Blätter welken.
+  - Für „Baby Leaf“ schneiden Sie die ganze Pflanze am Boden ab und lassen zwischen den übrigen Pflanzen genug Platz, damit sie zu Köpfen heranwachsen können.
+  - Bei Kopfsalat kann man die ganze Pflanze am Boden abschneiden oder nur die äußeren Blätter abpflücken. Lässt man die inneren Blätter stehen, wächst die Pflanze weiter.
+
+- **Lagerung:**
+  - Nach der Ernte Salat für 15 Minuten in kühles Wasser legen, um ihn aufzufrischen.
+  - Gut schleudern oder abtropfen lassen, luftdicht verschließen und bis zu drei Tage im Kühlschrank aufbewahren.
+
+- **Mangold oder Grünkohl zubereiten:**
+  - Die dicken Mittelrippen herausschneiden – sie sind oft hart oder bitter.
+  - Die Blätter hacken und in wenig Olivenöl anbraten. Knoblauch, Salz und Pfeffer passen gut dazu.
+  - Die Mittelrippen eignen sich für Suppe oder Eintopf.
+
+---
+
+## OSU Extension Service – Ressourcen
+
+- [Eigenen Salat, Spinat und Mangold anbauen (EC 1268)](https://catalog.extension.oregonstate.edu/)
+- [Planung und Vorbereitung des Gemüsegartens (EC 1228)](https://catalog.extension.oregonstate.edu/)
+- [Gärtnern im Hochbeet (FS 270)](https://catalog.extension.oregonstate.edu/)
+- [So bauen Sie Ihr eigenes Hochbeet mit Abdeckung (EC 1627)](https://catalog.extension.oregonstate.edu/)
+- [Gärtnern mit Kompost, Mulch und Reihenabdeckung (EC 1247)](https://catalog.extension.oregonstate.edu/)
+- [Handbuch Nachhaltiges Gärtnern (EM 8742)](https://catalog.extension.oregonstate.edu/)
+
+---
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Weitere Handouts und Kurspläne der 10-Minuten-Universität™ finden Sie unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien wegen Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivität. (Nicht alle genannten Gründe gelten für alle Programme.)
+---

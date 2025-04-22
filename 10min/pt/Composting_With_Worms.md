@@ -1,72 +1,115 @@
-# Universidade de 10 Minutos™
+#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da OSU Extension
 
-A Associação de Jardineiros Mestres do Condado de Clackamas, em colaboração e apoio ao Programa de Jardineiros Mestres™ da Extensão da Universidade Estadual de Oregon (OSU).
+# Compostagem com Minhocas
 
-## Compostagem com Minhocas
-
-Uma caixa de minhocas é uma maneira fácil de transformar restos de comida em fertilizante e aditivos para o seu jardim. Minhocas vermelhas são recicladoras vorazes que transformam cascas de maçã, talos de abobrinha e outros resíduos de cozinha em apenas alguns meses. Dê a elas um lar com cama e comida, e elas farão o trabalho.
-
-### Tipo e Quantidade de Minhocas
-
-Existem milhares de espécies de minhocas no mundo, todas alimentando-se de algum tipo de matéria orgânica. As minhocas vermelhas, **Eisenia foetida**, são bem adaptadas para uma caixa de minhocas, pois preferem restos de frutas e vegetais, são grandes consumidoras e se reproduzem bem em cativeiro. Elas são menores do que as minhocas comuns. Você pode comprar essas minhocas por peso em catálogos de jardinagem ou fornecedores especializados.
-
-Minhocas podem comer metade do seu peso em comida em 24 horas. Estime o peso dos resíduos alimentares da sua casa por dia para determinar a quantidade de minhocas necessária. São necessárias duas libras de minhocas para cada libra de resíduos de cozinha adicionados por dia. Uma libra de minhocas equivale a 1.000 a 2.000 minhocas!
-
-### Noções Básicas sobre Caixas de Minhocas
-
-- As caixas de minhocas podem ser feitas em casa ou compradas. Você pode começar com uma caixa de plástico, fazendo furos para ventilação nas laterais e na tampa, ou comprar uma caixa adequada.
-- O tamanho depende da quantidade de resíduos que você gera por semana. Uma caixa medindo 30 cm por 60 cm por 90 cm pode lidar com 6 libras de resíduos de cozinha por semana (média para uma família de quatro a seis pessoas).
-- Coloque cama na caixa. Matéria orgânica solta, como raspas de madeira (não de cedro), papel jornal picado e fibra de coco, funciona bem como material de cama. Adicione um pouco de areia ou terra comum — minhocas gostam de um pouco de textura. Encha cerca de 80% da caixa com material de cama.
-- Adicione água à cama até que fique bem úmida. Verifique o nível de umidade apertando um pouco na palma da mão. Se algumas gotas de água saírem, está suficientemente úmido. Para sobreviver, as minhocas precisam de 75 a 90% de umidade tanto em seus corpos quanto na cama.
-- A circulação de ar é essencial dentro e ao redor da caixa de minhocas. As minhocas precisam de um suprimento constante de oxigênio, então deve haver furos de ventilação na caixa — na tampa ou nas laterais. Se usar uma caixa de plástico, certifique-se de adicionar furos de drenagem e ventilação.
-- Espalhe as minhocas na cama preparada. Deixe a tampa aberta até que elas se movam para baixo. Minhocas evitam luz, portanto, a caixa deve ser escura por dentro e ter uma boa tampa.
-- Mantenha-as em um lugar onde a temperatura fique entre 10°C e 29°C.
-- Escolha um local conveniente para manter a caixa.
-- Nunca use uma caixa que tenha sido utilizada para armazenar produtos químicos tóxicos.
-
-### Alimentação das Minhocas
-
-Embora minhocas possam decompor quase qualquer resíduo orgânico, é melhor tratá-las como vegetarianas.
-
-- **Alimente com:** Restos de vegetais, borra de café e filtros, saquinhos de chá, pão velho (sem manteiga ou maionese), cascas ou polpas de frutas, cascas de ovos esmagadas, pelos de animais, papel picado.
-- **Não alimente com:** Carne, peixe, laticínios, alimentos gordurosos ou oleosos, cebola, cascas de frutas cítricas, resíduos de jardim (folhas, caules e aparas de grama) e fezes de animais de estimação.
-
-Para começar, adicione muito pouca comida. Isso força as minhocas a se aprofundarem na cama e se estabelecerem. Ao adicionar resíduos alimentares à caixa, afaste parte da cama e enterre a comida. Enterre cargas sucessivas em diferentes locais. Antes de adicionar novos alimentos, verifique se os itens antigos foram consumidos. À medida que alimentos não consumidos se acumulam, podem gerar um cheiro desagradável. Se isso acontecer, pare de alimentar e mexa os resíduos com uma espátula ou garfo de jardim. Adicione cama fresca. Observe cuidadosamente e adicione novos alimentos em alguns dias. Durante as temperaturas mais frias do inverno, a atividade das minhocas pode diminuir um pouco. Monitore quanto elas estão comendo para não dar comida em excesso.
-
-Embora as minhocas se reproduzam rapidamente, elas regulam sua população de acordo com o espaço disponível e a quantidade de comida fornecida. Não há preocupação com superpopulação.
-
-### Colheita e Uso dos Excrementos de Minhocas
-
-Após alguns meses de alimentação, grande parte da cama da caixa se transformará em excrementos de minhocas escuros e quebradiços, encontrados no fundo da caixa. É hora de remover esse composto acabado e adicionar novo material de cama. O líquido coletado também pode ser usado como fertilizante líquido. Os excrementos de minhocas podem ser adicionados ao solo do jardim ou à mistura para vasos. Espalhe uma camada de cerca de 1,25 cm de excrementos de minhocas ao redor das suas plantas favoritas e regue. Para mistura de mudas, use 3 partes de composto envelhecido para 1 parte de excrementos. Os excrementos de minhocas geralmente têm pH neutro e contêm fósforo, nitrogênio, outros nutrientes e minerais.
-
-As minhocas vermelhas precisam de condições úmidas durante todo o ano, pois não escavam profundamente em busca de umidade como fazem as minhocas comuns. Se desejar soltá-las no jardim, forneça uma camada espessa de cobertura vegetal para manter a umidade e protegê-las do calor e do frio. Se isso não for possível, não solte-as.
-
-### Problemas Potenciais e Soluções
-
-- **Odor:** Você pode controlar odores evitando sobrecarregar a caixa com resíduos alimentares, deixando de fora itens listados em "Não alimente" na seção "Alimentação das Minhocas" e fornecendo cama fresca adequada.
-- **Pragas:** Às vezes, a pequena mosca do vinagre (frequentemente confundida com a mosca da fruta) aparece, mas não causa danos. No entanto, um grande número dessas moscas pode indicar que você está alimentando as minhocas em excesso. Para eliminá-las, reduza o ritmo de alimentação para o que as minhocas consumiriam em um dia e cubra os resíduos recém-adicionados com um saco de estopa ou jornal úmido.
-
-Formigas podem entrar na caixa de minhocas externa, especialmente se a cama estiver muito seca ou ácida. Adicione água para aumentar o nível de umidade e uma quantidade generosa de cal de jardim onde as formigas estão se reunindo. Isso deve desencorajá-las. Se persistirem, remova-as fisicamente e passe vaselina nos pontos de entrada.
-
-Roedores podem ser um problema ao ar livre. A maneira mais fácil de mantê-los fora da caixa de minhocas é mantê-la fechada e não adicionar resíduos de carne. Se houver sinais de animais perto da caixa, eleve-a entre 30 e 45 cm do chão ou fixe uma malha de arame no fundo interno da caixa. Mantenha a tampa da caixa trancada ou bem fixada se gambás ou guaxinins forem um problema.
-
-### Recursos da Extensão da OSU e Outros Livros
-
-- **Sustainable Gardening – The Oregon-Washington Master Gardener Handbook. EM 8742:**  
-  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-  
-- **Worms Eat My Garbage**, Mary Appelhof, Segunda Edição  
-- **Welcome to the Can-O-Worms**, N. Nattrass  
-
-### Conselhos de Jardineiros Mestres™
-
-- Ligue para a linha de ajuda de horticultura:  
-  - 503-655-8631 (Condado de Clackamas),  
-  - 503-821-1150 (Condado de Washington),  
-  - 503-445-4608 (Condado de Multnomah).
-
-- Para materiais da Universidade de 10 Minutos™ e programação de aulas, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).
+Uma caixa de minhocas é uma maneira fácil de transformar restos de comida em fertilizante e adubos para o seu jardim. As minhocas californianas são recicladoras vorazes que transformam cascas de maçã, talos de abobrinha e outros restos de cozinha em apenas alguns meses. Dê a elas uma casa com cama e comida, e elas vão trabalhar para você.
 
 ---
 
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar ou parental, renda proveniente de um programa de assistência pública, crenças políticas, informação genética, status de veterano, represálias ou retaliação por atividades anteriores de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+### Tipo e Quantidade de Minhocas
+
+Existem milhares de espécies de minhocas no mundo, todas se alimentando de algum tipo de matéria orgânica. As minhocas californianas (*Eisenia foetida*) são ideais para caixas de minhocas porque preferem restos de frutas e verduras, comem bastante e se reproduzem bem em cativeiro. Elas são menores que as minhocas comuns. Você pode comprá-las por peso em catálogos de jardinagem ou fornecedores de insetos benéficos.
+
+As minhocas podem comer metade do seu peso em comida a cada 24 horas. Estime o peso do lixo orgânico gerado na sua casa por dia para calcular quantas minhocas você precisa. São necessárias duas libras de minhocas para cada libra de restos de cozinha adicionada por dia. Uma libra de minhocas equivale a 1.000 a 2.000 minhocas!
+
+---
+
+### Noções Básicas da Caixa de Minhocas
+
+- **Caixas de minhocas** podem ser feitas em casa ou compradas prontas. Você pode começar com uma caixa plástica, fazendo furos para ventilação nas laterais e na tampa, ou comprar uma caixa do tamanho certo.
+- **Tamanho** depende da quantidade de lixo gerada por semana. Uma caixa medindo 30 x 60 x 90 cm comporta cerca de 3 kg de restos de cozinha por semana (média para uma família de quatro a seis pessoas).
+- **Cama**: Materiais soltos e orgânicos, como serragem (exceto de cedro), jornal picado e fibra de coco funcionam bem como cama. Adicione um pouco de areia ou terra comum — as minhocas gostam de um pouco de grão. Encha cerca de 80% da caixa com material de cama.
+- **Umidade**: Adicione água à cama até que fique bem molhada. Verifique a umidade apertando um pouco do material na mão. Se saírem algumas gotas de água, está úmida o suficiente. As minhocas precisam de 75–90% de umidade tanto no corpo quanto na cama.
+- **Circulação de ar**: As minhocas precisam de oxigênio constante, então deve haver furos de ventilação na tampa ou nas laterais do recipiente. Se usar uma caixa plástica, faça furos tanto para drenagem quanto para ventilação.
+- **Adicionando as minhocas**: Espalhe as minhocas sobre a cama preparada. Deixe a tampa aberta até que elas desçam. As minhocas evitam a luz, então o recipiente deve ser escuro por dentro e ter uma boa tampa.
+- **Temperatura**: Mantenha as minhocas onde a temperatura fique entre 10° e 30°C.
+- **Localização**: Escolha um local prático para cuidar da caixa.
+- **Segurança**: Nunca use um recipiente que já tenha armazenado produtos químicos tóxicos.
+
+---
+
+### Alimento para Minhocas
+
+Embora as minhocas possam decompor quase qualquer resíduo orgânico, o melhor é tratá-las como vegetarianas.
+
+#### Pode alimentar com:
+
+- Restos de verduras e legumes
+- Borra de café e filtros de papel
+- Sachês de chá
+- Pão velho (sem manteiga ou maionese)
+- Cascas ou polpas de frutas
+- Cascas de ovo esmagadas
+- Pelos de animais
+- Papel picado
+
+#### Não alimente com:
+
+- Carnes, peixes, laticínios
+- Comidas gordurosas ou oleosas
+- Cebola, cascas de frutas cítricas
+- Restos do jardim (folhas, talos, grama cortada)
+- Fezes de animais de estimação
+
+No início, adicione pouca comida. Isso faz as minhocas irem para o fundo da cama e se instalarem. Ao adicionar restos de comida, afaste parte da cama e enterre o alimento. Enterre cada vez em um lugar diferente. Antes de colocar mais comida, veja se os restos antigos já foram consumidos.
+
+Se os alimentos não consumidos se acumularem, eles podem ficar com mau cheiro. Se isso acontecer, pare de alimentar e mexa os restos com uma pá ou garfo de jardim. Adicione cama nova. Observe bem e só adicione comida de novo depois de alguns dias. No inverno, com o frio, as minhocas podem ficar mais lentas. Acompanhe quanto estão comendo para não exagerar na comida.
+
+Embora as minhocas se reproduzam rápido, elas ajustam a quantidade de minhocas ao espaço disponível e à comida fornecida. Então, não precisa se preocupar com superpopulação.
+
+---
+
+### Colheita e Uso do Húmus de Minhoca
+
+Após alguns meses, boa parte da cama da caixa vai virar húmus escuro e esfarelento, que fica no fundo da caixa. É hora de retirar esse composto pronto e colocar novo material de cama.
+
+O líquido coletado pode ser usado como fertilizante líquido. O húmus de minhoca pode ser misturado ao solo do jardim ou ao substrato dos vasos. Espalhe uma camada de cerca de 1 cm de húmus ao redor das plantas preferidas e regue. Para mudas, use 3 partes de composto maturado para 1 parte de húmus.
+
+O húmus de minhoca geralmente tem pH neutro e contém fósforo, nitrogênio e outros nutrientes e minerais.
+
+As minhocas californianas precisam de umidade o ano todo porque não escavam fundo em busca de água como as minhocas comuns. Se quiser soltá-las no jardim, cubra o local com uma camada grossa de cobertura morta para manter a umidade e protegê-las do calor e do frio. Se não for possível, não solte as minhocas.
+
+---
+
+### Problemas Possíveis e Soluções
+
+#### Mau Cheiro
+
+Você pode controlar odores:
+
+- Não sobrecarregando a caixa com restos de comida
+- Mantendo fora da caixa os itens listados em “Não alimente com” na seção “Alimento para Minhocas”
+- Fornecendo cama fresca suficiente
+
+#### Pragas
+
+- **Mosquinhas do vinagre**: Às vezes, pequenas mosquinhas do vinagre (parecidas com moscas de fruta) aparecem, mas não fazem mal. Porém, muitas mosquinhas podem indicar excesso de comida. Para eliminá-las:
+  - Reduza a quantidade de comida para o que as minhocas consomem em um dia.
+  - Cubra os restos frescos com um saco de estopa úmido ou jornal.
+- **Formigas**: Formigas entram na caixa do lado de fora se a cama estiver muito seca ou ácida.
+  - Adicione água para aumentar a umidade.
+  - Coloque bastante calcário agrícola onde as formigas se concentram.
+  - Se continuarem, remova-as e passe vaselina nas entradas.
+- **Roedores**: Roedores podem ser um problema ao ar livre.
+  - Mantenha a tampa fechada e não coloque restos de carne.
+  - Se houver sinais de animais perto da caixa, eleve-a de 30–45 cm do chão ou coloque uma tela de arame no fundo da caixa.
+  - Mantenha a tampa bem fechada se gambás ou guaxinins forem um problema.
+
+---
+
+### Recursos da OSU Extension Service e Outros Livros
+
+- **Jardinagem Sustentável – Manual do Mestre Jardineiro Oregon-Washington**  
+  EM 8742  
+  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Minhocas Comem Meu Lixo**, Mary Appelhof, Segunda Edição
+- **Bem-vindo ao Can-O-Worms**, N. Nattrass
+
+---
+
+#### Dicas do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos da Universidade de 10 Minutos™ e horários de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, condição de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

@@ -1,59 +1,115 @@
-# 10-Minute University™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Himbeeren Anbauen  
+# Himbeeren anbauen
 
-### Warum Himbeeren Anbauen?  
-Sie sind köstlich, zart und am besten frisch gepflückt zu genießen. Außerdem sind sie langlebig: Rote und gelbe Himbeeren können bis zu 15 Jahre produktiv bleiben; schwarze Himbeeren bleiben 4 bis 8 Jahre produktiv.  
+### Warum Himbeeren anbauen?
+Himbeeren sind lecker, zart und schmecken am besten frisch gepflückt. Sie sind auch langlebig:
+- Rote und gelbe Himbeeren können bis zu 15 Jahre lang ertragreich bleiben.
+- Schwarze Himbeeren bleiben 4 bis 8 Jahre lang produktiv.
 
-### Sorten und Auswahl  
-Die erste Entscheidung ist zwischen Sorten, die einmal im Frühsommer (Floricane-fruchtend) und solchen, die zweimal im Sommer und Herbst (Primocane-fruchtend) Früchte tragen. Danach wählen Sie zwischen vielen Sorten mit unterschiedlichen Fruchtfarben und Geschmacksrichtungen. Sie könnten Geschmackstests durchführen, bevor Sie eine Auswahl treffen, oder die OSU-Publikation über kultivierte Sorten (Kultivare), die in unserer Region gut gedeihen, konsultieren. Beispiele:  
-- Rote Floricane-fruchtende Kultivare (Willamette, Meeker & Cascade Delight)  
-- Rote Primocane-fruchtende Kultivare (Vintage, Heritage & Caroline)  
-- Gelbe Primocane-fruchtende Sorten (Fallgold & Anne)  
-- Schwarze Floricane-fruchtende Sorten (Munger & Jewel)  
-- Violette Floricane-fruchtende Sorten (Royalty & Brandywine)  
+### Sorten und Auswahl
+Zuerst wählst du zwischen Sorten, die:
+1. **Einmal, im Frühsommer** (fruchttragende Floricane).
+2. **Zweimal, im Sommer und Herbst** (fruchttragende Primocane) tragen.
 
-### Standortauswahl  
-Himbeeren vertragen Halbschatten, liefern jedoch in voller Sonne eine bessere Ernte und Fruchtqualität. Vermeiden Sie Standorte, an denen in den letzten 3 Jahren Kartoffeln, Tomaten, Paprika, Auberginen, andere Beerensträucher oder Erdbeeren angebaut wurden. Diese Pflanzen sind anfällig für viele der gleichen Insekten und Krankheiten wie Himbeeren. Pflanzen Sie Himbeeren in gut durchlässigen, fruchtbaren Lehmboden mit moderater Wasserhaltefähigkeit. Vermeiden Sie schwere Tonböden.  
+Als Nächstes suchst du Kultursorten mit verschiedenen Fruchtfarben und Geschmacksrichtungen aus. Du kannst Geschmackstests machen, bevor du entscheidest, oder die OSU-Publikation über bewährte Sorten in unserer Region zu Rate ziehen. Beispiele sind:
+- **Rote Floricane-Sorten**: Willamette, Meeker, Cascade Delight.
+- **Rote Primocane-Sorten**: Vintage, Heritage, Caroline.
+- **Gelbe Primocane-Sorten**: Fallgold, Anne.
+- **Schwarze Floricane-Sorten**: Munger, Jewel.
+- **Violette Floricane-Sorten**: Royalty, Brandywine.
 
-### Boden vorbereiten  
-Es ist am besten, Himbeeren auf einem erhöhten Hügel von 45 bis 60 cm Höhe und 60 cm Breite anzubauen, um eine hervorragende Entwässerung zu gewährleisten. Alternativ können Sie ein Hochbeet mit guter Entwässerung bauen. Der pH-Wert des Bodens sollte zwischen 5,6 und 6,5 liegen.  
-Im Jahr vor der Pflanzung sollten alle mehrjährigen Unkräuter entfernt werden. Tragen Sie im Sommer oder Herbst organisches Material auf – z. B. Mist, Kompost, Blätter oder Sägemehl – und mischen Sie es in den Boden ein. Stellen Sie sicher, dass das Material bis zur Pflanzzeit zersetzt ist. Pflanzen Sie Himbeeren im Jahr nach der Bodenvorbereitung.  
+### Standortwahl
+Himbeeren vertragen Halbschatten, bringen aber in voller Sonne größere Erträge und bessere Fruchtqualität. Vermeide Standorte, an denen in den letzten 3 Jahren Kartoffeln, Tomaten, Paprika, Auberginen, andere Beerensträucher oder Erdbeeren gewachsen sind, da diese Pflanzen viele Schädlinge und Krankheiten mit Himbeeren teilen.
 
-### Pflanzen  
-Himbeeren werden normalerweise als wurzelnackte Pflanzen verkauft. Kaufen Sie zertifiziert krankheitsfreie Pflanzen, um Krankheitsprobleme zu minimieren. Pflanzen Sie früh im Frühjahr, sobald der Boden bearbeitbar ist. Graben Sie ein Loch in den vorbereiteten Boden, das breit genug ist, um die Wurzeln auszubreiten. Platzieren Sie den höchsten Punkt, an dem die Wurzeln an den Stängeln befestigt sind, etwa 2 bis 5 cm unterhalb der Bodenoberfläche. Mit Erde bedecken und gut wässern, um Lufttaschen zu entfernen.  
+Pflanze Himbeeren in gut durchlässigen, fruchtbaren Lehmboden mit mittlerer Wasserspeicherfähigkeit. Schwere Tonböden sollten vermieden werden.
 
-### Düngen  
-Im Pflanzjahr düngen Sie jede Pflanze mit insgesamt 56 g Stickstoff (N) pro 3 m Reihe. Verwenden Sie einen ausgewogenen Dünger wie 16-16-16 oder eine organische Quelle (z. B. Baumwollsamenmehl). Sie können die benötigte Menge berechnen, indem Sie 56 g durch den Prozentsatz an Stickstoff teilen. Zum Beispiel benötigen Sie 340 g 16-16-16-Dünger, um 56 g N zu erhalten (56 g / Prozentsatz von N im Dünger = benötigte Menge Dünger).  
-Bei Neupflanzungen sollten Sie den Dünger nicht auf einmal ausbringen. Teilen Sie die Gesamtmenge in Drittel auf. Das erste Drittel zwei Wochen nach der Pflanzung, das zweite Drittel einen Monat später und das letzte Drittel einen weiteren Monat später ausbringen.  
+### Bodenvorbereitung
+- Baue Himbeeren auf einem erhöhten Hügel (ca. 45–60 cm hoch und 60 cm breit) oder in einem Hochbeet an, damit das Wasser gut abläuft.
+- Halte den pH-Wert des Bodens zwischen **5,6 und 6,5**.
+- Entferne im Jahr vor dem Pflanzen alle mehrjährigen Unkräuter.
+- Bringe im Sommer oder Herbst organisches Material (z. B. Mist, Kompost, Laub oder Sägemehl) ein und arbeite es in den Boden ein. Es sollte bis zum Pflanzzeitpunkt zersetzt sein.
+- Pflanze Himbeeren im Jahr nach der Bodenvorbereitung.
 
-Für etablierte Pflanzen düngen Sie jährlich, um ein gutes Wachstum zu erhalten. Jedes Jahr sollten Sie insgesamt 56 bis 84 g Stickstoff pro 3 m Reihe ausbringen. Das entspricht 368 bis 539 g 16-16-16-Dünger oder 1,1 kg 5-5-3-Dünger. Die Hälfte davon zwischen Ende März und Anfang April und den Rest Anfang Juni ausbringen. Primocane-fruchtende Himbeeren zusätzlich mit 14 bis 28 g N Ende Juli düngen.  
+### Pflanzen
+Himbeeren werden meist als wurzelnackte Pflanzen verkauft. Kaufe zertifizierte, krankheitsfreie Pflanzen, um Krankheiten zu vermeiden.
 
-### Bewässerung  
-Etablierte Pflanzen benötigen von Mitte Juni bis Spätsommer wöchentlich 2,5 bis 4 cm Wasser. Achten Sie darauf, nur den Wurzelbereich zu bewässern und vermeiden Sie das Benetzen des Fruchtbereichs.  
+- **Pflanzzeit**: Frühes Frühjahr, sobald der Boden bearbeitbar ist.
+- **Pflanzmethode**:
+  1. Grabe ein Loch im vorbereiteten Boden, das groß genug ist, um die Wurzeln auszubreiten.
+  2. Setze den höchsten Punkt, an dem die Wurzeln an den Trieben sitzen, etwa 2 bis 5 cm unter die Erdoberfläche.
+  3. Mit Erde bedecken und gut wässern, damit keine Luftlöcher bleiben.
 
-### Unkrautbekämpfung  
-Lockern Sie den Boden, um Unkräuter und Stängel, die außerhalb der Reihen wachsen, zu entfernen. Lockern Sie den Boden nicht tiefer als 2,5 bis 5 cm, um Wurzelschäden zu vermeiden. Mulch kann verwendet werden, um Unkraut zu unterdrücken und die Bodenfeuchtigkeit zu erhalten.  
+### Düngen
 
-### Rankhilfen & Schnitt  
-Die Schnittmethoden für Himbeeren variieren stark je nach Himbeerart. Kurz gesagt, sommertragende Himbeeren benötigen eine Rankhilfe, um die Stängel aufrecht zu halten. Schneiden Sie die abgestorbenen Floricanes nach der Fruchtbildung im Sommer oder Herbst ab. Im Winter dünnen Sie gebrochene oder schwache Primocanes aus und befestigen die Stängel am Rankgerüst (diese können auf etwa 1,8 m gestutzt werden).  
+#### Neue Pflanzungen
+Im Pflanzjahr jede Pflanze mit insgesamt **56 Gramm Stickstoff (N)** pro 3 Meter Reihe düngen. Verwende einen ausgewogenen Dünger wie **16-16-16** oder eine organische Quelle (z. B. Baumwollsamenmehl).
 
-Um zwei Ernten bei Primocane-fruchtenden Himbeeren zu erzielen, entfernen Sie die abgestorbenen Floricanes nach der Fruchtbildung im Sommer oder Herbst. Entfernen Sie dann die abgestorbene Spitze der Primocanes (den Teil, der im letzten Herbst Früchte getragen hat). Um nur eine Ernte bei Primocane-fruchtenden Himbeeren zu erzielen, schneiden Sie im Spätwinter alle Stängel bis zum Boden zurück. Die Herbsternte wird an den Spitzen der Primocanes getragen, die während des Sommers wachsen. In diesem Szenario benötigen Herbsttragende Himbeeren nur eine temporäre Rankhilfe.  
+So berechnest du die benötigte Menge:
+- Teile 56 g durch den Prozentsatz an Stickstoff im Dünger.
+  - Beispiel: Du brauchst **340 g 16-16-16 Dünger**, um 56 g N zu bekommen (56 g ÷ Prozent N = benötigte Menge Dünger).
 
-### Schädlinge und Krankheiten  
-Phytophthora-Wurzelfäule kann ein ernstes Problem sein. Schwere Tonböden und feuchte Wurzelbereiche sind ideale Bedingungen für diesen Pilz, der die Floricanes abtötet. Weitere Schädlinge sind Wurzelrüsselkäfer, Spinnmilben, Blattläuse, Echter Mehltau, Anthraknose und Verticillium-Welke.  
+Verteile den Dünger nicht auf einmal, sondern teile ihn in drei Portionen:
+1. Die erste Portion 2 Wochen nach dem Pflanzen aufbringen.
+2. Die zweite Portion 1 Monat später.
+3. Die letzte Portion noch einen weiteren Monat später.
 
-### Zusätzliche Informationen  
-OSU-Publikationen online verfügbar unter [https://extension.oregonstate.edu/](https://extension.oregonstate.edu/):  
-- **Growing Raspberries in Your Home Garden EC 1306**  
-- **Raspberry Cultivars for the Pacific Northwest PNW 655**  
-- **Sustainable Gardening Handbook EM 8742**  
-- **Growing Berries on the Oregon Coast: Raspberries and Blackberries EM 9180** (Inhalt auch relevant für das Willamette Valley)  
-- Lernen Sie, wie man Himbeeren schneidet, mit einem Online-Modul unter [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en)  
+#### Bestehende Pflanzen
+Dünge jährlich, damit die Pflanzen gut wachsen:
+- **Menge**: 56 bis 85 g Stickstoff pro 3 Meter Reihe.
+  - Beispiel: 370 bis 540 g 16-16-16 Dünger oder 1,1 kg 5-5-3 Dünger.
+- **Zeitpunkt**:
+  - Die Hälfte zwischen Ende März und Anfang April ausbringen.
+  - Den Rest Anfang Juni.
+- **Primocane-Himbeeren**: Zusätzlich 14 bis 28 g Stickstoff Ende Juli düngen.
 
-### Master Gardener™ Beratung  
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County) oder 503-445-4608 (Multnomah County).  
-- Für 10-Minute University™ Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org) oder [www.metromastergardeners.org](http://www.metromastergardeners.org).  
+### Bewässerung
+Etablierte Pflanzen brauchen **2,5 bis 4 cm Wasser pro Woche** von Mitte Juni bis Spätsommer. Gieße nur den Wurzelbereich und vermeide es, die Früchte zu benetzen.
 
-Die Oregon State University Extension Service untersagt Diskriminierung in all ihren Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/elterlicher Status, Einkommen aus einem Sozialhilfeprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Vergeltungsmaßnahmen für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme).
+### Unkrautmanagement
+- Hacke, um Unkraut und Triebe außerhalb der Reihen zu entfernen.
+- Hacke nicht tiefer als **2,5 bis 5 cm**, damit die Wurzeln nicht verletzt werden.
+- Verwende Mulch, um Unkraut zu unterdrücken und die Bodenfeuchtigkeit zu bewahren.
+
+### Rankhilfen & Schnitt
+Die Schnittmethoden unterscheiden sich je nach Himbeersorte:
+
+- **Sommertragende Himbeeren**:
+  - Halte die Triebe mit einer Rankhilfe aufrecht.
+  - Entferne abgestorbene Floricane-Triebe nach der Ernte im Sommer oder Herbst.
+  - Im Winter schwache oder beschädigte Primocane-Triebe ausdünnen und die Ruten an das Spalier binden (die Ruten können auf ca. 1,80 m gekürzt werden).
+
+- **Primocane-Himbeeren**:
+  - Für zwei Ernten:
+    - Abgestorbene Floricane-Triebe nach der Ernte im Sommer oder Herbst entfernen.
+    - Die abgestorbene Spitze der Primocane (der Teil, der im letzten Herbst gefruchtet hat) abschneiden.
+  - Für eine Ernte:
+    - Im späten Winter alle Triebe bodennah abschneiden.
+    - Die Herbsternte wächst an den Spitzen der Primocane, die im Sommer wachsen.
+    - Herbsttragende Himbeeren brauchen nur eine temporäre Stütze.
+
+### Schädlinge und Krankheiten
+Häufige Probleme sind:
+- **Phytophthora-Wurzelfäule**: Kommt in schweren Tonböden und nassen Wurzelbereichen vor und tötet Floricane-Triebe ab.
+- Weitere Schädlinge: Wurzelrüssler, Spinnmilben, Blattläuse.
+- Krankheiten: Echter Mehltau, Anthraknose, Verticillium-Welke.
+
+### Weitere Informationen
+OSU-Publikationen online unter [https://extension.oregonstate.edu/](https://extension.oregonstate.edu/):
+- **Growing Raspberries in Your Home Garden** (EC 1306)
+- **Raspberry Cultivars for the Pacific Northwest** (PNW 655)
+- **Sustainable Gardening Handbook** (EM 8742)
+- **Growing Berries on the Oregon Coast: Raspberries and Blackberries** (EM 9180) – Auch für das Willamette Valley relevant.
+- Lerne online, wie man Himbeeren schneidet: [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
+
+#### Master Gardener™-Beratung
+- **Home Horticulture Helpline anrufen:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Weitere 10-Minuten-Universität™-Handouts und Kurspläne findest du unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien auf der Grundlage von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien nach früheren Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

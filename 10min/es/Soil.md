@@ -1,47 +1,68 @@
-# Universidad de 10 Minutos™  
-La Asociación de Maestros Jardineros del Condado de Clackamas, en colaboración y apoyo del  
-Programa Maestro Jardinero™ de Extensión de OSU  
+#### Universidad en 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas en colaboración con y en apoyo del Programa de Maestros Jardineros de Extensión de OSU™
 
-## Haz tu jardín más resiliente al clima: Suelo  
-La Tierra está experimentando una tendencia de calentamiento que resulta en el derretimiento de glaciares, aumento del nivel del mar, mayor acidez en los océanos y sequías e inundaciones más frecuentes y severas. El Noroeste del Pacífico ha observado sequías prolongadas, mayor incidencia y gravedad de incendios forestales, olas de calor, brotes de insectos y enfermedades en los árboles. La disminución del manto de nieve resulta en flujos máximos más tempranos en ríos y arroyos, lo que reduce los suministros de agua. Además de estas tendencias, el cambio climático trae eventos climáticos erráticos y extremos (olas de calor, lluvias intensas) con mayor frecuencia.  
-[Evaluaciones Climáticas de Oregón](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)  
+## Haz Tu Jardín Más Resiliente al Clima: Suelo
 
-¿Cómo podemos jardinear en estos tiempos? Este folleto ofrece ideas para construir resiliencia en el suelo del jardín.  
+La Tierra está experimentando una tendencia de calentamiento que resulta en el derretimiento de glaciares, aumento del nivel del mar, mayor acidez en los océanos y sequías e inundaciones más frecuentes y severas. El Noroeste del Pacífico ha visto sequías prolongadas, mayor incidencia y severidad de incendios forestales, olas de calor, brotes de insectos y enfermedades de los árboles. La reducción de la capa de nieve provoca que los flujos máximos en ríos y arroyos ocurran antes, lo que reduce el suministro de agua. Además de estas tendencias, el cambio climático trae eventos climáticos extremos e impredecibles (olas de calor, lluvias intensas) con mayor frecuencia.
 
-## Lo que sabemos  
-- Por volumen, el suelo saludable es 50 % espacio, lo que deja lugar para el aire y el agua. Esto permite que las raíces respiren y que el agua sea absorbida. Examina un grupo de suelo saludable. Deberíamos ver trozos unidos de manera suelta con espacios entre ellos. Cuando el suelo está compactado, el espacio se vuelve escaso, causando problemas para la penetración del agua y el crecimiento de las raíces.  
-- La estructura del suelo depende de hongos y bacterias que actúan como pegamento biológico, ayudados por cargas eléctricas en la materia orgánica, para unir partículas de arena, limo y arcilla. Esta estructura es frágil y puede dañarse por perturbaciones como cavar o arar.  
-- El suelo arcilloso de textura fina es más fácil de dañar, especialmente cuando está húmedo. Reparar el suelo dañado toma tiempo. Consulta los pasos a continuación en la sección "Cómo construir resiliencia en el suelo".  
+[Evaluaciones Climáticas de Oregón](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
 
-## Mitigación del clima potencial  
-- Los suelos capturan carbono para reducir los gases de efecto invernadero en la atmósfera. La atmósfera de la Tierra contiene 750 mil millones de toneladas de carbono, mientras que el suelo de la Tierra contiene el doble de esa cantidad.  
-- Reducir la perturbación del suelo. Arar libera carbono almacenado en la atmósfera.  
-- Reducir la pérdida de humedad del suelo para disminuir el estrés por sequía en las plantas.  
-- Aumentar la tasa de absorción de agua y la capacidad de retención de agua del suelo para adaptarse a lluvias prolongadas.  
+¿Cómo podemos cultivar nuestros jardines en estos tiempos? Este folleto ofrece ideas para fortalecer la resiliencia del suelo en el jardín.
 
-## Cómo capturar carbono  
-- Las plantas, los microbios del suelo, los productos de madera y los ambientes acuáticos capturan y almacenan carbono.  
-- Al cultivar un jardín, plantar árboles y no perturbar el suelo, los jardineros ayudan a eliminar dióxido de carbono de la atmósfera y a almacenarlo en las plantas y el suelo.  
-- Cuando las plantas mueren y se descomponen, el carbono se libera nuevamente a la atmósfera. Cultivar plantas de larga vida, especialmente aquellas con gran biomasa, como los árboles, genera un mayor beneficio.  
+---
 
-## Cómo obtener suelo saludable  
-- Reconsidera el enfoque tradicional de agregar materia orgánica para mejorar el suelo instantáneamente. En un área pequeña, tales adiciones pueden crear beneficios a corto plazo, pero el acto de enmendar destruye la textura del suelo. Con el tiempo, la materia orgánica se descompone y reduce el beneficio.  
-- Para el paisaje, planta después de romper el suelo nativo y quitar rocas grandes. Cubre las áreas recién plantadas con mantillo orgánico, como astillas de madera de arborista, para mejorar el suelo con el tiempo.  
+## Lo Que Sabemos
 
-## Cómo construir resiliencia en el suelo  
-- **Minimiza la perturbación del suelo**: Cava solo lo necesario para plantar o desmalezar para reducir el daño a la estructura del suelo. Trabaja el suelo solo cuando no esté demasiado húmedo. Siempre que sea posible, abandona el método tradicional de trabajar el suelo cavando o arando; en su lugar, haz canales verticales y profundos con una horquilla y deja que las lombrices mezclen el suelo.  
-- **Mantén el suelo cubierto**: Las plantas dan sombra a la superficie del suelo para moderar las fluctuaciones de temperatura, reducir la pérdida de humedad y suprimir la germinación de malezas. Las raíces de las plantas alimentan a los microbios del suelo con exudados de raíces. Donde no crecen plantas, cubre el suelo con mantillo.  
-- **Cultiva diversidad**: Las plantas descargan exudados de raíces; cada especie tiene su propia fórmula y atrae y alimenta a un grupo único de microbios del suelo. A cambio, los microbios buscan y entregan agua y minerales a las plantas. La diversidad de la comunidad de plantas sobre el suelo conduce a una vida del suelo diversa.  
-- **Mantén raíces vivas todo el año**: Las raíces vivas alimentan la vida del suelo. Estudios recientes revelan que los exudados de raíces desempeñan roles significativos en la defensa subterránea de las plantas contra patógenos. Cultivar todo el año proporciona sustento a la vida del suelo todo el año.  
-- **Deja los restos del jardín para alimentar a los microbios del suelo**: Deja las hojas y, donde la estética lo permita, corta y deja caer las ramas para que se composten en el lecho del jardín.  
-- **Di “no” a los químicos diseñados para matar** (es decir, herbicidas, fungicidas, insecticidas, etc.) para proteger la vida del suelo.  
-- **Sé intencional al agregar materia orgánica (MO)**: Haz pruebas al suelo antes de enmendar. Apunta a un 5 % de MO en el suelo del jardín y enmienda solo si la prueba muestra una necesidad. Antes de enmendar, evalúa los pros y contras. Enmendar requiere cavar y mezclar, lo que destruye la estructura del suelo. Mientras que los vegetales anuales y las plantas ornamentales se benefician de la enmienda, las plantas perennes, arbustos y árboles cultivados en suelo arcilloso pueden no necesitarla. Para enmendar nuevos lechos para plantas anuales, aplica de 2 a 4 pulgadas de compost (solo una vez); el jardín de vegetales puede obtener MO de cultivos de cobertura; los lechos maduros pueden recibir una capa delgada (½ pulgada) de compost.  
-- **Sé selectivo con los fertilizantes**: Los fertilizantes sintéticos en alta concentración aceleran la descomposición de la MO. Usa fertilizante orgánico o formulación sintética de liberación lenta solo si la prueba de suelo muestra deficiencia y el mal rendimiento de las plantas justifica acción.  
+- En cuanto a volumen, un suelo sano es 50% espacio, lo que deja lugar para el aire y el agua. Esto permite que las raíces respiren y que el agua sea absorbida. Observa un terrón de tierra saludable. Deberías ver pedazos unidos de forma suelta, con huecos entre ellos. Cuando el suelo está compactado, el espacio se reduce, lo que dificulta el paso del agua y el crecimiento de las raíces.
+- La estructura del suelo depende de hongos y bacterias que actúan como pegamento biológico, ayudados por cargas eléctricas en la materia orgánica, para mantener unidas las partículas de arena, limo y arcilla. Esta estructura es frágil y puede dañarse por disturbios como cavar o arar.
+- El suelo arcilloso de textura fina es más fácil de dañar, especialmente cuando está húmedo. Requiere tiempo reparar el suelo dañado. Consulta los pasos a continuación en "Cómo Fortalecer la Resiliencia del Suelo".
 
-## Recursos  
-- [Materia Orgánica en el Suelo como Indicador de Salud del Suelo, Universidad Estatal de Oregón EM9251](https://extension.oregonstate.edu/sites/default/files/documents/em9251.pdf)  
-- [Los Secretos Ocultos de un Paisaje Vivo, Universidad Estatal de Oregón EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)  
-- [Captura de Carbono en el Suelo, Sociedad Ecológica de América](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)  
-- Eisenhauer, N., Lanoue, A., Strecker, T. et al. Root biomass and exudates link plant diversity with soil bacterial and fungal biomass. Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)  
+---
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalias o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+## Potencial de Mitigación Climática
+
+- Los suelos capturan carbono para reducir los gases de efecto invernadero en la atmósfera. La atmósfera terrestre contiene 750 mil millones de toneladas de carbono, mientras que el suelo contiene el doble.
+- Reduce la alteración del suelo. Arar libera carbono almacenado hacia la atmósfera.
+- Reduce la pérdida de humedad del suelo para disminuir el estrés por sequía en las plantas.
+- Aumenta la tasa de absorción de agua y la capacidad de retención de agua del suelo para adaptarte a lluvias prolongadas.
+
+---
+
+## Cómo Secuestrar Carbono
+
+- Las plantas, los microbios del suelo, los productos leñosos y los ambientes acuáticos capturan y almacenan carbono.
+- Al cultivar un jardín, plantar árboles y evitar perturbar el suelo, los jardineros ayudan a eliminar dióxido de carbono de la atmósfera y lo retienen en las plantas y el suelo.
+- Cuando las plantas mueren y se descomponen, el carbono regresa a la atmósfera. Cultivar plantas de vida larga, especialmente aquellas con gran biomasa, como los árboles, ofrece mayor beneficio.
+
+---
+
+## Cómo Obtener Suelo Saludable
+
+- Repensa el método tradicional de añadir materia orgánica para mejorar el suelo de inmediato. En áreas pequeñas, esas adiciones pueden dar beneficios a corto plazo, pero el acto de enmendar destruye la textura del suelo. Con el tiempo, la materia orgánica se descompone y el beneficio se reduce.
+- Para el paisaje, planta después de desmenuzar el suelo nativo y quitar piedras grandes. Cubre las áreas recién plantadas con mantillo orgánico, como astillas de madera de arborista, para mejorar el suelo con el tiempo.
+
+---
+
+## Cómo Fortalecer la Resiliencia del Suelo
+
+- **Minimiza la alteración del suelo:** Cava solo lo necesario para plantar o quitar malezas para reducir el daño a la estructura del suelo. Trabaja el suelo solo cuando no esté demasiado húmedo. Siempre que sea posible, abandona el método tradicional de cavar o arar; en su lugar, haz canales verticales y profundos con una horquilla y deja que las lombrices hagan la mezcla.
+- **Mantén el suelo cubierto:** Las plantas dan sombra al suelo para moderar los cambios de temperatura, reducir la pérdida de humedad y suprimir la germinación de malezas. Las raíces alimentan a los microbios del suelo con exudados. Donde no crecen plantas, cubre el suelo con mantillo.
+- **Fomenta la diversidad:** Las plantas liberan exudados de raíces—cada especie tiene su propia fórmula y atrae y alimenta a un grupo único de microbios del suelo. A cambio, los microbios buscan y llevan agua y minerales a las plantas. Una comunidad de plantas diversa sobre el suelo lleva a una vida del suelo diversa.
+- **Mantén raíces vivas todo el año:** Las raíces vivas alimentan la vida del suelo. Estudios recientes muestran que los exudados de raíces juegan un papel importante en la defensa subterránea de las plantas contra patógenos. Cultivar durante todo el año mantiene la vida del suelo activa todo el año.
+- **Deja restos de jardín para alimentar a los microbios del suelo:** Deja las hojas y, donde sea posible, corta y deja ramas para que se descompongan en la cama del jardín.
+- **Di "no" a los químicos:** Evita herbicidas, fungicidas, insecticidas y otros químicos diseñados para matar, ya que dañan la vida del suelo.
+- **Sé intencional al agregar materia orgánica (MO):** Haz una prueba de suelo antes de enmendar. Apunta a 5% de MO en el suelo del jardín y añade solo si la prueba lo indica. Antes de enmendar, evalúa los pros y contras. Enmendar requiere cavar y mezclar, lo cual destruye la estructura del suelo. Mientras que las hortalizas anuales y plantas ornamentales se benefician con la enmienda, las plantas perennes, arbustos y árboles en suelo arcilloso pueden no necesitarla. Para nuevas camas de plantas anuales, aplica de 5 a 10 cm (2–4 pulgadas) de compost (solo una vez); la huerta puede obtener MO de cultivos de cobertura; las camas maduras pueden recibir una capa fina (1–1.5 cm o ½ pulgada) de compost.
+- **Selecciona fertilizantes con cuidado:** El fertilizante sintético en altas concentraciones acelera la descomposición de la MO. Usa fertilizante orgánico o formulaciones sintéticas de liberación lenta solo si una prueba de suelo muestra deficiencia y el mal rendimiento de las plantas lo justifica.
+
+---
+
+## Recursos
+
+- [Materia Orgánica del Suelo como Indicador de Salud del Suelo, Universidad Estatal de Oregón EM9251](https://extension.oregonstate.edu/sites/default/files/documents/em9251.pdf)
+- [Los Secretos Sucios de un Paisaje Vivo, Universidad Estatal de Oregón EM9204](https://extension.oregonstate.edu/sites/default/files/2023-10/em9304-update-100223.pdf)
+- [Secuestro de Carbono en el Suelo, Sociedad Ecológica de América](https://www.esa.org/esa/wp-content/uploads/2012/12/carbonsequestrationinsoils.pdf)
+- Eisenhauer, N., Lanoue, A., Strecker, T. et al. *La biomasa de raíces y los exudados vinculan la diversidad de plantas con la biomasa bacteriana y fúngica del suelo.* Sci Rep 7, 44641 (2017). [https://rdcu.be/dpDv4](https://rdcu.be/dpDv4)
+
+---
+
+#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paterno, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o venganza por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---

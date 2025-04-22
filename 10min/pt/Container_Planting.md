@@ -1,64 +1,80 @@
-# Universidade de 10 Minutos™
+#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU
 
-A Associação de Jardineiros Mestre do Condado de Clackamas, em colaboração e apoio ao Programa OSU Extension Master Gardener™  
-
-## Plantação em Vasos
+# Plantio em Vasos
 
 ### Visão Geral
 
-Vasos podem oferecer um toque de cor eficaz, estrutura ao longo do ano e fragrância em áreas específicas do jardim. Eles são ideais para plantas sensíveis à geada ou para aquelas que exigem condições especiais (ex.: jardim de pedras, jardim aquático). Vasos podem elevar plantas a alturas onde elas podem ser apreciadas de perto. Para jardineiros com espaço limitado, vasos oferecem espaço adicional para plantar. E para jardineiros com muitas plantas ou para aqueles que não conseguem decidir onde colocar suas novas aquisições, vasos fornecem boas casas temporárias.
+Os vasos podem trazer um belo destaque de cor, estrutura durante o ano todo e fragrância em áreas específicas do jardim. Eles são ideais para plantas sensíveis à geada ou para aquelas que precisam de condições especiais (ex: jardim de pedras, jardim aquático). Os vasos também elevam as plantas para que possam ser apreciadas de perto. Para jardineiros com pouco espaço, os vasos oferecem mais espaço para plantar. E, para quem tem muitas plantas ou não consegue decidir onde colocar suas novas aquisições, os vasos são um bom lar temporário.
 
 ### Tipos de Vasos
 
-Você pode escolher entre diversos tipos de vasos, dos quais os mais comuns são:
+Você pode escolher entre muitos tipos de vasos, sendo estes os mais comuns:
 
-- **Vasos de barro**: Baratos, mas secam rapidamente.  
-- **Terracota**: Mais caros que o barro, mas geralmente duram mais e secam mais lentamente.  
-- **Vasos de cerâmica**: Uma ampla gama de cores e formatos, mas podem ser facilmente danificados.  
-- **Vasos de plástico**: Leves e baratos, mas ficam quebradiços com a exposição à luz. Você pode prolongar a vida de um vaso de plástico colocando-o dentro de um vaso decorativo.  
-- **Vasos de madeira**: Eventualmente apodrecem; as madeiras mais resistentes são cedro e sequoia.  
-- **Vasos de lata**: Enferrujam com o tempo.  
-- **Barril de uísque**: Um bom tamanho para arbustos e pequenas árvores, mas difícil de mover.  
+- **Vasos de barro**: Baratos, mas secam rápido.
+- **Terracota**: Mais caros que o barro, mas geralmente duram mais e secam mais devagar.
+- **Vasos de cerâmica**: Variedade grande de cores e formas, mas podem quebrar facilmente.
+- **Vasos plásticos**: Leves e baratos, mas ficam frágeis com o tempo ao sol. Você pode aumentar a durabilidade colocando o vaso de plástico dentro de um vaso decorativo.
+- **Vasos de madeira**: Vão apodrecer com o tempo; os mais resistentes são de cedro e sequoia.
+- **Vasos de lata**: Enferrujam com o tempo.
+- **Barril de uísque**: Tamanho bom para arbustos e pequenas árvores, mas é difícil de mover.
 
-Outra opção é criar seus próprios vasos únicos usando carrinhos de mão antigos, panelas velhas, ou até sapatos e botas antigas. Você está limitado apenas pela sua imaginação. Independentemente do que escolher como vaso, sempre certifique-se de que ele tenha furos de drenagem.
+Outra opção é fazer seus próprios vasos únicos usando carrinhos de mão antigos, panelas velhas e até sapatos ou botas usados. Sua imaginação é o limite. Seja qual for a escolha, sempre verifique se o vaso tem furos para drenagem.
 
-Os tamanhos dos vasos são indicados de acordo com o diâmetro superior. Como guia, um vaso de 30 cm funciona bem para anuais e perenes floríferas. Qualquer coisa menor secará muito rapidamente. Vasos maiores são uma boa escolha para arbustos, pequenas árvores e combinações de plantas. Um meio barril pode conter um jardim em pequena escala de plantas ornamentais e/ou comestíveis; você pode destacar várias flores coloridas; ervas para cozinhar ou fazer chá; vegetais para lanches ou refeições; ou uma combinação deles.
+Os tamanhos dos vasos são definidos pelo diâmetro da borda superior. Como referência:
 
-### Meio de Plantio
+- Um vaso de 30 cm funciona bem para flores anuais e perenes. Vasos menores secam muito rápido.
+- Vasos maiores são ideais para arbustos, pequenas árvores e plantios combinados.
+- Um meio barril pode conter um pequeno jardim de plantas ornamentais e/ou comestíveis. Você pode misturar flores coloridas, ervas para cozinhar ou fazer chá, vegetais para lanches ou refeições, ou uma combinação disso tudo.
 
-Os vasos devem ser preenchidos com mistura para vasos ou mistura para plantadores, pois essas são projetadas para ter textura grossa, garantindo boa drenagem. Em outras palavras, uma boa mistura para vasos será leve e fofa.  
+### Substrato para Plantio
 
-Nunca use terra de jardim em vasos. Sua textura fina impede a drenagem adequada dentro dos limites rasos de um vaso. Como resultado, as raízes não crescem bem devido à insuficiência de ar e suas plantas fracassam. A terra de jardim também pode trazer doenças, insetos e sementes de ervas daninhas. Você pode misturar um fertilizante de liberação lenta na mistura para vasos antes de plantar. Embora algumas pessoas sugiram adicionar cristais de retenção de água, faltam evidências científicas que apoiem essa ideia.
+Vasos devem ser preenchidos com substrato ou terra específica para vasos, pois são feitos com textura grossa para garantir boa drenagem. Ou seja, um bom substrato para vasos é leve e fofo.
 
-E não siga a prática equivocada de adicionar uma camada de material grosso no fundo do vaso para drenagem. Devido à dinâmica do movimento da água dentro de um vaso, esse material grosso sob a mistura para vasos irá, na verdade, inibir a drenagem.
+**Nunca use terra do jardim em vasos.** Ela é fina demais e impede a drenagem em um vaso raso. Com isso, as raízes não crescem bem por falta de ar e suas plantas podem morrer. Além disso, a terra do jardim pode trazer doenças, insetos e sementes de ervas daninhas.
+
+Você pode misturar fertilizante de liberação lenta ao substrato antes de plantar. Embora algumas pessoas sugiram cristais que retêm água, não há comprovação científica de que funcionem.
+
+Não siga a prática de colocar uma camada de material grosso no fundo do vaso para drenagem. Por causa da movimentação da água no vaso, esse material grosso na base pode na verdade dificultar a drenagem.
 
 ### Fertilizante
 
-Os elementos fertilizantes em um vaso são eliminados cada vez que você o rega. Por isso, é importante adicionar fertilizante quando plantar em um vaso. Misture um fertilizante de liberação lenta de 3 a 4 meses na mistura para vasos antes de começar. Então, para manter as plantas em condições ótimas durante a estação de crescimento, aplique um fertilizante solúvel em água a cada 2 a 3 semanas, conforme necessário.
+Os nutrientes do vaso são eliminados cada vez que você rega. Por isso, é importante adicionar fertilizante ao plantar:
+
+- Misture um fertilizante de liberação lenta (3 a 4 meses) ao substrato antes de começar.
+- Para manter as plantas em boas condições durante o crescimento, aplique fertilizante solúvel em água a cada 2 ou 3 semanas, conforme necessário.
 
 ### Cuidados com as Plantas
 
-- Em geral, quanto maior o vaso, melhor suas plantas irão se desenvolver.  
-- Vasos limitam o espaço para raízes. Assim, para ajudar as plantas a prosperarem, você precisa regar e fertilizar com mais frequência do que se as mesmas plantas estivessem plantadas no solo. Pode ser necessário regar seus vasos uma ou até duas vezes por dia durante o clima quente.  
-- Coloque o vaso em um local adequado às necessidades das plantas. Proteja os vasos da luz solar direta para evitar que a bola de raízes seja “cozida” pelo calor excessivo.  
-- Durante a estação de crescimento, as plantas em vasos exigem cuidados frequentes. Pode ser necessário podar (aparar) e remover flores murchas para promover o crescimento compacto e incentivar novas flores.  
-- À medida que as plantas no vaso crescem, esteja disposto a remover aquelas que não se adaptam e adicionar substituições para manter o vaso bonito.  
-- Durante o inverno, vasos podem quebrar durante uma onda de frio porque a água na mistura se expande ao congelar. Proteja as raízes das plantas do frio do inverno envolvendo o vaso com materiais de isolamento. Alternativamente, armazene os vasos em um local protegido de geadas, como um galpão ou garagem.
+- No geral, quanto maior o vaso, melhores as chances de sucesso das plantas.
+- Vasos limitam o espaço para as raízes. Para ajudar as plantas a prosperar, você precisa regar e adubar com mais frequência do que no solo. Em dias quentes, pode ser necessário regar uma ou até duas vezes ao dia.
+- Coloque o vaso num local adequado às necessidades das plantas. Proteja os vasos do sol direto para evitar que as raízes cozinhem com o calor excessivo.
+- Durante o crescimento, as plantas em vasos precisam de cuidados frequentes. Pode (corte) e retire flores murchas sempre que necessário para incentivar o crescimento e novas flores.
+- Conforme as plantas crescem, esteja disposto a remover as que não se adaptam e substituí-las para manter seu vaso bonito.
+- No inverno, os vasos podem quebrar por causa do frio, pois a água do substrato congela e expande. Proteja as raízes envolvendo o vaso com material isolante. Ou, guarde os vasos em local sem risco de geada, como um galpão ou garagem.
 
-### Seleção de Plantas
+### Escolha das Plantas
 
-- Quase tudo que pode ser plantado no solo pode ser cultivado em vasos. Isso inclui pequenas árvores, arbustos, roseiras, trepadeiras, anuais e perenes, desde que o tamanho do vaso seja adequado.  
-- Ao montar um vaso, considere plantas de alturas variadas, com diferentes texturas de folhagem e cores harmoniosas ou contrastantes nas flores e/ou folhas.  
-- A estética é uma questão de preferência pessoal. Escolha o que agrada a você.  
-- Em geral, plante anuais em massa para alcançar um efeito visual forte, dê espaço para vegetais se espalharem conforme crescem e certifique-se de que árvores e arbustos tenham espaço adequado para o crescimento das raízes.  
-- Planeje replantar plantas de longo prazo, como árvores e arbustos, a cada 2 ou 3 anos, podando as raízes conforme necessário. Isso pode ser feito de duas maneiras: cortar vários centímetros da bola de raízes e retorná-la ao vaso original, preenchendo o espaço com mistura para vasos nova; ou mover a planta para um vaso alguns centímetros maior que o original, preenchendo o espaço com mistura para vasos nova.
+- Quase tudo o que pode ser plantado no solo pode ser cultivado em vasos: pequenas árvores, arbustos, rosas, trepadeiras, anuais e perenes, desde que o vaso seja do tamanho certo.
+- Ao montar um vaso, pense em plantas de alturas diferentes, folhagens variadas e cores que combinem ou contrastem nas flores e/ou folhas.
+- A estética é uma questão de gosto. Escolha o que te agrada.
+- De modo geral:
+  - Plante anuais em grupos para um efeito visual marcante.
+  - Dê espaço para os vegetais se espalharem conforme crescem.
+  - Certifique-se de que árvores e arbustos tenham espaço suficiente para as raízes.
+- Planeje replantar plantas de longo prazo como árvores e arbustos a cada 2 ou 3 anos e pode as raízes se necessário. Isso pode ser feito de duas formas:
+  1. Corte alguns centímetros do torrão de raízes e devolva ao vaso original, preenchendo com substrato novo.
+  2. Passe a planta para um vaso alguns centímetros maior, preenchendo com substrato novo.
 
 ### Recursos
 
-- Ligue para o Home Horticulture Helpline: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington) ou 503-445-4608 (Condado de Multnomah).  
-- Plantação em Vasos [Assista ao vídeo](https://www.youtube.com/watch?v=wHnYV-kgJ0c)  
-- Para mais folhetos e vídeos da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+- Ligue para o Plantão de Horticultura Doméstica:
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+- [Vídeo sobre Plantio em Vasos](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
+- Para mais folhetos e vídeos do 10-Minute University™, acesse [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
 ---
 
-O Serviço de Extensão da Universidade Estadual de Oregon (OSU) proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parenteral, renda derivada de um programa de assistência pública, crenças políticas, informação genética, status de veterano, represália ou retaliação por atividades anteriores relacionadas aos direitos civis. (Nem todas as bases de proibição se aplicam a todos os programas).
+#### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por participação prévia em atividades de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
+---

@@ -1,62 +1,80 @@
-### Đại học 10 Phút™  
-Hiệp hội Làm Vườn Thành Thạo Hạt Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Thành Thạo™ của OSU Extension  
+#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia của OSU Extension
+
+# Quản lý Chuột Túi (Gophers)
+
+### Giới thiệu
+
+Chuột túi là loài gặm nhấm đào hang có thể gây ra rất nhiều thiệt hại cho cây cối, dây cáp ngầm, đê điều và ống tưới nhựa. Khác với chuột chũi, chuột túi gần như chỉ ăn thực vật dưới đất và thỉnh thoảng cả trên mặt đất.
+
+Có sáu loài chuột túi ở vùng Tây Bắc Thái Bình Dương. Hầu hết dài khoảng 12,5 đến 16,5 cm với đuôi dài khoảng 5 đến 7,5 cm. Lông thường có màu nâu hoặc xám, và răng cửa lớn dễ nhìn thấy. Tên gọi “chuột túi” bắt nguồn từ túi má bên ngoài, lót lông ở hai bên miệng, dùng để mang thức ăn về nơi dự trữ.
+
+Chuột túi tạo các ụ đất khi đào hang và đẩy đất lên mặt đất. Thường thì, các ụ này có hình lưỡi liềm hoặc móng ngựa khi nhìn từ trên xuống. Lỗ đào thường nằm lệch về một phía của ụ đất và thường bị bịt lại. Ngược lại, ụ chuột chũi thường cao hơn và có hình núi lửa, không có dấu hiệu bịt lỗ rõ ràng.
+
+Chuột túi sống trong hệ thống hang đào có thể bao phủ diện tích từ 18 đến 185 mét vuông. Hang đào rộng khoảng 6,5 đến 9 cm. Đường hầm ăn uống thường sâu từ 15 đến 30 cm dưới mặt đất, còn tổ và kho dự trữ thức ăn có thể sâu tới 1,8 mét. Chuột túi bịt kín các cửa hang bằng đất. Những đường hầm ngắn, dốc nối hệ thống hang chính với mặt đất; chuột túi tạo ra các đường này khi đẩy đất lên để xây đường hầm chính.
+
+### Các lựa chọn kiểm soát
+
+Chuột túi có thể bị kiểm soát vào bất kỳ thời điểm nào trong năm, nhưng việc sử dụng bẫy hay mồi độc hiệu quả nhất khi xuất hiện các ụ đất mới, thường là vào mùa xuân và mùa thu. Cả bẫy và mồi độc đều có hiệu quả.
+
+#### Bẫy
+
+- Có nhiều loại bẫy chuột túi được bán rộng rãi và dễ sử dụng. Bạn có thể đặt bẫy ở đường hầm ngang dẫn tới ụ đất, nhưng hiệu quả hơn khi đặt ở đường chính.
+- Xác định đường chính bằng cách dò một khoảng chừng 30 cm từ ụ đất. Để hướng dẫn chi tiết cách xác định vị trí hang, hãy xem tài liệu *Chuột Đồng Đồng Cỏ và Chuột Túi: Quản lý trên Bãi cỏ, Vườn và Đất Nông nghiệp*, có sẵn miễn phí trực tuyến tại [OSU Extension Catalog](http://extension.oregonstate.edu/catalog).
+- Đặt hai bẫy quay lưng vào nhau trong đường hầm chính và cố định lại. Nếu sau 2 hoặc 3 ngày không bắt được chuột, hãy di chuyển bẫy sang vị trí khác.
+
+#### Đặt mồi độc
+
+- Đặt mồi độc trong các đường hầm chính theo hướng dẫn trên nhãn sản phẩm. Xác định đường hầm bằng que dò và thả mồi xuống lỗ dò.
+- Một cách khác là đào lộ đường hầm bằng bay và đặt mồi trực tiếp vào bên trong.
+- Đặt mồi ở hai hoặc ba vị trí trong mỗi hệ thống hang để đạt hiệu quả tốt nhất.
+- Kiểm tra khu vực trong 2 tuần sau khi xử lý và thu dọn xác chuột nếu phát hiện.
+- **Lưu ý quan trọng:** Không tuân thủ đúng hướng dẫn trên nhãn có thể gây nguy hiểm cho các loài động vật khác, thú cưng hoặc trẻ em. Chỉ nên dùng mồi độc khi các biện pháp khác không hiệu quả.
+
+#### Thuốc xông
+
+- Thuốc xông, đôi khi được gọi là “gopher gassers”, hiếm khi hiệu quả trừ khi đất bão hòa nước hoặc là đất sét đặc.
+
+#### Biện pháp ngăn chặn
+
+- Hàng rào ngầm có thể cần thiết để bảo vệ các cây cảnh quý giá hoặc cây lớn trong cảnh quan.
+- Để bảo vệ cây hiện có, hãy chôn lưới thép hoặc lưới gà có mắt lưới 2 cm sâu ít nhất 60 cm, và bẻ thêm 15 cm lưới ra ngoài, tạo góc 90 độ hướng xa gốc cây.
+- **Lưu ý:** Cách này không hoàn hảo vì chuột túi bền bỉ có thể đào sâu hơn dưới hàng rào; ngoài ra, lưới có thể cản trở và làm hại sự phát triển của rễ cây.
+- Bảo vệ các khu vực nhỏ như luống hoa bằng cách che chắn toàn bộ các mặt và đáy luống dưới mặt đất.
+- Khi xây luống rau hoặc hoa nổi, hãy lót lớp đất dưới bằng lưới thép để ngăn chuột túi xâm nhập.
+- Để bảo vệ từng cây riêng lẻ, hãy lắp rọ lưới thép (có thể tự làm hoặc mua sẵn) cùng lúc trồng cây xuống đất.
+- Chỉ dùng lưới thép mỏng cho cây bụi và cây non cần bảo vệ trong thời gian đầu. Để đủ chỗ cho rễ phát triển. Lưới thép mạ kẽm bảo vệ lâu bền nhất.
+- Một lớp sỏi thô dày 15 - 20 cm, kích thước viên từ 2,5 cm trở lên, đặt quanh các đường ống nước hoặc dây cáp ngầm cũng có thể xua đuổi chuột túi.
+
+#### Kiểm soát tự nhiên
+
+- Các loài săn mồi như cú, rắn, mèo, chó và chó sói có thể giúp giảm số lượng chuột túi, nhưng thường không đủ để kiểm soát hoàn toàn.
+
+#### Ngập nước
+
+- Chuột túi có thể chịu được việc tưới tiêu thông thường trong vườn, nhưng đôi khi ngập nước có thể buộc chúng phải rời khỏi hang, khiến chúng dễ bị săn mồi.
+
+#### Các biện pháp không hiệu quả
+
+- Nhiều thiết bị được quảng cáo có thể xua đuổi chuột túi như cọc rung, thiết bị siêu âm, hoặc chong chóng quay bằng sức gió. Tuy nhiên, chuột túi không dễ bị hoảng sợ, có lẽ do đã quen với tiếng ồn và rung động từ vòi phun nước, máy cắt cỏ, xe cộ và hoạt động của con người.
+- Các cách khác không hiệu quả bao gồm đặt kẹo cao su hoặc thuốc nhuận tràng vào hang với hy vọng giết được chuột túi.
+
+### Thông tin thêm
+
+Dưới đây là một số tài nguyên hữu ích:
+
+- **Tài liệu OSU** có sẵn trực tuyến tại [OSU Extension Catalog](https://catalog.extension.oregonstate.edu/)
+  - *Chuột Đồng Đồng Cỏ và Chuột Túi: Quản lý trên Bãi cỏ, Vườn và Đất Nông nghiệp* (PNW 627E)
+  - *Làm Vườn Bền Vững* (EM8742)
+
+#### Tư vấn của Master Gardener™
+
+- **Gọi đường dây tư vấn làm vườn tại nhà:**
+  - 503-655-8631 (Quận Clackamas)
+  - 503-821-1150 (Quận Washington)
+  - 503-445-4608 (Quận Multnomah)
+- Để tải tờ hướng dẫn Đại học 10 Phút™ và xem lịch học, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org).
 
 ---
 
-### Quản lý Chuột Túi  
-
-#### Giới thiệu  
-Chuột túi là loài gặm nhấm đào hang có thể gây ra nhiều thiệt hại cho cây cỏ, cáp ngầm, đê chắn và ống tưới bằng nhựa. Không giống như chuột chũi, chuột túi chủ yếu ăn thực vật dưới mặt đất và đôi khi trên mặt đất.  
-
-Có sáu loài chuột túi ở Tây Bắc Thái Bình Dương. Hầu hết đều dài từ 5 đến 6 ½ inch với đuôi dài từ 2 đến 3 inch. Lông thường có màu nâu hoặc xám và răng cửa lớn của loài gặm nhấm này dễ dàng nhìn thấy. Tên gọi chuột túi xuất phát từ túi má bên ngoài được lót lông ở hai bên miệng, được dùng để vận chuyển thức ăn đến các khu vực lưu trữ.  
-
-Chuột túi tạo ra các ụ đất khi chúng đào hầm và đẩy đất lên mặt đất. Thông thường, các ụ đất có hình lưỡi liềm hoặc hình móng ngựa khi nhìn từ trên cao. Lỗ, nằm ở một bên của ụ đất, thường được bịt kín. Ngược lại, các ụ đất của chuột chũi thường cao hơn và có hình núi lửa, không có lỗ rõ ràng.  
-
-Chuột túi sống trong hệ thống hang có thể bao phủ một khu vực từ 200 đến 2.000 bộ vuông. Các hang có đường kính khoảng 2 ½ đến 3 ½ inch. Các hang ăn thường nằm từ 6 đến 12 inch dưới mặt đất, và buồng tổ và lưu trữ thức ăn có thể sâu đến 6 feet. Chuột túi bịt kín các lỗ mở vào hệ thống hang bằng nút đất. Các đường hầm ngắn, dốc nối hệ thống hang chính với mặt đất; chuột túi tạo ra các đường này trong khi đẩy đất lên mặt đất để xây dựng đường hầm chính.  
-
+##### Dịch vụ Mở rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm cả biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ cấp công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả chương trình.)
 ---
-
-### Các lựa chọn kiểm soát  
-
-Chuột túi có thể được kiểm soát bất cứ lúc nào trong năm, nhưng việc kiểm soát bằng bẫy hoặc mồi thường thành công nhất khi xuất hiện các ụ đất mới, thường vào mùa xuân và mùa thu. Cả bẫy và mồi độc đều hiệu quả.  
-
-#### Bẫy  
-- Nhiều kiểu bẫy chuột túi có sẵn rộng rãi và dễ sử dụng. Bạn có thể đặt chúng trong đường hầm bên dẫn đến một ụ đất, nhưng chúng hiệu quả hơn khi được đặt trong đường hầm chính. Xác định vị trí đường hầm chính bằng cách thăm dò cách ụ đất khoảng 1 foot. Để biết hướng dẫn chi tiết về cách xác định vị trí hang, xem tài liệu "Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands", có sẵn miễn phí trực tuyến tại [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog). Đặt hai bẫy quay lưng lại nhau trong đường hầm sâu và cố định chúng. Di chuyển bẫy nếu không bắt được sau 2 hoặc 3 ngày.  
-
-#### Đặt mồi  
-- Đặt mồi độc trong các đường hầm chính theo hướng dẫn trên nhãn. Xác định vị trí đường hầm bằng cách dùng dụng cụ thăm dò và đặt mồi xuống lỗ thăm dò. Một phương pháp thay thế là đào đường hầm bằng xẻng nhỏ và đặt mồi trực tiếp vào đường hầm. Đặt mồi vào mỗi hệ thống hang ở hai hoặc ba vị trí để đạt kết quả tốt nhất. Kiểm tra khu vực định kỳ trong 2 tuần sau khi xử lý và loại bỏ bất kỳ xác chuột nào bạn tìm thấy. Không tuân theo tất cả các hướng dẫn trên nhãn có thể dẫn đến nguy hiểm cho động vật không phải mục tiêu, thú cưng hoặc trẻ em. Sử dụng phương pháp này như một giải pháp cuối cùng.  
-
-#### Các phương pháp khác  
-- **Khí độc:** Fumigants, đôi khi được gọi là “gopher gassers”, hiếm khi hiệu quả trừ khi đất bị bão hòa với nước hoặc là đất sét đặc.  
-- **Ngăn chặn:** Sử dụng hàng rào ngầm có thể hợp lý đối với cây cảnh hoặc cây cảnh có giá trị. Để bảo vệ cây trồng hiện có, chôn lưới thép hoặc dây lưới gia cầm ¾ inch sâu ít nhất 2 feet với thêm 6 inch lưới hoặc dây bẻ góc 90 độ ra xa khu vực trồng. Tuy nhiên, phương pháp này không hoàn hảo vì chuột túi kiên trì có thể đào dưới dây; ngoài ra, dây có thể hạn chế và làm hỏng sự phát triển rễ của cây.  
-
-Bạn có thể bảo vệ các khu vực nhỏ như luống hoa bằng cách che chắn hoàn toàn bên dưới và xung quanh luống. Khi xây dựng các luống rau hoặc hoa cao, đặt lớp đất dưới dây để ngăn chuột túi. Để bảo vệ cây riêng lẻ, lắp đặt rổ lưới, bạn có thể tự làm hoặc mua thương mại, cùng lúc bạn đặt cây vào đất. Nếu sử dụng dây, hãy chọn loại nhẹ và chỉ sử dụng cho cây bụi và cây cần được bảo vệ khi còn non. Để đủ chỗ cho rễ phát triển. Dây mạ kẽm cung cấp sự bảo vệ lâu dài nhất. Lớp sỏi thô dày từ sáu đến tám inch với đường kính một inch hoặc lớn hơn xung quanh hệ thống tưới ngầm hoặc cáp điện cũng có thể làm chuột túi nản lòng.  
-
-#### Kiểm soát tự nhiên  
-- Các loài săn mồi tự nhiên như cú, rắn, mèo, chó và sói đôi khi có thể giảm số lượng chuột túi nhưng có thể không đủ.  
-- Chuột túi dễ dàng chịu được tưới tiêu thông thường trong vườn hoặc cảnh quan gia đình, nhưng đôi khi bạn có thể sử dụng việc ngập nước để buộc chúng ra khỏi hang, khiến chúng dễ bị săn mồi.  
-
-#### Các phương pháp không hiệu quả  
-- Nhiều thiết bị tuyên bố có thể làm chuột túi sợ hãi—bao gồm cọc rung, thiết bị siêu âm và cối xay gió chạy bằng gió. Tuy nhiên, những loài gặm nhấm này không dễ bị sợ hãi, có lẽ vì chúng thường xuyên tiếp xúc với tiếng ồn và rung động từ vòi phun nước, máy cắt cỏ, xe cộ và con người di chuyển. Các phương pháp kiểm soát không hiệu quả khác bao gồm đặt kẹo cao su hoặc thuốc nhuận tràng vào hang với hy vọng tiêu diệt chuột túi.  
-
----
-
-### Thông tin bổ sung  
-Dưới đây là một số tài liệu hữu ích:  
-- **Ấn phẩm của OSU** có sẵn trực tuyến tại [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-  - *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands PNW 627E*  
-  - *Sustainable Gardening EM8742*  
-
----
-
-### Tư vấn từ Master Gardener™  
-- Gọi đường dây trợ giúp Home Horticulture:  
-  - 503-655-8631 (Hạt Clackamas)  
-  - 503-821-1150 (Hạt Washington)  
-  - 503-445-4608 (Hạt Multnomah)  
-- Để xem tài liệu phát tay và lịch lớp học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](www.cmastergardeners.org).  
-
----
-
-### Cam kết của Dịch vụ Mở Rộng Đại học Bang Oregon  
-Dịch vụ Mở Rộng Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, sự trả thù hoặc trả đũa đối với hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm áp dụng cho tất cả các chương trình.)

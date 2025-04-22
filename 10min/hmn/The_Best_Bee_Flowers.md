@@ -1,68 +1,111 @@
-# Cov Paj Zoo Tshaj Rau Nqaj Ntses --- Pom Zoo Los Ntawm Kev Tshawb Fawb Txog Nroj Tsuag
+#### Tsev Kawm Ua Liaj Ua Teb 10 Feeb™ · Pawg Kws Ua Liaj Ua Teb Clackamas County · Ua ke nrog thiab txhawb OSU Extension Master Gardener™ Program
 
-Daim ntawv teev npe no suav nrog cov nroj tsuag uas Dr. Gordon Frankie, University of California, thiab nws cov npoj yaig tau pom tias zoo tshaj rau kev nyiam nqaj ntses. Cov nroj tsuag Oregon uas pom tias nyiam nqaj ntses hauv zej zog yog raws kev tshawb fawb los ntawm Aaron Anderson, Oregon State University Garden Ecology Lab. Cov chaw los: California Bees & Blooms los ntawm Frankie et al, blogs.oregonstate.edu/gardenecologylab.
+# Cov Paj Zoo Tshaj Rau Ntses Nqaij Noog — Ua Pov Thawj Los Ntawm Kev Tshawb Fawb Ua Liaj Ua Teb
 
-## Npaj Raws Hom Nroj Tsuag
+Daim ntawv teev no muaj cov nroj tsuag uas Dr. Gordon Frankie, University of California, thiab nws cov phooj ywg tau tshawb fawb tias yog cov zoo tshaj rau kev nqus ntses nqaij noog[^1]. Cov nroj tsuag ntuj tsim hauv Oregon uas nqus ntses nqaij noog ntuj tsim yog raws li kev tshawb fawb los ntawm Aaron Anderson, Oregon State University Garden Ecology Lab[^2]. Cov chaw: *California Bees & Blooms* ntawm Frankie thiab lwm tus, thiab blogs.oregonstate.edu/gardenecologylab/[^3].
 
-### Ntoo/Tsiaj Nroj
+## Tswj raws Hom Nroj Tsuag
 
-| Lub Npe Nrov | Lub Npe Kev Tshawb Fawb | Nqaj Ntses Noj | Sijhawm Paj Tawg | Lus Cim |
-| :----------- | :-------------------- | :------------- | :--------------- | :------- |
-| Paj Xiav | Caryopteris species | zib ntab | nruab nrab lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | Caryopteris muaj ntau yam paj xiav mus rau paj ntshav thiab nplooj ntsuab mus rau daj kub |
-| California Lilac | Ceanothus 'Dark Star', 'Julia Phelps' | hmoov nplej | caij nplooj ntoos hlav, thaum ntxov lub caij ntuj sov | Nroj tsuag loj me nrog paj xiav |
-| Chaste Tree | Vitex agnus-castus | hmoov nplej & zib ntab | lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | Muaj ntau yam paj xaiv |
-| Manzanita | Arctostaphylos densiflora 'Sentinel' | hmoov nplej & zib ntab | thaum xaus lub caij ntuj no, thaum ntxov lub caij nplooj ntoos hlav | Arctostaphylos muaj ntau yam, tshwj xeeb tshaj yog 'Howard McMinn' thiab 'Sentinel' |
-| Rosemary | Rosemarinus officinalis | feem ntau zib ntab | lub caij ntuj sov | Muaj ntau hom nroj tsuag, kev loj hlob, xim paj, thiab lub sijhawm paj tawg |
+### Tsob Ntoo/Txhaws Ntoo
 
-### Niaj Niam Nroj
+| Lub Npe | Lub Npe Kev Tshawb Fawb | Khoom Noj Rau Ntses Noog | Sijhawm Paj Ntxhua | Lus Qhia |
+| :--------------- | :----------------------------------------- | :--------------- | :------------------------ | :------------------------------------------------------------------------------------------------- |
+| Bluebeard | *Caryopteris* hom | kua qab zib | nruab nrab caij ntuj sov, thaum pib caij nplooj zeeg | Muaj ntau hom paj xiav mus txog paj liab thiab nplooj ntsuab mus txog nplooj daj[^4]. |
+| California Lilac | *Ceanothus* 'Dark Star', 'Julia Phelps' | hmoov paj | caij nplooj ntoos hlav, thaum pib caij ntuj sov | Txhaws ntoo nruab nrab mus txog loj nrog paj xiav[^4]. |
+| Chaste Tree | *Vitex agnus-castus* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Muaj ntau xim paj xaiv tau[^4]. |
+| Manzanita | *Arctostaphylos densiflora* 'Sentinel' | hmoov paj & kua qab zib | thaum kawg caij ntuj no, thaum pib caij nplooj ntoos hlav | Muaj *A. densiflora* 'Howard McMinn' & 'Sentinel'[^4]. |
+| Rosemary | *Rosemarinus officinalis* | feem ntau kua qab zib | caij ntuj sov | Muaj ntau qhov loj, hom loj hlob, xim paj, thiab sijhawm paj tawg[^4]. |
 
-| Lub Npe Nrov | Lub Npe Kev Tshawb Fawb | Nqaj Ntses Noj | Sijhawm Paj Tawg | Lus Cim |
-| :----------- | :-------------------- | :------------- | :--------------- | :------- |
-| Aster | Aster x frikartii | hmoov nplej & zib ntab | lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | Tsis tas li Aster chilensis |
-| Baby Sage | Salvia microphylla 'Hotlips' | hmoov nplej & zib ntab | lub caij ntuj sov, lub caij nplooj zeeg | Lwm yam Salvia kuj nyiam nqaj ntses |
-| Black-eyed Susan | Rudbeckia hirta | hmoov nplej & zib ntab | lub caij ntuj sov | Hom paj loj thiab xim daj tob tshaj yog qhov zoo tshaj rau nqaj ntses |
-| Blanket Flower | Gaillardia x grandiflora | hmoov nplej & zib ntab | lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | |
-| Bog Sage | Salvia uliginosa | hmoov nplej & zib ntab | lub caij ntuj sov, lub caij nplooj zeeg | Nyiam dej |
-| Cat Mint | Nepeta x faassenii | zib ntab | caij nplooj ntoos hlav, lub caij ntuj sov | Xim paj txawv (dawb, xiav, ntshav) raws hom |
-| Foothill Penstemon | Penstemon heterophyllus | hmoov nplej & zib ntab | lub caij ntuj sov | Lwm yam Penstemon kuj nyiam nqaj ntses |
-| Globe Mallow | Sphaeralcea ambiqua | hmoov nplej | lub caij ntuj sov, lub caij nplooj zeeg | |
-| Goldenrod | Solidago californica | hmoov nplej & zib ntab | lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | |
-| Hyssop | Agastache rugosa 'Golden Jubilee' | zib ntab | lub caij ntuj sov | Agastache muaj ntau yam, tshwj xeeb tshaj yog A. rugosa, A. foeniculum |
-| Lamb's Ear | Stachys byzantina | feem ntau zib ntab | thaum xaus caij nplooj ntoos hlav mus rau lub caij ntuj sov | Nplooj dawb mos yog siv los ntawm nqaj ntses carder rau kev txhim kho vaj tse |
-| Largeflower Tickseed | Coreopsis grandiflora | hmoov nplej & zib ntab | lub caij ntuj sov | Xaiv hom paj loj thiab yooj yim, tsis yog hom nrog ntau txheej nplooj paj |
-| Lavender | Lavendula species | zib ntab | thaum xaus caij nplooj ntoos hlav mus rau thaum ntxov lub caij nplooj zeeg | Muaj ntau hom, txhua yam muaj lub sijhawm paj tawg sib txawv thiab xim |
-| Lesser Calamint | Calamintha nepeta | zib ntab | lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | |
-| Oregano, Marjoram | Origanum species | zib ntab | lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | Xim paj txawv, liab dawb yog qhov tsawg |
+### Nroj Tsuag Ib Xyoos Ib Zaug Paj (Perennial)
 
-### Xyoo Ib Zaug Paj
+| Lub Npe | Lub Npe Kev Tshawb Fawb | Khoom Noj Rau Ntses Noog | Sijhawm Paj Ntxhua | Lus Qhia |
+| :------------------- | :------------------------------ | :--------------- | :------------------------ | :------------------------------------------------------------------------------------------------------- |
+| Aster | *Aster x frikartii* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Kuj muaj *Aster chilensis*[^6]. |
+| Baby Sage | *Salvia microphylla* 'Hotlips' | hmoov paj & kua qab zib | caij ntuj sov, caij nplooj zeeg | Lwm hom *Salvia* kuj nqus ntses noog zoo[^6]. |
+| Black-eyed Susan | *Rudbeckia hirta* | hmoov paj & kua qab zib | caij ntuj sov | Xaiv hom uas muaj taub paj loj tshaj, nplooj paj daj tob thiab nruab nrab dub tshaj yog nqus ntses noog zoo tshaj[^6]. |
+| Blanket Flower | *Gaillardia x grandiflora* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | |
+| Bog Sage | *Salvia uliginosa* | hmoov paj & kua qab zib | caij ntuj sov, caij nplooj zeeg | Nyiam dej ntau[^6]. |
+| Cat Mint | *Nepeta x faassenii* | kua qab zib | caij nplooj ntoos hlav, caij ntuj sov | Xim paj sib txawv (dawb, xiav, liab) raws hom[^6]. |
+| Foothill Penstemon | *Penstemon heterophyllus* | hmoov paj & kua qab zib | caij ntuj sov | Lwm hom *Penstemon* kuj zoo rau ntses noog[^6]. |
+| Globe Mallow | *Sphaeralcea ambiqua* | hmoov paj | caij ntuj sov, caij nplooj zeeg | [^6] |
+| Goldenrod | *Solidago californica* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | [^6] |
+| Hyssop | *Agastache rugosa* 'Golden Jubilee' | kua qab zib | caij ntuj sov | Muaj *A. rugosa* thiab *A. foeniculum*[^7]. |
+| Lamb's Ear | *Stachys byzantina* | feem ntau kua qab zib | thaum kawg caij nplooj ntoos hlav, caij ntuj sov | Nplooj grey mos muag siv los ntawm wool carder ntses noog los ua lub tsev[^7]. |
+| Largeflower Tickseed | *Coreopsis grandiflora* | hmoov paj & kua qab zib | caij ntuj sov | Xaiv hom uas muaj paj loj thiab yooj yim tshaj, tsis txhob xaiv hom uas muaj ntau txheej nplooj paj[^7]. |
+| Lavender | *Lavendula* hom | kua qab zib | thaum kawg caij nplooj ntoos hlav mus txog thaum pib caij nplooj zeeg | Muaj ntau hom, txhua hom muaj sijhawm thiab xim paj txawv[^7]. |
+| Lesser Calamint | *Calamintha nepeta* | kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | [^7] |
+| Oregano, Marjoram | *Origanum* hom | kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Xim paj sib txawv, liab thiab liab xiav yog feem ntau, dawb muaj tsawg[^7]. |
+| Pincushion Flower | *Scabiosa atropurpurea* | hmoov paj & kua qab zib | caij ntuj sov | Xim paj los ntawm dawb mus txog liab, paj liab thiab paj xiav[^7]. |
+| Purple Toadflax | *Linaria purpurea* | kua qab zib | caij nplooj ntoos hlav mus txog thaum pib caij nplooj zeeg | [^7] |
+| Russian Sage | *Perovskia atriplicifolia* | kua qab zib | caij ntuj sov mus txog thaum pib caij nplooj zeeg | Thaum cog tau zoo lawm tsis xav tau dej caij ntuj sov[^7]. |
+| Sea Holly | *Eryngium* hom | kua qab zib | caij ntuj sov | [^7] |
+| Seaside Daisy | *Erigeron glaucus* | hmoov paj & kua qab zib | caij nplooj ntoos hlav mus txog thaum pib caij nplooj zeeg | [^7] |
+| Sneezeweed | *Helenium* 'Mardi Gras' | hmoov paj & kua qab zib | caij ntuj sov mus txog thaum pib caij nplooj zeeg | Nyiam dej caij ntuj sov kom muaj paj ntev dua[^7]. |
+| Sunflower (perennial) | *Helianthus* 'Lemon Queen' | hmoov paj & kua qab zib | caij ntuj sov mus txog thaum pib caij nplooj zeeg | Paj sunflower ib xyoos kuj yog paj zoo rau ntses noog[^7]. |
 
-| Lub Npe Nrov | Lub Npe Kev Tshawb Fawb | Nqaj Ntses Noj | Sijhawm Paj Tawg | Lus Cim |
-| :----------- | :-------------------- | :------------- | :--------------- | :------- |
-| Bidens | Bidens ferulifolia | hmoov nplej & zib ntab | thaum xaus caij nplooj ntoos hlav mus rau thaum ntxov lub caij nplooj zeeg | Tsis yog nroj tsuag tawv hauv Willamette Valley |
-| Cosmos | Cosmos bipinnatus | hmoov nplej & zib ntab | lub caij ntuj sov mus rau thaum ntxov lub caij nplooj zeeg | Paj yuav zoo li aster lossis zoo li lub tais |
-| Phacelia | Phacelia species | hmoov nplej & zib ntab | caij nplooj ntoos hlav | Zoo rau nqaj ntses tab sis tsis suav tias 'zoo nkauj rau vaj' |
+### Nroj Tsuag Ib Xyoos (Annual)
 
-### Oregon Native
+| Lub Npe | Lub Npe Kev Tshawb Fawb | Khoom Noj Rau Ntses Noog | Sijhawm Paj Ntxhua | Lus Qhia |
+| :---------- | :----------------------| :--------------- | :------------------------ | :-------------------------------------------- |
+| Bidens | *Bidens ferulifolia* | hmoov paj & kua qab zib | thaum kawg caij nplooj ntoos hlav mus txog thaum pib caij nplooj zeeg | Tsis khov hauv Willamette Valley[^9]. |
+| Cosmos | *Cosmos bipinnatus* | hmoov paj & kua qab zib | caij ntuj sov mus txog thaum pib caij nplooj zeeg | Paj tej zaum zoo li paj aster los yog zoo li lub tais[^9]. |
+| Phacelia | *Phacelia* hom | hmoov paj & kua qab zib | caij nplooj ntoos hlav | Paj zoo heev rau ntses noog tab sis tsis suav tias yog "paj vaj zoo"[^9]. |
 
-| Lub Npe Nrov | Lub Npe Kev Tshawb Fawb | Nqaj Ntses Noj | Sijhawm Paj Tawg | Lus Cim |
-| :----------- | :-------------------- | :------------- | :--------------- | :------- |
-| California Poppy | Eschscholzia california | hmoov nplej | thaum xaus caij nplooj ntoos hlav mus rau thaum ntxov lub caij nplooj zeeg | Xyoo ib zaug |
-| Clarkia | Clarkia amoena | hmoov nplej | lub caij ntuj sov | Xyoo ib zaug |
-| Douglas Aster | Aster subspicatus | hmoov nplej & zib ntab | lub caij ntuj sov, lub caij nplooj zeeg | Niaj niam nroj |
-| Globe Gilia | Gillia capitata | hmoov nplej & zib ntab | thaum xaus caij nplooj ntoos hlav mus rau thaum ntxov lub caij ntuj sov | Xyoo ib zaug |
-| Goldenrod | Solidago canadensis | hmoov nplej & zib ntab | lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | Niaj niam nroj |
-| Varied-leaf Phacelia | Phacelia heterophylla | hmoov nplej & zib ntab | caij nplooj ntoos hlav | Xyoo ib zaug |
+### Nroj Tsuag Ntuj Tsim Oregon
 
-## Npaj Raws Li Qhov Nqaj Ntses Nyiam
+| Lub Npe | Lub Npe Kev Tshawb Fawb | Khoom Noj Rau Ntses Noog | Sijhawm Paj Ntxhua | Lus Qhia |
+| :------------------- | :-------------------------- | :--------------- | :------------------------ | :-------------- |
+| California Poppy | *Eschscholzia californica* | hmoov paj | caij nplooj ntoos hlav mus txog thaum pib caij nplooj zeeg | Ib xyoos[^11]. |
+| Clarkia | *Clarkia amoena* | hmoov paj | caij ntuj sov | Ib xyoos[^11]. |
+| Douglas Aster | *Aster subspicatus* | hmoov paj & kua qab zib | caij ntuj sov, caij nplooj zeeg | Nroj tsuag ib txwm loj hlob[^11]. |
+| Globe Gilia | *Gillia capitata* | hmoov paj & kua qab zib | thaum kawg caij nplooj ntoos hlav, thaum pib caij ntuj sov | Ib xyoos[^11]. |
+| Goldenrod | *Solidago canadensis* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Nroj tsuag ib txwm loj hlob[^11]. |
+| Varied-leaf Phacelia | *Phacelia heterophylla* | hmoov paj & kua qab zib | caij nplooj ntoos hlav | Ib xyoos[^11]. |
 
-### Xim Paj Xiav/ Ntshav
+## Tswj Raws Li Vim Li Cas Paj Nqus Ntses Noog
 
-| Lub Npe Nrov | Lub Npe Kev Tshawb Fawb | Nqaj Ntses Noj | Sijhawm Paj Tawg | Lus Cim |
-| :----------- | :-------------------- | :------------- | :--------------- | :------- |
-| Bluebeard | Caryopteris species | zib ntab | nruab nrab lub caij ntuj sov, thaum ntxov lub caij nplooj zeeg | Caryopteris muaj ntau yam paj xiav rau paj ntshav thiab nplooj ntsuab mus rau daj kub |
-| Bog Sage | Salvia uliginosa | hmoov nplej & zib ntab | lub caij ntuj sov, lub caij nplooj zeeg | Nyiam dej |
-| California Lilac | Ceanothus 'Dark Star', 'Julia Phelps' | hmoov nplej | caij nplooj ntoos hlav, thaum ntxov lub caij ntuj sov | Nroj tsuag loj me nrog paj xiav |
+### Paj Xim Xiav/Liab Xiav
 
----
+| Lub Npe | Lub Npe Kev Tshawb Fawb | Khoom Noj Rau Ntses Noog | Sijhawm Paj Ntxhua | Lus Qhia |
+| :--------------- | :--------------------------------------- | :--------------- | :--------------------------- | :------------------------------------------------------------------------------------------------ |
+| Bluebeard | *Caryopteris* hom | kua qab zib | nruab nrab caij ntuj sov, thaum pib caij nplooj zeeg | Muaj ntau hom paj xiav mus txog paj liab thiab nplooj ntsuab mus txog nplooj daj[^13]. |
+| Bog Sage | *Salvia uliginosa* | hmoov paj & kua qab zib | caij ntuj sov, caij nplooj zeeg | Nyiam dej ntau[^13]. |
+| California Lilac | *Ceanothus* 'Dark Star', 'Julia Phelps' | hmoov paj | caij nplooj ntoos hlav, thaum pib caij ntuj sov | Txhaws ntoo nruab nrab mus txog loj nrog paj xiav[^13]. |
+| Cat Mint | *Nepeta x faassenii* | kua qab zib | caij nplooj ntoos hlav, caij ntuj sov | Xim paj sib txawv (dawb, xiav, liab) raws hom[^13]. |
+| Globe Gilia | *Gillia capitata* | hmoov paj & kua qab zib | thaum kawg caij nplooj ntoos hlav, thaum pib caij ntuj sov | Nroj tsuag ntuj tsim Oregon. Ib xyoos[^13]. |
+| Lavender | *Lavendula* hom | kua qab zib | thaum kawg caij nplooj ntoos hlav, caij ntuj sov, thaum pib caij nplooj zeeg | Muaj ntau hom, txhua hom muaj sijhawm thiab xim paj txawv[^13]. |
+| Purple Toadflax | *Linaria purpurea* | kua qab zib | caij nplooj ntoos hlav, caij ntuj sov, thaum pib caij nplooj zeeg | [^13]. |
+| Russian Sage | *Perovskia atriplicifolia* | kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Thaum cog tau zoo lawm tsis xav tau dej caij ntuj sov[^13]. |
+| Sea Holly | *Eryngium* hom | kua qab zib | caij ntuj sov | [^13]. |
 
-**Lus Cim:** Cov ntaub ntawv no tau muab txhais rau hom lus Hmoob raws li kev qhia.
+### Paj Qhib Platform (Qhib dav siv tau yooj yim)
+
+| Lub Npe | Lub Npe Kev Tshawb Fawb | Khoom Noj Rau Ntses Noog | Sijhawm Paj Ntxhua | Lus Qhia |
+| :------------------- | :-------------------------- | :--------------- | :--------------------------- | :------------------------------------------------------------------------------------------------------- |
+| Aster | *Aster x frikartii* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Kuj muaj *Aster chilensis*[^15]. |
+| Bidens | *Bidens ferulifolia* | hmoov paj & kua qab zib | thaum kawg caij nplooj ntoos hlav, caij ntuj sov, thaum pib caij nplooj zeeg | Tsis khov hauv Willamette Valley[^15]. |
+| Black-eyed Susan | *Rudbeckia hirta* | hmoov paj & kua qab zib | caij ntuj sov | Xaiv hom uas muaj taub paj loj tshaj, nplooj paj daj tob thiab nruab nrab dub tshaj yog nqus ntses noog zoo tshaj[^15]. |
+| Blanket Flower | *Gaillardia x grandiflora* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | [^15]. |
+| Cosmos | *Cosmos bipinnatus* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Paj tej zaum zoo li paj aster los yog zoo li lub tais[^15]. |
+| Douglas Aster | *Aster subspicatus* | hmoov paj & kua qab zib | caij ntuj sov, caij nplooj zeeg | Nroj tsuag ntuj tsim Oregon. Loj hlob ib txwm[^15]. |
+| Goldenrod | *Solidago californica* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | [^15]. |
+| Goldenrod | *Solidago canadensis* | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Nroj tsuag ntuj tsim Oregon[^15]. |
+| Largeflower Tickseed | *Coreopsis grandiflora* | hmoov paj & kua qab zib | caij ntuj sov | Xaiv hom uas muaj paj loj thiab yooj yim tshaj, tsis txhob xaiv hom uas muaj ntau txheej nplooj paj[^15]. |
+| Oregano, Marjoram | *Origanum* hom | kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Xim paj sib txawv, liab thiab liab xiav yog feem ntau[^15]. |
+| Phacelia | *Phacelia* hom | hmoov paj & kua qab zib | caij nplooj ntoos hlav | Tsis suav tias yog "paj vaj zoo"[^15]. |
+| Pincushion Flower | *Scabiosa atropurpurea* | hmoov paj & kua qab zib | caij ntuj sov | Xim paj los ntawm dawb mus txog liab, paj liab thiab paj xiav[^16]. |
+| Seaside Daisy | *Erigeron glaucus* | hmoov paj & kua qab zib | caij nplooj ntoos hlav, caij ntuj sov, thaum pib caij nplooj zeeg | [^16]. |
+| Sneezeweed | *Helenium* 'Mardi Gras' | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Nyiam dej caij ntuj sov kom muaj paj ntev dua[^16]. |
+| Sunflower (perennial) | *Helianthus* 'Lemon Queen' | hmoov paj & kua qab zib | caij ntuj sov, thaum pib caij nplooj zeeg | Paj sunflower ib xyoos kuj yog paj zoo rau ntses noog[^16]. |
+| Varied-leaf Phacelia | *Phacelia heterophylla* | hmoov paj & kua qab zib | caij nplooj ntoos hlav | Ib xyoos[^16]. |
+
+### Paj Uas Yuav Tau Qab Zib Ua Si (Buzz-pollinated)
+
+| Lub Npe | Lub Npe Kev Tshawb Fawb | Khoom Noj Rau Ntses Noog | Sijhawm Paj Ntxhua | Lus Qhia |
+| :----------------- | :--------------------------------------- | :--------------- | :------------------------ | :------------------------------------------------------------------------------------------------ |
+| Foothill Penstemon | *Penstemon heterophyllus* | hmoov paj & kua qab zib | caij ntuj sov | Lwm hom *Penstemon* kuj zoo rau ntses noog[^18]. |
+| Manzanita | *Arctostaphylos densiflora* 'Sentinel' | hmoov paj & kua qab zib | thaum kawg caij ntuj no, thaum pib caij nplooj ntoos hlav | Muaj *A. densiflora* 'Howard McMinn' & 'Sentinel'[^18]. |
+
+### Paj Qab Zib Hom Tais (Pollen Bowl)
+
+| Lub Npe | Lub Npe Kev Tshawb Fawb | Khoom Noj Rau Ntses Noog

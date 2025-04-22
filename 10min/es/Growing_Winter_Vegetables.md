@@ -1,58 +1,89 @@
-10-Minute University™  
-La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración con y en apoyo del  
-Programa Maestro Jardinero™ de Extensión de OSU  
-Cultivo de Verduras de Invierno  
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
 
-### Beneficios de Cultivar Tus Propios Alimentos  
-A medida que la sostenibilidad y la autosuficiencia ganan popularidad, también lo hace la jardinería en casa. La satisfacción personal, el acceso a variedades y los beneficios económicos son algunas de las muchas razones para cultivar tus propias verduras.  
+# Cultivar Verduras de Invierno
 
-### Qué Plantar  
-Al oeste de las Cascadas, hay muchas verduras que se pueden plantar en verano para cosechar en otoño o invierno, y algunas que se pueden dejar en el suelo para pasar el invierno y tener una cosecha temprana en primavera.  
-- Cultivos de col – brócoli, coles de Bruselas, col, coliflor  
-- Verduras de raíz – remolachas, zanahorias, colinabo, rábanos, nabos suecos, nabos  
-- Hojas verdes – col berza, col rizada, lechuga, espinaca, acelga  
-- Legumbres – guisantes, habas  
-- Verduras que pasan el invierno – brassicas, verduras de raíz  
+### Beneficios de Cultivar Tus Propias Verduras
 
-### Cuándo Plantar  
-Es importante conocer la fecha de la primera helada en tu área. Consulta guías de plantación con los tiempos para sembrar semillas y trasplantes. Planta la mayoría de las verduras en julio, agosto y septiembre para cosechas en otoño, invierno y primavera; planta ajo y chalotes en octubre para cosecharlos el verano siguiente.  
+A medida que la sostenibilidad y la autosuficiencia se vuelven más populares, también lo hace la jardinería en casa. La satisfacción personal, el acceso a diferentes variedades y la economía son algunas de las muchas razones para cultivar tus propias verduras.
 
-### Cómo Plantar  
-#### Fuente  
-Las verduras pueden sembrarse directamente desde semillas o trasplantarse desde brotes. Usa plantas que estén específicamente designadas para la siembra en otoño.  
+### Qué Plantar
 
-#### Ubicación  
-Elige un sitio que reciba de seis a ocho horas de luz solar. Aprovecha estructuras como paredes o cercas orientadas al sur que reflejan y retienen el calor por más tiempo. Las camas elevadas, hechas con estructuras de madera o simplemente montículos de tierra, se calientan antes en la primavera y retienen el calor por más tiempo.  
-Asegúrate de que tu sitio esté protegido de vientos fuertes y que el suelo tenga buen drenaje.  
+Al oeste de las Cascadas, hay muchas verduras que se pueden plantar en verano para cosechar en otoño o invierno, y algunas que se pueden dejar en la tierra durante el invierno para una cosecha temprana en primavera:
 
-#### Preparación del Suelo  
-Prepara tu suelo eliminando piedras y malezas, y enmiéndalo según sea necesario. El suelo arcilloso puede mejorarse añadiendo materia orgánica. Si es necesario, aplica un fertilizante bajo en nitrógeno para enfocarte en el crecimiento de raíces y frutos, no en hojas. No uses fertilizantes altos en nitrógeno en cultivos de otoño, ya que pueden estimular un crecimiento tardío de hojas que son susceptibles a daños por heladas.  
-Asegúrate de que tus camas tengan al menos de 15 a 18 pulgadas de suelo suelto para permitir suficiente espacio para el crecimiento de raíces y la distribución del agua. Si tu suelo seco es demasiado duro para cavar, intenta remojarlo previamente.  
+- **Crucíferas** – brócoli, coles de Bruselas, repollo, coliflor
+- **Verduras de raíz** – betabel, zanahorias, colinabo, rábano, nabo sueco, nabo
+- **Hojas verdes** – berza, kale, lechuga, espinaca, acelga suiza
+- **Leguminosas** – chícharos, habas (fava)
+- **Verduras para pasar el invierno** – Brassicas, verduras de raíz
 
-### Cuidado de Tus Nuevas Plantas  
-Si hace calor y sol cuando plantas, las plantas jóvenes necesitarán cuidados adicionales. Riega los trasplantes diariamente. Es posible que necesites rociar semillas y plántulas recién germinadas dos veces al día para evitar que se sequen.  
-Para mantener el suelo húmedo y proteger las plantas jóvenes del sol, sombrea temporalmente las plantas. Tablas y sombrillas son buenas estructuras para sombra.  
-Cuando se acerque el clima frío, cubre tus plantas con hojas o paja. Cubiertas de hileras, campanas, túneles de plástico y marcos fríos son buenos extensores de temporada.  
+### Cuándo Plantar
 
-### Cosecha de Tu Jardín de Otoño e Invierno  
-Las verduras de raíz como nabos, remolachas y zanahorias son más dulces después de una helada, que hace que la planta concentre sus azúcares. Estos cultivos pueden permanecer en el suelo y cosecharse durante todo el invierno. La lechuga y otras hojas verdes ralentizan su crecimiento durante el clima frío, pero pueden ser resistentes hasta 20° F con algo de protección.  
+Es importante conocer la fecha de la primera helada en tu área. Consulta guías de siembra con los tiempos para plantar semillas y trasplantes.
 
-### Recursos del Servicio de Extensión de OSU  
-Consigue estas publicaciones en línea en https://catalog.extension.oregonstate.edu  
-- Jardinería de verduras en otoño e invierno en el noroeste del Pacífico PNW 548  
-- Construcción de marcos fríos y camas calientes FS 246-E  
-- Cómo construir tu propio cloche para camas elevadas EC 1627  
-- Cultiva tus propios alimentos EM 9027  
-- Cultiva tu propio ruibarbo EC 797  
-- Cultiva tus propios tomates y tomatillos EC 1333  
-- Almacenamiento de calabaza y zapallo de invierno en casa EC 1632  
-- Mejorando el suelo del jardín con materia orgánica EC 1561  
-- Fertilidad del suelo en sistemas orgánicos PNW646  
+- Planta la mayoría de las verduras en julio, agosto y septiembre para cosechar en otoño, invierno y primavera.
+- Planta ajo y chalotes en octubre para cosechar el verano siguiente.
 
-### Consejos de Maestros Jardineros™  
-- Llama a la Línea de Ayuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington) o 503-445-4608 (Condado de Multnomah).  
-- Visita www.cmastergardeners.org para obtener folletos y videos de 10-Minute University™.  
-- Busca Maestros Jardineros en los mercados de agricultores de la zona.  
+### Cómo Plantar
 
-### Servicio de Extensión de la Universidad Estatal de Oregón  
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/paterno, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalias o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas).  
+#### Fuente
+
+Las verduras pueden sembrarse directamente de semilla o trasplantarse de plántulas. Usa plantas específicamente indicadas para siembra de otoño.
+
+#### Ubicación
+
+Elige un lugar que reciba de seis a ocho horas de sol. Aprovecha estructuras como paredes o cercas orientadas al sur que reflejen y retengan el calor por más tiempo. Las camas elevadas, hechas con madera o simplemente amontonando tierra, se calientan antes en primavera y retienen el calor por más tiempo.
+
+Asegúrate de que tu sitio esté protegido de vientos fuertes y que el suelo tenga buen drenaje.
+
+#### Preparación del Suelo
+
+Prepara tu suelo quitando piedras y maleza y enmiéndalo según sea necesario.
+
+- Mejora el suelo arcilloso agregando materia orgánica.
+- Aplica un fertilizante bajo en nitrógeno para enfocar el crecimiento en raíces y frutos, no en las hojas. Evita fertilizantes altos en nitrógeno en otoño, ya que pueden estimular el crecimiento tardío de hojas que pueden dañarse con las heladas.
+
+Asegúrate de que tus camas tengan al menos 15 a 18 pulgadas de tierra suelta para permitir suficiente espacio para el crecimiento de las raíces y la distribución del agua. Si tu suelo seco está demasiado duro para cavar, prueba remojarlo antes.
+
+### Cuidando Tus Nuevas Plantas
+
+Si al plantar hace calor y sol, las plantas jóvenes necesitarán cuidados adicionales:
+
+- Riega los trasplantes a diario.
+- Rocía semillas y plántulas recién germinadas dos veces al día para evitar que se sequen.
+- Da sombra temporalmente a las plantas jóvenes para mantener la humedad del suelo y protegerlas del sol. Las tablas y sombrillas sirven bien para dar sombra.
+
+Cuando se acerque el clima frío, cubre tus plantas con hojas o paja. Los túneles, cubiertas de hilera, mini invernaderos y marcos fríos ayudan a extender la temporada.
+
+### Cosechando Tu Huerto de Otoño e Invierno
+
+Las verduras de raíz como nabos, betabeles y zanahorias son más dulces después de una helada, lo que hace que la planta concentre sus azúcares. Estos cultivos pueden dejarse en la tierra y cosecharse durante todo el invierno.
+
+La lechuga y otras hojas para ensalada crecerán más lento en clima frío, pero pueden resistir hasta 20°F con algo de protección.
+
+### Recursos del Servicio de Extensión de OSU
+
+Encuentra estas publicaciones en línea en [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu):
+
+- **Jardinería de Verduras de Otoño e Invierno en el Noroeste del Pacífico** PNW 548
+- **Construcción de Mini Invernaderos y Camas Calientes** FS 246-E
+- **Cómo Construir Tu Propio Mini Invernadero de Cama Elevada** EC 1627
+- **Cultiva Tus Propios Alimentos** EM 9027
+- **Cultiva Tu Propio Ruibarbo** EC 797
+- **Cultiva Tus Propios Tomates y Tomatillos** EC 1333
+- **Almacenar Calabaza de Invierno y Calabaza en Casa** EC 1632
+- **Mejorando el Suelo del Huerto con Materia Orgánica** EC 1561
+- **Fertilidad del Suelo en Sistemas Orgánicos** PNW 646
+
+#### Consejos de Maestros Jardineros™
+
+- **Llama a la Línea de Ayuda de Horticultura en el Hogar:**
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+- Visita [www.cmastergardeners.org](https://www.cmastergardeners.org) para folletos y videos de Universidad de 10 Minutos™.
+- Busca Maestros Jardineros en los mercados de agricultores de la zona.
+
+---
+
+##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalia o represalias por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

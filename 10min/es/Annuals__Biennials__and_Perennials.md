@@ -1,111 +1,152 @@
-## Universidad de 10 Minutos™  
-La Asociación de Jardineros Maestros del Condado de Clackamas, en colaboración y apoyo del  
-Programa de Jardineros Maestros™ de Extensión de OSU  
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo del Programa de Maestros Jardineros™ de Extensión de OSU
 
-### Anuales, Bienales y Perennes  
-#### Resumen  
-Los jardineros tienen numerosas opciones – a veces demasiadas – para sus jardines ornamentales de flores, en parte definidas por el ciclo de vida de las plantas.  
+# Anuales, Bienales y Perennes
 
-Las plantas anuales viven solo una temporada. Aun así, exigimos que produzcan abundantes flores vistosas durante un período prolongado antes de morir.  
+### Resumen
 
-Las bienales viven dos años. En el primer año, producen solo un tallo corto y hojas, y en el segundo año florecen.  
+Los jardineros tienen muchísimas opciones—¡a veces demasiadas!—para sus jardines de flores ornamentales, en parte definidas por la forma de vida de las plantas.
 
-Las plantas perennes viven tres años o más, típicamente con el primer ciclo de floración durante el segundo año. Las variedades de vida corta prosperan solo unos pocos años, mientras que las de vida larga pueden durar décadas.  
+- **Plantas anuales** viven solo una temporada. Aun así, les pedimos que produzcan muchas flores vistosas durante bastante tiempo antes de morir.
+- **Bienales** viven dos años. El primer año solo producen un tallo corto y hojas, luego florecen el segundo año.
+- **Plantas perennes** viven tres años o más, normalmente con el primer ciclo de floración en el segundo año. Las de vida corta duran solo unos pocos años, mientras que las de vida larga pueden durar décadas.
 
-### Selección de plantas  
-Al comprar tus plantas anuales, bienales y perennes, selecciona especímenes vigorosos que tengan hojas completamente hidratadas y un color verde saludable.  
+---
 
-Las puntas de las raíces deben ser de un color blanco cremoso; verifica su condición deslizando el cepellón fuera de la maceta y, por supuesto, reemplázalo cuidadosamente.  
+## Selección de Plantas
 
-Evita plantas con tallos rotos, hojas secas, marchitas o amarillas, o con daños por insectos o enfermedades. La planta debe llenar el recipiente, pero las raíces no deben sobresalir por los agujeros de drenaje. Las raíces colgantes suelen aparecer a finales de la temporada, cuando las plantas han estado demasiado tiempo en la misma maceta.  
+Al comprar tus anuales, bienales y perennes, elige ejemplares vigorosos con:
 
-Aunque sea tentador comprar anuales en plena floración, es mejor elegir plantas compactas, bien ramificadas y con muchos botones. La floración se retrasará un poco, pero con el beneficio de que la planta vivirá más y florecerá más abundantemente.  
+- Hojas completamente hidratadas y de color verde saludable.
+- Puntas de raíz de color blanco cremoso. Revisa el estado sacando con cuidado el cepellón de la maceta y luego vuelve a colocarlo.
 
-En el centro de jardinería, busca bienales en la sección de anuales o perennes. Entre las bienales populares se encuentran la dedalera y varias campanulas, como las campanas de Canterbury y la flor de chimenea.  
+### Evita plantas con:
 
-Las perennes, sean de hoja perenne o caduca, se clasifican como resistentes (sobreviven las heladas) o delicadas (dañadas por las heladas). En nuestra región, las perennes serán resistentes si están etiquetadas para la zona USDA 7 u 8, o la zona Sunset 6. Las zonas para jardines locales pueden variar debido a la elevación.  
+- Tallos quebrados.
+- Hojas secas, marchitas o amarillas.
+- Daños de insectos o enfermedades.
+- Raíces que sobresalen por los agujeros de drenaje (suele ser señal de que la planta ha estado demasiado tiempo en la misma maceta).
 
-Las perennes delicadas pueden añadir variedad y belleza a tu jardín si las cultivas como anuales. Para cultivarlas nuevamente la próxima temporada, colócalas en un lugar protegido durante el invierno.  
+### Consejos para seleccionar
 
-Muchos bulbos florales son perennes confiables en nuestra región, siendo los narcisos y crocus quizás los más comunes. Pero los lirios y las dalias también prosperan; planta los lirios a una profundidad de 4 a 6 pulgadas y las dalias de 7 a 8 pulgadas. Los tulipanes probablemente no regresarán el segundo año a menos que estén en un área que permanezca seca durante el verano. Entre los tulipanes, las diversas especies relativamente pequeñas suelen ser más confiables que los híbridos de flores grandes.  
+- **Anuales:** Elige plantas compactas, bien ramificadas y con muchos botones florales en vez de las que ya están en plena floración. Esto retrasa la floración, pero asegura que la planta viva más tiempo y florezca más abundantemente.
+- **Bienales:** Búscalas en la sección de anuales o perennes. Algunas opciones populares son la dedalera y diversas campánulas como la campana de Canterbury y la flor de chimenea.
+- **Perennes:**
+  - Se clasifican como resistentes (sobreviven a las heladas) o tiernas (se dañan con las heladas).
+  - En nuestra región, las perennes resistentes están etiquetadas para la zona 7 u 8 del USDA, o zona 6 de Sunset.
+  - Las perennes tiernas se pueden cultivar como anuales o pasar el invierno en un lugar protegido.
 
-### Elección del lugar de plantación  
-La etiqueta impresa que viene con las plantas compradas generalmente indica las mejores condiciones de sol o sombra, así como suelo húmedo o seco.  
+### Bulbos
 
-La mayoría de las anuales, bienales y perennes prosperan con sol por la mañana y protección del sol caliente por la tarde; un mínimo de cuatro horas de luz brillante es suficiente, seis horas son mejores. Otras prosperan con algo de sombra.  
+- Algunas perennes confiables incluyen narcisos, crocus, lirios y dalias.
+- Los tulipanes pueden no volver a florecer a menos que se planten en áreas que permanezcan secas durante el verano. Los tulipanes de especie suelen ser más confiables que los híbridos de flores grandes.
 
-Todas las plantas prosperan en suelos que drenan bien.  
+---
 
-### Plantación  
-Ciertas anuales, bienales y perennes pueden sembrarse directamente en el jardín, mientras que otras es mejor iniciarlas en interiores. El paquete de semillas indicará el mejor momento de plantación y el espaciado en el jardín.  
+## Elección del lugar de plantación
 
-También puedes comprar trasplantes jóvenes para una gratificación inmediata.  
+La etiqueta impresa en tus plantas trasplantadas normalmente indica las mejores condiciones de:
 
-En general, todas las anuales, bienales y perennes prosperan mejor si se plantan en el jardín a la misma profundidad que tenían en la maceta original.  
+- **Sol o sombra.**
+- **Suelo húmedo o seco.**
 
-La mayoría de las plantas prosperan en suelos bien drenados. Para preparar el lecho del jardín, comienza quitando las piedras y malezas del área, luego mejora tu suelo mezclando al menos dos pulgadas de compost para mejorar el drenaje en suelos arcillosos y aumentar la retención de agua en suelos arenosos. Mejora el suelo nuevamente durante cada temporada de plantación sucesiva.  
+La mayoría de las anuales, bienales y perennes prosperan con:
 
-Otro consejo para el éxito es asegurarte de que tus plantas y sus sistemas de raíces estén completamente húmedos antes de colocarlas en suelo húmedo del jardín.  
+- Sol de la mañana y protección del sol fuerte de la tarde (mínimo 4 horas de luz brillante, 6 es mejor).
+- Suelo bien drenado.
 
-Para darles un buen comienzo, mezcla fertilizante en el suelo mientras colocas cada planta en su lugar. Puedes usar un fertilizante de liberación lenta o una combinación de fertilizante de uso general y harina de hueso. Sigue las indicaciones de la etiqueta respecto a la cantidad.  
+---
 
-Finalmente, usa agua enriquecida con fertilizante diluida a mitad de concentración para asentar el suelo alrededor de las raíces de las plantas.  
+## Plantación
 
-### Riego  
-La mayoría de las anuales tienen raíces bastante superficiales, por lo que pueden necesitar riego frecuente. El marchitamiento, incluso si es leve, disminuye permanentemente el crecimiento de las plantas; tus anuales se detendrán y las flores serán menos abundantes de lo normal.  
+### Desde semilla
 
-Las bienales y perennes requieren riego regular durante la primera temporada para establecer sistemas de raíces sólidos. Cada vez que riegues, humedece toda la zona de raíces, que en promedio tiene entre 12 y 15 pulgadas de profundidad.  
+- Algunas anuales, bienales y perennes se pueden sembrar directamente en el jardín, mientras que otras es mejor comenzarlas en interiores.
+- Consulta el paquete de semillas para saber la época y el espacio de siembra.
 
-Riega temprano en el día para que las hojas se sequen antes de la noche. Mejor aún, riega en la base de la planta.  
+### Desde trasplantes
 
-### Fertilización  
-Las anuales, porque esperamos que sean muy productivas durante su breve vida, se benefician de dosis regulares de fertilizante soluble en agua y de uso general una o dos veces al mes. Puedes aplicar dosis adicionales si las plantas están atrasadas.  
+- Planta a la misma profundidad que en la maceta original.
+- Prepara el lecho del jardín:
+  - Quita piedras y malezas.
+  - Enmienda el suelo con al menos 2 pulgadas de composta para mejorar el drenaje en suelos arcillosos y aumentar la retención de agua en suelos arenosos.
+  - Enmienda nuevamente en cada temporada de plantación siguiente.
 
-Las bienales y perennes prosperan con poca o ninguna fertilización suplementaria. Este es un caso donde nuestros suelos arcillosos son útiles, ya que proporcionan un flujo lento pero constante de elementos fertilizantes necesarios.  
+### Consejos adicionales
 
-Las perennes tienden a desarrollarse lentamente hasta convertirse en plantas resistentes; pero si se fertilizan, pueden volverse débiles e incluso florecer menos de lo esperado.  
+- Asegúrate de que las plantas y sus raíces estén bien húmedas antes de plantar en suelo de jardín húmedo.
+- Mezcla fertilizante con el suelo al plantar. Usa un fertilizante de liberación lenta o una combinación de fertilizante multiuso y harina de hueso (sigue las instrucciones de la etiqueta).
+- Usa agua con fertilizante diluida a la mitad para asentar el suelo alrededor de las raíces de las plantas.
 
-No fertilices las bienales y perennes en otoño, ya que las plantas necesitan prepararse para el invierno. No quieres alentar ningún crecimiento nuevo a finales de año, ya que podría dañarse por el frío.  
+---
 
-### Mantenimiento en verano  
-Algunas anuales, como las impatiens y begonias fibrosas, se limpian solas, lo que significa que no necesitas quitar sus flores gastadas. Pero la mayoría de las anuales necesitan que se les eliminen las flores gastadas (deadheading).  
+## Riego
 
-Si no eliminas las flores gastadas, las plantas comienzan a producir semillas y probablemente dejarán de florecer. Puedes arreglar las plantas al mismo tiempo eliminando hojas o ramas que estén muriendo o muertas.  
+- **Anuales:**
+  - Tienen raíces poco profundas y pueden necesitar riego frecuente.
+  - Evita que se marchiten, ya que eso detiene su crecimiento y reduce las flores de forma permanente.
+- **Bienales y perennes:**
+  - Requieren riego regular durante la primera temporada para establecer un sistema de raíces fuerte.
+  - Riega profundamente para humedecer la zona de raíces (30–38 cm de profundidad).
+  - Riega temprano en el día para que las hojas se sequen antes de la noche. Riega en la base de la planta para mejores resultados.
 
-También es importante eliminar las flores gastadas de las perennes para evitar que produzcan semillas y así prolongar la floración tanto como sea posible.  
+---
 
-### Mantenimiento en otoño  
-Como probablemente sabes, las anuales se eliminan y se desechan o se compostan al final de la temporada.  
+## Fertilización
 
-Por otro lado, las bienales en su primer año tendrán una roseta de hojas verdes que persistirán durante el invierno. Solo necesitas retirar las hojas amarillas que puedan estar presentes. Cuando el crecimiento se reanude en primavera, el tallo floral se extenderá hacia arriba para producir las flores esperadas.  
+### Anuales
 
-La mayoría de las perennes herbáceas pueden cortarse hasta el suelo cuando comiencen a verse mal a finales del otoño. Aun así, algunas tendrán cabezas de semillas atractivas que podrías querer conservar durante el invierno para las aves o porque añaden detalles interesantes al paisaje.  
+- Se benefician de fertilizante soluble en agua de uso general una o dos veces al mes.
+- Aplica dosis adicionales si las plantas no crecen bien.
 
-Otras, como varios pastos ornamentales, pueden proporcionar interés invernal con sus hojas de color tostado.  
+### Bienales y perennes
 
-Algunas perennes no reaparecen sobre el suelo hasta relativamente tarde en primavera. Con estas, podrías querer conservar parte del tallo para marcar la ubicación y así no perturbar el sistema de raíces mientras deshierbas o plantas.  
+- Prosperan con poco o nada de fertilizante extra.
+- No fertilices en otoño para evitar crecimiento nuevo que pueda dañarse con el frío.
 
-Las perennes de hoja perenne generalmente se podan en primavera, justo antes de que comience el nuevo crecimiento. Retrasar la poda hasta la primavera es especialmente importante en perennes que requieren calor, como lavanda, romero y salvia.  
+---
 
-Con el tiempo, las perennes en grupos se vuelven abarrotadas, florecen menos y comienzan a declinar. Para renovarlas, excava y divide el grupo justo antes de que comience el nuevo crecimiento, luego replanta en suelo recién mejorado. Algunas, como las peonías y hostas, prosperarán en el mismo lugar durante muchos años.  
+## Cuidados de verano
 
-### Información adicional  
-Muchos libros sobre el cultivo de anuales, bienales y perennes están disponibles en la biblioteca y en las librerías.  
+- Algunas anuales (por ejemplo, impatiens y begonias fibrosas) se limpian solas y no requieren retirar las flores secas.
+- La mayoría de las anuales y perennes necesitan que se les retiren las flores marchitas para evitar la producción de semillas y fomentar más flores.
+- Limpia las plantas quitando hojas y ramas muertas o enfermas.
 
-Algunos que podrías encontrar útiles:  
-- _Armitage’s Annuals: A Color Encyclopedia_ por Allan M. Armitage  
-- _Armitage’s Manual of Annuals, Biennials, and Half-Hardy Perennials_ por Allan M. Armitage  
-- _Herbaceous Perennial Plants_ por Allan M. Armitage  
-- _Garden Perennials_ por Allan M. Armitage  
-- _The Well-Tended Perennial Garden_ por Tracy DiSabato-Aust  
-- _Sunset Western Garden Book_  
-- _The AHS A-Z Encyclopedia of Garden Plants_  
+---
 
-### Consejos de Jardineros Maestros™  
-- Llame a la Línea de Ayuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington) o 503-445-4608 (Condado de Multnomah).  
-- Para más guías de la Universidad de 10 Minutos™ y el calendario de clases, visita [www.cmastergardeners.org](http://www.cmastergardeners.org) o [www.metromastergardeners.org](http://www.metromastergardeners.org).  
-- Busca Jardineros Maestros en los mercados agrícolas locales.  
+## Cuidados de otoño
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias o represalias por actividades previas de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)  
+- **Anuales:** Retira y desecha o composta al final de la temporada.
+- **Bienales:** Las plantas de primer año formarán una roseta de hojas verdes que persistirán durante el invierno. Retira hojas amarillas según sea necesario.
+- **Perennes:**
+  - Corta la mayoría de las perennes herbáceas al ras del suelo a fines de otoño, a menos que tengan cabezas de semillas atractivas o pastos ornamentales para el interés invernal.
+  - Algunas perennes reaparecen tarde en primavera; deja parte del tallo para marcar su ubicación.
+  - Las perennes de hoja perenne suelen cortarse en primavera, justo antes de que comience el nuevo crecimiento.
 
+### División de perennes
+
+- Las perennes que crecen en grupos pueden necesitar dividirse cuando están muy apretadas, florecen menos o empiezan a decaer.
+- Divide y replanta en suelo enmendado justo antes de que inicie el nuevo crecimiento.
+- Algunas, como peonías y hostas, prosperan en el mismo lugar durante muchos años.
+
+---
+
+## Información adicional
+
+Hay muchos libros sobre el cultivo de anuales, bienales y perennes disponibles en bibliotecas y librerías. Algunos títulos recomendados son:
+
+- *Armitage’s Annuals: A Color Encyclopedia* de Allan M. Armitage
+- *Armitage’s Manual of Annuals, Biennials, and Half-Hardy Perennials* de Allan M. Armitage
+- *Herbaceous Perennial Plants* de Allan M. Armitage
+- *Garden Perennials* de Allan M. Armitage
+- *The Well-Tended Perennial Garden* de Tracy DiSabato-Aust
+- *Sunset Western Garden Book*
+- *The AHS A-Z Encyclopedia of Garden Plants*
+
+---
+
+#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda de horticultura doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos de Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales en base a raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalias por actividad previa relacionada con derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
 ---

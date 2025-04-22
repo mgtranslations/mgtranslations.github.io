@@ -1,52 +1,80 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10 Daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo kaashanaya lana shaqaynaya Barnaamijka Master Gardener™ ee OSU Extension
 
-Ururka Clackamas County Master Gardener oo iskaashaday lana taageerayo Barnaamijka OSU Extension Master Gardener™.
-
-## Beero Ku Jira Weelal
+# Geed-beerista Weelasha
 
 ### Guudmar
-Weelasha waxay kaalin muhiim ah ka ciyaari karaan in lagu daro midab soo jiidasho leh, qaabdhismeed joogto ah oo sanadka oo dhan ah, iyo udgoon meelaha gaarka ah ee beerta. Waxay ku fiican yihiin dhirta u nugul barafka ama kuwa u baahan xaalado gaar ah (tusaale, beerta dhagaxa, beerta biyaha). Weelasha waxay dhirta u kiciyaan meel sare si loo awoodi karo in si dhow loo qiimeeyo. Beeralayda meelaha cidhiidhiga ah leh, weelasha waxay bixiyaan meel dheeraad ah oo lagu beero. Sidoo kale, beeralayda leh dhir badan ama kuwa aan go’aansan karin meesha ay dhigayaan dhirta cusub, weelasha waxay bixiyaan guryo ku meel gaar ah oo wanaagsan.
+
+Weelashu waxay ku dari karaan midab muuqda, qaab dhismeed joogto ah, iyo caraf meelaha qaarkood ee beerta. Waxay ku habboon yihiin dhirta aan u dulqaadan karin barafka ama kuwa u baahan xaalado gaar ah (tusaale, beerta dhagaxa, beerta biyaha). Weelashu waxay kor u qaadi karaan dhirta si si dhow loo arko. Beeraleyda meel yar ku leh, weelashu waxay siinayaan meel dheeraad ah oo lagu beero. Sidoo kale, beeraleyda haysta dhir badan ama aan go’aan ka gaari karin meesha ay dhirta cusub dhigayaan, weelashu waxay siiyaan meel ku-meel gaar ah oo fiican.
 
 ### Noocyada Weelasha
-Waxaa jira weelal kala duwan oo aad dooran karto, kuwa ugu caansan waxaa ka mid ah:
-- **Dhalada dhoobada**: Way jaban tahay, laakiin si degdeg ah ayey u qalashaa.
-- **Dhalada terracotta**: Way ka qaalisan tahay dhalada dhoobada, laakiin inta badan way sii dheeraataa qalashada.
-- **Weelasha dhoobada**: Waxay leeyihiin midabo iyo qaabab kala duwan, laakiin si fudud ayey u burburi karaan.
-- **Weelasha caaga ah**: Way fudud yihiin oo jaban, laakiin way adkaadaan marka ay iftiin soo gaaraan. Waxaad ku dheereyn kartaa nolosha weelasha caaga ah adigoo ku dhex dhigaya weel qurxoon.
-- **Weelasha alwaaxa**: Ugu danbeyn way qudhmi doonaan; alwaaxyada ugu adkaysiga badan waa cedar iyo redwood.
-- **Weelasha birta ah**: Way miridhayaan waqti ka dib.
-- **Dhalada khamriga**: Aad bay ugu fiican tahay geedaha yaryar iyo geedaha yar yar, laakiin way adag tahay in la dhaqaajiyo.
 
-Ikhtiyaar kale waa inaad samayso weelal gaar ah adigoo adeegsanaya baabuurta duugoobay, foostooyin hore, ama xataa kabaha iyo buudhadhka duugoobay. Waxaad ku xaddidan tahay hal-abuurkaaga. Wax kasta oo aad doorato inaad isticmaasho sida weel, had iyo jeer hubi inay leedahay godadka biyo-mareenka.
+Waxaad dooran kartaa noocyo badan oo weelal ah, kuwa ugu badan waxaa ka mid ah:
 
-Cabbirka weelasha waxaa lagu sheegay iyadoo loo eegayo dhexroorka kore. Haddii aan tusaale ka bixino, weel 12-inch ah wuxuu si fiican ugu shaqaynayaa dhirta sanad-kasta iyo kuwa joogtada ah. Wax kasta oo ka yar waxay si dhakhso ah u qalashaa. Weelal waaweyn waxay ku fiican yihiin geedaha yar yar, geedaha yaryar, iyo dhir isugu jir ah. Foosto badhkeed waxay noqon kartaa beero yar oo ay ku jiraan dhir bilicsan iyo/ama dhir la cuni karo; waxaad soo bandhigi kartaa ubaxyo midabo leh oo qarxinaya; dhir udgoon oo loo isticmaalo karinta ama shaaha; khudaar loogu talagalay cunto fudud ama casho; ama isku-darka dhammaan.
+- **Weelasha dhoobada**: Waa jaban yihiin, balse si dhaqso ah bay u qallalaan.
+- **Terracotta**: Waa ka qaalisan tahay dhoobada, laakiin badanaa way sii waaraysaa oo si tartiib ah bay u qallalataa.
+- **Weelasha keramiga**: Waxay leeyihiin midabyo iyo qaabab kala duwan, balse si fudud bay u jabaan.
+- **Weelasha caaga**: Way fudud yihiin oo jaban, balse way adkaadaan marka iftiin badan la saaro. Waxaad nolosha weelka caaga ah ku dheerayn kartaa adiga oo gelinaya weel qurxoon.
+- **Weelasha alwaaxda**: Ugu dambeyn way qudhmi doonaan; alwaaxda ugu adkaysiga badan waa cedar iyo redwood.
+- **Weelasha birta ah**: Wakhti ka dib way miranayaan.
+- **Foosto khamri**: Waa cabbir fiican oo loogu talagalay geedaha yaryar iyo kuwa dhex dhexaadka ah, balse way adag tahay in la dhaqaajiyo.
 
-### Maaddada Dhirta Lagu Beero
-Weelasha waa in lagu buuxiyaa isku-darka bacriminta sababtoo ah waxay loogu talagalay inay yeeshaan qaab-dhismeed qaro weyn si loo hubiyo biyo-mareen wanaagsan. Si kale haddii loo dhigo, maaddada wanaagsan ee bacriminta waxay noqon doontaa mid fudud oo hawada leh. Waligaa ha u isticmaalin ciid beerta ku jirta weelasha. Qaab-dhismeedkeeda isku-dhafan wuxuu joojinayaa biyo-mareenka ku filan ee gudaha weelka. Sidaa darteed, xididdada dhirta si fiican uma koraan sababtoo ah hawo la’aanta, dhirtana way fashilmaan. Ciidda beerta sidoo kale waxay keeni kartaa cudur, cayayaanka, iyo abuurka haramaha. Waxaad isku dari kartaa bacrin si tartiib ah u sii deynaya maaddada bacriminta ka hor inta aanad beerin.
+Ikhtiyaar kale waa in aad abuurato weel gaar ah sida gaari-dhaqaale duug ah, weel kariye duug ah, xataa kabo ama kabaha duugga ah. Waxaad xaddidan tahay oo keliya fikirkaaga. Waxa aad doorato, mar walba hubi inuu leeyahay daloolo biyo-mareen ah.
 
-Ha raacin dhaqanka aan wanaagsaneyn ee ah inaad ku darto lakab maaddo qaro weyn ah hoosta weelka si biyo-mareen loogu sameeyo. Sababta ay tahay dhaqdhaqaaqa biyaha weelka dhexdiisa, maaddada qaro weyn ee hoos ku jirta bacriminta waxay xannibi doontaa biyo-mareenka.
+Cabbirka weelasha waxaa lagu cabbiraa dhexroorka sare. Talo ahaan:
+
+- Weel 12-inch ah wuxuu ku fiican yahay ubaxa sanadlaha ah iyo perennials. Wax ka yar si dhaqso ah ayuu u qallali doonaa.
+- Weelal waaweyn waxay ku habboon yihiin geedaha yaryar, geedaha laamo leh, iyo dhir isku-dar ah.
+- Nus foosto waxa aad ku beeri kartaa beero yaryar oo qurxin ama cunto leh. Waxaad ku dari kartaa ubaxyo midab leh, dhir udgoon, dhir cunto ah, ama isku-dar.
+
+### Dhulka Lagu Beero
+
+Weelasha waa in lagu buuxiyaa ciidda dhirta loogu talagalay (potting mix) sababtoo ah waxay leedahay qaab jajaban oo si fiican u bixinaysa biyo-mareenka. Si kale haddii loo dhigo, ciidda wanaagsan ee weelasha waa in ay noqotaa mid khafiif ah oo hawada leh.
+
+**Waligaa ha isticmaalin ciidda beerta dhexdeeda ee weelka.** Qaabkeeda jajaban ayaa xannibaya biyo-mareenka. Sidaas darteed, xididdadu si fiican uguma kori karaan weelka, dhirtuna way fashilmi kartaa. Sidoo kale ciidda beerta waxay keeni kartaa cudurro, cayayaan, iyo abuurka cawska.
+
+Waxaad ku dari kartaa bacriminta si tartiib ah u sii deysa ciidda ka hor intaadan beerin. In kasta oo dad badani ku talinayaan in la isticmaalo xabbado biyaha kaydiya, haddana cilmi-baaris la hubo oo arrintaas taageerta ma jirto.
+
+Ha raacin talo khaldan oo ah in la dhigo lakab adag oo hoos ah weelka si biyo-mareen looga helo. Sababtoo ah sida biyuhu ugu socdaan weelka, lakabkaas adag wuxuu xannibayaa biyo-mareenka.
 
 ### Bacriminta
-Bacriminta ku jirta weelasha waxaa laga dhaqaa weelka mar kasta oo aad waraabiso. Sidaa darteed, waa muhiim inaad bacrimiso marka aad dhirta ku beerayso weelasha. Ku dar bacriminta si tartiib ah u sii deynaysa 3 ilaa 4 bilood maaddada bacriminta ka hor inta aanad bilaabin. Kadib, si loo ilaaliyo dhirta xaalad wanaagsan inta lagu jiro xilliga koritaanka, ku dar bacriminta ku milmaysa biyaha 2 ilaa 3 toddobaad, sida loo baahan yahay.
+
+Bacriminta weelka waxa la dhaqaa mar kasta oo la waraabiyo. Sidaas darteed, waa muhiim in la bixiyo bacriminta marka la beero:
+
+- Ku dar bacrimin 3 ilaa 4 bilood sii deysa si tartiib ah ciidda ka hor intaadan bilaabin.
+- Si aad dhirta ugu ilaaliso xaalad fiican inta lagu jiro xilliga koritaanka, isticmaal bacriminta biyaha lagu milo 2 ilaa 3 toddobaad kasta, hadba sida baahidu tahay.
 
 ### Daryeelka Dhirta
-- Guud ahaan, weelka weyn ayaa si fiican ugu shaqeeya dhirtaada.
-- Weelasha waxay xaddidaan booska xididdada. Sidaa darteed, si loo caawiyo dhirta inay u koraan si fiican, waxaad u baahan tahay inaad waraabiso oo bacrimiso marar badan marka loo eego haddii dhirtaas isku mid ah lagu beeri lahaa dhulka. Waxaa laga yaabaa inaad u baahato inaad waraabiso weelasha mar ama xataa laba jeer maalintii xilliga cimilada kulul.
-- Ku dheji weelka meel ku habboon baahiyaha dhirta. Ilaali weelasha ka fog iftiinka tooska ah si looga fogaado “karinta” xididdada dhirta sababtoo ah kulka xad-dhaafka ah.
-- Inta lagu jiro xilliga koritaanka, dhirta ku jirta weelasha waxay u baahan yihiin daryeel iyo nadiifin joogto ah. Goy (jar) iyo ka saar ubaxyada dhamaaday sida loo baahan yahay si koritaanka loo dhiirrigeliyo oo ubax loo helo.
-- Marka dhirta ku jirta weelasha ay koraan, diyaar u noqo inaad ka saarto kuwa aan shaqaynayn, kadibna ku dar beddelka si weelka uu u sii muuqdo wanaagsan.
-- Inta lagu jiro jiilaalka, weelasha waxay dillaaci karaan inta lagu jiro qabow daran sababtoo ah biyaha ku jira maaddada bacriminta waxay ku fiddaan marka ay barafoobaan. Ka ilaali xididdada dhirta qabowga jiilaalka adigoo ku duubaya weelka maaddooyinka dahaarka. Ama, ku kaydi weelasha meel aan qabowga ka jirin sida aqal ama garaash.
 
-### Xulashada Dhirta
-- Ku dhowaad wax kasta oo lagu beeri karo dhulka waxaa lagu kori karaa weel. Tani waxay ku jirtaa geedaha yaryar, geedaha, ubaxa, dhirta sanadka kasta, iyo kuwa joogtada ah, ilaa cabbirka weelka uu ku habboon yahay.
-- Marka aad isku dhejinayso weel, tixgeli dhirta leh dherer kala duwan, oo leh qaabab kala duwan oo caleemo ah, oo leh midabo isku dhafan ama is burinaya oo ku jira ubaxyada iyo/ama caleemaha.
-- Bilicsanaanta waa arrin ku salaysan doorashada shakhsi ahaaneed. Dooro waxaad jeceshahay.
-- Guud ahaan, ku beeri dhirta sanadka ah tiro badan si aad u gaarto saameyn muuqaal xoog leh, si khudaartu ay u leedahay meel ay ku koraan, oo hubi in geedaha iyo geedaha yaryar ay ku filan yihiin booska koritaanka xididdada.
-- U qorshee inaad dib u beerto dhirta waqti-dheer sida geedaha iyo geedaha yaryar 2 ilaa 3 sano kasta oo jar xididdada sida loo baahan yahay. Tani waxaa lagu samayn karaa laba siyaabood. Mid waa inaad ka goyso dhowr inch oo ka mid ah xididdada dhirta, kadibna ku celi weelka asalka ah, adigoo buuxinaya booska maaddada bacriminta cusub. Ama waxaad u dhaqaajin kartaa dhirta weel dhowr inch ka weyn kan asalka ah, adigoo buuxinaya booska maaddada bacriminta cusub.
+- Guud ahaan, weelka weyn, ayaa dhirtaada u wanaagsan.
+- Weelashu waxay xaddidayaan meesha xididku ku koraan. Si dhirtu ugu korto si fiican, waxaad u baahan tahay in aad si joogto ah u waraabiso oo u bacrimiso marka loo eego dhirta dhulka ku taal. Waxaa laga yaabaa inaad u baahato in aad weelasha waraabiso hal mar, xataa labo jeer maalintii xilliga kulaylaha.
+- Weelka dhig meel ku habboon baahida dhirta. Ka ilaali weelasha qorraxda tooska ah si aysan diirimaadku u gubin xididka.
+- Inta lagu jiro xilliga koritaanka, dhirta weelka waxay u baahan yihiin daryeel iyo nadiifin joogto ah. Jar (gaabi) iyo ka saar ubaxyada dhintay si loo kiciyo koritaanka iyo ubax badan.
+- Marka dhirtu korto, ogolow in aad ka saarto kuwa aan shaqaynayn oo aad ku bedelato kuwo cusub si weelku u muuqdo qurux.
+- Xilliga qaboobaha, weelasha waxay dilaacaan marka biyaha ciidda ku jira ay barafowdo waana ballaadhaan. Ka ilaali xididdada dhirta qabowga adiga oo ku daboolaya walxo xannibaya qabowga. Ama ku kaydi weelasha meel aan baraf lahayn sida bakhaar ama garaash.
 
-### Kheyraadka
-- Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), ama 503-445-4608 (Multnomah County).
-- **Beero Ku Jira Weelal**: [Daawo muuqaal](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
-- Macluumaad dheeraad ah: www.cmastergardeners.org
+### Doorashada Dhirta
 
-Adeegga Oregon State University Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyadiisa iyadoo ku saleysan jinsiyadda, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helay barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda, xaaladda askarta, ciqaabta ama aargoosiga ka dhashay hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada).
+- Ku dhawaad wax kasta oo dhulka lagu beeri karo waa lagu kori karaa weel. Waxaa ka mid ah geedaha yaryar, geedaha laamo leh, ubax, timirta, dhir sanadle ah iyo perennials, haddii weelku leeyahay cabbir ku habboon.
+- Marka aad weel isku-dar sameynayso, tixgeli dhir dherer kala duwan leh, caleemo leh qaabab kala duwan, iyo midabyo is-waafaqaya ama is-khilaafsan oo ubaxa/caleemaha ah.
+- Quruxdu waa mid qof walba uu qiimeeyo; dooro waxay kaa farxiso.
+- Guud ahaan:
+  - Dhirta sanadlaha ah si isku mid ah u beero si muuqaal xooggan loo helo.
+  - Siiso khudradda meel ay ku fido karto marka ay korto.
+  - Hubi in geedaha iyo geedaha yaryar ay leeyihiin meel ku filan oo xididku ku koro.
+- U diyaargarow in aad dib-u-beerto dhirta waqti dheer weelka ku jirta sida geedaha iyo geedaha laamo leh 2 ama 3 sano kasta, isla markaana jar xididdada haddii loo baahdo. Tani waa lagu samayn karaa labo siyaabood:
+  1. Ka jar dhowr inch oo xididka ah, kadibna ku celi weelkii hore, meelaha bannaan ku buuxi ciid cusub.
+  2. Dhirta u wareeji weel ka weyn kii hore dhowr inch, meelaha bannaan ku buuxi ciid cusub.
+
+### Kheyraad
+
+- Wac Khadka Caawinta Beerta:
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- [Muuqaalka Geed-beerista Weelasha](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
+- Wixii qoraallo iyo muuqaallo dheeraad ah ee Jaamacadda 10 Daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+#### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada sababo la xiriira: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmo, naafonimo, da', xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka yimaada barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda halgamaha, aargoosiga ama ciqaabta tallaabo hore oo xuquuqda madaniga ah ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

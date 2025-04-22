@@ -1,58 +1,150 @@
-10-Minute University  
-La Asociación de Maestros Jardineros del Condado de Clackamas, en colaboración con y en apoyo del  
-Programa de Maestros Jardineros de Extensión de OSU  
+#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo del Programa Maestro Jardinero™ de la Extensión de OSU
 
-**Introducción a la Jardinería en Invernadero**  
+# Jardinería en Invernadero 101
 
-### Introducción  
-La adición de un invernadero a un jardín en casa puede proporcionar un inicio temprano en la temporada de cultivo y extender la temporada en el otoño. También puede ofrecer protección para plantas sensibles a la temperatura. Y, en el lado humano, puede ser encantador estar cultivando en pleno invierno mientras se está protegido de los elementos. Un invernadero puede ser tan simple como una unidad en una apertura de ventana o tan complejo como una estructura completa con altos valores de aislamiento, sistemas de calefacción automatizados, plomería, ventiladores y equipos de ventilación.  
+### Introducción
 
-### Determina tus objetivos de jardinería en invernadero  
-- **Invernadero Fresco**: Perfecto para jardineros que viven en un clima templado y quieren mantener plantas durante el invierno y comenzar semillas en la primavera. Este tipo de invernadero mantiene la temperatura a 40 grados o más.  
-- **Invernadero Templado**: Para jardineros que viven en un clima frío y quieren cultivar orquídeas y árboles cítricos. Las temperaturas nocturnas alrededor de 55 grados funcionan bien.  
-- **Invernadero Caliente**: Diseñado para jardineros que quieren cultivar plantas tropicales y requieren temperaturas nocturnas de al menos 60 grados.  
+Agregar un invernadero a tu jardín en casa puede darte una ventaja para iniciar la temporada de cultivo y extenderla en el otoño. También puede proteger a las plantas sensibles a las temperaturas extremas. Para las personas, puede ser muy agradable cuidar el jardín en pleno invierno, protegido del clima. Un invernadero puede variar desde una estructura simple en una ventana hasta una construcción más compleja con alto aislamiento, sistemas de calefacción automatizados, plomería, ventiladores y equipos de ventilación.
 
-### Determina la ubicación  
-Cuanto más sol, mejor, especialmente en invierno. Los invernaderos se orientan mejor con el lado largo hacia el sur o el este. Los invernaderos orientados hacia el oeste corren el peligro de calentarse demasiado, mientras que los invernaderos orientados hacia el norte son más adecuados para plantas con requisitos de poca luz. Colocar cerca de árboles caducifolios puede permitir la entrada de luz solar durante los meses más fríos del año pero proporcionar sombra bienvenida durante los veranos calurosos. Un sitio nivelado y con buen drenaje es óptimo. Un invernadero semi-enterrado o enterrado, con uno o más lados por debajo del nivel del suelo, puede construirse en una pendiente, proporcionando más aislamiento.  
+---
 
-Dependiendo del lugar, las asociaciones de propietarios y las agencias gubernamentales locales pueden tener restricciones sobre la ubicación del invernadero. Consulta con las autoridades al principio del proceso para ver si se requieren permisos.  
+### Define tus Objetivos de Jardinería en Invernadero
 
-### Tipos de invernaderos  
-- **Invernaderos Adosados**: Se conectan en el lado largo del invernadero o en el extremo del hastial a una pared de la casa o el garaje.  
-  - **Pros**: Pueden ser menos costosos y proporcionar más protección contra los elementos con un lado resguardado por una estructura. La electricidad y el agua suelen estar cerca. La proximidad a la casa puede ser una ventaja en climas adversos.  
-  - **Contras**: La altura puede estar restringida por la estructura del edificio. Se necesita una buena barrera de vapor para evitar que la humedad del invernadero se filtre en el aislamiento de la casa.  
+- **Invernadero Frío**  
+  Perfecto para jardineros que viven en un clima templado y quieren proteger plantas en invierno y comenzar semillas en primavera. Este tipo de invernadero mantiene la temperatura a 40°F (4°C) o más.
 
-- **Invernaderos Independientes**: Se encuentran separados de otras estructuras.  
-  - **Pros**: Tienen más flexibilidad en la ubicación y proporcionan más luz. Hay una gran variedad de opciones de diseño, y es más fácil expandir la estructura añadiendo extensiones a los extremos.  
-  - **Contras**: Debes llevar agua y electricidad al invernadero. Los costos de calefacción son más altos debido a la mayor área de pared y exposición a los elementos.  
+- **Invernadero Templado**  
+  Ideal para quienes viven en climas fríos y desean cultivar orquídeas y árboles cítricos. Una temperatura nocturna de alrededor de 55°F (13°C) funciona bien.
 
-### Fundamentos  
-Los cimientos son necesarios en muchos invernaderos y pueden construirse de madera tratada, mampostería o concreto. Es importante construir los cimientos según las especificaciones del invernadero que planeas instalar.  
+- **Invernadero Caliente**  
+  Diseñado para jardineros que quieren cultivar plantas tropicales y requieren temperaturas nocturnas de al menos 60°F (16°C).
 
-### Materiales para la estructura  
-- **Acero Galvanizado**: El más común para invernaderos de estilo arco o gótico. Se requiere una solución de galvanizado para evitar que el acero se oxide.  
-- **Aluminio**: Una opción popular para muchos kits de invernadero, es duradero, liviano y viene en varios colores.  
-- **Madera**: Ofrece el mayor factor de aislamiento; es popular entre las personas que desean construir su propio invernadero. La madera tratada a presión durará más y es mejor para contacto directo con el suelo. La madera de secoya, cedro y roble blanco puede ser muy resistente a la descomposición. Pintar o teñir el marco antes de ensamblarlo también extiende su vida útil.  
+---
 
-### Materiales de acristalamiento  
-- **Vidrio**: Es el acristalamiento tradicional de los invernaderos. Ofrece la mayor transmisión de luz y hace agradable la vista hacia el jardín. El vidrio de un solo panel tiene una transmisión de luz del 85% - 95%. El vidrio doble puede romperse con fluctuaciones de temperatura. Los paneles dobles sellados de fábrica transmiten entre el 70% y el 75% de luz.  
-- **Policarbonato**: Más ligero que el vidrio, requiere menos marco estructural. El policarbonato de doble pared es una excelente opción para techos de invernaderos debido a la difusión de luz y resistencia a rompimientos. La transmisión de luz es del 83%.  
-- **Plástico**: Se utiliza para invernaderos tipo arco. El plástico transparente de 6 mil transmite el 87% de luz, mientras que el blanco de 6 mil transmite el 40%.  
+### Elige la Ubicación
 
-### Utilidades  
-- **Electricidad**: Tener electricidad en el invernadero brinda flexibilidad en su uso. Las luces de cultivo, almohadillas térmicas, ventiladores y calentadores requieren electricidad.  
-- **Agua**: Tener fácil acceso a una manguera ahorra tiempo y esfuerzo.  
-- **Gas**: Otra opción para una fuente de calor. Se requiere una adecuada ventilación y ductos.  
+- Cuanta más luz solar, mejor—especialmente en invierno. Los invernaderos funcionan mejor si el lado largo queda orientado hacia el sur o el este.
+- Los invernaderos orientados al oeste pueden sobrecalentarse, mientras que los que miran al norte son mejores para plantas que necesitan poca luz.
+- Colocar el invernadero cerca de árboles de hoja caduca puede dejar pasar el sol en invierno y dar sombra en verano.
+- Un sitio plano con buen drenaje es lo óptimo. Un invernadero tipo fosa o semi-enterrado, construido en una pendiente con uno o más lados bajo el nivel del suelo, puede ofrecer aislamiento adicional.
 
-### Accesorios  
-- **Calentadores**: Incluso un invernadero fresco puede necesitar algo de calor para mantener las temperaturas por encima del punto de congelación. El calor suplementario puede ser tan simple como un calentador portátil o masa solar. Para proporcionar temperaturas más cálidas, puede ser necesario un circuito de 220 V.  
-- **Termómetros**: Un termómetro de mínimo/máximo monitorea las temperaturas altas y bajas. Los termómetros con Bluetooth pueden alertarte inmediatamente cuando las temperaturas son demasiado bajas o altas.  
-- **Circulación de aire y control de temperatura**: Proporcionar un buen flujo de aire es importante para la salud de las plantas. Coloca ventilas en el techo y en la parte baja del invernadero para que el aire pueda moverse y escapar en días calurosos. Un ventilador circula el aire para mejorar la calefacción en invierno y la refrigeración en verano.  
-- **Almohadillas para iniciar semillas**: Calientan el medio de cultivo para acelerar la germinación.  
-- **Iluminación**: Viene en una variedad de opciones de instalación y tipos de bombillas. Las luces con tonos hacia el espectro azul promueven el follaje, mientras que las luces hacia el espectro rojo promueven la floración. Al iniciar semillas, los accesorios de luz deben colocarse aproximadamente a 4” de la superficie del medio de cultivo y levantarse a medida que las plántulas crecen.  
+**Nota:** Consulta con la Asociación de Propietarios (HOA por sus siglas en inglés) y agencias locales sobre restricciones para instalar invernaderos. Puede que necesites permisos.
 
-### Para más información  
-**Greenhouses for Homeowners and Gardeners (NRAES 137)**  
-[https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)  
+---
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales en base a raza, color, origen nacional, religión, sexo, identidad de género (incluyendo expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias o retaliación por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+### Tipos de Invernaderos
+
+#### Invernaderos Adosados
+
+- **Ventajas:**
+  - Pueden ser menos costosos.
+  - Ofrecen más protección contra el clima ya que uno de los lados está junto a una estructura.
+  - Normalmente tienen electricidad y agua cerca.
+  - La cercanía a la casa es conveniente en mal clima.
+- **Desventajas:**
+  - La altura puede estar limitada por la estructura del edificio.
+  - Se necesita una buena barrera de vapor para evitar que la humedad entre en el aislamiento de la casa.
+
+#### Invernaderos Independientes
+
+- **Ventajas:**
+  - Más flexibilidad en la ubicación y más luz disponible.
+  - Gran variedad de opciones de diseño.
+  - Es más fácil expandir agregando a los extremos.
+- **Desventajas:**
+  - Hay que llevar agua y electricidad al invernadero.
+  - Mayor costo de calefacción debido a más paredes expuestas al clima.
+
+---
+
+### Cimientos
+
+Muchos invernaderos requieren cimientos, que pueden ser de madera tratada, mampostería o concreto. Es importante construir los cimientos según las especificaciones del invernadero que planeas instalar.
+
+---
+
+### Materiales para la Estructura
+
+- **Acero Galvanizado**
+  - Común en invernaderos tipo túnel o estilo gótico.
+  - Requiere un tratamiento galvanizado para evitar el óxido.
+
+- **Aluminio**
+  - Popular en muchos kits de invernadero.
+  - Resistente, liviano y disponible en varios colores.
+
+- **Madera**
+  - Ofrece el mejor aislamiento.
+  - La madera tratada a presión dura más y es mejor para contacto con el suelo.
+  - Opciones resistentes a la descomposición incluyen secuoya, cedro y el corazón del roble blanco.
+  - Pintar o barnizar la estructura antes de armarla prolonga su vida útil.
+
+---
+
+### Materiales para el Acristalamiento
+
+- **Vidrio**
+  - Material tradicional para invernaderos.
+  - Permite el mayor paso de luz y vistas al jardín.
+  - El vidrio sencillo transmite un 85%–95% de la luz.
+  - El vidrio doble puede romperse con los cambios de temperatura. Los paneles dobles sellados de fábrica transmiten un 70%–75% de la luz.
+
+- **Policarbonato**
+  - Más liviano que el vidrio y requiere menos estructura de soporte.
+  - El policarbonato de doble pared es excelente para techos de invernadero porque difunde la luz y resiste roturas. La transmisión de luz es del 83%.
+
+- **Plástico**
+  - Usado comúnmente en invernaderos tipo túnel.
+  - El plástico transparente de 6 mil transmite un 87% de la luz.
+  - El plástico blanco de 6 mil transmite un 40% de la luz.
+
+---
+
+### Servicios Básicos
+
+- **Electricidad**
+  - Permite usar luces de cultivo, mantas térmicas, ventiladores y calefactores.
+
+- **Agua**
+  - Tener acceso fácil a una manguera ahorra tiempo y trabajo.
+
+- **Gas**
+  - Otra opción para calefacción. Se requiere ductos y ventilación adecuados.
+
+---
+
+### Accesorios
+
+- **Calentadores**
+  - Incluso un invernadero frío puede necesitar calefacción para mantener la temperatura por encima de cero.
+  - La calefacción adicional puede ir desde un calentador portátil hasta masa térmica solar.
+  - Temperaturas más altas pueden requerir un circuito de 220 V.
+
+- **Termómetros**
+  - Un termómetro de mínimo/máximo monitorea las temperaturas altas y bajas.
+  - Los termómetros Bluetooth pueden avisarte de inmediato si la temperatura es demasiado baja o alta.
+
+- **Circulación de Aire y Control de Temperatura**
+  - Un buen flujo de aire es esencial para plantas sanas.
+  - Coloca ventilas en el techo y abajo en el invernadero para permitir el movimiento del aire y su salida en días calurosos.
+  - Un ventilador mejora la calefacción en invierno y la refrigeración en verano.
+
+- **Alfombrillas para Germinación**
+  - Calientan el sustrato para acelerar la germinación.
+
+- **Iluminación**
+  - Existen diferentes opciones de instalación y tipo de foco.
+  - Las luces con tonos azulados fomentan el crecimiento de hojas, mientras que las rojizas promueven la floración.
+  - Al iniciar semillas, coloca las lámparas aproximadamente a 10 cm de la superficie del sustrato y súbelas conforme crecen las plántulas.
+
+---
+
+### Para Más Información
+
+**Invernaderos para Propietarios y Jardineros (NRAES 137)**  
+[https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301](https://ecommons.cornell.edu/items/5df07397-71e4-465d-b90f-4ed9032fb301)
+
+---
+
+#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, situación de veterano, represalias o venganza por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---

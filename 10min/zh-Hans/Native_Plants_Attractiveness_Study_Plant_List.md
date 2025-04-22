@@ -1,120 +1,61 @@
+#### 10分钟大学™ · 克拉克马斯县园艺大师协会 · 与俄勒冈州立大学推广园艺大师™项目合作并支持
 
-### 原生植物吸引力研究 —— 植物列表  
-由 Aaron Anderson 和 Gail Langellotto，俄勒冈州立大学花园生态实验室进行的研究  
-**2017 年和 2018 年实地研究季节的结果缩写如下：**  
-A – 2017 年吸引最多蜜蜂的植物  
-B – 2017 年吸引最多本地蜜蜂的植物  
-C – 2018 年吸引最多蜜蜂的植物  
-D – 2018 年吸引最多本地蜜蜂的植物  
+# 本地植物吸引力研究
 
-请访问 [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/) 查看详细信息和更新  
+## 植物清单
 
----
+由Aaron Anderson和Gail Langellotto（俄勒冈州立大学园艺生态实验室）进行的研究
 
-#### 植物种类  普通名称  结果*  生命周期  开花颜色  
+*2017年和2018年田间季节的结果缩写如下：  
+A - 2017年吸引蜜蜂总数最多的植物  
+B - 2017年吸引本地蜜蜂最多的植物  
+C - 2018年吸引蜜蜂总数最多的植物  
+D - 2018年吸引本地蜜蜂最多的植物。*
 
-- **Acmispon (Lotus) parviflorus**  
-  - 一年生  
-  - 白色/粉色  
-
-- **Clarkia amoena**  （告别春天）  
-  - **D**  
-  - 一年生  
-  - 粉色  
-
-- **Collinsia grandiflora**  （大蓝眼玛丽）  
-  - 一年生  
-  - 蓝色  
-
-- **Gilia capitata**  （球状吉莉亚）  
-  - **A,B,C**  
-  - 一年生  
-  - 蓝色  
-
-- **Lupinus polycarpus**  （微型羽扇豆）  
-  - 一年生  
-  - 紫色/蓝色  
-
-- **Madia elegans**  （普通马迪亚）  
-  - **A,B**  
-  - 一年生  
-  - 黄色  
-
-- **Nemophila menziesii**  （蓝眼菘蓝）  
-  - 一年生  
-  - 蓝色/白色  
-
-- **Eschscholzia californica**  （加州罂粟）  
-  - **B,C,D**  
-  - 一年生  
-  - 橙色  
-
-- **Helianthus annuus**  （普通向日葵）  
-  - 一年生  
-  - 黄色  
-
-- **Phacelia heterophylla**  （多叶紫草）  
-  - **C,D**  
-  - 一年生  
-  - 白色  
+详情和最新信息请访问 [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/)
 
 ---
 
-#### 植物种类  普通名称  结果*  生命周期  开花颜色  
+### 一年生植物
 
-- **Achillea millefolium**  （蓍草）  
-  - **D**  
-  - 多年生  
-  - 白色  
+| 植物学名                      | 常用名                  | 结果*   | 生命周期   | 花色        |
+| :---------------------------- | :--------------------- | :------ | :--------- | :---------- |
+| Acmispon (Lotus) parviflorus  |                        |         | 一年生     | 白/粉红     |
+| Clarkia amoena                | 春天的告别              | D       | 一年生     | 粉红        |
+| Collinsia grandiflora         | 巨型蓝眼玛丽            |         | 一年生     | 蓝色        |
+| Gilia capitata                | 球状吉利亚              | A, B, C | 一年生     | 蓝色        |
+| Lupinus polycarpus            | 迷你羽扇豆              |         | 一年生     | 紫色/蓝色   |
+| Madia elegans                 | 常见玛迪亚              | A, B    | 一年生     | 黄色        |
+| Nemophila menziesii           | 婴儿蓝眼草              |         | 一年生     | 蓝色/白色   |
+| Eschscholzia californica      | 加州罂粟                | B, C, D | 一年生     | 橙色        |
+| Helianthus annuus             | 向日葵                  |         | 一年生     | 黄色        |
+| Phacelia heterophylla         | 变叶紫草                | C, D    | 一年生     | 白色        |
 
-- **Anaphalis margaritacea**  （珍珠永生花）  
-  - 多年生  
-  - 白色  
+---
 
-- **Asclepias speciosa**  （艳丽马利筋）  
-  - 多年生  
-  - 粉色/白色  
+### 多年生植物
 
-- **Aquilegia formosa**  （西部红耧斗菜）  
-  - 多年生  
-  - 红色  
+| 植物学名                  | 常用名                  | 结果*      | 生命周期   | 花色         |
+| :------------------------ | :--------------------- | :--------- | :--------- | :------------ |
+| Achillea millefolium      | 西洋蓍草                | D          | 多年生     | 白色         |
+| Anaphalis margaritacea    | 珍珠常山                |            | 多年生     | 白色         |
+| Asclepias speciosa        | 华丽马利筋              |            | 多年生     | 粉红/白色    |
+| Aquilegia formosa         | 西部红耧斗菜            |            | 多年生     | 红色         |
+| Aster subspicatum         | 道格拉斯紫菀            | A, B, C, D | 多年生     | 紫色         |
+| Camassia leichtlinii      | 常见卡玛西亚            |            | 多年生     | 紫色/白色    |
+| Eriophyllum lanatum       | 俄勒冈阳光花            |            | 多年生     | 黄色         |
+| Fragaria vesca            | 野草莓                  |            | 多年生     | 白色         |
+| Iris tenax                | 俄勒冈鸢尾              |            | 多年生     | 紫色         |
+| Sedum oregonense          | 奶油景天                |            | 多年生     | 黄色         |
+| Sidalcea virgata          | 玫瑰棋盘锦葵            |            | 多年生     | 粉红色       |
+| Sisyrinchium idahoense    | 蓝眼草                  |            | 多年生     | 蓝色/紫色    |
+| Solidago canadensis       | 加拿大一枝黄花          | A, B, C, D | 多年生     | 黄色         |
 
-- **Aster subspicatum**  （道格拉斯紫菀）  
-  - **A,B,C,D**  
-  - 多年生  
-  - 紫色  
+---
 
-- **Camassia leichtlinii**  （普通卡马斯花）  
-  - 多年生  
-  - 紫色/白色  
+#### 园艺大师™建议 · 家庭园艺热线：503-655-8631（克拉克马斯县）· 503-821-1150（华盛顿县）· 503-445-4608（马尔特诺马县）· 更多10分钟大学™讲义和课程安排，请访问 [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
-- **Eriophyllum lanatum**  （俄勒冈阳光花）  
-  - 多年生  
-  - 黄色  
+---
 
-- **Fragaria vesca**  （野生草莓）  
-  - 多年生  
-  - 白色  
-
-- **Iris tenax**  （俄勒冈鸢尾）  
-  - 多年生  
-  - 紫色  
-
-- **Sedum oregonense**  （奶油景天）  
-  - 多年生  
-  - 黄色  
-
-- **Sidalcea virgata**  （玫瑰格纹锦葵）  
-  - 多年生  
-  - 粉色  
-
-- **Sisyrinchium idahoense**  （蓝眼草）  
-  - 多年生  
-  - 蓝色/紫色  
-
-- **Solidago canadensis**  （加拿大一枝黄花）  
-  - **A,B,C,D**  
-  - 多年生  
-  - 黄色  
-
+##### 俄勒冈州立大学推广服务 · 俄勒冈州立大学推广服务在其所有项目、服务、活动和材料中，禁止基于种族、肤色、国籍、宗教、性别、性别认同（包括性别表达）、性取向、残疾、年龄、婚姻状况、家庭/父母身份、来自公共援助项目的收入、政治信仰、遗传信息、退伍军人身份、报复或因曾经参与民权活动而受到的歧视。（并非所有禁止的条件都适用于所有项目。）
 ---

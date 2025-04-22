@@ -1,69 +1,102 @@
-# Université de 10 Minutes™  
-L'Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration et en soutien au programme des Maîtres Jardiniers™ de l'Extension de l’Université d'État de l'Oregon  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme Maître Jardinier™ de l’Extension OSU
 
-## Dix Mauvaises Herbes à Connaître  
+# Dix Mauvaises Herbes à Connaître
 
-Une mauvaise herbe est une plante nuisible ou gênante, ou qui peut causer des blessures aux personnes, aux animaux ou aux cultures désirées. Dans le jardin familial, elles peuvent entrer en compétition avec les cultures désirées, réduire l’esthétique d’un paysage, provoquer des allergies ou empoisonner les humains ou les animaux, ou encore abriter des maladies, des rongeurs et des insectes nuisibles.  
+Une mauvaise herbe est une plante qui est un danger ou une nuisance, ou qui peut blesser les personnes, les animaux ou une culture désirée. Dans le jardin familial, les mauvaises herbes peuvent :
+- Faire concurrence aux cultures souhaitées
+- Réduire l’attrait du paysage
+- Être une source d’allergies ou de poison pour les humains ou les animaux
+- Abriter des maladies, des rongeurs et des insectes nuisibles
 
-### Comment Contrôler les Mauvaises Herbes  
-Connaître vos mauvaises herbes vous aide à identifier les moyens les plus efficaces de les contrôler. Les mauvaises herbes annuelles poussent pendant une saison ; il est donc essentiel de les retirer avant qu'elles ne concurrencent les cultures et/ou ne produisent des graines. Les mauvaises herbes vivaces vivent plusieurs années, et leur suppression efficace nécessite de déterrer leurs racines ou de les tuer avec un herbicide systémique. Elles se propagent également par graines.  
+---
 
-- **Éviter les mauvaises herbes** : Examinez attentivement les éléments que vous introduisez dans le jardin, comme le compost, le sol et les plantes. Surveillez également votre propriété pour repérer les mauvaises herbes qui s’infiltrent depuis les voisins.  
-- **Utiliser des contrôles culturels et mécaniques** : Désherbez tôt et souvent pour qu’elles ne prennent pas racine. Empêchez les mauvaises herbes de produire des graines. La rotation des cultures et la plantation de cultures de couverture peuvent réduire les mauvaises herbes.  
-- **Appliquer du paillis** : Le paillage supprime les mauvaises herbes. Les paillis organiques courants incluent l’écorce déchiquetée, les feuilles, le compost et les journaux. Les paillis synthétiques incluent le plastique ou les tissus paysagers.  
-- **Arroser uniquement les plantes souhaitées** : Utilisez l’irrigation goutte à goutte ou un arrosage manuel ciblé pour réduire la croissance des mauvaises herbes.  
-- **Utiliser des herbicides en dernier recours** : Assurez-vous de suivre les instructions sur l’étiquette. Voici un guide rapide des terminologies :  
-  - Les herbicides **pré-émergents** sont utilisés avant que les mauvaises herbes ne germent.  
-  - Les herbicides **post-émergents** sont utilisés après que les mauvaises herbes ont poussé.  
-  - Les herbicides **sélectifs** contrôlent certaines plantes et pas d’autres.  
-  - Les herbicides **non sélectifs** peuvent potentiellement endommager de nombreux types de plantes.  
-  - Les herbicides **systémiques** se déplacent du point d’application initial vers d’autres parties de la plante.  
-  - Les herbicides **non systémiques** ou de contact affectent uniquement la partie de la plante qu’ils touchent.  
+## Comment Contrôler les Mauvaises Herbes
 
-## Mauvaises Herbes Communes dans Notre Région  
+Connaître vos mauvaises herbes aide à identifier les meilleures façons de les contrôler :
+- **Mauvaises herbes annuelles** : poussent pendant une saison. Retirez-les avant qu’elles ne concurrencent les cultures et/ou ne produisent des graines.
+- **Mauvaises herbes vivaces** : vivent plusieurs années. L’élimination efficace nécessite d’arracher leurs racines ou de les tuer avec un herbicide systémique. Elles se propagent aussi par graines.
 
-### Pissenlit (Asteraceae) – Vivace  
-Le pissenlit est une plante vivace avec de petites fleurs jaunes au sommet d’un pédoncule. Il prospère dans les endroits humides.  
-**Contrôle** : Retirez manuellement toute la racine pivotante, qui peut être profonde et ramifiée, avant que la plante ne produise des graines. Dans les pelouses, ressemez la zone pour minimiser l’intrusion de mauvaises herbes sur le sol nu.  
+### Méthodes de Contrôle des Mauvaises Herbes
 
-### Trèfle (Trifolium, Medicago et Melilotus) – Certaines annuelles, certaines vivaces  
-Tous les trèfles ont des racines pivotantes et des feuilles en forme de trèfle. Les formes rampantes peuvent s’étendre en larges plaques.  
-**Contrôle** : Retirez manuellement les racines pivotantes avant qu’elles ne produisent des graines. Les graines ont des enveloppes protectrices dures et peuvent être difficiles à éliminer ; appliquez du paillis pour empêcher leur germination.  
+1. **Exclusion**
+   - Examinez attentivement ce que vous apportez au jardin, comme le compost, la terre et les plantes.
+   - Surveillez votre propriété pour éviter l’invasion de mauvaises herbes rampantes venant des voisins.
 
-### Chiendent (Elytrigia repens) – Vivace  
-Le chiendent est dressé, peut former des touffes et atteindre presque 1,20 m de haut. Il se reproduit par graines et par tiges souterraines rampantes (rhizomes).  
-**Contrôle** : Augmentez la fertilisation à l’azote et tondez régulièrement. Il est très difficile de l’éliminer par des moyens mécaniques.  
+2. **Contrôles Culturels et Mécaniques**
+   - Désherbez tôt et souvent pour éviter l’installation des mauvaises herbes.
+   - Empêchez les mauvaises herbes de monter en graines.
+   - Faites une rotation des cultures potagères et plantez des engrais verts pour réduire les mauvaises herbes.
 
-### Pâturin annuel (Poa annua) – Annuelle  
-Le pâturin annuel a des tiges aplaties dressées ou étalées. Elles mesurent de 5 à 30 cm, formant parfois des touffes denses. La période de floraison et de production de graines s’étend de mars à août.  
-**Contrôle** : Désherbez ou arrachez à la main avant que les graines ne se forment. Difficile à contrôler dans les pelouses.  
+3. **Paillage**
+   - Supprime les mauvaises herbes.
+   - Paillis organiques courants : écorce déchiquetée, feuilles, compost, journaux.
+   - Paillis synthétiques : plastique, toiles paysagères.
 
-### Lierre anglais (Hedera helix) – Vivace  
-Le lierre anglais se reproduit par graines et par stolons. Les tiges grimpant sur les arbres produiront des fruits que les oiseaux peuvent disperser.  
-**Contrôle** : Déterrez ou arrachez à la main. Coupez les plantes grimpant sur les arbres à hauteur de taille et déterrez les racines.  
+4. **Arrosage**
+   - Arrosez seulement les plantes désirées avec un goutte-à-goutte ou un arrosage ciblé à la main pour limiter la pousse des mauvaises herbes.
 
-### Renoncule rampante (Ranunculus repens) – Vivace  
-Cette plante compétitive pousse jusqu’à 30 cm de haut, se propage par stolons et graines et forme des tapis épais sur les sols humides et mal drainés. Les feuilles sont vert foncé avec des taches claires et divisées en trois folioles dentées. Les fleurs sont brillantes, jaune vif.  
-**Contrôle** : Dans les pelouses, améliorez le drainage, évitez le compactage et favorisez une herbe saine en semant et fertilisant si nécessaire. Retirez à la main tous les stolons, racines et points de croissance, surtout entre l’automne et le printemps, lorsque le sol est humide.  
+5. **Herbicides** (en dernier recours)
+   - Suivez les instructions sur l’étiquette.
+   - **Guide de Terminologie** :
+     - *Herbicides de prélevée* : utilisés avant la germination des mauvaises herbes.
+     - *Herbicides de post-levée* : utilisés après l’apparition des mauvaises herbes.
+     - *Herbicides sélectifs* : ciblent certaines plantes et pas d’autres.
+     - *Herbicides non sélectifs* : peuvent endommager de nombreux types de plantes.
+     - *Herbicides systémiques* : se déplacent du point d’application vers d’autres parties de la plante.
+     - *Herbicides non systémiques (de contact)* : n’agissent que sur la partie de la plante touchée.
 
-### Patience crépue (Rumex crispus L.) – Vivace  
-Cette vivace robuste à racine pivotante peut atteindre de 60 cm à 1,50 m de haut et possède de grandes feuilles basales avec des bords ondulés. Les fleurs et parfois toute la plante peuvent devenir rouge-brun à maturité. Elle peut générer une nouvelle plante à partir d’un petit morceau de racine coupée.  
-**Contrôle** : Déterrez toute la racine (ce qui peut être difficile) avant qu’elle ne produise des graines. Vérifiez les repousses à partir des fragments de racines et continuez à éliminer les nouvelles plantes.  
+---
 
-### Liseron des champs (Convolvulus arvensis L.) – Vivace  
-Le liseron des champs forme souvent des tapis denses enchevêtrés avec des feuilles en forme de flèche et des fleurs en forme de cloche, blanches à rosées. Sa longue racine pivotante peut atteindre 3 mètres de profondeur, avec des racines traçantes plus proches de la surface. Les graines restent viables jusqu’à 50 ans.  
-**Contrôle** : Arrachez à la main la partie supérieure chaque semaine (ou plus souvent), retirez les racines traçantes si possible, et empêchez la formation de graines. Pulvérisez un herbicide systémique de la fin de l’été au début de l’automne.  
+## Mauvaises Herbes Courantes dans Notre Région
 
-### Cardamine amère (Cardamine oligosperma) – Annuelle d’hiver ou bisannuelle  
-Les plantes mesurent de 8 à 30 cm de haut, avec des tiges lisses et ramifiées émergeant de la base du sol. Les feuilles rayonnent de la base de la tige pour former une rosette. Petites fleurs blanches sur des tiges. Lorsque les gousses de graines mûrissent, les graines sont « projetées » à plusieurs mètres de distance.  
-**Contrôle** : Arrachez à la main avant que les graines ne se forment. Appliquez une couche de paillis de 5 à 8 cm dans les zones infestées à la fin de l’été pour empêcher la germination des graines.  
+### Pissenlit (*Asteraceae*) – Vivace
+- **Description** : Petites fleurs jaunes au sommet d’une tige ; pousse bien dans les endroits humides.
+- **Contrôle** : Retirez à la main toute la racine pivotante (profonde et ramifiée) avant que la plante ne produise des graines. Dans la pelouse, semez à nouveau pour réduire l’invasion de mauvaises herbes sur les zones nues.
 
-### Digitaire (Digitaria ischaemum) – Annuelle  
-La digitaire est une mauvaise herbe courante dans les jardins potagers, les plates-bandes paysagères et les allées en gravier. C’est une herbe annuelle basse qui se propage par graines et parfois par enracinement des joints les plus bas des tiges.  
-**Contrôle** : Éliminez-la avant qu’elle ne produise des graines. Retirez à la main la touffe, y compris les racines.  
+### Trèfle (*Trifolium*, *Medicago* et *Melilotus*) – Certaines Annuelles, Certaines Vivaces
+- **Description** : Racines pivotantes et feuilles en forme de trèfle ; les formes rampantes peuvent s’étendre en grandes plaques.
+- **Contrôle** : Retirez à la main les racines pivotantes avant la montée en graines. Appliquez du paillis pour empêcher la germination car les graines ont une coque protectrice dure.
 
-## Ressources  
-- **Biologie et Gestion des Mauvaises Herbes Vivaces**, EM 8776, [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **Plantes et Ravageurs Envahissants**, Ville de Portland, Oregon  
+### Chiendent (*Elytrigia repens*) – Vivace
+- **Description** : Herbe dressée en touffes pouvant atteindre 1,20 m ; se reproduit par graines et tiges souterraines rampantes (rhizomes).
+- **Contrôle** : Augmentez la fertilisation azotée et la tonte. Très difficile à éliminer mécaniquement.
 
-L’Université d'État de l'Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, de la couleur, de l'origine nationale, de la religion, du sexe, de l'identité de genre (y compris l'expression de genre), de l'orientation sexuelle, du handicap, de l'âge, du statut marital, du statut familial ou parental, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours de bâton liés à une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s'appliquent pas à tous les programmes.)  
+### Pâturin Annuel (*Poa annua*) – Annuelle
+- **Description** : Tiges aplaties, dressées ou étalées, de 5 à 30 cm ; parfois en touffes denses. Floraison et production de graines de mars à août.
+- **Contrôle** : Sarclez ou arrachez à la main avant la formation des graines. Difficile à contrôler dans la pelouse.
+
+### Lierre Anglais (*Hedera helix*) – Vivace
+- **Description** : Se reproduit par graines et stolons ; les tiges grimpant dans les arbres forment des fruits dispersés par les oiseaux.
+- **Contrôle** : Arrachez ou creusez à la main. Coupez le lierre déjà dans les arbres à hauteur de taille et retirez les racines.
+
+### Renoncule Rampante (*Ranunculus repens*) – Vivace
+- **Description** : Atteint jusqu’à 30 cm de haut ; se propage par stolons et graines ; forme des tapis épais sur sols humides et mal drainés. Feuilles vert foncé avec des taches claires, divisées en trois folioles dentées. Fleurs jaunes, brillantes.
+- **Contrôle** : Dans la pelouse, améliorez le drainage, évitez le tassement, et favorisez le gazon en semant et fertilisant. Retirez à la main tous les stolons, racines et bourgeons entre l’automne et le printemps, lorsque le sol est humide.
+
+### Oseille Crépu (*Rumex crispus L.*) – Vivace
+- **Description** : Plante robuste à racine pivotante, 60 cm à 1,5 m de haut ; grandes feuilles à la base avec bords ondulés ou frisés ; fleurs et plante deviennent brun-rouge à maturité.
+- **Contrôle** : Arrachez toute la racine avant la formation des graines. Surveillez et retirez les repousses à partir des fragments de racine.
+
+### Liseron des Champs (*Convolvulus arvensis L.*) – Vivace
+- **Description** : Tapis denses de feuilles en forme de flèches et de fleurs en entonnoir blanches à rosées ; longue racine pivotante (jusqu’à 3 m) avec racines rampantes près de la surface. Les graines peuvent rester viables jusqu’à 50 ans.
+- **Contrôle** : Arrachez chaque semaine la partie aérienne, extrayez les racines rampantes si possible et évitez la formation de graines. Appliquez un herbicide systémique de la fin de l’été au début de l’automne.
+
+### Cardamine Hâtive (*Cardamine oligosperma*) – Annuelle d’Hiver ou Bisannuelle
+- **Description** : Plantes de 8 à 30 cm de haut ; tiges ramifiées et lisses partant du sol ; feuilles en rosette. Petites fleurs blanches sur tiges. Les gousses mûres projettent les graines à plusieurs mètres.
+- **Contrôle** : Arrachez à la main avant la formation des graines. Appliquez une couche de paillis de 5–8 cm à la fin de l’été pour empêcher la germination.
+
+### Digitaire (*Digitaria ischaemum*) – Annuelle
+- **Description** : Herbe basse annuelle d’été ; se propage par graines et parfois par enracinement des nœuds bas des tiges. Commune dans les potagers, massifs et allées en gravier.
+- **Contrôle** : Éliminez avant la formation des graines. Arrachez toute la touffe, y compris les racines.
+
+---
+
+## Ressources
+
+- [Biologie et gestion des mauvaises herbes vivaces, EM 8776](https://catalog.extension.oregonstate.edu)
+- [Plantes envahissantes/Gestion des plantes et ravageurs envahissants, Ville de Portland, Oregon](https://www.portlandoregon.gov)
+
+---
+
+##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, les revenus provenant d’une aide publique, les convictions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les représailles pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+---

@@ -1,52 +1,83 @@
-# 10-Minute University™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Hinzufügen eines Bioswales  
-In bebauten Gebieten wird der Regen, der auf harte Oberflächen fällt, in Rohre, Gräben und Regenwasserkanäle geleitet, bevor er in Bäche, Flüsse und Seen abgeleitet wird. Ein Bioswale ist so konzipiert, dass er Regenwasser von Dächern, Auffahrten oder anderen undurchlässigen Oberflächen auffängt. Er ermöglicht, dass Regenwasser in den Boden einsickert und durch Pflanzen und Boden gefiltert wird, um die Abflussmenge und die Verschmutzung der natürlichen Wasserwege zu reduzieren. Die lineare Gestaltung von Bioswales macht sie geeignet für den Abfluss an Straßenrändern, aber Bioswales werden auch in Vorgärten, Hinterhöfen und unter Dachrinnen verwendet. Bioswales können auch als Ersatz für Randsteine oder Regenrinnen dienen.  
+# Einen Bioswale anlegen
 
-### Mögliche Standorte für Bioswales sollten diese Anforderungen erfüllen:  
-- Das saisonale hohe Grundwasser liegt weniger als 60 cm unterhalb des Bioswale-Bodens.  
-- Das Grundgestein liegt mindestens 45 cm unterhalb des Bioswale-Bodens.  
-- Unterirdische Versorgungsleitungen sind mindestens 1,5 Meter entfernt. In Oregon ist es gesetzlich vorgeschrieben, das Utility Notification Center (1-800-332-2344) oder (811) anzurufen, bevor mit einer Ausgrabung begonnen wird.  
-- Gebäude sind mindestens 3 Meter entfernt.  
-- Steigungen von 10 % sind mindestens 30 Meter entfernt. Vermeiden Sie die Installation eines Bioswales, wo die Hangneigung über 30 % hinausgeht.  
+In bebauten Gebieten wird Regenwasser, das auf harte Oberflächen fällt, in Rohre, Gräben und Regenwasserkanäle geleitet, bevor es in Bäche, Flüsse oder Seen gelangt. Ein Bioswale ist so konstruiert, dass er Regenwasser von Dächern, Einfahrten oder anderen undurchlässigen Flächen auffängt. Das Wasser kann im Boden versickern und wird dabei von Pflanzen und Erde gefiltert. So wird der Abfluss und die Verschmutzung von natürlichen Gewässern reduziert. Die längliche Form macht Bioswales besonders für den Abfluss entlang von Straßen geeignet, sie können aber auch in Vorgärten, Hinterhöfen und unter Dachrinnen installiert werden. Bioswales können sogar Bordsteine oder Rinnen ersetzen.
 
-Prüfen Sie bei Ihrer örtlichen Stadt- oder Kreisplanungsbehörde, ob eine Genehmigung erforderlich ist oder ob Sie die städtischen/kreisrechtlichen Anforderungen für die Installation erfüllen müssen.  
+## Mögliche Standorte für einen Bioswale
 
----
+Mögliche Standorte für einen Bioswale sollten folgende Voraussetzungen erfüllen:
 
-## Gestaltung und Abmessungen  
-Die Gestaltung kann die Effizienz eines Bioswales erhöhen. Ein trapezförmiges, „u“-förmiges oder dreieckiges, vollständig bepflanztes Bioswale ist am effektivsten. Die Größe des Bioswales sollte mindestens ein Prozent der Größe der Fläche betragen, die in ihn abfließt. Je größer der Bioswale ist, desto mehr Speicher- und Infiltrationsmöglichkeiten für Regenwasser sind vorhanden, was die Kontrolle größerer Regenereignisse ermöglicht. Es ist wichtig zu berücksichtigen, wohin das Wasser bei sehr starken Regenfällen fließen wird. Ein Hochfluss-Umleitungsrohr oder ein Überlaufkontrollauslass wird empfohlen, um große Wassermengen sicher zu leiten. Dies könnte entweder ermöglichen, dass Wasser auf eine flache Grasfläche oder in das Regenwassersystem überläuft. Die Seitenhänge des Bioswales sollten möglichst sanft geneigt sein, um Erosion zu verhindern.  
+- Das saisonal höchste Grundwasser liegt weniger als 60 cm unter dem Boden des Bioswales.
+- Das Grundgestein ist mehr als 45 cm unter dem Boden des Bioswales.
+- Unterirdische Versorgungsleitungen sind mindestens 1,5 Meter entfernt. Es ist gesetzlich vorgeschrieben, vor Grabungen in Oregon das Utility Notification Center (1-800-332-2344 oder 811) zu benachrichtigen.
+- Gebäude sind mindestens 3 Meter entfernt.
+- Hänge mit mehr als 10 % Steigung sind mindestens 30 Meter entfernt. Vermeide die Anlage eines Bioswales, wenn das Gefälle unterhalb mehr als 30 % beträgt.
 
-Ideal ist es, dass die Fließtiefe im Bioswale während eines Regenereignisses 15 cm nicht überschreitet. Der Bioswale sollte innerhalb von 24 bis 30 Stunden entwässern. Wenn das Wasser nicht mindestens 9 Minuten im Bioswale verbleibt, findet kaum oder gar keine Wasserinfiltration oder Filterung von Schadstoffen statt. Es wird empfohlen, dass die Neigung eines Bioswales weniger als 10 % beträgt.  
+Erkundige dich bei deiner Stadt- oder Kreisverwaltung, ob eine Genehmigung nötig ist oder ob besondere Vorschriften bei der Installation eingehalten werden müssen.
 
 ---
 
-### Steine  
-Es ist wichtig, große Steine am Ein- und Ausgang des Bioswales zu platzieren, um den Wasserfluss zu verlangsamen und die Reinigung von Schlamm und anderen Ablagerungen zu erleichtern. Für die besten Vorteile hinsichtlich der Wasserqualität sollten große Steine regelmäßig entlang der Länge des Bioswales platziert werden, um die Geschwindigkeit des Wassers zu reduzieren und die Absorption in den Boden zu verbessern.  
+## Gestaltung und Maße
+
+Die Gestaltung kann die Effizienz eines Bioswales verbessern. Am besten eignen sich trapezförmige, „U“-förmige oder dreieckige, vollständig bepflanzte Bioswales. Die Fläche des Bioswales sollte mindestens ein Prozent der Fläche betragen, von der Wasser abfließt. Je größer der Bioswale, desto mehr Regenwasser kann gespeichert und versickert werden, was hilft, stärkere Regenfälle zu kontrollieren.
+
+Es ist wichtig zu überlegen, wohin das Wasser bei sehr starkem Regen fließt. Ein Überlaufrohr oder ein spezieller Abfluss ist sinnvoll, um große Mengen Wasser sicher weiterzuleiten. Das Wasser kann so zum Beispiel auf eine flache Wiese oder in die Kanalisation geleitet werden.
+
+Die Seitenhänge des Bioswales sollten so flach wie möglich sein, damit keine Erosion entsteht. Idealerweise ist das Wasser im Bioswale während eines Regens nicht tiefer als 15 cm. Der Bioswale sollte innerhalb von 24 bis 30 Stunden abtrocknen. Bleibt das Wasser weniger als 9 Minuten stehen, findet kaum Versickerung und Filterung statt. Es wird empfohlen, dass das Gefälle im Bioswale unter 10 % liegt.
 
 ---
 
-### Boden  
-Die obersten 45 cm des Bodens in einem Bioswale werden oft mit organischem Kompost angereichert. Dies ermöglicht eine robuste Pflanzenetablierung und Regenwasseraufbereitung. Es ist wichtig, den Boden auf pH-Wert (5,5 – 7,5 ist das Ziel) und Porosität zu testen. Analytische Labore in Oregon finden Sie unter: [Analytische Labore für Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)  
+## Steine
+
+Es ist wichtig, am Ein- und Ausgang große Steine zu platzieren, um das Wasser zu bremsen und das Entfernen von Schlamm und Schmutz zu erleichtern. Für die beste Wasserqualität sollten auch im Verlauf des Bioswales regelmäßig große Steine gelegt werden. So wird das Wasser verlangsamt und kann besser im Boden versickern.
 
 ---
 
-### Pflanzen  
-Für die beste Infiltration und Behandlung benötigen Sie eine Vielzahl von Bäumen, Sträuchern, Gräsern und Bodendeckern. Stauden, einheimische Pflanzen und Ziergräser können erheblichen visuellen Reiz hinzufügen. Pflanzungen in Bioswales sollten dicht sein, um Fließgeschwindigkeiten zu reduzieren, Erosion zu verhindern und Unkraut zu kontrollieren. Wählen Sie Pflanzen basierend auf ihrer Toleranz gegenüber Überschwemmungen und ihrer Fähigkeit, in den örtlichen Klimabedingungen ohne Dünger, Herbizide oder Insektizide zu überleben. Wasserverträgliche Pflanzen wie Seggen und Gräser sollten an den Eintrittspunkten und am Boden des Bioswales gepflanzt werden. Bodendecker helfen, Erosion an den Hangflächen zu verhindern. Pflanzen sollten nach dem ersten Jahr der Etablierung wenig oder gar keine Bewässerung benötigen. Es ist am besten, im Herbst zu pflanzen. Herbstregen wird helfen, die Pflanzen zu etablieren.  
+## Boden
+
+Die obersten 45 cm Erde im Bioswale werden oft mit organischem Kompost verbessert. Das hilft den Pflanzen beim Anwachsen und verbessert die Reinigung des Regenwassers. Es ist wichtig, den Boden auf pH-Wert (Ziel: 5,5–7,5) und Durchlässigkeit zu testen. Labore in Oregon findest du hier:  
+[https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
 
 ---
 
-### Pflege und Wartung  
-Pflanzen benötigen im ersten Sommer zusätzliches Wasser, um sich zu etablieren. Mulchen Sie 5 bis 8 cm tief mit einem feinen Holzmulch, um Feuchtigkeit zu speichern und Unkraut zu reduzieren. Überprüfen Sie Ihren Bioswale nach Regenereignissen, um Ablagerungen an den Ein- und Ausgangspunkten zu entfernen. Pflanzen Sie bei Bedarf nach und überwachen Sie regelmäßig auf Unkraut, bis die Pflanzen vollständig etabliert sind. Vermeiden Sie die Verwendung von Düngemitteln, Herbiziden und Pestiziden.  
+## Pflanzen
+
+Für die beste Versickerung und Reinigung werden verschiedene Bäume, Sträucher, Gräser und Bodendecker benötigt. Mehrjährige Blumen, heimische Pflanzen und Ziergräser können den Bioswale schön aussehen lassen.
+
+Die Pflanzen im Bioswale sollten dicht stehen, damit das Wasser langsamer fließt, Erosion verhindert und Unkraut unterdrückt wird. Wähle Pflanzen, die Überschwemmungen vertragen und im örtlichen Klima ohne Dünger, Unkraut- oder Insektengifte auskommen.
+
+- Setze wasserliebende Pflanzen wie Seggen und Gräser an die Eingänge und in den Boden des Bioswales.
+- Bodendecker helfen, die Hänge zu schützen.
+- Nach dem ersten Jahr brauchen die Pflanzen wenig oder gar kein zusätzliches Wasser.
+
+Am besten pflanzt man im Herbst. Der Herbstregen hilft den Pflanzen beim Anwachsen.
 
 ---
 
-### Ressourcen  
-- [Water-Quality Swales Low Impact Development Fact Sheet](https://catalog.extension.oregonstate.edu/em9209)  
-- [The Rain Garden Guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)  
-- [Analytische Labore für Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)  
+## Pflege und Wartung
+
+Die Pflanzen brauchen im ersten Sommer zusätzlich Wasser, damit sie gut anwachsen.
+
+- Bedecke den Boden 5 bis 8 cm tief mit feinem Mulch aus Holz, um Feuchtigkeit zu halten und Unkraut zu verhindern.
+- Kontrolliere den Bioswale nach Regenfällen und entferne abgelagerten Schlamm an Ein- und Ausgängen.
+- Pflanze bei Bedarf nach und kontrolliere regelmäßig auf Unkraut, bis die Pflanzen dicht gewachsen sind.
+- Verwende keine Dünger, Unkraut- oder Insektengifte.
 
 ---
 
-Oregon State University Extension Service untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischer Ansichten, genetischer Informationen, Veteranenstatus, Vergeltung oder Repressalien aufgrund früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle.)
+## Ressourcen
+
+- **Informationsblatt „Water-Quality Swales Low Impact Development“**  
+  [https://catalog.extension.oregonstate.edu/em9209](https://catalog.extension.oregonstate.edu/em9209)
+
+- **Der Regen-Garten Leitfaden**  
+  [https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
+
+- **Analytische Labore in Oregon**  
+  [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
+
+---
+
+#### Der Erweitungsdienst der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Status als Elternteil, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Informationen, Veteranenstatus, Repressalien oder Vergeltung für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Gründe gelten für alle Programme.)
+---

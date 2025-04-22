@@ -1,92 +1,132 @@
-# Universidade de 10 Minutos™  
-A Associação de Jardineiros Mestres do Condado de Clackamas em colaboração e apoio ao Programa de Jardineiros Mestres™ da Extensão da OSU  
+#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
 
-## Cultivando Alface e Outros Verduras  
+# Como Cultivar Alface e Outras Folhosas
 
-### Visão Geral  
-Alface e folhas verdes são culturas maravilhosas para jardineiros iniciantes e experientes. Sua curta temporada de crescimento permite resultados rápidos e múltiplas colheitas por estação. Suas baixas exigências culturais tornam-as adaptáveis a varandas de apartamentos, bem como a jardins de quintal. Seu alto valor ornamental as torna excelentes alimentos para cultivar em vasos de varanda. Ao contrário da maioria dos vegetais, as folhas verdes toleram alguma sombra, e cultivar suas próprias é econômico. Um único pacote de sementes contém, em média, 2.000 sementes e pode fornecer vários meses de mistura de folhas soltas, um dos itens gourmet mais caros no mercado.  
+### Visão Geral
 
-### Verduras Folhosas Comuns  
-- **Alface de folhas soltas**:  
-  - Oak Leaf, Red Sails, Salad Bowl  
-- **Alface de cabeça solta**:  
-  - Buttercrunch, Bibb, Boston  
-- **Alface romana**:  
-  - Valmaine, Cos  
-- **Alface iceberg**:  
-  - Summertime, Red Iceberg  
-- **Espinafre**:  
-  - Asiático – estação fria ou folha larga  
-  - Nova Zelândia – estação quente  
+A alface e as folhas verdes são ótimas culturas tanto para jardineiros iniciantes quanto experientes. Seu ciclo de crescimento curto permite resultados rápidos e várias colheitas por estação. Elas exigem poucos cuidados e podem ser cultivadas em varandas de apartamentos ou em jardins de quintal. Como também são ornamentais, são excelentes para plantar em vasos de pátio. Diferente da maioria dos vegetais, as folhas verdes toleram um pouco de sombra e cultivar as suas próprias é econômico. Um único pacote de sementes tem cerca de 2.000 sementes e pode fornecer folhas variadas por vários meses, sendo que essas misturas costumam ser caras no mercado.
 
-### Outras Verduras com Necessidades Culturais Similares  
-- **Rúcula**: adiciona um sabor agradável de nozes  
-- **Mostarda**: fornece um leve toque picante  
-- **Bok choy**: melhor usado em refogados  
-- **Acelga e couve**: plantas resistentes ao frio; cozinhe para servir  
+### Verduras Comuns
 
-## Como Começar  
-Alface e outras folhas verdes podem ser cultivadas a partir de sementes ou mudas. A orientação para o plantio de sementes é semeá-las a uma profundidade igual a 2 a 4 vezes sua largura. Ou seja, quanto mais fina for a semente, mais superficial deve ser semeada. Consulte o pacote de sementes para obter informações adicionais.  
+- **Alface crespa:** Oak Leaf, Red Sails, Salad Bowl
+- **Alface manteiga:** Buttercrunch, Bibb, Boston
+- **Alface romana:** Valmaine, Cos
+- **Alface americana:** Summertime, Red Iceberg
+- **Espinafre:**
+  - Asiático – estação fria ou folhas largas
+  - Nova Zelândia – estação quente
 
-### Semeadura direta  
-Remova todas as ervas daninhas; corrija o solo, se necessário. Nivele o canteiro, polvilhe levemente com sementes e cubra com ¼ de polegada de solo. À medida que as plantas crescem, desbaste para evitar superlotação e garantir que as plantas restantes no canteiro tenham espaço para se desenvolver em cabeças. As mudas jovens podem ser usadas como "verduras baby".  
+### Outras Folhosas com Necessidades Semelhantes
 
-### Mudas  
-Escolha plantas vigorosas; regue bem nos vasos antes de plantar para garantir que estejam bem hidratadas. Afrouxe as raízes e plante no solo ou em um recipiente.  
+- **Rúcula:** Dá um sabor de noz agradável
+- **Mostarda:** Dá um leve toque picante
+- **Bok choy:** Melhor para refogados
+- **Acelga e couve:** Plantas resistentes ao frio; cozinhe antes de servir
 
-### Plantio em recipientes  
-Recipientes são ideais para cultivar alface e outras folhas verdes. Comece com uma boa mistura para recipientes. Um bom solo de jardim argiloso pode substituir no máximo 1/3 da mistura total.  
-Para cada 2,5 pés cúbicos de meio sem fertilizante adicionado, adicione:  
-- 1 xícara de cal dolomítica  
-- 1 xícara de farelo de algodão ou alfafa ou 2/3 de xícara de farinha de sangue  
-- 2 xícaras de farinha de osso ou fosfato de rocha macia  
-- 1 xícara de farinha de algas marinhas  
+---
 
-Para facilitar a colheita, agrupe as culturas por necessidade cultural e hábito de crescimento. Por exemplo, alface tem uma temporada de crescimento mais longa que brócolis. Cultivá-las em recipientes diferentes permite colher brócolis semanas antes da alface estar pronta. O recipiente pode ser usado para outra planta.  
+## Como Começar
 
-## Quando Plantar  
-A temperatura mínima do solo deve ser de 40 a 45 graus. O solo em canteiros elevados e recipientes atingirá essa temperatura mais cedo do que o solo no chão. Use um termômetro de solo, disponível em viveiros e centros de jardinagem, para verificar a temperatura do solo.  
+A alface e outras folhas podem ser cultivadas a partir de sementes ou mudas. A regra básica para semear é plantar as sementes numa profundidade de 2 a 4 vezes a largura delas. Ou seja, quanto menor a semente, mais rasa deve ser a semeadura. Confira sempre as instruções do pacote de sementes.
 
-As folhas verdes crescem melhor quando a temperatura do ar está entre 60 e 70 graus. Climas mais frios não danificam as plantas, apenas retardam o crescimento.  
+### Semeadura Direta
 
-Plante folhas verdes no início da primavera até o início do verão para colheita no verão. Para colheita no outono, plante folhas verdes no final do verão.  
+1. Retire todas as ervas daninhas; melhore o solo se necessário.
+2. Nivele o canteiro, espalhe as sementes levemente e cubra com cerca de 0,5 cm de terra.
+3. Conforme as plantas crescem, faça o desbaste para evitar aglomeração e garantir espaço para as plantas se desenvolverem.
+4. As mudinhas podem ser colhidas como “folhas baby”.
 
-O clima quente faz com que as folhas verdes floresçam ou produzam sementes. Quando isso acontece, as folhas tornam-se grossas e amargas. Variedades resistentes ao calor ou de longa duração se saem melhor no verão.  
+### Mudas (Transplantes)
 
-## Solo  
-As folhas verdes são adaptáveis a vários tipos de solo; no entanto, solos argilosos pesados devem ser corrigidos com composto ou areia para garantir boa drenagem. Alface cultivada em condições úmidas é suscetível ao mofo branco (Sclerotinia sclerotiorum).  
+- Escolha plantas vigorosas; molhe bem os vasos antes de plantar para garantir que estejam bem hidratadas.
+- Solte as raízes e plante no solo ou em recipientes.
 
-As folhas verdes requerem aproximadamente 1 polegada de água por semana; regue as folhas verdes com frequência para manter o solo úmido. Se optar por regar por aspersão, certifique-se de permitir que as folhas sequem antes da noite.  
+### Plantio em Vasos
 
-## Fertilizante  
-As folhas verdes têm raízes rasas e precisam de apenas 7 a 8 polegadas de solo fértil. Aplique um fertilizante de nitrogênio na taxa de 0,2 libras por 100 pés quadrados.  
+Vasos são ótimos para cultivar alface e outras folhas. Use uma boa mistura para vasos. Solo de jardim de boa qualidade pode substituir até 1/3 da mistura total.
 
-## Lesmas  
-Solo úmido e sombreado sob plantas de alface e folhas doces e tenras criam um ambiente perfeito para lesmas. As lesmas podem ser tratadas de várias maneiras ecologicamente corretas. Cortá-las ao meio com uma tesoura é fácil. Armadilhas feitas de pequenas latas, como latas de atum, afundadas de forma que a borda superior fique um pouco acima do solo e preenchidas com cerveja, atraem lesmas.  
+Para cada 70 litros de substrato sem fertilizante adicionado, coloque:
 
-Se usar isca comercial para lesmas, certifique-se de que seja segura para animais de estimação e outros animais que possam visitar seu jardim.  
+- 1 xícara de calcário dolomítico
+- 1 xícara de farelo de algodão ou alfafa (ou 2/3 de xícara de farinha de sangue)
+- 2 xícaras de farinha de ossos ou fosfato de rocha macia
+- 1 xícara de farelo de alga marinha
 
-## Colheita e Armazenamento  
-Colha folhas verdes pela manhã antes que as folhas comecem a murchar. Colha "verduras baby" cortando toda a planta ao nível do solo, deixando espaço suficiente entre as plantas restantes para se desenvolverem em cabeças. Para colher de cabeças, corte a planta inteira ao nível do solo ou retire apenas as folhas externas. Deixar as folhas internas permite que a planta continue produzindo.  
+Para facilitar a colheita, agrupe as culturas por necessidade de cultivo e hábito de crescimento. Por exemplo, a alface tem ciclo mais longo que o brócolis. Cultivando em vasos separados, você pode colher brócolis semanas antes da alface terminar, liberando o vaso para outra cultura.
 
-Logo após a colheita, refresque a alface mergulhando-a em uma bacia de água fria por 15 minutos. Escorra bem, feche bem e refrigere por até três dias.  
+---
 
-Para cozinhar acelga ou couve, corte a costela central, que pode ser dura ou amarga. Pique as folhas e refogue em uma pequena quantidade de azeite. Alho, sal e pimenta são boas adições. As costelas centrais são boas em sopas ou ensopados.  
+## Quando Plantar
 
-## Recursos da Extensão da OSU  
-[Catálogo de Recursos da Extensão da OSU](https://catalog.extension.oregonstate.edu/)  
-- Cultive sua própria alface, espinafre e acelga (EC 1268)  
-- Planejando e preparando seu local de jardim de vegetais (EC 1228)  
-- Jardinagem em canteiros elevados (FS 270)  
-- Como construir sua própria cobertura para canteiro elevado (EC 1627)  
-- Jardinagem com compostos, coberturas e coberturas de fileiras (EC 1247)  
-- Manual de Jardinagem Sustentável (EM 8742)  
+- A temperatura mínima do solo deve ser **entre 4 e 7°C**. O solo em canteiros elevados e vasos aquece mais rápido do que no chão. Use um termômetro de solo, disponível em viveiros e lojas de jardinagem, para verificar.
+- Folhosas crescem melhor com temperatura do ar entre **16 e 21°C**. Clima frio não danifica as plantas, apenas desacelera o crescimento.
 
-## Conselhos de Jardineiros Mestres™  
-- Ligue para a Linha de Ajuda em Horticultura Residencial:  
-  - 503-655-8631 (Condado de Clackamas)  
-  - 503-821-1150 (Condado de Washington)  
-  - 503-445-4608 (Condado de Multnomah)  
-- Para mais folhetos da Universidade de 10 Minutos™ e cronograma de aulas, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+### Épocas de Plantio
 
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parental, renda derivada de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represálias ou retaliação por atividades anteriores de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+- **Colheita de verão:** Plante folhas verdes do início da primavera até o começo do verão.
+- **Colheita de outono:** Plante no final do verão.
+
+O calor intenso faz as folhas “subirem” ou soltarem sementes, deixando-as duras e amargas. Variedades resistentes ao calor se desenvolvem melhor no verão.
+
+---
+
+## Solo
+
+Folhas verdes se adaptam a vários tipos de solo, mas solos argilosos devem ser melhorados com composto ou areia para garantir boa drenagem. Alface cultivada em solo encharcado pode ficar suscetível ao mofo branco (*Sclerotinia sclerotiorum*).
+
+- As folhas precisam de cerca de **2,5 cm de água por semana**. Regue com frequência para manter o solo úmido.
+- Se optar por regar por cima, certifique-se de que as folhas sequem antes do anoitecer.
+
+---
+
+## Fertilizante
+
+Folhas verdes têm raízes rasas e precisam de apenas **18 a 20 cm de solo fértil**. Aplique fertilizante nitrogenado na proporção de **90 gramas para cada 9 m²**.
+
+---
+
+## Lesmas
+
+O solo úmido e sombreado sob as alfaces e suas folhas tenras criam o ambiente perfeito para lesmas. Elas podem ser controladas de várias formas ecológicas:
+
+- Cortar ao meio com tesoura é fácil.
+- Armadilhas com latinhas (como de atum), enterradas até a borda ficar um pouco acima do solo e cheias de cerveja, atraem as lesmas.
+- Se usar isca comercial, certifique-se de que seja segura para animais domésticos e outros visitantes do jardim.
+
+---
+
+## Colheita e Armazenamento
+
+- **Colhendo:**
+  - Colha as folhas verdes pela manhã, antes que murchem.
+  - Para “folhas baby”, corte toda a planta rente ao solo, deixando espaço entre as restantes para virarem cabeças.
+  - Para colher as cabeças, corte a planta toda rente ao solo ou retire apenas as folhas externas. Deixando as folhas internas, a planta continua produzindo.
+
+- **Armazenando:**
+  - Logo após a colheita, refresque a alface mergulhando em água fria por 15 minutos.
+  - Escorra ou seque bem, feche em pote ou saco, e refrigere por até três dias.
+
+- **Preparando acelga ou couve:**
+  - Retire a costela central, que pode ser dura ou amarga.
+  - Pique as folhas e refogue com um pouco de azeite. Alho, sal e pimenta ficam ótimos.
+  - As costelas podem ser usadas em sopas ou ensopados.
+
+---
+
+## Recursos do Serviço de Extensão da OSU
+
+- [Cultive sua própria alface, espinafre e acelga (EC 1268)](https://catalog.extension.oregonstate.edu/)
+- [Planejando e preparando seu canteiro de hortaliças (EC 1228)](https://catalog.extension.oregonstate.edu/)
+- [Horta em canteiro elevado (FS 270)](https://catalog.extension.oregonstate.edu/)
+- [Como construir sua própria cobertura de canteiro elevado (EC 1627)](https://catalog.extension.oregonstate.edu/)
+- [Jardinagem com compostos, cobertura morta e túneis (EC 1247)](https://catalog.extension.oregonstate.edu/)
+- [Manual de Jardinagem Sustentável (EM 8742)](https://catalog.extension.oregonstate.edu/)
+
+---
+
+#### Dicas de Mestres Jardineiros™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos da Universidade de 10 Minutos™ e cronogramas de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

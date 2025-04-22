@@ -1,50 +1,96 @@
-# Jaamacadda 10-Daqiiqo™  
-Ururka Oregon Master Gardener™ – Laanta Gobolka Clackamas  
-Iyadoo la kaashanayo Adeegga Kordhinta Jaamacadda Oregon  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ah ee Oregon™ – Laanta Degmada Clackamas · Iyadoo lala kaashanayo Adeegga Kordhinta Jaamacadda Gobolka Oregon
 
-## Beeridda Carruurta Da'doodu u dhaxayso 4-7  
-Beerta carruurta waxay noqon kartaa mid ka mid ah waayo-aragnimada ugu abaal-marinta badan ee labada dhinacba, carruurta iyo waalidka, ayeeyada, ama macallinka. Carruurtu waa beeralay dabiici ah sababtoo ah waxay yihiin kuwo xiiso leh, waxay wax u bartaan si ay wax u sameeyaan, waxayna ku raaxaystaan inay ku ciyaaraan ciidda.
+## Beerashada Carruurta Da’doodu Tahay 4-7
 
-Shaqada wadajirka ah ee beeraha waxay siin kartaa waqti tayo leh toddobaad kasta waxayna dhiirigelisaa xiisaha ilmaha ee ku saabsan sida dabiiciga iyo cilmiga u shaqeeyaan. Carruurtu sidoo kale waxay ku farxaan dareenka, sida buuxinta biyaha weelka ama ka shaqeynta ciidda si ay uga saaraan haramaha.
+Beerashada la carruurta waxay noqon kartaa waayo-aragnimo aad u qiimo badan oo faa’iido u leh ilmaha iyo waalidka, awoowaha, ama qofka tarbiyeyaha ah. Carruurtu waa beeraley dabiici ah sababtoo ah way xiiseeyaan, waxay ku bartaan sameynta wax, waxayna jecel yihiin inay ku ciyaaraan ciidda.
 
-### Waayo Maxaa Carruurta Loogu Beeraa?  
-- Waxay si toos ah u arki karaan wareegga nolosha.  
-- Waxay baraysaa masuuliyadda waxayna kor u qaadaysaa hal-abuurka.  
-- Waxay siinaysaa faham ku saabsan sida aan ugu tiirsanahay dabiiciga iyo barwaaqadeeda.  
+Iskaashiga beerta guduheedda wuxuu keeni karaa saacado tayo leh toddobaadkiiba wuxuuna kiciyaa xiisaha carruurta ee sida dabeecadda iyo cilmiga u shaqeeyaan. Carruurtu sidoo kale way ka helaan kicinta dareenka, ha noqoto inay biyo ka shubaan weel ama ay ciidda ka saaraan cawska.
 
-Beeridda khudaarta waxay si gaar ah ugu abaal-marineysaa carruurta da' kasta leh. Carruurta yar-yar waxay faa'iido u leeyihiin marka la doorto abuur khudaar oo weyn oo si fudud ugu habboon gacmo yar-yar. Waxay si dhakhso ah u biqlaan, iyagoo soo saara natiijooyin la cuni karo xilli kaliya. Waxay kor u qaadaysaa nafaqo wanaagsan waxayna carruurta ku soo bandhigtaa cuntooyin cusub oo iyaga u cusub. Waxay u badan tahay inay isku dayaan cuntooyin cusub sababtoo ah iyagaa koraan.
+### Maxaad Carruurta Ula Beeri?
 
-### Fikrado Lagu Tixgeliyo  
-- Si ay u helaan boos u gaar ah, ha ahaato sariir kor u qaadday, dheriyo, ama dhul bannaan. Carruur kasta waa inuu yeesho boos u gaar ah.  
-- U samee boos yar sababtoo ah boos yar ayaa si fudud loo maareyn karaa, wax walbana waxay u muuqdaan kuwo weyn iyagoo loo marayo aragtida carruurta. Ku bilow meel yar oo ku kordhi cabbirka iyadoo ay da'doodu kor u kacayso iyo xiisaha ay u qabaan.  
-- Ku dheji beertooda meesha ugu fiican oo leh qorrax ku filan iyo il biyo ah.  
-- Isticmaal qalab shaqo oo dhab ah. Ha siin qalab caag ah oo burburi kara taasoo niyad jab ku keenaysa beeraleey cusub.  
+- Waxay si toos ah u arki karaan wareegga nolosha.
+- Waxay ka baranayaan masuuliyad iyo hal-abuurnimo.
+- Waxay fahmi doonaan sida aynu ugu tiirsanahay dabeecadda iyo nimcadeeda.
 
-### Hawlo Lagu Sameeyo  
-Waxaad ku hagaajin kartaa qadarka shaqada si ay ugu habboonaato ilmaha iyo waqtiyada. Xusuusnow, waa muhiim in waayo-aragnimadu noqoto mid abaal-marineysa labadiinaba, sidaa darteed hubi inaad ka fikirto baaxadda hawsha oo jooji kahor intaan qofna dareemin inuu daalay ama niyad jabay. Taasi waxay ku jirtaa dadka waaweyn.
+Beerashada khudaarta waxay si gaar ah ugu farxad badan tahay carruurta da’ kasta leh. Carruurta yaryar waxay faa’iido u helaan markaad doorato abuur khudaar oo waaweyn si ay ugu fududaato gacmahooda yar yar. Waxa kale oo ay si dhakhso ah u soo biqaan, taasoo keenta in la helo cunto la cuni karo xilli keliya. Beerashada waxay dhiirrigelisaa nafaqo wanaag waxayna carruurta baraysaa cuntooyin cusub. Waxay u badan tahay inay isku dayaan cuntooyin cusub sababtoo ah iyagaa beertay.
 
-Beerta ubaxyo ama khudaar loogu talagalay cayayaanka dhediga sida shinnida, shimbiraha, iyo balanbaalista. Beeralaydu waxay qiimeeyaan cayayaanka iyo dheddigyada booqda beerta. Waxaad ku beeri kartaa ubaxyo sida shinnida, zinniyada, ama nasturtium. Waxay yihiin kuwo soo jiidasho leh waxayna siiyaan cunto dheddigyada. Eeg daabacaaddaan Jaamacadda Oregon State: [Dhiirigelinta Cayayaanka Dheddiga ee Beertaada](https://catalog.extension.oregonstate.edu/pnw550) iyo [Buugga Waxbarista ee Beeridda Khudaarta](https://catalog.extension.oregonstate.edu/em9032).
+### Fikrado La Tixgeliyo
 
-### Ugu Baxa Raadinta Duri  
-Carruurtu waxay baran doonaan sida duriyadu uga qayb qaataan deegaanka. Waxaa jira saddex duri oo caadi ah oo ku jira Waqooyi-Galbeedka Baasifik: duriga muuska (oo ah mid dabiici ah oo faa’iido leh), duriga shabeel, iyo duriga casaanka. Duriga cagaaran ee beerta ayaa ah midka ugu waxyeellada badan dalagyada. Baro in duriyadu leeyihiin ugaarsadeyaal sida abeesooyin iyo qoolley, iyo inkastoo duriyadu iyo qolofta ay yihiin "dhib" beeralayda, haddana waxay door muhiim ah ka ciyaaraan deegaanka beerta. Haddii aad doorato inaad iska saarto duriyada ama qolofyada la helay, waxaad si tartiib ah u samayn kartaa adigoo ku ridaya baaldi biyo saabuuni ah. Eeg ilahaas: [Aqoonsiga Duriyada iyo Qolofta](https://agsci.oregonstate.edu/slug-portal/identification) iyo [Duriyada iyo Qolofta](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf).
+- **Si iyaga loogu yeesho meel u gaar ah**: Ha ahaato sariir kor loo qaaday, dheriyo, ama meel beereed dhulka ah, ilma kasta waa inuu lahaadaa meel u gaar ah.
+- **Ka dhig yar**: Meel yar way fududahay in la maareeyo, wax walbana way u weyn yihiin indhaha ilmaha. Ka bilow meel yar oo kordhi marka ay da’dooda iyo xiisahoodu kordhaan.
+- **Meesha beertooda ku dhig meel ugu fiican**: Hubi in qorrax ku filan iyo biyo la heli karo.
+- **U isticmaal qalab shaqo oo dhab ah**: Ha siin qalab caag ah oo jabaya kana xanaajinaya ilmaha beeraleyda cusub ah.
 
-Carruurtu waxay jecel yihiin inay raadiyaan "kala furfurayaasha." Quraanjada, shinnida, dooliyada, iyo qolofyada dhammaantood waxay qayb ka yihiin deegaanka waxaana muhiim u ah in ay kala furfuraan walxaha dabiiciga ah oo u beddelaan humus. Waa in la xuso. Carruurta ku dhiirrigeli inay qodaan baaldi yar oo ciid ah ama inay qodaan meel yar oo beerta ah oo ay xisaabiyaan tirada "kala furfurayaasha" ay helaan. Waxay faa’iido u leedahay haddii ay heli karaan mikroskoob ama weyneeye si ay ugu isticmaalaan raadintooda. Eeg ilaha Jaamacadda Oregon State ee ku saabsan kala furfurayaasha: [Worms as Decomposers](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf).
+### Waxqabadyada Qaarkood
 
-Xusuusnow inaad carruurta siiso macluumaadka muhiimka ah ee ku saabsan beeridda meel leh qorrax ugu badan iyo hubinta in ciiddu ay ku daboosho abuurka (aan aad u qoto dheerayn). Ku dhiirrigeli inay arkaan sida cayayaanka ay ula falgalaan dhirta marka ay korayaan. Qaar ka mid ah abuurka khudaarta ee carruurta ay jecel yihiin inay beeraan: bocorka, digirta tiirka, dabacasaha, digirta snapka, digirta scarlet runner, iyo yaanyada cherry-ga.
+Waxaad shaqada u habeyn kartaa si ay ugu habboonaato ilmaha iyo waqtiga la heli karo. Xasuuso, waa muhiim in waayo-aragnimadu noqoto mid aad u wanaagsan labadiinaba, markaa hubi in aad tixgeliso baaxadda hawsha oo aad joojiso ka hor inta qofna uu daalin ama xanaaqin—oo ay ku jiraan waalidiinta.
 
-### Ku Dar Aqoon Akhris  
-Waxaa jira buugaag sawirro iyo buugyo tilmaam ah oo badan oo ku saabsan beeridda oo carruurtu ku qanacsan yihiin kahor inta aysan bilaabin shaqada iyo inta ay ku jiraan beerta. Akhrinta cod dheer waxay kicisaa su'aalaha waxayna noqon kartaa bilow qorsheyaasha beerta. La-taliyahaaga maktabadda maxalliga ah wuxuu ku caawin doonaa inuu helo ilaha ay labadiinuba ku raaxaysan doonaan. Waa kuwan talooyin:  
-- "From Seed to Plant" by Gail Gibbons  
-- "The Tiny Seed" by Eric Carle  
-- "Growing Vegetable Soup" by Lois Ehlert  
-- "The Vegetables We Eat" by Gail Gibbons  
-- "The Carrot Seed" by Ruth Krause  
-- "Muncha! Muncha! Muncha!" by Candace Fleming  
-- "Flip, Float, Fly: Seeds on the Move" by JoAnn Early Macken  
-- "Berries, Nuts and Seeds" by Diane L. Burns  
-- "Jack’s Garden" by Henry Cole  
+#### Beer Ubaxyo ama Khudaar loogu Tala galay Duurjoogaha Xambaara Budada
 
-### Talooyinka Master Gardener™  
-- Wac Khadka Caawinta Horticulture-ka Guriga: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Si aad u hesho buug-gacmeedyada Jaamacadda 10-Daqiiqo™ iyo jadwalka fasalka, booqo [www.cmastergardeners.org](www.cmastergardeners.org).  
-Jaamacadda Oregon State Extension Service waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka iyadoo ku saleysan jinsiyadda, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmada, naafanimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka gargaarka dadweynaha, aaminaadaha siyaasadeed, macluumaadka hidde-wadaha, xaaladda askarta, ciqaabta ama aargudashada hawlaha xuquuqda madaniga ah ee hore. (Ma ahan dhammaan saldhigyada mamnuuca ay khuseeyaan dhammaan barnaamijyada).
+Beeraleydu way qiimeeyaan cayayaanka iyo duurjoogaha beerta ku nool ama soo booqda. Waxaad beeri kartaa ubaxyo sida qorraxlayda, zinnias, ama nasturtiums. Waxay soo jiitaan cayayaanka waxayna u noqdaan cunto.
+
+Eeg qoraaladan Jaamacadda Gobolka Oregon:
+
+- [Dhiirrigelinta Cayayaanka Faa’iidada leh ee Beertaada](https://catalog.extension.oregonstate.edu/pnw550)
+- [Hagaha Macallinka ee Beerashada Khudaarta](https://catalog.extension.oregonstate.edu/em9032)
+
+#### U Bax Raadinaya Quraanjada Dufanka leh
+
+Carruurtu waxay baran doonaan doorka ay quraanjadu ku leedahay deegaanka. Saddex nooc oo quraanjada dufanka ah ayaa caadi ka ah Waqooyiga Galbeed ee Baasifiga:
+
+- **Quraanjada Muuska**: Waa mid asal ah oo faa’iido leh.
+- **Quraanjada Haragga Leopard** iyo **quraanjada dhabarka casaanka ah**.
+- **Quraanjada cawlan ee beerta**: Waa tan ugu burburka badan dalagga.
+
+Quraanjadu waxay leeyihiin cadow sida masaska iyo salamander-ka. In kasta oo quraanjada iyo doongaha loo arko "xayawaan dhib ah" beeraleyda, haddana waxay door muhiim ah ku leeyihiin deegaanka beerta. Haddii aad doorato inaad iska tuurto quraanjada ama doongaha la helay, si dabacsan ugu rid baaldi biyo saabuun leh.
+
+Eeg kheyraadkan:
+
+- [Sida Loo Aqoonsado Quraanjada iyo Doongaha](https://agsci.oregonstate.edu/slug-portal/identification)
+- [Quraanjada iyo Doongaha](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
+
+#### Raadiya Cayayaanka Dhameeya Walxaha Dabiiciga ah
+
+Amooska, cayayaanka dhulka, diqsiyaasha, iyo doongaha dhammaan waa qayb ka mid ah deegaanka waxayna muhiim u yihiin burburinta walxaha dabiiciga ah si loo sameeyo humus. Waa in la ammaanaa.
+
+Carruurta ha qodaan baaldi yar oo ciid ah ama ha qodaan meel yar oo beerta ah, ha diiwaangeliyaan tirada "cayayaanka dhameeya walxaha" ee ay helaan. Waxay ka caawinaysaa haddii ay haystaan mikroskoob ama muraayad weyn si ay ugu sahamiyaan.
+
+Eeg kheyraadka Jaamacadda Gobolka Oregon ee cayayaanka dhameeya walxaha:
+
+- [Amooska sida Cayayaan Burburiya](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
+
+#### Talooyin Ku Saabsan Beerista
+
+Carruurta sii macluumaad muhiim ah oo ku saabsan beerista meel ugu badan qorraxda iyo in la hubiyo in ciiddu si fiican ugu daboosho abuurka (aan aad u qoto dheerayn). Ku dhiirrigeli inay la socdaan sida cayayaanku ula falgalaan dhirta marka ay korayaan.
+
+Qaar ka mid ah abuurka khudaarta ee carruurtu jecel yihiin in ay beeraan:
+
+- Bocorka
+- Digirta fuulaysa
+- Daikonka
+- Digirta la cuni karo (snap peas)
+- Digirta scarlet runner
+- Yaanyada yar yar
+
+### Ku Dar Akhris-Qoris
+
+Waxaa jira buugaag sawirro leh iyo kuwo tilmaameed oo badan oo ku saabsan beerashada oo carruurtu aad u jeclaan doonaan ka hor inta aanay bilaabin iyo inta ay beerta ka shaqaynayaan. Akhriska la akhriyo carruurta waxay fursad siisaa su’aalo iyo qorsheyn beereed. La-taliyaha maktabadda deegaanka ayaa ku farxi doona inuu kaa caawiyo inaad hesho agab adiga iyo ilmahaaguba aad ku raaxaysataan.
+
+Talooyin buugaag:
+
+- *Laga bilaabo Abuur ilaa Dhir* by Gail Gibbons
+- *Abuurka Yar* by Eric Carle
+- *Korinta Maraqa Khudaarta* by Lois Ehlert
+- *Khudaarta aan Cuno* by Gail Gibbons
+- *Abuurka Karooto* by Ruth Krause
+- *Muncha! Muncha! Muncha!* by Candace Fleming
+- *Rog, Sabeyn, Duul: Abuurta Socota* by JoAnn Early Macken
+- *Berries, Nuts iyo Abuur* by Diane L. Burns
+- *Beerta Jack* by Henry Cole
+
+#### Talooyinka Beeraleyga Master-ka ah · Wac Khadka Gargaarka Beeraleyda: 503-655-8631 (Degmada Clackamas) · 503-821-1150 (Degmada Washington) · 503-445-4608 (Degmada Multnomah) · Foomamka Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada: Booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka oo dhan, iyadoo aan loo eegayn jinsiyadda, midabka, waddanka asal ahaan, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), nooca galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidde-side, heerka askarnimo, aargoosi ama dhibaato ka dhalatay hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha mamnuuca ah ma khuseeyaan dhammaan barnaamijyada.)
+---

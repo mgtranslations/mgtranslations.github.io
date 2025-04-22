@@ -1,42 +1,84 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Bio-Gemüseanbau  
+# Bio-Gemüsegarten: So klappt’s
 
-### Was ist „Biologisches Gärtnern“?  
-Methoden des biologischen Gärtnerns zu übernehmen bedeutet, auf synthetische Produkte zu verzichten. Stattdessen werden nur natürlich vorkommende Produkte verwendet, die den Boden verbessern sowie Krankheiten, Schädlinge und Unkraut bekämpfen und behandeln. Alles andere bleibt gleich: Sie pflanzen, pflegen, gießen und ernten wie bisher. Sie können vollständig auf biologische Methoden umsteigen oder eine Kombination von Methoden verwenden. Beispielsweise können Sie auf synthetische Pestizide und Herbizide verzichten, aber weiterhin einige synthetische Düngemittel nutzen.  
+### Was ist „Bio-Gärtnern“?
 
-### Kompost verbessert gesunden Boden  
-Guter Boden ist der Schlüssel zum erfolgreichen Gärtnern, und die Zugabe von kompostierter organischer Substanz verbessert den Boden. Beginnen Sie einen neuen Garten, indem Sie jedes Jahr 5 bis 10 Zentimeter Kompost hinzufügen. Verwenden Sie mehr für schweren Lehmboden oder sehr sandigen Boden. Etwa die Hälfte der organischen Substanz im Kompost zerfällt jedes Jahr. Daher baut sich die organische Substanz im Laufe der Zeit in Ihrem Boden auf. Wenn Sie schnellere Ergebnisse wünschen, erstellen Sie ein Hochbeet aus Mutterboden, Kompost, Sand und Mist.  
+Wer „Bio-Gärtnern“ praktiziert, verzichtet auf künstliche, synthetische Produkte. Stattdessen werden nur natürliche Produkte verwendet, die den Boden verbessern und Krankheiten, Schädlinge und Unkraut bekämpfen. Alles andere bleibt gleich: Sie pflanzen, pflegen, gießen und ernten wie zuvor. Sie können komplett auf Bio umstellen oder Methoden mischen. Zum Beispiel können Sie auf synthetische Pestizide und Unkrautvernichter verzichten, aber weiterhin einige synthetische Dünger nutzen.
 
-Die Zugabe von Kompost zum Boden verbessert dessen Struktur und langfristige Gesundheit. Allerdings ist Kompost keine zuverlässige Quelle für Dünger. Wo kräftiges Wachstum entscheidend ist, wie in einem Gemüsegarten, sollten zusätzliche Düngemittel hinzugefügt werden.  
+---
 
-### Organische Dünger erhöhen die Fruchtbarkeit  
-- Boden verliert im Laufe der Zeit an Fruchtbarkeit: Pflanzen verbrauchen Nährstoffe während ihres Wachstums, und Winterregen wäscht lösliche Nährstoffe aus. Deshalb müssen wir jedes Jahr Dünger hinzufügen.  
-- Pflanzen können nur lösliche Nährstoffe verwenden; viele organische Dünger enthalten unlösliche Nährstoffe, die von Bodenorganismen abgebaut werden müssen, bevor sie für Pflanzen nutzbar werden.  
-- Ein vorgemischter, ausgewogener organischer Dünger, der Stickstoff (N), Phosphor (P) und Kalium (K) enthält, ist eine einfachere Möglichkeit, zu beginnen.  
-- Wenn Sie Ihre eigene Mischung herstellen möchten, kombinieren Sie schnell- und langsam wirkende Dünger, um Ihre Pflanzen während der gesamten Wachstumsperiode zu versorgen. Häufige schnell wirkende organische Dünger (mit ihrem N-P-K-Gehalt) sind Fisch-Emulsion (5-1-1); Blutmehl (15-1-1); Fischmehl (10-4-0); und Fledermausdung (10-3-1). Langsam wirkende Dünger sind Baumwollsaatmehl (7-2-1); Luzerne (2-1-2); Knochenmehl (2-15-0); weiches Gesteinsphosphat (0-3-0); Seetangmehl (0-0-10); und Grünstein (0-0-5). Arbeiten Sie langsam wirkende Dünger mehrere Monate vor dem Pflanzen in Ihren Boden ein. Bodenorganismen sind bei wärmeren Temperaturen aktiver.  
-- Hohe Bodenfruchtbarkeit ist entscheidend für das Gedeihen von Sämlingen und Jungpflanzen. Gesunde Sämlinge sind besser in der Lage, Schädlingen und Krankheiten zu widerstehen und mit Unkraut zu konkurrieren. Ein löslicher Dünger wie flüssige Fisch-Emulsion hilft kleinen Pflanzen, schnell gut zu wurzeln. Sobald sich der Boden erwärmt, werden Nährstoffe aus langsam wirkenden Düngemitteln für die Pflanzen verfügbar, um sie bis zur Ernte zu versorgen.  
-- Überwinternde Deckfrüchte können Bodenerosion und -verdichtung minimieren. Während sie wachsen, binden diese Pflanzen Boden-Nährstoffe in sich, sodass weniger durch Regen ausgewaschen wird. Im Frühling schneiden Sie die Stängel und Blätter der Deckfrüchte ab, bevor sie blühen, und geben sie auf den Komposthaufen. Wenden Sie den Boden, um die Wurzeln zu entfernen.  
+### Kompost macht den Boden gesund
 
-### Organische Schädlingsbekämpfungstechniken  
-- Seien Sie aufmerksam. Der erste Schritt bei der Schädlingsbekämpfung ist die Identifikation des Schädlings, der den Schaden verursacht. Der Einsatz von Schneckenködern oder Pestiziden zur Insektenbekämpfung wird nicht helfen, wenn Vögel die Ursache des Schadens sind. Sie können online Hilfe von Master Gardeners unter www.metromastergardeners.org oder den unten aufgeführten Telefonnummern erhalten.  
-- Gesunde Pflanzen ziehen weniger wahrscheinlich Schädlinge an und sind besser in der Lage, Schäden zu überwachsen.  
-- Achten Sie besonders auf die Schädlings- und Krankheitsbekämpfung, wenn Ihre Gemüsejungpflanzen sind. Kleine, zarte Pflanzen können schnell zerstört werden; sobald sie groß genug sind, können sie einige Schäden ohne Ertragsverlust verkraften.  
-- Das Isolieren von Sämlingen und Jungpflanzen von Schädlingen ist eine der effektivsten Methoden der biologischen Schädlingsbekämpfung. Schwimmende Reihenabdeckungen halten fliegende Insekten und Vögel fern. Sie können direkt auf die Pflanzen gelegt und an den Seiten mit Steinen oder Brettern befestigt werden. Während die Pflanzen wachsen, drücken sie die Abdeckung nach oben. Zu diesem Zeitpunkt sind die Pflanzen groß genug, um für viele Schädlinge uninteressant zu sein. Diese Abdeckungen wärmen auch den Boden und fördern ein schnelleres Wachstum der Sämlinge.  
-- In West-Oregon sind Schnecken die Nr. 1 unter den Gartenschädlingen. Der Schlüssel ist, sie vor dem Pflanzen von Samen oder Jungpflanzen zu bekämpfen. Köder werden viel weniger wirksam, wenn Schnecken zarte Sämlinge zum Fressen haben; sie können eine ganze Reihe kleiner Pflanzen in einer einzigen Nacht zerstören. Das Sammeln von Hand bei Nacht oder an Verstecken tagsüber, Bierfallen oder organische Schneckenköder mit Eisenphosphat können alle wirksam sein.  
-- Nützliche Insekten sind Insekten, die Gartenschädlinge fressen und helfen, die Schädlingspopulation in Ihrem Garten zu reduzieren. Der Nektar und die Pollen kleiner blühender Pflanzen ziehen erwachsene nützliche Insekten in Ihren Garten. Ein mehrjähriger Kräutergarten mit Minze, Oregano, Majoran und Thymian blüht zu verschiedenen Zeiten im Sommer; diese Blüten ziehen erwachsene nützliche Insekten an, die in Ihrem Garten Nahrung finden. Wenn sie zu Besuch kommen, legen einige Eier, aus denen Larven schlüpfen, die Schädlinge fressen.  
-- Wenn alles andere fehlschlägt, können organische Pestizide verwendet werden, um schädliche Schädlinge zu beseitigen. Identifizieren Sie den Schädling, bevor Sie ein Pestizid wählen, das speziell auf den Schädling abzielt, den Sie bekämpfen möchten. Ein Beispiel ist die Verwendung von Bacillus thuringiensis zur Bekämpfung von Kohlweißlingslarven an Pflanzen der Kohlfamilie. Breitband-Pestizide töten wahllos, schädigen Bienen, nützliche Insekten und Bodenorganismen. Rotenon, Neem und Pyrethrine sind Beispiele für breitbandige organische Pestizide.  
+Guter Boden ist der Schlüssel für erfolgreiches Gärtnern. Kompostierte organische Substanz verbessert den Boden. Starten Sie ein neues Beet, indem Sie jedes Jahr 5 bis 10 cm Kompost aufbringen. Bei schwerem Tonboden oder sehr sandigem Boden ruhig mehr verwenden. Etwa die Hälfte der organischen Substanz im Kompost wird jedes Jahr abgebaut. Dadurch reichert sich organische Substanz mit der Zeit im Boden an. Wer schnelle Ergebnisse möchte, kann ein Hochbeet aus Mutterboden, Kompost, Sand und Mist anlegen.
 
-### Methoden der organischen Unkrautbekämpfung  
-- Einjährige Unkräuter – solche, die jedes Jahr aus Samen sprießen – werden am besten kontrolliert, indem verhindert wird, dass sie Samen bilden, und durch Hacken und Herausziehen der Sämlinge per Hand. Der Angriff auf sie, wenn sie klein und leicht herauszuziehen sind, ist die beste Methode. Das Mulchen mit einem organischen Material wie Kompost oder Stroh kann Unkrautsamen ersticken. Dies sollten Sie im Sommer tun, nachdem sich der Boden erwärmt hat. Wenn Sie pflanzen, geben Transplantate gegenüber Samen einen Vorsprung von 3 bis 4 Wochen gegenüber konkurrierendem Unkraut; eng gepflanzte Transplantate können kleine Unkrautsämlinge beschatten. Auch diese Methode funktioniert am besten mit gesunden, schnell wachsenden Pflanzen, die das Unkraut überwachsen können.  
-- Mehrjährige Unkräuter – solche, die Jahr für Jahr an derselben Stelle in Ihrem Garten zurückkehren – können schwierig zu kontrollieren sein. Diese Unkräuter müssen entfernt werden, bevor Sie Gemüse pflanzen. Folienmulch ist eine Alternative zum Jäten: Ersticken Sie die Unkräuter mit dicken Schichten Zeitungen oder Pappe. Die Schichten können ausgelegt und Erde herangeschafft werden, um Beete auf dem Folienmulch zu bauen. Im Laufe der Zeit zerfällt der Folienmulch und kann in den Boden eingearbeitet werden.  
+Kompost verbessert die Bodenstruktur und langfristige Bodengesundheit. Er ist aber keine zuverlässige Düngerquelle. Wo kräftiges Wachstum wichtig ist, wie im Gemüsegarten, sollten Sie zusätzlich düngen.
 
-### OSU Extension Service Ressourcen  
-[https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
+---
 
-#### Beratung durch Master Gardeners™  
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County); 503-725-2300 (Washington County); 503-445-4608 (Multnomah County). Oder stellen Sie eine Frage unter [www.metromastergardeners.org](http://www.metromastergardeners.org).  
-- Besuchen Sie die Website der Clackamas Chapter Master Gardeners [www.cmastergardeners.org](http://www.cmastergardeners.org) für 10-Minuten-Universität™ Handouts und den Zeitplan der kostenlosen Kurse.  
+### Bio-Dünger macht den Boden fruchtbar
 
-Der Oregon State University Extension Service verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/elterlichem Status, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Rache für frühere Aktivitäten in Bezug auf Bürgerrechte. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+- Der Boden verliert mit der Zeit an Fruchtbarkeit: Pflanzen nehmen beim Wachsen Nährstoffe auf, und Regen spült lösliche Nährstoffe aus. Deshalb muss jedes Jahr nachgedüngt werden.
+- Pflanzen können nur gelöste Nährstoffe aufnehmen; viele Bio-Dünger enthalten unlösliche Nährstoffe, die erst durch Bodenlebewesen verfügbar gemacht werden.
+- Ein vorgemischter, ausgewogener Bio-Dünger mit Stickstoff (N), Phosphor (P) und Kalium (K) ist ideal für den Einstieg.
+- Wer selbst mischt, sollte schnell und langsam wirkende Dünger kombinieren, damit die Pflanzen die ganze Saison über versorgt sind.
+
+  Häufige schnell wirkende Bio-Dünger (mit N-P-K-Werten):
+  - Fisch-Emulsion (5-1-1)
+  - Blutmehl (15-1-1)
+  - Fischmehl (10-4-0)
+  - Fledermaus-Guano (10-3-1)
+
+  Langsam wirkende Dünger:
+  - Baumwollsamenmehl (7-2-1)
+  - Luzerne (2-1-2)
+  - Knochenmehl (2-15-0)
+  - Weiches Rohphosphat (0-3-0)
+  - Seetangmehl (0-0-10)
+  - Greensand (0-0-5)
+
+  Arbeiten Sie langsam wirkende Dünger einige Monate vor der Aussaat in den Boden ein. Bodenlebewesen sind bei wärmeren Temperaturen am aktivsten.
+
+- Hohe Bodenfruchtbarkeit ist besonders wichtig für Keimlinge und Jungpflanzen. Gesunde Jungpflanzen können sich besser gegen Schädlinge und Krankheiten wehren und mit Unkraut konkurrieren. Ein löslicher Dünger wie flüssige Fisch-Emulsion hilft kleinen Pflanzen, schnell stark zu werden. Wenn der Boden wärmer wird, stehen dann auch die Nährstoffe aus langsam wirkenden Düngern zur Verfügung – bis zur Ernte.
+- Überwinternde Gründüngungspflanzen verringern Erosion und Verdichtung. Sie speichern Nährstoffe, damit diese nicht vom Regen ausgewaschen werden. Im Frühling schneiden Sie die Gründüngung vor der Blüte ab und geben sie auf den Kompost. Die Wurzeln werden durch Umgraben im Boden abgetötet.
+
+---
+
+### Biologische Methoden zur Schädlingsbekämpfung
+
+- **Seien Sie aufmerksam.** Der erste Schritt ist, den Schädling zu erkennen, der den Schaden verursacht. Gegen Vögel helfen weder Schneckenkorn noch Insektizide. Hilfe gibt es online bei den Master Gardeners unter [www.metromastergardeners.org](http://www.metromastergardeners.org) oder telefonisch (Nummern unten).
+- Gesunde Pflanzen sind weniger anfällig für Schädlinge und können Schäden besser überwachsen.
+- Besonders bei Keimlingen und jungen Gemüsepflanzen sollten Sie auf Schädlinge und Krankheiten achten. Kleine, zarte Pflanzen können schnell komplett vernichtet werden; größere Pflanzen verkraften etwas Schaden besser.
+- Das Isolieren von Keimlingen und Jungpflanzen ist eine der effektivsten Bio-Methoden. Schwimmende Reihenabdeckungen halten fliegende Insekten und Vögel fern. Sie werden direkt auf die Pflanzen gelegt und an den Seiten mit Steinen oder Brettern beschwert. Die Pflanzen wachsen dann unter der Abdeckung weiter, bis sie groß genug sind, um für viele Schädlinge uninteressant zu werden. Die Abdeckung wärmt außerdem den Boden und beschleunigt das Wachstum.
+- Im westlichen Oregon sind Schnecken der häufigste Gartenschädling. Wichtig ist es, sie vor der Aussaat oder dem Auspflanzen zu bekämpfen. Wenn sie Zugang zu zarten Keimlingen haben, helfen Köder kaum noch – sie können in einer Nacht eine ganze Pflanzenreihe abfressen. Abends absammeln, Fallen mit Bier oder Bio-Schneckenkorn mit Eisenphosphat helfen.
+- Nützlinge sind Insekten, die Schädlinge fressen und so deren Zahl verringern. Die Blüten von Kräutern und kleinblütigen Pflanzen locken erwachsene Nützlinge an. Ein mehrjähriges Kräuterbeet mit Minze, Oregano, Majoran und Thymian blüht über den Sommer hinweg und lockt Nützlinge an. Manche legen dann Eier, aus denen Larven schlüpfen, die wiederum Schädlinge fressen.
+- Wenn alles andere nicht hilft, können Bio-Pestizide gezielt eingesetzt werden. Bestimmen Sie zuerst den Schädling, damit Sie das richtige Mittel wählen.
+
+  Beispiel: Mit Bacillus thuringiensis gegen Kohlweißlingsraupen an Kohlgewächsen. Breit wirkende Pestizide töten wahllos, auch Bienen, Nützlinge und Bodenlebewesen. Rotenon, Neem und Pyrethrine sind Beispiele für breit wirkende Bio-Pestizide.
+
+---
+
+### Biologische Unkrautbekämpfung
+
+- **Einjährige Unkräuter** – die jedes Jahr aus Samen keimen – lassen sich am besten bekämpfen, indem man sie vor der Samenbildung entfernt oder Keimlinge hackt bzw. ausreißt. Kleine, leicht ziehbare Unkräuter rechtzeitig zu beseitigen, ist am effektivsten. Mulchen mit organischem Material wie Kompost oder Stroh kann Unkrautsamen ersticken, am besten im Sommer nach dem Erwärmen des Bodens. Beim Pflanzen bringen Jungpflanzen statt Samen einen Vorsprung von 3–4 Wochen gegenüber Unkraut; eng gepflanzte Jungpflanzen beschatten kleine Unkräuter. Auch hier gilt: Gesunde, schnell wachsende Pflanzen setzen sich am besten durch.
+- **Mehrjährige Unkräuter** – die Jahr für Jahr an derselben Stelle wiederkommen – sind schwieriger zu beseitigen. Sie müssen vor dem Gemüsepflanzen entfernt werden. Alternativ kann „Sheet Mulching“ helfen: Dicke Lagen Zeitungspapier oder Pappe ersticken die Unkräuter. Darauf kann Erde aufgebracht und Beete angelegt werden. Mit der Zeit zersetzen sich die Schichten und werden Teil des Bodens.
+
+---
+
+### OSU Extension Service Ressourcen
+
+Besuchen Sie [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Für Master Gardener™ Beratung
+
+- **Home Horticulture Helpline anrufen:**
+  - 503-655-8631 (Clackamas County)
+  - 503-725-2300 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Stellen Sie eine Frage unter [www.metromastergardeners.org](http://www.metromastergardeners.org)
+- Besuchen Sie die Website der Clackamas Chapter Master Gardeners [www.cmastergardeners.org](http://www.cmastergardeners.org) für 10-Minuten-Universität™-Handouts und den kostenlosen Kursplan.
+
+---
+
+##### Der Extension Service der Oregon State University untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Meinung, genetischer Information, Veteranenstatus, Vergeltung oder Benachteiligung wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Diskriminierungsverbote gelten für alle Programme.)
+---

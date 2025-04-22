@@ -1,69 +1,92 @@
-# Jaamacadda 10-Daqiiqo™
+#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Master-ka ee Clackamas County oo la kaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beeralayda ee Clackamas County Master Gardener wuxuu kaashanayaa oo taageerayaa Barnaamijka OSU Extension Master Gardener™.
+# Abuurista Beero Dabayaaqeeyaasha
 
-## Abuurista Beerta Pollinator-ka
+Furaha lagu sameynayo beero guulaysta oo dabaaqeeyayaal ah (pollinator garden) waa in la siiyo cayayaanka dhirta beerta ku faafiya (pollinators) iyo nooleyaasha kale meel ay ku tarmaan isla markaana la hubiyo in ay helaan cunto joogto ah laga bilaabo guga ilaa dayrta dambe. Cayayaanka beerta ugu badan ee pollinators-ka ah waxaa ka mid ah shinnida, balanbalada, bakaylaha, diqsiyaasha, xashiishyada, shimbiraha, xitaa quraanjada. Maadaama ay jiraan noocyo badan oo pollinators ah oo leh baahiyo kala duwan, xeeladda ugu fiican waa in la beero dhir ubaxyo badan leh oo kala duwan oo soo saarta malab iyo polen.
 
-Furaha guusha ee beerta pollinator-ka waa in la siiyo cayayaanka pollinator-ka iyo xayawaanka kale meel ay ku koriyaan ubadkooda iyo in la hubiyo inay helaan il cunto oo joogto ah laga bilaabo gu' ilaa dayrta dambe. Cayayaanka caadiga ah ee beerta ka dhex jira waxaa ka mid ah shinnida, dhidhinta, balanbaalista, cayayaanka habeenka, duqsiyada, qalqalloocyada, shimbiraha, iyo xitaa quraanjada. Maadaama ay jiraan pollinator-yo kala duwan oo leh baahiyo kala geddisan, istaraatiijiyadda ugu fiican waa in la beero noocyo kala duwan oo ubaxyo ah oo soo saara malab iyo ubbo.
+Iyadoo taas laga duulayo, waa kuwan tillaabooyinka aad ku sameyn karto meel qurux badan oo soo jiidata cayayaanka pollinators-ka:
 
-Iyada oo hadafkaa maskaxda lagu hayo, halkan waxaa ku qoran tillaabooyinka lagu abuuri karo meel qurux badan oo soo jiidasho leh pollinator-yada.
+### 1. Cabbirka iyo Goobta
 
-### 1. Cabirka iyo Meesha
-Lix ilaa sideed saacadood oo iftiin qorraxda ah ayaa habboon. Waxaad ku dari kartaa pollinator-ka dhirta beertaada jirta ama waxaad abuuri kartaa sariir cusub.
+Lix ilaa siddeed saacadood oo qorrax ah waa mid ku habboon. Waxaad ku dari kartaa dhirta pollinator-ka sariirta beerta ee jirta ama waxaad abuuri kartaa sariir cusub.
 
-### 2. Carrada
-Qiimee carradaada. Ma tahay mid ciid ah oo si fiican u dillaacsan mise waa mid dhoobo ah oo qoyan? Nooca carrada ayaa go'aaminaya noocyada dhirta ee ku kobci kara, iyadoo ku xiran baahidooda biyaha iyo bacrinta wanaagsan. Tijaabi carradaada haddii aadan hubin nooca carradaada. pH carrada waa inuu ku jiraa inta u dhaxaysa 6.0 iyo 7.0.
+### 2. Dhulka
 
-### 3. Waraabka
-Biyaha waa muhiim, gaar ahaan inta lagu jiro xilliga dhirta lagu fidayo, taas oo qaadan karta 1 ilaa 3 sano. Go'aami sida aad biyo ugu keeni doonto dhirtaada. Isticmaal tuubooyinka biyaha ama hababka kale ee waraabka si aad biyaha ugu hagto aagga xididka.
+Qiimee dhulkaaga. Ma ciid ayuu yahay oo si fudud biyaha u dhaafa mise waa dhoobo oo qoyan? Nooca dhulka ayaa go’aamin doona dhirta ku kori karta, iyadoo ku xiran baahida biyaha iyo bacrinta. Haddii aadan hubin nooca dhulkaaga, tijaabi. pH-ga dhulka waa inuu ahaadaa inta u dhaxaysa 6.0 ilaa 7.0.
+
+### 3. Waraabinta
+
+Biyaha waa muhiim, gaar ahaan marka dhirta la beero cusub, taas oo qaadan karta 1 ilaa 3 sano. Go’aanso sida aad dhirtaada u waraabin doonto. Isticmaal tuubooyin biyo si toos ah ugu keena xididka dhirta ama habab kale oo waraabin ah.
 
 ### 4. Xulashada Dhirta
-- Raadi kala duwanaansho qaabka, cabbirka, iyo midabka ubaxyada.
-- Hubi in ubaxyadu si joogto ah u socdaan laga bilaabo guga hore ilaa dayrta dambe.
-- Isticmaal dhirta deegaanka ah, oo ay ku jiraan geedaha iyo geedaha yaryar, kuwaas oo bixiya ubaxyo badan oo hore.
-- Isticmaal dhir aan deegaanka ahayn oo bixiya malab iyo ubbo.
-- Ku beero dhir shingle ah oo bixiya malab iyo ubbo si sahlan, marka loo eego ubaxyo-labalaab ah.
-- Ku dheji pollinator-ka ubaxyada qaybo waaweyn si ay u fududaato tamarta ururinta.
 
-La tasho talooyinka Oregon State University Garden Ecology Lab marka laga hadlayo soo jiidashada shinnida deegaanka. **Native Plant Picks for Bees** waa daabacaad Oregon State University oo bixisa talooyin badan. [Halkan ka akhri](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees).
+- Dooro ubaxyo leh qaabab, cabbirro, iyo midabbo kala duwan.
+- Hubi in ubaxu joogto yahay laga bilaabo guga hore ilaa dayrta dambe.
+- Isticmaal dhir asal ahaan deegaanka ah, oo ay ku jiraan geedo iyo geedaha yaryar, kuwaas oo bixinaya ubaxyo hore iyo badan.
+- Isticmaal dhir aan asalka deegaanka ahayn haddii ay bixiyaan polen iyo malab.
+- Dooro dhirta leh ubaxyo fudud oo hal xabbo ah, kuwaas oo si sahal ah loo heli karo malabka iyo polenka, halkii laga dooran lahaa ubaxyo badan oo la isku darsaday.
+- Ku beero ubaxyada pollinator-ka kooxo waaweyn si ay ugu fududaato cayayaanka.
 
-### 5. Tixgelinta Cabirka
-Bilow yar oo si tartiib ah u kordhi cabbirka beertaada waqti ka dib, haddii aad sameyneyso sariir cusub ama aad ku darayso weelasha. Si joogto ah ula soco oo fiiri pollinator-yada soo jiidashada u leh dhirtaada. Ma jiraan shinnida, balanbaalis, shimbiro hummingbirds ama shimbiro kale?
+Ka fiirso talooyinka laga helayo Oregon State University Garden Ecology Lab markay tahay xulashada dhirta soo jiidata shinnida deegaanka. *Native Plant Picks for Bees* waa buug ay OSU diyaarisay oo xulashooyin badan bixiya: [Native Plant Picks for Bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees).
 
-### 6. Muddada Ubaxyada
-Hadafku waa in la naqshadeeyo beer leh ubaxyo laga bilaabo guga hore ilaa dayrta dambe. Isticmaal dhir sanadle ah iyo digir, sida ubax California poppy, Oregon iris iyo camas, si aad u taageerto geedaha iyo dhirta waarta oo aad u kordhiso kala duwanaanshaha dhirta. Haddii aad leedahay meel, geedo badan oo deegaanka ah iyo geedaha yaryar, sida Manzanita iyo California lilac, waxay ubaxaan xilli hore oo bixiya ilaha ubaxyada oo badan.
+### 5. Tixgelinta Cabbirka
 
-### 7. Dayactirka
-Beertu waxay ka faa'iidaysataa nadiifinta joogtada ah iyo waraabka. Ku rusheeya mulch si fudud si aad u yarayso cawska. Ka tag aagag carrada furan si loo siiyo deegaan shinnida deegaanka ku nool.
+Bilow meel yar oo kordhi beertaada waqti ka dib, haddii aad abuurayso sariir cusub ama aad ku kordhinayso weelal. Si joogto ah u fiiri oo la soco cayayaanka soo jiidanaya dhirtaada. Ma aragtaa shinni, balanbal, shimbiro yaryar, ama shimbiro kale?
+
+### 6. Muddada Ubaxa
+
+Ujeeddadu waa in aad beertaada u naqshadeyso si ay ubaxyo u yeelato laga bilaabo guga hore ilaa dayrta dambe. Isticmaal dhir sanadle ah iyo bulb, sida California poppy, Oregon iris, iyo camas, si aad u xoojiso noocyada geedaha iyo perennials-ka, una kordhiso kala duwanaanta dhirta. Haddii aad haysato meel bannaan, geedo iyo geedaha yaryar ee deegaanka sida Manzanita iyo California lilac waxay ubaxaan waqti hore, waxayna bixiyaan ubaxyo badan.
+
+### 7. Daryeelka
+
+Beertu waxay faa’iido ka heshaa nadiifin joogto ah iyo waraabin. Ku rushee mulch khafiif ah si aad uga ilaaliso cawska xun. Ka tag meelo dhul bannaan ah si ay ugu tarmaan shinnida deegaanka.
 
 ### 8. Sunta Cayayaanka
-Ka ilaali pollinator-yada adoo adeegsanaya habka **Maareynta Cayayaanka Isku-dhafan** si loo xakameeyo cayayaanka iyo cudurada beertaada. Xulo dhir u adkeysanaya si loo yareeyo cayayaanka iyo cudurada, gooyana qaybaha cudurka qabo oo isticmaal habab kale oo dhaqameed iyo kuwa noolaha ah si loo xaliyo dhibaatooyinka. Isticmaal kiimikooyinka oo keliya marka ay tahay xal ugu dambeeya.
+
+Ka ilaali pollinators-ka adoo adeegsanaya Habka Maareynta Cayayaanka Isku-dhafan (Integrated Pest Management) si aad ula dagaallanto cayayaanka iyo cudurrada beertaada.
+
+- Dooro dhir adkaysi u leh cayayaanka iyo cudurrada.
+- Jaro qaybaha cudurka leh oo isticmaal habab kale oo dhaqameed iyo noole si aad u xalliso dhibaatooyinka.
+- Isticmaal sunta cayayaanka kaliya marka dhammaan xalalka kale la waayo.
 
 ### 9. Nadiifinta Dayrta
-Ka tag caleemaha aan cudurka qabin, jirridaha dhirta, iyo madaxyada miraha beerta ilaa guga dambe, si loo taageero pollinator-yada jiilaalka, sida ugxanta, dhilinyada, ama dadka waaweyn.
 
-## Kheyraadka Jaamacadda & Kuwa Kale
-
-- **Qorshooyinka Beerta Pollinator**  
-  [Halkan ka akhri](https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi)
-
-- **Horumarinta Nawaaxiga Magaalooyinka iyo Tuulooyinka si loo ilaaliyo Pollinator-yada**  
-  [Halkan ka akhri](https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators)
-
-- **Dhirta Deegaanka ee Shinnida**  
-  [Halkan ka akhri](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)
-
-- **Shaybaarrada Falanqaynta ee Oregon**  
-  [Halkan ka akhri](https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf)
-
-- **Beero Dhirta Deegaanka**  
-  [Halkan ka akhri](https://portlandnativeplants.org/native-plant-nurseries)
-
-## Talooyinka Master Gardener™
-La xiriir xafiiska maxalliga ah ee OSU Extension si aad uga hesho talooyin Master Gardener ah. Hubi boggan si aad u hesho macluumaadka xiriirka: [Halkan ka akhri](https://extension.oregonstate.edu/find-us).
-
-Si aad u heshid waraaqaha Jaamacadda 10-Daqiiqo™ iyo jadwalka fasalka, booqo [Halkan ka akhri](https://cmastergardeners.org).
+Ka tag caleemaha aan cudurka lahayn, laamaha, iyo miraha dhirta beerta ilaa guga dambe si ay u taageeraan taranka iyo badbaadada pollinator-ka xilliga qabowga.
 
 ---
 
-Adeegga Oregon State University Extension Service wuxuu reebaya takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaheeda, iyo agabkeeda iyadoo lagu saleynayo midabka, asalka dhalashada, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sidaha, xaaladda halyeeyga, dib-u-ciqaabta falalka xuquuqda madaniga ah ee hore. (Dhamaan sababaha reebban ma khuseeyaan dhammaan barnaamijyada).
+## Jaamacadda & Kheyraad Kale
+
+### Qorshayaasha Beerta Pollinator-ka
+
+[Qorshayaasha Beerta Pollinator-ka](https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi)
+
+### Horumarinta Dhulka Magaalooyinka si Loo Ilaaliyo Pollinators-ka
+
+[Horumarinta Dhulka Magaalooyinka si Loo Ilaaliyo Pollinators-ka](https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators)
+
+### Xulashada Dhirta Deegaanka ee Shinnida
+
+[Xulashada Dhirta Deegaanka ee Shinnida](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)
+
+### Shirkadaha Shaybaadhka Falanqeeya ee Oregon
+
+[Shirkadaha Shaybaadhka Falanqeeya ee Oregon](https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf)
+
+### Xarunta Dhirta Deegaanka
+
+[Xarunta Dhirta Deegaanka](https://portlandnativeplants.org/native-plant-nurseries)
+
+---
+
+## Talooyinka Master Gardener™
+
+La xiriir xafiiska OSU Extension ee deegaankaaga si aad u hesho talooyin beeraleyda Master-ka. Eeg goobtan si aad u hesho macluumaad xiriir: [Ka hel Xafiiska Extension ee deegaankaaga](https://extension.oregonstate.edu/find-us).
+
+Si aad u hesho waraaqaha 10-Daqiiqo Jaamacad™ iyo jadwalka fasallada, booqo [Clackamas County Master Gardeners](https://cmastergardeners.org).
+
+---
+
+#### Oregon State University Extension Service · Adeegga Kordhinta ee Jaamacadda Oregon State waxay mamnuucaysaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ay bixiso, iyadoo aan loo eegin isirka, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/walidka, dakhliga laga helo barnaamij caawimaad dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda ciidanimada, aargoosi, ama ciqaab ka dhalatay u doodista xuquuqda madaniga ah ee hore. (Dhammaan arrimaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+
+---

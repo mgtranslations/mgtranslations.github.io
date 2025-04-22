@@ -1,47 +1,89 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Gobolka Clackamas oo iskaashanaya lana taageeraya Barnaamijka Beeralayda Master-ka ee OSU Extension™
 
-Ururka Beeraleyda Sare ee Degmada Clackamas oo kaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
+# Beerashada Hydroponics ee Fudud Gudaha Guriga
 
-## Beeraley Hydroponic oo Fudud oo Gudaha ah
-
-Hydroponics waa hab lagu koriyo dhirta iyada oo aan ciid lahayn, iyadoo la isticmaalayo xal nafaqo leh oo ku salaysan biyo. Nidaamyada hydroponic ee waaweyn waxay adeegsadaan tiknoolajiyo heer sare ah si ay ula socdaan heerka nafaqada, pH, oksijiinta la milmay, heerkulka xalka nafaqada, iyo qadarka iftiinka ee dhirta helayaan. Qoraalkan wuxuu soo bandhigayaa hab fudud oo ku habboon beeraleyda guriga.
-
-## Habka Kratky ee Hydroponics – Doorasho Ku Habboon Beeraleyda Guriga
-
-Bernard A. Kratky, oo ah khabiir dhirta ka tirsan Jaamacadda Hawaii, ayaa ogaaday in dhirta lagu dhejiyay kor xal nafaqo leh ay soo saari karto xidido hawada nuugaya marka xalka nafaqada la isticmaalo. Habka Kratky wuxuu meesha ka saarayaa baahida bamamka iyo hawada la cadaadiyey. Faa'iidooyinka habka Kratky waxaa ka mid ah:
-
-- **Saaxiibtinimo deegaanka** – Waxay isticmaashaa biyo aad u yar waxaana uusan u baahnayn bamamka ama kombaresarada si biyaha loo wareejiyo.
-- **Qiimo jaban** – Waxay u baahan tahay agab fudud oo si sahlan loo heli karo.
-- **Fudud in la shaqeeyo** – Nafaqooyinka waxaa lagu dabiibaa biyaha si mashruuca loo bilaabo; diyaarintaas waxay soconaysaa muddada koritaanka ilaa goosashada.
-- **Natiijo degdeg ah** – Koritaanka xal leh nafaqooyin hodan ah oo hoos iftiinka gudaha ah wuxuu soo saaraa dalag si degdeg ah loo goosan karo.
-- **Cadaadis yar oo cayayaan iyo cudur gudaha ah** – Iska ilaali inaad gudaha u keento cayayaan sida aboor, caarada, iyo digaag-fungus.
-
-## Liiska Agabka & Talooyin Ku Saabsan Diyaarinta Nidaamka
-
-- **Weelka biyaha/xalka nafaqada lagu hayo**: Weel adag oo leh dhinacyo mugdi ah ayaa shaqeynaya. Tusaalooyin waxaa ka mid ah weelasha lagu qaso shubka (9 gallon), baakadaha balaastiga ah iyo baaldiyada (5-gallon), iyo xitaa dhalooyinka mason oo lagu duudduubay warqad madow. Door size-ka ku habboon tirada khudaarta aad qorsheyso inaad koriso. Qiyaas ku saabsan 1.5 gallon per geed oo hubi inay jirto meel ku filan oo xididdadu ku kori karaan.
-- **Daboolka weelka**: Waxay u adeegtaa saddex hawlood – 1. Yareynta uumiga, 2. Waxay taageero u siisaa koobabka shabaqyada, iyo 3. Waxay ka horjoogsataa iftiinka. Koobabka shabaqyada waxay ka soo laadlaadaan daboolka si xididdada dhirtu ugu koraan xalka nafaqada. Daboolka waxaa laga yaabaa inuu la yimaado weelka ama waxaa laga samayn karaa loox xumbo ama agab kale.
-- **Koobabka shabaqyada**: Waa kuwo daloola oo haysta dhexdhexaadka dhirta oo ku hareeraysan iniinaha ama geedaha la beddelay. Xididdadu waxay ka sii baxaan koobabka shabaqyada si ay ugu koraan xalka nafaqada. Cabirka caadiga ah waa 2 inch.
-- **Dhexdhexaadka lagu beero**: Waxaa lagu hayaa iniinaha ama geedaha la beddelay. Ikhtiyaarrada dabiiciga ah waxaa ka mid ah coco coir, perlite, peat moss, ama isku-darka ciidda beerta. Kubadaha dhoobada ah iyo woolka macdanta ah ayaa sidoo kale shaqeyn kara. Waxaad iniinaha si toos ah ugu beeran kartaa koobabka shabaqyada oo buuxan dhexdhexaadka beerta ama waxaad horay u kicin kartaa iniinaha oo waxaad ku wareejin kartaa geedo yar koobabka shabaqyada.
-- **Nafaqooyinka hydroponic**: Waxay ku yimaadaan qaab dareere ah ama qalalan. Qaabka qalalan waa sahlan tahay in la isticmaalo waxaana ay ku kacdaa qiimo yar in la raro. MaxiGro iyo Master Blend waa laba tusaale oo ah isku-darka qalalan. Waxay qaadataa ku dhawaad 2.5 qaado oo MaxiGro si loo sameeyo 5 gallon oo xal nafaqo leh (500-600 ppm).
-- **Biyaha loogu talagalay samaynta xalka nafaqada**: Waa inay leeyihiin pH ku dhow dhexdhexaad. Hubi biyahaaga. Biyaha ceelka waxaa laga yaabaa inay u baahan yihiin in pH la hagaajiyo.
-- **Iftiinka**: Waa la laadlaadsan yahay, si loo kiciyo loona hoosaysiiyo hadba sida koritaanka dhirtu yahay. Ka fiirso nidaamka pulley – waxaa laga yaabaa inuu la yimaado iftiinka koritaankaaga. Iftiinka LED oo u dhigma 300–600 W oo u dhexeeya $35-60 wuxuu daboolayaa ku dhawaad 3’ x 3’ aag. Hubi faahfaahinta iftiinka koritaanka: waxaa lagu calaamadeeyay buluug, casaan, ama iftiin cad/muujin dhexdhexaad ah. Nalalka buluuga ah ama kuwa isku dhafan ayaa ku habboon bilowga iniinaha iyo cagaar qaro weyn. Nalalka cas ama kuwa isku dhafan ayaa ku habboon dhiirrigelinta sameynta ubaxa dhirta ubaxeysa iyo ilaalinta dhirta oo gaaban. Nalalka cad ama kuwa isku dheelitiran ayaa ku habboon inta badan dhirta at marxalad kasta oo koritaanka. Isticmaal saac si aad u bixiso iftiin 12 ilaa 14 saacadood oo iftiin ah iyo 12 ilaa 10 saacadood oo mugdi ah.
-
-## Sida Loo Bilaabo Koritaanka Hydroponic
-
-1. Diyaari nidaamka oo dhan.
-2. Isku walaaq xalka nafaqada. Marka ay tahay nafaqooyin qalalan, ka taxaddar inaad hubiso inay dhamaantood milmeen.
-3. Buuxi weelka ilaa qoto dheer oo ah in hoose ee ¼” ee koobka shabaqyada ay ku dhex jiraan xalka.
-4. Ku dar dhexdhexaadka beerta koobka shabaqyada oo geli iniinaha (ka saar kuwa kale marka ay soo baxaan) ama beddel geedo.
-5. Diyaari heerka iftiinka iyo saacadda.
-6. La soco waxqabadka dhirta oo hagaaji iftiinka sida dhirtu u koraan.
-7. Gooso khudaarta cagaaran sida lettuce, Swiss chard, spinach, iyo basil adiga oo ka saaraya caleemaha dibadda si aad u kordhiso xilliga goosashada halkii aad ka goosan lahayd geedka oo dhan marka uu bislaado.
-8. Kadib goosashada, kala fur weelka, daboolka, iyo koobka shabaqyada. Ku shub xalka nafaqada ee haray beerta. Nadiifi agabka kahor markale isticmaalka.
-
-## Macluumaad Dheeraad ah
-
-- **Saddex Hab Hydroponic oo aan Wareeg ahayn oo Lagu Koriyo Lettuce**, Muuqaalka B. A Kratky, [YouTube](https://www.youtube.com/watch?v=jiGQsfiPwkI)
-- **Koritaanka Hydroponic ee Guriga**, Muuqaalka 10-Daqiiqo Jaamacadda™, [Website](www.cmastergardeners.org/10-minute-university)
-- **Koriso Lettuce Qolkaaga Fadhiga: Quudi Qoyskaaga Adiga oo ka leh Beertaada Hydroponic LED ee Gudaha**, Dan Chiras & Victor Zaderej
+Hydroponics waa habka lagu beero dhirta, iyada oo aan ciid la isticmaalin, balse la adeegsado xal biyo ah oo nafaqo leh. Nidaamyada waaweyn ee hydroponic-ka waxay adeegsadaan tignoolajiyad casri ah si ay ula socdaan heerka nafaqada, pH, ogsajiinta ku milan, heerkulka xalka nafaqada, iyo iftiinka dhirtu heshay. Qoraalkan wuxuu soo bandhigayaa hab fudud oo ku habboon beeralayda guryaha.
 
 ---
-Adeegga Oregon State University Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan midabka, jinsiyadda, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmada, naafada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo baxay barnaamijka taageerada dadweynaha, caqiidooyinka siyaasadeed, macluumaadka hidde-sideyaasha, xaaladda askarta, aargoosiga ama aargoosiga ficilkii hore ee xuquuqda madaniga. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+
+## Habka Kratky ee Hydroponics – Doorasho Ku Habboon Beeralayda Guryaha
+
+Bernard A. Kratky, oo ah khabiir ka tirsan Jaamacadda Hawaii, ayaa ogaaday in dhirta la dul sudho xalka nafaqada ay kori karaan xididada nuugaya hawada sida xalalka nafaqada loo isticmaalo. Habka Kratky wuxuu meesha ka saarayaa baahida mashiinnada iyo hawo la buufiyo. Faa’iidooyinka habkan waxaa ka mid ah:
+
+- **Deegaanka u roon** – Aad buu u yara isticmaalaa biyaha, mana u baahna mashiinno ama matooro wareejiya biyaha.
+- **Qiimo jaban oo la bilaabi karo** – Waxay u baahan tahay agab sahlan oo fudud in la helo.
+- **Fudud in la shaqeeyo** – Nafaqada waxaa lagu daraa biyaha marka la bilaabayo; nidaamkani wuxuu socdaa inta la beeraayo ilaa la goosanayo.
+- **Natiijo degdeg ah** – Ku korinta xal nafaqo leh iyo iftiin gudaha ah waxay keentaa dalag degdeg loo goosan karo.
+- **Cuduro iyo cayayaan yar gudaha** – Ka taxadar in aadan guriga keenin cayayaanka sida aphids, cayayaanka shabakada, ama duqsiyada fungus-ka.
+
+---
+
+## Liiska Agabka & Talooyin Ku Saabsan Dhismaha Nidaamka
+
+- **Weelka lagu shubo biyaha/xalka nafaqada**:  
+  Weel adag oo leh dhinacyo mugdi ah waa mid ku habboon. Tusaale ahaan, weelasha lagu qaso shubka (9 gallon), baaldiyo iyo weelal caag ah (5 gallon), iyo xitaa dhalooyinka mason-ka oo lagu duuduubay warqad madow. Dooro cabbirka ku habboon tirada khudaarta aad rabto inaad beerto. U ogolow qiyaastii 1.5 gallon midkiiba dhir ah, hubi in xididadu helaan boos ku filan.
+
+- **Koofiyadda weelka**:  
+  Koofiyaddu waxay leedahay saddex shaqo:  
+  1. Waxay yareysaa uumiga.  
+  2. Waxay taageertaa koobabka shabakadda.  
+  3. Waxay xannibtaa iftiinka.  
+  Koobabka shabakadda ayaa laga laalaa koofiyadda si xididadu ugu koraan xalka nafaqada. Koofiyaddu waxay la iman kartaa weelka ama waxaa laga samayn karaa looxa xumbada ama agab kale.
+
+- **Koobabka shabakadda**:  
+  Koobabkani waa daloolo waxayna hayaan dhexdhexaad beero oo ku wareegsan abuurka ama dhirta la beddelay. Xididadu waxay ka koraan koobabka shabakadda oo galaan xalka nafaqada. Cabbirka koobka caadiga ah waa 2 inji.
+
+- **Dhexdhexaadka beerta**:  
+  Waxay taageertaa abuurka ama dhirta la beddelay. Ikhtiyaarada dabiiciga ah waxaa ka mid ah cawska qumbaha, perlite, peat moss, ama isku dhafka ciidda beerta. Kubadaha dhoobada iyo dunta macdanta ahna way shaqayn karaan. Waxaad abuurka toos ugu beeri kartaa koobabka shabakadda ee buuxa ama abuurka hore u diyaari oo dhirta yar ku beddel koobka.
+
+- **Nafaqooyinka hydroponic**:  
+  Nafaqooyinka hydroponic waxay ku yimaadaan dareere ama budo. Budada way fududahay in la isticmaalo waana jaban tahay in la soo diro. MaxiGro iyo Master Blend waa laba tusaale oo budo ah. Waxay u baahan tahay qiyaastii 2.5 qaado oo MaxiGro ah si loo sameeyo 5 gallon oo xal nafaqo leh (500–600 ppm).
+
+- **Biyaha**:  
+  Biyaha lagu sameynayo xalka nafaqada waa in pH-gu u dhow yahay dhexdhexaad. Hubi biyahaaga. Biyaha ceelasha mararka qaar pH-gooda waa in la saxo.
+
+- **Iftiinka**:  
+  Iftiinku waa la laalaa si loo hoosiyo ama loo koro hadba sida dhirtu u korto. Ka fiirso nidaamka riixista – mararka qaar waa la socda iftiinka beertaada. Hal iftiin LED ah oo cabbirkiisu yahay 300–600 W (qiimihiisu yahay $35–60) wuxuu dabooli karaa meel cabbirkeedu yahay ku dhowaad 3’ x 3’.
+
+  Fiiri qeexitaanka iftiinka beerta:
+  - Iftiinka buluuga ah ama nalalka isku dhafan waxay ku habboon yihiin bilaabista abuurka iyo caleenta cagaaran.
+  - Iftiinka casaanka ah ama nalalka isku dhafan waxay kor u qaadaan sameysanka ubaxa dhirta ubaxda leh iyo xakameynta dhererka dhirta.
+  - Iftiinka cad ama nalalka isku dhafan waxay ku habboon yihiin dhirta badankeed marxalad kasta oo korriin ah.
+
+  Adeegso saacad si aad u bixiso iftiin 12 ilaa 14 saacadood oo shidan iyo 12 ilaa 10 saacadood oo dansan.
+
+---
+
+## Habka Hydroponic ee Kratky
+
+Marka la beeraayo:
+- Xalka nafaqada wuxuu buuxiyaa weelka ilaa uu gaadho ¼ inji ee hoose ee koobka shabakadda.
+
+Marka la goosanayo:
+- Xalka nafaqada waxaa isticmaalay koritaanka dhirta waana yaraaday. Meesha bannaan ee ka dhaxaysa koofiyadda iyo xalka nafaqada waxaa buuxa hawo qoyan.
+
+---
+
+## Sida Loo Bilaabo Beerashada Hydroponic
+
+1. Dhis nidaamka oo dhan.
+2. Isku qas xalka nafaqada. Haddii aad isticmaalayso nafaqo budo ah, hubi inay si fiican u milmaan.
+3. Buuxi weelka ilaa uu gaadho ¼ inji ee hoose ee koobka shabakadda.
+4. Ku shub dhexdhexaadka beerta koobka shabakadda oo geli abuurka (ka tag mid kaliya marka uu soo baxo) ama beddel dhirta yar.
+5. Dejiso heerka iftiinka iyo saacadda.
+6. La soco koritaanka dhirta oo hagaaji iftiinka sida dhirtu u korto.
+7. Goy caleenta cagaaran sida lettuce, Swiss chard, spinach, iyo basil adigoo si tartiib ah u goosanaya caleemaha dibadda marka ay koraan si aad u dheereyso xilliga goosashada halkii aad ka goyn lahayd dhirta oo dhan markii ay bislaatay.
+8. Marka la goostay, kala fur weelka, koofiyadda, iyo koobabka shabakadda. Ku shub xalka nafaqada ee hadhay beerta. Nadiifi dhammaan qaybaha ka hor intaadan mar kale isticmaalin.
+
+---
+
+## Wixii Faahfaahin Dheeraad ah
+
+- [Saddex Hab oo Aan Wareegaynin oo Hydroponics ah oo Lagu Beero Lettuce](https://www.youtube.com/watch?v=jiGQsfiPwkI) – Muuqaal uu sameeyay B. A. Kratky
+- [Beerashada Hydroponic ee Guriga](http://www.cmastergardeners.org/10-minute-university) – Muuqaal ka tirsan Jaamacadda 10-Daqiiqo™
+- *Ku Beero Lettuce Qolkaaga Fadhiga: Qoyskaaga Ku Quudi Beertaada LED Hydroponic ee Gudaha* waxaa qoray Dan Chiras & Victor Zaderej
+
+---
+
+###### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa oo dhan iyadoo lagu saleynayo: jinsiyadda, midabka, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimo, da’, xaalada guurka, xaalada qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidaha, heerka halyeeynimada, ciqaabta ama aargudashada fal hore oo xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay lama khuseeyaan dhammaan barnaamijyada.)
+---

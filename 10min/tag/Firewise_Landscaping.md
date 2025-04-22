@@ -1,105 +1,174 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Firewise Landscaping para Mabawasan ang Panganib ng Wildfire  
+# Firewise na Landscaping para Bawasan ang Panganib ng Sunog sa Kagubatan
 
-### Panimula  
-Ang Firewise landscapes ay tumutulong upang maprotektahan ang iyong tahanan, ari-arian, at magligtas ng buhay. Ang maingat na disenyo at matalinong pagpili ng mga halaman ay nakakatulong upang lumikha ng isang depensableng espasyo sa paligid ng iyong tahanan. Maraming magagandang at fire-resistant na materyales sa landscape, mga puno, palumpong, at namumulaklak na halaman ang maaaring magamit. Ang fire-resistant ay hindi nangangahulugan na fireproof. Ang handout na ito ay para sa gabay, hindi garantiya.  
+### Panimula
 
-### Suriin ang Iyong Tahanan at Bakuran para sa mga Panganib sa Wildfire  
-Maraming magagawa upang mabawasan ang mga panganib! Dalawang pangunahing salik ang tumutukoy kung ang isang tahanan ay makakaligtas sa wildfire:  
-
-1. Ang pagiging epektibo ng depensableng espasyo sa paligid nito (hal., access ng bumbero sa ari-arian).  
-2. Ang structural ignitability nito. Ang dalawang elementong ito ang bumubuo sa Home Ignition Zone o HIZ.  
-
-#### Immediate Zone, HIZ 1  
-Kasama ang tahanan hanggang 5 talampakan mula sa pundasyon. Layunin: bawasan ang tsansa ng ignition malapit sa tahanan. Walang ibang halaman maliban sa mga annual basket/container at maayos na pinananatiling damuhan.  
-
-#### Intermediate Zone, HIZ 2  
-Kasama ang 5-30 talampakan sa paligid ng tahanan. Layunin: pigilan ang apoy mula sa pag-akyat sa itaas na bahagi ng mga puno o palumpong upang panatilihing ligtas ang tahanan. Alisin ang "ladder fuels" - mababang sanga ng puno at mga palumpong malapit dito na maaaring magtulak sa apoy upang maabot ang tahanan. Ang zone na ito ay dapat na "lean, clean, at green."  
-
-#### Extended Zone, HIZ 3  
-Kasama ang 30-100 (o higit pa) talampakan sa paligid ng tahanan. Layunin: bawasan ang lakas ng wildfire at pabagalin ang pag-usad nito upang maabot ang mga gusali. Ang zone na ito ay lumalaki kung may matatarik na dalisdis dahil pinahaba ng slope ang haba ng apoy. Gumawa ng malinis, discontinuous na landas ng mga halaman, upang mahirapan ang apoy na direktang maabot ang gusali.  
-
-Source: National Fire Protection Association  
-
-### Structural Ignitability  
-Alam mo ba na karamihan sa mga tahanan na nasunog dahil sa wildfire ay sanhi ng mga baga mula sa wildfire at hindi mismo ang apoy? Bigyang-pansin ang flammability ng mga istruktura tulad ng tahanan, bakod, patio, at mga outbuilding. Ang bubong ang pinakabulnerable sa apoy dahil sa lumilipad na mga baga. Ang mga baga ay maaari ring pumasok sa pamamagitan ng ventilation system. Ang pagpapalit ng flammable na materyales sa mas fire-retardant na materyales tulad ng metal, tile, pavers, at bato ay maaaring magkaroon ng malaking epekto. Gumamit ng fire-protection vents na dinisenyo upang maging ligtas sa baga at apoy. Ang paggamit ng Class 1 roofing materials at pananatiling malinis ang bubong at alulod mula sa organic debris ay nakakapigil sa ignition. Panatilihin ang firewood at mga combustible na materyales tulad ng mga nakabitin na puno at makakapal na halaman sa tabi ng mga gusali, vent, bintana, at patio na malayo sa tahanan.  
+Ang Firewise na landscaping ay nakakatulong protektahan ang iyong bahay, ari-arian, at buhay. Ang maingat na disenyo at tamang pagpili ng mga halaman ay tumutulong lumikha ng ligtas na espasyo sa paligid ng iyong tahanan. Maraming magaganda at fire-resistant na materyales, puno, palumpong, at namumulaklak na halaman ang maaaring gamitin. Ang fire-resistant ay hindi ibig sabihin na fireproof. Ang polyetong ito ay gabay lamang at hindi garantiya.
 
 ---
 
-## Firewise vs Traditional Landscaping  
+### Suriin ang Iyong Bahay at Bakuran Para sa Mga Panganib ng Sunog
 
-### Mga Katangian ng Fire-Resistant Plants  
-Mahahalagang katangian: Mataas na moisture content, bukas na mga sanga, at hindi resinous na halaman. Ang mataas na moisture ay gumagana bilang heat sink, na nagpapababa sa intensity at pagkalat ng apoy. Sa pangkalahatan, ang mga deciduous trees at halaman ay hindi gaanong nasusunog kumpara sa mga conifer.  
+Marami kang magagawa upang mabawasan ang panganib! Dalawang pangunahing bagay ang tumutukoy kung ang bahay ay makakaligtas sa sunog:
 
-### Mga Katangian ng Highly Flammable Plants  
-Ang mga flammable na halaman ay may mababang moisture content at kadalasang may mga sangkap tulad ng oils, resins, wax, o pitch. Halimbawa: ornamental juniper, Leyland cypress, Italian cypress, rosemary, arborvitae, eucalyptus.  
+1. **Gaano kaepektibo ang depensang espasyo sa paligid nito** (hal. daanan ng bumbero papunta sa ari-arian).
+2. **Gaano kadaling magliyab ang mismong bahay.**
 
----
+Ang dalawang ito ang bumubuo ng tinatawag na **Home Ignition Zone (HIZ).**
 
-### Mga Opsyon para sa Fire-Resistant Plants  
-#### HIZ 1  
-Ang mga halaman na gumagana ay ang mga annuals at damuhan. Panatilihin silang maayos na nai-irrigate.  
+#### Agarang Zona (HIZ 1)
 
-#### HIZ 2  
-Kasama ang mababang palumpong na bukas ang mga sanga tulad ng lilac at snowberry, pati na rin ang mas maliliit na puno tulad ng vine maple at crabapple. Ang mga annuals at perennials na walang volatile compounds ay maaari ring magamit.  
+- **Sakop:** Bahay hanggang 5 talampakan mula sa pundasyon.
+- **Layunin:** Bawasan ang tsansang magliyab ang paligid ng bahay.
+- **Mga Gabay:**
+  - Walang halaman maliban sa mga annual baskets/containers at maayos na damuhan.
 
-#### HIZ 3  
-Kasama ang mas malalaking puno at palumpong na may tamang espasyo. Ang mga puno ay tintrim pataas na may malalaking bukas na espasyo sa pagitan nila. Ang deciduous trees na may dahon, tulad ng flowering dogwood at western catalpa, ay maaaring maging fire-resistant. Ang ponderosa pine at western larch ang pinaka-fire-resistant sa mga conifer. Ang OSU publication na nabanggit sa ibaba ay may malawak na listahan ng mga halaman, palumpong, at puno para sa firewise landscape.  
+#### Gitnang Zona (HIZ 2)
 
----
+- **Sakop:** 5–30 talampakan sa paligid ng bahay.
+- **Layunin:** Pigilan ang apoy na umakyat sa mga puno o palumpong para manatiling ligtas ang bahay.
+- **Mga Gabay:**
+  - Alisin ang “ladder fuels” (mababang sanga at mga palumpong malapit sa puno na pwedeng magpataas ng apoy).
+  - Dapat “lean, clean, at green” ang zonang ito.
 
-### Mga Halamang Dapat Iwasan (Highly Flammable Plants)  
-#### HIZ 1  
-Iwasan ang mga palumpong, lalo na ang mga may volatile compounds, tulad ng juniper, arborvitae, at rosemary. Iwasan din ang mga puno na nakabitin sa bubong na lumilikha ng roof litter na madaling masunog ng mga baga. Ang apoy sa mga sanga at korona ng nakabitin na puno ay nagbibigay ng ladder fuels.  
+#### Pinalawak na Zona (HIZ 3)
 
-#### HIZ 2 & 3  
-Ang mga conifer ay mas nasusunog kumpara sa deciduous trees. Bigyang-pansin ang mga patch ng invasive plants tulad ng blackberry at French broom. Kung hindi mapangasiwaan, maaari silang bumuo ng mga tuyong debris na nagpapataas ng fuel para sa apoy.  
+- **Sakop:** 30–100 (o higit pa) talampakan sa paligid ng bahay.
+- **Layunin:** Bawasan ang lakas ng sunog at pabagalin ang paglapit nito sa mga gusali.
+- **Mga Gabay:**
+  - Gumawa ng malinis at hindi tuloy-tuloy na daan ng mga halaman para mahirapan ang apoy na makarating diretso sa gusali.
+  - Palakihin ang zonang ito kapag matarik ang lupa dahil pinahahaba nito ang apoy.
 
----
-
-## Positive Cultural Practices sa Tahanan  
-#### HIZ 1  
-Panatilihin ang mga halaman sa tamang pagdidilig at pagpuputol. Itapon ang patay na debris ng halaman. Panatilihing mowed ang damuhan.  
-
-#### HIZ 2  
-Panatilihing malusog ang mga halaman sa pagdidilig at pagpuputol. Ang zone na ito ay maaaring magamit ng mulch kung nai-irrigate. Magrake at alisin ang debris.  
-
-#### HIZ 3  
-Panatilihin ang malawak na daanan upang makakilos ang First Responders. Panatilihin ang mga mature na puno/palumpong sa pagtrim ng mas mababang mga sanga at pag-alis ng may sakit o namamatay na bahagi. Alisin ang mga sobrang invasive na halaman. Putulin ang makakapal na vegetasyon at bawasan ang mga kumpol ng puno.  
+*Pinagmulan: National Fire Protection Association*
 
 ---
 
-## Mga Panganib sa Sunog sa Paligid ng Tahanan at Ari-arian  
-#### HIZ 1  
-Ang mulch ay hindi inirerekomenda dahil sa combustible na katangian nito. Ang mga wooden fences, gates, at arbors ay maaaring maging ladder fuels. Panatilihin ang mga wooden deck at huwag mag-imbak ng combustible na materyales sa ilalim o malapit sa mga deck.  
+### Kung Gaano Kadaling Magliyab ang Bahay
 
-#### HIZ 2  
-Huwag maglagay ng highly flammable na halaman malapit sa anumang istruktura. Panatilihing mowed ang damuhan. Magrake at alisin ang mga debris ng halaman.  
+Alam mo ba na karamihan sa mga nasusunog na bahay ay dahil sa mga baga mula sa sunog at hindi mismong apoy?
 
-#### HIZ 3  
-Itabi ang firewood nang hindi bababa sa 30 talampakan mula sa tahanan.  
+#### Mahahalagang Isaalang-alang
 
----
-
-## Mga Gabay sa Fire-Resistant Landscaping Material  
-#### Noncombustible Materials  
-Concrete, gravel, brick, rock, iron, aluminum, glass. Ang damuhan at mababang ground covers ay maaaring magpabagal sa apoy at lumikha ng fire breaks.  
-
-#### Highly Flammable Landscaping Materials  
-Ang mga pagsubok ay nagpapakita na ang Western red cedar bark ang pinakamadaling magliyab na mulch. Ang mga bakod, gates, at trellises na gawa sa kahoy ay nasusunog.  
+- **Bubong:**
+  - Pinakamadaling masunog sa sunog ang bubong dahil sa mga lumilipad na baga.
+  - Gumamit ng Class 1 na materyales sa bubong at panatilihing malinis ang bubong at alulod mula sa tuyong dahon at iba pang debris.
+- **Materyales ng Gusali:**
+  - Palitan ang madaling masunog na materyales ng mas ligtas tulad ng bakal, tile, pavers, at bato.
+  - Gumamit ng fire-protection vents na ligtas sa baga at apoy.
+- **Madaling Masunog na Bagay:**
+  - Ilayo ang mga panggatong, sanga ng puno, at matataas na halaman sa bahay, vents, bintana, at deck.
 
 ---
 
-## Para sa Karagdagang Impormasyon  
-### Ang Home Ignition Zone: Protektahan ang iyong ari-arian mula sa wildfire  
-[https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf)  
+### Firewise Kumpara sa Tradisyonal na Landscaping
 
-### Mga Fire-Resistant Plants para sa Home Landscapers  
-[https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)  
+#### Katangian ng Fire-Resistant na Halaman
+
+- Mataas ang moisture content.
+- Bukas ang mga sanga at hindi madagta.
+- Mas hindi madaling masunog ang mga deciduous na puno at halaman kumpara sa conifers.
+
+#### Katangian ng Madaling Masunog na Halaman
+
+- Mababa ang moisture content.
+- May sangkap na langis, dagta, wax, o pitch.
+- Halimbawa: Ornamental juniper, Leyland cypress, Italian cypress, rosemary, arborvitae, eucalyptus.
 
 ---
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita na nagmula sa programa ng pampublikong tulong, paniniwala sa politika, impormasyon ng genetiko, estado bilang beterano, pagganti o paghihiganti para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na batayan ay nalalapat sa lahat ng mga programa.)
+### Mga Halamang Fire-Resistant
+
+#### HIZ 1
+
+- **Inirerekomenda:** Annuals at damuhan (panatilihing laging didilig).
+- **Iwasan:** Mga palumpong na may volatile compounds (hal. juniper, arborvitae, rosemary). Iwasan ang mga punong sumasakop sa bubong.
+
+#### HIZ 2
+
+- **Inirerekomenda:**
+  - Mababang palumpong na may bukas na sanga (hal. lilac, snowberry).
+  - Maliliit na puno (hal. vine maple, crabapple).
+  - Annuals at perennials na walang volatile compounds.
+- **Iwasan:** Madaling masunog na halaman na malapit sa mga gusali.
+
+#### HIZ 3
+
+- **Inirerekomenda:**
+  - Malalaki at malalayong puno/palumpong.
+  - Deciduous na puno na may dahon (hal. flowering dogwood, western catalpa).
+  - Fire-resistant na conifers (hal. ponderosa pine, western larch).
+- **Iwasan:**
+  - Conifers malapit sa mga gusali.
+  - Mga paso ng invasive plants (hal. blackberry, French broom).
+
+---
+
+### Magandang Kasanayan sa Bahay
+
+#### HIZ 1
+
+- Panatilihing maayos ang mga halaman sa pagdidilig at pagputol.
+- Itapon ang mga tuyong dahon at debris.
+- Panatilihing maikli ang damo.
+
+#### HIZ 2
+
+- Panatilihing malusog ang mga halaman sa pagdidilig at pagputol.
+- Maglagay ng mulch kung may patubig.
+- Kalusin at tanggalin ang debris.
+
+#### HIZ 3
+
+- Gumawa ng malalapad na daan para sa mga Responder.
+- Putulin ang mababang sanga ng mga puno at palumpong.
+- Alisin ang mga invasive plants na sumobra ang laki.
+- Putulin at bawasan ang siksik na halaman at mga kumpol ng puno.
+
+---
+
+### Mga Panganib ng Sunog sa Paligid ng Bahay at Ari-arian
+
+#### HIZ 1
+
+- Iwasan ang mulch dahil madali itong masunog.
+- Ang mga wooden na bakod, gate, at arbors ay maaaring maging ladder fuels.
+- Panatilihing ligtas ang wooden decks at huwag mag-imbak ng mga madaling masunog na bagay sa ilalim o malapit dito.
+
+#### HIZ 2
+
+- Iwasan ang mga madaling masunog na halaman malapit sa mga gusali.
+- Gupitin ang damo at alisin ang mga tuyong halaman.
+
+#### HIZ 3
+
+- Ilagay ang mga panggatong ng hindi bababa sa 30 talampakan mula sa bahay.
+
+---
+
+### Mga Gabay sa Paggamit ng Fire-Resistant na Materyales sa Landscaping
+
+#### Inirerekomendang Materyales
+
+- Hindi madaling masunog: Semento, graba, ladrilyo, bato, bakal, aluminyo, salamin.
+- Damuhan at mababang ground covers ay makakatulong pabagalin ang apoy at magsilbing fire break.
+
+#### Madaling Masunog na Materyales
+
+- Western red cedar bark ang pinakamadaling magliyab na mulch.
+- Ang mga bakod, gate, at trellises na gawa sa kahoy ay madaling masunog.
+
+---
+
+### Para sa Karagdagang Impormasyon
+
+- **The Home Ignition Zone: Pagprotekta sa Iyong Ari-arian mula sa Sunog sa Kagubatan**  
+  [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf)
+
+- **Fire-Resistant Plants para sa Mga Home Landscaper**  
+  [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)
+
+---
+
+###### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, katayuang mag-asawa, estado ng pamilya/parental, kita mula sa public assistance program, paniniwalang pampulitika, genetic information, katayuang beterano, represalya, o pagganti dahil sa dating aktibidad sa civil rights. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

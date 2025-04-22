@@ -1,103 +1,132 @@
-# Université de 10 Minutes™  
-L'Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration avec et en soutien au programme des Maîtres Jardiniers™ de l'Extension de l'Université d'État de l'Oregon (OSU)  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien avec le programme OSU Extension Master Gardener™
 
-## Cultiver de la laitue et d'autres légumes-feuilles  
+# Faire pousser de la laitue et d’autres légumes-feuilles
 
-### Aperçu  
-La laitue et les légumes-feuilles sont des cultures merveilleuses pour les jardiniers débutants comme expérimentés. Leur courte saison de croissance permet des résultats rapides et plusieurs récoltes par saison. Leurs faibles besoins culturels les rendent adaptées aux balcons d'appartements ainsi qu'aux jardins de cour arrière. Leur valeur ornementale élevée en fait un excellent aliment comestible à intégrer dans des contenants sur les patios. Contrairement à la plupart des légumes, les légumes-feuilles peuvent tolérer un peu d'ombre, et les cultiver soi-même est économique. Un seul paquet de graines contient en moyenne 2 000 graines et peut fournir plusieurs mois de mélange de feuilles libres, l'un des articles gastronomiques les plus coûteux du marché.  
+### Aperçu
 
-### Légumes-feuilles courants  
-- **Laitue à feuilles libres** : Oak Leaf, Red Sails, Salad Bowl  
-- **Laitue à tête lâche** : Buttercrunch, Bibb, Boston  
-- **Laitue romaine** : Valmaine, Cos  
-- **Laitue iceberg** : Summertime, Red Iceberg  
-- **Épinards** :  
-  - Asiatiques – saison fraîche ou à larges feuilles  
-  - Nouvelle-Zélande – saison chaude  
+La laitue et les légumes-feuilles sont de superbes cultures, aussi bien pour les jardiniers débutants qu’expérimentés. Leur courte saison de croissance permet d’obtenir des résultats rapides et de faire plusieurs cultures par saison. Leurs besoins sont faibles, ce qui les rend faciles à cultiver sur un balcon d’appartement comme dans un jardin. Leur aspect décoratif permet de les intégrer joliment dans des pots sur la terrasse. Contrairement à la plupart des légumes, les légumes-feuilles tolèrent un peu d’ombre, et les cultiver soi-même est économique. Un seul paquet de graines contient en moyenne 2 000 graines, ce qui suffit pour plusieurs mois de récolte, alors que le mélange de jeunes pousses figure parmi les produits gourmets les plus chers en magasin.
 
-### Autres légumes-feuilles aux besoins similaires  
-- **Roquette** : ajoute une saveur agréable de noisette  
-- **Moutarde** : apporte une épice douce  
-- **Bok choy** : meilleur utilisé dans les sautés  
-- **Bette à carde et chou frisé** : plantes robustes et résistantes au froid ; à cuire avant de servir  
+### Légumes-feuilles courants
 
----
+- **Laitue à feuilles lâches :** Oak Leaf, Red Sails, Salad Bowl
+- **Laitue pommée tendre :** Buttercrunch, Bibb, Boston
+- **Laitue romaine :** Valmaine, Cos
+- **Laitue iceberg :** Summertime, Red Iceberg
+- **Épinards :**
+  - Asiatiques – saison fraîche ou grandes feuilles
+  - Nouvelle-Zélande – saison chaude
 
-## Comment commencer  
-Les laitues et autres légumes-feuilles peuvent être cultivés à partir de graines ou de plants. La règle pour planter les graines est de les semer à une profondeur égale à 2 à 4 fois leur largeur. En d'autres termes, plus les graines sont fines, plus elles doivent être semées en surface. Consultez le paquet de graines pour des informations supplémentaires.  
+### Autres légumes-feuilles aux besoins similaires
 
-### Semis direct  
-- Retirez toutes les mauvaises herbes ; amendez le sol si nécessaire.  
-- Nivelez le lit, saupoudrez légèrement les graines, puis couvrez avec ¼ pouce de terre.  
-- À mesure que les plantes poussent, éclaircissez-les pour éviter le surpeuplement et permettre aux plantes restantes de se développer en têtes. Les jeunes plants peuvent être utilisés comme « jeunes pousses ».  
-
-### Plants  
-- Choisissez des plantes vigoureuses ; trempez-les bien dans leurs pots avant de les planter pour garantir qu'elles sont bien hydratées.  
-- Détachez les racines et plantez-les dans le sol ou dans un contenant.  
-
-### Plantation en contenant  
-Les contenants sont idéaux pour cultiver la laitue et autres légumes-feuilles. Commencez avec un bon mélange pour contenants. Un bon sol de jardin limoneux peut remplacer jusqu'à 1/3 du mélange total.  
-- Pour chaque 2,5 pieds cubes de substrat sans engrais ajouté, ajoutez :  
-  - 1 tasse de chaux dolomitique  
-  - 1 tasse de farine de coton ou de luzerne ou 2/3 tasse de farine de sang  
-  - 2 tasses de farine d'os ou de phosphate doux  
-  - 1 tasse de farine de varech  
-
-Pour faciliter la récolte, regroupez les cultures selon leurs besoins culturels et leur habitude de croissance. Par exemple, la laitue a une saison de croissance plus longue que le brocoli. Cultiver ces deux légumes dans des contenants différents permet de récolter le brocoli des semaines avant que la laitue ne soit prête. Le contenant peut ainsi être utilisé pour autre chose.  
+- **Roquette :** Apporte une saveur de noisette agréable
+- **Moutarde :** Apporte une note épicée douce
+- **Bok choy :** Idéal pour les sautés
+- **Bette à carde et chou frisé (kale) :** Plantes robustes et résistantes au froid ; à cuire avant de consommer
 
 ---
 
-## Quand planter  
-La température minimale du sol doit être de 40 à 45 degrés. Le sol dans des plates-bandes surélevées et des contenants atteindra cette température plus tôt que le sol au niveau du sol. Utilisez un thermomètre de sol, disponible dans les pépinières et les centres de jardinage, pour vérifier la température de votre sol.  
+## Comment commencer
 
-Les légumes-feuilles poussent mieux lorsque la température de l'air est de 60 à 70 degrés. Un temps plus frais n'endommagera pas les plantes, mais ralentira simplement leur croissance.  
-- Plantez les légumes-feuilles au début du printemps jusqu'au début de l'été pour une récolte estivale.  
-- Pour une récolte automnale, plantez en fin d'été.  
+La laitue et les autres légumes-feuilles peuvent être cultivés à partir de graines ou de plants. La règle pour semer les graines est de les placer à une profondeur équivalente à 2 à 4 fois leur largeur. Plus la graine est fine, plus elle doit être semée en surface. Consultez le sachet de graines pour plus d’informations.
 
-Les températures chaudes provoquent la montée en graines des légumes-feuilles. Lorsque cela se produit, les feuilles deviennent grossières et amères. Les variétés à montée lente ou longues durées sont meilleures en été.  
+### Semis direct
 
----
+1. Enlevez toutes les mauvaises herbes ; amendez le sol si besoin.
+2. Nivelez la parcelle, saupoudrez légèrement les graines, puis couvrez-les avec 0,5 cm de terre.
+3. Au fur et à mesure de la croissance, éclaircissez pour éviter la surpopulation et permettre aux plantes restantes de former des pommes.
+4. Les jeunes plants peuvent être récoltés comme “jeunes pousses”.
 
-## Sol  
-Les légumes-feuilles s'adaptent à divers types de sol ; cependant, les sols argileux lourds doivent être amendés avec du compost ou du sable pour assurer un bon drainage. La laitue cultivée dans des conditions humides est sensible à la moisissure blanche (Sclerotinia sclerotiorum).  
+### Plantation de plants
 
-Les légumes-feuilles nécessitent environ 2,5 cm d'eau par semaine ; arrosez fréquemment pour garder le sol humide. Si vous choisissez d'arroser en surface, veillez à laisser les feuilles sécher avant le soir.  
+- Choisissez des plants vigoureux ; arrosez-les bien dans leur pot avant de les planter.
+- Détachez doucement les racines et plantez-les en pleine terre ou en pot.
 
----
+### Plantation en pot
 
-## Engrais  
-Les légumes-feuilles ont des racines peu profondes et nécessitent seulement 18 à 20 cm de sol fertile. Appliquez un engrais azoté à un taux de 0,2 livre par 10 m².  
+Les pots conviennent très bien pour la culture de la laitue et des autres légumes-feuilles. Utilisez un bon mélange pour jardinière. Un bon terreau du jardin peut remplacer jusqu’à 1/3 du mélange total.
 
----
+Pour chaque 70 litres de mélange sans engrais ajouté, ajoutez :
 
-## Limaces  
-Le sol humide et ombragé sous les plants de laitue, ainsi que leurs feuilles tendres et sucrées, créent un environnement idéal pour les limaces. Les limaces peuvent être traitées de plusieurs manières écologiques. Les couper en deux avec des ciseaux est simple. Des pièges faits de petites boîtes (comme des boîtes de thon), enfoncées dans le sol avec le bord supérieur légèrement plus haut que le sol et remplies de bière, attirent les limaces.  
+- 1 tasse de chaux dolomitique
+- 1 tasse de tourteau de coton ou de luzerne (ou 2/3 tasse de sang séché)
+- 2 tasses de poudre d’os ou de phosphate naturel tendre
+- 1 tasse de poudre d’algues
 
-Si vous utilisez un appât commercial pour limaces, assurez-vous qu'il est sans danger pour les animaux domestiques et autres visiteurs de votre jardin.  
-
----
-
-## Récolte et stockage  
-Récoltez les légumes-feuilles le matin avant que les feuilles ne commencent à flétrir. Récoltez les « jeunes pousses » en coupant toute la plante au niveau du sol, en laissant suffisamment d'espace entre les plantes restantes pour qu'elles se développent en têtes. Pour récolter sur des têtes, coupez toute la plante au niveau du sol ou pincez uniquement les feuilles extérieures. Laisser les feuilles intérieures permet à la plante de continuer à produire.  
-
-Juste après la récolte, rafraîchissez la laitue en la trempant dans une bassine d'eau fraîche pendant 15 minutes. Égouttez bien, scellez hermétiquement et réfrigérez jusqu'à trois jours.  
-
-Pour cuisiner la bette à carde ou le chou frisé, retirez la nervure centrale qui peut être dure ou amère. Coupez les feuilles et faites-les revenir dans un peu d'huile d'olive. L'ail, le sel et le poivre sont de bonnes additions. Les nervures centrales sont excellentes dans les soupes ou ragoûts.  
+Pour faciliter la récolte, regroupez les cultures par besoins et par vitesse de croissance. Par exemple, la laitue pousse plus longtemps que le brocoli. Cultivez-les dans des pots séparés pour pouvoir récolter le brocoli des semaines avant la fin de la laitue, et ainsi libérer le pot pour une autre culture.
 
 ---
 
-## Ressources du Service d'Extension de l'OSU  
-- Cultivez votre propre laitue, épinards et bette à carde ([EC 1268](https://catalog.extension.oregonstate.edu/))  
-- Planification et préparation de votre site de jardin potager ([EC 1228](https://catalog.extension.oregonstate.edu/))  
-- Jardinage en plates-bandes surélevées ([FS 270](https://catalog.extension.oregonstate.edu/))  
-- Comment construire votre propre cloche de plate-bande surélevée ([EC 1627](https://catalog.extension.oregonstate.edu/))  
-- Jardinage avec composts, paillis et couvertures de rangs ([EC 1247](https://catalog.extension.oregonstate.edu/))  
-- Manuel de jardinage durable ([EM 8742](https://catalog.extension.oregonstate.edu/))  
+## Quand planter
+
+- La température minimale du sol doit être de **4 à 7 °C**. Le sol des plates-bandes surélevées et des pots se réchauffe plus vite que la terre du jardin. Utilisez un thermomètre à sol, disponible en jardinerie, pour vérifier la température.
+- Les légumes-feuilles poussent mieux lorsque l’air est entre **16 et 21 °C**. Le froid ne nuit pas aux plantes, il ralentit simplement leur croissance.
+
+### Saisons de plantation
+
+- **Récolte d’été :** Semez au début du printemps jusqu’au début de l’été.
+- **Récolte d’automne :** Semez à la fin de l’été.
+
+La chaleur fait monter les légumes-feuilles en graines, ce qui rend les feuilles dures et amères. Les variétés “montaison lente” ou “longue durée” sont meilleures en été.
 
 ---
 
-## Conseils des Maîtres Jardiniers™  
-- Appelez la ligne d'assistance en horticulture domestique : 503-655-8631 (Comté de Clackamas) ; 503-821-1150 (Comté de Washington) ; ou 503-445-4608 (Comté de Multnomah).  
-- Pour plus de fiches et le calendrier des cours de l'Université de 10 Minutes™, visitez [www.cmastergardeners.org](www.cmastergardeners.org).  
+## Sol
 
-L'Université d'État de l'Oregon interdit toute discrimination dans tous ses programmes, services, activités et matériels sur la base de la race, de la couleur, de l'origine nationale, de la religion, du sexe, de l'identité de genre (y compris l'expression de genre), de l'orientation sexuelle, du handicap, de l'âge, de l'état matrimonial, du statut familial/parental, des revenus provenant d'un programme d'assistance publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours de flamme pour une activité antérieure relative aux droits civils. (Toutes les bases interdites ne s'appliquent pas à tous les programmes.)  
+Les légumes-feuilles s’adaptent à de nombreux types de sols, mais les sols argileux lourds doivent être amendés avec du compost ou du sable pour assurer un bon drainage. La laitue cultivée dans des conditions trop humides risque d’attraper la moisissure blanche (*Sclerotinia sclerotiorum*).
+
+- Les légumes-feuilles ont besoin d’environ **2,5 cm d’eau par semaine**. Arrosez souvent pour garder le sol humide.
+- Si vous arrosez par le dessus, veillez à ce que les feuilles sèchent avant la soirée.
+
+---
+
+## Engrais
+
+Les légumes-feuilles ont des racines peu profondes et n’ont besoin que de **18 à 20 cm de terre fertile**. Appliquez un engrais azoté à raison de **90 g pour 10 m²**.
+
+---
+
+## Limaces
+
+Le sol humide et ombragé sous les laitues et leurs feuilles tendres créent un environnement idéal pour les limaces. Plusieurs méthodes écologiques existent pour s’en débarrasser :
+
+- Les couper en deux avec des ciseaux est simple.
+- Des pièges faits de petites boîtes (comme des boîtes de thon), enfoncées de façon à ce que le bord soit juste au-dessus du sol et remplies de bière, attirent les limaces.
+- Si vous utilisez un appât anti-limaces du commerce, vérifiez qu’il est sans danger pour les animaux domestiques ou sauvages de votre jardin.
+
+---
+
+## Récolte et conservation
+
+- **Récolte :**
+  - Récoltez les légumes-feuilles le matin, avant que les feuilles ne commencent à se flétrir.
+  - Pour les “jeunes pousses”, coupez la plante entière au ras du sol, en laissant assez d’espace entre les plants restants pour qu’ils forment une pomme.
+  - Pour les laitues pommées, coupez la plante entière au ras du sol ou ne prélevez que les feuilles extérieures. Laissez le cœur pour que la plante continue de pousser.
+
+- **Conservation :**
+  - Immédiatement après la récolte, rafraîchissez la laitue en la trempant 15 minutes dans un saladier d’eau fraîche.
+  - Égouttez ou essorez bien, emballez hermétiquement et gardez au réfrigérateur jusqu’à trois jours.
+
+- **Cuisson de la bette à carde ou du chou frisé :**
+  - Retirez la nervure centrale, souvent dure ou amère.
+  - Coupez les feuilles et faites-les sauter dans un peu d’huile d’olive. L’ail, le sel et le poivre sont de bons ajouts.
+  - Les nervures centrales sont bonnes dans une soupe ou un ragoût.
+
+---
+
+## Ressources du Service d’Extension de l’OSU
+
+- [Cultivez votre propre laitue, épinard et bette à carde (EC 1268)](https://catalog.extension.oregonstate.edu/)
+- [Planifier et préparer votre potager (EC 1228)](https://catalog.extension.oregonstate.edu/)
+- [Jardinage en plates-bandes surélevées (FS 270)](https://catalog.extension.oregonstate.edu/)
+- [Comment fabriquer votre propre cloche de plate-bande surélevée (EC 1627)](https://catalog.extension.oregonstate.edu/)
+- [Jardiner avec composts, paillis et voiles de protection (EC 1247)](https://catalog.extension.oregonstate.edu/)
+- [Manuel du jardinage durable (EM 8742)](https://catalog.extension.oregonstate.edu/)
+
+---
+
+#### Conseils Master Gardener™ · Appelez la ligne d’aide en horticulture : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches 10-Minute University™ et le calendrier des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### L’Oregon State University Extension Service interdit toute discrimination dans ses programmes, services, activités et documents, en raison de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris l’expression de genre), orientation sexuelle, handicap, âge, état civil, situation familiale/parentale, revenu provenant d’un programme d’aide publique, opinions politiques, informations génétiques, statut d’ancien combattant, représailles ou mesures de rétorsion liées à une activité antérieure en matière de droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
+---

@@ -1,90 +1,199 @@
-# Suelos  
-## Glosario de Términos  
+#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros del Condado de Clackamas · En colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
 
-Para ver el contenido completo del glosario, consulta la publicación EM063E de la Extensión de la Universidad Estatal de Washington: Una Guía para Jardineros Hogareños sobre Suelos y Fertilizantes.  
+# Glosario de Términos sobre Suelos
 
-### Términos  
+Para ver el glosario completo, consulte la publicación de Extensión de la Universidad Estatal de Washington EM063E: *Guía de Suelos y Fertilizantes para Jardineros en Casa*.
 
-**aireación**—Un proceso mediante el cual el aire se circula, se mezcla o se disuelve en una sustancia (suelo).  
+---
 
-**agregación**—El proceso en el que arena, limo, arcilla y materia orgánica forman grumos, también llamados terrones.  
+## Glosario
 
-**biosólidos**—Productos del tratamiento de aguas residuales municipales que contienen nutrientes, materia orgánica y componentes inorgánicos. Los biosólidos de clase A han sido tratados para eliminar patógenos y son adecuados para su uso en jardines y paisajes. Los composts y mezclas de biosólidos son enmiendas del suelo, mientras que los productos de biosólidos secos se utilizan como fertilizantes.  
+### Aireación
 
-**fuerza capilar**—La acción mediante la cual las moléculas de agua se adhieren a las superficies de las partículas de suelo y entre sí, manteniendo el agua en microporos contra la fuerza de gravedad.  
+Un proceso en el que el aire se hace circular, se mezcla o se disuelve en una sustancia (suelo).
 
-**secuestro de carbono**—Ocurre cuando las plantas eliminan CO₂ de la atmósfera y el carbono se almacena en las plantas y los suelos. Es una herramienta para reducir los niveles de CO₂ atmosférico y mitigar el cambio climático.  
+### Agregación
 
-**arcilla**—El tipo más pequeño de partículas primarias del suelo (menos de 0.002 mm de diámetro).  
+El proceso por el cual la arena, limo, arcilla y materia orgánica forman grumos, también llamados terrones.
 
-**compostaje (frío y caliente)**—  
-A. **Compostaje frío**: Un proceso lento que implica construir una pila de compost y dejarla descomponerse durante un año o más. El compostaje frío no elimina semillas de malezas ni patógenos.  
-B. **Compostaje caliente**: Produce compost terminado en dos a cuatro meses. El calor se mantiene para la descomposición mezclando volúmenes equilibrados de materiales energéticos (verdes) y agentes de relleno (marrones), manteniendo la pila de compost húmeda y volteándola con frecuencia.  
+### Biosólidos
 
-**compactación**—Presión que comprime el suelo en capas que resisten la penetración de raíces y el movimiento del agua. A menudo resulta del tráfico de personas o máquinas, pero también puede ser causado por la lluvia sobre el suelo desnudo.  
+Productos del tratamiento de aguas residuales municipales que contienen nutrientes, materia orgánica y componentes inorgánicos.
 
-**compost**—Materia orgánica estabilizada producida por la descomposición biológica controlada de materiales orgánicos. El compost puede usarse como enmienda del suelo para agregar materia orgánica y liberar nutrientes lentamente, o como mantillo que luego se incorpora al suelo.  
+- **Biosólidos clase A**: Tratados para eliminar patógenos y son aptos para uso en jardines y paisajes.
+- **Usos**: Los composts y mezclas de biosólidos se usan como enmiendas para el suelo, mientras que los productos de biosólidos secos se usan como fertilizantes.
 
-**cultivo de cobertura**—Plantas cultivadas para proteger el suelo del escurrimiento de agua y la erosión, y para agregar materia orgánica al suelo.  
+### Fuerza Capilar
 
-**descomposición**—La desintegración de materiales orgánicos por microorganismos.  
+La acción por la cual las moléculas de agua se adhieren a las superficies de las partículas del suelo y entre sí, manteniendo el agua en microporos contra la fuerza de gravedad.
 
-**caliza dolomítica**—Un tipo de caliza que contiene magnesio además de calcio.  
+### Captura de Carbono
 
-**fertilizante**—Un producto natural o sintético agregado al suelo para proporcionar nutrientes a las plantas.  
+Ocurre cuando las plantas eliminan CO₂ de la atmósfera y el carbono se almacena en las plantas y suelos. Es una herramienta para reducir los niveles atmosféricos de CO₂ y mitigar el cambio climático.
 
-**análisis de fertilizantes**—La cantidad de nutrientes primarios (nitrógeno (N), fósforo (P) y potasio (K)) requeridos por las plantas en grandes cantidades y expresada como porcentaje del peso del fertilizante.  
+### Arcilla
 
-**abono verde**—Cultivos de cobertura que se cultivan para ser incorporados al suelo para beneficios de nutrientes y materia orgánica, o se dejan en la superficie del suelo como mantillo.  
+El tipo más pequeño de partícula primaria del suelo (menos de 0.002 mm de diámetro).
 
-**infiltración**—El movimiento del agua a través del suelo.  
+### Compostaje (Frío y Caliente)
 
-**lixiviación**—Movimiento del agua y nutrientes solubles hacia abajo a través del perfil del suelo.  
+- **Compostaje frío**: Un proceso lento que consiste en hacer una pila de compost y dejarla descomponerse durante un año o más. No elimina semillas de malezas ni patógenos.
+- **Compostaje caliente**: Produce compost terminado en dos a cuatro meses. El calor se mantiene para la descomposición mezclando volúmenes equilibrados de materiales energéticos (verdes) y agentes estructurantes (marrones), manteniendo la pila húmeda y volteándola con frecuencia.
 
-**cal**—Roca caliza molida (carbonato de calcio, CaCO₃) aplicada al suelo para elevar el pH.  
+### Compactación
 
-**marga**—Un suelo con cantidades aproximadamente iguales de partículas de arena, limo y arcilla.  
+Presión que comprime el suelo en capas que resisten la penetración de raíces y el movimiento del agua. A menudo es resultado del tránsito de personas o maquinaria, pero también puede ser causada por la lluvia sobre suelo desnudo.
 
-**macroporo**—Un poro grande del suelo. Los macroporos incluyen canales creados por lombrices y raíces, y controlan la permeabilidad y la aireación del suelo.  
+### Compost
 
-**micronutriente/elemento traza**—Un nutriente utilizado por las plantas en pequeñas cantidades (hierro, zinc, molibdeno, manganeso, boro, cobre y cloro).  
+Materia orgánica estabilizada producida por la descomposición biológica controlada de materiales orgánicos.
 
-**microporo**—Un poro pequeño del suelo, típicamente una fracción de milímetro de diámetro. Los microporos son responsables de la capacidad del suelo para retener agua.  
+- **Usos**: Se puede usar como enmienda del suelo para agregar materia orgánica y liberar nutrientes lentamente, o como mantillo que luego se incorpora al suelo.
 
-**enmienda orgánica**—Un material de origen biológico que se agrega al suelo para aumentar la materia orgánica y mejorar la salud del suelo. Ejemplos incluyen compost, estiércol y residuos de cultivos de cobertura.  
+### Cultivo de Cobertura
 
-**fertilizante orgánico**—Un material fertilizante natural que ha pasado por poco o ningún procesamiento. Puede incluir materiales vegetales, animales y/o minerales. Los fertilizantes orgánicos suelen ser más ricos en nutrientes que las enmiendas orgánicas.  
+Plantas que se cultivan para proteger el suelo de la escorrentía de agua y la erosión, y para agregar materia orgánica al suelo.
 
-**mantillo orgánico**—Un material orgánico (a menudo leñoso) que se coloca en la superficie del suelo para reducir la pérdida por evaporación, proteger la superficie del suelo de la erosión, sofocar malezas y amortiguar los cambios de temperatura del suelo. Ejemplos incluyen corteza molida, astillas de arborista y paja.  
+### Descomposición
 
-**patógeno**—Organismos causantes de enfermedades en el suelo, incluyendo bacterias, virus, hongos y nematodos.  
+La desintegración de materiales orgánicos por microorganismos.
 
-**permeabilidad**—La velocidad a la que el agua se mueve a través del suelo.  
+### Cal Dolomítica
 
-**fosfato**—La forma de fósforo que aparece en la mayoría de los análisis de fertilizantes (P₂O₅).  
+Un tipo de caliza que contiene magnesio y calcio.
 
-**pH**—Una medida de la acidez o alcalinidad del suelo. Valores menores de 7 indican acidez, un valor de 7 es neutro y valores mayores de 7 indican alcalinidad. La mayoría de los suelos tienen un pH entre 4.5 y 9.  
+### Fertilizante
 
-**potasa**—La forma de potasio que aparece en la mayoría de los análisis de fertilizantes (K₂O), como se indica en los fertilizantes empacados.  
+Un producto natural o sintético que se agrega al suelo para aportar nutrientes a las plantas.
 
-**fertilizante procesado**—Un fertilizante que se fabrica o se refina a partir de ingredientes naturales en una forma más concentrada y más disponible para las plantas.  
+### Análisis de Fertilizante
 
-**fertilizante de liberación rápida**—Un fertilizante que contiene nutrientes en formas disponibles para las plantas, vendido como amonio y nitrato.  
+La cantidad de nutrientes principales (nitrógeno (N), fósforo (P) y potasio (K)) que requieren las plantas en grandes cantidades y que se expresa como porcentaje del peso del fertilizante.
 
-**arena**—El tipo más grueso de partículas primarias del suelo (0.05 a 2 mm de diámetro).  
+### Abono Verde
 
-**nutriente secundario**—Un nutriente necesario para las plantas en una cantidad moderada (azufre, calcio y magnesio).  
+Cultivos de cobertura que se incorporan al suelo para aportar nutrientes y materia orgánica, o se dejan en la superficie como mantillo.
 
-**limo**—Una partícula primaria del suelo de tamaño intermedio (entre el tamaño de la arena y la arcilla) de 0.002 a 0.05 mm de diámetro.  
+### Infiltración
 
-**fertilizante de liberación lenta**—Un material fertilizante que se convierte en una forma disponible para las plantas mediante microorganismos del suelo.  
+El movimiento del agua a través del suelo.
 
-**suelo**—Una mezcla natural y biológicamente activa de fragmentos de roca erosionada y materia orgánica en la superficie de la tierra.  
+### Lixiviación
 
-**salud del suelo**—La capacidad continua de un suelo para funcionar como un ecosistema vital que sustenta plantas, animales y humanos.  
+Movimiento del agua y los nutrientes solubles hacia abajo a través del perfil del suelo.
 
-**estructura del suelo**—La disposición en el suelo de agregados (terrón) formados por partículas individuales de arena, limo, arcilla y materia orgánica que se agrupan y se unen para formar grumos.  
+### Cal
 
-**textura del suelo**—Qué tan grueso o fino es un suelo. La textura se determina por las proporciones de arena, limo y arcilla en el suelo.  
+Roca caliza molida (carbonato de calcio, CaCO₃) aplicada al suelo para aumentar el pH.
 
-**capacidad de retención de agua**—La capacidad de los poros del suelo para retener agua para uso de las plantas.  
+### Marga
+
+Un suelo con cantidades aproximadamente iguales de partículas de arena, limo y arcilla.
+
+### Macroporo
+
+Un poro grande en el suelo. Los macroporos incluyen canales de lombrices y raíces, y controlan la permeabilidad y aireación del suelo.
+
+### Micronutriente/Elemento Traza
+
+Un nutriente que las plantas usan en pequeñas cantidades (hierro, zinc, molibdeno, manganeso, boro, cobre y cloro).
+
+### Microporo
+
+Un poro pequeño en el suelo, típicamente una fracción de milímetro de diámetro. Los microporos son responsables de la capacidad del suelo para retener agua.
+
+### Enmienda Orgánica
+
+Un material de origen biológico que se agrega al suelo para aumentar la materia orgánica y mejorar la salud del suelo. Ejemplos incluyen compost, estiércol y residuos de cultivos de cobertura.
+
+### Fertilizante Orgánico
+
+Un fertilizante natural que ha sido poco o nada procesado.
+
+- **Ejemplos**: Materiales de origen vegetal, animal y/o mineral.
+- **Características**: Generalmente tienen mayor concentración de nutrientes que las enmiendas orgánicas.
+
+### Mantillo Orgánico
+
+Un material orgánico (a menudo leñoso) colocado en la superficie del suelo para reducir la pérdida de agua por evaporación, proteger la superficie del suelo de la erosión, suprimir malezas y amortiguar los cambios de temperatura del suelo.
+
+- **Ejemplos**: Corteza triturada, astillas de arborista y paja.
+
+### Patógeno
+
+Un organismo en el suelo que causa enfermedades, incluyendo bacterias, virus, hongos y nematodos.
+
+### Permeabilidad
+
+La velocidad a la que el agua se mueve a través del suelo.
+
+### Fosfato
+
+La forma de fósforo que aparece en la mayoría de los análisis de fertilizantes (P₂O₅).
+
+### pH
+
+Una medida de la acidez o alcalinidad del suelo.
+
+- **Valores**:
+  - Menor que 7: Ácido
+  - Igual a 7: Neutro
+  - Mayor que 7: Alcalino
+- **Rango**: La mayoría de los suelos tienen un pH entre 4.5 y 9.
+
+### Potasa
+
+La forma de potasio que aparece en la mayoría de los análisis de fertilizantes (K₂O), como se indica en los fertilizantes envasados.
+
+### Fertilizante Procesado
+
+Un fertilizante que se fabrica o refina a partir de ingredientes naturales en una forma más concentrada y más disponible para las plantas.
+
+### Fertilizante de Liberación Rápida
+
+Un fertilizante que contiene nutrientes en formas disponibles para las plantas, como amonio y nitrato.
+
+### Arena
+
+El tipo más grueso de partícula primaria del suelo (de 0.05 a 2 mm de diámetro).
+
+### Nutriente Secundario
+
+Un nutriente que las plantas necesitan en cantidad moderada (azufre, calcio y magnesio).
+
+### Limo
+
+Una partícula primaria de suelo de tamaño intermedio (entre el tamaño de la arena y la arcilla) de 0.002 a 0.05 mm de diámetro.
+
+### Fertilizante de Liberación Lenta
+
+Un material fertilizante que se convierte en una forma disponible para las plantas mediante microorganismos del suelo.
+
+### Suelo
+
+Una mezcla natural, biológicamente activa, de fragmentos de roca meteorizada y materia orgánica en la superficie de la tierra.
+
+### Salud del Suelo
+
+La capacidad continua de un suelo para funcionar como un ecosistema vital y vivo que sostiene plantas, animales y personas.
+
+### Estructura del Suelo
+
+La disposición en el suelo de agregados (terrones) formados por el proceso de agrupamiento y unión de partículas individuales de arena, limo, arcilla y materia orgánica para formar grumos.
+
+### Textura del Suelo
+
+Qué tan grueso o fino es un suelo. La textura se determina por las proporciones de arena, limo y arcilla en el suelo.
+
+### Capacidad de Retención de Agua
+
+La capacidad de los poros del suelo para retener agua disponible para las plantas.
+
+---
+
+#### Consejos de Maestros Jardineros™ · Llame a la Línea de Ayuda de Horticultura en el Hogar: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para otros folletos y horarios de clases de la Universidad de 10 Minutos™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Servicio de Extensión de la Universidad Estatal de Oregón · El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o venganza por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

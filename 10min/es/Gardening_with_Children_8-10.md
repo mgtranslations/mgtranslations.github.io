@@ -1,62 +1,97 @@
-Universidad de 10 Minutos™  
-Asociación de Jardineros Maestros™ de Oregón – Capítulo del Condado de Clackamas  
-En cooperación con el Servicio de Extensión de la Universidad Estatal de Oregón  
+#### Universidad de 10 Minutos™ · Asociación de Maestros Jardineros™ de Oregón – Capítulo del Condado de Clackamas · En cooperación con el Servicio de Extensión de la Universidad Estatal de Oregón
 
-**Jardinería con niños de 8 a 10 años**  
+# Jardinería con Niños de 8 a 10 Años
 
-### ¿Por qué hacer jardinería con los niños?  
-- Pueden experimentar el ciclo de la vida de primera mano.  
-- Les enseñará responsabilidad y fomentará la creatividad.  
-- Les dará una comprensión de nuestra dependencia de la naturaleza y su abundancia.  
+### ¿Por Qué Hacer Jardinería con Niños?
 
-Hacer jardinería con niños de 8 a 10 años puede ser especialmente gratificante, ya que tienen más independencia y disfrutan trabajar con adultos en proyectos importantes. Los conecta con la naturaleza y los lleva al aire libre. Pueden hacer preguntas, explorar, aprender sobre causa y efecto, y adquirir habilidades de planificación y resolución de problemas.  
+- Pueden experimentar el ciclo de la vida de primera mano.
+- Les enseña responsabilidad y fomenta la creatividad.
+- Les ayuda a entender nuestra dependencia de la naturaleza y su abundancia.
 
-### Ideas a considerar  
-- Dale su propio espacio, ya sea un huerto elevado, macetas o parcelas en el suelo. Cada niño debería tener su propio espacio.  
-- Mantén el espacio pequeño porque un espacio más pequeño es más manejable y todo parece más grande a través de los ojos de un niño. Empieza con algo pequeño y aumenta el tamaño según su edad e interés.  
-- Coloca su jardín en el mejor lugar posible, con suficiente sol y una fuente de agua cercana.  
-- Usa herramientas de trabajo serias. No les des herramientas de plástico que puedan romperse y frustrar a un nuevo jardinero.  
+Hacer jardinería con niños de 8 a 10 años puede ser especialmente gratificante, ya que tienen más independencia y disfrutan trabajar con adultos en proyectos importantes. Les permite salir al aire libre y conectarse con la naturaleza. Pueden hacer preguntas, explorar, aprender sobre causa y efecto, y desarrollar habilidades de planificación y resolución de problemas.
 
-### Algunas actividades  
-Los niños de este grupo de edad tendrán ideas sobre las cosas que les gustaría cultivar y cuidar, así que permíteles planificar su jardín. Necesitarán recordatorios para leer cuidadosamente los paquetes de semillas sobre los tiempos de germinación, el espaciamiento y los días hasta la cosecha. A veces, el ensayo y error puede ser un gran maestro sobre cómo y cuándo plantar en tu espacio de jardín.  
+### Ideas para Considerar
 
-#### Mejora del suelo del jardín antes de cultivar vegetales  
-Agregar estiércol compostado de pollo o ganado en un huerto designado puede ayudar a los niños a entender la importancia del nitrógeno en el jardín y cómo usar estiércol animal es una buena forma de reciclar desechos mientras ayudan a las plantas a crecer. Pueden decir que es "asqueroso" y "repugnante", pero se les debe animar a ser científicos. El documento "Vegetable Gardening in Oregon" (pg. 1) tiene información útil.  
-[Artículo: Vegetable Gardening in Oregon](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)  
+- Dales su propio espacio, ya sea una cama elevada, macetas o un área en el suelo. Cada niño debe tener su propio espacio.
+- Mantén el espacio pequeño porque es más manejable y todo parece más grande a través de los ojos de un niño. Comienza con poco y aumenta el tamaño según crezcan y se interesen más.
+- Ubica su jardín en el mejor lugar posible, con suficiente sol y acceso a agua.
+- Usa herramientas de trabajo de verdad. No les des herramientas de plástico que se puedan romper y hacer que un nuevo jardinero se frustre.
 
-#### Construir un contenedor de lombrices  
-Los contenedores de lombrices pueden construirse con muchos materiales diferentes y pueden ser tan grandes o pequeños como se desee. Al construir un contenedor de lombrices, debes pensar en el recipiente, la cama, el oxígeno y la comida. Estarás creando un microecosistema de descomposición. Debes considerar un material que pueda manejar mejor el proceso de descomposición, la humedad y el calor y frío potencial durante todo el año.  
-[Compostaje con lombrices](https://catalog.extension.oregonstate.edu/em9034)  
-El libro "Worms Eat My Garbage" de Mary Appelhof trata sobre cómo configurar y mantener un contenedor de lombrices.  
+### Algunas Actividades
 
-#### Plantar maíz y girasoles  
-Plantar enseña a los niños la profundidad para sembrar semillas de diferentes tamaños y el espacio necesario para que las plantas crezcan. ¿Cuánto tiempo tardarán en germinar? ¿Qué tan alto crecerán? ¿Han colocado las semillas en un lugar apropiado en el jardín? ¿Deberían remojar las semillas antes de plantar para disminuir el período de germinación?  
-[Guía: Growing Your Own](https://catalog.extension.oregonstate.edu/em9027)  
+Los niños de este grupo de edad suelen tener ideas sobre lo que les gustaría cultivar y cuidar, así que permíteles planear su jardín. Necesitarán recordatorios para leer cuidadosamente los paquetes de semillas, buscando los tiempos de germinación, el espacio necesario y cuántos días faltan para la cosecha. A veces, el ensayo y error es una gran forma de aprender cómo y cuándo cultivar en tu espacio de jardín.
 
-#### Plantar para los polinizadores  
-Comienza observando qué polinizadores visitan tu jardín. ¿Tienes abejas, mariposas, colibríes? ¿Qué colores prefieren los polinizadores, como rojo, púrpura, rosado, blanco y amarillo? Madreselva, salvia y plantas de frijoles son opciones para los colibríes, mientras que la planta de algodoncillo es una opción para las mariposas monarca. Las siguientes hierbas también atraen polinizadores: hisopo de anís, albahaca, hierba gatera, cebollín, cilantro, eneldo, hinojo y lavanda.  
-[12 Plantas para atraer polinizadores](https://extension.oregonstate.edu/news/12-plants-entice-pollinators-your-garden)  
+#### Mejora el Suelo del Jardín Antes de Cultivar Verduras
 
-### Agrega alfabetización  
-Hay muchos libros ilustrados e instructivos maravillosos sobre jardinería que los niños aprecian antes de comenzar y mientras trabajan en el jardín. Leer en voz alta les invita a hacer preguntas y puede ser un punto de partida para planes de jardín. Tu bibliotecario local estará encantado de ayudarte a encontrar recursos que tanto tú como tu hijo disfrutarán. Aquí hay algunas sugerencias:  
-- “Tops and Bottoms” por Janet Stevens  
-- “Gardening Lab for Kids: 52 Fun Experiments to Learn, Grow, Harvest, Make, Play, and Enjoy Your Garden” por Renata Fossen Brown  
-- “Let’s Get Gardening” por DK  
-- “How Plants Work” por Linda Chalker-Scott  
-- “Plants You Can’t Kill” por Stacy Tornio  
-- “Dana Digs In” por Laura Pedersen  
-- “Harlem Grown” por Tony Hillery  
-- “The Little Gardener: Helping Children Connect with the Natural World” por Julie A. Cerny  
-- “One Small Square – Backyard” por Donald Silver  
-- “Flowers Are Calling” por Rita Gray  
-- “Bees, Bugs and Butterflies: A Family Guide to our Garden Heroes and Helpers” por Ben Raskin  
-- “The Reason For A Flower” por Ruth Heller  
+Agregar estiércol compostado de pollo o vaca en una cama designada del jardín ayudará a los niños a comprender la importancia del nitrógeno y cómo usar estiércol animal es una buena manera de reciclar desechos mientras se ayuda a las plantas a crecer. Puede que digan que es “asqueroso” o “desagradable”, pero hay que animarles a ser científicos.
 
-### Recursos de la Universidad Estatal de Oregón  
-[Guía del educador para la jardinería de vegetales](https://catalog.extension.oregonstate.edu/em9032)  
+El folleto Jardinería de Hortalizas en Oregón (pág. 1) tiene información:  
+[Jardinería de Hortalizas en Oregón](http://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
 
-### Consejos de Jardineros Maestros™  
-- Llama a la Línea de Ayuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington), 503-445-4608 (Condado de Multnomah).  
-- Para folletos y horarios de clases de Universidad de 10 Minutos™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+#### Construye una Caja de Lombrices
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales basado en raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o represalia por actividades previas de derechos civiles. (No todas las bases prohibidas aplican a todos los programas).  
+Las cajas de lombrices se pueden hacer de muchos materiales diferentes y pueden ser tan grandes o pequeñas como se desee. Al construir una caja de lombrices, hay que pensar en el contenedor, la cama, el oxígeno y la comida. Estarás creando un micro-ecosistema de descomposición. Considera un material que soporte bien el proceso de descomposición, la humedad y los posibles cambios de temperatura durante el año.
+
+Recursos:
+
+- [Compostaje con Lombrices](https://catalog.extension.oregonstate.edu/em9034)
+- *Worms Eat My Garbage* por Mary Appelhof
+
+#### Siembra de Maíz y Girasoles
+
+Sembrar enseña a los niños la profundidad necesaria para sembrar semillas de diferentes tamaños y el espacio que requieren para crecer bien. Preguntas para considerar:
+
+- ¿Cuánto tiempo tardarán en germinar?
+- ¿Qué tan altas llegarán a crecer?
+- ¿Las han colocado en el lugar adecuado del jardín?
+- ¿Se deben remojar las semillas antes de sembrar para acortar el periodo de germinación?
+
+[Haz Crecer lo Tuyo](https://catalog.extension.oregonstate.edu/em9027) ofrece información de “cómo hacerlo” sobre una gran variedad de plantas.
+
+#### Planta para los Polinizadores
+
+Comienza observando qué polinizadores visitan tu jardín. ¿Tienes abejas, mariposas o colibríes? ¿Qué colores de flores prefieren los polinizadores, como rojo, morado, rosa, blanco y amarillo?
+
+Sugerencias:
+
+- Madreselva, salvia y plantas de frijol para los colibríes.
+- Asclepia para mariposas monarca.
+- Hierbas que atraen polinizadores: hisopo de anís, albahaca, hierba gatera, cebollín, cilantro, eneldo, hinojo y lavanda.
+
+[12 Plantas para Animar a los Polinizadores](https://extension.oregonstate.edu/news/12-plants-entice-pollinators-your-garden)
+
+### Agrega Lectura
+
+Existen muchos libros ilustrados e instructivos sobre jardinería que los niños disfrutan antes de empezar y mientras trabajan en el jardín. Leerles en voz alta invita a la curiosidad y puede ser el punto de partida para planear el jardín. El personal de tu biblioteca local puede ayudarte a encontrar recursos que tanto tú como tu hijo disfrutarán.
+
+#### Libros Sugeridos
+
+- *Arriba y Abajo* por Janet Stevens
+- *Laboratorio de Jardinería para Niños: 52 Experimentos Divertidos para Aprender, Cultivar, Cosechar, Crear, Jugar y Disfrutar tu Jardín* por Renata Fossen Brown
+- *¡A Jardinear!* por DK
+- *Cómo Funcionan las Plantas* por Linda Chalker-Scott
+- *Plantas que No Puedes Matar* por Stacy Tornio
+- *Dana Excava* por Laura Pedersen
+- *Harlem Grown* por Tony Hillery
+- *El Pequeño Jardinero: Ayudando a los Niños a Conectarse con el Mundo Natural* por Julie A. Cerny
+- *Un Pequeño Cuadrado – El Patio* por Donald Silver
+- *Las Flores Llaman* por Rita Gray
+- *Abejas, Bichos y Mariposas: Una Guía Familiar de Nuestros Héroes y Ayudantes del Jardín* por Ben Raskin
+- *La Razón de una Flor* por Ruth Heller
+
+### Recurso de la Universidad Estatal de Oregón
+
+[Guía para Educadores sobre Jardinería de Hortalizas](https://catalog.extension.oregonstate.edu/em9032)
+
+#### Consejos de Maestros Jardineros™
+
+- **Llama a la Línea de Ayuda de Horticultura en Casa:**
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+- Para otros folletos de la Universidad de 10 Minutos™ y horarios de clases, visita [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos derivados de programas de asistencia pública, creencias políticas, información genética, estado de veterano, represalia o venganza por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

@@ -1,63 +1,100 @@
-# Université en 10 Minutes™
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
 
-L'Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration avec et en soutien au programme OSU Extension Master Gardener™.
+# Sauvegarder les graines
 
-## Sauvegarder les graines
-
-### Pourquoi récolter les graines ?
-La récolte des graines enseigne l'autonomie. Elle permet également de sélectionner des plantes pour leur saveur et leur adaptation au sol, au climat et aux nuisibles locaux.
+### Pourquoi collecter des graines ?
+La récolte des graines enseigne l’autosuffisance. Elle permet aussi de sélectionner le goût et l’adaptation au sol local, au climat et aux ravageurs.
 
 ### Types de plantes
-Récolter les graines des plantes annuelles est le plus facile. Les plantes comme les tomates, les haricots, les pois et la laitue complètent leur cycle de vie en une seule saison de croissance et sont auto-pollinisantes. Les plantes annuelles grimpantes comme les concombres, les courges, les melons et les citrouilles sont plus difficiles à sauvegarder en raison de la pollinisation croisée.
 
-Les bisannuelles, comme les carottes, le persil et les blettes, vivent deux ans et produisent des graines lors de leur deuxième année. La récolte des graines peut être difficile en raison des besoins d'hivernage et de la pollinisation croisée.
+- **Annuelles** : Récolter des graines de plantes annuelles est le plus facile. Des plantes comme les tomates, haricots, pois et laitues complètent leur cycle de vie en une saison et sont autogames. Les plantes annuelles grimpantes comme les concombres, courges, melons et citrouilles sont plus difficiles à sauver à cause de la pollinisation croisée.
+- **Bisannuelles** : Les plantes comme les carottes, le persil et la bette à carde vivent deux ans et produisent des graines la deuxième année. La collecte peut être difficile à cause de leurs besoins en hivernage et de la pollinisation croisée.
+- **Vivaces** : Ces plantes vivent trois ans ou plus et sont généralement multipliées par bouturage ou division, pas par graines.
 
-Les plantes vivaces vivent trois ans ou plus et sont généralement propagées par boutures ou divisions, plutôt que par graines.
+### Comment la pollinisation se produit
 
-### Comment se produit la pollinisation ?
 Il existe trois moyens de pollinisation : le vent, les insectes et les humains.
 
-La pollinisation ouverte désigne la capacité de croiser avec d'autres plantes de la même famille ou variété. Ces plantes peuvent être auto-pollinisantes, ce qui facilite la récolte des graines, ou pollinisées par croisement, ce qui rend la récolte plus difficile.
+- **Pollinisation libre** : Capacité à se croiser avec d’autres plantes de la même famille ou variété. Ces plantes peuvent être autogames, ce qui rend la récolte facile, ou allogames, ce qui complique la récolte.
+- **Autopollinisation** : Plantes dont les fleurs possèdent à la fois les parties femelles et mâles. Cela inclut les tomates, haricots, laitues et aubergines.
+- **Pollinisation croisée** : Les plantes comme le concombre et la courge ont besoin du vent ou des insectes pour transporter le pollen des fleurs mâles vers les fleurs femelles sur la même plante ou sur une autre.
 
-L'auto-pollinisation concerne les plantes qui possèdent des fleurs avec les parties mâles et femelles. Cela inclut les tomates, les haricots, la laitue et les aubergines. En revanche, les concombres et les courges nécessitent une pollinisation croisée où le vent ou les insectes transportent le pollen des fleurs mâles pour polliniser les fleurs femelles sur la même plante ou sur une autre.
+#### Pollinisation manuelle pour les jardiniers amateurs
 
-Les jardiniers amateurs qui souhaitent récolter des graines de plantes pollinisées par croisement doivent compter sur la pollinisation manuelle. Pour commencer, sélectionnez des fleurs femelles (elles ont un fruit miniature à leur base). Fermez chaque fleur avec un élastique la nuit avant qu’elle ne s’ouvre. Le matin, transférez le pollen d'une fleur mâle à la femelle, puis refermez immédiatement la fleur femelle avec un élastique. Retirez l'élastique lorsque le fruit commence à pousser.
+Pour récolter des graines de plantes à pollinisation croisée :
 
-## Récolte et sauvegarde des graines
-Sélectionnez des plantes exemptes de maladies pour la récolte des graines. Prenez en compte des caractéristiques comme : saveur, beauté, taille, rendement, floraison précoce ou tardive, date de maturité, méthode de pollinisation et de récolte. Récoltez les graines de plusieurs plantes et fruits tout au long de la saison de récolte. Récoltez les graines de fruits complètement mûrs, mais pas pourris. Par exemple, les concombres consommables n’ont pas de graines mûres. La maturité survient après la première gelée, comme c’est le cas pour les citrouilles et les courges d’hiver. Récoltez les graines de fleurs lorsqu’elles fanent et sèchent, ont des sommets gonflés secs ou des gousses de graines sèches qui commencent à s’ouvrir.
+1. Choisissez les fleurs femelles (elles ont un petit fruit à leur base).
+2. Fermez chaque fleur avec un élastique la veille de son ouverture.
+3. Le matin, transférez le pollen d’une fleur mâle vers la femelle.
+4. Fermez immédiatement la fleur femelle avec un élastique.
+5. Retirez l’élastique lorsque le fruit pousse.
 
-### La méthode sèche
-Les plantes avec des graines sèches incluent les pois, haricots, carottes, poivrons, et la plupart des fleurs et herbes. Il est préférable de les laisser sur la plante jusqu’à ce que les graines soient sèches. Si nécessaire, arrachez la plante entière et suspendez-la à l’envers ou coupez les gousses de graines et terminez le séchage à l’ombre. Utilisez un sac pour récupérer les graines qui pourraient tomber. N’utilisez pas de chaleur pour sécher les graines, cela les endommagerait.
+### Récolter et sauvegarder les graines
 
-- Les poivrons doivent être rouges/jaunes et flétris pour la récolte des graines. Portez des gants pour les poivrons forts !
+Choisissez des plantes saines pour la récolte des graines. Pensez au goût, à la beauté, à la taille, au rendement, à la précocité ou à la floraison tardive, à la date de maturité, au mode de pollinisation et à la manière de recueillir les graines.
 
-### La méthode humide
-Les plantes avec des fruits charnus comme les tomates sont mieux traitées par fermentation. Retirez les graines et mettez-les dans un verre avec de l’eau, puis laissez reposer dans un endroit chaud pendant 3 jours ou plus jusqu’à ce qu’un film de moisissure se développe à la surface. Versez dans une passoire et nettoyez la matière charnue pourrie des graines. Trempez les graines dans une solution d’eau de Javel à 20 % pour les protéger de certains virus. Après un rinçage à l’eau fraîche, étalez les graines sur des serviettes en papier pour les sécher.
+- Récoltez des graines de plusieurs plantes et fruits tout au long de la saison de récolte.
+- Ramassez les graines de fruits bien mûrs, mais pas pourris. Par exemple :
+  - Les concombres au stade comestible n’ont pas de graines mûres. La maturité arrive après la première gelée, comme pour les citrouilles et les courges d’hiver.
+  - Récoltez les graines de fleurs lorsque les fleurs fanent et sèchent, ont des têtes gonflées sèches ou des gousses sèches qui commencent à s’ouvrir.
 
-- Laissez les courges d’été et les concombres sur la plante jusqu’à ce que la peau soit jaunâtre et dure, bien au-delà du stade consommable.
-- Les graines d’aubergines sont mûres lorsque le fruit est brunâtre et flétri. Les graines laissées trop longtemps dans l’eau vont germer.
+#### La méthode sèche
 
-## Stockage et utilisation des graines
-Mettez les graines séchées dans des enveloppes étiquetées avec le type (par ex. tomate), la variété (par ex. Indigo Rose), les jours jusqu’à maturité et la date de récolte. Placez-les dans un bocal hermétique et congelez pendant 2 jours pour tuer les nuisibles. Pour garder les graines au sec, placez ½ tasse de lait en poudre fraîchement ouvert, plié dans un tissu, dans le bocal. Stockez dans un endroit frais, sombre et sec, comme un réfrigérateur ou un congélateur, et protégez des insectes et des rongeurs. Ramenez les graines stockées au congélateur à température ambiante avant de les ouvrir. Les légumineuses préfèrent un sac respirant.
+Les plantes à graines sèches incluent les pois, haricots, carottes, poivrons, et la plupart des fleurs et herbes.
 
-Planifiez d’utiliser vos graines dans les 3 ans. Comme la viabilité des graines et la vigueur des plantes diminuent avec le temps, prévoyez de planter plus de graines anciennes pour obtenir le nombre de plantes souhaité.
+- Il est préférable de laisser sécher les graines sur la plante.
+- Si besoin, arrachez la plante entière et suspendez-la à l’envers ou coupez les gousses et finissez le séchage à l’ombre.
+- Utilisez un sac pour récupérer les graines qui pourraient sauter.
+- N’utilisez pas de chaleur pour sécher les graines ; cela les abîme.
 
-## Problèmes potentiels
-- Ne récoltez pas de graines de plantes hybrides. Les graines peuvent être stériles ou produire des plantes qui ne ressemblent pas aux plantes parentales.
-- Les graines peuvent transmettre des maladies ; les tremper dans de l’eau de Javel, les rincer et les sécher aide généralement à éviter ce problème.
-- La production de graines réduit la vigueur des plantes ; sélectionnez les meilleures plantes et fruits pour la récolte des graines.
-- Ne misez pas tout votre jardin uniquement sur vos graines récoltées, juste au cas où.
+**Remarque** :  
+- Les poivrons doivent être rouges/jaunes et ratatinés pour la récolte des graines. Portez des gants pour les poivrons forts !
+
+#### La méthode humide
+
+Les plantes avec des fruits charnus comme les tomates sont mieux traitées par fermentation :
+
+1. Prélevez les graines dans un verre, ajoutez de l’eau et laissez reposer dans un endroit chaud pendant trois jours ou plus jusqu’à ce qu’un film de moisissure se forme à la surface.
+2. Versez le tout dans une passoire et rincez la pulpe pourrie des graines.
+3. Plongez les graines dans une solution d’eau de Javel à 20 % pour les protéger de certains virus.
+4. Après un rinçage à l’eau claire, étalez les graines sur du papier absorbant pour les sécher.
+
+**Remarques** :  
+- Laissez les courgettes et concombres d’été sur la plante jusqu’à ce que la peau devienne jaune et dure, bien après le stade comestible.
+- Les graines d’aubergines sont mûres quand le fruit est brunâtre et ratatiné. Les graines laissées trop longtemps dans l’eau germeront.
+
+### Stocker et utiliser les graines
+
+1. Mettez les graines sèches dans des enveloppes étiquetées avec le type (ex : tomate), la variété (ex : Indigo Rose), les jours jusqu’à maturité et la date de récolte.
+2. Placez-les dans un pot hermétique et congelez-les deux jours pour tuer les ravageurs.
+3. Pour garder les graines sèches, placez ½ tasse de lait en poudre fraîchement ouvert, plié dans un mouchoir, dans le bocal.
+4. Gardez dans un endroit frais, sombre et sec, comme un réfrigérateur ou un congélateur, et protégez-les des insectes et des rongeurs.
+
+**Important** :  
+- Laissez les graines stockées au congélateur revenir à température ambiante avant d’ouvrir.
+- Les légumineuses préfèrent un sac respirant.
+
+Prévoyez d’utiliser vos graines dans les trois ans. Comme la viabilité et la vigueur des graines diminuent avec le temps, prévoyez d’en semer davantage si elles sont plus vieilles pour obtenir le nombre de plantes souhaité.
+
+### Pièges à éviter
+
+- Ne récoltez pas de graines d’hybrides. Les graines peuvent être stériles ou donner des plantes différentes du parent.
+- Les graines peuvent porter des maladies ; le trempage dans l’eau de Javel, le rinçage et le séchage aident généralement à éviter ce problème.
+- La production de graines réduit la vigueur des plantes ; choisissez les meilleures plantes et fruits pour la récolte des graines.
+- Ne comptez pas uniquement sur vos graines sauvegardées pour tout le jardin, par précaution.
 
 ## Informations supplémentaires
-- Publications OSU Extension à https://catalog.extension.oregonstate.edu
-- Récolte et stockage des graines de votre jardin FS220
-- Université Cornell, http://www.gardening.cornell.edu/vegetables/factsheets.html
-- Concepts de base sur la production de graines et la régénération des graines
-- Publications de l’Université du Maine, Cooperative Extension http://umaine.edu/publications/2750e
-- Introduction à la sauvegarde des graines pour le jardinier amateur 2750e
 
-## Conseil des Maîtres Jardiniers™
-- Appelez la ligne d’assistance en horticulture domestique : 503-655-8631 (Comté de Clackamas), 503-821-1150 (Comté de Washington), ou 503-445-4608 (Comté de Multnomah).
-- Pour les fiches et le calendrier des cours de l’Université en 10 Minutes™, visitez www.cmastergardeners.org.
+- Publications OSU Extension : [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
+  - *Collecte et conservation des graines de votre jardin FS220*
+- Université Cornell : [http://www.gardening.cornell.edu/vegetables/factsheets.html](http://www.gardening.cornell.edu/vegetables/factsheets.html)  
+  - *Concepts de base de la production et de la régénération des graines*
+- Université du Maine, Publications Coopérative Extension : [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
+  - *Introduction à la sauvegarde des graines pour le jardinier amateur 2750e*
 
-Le service de vulgarisation de l’Université de l’État d’Oregon interdit toute discrimination dans ses programmes, services, activités et matériels sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/de parent, des revenus provenant d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours négatifs pour une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+#### Conseils du Maître Jardinier™ · Appelez la ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour les fiches et le planning des cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents en raison de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, du revenu provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, de représailles ou de mesures de rétorsion pour une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+---

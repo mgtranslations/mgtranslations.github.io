@@ -1,242 +1,66 @@
-### Universidad de 10 Minutos™  
-La Asociación de Jardineros Maestros del Condado de Clackamas, en colaboración y apoyo del Programa de Jardineros Maestros™ de Extensión de OSU  
+#### Universidad de 10 Minutos™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros de Extensión de OSU™
 
-### Grandes Elecciones de Plantas: Árboles  
-S: Jardín de sombra, D: Planta tolerante a la sequía, Beneficio para la vida silvestre: Pájaros, Abejas, Mariposas, Colibríes  
+# Selecciones de Grandes Plantas: Árboles
 
-#### Nombre S/D/V Madurez a 10 años Sol/Sombra Características sobresalientes  
+**S:** Jardín de sombra  
+**D:** Planta tolerante a la sequía  
+**Beneficio para la vida silvestre:** Aves, abejas, mariposas, colibríes
 
-**Arce trepador**  
-*Acer circinatum*  
-S  
-15’ x 15’  
-20’ x 20’  
-Sol pleno a sombra profunda  
-Nativo del Pacífico Noroeste. Árbol con múltiples troncos y color otoñal, más erguido si se cultiva al sol, más abierto si se cultiva en sombra.
+## Lista de Plantas
 
-**Arce de corteza de papel**  
-*Acer griseum*  
-S  
-18’ x 15’  
-30’ x 25’  
-Sol pleno, sombra ligera a profunda  
-Un gran árbol para jardines pequeños, con atractiva corteza pelada todo el año y follaje otoñal colorido.  
-
-**Arce de tres flores**  
-*Acer trifolium*  
-S  
-18’ x 15’  
-30’ x 25’  
-Sol pleno, sombra ligera a profunda  
-Atractivo y duradero con corteza interesante y follaje otoñal. Resistente a enfermedades y plagas, raíces no agresivas.  
-
-**Arce pintado**  
-*Acer ‘Warrenred’ PACIFIC SUNSET*  
-20’ x 18’  
-30’ x 25’  
-Sol pleno, sombra ligera a profunda  
-Excelente árbol de tamaño mediano que tolera condiciones urbanas difíciles y ofrece un hermoso color otoñal.  
-
-**Azara de hojas de caja**  
-*Azara microphylla*  
-15’ x 6’  
-25’ x 12’  
-Sol pleno, sombra ligera a moteada  
-Pequeño árbol sorprendente con follaje perenne. Flores de invierno tardío con aroma a vainilla. Perfecto para plantar debajo de coníferas podadas.  
-
-**Abedul de corteza blanca del río**  
-*Betula nigra ‘Cully’ Heritage*  
-S  
-30’ x 20’  
-60’ x 30’  
-Sol pleno, sombra ligera  
-Corteza atractiva todo el año, especialmente en invierno. Resistente al barrenador del abedul.  
-
-**Carpe columnar**  
-*Carpinus betulus ‘Frans Fontaine’*  
-25’ x 6’  
-50’ x 20’  
-Sol pleno a sombra ligera a profunda  
-El mejor de las selecciones europeas de carpe para usar como árbol callejero. Mantiene su forma elegante y columnar en la madurez. Larga vida incluso en ubicaciones difíciles.  
-
-**Catalpa dorada**  
-*Catalpa bignonioides ‘Aurea’*  
-15’ x 20’  
-20’ x 30’  
-Sol pleno, sombra ligera a abierta  
-A mediados o finales de primavera, enormes hojas doradas en forma de corazón brotan de un marco abierto de ramas, creando una de las exhibiciones de follaje más dramáticas posibles.  
-
-**Cerezo corneliano**  
-*Cornus mas*  
-S, V  
-15’ x 15’  
-20’ x 20’  
-Sol pleno, sombra ligera a abierta  
-Pequeño árbol con hermosas flores amarillas en invierno, frutos comestibles en verano tardío y follaje púrpura-rojo en otoño.  
-
-**Avellano contorsionado de hojas púrpuras**  
-*Corylus avellana ‘Red Dragon’*  
-D  
-6’ x 5’  
-8’ x 7’  
-Sol pleno, sombra ligera  
-Catkins decorativos en invierno tardío, follaje púrpura-rojo en verano y forma contorsionada en otoño e invierno. Resistente a la plaga del avellano.  
-
-**Avellano turco**  
-*Corylus colurna*  
-25’ x 20’  
-40’ x 30’  
-Sol pleno  
-Un excelente árbol para condiciones urbanas y situaciones secas. Valorado por su forma piramidal, follaje colorido e interés invernal con catkins masculinos. Resistente a la plaga del avellano.  
-
-**Espino Lavallei**  
-*Crataegus x lavallei*  
-V  
-15’ x 15’  
-25’ x 25’  
-Sol pleno, sombra ligera a abierta  
-Árbol urbano resistente con follaje verde exuberante que dura hasta el invierno. Flores blancas en primavera, que se convierten en frutos naranja-rojo que permanecen durante todo el invierno.  
-
-**Ginkgo**  
-*Ginkgo biloba 'Autumn Gold'*  
-15’ x 6’  
-60’ x 30’  
-Sol pleno  
-El ginkgo evolucionó hace más de 200 millones de años. La forma de su hoja, con margen exterior festoneado, es similar a los helechos maidenhair, de ahí su nombre común.  
-
-**Ginkgo Espiral Dorado**  
-*Ginkgo biloba ‘Blagon’ GOLD SPIRE*  
-20’ x 6’  
-30’ x 8’  
-Sol pleno, sombra ligera a abierta  
-Ideal para sitios estrechos o pequeños. Desde su hábito alto y estrecho hasta sus hojas distintivas con margen exterior festoneado, esta variedad única es una excelente elección.  
-
-**Ginkgo Sentry de Princeton**  
-*Ginkgo biloba ‘PNI2720’ PRINCETON SENTRY*  
-20’ x 12’  
-60’ x 25’  
-Sol pleno, sombra ligera a abierta  
-Hojas verdes brillantes y compactas con bordes festoneados. En otoño, el follaje brilla en un amarillo brillante antes de alfombrar el suelo.  
-
-**Ginkgo Saratoga**  
-*Ginkgo biloba ‘Saratoga’*  
-12’ x 5’  
-45’ x 25’  
-Sol pleno, sombra ligera a abierta  
-Clon masculino, lo que significa que no produce frutos desordenados. Forma naturalmente buena que requiere poca o ninguna poda. Buen color otoñal.  
-
-**Ginkgo Dorado Presidencial**  
-*Ginkgo biloba ‘The President’ PRESIDENTIAL GOLD*  
-D  
-20’ x 15’  
-50’ x 40’  
-Sol pleno, sombra ligera a abierta  
-Forma ovalada amplia y ramas densas, esta variedad superior es un hermoso árbol de sombra. Sus hojas distintivas son verdes brillantes con bordes festoneados que se vuelven doradas en otoño. Tolera condiciones urbanas.  
-
-**Lluvia Dorada**  
-*Koelreuteria paniculata*  
-18’ x 15’  
-30’ x 25’  
-Sol pleno  
-Excelente árbol de tamaño mediano, tolerante a condiciones urbanas difíciles. Racimos vistosos de flores amarillas brillantes florecen entre mediados y finales del verano, seguidos de cápsulas de semillas rosadas-rojas. Sin problemas de insectos o enfermedades.  
-
-**Lluvia Dorada Coral Sun**  
-*Koelreuteria paniculata ‘Coral Sun’*  
-15’ x 12’  
-25’ x 20’  
-Sol pleno a sombra ligera  
-Árbol urbano resistente. Esta variedad fue seleccionada por su impresionante follaje coral-rosado en primavera que madura a verde claro, contrastando con los tallos de color coral profundo.  
-
-**Manzano Florido**  
-*Malus ‘Adirondack’*  
-V  
-12’ x 8’  
-18’ x 12’  
-Sol pleno  
-Brotes carmesí se abren a flores blancas cristalinas con tintes rojos, cubriendo densamente su forma vertical. Es una de las variedades de manzano más profusamente florecidas.  
-
-**Manzano Sargento Enano**  
-*Malus toringo ssp. Sargentii ‘Tina’*  
-V  
-4’ x 5’  
-5’ x 6’  
-Sol pleno  
-Manzano enano extremo, brotes rojos se abren a flores blancas simples que producen frutos rojos brillantes de 0.25 pulgadas. Efectivo en jardines pequeños o grandes contenedores.  
-
-**Manzano de hojas cortadas**  
-*Malus transitoria ‘Schmidtcutleaf’ GOLDEN RAINDROPS*  
-12’ x 14’  
-20’ x 25’  
-Sol pleno  
-Árbol atractivo y resistente a enfermedades con pequeñas flores blancas brillantes en profusión y frutos amarillos dorados con un toque de rojo después de una helada.  
-
-**Parrotia persa**  
-*Parrotia persica*  
-D  
-18’ x 15’  
-40’ x 30’  
-Sol pleno, sombra ligera a moteada  
-Hermoso en todas las estaciones. Su follaje, estructura de ramas y corteza son excepcionales. Las hojas emergen verdes bordeadas de burdeos, maduran a verde medio en verano. En agosto comienzan a volverse bronce, luego carmesí, seguido de naranja y terminan en oro brillante.  
-
-**Parrotia persa Vanessa**  
-*Parrotia persica ‘Vanessa’*  
-D  
-18’ x 8’  
-30’ x 14’  
-Sol pleno, sombra ligera a moteada  
-Árbol duradero, bello en todas las estaciones, con follaje, estructura de ramas y corteza excepcionales. Flores rojas en invierno tardío antes de que emerjan las hojas. Color otoñal espectacular desde agosto hasta octubre.  
-
-**Roble Rojo**  
-*Quercus rubra*  
-V  
-25’ x 20’  
-50’ x 40’  
-Sol pleno, sombra ligera a abierta  
-Árbol majestuoso, uno de los robles más magníficos para el jardín. Ramas extendidas fuertes y hojas verde oscuro profundo que se vuelven rojas en otoño.  
-
-**Acacia Dorada**  
-*Robinia pseudoacacia ‘Frisia’*  
-25’ x 15’  
-50’ x 30’  
-Sol pleno, sombra ligera a abierta  
-Árbol increíblemente resistente. Tiene hojas amarillo limón brillantes que son más luminosas en sol pleno. El follaje se vuelve chartreuse en sombra brillante. Flores blancas fragantes a finales de primavera o principios de verano.  
-
-**Árbol de Rueda**  
-*Trochodendron aralioides*  
-8’ x 6’  
-25’ x 15’  
-Sol pleno a sombra ligera  
-Árbol de hoja perenne con un solo tronco que sostiene ramas horizontales.  
-
-**Zelkova Japonesa**  
-*Zelkova serrata*  
-D  
-30’ x 30’  
-50’ x 50’  
-Sol pleno  
-Candidato ideal para paisajes urbanos, tiene una forma distintiva en forma de jarrón que es atractiva y diferente a la mayoría de los otros árboles.  
-
-**Zelkova Japonesa Green Vase**  
-*Zelkova serrata ‘Green Vase’*  
-30’ x 20’  
-50’ x 30’  
-Sol pleno  
-Excelente árbol para paisajes urbanos. Tiene forma de jarrón como la especie pero crece casi el doble de rápido. 'Green Vase' tiene una estructura maravillosa de ramas para una gran silueta invernal.  
-
-**Zelkova Japonesa Village Green**  
-*Zelkova serrata ‘Village Green’*  
-25’ x 25’  
-40’ x 40’  
-Sol pleno  
-Excelente árbol para paisajes urbanos. Alta tolerancia al viento, contaminación, sequía y suelos compactados. Buen candidato para formar avenidas de árboles.  
+| Nombre                                   | S/D/W | Madurez a 10 años | Sol/Sombra                        | Características destacadas                                                                    |
+|-------------------------------------------|-------|-------------------|-----------------------------------|----------------------------------------------------------------------------------------------|
+| **Arce enredadera**                       | S     | 15’ x 15’         | Sol pleno a sombra profunda       | Nativo del noroeste del Pacífico. Árbol de varios troncos con color otoñal, erguido al sol, abierto en sombra. |
+| **Arce de corteza de papel**              | S     | 18’ x 15’         | Sol pleno, sombra ligera a profunda | Corteza decorativa que se pela todo el año y color otoñal.                                   |
+| **Arce de tres flores**                   | S     | 18’ x 15’         | Sol pleno, sombra ligera a profunda | Árbol resistente con corteza interesante y follaje otoñal. Raíces resistentes a enfermedades/plagas. |
+| **Arce pintado**                          |       | 20’ x 18’         | Sol pleno, sombra ligera a profunda | Tolera condiciones urbanas, bonito color en otoño.                                            |
+| **Azara de hoja de caja**                 |       | 15’ x 6’          | Sol pleno, sombra ligera a moteada  | Follaje perenne, flores perfumadas a vainilla a finales del invierno.                         |
+| **Abedul de río de corteza blanca**       | S     | 30’ x 20’         | Sol pleno, sombra ligera           | Corteza atractiva todo el año, resistente al barrenador del abedul.                          |
+| **Carpe columnar**                        |       | 25’ x 6’          | Sol pleno a sombra profunda        | Forma columnar elegante, larga vida en lugares difíciles.                                     |
+| **Catalpa dorada**                        |       | 15’ x 20’         | Sol pleno, sombra ligera a abierta | Follaje dorado espectacular en primavera.                                                     |
+| **Cornus mas (Cerezo corneliano)**        | S, W  | 15’ x 15’         | Sol pleno, sombra ligera a abierta | Flores amarillas en invierno, fruto comestible en verano, follaje rojo-púrpura en otoño.      |
+| **Avellano retorcido de hoja púrpura**    | D     | 6’ x 5’           | Sol pleno, sombra ligera           | Follaje púrpura oscuro, forma retorcida, resistente al tizón del avellano.                    |
+| **Avellano turco**                        |       | 25’ x 20’         | Sol pleno                          | Forma piramidal, follaje colorido, interés en invierno, resistente al tizón del avellano.     |
+| **Espino Lavallei**                       | W     | 15’ x 15’         | Sol pleno, sombra ligera a abierta | Árbol urbano resistente, frutos naranja-rojos persisten en invierno.                          |
+| **Árbol de los cabellos de doncella**     |       | 15’ x 6’          | Sol pleno                          | Árbol antiguo con hojas festoneadas, follaje amarillo brillante en otoño.                     |
+| **Ginkgo ‘Gold Spire’**                   |       | 20’ x 6’          | Sol pleno, sombra ligera a abierta | Hábito alto y estrecho, hojas festoneadas distintivas, ideal para lugares pequeños.           |
+| **Ginkgo ‘Princeton Sentry’**             |       | 20’ x 12’         | Sol pleno, sombra ligera a abierta | Hojas verde brillante, follaje amarillo intenso en otoño.                                     |
+| **Ginkgo ‘Saratoga’**                     |       | 12’ x 5’          | Sol pleno, sombra ligera a abierta | Clon macho, sin frutos desordenados, bonito color en otoño.                                   |
+| **Ginkgo ‘Presidential Gold’**            | D     | 20’ x 15’         | Sol pleno, sombra ligera a abierta | Ovalado, hojas verde brillante que se vuelven doradas en otoño, tolera condiciones urbanas.   |
+| **Árbol de la lluvia dorada**             |       | 18’ x 15’         | Sol pleno                          | Flores amarillas brillantes en verano, vainas rojizas, tolerante a condiciones urbanas.       |
+| **Árbol de la lluvia dorada ‘Coral Sun’** |       | 15’ x 12’         | Sol pleno a sombra ligera          | Follaje rosado coral en primavera, tallos contrastantes.                                      |
+| **Manzano silvestre florido**             | W     | 12’ x 8’          | Sol pleno                          | Capullos carmesí se abren a flores blancas, floración abundante.                             |
+| **Manzano silvestre enano ‘Sargeant’s’**  | W     | 4’ x 5’           | Sol pleno                          | Muy enano, frutos rojos brillantes, útil en jardines pequeños o macetas.                     |
+| **Manzano silvestre de hojas recortadas** |       | 12’ x 14’         | Sol pleno                          | Resistente a enfermedades, flores blancas destellantes, frutos amarillos tras heladas.        |
+| **Parrotia persa**                        | D     | 18’ x 15’         | Sol pleno, sombra ligera a moteada | Follaje, ramas y corteza excepcionales. Color otoñal brillante.                              |
+| **Parrotia persa ‘Vanessa’**              | D     | 18’ x 8’          | Sol pleno, sombra ligera a moteada | Flores rojas a fines del invierno, follaje otoñal sensacional.                               |
+| **Roble rojo**                            | W     | 25’ x 20’         | Sol pleno, sombra ligera a abierta | Árbol majestuoso, hojas verde oscuro se tornan rojas en otoño.                               |
+| **Acacia dorada**                         |       | 25’ x 15’         | Sol pleno, sombra ligera a abierta | Hojas amarillo limón, flores blancas fragantes a fines de primavera.                         |
+| **Árbol rueda**                           |       | 8’ x 6’           | Sol pleno a sombra ligera          | Hoja ancha perenne con ramas horizontales.                                                    |
+| **Zelkova japonesa**                      | D     | 30’ x 30’         | Sol pleno                          | Árbol en forma de jarrón, atractivo y tolerante al ambiente urbano.                          |
+| **Zelkova japonesa ‘Green Vase’**         |       | 30’ x 20’         | Sol pleno                          | Forma de jarrón, rápido crecimiento, hermosa silueta invernal.                               |
+| **Zelkova japonesa ‘Village Green’**      |       | 25’ x 25’         | Sol pleno                          | Alta tolerancia al viento, contaminación, sequía y suelos compactados.                       |
 
 ---
 
-### Grandes Elecciones de Plantas (GPP)  
-El programa educativo principal del Jardín Botánico Elisabeth C. Miller. En 2001, la primera lista debutó con recomendaciones para construir una paleta completa de plantas excepcionales para el Pacífico Noroeste marítimo. Hasta la fecha, se han seleccionado más de 1,000 plantas excepcionales para jardineros que viven al oeste de las Montañas Cascade desde Eugene, Oregón, EE.UU., hasta Vancouver, Columbia Británica, Canadá.
+## Sobre Selecciones de Grandes Plantas
 
-Las plantas GPP seleccionadas para esta lista cumplen con estos criterios: pueden vivir en una variedad de suelos, necesitan agua suplementaria moderada o menos, pueden tolerar calor, son resistentes al frío en la zona 7 del USDA, no son propensas a problemas de enfermedades/plagas y ofrecen más de una temporada de interés en el jardín. Muchas plantas GPP también ofrecen beneficios ecológicos (polinizadores, alimento para aves, hábitat para la vida silvestre, etc.).  
+Great Plant Picks (GPP) es el principal programa educativo del Jardín Botánico Elisabeth C. Miller. En 2001, se lanzó la primera lista con recomendaciones para crear una colección completa de plantas destacadas para la región marítima del noroeste del Pacífico. Hasta la fecha, se han seleccionado más de 1,000 plantas excepcionales para jardineros que viven al oeste de las Montañas Cascade, desde Eugene, Oregón, EE. UU., hasta Vancouver, Columbia Británica, Canadá.
+
+### Criterios de selección
+
+Las plantas GPP seleccionadas para esta lista cumplen con los siguientes criterios:
+
+- Pueden vivir en una variedad de suelos.
+- Requieren riego suplementario moderado o menos.
+- Pueden tolerar el calor.
+- Son resistentes al frío en la zona 7 USDA.
+- No son propensas a enfermedades ni plagas.
+- Ofrecen interés en el jardín durante más de una temporada.
+
+Muchas plantas GPP también brindan beneficios ecológicos, como apoyo a polinizadores, alimento para aves y hábitat para la vida silvestre.
 
 ---
 
-El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas).
+#### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos provenientes de programas de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias o represalia por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+---

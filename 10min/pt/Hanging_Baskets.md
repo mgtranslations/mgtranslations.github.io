@@ -1,116 +1,148 @@
-# Universidade de 10 Minutos™  
-A Associação de Mestres Jardineiros do Condado de Clackamas, em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU  
+#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestre Jardineiro™ da Extensão OSU
 
-## Cestos Suspensos  
+# Cestos Suspensos
 
-### Visão Geral  
-Cestos suspensos, transbordando com flores ricas e coloridas, são elementos valorizados no verão em muitas cidades e jardins.  
+### Visão Geral
 
-### Escolha um recipiente  
-Um recipiente adequado deve ser grande o suficiente para durar toda a temporada de cultivo e leve o bastante para ser pendurado. Um recipiente simples funciona bem porque, em pouco tempo, o vaso estará totalmente coberto pelas plantas pendentes.  
+Cestos suspensos, cheios de flores com cores vivas e abundantes, são atrações muito valorizadas no verão em muitas cidades e jardins.
 
-Os recipientes estão disponíveis em diversas formas, tamanhos e materiais. Madeira, musgo de esfagno e barro não esmaltado ou terracota podem secar rapidamente. Estes podem ser forrados (geralmente com plástico perfurado) para manter a umidade por mais tempo. Tenha em mente que barro e terracota serão muito pesados após serem plantados e regados. Escolha recipientes que combinem com seu estilo, decoração e paisagem.  
+### Escolha um Recipiente
 
-Um recipiente de 10 polegadas pode precisar ser regado a cada 1 ou 2 dias. Recipientes menores exigirão regas ainda mais frequentes.  
+Um recipiente adequado deve ser grande o bastante para durar toda a estação de crescimento e leve o suficiente para ser pendurado no lugar. Um recipiente simples funciona bem, porque, em pouco tempo, o vaso estará completamente coberto pelas plantas pendentes.
 
-### Use um substrato  
-Utilize um substrato de boa qualidade para preencher o recipiente. Esses produtos são formulados para serem muito grossos, garantindo boa drenagem nos vasos. Um substrato bem drenado contribui significativamente para promover plantas saudáveis.  
+Os recipientes podem ter vários formatos, tamanhos e materiais. Madeira, musgo esfagno e barro ou terracota sem esmalte podem secar rapidamente. Esses materiais podem ser forrados (geralmente com plástico perfurado) para manter a umidade por mais tempo. Lembre-se que vasos de barro e terracota ficam bem pesados depois de plantados e regados. Escolha recipientes que combinem com seu estilo, decoração e paisagem.
 
-Se você reutilizar o recipiente em outra temporada, considere substituir o substrato. A substituição é essencial se o plantio anterior teve doenças radiculares; neste caso, também lave bem o recipiente.  
+Saiba que um recipiente de 25 cm pode precisar ser regado a cada 1 ou 2 dias. Recipientes menores exigem regas ainda mais frequentes.
 
-Não use terra de jardim em recipientes, pois sua textura fina limita severamente a drenagem e, consequentemente, prejudica o crescimento das raízes. A terra de jardim também pode trazer doenças, insetos e sementes de ervas daninhas.  
+### Use Substrato para Vasos
 
-Esteja atento ao conselho frequentemente sugerido de “colocar materiais grossos no fundo do recipiente para drenagem” — isso está errado. Por causa da dinâmica do movimento da água dentro de um recipiente, esse material grosso pode, na verdade, dificultar a drenagem.  
+Preencha seu recipiente com substrato de boa qualidade. Esses produtos são feitos para serem bem grossos, garantindo boa drenagem nos vasos. Um substrato bem drenado ajuda muito a manter as plantas saudáveis.
 
-### Use fertilizante  
-Dê um bom começo às suas plantas misturando fertilizante no substrato antes de plantar. Uma fórmula de liberação lenta projetada para durar de 3 a 4 meses funciona bem, pois dura toda a temporada.  
+Se você reutilizar o recipiente em outra estação, considere trocar o substrato. Isso é essencial para o sucesso se a plantação anterior teve doença nas raízes; nesse caso, lave bem o recipiente também.
 
-Após posicionar as plantas, assente o substrato ao redor das raízes com água enriquecida com fertilizante solúvel diluído pela metade.  
+Não use terra do jardim em vasos, pois sua textura fina reduz a drenagem e impede o crescimento das raízes. A terra do jardim também pode trazer doenças, insetos e sementes de ervas daninhas.
 
-### Escolha suas plantas  
-É essencial que as plantas em um recipiente individual prosperem sob as mesmas condições de cultivo, seja ao sol ou à sombra, em ambiente úmido ou relativamente seco. Considere também o hábito de crescimento das plantas, como eretas ou pendentes.  
+Saiba que a famosa dica de colocar “material grosso no fundo do vaso para drenagem” está errada. Por causa da forma como a água se move dentro do recipiente, esse material grosso pode atrapalhar a drenagem.
 
-Você pode combinar anuais e perenes em um vaso individual por apenas uma temporada; depois, no final da temporada, pode substituir as anuais para um visual renovado.  
+### Use Fertilizante
 
-### Planeje e plante  
-Depois de selecionar um vaso, preparar as plantas e o substrato, siga estas etapas para ter sucesso:  
-1. Retire a quantidade de substrato que você acha que será necessária e misture com um fertilizante de liberação lenta de 3 a 4 meses; siga as instruções do rótulo para determinar a quantidade adequada.  
-2. Coloque substrato suficiente no recipiente para que as plantas possam ser posicionadas e ainda fiquem 1 polegada abaixo da borda do recipiente. (Se você encher completamente o recipiente, precisará retirar substrato repetidamente para acomodar as raízes).  
-3. Posicione as plantas altas e eretas no centro ou na parte traseira do recipiente, preencha com plantas compactas em seguida e finalize com plantas pendentes próximas à borda. Para criar um visual equilibrado, coloque duas ou mais plantas iguais (ou várias plantas de tamanho, folhagem e cor semelhantes) opostas umas às outras no recipiente.  
-4. Complete o plantio preenchendo ao redor das plantas com substrato adicional para integrar a composição e cobrir quaisquer raízes expostas. Quando tudo estiver no lugar, o substrato deve estar cerca de 1 polegada abaixo da borda do vaso, permitindo espaço para regar.  
-5. Assente o substrato ao redor das raízes com água enriquecida com fertilizante diluído pela metade.  
-6. Pendure o recipiente onde as condições de sol ou sombra atendam às necessidades das plantas. Agora, relaxe e aproveite!  
+Ajude suas plantas a crescer bem misturando fertilizante ao substrato antes de plantar. Uma fórmula de liberação lenta, feita para durar de 3 a 4 meses, é ótima porque dura toda a estação.
 
-### Mantenha seu recipiente  
-Regue conforme necessário. Você não precisará regar com tanta frequência em clima fresco ou ameno quanto em períodos quentes e/ou ventosos. Durante o clima quente, pode ser necessário regar uma ou duas vezes por dia, dependendo do tamanho do recipiente e do número e tipo de plantas nele.  
+Depois de todas as plantas estarem no lugar, acomode o substrato ao redor das raízes usando água com fertilizante solúvel diluído à metade.
 
-Quando estiver em dúvida sobre a necessidade de água, toque na superfície do substrato. Regue se estiver seco; não regue se estiver úmido.  
+### Escolha Suas Plantas
 
-A dose inicial de fertilizante misturada no substrato pode ser suficiente para sustentar as plantas durante a temporada. No entanto, se as plantas começarem a enfraquecer, complemente com um fertilizante solúvel em água uma ou duas vezes por semana, repetindo conforme necessário.  
+É essencial que as plantas do mesmo recipiente se desenvolvam bem sob as mesmas condições, seja sol ou sombra, úmido ou mais seco. Também pense no hábito de crescimento, como plantas eretas ou pendentes.
 
-Para manter tudo bonito durante a temporada, retire regularmente as flores murchas pelo menos uma vez por semana.  
+Você pode misturar anuais e perenes no mesmo vaso para uma estação. Ao final, pode trocar as anuais para renovar o visual.
 
-### Algumas plantas sugeridas  
-Diversas plantas são bem-sucedidas em cestos suspensos sazonais. Abaixo estão apenas algumas sugestões, entre muitas possibilidades. Observe que algumas plantas são adequadas tanto para sol quanto para sombra.  
+### Como Montar e Plantar
 
-#### Plantas eretas para sol  
-- Angelônia  
-- Cordyline  
-- Cosmos  
-- Margaridas  
-- Dracena  
-- Gerânio  
-- Gramas ornamentais  
+Depois de escolher o vaso, as plantas e o substrato, siga estes passos para ter sucesso:
 
-#### Plantas eretas para sombra  
-- Heliotropo  
-- Coleus de sombra  
-- Impatiens dobradas  
-- Samambaias  
-- Begônia Rex  
-- Fúcsia  
+1. Separe a quantidade de substrato que vai usar e misture o fertilizante de liberação lenta de 3 a 4 meses; siga as instruções do rótulo.
+2. Coloque substrato suficiente no recipiente para que as plantas fiquem 2,5 cm abaixo da borda. (Se encher demais, vai precisar tirar substrato para encaixar as raízes das plantas.)
+3. Coloque as plantas altas e eretas no centro ou fundo do vaso, depois as plantas em touceiras e finalize com as pendentes nas bordas. Para um visual equilibrado, coloque duas ou mais da mesma planta (ou plantas parecidas em tamanho, folhas e cor) em lados opostos do vaso.
+4. Para completar, preencha ao redor das plantas com mais substrato para unir a combinação e cobrir as raízes expostas. No final, o substrato deve ficar cerca de 2,5 cm abaixo da borda do vaso para facilitar a rega.
+5. Acomode o substrato ao redor das raízes com água enriquecida com fertilizante diluído à metade.
+6. Pendure seu vaso onde as condições de sol ou sombra combinem com as necessidades das plantas. Agora é só relaxar e aproveitar!
 
-#### Plantas compactas para sol  
-- Bidens  
-- Brachycome  
-- Diascia  
-- Petúnia fantasia  
-- Begônia fibrosa  
+### Cuide do Seu Vaso
 
-#### Plantas compactas para sombra  
-- Gerânio  
-- Nemesia  
-- Coleus  
-- Planta de bolinhas  
+Regue quando necessário. Não será preciso regar tanto em clima frio ou ameno quanto em dias quentes e/ou com vento. No calor, pode ser necessário regar uma ou duas vezes por dia, dependendo do tamanho do vaso e das plantas.
 
-#### Plantas pendentes para sol  
-- Anagallis  
-- Alyssum  
-- Bacopa  
-- Charlie rastejante  
-- Jenny rastejante  
-- Zínia rastejante  
-- Hera  
+Se tiver dúvida, sinta a superfície do substrato. Regue se estiver seco; não regue se estiver úmido.
 
-#### Plantas pendentes para sombra  
-- Videira de lótus  
-- Lamium  
-- Planta de alcaçuz  
-- Fúcsia  
-- Videira de batata-doce  
-- Lobélia pendente  
+A primeira dose de fertilizante misturada ao substrato pode ser suficiente para toda a estação. Mas, se as plantas começarem a ficar fracas, use fertilizante solúvel na água uma ou duas vezes por semana, repetindo conforme necessário.
 
-### Informações adicionais  
-Existem tantos livros disponíveis sobre cultivo de cestos suspensos que é difícil limitar nossas sugestões a apenas alguns títulos. Você encontrará muitos mais em bibliotecas e livrarias.  
-- **Hanging Baskets: A Practical Step-By-Step Guide** por Jenny Hendy  
-- **Year-Round Containers, Baskets & Boxes** por Graham Strong e Claire Phoenix  
-- **The Hanging Garden** por Sue Fisher  
-- **Container and Hanging Gardens** (Ortho Books)  
-- **Gardening in Containers** (Sunset)  
-- **Pots in the Garden** por Ray Rogers  
+Para manter tudo bonito durante a estação, retire flores murchas (deadhead) pelo menos uma vez por semana.
 
-### Conselho de Mestres Jardineiros™  
-- Ligue para a Linha de Ajuda em Horticultura Doméstica: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington) ou 503-445-4608 (Condado de Multnomah).  
-- Para mais folhetos da Universidade de 10 Minutos™ e cronograma de aulas, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+### Algumas Plantas Sugeridas
 
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parenteral, renda proveniente de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represálias ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+Muitas plantas se dão bem em cestos suspensos sazonais. As abaixo são apenas algumas das muitas opções possíveis. Veja que algumas vão bem tanto no sol quanto na sombra.
+
+#### Plantas Eretas para Sol
+
+- Angelônia
+- Cordyline
+- Cosmos
+- Margaridas
+- Dracena
+- Gerânio
+- Gramíneas ornamentais
+
+#### Plantas Eretas para Sombra
+
+- Heliotrópio
+- Coleus de sombra
+- Impatiens dobrada
+- Begônia rex
+- Samambaias
+- Fúcsia
+- Impatiens da Nova Guiné
+- Begônia tuberosa
+
+#### Plantas em Touceiras para Sol
+
+- Bidens
+- Brachycome
+- Diascia
+- Petúnia fantasia
+- Begônia fibrosa
+
+#### Plantas em Touceiras para Sombra
+
+- Gerânio
+- Nemesia
+- Coleus
+- Planta poá
+- Impatiens
+- Lobélia ereta
+
+#### Plantas Pendente para Sol
+
+- Anagalis
+- Alyssum
+- Bacopa
+- Creeping Charlie (planta rasteira)
+- Creeping Jenny (planta rasteira)
+- Zínia rasteira
+- Hera
+- Lamium
+- Planta de alcaçuz
+
+#### Plantas Pendentes para Sombra
+
+- Lotus vine
+- Million bells
+- Portulaca
+- Scaevola
+- Batata-doce ornamental
+- Lobélia pendente
+- Petúnia pendente
+- Verbena
+- Vinca
+
+### Informações Adicionais
+
+Existem tantos livros sobre cestos suspensos que é difícil sugerir apenas alguns títulos. Você encontra muitos outros em bibliotecas e livrarias.
+
+- *Hanging Baskets: A Practical Step-By-Step Guide* de Jenny Hendy
+- *Year-Round Containers, Baskets & Boxes* de Graham Strong e Claire Phoenix
+- *The Hanging Garden* de Sue Fisher
+- *Container and Hanging Gardens* (Ortho Books)
+- *Gardening in Containers* (Sunset)
+- *Pots in the Garden* de Ray Rogers
+
+#### Dicas do Mestre Jardineiro™
+
+- **Ligue para a Linha Direta de Horticultura Doméstica:**
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+- Para mais folhetos do 10-Minute University™ e agenda de aulas, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
+---

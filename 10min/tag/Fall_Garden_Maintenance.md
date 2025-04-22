@@ -1,82 +1,85 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa  
-pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Pangangalaga ng Hardin sa Taglagas  
+# Pag-aalaga ng Hardin tuwing Taglagas
 
-### Pangkalahatang Ideya  
-Ang taglagas ay magandang panahon para magdagdag ng bagong tanim, ilipat o  
-mag-transplant ng mga palumpong at perennials, at maglagay ng mulch  
-sa iyong mga taniman. Ang mga sakit tulad ng root rot, leaf spot, at stem cankers ay umuunlad sa tag-ulan ng taglagas. Ang tamang paglilinis ay makakapigil sa pag-usbong ng mga sakit  
-at mas epektibo kaysa sa paggamot ng may sakit na halaman.  
+### Pangkalahatang-ideya
 
-### Pangkalahatang Mga Tip  
-Alamin ang petsa ng unang hamog na nagyelo sa inyong lugar. Sa  
-Willamette Valley, karaniwang nasa unang linggo ng Oktubre ang petsang ito. Dalhin ang mga sensitibong halaman sa loob ng bahay para magtaglamig bago ang petsang ito. Siguraduhing linisin ang kanilang mga dahon at suriin para sa mga insekto o itlog nito.  
+Magandang panahon ang taglagas para magdagdag ng mga bagong tanim, maglipat o mag-transplant ng mga palumpong at perennial, at maglagay ng mulch sa mga taniman. Ang mga sakit gaya ng root rot, leaf spot, at stem cankers ay madaling dumami tuwing tag-ulan sa taglagas. Ang tamang paglilinis ay makakatulong maiwasan ang mga sakit at mas mabisa kaysa gamutin ang apektadong halaman.
 
-Pagandahin ang iyong lupa. Magdagdag ng compost upang mapabuti ang drainage. Ang lupa na may mataas na organic matter ay nananatiling mas mainit sa taglamig, kaya nababawasan ang pagkawala ng halaman. Subukan ang lupa at, kung kinakailangan, maglagay ng lime ngayon. Kung kailangang bawasan ang alkalinity, magdagdag ng sulfur.  
+### Mga Pangkalahatang Tip
 
-Suriin kung ang iyong mga halaman ay nangangailangan ng pagdidilig lalo na pagkatapos ng mahabang panahon ng tuyo at mahangin na panahon. Bigyan ng dagdag na atensyon ang mga bagong tanim na taniman at mga halaman sa ilalim o malapit sa malalaking puno.  
+- **Alamin ang unang petsa ng hamog na nagyelo sa inyong lugar.**  
+  Sa Willamette Valley, kadalasan ito ay unang linggo ng Oktubre. Ipasok sa loob ng bahay ang mga sensitibong halaman bago ito. Siguraduhing linisin ang kanilang mga dahon at tingnan kung may insekto o itlog ng insekto.
 
-Hanapin ang mga slug at itlog ng slug sa ilalim ng mga kahoy at bato, pati na rin sa makapal na mga dahon, at patayin ang mga ito sa pamamagitan ng pagdurog o pagputol. Maglagay ng pain para sa mga slug kung kinakailangan at maging handa sa maagang tagsibol na may bagong aplikasyon. Hulihin ang mga moles at gophers pati na rin kontrolin ang iba pang mga peste.  
+- **Pagandahin ang iyong lupa.**  
+  Dagdagan ang lupa ng compost para gumanda ang daloy ng tubig. Ang lupang mayaman sa organikong bagay ay mas mainit tuwing taglamig kaya nababawasan ang namamatay na halaman. Magpa-test ng lupa at, kung kailangan, maglagay ng apog. Kung kailangang bawasan ang alkalinity, magdagdag ng asupre.
 
-Ang mulch ay insulation. Pinapanatili nitong mas malamig ang lupa sa paligid ng mga ugat ng halaman sa mga mainit na araw at mas mainit sa mga malamig na gabi. Pagkatapos maging dormant ng mga halaman, maglagay ng 3-4” ng well-composted garden mulch. Payatin ang lalim upang hindi matakpan ang mga korona ng halaman at puno.  
+- **Tingnan kung kailangan diligan ang iyong mga halaman,** lalo na pagkatapos ng matagal na tagtuyot at mahanging panahon. Bigyan ng karagdagang atensyon ang mga bagong tanim at mga halaman na nasa ilalim o malapit sa malalaking puno.
 
-Tanggalin at sirain ang may sakit na mga halaman bago mahawa ang mga katabi nito. Mas madali ang pag-spot ng mga sakit sa puno at palumpong kapag may mga dahon. Maliban kung ang iyong compost pile ay umaabot sa temperatura na 160 degrees o mas mataas, huwag isama ang may sakit na bahagi ng halaman sa iyong compost.  
+- **Hanapin ang mga suso at itlog ng suso** sa ilalim ng tabla, bato, at sa siksik na dahon. Patayin ang mga ito sa pagtapak o pagputol. Maglagay ng pain para sa suso kapag kailangan at maghanda muli sa maagang tagsibol. Maglagay din ng bitag para sa mga daga at gopher at kontrolin ang iba pang peste.
 
-Kapag nagtatanggal ng may sakit na mga sanga, mag-prune ng dalawa o tatlong pulgada sa ibaba ng may sakit na bahagi. Kung naputol mo ang may sakit na bahagi ng sanga, linisin ang pruning equipment sa pamamagitan ng pagpunas gamit ang rubbing alcohol o solusyon ng isang bahagi ng household bleach at siyam na bahagi ng tubig.  
+- **Ang mulch ay insulasyon.**  
+  Pinapanatiling malamig ang lupa sa paligid ng ugat ng halaman kapag mainit, at mainit naman tuwing malamig na gabi. Kapag natulog na ang mga halaman, maglagay ng 3–4 pulgada ng composted na mulch. Dahan-dahang bawasan ang kapal malapit sa puno at puno ng halaman para hindi matabunan.
 
-### Pang-ornamental  
-Hayaan ang ilang halaman na mag-self-sow sa taglagas. Kapag tumubo ang mga punla sa tagsibol, bawasan upang makuha ang gustong kulay o pattern. Ang sweet peas, sunflowers, columbine, annual delphiniums, poppies, calendula, nasturtiums, clarkia, alyssum, at kahit petunias ay maaaring alagaan upang bumalik taon-taon. Ang mga annual herbs ay kusang nagse-self-sow. Ang dill at cilantro ay maaaring bumalik taon-taon kung ang mga ulo ng binhi ay hindi tatanggalin sa halaman.  
+- **Tanggalin at sunugin ang mga may sakit na halaman** bago makahawa sa iba. Mas madaling makita ang sakit ng puno at palumpong habang may dahon pa. Maliban kung ang iyong compost pile ay umaabot ng 160°F o higit pa, huwag isali ang may sakit na bahagi sa compost.
 
-Mangolekta ng mga damo, ulo ng binhi, at bulaklak para patuyuin. Mangolekta ng mga tuyong binhi mula sa open-pollinated na bulaklak at gulay para itanim sa susunod na taon.  
+- **Kapag nag-aalis ng may sakit na sanga,** magputol 2 o 3 pulgada sa ibaba ng apektadong bahagi. Kung naputol mo ang mismong may sakit na bahagi, linisin ang pruning tools gamit ang alcohol o solusyon na isang bahagi bleach at siyam na bahagi tubig.
 
-Paikliin ang mga tangkay ng rosas sa 30” o taas ng balakang upang maiwasan ang pinsala ng hangin. Tapusin ang pruning ng mga rosas sa Pebrero. Prune ang mga palumpong na namumulaklak sa tag-init sa huling bahagi ng taglamig o maagang tagsibol. Iwasan ang pruning sa taglagas dahil ito ay nagpapasigla ng bagong pagtubo na mas madaling maapektuhan ng pinsala sa taglamig.  
+### Mga Ornamental
 
-Ang mga herbaceous perennials tulad ng hostas, daylilies, astilbes, monardas, peonies, at solidagos ay bumabalik sa lupa sa taglagas at muling tumutubo sa tagsibol. Kapag ang frost ay naging kayumanggi ang kanilang tuktok, mag-prune sa lupa.  
+- **Hayaan ang ilang halaman na magpakalat ng buto sa taglagas.**  
+  Kapag tumubo na ang mga punla sa tagsibol, alisin ang iba para makuha ang kulay o disenyo na gusto mo. Ang sweet peas, sunflower, columbine, annual delphiniums, poppy, calendula, nasturtium, clarkia, alyssum, at pati petunia ay puwedeng alagaan sa ganitong paraan para bumalik taon-taon. Ang mga annual herbs tulad ng dill at cilantro ay puwede ring magpakalat ng buto kung iiwan ang mga buto sa halaman.
 
-Ang semi-herbaceous perennials, tulad ng rudbeckias, penstemons, at Shasta daisies, ay nawawala ang itaas na mga dahon sa lamig ngunit nananatili ang basal foliage.  
+- **Mag-ipon ng mga damo, ulo ng buto, at bulaklak para patuyuin.**  
+  Kolektahin ang mga tuyong buto ng mga bulaklak at gulay na bukas ang polinasyon para itanim sa susunod na taon.
 
-Tanggalin ang mga patay na tuktok ngunit iwanan ang 2-3 pulgada ng berdeng dahon sa base.  
+- **Paiklinin ang tangkay ng rosas** hanggang 30 pulgada o abot-balakang para hindi masira ng hangin. Tapusin ang pruning ng rosas sa Pebrero. Prunahin ang mga palumpong na namumulaklak sa tag-init sa huling bahagi ng taglamig o maagang tagsibol. Iwasan ang pruning sa taglagas dahil nagdudulot ito ng bagong usbong na madaling masira sa taglamig.
 
-Mag-tanim ng mga bulbs na namumulaklak sa tagsibol at hatiin ang malalaking perennials tulad ng daylilies, hellebores, at hostas. Makokontrol nito ang kanilang sukat at magpapasigla ng pamumulaklak.  
+- **Ang mga herbaceous perennial** gaya ng hosta, daylily, astilbe, monarda, peony, at solidago ay natutuyo hanggang lupa tuwing taglagas at muling tumutubo sa tagsibol. Kapag naging kayumanggi na ang tuktok dahil sa hamog na nagyelo, putulin ito hanggang lupa.
 
-Magtali ng bagong tanim na deciduous na puno upang hindi ito gumalaw sa hangin at lumuwag ang mga ugat. Tanggalin ang mga tali sa tagsibol.  
+- **Ang mga semi-herbaceous perennial** gaya ng rudbeckia, penstemon, at Shasta daisy ay nawawalan ng dahon sa itaas kapag malamig ngunit nananatili ang dahon sa ibaba. Alisin ang tuyong bahagi pero mag-iwan ng 2–3 pulgada ng berdeng dahon sa base.
 
-Hukayin ang mga sensitibong bulbs tulad ng dahlias, begonias, caladiums, cannas, at gladiolas. Balutin ang mga ito sa mamasa-masang materyal at itago sa malamig, madilim na lugar.  
+- **Magtanim ng spring-blooming bulbs** at hatiin ang malalaking perennial gaya ng daylily, hellebore, at hosta. Makakatulong ito para kontrolin ang laki at palakasin ang pamumulaklak.
 
-Ang mga ornamental grasses ay may magagandang ulo ng binhi sa taglagas at taglamig. Mas mabuting i-prune ang mga ito sa tagsibol kapag nagsisimulang lumitaw ang mga batang shoots.  
+- **Itali ang bagong tanim na mga punong deciduous** para hindi magalaw ng hangin at lumuwag ang mga ugat. Tanggalin ang tali sa tagsibol.
 
-Walisin ang dahon ng puno at palumpong at i-compost maliban kung may palatandaan ng sakit.  
+- **Hukayin ang mga sensitibong bombilya** gaya ng dahlia, begonia, caladium, canna, at gladiola. Balutin sa mamasa-masang materyal at itago sa malamig at madilim na lugar.
 
-Maglagay ng slow-release fertilizer para sa damuhan upang makatulong sa pagpapalakas ng ugat. Hanapin ang pataba para sa damuhan na nakalabel para sa aplikasyon sa taglagas/taglamig. Maglagay ng herbicides upang kontrolin ang mga broadleaf na damo. I-thatch ang damuhan sa pamamagitan ng pag-rake nito at mag-overseed kung ang damuhan ay hindi makapal at masigla.  
+- **Ang ornamental grasses** ay may magagandang ulo ng buto tuwing taglagas at taglamig. Pinakamainam na putulin ang mga ito sa tagsibol kapag nagsisimula nang tumubo ang mga bagong sanga.
 
-### Pang-edible  
-Tanggalin ang may sakit na mga tira ng tanim. I-spade sa ilalim o i-compost ang malusog na tira ng pananim.  
+- **Kalusin ang mga dahon ng puno at palumpong** at gawing compost maliban kung may sakit ang mga ito.
 
-Tanggalin ang mga lumang fruiting canes ng raspberries, blackberries, at boysenberries.  
+- **Maglagay ng slow-release fertilizer** sa damuhan para mapalakas ang ugat. Hanapin ang pataba na angkop para sa taglagas/taglamig. Maglagay ng herbicide para kontrolin ang damo. Kalusin ang damuhan at magtanim ng bagong buto kung hindi ito makapal.
 
-Mag-tanim ng mga cover crops sa vegetable garden at sa mga bagong tanim na taniman na hindi pa napupuno. Ang mga cover crops ay nagbibigay ng mahalagang proteksyon sa lupa sa pamamagitan ng pagbawas sa erosion, pagsupil sa mga damo, pagpapabuti ng soil tilth, at pagbibigay ng malaking halaga ng organic material. Mga halimbawa ng cover crops: rye, crimson clover, hairy vetch, winter wheat. Magkaroon ng plano para sa pagproseso ng mga cover crops bago sila mag-seed.  
+### Mga Pagkain
 
-### Mga Gawaing Pangbahay  
-- Linisin ang mga bahay ng ibon para magamit bilang roosting box sa taglamig o para magamit sa tagsibol.  
-- Linisin ang cold frames para magamit sa taglamig.  
-- Itago ang mga kemikal sa hardin sa ligtas, tuyo na lugar – malayo sa mga bata at alagang hayop.  
-- Linisin ang mga nahulog na dahon at debris sa mga alulod at downspouts.  
-- I-winterize ang sistema ng irigasyon.  
-- Dalhin ang mga clay pots o ornament ng hardin upang maiwasan ang pinsala mula sa pabago-bagong temperatura ng taglamig.  
-- Ihasa ang pruning shears at iba pang kagamitan sa pagputol.  
-- Linisin, liha, at lagyan ng langis ang mga kagamitan sa hardin bago itago para sa taglamig.  
-- Alisan ng lumang gasolina ang lawn mower pagkatapos ng huling pagputol ng damo. Pa-hasain ang blades ng mower.  
+- **Alisin ang mga may sakit na tira ng halaman.**  
+  Ibaon o gawing compost ang mga malulusog na tira ng pananim.
 
-### Mga Sanggunian  
-Oregon State University Extension Service,  
-[http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)  
+- **Tanggalin ang mga luma at namungang sanga** ng raspberry, blackberry, at boysenberry.
 
-### Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas), 503-821-1150 (Washington), 503-445-4608 (Multnomah).  
-- Para sa mga handouts ng 10-Minute University™, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)  
-- Hanapin ang mga Master Gardeners sa mga Farmers’ Markets sa lugar.  
+- **Magtanim ng cover crops** sa gulayan at bagong tanim na kama. Ang cover crops ay nagbibigay ng proteksyon sa lupa laban sa pagguho, nagpapababa ng damo, nagpapaganda ng lupa, at nagbibigay ng maraming organikong bagay. Halimbawa ng cover crops ay rye, crimson clover, hairy vetch, at winter wheat. Maghanda ng plano kung paano aalisin ang cover crops bago magbunga ng buto.
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang ekspresyon ng kasarian), sekswal na oryentasyon, kapansanan, edad, marital status, familial/parental status, kita mula sa programa ng pampublikong tulong, paniniwala sa politika, impormasyon sa genetika, estado ng beterano, ganting parusa, o paghihiganti para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+### Mga Gawaing Bahay
+
+- Linisin ang mga bahay ng ibon para magamit bilang silungan ngayong taglamig o sa tagsibol.
+- Linisin ang cold frames para magamit sa taglamig.
+- Itago ang mga kemikal sa hardin sa ligtas at tuyong lugar—malayo sa bata at alagang hayop.
+- Linisin ang mga nahulog na dahon at dumi mula sa alulod at tubo ng tubig.
+- Ihanda ang sistema ng patubig para sa taglamig.
+- Ipasok ang mga paso o palamuti ng hardin para hindi masira ng pabago-bagong temperatura.
+- Hasain ang mga pamutol at iba pang kasangkapan sa paggupit.
+- Linisin, liha, at lagyan ng langis ang mga kasangkapan bago itago para sa taglamig.
+- Alisin ang lumang gasolina sa lawn mower matapos ang huling paggapas. Hasain ang talim ng lawn mower.
+
+### Mga Sanggunian
+
+- **Oregon State University Extension Service:**  
+  [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
+
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Para sa 10-Minute University™ handouts, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org) · Hanapin ang mga Master Gardener sa Farmers’ Markets sa inyong lugar.
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama na ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyong henetiko, estado bilang beterano, pagganti, o paghihiganti dahil sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

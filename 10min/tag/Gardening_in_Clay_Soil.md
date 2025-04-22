@@ -1,91 +1,154 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
-## Paghahalaman sa Lupa na May Clay  
-### Panimula  
-Ang lupa ay nagmumula sa nabubulok na mga bato at organikong materyal. Ang malusog na lupa, ayon sa dami, ay dapat na 45% na mineral mula sa bato, 5% organikong materyal, at 50% na espasyo para sa tubig at hangin. Kabilang sa maraming mahalagang tungkulin ng lupa ay:  
-- Tahanan para sa mga buhay na organismo tulad ng bacteria, fungi, nematodes, protozoa, at earthworms;  
-- Saligan ng mga ugat ng halaman;  
-- Imbakan ng nutrisyon para sa paglago ng halaman; at  
-- Lalagyan at tagalinis ng tubig.  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-Ang buhangin, silt, at clay ay ang mineral na bahagi ng lupa. Ang mga particle ng buhangin ay nakikita ng mata at magaspang ang pakiramdam, habang ang mga particle ng silt ay mas maliit (katulad ng particle ng puting harina) at makinis ang pakiramdam. Pareho silang hugis parang maliliit na bato. Ang mga particle ng clay ay hindi nakikita ng mata at kadalasang patag ang anyo. Karamihan sa mga lupa ay halo ng buhangin, silt, at clay. Ang loam ay may halo ng halos pantay na dami ng tatlong particle.  
+# Paghahalaman sa Luwad na Lupa
 
-### Pisikal na Katangian ng Clay Soil Kumpara sa Iba  
-| Uri ng Lupa          | Kapasidad ng Paghawak ng Tubig | Fertility | Permeability | Pakiramdam |  
-|-----------------------|-------------------------------|-----------|--------------|------------|  
-| Loam                 | Katamtaman                   | Katamtaman| Katamtaman    | --         |  
-| Sandy Loam           | Mababa-Katamtaman            | Mababa    | Mataas        | Magaspang  |  
-| Silt Loam            | Mataas                       | Katamtaman| Mababa-Katamtaman | Makinis, nababanat kapag basa ngunit hindi malagkit |  
-| Clay at Clay Loam    | Mataas                       | Mataas    | Mababa        | Matigas kapag tuyo, malagkit kapag basa; maaaring hubugin sa mga ribbon |  
+### Panimula
 
-### Ano ang Sinasabi ng Agham Tungkol sa Lupa?  
-#### Fertility  
-Ang lupa na may clay ay mayaman sa nutrisyon para sa halaman. Ang mga particle ng clay ay may negatibong karga na humahawak sa mga positibong particle tulad ng calcium, potassium, magnesium, iron, at iba pang nutrisyon para sa halaman.  
+Ang lupa ay nagmumula sa nabubulok na bato at organikong materyales. Ang malusog na lupa, ayon sa dami, ay dapat:
+- **45% mineral na bato**
+- **5% organikong materyal**
+- **50% puwang** para sa tubig at hangin
 
-#### Permeability  
-- Ang basang lupa at lupa na may pinong texture (mabigat sa clay o silt) ay madaling mag-compact. Ang compacted soil ay may flattened peds na nakakahadlang sa paggalaw ng tubig at ugat. Ang compacted clay soil ay mahirap ibalik sa dati.  
-- Ang malusog na lupa ay may maraming espasyo sa pagitan ng peds (macropores) na sumusuporta sa paggalaw ng tubig, gas, at ugat. Ang mas maraming macropores ay nagreresulta sa mas magandang drainage.  
+Ilan sa mga mahahalagang tungkulin ng lupa ay:
+- Tirahan ng mga nabubuhay na organismo tulad ng bakterya, fungi, nematodes, protozoa, at bulate sa lupa
+- Pamigil ng ugat ng halaman
+- Taguan ng sustansiya para sa paglago ng halaman
+- Imbakan at panlinis ng tubig
 
-#### Kapasidad ng Paghawak ng Tubig  
-- Ang maliliit na espasyo o micropores (sa loob ng ped) ang nagbibigay sa lupa ng kakayahan nitong maghawak ng tubig.  
+Ang buhangin, silty, at luwad ay mga mineral na butil sa lupa:
+- **Buhangin** ay kayang makita ng mata at magaspang sa pakiramdam.
+- **Silty** ay mas maliit (kasing liit ng butil ng harina) at makinis sa pakiramdam.
+- **Luwad** ay hindi nakikita ng mata at karaniwang patag.
 
-#### Paggalaw ng Lupa  
-- Ang paghuhukay at pag-aararo ay nasisira ang peds ngunit nagdadala ng hangin sa macropores. Ang sobrang pag-aararo ay nagbabawas sa kakayahan ng fungal hyphae, pumapatay sa mga kapaki-pakinabang na nematodes, at karaniwang nagreresulta sa compacted soils.  
+Karamihan sa mga lupa ay halo-halo ng buhangin, silty, at luwad. Ang **loam** ay may pantay-pantay na bahagi ng tatlong uri ng butil.
 
-#### Buhay sa Lupa  
-- Ang lupa ay puno ng buhay—marami dito ay kapaki-pakinabang sa mga halaman. Ang mga lupa na may mas mataas na antas ng organikong materyal ay may mas maraming mikroorganismo. Ang mga mikroorganismo sa lupa ay pinaka-aktibo sa pagitan ng 70°F at 100°F habang ang mga earthworms ay pinaka-aktibo sa mga 50°F.  
-- Ang mga ugat ng halaman ay naglalabas ng isang substansya na tinatawag na exudate na naglalaman ng asukal, bitamina, oxygen, at iba pang compound. Ang exudate ay umaakit ng mga mikroorganismo malapit sa ugat ng halaman. Ipinapakita ng mga pag-aaral na ang komposisyon ng exudate ay nag-iiba ayon sa uri ng halaman at hinuhubog ang fungal community sa paligid ng bawat halaman.  
-
-#### Kapaki-pakinabang na Mikrobyo  
-- Ang Rhizobia bacteria ay kumukuha ng nitrogen sa hangin para magamit ng halaman.  
-- Ang mga kapaki-pakinabang na nematodes ay sensitibo sa pagkagambala at marami ang namamatay dahil sa pag-aararo, kadalasang naaapektuhan ang buong soil food web sa lupa na ginambala.  
-- Maraming uri ng fungi ang bumubuo ng kapaki-pakinabang na asosasyon (tinatawag na mycorrhizae) sa mga ugat ng halaman. Ang fungal hyphae ay gumagana tulad ng mahabang ugat na kumukuha ng tubig at mga nutrisyon sa lupa para sa halaman. Ang mycorrhizae ay nagpapabuti rin sa istruktura ng lupa sa pamamagitan ng pag-aggregate ng mga particle ng lupa sa peds.  
-
-### Paano Pamahalaan ang Clay Soil  
-#### Subukan ang Iyong Lupa  
-- Bago magdagdag ng mga amendments, subukan ang lupa. Maglagay lamang ng fertilizer kung ipinapakita ng pagsusuri sa lupa na may kakulangan o kung hindi maayos ang paglago ng mga halaman. Tandaan na ang clay ay mayaman sa nutrisyon. Sa Willamette Valley, karamihan sa mga puno, palumpong, at perennials ay hindi nangangailangan ng karagdagang fertilizer.  
-
-#### Panatilihin ang Buhay na Ugat  
-- Ang mga buhay na halaman ay kumukuha ng enerhiya ng araw at sumusuporta sa komunidad ng mga mikroorganismo sa lupa sa pamamagitan ng kanilang root exudates. Ipinapakita ng mga pag-aaral na hinuhubog ng exudates ang makeup ng mga mikrobyo sa lupa. Ang pagtatanim ng iba't ibang halaman ay nagpapataas ng pagkakaiba-iba sa buhay sa lupa na tumutulong sa pagbuo ng malusog na lupa.  
-
-#### Minimize Disturbance  
-- Anumang nakakagambala sa lupa (paglalakad dito, paghuhukay, pag-aararo) ay maaaring magdulot ng pagkasira o pagkakompact ng peds at magbawas sa espasyo na mahalaga sa permeability at kapasidad ng paghawak ng tubig.  
-
-#### Panatilihing Takip  
-- Mag-mulch upang i-moderate ang temperatura ng lupa, bawasan ang evaporation, at bawasan ang paglaki ng damo. Ang organikong mulch ay nabubulok at nagdadagdag ng organikong materyal sa lupa—ang mas magaspang na materyal ay nagbibigay-daan sa daloy ng hangin habang ang mas makapal na substansya, tulad ng cardboard, ay humahadlang sa palitan ng gas. Ang wood chips mula sa arborist (4-6”) ay isang magandang mulch—pinapayagan nito ang daloy ng hangin at unti-unting nabubulok upang magdagdag ng organikong materyal sa lupa.  
-
-#### Pakainin ang mga Mikrobyo ng Lupa  
-- Ang organikong materyal (OM) ay nasa ilalim ng soil food web; ang pagdaragdag ng OM ay nagpapakain sa mga mikrobyo ng lupa. Pumili ng form na maayos na na-compost at walang hindi kanais-nais na katangian tulad ng mataas na asin o mabigat na metal. Ang OM tulad ng composted leaves at yard waste ay maaaring ihalo o isang manipis na layer na 1/2 hanggang 1” ay maaaring ilagay sa ibabaw upang lumikha ng kapaligiran na pabor sa aktibidad ng mikrobyo.  
-
-#### Gumawa ng Planting Bed para sa Panahong Ito  
-- Kung kailangan mo ng bagong bed para sa pananim na gulay, ihalo ang composted OM sa buong bed. Ito ay dapat magbigay sa iyo ng agarang benepisyo ng mas madaling trabahong lupa at mas mataas na fertility. Gayunpaman, ang mga benepisyo ay panandalian lamang dahil ang OM ay mabilis na nabubulok, ang mga hindi nagamit na nutrisyon ay maaaring mawala, at ang lupa ay magsesettle.  
-
-#### Pagbabago mula sa Nakaraan  
-- Ang mantra na "Magdagdag Lang ng Organikong Materyal!" bilang solusyon sa pagpapabuti ng clay ay nabago. Noon, inirerekumenda ang paunang pagdaragdag ng 2-4” ng OM na may kasunod na mas kaunting dami. Nagbago ito. Ang mga kamakailang pag-aaral sa mga urban gardens kung saan ang OM ay idinagdag sa loob ng maraming taon ay nagpapakita ng hindi malusog na antas ng phosphate at OM. Ang mataas na antas ng phosphate ay humahadlang sa pagkuha ng iron ng halaman at sa pag-unlad ng kapaki-pakinabang na mycorrhizae, at nag-aambag sa polusyon ng mga ilog. Kung bibili ng OM mula sa mga komersyal na sources, ang Oregon Department of Agriculture ay sinusuri ang OM para sa nilalaman ng nutrisyon. Suriin upang matiyak na bibili ka ng OM na mababa sa phosphorus kung matagal mo nang idinadagdag ang OM sa iyong lupa.  
+Ang tekstura ng lupa ay nakabase sa dami ng buhangin, silty, at luwad. Ang magandang estruktura ng lupa ay nagmumula sa mga nabubuhay na organismo (bakterya at fungi) at humus (nabubulok na organikong materyal) na nagdidikit-dikit ng mga butil upang mabuo ang **peds**, na siyang bumubuo sa lupa.
 
 ---
 
-### Matuto Pa Tungkol sa Lupa  
-#### Mga Publikasyon  
-Oregon State University Extension publications  
-- [A Guide to Collecting Soil Samples, EC628](https://catalog.extension.oregonstate.edu/)  
-- [Soil Health Principles, EC1647](https://catalog.extension.oregonstate.edu/)  
-- [Analytical Laboratories Serving Oregon, EM8677](https://catalog.extension.oregonstate.edu/)  
-- [Applying Lime to Raise Soil pH for Crop Production, EM9057](https://catalog.extension.oregonstate.edu/)  
+### Mga Katangian ng Luwad na Lupa Kumpara sa Iba Pang Uri
 
-Washington State University Extension publications  
-- [Cover Crops for Home Gardeners West of the Cascades, FS111E](https://pubs.extension.wsu.edu/extension-publications)  
-- [A Home Gardener’s Guide to Soils and Fertilizers, EM063E](https://pubs.extension.wsu.edu/extension-publications)  
-- [A Gardener’s Primer to Mycorrhizae, FS269E](https://pubs.extension.wsu.edu/extension-publications)  
+| Katangian                 | Loam   | Sandy Loam     | Silt Loam      | Luwad at Clay Loam                                |
+|---------------------------|--------|----------------|----------------|---------------------------------------------------|
+| **Kakayahang Mag-imbak ng Tubig** | Katamtaman | Mababa-Katamtaman | Mataas         | Mataas                                            |
+| **Katatagan**             | Katamtaman | Mababa          | Katamtaman     | Mataas                                            |
+| **Pagpapaagos ng Tubig**  | Katamtaman | Mataas          | Mababa-Katamtaman | Mababa                                         |
+| **Pakiramdam**            | --     | Magaspang        | Makinis, madaling hubugin kapag basa ngunit hindi malagkit | Matigas kapag tuyo, malagkit kapag basa; kayang gawing parang ribbon |
 
-#### Videos  
-- [Mulches: The Good, The Bad, and the Really Really Ugly](https://www.youtube.com/watch?v=NXL9n2KNm1E&feature=youtu.be)  
-- [Home Soil Sampling, Washington State University](https://www.youtube.com/watch?time_continue=305&v=0tRQUPDRiDU)  
-- [Soil Health Demonstration](https://video.search.yahoo.com/yhs/search?p=ray+archuleta%27s+soil+health+demo+2014+custom)  
-- [Soil Carbon Cowboys](https://www.youtube.com/watch?v=ZGvVli0OTrQ)  
-- [From Dirt to Soil](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)  
+---
 
-#### Websites  
-- [Web Soil Survey](www.websoilsurvey.sc.egov/)  
-- [10-Minute University™ Handouts and Videos](www.cmastergardeners.org/10-minute-university)
+### Ano ang Sinasabi ng Agham Tungkol sa Lupa?
+
+#### Katatagan
+- Ang luwad na lupa ay mayaman sa sustansiya para sa halaman.
+- Ang mga butil ng luwad ay may negatibong karga na humahawak sa mga positibong element tulad ng calcium, potassium, magnesium, iron, at iba pang sustansiya.
+
+#### Pagpapaagos ng Tubig
+- Ang basang lupa at mga pinong lupa (malagkit dahil sa luwad o silty) ay madaling nadiin.
+- Ang nadidiing lupa ay may patag na peds, na nagpapahirap sa galaw ng tubig at ugat.
+- Mahirap ayusin ang nadidiing luwad na lupa.
+- Ang malusog na lupa ay maraming puwang sa pagitan ng mga peds (**macropores**) para sa paggalaw ng tubig, hangin, at ugat. Mas maraming macropores, mas maganda ang drainage.
+
+#### Kakayahang Mag-imbak ng Tubig
+- Ang maliliit na puwang o **micropores** (sa loob ng ped) ang nagbibigay ng kakayahang mag-imbak ng tubig ng lupa.
+
+#### Pagbabago sa Lupa
+- Ang paghuhukay at pag-aararo ay naghihiwa-hiwalay ng peds ngunit nagdadala ng hangin sa macropores.
+- Sobrang pag-aararo ay nagpapababa sa kakayahan ng fungal hyphae, pumapatay sa mabuting nematodes, at kadalasang nagiging sanhi ng pagkadikit-dikit ng lupa.
+
+#### Buhay sa Lupa
+- Ang lupa ay puno ng buhay, marami rito ay nakakatulong sa halaman.
+- Ang mga lupa na maraming organikong materyal ay mas maraming mikroorganismo.
+- Ang mga mikroorganismo sa lupa ay pinakaaktibo sa pagitan ng **70°F at 100°F**, habang ang mga bulate sa lupa ay pinakaaktibo sa **50°F**.
+
+#### Ugat ng Halaman at Exudates
+- Ang mga ugat ng halaman ay naglalabas ng tinatawag na **exudate** na may asukal, bitamina, oxygen, at iba pa.
+- Ang exudate ay umaakit ng mga mikroorganismo malapit sa ugat ng halaman.
+- Ipinapakita ng mga pag-aaral na nag-iiba-iba ang laman ng exudate depende sa uri ng halaman at ito ay nakakaapekto sa komunidad ng fungi sa paligid ng bawat halaman.
+
+#### Mabubuting Mikrobyo
+- **Rhizobia bacteria** ay kumukuha ng nitrogen sa hangin para magamit ng halaman.
+- Ang mga mabubuting nematode ay sensitibo sa paggalaw ng lupa at marami ang namamatay kapag inaararo, na nakakaapekto sa buong food web ng lupa.
+- Maraming uri ng fungi ang nakakabuo ng mabuting relasyon (**mycorrhizae**) sa ugat ng halaman.
+  - Ang fungal hyphae ay parang mahabang ugat na kumukuha ng tubig at sustansiya para sa halaman.
+  - Ang mycorrhizae ay nagpapaganda rin ng estruktura ng lupa sa pamamagitan ng pagdikit-dikit ng mga butil upang bumuo ng peds.
+
+---
+
+### Paano Pamahalaan ang Luwad na Lupa
+
+#### Subukan ang Iyong Lupa
+- Bago magdagdag ng pataba, subukan muna ang lupa.
+- Maglagay lamang ng pataba kung ipinapakita ng pagsusuri na kulang o hindi maganda ang paglaki ng tanim.
+- Tandaan na ang luwad ay mayaman na sa sustansiya.
+- Sa Willamette Valley, karamihan sa mga puno, palumpong, at perennial ay hindi kailangang lagyan ng dagdag na pataba.
+
+#### Panatilihing May Buhay ang mga Ugat
+- Ang mga buhay na halaman ay kumukuha ng enerhiya ng araw at sumusuporta sa mikroorganismo ng lupa sa pamamagitan ng kanilang exudate.
+- Ipinapakita ng mga pag-aaral na ang exudate ay nagpapabago sa dami at uri ng mikrobyo sa lupa.
+- Ang pagtatanim ng iba't ibang uri ng halaman ay nagpaparami sa dami at uri ng buhay sa lupa, na tumutulong sa paggawa ng mas malusog na lupa.
+
+#### Bawasan ang Paggalaw ng Lupa
+- Anumang gumagalaw sa lupa (tulad ng paglalakad, paghuhukay, pag-aararo) ay maaaring makabasag o magdikit ng mga peds at magbawas ng puwang, na mahalaga para sa daloy ng tubig at kakayahang mag-imbak nito.
+
+#### Takpan ang Lupa
+- Maglagay ng mulch para mapanatiling tama ang temperatura ng lupa, mabawasan ang pagsingaw ng tubig, at mapigilan ang pagdami ng damo.
+- Ang organikong mulch ay nabubulok at nadaragdag bilang organikong materyal sa lupa.
+  - Ang magagaspang na materyal ay nagpapalipat-lipat ng hangin, habang ang mas siksik na materyal tulad ng karton ay nakakapigil sa hangin.
+  - Ang kahoy na chips mula sa arborista (4-6”) ay magandang mulch – nagpapadaloy ng hangin at dahan-dahang nabubulok para magdagdag ng organikong materyal sa lupa.
+
+#### Pakainin ang mga Mikrobyo sa Lupa
+- Ang organikong materyal (**OM**) ay nasa ibaba ng food web ng lupa; ang pagdagdag ng OM ay nagpapakain sa mga mikrobyo.
+- Pumili ng OM na tamang na-compost at walang hindi kanais-nais na sangkap tulad ng mataas na asin o mabibigat na metal.
+- OM tulad ng composted dahon at basura sa bakuran ay maaaring ihalo o patungan ng manipis na layer (1/2 hanggang 1”) para lumikha ng kapaligiran na pabor sa aktibidad ng mikrobyo.
+
+#### Gumawa ng Taniman Para sa Panahong Ito
+- Kung kailangan mo ng bagong taniman para sa gulay ngayong taon, haluin ang composted OM sa buong taniman.
+- Makikita agad ang benepisyo ng mas madaling trabahuhin at mas matabang lupa.
+- Pero, panandalian lang ang ganitong benepisyo dahil mabilis masira ang OM, mawawala ang hindi nagamit na sustansiya, at babagsak ang lupa.
+
+#### Pagbabago Mula sa Nakaraan
+- Ang kasabihang “Basta Magdagdag ng Organikong Materyal!” bilang solusyon sa luwad ay binago na.
+- Dati, nirerekomenda ang unang pagdagdag ng 2-4” OM na susundan ng mas kaunti.
+- Sa bagong pag-aaral ng mga urban garden na maraming taon nang dinadagdagan ng OM, napansin ang hindi malusog na taas ng phosphate at OM.
+  - Ang mataas na phosphate ay nakakahadlang sa pagsipsip ng iron at pagbuo ng mycorrhizae, at nagdudulot ng polusyon sa mga ilog.
+- Kung bibili ng OM mula sa mga tindahan, sinusuri ng Oregon Department of Agriculture ang OM para sa laman ng sustansiya.
+- Siguraduhing mababa sa phosphorus ang OM kung matagal mo nang dinadagdagan ng OM ang iyong lupa.
+
+---
+
+### Matuto Pa Tungkol sa Lupa
+
+#### Mga Babasahin
+
+**Mga Babasahin mula sa Oregon State University Extension**
+- [Gabay sa Pagkuha ng Soil Sample, EC628](https://catalog.extension.oregonstate.edu/)
+- [Mga Prinsipyo ng Kalusugan ng Lupa, EC1647](https://catalog.extension.oregonstate.edu/)
+- [Analytical Laboratories na Nagsisilbi sa Oregon, EM8677](https://catalog.extension.oregonstate.edu/)
+- [Paglalagay ng Apog Para Itaas ang pH ng Lupa para sa Pananim, EM9057](https://catalog.extension.oregonstate.edu/)
+
+**Mga Babasahin mula sa Washington State University Extension**
+- [Cover Crops para sa Home Gardeners West ng Cascades, FS111E](https://pubs.extension.wsu.edu/extension-publications)
+- [Gabay ng Home Gardener sa Lupa at Pataba, EM063E](https://pubs.extension.wsu.edu/extension-publications)
+- [Primer ng Gardener sa Mycorrhizae, FS269E](https://pubs.extension.wsu.edu/extension-publications)
+
+**Pagbabasag ng Mito Tungkol sa Lupa Para sa Extension Educators**  
+[Pagrepaso sa Literatura ukol sa Estruktura at Functionality ng Lupa](https://www.nacaa.com/journal/index.php?jid=1024)
+
+#### Mga Video
+
+- [Mulch: Ang Maganda, Ang Pangit, at Ang Talagang Pangit](https://www.youtube.com/watch?v=NXL9n2KNm1E)
+- [Home Soil Sampling, Washington State University](https://www.youtube.com/watch?v=0tRQUPDRiDU)
+- [Demonstrasyon ng Kalusugan ng Lupa](https://video.search.yahoo.com/yhs/search?p=ray+archuleta%27s+soil+health+demo+2014+custom)
+- [Soil Carbon Cowboys](https://www.youtube.com/watch?v=ZGvVli0OTrQ)
+- [Mula Dumi Papuntang Lupa](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)
+
+#### Mga Website
+
+- [Web Soil Survey](http://www.websoilsurvey.sc.egov/)
+- [10-Minute University™ Mga Handout at Video](http://www.cmastergardeners.org/10-minute-university)
+
+---
+
+###### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/panagutan, kita mula sa tulong ng gobyerno, paniniwala sa politika, genetic information, pagiging beterano, paghihiganti o pagganti para sa dating civil rights activity. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa).
+---

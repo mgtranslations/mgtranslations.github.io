@@ -1,76 +1,107 @@
-### Đại học 10 Phút™  
-Hiệp hội Làm vườn Bậc thầy Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Bậc thầy của OSU Extension™  
+#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp của OSU Extension Master Gardener™
 
-### Làm vườn rau sử dụng ít nước  
+# Trồng Rau Sử Dụng Ít Nước Hơn
 
-#### Tổng quan  
-Bộ phận Nông trại nhỏ của OSU Extension đã thử nghiệm khả năng trồng rau hữu cơ “không tưới” trên quy mô thương mại. Trồng không tưới dựa vào độ ẩm còn lại trong đất từ mùa mưa để trồng cây và hoạt động tốt nhất ở những khu vực có lượng mưa hàng năm từ 20 inch trở lên. Thành công phụ thuộc vào việc quản lý cẩn thận độ ẩm của đất thông qua việc chọn địa điểm, chuẩn bị đất và bảo vệ bề mặt đất. Không phải tất cả các loại rau đều phù hợp với phương pháp này, vì vậy việc chọn giống là rất quan trọng. Tài liệu này rút ra bài học từ nghiên cứu này để giúp người làm vườn tại nhà trồng rau trong khi tiết kiệm nước và bảo vệ đất.  
+### Tổng Quan
 
----
-
-### Chuẩn bị khu vực trồng  
-Tăng khả năng giữ nước của đất bằng cách thêm chất hữu cơ (5-7% là lý tưởng). Trồng cây che phủ mùa thu như cỏ ba lá đỏ và trắng, Phacelia, kiều mạch. Cắt xuống và cày vào đất vào mùa xuân. Thêm phân trộn, có thể mua hoặc tự làm, cũng là một lựa chọn khác. Nếu đất vườn của bạn giàu đất sét, hãy tận dụng nó. Đất sét giữ nhiều nước và chất dinh dưỡng hơn các loại đất khác. Chỉnh sửa đất sét bằng chất hữu cơ để đất dễ làm việc hơn. Đối với việc trồng vào mùa xuân, thời điểm tốt nhất để chuẩn bị khu vực trồng là vào mùa thu.  
+Bộ phận Nông trại Nhỏ của OSU Extension đã thử nghiệm khả năng “trồng khô” rau hữu cơ ở quy mô thương mại. Trồng khô dựa vào độ ẩm còn lại trong đất từ mùa mưa để trồng cây, và hiệu quả nhất ở những khu vực nhận được 20 inch (khoảng 500 mm) mưa trở lên mỗi năm. Thành công đòi hỏi phải quản lý độ ẩm đất cẩn thận thông qua việc chọn vị trí, chuẩn bị đất và bảo vệ bề mặt đất. Không phải loại rau nào cũng phù hợp với phương pháp này nên việc chọn giống rất quan trọng. Tài liệu này tổng hợp các bài học từ nghiên cứu cho các gia đình yêu thích làm vườn, giúp trồng rau mà vẫn tiết kiệm nước và bảo vệ đất.
 
 ---
 
-### Giảm thiểu sự mất độ ẩm của đất  
-- Phủ bề mặt đất bằng một lớp mùn hữu cơ để giữ đất không bị khô. Mùn hữu cơ giúp giữ đất mát nên chỉ nên áp dụng sau khi cây bắt đầu phát triển. Ví dụ về mùn bao gồm mùn sân vườn thương mại, phân trộn tự làm, cỏ cắt (nếu không có thuốc diệt cỏ hoặc thuốc trừ sâu), rơm lúa mì hoặc lá băm nhỏ. Bìa cứng, bao tải vải bố và báo cũng là những lựa chọn.  
-- Mùn vô cơ như nhựa đỏ và đen có thể được sử dụng để làm ấm đất, ngăn chặn sự bốc hơi và sự phát triển của cỏ dại. Mùn cũng cung cấp môi trường sống cho sên; hãy sử dụng mồi chống sên không độc hại.  
-- Giữ đất không có cỏ dại để giảm cạnh tranh về chất dinh dưỡng và nước.  
-- Giữ lớp đất mặt dày 2 inch xung quanh cây lỏng bằng cách xới đất để tạo “mùn bụi”. Giữ đất lỏng giúp lấp đầy các vết nứt trong đất, do đó giảm sự bốc hơi.  
-- Không đi lại trên bề mặt nơi cây phát triển, điều này giúp giảm sự nén chặt và bảo vệ khả năng giữ nước của đất.  
+### Chuẩn Bị Đất
+
+- Tăng khả năng giữ nước cho đất bằng cách bổ sung chất hữu cơ (5–7% là lý tưởng).
+- Trồng cây che phủ mùa thu như cỏ ba lá đỏ và trắng, Phacelia hoặc kiều mạch. Đến mùa xuân, cắt và trộn cây che phủ vào đất.
+- Thêm phân hữu cơ, có thể là phân tự làm hoặc mua, cũng là một lựa chọn.
+- Nếu đất vườn của bạn nhiều đất sét, hãy tận dụng nó. Đất sét giữ nước và dinh dưỡng tốt hơn các loại đất khác. Cải tạo đất sét với chất hữu cơ để đất dễ làm việc hơn.
+- Đối với việc trồng vào mùa xuân, thời điểm tốt nhất để chuẩn bị đất là vào mùa thu.
 
 ---
 
-### Áp dụng các kỹ thuật sử dụng nước tưới hiệu quả  
-- Sử dụng hệ thống tưới nhỏ giọt để giảm thiểu sự bốc hơi và cung cấp nước đến nơi cần thiết.  
-- Nhóm các cây có nhu cầu nước giống nhau vào các khu vực riêng.  
-- Sử dụng bộ hẹn giờ tưới để điều chỉnh tần suất và lượng nước; kiểm soát từng khu vực giúp tăng hiệu quả.  
-- Để giảm sự bốc hơi, hãy tưới nước vào sáng sớm trước khi đất và không khí ấm lên.  
+### Giảm Thiểu Mất Nước Trong Đất
+
+- Phủ bề mặt đất bằng lớp mùn hữu cơ để giữ ẩm. Mùn hữu cơ giúp đất mát hơn nên chỉ nên phủ sau khi cây đã mọc lên. Một số ví dụ:
+  - Phân hữu cơ từ rác vườn đã ủ
+  - Phân hữu cơ tự làm
+  - Cỏ cắt (không dùng thuốc diệt cỏ hoặc thuốc trừ sâu)
+  - Rơm lúa mì hoặc lá cây cắt nhỏ
+  - Bìa cứng, bao bố hoặc báo cũng là lựa chọn.
+- Mùn không hữu cơ như nhựa đỏ, nhựa đen có thể dùng để làm ấm đất, ngăn bay hơi nước và hạn chế cỏ dại.
+- Mùn cũng là nơi trú ngụ của sên; nên sử dụng mồi diệt sên không độc hại.
+- Giữ đất không có cỏ dại để giảm cạnh tranh dinh dưỡng và nước.
+- Xới nhẹ bề mặt đất khoảng 5 cm quanh gốc cây để tạo “lớp bụi mùn.” Việc này giúp lấp các vết nứt trên đất, giảm bay hơi nước.
+- Tránh dẫm lên khu vực trồng cây để giảm nén đất và giữ khả năng giữ nước của đất.
 
 ---
 
-### Thời gian trồng  
-- Dựa vào độ ẩm và nhiệt độ của đất để xác định thời điểm bắt đầu chuẩn bị trồng. Để kiểm tra độ ẩm, hãy nắm một nắm đất trong tay. Nếu đất giữ nguyên hình khối nhưng dễ vỡ vụn, thì đã sẵn sàng.  
-- Sử dụng nhiệt kế đất để xác định thời điểm gieo hạt. Tham khảo lịch trồng hoặc bao bì hạt giống để biết yêu cầu nhiệt độ cụ thể.  
-- Thường thì các giống cây phù hợp không có sẵn trên thị trường hoặc không có sẵn vào đúng thời điểm để trồng. Hãy bắt đầu gieo hạt trong nhà để cây có thể phát triển trước khi nhiệt độ tăng cao.  
-- Trồng các giống cây có thời gian trưởng thành sớm, trước khi mùa hè nóng bức bắt đầu. Một số loại cũng có thể được trồng vào cuối mùa hè để thu hoạch vào mùa thu. Ví dụ bao gồm rau diếp, bắp cải, cải cầu vồng Thụy Sĩ và bông cải xanh.  
-- Sử dụng nhà kính nhỏ, tường nước, và khung lạnh để giúp các cây mùa ấm như cà chua, ớt và dưa có khởi đầu sớm.  
-- Thử trồng các cây mùa đông như bông cải tím, bắp cải, cải xoăn radicchio, v.v.  
+### Áp Dụng Kỹ Thuật Sử Dụng Nước Tưới Hiệu Quả
+
+- Dùng hệ thống tưới nhỏ giọt để giảm bay hơi và tưới đúng chỗ cần thiết.
+- Nhóm các loại cây theo nhu cầu nước thành từng khu vực.
+- Dùng bộ hẹn giờ để kiểm soát tần suất và lượng nước tưới; kiểm soát theo từng khu vực giúp tăng hiệu quả.
+- Để giảm bay hơi, nên tưới nước vào sáng sớm trước khi đất và không khí ấm lên.
 
 ---
 
-### Áp dụng kỹ thuật trồng đặc biệt  
-- Ngâm trước các hạt giống lớn qua đêm trước khi trồng; điều này giúp tăng tốc độ nảy mầm.  
-- Trước khi gieo hạt nhỏ, ép nhẹ bề mặt đất bằng một tấm ván. Điều này được cho là tăng cường hành động mao dẫn của đất, đưa độ ẩm lên bề mặt nơi hạt giống và rễ cây có thể tiếp cận. Vì cùng lý do, nén đất xung quanh cây khi chuyển cây con ra ngoài.  
-- Trồng thành khối thay vì theo hàng. Trồng gần nhau để che bóng đất. Đặt các cây nhỏ hơn trong bóng râm của các cây cao hơn.  
-- Nếu bạn muốn trồng mà không tưới thường xuyên, hãy trồng cách xa nhau hơn -- gấp đôi khoảng cách bình thường để giảm cạnh tranh về nước và chất dinh dưỡng.  
+### Lên Lịch Trồng
+
+- Dựa vào độ ẩm và nhiệt độ đất để quyết định khi nào bắt đầu chuẩn bị trồng.
+  - Để kiểm tra độ ẩm, nắm một nắm đất trong tay. Nếu đất giữ thành cục nhưng dễ vỡ ra, tức là đã sẵn sàng.
+  - Dùng nhiệt kế đất để xác định thời điểm gieo hạt.
+- Tham khảo lịch trồng hoặc hướng dẫn trên bao bì hạt giống để biết yêu cầu nhiệt độ cụ thể.
+- Nhiều giống phù hợp thường không có bán hoặc không có đúng thời điểm trồng. Hãy gieo hạt trong nhà để cây phát triển sớm trước khi trời nóng.
+- Trồng các giống rau chín sớm, trước khi nắng nóng mùa hè đến. Một số loại có thể trồng cuối hè để thu hoạch mùa thu, ví dụ:
+  - Xà lách
+  - Bắp cải
+  - Cải cầu vồng Thụy Sĩ
+  - Súp lơ xanh
+- Sử dụng lồng che, “tường nước” hoặc khung kính để giúp các loại rau mùa ấm như cà chua, ớt, dưa có khởi đầu sớm.
+- Thử trồng cây mùa đông như bông cải tím, bắp cải, diếp xoăn đỏ, v.v.
 
 ---
 
-### Chọn giống rau chịu hạn  
-- Các giống rau cổ truyền có thể chịu hạn tốt hơn nếu chúng được phát triển trước khi có nước tưới thường xuyên. Hãy thử các giống cây được các nông dân trồng không tưới khuyên dùng (tham khảo các trang web Chương trình Trồng không tưới của OSU dưới đây).  
-- Trồng nhiều cây leo hơn như bí, đậu (loại vỏ khô), đậu Hà Lan, dưa; chúng thường cần ít nước hơn.  
-- Cuối cùng, hãy xem xét sử dụng hạt giống được trồng tại địa phương. Mặc dù chúng không được trồng đặc biệt cho điều kiện hạn, nhưng chúng có khả năng thích nghi với khí hậu địa phương cao hơn.  
+### Áp Dụng Kỹ Thuật Gieo Trồng Đặc Biệt
+
+- Ngâm hạt lớn qua đêm trước khi gieo để giúp hạt nảy mầm nhanh hơn.
+- Trước khi gieo hạt nhỏ, dùng tấm ván ép nhẹ và đều lên mặt đất. Cách này được cho là tăng khả năng mao dẫn, giúp đưa nước lên bề mặt nơi hạt và rễ cây có thể hấp thụ.
+- Vì lý do tương tự, khi chuyển cây con ra đất, hãy ấn nhẹ đất quanh gốc cây.
+- Trồng theo khối thay vì theo hàng. Trồng sát nhau để bóng lá che mát đất. Đặt cây thấp dưới bóng cây cao hơn.
+- Nếu muốn trồng không tưới thường xuyên, hãy trồng thưa hơn—gấp đôi khoảng cách bình thường—để giảm cạnh tranh nước và dinh dưỡng.
 
 ---
 
-### Nguồn tài liệu  
-- **Trồng không tưới ở vùng Tây Bắc ven biển**: Giới thiệu về Trồng rau hữu cơ không tưới, Ấn phẩm EM9229 của OSU Extension, [Link](https://catalog.extension.oregonstate.edu/)  
-- Website: [smallfarms.oregonstate.edu/dry-farming-resources](http://smallfarms.oregonstate.edu/dry-farming-resources)  
-- **Rau thông minh nước** của Steve Solomon  
-- **Trồng rau ở phía Tây dãy Cascades** của Steve Solomon  
-- **Làm vườn không cần tưới: hoặc không cần nhiều nước** của Steve Solomon  
-- **Người làm vườn kiên cường: Sản xuất thực phẩm và tự lực trong thời kỳ bất ổn** của Carol Deppe  
-- Nguồn hạt giống khu vực: Adaptive Seeds, Territorial Seeds, Abundant Life Seeds, New Dimension Seeds, Nichols Garden Nursery, Peace Seeds, Siskiyou Seeds  
+### Chọn Giống Rau Chịu Hạn
+
+- Các giống rau truyền thống có thể chịu hạn tốt hơn nếu chúng được phát triển từ trước khi có hệ thống tưới.
+- Thử các giống được khuyến nghị bởi những người trồng khô (xem website Chương trình Trồng Khô OSU bên dưới).
+- Trồng nhiều loại cây leo như bí, đậu (loại lấy hạt khô), đậu Hà Lan, dưa; chúng thường cần ít nước hơn.
+- Cân nhắc dùng hạt giống được trồng tại địa phương. Dù không đặc biệt dành cho điều kiện khô hạn, chúng có thể thích nghi tốt với khí hậu nơi bạn sống.
 
 ---
 
-### Lời khuyên từ chuyên gia Làm vườn Bậc thầy™  
-- Gọi đường dây trợ giúp về Làm vườn tại nhà: 503-655-8631 (Quận Clackamas), 503-821-1150 (Quận Washington), 503-445-4608 (Quận Multnomah).  
-- Truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org) để xem video và tài liệu của Đại học 10 Phút™.  
+### Tài Nguyên Tham Khảo
+
+- **Trồng Khô ở Vùng Tây Bắc, Giới thiệu về Trồng Rau Hữu Cơ Không Tưới**, Tài liệu OSU Extension EM9229: [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+- Website: [http://smallfarms.oregonstate.edu/dry-farming-resources](http://smallfarms.oregonstate.edu/dry-farming-resources)
+- **Sách của Steve Solomon**:
+  - *Rau Tiết Kiệm Nước*
+  - *Trồng Rau Phía Tây Dãy Cascades*
+  - *Làm Vườn Không Tưới: hoặc ít tưới cũng được*
+- **Người Làm Vườn Kiên Cường: Sản Xuất Thực Phẩm và Tự Lập Trong Thời Kỳ Bất Ổn** của Carol Deppe
+- **Nguồn Hạt Giống Địa Phương**:
+  - Adaptive Seeds
+  - Territorial Seeds
+  - Abundant Life Seeds
+  - New Dimension Seeds
+  - Nichols Garden Nursery
+  - Peace Seeds
+  - Siskiyou Seeds
 
 ---
 
-### Chính sách không phân biệt đối xử của OSU Extension  
-Dịch vụ OSU Extension nghiêm cấm sự phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ các chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù cho hoạt động quyền dân sự trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình).
+#### Tư Vấn Làm Vườn Chuyên Nghiệp™ · Gọi Đường Dây Tư Vấn Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Dịch vụ OSU Extension nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, quốc tịch, tôn giáo, giới tính, nhận diện giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình trợ giúp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả thù do đã bảo vệ quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
+---

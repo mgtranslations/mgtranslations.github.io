@@ -1,93 +1,132 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association ay nakikipagtulungan at sumusuporta sa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Pagtatanim ng Lettuce at Ibang Gulay  
-### Pangkalahatang-ideya  
-Ang lettuce at mga leafy greens ay kahanga-hangang tanim para sa mga baguhan at may karanasang hardinero.  
-Ang kanilang maikling panahon ng pagtubo ay nagbibigay ng mabilis na resulta at  
-maraming ani sa isang season. Ang kanilang mababang pangangailangan sa kultura ay  
-ginagawang angkop sa mga apartment balcony pati na rin sa mga backyard garden. Ang kanilang mataas  
-na ornamental value ay ginagawa silang mahusay na edible na maaaring ilagay sa mga patio container. Hindi tulad ng karamihan  
-sa mga gulay, ang mga leafy greens ay maaaring tiisin ang kaunting lilim, at ang pagtatanim ng sarili mong gulay ay mas matipid. Ang isang pakete ng  
-binhi ay naglalaman ng humigit-kumulang 2,000 na binhi at maaaring magbigay ng ilang buwang supply ng loose-leaf mix,  
-isa sa mga mahal na gourmet item sa merkado.  
+# Pagpapalago ng Letsugas at Iba Pang Dahon
 
-### Karaniwang Leafy Vegetables  
-- **Loose-leaf lettuce**: Oak Leaf, Red Sails, Salad Bowl  
-- **Loose-head lettuce**: Buttercrunch, Bibb, Boston  
-- **Romaine lettuce**: Valmaine, Cos  
-- **Iceberg lettuce**: Summertime, Red Iceberg  
-- **Spinach**:  
-  - Asian – cool season o broadleaf  
-  - New Zealand – warm season  
+### Pangkalahatang-ideya
 
-### Iba Pang Greens na May Katulad na Pangangailangan  
-- **Arugula**: nagdadagdag ng masarap na nutty na lasa  
-- **Mustard**: nagbibigay ng kaunting anghang  
-- **Bok choy**: pinakamahusay na gamitin sa stir-fry  
-- **Swiss chard at kale**: matibay, malamig na klima; lutuin bago ihain  
+Ang letsugas at mga dahon ay magagandang pananim para sa mga baguhan at may karanasang hardinero. Maikli ang kanilang panahon ng pagtubo kaya mabilis ang resulta at maaari kang magtanim ng maraming beses sa isang season. Madali silang alagaan kaya pwedeng itanim kahit sa balkonaheng apartment o sa likod-bahay. Maganda ring tingnan ang mga ito, kaya swak bilang edible na palamuti sa paso o paso sa patio. Hindi tulad ng karamihan sa mga gulay, kayang tumagal ng mga dahon kahit may kaunting anino, at mas tipid kung magtatanim ka ng sarili mo. Isang pakete ng buto ay karaniwang may 2,000 buto na sapat na para sa ilang buwang supply ng loose-leaf mix, na isa sa mga mamahaling gulay sa merkado.
 
-## Paano Magsimula  
-Ang lettuce at iba pang greens ay maaaring itanim mula sa binhi o transplants. Ang gabay para sa  
-pagtatanim ng binhi ay ibaba ito sa lalim na katumbas ng 2 hanggang 4 na beses ang lapad nito. Sa madaling salita, mas pino ang binhi, mas mababaw ang pagtatanim. Tingnan ang impormasyon sa pakete ng binhi.  
+### Karaniwang Dahon na Gulay
 
-### Direktang Pagtatanim  
-Tanggalin ang lahat ng damo; ayusin ang lupa kung kinakailangan. Pantayin ang kama, magwisik nang bahagya ng mga binhi,  
-at takpan ng ¼ pulgada ng lupa. Habang lumalaki ang mga halaman, magbawas upang maiwasan ang sobrang siksikan at tiyakin  
-na ang natitirang mga halaman sa kama ay may espasyo upang umunlad bilang mga ulo. Ang mga batang punla ay maaaring gamitin bilang “baby greens”.  
+- **Loose-leaf lettuce:** Oak Leaf, Red Sails, Salad Bowl
+- **Loose-head lettuce:** Buttercrunch, Bibb, Boston
+- **Romaine lettuce:** Valmaine, Cos
+- **Iceberg lettuce:** Summertime, Red Iceberg
+- **Spinach:**
+  - Asian – pang malamig na panahon o broadleaf
+  - New Zealand – pang mainit na panahon
 
-### Transplants  
-Pumili ng malulusog na halaman; ibabad nang maigi ang mga paso bago itanim upang matiyak na ito ay basang-basa. Paluwagin ang mga ugat at itanim sa lupa o lalagyan.  
+### Iba Pang Dahon na Kailangan ng Katulad na Pag-aalaga
 
-### Pagtatanim sa Lalagyan  
-Ang mga lalagyan ay ideal para sa pagtatanim ng lettuce at iba pang greens. Magsimula sa mahusay na container mix. Ang magandang loamy garden soil ay maaaring magsilbing kapalit ng hindi hihigit sa 1/3 ng kabuuang halo.  
+- **Arugula:** May masarap na lasa na parang mani
+- **Mustasa:** May bahagyang anghang
+- **Bok choy:** Pinakamainam sa stir-fry
+- **Swiss chard at kale:** Matitibay at matibay sa lamig; niluluto bago kainin
 
-Para sa bawat 2.5 cubic feet ng medium na walang dagdag na pataba, magdagdag ng 1 tasa ng dolomite lime, 1 tasa ng cottonseed o alfalfa meal o 2/3 tasa ng blood meal, 2 tasang bone meal o soft rock phosphate, at 1 tasang kelp meal.  
+---
 
-Para sa mas madaling pag-ani, i-grupo ang mga pananim batay sa pangangailangan sa kultura at paraan ng pagtubo. Halimbawa, ang lettuce ay may mas mahabang panahon ng pagtubo kaysa broccoli. Ang pagtatanim sa magkakahiwalay na lalagyan ay nagbibigay-daan sa iyo na anihin ang broccoli bago matapos ang lettuce. Ang lalagyan ay maaaring gamitin para sa iba pang bagay.  
+## Paano Magsimula
 
-## Kailan Magtanim  
-Ang minimum na temperatura ng lupa ay dapat nasa 40 hanggang 45 degrees. Ang lupa sa mga raised bed at lalagyan ay maaabot ang temperaturang ito nang mas maaga kaysa lupa sa ground level. Gamitin ang soil thermometer, na mabibili sa mga nursery at garden supply centers, upang suriin ang temperatura ng lupa.  
+Maaaring itanim ang letsugas at iba pang dahon mula sa binhi o punla. Ang gabay sa pagtatanim ng binhi ay itanim ito sa lalim na 2 hanggang 4 na beses ng lapad ng binhi. Ibig sabihin, mas maliit ang buto, mas mababaw ang pagtatanim. Tingnan ang pakete ng buto para sa karagdagang detalye.
 
-Ang leafy greens ay pinakamahusay na tumutubo kapag ang temperatura ng hangin ay nasa 60 hanggang 70 degrees. Ang mas malamig na panahon ay hindi makakasira sa mga halaman ngunit maaaring magpabagal lamang ng kanilang pagtubo.  
+### Direktang Pagtatanim
 
-Magtanim ng greens mula sa unang bahagi ng tagsibol hanggang unang bahagi ng tag-init para sa ani sa tag-init. Para sa ani sa taglagas, magtanim ng greens sa huling bahagi ng tag-init.  
+1. Alisin ang damo; lagyan ng pataba o ayusin ang lupa kung kinakailangan.
+2. Pantayin ang lupa, budburan ng kaunting buto, at takpan ng ¼ pulgada ng lupa.
+3. Habang tumutubo ang mga halaman, bawasan para hindi magsiksikan at mabigyan ng espasyo para lumaki ang mga matitira.
+4. Maaaring anihin ang maliliit na punla bilang “baby greens.”
 
-Ang mainit na panahon ay nagdudulot ng bolting o pagbuo ng binhi ng greens. Kapag nangyari ito, ang mga dahon ay nagiging magaspang at mapait. Ang mga slow-bolt o long-standing na varieties ay mas maganda sa tag-init.  
+### Pagtatanim ng Punla
 
-## Lupa  
-Ang greens ay angkop sa iba't ibang uri ng lupa; gayunpaman, ang mabigat na clay soils ay dapat ayusin gamit ang compost o buhangin upang matiyak ang magandang drainage. Ang lettuce na itinanim sa basang kondisyon ay madaling kapitan ng white mold (Sclerotinia sclerotiorum).  
+- Pumili ng malusog na punla; ibabad muna sa paso bago itanim para masigurong basa ang lupa.
+- Paluwagin ang ugat at itanim sa lupa o paso.
 
-Ang greens ay nangangailangan ng humigit-kumulang 1 pulgada ng tubig kada linggo; madalas na diligin ang greens upang panatilihing basa ang lupa. Kung pipiliin mong magdilig mula sa itaas, tiyakin na ang mga dahon ay matuyo bago magtakip-silim.  
+### Pagtatanim sa Paso
 
-## Pataba  
-Ang greens ay may mababaw na ugat at nangangailangan lamang ng 7 hanggang 8 pulgada ng matabang lupa. Maglagay ng nitrogen fertilizer sa rate na 0.2 pounds kada 100 square feet.  
+Mainam ang paso para magtanim ng letsugas at iba pang dahon. Gumamit ng magandang timpla ng lupa para sa paso. Pwede ring gumamit ng loamy garden soil, pero hindi lalampas sa 1/3 ng timpla.
 
-## Slugs  
-Ang basang, lilim na lupa sa ilalim ng lettuce at matamis, malalambot na dahon ay lumilikha ng perpektong kapaligiran para sa mga slug. Ang mga slug ay maaaring harapin sa ilang eco-friendly na paraan. Ang pagputol sa kanila gamit ang gunting ay madali. Ang mga bitag na gawa sa maliliit na lata tulad ng tuna cans, na medyo nakabaon sa lupa at puno ng beer, ay nakakaakit ng mga slug.  
+Para sa bawat 2.5 cubic feet ng medium na walang pataba, idagdag ang:
 
-Kung gagamit ng komersyal na slug bait, tiyakin na ligtas ito para sa mga alagang hayop at iba pang hayop na maaaring bumisita sa iyong hardin.  
+- 1 tasa ng dolomite lime
+- 1 tasa ng cottonseed meal o alfalfa meal (o 2/3 tasa ng blood meal)
+- 2 tasa ng bone meal o soft rock phosphate
+- 1 tasa ng kelp meal
 
-## Pag-ani at Pag-iimbak  
-Anihin ang mga greens sa umaga bago magsimulang malanta ang mga dahon. Anihin ang “baby greens” sa pamamagitan ng paggupit ng buong halaman sa antas ng lupa, na nagbibigay ng sapat na espasyo sa pagitan ng natitirang mga halaman upang umunlad bilang mga ulo. Para sa pag-ani mula sa mga ulo, puwedeng gupitin ang buong halaman sa antas ng lupa o kuhanin lamang ang mga panlabas na dahon. Ang pag-iwan sa mga panloob na dahon ay nagbibigay-daan sa halaman na patuloy na magtubo.  
+Para maging madali ang pag-aani, pagsamahin ang mga tanim na magkapareho ng pangangailangan at ugali ng pagtubo. Halimbawa, mas mahaba ang panahon ng letsugas kaysa broccoli. Kung magkaiba sila ng paso, maaari mong anihin ang broccoli bago matapos ang letsugas, at magamit muli ang paso para sa ibang tanim.
 
-Pagkatapos ng ani, i-refresh ang lettuce sa pamamagitan ng pagbabad sa palanggana ng malamig na tubig sa loob ng 15 minuto. Patuyuin gamit ang spinner o hayaan tumulo, itabi nang mahigpit, at ilagay sa refrigerator nang hanggang tatlong araw.  
+---
 
-Para lutuin ang Swiss chard o kale, alisin ang gitnang tangkay na maaaring matigas o mapait. Tadtarin ang mga dahon at igisa sa kaunting olive oil. Ang bawang, asin, at paminta ay magagandang idagdag. Ang gitnang tangkay ay maaring gamitin sa sopas o stew.  
+## Kailan Magtanim
 
-## Mga Resources mula sa OSU Extension Service  
-[https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
+- Dapat ang pinakamababang temperatura ng lupa ay **40 hanggang 45 degrees**. Mas mabilis uminit ang lupa sa raised bed at paso kaysa sa lupa sa lupa. Gumamit ng soil thermometer na mabibili sa garden supply o nursery para masiguradong tama ang temperatura.
+- Pinakamabuting tumubo ang mga dahon kung ang temperatura ng hangin ay **60 hanggang 70 degrees**. Hindi sisirain ng malamig na panahon ang halaman pero mababagal ang paglaki.
 
-- Magtanim ng sarili mong lettuce, spinach, at Swiss chard (EC 1268)  
-- Pagpaplano at paghahanda ng iyong vegetable garden site (EC 1228)  
-- Raised bed gardening (FS 270)  
-- Paano gumawa ng sarili mong raised bed cloche (EC 1627)  
-- Paghahalaman gamit ang composts, mulches, at row covers (EC 1247)  
-- Sustainable Gardening Handbook (EM 8742)  
+### Mga Panahon ng Pagtatanim
 
-## Payong Master Gardener™  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County); 503-821-1150 (Washington County); o 503-445-4608 (Multnomah County).  
-- Para sa higit pang 10-Minute University™ handouts at class schedule, bisitahin ang [www.cmastergardeners.org](www.cmastergardeners.org).  
+- **Para sa Summer Harvest:** Magtanim ng dahon mula unang bahagi ng tagsibol hanggang unang bahagi ng tag-init.
+- **Para sa Fall Harvest:** Magtanim ng dahon bandang huli ng tag-init.
 
-Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan sa kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, marital status, familial/parental status, kita mula sa pampublikong tulong na programa, political beliefs, genetic information, veteran’s status, reprisal o retaliation para sa naunang civil rights activity. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+Kapag mainit ang panahon, mabilis magbulaklak o mag-seed ang mga dahon, kaya nagiging magaspang at mapait ang lasa. Piliin ang slow-bolt o long-standing na variety para sa tag-init.
+
+---
+
+## Lupa
+
+Madaling makibagay ang mga dahon sa iba’t ibang uri ng lupa; pero kung clay ang lupa, lagyan ng compost o buhangin para mas maging maganda ang daloy ng tubig. Kapag basa lagi ang lupa, madaling dapuan ng white mold (*Sclerotinia sclerotiorum*) ang letsugas.
+
+- Kailangan ng mga dahon ng **1 pulgadang tubig bawat linggo**. Diligan madalas para laging basa ang lupa.
+- Kung magdidilig sa ibabaw, tiyaking matutuyo ang mga dahon bago gumabi.
+
+---
+
+## Pataba
+
+Mababaw lang ang ugat ng mga dahon kaya sapat na ang **7 hanggang 8 pulgadang mayabong na lupa**. Maglagay ng nitrogen fertilizer ng **0.2 pounds bawat 100 square feet**.
+
+---
+
+## Limatik
+
+Mahilig ang limatik sa mamasa-masa, ma-aninong lupa sa ilalim ng letsugas at malambot na dahon. Maaaring kontrolin ang limatik sa mga paraang hindi nakakasama sa kalikasan:
+
+- Madaling hatiin gamit ang gunting.
+- Maglagay ng bitag na gawa sa maliit na lata (hal. lata ng tuna), ibaon para bahagyang mataas ang gilid kaysa sa lupa at lagyan ng beer para mahikayat ang limatik.
+- Kung gagamit ng commercial slug bait, piliin ang ligtas para sa alagang hayop at iba pang hayop na maaaring mapadpad sa inyong hardin.
+
+---
+
+## Pag-aani at Pag-iimbak
+
+- **Pag-aani:**
+  - Anihin ang dahon sa umaga bago malanta ang mga dahon.
+  - Para sa “baby greens,” putulin ang buong halaman sa lupa, iwanang may puwang ang mga natitirang halaman para lumaki.
+  - Para sa ulo, pwedeng putulin ang buong halaman sa lupa o pitasin lang ang mga panlabas na dahon. Kapag iniwan ang gitna, magpapatuloy ang halaman sa pagdahon.
+
+- **Pag-iimbak:**
+  - Pagkatapos anihin, ibabad agad ang letsugas sa malamig na tubig ng 15 minuto.
+  - Paikutan sa salad spinner o patuluin, ilagay sa plastic, at ilagay sa ref hanggang tatlong araw.
+
+- **Pagluluto ng Swiss Chard o Kale:**
+  - Tanggalin ang matigas na gitnang tangkay na maaaring mapait.
+  - Hiwain ang dahon at igisa sa konting olive oil. Masarap lagyan ng bawang, asin, at paminta.
+  - Ang gitnang tangkay ay masarap sa sabaw o nilaga.
+
+---
+
+## OSU Extension Service Resources
+
+- [Mag-alaga ng sariling letsugas, spinach, at Swiss chard (EC 1268)](https://catalog.extension.oregonstate.edu/)
+- [Pagpaplano at paghahanda ng taniman ng gulay (EC 1228)](https://catalog.extension.oregonstate.edu/)
+- [Pagtatanim sa raised bed (FS 270)](https://catalog.extension.oregonstate.edu/)
+- [Paano gumawa ng sariling raised bed cloche (EC 1627)](https://catalog.extension.oregonstate.edu/)
+- [Paghahalaman gamit ang compost, mulch, at row covers (EC 1247)](https://catalog.extension.oregonstate.edu/)
+- [Handbook ng Sustainable Gardening (EM 8742)](https://catalog.extension.oregonstate.edu/)
+
+---
+
+#### Master Gardener™ Advice · Tawagan ang Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya o magulang, kita mula sa public assistance program, paniniwala sa pulitika, genetic information, veteran’s status, reprisal, o paghihiganti dahil sa naunang civil rights activity. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

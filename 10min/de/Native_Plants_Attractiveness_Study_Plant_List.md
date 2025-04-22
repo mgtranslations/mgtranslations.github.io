@@ -1,38 +1,61 @@
+#### 10-Minuten-Universität™ · Clackamas County Master Gardener Association · In Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-### Studie zur Attraktivität von einheimischen Pflanzen --- Pflanzenliste  
-Eine Studie von Aaron Anderson und Gail Langellotto, OSU Garden Ecology Lab  
-*Die Ergebnisse aus den Feldsaisons 2017 und 2018 sind wie folgt abgekürzt: A – Top-Anziehungskraft auf alle Bienen im Jahr 2017, B – Top-Anziehungskraft auf einheimische Bienen im Jahr 2017, C – Top-Anziehungskraft auf alle Bienen im Jahr 2018, D – Top-Anziehungskraft auf einheimische Bienen im Jahr 2018.*  
-Bitte besuchen Sie http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/ für Details und Updates.  
+# Studie zur Attraktivität einheimischer Pflanzen
 
-### Pflanzenarten  
-| Pflanzenspezies                 | Gebräuchlicher Name              | Ergebnisse* | Lebenszyklus | Blütenfarbe    |
-|---------------------------------|----------------------------------|-------------|--------------|----------------|
-| Acmispon (Lotus) parviflorus    |                                  |             | Einjährig    | Weiß/Rosa      |
-| Clarkia amoena                  | Abschied vom Frühling           | D           | Einjährig    | Rosa           |
-| Collinsia grandiflora           | Riesen-Blaue Augen-Mary         |             | Einjährig    | Blau           |
-| Gilia capitata                  | Kugel-Gilia                     | A,B,C       | Einjährig    | Blau           |
-| Lupinus polycarpus              | Zwerg-Lupine                    |             | Einjährig    | Lila/Blau      |
-| Madia elegans                   | Gewöhnliche Madie               | A,B         | Einjährig    | Gelb           |
-| Nemophila menziesii             | Baby-Blaue Augen                |             | Einjährig    | Blau/Weiß      |
-| Eschscholzia californica        | Kalifornischer Mohn             | B,C,D       | Einjährig    | Orange         |
-| Helianthus annuus               | Gemeine Sonnenblume             |             | Einjährig    | Gelb           |
-| Phacelia heterophylla           | Vielblättrige Phacelie          | C,D         | Einjährig    | Weiß           |
+## Pflanzenliste
 
-### Pflanzenarten  
-| Pflanzenspezies                 | Gebräuchlicher Name              | Ergebnisse* | Lebenszyklus | Blütenfarbe    |
-|---------------------------------|----------------------------------|-------------|--------------|----------------|
-| Achillea millefolium            | Schafgarbe                      | D           | Mehrjährig   | Weiß           |
-| Anaphalis margaritacea          | Perl-Strahlenblume              |             | Mehrjährig   | Weiß           |
-| Asclepias speciosa              | Prächtige Seidenpflanze          |             | Mehrjährig   | Rosa/Weiß      |
-| Aquilegia formosa               | Westliche Rote Akelei           |             | Mehrjährig   | Rot            |
-| Aster subspicatum               | Douglas-Aster                   | A,B,C,D     | Mehrjährig   | Lila           |
-| Camassia leichtlinii            | Gewöhnliche Camas               |             | Mehrjährig   | Lila/Weiß      |
-| Eriophyllum lanatum             | Oregon-Sonnenschein             |             | Mehrjährig   | Gelb           |
-| Fragaria vesca                  | Wilde Erdbeere                  |             | Mehrjährig   | Weiß           |
-| Iris tenax                      | Oregon-Schwertlilie             |             | Mehrjährig   | Lila           |
-| Sedum oregonense                | Creme-Mauerpfeffer              |             | Mehrjährig   | Gelb           |
-| Sidalcea virgata                | Rosen-Scheckenmalve             |             | Mehrjährig   | Rosa           |
-| Sisyrinchium idahoense          | Blauäugiges Gras                |             | Mehrjährig   | Blau/Lila      |
-| Solidago canadensis             | Kanadische Goldrute             | A,B,C,D     | Mehrjährig   | Gelb           |
+Eine Studie von Aaron Anderson und Gail Langellotto, OSU Garden Ecology Lab
 
+*Ergebnisse der Feldsaisons 2017 und 2018 sind wie folgt abgekürzt:  
+A – Beste Anziehung von Bienen insgesamt im Jahr 2017  
+B – Beste Anziehung von Wildbienen im Jahr 2017  
+C – Beste Anziehung von Bienen insgesamt im Jahr 2018  
+D – Beste Anziehung von Wildbienen im Jahr 2018.*
+
+Bitte besuchen Sie [http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/](http://blogs.oregonstate.edu/gardenecologylab/native-plants-2/) für Details und aktuelle Informationen.
+
+---
+
+### Einjährige Pflanzen
+
+| Pflanzenart                    | Deutscher Name           | Ergebnisse* | Lebensform   | Blütenfarbe   |
+| :----------------------------- | :----------------------- | :---------- | :----------- | :-------------|
+| Acmispon (Lotus) parviflorus   |                         |             | Einjährig    | Weiß/Rosa     |
+| Clarkia amoena                 | Sommerabschied           | D           | Einjährig    | Rosa          |
+| Collinsia grandiflora          | Großblütiges Marienauge  |             | Einjährig    | Blau          |
+| Gilia capitata                 | Kugelgilia               | A, B, C     | Einjährig    | Blau          |
+| Lupinus polycarpus             | Zwerg-Lupine             |             | Einjährig    | Lila/Blau     |
+| Madia elegans                  | Gemeine Madie            | A, B        | Einjährig    | Gelb          |
+| Nemophila menziesii            | Babyblaue Augen          |             | Einjährig    | Blau/Weiß     |
+| Eschscholzia californica       | Kalifornischer Mohn      | B, C, D     | Einjährig    | Orange        |
+| Helianthus annuus              | Gewöhnliche Sonnenblume  |             | Einjährig    | Gelb          |
+| Phacelia heterophylla          | Verschiedenblättrige Phazelie | C, D    | Einjährig    | Weiß          |
+
+---
+
+### Mehrjährige Pflanzen
+
+| Pflanzenart               | Deutscher Name             | Ergebnisse* | Lebensform   | Blütenfarbe    |
+| :------------------------ | :------------------------- | :---------- | :----------- | :--------------|
+| Achillea millefolium      | Schafgarbe                 | D           | Mehrjährig   | Weiß           |
+| Anaphalis margaritacea    | Perlkörbchen               |             | Mehrjährig   | Weiß           |
+| Asclepias speciosa        | Prächtige Seidenpflanze    |             | Mehrjährig   | Rosa/Weiß      |
+| Aquilegia formosa         | Westliche Rote Akelei      |             | Mehrjährig   | Rot            |
+| Aster subspicatum         | Douglas-Aster              | A, B, C, D  | Mehrjährig   | Lila           |
+| Camassia leichtlinii      | Gewöhnliche Präriehyazinthe|             | Mehrjährig   | Lila/Weiß      |
+| Eriophyllum lanatum       | Oregon-Sonnenstrauch        |             | Mehrjährig   | Gelb           |
+| Fragaria vesca            | Wald-Erdbeere              |             | Mehrjährig   | Weiß           |
+| Iris tenax                | Oregon-Schwertlilie        |             | Mehrjährig   | Lila           |
+| Sedum oregonense          | Oregon-Fetthenne           |             | Mehrjährig   | Gelb           |
+| Sidalcea virgata          | Rosafarbene Sumpfmalve     |             | Mehrjährig   | Rosa           |
+| Sisyrinchium idahoense    | Blauäugiges Gras           |             | Mehrjährig   | Blau/Lila      |
+| Solidago canadensis       | Kanadische Goldrute        | A, B, C, D  | Mehrjährig   | Gelb           |
+
+---
+
+#### Master Gardener™-Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere Handouts und Kurspläne der 10-Minuten-Universität™ besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Der Extension Service der Oregon State University verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
 ---

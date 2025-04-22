@@ -1,71 +1,87 @@
-# 10-Minute University™
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Ua Koj Lub Vaj Ua Haujlwm Rau Kev Nyab Xeeb Hluav Taws Xob: Dej
+## Ua Koj Lub Vaj Kom Muaj Zog Tiv Thaiv Huab Cua: Dej
 
-Lub ntiaj teb tab tom ntsib kev kub hnyiab uas ua rau cov dej khov yaj, dej hiav txwv nce siab, dej hiav txwv muaj kua qaub ntau ntxiv, thiab muaj kev qhuav, dej nyab ntau dua thiab loj dua. Hauv Pacific Northwest, peb pom kev qhuav ntev, kev kub hnyiab ntau dua thiab loj dua, kub kub ntau, kab tsuag tawm mus ntau, thiab ntoo muaj mob. Kev muaj daus tsawg dua ua rau dej ntws hauv cov dej thiab dej ntws sai dua, thiab txo cov dej siv rau kev dej num. Dhau li ntawm cov kev hloov no, kev hloov huab cua coj tuaj rau cov huab cua hnyav hnyav (kub kub, los nag loj) uas tshwm sim ntau dua.
+Lub ntiaj teb tab tom kub zuj zus, ua rau dej khov yaj, dej hiav txwv nce siab, dej hiav txwv muaj kua qaub ntau, thiab muaj kev nqhuab lossis nag los loj tshwm sim ntau dua thiab loj dua. Hauv Pacific Northwest, peb tau pom kev nqhuab ntev, hluav taws hav zoov tshwm sim ntau thiab loj dua, cua kub hlob, kab tsuag, thiab kab mob ntoo. Dej daus tsawg hlob ua rau dej hauv dej ntws siab dua thaum ntxov thiab ua rau dej siv tsawg dua. Ntxiv rau cov kev hloov no, huab cua hloov pauv tseem ua rau muaj huab cua txawv txav (cua kub, nag loj) tshwm sim ntau dua.
 
-[Oregon Climate Assessments](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
+[Kawm paub ntxiv txog kev ntsuam xyuas huab cua Oregon](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
 
-### Peb Yuav Ua Li Cas Rau Kev Nyab Xeeb Hluav Taws Xob?
-
-Phau ntawv no qhia cov tswv yim rau kev tsim kom muaj kev tiv thaiv huab cua rau hauv lub vaj.
-
-## Yam Peb Paub
-
-- Vim muaj kev hloov huab cua, kev kub hnyiab thiab huab cua hnyav tshwm sim ntau dua.
-- Huab cua rau kev ua vaj hauv Pacific Northwest tab tom hloov mus rau kub dua thiab qhuav dua. Cov xwm txheej kub kub thiab qhuav yog tshwm sim ntau dua.
-- Kev qhuav, kub hnyiab, hluav taws kub thiab dej nag hnyav yuav muaj zog dua thiab tshwm sim ntau dua yav tom ntej.
-- Kev muaj daus tsawg hauv roob yuav ua rau dej hauv cov dej thiab cov dej ntws tsawg, uas yuav txwv dej siv rau kev dej num. Peb yuav tsum npaj rau yav tom ntej no.
-
-## Kev Txo Kev Nyab Xeeb Hluav Taws Xob
-
-- Txhim kho av kom nqus tau dej zoo dua thiab txo kev siv dej ntau.
-- Txo dej ntws tawm thiab khaws dej rau hauv koj lub vaj.
-- Siv cov txheej txheem dej num uas txo kev siv dej ntau.
-
-## Yam Koj Yuav Ua Tau
-
-### Nce Kev Khaws Dej Hauv Av
-
-Kev siv nyiaj zoo tshaj uas koj ua tau kom muaj cov nroj tsuag thiab txuag dej yog txhim kho koj cov av. Ntxiv cov khoom siv organic xws li compost lossis nplooj txho yuav ntxiv cov khoom noj rau av, nce kev khaws dej, thiab nce qhov chaw cua hauv av. Qhov no pab cov cag nroj tsuag nkag hauv av yooj yim dua thiab tob dua. Ntxiv rau, dej yuav nqus hauv av hloov mus rau saum npoo av.
-
-[Gardening in Clay Soil](https://cmastergardeners.files.wordpress.com/2022/02/gardening-in-clay-soil.pdf)  
-[Conserving Water in Your Yard and Garden](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9125.pdf)
-
-### Npog Av Liab Qhuav
-
-Npog av liab qhuav nrog ib txheej 3-5 nti ntawm cov mulch organic uas muaj cov khoom loj. Qhov no yuav txo kev yaj dej txog 70%. Cov mulch uas muaj cov khoom loj xws li shredded bark thiab wood chips. Mulch yuav pab txo kub av thaum lub caij kub, tiv thaiv av txhav, txhawb kev nqus dej, thiab tswj cov nroj tsuag phem.
-
-[Mulching Woody Ornamentals with Organic Materials](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec1629.pdf)  
-[Gardening with Mulches](https://cmastergardeners.files.wordpress.com/2022/02/gardening-with-mulch.pdf)
-
-### Txhim Kho Rain Garden
-
-Txhim kho ib lub vaj dej los khaws dej nag thiab khaws dej rau hauv qhov chaw. Ib lub vaj dej yog ib lub txaj uas khaws thiab kho dej nag tawm ntawm lub ru tsev, txoj kev tsav tsheb, txoj kev taug kev thiab txoj kev. Lub vaj dej yuav tsum nyob ze qhov chaw dej tuaj, xws li qhov dej tawm ntawm lub ru tsev, thiab yuav tsum muaj qhov loj tsawg kawg 10% ntawm qhov chaw dej mus rau hauv. Dej hauv lub vaj dej yuav tsum nqus hauv av hauv 24-48 teev.
-
-Tsis txhob muab lub vaj dej rau qhov chaw uas av ntub tas lub caij, vim qhov ntawd qhia tias av tsis zoo rau dej ntws. Lub vaj dej yuav tsum nyob 3 taw deb ntawm txoj kev, 2 taw deb ntawm phab ntsa lossis tsev thiab nyob rau qhov chaw qis tsawg dua 10%.
-
-[Adding a Rain Garden](https://cmastergardeners.files.wordpress.com/2023/04/adding-a-rain-garden.pdf)
-
-### Txhim Kho Bioswale
-
-Txhim kho ib lub bioswale, ib txoj kab kev tsim vaj dej uas tuaj yeem ua kom dej ntws nres thiab tso dej nqus hauv av. Lub bioswale tsim ua kab yog tsim rau dej ntws ntawm txoj kev, tab sis nws tuaj yeem tsim kom meander thoob plaws thaj chaw, tsim kev zoo nkauj thiab tso dej nqus hauv av hloov mus rau hauv lub tsev dej.
-
-Muab koj lub bioswale 5 taw deb ntawm cov khoom siv hluav taws xob (cov cai hauv Oregon yog hu rau Utility Notification Center ntawm 811 ua ntej pib excavation) thiab 10 taw deb ntawm cov tsev. Tsis txhob txhim kho lub bioswale rau qhov chaw uas av qis ntau dua 30%.
-
-Qee lub nroog thiab lub zos muaj cov cai tshwj xeeb txog kev tshem dej tawm ntawm cov dej ntws thiab kev coj dej. Xyuas cov cai nrog cov kev tswj hwm hauv zos.
-
-[Adding a Bioswale](https://cmastergardeners.files.wordpress.com/2023/04/adding-a-bioswale.pdf)
-
-### Txo Kev Siv Dej Irrigation
-
-Txo dej poob los ntawm kev dej num thaum huab cua txias. Muab dej rau cov cag nroj tsuag ntawm qhov kev nqus dej hauv av. Koj tsis xav kom dej ntws tawm saum npoo av. Dej kom tob thiab tsis tu ncua yuav pab cov cag dav thiab tob dua, ua rau cov nroj tsuag muaj kev tiv thaiv kev qhuav zoo dua.
-
-Tsim chaw uas muaj cov nroj tsuag uas xav tau dej zoo sib xws. Piv txwv, cov nroj tsuag txhua xyoo xav tau dej ntau dua vim cov cag tsawg dua piv rau cov nroj tsuag ntau xyoo thiab shrubs uas xav tau dej tsawg dua vim cov cag tob dua. Tsim ib txoj kab dej nrog lub timer lossis siv cov kav dej uas tso dej maj mam rau qhov chaw xav tau, txo kev yaj dej thiab tso av nqus dej raws li cov nroj tsuag xav tau.
-
-[Drip Irrigation: An Introduction](https://extension.oregonstate.edu/catalog/pub/em8782-s)  
-[Watering Tips](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
+Peb yuav ua vaj li cas rau lub sijhawm no? Daim ntawv no muaj tswv yim pab koj ua kom koj lub vaj muaj zog tiv thaiv huab cua hloov pauv.
 
 ---
 
-Oregon State University Extension Service txwv tsis pub muaj kev ntxub ntxaug hauv nws cov kev pab, kev pab cuam, kev ua ub no, thiab cov ntaub ntawv ntawm tus neeg xeem, xim, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, kev txheeb xyuas poj niam txiv neej (nrog rau kev qhia tus kheej), kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, kev sib raug zoo/kev ua niam txiv, nyiaj tau los ntawm kev pab nyiaj rau pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, tus tub rog txoj kev los yog kev rau txim rau kev ua haujlwm ntawm cov cai pej xeem yav dhau los. (Tsis yog txhua qhov kev txwv rau txhua qhov kev pab cuam.)
+## Yam Peb Paub
+
+- Vim huab cua kub zuj zus, muaj huab cua loj tshwm sim ntau dua.
+- Huab cua ua vaj nyob Pacific Northwest tab tom hloov mus rau qhov kub dua thiab qhuav dua. Kev kub thiab nqhuab loj tshaj yav dhau los tshwm sim ntau dua.
+- Kev nqhuab, cua kub, hluav taws, thiab nag loj yuav tshwm sim loj dua thiab ntau dua yav tom ntej.
+- Dej daus tsawg hauv roob ua rau dej hauv ntws tsawg, uas yuav txwv kev siv dej rau kev cog qoob loo. Peb yuav tsum npaj rau yav tom ntej no.
+
+---
+
+## Kev Ua Kom Tiv Thaiv Huab Cua Hloov Pauv
+
+- Ua kom av zoo kom nws khaws tau dej ntau dua thiab txo kev siv dej.
+- Txo kom dej nag ntws tawm thiab khaws dej nyob hauv koj lub vaj.
+- Siv kev tư dej uas txo kev pov tseg dej ntau.
+
+---
+
+## Yuav Ua Li Cas
+
+### Ua Kom Av Zoo
+
+- **Ua kom av khaws tau dej ntau:**  
+  Qhov zoo tshaj rau kev cog qoob loo noj qab haus huv thiab txuag dej yog ua kom av zoo. Ntxiv cov organic xws li compost lossis nplooj ntoos zom pov tseg pab ntxiv zaub mov, ua kom av khaws tau dej thiab khaws tau cua zoo. Qhov no pab kom cag nroj tsuag nkag av yooj yim dua thiab loj dua. Tsis tas li, dej yuav nkag mus rau hauv av es tsis yog khiav tawm saum npoo av.
+
+  - [Ua Vaj Nyob Av Nrig](https://cmastergardeners.files.wordpress.com/2022/02/gardening-in-clay-soil.pdf)
+  - [Txuag Dej Nyob Hauv Koj Lub Vaj](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9125.pdf)
+
+- **Npog av dawb nrog 3-5 ntiv tes tuab mulch organic:**  
+  Qhov no yuav txo kom dej yaj mus rau huab cua txog li 70 feem pua. Mulch uas muaj fiber loj xws li ntoo zom thiab ntoo tawg. Mulch tseem pab txo kub hauv av thaum kub, tiv thaiv av txhav, pab dej nkag av, thiab tswj kab tsuag.
+
+  - [Npog Ntoo Ua Mulch Organic](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec1629.pdf)
+  - [Ua Vaj Nrog Mulch](https://cmastergardeners.files.wordpress.com/2022/02/gardening-with-mulch.pdf)
+
+---
+
+### Nruab Lub Vaj Nqus Dej (Rain Garden)
+
+Lub vaj nqus dej yog ib thaj av txo qis uas khaws thiab ntxuav dej nag khiav los ntawm ru tsev, kev tsheb, kev taug kev, thiab txoj kev loj. Lub vaj nqus dej yuav tsum nyob ze qhov dej tuaj xws li qhov dej ntws los ntawm ru tsev, thiab yuav tsum muaj tsawg kawg 10 feem pua ntawm thaj tsam uas dej khiav los rau hauv. Dej hauv lub vaj nqus dej yuav tsum txaus nkag rau hauv av hauv 24 txog 48 teev.
+
+Tsis txhob ua lub vaj nqus dej rau qhov chaw uas dej nyob qes tag caij vim qhov ntawd qhia tias av tsis ntws dej. Lub vaj nqus dej yuav tsum nyob peb taw deb ntawm kev taug kev, ob taw deb ntawm phab ntsa, thiab nyob rau pem toj qis dua 10 feem pua.
+
+- [Ntxiv Lub Vaj Nqus Dej](https://cmastergardeners.files.wordpress.com/2023/04/adding-a-rain-garden.pdf)
+
+---
+
+### Nruab Bioswale
+
+Bioswale yog ib txoj kab vaj nqus dej uas pab qeeb dej ntws thiab cia dej nkag rau hauv av. Qhov tsim kab bioswale no zoo rau kev tsheb los dej, tab sis nkaus yuav ua kom nkag mus thoob qhov av kom zoo nkauj thiab pab dej nkag rau hauv av es tsis yog khiav mus rau hauv qhov dej nag loj.
+
+Ua koj lub bioswale tsib taw deb ntawm cov hluav taws xob (ua raws txoj cai hauv Oregon, koj yuav tsum hu rau Utility Notification Center ntawm 811 ua ntej khawb av) thiab kaum taw deb ntawm tsev. Tsis txhob nruab bioswale rau qhov chaw uas toj qis tshaj 30 feem pua.
+
+Qee lub nroog thiab cheeb tsam muaj cai tshwj xeeb txog kev txiav cov raj dej nag. Xyuas kom paub txog cov cai hauv koj lub zos.
+
+- [Ntxiv Bioswale](https://cmastergardeners.files.wordpress.com/2023/04/adding-a-bioswale.pdf)
+
+---
+
+### Txo Kev Tso Dej Tawm
+
+- **Tư dej thaum huab cua txias:**  
+  Muab dej rau cag nroj tsuag kom phim av lub peev xwm khaws tau dej. Koj tsis xav kom dej khiav tawm saum npoo av. Tư dej kom tob tab sis tsis tas txhua zaus yuav pab kom cag tob thiab nroj tsuag txawj tiv nqhuab.
+
+- **Ua cov cheeb tsam nroj tsuag sib xws:**  
+  Muab nroj tsuag uas xav tau dej sib npaug rau ua ke. Piv txwv, nroj tsuag txhua xyoo xav tau dej ntau dua vim cag shallow, thaum perennial thiab shrub xav tau dej tsawg dua vim cag tob.
+
+- **Tsim kev tư dej zoo:**  
+  Siv drip irrigation nrog timer lossis hose uas tso dej qeeb, tso dej rau qhov chaw nroj tsuag xav tau, txo kev yaj dej thiab pab kom av haus tau dej txaus.
+
+  - [Drip Irrigation: Taw Qhia](https://extension.oregonstate.edu/catalog/pub/em8782-s)
+  - [Qhia Tư Dej](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
+
+---
+
+#### Oregon State University Extension Service tsis pub ua txhaum cai hauv txhua qhov kev pab, kev pabcuam, kev ua haujlwm, thiab khoom siv ntawm qhov kev txawv ntawm haiv neeg, xim, lub teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev nyiam sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, muaj tsev neeg, nyiaj los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, qub tub rog, kev hem, lossis rau qhov ua tau ib yam kev cai lij choj yav dhau los. (Tsis yog txhua yam kev txwv no siv rau txhua qhov kev pab.)
+---

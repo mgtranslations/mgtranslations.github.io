@@ -1,74 +1,103 @@
-# 10-Minute University™
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association kaakibat at sumusuporta sa OSU Extension Master Gardener™ Program
 
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
+---
 
 ## Mga Insekto na Peste
 
 ### Pangkalahatang-ideya
 
-Ang mga insekto ay maaaring magdulot ng problema sa pamamagitan ng pagkain o pagnguya sa ating mga halaman. Bagamat maaaring ikainis ito ng ilang hardinero, ang iba ay maaaring piliing tiisin ito. Gayunpaman, kung ang dami ng populasyon ng peste ay umabot sa antas na makakasira sa kakayahan ng halaman na mabuhay o magprodyus ng pagkain, maaaring kailanganin ang interbensyon ng tao.
+Maaaring magdulot ng problema ang mga insekto sa pagkain o pagnguya ng ating mga halaman. Bagamat nakakainis ito para sa ilang hardinero, may ibang pinipiling tiisin na lang ito. Ngunit kung ang dami ng peste ay masyadong mataas na nakakasira na sa kakayahan ng halaman na mabuhay o magbunga, maaaring kailanganin ang pakikialam ng tao.
 
-Ang handout na ito ay nagbibigay ng impormasyon upang makatulong na tukuyin ang mga posibleng sanhi ng infestasyon ng insekto sa hardin sa bahay at naglilista ng mga gawi na tumutulong sa pag-iwas sa infestasyon. Magnilay sa inyong personal na pananaw sa pamumuhay kasama ang kalikasan, kabilang ang mga insekto na peste, upang matukoy kung kailan kayo kikilos.
+Nagbibigay ang polyetong ito ng impormasyon para matulungan kang tukuyin ang mga posibleng dahilan ng pagdami ng mga insekto sa iyong hardin at inililista ang mga paraan upang mapigilan ito. Pag-isipan ang iyong pananaw tungkol sa pamumuhay kasama ang kalikasan, kabilang na ang mga insekto, para matukoy kung kailan ka dapat kumilos.
 
-### Mga Palatandaan na Iniwan ng Mga Insekto na Peste
+---
 
-Madalas mahirap tukuyin ang sanhi ng pinsala sa halaman sapagkat maraming insekto ang maliliit, mahusay magtago, aktibo lamang sa gabi, o nagkukubli sa ilalim ng dahon. Ito ay isang hamon sa pagkuha ng tamang diagnosis, na kinakailangan para sa angkop at epektibong interbensyon.
+### Mga Palatandaan na Iniiwan ng Mga Insektong Peste
 
-Sa kabutihang-palad, ang mga kaugalian sa pagkain ng mga insekto ay maaaring magbigay ng mahahalagang palatandaan. Ang mga insekto ay maaaring makilala sa kanilang paraan ng pagkain: pagnguya/pagkuskos o pagdudulot ng tusok-pagsipsip.
+Madalas mahirap tukuyin kung sino ang sanhi ng pinsala sa halaman dahil maraming insekto ang maliit, kayang magtago, aktibo lang sa gabi, o nagtatago sa ilalim ng dahon. Nagdudulot ito ng hamon sa tamang pag-diagnose, na mahalaga para sa epektibo at angkop na solusyon.
 
-Ang mga insekto na ngumunguya/kumukuskos ay may mga bahagi ng bibig na kayang ngumunguya ng butas sa mga dahon, usbong, ugat, buto, prutas, o mga kahoy na bahagi ng halaman. Ang mga halimbawa ng insekto na ngumunguya ng dahon ay earwigs, caterpillars, sawfly larvae, webworms, leafrollers, skeletonizers, cutworms, flea beetles, blister beetles, at cucumber beetles. Ang mga kumakain ng bulaklak, prutas, at buto ay kinabibilangan ng fruit flies, midges, yellow jackets, hornets, coddling moth, corn earworms, at seed weevils. Ang mga peste sa istruktura ay kinabibilangan ng carpenter ants, termites, at powderpost beetles.
+Sa kabutihang palad, ang paraan ng pagkain ng mga insekto ay nagbibigay ng mga palatandaan. Maaaring makilala ang mga insekto ayon sa paraan nila ng pagkain: **nguya/pagkudkod** o **tusok-sipsip**.
 
-Ang mga insekto na may tusok-pagsipsip ay hindi lamang direktang nakakasira sa mga halaman sa pamamagitan ng pagkain, ngunit minsan ay nag-iinikta ng mga nakakalason na substansya na nagdudulot ng sintomas mula sa simpleng stippling ng dahon hanggang sa malawakang pinsala sa buong halaman. Ang spotting at stippling ay nangyayari kapag sinisira ang chlorophyll ng mga tusok-pagsipsip na bahagi ng bibig. Ang mga halimbawa ng mga insekto na may tusok-pagsipsip ay whiteflies, aphids, adelgids, mealybugs, scales, leafhoppers, spittlebugs, lace bugs, thrips, at mites.
+#### Mga Insektong Nguya/Pangkudkod
+
+Ang mga insektong nguya o pangkudkod ay may bibig na kayang ngumata ng butas sa mga dahon, usbong, ugat, buto, bunga, o kahoy ng halaman. Halimbawa:
+
+- **Taganguya ng dahon**: Earwigs, uod, sawfly larvae, webworms, leafrollers, skeletonizers, cutworms, flea beetles, blister beetles, cucumber beetles.
+- **Tagakain ng bulaklak, bunga, at buto**: Fruit flies, midges, yellow jackets, hornets, codling moth, corn earworms, seed weevils.
+- **Peste sa istruktura**: Carpenter ants, anay, powderpost beetles.
+
+#### Mga Insektong Tusok-Sipsip
+
+Ang mga insektong tusok-sipsip ay hindi lang direktang nakakasira sa halaman sa pagkain, kundi minsan ay nag-iinject din ng lason na nagdudulot ng iba't ibang sintomas mula simpleng tuldok-tuldok sa dahon hanggang sa malawakang problema sa halaman. Ang mga tuldok at pagkupas ng dahon ay nangyayari kapag nasisira ang chlorophyll dahil sa bibig ng tusok-sipsip. Halimbawa:
+
+- Whiteflies
+- Aphids
+- Adelgids
+- Mealybugs
+- Scales
+- Leafhoppers
+- Spittlebugs
+- Lace bugs
+- Thrips
+- Mites
+
+---
 
 ### Karaniwang Nakikitang Pinsala
 
-- **Mga punla na kinain sa antas ng lupa:** Cutworms.  
-- **Mga tangkay na may mga larvae sa loob, mga dahon na nalalanta o mga kahoy na halaman na may mga bakas sa ilalim ng balat ng kahoy:** Borers.  
-- **Mga ugat o bombilya na may mga palatandaan ng pagkain o patay na bahagi:** Wireworms, maraming uri ng beetle grubs, weevils.  
-- **Mga prutas o halaman na may mga mantsa, malagkit, madulas o may bula:** Aphids, leafhoppers, spittlebugs, whiteflies, scales, at mealybugs.  
-- **Mga dahon na may malalaking butas:** Adult o larval stage ng beetles, moth larvae.  
-- **Mga dahon na skeletonized:** Beetle larvae, pear slugs, thrips, at ilang uri ng caterpillar.  
-- **Mga dahon na nakulubot, naka-pucker o deformed:** Aphids, leafhoppers, plant bugs.  
-- **Pangkalahatang pagbagsak ng halaman kasama ang nginuyang mga ugat:** Root-feeding larval stages ng weevils, beetles o moths.  
-- **Mga prutas at berries na may dimples o deformed:** Plant-feeding stink bugs tulad ng brown marmorated stink bug.  
-- **Mga puno at kahoy na may excavated cavities at frass (dumi ng insekto):** Carpenter ants, termites.  
-- **Processed wood na may maliliit na butas at sariwang sawdust:** Powderpost beetles.  
+- **Mga punla na naputol sa mismong lupa**: Cutworms.
+- **Mga tangkay na butas at may uod sa loob, nalalanta ang dahon, o kahoy na may lagusan sa ilalim ng balat**: Borers.
+- **Ugat o bombilya na may bakas ng pagkain o patay na bahagi**: Wireworms, iba't ibang uri ng beetle grubs, weevils.
+- **Bunga o halaman na may tuldok, malagkit, malansa, o may bula**: Aphids, leafhoppers, spittlebugs, whiteflies, scales, mealybugs.
+- **Dahon na may malalaking butas**: Adult o uod ng beetles, uod ng gamu-gamo.
+- **Dahon na parang kalansay**: Beetle larvae, pear slugs, thrips, at ilang uri ng uod.
+- **Dahon na kulot, baluktot, o may kakaibang anyo**: Aphids, leafhoppers, plant bugs.
+- **Pangkalahatang paghina ng halaman na may kinakain na ugat**: Root-feeding larvae ng weevils, beetles, o gamu-gamo.
+- **Bunga na may dimples at baluktot**: Plant-feeding stink bugs, tulad ng brown marmorated stink bug.
+- **Mga puno at kahoy na may hukay at dumi ng insekto**: Carpenter ants, anay.
+- **Naprosesong kahoy na may maliliit na butas at bagong sawdust**: Powderpost beetles.
+
+---
 
 ## Integrated Pest Management
 
-Ang Integrated Pest Management ay isang sistematiko at holistic na paraan na pinipigilan ang mga peste na may pinakamaliit na epekto sa kalusugan ng tao, kapaligiran, at mga hindi target na organismo.
+Ang Integrated Pest Management ay isang sistematiko at kabuuang paraan ng pagpuksa ng peste na may pinakamaliit na epekto sa kalusugan ng tao, kalikasan, at iba pang organismo.
 
 ### 1. Pag-iwas
 
-- **Itanim ang "Tamang" halaman sa "Tamang" lugar.** Alamin ang pangangailangan ng halaman at itugma ito sa kapaligiran upang palakasin ang malusog na paglaki.  
-- **Panatilihin ang kalinisan.** Alisin ang mga bahagi ng halaman na may sakit; panatilihing malinis ang lupa mula sa mga natirang dahon.  
-- **Panatilihing malusog ang mga halaman.** Bigyan ng tamang pag-aalaga upang mabawasan ang posibilidad ng pinsala mula sa mga insekto at sakit.  
-- **Hikayatin ang mga kapaki-pakinabang na insekto.** Magtanim ng mga insectary plants tulad ng carrots, cilantro, dill, sweet clover, fennel, at Queen Anne’s Lace upang makaakit ng natural na predators ng mga insekto na peste.  
-- **Suriin ang istruktura.** Maging maingat sa mga tagas ng tubig. Panatilihing maayos ang sealing ng mga pintuan at bintana.  
+- **Itanim ang “Tamang” Halaman sa “Tamang” Lugar**: Alamin ang pangangailangan ng halaman at itugma ito sa tamang kapaligiran para maging malusog ang paglaki.
+- **Panatilihin ang kalinisan**: Alisin ang may sakit na bahagi ng halaman; huwag hayaang magkalat ang mga tuyong dahon sa lupa.
+- **Panatilihing malusog ang mga halaman**: Tamang pag-aalaga para hindi maging madaling tamaan ng insekto at sakit.
+- **Hikayatin ang mga kapaki-pakinabang na insekto**: Magtanim ng mga halamang nakakaakit sa mga natural na kalaban ng peste tulad ng karot, cilantro, dill, sweet clover, fennel, at Queen Anne’s Lace.
+- **Suriin ang mga istruktura**: Bantayan ang tumutulong tubig. Siguraduhing maayos ang pagkakasara ng pinto at bintana.
 
 ### 2. Pagsubaybay
 
-- **Maging detektibo.** Regular na suriin ang inyong mga halaman para sa mga palatandaan na iniwan ng mga insekto na peste.
+- Maging mapanuri: Regular na suriin ang iyong mga halaman para sa mga palatandaan ng peste.
 
 ### 3. Pagkilala sa Peste
 
-- **Mahalaga ang tamang pagkilala.** Minsan ang isang insekto ay maaaring naroroon lamang sa lugar kung saan nangyari ang pinsala ngunit hindi ito ang sanhi.  
-- **Magmasid.** Ang mga insekto ba ay kumakain ng mga dahon, usbong, o ibang insekto? Lumilipad ba o gumagapang? Ano ang kanilang pisikal na anyo? Kumuha ng litrato upang makatulong sa pagkilala.  
+- Mahalaga ang tamang pagkilala. Minsan, ang insekto ay naroon lang sa lugar ng pinsala pero hindi siya ang sanhi.
+- **Obserbahan**: Kumakain ba ng dahon, usbong, o ibang insekto? Lumilipad ba o gumagapang? Ano ang hitsura nila? Kumuha ng larawan para makatulong sa pagkilala.
 
-### 4. Pagbuo ng Estratehiya sa Pangangasiwa ng Peste
+### 4. Pagbuo ng Estratehiya sa Pamamahala ng Peste
 
-- Kapag natukoy na ang sanhi, maaaring magrekomenda ang Master Gardeners ng mga cultural, mechanical, biological, at chemical na paraan upang mabawasan ang populasyon ng peste.
+- Kapag natukoy na ang peste, maaaring magrekomenda ang mga Master Gardener ng mga kultural, mekanikal, biyolohikal, at kemikal na paraan para mabawasan ang peste.
 
-## OSU at Iba Pang Mapagkukunan
+---
 
-- **Audubon’s Field Guide to Insects and Spiders** ni Alfred Knops, 1998  
-- **Garden Insects** ni Crenshaw, 2004  
-- **Oregon State University Extension Publications** [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994  
+## Mga Mapagkukunan ng OSU at Iba Pa
 
-### Master Gardener™ Advice
+- **Audubon’s Field Guide to Insects and Spiders** ni Alfred Knops, 1998
+- **Garden Insects** ni Crenshaw, 2004
+- **Oregon State University Extension Publications**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994
 
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Para sa iba pang 10-Minute University™ handouts at class schedule, bisitahin ang [www.cmastergardeners.org](www.cmastergardeners.org).  
+---
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang ekspresyon ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan sa pag-aasawa, familial/parental status, kita mula sa pampublikong programa ng tulong, paniniwala sa politika, impormasyon sa genetika, katayuan bilang beterano, pag-aakusa o paghihiganti sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ polyeto at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, katayuan sa pag-aasawa, katayuang pampamilya/magulang, kita mula sa tulong ng gobyerno, paniniwala sa politika, genetic information, pagiging beterano, paghihiganti, o pagganti dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

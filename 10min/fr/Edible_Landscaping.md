@@ -1,92 +1,109 @@
-# Université de 10 minutes™  
-L'association des jardiniers experts du comté de Clackamas  
-en collaboration avec et en soutien au  
-programme des jardiniers experts de l'OSU Extension™  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du Programme Maître Jardinier™ de l’Extension de l’OSU
 
-## Paysages comestibles  
+# Aménagement Paysager Comestible
 
-### Aperçu  
-Quand les gens pensent à cultiver des aliments en milieu urbain, la première idée est souvent de cacher le potager quelque part dans le jardin arrière.  
+### Aperçu
 
-Le paysage comestible offre une alternative aux aménagements résidentiels classiques : les plantes comestibles peuvent être tout aussi attrayantes tout en produisant des fruits et légumes. On peut installer un paysage entièrement comestible ou intégrer des plantes comestibles dans les jardins existants.  
+Quand on pense à cultiver de la nourriture en ville, la première idée est souvent de cacher le potager quelque part dans le jardin arrière.
 
-### Définition  
-Le paysage comestible est l'utilisation de plantes produisant des aliments dans l'aménagement résidentiel. Il combine arbres fruitiers et à noix, buissons de baies, légumes, herbes, fleurs comestibles, ainsi que plantes ornementales dans des designs esthétiquement plaisants. Ces designs peuvent adopter n'importe quel style de jardin et inclure de 1 à 100 % de spécimens comestibles.  
+L’aménagement paysager comestible offre une alternative aux jardins résidentiels classiques ; les plantes comestibles peuvent être aussi jolies tout en produisant des fruits et légumes. On peut créer un jardin entièrement comestible ou ajouter quelques plantes comestibles aux jardins existants.
 
-### Pourquoi aménager avec des plantes comestibles ?  
-- Profitez de la fraîcheur et de la saveur des fruits et légumes mûrs cultivés chez vous.  
-- Contrôlez la quantité et le type de pesticides et herbicides utilisés sur les aliments que vous consommez.  
-- Augmentez la sécurité alimentaire de votre foyer.  
-- Réduisez vos dépenses alimentaires.  
-- Cultivez des variétés inhabituelles qui ne sont pas disponibles en magasin.  
-- Sortez, interagissez avec la nature et amusez-vous.  
+### Définition
 
-### Points à considérer  
+L’aménagement paysager comestible consiste à utiliser des plantes alimentaires dans le jardin de la maison. Il combine arbres fruitiers et à noix, arbustes à petits fruits, légumes, herbes, fleurs comestibles et plantes ornementales dans des designs esthétiques. Ces designs peuvent adopter n’importe quel style de jardin et inclure de 1 à 100 % de plantes comestibles.
 
-#### Emplacement  
-La plupart des fruits et légumes nécessitent 6 à 8 heures de soleil pour bien produire. Certaines plantes natives, comme le salmonberry et le thimbleberry, peuvent tolérer un peu d'ombre, tout comme les plantes à feuilles comestibles comme la laitue et le chou frisé.  
+### Pourquoi aménager avec des plantes comestibles ?
 
-#### Espace  
-Pensez à la taille adulte de la plante. Les arbres nains ou semi-nains et les arbustes de petite taille conviennent bien aux petits espaces. Les treillis, clôtures et pergolas permettent d'utiliser l'espace vertical pour cultiver des arbres, arbustes et vignes comestibles.  
+- Profitez de la fraîcheur et du goût des fruits et légumes mûris à la maison.
+- Contrôlez la quantité et le type de pesticides et d’herbicides utilisés sur les aliments que vous consommez.
+- Augmentez la sécurité alimentaire de votre foyer.
+- Économisez sur les courses alimentaires.
+- Cultivez des variétés inhabituelles qu’on ne trouve pas en magasin.
+- Sortez dehors, connectez-vous avec la nature et amusez-vous.
 
-#### Temps et soins  
-Les plantes comestibles nécessitent des soins à des phases spécifiques de leur croissance pour rester productives. Elles auront besoin d'un sol enrichi, d'arrosages et fertilisations soigneuses au bon moment, ainsi que d'une gestion vigilante des maladies et insectes. Cela est particulièrement vrai lorsque les plantes sont jeunes ou nouvellement plantées.  
+### Points à considérer
 
-#### Utilisation  
-Sachez quand récolter et soyez prêt à utiliser l'abondance de votre jardin.  
+#### Emplacement
 
-#### Esthétique  
-Les plantes ornementales offrent une large gamme de couleurs de fleurs, de formes de feuillage, de textures et de couleurs de feuilles. Avec un peu de recherche, il est possible de trouver des plantes comestibles avec les caractéristiques que vous appréciez. Par exemple :  
-1. Vous aimez les fleurs roses d'un cornouiller ? Un pommier a de belles fleurs roses.  
-2. Vous appréciez la forme et la couleur rouge foncé des feuilles d'un érable japonais ? Le sureau noir a des feuilles dentelées noirâtres.  
-3. Vous aimez la couleur rouge vif en automne d'un fusain ? Les buissons de myrtilles offrent le même effet.  
-4. Vous rêvez des grandes feuilles des hostas mais n'avez pas assez d'ombre ? Les plants de rhubarbe ajoutent du caractère dans un endroit ensoleillé avec de grandes feuilles.  
+La plupart des fruits et légumes ont besoin de 6 à 8 heures de soleil pour bien produire. Certaines plantes indigènes, comme la ronce saumon et la ronce odorante, tolèrent un peu d’ombre, tout comme les plantes à feuilles comestibles, comme la laitue et le chou frisé.
 
-### Liste courte de plantes comestibles  
-(* indique les plantes natives)
+#### Espace
 
-#### Petits arbres (3 à 6 m)  
-- **Pommier** : Choisissez parmi les formes semi-naines, en espalier ou en colonne ; tous ont de jolies fleurs roses au printemps. Les variétés telles que Chehalis, Jonafree, Liberty, Prima et Redfree sont résistantes à la tavelure.  
-- **Sureau noir*** : Feuilles dentelées noirâtres très attrayantes ; fruits utilisés pour les gelées, sirops et vin. Bonne plante résistante au feu.  
-- **Cerisier** : Fruits rouges ou dorés en été. Formes compactes disponibles pour les petits espaces. Tendance aux maladies. Les oiseaux aiment aussi les cerises !  
-- **Figuier** : Grandes feuilles tropicales. Sans maladie.  
-- **Poiriers asiatiques et européens** : Fleurs blanches au début du printemps. Les poires asiatiques ont généralement moins de problèmes de maladies.  
-- **Plaqueminier** : Fruits orange colorés à l'automne ; sans problème de maladies.  
-- **Prunier** : Fruits mûrs verts, dorés, rouges ou violets. Les variétés européennes Brooks et Italian sont faciles à cultiver. La pourriture brune est le problème le plus courant.  
-- **Amélanchier*** : Grappes de fleurs blanches au début du printemps ; couleur d'automne brillante, du jaune à l'orange. Adaptable à une large gamme de types de sol et d'humidité.  
+Pensez à la taille adulte de la plante. Les arbres nains ou semi-nains et les arbustes de petite taille conviennent bien aux petits espaces. Les treillis, clôtures et tonnelles permettent d’utiliser l’espace vertical pour faire pousser des arbres, arbustes et lianes comestibles.
 
-#### Arbustes (vivaces ligneuses ou annuelles, 1 à 3 m)  
-- **Myrtille** : Belle couleur d'automne et fruits abondants en été. Facile à cultiver, avec très peu de problèmes de maladies.  
-- **Groseille et cassis** : Abondance de baies acidulées utilisées dans les confitures et gelées. Poussent facilement dans les sols moyens à lourds et dans une large gamme de pH.  
-- **Busserole arbustive*** : Arbuste persistant avec feuillage bronze. Apprécie l'ombre partielle à complète.  
-- **Rhubarbe** : Grandes feuilles intéressantes et tiges rouges. Les feuilles de rhubarbe sont toxiques ; ne consommez que les tiges.  
-- **Salmonberry*** : Baies mûres allant du orange vif au rouge profond. Se naturalise facilement mais nécessite un contrôle pour éviter qu'il ne prenne le dessus.  
-- **Arbousier** : Grand arbuste persistant avec des feuilles vertes brillantes et des fruits rouges. Fleurs de la fin de l'automne à l'hiver ; idéal dans un endroit abrité.  
+#### Temps et soins
 
-#### Vignes et autres plantes grimpantes  
-- **Raisin** : Feuillage attrayant offrant de l'ombre en été sur une pergola ou un patio. Nécessite une taille rigoureuse chaque année pour une bonne productivité.  
-- **Kiwi (fuzzy et hardy)** : Feuillage exotique, fleurs blanches en mai, et fruits aux couleurs variées (vert, rouge, marron) à l'automne. La plupart nécessitent une structure robuste pour soutenir leur croissance vigoureuse.  
-- **Framboisier** : Baies ajoutant une belle couleur en été et automne. Les cannes poussent rapidement et remplissent une zone ensoleillée au printemps et en été. Plantez-le dans un sol bien drainé pour éviter la pourriture des racines.  
-- **Marionberry** : Une mûre qui ne devient pas envahissante, développée à l'OSU. Une technique spéciale est utilisée pour entraîner les cannes sur des fils.  
+Les plantes comestibles demandent des soins à certaines étapes de leur croissance pour rester productives. Elles auront besoin d’un sol amélioré, d’arrosages et de fertilisations adaptés, ainsi qu’une gestion attentive des maladies et insectes. C’est particulièrement important pour les plantes jeunes ou nouvellement plantées.
 
-#### Plantes couvre-sol  
-- **Fraise** : Fleurs blanches au printemps et fruits rouges en été ; les plants de fraises ont une durée de vie courte et doivent être replantés tous les 3 à 4 ans.  
-- **Airelle rouge** : Belle plante couvre-sol persistante et délicate. Produira plus de fruits en plein soleil mais poussera aussi à l'ombre partielle.  
-- **Laitue** : Feuilles aux couleurs variées, du rouge au vert, et formes diversifiées. La laitue peut monter en graines rapidement par temps chaud ; semez des graines toutes les deux semaines pour un approvisionnement continu.  
-- **Chou frisé** : Feuilles dentelées en rouge, violet, vert et bleu. Pousse mieux de l'automne à l'hiver ; membre de la famille du chou, il peut être attaqué par des altises et des papillons du chou.  
+#### Utilisation
 
-### Ressources supplémentaires  
-#### Ressources pour les plantes comestibles dans le nord-ouest  
-- **Sunset Western Garden Book**  
-- **Publications de l'Extension de l'Oregon State University**  
-  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **Université de 10 minutes**  
-  [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+Sachez quand récolter et soyez prêt à utiliser l’abondance de votre jardin.
 
-#### Conseils des jardiniers experts™  
-- Appelez la ligne d'assistance en horticulture résidentielle :  
-  - **503-655-8631** (Clackamas)  
-  - **503-821-1150** (Washington)  
-  - **503-445-4608** (Multnomah)  
+#### Esthétique
 
-L'Extension de l'Oregon State University interdit toute discrimination dans ses programmes, services, activités et supports.
+Les plantes ornementales offrent une grande variété de couleurs de fleurs, de formes de feuillage, de textures et de couleurs de feuilles. Avec un peu de recherche, il est possible de trouver des plantes comestibles avec les caractéristiques que vous aimez. Par exemple :
+
+1. Vous aimez les fleurs roses du cornouiller ? Un pommier a de jolies fleurs roses.
+2. Vous appréciez la forme et la couleur rouge foncé des feuilles de l’érable japonais ? Le sureau noir a des feuilles délicates et foncées.
+3. Vous aimez la couleur rouge vif du fusain en automne ? Les bleuetiers font pareil.
+4. Vous rêvez des grandes feuilles d’hosta mais vous n’avez pas assez d’ombre ? La rhubarbe donne un effet spectaculaire au soleil avec ses grandes feuilles.
+
+### Liste courte de plantes comestibles (* indique indigène)
+
+#### Petits arbres (3 à 6 mètres)
+
+- **Pommier** : Choisissez parmi les formes semi-naines, palissées ou colonnaires ; toutes ont de jolies fleurs roses au printemps. Les variétés comme Chehalis, Jonafree, Liberty, Prima et Redfree sont résistantes à la tavelure.
+- **Sureau noir*** : Feuilles délicates, presque noires, très décoratives ; fruits utilisés pour gelées, sirops et vin. Bon choix résistant au feu.
+- **Cerisier** : Fruits rouges ou dorés en été. Formes compactes adaptées aux petits espaces. Tendance aux maladies. Attention, les oiseaux aiment les cerises aussi !
+- **Figuier** : Grandes feuilles au look tropical. Sans maladies.
+- **Poirier** : Asiatiques ou européens — Fleurs blanches au début du printemps. Les poires asiatiques sont peu sujettes aux maladies.
+- **Kaki** : Fruits orange vif à l’automne ; pas de problèmes de maladies.
+- **Prunier** : Fruits mûrs verts, dorés, rouges ou violets. Les variétés Brooks et Italienne (européennes) sont faciles à cultiver. La moniliose est le problème le plus courant.
+- **Amélanchier*** : Grappes de fleurs blanches au début du printemps ; couleurs d’automne jaunes à orangées. S’adapte à de nombreux types de sols et d’humidité.
+
+#### Arbustes (ligneux, vivaces, annuels ; 1 à 3 mètres)
+
+- **Bleuetier** : Belles couleurs d’automne et fruits abondants en été. Facile à cultiver et peu sujet aux maladies.
+- **Groseillier et cassissier** : Beaucoup de petits fruits acidulés, utilisés en confitures et gelées. Poussent facilement dans des sols moyens à lourds et avec différents pH.
+- **Airelle à feuilles persistantes*** : Joli arbuste persistant avec feuillage bronze. Aime l’ombre partielle à totale.
+- **Rhubarbe** : Grandes feuilles intéressantes et tiges rouges. Les feuilles sont toxiques ; ne manger que les tiges.
+- **Ronce saumon*** : Baies mûres orange vif à rouge foncé. Se naturalise facilement, mais il faut contrôler sa propagation.
+- **Arbousier** : Grand arbuste persistant avec feuilles vert foncé brillantes et fruits rouges. Fleurs de la fin de l’automne à l’hiver ; à placer à l’abri.
+- **Tomate** : Fruits attrayants comestibles, jaunes, oranges, rouges, verts, violets ou noirs, de toutes formes. Cultivée en annuelle pour l’été, la tomate a besoin de soleil et de chaleur. Éviter l’arrosage par le dessus pour limiter les maladies.
+
+#### Lianes et grimpantes
+
+- **Vigne** (raisin de table ou à vin, sans pépins) : Feuillage décoratif, bon pour ombrer une tonnelle ou une terrasse. Taille sévère nécessaire chaque année pour une bonne production.
+- **Kiwi** (kiwi duveteux ou rustique) : Feuillage exotique, fleurs blanches en mai, fruits verts, rouges ou bruns à l’automne. La plupart nécessitent une structure solide pour supporter leur croissance vigoureuse. De nouvelles variétés plus petites et autofertiles existent.
+- **Framboisier** : Baies colorées en été et automne. Les cannes remplissent rapidement un espace ensoleillé. Planter dans un sol bien drainé pour éviter la pourriture des racines.
+- **Marionberry** : Un mûrier qui ne devient pas envahissant, développé à l’OSU. Les cannes sont attachées à des fils selon une technique spéciale.
+- **Concombre** : Grimpant, le concombre offre fleurs et fruits décoratifs en arrière-plan. Il a besoin de beaucoup d’eau par temps chaud.
+- **Haricot grimpant** : Nécessite plein soleil et bonne circulation d’air pour éviter l’oïdium. Idéal pour créer tipis ou tunnels dans un coin pour enfants.
+
+#### Couvrantes de sol
+
+- **Fraisier** : Fleurs blanches au printemps et fruits rouges en été ; les fraisiers vivent peu et doivent être replantés tous les 3 à 4 ans.
+- **Airelle rouge** : Belle plante couvre-sol persistante et délicate. Donne plus de fruits au soleil mais pousse aussi à mi-ombre.
+- **Laitue** : Feuilles de couleur rouge, verte ou bleutée, avec différentes formes. La laitue monte vite en graines par temps chaud ; semez toutes les 2 semaines pour une récolte continue.
+- **Chou frisé** : Feuilles découpées rouges, violettes, vertes ou bleues. Pousse mieux de l’automne à l’hiver ; fait partie de la famille des choux et peut être attaqué par les altises et la piéride du chou.
+- **Bette à carde** : Variétés très colorées, véritables reines des comestibles décoratifs. Attention, les limaces aiment aussi la bette à carde.
+
+### Ressources supplémentaires
+
+#### Ressources pour plantes comestibles dans le Nord-Ouest
+
+- *Sunset Western Garden Book*
+- Publications de l’Extension de l’Université d’État de l’Oregon : [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- *10-Minute University* : [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+#### Conseils de Maîtres Jardiniers™
+
+- **Appelez la ligne d’aide horticole :**
+  - 503-655-8631 (Clackamas)
+  - 503-821-1150 (Washington)
+  - 503-445-4608 (Multnomah)
+
+---
+
+##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, en raison de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les convictions politiques, les informations génétiques, le statut de vétéran, les représailles ou la vengeance pour une activité antérieure de droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+---

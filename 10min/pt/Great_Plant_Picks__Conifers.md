@@ -1,110 +1,58 @@
-# 10-Minute University™  
-A Associação de Mestres Jardineiros do Condado de Clackamas, em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU  
+#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão OSU
 
-## Grandes Plantas: Coníferas  
-S: Jardim de Sombra, D: Planta Tolerante à Seca, Vida Selvagem – Pássaros, Abelhas, Borboletas, Beija-Flores  
+# Universidade de 10 Minutos
 
-### Nome | S/D/W | 10 anos | Maturidade | Sol/Sombra | Características Notáveis  
-#### Cedro Amarelo Chorão do Alasca  
-*Callitropsis nootkatensis ‘Green Arrow’*  
-**15' x 3'** | **35' x 5'** | **Sol pleno, sombra leve a aberta**  
-Um estreito sempre-verde nativo do Noroeste do Pacífico. Forma um ponto de exclamação no jardim. Excelente para pequenos jardins ou espaços apertados.  
+## Grandes Escolhas de Plantas: Coníferas
 
-#### Cedro Amarelo Chorão do Alasca  
-*Callitropsis nootkatensis ‘Pendula’*  
-**18' x 8'** | **35' x 12'** | **Sol pleno, sombra leve a aberta**  
-Um dos mais belos coníferos chorões, criando um acento gracioso na paisagem. Tolerante à seca após o estabelecimento.  
+*S: Jardim de Sombra, D: Planta Tolerante à Seca, Vida Selvagem - Pássaro, Abelha, Borboleta, Beija-flor*
 
-#### Cedro Amarelo Estreito do Alasca  
-*Callitropsis nootkatensis ‘Van den Akker’*  
-**15' x 3'** | **35' x 5'** | **Sol pleno, sombra leve a aberta**  
-Este esbelto pilar é extremamente útil para pequenos jardins ou espaços apertados. Adiciona altura sem crescer muito largo.  
-
-#### Cedro Incenso  
-*Calocedrus decurrens*  
-**18' x 5'** | **40' x 12'** | **Sol pleno**  
-Conífero resistente e fácil de cultivar, nativo do sudoeste e centro de Oregon. Sua forma ereta e majestosa melhora com o tempo. Folhagem com fragrância de cedro em clima quente.  
-
-#### Cedro Azul Deodar Divino  
-*Cedrus deodara ‘Divinely Blue’*  
-**4' x 6'** | **5' x 8'** | **Sol pleno**  
-Conífero semi-anão sempre-verde com folhagem azul-esverdeada a azul-pó, em seu melhor em pleno sol, mas tolera sombra leve.  
-
-#### Cipreste Hinoki  
-*Chamaecyparis obtusa ‘Gracilis’*  
-**15' x 6'** | **25' x 10'** | **Sol pleno, sombra leve a sombreada**  
-Um elegante e belo arbusto grande e colunar até pequena árvore sempre-verde, o esbelto cipreste Hinoki é uma ótima escolha para pequenos jardins.  
-
-#### Cipreste Hinoki Anão  
-*Chamaecyparis obtusa ‘Kosteri’*  
-**4' x 5'** | **8' x 6'** | **Sol pleno, sombra leve a sombreada**  
-Crescimento lento e habitualmente piramidal, com folhagem verde-escura e brilhante que se torce, criando uma textura rica.  
-
-#### Cipreste Hinoki Anão  
-*Chamaecyparis obtusa ‘Nana’*  
-**1' x 2'** | **2' x 3'** | **Sol pleno, sombra leve a sombreada**  
-Uma cultivar de crescimento muito lento. Seus ramos verde-escuros se torcem firmemente e se achatam em pequenos leques sobrepostos, formando o que parecem pequenas xícaras verdes.  
-
-#### Cipreste Hinoki Anão  
-*Chamaecyparis obtusa ‘Nana Gracilis’*  
-**3' x 2'** | **6' x 4'** | **Sol pleno, sombra leve a sombreada**  
-Conífero de crescimento lento que se transforma em uma bela pirâmide estreita verde-escura ao longo de muitos anos. A folhagem brilhante cresce em leques sobrepostos, criando camadas em forma de pequenos vasos.  
-
-#### Cipreste Hinoki Anão  
-*Chamaecyparis obtusa ‘Spiralis’*  
-**5' x 3'** | **8' x 6'** | **Sol pleno, sombra leve a aberta**  
-Excelente escolha como espécime único pequeno ou como planta em recipiente.  
-
-#### Cipreste Dourado de Folha Fina Anão  
-*Chamaecyparis obtusa ‘Golden Mop’*  
-**4' x 4'** | **8' x 7'** | **Sol pleno, sombra leve a aberta**  
-Este resistente conífero sempre-verde forma um delicado monte dourado rendado no jardim. O novo crescimento surge amarelo-dourado brilhante e mantém a cor durante a estação de crescimento.  
-
-#### Cedro Japonês  
-*Cryptomeria japonica ‘Black Dragon’*  
-**6' x 4'** | **10' x 8'** | **Sol pleno, sombra leve a aberta**  
-Este conífero de folhagem muito escura é fácil de cultivar e combina bem com plantas de folhas maiores ou variegadas.  
-
-#### Cedro Japonês Plumoso Rosa  
-*Cryptomeria japonica Elegans Group*  
-**15' x 5'** | **30' x 10'** | **Sol pleno, sombra leve a aberta**  
-A folhagem é mais parecida com agulhas e mais macia, daí o nome comum de cedro plumoso. A folhagem é verde no verão e, com a chegada do frio, torna-se mogno-púrpura no final do outono e inverno.  
-
-#### Cedro Japonês Dourado  
-*Cryptomeria japonica ‘Sekkan-sugi’*  
-**10' x 6'** | **30' x 18'** | **Sol pleno, sombra leve a aberta**  
-A folhagem é pontilhada de amarelo-creme e é mais intensa quando o crescimento é novo na primavera e no início do verão. É uma árvore visualmente dominante na paisagem devido à intensidade da cor da folhagem.  
-
-#### Anéis da Vovó  
-*Cryptomeria japonica ‘Spiralis’*  
-**4' x 6'** | **15' x 8'** | **Sol pleno, sombra leve**  
-De cor verde-maçã brilhante, semelhante à pele de uma maçã Granny Smith, esta cultivar do cedro japonês nativo é de crescimento lento e semi-anã.  
-
-#### Cedro Japonês Anão  
-*Cryptomeria japonica ‘Tansu’*  
-**3' x 3'** | **4' x 4'** | **Sol pleno, sombra leve a sombreada**  
-Este cedro japonês compacto e anão tem um padrão de crescimento curto e tufado interessante, formando uma forma piramidal irregular.  
-
-#### Cedro Japonês Anão Vilmoriniana  
-*Cryptomeria japonica ‘Vilmoriniana’*  
-**2' x 2'** | **3' x 3'** | **Sol pleno, sombra leve**  
-Uma forma anã cativante de cedro japonês. Seus ramos curtos e densos criam uma forma arredondada de 60 cm de altura por 60 cm de largura em dez anos.  
-
-#### Cedro Japonês Yoshino  
-*Cryptomeria japonica ‘Yoshino’*  
-**20' x 10'** | **35' x 20'** | **Sol pleno, sombra leve**  
-A folhagem conífera verde-brilhante a azul-verde é atraente durante todo o ano.  
-
-... *(continua com todas as outras espécies mencionadas no texto original traduzidas para o português seguindo a mesma estrutura)*  
-
----
-
-### Sobre o Great Plant Picks (GPP)  
-Great Plant Picks (GPP) é o principal programa educacional do Jardim Botânico Elisabeth C. Miller. Em 2001, a primeira lista foi lançada com recomendações para construir uma paleta abrangente de plantas excepcionais para o Noroeste do Pacífico marítimo. Até hoje, mais de 1.000 plantas excepcionais foram selecionadas para jardineiros que vivem a oeste das Montanhas Cascade, de Eugene, Oregon, EUA, até Vancouver, British Columbia, Canadá.  
-
-As plantas GPP selecionadas para esta lista atendem aos seguintes critérios: podem viver em uma variedade de solos, precisam de água suplementar moderada ou menos, toleram calor, são resistentes ao frio na zona 7 do USDA, não são propensas a problemas de doenças/pragas e oferecem mais de uma estação de interesse no jardim. Muitas plantas GPP também oferecem benefícios ecológicos (polinizadores, alimento para pássaros, habitat para vida selvagem, etc.).  
-
----
-
-### Política de Não Discriminação da OSU Extension Service  
-O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, estado familiar/parental, renda proveniente de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+| Nome | S/D/W | Tamanho em 10 anos | Tamanho Maduro | Sol/Sombra | Características Marcantes |
+|---|---|---|---|---|---|
+| Cedro Amarelo do Alasca Chorão Callitropsis nootkatensis 'Green Arrow' |  | 4,5m x 0,9m | 10,5m x 1,5m | Sol pleno, sombra leve a aberta | Um sempre-verde estreito nativo do Noroeste do Pacífico. Forma um ponto de exclamação no jardim. Ótimo para jardins pequenos ou espaços apertados. |
+| Cedro Amarelo do Alasca Chorão Callitropsis nootkatensis 'Pendula' |  | 5,5m x 2,4m | 10,5m x 3,6m | Sol pleno, sombra leve a aberta | Uma das coníferas choronas mais bonitas, trazendo um toque gracioso à paisagem. Tolerante à seca após o estabelecimento. |
+| Cedro Amarelo do Alasca Estreito Callitropsis nootkatensis 'Van den Akker' |  | 4,5m x 0,9m | 10,5m x 1,5m | Sol pleno, sombra leve a aberta | Esta coluna é extremamente útil para jardins pequenos ou espaços apertados. Acrescenta altura sem crescer muito em largura. |
+| Cedro Incenso Calocedrus decurrens |  | 5,5m x 1,5m | 12m x 3,6m | Sol pleno | Conífera resistente e fácil de cultivar, nativa do sudoeste e centro do Oregon. Sua forma ereta e elegante melhora com o tempo. A folhagem tem fragrância de cedro em clima quente. |
+| Cedro-do-Himalaia Azul Cedrus deodara 'Divinely Blue' |  | 1,2m x 1,8m | 1,5m x 2,4m | Sol pleno | Conífera sempre-verde semi-anã com folhagem azul-esverdeada a azul-pó, fica melhor ao sol pleno, mas tolera sombra leve. |
+| Cipreste Hinoki Chamaecyparis obtusa 'Gracilis' | S | 4,5m x 1,8m | 7,5m x 3m | Sol pleno, sombra leve a filtrada | Arbusto grande ou pequena árvore sempre-verde elegante e bonita, o hinoki esguio é ótima escolha para jardins pequenos. |
+| Cipreste Hinoki Anão Chamaecyparis obtusa 'Kosteri' | S | 1,2m x 1,5m | 2,4m x 1,8m | Sol pleno, sombra leve a filtrada | Crescimento lento e piramidal frouxo, com folhagem verde-escura brilhante que se torce, criando textura rica. |
+| Cipreste Hinoki Anão Chamaecyparis obtusa 'Nana' | S | 0,3m x 0,6m | 0,6m x 0,9m | Sol pleno, sombra leve a filtrada | Cultivar de crescimento bem lento. Seus ramos verde-escuros torcem-se firmemente e formam pequenos leques sobrepostos, parecendo pequenas xícaras verdes. |
+| Cipreste Hinoki Anão Chamaecyparis obtusa 'Nana Gracilis' | S | 0,9m x 0,6m | 1,8m x 1,2m | Sol pleno, sombra leve a filtrada | Conífera de crescimento lento que se torna uma bela pirâmide verde-escura ao longo de muitos anos. A folhagem brilhante cresce em leques sobrepostos, formando camadas como xícaras em vaso. |
+| Cipreste Hinoki Anão Chamaecyparis obtusa 'Spiralis' |  | 1,5m x 0,9m | 2,4m x 1,8m | Sol pleno, sombra leve a aberta | Excelente escolha como exemplar isolado pequeno ou planta de vaso. |
+| Cipreste Hinoki Dourado Chamaecyparis obtusa 'Golden Mop' | S, D | 1,2m x 1,2m | 2,4m x 2,1m | Sol pleno, sombra leve a aberta | Esta conífera sempre-verde resistente forma um monte delicado e dourado no jardim. Os novos brotos surgem amarelo-ouro brilhante e mantêm a cor durante toda a estação de crescimento. |
+| Cedro Japonês Cryptomeria japonica 'Black Dragon' |  | 1,8m x 1,2m | 3m x 2,4m | Sol pleno, sombra leve, aberta ou filtrada | Esta conífera de folhagem muito escura é fácil de cultivar e combina bem com plantas de folhas grandes ou variegadas. |
+| Cedro Japonês Plumoso Rosa Cryptomeria japonica Elegans Group |  | 4,5m x 1,5m | 9m x 3m | Sol pleno, sombra leve, aberta ou filtrada | Folhagem mais macia e parecida com agulhas, por isso o nome comum "cedro pluma". Verde no verão e, com o frio, torna-se bordô-ameixa no final do outono e inverno. |
+| Cedro Japonês Dourado Cryptomeria japonica 'Sekkan-sugi' |  | 3m x 1,8m | 9m x 5,4m | Sol pleno, sombra leve, aberta ou filtrada | As pontas da folhagem são creme-amareladas, especialmente intensas na primavera e início do verão. É uma árvore visualmente dominante na paisagem devido à cor intensa da folhagem. |
+| Anéis da Vovó Cryptomeria japonica 'Spiralis' |  | 1,2m x 1,8m | 4,5m x 2,4m | Sol pleno, sombra leve | Verde-maçã brilhante, como a casca de uma maçã Granny Smith, este cultivar é de crescimento lento e semi-anão. |
+| Cedro Japonês Anão Cryptomeria japonica 'Tansu' |  | 0,9m x 0,9m | 1,2m x 1,2m | Sol pleno, sombra leve a filtrada | Este cedro japonês anão e compacto tem crescimento curto e tufado, formando uma forma piramidal irregular. |
+| Cedro Japonês Vilmoriniana Cryptomeria japonica 'Vilmoriniana' |  | 0,6m x 0,6m | 0,9m x 0,9m | Sol pleno, sombra leve | Uma forma anã encantadora do cedro japonês, com ramos curtos e densos formando uma pequena forma arredondada de até 0,6m de altura por 0,6m de largura em dez anos. |
+| Cedro Japonês Yoshino Cryptomeria japonica 'Yoshino' |  | 6m x 3m | 10,5m x 6m | Sol pleno, sombra leve | A folhagem verde-brilhante a azul-esverdeada fica bonita o ano inteiro. |
+| Zimbro Hollywood Juniperis chinensis 'Kaizuka' |  | 3,6m x 2,4m | 4,5m x 3,6m | Sol pleno | Crescimento em espiral atraente com ramos densos e irregulares. Produz bagas e cones azul-esverdeados. |
+| Metasequoia Metasequoia glyptostroboides |  | 9m x 0,3m | 21m x 7,5m | Sol pleno | Precisa de espaço amplo e é espetacular como exemplar único ou em grupos. Seus ramos delicados são verdes na primavera e as agulhas ficam avermelhadas no outono. |
+| Cipreste Siberiano Microbiota decussata |  | 0,45m x 1,5m | 0,6m x 2,4m | Sol pleno, sombra filtrada | Folhagem delicada e rendada em camadas graciosas. As pontas dos ramos caem suavemente, trazendo elegância. Verde-brilhante na estação de crescimento e roxo-marrom no frio. |
+| Abeto Sérvio Picea omorika | W | 4,5m x 1,5m | 9m x 3m | Sol pleno | Um dos melhores sempre-verdes para áreas urbanas, forma coluna estreita com ramos laterais arqueados. Resistente a pragas e doenças. |
+| Abeto Sérvio Chorão Picea omorika 'Pendula Bruns' |  | 2,4m x 0,6m | 9m x 1,8m | Sol pleno | Exemplar focal maravilhoso. Agulhas azul-esverdeadas por cima e prateadas por baixo. |
+| Abeto Caucasiano Picea orientalis | W | 4,5m x 2,1m | 12m x 4,5m | Sol pleno | Agulhas curtas e brilhantes, verde-escuras, que mantêm a cor vibrante mesmo no inverno. |
+| Abeto Caucasiano Dourado Picea orientalis 'Aureospicata' | W | 4,5m x 2,1m | 12m x 4,5m | Sol pleno | Sempre-verde elegante com agulhas curtas e verde-escuras em ramos rígidos, explode em brotos amarelo-limão brilhante na primavera. O contraste entre o novo e o velho crescimento é espetacular! |
+| Abeto Caucasiano Dourado Picea orientalis 'Skylands' | W | 4,5m x 2,1m | 12m x 4,5m | Sol pleno, sombra leve | Árvore piramidal ereta com nova folhagem dourada na primavera. |
+| Pinheiro Litorâneo Pinus contorta var. contorta | W | 4,5m x 3,6m | 10,5m x 7,5m | Sol pleno | Cresce em quase qualquer local com bastante sol. Tolera locais úmidos, desde que não fiquem encharcados o ano todo. |
+| Pinheiro da Bósnia Pinus heldreichii | D, W | 4,5m x 2,1m | 7,5m x 3,6m | Sol pleno | Pinheiro de crescimento lento, resistente e versátil, tolerante a solos pobres e sol forte. |
+| Pinheiro Negro Japonês Compacto Pinus thunbergii 'Thunderhead' | W | 2,4m x 2,4m | 3,6m x 4,5m | Sol pleno | Forma irregular maravilhosa, agulhas verde-escuro, tolera seca e tem porte mais compacto. |
+| Podocarpo Azul das Montanhas Podocarpus lawrencei 'Blue Gem' | W | 1,2m x 2,4m | 1,8m x 3,6m | Sol pleno, sombra leve a aberta | Nova brotação azul-esverdeada brilhante na primavera, que escurece no verão. Um dos podocarpos mais resistentes e de melhor folhagem azul para o Noroeste do Pacífico. |
+| Podocarpus lawrencei 'Purple King' |  | 2,1m x 2,1m | 3,6m x 4,5m | Sol pleno, sombra leve a aberta | A nova folhagem na primavera é rosada acinzentada, amadurecendo para ramos densos verde-oliva escuro. Cores inusitadas que destacam plantas de folhagem variegada ou dourada. Pode ser podado como cerca-viva. |
+| Podocarpo das Montanhas Pontas Vermelhas Podocarpus lawrencei 'Red Tip' | W | 0,9m x 1,2m | 1,2m x 1,8m | Sol pleno, sombra leve a aberta | Folhagem fantástica o ano todo, com brotos vermelhos na primavera contrastando com o verde-escuro dos ramos antigos. No inverno, a tonalidade vermelha destaca-se no jardim. |
+| Tortara Alpina Podocarpus nivalis |  | 0,9m x 1,8m | 1,2m x 2,4m | Sol pleno, sombra leve a filtrada | Arbusto sempre-verde adaptável, prospera em vários tipos de solo. Tolera calor e é fácil de podar. |
+| Abeto de Douglas Chorão Pseudotsuga menziesii 'Graceful Grace' | W | 4,5m x 1,2m | 9m x 3,6m | Sol pleno | Seu crescimento chorão e selvagem, típico do Noroeste do Pacífico, merece lugar especial no jardim para mostrar sua forma incomum. |
+| Cipreste Calvo Taxodium distichum |  | 6m x 0,3m | 18m x 10,5m | Sol pleno | Tolera áreas úmidas e perde as folhas no outono, revelando a bela casca. |
+| Cipreste de Lagoa Taxodium var. imbricatum 'Nutans' |  | 4,5m x 1,5m | 9m x 3m | Sol pleno | Folhagem verde-clara e plumosa que se destaca no jardim e também fica ótima em vaso. |
+| Teixo Irlandês Taxus baccata 'Fastigiata' |  | 2,1m x 0,45m | 4,5m x 0,9m | Sol pleno, sombra leve ou aberta | Útil ao sol ou sombra. Muito usado como cerca-viva, aceita bem podas. |
+| Teixo Inglês Rasteiro Taxus baccata 'Repandens' |  | 0,6m x 1,5m | 0,9m x 2,4m | Sol pleno, sombra leve ou aberta | Crescimento rasteiro com ramos arqueados nas pontas. Ótimo como forração de médio porte. |
+| Teixo Dourado Colunar Taxus baccata 'Standishii' |  | 1,5m x 0,45m | 3,6m x 0,6m | Sol pleno | Sempre-verde excelente, de crescimento lento, perfeito como destaque vertical de baixa manutenção. |
+| Thuja Colunar Compacta Thuja occidentalis 'Degroot's Spire' |  | 2,4m x 0,45m | 4,5m x 0,9m | Sol pleno | Muito usada pela forma estreita e colunar, folhagem densa e às vezes torcida. Usada para cercas vivas, telas ou como exemplar único. |
+| Cedro Esmeralda Thuja occidentalis 'Smaragd' |  | 3,6m x 0,9m | 5,4m x 1,2m | Sol pleno | Mantém a cor verde-esmeralda brilhante o ano todo e tem padrão bonito nos ramos. Crescimento naturalmente compacto. |
+| Cedro Vermelho Ocidental Thuja plicata | S | 7,5m x 2,4m | 30m x 9m | Sol pleno, sombra leve a profunda | Um dos mais importantes das florestas do Noroeste do Pacífico, é uma conífera muito bonita para espaços ou jardins grandes. |
+| Cedro Vermelho Ocidental Variegado Thuja plicata 'Zebrina' |  | 6m x 3,6m | 18m x 9m | Sol pleno, sombra leve ou aberta | Cedro vermelho com folhagem verde e creme-dourado. Depois de estabelecido, regar a cada 10 a 14 dias na seca. |
+| Cedro Hiba Thujopsis dolabrata | S | 4,5m x 1,8m | 9m x 6m | Sol pleno, sombra leve ou aberta | Parecido com o cedro vermelho ocidental, mas com folhagem mais grossa, verde-escura brilhante em cima e marcantes marcas brancas embaixo. |
+| Cedro Hiba Anão Thujopsis dolabrata 'Nana' |  | 0,9m x 1,2m | 1,8m x 2,4m | Sol pleno, sombra leve ou aberta | Conífera anã compacta e de crescimento lento, com folhagem ousada, parecida com chifres. |
+| Tsuga Canadense Prostrada Tsuga canadensis 'Cole's Prostrate' |  | 0,6m x 1,2m | 0,75m x 1,8m | Sombra leve a aberta | Conífera anã prostrada, ótima para jardins pequenos, rochosos ou alpinos, ou para efeito sempre-verde. |
+| Tsuga Canadense Anã Tsuga canadensis "Jervis' | S | 0,9m x 0,6m | 1,5m x 0,9m | Sol pleno a sombra aberta | Excelente pequena tsuga canadense para jardins de pedras ou vasos. Crescimento lento, compacto, cônico e ereto. |
+| Tsuga Chorona de Sargent Tsuga canadensis 'Pendula' | S | 0,9m x 1,8m | 1,8m x 3,6m | Sol pleno a sombra filtrada | O segredo desta conífera

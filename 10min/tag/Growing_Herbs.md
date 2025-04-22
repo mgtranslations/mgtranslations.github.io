@@ -1,214 +1,132 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Pagtatanim ng Mga Halaman  
-### Overview  
-Ang halamang gamot ay isang halaman na, hindi tulad ng puno, ay hindi  
-nagkakaroon ng woody stem. Nabubuhay ito nang sapat upang  
-magkaroon ng bulaklak at, madalas, buto. Ang mga halamang gamot ay maaaring  
-maging taunang, biennial, o perennial. Depende sa kung sino ang  
-nagbibilang, mayroong 40 hanggang 70 iba't ibang uri ng halamang gamot.  
+# Pagpapalago ng Mga Halaman ng Pampalasa
 
-### Katangian  
-Ang mga halamang gamot ay ikinategorya sa dalawa o higit pang paraan:  
+## Pangkalahatang-ideya
 
-#### Aromatic  
-Karamihan sa mga halamang gamot ay may kaaya-ayang amoy sa mga bulaklak o  
-dahon, at itinatanim para sa kanilang langis upang makagawa ng  
-mga pabango, tubig pang-toilet, at iba't ibang halimuyak. Mga halimbawa:  
-lavender, mint, marjoram, lovage, rosemary, at basil.  
+Ang halamang pampalasa ay isang halaman na, hindi tulad ng puno, ay hindi nagkakaroon ng matigas na tangkay. Nabubuhay ito nang sapat para magbunga ng bulaklak at madalas ay mga buto. Maaaring taunin, biennial, o perennial ang mga halamang pampalasa. Depende sa pagbibilang, may 40 hanggang 70 iba't ibang uri ng halamang pampalasa.
 
-#### Culinary  
-Ang mga halamang gamot na ito ay pinahahalagahan para sa pagdaragdag ng lasa sa pagluluto.  
-Kabilang sa mga halamang gamot na ito, ang parsley ang pinakamaraming  
-ginagawa at kadalasang ginagamit bilang garnish.  
-Sumunod sa kasikatan ang sage. Mas maraming halimbawa ang  
-basil, chives, dill, thyme, savory, marjoram, mint  
-at rosemary.  
+## Mga Katangian
 
-#### Medicinal  
-Ginamit sa medisina mula pa noong sinaunang panahon, ang ilang halamang gamot  
-ay pinaniniwalaang may kapangyarihang magpagaling ng iba't ibang  
-karamdaman o magtaboy ng masasamang espiritu. Ang iba, tulad ng  
-garlic, ay maaaring may mga katangiang preventive.  
-Habang ang kasalukuyang kaalaman sa medisina ay kinikilala  
-ang ilang halamang gamot bilang may mga katangiang nagpapagaling, ang iba ay  
-lubos na napapalaki ang halaga at dapat gamitin nang maingat, kung gagamitin man,  
-dahil maaari silang makipag-ugnayan sa mga gamot, maging  
-reseta o over-the-counter items.  
-Bago gumamit ng mga halamang gamot para sa medisinal na layunin, kumonsulta  
-sa iyong propesyonal sa pangangalagang pangkalusugan.  
+Nahahanay ang mga halamang pampalasa sa dalawa o higit pang paraan:
 
-#### Ornamental  
-Itinatanim para sa sariwa o tuyong mga dekorasyon, ang mga halamang gamot na ito  
-ay maaaring magkaroon ng maliwanag na kulay ng mga bulaklak at dahon  
-habang ang iba ay may variegated na dahon. Ilang halimbawa ay  
-thyme, rosemary, mint, lavender, at chives.  
+- **Aromatiko**  
+  Karamihan sa mga halamang pampalasa ay may mabangong bulaklak o dahon at pinalalaki para sa kanilang mga langis na ginagamit sa pabango, cologne, at iba't ibang bango. Halimbawa: lavender, mint, marjoram, lovage, rosemary, at basil.
 
-### Pagiging Matibay  
-- **Taunang Halamang Gamot**  
-Lumalaki at namumulaklak sa isang season lamang at pagkatapos ay namamatay. Mga halimbawa: anise, basil, chervil, coriander,  
-dill, at summer savory.  
+- **Pangluto**  
+  Pinahahalagahan ang mga halamang ito para magdagdag ng lasa sa pagkain. Sa mga halamang ito, ang parsley ang pinakamaraming napo-produce at kadalasang ginagamit bilang palamuti ng pagkain. Sunod na popular ang sage. Iba pang halimbawa ay basil, chives, dill, thyme, savory, marjoram, mint, at rosemary.
 
-- **Biennial Halamang Gamot**  
-Nabubuhay nang dalawang season at mamumulaklak sa ikalawang season. Mga halimbawa: caraway at parsley.  
+- **Panggamot**  
+  Ginagamit sa medisina mula pa noong unang panahon, pinaniniwalaan ng ilan na may kakayahan ang ilang halamang pampalasa na magpagaling ng maraming sakit o magtaboy ng masasamang espiritu. Ang iba, tulad ng bawang, ay maaaring may kakayahang pumigil ng sakit.  
+  Bagaman kinikilala ng makabagong medisina na may ilang halamang may bisa sa paggagamot, ang iba ay sobra ang pag-aangkin ng bisa at dapat gamitin nang maingat, kung gagamitin man, dahil maaari itong makipag-ugnayan sa mga gamot, reseta man o hindi.  
+  Bago gumamit ng halamang pampalasa bilang gamot, kumonsulta muna sa iyong doktor.
 
-- **Perennial Halamang Gamot**  
-Nabubuhay nang maraming taon at namumulaklak bawat season. Ang ilan ay deciduous (namamatay sa taglamig) habang ang iba ay evergreen.  
-Mga halimbawa ng deciduous perennial herbs: chives,  
-fennel, at winter savory, habang evergreen perennial herbs: marjoram, rosemary, at thyme.  
+- **Pangdekorasyon**  
+  Pinalalaki para sa mga sariwa o tuyong palamuti, ang ilang halamang pampalasa ay may matingkad na kulay ng bulaklak at dahon habang ang iba naman ay may iba't ibang kulay ng dahon. Halimbawa: thyme, rosemary, mint, lavender, at chives.
 
----
+## Haba ng Buhay
 
-## Pagtatanim ng Halamang Gamot sa Labas  
-### Paano Magsimula  
-Halos lahat ng halamang gamot ay maaaring itanim mula sa buto. Ang  
-gabayan sa pagtatanim ng buto ay itanim ang mga ito sa lalim na  
-katumbas ng 2 hanggang 4 na beses ng kanilang lapad. Sa madaling salita, ang  
-mas pinong buto, mas mababaw dapat itong itanim.  
+- **Taunang Halamang Pampalasa**  
+  Tumutubo at namumulaklak sa isang panahon at pagkatapos ay namamatay. Halimbawa: anise, basil, chervil, coriander, dill, at summer savory.
 
-Itanim nang direkta sa hardin ang anise, coriander, dill, at fennel dahil hindi sila  
-madaling mailipat.  
+- **Biennial na Halamang Pampalasa**  
+  Nabubuhay ng dalawang panahon at namumulaklak sa ikalawang taon. Halimbawa: caraway at parsley.
 
-Ang mga cuttings at divisions ay kapaki-pakinabang, at mas madali kaysa sa  
-pagtatanim ng buto, kapag nagpaparami ng tarragon, chive,  
-at mint. Sa katunayan, ang tunay na French tarragon ay maaari lamang  
-simulan mula sa cutting o division ng umiiral na halaman.  
+- **Perennial na Halamang Pampalasa**  
+  Nabubuhay ng ilang taon at namumulaklak bawat taon. Ang ilan ay nalalagas (namamatay ang bahagi sa taglamig) at ang iba naman ay nananatiling luntian. Halimbawa ng nalalagas na perennial: chives, fennel, at winter savory; samantalang ang evergreen perennial ay marjoram, rosemary, at thyme.
 
-### Lupa  
-Karamihan sa mga halamang gamot ay tumutubo nang pinakamahusay sa lupa na may mahusay na  
-drainage, medyo mataba, na may neutral na pH na 6.5 hanggang pH 7.0. Ang drainage ay  
-marahil ang pinaka-importanteng salik sa matagumpay na pagtatanim ng halamang gamot.  
-Ang mga halamang gamot ay humihinto sa paglaki, at maaaring mamatay, sa basang lupa.  
+# Pagpapalago ng Halamang Pampalasa sa Labas
 
-### Pataba  
-Hindi kailangang masyadong mataba ang lupa, kaya gumamit ng kaunti o walang pataba.  
-Sa mga halamang gamot, ang labis na matabang lupa ay may tendensiyang magresulta sa  
-labis na dami ng dahon na may kaunting lasa.  
+## Paano Magsimula
 
-Kabilang sa mga eksepsiyon ay chervil, fennel, lovage, at summer savory, na nangangailangan ng katamtamang  
-dami ng pataba. Ang compost ay perpekto.  
+Halos lahat ng halamang pampalasa ay maaaring palaguin mula sa buto. Ang gabay sa pagtatanim ng buto ay itanim ito sa lalim na 2 hanggang 4 na beses ng lapad ng buto. Ibig sabihin, kung mas pino ang buto, mas mababaw dapat ang pagtanim.
 
-### Lokasyon  
-Sa pangkalahatan, kailangan ng mga halamang gamot ng buong araw ng sikat ng araw ngunit maaaring tumubo sa  
-halos 6 na oras ng sikat ng araw bawat araw. Ang ilang halamang gamot, tulad ng mint,  
-ay kailangang kontrolin o maaari nilang sakupin ang hardin.  
+- Itanim diretso sa hardin ang anise, coriander, dill, at fennel dahil hindi sila madaling mailipat.
+- Madaling magparami ng tarragon, chive, at mint gamit ang cuttings at paghahati kaysa magbuto. Ang tunay na French tarragon ay maaari lamang simulan mula sa cutting o division ng umiiral na halaman.
 
-Itanim ang anumang potensyal na runaway herbs sa mga lalagyan, o itanim  
-sa isang lalagyan na iyong ilulubog sa lupa hanggang sa ilalim ng rim.  
-Gumamit ng paso na sapat ang laki upang kontrolin ang mga ugat sa loob ng ilang taon.  
+## Lupa
 
----
+Pinakamabuting lumaki ang karamihan ng halamang pampalasa sa lupa na may mahusay na drainage, medyo mataba, at neutral na pH na 6.5 hanggang 7.0. Ang drainage ang pinakamahalagang salik para magtagumpay sa pagtatanim ng halamang pampalasa. Hindi lalaki, at maaaring mamatay, ang mga halaman sa sobrang basang lupa.
 
-## Pagtatanim ng Halamang Gamot sa Loob  
-Sa kabuuan, nangangailangan ang mga halamang gamot ng maraming sikat ng araw.  
-Ito ang dahilan kung bakit ang pagtatanim ng halamang gamot sa loob ng bahay sa panahon ng taglamig  
-ay nangangailangan ng karagdagang ilaw. Mahalagang maunawaan  
-na ang intensity ng ilaw sa taglamig ay madalas na mas mababa sa isa-sa-sampung bahagi ng ilaw sa labas sa tag-init.  
+## Pataba
 
-Dagdag pa, ang salamin ng bintana ay higit pang binabawasan ang dami ng ilaw  
-na magagamit para sa mga panloob na halaman ng anumang uri.  
+Hindi kailangang masyadong mataba ang lupa, kaya gumamit ng kaunti o walang pataba. Ang sobrang matabang lupa ay nagdudulot ng labis na dahon ngunit kulang sa lasa.
 
-Maliban kung sagana ang ilaw, ang paglago ng karamihan sa mga panloob  
-na halamang gamot ay babagal o hihinto sa panahon ng taglamig kahit na  
-nasa mainit na lugar.  
+- Ang mga pagbubukod ay chervil, fennel, lovage, at summer savory na nangangailangan ng katamtamang pataba. Ang compost ay ideal.
 
-Ang mga perennial herbs ay makikinabang kung ilalagay mo sila  
-sa labas sa panahon ng tag-init sa protektadong lokasyon o  
-ilulubog ang paso sa lupa hanggang sa rim.  
+## Lugar
 
-### Pagsisipsip ng Tubig sa Panloob na Halamang Gamot  
-Tubigan nang maayos lamang kapag ang ibabaw ng lupa ay tuyo  
-sa paghipo. Huwag hayaan ang mga halamang gamot na nasa paso na nakaupo sa  
-isang platito ng tubig; ang kanilang mga ugat ay mamamatay.  
+Sa pangkalahatan, nangangailangan ng buong sikat ng araw ang mga halamang pampalasa ngunit mabubuhay na sila sa 6 na oras ng araw.
 
-### Pagpapataba ng Panloob na Halamang Gamot  
-Ang mga panloob na halamang gamot ay nangangailangan ng lingguhang aplikasyon ng  
-likidong pataba o organic fish emulsion tuwing ang  
-mga halaman ay aktibong lumalaki.  
+- Ang ilang halamang pampalasa, tulad ng mint, ay dapat ikulong dahil maaari nilang sakupin ang buong hardin. Itanim ang mga posibleng kumalat sa paso o ibaon ang paso sa lupa hanggang bahagyang lampas lang sa rim. Gumamit ng paso na sapat ang laki para mapigil ang ugat sa loob ng ilang taon.
+
+# Pagpapalago ng Halamang Pampalasa sa Loob ng Bahay
+
+## Liwanag
+
+Karamihan sa halamang pampalasa ay nangangailangan ng maraming sikat ng araw. Kung magpapalago ng halamang pampalasa sa loob ng bahay tuwing taglamig, kailangan ng dagdag na ilaw.
+
+- Ang lakas ng liwanag tuwing taglamig ay kadalasan mas mababa sa isang ikasampu ng liwanag sa labas tuwing tag-init. Binabawasan pa ng bintana ang dami ng liwanag na pumapasok.
+- Kapag kulang ang liwanag, babagal o titigil ang paglaki ng karamihan sa halamang pampalasa sa loob ng bahay tuwing taglamig kahit mainit ang lugar.
+
+Makakatulong sa perennial na halamang pampalasa kung ilalagay ito sa labas tuwing tag-init sa may protektadong lugar o ibaon ang paso sa lupa hanggang sa rim nito.
+
+## Pagdidilig ng Halamang Pampalasa sa Loob
+
+Diligan ng sagana lamang kapag tuyo na ang ibabaw ng lupa sa paghipo. Huwag hayaang nakababad ang mga paso sa platito ng tubig; mamamatay ang ugat ng halaman.
+
+## Pagpapataba ng Halamang Pampalasa sa Loob
+
+Kailangan ng lingguhang paglalagay ng likidong pataba o organic fish emulsion kapag aktibong tumutubo ang mga halamang pampalasa sa loob ng bahay.
+
+# Insekto at Iba Pang Peste
+
+Kaunti lang ang mga insekto, mites, o sakit na umaatake sa mga halamang pampalasa.
+
+- Sinasabing may ilang halamang pampalasa na nakakapagtaboy ng peste, at naniniwala ang ilang hardinero na maganda silang kasama ng ibang halaman. Ang bawang ay ginagamit pa nga sa organic na pantaboy ng peste.
+- Maaring atakihin ng aphids ang anise, caraway, dill, curled leaf parsley, at fennel. Ang unang palatandaan ay malagkit na dahon at tangkay.
+- Iba pang peste ay whiteflies, mealybugs, scale, thrips, slugs, at spider mites kapag mainit at tuyo ang panahon.
+
+Karamihan sa maliliit at malalambot na peste ay kayang kontrolin sa pamamagitan ng regular na pag-spray ng malakas na tubig o insecticidal soap na tinunaw ayon sa label. Siguraduhing ligtas ang sabon sa mga halamang kinakain.
+
+Bihira ang sakit sa halamang pampalasa, maliban na lang sa ugat kapag sobrang basa ang lupa o potting mix. Minsan, nagkakaroon ng kalawang ang mint; alisin agad ang apektadong tangkay at dahon.
+
+# Pag-aani at Pag-iimbak
+
+- Sa panahon ng paglaki, pitasin ang mga sariwang dahon kapag sapat na ang dahon ng halaman para magpatuloy ang paglaki. Pinakamasarap ang halamang pampalasa kapag inani bago bumuka ang mga bulaklak.
+- Umaga dapat mag-ani ng halamang pampalasa, kapag pinakamataas ang essential oils. Pitasin ang dahon pagkatapos matuyo ang hamog pero bago mainitan ng araw.
+
+Para sa malaking anihan:
+
+- Maaaring putulin sa mismong lupa ang taunang halamang pampalasa.
+- Ang perennial ay dapat putulin ng hanggang isang-katlo ng laki.
+
+Maraming halamang pampalasa ang pwedeng itago para magamit sa hinaharap sa pamamagitan ng pagpapatuyo o pagyeyelo. Para magyelo:
+
+- Ilagay ang tinadtad na sariwang halamang pampalasa sa tray ng ice cube, takpan ng tubig, at i-freeze.
+- Pinakamainam gamitin ang basil kapag sariwa o frozen bilang pesto o tinadtad na dahon sa ice cube.
+
+Para matuto pa tungkol sa pagpapalaki, paggamit, at pag-iimbak ng halamang pampalasa, tingnan ang mga publikasyon sa ibaba o makipag-ugnayan sa Master Gardeners sa Extension Service office ng inyong county.
+
+# Karagdagang Impormasyon
+
+## Mga Website
+
+- [Mga Halamang Pampalasa na Pwedeng Itanim Mula sa Butil](http://www.backyardgardener.com/herb/)
+- [Pagpapalago ng Bawat Uri ng Halamang Pampalasa](http://www.pioneerthinking.com/growingherbs.html)
+- [Pagpapalago ng Halamang Pampalasa sa Loob ng Bahay](http://www.doityourself.com/vegetables/growingherbsindoors.html)
+- [Pagha-hardin ng Halamang Pampalasa para sa mga Bubuyog](http://altnature.com/library/herb.htm)
+- [Pagpapalago ng Halamang Pampalasa sa Bahay](http://www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm)
+
+## Mga Libro
+
+- *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
+- *Herbs, An Illustrated Guide* (Sunset Books)
+- *All About Herbs* (Ortho Books)
+
+#### Master Gardener™ Payo · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
 
 ---
 
-## Mga Insekto at Ibang Peste  
-Napakakaunting mga insekto, mites, o sakit ang umaatake sa mga halamang gamot.  
-Sa katunayan, ang ilang halamang gamot ay sinasabing nagtataboy ng mga peste  
-at naniniwala ang ilang hardinero na ang mga halamang gamot ay mahusay na  
-kasamang halaman. Ang ilang halamang gamot, tulad ng bawang, ay  
-kahit na ginagamit sa mga organic na pormula sa pamamahala ng peste.  
-
-Ang mga aphids, isang karaniwang soft-bodied pest sa anumang hardin,  
-ay maaaring kumain sa anise, caraway, dill, curled leaf parsley,  
-at fennel. Minsan ang unang senyales ng kanilang presensya  
-ay ang pagiging malagkit ng mga dahon at tangkay.  
-
-Ang iba pang potensyal, ngunit mas hindi karaniwang, peste ay kinabibilangan ng  
-whiteflies, mealybugs, scale, thrips, at slugs. At sa  
-mainit na tuyo na panahon, ang spider mites ay maaaring maging problema.  
-
-Karamihan sa maliliit, soft-bodied na peste ay maaaring madaling  
-at ligtas na pamahalaan gamit ang regular na pag-spray ng malakas na tubig  
-o insecticidal soap, na dilute ayon sa direksyon ng label,  
-parehong direktang inaaplay sa mga peste. Anuman ang paggamot,  
-siguraduhin na ang label ay nagsasabing ligtas itong gamitin sa mga pagkain.  
-
-Ang sakit, maliban sa problema sa ugat dahil sa  
-sobrang basang lupa o potting mix, ay bihira sa pamilya ng halamang gamot.  
-Minsan ang mint ay tinatamaan ng kalawang; kung mangyari ito,  
-alisin ang apektadong tangkay at mga kaugnay na dahon.  
-
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang may asawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genes, pagiging beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay nalalapat sa lahat ng programa.)
 ---
-
-## Pag-aani at Pag-iimbak  
-Sa panahon ng season, maaari kang pumitas ng sariwang dahon kapag  
-ang halaman ay may sapat nang dahon upang mapanatili ang paglago.  
-Sa pangkalahatan, ang mga halamang gamot ay may pinakamainam na lasa kapag  
-tinipon bago bumuka ang mga bulaklak na buds.  
-
-Mag-ani ng mga halamang gamot sa umaga, kapag ang essential oils  
-na nagbibigay ng natatanging aroma at lasa sa mga halamang gamot  
-ay nasa pinakamataas na konsentrasyon. Pumitas ng dahon pagkatapos  
-matuyo ang hamog, ngunit bago maging napakainit ng araw.  
-
-Para sa malaking ani, ang mga taunang halamang gamot ay maaaring putulin sa  
-ground level, habang ang mga perennial ay dapat putulin lamang  
-mga isang-katlo ng kanilang laki.  
-
-Maaari mong i-preserve ang maraming halamang gamot para sa hinaharap na paggamit sa pamamagitan ng  
-pagpapatuyo o pagyeyelo ng mga ito. Para gawin ang huli, ilagay ang  
-tinadtad na sariwang halamang gamot sa isang ice cube tray, takpan ng tubig, at i-freeze.  
-Ang basil ay halos wala nang lasa kung pinatuyo, kaya gamitin ito nang sariwa  
-o i-freeze ito sa isa sa dalawang paraan – bilang pesto, o sa isang ice cube tray bilang  
-tinadtad na dahon na tinakpan ng tubig.  
-
----
-
-## Karagdagang Impormasyon  
-Para matuto pa tungkol sa pagtatanim, paggamit, at  
-pagpapanatili ng mga halamang gamot, tingnan ang mga publikasyong nakalista sa ibaba, o  
-tumawag sa Master Gardeners sa opisina ng Extension Service ng iyong county.  
-
-### Mga Web Site  
-- [Herbs to Grow from Seed](http://www.backyardgardener.com/herb/)  
-- [Growing Individual Herbs](http://www.pioneerthinking.com/growingherbs.html)  
-- [Growing Herbs Indoors](http://www.doityourself.com/vegetables/growingherbsindoors.html)  
-- [Herb Gardening for Bees](http://altnature.com/library/herb.htm)  
-- [Growing Herbs in the Home Garden](http://www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm)  
-
-### Mga Libro  
-- *Gourmet Herbs* (a Brooklyn Botanic Garden Handbook)  
-- *Herbs, An Illustrated Guide* (Sunset Books)  
-- *All About Herbs* (Ortho Books)  
-
----
-
-## Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), o  
-503-445-4608 (Multnomah County).  
-- Para sa higit pang 10-Minute University™ handouts at class schedule, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)  
-
-Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at  
-mga materyales nito batay sa lahi, kulay, pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian),  
-sekswal na oryentasyon, kapansanan, edad, marital status, familial/parental status, kita na nagmula sa pampublikong tulong  
-programa, paniniwalang politikal, impormasyon sa genetika, status ng beterano, paghihiganti o retaliation para sa naunang aktibidad sa karapatang sibil.  
-(Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)

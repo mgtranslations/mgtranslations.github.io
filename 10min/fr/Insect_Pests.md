@@ -1,62 +1,103 @@
-## Université de 10 Minutes™  
-L'Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™  
+#### Université de 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme des Maîtres Jardiniers™ de l’Extension OSU
 
-### Ravageurs d'insectes  
-#### Aperçu  
-Les insectes peuvent poser des problèmes en mangeant ou en mâchant nos plantes. Bien que cela puisse agacer certains jardiniers, d'autres peuvent choisir de le tolérer. Cependant, si le niveau de population des ravageurs devient si élevé qu'il nuit à la capacité d'une plante à survivre ou à produire de la nourriture, une intervention humaine peut être nécessaire.  
+---
 
-Ce document fournit des informations pour aider à identifier les causes potentielles des infestations d'insectes dans le jardin domestique et liste des pratiques qui aident à prévenir les infestations. Réfléchissez à votre vision personnelle de la cohabitation avec la nature, y compris les ravageurs d'insectes, pour déterminer à quel moment vous agirez.  
+## Insectes Nuisibles
 
-#### Indices laissés par les ravageurs d'insectes  
-Il est souvent difficile d'identifier le responsable des dommages aux plantes, car de nombreux insectes sont petits, se fondent bien dans l'environnement, ne sont actifs que la nuit ou se cachent sous le feuillage. Cela rend le diagnostic précis difficile, ce qui est essentiel pour une intervention appropriée et efficace.  
+### Vue d’ensemble
 
-Heureusement, les habitudes alimentaires des insectes peuvent offrir des indices utiles. Les insectes peuvent être distingués par leur méthode d'alimentation : mâchage/râpage ou perçage-suction.  
+Les insectes peuvent causer des problèmes en mangeant ou en grignotant nos plantes. Cela peut agacer certains jardiniers, tandis que d’autres préfèrent tolérer cette situation. Cependant, si la population de nuisibles devient si élevée qu’elle menace la survie ou la production alimentaire d’une plante, une intervention humaine peut être nécessaire.
 
-- **Insectes mâcheurs/râpeurs** : Ces insectes ont des pièces buccales capables de mâcher des trous dans les feuilles, bourgeons, racines, graines, fruits ou parties ligneuses des plantes. Exemples : perce-oreilles, chenilles, larves de tenthrèdes, chenilles des toiles, rouleuses de feuilles, squelettiseurs, vers gris, altises, coléoptères vésiculeux et coléoptères du concombre. Ceux qui se nourrissent de fleurs, fruits et graines incluent les mouches des fruits, moucherons, guêpes jaunes, frelons, carpocapse, vers des épis de maïs et charançons des graines. Les ravageurs structuraux incluent les fourmis charpentières, les termites et les coléoptères à bois.  
+Cette fiche fournit des informations pour vous aider à identifier les causes possibles d’infestations d’insectes dans le jardin familial et liste des pratiques pour les prévenir. Réfléchissez à votre propre point de vue sur la cohabitation avec la nature, y compris les insectes nuisibles, afin de déterminer à quel moment vous choisirez d’agir.
 
-- **Insectes perceurs-suceurs** : Ces insectes endommagent directement les plantes en se nourrissant et parfois en injectant des substances toxiques, ce qui entraîne des symptômes allant de simples taches sur les feuilles à une perturbation complète de la plante. Exemples : mouches blanches, pucerons, adelges, cochenilles farineuses, écailles, cicadelles, cercopes, punaises dentelées, thrips et acariens.  
+---
 
-#### Dommages couramment observés  
-- Plantules coupées au niveau du sol : Vers gris.  
-- Tiges creusées avec larves à l'intérieur, feuilles flétries ou plantes ligneuses avec traces sous l'écorce : Perceurs.  
-- Racines ou bulbes montrant des signes de consommation ou des zones mortes : Vers fil-de-fer, plusieurs types de larves de coléoptères, charançons.  
-- Fruits ou plantes tachés, collants, gluants ou mousseux : Pucerons, cicadelles, cercopes, mouches blanches, écailles et cochenilles farineuses.  
-- Feuilles avec de grands trous irréguliers : Stade adulte ou larvaire de coléoptères, larves de papillons.  
-- Feuilles squelettisées : Larves de coléoptères, limaces des poires, thrips et certaines espèces de chenilles.  
-- Feuilles enroulées, plissées ou déformées : Pucerons, cicadelles, punaises des plantes.  
-- Déclin général de la plante avec racines mâchées : Larves se nourrissant des racines comme les charançons, coléoptères ou papillons.  
-- Creux et/ou fruits et baies déformés : Punaises des plantes, comme la punaise marbrée brune.  
-- Arbres et bois avec cavités creusées et des excréments d'insectes : Fourmis charpentières, termites.  
-- Bois transformé avec petits trous et sciure fraîche : Coléoptères à bois.  
+### Indices Laissés par les Insectes Nuisibles
 
-### Gestion intégrée des ravageurs  
-La gestion intégrée des ravageurs est une approche systématique et holistique qui supprime les ravageurs avec un impact minimal sur la santé humaine, l'environnement et les organismes non ciblés.  
+Il est souvent difficile d’identifier le responsable des dégâts sur les plantes, car de nombreux insectes sont petits, se camouflent bien, sont actifs uniquement la nuit, ou se cachent sous les feuilles. Cela complique le diagnostic, qui est pourtant nécessaire pour intervenir correctement et efficacement.
 
-#### 1. Prévention  
-- Plantez la bonne plante au bon endroit. Connaissez les besoins culturels d'une plante et associez-les à son environnement pour favoriser une croissance saine.  
-- Maintenez la propreté. Retirez les parties de plantes malades ; gardez le sol exempt de déchets de feuilles.  
-- Gardez les plantes en bonne santé grâce à des soins appropriés pour réduire leur sensibilité aux dommages causés par les insectes et les maladies.  
-- Encouragez les insectes bénéfiques. Plantez des plantes attractives comme les carottes, la coriandre, l'aneth, le trèfle doux, le fenouil et la Dentelle de la reine Anne pour attirer les prédateurs naturels des ravageurs d'insectes.  
-- Inspectez les structures. Soyez attentif aux fuites d'eau. Assurez-vous que les portes et fenêtres sont correctement scellées.  
+Heureusement, les habitudes alimentaires des insectes peuvent donner des indices utiles. On distingue les insectes selon leur mode d’alimentation : **mâcheurs/rapeux** ou **perceurs-suceurs**.
 
-#### 2. Surveillance  
-- Devenez détective, examinez régulièrement vos plantes pour détecter les indices laissés par les ravageurs d'insectes.  
+#### Insectes Mâcheurs/Rapeux
 
-#### 3. Identification des ravageurs  
-- Une identification correcte est importante. Parfois, un insecte est simplement présent dans une zone endommagée sans en être la cause.  
-- Observez. Les insectes mangent-ils des feuilles, bourgeons ou d'autres insectes ? Volent-ils ou rampent-ils ? Quelle est leur apparence physique ? Prenez des photos pour aider à l'identification.  
+Les insectes mâcheurs ou rapeux ont des pièces buccales capables de faire des trous dans les feuilles, bourgeons, racines, graines, fruits ou parties ligneuses des plantes. Exemples :
 
-#### 4. Élaboration d'une stratégie de gestion des ravageurs  
-- Une fois le responsable identifié, les Maîtres Jardiniers peuvent recommander des méthodes culturelles, mécaniques, biologiques et chimiques pour réduire la population de ravageurs.  
+- **Mangeurs de feuilles** : Perce-oreilles, chenilles, larves de tenthrèdes, tisseuses, enrouleuses, squelettiseurs, noctuelles, altises, méloés, charançons du concombre.
+- **Mangeurs de fleurs, fruits et graines** : Mouches des fruits, cécidomyies, guêpes jaunes, frelons, carpocapse, noctuelles du maïs, charançons des graines.
+- **Nuisibles structurels** : Fourmis charpentières, termites, lyctus.
 
-### Ressources OSU et autres  
-- *Audubon’s Field Guide to Insects and Spiders* par Alfred Knops, 1998  
-- *Garden Insects* par Crenshaw, 2004  
-- Publications de l'Extension de l'Université d'État de l'Oregon : [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- *Rodale’s Organic Gardening: Controlling Pests and Diseases*, Rodale Publishing, 1994  
+#### Insectes Perceurs-Suceurs
 
-### Conseils des Maîtres Jardiniers™  
-- Appelez la ligne d'assistance en horticulture domestique : 503-655-8631 (Comté de Clackamas), 503-821-1150 (Comté de Washington), 503-445-4608 (Comté de Multnomah).  
-- Pour d'autres documents de l'Université de 10 Minutes™ et le calendrier des cours, visitez [www.cmastergardeners.org](www.cmastergardeners.org).  
+Les perceurs-suceurs abîment les plantes directement en se nourrissant et parfois en injectant des substances toxiques qui provoquent des symptômes allant de simples taches sur les feuilles à une altération grave de la plante entière. Les taches et piqûres apparaissent lorsque la chlorophylle est détruite par leurs pièces buccales. Exemples :
 
-L'Extension de l'Université d'État de l'Oregon interdit la discrimination dans tous ses programmes, services, activités et documents sur la base de la race, la couleur, l'origine nationale, la religion, le sexe, l'identité de genre (y compris l'expression de genre), l'orientation sexuelle, le handicap, l'âge, le statut marital, le statut familial/parental, les revenus provenant d'un programme d'aide publique, les croyances politiques, les informations génétiques, le statut de vétéran, les représailles ou les discriminations pour des activités antérieures relatives aux droits civils. (Toutes les bases interdites ne s'appliquent pas à tous les programmes.)
+- Aleurodes
+- Pucerons
+- Adelgides
+- Cochenilles farineuses
+- Cochenilles
+- Cicadelles
+- Cercopes
+- Tingides
+- Thrips
+- Acariens
+
+---
+
+### Dégâts Fréquemment Observés
+
+- **Jeunes plants sectionnés au niveau du sol** : Noctuelles.
+- **Tiges creusées avec des larves à l’intérieur, feuilles flétries, ou plantes ligneuses avec des galeries sous l’écorce** : Perceurs.
+- **Racines ou bulbes rongés ou avec des zones mortes** : Vers fil-de-fer, nombreuses larves de coléoptères, charançons.
+- **Fruits ou plantes tachés, collants, gluants ou mousseux** : Pucerons, cicadelles, cercopes, aleurodes, cochenilles, cochenilles farineuses.
+- **Feuilles avec de grands trous irréguliers** : Adultes ou larves de coléoptères, chenilles de papillons.
+- **Feuilles squelettisées** : Larves de coléoptères, tenthrèdes du poirier, thrips et certaines espèces de chenilles.
+- **Feuilles enroulées, boursouflées ou déformées** : Pucerons, cicadelles, punaises des plantes.
+- **Déclin général de la plante avec racines mâchées** : Larves de charançons, coléoptères ou papillons qui se nourrissent de racines.
+- **Fruits et baies bosselés ou déformés** : Punaises phytophages, comme la punaise diabolique marbrée.
+- **Arbres et bois avec cavités creusées et déjections (excréments d’insectes)** : Fourmis charpentières, termites.
+- **Bois travaillé avec petits trous et sciure fraîche** : Lyctus.
+
+---
+
+## Gestion Intégrée des Nuisibles
+
+La gestion intégrée des nuisibles est une approche systématique et globale qui vise à limiter les nuisibles tout en minimisant l’impact sur la santé humaine, l’environnement, et les organismes non ciblés.
+
+### 1. Prévention
+
+- **Planter la « bonne » plante au « bon » endroit** : Connaître les besoins d’une plante et les adapter à son environnement pour favoriser une croissance saine.
+- **Maintenir la propreté** : Enlever les parties malades ; garder le sol sans débris de feuilles.
+- **Garder les plantes en bonne santé** : Des soins appropriés réduisent la sensibilité aux insectes et maladies.
+- **Favoriser les insectes utiles** : Planter des plantes attractives comme carottes, coriandre, aneth, trèfle doux, fenouil, et la carotte sauvage pour attirer les prédateurs naturels des nuisibles.
+- **Inspecter les bâtiments** : Vérifier les fuites d’eau. Bien sceller portes et fenêtres.
+
+### 2. Surveillance
+
+- Devenez un détective : Vérifiez régulièrement vos plantes pour repérer les indices laissés par les insectes nuisibles.
+
+### 3. Identifier le Nuisible
+
+- Une bonne identification est importante. Parfois, un insecte est simplement présent dans une zone endommagée sans être la cause du problème.
+- **Observer** : Les insectes grignotent-ils des feuilles, bourgeons ou d’autres insectes ? Volent-ils ou rampent-ils ? À quoi ressemblent-ils ? Prenez des photos pour aider à l’identification.
+
+### 4. Élaborer une Stratégie de Gestion
+
+- Une fois le responsable identifié, les Maîtres Jardiniers peuvent recommander des méthodes culturelles, mécaniques, biologiques et chimiques pour réduire la population de nuisibles.
+
+---
+
+## Ressources OSU et Autres
+
+- **Guide Audubon des Insectes et Araignées** par Alfred Knops, 1998
+- **Insectes du Jardin** par Crenshaw, 2004
+- **Publications de l’Extension de l’Oregon State University** : [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Jardinage Biologique de Rodale : Contrôle des Nuisibles et Maladies**, Éditions Rodale, 1994
+
+---
+
+#### Conseil Maître Jardinier™ · Appelez la ligne d’assistance en horticulture à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de cours de l’Université de 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Le Service d’Extension de l’Oregon State University interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus issus d’une aide publique, les convictions politiques, les informations génétiques, le statut d’ancien combattant, les représailles, ou toute action antérieure relative aux droits civiques. (Tous les motifs d’interdiction ne s’appliquent pas à tous les programmes.)
+---

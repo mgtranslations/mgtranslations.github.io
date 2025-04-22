@@ -1,70 +1,91 @@
-## Đại học 10 Phút™  
-Hiệp hội Người làm vườn chuyên nghiệp quận Clackamas phối hợp và hỗ trợ Chương trình Người làm vườn chuyên nghiệp của OSU Extension™  
+#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia của OSU Extension Master Gardener™
 
-### Tạo Một Khu Vườn Thu Hút Côn Trùng Thụ Phấn  
-Yếu tố quan trọng để tạo ra một khu vườn thu hút côn trùng thụ phấn thành công là cung cấp cho các côn trùng thụ phấn và các sinh vật khác một nơi để nuôi dưỡng con cái và đảm bảo rằng chúng có nguồn thức ăn đáng tin cậy từ mùa xuân đến cuối mùa thu. Các loài thụ phấn phổ biến trong vườn bao gồm ong, ong bắp cày, bướm, bướm đêm, ruồi, bọ cánh cứng, chim và thậm chí cả kiến. Vì có rất nhiều loại côn trùng thụ phấn với yêu cầu khác nhau, chiến lược tốt nhất là trồng nhiều loại cây có hoa khác nhau cung cấp mật hoa và phấn hoa.  
+# Tạo Vườn Thu Hút Côn Trùng Thụ Phấn
 
-Với mục tiêu đó, dưới đây là các bước để tạo ra một không gian đẹp và thân thiện đối với côn trùng thụ phấn.  
+Chìa khóa để tạo ra một khu vườn thu hút côn trùng thụ phấn thành công là cung cấp cho côn trùng thụ phấn và các sinh vật khác một nơi để nuôi con non và đảm bảo rằng chúng có nguồn thức ăn ổn định từ mùa xuân đến cuối mùa thu. Những loài thụ phấn phổ biến trong vườn bao gồm ong, ong bắp cày, bướm, bướm đêm, ruồi, bọ cánh cứng, chim và thậm chí cả kiến. Vì có rất nhiều loài thụ phấn với nhiều nhu cầu khác nhau, chiến lược tốt nhất là trồng nhiều loại cây hoa khác nhau có thể cung cấp mật hoa và phấn hoa.
 
-### 1. Kích thước và vị trí  
-6 đến 8 giờ ánh sáng mặt trời là lý tưởng. Bạn có thể giới thiệu các loại cây thu hút côn trùng thụ phấn vào một khu vườn hiện có hoặc tạo một khu vườn mới.  
+Với mục tiêu đó, dưới đây là các bước để tạo ra một không gian vừa đẹp vừa thân thiện với các loài côn trùng thụ phấn:
 
-### 2. Đất  
-Đánh giá đất của bạn. Đất có cát và thoát nước tốt hay đất giống đất sét và ẩm ướt hơn? Loại đất sẽ quyết định loại cây nào phát triển tốt, tùy thuộc vào yêu cầu thoát nước và độ phì nhiêu của chúng. Nếu bạn không chắc chắn về loại đất của mình, hãy kiểm tra đất. Độ pH của đất nên nằm trong khoảng từ 6.0 đến 7.0.  
+### 1. Kích thước và Vị trí
 
-### 3. Tưới nước  
-Việc tưới nước rất quan trọng, đặc biệt trong giai đoạn cây mới được trồng, có thể kéo dài từ 1 đến 3 năm. Xác định cách bạn sẽ cung cấp nước cho cây. Sử dụng ống tưới thấm hoặc các phương pháp tưới khác để dẫn nước đến vùng rễ.  
+Ánh nắng từ sáu đến tám giờ mỗi ngày là lý tưởng. Bạn có thể đưa các cây thu hút thụ phấn vào một luống hoa có sẵn hoặc tạo một luống hoa mới.
 
-### 4. Lựa chọn cây trồng  
-- Chọn đa dạng hình dạng, kích thước và màu sắc của hoa.  
-- Đảm bảo hoa nở liên tục từ đầu mùa xuân đến cuối mùa thu.  
-- Sử dụng các loại cây bản địa, bao gồm cả cây bụi và cây thân gỗ, cung cấp hoa sớm và dồi dào.  
-- Sử dụng các loại cây không bản địa có mật hoa và phấn hoa.  
-- Trồng các loại hoa đơn cánh, dễ tiếp cận phấn hoa và mật hoa hơn so với các loại hoa kép.  
-- Đặt các loại hoa thu hút côn trùng thành từng khối lớn để tiết kiệm năng lượng khi kiếm ăn.  
+### 2. Đất
 
-Tham khảo các khuyến nghị từ Phòng Thí nghiệm Sinh thái Vườn của Đại học Bang Oregon để lựa chọn cây thu hút ong bản địa. Tài liệu "Native Plant Picks for Bees" của Đại học Bang Oregon đưa ra nhiều gợi ý. [Native Plant Picks for Bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)  
+Đánh giá loại đất của bạn. Đất có cát và thoát nước tốt hay là đất sét và ẩm ướt hơn? Loại đất sẽ quyết định loại cây nào phát triển tốt, tùy vào nhu cầu thoát nước và dinh dưỡng của chúng. Nên kiểm tra đất nếu bạn không chắc về loại đất của mình. Độ pH đất nên nằm trong khoảng 6.0 đến 7.0.
 
-### 5. Cân nhắc về kích thước  
-Bắt đầu nhỏ và tăng kích thước khu vườn của bạn theo thời gian, dù bạn đang tạo một khu vườn mới hay thêm các chậu cây. Quan sát thường xuyên và xem các loài thụ phấn nào bị thu hút bởi cây của bạn. Có ong, bướm, chim ruồi hay chim không?  
+### 3. Tưới nước
 
-### 6. Thời gian nở hoa  
-Mục tiêu là thiết kế một khu vườn có hoa nở từ đầu mùa xuân đến cuối mùa thu. Sử dụng các loại cây hàng năm và cây củ, như hoa anh túc California, hoa diên vĩ Oregon và hoa camas, để bổ sung cho cây bụi và cây lâu năm, đồng thời tăng đa dạng loại cây. Nếu bạn có không gian, nhiều loại cây bản địa và cây bụi, như Manzanita và hoa tử đinh hương California, nở sớm trong mùa sinh trưởng và cung cấp tài nguyên hoa phong phú.  
+Việc tưới nước rất quan trọng, đặc biệt trong giai đoạn cây mới trồng, có thể kéo dài từ 1 đến 3 năm. Xác định cách bạn sẽ cung cấp nước cho cây. Sử dụng ống tưới nhỏ giọt hoặc các phương pháp tưới khác để đưa nước trực tiếp đến vùng rễ.
 
-### 7. Bảo dưỡng  
-Khu vườn sẽ được lợi từ việc làm cỏ và tưới nước thường xuyên. Phủ nhẹ một lớp mùn để giảm cỏ dại. Để lại một số vùng đất trống để cung cấp môi trường sống cho ong làm tổ bản địa.  
+### 4. Lựa chọn cây trồng
 
-### 8. Thuốc trừ sâu  
-Bảo vệ côn trùng thụ phấn bằng cách sử dụng phương pháp Quản lý Dịch hại Tích hợp để kiểm soát sâu bệnh và bệnh trong vườn của bạn. Chọn cây có khả năng kháng bệnh để giảm thiểu sâu bệnh, cắt bỏ các bộ phận bị nhiễm bệnh và sử dụng các biện pháp kiểm soát văn hóa và sinh học khác. Chỉ sử dụng hóa chất khi không có lựa chọn nào khác.  
+- Chọn đa dạng các hình dáng, kích thước và màu sắc hoa.
+- Đảm bảo vườn có hoa nở liên tục từ đầu mùa xuân đến cuối mùa thu.
+- Sử dụng cây bản địa, bao gồm cả cây bụi và cây thân gỗ, giúp cung cấp hoa sớm và dồi dào.
+- Có thể dùng cây không bản địa nếu chúng cung cấp phấn hoa và mật hoa.
+- Trồng các giống hoa đơn, giúp côn trùng dễ tiếp cận phấn hoa và mật hoa hơn so với hoa kép.
+- Trồng hoa thu hút thụ phấn thành từng cụm lớn để giúp côn trùng tiết kiệm sức khi tìm thức ăn.
 
-### 9. Dọn dẹp vào mùa thu  
-Giữ lại lá cây, thân cây và đầu hạt không bị bệnh trong vườn cho đến cuối mùa xuân, để hỗ trợ sự sinh tồn qua mùa đông của ấu trùng, trứng, nhộng và côn trùng trưởng thành.  
+Tham khảo khuyến nghị từ Phòng thí nghiệm Sinh thái Vườn của Đại học Bang Oregon về các loài cây thu hút ong bản địa. *Native Plant Picks for Bees* là một ấn phẩm của Đại học Bang Oregon cung cấp nhiều gợi ý: [Native Plant Picks for Bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees).
 
----
+### 5. Lưu ý về kích thước
 
-### Tài nguyên từ các trường đại học và tổ chức khác  
-#### Kế hoạch tạo khu vườn thu hút côn trùng thụ phấn  
-[Pollinator Garden Plans](https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi)  
+Bắt đầu với diện tích nhỏ và mở rộng khu vườn theo thời gian, cho dù bạn đang tạo luống hoa mới hay thêm chậu cây. Quan sát thường xuyên để xem những loài thụ phấn nào bị hấp dẫn bởi các cây của bạn. Có ong, bướm, chim ruồi hay các loài chim khác không?
 
-#### Tăng cường cảnh quan đô thị và ngoại ô để bảo vệ côn trùng thụ phấn  
-[Enhancing Urban and Suburban Landscapes to Protect Pollinators](https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators)  
+### 6. Thời gian ra hoa
 
-#### Lựa chọn cây bản địa cho ong  
-[Native Plant Picks for Bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)  
+Mục tiêu là thiết kế vườn có hoa nở từ đầu mùa xuân đến cuối mùa thu. Sử dụng các loài cây hàng năm và cây có củ, như anh túc California, diên vĩ Oregon và camas, để bổ sung cho các loại cây bụi và cây lâu năm, tăng đa dạng sinh học. Nếu có đủ không gian, nhiều loài cây bản địa như Manzanita và tử đinh hương California sẽ nở hoa sớm trong mùa sinh trưởng và cung cấp nhiều tài nguyên hoa.
 
-#### Phòng thí nghiệm phân tích phục vụ Oregon  
-[Analytical Laboratories Serving Oregon](https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf)  
+### 7. Chăm sóc
 
-#### Vườn ươm cây bản địa  
-[Native Plant Nurseries](https://portlandnativeplants.org/native-plant-nurseries)  
+Vườn sẽ phát triển tốt khi thường xuyên nhổ cỏ và tưới nước. Phủ một lớp mỏng vật liệu che phủ để hạn chế cỏ dại. Chừa lại một số vùng đất trống để tạo môi trường làm tổ cho ong bản địa.
+
+### 8. Thuốc trừ sâu
+
+Bảo vệ côn trùng thụ phấn bằng cách sử dụng phương pháp quản lý dịch hại tổng hợp (IPM) để kiểm soát sâu bệnh trong vườn.
+
+- Chọn các giống cây có khả năng chống chịu tốt để giảm khả năng bị sâu bệnh.
+- Cắt bỏ các phần cây bị bệnh và sử dụng các biện pháp sinh học hoặc kỹ thuật khác để xử lý vấn đề.
+- Chỉ sử dụng hóa chất khi không còn lựa chọn nào khác.
+
+### 9. Dọn vườn vào mùa thu
+
+Giữ lại các lá, thân cây và đầu hạt không bị bệnh trong vườn cho đến cuối mùa xuân để hỗ trợ các giai đoạn trứng, ấu trùng, nhộng và trưởng thành của các loài thụ phấn qua mùa đông.
 
 ---
 
-### Lời khuyên từ Người làm vườn chuyên nghiệp™  
-Liên hệ với văn phòng OSU Extension địa phương để nhận lời khuyên từ Người làm vườn chuyên nghiệp. Kiểm tra trang web này để biết thông tin liên hệ: [OSU Extension Contact Information](https://extension.oregonstate.edu/find-us)  
+## Tài nguyên từ Đại học & Nguồn khác
 
-Để nhận tài liệu và lịch học của Đại học 10 Phút™, truy cập [10-Minute University™ Resources](https://cmastergardeners.org).  
+### Kế hoạch vườn thu hút côn trùng thụ phấn
+
+[Pollinator Garden Plans](https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi)
+
+### Cải thiện cảnh quan đô thị và ngoại ô để bảo vệ côn trùng thụ phấn
+
+[Enhancing Urban and Suburban Landscapes to Protect Pollinators](https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators)
+
+### Lựa chọn cây bản địa cho ong
+
+[Native Plant Picks for Bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)
+
+### Phòng thí nghiệm phân tích phục vụ Oregon
+
+[Analytical Laboratories Serving Oregon](https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf)
+
+### Vườn ươm cây bản địa
+
+[Native Plant Nurseries](https://portlandnativeplants.org/native-plant-nurseries)
 
 ---
 
-Dịch vụ Mở rộng của Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả thể hiện giới tính), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đây. (Không phải tất cả các cơ sở cấm áp dụng cho tất cả các chương trình.)
+## Tư vấn từ Master Gardener™
+
+Liên hệ với văn phòng OSU Extension địa phương để được tư vấn từ Master Gardener. Kiểm tra trang này để biết thông tin liên hệ: [Tìm văn phòng Extension gần bạn](https://extension.oregonstate.edu/find-us).
+
+Để xem tài liệu và lịch học của 10-Minute University™, hãy truy cập [Clackamas County Master Gardeners](https://cmastergardeners.org).
+
+---
+
+#### Dịch vụ Mở rộng Đại học Bang Oregon · Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, quốc tịch, tôn giáo, giới tính, nhận dạng giới (bao gồm cả biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/chăm sóc trẻ em, thu nhập từ chương trình trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả đũa vì các hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
+---

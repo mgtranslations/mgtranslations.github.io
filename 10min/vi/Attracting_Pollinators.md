@@ -1,95 +1,103 @@
-### Đại học 10 Phút™  
-Hiệp hội Người làm vườn Bậc thầy Quận Clackamas hợp tác và hỗ trợ với  
-Chương trình Người làm vườn Bậc thầy của OSU Extension™  
+#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Gia Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm Vườn Chuyên Gia OSU Extension Master Gardener™
 
-### Thu hút Các Loài Thụ Phấn vào Khu Vườn của Bạn  
+## Thu Hút Các Loài Thụ Phấn Đến Vườn Của Bạn
 
-#### Thụ Phấn & Các Loài Thụ Phấn  
-Viện Hàn lâm Khoa học Quốc gia ước tính một phần ba thực phẩm của con người và một phần lớn thực phẩm của động vật hoang dã đến từ các loại cây cần các loài thụ phấn để tạo ra quả và hạt. Vì vậy, việc giúp các loài thụ phấn phát triển mạnh mang lại lợi ích thiết thực cho tất cả chúng ta.  
+### Sự Thụ Phấn & Các Loài Thụ Phấn
 
-Các loài thụ phấn phổ biến bao gồm chim, ong, bướm, bướm đêm, ruồi và bọ cánh cứng. Xung quanh khu vườn của chúng ta, ong mật và chim ruồi có thể là những loài dễ nhận thấy nhất. Tuy nhiên, các loài ong hoang dã bản địa, bao gồm ong vò vẽ, ong đào, ong thợ xây, ong mồ hôi, ong cắt lá và ong thợ mộc đóng góp vô giá. Các loài ong bản địa là những loài thụ phấn hiệu quả - chúng chịu đựng tốt hơn thời tiết lạnh và ẩm so với ong mật - chúng hoạt động sớm hơn vào mùa xuân và làm việc lâu hơn mỗi ngày.  
+Viện Hàn lâm Khoa học Quốc gia Hoa Kỳ ước tính rằng một phần ba thực phẩm của con người và phần lớn thức ăn cho động vật hoang dã đến từ các loài thực vật cần có loài thụ phấn để tạo ra quả và hạt. Giúp các loài thụ phấn phát triển tốt mang lại lợi ích thiết thực cho tất cả chúng ta.
 
-#### Các Mối Đe Dọa Gần Đây đối với Các Loài Thụ Phấn  
-
-**Mất Môi Trường Sống:** Khi môi trường sống của động vật hoang dã bị chuyển đổi sang các mục đích sử dụng khác, nguồn thức ăn và nơi ở của các loài thụ phấn bị phá hủy.  
-
-**Thuốc Diệt Côn Trùng:** Ong, bướm và hầu hết các loại côn trùng khác đều dễ bị ảnh hưởng bởi thuốc diệt côn trùng. Tiếp xúc có thể làm chết hoặc dần dần làm suy yếu khả năng bay, kiếm ăn và sinh sản của chúng.  
-
-**Các Loài Xâm Lấn:** Một số loài thực vật được du nhập có thể xâm chiếm các khu vực tự nhiên và thay thế các loài thực vật bản địa, vốn cung cấp đa dạng nguồn thức ăn và loại môi trường sống cho các loài thụ phấn bản địa. Xem **Các Loài Xâm Lấn: Những Điều Người Làm Vườn Cần Biết** để biết thêm thông tin.  
+Các loài thụ phấn phổ biến bao gồm chim, ong, bướm, bướm đêm, ruồi và bọ cánh cứng. Quanh vườn của chúng ta, ong mật và chim ruồi có thể là những loài dễ nhận thấy nhất. Tuy nhiên, các loài ong hoang dã bản địa như ong nghệ, ong đào, ong thợ mộc, ong cắt lá, ong mồ hôi và ong xây cũng đóng góp rất lớn. Ong bản địa là những loài thụ phấn xuất sắc—chúng chịu lạnh và ẩm tốt hơn ong mật, hoạt động sớm hơn vào mùa xuân và làm việc lâu hơn mỗi ngày.
 
 ---
 
-### Cách Giúp Các Loài Thụ Phấn  
+### Những Mối Đe Dọa Gần Đây Đối Với Các Loài Thụ Phấn
 
-#### Cung Cấp Thức Ăn với Các Loài Cây Có Hoa từ Mùa Xuân đến Mùa Thu  
+#### Mất Môi Trường Sống
 
-Hoa cung cấp mật hoa (đường) và phấn hoa (protein) cho các loài thụ phấn và con non của chúng. Vì các loài thụ phấn khác nhau có thể có sở thích thức ăn khác nhau (xem bảng dưới đây), sự đa dạng rất quan trọng. Nghiên cứu gần đây cho thấy rằng các khu vực có ít nhất 15 loài thực vật có hoa sẽ tăng đa dạng các loài ong.  
+Khi môi trường sống của động vật hoang dã bị chuyển đổi sang mục đích khác, nguồn thức ăn và nơi ở của các loài thụ phấn cũng bị phá hủy.
 
-Người làm vườn muốn bảo tồn các loài ong nên cố gắng, theo quy tắc chung, cung cấp tối thiểu ba loài cây đang nở hoa tại bất kỳ thời điểm nào, từ mùa xuân đến mùa thu. Đặt các loại hoa giống nhau gần nhau để thu hút sự chú ý của các loài thụ phấn đi ngang qua.  
+#### Thuốc Bảo Vệ Thực Vật
 
----
+Ong, bướm và hầu hết các loài côn trùng khác đều nhạy cảm với thuốc bảo vệ thực vật. Tiếp xúc với thuốc có thể giết chết hoặc dần làm suy yếu khả năng bay, kiếm ăn và sinh sản của chúng.
 
-#### Các Đặc Điểm Chung của Hoa đối với Các Loài Thụ Phấn  
+#### Loài Xâm Lấn
 
-| **Hoa** | **Ong** | **Bướm** | **Chim** | **Ruồi** |  
-|---------|----------|----------|----------|----------|  
-| **Màu sắc** | Trắng sáng, vàng, xanh | Cam, đỏ, tím | Cam, đỏ, trắng | Nhạt, xỉn đến nâu đậm, tím |  
-| **Hình dạng** | Nông, nền để hạ cánh, dạng ống | Nền rộng để hạ cánh, ống hẹp | Dạng phễu lớn, hỗ trợ đậu mạnh | Nông, dạng phễu hoặc bẫy |  
-| **Mùi hương** | Tươi, nhẹ, dễ chịu | Cay, không có | Không có | Thối rữa |  
-| **Mật hoa** | Thường có | Dồi dào, ẩn sâu | Dồi dào, ẩn sâu | Thường không có |  
-
-Nguồn: Gail Langellotto, Đại học Bang Oregon  
+Một số loài thực vật được du nhập có thể lấn át khu vực tự nhiên và loại bỏ các loài thực vật bản địa vốn cung cấp nguồn thức ăn và nơi sống đa dạng cho các loài thụ phấn bản địa. Xem *Loài Xâm Lấn: Điều Người Làm Vườn Cần Biết* để biết thêm thông tin.
 
 ---
 
-**Bao gồm các loài cây nở hoa vào mùa xuân để các loài ong bản địa đầu mùa có nguồn thức ăn ngay khi chúng xuất hiện sau thời kỳ ngủ đông. Trồng các loài cây nở hoa vào cuối mùa hè để cung cấp năng lượng cho các loài ong trưởng thành sống qua mùa đông (như ong vò vẽ).** Tài liệu **Plants for Pollinators**, một tài liệu của Đại học 10 Phút™, cung cấp nhiều ý tưởng.  
+### Cách Hỗ Trợ Các Loài Thụ Phấn
+
+#### Cung Cấp Thức Ăn Bằng Các Loài Cây Ra Hoa Từ Mùa Xuân Đến Mùa Thu
+
+Hoa cung cấp mật (đường) và phấn hoa (chất đạm) cho các loài thụ phấn và con non của chúng. Vì mỗi loài thụ phấn có thể có sở thích thức ăn khác nhau, nên sự đa dạng rất quan trọng. Nghiên cứu gần đây cho thấy khu vực có từ 15 loài cây hoa trở lên sẽ tăng đa dạng loài ong.
+
+Những người làm vườn muốn bảo tồn loài ong nên cố gắng trồng tối thiểu ba loài cây hoa nở cùng lúc trong suốt từ mùa xuân đến mùa thu. Trồng các loại hoa cùng loại gần nhau để thu hút sự chú ý của các loài thụ phấn đi ngang.
+
+#### Đặc Điểm Chung Của Hoa Dành Cho Các Loài Thụ Phấn
+
+| Loài hoa     | Ong                               | Bướm                     | Chim                         | Ruồi                                  |
+|--------------|-----------------------------------|--------------------------|------------------------------|----------------------------------------|
+| **Màu sắc**  | Trắng sáng, vàng, xanh dương      | Cam, đỏ, tím             | Cam, đỏ, trắng               | Nhạt, nâu xám tới tím đen              |
+| **Hình dáng**| Nông, có chỗ đáp, hình ống        | Mặt đáp rộng, ống hẹp     | Phễu lớn, chỗ đáp chắc chắn   | Nông; hình phễu hoặc bẫy               |
+| **Mùi**      | Dịu nhẹ, dễ chịu                  | Hăng, không mùi           | Không mùi                     | Hôi thối                               |
+| **Mật hoa**  | Thường có                         | Nhiều, ẩn sâu             | Nhiều, ẩn sâu                 | Thường không có                        |
+
+*Nguồn: Gail Langellotto, Đại học Bang Oregon*
+
+Nên trồng các loài cây nở vào mùa xuân để ong bản địa sớm có nguồn thức ăn khi vừa ra khỏi trạng thái ngủ đông. Hãy trồng thêm cây nở cuối hè để cung cấp năng lượng cho những loài ong trưởng thành qua đông (ví dụ: ong nghệ). *Cây Dành Cho Các Loài Thụ Phấn*, tài liệu của Đại học 10 Phút™, cung cấp nhiều ý tưởng hữu ích.
+
+#### Cung Cấp Nơi Làm Tổ Cho Ong Bản Địa
+
+Nhiều loài ong bản địa làm tổ dưới đất. Một mảng đất trống hoặc bãi cỏ khô trồng thưa là môi trường lý tưởng. Phủ đất bằng màng nhựa hoặc xới đất thường xuyên có thể phá hủy tổ ong. Một số loài ong khác làm tổ trong lỗ của bọ cánh cứng bỏ lại trên thân cây chết hoặc đống cành khô. Khu vực làm tổ lý tưởng là nơi khô, ấm, được bảo vệ khỏi kẻ săn mồi và gần nguồn thức ăn.
+
+#### Cung Cấp Cây Chủ Cho Bướm Và Bướm Đêm
+
+Bướm và bướm đêm trưởng thành thường thích hút mật, nhưng ấu trùng của chúng lại ăn lá cây. Cây chủ là nơi con trưởng thành đẻ trứng. Các loại cây cảnh và cây bụi bản địa thường là cây chủ tuyệt vời cho nhiều loài.
+
+#### Sử Dụng Kết Hợp Cây Bản Địa Và Ngoại Lai
+
+Cây bản địa là cây chủ lý tưởng cho bướm, bướm đêm và cũng cung cấp thức ăn cho các loài thụ phấn khác. Tuy nhiên, người làm vườn thích cây ngoại lai, đặc biệt là các loại hoa hàng năm nhiều hoa và cây lâu năm nhỏ, cũng không nên ngần ngại sử dụng để kéo dài mùa hoa trong vườn.
+
+#### Tránh Sử Dụng Thuốc Bảo Vệ Thực Vật
+
+Khi cây có dấu hiệu bất thường, hãy thu thập bằng chứng để chẩn đoán đúng bệnh. Hiểu vấn đề là điều kiện tiên quyết để có biện pháp xử lý hiệu quả. Nhiều vấn đề của cây, nếu phát hiện sớm, có thể xử lý bằng biện pháp không hóa chất. Hãy quan sát kỹ vườn của bạn.
+
+Trước khi sử dụng thuốc bảo vệ thực vật dạng lưu dẫn, đặc biệt trên cây thường được các loài thụ phấn ghé thăm, hãy cân nhắc kỹ lợi ích và tác hại. Thuốc lưu dẫn bảo vệ lá khỏi sâu bệnh nhưng cũng có thể truyền một lượng nhỏ vào mật và phấn hoa. Ấu trùng ăn lá hoặc ong hút mật/phấn có thể bị ảnh hưởng khi ăn phải các bộ phận của cây đã được xử lý thuốc lưu dẫn.
+
+Nếu bắt buộc phải dùng thuốc, hãy tuân thủ hướng dẫn sử dụng để đảm bảo phun đúng cách:
+
+- Sử dụng đúng nồng độ.
+- Phun trong điều kiện thời tiết phù hợp.
+- Phun đúng bộ phận của cây.
+
+Để bảo vệ loài thụ phấn:
+
+- Tránh phun thuốc lên cây đang ra hoa, kể cả cỏ dại.
+- Tránh xa khu vực làm tổ.
+- Phun vào thời điểm mát trong ngày, như hoàng hôn hoặc buổi tối, khi các loài thụ phấn hoạt động ít hơn.
 
 ---
 
-#### Cung Cấp Nơi Làm Tổ cho Các Loài Ong Bản Địa  
+### Nguồn Tham Khảo Của OSU Và Khác
 
-Nhiều loài ong bản địa làm tổ dưới đất. Một mảnh đất trống hoặc một luống khô với các bụi cỏ trang trí thưa thớt là lý tưởng. Việc phủ đất bằng nilon hoặc xới đất thường xuyên có thể phá hủy tổ. Các loài ong khác làm tổ trong các đường hầm bọ cánh cứng bỏ lại trong thân cây chết hoặc đống cành cây. Những khu vực làm tổ lý tưởng là khô, ấm, được bảo vệ khỏi kẻ săn mồi và gần nguồn thức ăn.  
+- **Cải Thiện Cảnh Quan Đô Thị Và Ngoại Ô Để Bảo Vệ Các Loài Thụ Phấn**  
+  [EM9289](https://catalog.extension.oregonstate.edu/em9289)
 
----
+- **Trung Tâm Nguồn Tài Nguyên Bảo Tồn Loài Thụ Phấn của Hiệp hội Xerces**  
+  [www.xerces.org/pollinator-resource-center/](https://www.xerces.org/pollinator-resource-center/)
 
-#### Cung Cấp Cây Chủ cho Bướm và Bướm Đêm  
+- **Cây Dành Cho Các Loài Thụ Phấn**, ấn phẩm Đại học 10 Phút™  
+  [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
-Bướm và bướm đêm trưởng thành thường thích ăn mật hoa, nhưng con non của chúng ăn lá cây. Cây chủ là nơi con trưởng thành đẻ trứng. Các loài cây và cây bụi trang trí bản địa thường là cây chủ tuyệt vời cho nhiều loài.  
-
----
-
-#### Sử Dụng Cây Bản Địa và Ngoại Lai  
-
-Cây bản địa là cây chủ tuyệt vời cho bướm và bướm đêm, đồng thời cung cấp thức ăn cho các loài thụ phấn khác. Tuy nhiên, những người làm vườn yêu thích các loài cây ngoại lai, đặc biệt là các loài cây hàng năm có nhiều hoa và cây lâu năm nhỏ, không nên ngần ngại sử dụng chúng để duy trì thời kỳ nở hoa dài trong vườn.  
+- **Những Loài Hoa Tốt Nhất Cho Ong**  
+  [Xem trên YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)
 
 ---
 
-#### Tránh Sử Dụng Thuốc Diệt Côn Trùng  
-
-Khi thấy dấu hiệu cây có vấn đề, hãy thu thập bằng chứng để chẩn đoán chính xác. Hiểu được vấn đề là điều kiện tiên quyết để hành động hiệu quả. Nhiều vấn đề của cây, nếu được phát hiện sớm, có thể được quản lý bằng các biện pháp không hóa chất. Vì vậy, hãy cảnh giác trong vườn.  
-
-Trước khi sử dụng thuốc diệt côn trùng hệ thống, đặc biệt trên các loài cây được các loài thụ phấn ghé thăm, hãy cân nhắc kỹ về lợi ích so với nhược điểm. Thuốc diệt côn trùng hệ thống bảo vệ lá cây khỏi sâu bệnh và có thể được vận chuyển với liều lượng nhỏ đến mật hoa và phấn hoa. Những con sâu bướm ăn lá hoặc ong thu thập mật hoa và phấn hoa có thể bị ảnh hưởng khi ăn cây được bảo vệ bởi thuốc diệt côn trùng hệ thống.  
-
-Nếu phải sử dụng thuốc diệt côn trùng, hãy tuân thủ hướng dẫn trên nhãn để áp dụng đúng nồng độ, trong điều kiện thời tiết phù hợp, lên đúng phần của cây, v.v. Để bảo vệ các loài thụ phấn, đừng xử lý các loài cây đang nở hoa, bao gồm cỏ dại; tránh xa khu vực làm tổ; và phun thuốc vào những phần mát hơn trong ngày, như lúc hoàng hôn hoặc buổi tối, khi hầu hết các loài thụ phấn ít hoạt động hơn.  
+#### Tư Vấn Làm Vườn Chuyên Gia™ · Gọi Đường Dây Hỗ Trợ Làm Vườn Tại Nhà: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem các tài liệu và lịch học Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
 ---
 
-### Tài Nguyên từ OSU và Các Nguồn Khác  
-
-- **Enhancing Urban and Suburban Landscapes to Protect Pollinators EM9289:** https://catalog.extension.oregonstate.edu/em9289  
-- **Xerces Society Pollinator Conservation Resource Center:** www.xerces.org/pollinator-resource-center/  
-- **Plants for Pollinators, 10-Minute University™ publication:** www.cmastergardeners.org  
-- **The Best Bee Flowers:** https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be  
-
+##### Dịch vụ Mở Rộng Đại học Bang Oregon · Dịch vụ Mở Rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm cả biểu hiện giới), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì những hoạt động dân quyền trước đây. (Không phải tất cả các yếu tố cấm áp dụng cho mọi chương trình.)
 ---
-
-### Lời Khuyên từ Người Làm Vườn Bậc Thầy™  
-
-- **Gọi Đường dây Tư vấn Làm vườn tại nhà:** 503-655-8631 (Quận Clackamas), 503-821-1150 (Quận Washington), 503-445-4608 (Quận Multnomah).  
-- **Để biết thêm các tài liệu của Đại học 10 Phút™ và lịch học, hãy truy cập:** www.cmastergardeners.org  
-
----
-
-### Đại học Bang Oregon Dịch vụ Mở rộng  
-
-Dịch vụ Mở rộng của Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)

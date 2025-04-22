@@ -1,104 +1,60 @@
-# Université de 10 Minutes™  
-L'association des jardiniers maîtres du comté de Clackamas, en collaboration avec et en soutien au programme OSU Extension Master Gardener™  
+#### Université en 10 Minutes™ L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au programme OSU Extension Master Gardener™
 
-## Sélection de Grandes Plantes : Arbustes  
-S : Jardin ombragé | D : Plante tolérante à la sécheresse | W : Avantages pour la faune : Oiseaux, abeilles, papillons, colibris  
+# Excellents Choix de Plantes : Arbustes
 
-### Nom / S/D/W / Taille à maturité (10 ans) / Soleil/Ombre / Caractéristiques remarquables  
+*S : Jardin d’ombre, D : Plante résistante à la sécheresse, W : Bénéfice pour la faune : Oiseaux, Abeilles, Papillons, Colibris*
 
-#### **Abélia luisante**  
-*Abelia x grandiflora*  
-**W**  
-- **Taille** : 6’ x 7’ → 8’ x 9’  
-- **Exposition** : Plein soleil à lumière ombragée  
-- **Caractéristiques** : Semi-persistant avec des fleurs roses parfumées du début du printemps à l'automne.  
-
-#### **Abélia luisante dorée**  
-*Abelia x grandiflora ‘Kaleidoscope’*  
-**W**  
-- **Taille** : 4’ x 5’ → 5’ x 6’  
-- **Exposition** : Plein soleil à lumière ombragée  
-- **Caractéristiques** : Semi-persistant avec un feuillage doré, vert et jaune. Petites fleurs blanches de l'été à l'automne.  
-
-#### **Abélia luisante ‘Edward Goucher’**  
-*Abelia ‘Edward Goucher’*  
-**W**  
-- **Taille** : 6’ x 7’ → 7’ x 8’  
-- **Exposition** : Plein soleil à lumière ombragée  
-- **Caractéristiques** : Multi-tiges avec un feuillage sombre. Fleurs roses de l'été à l'automne.  
-
-#### **Arbousier**  
-*Arbutus unedo*  
-**W**  
-- **Taille** : 10’ x 10’ → 18’ x 18’  
-- **Exposition** : Plein soleil ou lumière ombragée  
-- **Caractéristiques** : Fleurs et fruits en automne avec un feuillage et une écorce attrayants toute l'année.  
-
-#### **Arbousier compact**  
-*Arbutus unedo ‘Compacta’*  
-**W**  
-- **Taille** : 8’ x 8’ → 15’ x 15’  
-- **Exposition** : Plein soleil à lumière ombragée  
-- **Caractéristiques** : Fleurs et fruits en automne avec un feuillage et une écorce attrayants toute l'année.  
-
-#### **Aronie noire ‘Autumn Magic’**  
-*Aronia melanocarpa ‘Autumn Magic’*  
-- **Taille** : 5’ x 4’ → 7’ x 6’  
-- **Exposition** : Plein soleil  
-- **Caractéristiques** : Arbuste compact avec des fleurs, des fruits et une écorce attrayante sur 4 saisons.  
-
-#### **Aucuba du Japon panaché**  
-*Aucuba japonica ‘Mr. Goldstrike’*  
-**S**  
-- **Taille** : 6’ x 6’ → 8’ x 7’  
-- **Exposition** : Ombre légère à profonde  
-- **Caractéristiques** : Feuillage éclatant, éclaboussé d'or, toute l'année.  
-
-#### **Aucuba du Japon ‘Rozannie’**  
-*Aucuba japonica ‘Rozannie’*  
-**S**  
-- **Taille** : 4’ x 4’ → 6’ x 6’  
-- **Exposition** : Ombre légère à profonde  
-- **Caractéristiques** : Feuillage vert brillant toute l'année avec des fruits rouges éclatants en automne.  
-
-#### **Aucuba du Japon ‘Serratifolia’**  
-*Aucuba japonica ‘Serratifolia’*  
-**S**  
-- **Taille** : 6’ x 6’ → 8’ x 7’  
-- **Exposition** : Ombre légère à profonde  
-- **Caractéristiques** : Feuillage audacieux et brillant toute l'année.  
-
-#### **Berberis de Darwin**  
-*Berberis darwinii*  
-**S, D, W**  
-- **Taille** : 5’ x 4’ → 6’ x 6’  
-- **Exposition** : Plein soleil ou lumière ombragée  
-- **Caractéristiques** : Bourgeons rouges/orange qui s'ouvrent en fleurs orange au printemps.  
-
-#### **Berberis verruqueux**  
-*Berberis verruculosa*  
-**S, D**  
-- **Taille** : 4’ x 5’ → 6’ x 6’  
-- **Exposition** : Plein soleil à lumière ombragée  
-- **Caractéristiques** : Petites feuilles persistantes avec des fleurs jaunes au printemps.  
-
----
-
-### **Programme Éducatif : Sélection de Grandes Plantes**  
-Great Plant Picks (GPP) est le programme éducatif principal du jardin botanique Elisabeth C. Miller. En 2001, la première liste a été publiée avec des recommandations pour créer une palette complète de plantes exceptionnelles pour le nord-ouest pacifique maritime. À ce jour, plus de 1 000 plantes exceptionnelles ont été sélectionnées pour les jardiniers vivant à l'ouest des montagnes Cascade, allant de Eugene, Oregon, États-Unis, à Vancouver, Colombie-Britannique, Canada.  
-
-### **Critères de Sélection des Plantes GPP**  
-Les plantes figurant sur cette liste répondent aux critères suivants :  
-- Peuvent vivre dans une variété de sols.  
-- Nécessitent une quantité modérée ou moindre d'eau supplémentaire.  
-- Tolèrent la chaleur.  
-- Résistantes au froid dans la zone USDA 7.  
-- Peu sujettes aux maladies/problèmes de ravageurs.  
-- Offrent un intérêt pour le jardin pendant plus d'une saison.  
-
-De nombreuses plantes GPP offrent également des avantages écologiques (pollinisateurs, nourriture pour oiseaux, habitat pour la faune, etc.).  
-
----
-
-### **Politique d'Anti-Discrimination**  
-Le service d'extension de l'université de l'État de l'Oregon interdit toute discrimination dans ses programmes, services, activités et matériels sur la base de la race, de la couleur, de l'origine nationale, de la religion, du sexe, de l'identité de genre (y compris l'expression de genre), de l'orientation sexuelle, du handicap, de l'âge, du statut matrimonial, du statut familial ou parental, des revenus provenant d'un programme d'aide publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours négatifs liés à une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s'appliquent pas à tous les programmes.)
+| Nom | S/D/W | Taille à 10 ans | Taille adulte | Soleil/Ombre | Caractéristiques remarquables |
+|------|-------|----------------|--------------|--------------|------------------------------|
+| Abélia luisant Abelia x grandiflora | W | 1,80 m x 2,10 m | 2,40 m x 2,70 m | Plein soleil à légère ombre | Semi-persistant avec des fleurs roses parfumées du début du printemps à l’automne. |
+| Abélia panaché d’or Abelia x grandiflora 'Kaleidoscope' | W | 1,20 m x 1,50 m | 1,50 m x 1,80 m | Plein soleil à légère ombre | Semi-persistant avec un feuillage doré, vert et jaune. Petites fleurs blanches de l’été à l’automne. |
+| Abélia luisant ‘Edward Goucher’ Abelia ‘Edward Goucher’ | W | 1,80 m x 2,10 m | 2,10 m x 2,40 m | Plein soleil à légère ombre | Plusieurs tiges avec un feuillage sombre. Fleurs roses de l’été à l’automne. |
+| Arbousier Arbutus unedo | W | 3 m x 3 m | 5,50 m x 5,50 m | Plein soleil ou légère à moyenne ombre | Fleurs et fruits d’automne avec un feuillage et une écorce attrayants toute l’année. |
+| Arbousier compact Arbutus unedo 'Compacta' | W | 2,40 m x 2,40 m | 4,50 m x 4,50 m | Plein soleil à légère ombre | Fleurs et fruits d’automne, feuillage et écorce décoratifs toute l’année. |
+| Aronie noir ‘Autumn Magic’ Aronia melanocarpa 'Autumn Magic' |  | 1,50 m x 1,20 m | 2,10 m x 15 cm | Plein soleil | Arbuste compact à intérêt pour les 4 saisons avec fleurs, fruits et écorce décorative. |
+| Aucuba du Japon panaché Aucuba japonica 'Mr. Goldstrike' | S | 1,80 m x 1,80 m | 2,40 m x 18 cm | Ombre tachetée à profonde | Feuillage éclatant toute l’année, taché d’or. |
+| Aucuba du Japon ‘Rozannie’ Aucuba japonica 'Rozannie' | S | 1,20 m x 1,20 m | 1,80 m x 1,80 m | Ombre tachetée à profonde | Feuillage vert brillant toute l’année, avec fruits rouges éclatants à l’automne. |
+| Aucuba du Japon à feuilles dentées Aucuba japonica 'Serratifolia' | S | 1,80 m x 1,80 m | 2,40 m x 2,10 m | Ombre tachetée à profonde | Feuillage brillant et audacieux toute l’année. |
+| Épine-vinette de Darwin Berberis darwinii | S, D, W | 1,50 m x 1,20 m | 1,80 m x 1,80 m | Plein soleil ou légère ombre | Bourgeons rouges/oranges s’ouvrant en fleurs oranges au printemps. |
+| Épine-vinette verruqueuse Berberis verruculosa | S, D | 1,20 m x 1,50 m | 1,80 m x 1,80 m | Plein soleil à légère ombre | Petites feuilles persistantes avec fleurs jaunes au printemps. |
+| Camélia ‘Bob Hope’ Camellia japonica 'Bob Hope' | W | 2,40 m x 1,80 m | 4,50 m x 3,60 m | Légère à moyenne ombre | Feuillage persistant vert foncé brillant avec fleurs rouges semi-doubles. |
+| Lilas de Californie ‘Victoria’ Ceanothus 'Victoria' | W | 1,80 m x 1,20 m | 3,60 m x 4,50 m | Plein soleil | Le plus rustique des lilas de Californie, feuilles vert foncé et fleurs bleu indigo. |
+| Ciste blanc Cistus x hybridus | D | 0,90 m x 1,50 m | 1,20 m x 1,80 m | Plein soleil | Le ciste le plus rustique et fiable pour notre région, fleurs blanches au printemps. |
+| Cornouiller à tiges rouges ‘Ivory Halo’ Cornus alba 'Bailhalo' IVORY HALO | W | 1,80 m x 1,80 m | 2,40 m x 2,40 m | Plein soleil, légère ou moyenne ombre | Feuillage vert menthe et blanc crème avec fleurs au printemps et couleur d’automne. |
+| Cornouiller à tiges rouges ‘Elegantissima’ Cornus alba 'Elegantissima' | W | 2,40 m x 2,40 m | 3 m x 3 m | Plein soleil, légère à tachetée ombre | Arbuste robuste avec feuilles panachées blanc-vert, couleur d’automne, tiges rouges en hiver. |
+| Cornouiller à tiges noires Cornus alba 'Kesselringii' | S, D, W | 2,40 m x 2,40 m | 3 m x 3 m | Plein soleil, légère ou moyenne ombre | Tiges uniques, brillantes, pourpre-noir profond. Jeunes feuilles printanières violettes, couleur sombre persistante en saison. |
+| Cornouiller stolonifère ‘Baileyi’ Cornus sericea 'Baileyi' | W | 2,40 m x 2,40 m | 3 m x 3 m | Plein soleil, légère à tachetée ombre | Arbuste classique : fleurs blanches au printemps, baies blanches été/automne, tiges rouges vives en hiver. |
+| Cornouiller à tiges rouges panaché Cornus sericea 'Hedgerows Gold' | W | 2,40 m x 2,40 m | 3 m x 3 m | Plein soleil, légère à tachetée ombre | Feuillage doré vif sur tiges rouges. Fruits appréciés des oiseaux. |
+| Cotinus pourpre Cotinus coggygria 'Royal Purple' | W | 2,40 m x 2,10 m | 4,50 m x 3,60 m | Plein soleil ou légère ombre | Feuillage bordeaux riche et petites fleurs formant des panicules vaporeuses. |
+| Cotinus pourpre ‘Grace’ Cotinus 'Grace' | W | 4,50 m x 3,60 m | 6 m x 4,50 m | Plein soleil à légère ombre | Feuillage du rouge clair au rouge foncé avec de nombreuses fleurs roses et belle couleur d’automne. |
+| Cotonéaster compact Cotoneaster adpressus 'Little Gem' | W | 0,60 m x 0,90 m | 0,90 m x 1,50 m | Plein soleil à légère ombre | Arbuste dense, semi-persistant à caduc, baies rouges. Idéal en bordure ou en cascade sur muret. |
+| Cotonéaster de Dammer Cotoneaster dammeri | S, W | 15 cm x 1,80 m | 15 cm x 3 m | Plein soleil à légère ou moyenne ombre | Arbuste facile, dense, semi-persistant, baies rouges. |
+| Cotonéaster à feuilles grises Cotoneaster glaucophyllus hort. | W | 0,60 m x 1,20 m | 0,90 m x 1,80 m | Plein soleil, légère à moyenne ombre | Feuillage gris-vert fumé, excellente petite haie. Fleurs blanches au printemps, baies rouges de l’été à l’hiver. |
+| Bruyère de Darley ‘Darley Dale’ Erica x darleyensis 'Darley Dale' | W | 0,30 m x 0,90 m | 0,45 m x 1,20 m | Plein soleil | Nombreuses fleurs roses coquille, fonçant avec la saison. |
+| Bruyère de Darley ‘Kramer's Rote’ Erica x darleyensis 'Kramer's Rote' | W | 0,30 m x 0,90 m | 0,45 m x 1,20 m | Plein soleil | Bruyère buissonnante dressée à fleurs rouge-pourpre de décembre à avril. |
+| Bruyère de Darley ‘Silberschmelze’ Erica x darleyensis 'Silberschmelze' | W | 0,30 m x 0,90 m | 0,45 m x 1,20 m | Plein soleil | « Argent fondu » : mer de petites fleurs argentées en clochettes de décembre à mai, recouvrant ses feuilles persistantes en aiguilles. |
+| Bruyère de Darley ‘White Perfection’ Erica x darleyensis 'White Perfection' | W | 0,30 m x 0,90 m | 0,45 m x 1,20 m | Plein soleil | Fleurs blanches très lumineuses, floraison de décembre à avril, petites clochettes sur feuilles vert vif à pointes jaunes au printemps. |
+| Bruyère d’hiver ‘Myretoun Ruby’ Erica carnea 'Myretoun Ruby' | W | 0,30 m x 0,90 m | 0,45 m x 1,20 m | Plein soleil | Centaines de petites fleurs en cloche, rose poussiéreux devenant magenta puis rouge rubis. Couvre l’arbuste de janvier à mai. |
+| Bruyère d’hiver ‘Springwood White’ Erica carnea 'Springwood White' | W | 0,30 m x 0,90 m | 0,45 m x 1,20 m | Plein soleil | Nombreuses petites fleurs blanc-gris en cloche de décembre à mai, sur un arbuste persistant à port bas et étalé. |
+| Bruyère d’hiver ‘Vivellii’ Erica carnea 'Vivellii' | W | 0,30 m x 0,90 m | 0,45 m x 1,20 m | Plein soleil | Centaines de petites fleurs rose-pourpre fonçant magenta, sur un arbuste persistant à port bas et étalé. |
+| Fatsia du Japon Fatsia japonica | S | 1,80 m x 1,50 m | 2,10 m x 15 cm | Ombre ouverte à profonde | Le plus original des persistants, grandes feuilles palmées pour le jardin d’ombre. Feuilles jusqu’à 40 cm de large. |
+| Fatsia du Japon camouflé Fatsia japonica 'Murakumo nishiki' CAMOUFLAGE | S | 1,50 m x 1,20 m | 2,10 m x 1,80 m | Ombre ouverte à profonde | Feuilles palmées audacieuses, jusqu’à 40 cm, base jaune clair, panachée de différentes nuances de vert jusqu’au bord. |
+| Forsythia panaché Forsythia 'Fiesta' | W | 1,80 m x 1,80 m | 2,40 m x 2,40 m | Plein soleil | Forsythia compact à feuilles panachées et fleurs jaunes au printemps. |
+| Houx du Japon à feuilles convexes Ilex crenata 'Convexa' | S, D | 1,20 m x 1,50 m | 1,80 m x 1,80 m | Plein soleil à légère ombre | Persistant à croissance rapide, excellent en haie. |
+| Houx du Japon nain ‘Dwarf Pagoda’ Ilex crenata 'Dwarf Pagoda' | D | 0,90 m x 0,60 m | 1,20 m x 0,60 m | Plein soleil, légère à moyenne ombre | Houx japonais très compact et nain. |
+| Houx du Japon ‘Green Island’ Ilex crenata 'Green Island' | S, D | 1,20 m x 1,50 m | 1,80 m x 1,80 m | Plein soleil à ombre tachetée | Feuilles persistantes foncées à texture fine, port étalé. |
+| Houx du Japon colonnaire ‘Mariesii’ Ilex crenata 'Mariesii' | S, D | 1,20 m x 0,30 m | 2,40 m x 0,60 m | Plein soleil, légère à moyenne ombre | ‘Mariesii’ pousse tout droit, créant un point d’exclamation vert foncé au jardin. |
+| Houx du Japon ‘Northern Beauty’ Ilex crenata 'Northern Beauty' | S, D | 1,20 m x 1,50 m | 1,80 m x 1,80 m | Plein soleil à ombre tachetée | Arbuste persistant vigoureux, ramification dense, feuilles plus grandes que la plupart des autres variétés. |
+| Troène du Japon à feuilles frisées Ligustrum japonicum 'Rotundifolium' |  | 0,90 m x 0,60 m | 1,50 m x 0,90 m | Plein soleil à légère ou moyenne ombre | Arbuste persistant dense, feuilles épaisses et vert foncé. |
+| Chèvrefeuille à feuilles de buis Lonicera liqustrina var pileata |  | 0,90 m x 1,50 m | 1,20 m x 1,80 m | Plein soleil à légère, moyenne, tachetée ombre | Feuillage persistant rappelant le buis sur un arbuste bas étalé, petites fleurs blanches suivies de baies pourpres. |
+| Chèvrefeuille doré à feuilles de buis Lonicera nitida 'Baggensen's Gold' | S | 1,20 m x 1,80 m | 1,80 m x 2,40 m | Plein soleil à ombre tachetée | Touffe de branches arquées couvertes de feuilles dorées délicates. |
+| Mahonia hybride ‘Arthur Menzies’ Mahonia x media 'Arthur Menzies' | S, W | 1,80 m x 1,50 m | 2,40 m x 1,80 m | Plein soleil à ombre tachetée | Feuilles spectaculaires en verticilles. Grandes grappes de fleurs dorées en hiver, suivies de grappes de baies noires cireuses en fin d’été. |
+| Mahonia hybride ‘Charity’ Mahonia x media 'Charity' | W | 1,80 m x 1,50 m | 2,40 m x 1,80 m | Plein soleil à ombre tachetée | Arbuste persistant majestueux pour le jardin d’hiver. Fleurs jaune pâle en hiver. |
+| Mahonia hybride ‘Winter Sun’ Mahonia x media 'Winter Sun' | S, W | 1,80 m x 1,50 m | 2,40 m x 1,80 m | Plein soleil à ombre tachetée | Arbuste persistant à feuilles en frondes et fleurs jaunes parfumées en fin d’automne/début d’hiver. |
+| Mahonia à feuilles alternes Mahonia nervosa | S | 0,60 m x 1,20 m | 0,90 m x 1,80 m | Plein soleil à ombre profonde | Originaire du nord-ouest du Pacifique. Couvre-sol avec fleurs jaunes en mai. |
+| Mahonia rampante Mahonia repens | S | 0,30 m x 0,90 m | 0,30 m x 1,50 m | Plein soleil à ombre profonde | Originaire du PNW. Fin hiver à début printemps, grappes serrées de fleurs jaunes vif pour les pollinisateurs du jardin. |
+| Bambou sacré compact Nandina domestica 'Gulf Stream' |  | 0,90 m x 0,60 m | 1,20 m x 0,90 m | Plein soleil à légère ou moyenne ombre | Arbuste persistant compact, feuillage remarquable toute l’année. |
+| Osmanthe de Burkwood Osmanthus x burkwoodii | S, D | 1,50 m x 1,50 m | 3 m x 3 m | Plein soleil à ombre légère à profonde | Arbuste persistant robuste, idéal en écran, pousse presque partout. |
+| Osmanthe odorant Osmanthus delavayi | S, D, W | 1,80 m x 1,50 m | 3,60 m x 2,40 m | Plein soleil à ombre légère à profonde | Petites feuilles vert foncé et fleurs tubulaires blanches parfumées, intérêt toute l’année. |
+| Faux houx panaché Osmanthus heterophyllus 'Goshiki' | S | 1,50 m x 1,50 m | 2,40 m x 2,40 m | Plein soleil, ombre légère à profonde | Arbuste persistant panaché, robuste, fleurs parfumées en automne. |
+| Faux houx à feuilles pourpres Osmanthus heterophyllus 'Purpureus' | S, W | 1,80 m x 1,50 m |

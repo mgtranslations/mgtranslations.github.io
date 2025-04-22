@@ -1,106 +1,132 @@
-## Jaamacadda 10-Daqiiqo™  
-Ururka Clackamas County Master Gardener oo iskaashanaya barnaamijka OSU Extension Master Gardener™  
+#### 10-Minute University™ · Ururka Beeralayda Khabiirada ah ee Clackamas County oo iskaashanaya lana shaqeynaya Barnaamijka OSU Extension Master Gardener™
 
-### Beerashada Saladhka iyo Cagaarka Kale  
+# Sida Loo Koro Saladhka & Cagaarka Kale
 
-#### Guudmar  
-Saladhka iyo cagaarka caleenta leh waa dalagyo aad u wanaagsan oo ku habboon beeralayda cusub iyo kuwa khibradda leh.  
-Xilliga koritaanka oo gaaban waxay siinaysaa natiijooyin degdeg ah iyo dalagyo badan xilli kasta. Shuruudaha dhaqanka oo hooseeya waxay ka dhigayaan kuwo ku habboon balakoonada guryaha iyo sidoo kale beero gadaal ah. Qiimaha qurxinta oo sarreeya waxay ka dhigayaan kuwo cunto macaan oo lagu beero weelasha barxadda. Cagaarka, waxay ka duwan yihiin khudaarta kale, waxay u dulqaadan karaan hooska qaar, oo beerashada cagaarkaaga waa mid dhaqaale ah. Hal baakad oo abuur ah waxay celcelis ahaan ku jirtaa 2,000 oo abuur waxayna bixisaa dhowr bilood oo isku dhafka caleenta saladhka ah, mid ka mid ah alaabta qaaliga ah ee suuqyada.
+### Guudmar
 
----
+Saladhka iyo caleenta cagaaran waa dalagyo aad ugu fiican beeraleyda cusub iyo kuwa khibrada leh labadaba. Xilliga koritaankooda oo gaaban ayaa keenaya natiijo degdeg ah iyo dalagyo badan xilli kasta. Uma baahna daryeel badan, taasoo ka dhigaysa kuwo ku habboon in lagu beero balakoonada guryaha ama beerta guriga. Quruxdooda sare awgeed waxay noqon karaan cunto la cuni karo oo lagu dhex beero weelasha banaanka. Cagaarka intooda badan way u adkeysan karaan hooska, beertooduna waa mid dhaqaale ah. Hal baakado oo abuur ah ayaa celcelis ahaan leh 2,000 oo abuur ah, waxaana laga heli karaa caleen badan oo saladh ah dhowr bilood, taasoo ah mid ka mid ah cuntooyinka ugu qaalisan ee suuqa lagu iibiyo.
 
-### Cagaarka Caadiga ah ee Caleenta Leh  
-- **Saladhka caleenta dabacsan**:  
-  Oak Leaf, Red Sails, Salad Bowl  
-- **Saladhka madaxa dabacsan**:  
-  Buttercrunch, Bibb, Boston  
-- **Saladhka Romaine**:  
-  Valmaine, Cos  
-- **Saladhka Iceberg**:  
-  Summertime, Red Iceberg  
-- **Spinach**:  
-  - Nooca Aasiya – xilliga qabow  
-  - New Zealand – xilliga diiran  
+### Noocyada Caleen Cagaaran ee Caadiga ah
 
-#### Cagaarka Kale ee leh Baahiyo Dhaqan oo La Mid ah  
-- **Arugula**: Waxay bixisaa dhadhan macaan oo lowska u eg.  
-- **Mustard**: Waxay bixisaa dhadhan basbaas oo khafiif ah.  
-- **Bok choy**: Ugu fiican in lagu isticmaalo shiil.  
-- **Swiss chard iyo kale**: Waa dhir adag, u adkeysan kara qabow; ku kari si aad ugu adeegto.
+- **Saladh caleen furan:** Oak Leaf, Red Sails, Salad Bowl
+- **Saladh madax furan:** Buttercrunch, Bibb, Boston
+- **Saladh romaine:** Valmaine, Cos
+- **Saladh Iceberg:** Summertime, Red Iceberg
+- **Spinach:**
+  - Asian – xilli qabow ama caleen ballaaran
+  - New Zealand – xilli diiran
+
+### Cagaarka Kale oo Leh Baahi La Mid ah
+
+- **Arugula:** Waxay leedahay dhadhan lows ah oo macaan
+- **Mustard:** Waxay keentaa dhanaan yar
+- **Bok choy:** U fiican in la shiilo
+- **Swiss chard & kale:** Geedo adkaysi leh, u adkaysta qabow; kari ka hor cunista
 
 ---
 
-### Sida Loo Bilaabo  
-Saladhka iyo cagaarka kale waxaa lagu kori karaa abuur ama geedo. Tilmaamaha beerista abuurka waa in lagu beero meel qoto dheer oo u dhiganta 2 ilaa 4 jeer ballaarinta abuurka. Taas macnaheedu waa, haddii abuurku khafiif yahay, waa in si hoose loo beero. Fiiri baakadka abuurka macluumaad dheeraad ah.
+## Sida Loo Bilaabo
 
-#### Beerista Tooska ah:  
-Ka saar dhammaan haramaha; hagaaji ciidda haddii loo baahdo. Dhig sariirta si siman, ku rushee abuurka si khafiif ah, oo ku dabool ¼ inch oo ciid ah. Marka dhirtu korayso, kala fogee si looga fogaado ciriir iyo si loo hubiyo in dhirta ka hartay sariirta ay helaan boos ay ku samaysmaan madax. Geedo yar-yar waxaa loo isticmaali karaa cagaarka yar-yar.  
+Saladhka iyo cagaarka kale waxaa laga kori karaa abuur ama dhir la beddelay. Talooyinka abuurka waa in la beero qoto dheer oo la eg 2 ilaa 4 jeer ballaca abuurka. Haddii abuurku yar yahay, si siman oo sare u dhow u beero. Ka eeg baakadka abuurka faahfaahin dheeraad ah.
 
-#### Geedo:  
-Dooro dhirta xooggan; si fiican ugu qoy weelka ka hor beerista si loo hubiyo inay si fiican u qoyan yihiin. Ka fur xididdada oo ku beero dhulka ama weel.  
+### Abuur Toos ah
 
-#### Beerista Weelasha:  
-Weelasha waa ku habboon yihiin beerista saladhka iyo cagaarka kale. Ku bilow isku dar wanaagsan oo loogu talagalay weelka. Ciidda beerta oo wanaagsan oo qaro weyn waxay beddeli kartaa ugu badnaan 1/3 isku darka guud.  
-- **Fertilizer-ka isku dar ah**:  
-  - 1 koob oo dolomite lime  
-  - 1 koob oo cottonseed ama alfalfa meal, ama 2/3 koob oo blood meal  
-  - 2 koob oo bone meal ama soft rock phosphate  
-  - 1 koob oo kelp meal  
+1. Ka saar dhammaan haramaha; hagaaji ciidda haddii loo baahdo.
+2. Siman sariirta, ku sayr abuurka si fudud, dabool ¼ inch oo ciid ah.
+3. Marka dhirtu koreyso, kala fogee si aysan isu daboolin, una samee meel ay madax uga samaysmaan.
+4. Geedo yaryar waxaa loo isticmaali karaa “cagaar yar oo la cuno.”
 
-Si loo fududeeyo goosashada, u kala qaybso dalagyada iyadoo loo eegayo baahiyaha dhaqanka iyo sida ay u koraan. Tusaale ahaan, saladhku wuxuu leeyahay xilli koritaan oo ka dheer broccoli. Ku beerista weelal kala duwan waxay kuu ogolaanaysaa inaad goosato broccoli toddobaadyo kahor inta saladhka uusan dhammaan. Weelka waxaa loo isticmaali karaa wax kale.
+### Dhir Bedbeddel
 
----
+- Dooro geedo xoog badan; si fiican ugu qoy weelka ka hor intaadan beerin si ay biyo u filan u helaan.
+- Xorayso xididdada, ku beero dhulka ama weel.
 
-### Goorta la Beero  
-Heerkulka ugu yar ee ciidda waa inuu ahaadaa 40 ilaa 45 darajo. Ciidda sariiraha kor loo qaaday iyo weelasha waxay gaari doonaan heerkulkaas ka hor dhulka caadiga ah.  
-Cagaarka caleenta leh waxay si fiican u koraan marka heerkulka hawadu yahay 60 ilaa 70 darajo. Cimilada qabow ma dhaawacayso dhirta laakiin waxay uun gaabinaysaa koritaanka.  
+### Beerista Weelasha
 
-#### Beerista Xilliyada:  
-- **Xagaaga**: Beero cagaarka laga bilaabo guga hore ilaa xagaaga hore si aad u hesho goosashada xagaaga.  
-- **Dayrta**: Beero cagaarka xagaaga dambe si aad u hesho goosashada dayrta.  
+Weelashu waa kuwo ku habboon in lagu beero saladhka iyo cagaarka kale. Ku bilow isku dar wanaagsan oo ciid ah oo loogu talagalay weel. Ciidda beerta oo wanaagsan waa la isticmaali karaa, laakiin ha ka badin 1/3 ee isku darka guud.
 
-Cimilada kulul waxay sababtaa cagaarka inuu soo baxo ama dhigo abuur. Marka ay tan dhacdo, caleemaha waxay noqdaan qallafsan oo dhanaan. Noocyada gaabiska ah ama kuwa u dulqaadan kara xilli kulul waxay si fiican u shaqeeyaan xagaaga.
+Dhererka 2.5 cubic feet ee isku darka aan la darin bacriminta, ku dar:
+
+- 1 koob oo dolomite lime ah
+- 1 koob oo cottonseed ama alfalfa meal ah (ama 2/3 koob oo blood meal ah)
+- 2 koob oo bone meal ama soft rock phosphate ah
+- 1 koob oo kelp meal ah
+
+Si sahlan loo goosto, isku kooxe dalagyada baahidooda iyo habkooda koritaanka. Tusaale ahaan, saladhku wuxuu leeyahay xilli koritaan dheer marka loo eego broccoli. Haddii aad ku beerto weelal kala duwan, broccoli waad goosan kartaa dhowr toddobaad ka hor inta saladhku dhammaan, weelkana waxaad ka dhigtaa dalag kale.
 
 ---
 
-### Ciidda  
-Cagaarka wuxuu ku habboon yahay noocyo kala duwan oo ciid ah; si kastaba ha ahaatee, ciidda dhoobada culus waa in lagu hagaajiyo compost ama ciid si loo hubiyo biyaha inay si fiican u baxaan. Saladhka lagu beero xaalado qoyan wuxuu u nugul yahay caariyaha cad (Sclerotinia sclerotiorum).  
-Cagaarka wuxuu u baahan yahay qiyaastii 1 inch oo biyo ah usbuucii; si joogto ah u waraabi cagaarka si ciidda qoyan u ahaato. Haddii aad doorato inaad biyaha ka warabiso ka sarreeya, hubi in caleemaha ay qalalaan ka hor habeenkii.
+## Goorma La Beero
+
+- Heerkulka ugu yar ee ciidda waa inuu ahaadaa **40 ilaa 45 digrii**. Ciidda sariiraha sare iyo weelasha way kululaan doontaa ka hor ciidda dhulka. U isticmaal heerkulbeeg ciidda ah oo laga heli karo xarumaha beerta si aad u hubiso heerkulka ciiddaada.
+- Cagaarka caleenta ah wuxuu ugu fiican yahay marka heerkulka hawadu yahay **60 ilaa 70 digrii**. Cimilada qabow dhirta waxba uma dhinto, laakin waxay gaabinaysaa koritaanka.
+
+### Xilliyada Beerista
+
+- **Goosashada Xagaaga:** Beero cagaarka guga hore ilaa xagaaga hore.
+- **Goosashada Dayrta:** Beero cagaarka xagaaga dambe.
+
+Cimilada kulul waxay sababtaa cagaarka inuu ubaxdo ama abuur sameeyo, taasoo caleemaha ka dhigaysa mid adag oo qadhaadh. Noocyada adkaysiga dheer leh ayaa si fiican u shaqeeya xilliga xagaaga.
 
 ---
 
-### Bacriminta  
-Cagaarka waxay leeyihiin xididdo gaaban waxayna u baahan yihiin kaliya 7 ilaa 8 inch oo ciidda bacrin ah. Ku dar bacriminta nitrogen heerka 0.2 rodol halkii 100 square feet.
+## Ciidda
+
+Cagaarku waa la qabsan karaa noocyo kala duwan oo ciid ah; si kastaba ha ahaatee, ciidda dhoobada culus waa in lagu daro compost ama ciid si loo helo biyo-mareen fiican. Saladhka lagu beero xaalado qoyan wuxuu halis ugu jiraa caariyays cad (*Sclerotinia sclerotiorum*).
+
+- Cagaarku wuxuu u baahan yahay qiyaastii **1 inch oo biyo ah usbuucii**. Biyo si joogto ah u sii si aad ciidda u qoyso.
+- Haddii aad biyo sare ka waraabiso, hubi in caleemaha qalalaan kahor fiidkii.
 
 ---
 
-### Duqsiyada  
-Ciidda qoyan ee hoos yaal dhirta saladhka iyo caleemaha macaan ee jilicsan waxay abuuraan deegaan ku habboon duqsiyada. Duqsiyada waxaa lagu maarayn karaa dhowr hab oo deegaan ahaan u wanaagsan. Ku gooy duqsiyada labo qeybood iyadoo maqas la adeegsanayo waa sahlan tahay. Dabinnada laga sameeyo weelal yar-yar sida weelasha tuna-ka, oo dhulka lagu qodo si geeska sare uu uga sarreeyo ciidda, laguna buuxiyo khamri, ayaa soo jiita duqsiyada.  
-Haddii aad isticmaasho suntan duqsiyada, hubi inay ammaan u tahay xayawaanka iyo xayawaanka kale ee booqan kara beertaada.
+## Bacriminta
+
+Cagaarku wuxuu leeyahay xididdo gaagaaban, wuxuuna u baahan yahay **7 ilaa 8 inch oo ciid bacrin ah**. Ku dar bacriminta nitrogen-ka heer ah **0.2 rodol 100 feet oo labajibbaaran** ah.
 
 ---
 
-### Goosashada iyo Kaydinta  
-Gooso cagaarka subaxii ka hor inta caleemaha aysan bilaabin inay dillaacaan. Gooso "cagaarka yar-yar" adigoo jaraya dhirta oo dhan heerka dhulka, oo uga tag meel ku filan dhirta ka hartay si ay madax ugu samaysmaan. Si aad uga goosato madax, ama jaro dhirta oo dhan heerka dhulka ama ka jar kaliya caleemaha dibedda. Ka tagista caleemaha gudaha waxay u oggolaanaysaa dhirta inay sii wadaan soo saarista.  
-Kadib goosashada, saladhka ku cusboonaysii adigoo ku qoyaya weel biyo qabow ah 15 daqiiqo. Ku rog ama ku daadi si fiican, si adag ugu xir, oo ku kaydi qaboojiyaha ilaa saddex maalmood.  
-Si aad u kariso Swiss chard ama kale, ka saar qanjidhka dhexe kaas oo noqon kara qalloocan ama dhanaan. Caleemaha jar oo ku shiil saliid saytuun yar. Toonta, cusbada, iyo basbaaska waa waxyaabo wanaagsan oo lagu daro. Qanjidhka dhexe waa fiican yahay maraq ama fuud.
+## Daalin (Slugs)
+
+Ciidda qoyan, hooska leh ee dhirta saladhka iyo caleemaha macaan waxay abuuraan deegaan ku habboon daalinka. Daalinka waxaa lagu xakameyn karaa siyaabo deegaan u wanaagsan:
+
+- In la gooyo labo qaybood oo maqas ah waa sahlan tahay.
+- Dabinnada laga sameeyo weel yar-yar (sida qasacadaha tuna), oo la geliyo si ay u yara kornaato ciidda, lana buuxiyo biir, waxay soo jiitaan daalinka.
+- Haddii aad isticmaalayso sunta daalinka ee la iibiyo, hubi inay ammaan u tahay xayawaanka iyo xayawaanka kale ee booqda beertaada.
 
 ---
 
-### Khayraadka Adeegga OSU Extension  
-- Ku koriso saladhkaaga, spinach, iyo Swiss chard (EC 1268)  
-- Qorshaynta iyo diyaarinta goobta beertaada khudradda (EC 1228)  
-- Beerashada sariiraha kor loo qaaday (FS 270)  
-- Sida loo dhiso sariir kor loo qaaday oo leh dabool (EC 1627)  
-- Beerashada iyadoo la adeegsanayo composts, mulches, iyo daboolyada safka (EC 1247)  
-- Buugga Beerashada Waarta (EM 8742)  
+## Goosashada iyo Kaydinta
+
+- **Goosashada:**
+  - Gooso cagaarka subaxii kahor inta caleemuhu uusan bilowgin inay qalalaan.
+  - Haddii aad rabto “cagaar yar oo la cuno,” jar dhirta oo dhan heerka ciidda, meelna ka sii tag si dhirta kale ay madax uga sameysmaan.
+  - Si aad madax uga goosato, jari dhirta oo dhan heerka ciidda ama ka googo’ caleemaha dibadda. Haddii caleemaha gudaha la reebo, dhirtu way sii kori kartaa.
+
+- **Kaydinta:**
+  - Isla markiiba ka dib goosashada, saladhka geli biyo qabow 15 daqiiqo si uu u cusboonaado.
+  - Qalad ama biyo ka saar, si fiican ugu xir, kuna kaydi qaboojiyaha ilaa saddex maalmood.
+
+- **Karinta Swiss Chard ama Kale:**
+  - Ka gooy qaybta dhexe ee caleenta, taasoo adkaan karta ama qadhaadh noqon karta.
+  - Caleemaha jar oo ku shiil saliid saytuun ah oo yar. Toonta, milixda, iyo basbaaska waa lagu dari karaa.
+  - Qaybaha dhexe waa wanaagsan yihiin maraq ama fuud.
 
 ---
 
-### Talooyinka Master Gardener™  
-- Wac Khadka Caawinta Guriga: 503-655-8631 (Clackamas County); 503-821-1150 (Washington County); ama 503-445-4608 (Multnomah County).  
-- Wixii qoraallo ah oo dheeraad ah iyo jadwalka fasalka 10-Daqiiqo Jaamacadda™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+## Kheyraadka Adeegga OSU Extension
+
+- [Korso saladhkaaga, spinach, iyo Swiss chard (EC 1268)](https://catalog.extension.oregonstate.edu/)
+- [Qorsheynta iyo diyaarinta goobta beerta khudradda (EC 1228)](https://catalog.extension.oregonstate.edu/)
+- [Beerta sariiraha sare (FS 270)](https://catalog.extension.oregonstate.edu/)
+- [Sida loo dhisto sariir sare oo cloche ah (EC 1627)](https://catalog.extension.oregonstate.edu/)
+- [Beerta iyadoo la adeegsanayo compost, mulch, iyo daboollo safaf ah (EC 1247)](https://catalog.extension.oregonstate.edu/)
+- [Buugga Beerta Joogtada ah (EM 8742)](https://catalog.extension.oregonstate.edu/)
 
 ---
 
-Adeegga Oregon State University Extension Service wuxuu mamnuucaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka iyada oo ku saleysan jinsiyadda, midabka, asal ahaan qowmiyadeed, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde, xaaladda halyeeyga, aargudashada ama ciqaabta ka hor hawlaha xuquuqda madaniga. (Maaha dhammaan saldhigyada mamnuuca ee khuseeya dhammaan barnaamijyada).
+#### Talo Khabiir Beereed™ · Wac Khadka Gargaarka Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo iyo jadwalka fasallada ee 10-Minute University™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga OSU Extension Service wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawsha, iyo agabka, iyadoo aan loo eegin jinsiyad, midab, asalka qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), nooca galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda ciidanimo, aargoosi, ama ciqaab hore oo la xiriirta xuquuqda madaniga. (Dhammaan sababaha mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
+---

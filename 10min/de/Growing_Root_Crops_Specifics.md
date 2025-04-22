@@ -1,38 +1,156 @@
-# 10-Minute University™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Wurzelgemüse anbauen  
+---
 
-### Zwiebeln pflanzen  
-**Knoblauchzehen**  
-Die optimale Pflanzzeit für Knoblauch ist von August bis Oktober. Teilen Sie die Knolle in einzelne Zehen. Pflanzen Sie die Zehen 3 Zoll tief und 6 Zoll auseinander, mit der Spitze nach oben. Gießen Sie, bis der Winterregen einsetzt oder während trockener Perioden. Halten Sie die Beete frei von Unkraut. Düngen Sie in der Mitte der Saison mit einem ausgewogenen Dünger. Knoblauchblüten (Blütenknospen) können Mitte des Sommers geerntet und gegessen werden. Reduzieren Sie die Bewässerung Ende Juli. Die Blätter beginnen Mitte August zu trocknen und braun zu werden. Verwenden Sie eine Gartenforke, um die Wurzeln vorsichtig zu lockern, und ziehen Sie die Pflanze sanft heraus. Legen Sie den Knoblauch für ein paar Wochen an einen kühlen, trockenen Ort. Schneiden Sie die Blätter ab und entfernen Sie die Wurzeln.
+## Spezifisches zum Anbau von Wurzelgemüse
 
-**Zwiebeln**  
-Pflanzen Sie Zwiebelsätze im März, wenn es kühl ist. Pflanzen Sie diese 2-3 Zoll auseinander, mit der Spitze nach oben. Zwiebeln bevorzugen feuchte und kühle Bedingungen in der frühen Entwicklungsphase. Dünnen Sie die Pflanzen aus, um größere Zwiebeln zu fördern. Düngen Sie in der Mitte der Saison mit einem ausgewogenen Dünger. Entwickelnde Zwiebeln bevorzugen warme und trockene Bedingungen. Ernten Sie, wenn die grünen Spitzen umfallen und zu bräunen beginnen. Reduzieren Sie die Bewässerung zu diesem Zeitpunkt. Verwenden Sie eine Gartenforke, um die Wurzeln vorsichtig zu lockern, und ziehen Sie die Zwiebeln heraus. Bürsten Sie die Erde ab und legen Sie die Zwiebeln für ein bis zwei Wochen an einen erhöhten, kühlen, trockenen Ort. Schneiden Sie die Blätter und die Wurzeln ab.
+### Zwiebelgewächse anbauen
 
-**Porree**  
-Porree aus Samen wird am besten Ende Februar oder Anfang März (8-10 Wochen vor dem letzten Frost) in flachen Tabletts mit Setzling-Erde drinnen gestartet. Nach der Keimung können die Setzlinge in ein Frühbeet umziehen, um sich weiterzuentwickeln. Nach dem Frost können Porree-Setzlinge in 6 Zoll tiefe Löcher gepflanzt werden, jeweils ein Setzling. Pflanzen Sie sie 8-10 Zoll auseinander. Füllen Sie die Löcher nicht mit Erde, sondern lassen Sie sie durch sanftes Gießen nach und nach auffüllen. Mulch oder Kompost können hinzugefügt werden, sobald sie aktiv wachsen. Das tiefe Einpflanzen hilft, die Stängel zu blanchieren und zart zu machen. Sorgen Sie für eine gleichmäßige Feuchtigkeit an der Wurzelzone und tragen Sie Dünger zur Mitte der Wachstumsperiode auf. Porree kann in jeder Wachstumsphase geerntet werden. Verwenden Sie eine Gartenforke, um den Boden 4 Zoll von der Basis entfernt zu lockern, und ziehen Sie die Pflanzen einzeln heraus. Schneiden Sie die Wurzeln und die Blätter 5 Zoll über dem weißen/hellgrünen Stängel ab. Der essbare Teil heißt „Schaft“ und besteht aus fleischigen Schichten des Stängels. Diese Struktur und das Wachstumsmuster machen ihn zu einer Zwiebel.
+#### Knoblauch
 
-## Rhizome anbauen  
-**Ingwer oder Kurkuma**  
-Ingwer oder Kurkuma können aus einem Stück gesunden, prallen Rhizoms gezogen werden. Schneiden Sie das Rhizom in Stücke von 1 bis 1½ Zoll und lassen Sie sie ein paar Tage heilen. Rhizome können mit einem Wachstumshemmer behandelt worden sein, also weichen Sie sie über Nacht in Wasser ein. Pflanzen Sie die Rhizome im März mit den Wachstumsknoten nach oben, 2-4 Zoll auseinander, und bedecken Sie sie mit 3 Zoll Blumenerde in einem Topf. Halten Sie die Pflanzen warm und feucht, um die tropische Herkunft nachzuahmen. Das Rhizom kann Wurzeln wachsen lassen, neue Pflänzchen bilden und Triebe nach oben schicken. Die Pflanze kann im Juni ins Freie oder in einen Garten gepflanzt werden. Das Rhizom wächst während des Sommers horizontal im Topf oder Garten, sollte jedoch vor Frost geerntet oder ins Haus gebracht werden. Ingwerpflanzen wachsen etwa 2 bis 3 Fuß hoch. Die Ernte kann teilweise oder vollständig erfolgen. Verwenden Sie eine Gartenforke, um die Rhizome/Wurzeln vorsichtig zu lockern, brechen Sie ein Stück des Rhizoms ab und entfernen Sie die Blätter. Lagern Sie das Rhizom im Gefrierschrank oder Kühlschrank. Blätter können getrocknet und für Tee verwendet werden.
+- **Pflanzen:**
+  - Knoblauchzwiebeln für beste Ergebnisse von August bis Oktober pflanzen.
+  - Die Zwiebel in einzelne Zehen teilen.
+  - Zehen 7 cm tief, 15 cm auseinander, mit der Spitze nach oben pflanzen.
+- **Pflege:**
+  - Gießen, bis der Winterregen einsetzt oder während Trockenperioden.
+  - Beete unkrautfrei halten.
+  - In der Mitte der Saison mit einem ausgewogenen Dünger düngen.
+- **Ernte:**
+  - Knoblauchblüten (Knoblauchschossen) können Mitte des Sommers geerntet und gegessen werden.
+  - Ende Juli weniger gießen.
+  - Die Blätter beginnen Mitte August zu trocknen und braun zu werden.
+  - Mit einer Grabegabel vorsichtig die Wurzeln lockern und die Pflanze herausziehen.
+  - Knoblauch einige Wochen an einem kühlen, trockenen Ort auslegen.
+  - Blätter kürzen und Wurzeln abschneiden.
 
-## Pfahlwurzeln anbauen  
-**Karotten, Radieschen, Rote Beete und Pastinaken**  
-Diese Gemüse sind kühle Kulturen, was bedeutet, dass sie früh im Frühjahr bei etwa 40 Grad oder spät im Sommer für eine Herbsternte gepflanzt werden können. Pflanzen und platzieren Sie die Samen entsprechend der Packungsanleitung. Halten Sie den Boden während der Keimung gleichmäßig feucht und gießen Sie während der Wachstumsperiode tief und regelmäßig. Das Ausdünnen der jungen Setzlinge ist für die Wurzelentwicklung entscheidend (laut Packungsanleitung). Die Ernte von jungen Wurzelgemüsen dient diesem Zweck. Pastinaken benötigen Mitte der Saison stickstoffreichen Dünger, andere Kulturen sollten mäßig gedüngt werden, mit einem Schwerpunkt auf Phosphor und Kalium. Die Erntezeit hängt von der Pflanzenart ab: Radieschen sind nach 21-35 Tagen bereit, Rote Beete nach 50-65 Tagen, Karotten nach 65-90 Tagen (220 überwintert) und Pastinaken benötigen 100 Tage vor der Sommerhitze. Ernten Sie, indem Sie die Basis des Grüns sanft ziehen und nach oben ziehen. Spülen Sie den Boden ab und lagern Sie die Wurzeln im Kühlschrank, der kühl und feucht ist.
+#### Zwiebeln
 
-## Knollenwurzeln anbauen  
-**Süßkartoffeln**  
-Süßkartoffeln werden aus „Setzlingen“ gezogen, die zu einer kräftigen, rankenden Pflanze heranwachsen. Legen Sie Anfang April eine Süßkartoffel in eine Kartonschachtel mit feuchtem Sand, bedecken Sie sie mit 2 Zoll Sand und schließen Sie den Deckel. Lassen Sie sie an einem warmen Ort stehen und überprüfen Sie, ob sie keimt. Ein guter Süßkartoffel-Setzling sollte fest, grün und 8 bis 12 Zoll lang sein, vorzugsweise mit ein oder zwei Blättern. Pflanzen Sie die Setzlinge mit dem Schnittende nach unten, 4 bis 5 Zoll tief und 9 bis 15 Zoll auseinander. Die Reihen sollten 3 bis 4 Fuß auseinanderliegen. Pflanzen sollten sofort nach der Transplantation gegossen werden, um die Wurzelbildung zu fördern. Halten Sie die Bodenfeuchtigkeit gleichmäßig. Süßkartoffelsorten variieren in der Reifezeit, die meisten benötigen jedoch 90 bis 120 Tage. Süßkartoffeln sollten im Spätsommer bis Frühherbst geerntet werden, bevor die Bodentemperaturen unter 60°F fallen. Die Ernte und Lagerung ähnelt der von Kartoffeln.
+- **Pflanzen:**
+  - Zwiebelsätze im März pflanzen, wenn es noch kühl ist.
+  - 5–7 cm auseinander, mit der Spitze nach oben pflanzen.
+- **Pflege:**
+  - Feuchte und kühle Bedingungen sind zu Beginn des Wachstums bevorzugt.
+  - Pflanzen vereinzeln, damit die Zwiebeln größer werden.
+  - In der Mitte der Saison mit einem ausgewogenen Dünger düngen.
+  - Wachsende Zwiebeln bevorzugen warme und trockene Bedingungen.
+- **Ernte:**
+  - Ernten, wenn die grünen Spitzen umfallen und braun werden.
+  - Ab dann weniger gießen.
+  - Mit einer Grabegabel vorsichtig die Wurzeln lockern und herausziehen.
+  - Erde abklopfen und Zwiebeln 1–2 Wochen an einem kühlen, trockenen Ort auf einer Erhöhung lagern.
+  - Blätter kürzen und Wurzeln abschneiden.
 
-## Knollen anbauen  
-**Kartoffeln**  
-Pflanzen Sie Kartoffeln Ende März oder Anfang April. Schneiden Sie große Saatkartoffeln in mehrere Stücke (etwa 2 Unzen), wobei jedes Stück 2-3 Augen (ruhende Knospen) enthalten sollte, und lassen Sie die Stücke einige Tage trocknen, um die Schnittwunden zu heilen. In lockeren, gut durchlässigen Boden graben Sie Löcher, die 2 Fuß tief, 12 Zoll breit und 3 Fuß auseinander sind. Legen Sie die Saatkartoffel in das Loch und bedecken Sie sie mit 4-6 Zoll Erde. Wenn der Gartenboden hart ist, graben Sie flache 6-Zoll-Löcher mit aufgelockerter Basis und Seiten. Bedecken Sie sie mit 4-6 Zoll Erde. Sobald die Kartoffelsprossen in 3-4 Wochen mit Laub erscheinen, fügen Sie 12 Zoll einer Mischung aus Erde, Kompost oder Heu hinzu, um die Pflanze zu bedecken. Wiederholen Sie dies mindestens einmal, um die Knollenbildung zu fördern. Frühreife Sorten können nach 9-12 Wochen geerntet werden, spätreife Sorten nach 14-17 Wochen, jeweils nach der Blüte der Pflanzen. Verwenden Sie eine Forke, um den Boden mindestens 6 Zoll von der Pflanze entfernt zu lockern. Graben und suchen Sie mit den Händen nach den Knollen. Entfernen Sie die Erde (nicht waschen) und lagern Sie die Kartoffeln an einem kühlen, trockenen Ort.
+#### Porree
 
-## Ressourcen  
-- Wurzelgemüse können Ihren Frühlingsgarten ankurbeln  
-  [OSU Extension](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)  
-- Essbare Wurzeln, Stängel und Zwiebeln - Penn State Extension  
-  [Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)  
+- **Pflanzen:**
+  - Samen Ende Februar oder Anfang März (8–10 Wochen vor dem letzten Frost) in flachen Schalen mit Anzuchterde drinnen vorziehen.
+  - Nach dem Keimen die Setzlinge in ein Frühbeet setzen.
+  - Nach dem Frost Porree-Setzlinge einzeln in 15 cm tiefe Löcher, 20–25 cm auseinander pflanzen.
+  - Das Loch nicht mit Erde füllen; Erde soll sich nach und nach durch vorsichtiges Gießen setzen.
+- **Pflege:**
+  - Mulch oder Kompost kann hinzugefügt werden, wenn die Pflanzen aktiv wachsen.
+  - Tiefes Einsetzen fördert das Bleichen der Stiele und macht sie zart.
+  - Für gleichmäßige Feuchtigkeit im Wurzelbereich sorgen.
+  - Zur Halbzeit der Saison einen Universaldünger anwenden.
+- **Ernte:**
+  - Porree kann in jedem Entwicklungsstadium geerntet werden.
+  - Mit einer Grabegabel 10 cm vom Stiel entfernt die Erde lockern und Pflanzen einzeln herausziehen.
+  - Wurzeln abschneiden und Blätter 12 cm über dem weißen/hellgrünen Stiel kürzen.
+  - Der essbare Teil, genannt „Schaft“, besteht aus mehreren fleischigen Schichten.
 
-Das Oregon State University Extension Service verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien auf der Basis von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---
+
+### Rhizome anbauen
+
+#### Ingwer oder Kurkuma
+
+- **Pflanzen:**
+  - Von einem gesunden, prallen Rhizom vermehren.
+  - Rhizom in 2,5–4 cm große Stücke schneiden und einige Tage trocknen lassen.
+  - Rhizome über Nacht einweichen, falls sie mit Wachstumshemmer behandelt wurden.
+  - Rhizome im März mit den Austriebsknospen nach oben, 5–10 cm auseinander, pflanzen und mit 7 cm Blumenerde in einem Topf bedecken.
+- **Pflege:**
+  - Pflanzen warm und feucht halten, um tropische Bedingungen zu imitieren.
+  - Im Juni nach draußen oder ins Gartenbeet umpflanzen.
+  - Rhizome wachsen im Sommer waagerecht, sollten aber vor dem ersten Frost geerntet oder ins Haus geholt werden.
+- **Ernte:**
+  - Ingwerpflanzen werden 60–90 cm hoch.
+  - Teilweise oder ganz mit einer Grabegabel die Rhizome/Wurzeln vorsichtig lockern und ernten.
+  - Rhizomstücke abbrechen und Blätter entfernen.
+  - Rhizome im Gefrierfach oder Kühlschrank lagern.
+  - Blätter können getrocknet und als Tee verwendet werden.
+
+---
+
+### Pfahlwurzeln anbauen
+
+#### Möhren, Radieschen, Rote Bete und Pastinaken
+
+- **Pflanzen:**
+  - Samen früh im Frühjahr aussäen, wenn der Boden etwa 4 °C hat, oder im Spätsommer für eine Herbsternte.
+  - Abstand nach den Angaben auf der Samentüte wählen.
+- **Pflege:**
+  - Boden gleichmäßig feucht halten, besonders während des Keimens.
+  - Während der Wachstumszeit regelmäßig und tiefgründig gießen.
+  - Junge Pflanzen vereinzeln, damit sich die Wurzeln gut entwickeln (siehe Samentüte).
+  - Pastinaken brauchen zur Halbzeit einen stickstoffreichen Dünger; andere Arten benötigen mäßige Düngung mit Schwerpunkt auf Phosphor und Kalium.
+- **Ernte:**
+  - Radieschen: 21–35 Tage.
+  - Rote Bete: 50–65 Tage.
+  - Möhren: 65–90 Tage (220 Tage bei Überwinterung).
+  - Pastinaken: 100 Tage vor Sommerhitze.
+  - Zum Ernten vorsichtig das Grün an der Basis nach oben ziehen.
+  - Erde abspülen und im kühlen, feuchten Kühlschrank lagern.
+
+---
+
+### Speicherwurzeln anbauen
+
+#### Süßkartoffeln
+
+- **Pflanzen:**
+  - Ab Anfang April aus „Setzlingen“ ziehen.
+  - Eine Süßkartoffel in eine Pappschachtel mit feuchtem Sand legen, mit 5 cm Sand bedecken und an einen warmen Ort stellen.
+  - Auf Austriebe achten; Setzlinge sollten fest, grün und 20–30 cm lang mit ein bis zwei Blättern sein.
+  - Setzlinge mit dem Schnittende nach unten, 10–13 cm tief und 23–38 cm auseinander einpflanzen.
+  - Die Reihen sollten 90–120 cm voneinander entfernt sein.
+- **Pflege:**
+  - Nach dem Umpflanzen sofort gießen, um die Wurzelbildung zu fördern.
+  - Gleichmäßige Bodenfeuchtigkeit aufrechterhalten.
+- **Ernte:**
+  - Süßkartoffeln brauchen 90–120 Tage bis zur Reife.
+  - Ende Sommer bis Frühherbst ernten, bevor die Bodentemperatur unter 16 °C fällt.
+  - Wie Kartoffeln ernten und lagern.
+
+---
+
+### Knollen anbauen
+
+#### Kartoffeln
+
+- **Pflanzen:**
+  - Ende März oder Anfang April pflanzen.
+  - Große Saatkartoffeln in Stücke von etwa 60 g mit 2–3 Augen teilen; die Schnittflächen ein paar Tage trocknen lassen.
+  - In lockerer, gut durchlässiger Erde 60 cm tiefe, 30 cm breite und 90 cm auseinanderliegende Löcher graben.
+  - Saatkartoffel in das Loch legen und mit 10–15 cm Erde bedecken.
+  - Bei hartem Boden flache 15 cm tiefe Löcher graben, Boden und Seiten lockern. Mit 10–15 cm Erde bedecken.
+- **Pflege:**
+  - Wenn nach 3–4 Wochen die Triebe mit Blättern erscheinen, 30 cm Erde, Kompost oder Heu nachfüllen, um die Triebe zu bedecken. Mindestens einmal wiederholen, um Knollenbildung zu fördern.
+- **Ernte:**
+  - Frühe Sorten: 9–12 Wochen.
+  - Späte Sorten: 14–17 Wochen (nachdem die Pflanzen geblüht haben).
+  - Mit einer Grabegabel mindestens 15 cm vom Stiel entfernt die Erde lockern; alternativ mit der Hand suchen und ausgraben.
+  - Erde abbürsten (nicht waschen) und an einem kühlen, trockenen Ort lagern.
+
+---
+
+## Ressourcen
+
+- [Wurzelgemüse geben dem Frühlingsgarten einen Vorsprung](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
+- [Essbare Wurzeln, Stängel und Zwiebeln – Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
+
+---
+
+###### Der Extension Service der Oregon State University verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkünften aus einem Sozialprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

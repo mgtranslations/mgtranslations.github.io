@@ -1,79 +1,137 @@
-# Kawm Ua Liaj Ua Teb Hauv 10 Feeb™  
-**Lub Chaw Hauv Lub Nroog Clackamas Master Gardener Association** koom tes nrog thiab txhawb nqa **OSU Extension Master Gardener™ Program**  
-### Yuav Ua Li Cas Liaj Ntoo Qaub Hauv Vaj Tsev  
+#### 10-Feeb University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb OSU Extension Master Gardener™ Program
 
-## Xaiv Cov Hom Ntoo Qaub Kom Cog  
-- Xam seb yuav siv ntoo qaub li cas — noj tshiab, ziab, nqus nrov, lossis ua kua ntses  
-- Ntsuas qhov chaw cog ntoo hauv vaj — yuav cog pes tsawg tsob thiab hom zoo li cas  
-- Xaiv seb yuav pib los ntawm noob ntoo lossis yuav nroj tsob ntoo, thiab  
-- Paub seb hom determinate lossis indeterminate ntoo qaub puas zoo rau koj vaj.  
+# Kev Loj Hlob Txiv Lws Suav Hauv Vaj Tsev
 
-### Cov Hom Ntoo Qaub  
-| **Hom** | **Chaw Cog / Kev Txhawb Nqa / Kev Loj Hlob** | **Lub Caij Sau Qoob** |  
-| Determinate | Tsawg / siv kev txhawb nqa tsawg / ntoo zoo li tsob nroj | Txiv qaub siav tib lub sijhawm |  
-| Indeterminate | Ntau / xav tau kev txhawb nqa ruaj khov / loj hlob tsis txawj txiav | Txiv qaub siav ntev mus |  
+## Xaiv Hom Uas Yuav Loj Hlob
 
-## Pib Los Ntawm Noob Ntoo  
-Muaj ntau hom xaiv thiab pheej yig dua nroj tsob ntoo, thiab nws zoo siab pom lawv loj hlob.  
-- Ua kom noob ntoo tuaj hauv lub Peb Hlis thaum ntxov (8 lub lis piam ua ntej dej khov kawg, Lub Tsib Hlis 1-10 ntawm no). Muab av cog ntoo noo rau hauv lub lauj kaub me me (1-1.5”), nias av kom ruaj, tso noob ntoo rau hauv, thiab npog nrog ¼” peat lossis av pib cog. Khaws noob ntoo rau qhov sov (65°-70°F) siv cov khoom cua sov thiab npog kom tsis txhob qhuav. Lawv yuav tuaj hauv 6-10 hnub. Muab lub teeb txaus rau cov noob cog kom loj hlob.  
-- Rov cog cov noob ntoo rau hauv lub lauj kaub 3-4” thaum qhov nplooj tiag thib ob tuaj. Siv av cog ntoo noo rau lub sijhawm rov cog noob ntoo. Thaum rov cog lossis hloov tsob ntoo qaub:  
-  1. Noj av cog ntoo kom noo;  
-  2. Muab dej rau tsob ntoo kom txaus ua ntej rov cog lossis hloov tsob ntoo nrog dej kub rau chav tsev;  
-  3. Muab cov noob ntoo los ntawm nplooj, tsis yog tus qia;  
-  4. Muab tsob ntoo cog tob rau hauv lub lauj kaub tshiab, (Ntoo qaub loj hlob cag txhua lub qia uas tau faus);  
-  5. Nias av ncig tsob ntoo; tso ½” rau saum toj;  
-  6. Muab dej kom cov cag thiab av sib txuas zoo;  
-  7. Muab tsob ntoo rau qhov chaw sov, muaj hnub ci ntau (8+ teev ntawm hnub ci), deb ntawm cua.  
-- Rov cog zaum thib ob rau hauv lub lauj kaub loj rau ib nkas loos thaum tsob ntoo loj 6”-10”. Cov kauj ruam yog:  
-  1. Noj av cog ntoo;  
-  2. Noj tsob ntoo los ntawm muab lub lauj kaub rau hauv lub thoob dej txog thaum tsis muaj npuas thiab lub lauj kaub poob rau hauv qab;  
-  3. Tshem tawm / txiav cov nplooj uas yuav kov lossis nyob hauv qab av thiab maj mam tshem tsob ntoo ntawm lub lauj kaub. Ua raws cov kauj ruam 4-7 saum toj no. Tiv thaiv tsob ntoo ntawm qhov txias los ntawm muab cov dej rau hauv cov fwj mis, siv ntaub lossis yas npog, lossis muab tsob ntoo ze phab ntsa lossis laj kab. "Harden off" tsob ntoo txhua lub sijhawm tom qab rov cog thawj zaug thaum 3”. Pib nrog ob peb teev hauv qhov ntxoov ntxoo thiab dhau 7-10 hnub ua rau tsob ntoo nyob rau hnub ci tag nrho ib hnub.  
+- Txiav txim siab txog yam koj xav siv txiv lws suav rau – noj tshiab, ziab kom qhuav, khaws cia hauv lub hub, lossis ua kua.
+- Ntsuas seb koj muaj vaj ntau npaum li cas – yuav cog tau pes tsawg tsob thiab hom twg.
+- Xaiv seb yuav pib cog los ntawm noob, lossis yuav tsob nroj los cog.
+- Kawm seb hom determinate los yog indeterminate thiaj haum rau koj lub vaj.
 
-## Cog Rau Hauv Av  
-Tsob ntoo npaj mus rau hauv av thaum siab 10-15” thiab av kub yog 60°F, (hauv Lub Rau Hli). Npaj qhov chaw thiab cog raws li hauv qab no:  
-1. Xaiv qhov chaw nrog 8+ teev ntawm hnub ci, av loamy, thiab cua tsawg, (txhob xaiv qhov chaw txo qis uas dej thiab cua txias nyob thiab tuaj yeem ua tsob ntoo puas);  
-2. Ua av tob 10 nti los ntawm kev tig av nrog rab xub pwg;  
-3. Ntxiv 2 nti ntawm compost, thiab ua kom nws nkag zoo;  
-4. Noj tsob ntoo rau 1-2 teev ua ntej hloov cog siv txoj kev thoob dej saum toj no;  
-5. Muab cov nplooj qis thiab tag nrho cov suckers (cov ceg ntawm nplooj tiag thiab tus qia) hauv qab cov paj thawj zaug; thiab  
-6. Xaiv txoj kev cog.  
+#### Hom Txiv Lws Suav
 
-### Txoj Kev Trench  
-**Pros:** Cag nyob rau hauv av sov tshaj plaws; zoo rau tsob ntoo ntev.  
-**Cons:** Xav tau dej nquag thiab saib xyuas, cog kom tsis tob.  
-- Khawb ib lub trench tob 8”-10”; ntxiv chiv thiab lime (raws li kev kuaj av) rau hauv qab; npog cov khoom ntxiv nrog 1”-2” av kom tsis txhob kub cag. Muab tsob ntoo rau sab, sau lub qhov nrog av, muab dej, thiab txav av kom npog lub qia. Tsob ntoo yuav ncaj sai heev. Muab lub cim rau ntawm qhov kawg ntawm cag kom pab tiv thaiv kev puas tsuaj rau cag thaum tshem nroj. Ntxiv cov qauv txhawb nqa thaum cog kom tsis txhob puas cag.  
+| Hom         | Chaw / Kev Txhawb Nqa         | Yam Loj Hlob      | Sijhawm Sau Qoob                 |
+|-------------|-------------------------------|-------------------|----------------------------------|
+| Determinate | Yuav tsum muaj chaw tsawg dua / muaj peev xwm siv kev txhawb nqa tsawg | Zoo li nroj tsuag | Txiv siav ib ncig tib lub sijhawm |
+| Indeterminate| Yuav tsum muaj chaw ntau dua / xav tau kev txhawb nqa muaj zog | Loj hlob mus ntxiv | Txiv siav ntev mus ntev           |
 
-### Txoj Kev Vertical  
-**Pros:** Muaj qhov chaw noo ntau rau cov cag; tsawg tawg.  
-**Cons:** Av tob yog txias dua, ua rau kev loj hlob thiab txiv qaub siav qeeb.  
-- Khawb ib lub qhov tob 10”, ntxiv chiv thiab lime, npog raws li Txoj Kev Trench. Muab tsob ntoo cog tob ntxiv kom txhawb kev loj hlob ntawm cov cag qia faus. Sau av txog qib hauv av, muab dej thiab ntxiv cov qauv txhawb nqa.  
+---
 
-## Kev Ua Liaj Ua Teb  
-- Txhawb nqa hom determinate thiab indeterminate ntoo qaub kom txhim kho kev txav cua thiab txo cov kab mob thiab kab tsuag. Cov qauv txhawb nqa ntoo qaub sib txawv ntawm cov kheej kheej ntoo qaub cages mus rau lattices, stakes, thiab hlau txhawb nqa av. Muab cov qauv txhawb nqa ruaj khov nrog 2”X2” stakes kom ntxiv dag zog.  
-- Mulch pab txo cov nroj, khaws cov av noo, thiab tiv thaiv cov kab mob hauv av. Yas mulch (ntshiab, dub lossis liab) pab ua kom av sov, tuaj yeem tso ua ntej lossis thaum cog ntoo qaub. Mulch organic txhim kho av tab sis yuav tsum muab tso tom qab av sov nyob rau hauv lub Rau Hli lig.  
-- Txiav cov ntoo indeterminate pab txiv qaub siav thiab tiv thaiv kab mob. Xam seb koj xav kom tsob ntoo muaj pes tsawg cov qia tseem ceeb thiab cia tsuas yog cov ceg xaiv tau loj hlob. Thaum tsob ntoo loj hlob, txiav kom pom tsob ntoo.  
+## Pib Los Ntawm Noob
 
-## Lwm Cov Lus Qhia  
-- Yog tias muaj kev puas tsuaj los ntawm flea beetle rau cov tsob ntoo hluas (muaj ntau qhov me me hauv cov nplooj), muab chiv kom tsob ntoo loj hlob muaj zog. Feem ntau tsis xav tau kev kho mob ntxiv yog tsob ntoo muaj zog.  
-- Hauv huab cua qhuav lossis kub, dej av nrog tsawg kawg 1 nti ntawm dej txhua 7-10 hnub.  
-- Txhawb txiv qaub siav, 30 hnub ua ntej dej khov thawj zaug (Lub Yim Hli / Cuaj Hli) txwv tsis pub muab dej, tshem tawm cov paj tshiab thiab cov txiv qaub tsis siav uas yuav tsis siav ua ntej dej khov.  
-- Npog tsob ntoo nrog yas kom tiv thaiv dej nag thiab kub txias thiab txuas lub caij tsim khoom. Lossis sau cov txiv qaub ntsuab loj, tso lawv hauv ib kab (tsis txhob kov) rau qhov chaw sov (65°-70°F), tsaus nti kom siav ntxiv sab hauv tsev.  
-- Tshem tawm tag nrho cov nroj tsuag thaum kawg ntawm lub caij los pab txo cov kab tsuag thiab kab mob yav tom ntej.  
-- Hloov chaw cog qoob loo — tos 3-4 xyoo ua ntej cog cov ntoo qaub vaj tsev (ntoo qaub, eggplants, kua txob, thiab qos yaj ywm) hauv tib qhov chaw.  
+Pib cog los ntawm noob muaj ntau hom xaiv thiab pheej yig dua li yuav tsob nroj, thiab tseem zoo siab pom lawv loj hlob.
 
-## Cov Kev Pab Los Ntawm OSU Extension Service  
-- **Tom Qab Tsov Rog Tom Qab Txiv Qaub** (*FS 139*)  
-- **10-Minute University™ Cov Yeeb Yaj Kiab:**  
-    - Hom Ntoo Qaub: [Saib ntawm YouTube](https://www.youtube.com/watch?v=K0Sl3YWDazo)  
-    - Pib Los Ntawm Noob Ntoo: [Saib ntawm YouTube](https://www.youtube.com/watch?v=Zs0lZNMIuzA)  
-    - Cog Ntoo Qaub Hauv Koj Lub Vaj: [Saib ntawm YouTube](https://www.youtube.com/watch?v=Pucpx5fuKdk)  
-    - Proven Cultural Practices: [Saib ntawm YouTube](https://www.youtube.com/watch?v=lpVBg-e_1vE)  
+1. **Ua Kom Noob Loj Hlob**
+   - Pib thaum Lub Peb Hlis ntxov (8 lub lis piam ua ntej daus daig kawg, Lub Tsib Hlis 1–10).
+   - Muab av mos rau hauv lub lauj kaub me (1–1.5”), txhaws av kom ruaj, tso ib lub noob, thiab npog nrog 1/4” peat lossis av pib cog.
+   - Khaws kom sov (65–70°F) siv daim ntaub cua sov hauv qab thiab npog kom tsis txhob qhuav.
+   - Noob yuav pib tawg hauv 6–10 hnub. Muab teeb pom kom loj hlob tau zoo.
 
-## Kev Pab Txhawb Nqa Los Ntawm Master Gardener™  
-- Hu rau **Home Horticulture Helpline:**  
-    - 503-655-8631 (Clackamas County)  
-    - 503-821-1150 (Washington County)  
-    - 503-445-4608 (Multnomah County)  
-- Rau **10-Minute University™ cov ntaub ntawv thiab yeeb yaj kiab**, mus saib: [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+2. **Hloov Laub Tsob Nroj Me**
+   - Muab tsob me rau hauv lauj kaub loj dua (3–4”) thaum muaj nplooj tiag txheej ob, siv av mos.
+   - Kauj ruam hloov laub:
+     1. Ntxuav av kom ntub.
+     2. Ntxuav tsob nroj kom huv nrog dej sov li chav.
+     3. Tuav tsob nroj los ntawm nplooj, tsis yog caj dab.
+     4. Muab tsob nroj tsa rau hauv qhov tob ntxiv (tsob lws suav yuav tawm cag ntawm caj dab hauv av).
+     5. Npab av kom ruaj, tso ½” sab saud dawb.
+     6. Ntxuav kom cag sib cuag nrog av.
+     7. Tso rau qhov chaw sov, hnub tuaj ntau (8+ teev), tsis txhob muaj cua.
 
-Oregon State University Extension Service tsis pub ua kev ntxub ntxaug hauv txhua qhov kev pab cuam, kev pab, kev ua ub ua no, thiab cov ntaub ntawv ntawm cov hauv paus ntsiab lus ntawm haiv neeg, xim, keeb kwm lub teb chaws, kev ntseeg, poj niam txiv neej, tus kheej muaj tswv yim (suav nrog kev qhia tus kheej), kev sib deev, kev muaj mob, hnub nyoog, xwm txheej kev sib yuav, kev muaj me nyuam, nyiaj tau los los ntawm kev pab cuam pej xeem, kev ntseeg hauv kev nom tswv, cov ntaub ntawv caj ces, xwm txheej qub tub rog, kev ua pauj lossis kev ua pauj rau kev ua haujlwm kev cai lij choj dhau los. (Tsis yog txhua qhov kev ua pauj raug txwv siv rau txhua qhov kev pab cuam).
+3. **Hloov Laub Zaum Ob**
+   - Muab rau hauv lub lauj kaub loj ib gallon thaum tsob nroj siab 6–10”.
+   - Kauj ruam:
+     1. Ntxuav av loj.
+     2. Ua kom tsob nroj ntub: tso lub lauj kaub rau hauv thoob dej kom txog thaum npuas ploj thiab lauj kaub nqes.
+     3. Tshem/dab leaves uas yuav kov lossis hauv qab av.
+     4. Muab tsob nroj tawm hauv lauj kaub thiab ua raws li kauj ruam 4–7 saum toj.
+   - Tiv thaiv tsob nroj kom tsis txhob txias: siv lub raj mis mis dej, ntaub/fwj yas, lossis tso ze phab ntsa/fence.
+   - Tso kom tsob nroj haum huab cua tom qab hloov laub thawj zaug ntawm 3”. Pib nrog ob peb teev hauv qhov ntxoov ntxoo thiab nce ntxiv hnub tuaj mus rau 7–10 hnub.
+
+---
+
+## Cog Rau Hauv Av
+
+Tsob nroj npaj txhij rau hauv av thaum siab 10–15” thiab av kub txog 60°F (nyob rau Lub Rau Hli).
+
+### Npaj thiab Cog
+
+1. Xaiv chaw uas hnub tuaj ntau tshaj 8 teev, av mos, thiab tsis muaj cua (ceev faj tej thaj chaw qis uas dej thiab cua txias sib sau).
+2. Xov av tob 10” siv duav khawb av.
+3. Ntxiv 2” compost thiab tov kom zoo.
+4. Ntxuav tsob nroj 1–2 teev ua ntej hloov laub siv txoj kev thoob dej.
+5. Txiav nplooj hauv qab thiab cov ceg (suckers) uas nyob qis dua thawj cov paj.
+6. Xaiv ib txoj kev cog:
+
+#### Txoj Kev Ntog (Trench Method)
+
+- **Zoo:** Cag nyob hauv av sov tshaj; haum rau tsob nroj ntev.
+- **Tsis zoo:** Yuav tsum muab dej thiab khawb av kom zoo.
+- Kauj ruam:
+  - Khawb qhov tob 8–10”.
+  - Ntxiv chiv thiab lime (raws kev ntsuam xyuas av) rau hauv qab.
+  - Npog chiv nrog 1–2” av kom tsis txhob kub cag.
+  - Tso tsob nroj rau hauv av, npog nrog av, muab dej, thiab txhav av ncig caj dab.
+  - Tso cim rau kawg cag kom tsis txhob txhab cag thaum kho vaj.
+  - Muab kev txhawb nqa rau thaum cog kom tsis txhob txhab cag.
+
+#### Txoj Kev Ncaj (Vertical Method)
+
+- **Zoo:** Muaj dej ntau rau cag; txiv lws suav tsis tawg.
+- **Tsis zoo:** Av tob txias dua, loj hlob thiab siav qeeb dua.
+- Kauj ruam:
+  - Khawb qhov tob 10”.
+  - Ntxiv chiv thiab lime, npog raws li txoj kev ntog.
+  - Tso tsob nroj tob kom caj dab hauv av loj cag.
+  - Npog av mus txog ntawm pem hauv av, muab dej, thiab ntxiv kev txhawb nqa.
+
+---
+
+## Kev Tu Vaj
+
+- **Kev Txhawb Nqa:**
+  - Txhawb nqa ob hom determinate thiab indeterminate kom huab cua ncig tau zoo thiab tiv thaiv kab mob thiab kab.
+  - Siv kev txhawb nqa xws li cage puag ncig, lattice, ncej, thiab hlau mesh. Txhim kho kom ruaj nrog ncej 2”x2”.
+
+- **Muab Qhuav (Mulch):**
+  - Mulch pab txo nroj tsuag phem, khaws dej hauv av, thiab tiv thaiv kab mob hauv av.
+  - Yas mulch (ntshiab, dub, los yog liab) pab kom av sov thiab muab tau thaum los yog ua ntej cog.
+  - Mulch los ntawm nroj tsuag pab txhim kho av, tab sis tso tom qab av sov rau thaum Lub Rau Hli kawg.
+
+- **Txiav Nplooj:**
+  - Txiav nplooj ntawm indeterminate kom txiv siav thiab txo kab mob.
+  - Txiav txim seb yuav tso pes tsawg ceg loj thiab cia tsuas yog qee ceg me loj hlob.
+  - Txiav kom tsob nroj txo tuab, kom pom thiab huab cua ncig tau zoo thaum loj hlob.
+
+---
+
+## Lus Qhia Ntxiv
+
+- **Kab Flea Beetle:** Muab chiv ntxiv kom tsob nroj loj muaj zog yog pom qhov me me ntawm nplooj. Tsis tas kho ntxiv rau tsob nroj muaj zog.
+- **Muab Dej:** Thaum av qhuav los yog kub, muab dej kom ntub tsawg kawg 1” txhua 7–10 hnub.
+- **Txhawb Kom Siav:**
+  - 30 hnub ua ntej daus daig thawj zaug (Lub Yim Hli/ Cuaj Hlis), txhob muab dej ntxiv, tshem cov paj tshiab thiab txiv me uas yuav tsis siav.
+  - Npog tsob nroj nrog yas tiv nag thiab cua txias los yog sau cov txiv ntsuab loj. Muab lawv tso ib txheej (tsis txhob kov) rau qhov chaw sov (65–70°F) thiab tsaus kom siav hauv tsev.
+- **Tu Vaj Caij Kawg:** Tshem tag nrho cov seem nroj kom txo kab mob thiab kab phem yav tom ntej.
+- **Hloov Chaw Cog:** Tos 3–4 xyoos ua ntej rov cog cov txiv lws suav tsev neeg (lws suav, aubergine, kua txob, qos yaj ywm) rau tib qho chaw.
+
+---
+
+## OSU Extension Service Cov Khoom Siv
+
+- [Blossom-End Rot ntawm Txiv Lws Suav FS 139](http://catalog.extension.oregonstate.edu/)
+- **10-Minute University™ Videos:**
+  - [Hom Txiv Lws Suav](https://www.youtube.com/watch?v=K0Sl3YWDazo)
+  - [Pib Cog Txiv Lws Suav Los Ntawm Noob](https://www.youtube.com/watch?v=Zs0lZNMIuzA)
+  - [Cog Txiv Lws Suav Rau Koj Lub Vaj](https://www.youtube.com/watch?v=Pucpx5fuKdk)
+  - [Kev Tu Vaj Uas Pov Thawj Tau Zoo](https://www.youtube.com/watch?v=lpVBg-e_1vE)
+
+---
+
+#### Master Gardener™ Cov Lus Qhia · Chaw Pab Horticulture hauv Tsev: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · 10-Minute University™ Cov Ntawv Qhia thiab Video: [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service txwv tsis pub cais tawm hauv txhua yam kev pab cuam, kev pab, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, lub teb chaws yug, kev ntseeg, poj niam txiv neej, kev paub txog poj niam txiv neej (xws li kev qhia poj niam txiv neej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj tsev neeg/kev ua niam txiv, nyiaj los ntawm cov kev pab pej xeem, kev ntseeg hauv nom tswv, cov ntaub ntawv caj ces, kev ua haujlwm tub rog, kev raug txim lossis raug pauj vim ua ntej kev tiv thaiv cai tib neeg. (Tsis yog txhua yam txwv raug siv rau txhua qhov kev pab cuam.)
+---

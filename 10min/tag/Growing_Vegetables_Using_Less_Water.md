@@ -1,58 +1,107 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Pagtatanim ng Gulay Gamit ang Mas Kaunting Tubig  
+# Pagtatanim ng Gulay Gamit ang Mas Kaunting Tubig
 
-### Pangkalahatang Ideya  
-Ang OSU Extension Small Farms division ay sinusubukan ang posibilidad ng “dry farming” ng mga organic na gulay para sa komersyal na produksyon. Ang dry farming ay umaasa sa natitirang moisture ng lupa mula sa tag-ulan upang magtanim ng mga pananim at mas epektibo ito sa mga lugar na may 20-pulgada o higit pang taunang pag-ulan. Ang tagumpay ay nangangailangan ng maingat na pamamahala ng moisture sa lupa sa pamamagitan ng tamang pagpili ng lugar, paghahanda ng lupa, at proteksyon ng ibabaw ng lupa. Hindi lahat ng gulay ay angkop para sa ganitong paraan kaya mahalaga ang tamang pagpili ng uri ng gulay. Ang handout na ito ay nagbibigay ng mga aral mula sa pananaliksik na ito para sa mga home gardener upang magtanim ng mga gulay habang nagtitipid ng tubig at lupa.  
+### Pangkalahatang-ideya
 
-### Ihanda ang Lugar  
-Dagdagan ang kapasidad ng lupa sa paghawak ng tubig sa pamamagitan ng pagdaragdag ng organic matter (ang ideal ay 5-7%). Magtanim ng fall cover crop tulad ng red at white clover, Phacelia, o buckwheat. Putulin at ihalo ito sa lupa sa tagsibol. Ang pagdaragdag ng compost, komersyal o homemade, ay isa pang opsyon. Kung ang lupa ng iyong hardin ay mayaman sa clay, gamitin ito. Ang clay soil ay may mas mataas na kakayahan maghawak ng tubig at nutrisyon kumpara sa ibang uri ng lupa. Ihalo ang clay sa organic matter upang mas maging madali itong gamitin. Para sa pagtatanim sa tagsibol, ang pinakamainam na oras para ihanda ang lugar ay sa taglagas.  
+Sinusubukan ng OSU Extension Small Farms division kung posible bang magtanim ng mga organikong gulay gamit ang “dry farming” para sa komersyal na produksyon. Ang dry farming ay gumagamit ng natitirang halumigmig sa lupa mula sa tag-ulan para magpatubo ng pananim at pinakaepektibo ito sa mga lugar na nakakatanggap ng 20 pulgada o higit pang ulan bawat taon. Kailangan ng maingat na pamamahala ng halumigmig sa lupa sa pamamagitan ng tamang pagpili ng lugar, paghahanda ng lupa, at pagprotekta sa ibabaw ng lupa. Hindi lahat ng gulay ay angkop dito, kaya mahalaga ang pagpili ng tamang uri. Ang handout na ito ay nagbibigay ng mga aral mula sa pananaliksik na ito para sa mga home gardener upang makatipid ng tubig at lupa habang nagtatanim ng gulay.
 
-### Bawasan ang Pagkawala ng Moisture sa Lupa  
-Takpan ang ibabaw ng lupa ng layer ng organic mulch upang hindi ito matuyo. Ang organic mulch ay tumutulong upang panatilihing malamig ang lupa kaya dapat itong ilagay lamang pagkatapos magsimulang tumubo ang mga halaman. Halimbawa ng organic mulch ay composted yard debris, sariling compost, grass clippings (kung walang herbicides o pesticides), wheat straw, o tinadtad na dahon. Ang cardboard, burlap bags, at dyaryo ay maaari ring gamitin.  
+---
 
-Ang inorganic mulches tulad ng red at black plastic ay maaaring gamitin upang painitin ang lupa, bawasan ang evaporation, at pigilan ang pag-usbong ng damo. Ang mulches ay nagbibigay ng tirahan para sa mga slug; maglagay ng non-toxic slug bait.  
-Panatilihing walang damo ang lupa upang mabawasan ang kompetisyon para sa nutrisyon at tubig.  
-Panatilihing maluwag ang 2-pulgada ng lupa sa paligid ng mga halaman sa pamamagitan ng pag-hoe upang makagawa ng “dust mulch.” Ang pagpapanatiling maluwag ng lupa ay nakakatulong upang punan ang mga bitak sa lupa na nagbabawas ng evaporation.  
-Huwag maglakad sa ibabaw ng lupa kung saan tumutubo ang mga halaman upang mabawasan ang compaction at mapanatili ang kakayahan ng lupa na maghawak ng tubig.  
+### Ihanda ang Lugar
 
-### Gumamit ng Teknik para sa Mas Mabisang Paggamit ng Tubig  
-Gumamit ng drip irrigation upang mabawasan ang evaporation at maghatid ng tubig sa tamang lugar.  
-I-grupo ang mga halaman batay sa kanilang pangangailangan sa tubig sa mga zone.  
-Gumamit ng irrigation timers upang maayos ang dalas at dami ng tubig; ang kontrol sa zoned irrigation ay nagpapabuti ng efficiency.  
-Upang mabawasan ang evaporation, magbigay ng tubig sa umaga bago uminit ang lupa at hangin.  
+- Dagdagan ang kakayahan ng lupa na maghawak ng tubig sa pamamagitan ng paglalagay ng organikong bagay (5–7% ang ideal).
+- Magtanim ng fall cover crop tulad ng red at white clover, Phacelia, o buckwheat. Putulin at haluin ito sa lupa sa tagsibol.
+- Maaari ring magdagdag ng compost, komersyal man o gawa sa bahay.
+- Kung ang lupa sa iyong hardin ay mayaman sa clay, gamitin ito. Ang clay ay mas maraming nahahawakang tubig at sustansya kaysa ibang uri ng lupa. Lagyan ng organikong bagay ang clay para maging mas madali itong trabahuhin.
+- Para sa pagtatanim sa tagsibol, ang pinakamahusay na panahon ng paghahanda ay taglagas.
 
-### Oras ng Pagtatanim  
-Umayon sa moisture at temperatura ng lupa upang matukoy kung kailan magsisimula ng paghahanda sa pagtatanim. Upang subukan ang moisture, pisilin ang bola ng lupa sa iyong kamay. Kung ito ay nananatiling bola ngunit madali itong madurog, ito ay handa na. Gumamit ng soil thermometer upang matukoy kung kailan magtatanim ng mga binhi. Kumonsulta sa planting calendar o seed package para sa mga partikular na pangangailangan sa temperatura.  
+---
 
-Madalas, ang angkop na uri ay hindi komersyal na magagamit o hindi magagamit sa tamang oras ng pagtatanim. Mag-umpisa ng binhi sa loob ng bahay upang ang mga halaman ay magkaroon ng maagang simula bago ang init ng tag-init.  
-Magtanim ng mga uri na maagang mag-mature, bago magsimula ang init ng tag-init. Ang ilan ay maaaring itanim sa huli ng tag-init para sa ani sa taglagas. Halimbawa ay lettuce, cabbage, Swiss chard, at broccoli.  
-Gumamit ng cloches, “walls-o-water,” at cold frames upang matulungan ang mga halaman sa mainit na panahon tulad ng kamatis, peppers, at melons na magkaroon ng maagang simula.  
-Subukan ang pagtatanim ng mga pananim sa taglamig tulad ng purple sprouting broccoli, cabbage, radicchio, at iba pa.  
+### Bawasan ang Pagkawala ng Halumigmig sa Lupa
 
-### Mag-apply ng Espesyal na Teknik sa Pagtatanim  
-Ibabad ang malalaking binhi sa tubig magdamag bago itanim; nakakatulong ito upang mapabilis ang germination.  
-Bago itanim ang maliliit na binhi, pindutin ang ibabaw ng lupa nang maayos gamit ang board. Pinaniniwalaan na ito ay nagpapataas ng capillary action ng lupa na nagdadala ng moisture sa ibabaw kung saan maaabot ito ng mga binhi at ugat ng halaman. Para sa parehong dahilan, pindutin ang lupa sa paligid ng mga halaman habang sila ay itinatransplant.  
-Magtanim sa mga block kaysa sa rows. Magtanim ng malapit sa isa't isa upang ma-shade ang lupa. Ilagay ang mas maliliit na halaman sa lilim ng mas matataas na halaman.  
-Kung nais mong magtanim na hindi gumagamit ng regular na irigasyon, magtanim nang mas malayo sa isa't isa — doble ang normal na distansya upang mabawasan ang kompetisyon para sa tubig at nutrisyon.  
+- Takpan ang ibabaw ng lupa ng organikong mulch para hindi ito matuyuan. Nakakatulong ito para manatiling malamig ang lupa, kaya dapat lang maglagay ng mulch pagkatapos magsimulang tumubo ang mga halaman. Mga halimbawa:
+  - Komersyal na compost mula sa mga yard debris
+  - Sariling compost mo
+  - Grass clippings (kung walang herbicides o pesticides)
+  - Dayami ng trigo o pinitpit na dahon
+  - Karton, sako ng abaka, at diyaryo ay maaari ring gamitin.
+- Maaaring gumamit ng inorganic mulches tulad ng pulang o itim na plastik para painitin ang lupa, pigilan ang evaporation, at sugpuin ang damo.
+- Nagbibigay ng tirahan para sa mga kuhol ang mulches; maglagay ng di-nakakalason na pain para sa mga ito.
+- Panatilihing walang damo ang lupa para mabawasan ang kumpetisyon sa tubig at sustansya.
+- Panatilihing maluwag ang unang 2 pulgada ng lupa sa paligid ng mga halaman sa pamamagitan ng paghahasa para makagawa ng “dust mulch.” Nakakatulong ito para mapuno ang mga bitak ng lupa at mabawasan ang evaporation.
+- Iwasan ang paglakad sa ibabaw na tinutubuan ng halaman para hindi mapiga at masira ang kakayahan ng lupa na humawak ng tubig.
 
-### Pumili ng Drought-Tolerant na Uri ng Gulay  
-Ang mga heirloom na uri ng gulay ay maaaring mas drought-tolerant kung ang mga ito ay nadevelop bago magkaroon ng running water para sa irigasyon. Subukan ang mga uri na inirerekomenda ng dry farmers (bisitahin ang mga OSU Dry Farm Program websites na nakalista sa ibaba). Magtanim ng mas maraming vining crops tulad ng squash, beans (dry shell types), peas, melons; madalas, ang mga ito ay nangangailangan ng mas kaunting tubig. Sa huli, isaalang-alang ang paggamit ng locally grown seeds. Bagamat hindi partikular na pinalaki para sa kondisyon ng tagtuyot, mas malamang na sila ay angkop sa lokal na klima.  
+---
 
-### Mga Mapagkukunan  
-**Dry Farming in the Maritime NW, Intro to Dry Farming Organic Vegetable** – OSU Extension Publication EM9229, [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-**Website** – [http://smallfarms.oregonstate.edu/dry-farming-resources](http://smallfarms.oregonstate.edu/dry-farming-resources)  
-**Water-Wise Vegetables** – Steve Solomon  
-**Growing Vegetables West of the Cascades** – Steve Solomon  
-**Gardening without Irrigation: or without much, anyway** – Steve Solomon  
-**The Resilient Gardener: Food Production and Self-Reliance in Uncertain Times** – Carol Deppe  
-**Regional Seed Sources** – Adaptive Seeds, Territorial Seeds, Abundant Life Seeds, New Dimension Seeds, Nichols Garden Nursery, Peace Seeds, Siskiyou Seeds  
+### Gumamit ng Paraan Para Makatipid sa Pandilig
 
-### Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org) para sa 10-Minute University™ videos at handouts.  
+- Gumamit ng drip irrigation para mabawasan ang evaporation at madala ang tubig sa mismong kailangan.
+- Pagsama-samahin ang mga halaman ayon sa kanilang pangangailangan sa tubig.
+- Gumamit ng irrigation timers para kontrolin ang dalas at dami ng tubig; mas mahusay ang zoned control.
+- Upang mabawasan ang evaporation, magdilig sa umaga bago uminit ang lupa at hangin.
 
-**Oregon State University Extension Service**  
-Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa nito, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita mula sa pampublikong programa ng tulong, paniniwalang pampulitika, impormasyon ng genetiko, katayuan ng beterano, reprisal o pagganti para sa nakaraang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa).
+---
+
+### I-tama ang Oras ng Pagtatanim
+
+- Gumamit ng halumigmig at temperatura ng lupa para malaman kung kailan magsisimula ng paghahanda.
+  - Para subukan ang halumigmig, pigain ang isang bola ng lupa sa iyong kamay. Kung mananatili itong bola ngunit madaling maghiwa-hiwalay, handa na ito.
+  - Gumamit ng soil thermometer para malaman kung kailan itatanim ang mga buto.
+- Sumangguni sa planting calendar o seed packet para sa tamang temperatura na kailangan.
+- Minsan, ang mga angkop na uri ay hindi agad mabibili o hindi available sa tamang panahon ng pagtatanim. Mag-umpisa ng seedlings sa loob ng bahay para mauna sila bago mainitan.
+- Magtanim ng mga uri ng gulay na maagang namumunga bago dumating ang init ng tag-init. Maari ring magtanim ng ilan sa huling bahagi ng tag-init para sa anihan sa taglagas. Mga halimbawa:
+  - Lettuce
+  - Repolyo
+  - Swiss chard
+  - Broccoli
+- Gumamit ng cloche, “walls-o-water,” at cold frames para matulungan ang mga halaman tulad ng kamatis, sili, at melon na magsimula ng mas maaga.
+- Subukan ding magtanim ng mga pananim sa taglamig tulad ng purple sprouting broccoli, repolyo, radicchio, atbp.
+
+---
+
+### Gamitin ang Mga Espesyal na Paraan ng Pagtatanim
+
+- Ibabad muna ang malalaking buto magdamag bago itanim; nakakatulong ito para mapabilis ang pagsibol.
+- Bago itanim ang maliliit na buto, tupukin ng maayos at dahan-dahan ang ibabaw ng lupa gamit ang tabla. Pinaniniwalaang nakakatulong ito para dumaloy ang tubig pataas sa ibabaw kung saan madaling maabot ng buto at ugat.
+- Sa parehong dahilan, tupukin ang lupa sa paligid ng mga halaman habang itinatanim.
+- Magtanim sa blocks kaysa sa mga hanay. Magtanim nang malapit-lapit para mas matakpan ang lupa. Ilagay ang maliliit na halaman sa lilim ng mas matatangkad.
+- Kung gusto mong magtanim na hindi regular ang pagdidilig, magtanim nang mas malayo sa isa’t isa—doble ng normal na distansya—para mabawasan ang kumpetisyon sa tubig at sustansya.
+
+---
+
+### Pumili ng Mga Uri ng Gulay na Matibay sa Tagtuyot
+
+- Maaaring mas matibay sa tagtuyot ang mga heirloom varieties ng gulay, lalo na kung ginawa sila noong wala pang patubig.
+- Subukan ang mga uri na inirerekomenda ng dry farmers (bisitahin ang mga website ng OSU Dry Farm Program sa ibaba).
+- Magtanim ng mas maraming gumagapang na pananim tulad ng kalabasa, beans (dry shell types), gisantes, at melon; madalas ay mas kaunti ang kailangang tubig.
+- Isaalang-alang ang paggamit ng mga butong lokal na pinalago. Kahit hindi ito partikular na pinili para sa tagtuyot, mas malamang na sanay ito sa lokal na klima.
+
+---
+
+### Mga Sanggunian
+
+- **Dry Farming in the Maritime NW, Intro to Dry Farming Organic Vegetable**, OSU Extension Publication EM9229: [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+- Website: [http://smallfarms.oregonstate.edu/dry-farming-resources](http://smallfarms.oregonstate.edu/dry-farming-resources)
+- **Mga Libro ni Steve Solomon**:
+  - *Water-Wise Vegetables*
+  - *Growing Vegetables West of the Cascades*
+  - *Gardening without Irrigation: or without much, anyway*
+- **The Resilient Gardener: Food Production and Self-Reliance in Uncertain Times** ni Carol Deppe
+- **Mga Lokal na Pinagmumulan ng Binhi**:
+  - Adaptive Seeds
+  - Territorial Seeds
+  - Abundant Life Seeds
+  - New Dimension Seeds
+  - Nichols Garden Nursery
+  - Peace Seeds
+  - Siskiyou Seeds
+
+---
+
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, katayuang pampamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyong henetiko, estado bilang beterano, paghihiganti, o pagganti dahil sa naunang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
+---

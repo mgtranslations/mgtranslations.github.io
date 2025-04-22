@@ -1,38 +1,122 @@
-Jaamacadda 10-Daqiiqo™  
-Ururka Beeralayda Clackamas County Master Gardener oo iskaashi la leh oo taageeraya Barnaamijka OSU Extension Master Gardener™  
-Korinta Khudaar Xilli Hore  
+#### Jaamacadda 10-daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo kaashanaya barnaamijka OSU Extension Master Gardener™
 
-### Waa Maxay  
-Khudaarta xilli hore waxaa sidoo kale loo yaqaan "dalagga xilli qabow". Guud ahaan, abuurkoodu wuxuu ku biqlaa heerkul hoose oo dhulka ah waxayna ku koraan hawada qabow. Tusaalooyinka waxaa ka mid ah: khudaarta xididka (beet, karootada, kohlrabi, baradho, leek, basal, iyo radish), dalagga Cole (broccoli, kaabajka, karfoosha, iyo Brussel sprout) iyo khudaarta caleenta leh (salad, basil, spinach, digir, chive, iyo kale).  
+# Korinta Khudaarta Xilli-hore
 
-Khudaarta xilli qabow qaarkood waxay u badan tahay inay sameeyaan laamo ubax marka hawadu kululaato. Raadi noocyada "ka hortagga ubax soo degdega" ama kuwa bislaada maalmo yar gudaheed. Si toos ah ugu beero dill, arugula, cilantro, iyo dhirta kale ee u nugul ubax degdeg ah.  
+### Waa Maxay
 
-### Xilliga Beerista  
-Khudaarta xilli hore waxay ku biqli kartaa oo ku koraan heerkul hoose waxayna badanaa la beeraa bishii Maarso ama Abriil, iyadoo ku xiran cimilada iyo xaaladda dhulkaaga.  
+Khudaarta xilli-hore, oo sidoo kale loo yaqaan "dalagyada xilliga qabow", waxay biqilaan marka dhulka uu qabow yahay waxayna kori karaan hawada qabow. Tusaalooyinka waxaa ka mid ah:
 
-Khudaarta ku biqli karta dhulka heerkulkiisu yahay 40°F waxaa ka mid ah: digirta fava, beet, broccoli, Brussel sprouts, kaabajka Shiinaha, kaabajka, karootada, karfoosha, kale, collard, kohlrabi, leek, basil, radish, rutabaga, digir, Swiss chard, celery, iyo turnip; halka saladka, basasha, parsnip, iyo spinach ay ku biqlaan 35°F.  
+- **Khudaarta xididka leh**: beed, karootada, kohlrabi, baradho, toon, basal, dabocase
+- **Dalagyada cole**: brokoli, kaabish, kauliflower, Brussel sprout
+- **Khudaarta caleenta leh**: saladh, basbaas, spinach, digir, chive, kale
 
-### Goorta Lagu Bilaabayo Beerista  
-Bilow beerista marka dhulku uusan aad u qoyaneyn, laakiin uu ku filan yahay inuu kululaado dalagga aad rabto inaad beerto. Ka taxadar in aadan dhulka ka shaqeynin marka uu aad u qoyan yahay. Si aad u hubiso qoyaan dhulka, ku qabso qadar yar oo dhulka ah gacantaada – haddii biyo ka soo daataan, ama dhulku uu sameeyo kubbad adag oo aan kala furfurmin, sug. Dhulka ka shaqeynta marka uu aad u qoyan yahay waxay burburineysaa qaab-dhismeedkiisa. Haddii aad isticmaasho rototill, samee hal ama laba mar oo dhulku ku habboon yahay. Jooji marka dhulku uu weli haysto qaybo yar; ha burburin gabi ahaanba.  
+Qaar ka mid ah khudaarta xilliga qabow waxay u janjeeraan inay ubaxaan marka hawadu kululaato. Raadi noocyo "ka hortaga ubax degdeg ah" ama kuwa bislaada waqti gaaban gudaheed. Si toos ah ugu beeri dill, arugula, cilantro, iyo dhir kale oo u nugul ubax degdeg ah.
 
-Heerkulka dhulka ayaa muhiim u ah biqilka abuurka, koritaanka xididka, iyo dhaqdhaqaaqa microbes-ka dhulka oo u beddela nafaqooyinka hab loo isticmaali karo dhirta. Beeralayda caqliga leh waxay isticmaalaan heerkulbeeg dhulka ka hor inta aanay abuurka iyo beerista bilaabin. Hubi heerkulka dhulka 9 subaxnimo, adiga oo galinaya qiyaasta heerkulbeegga dhulka qoto dheer oo dhan 2 inches, 7 maalmood oo xiriir ah. Celceliska wuxuu ku siinayaa tilmaamo wanaagsan oo ku saabsan goorta la abuuro iyo la beero.  
+---
 
-### Qalab Fudud oo Ka Caawinaya Beerista Hore  
-- Ku dar 2”-4” maaddo dabiici ah xilliga dayrta si ay u kordhiso nafaqooyinka, hagaajiso qaabka dhulka, oo yareyso cadaadiska roobka.  
-- Dhulka ku dabool caag cad polyethylene si dhulku u kululaado; caaggana wuxuu si fiican u koraa cawska.  
-- Samee sariir kor loo qaaday, isticmaal cloche, sanduuq qabow, ama tunnel caag ah.  
-- Dhulka cusub ee lagu beeray ku dabool daboolka safka sabeynaya si ay dhulku u kululaado ugana ilaaliso beeritaanka, iyada oo iftiinka iyo biyaha ay sii marayaan.  
+### Xilliga Beerista
 
-### Doorashada Abuurka, Geedaha Yar-yar, ama Dhirta Daa’imka ah  
-Karootada, digirta, saladka, kohlrabi, caleemaha cagaaran, beet, iyo radish si fudud ayay uga koraan abuurka; ku beero abuurka si toos ah dhulka. Ka hor biqli abuurka, gaar ahaan kuwa leh dhar adag, si ay u dedejiso biqilka. Habka mid ah waa in abuurka la qooyo 2-4 saacadood ka hor inta aan dhulka lagu beerin; ama abuurka qoyan u dhig inta u dhaxaysa laba lakab oo tuwaalada waraaqaha qoyan, ka dibna geli bac caag ah. Ku hay meel diiran ilaa abuurku uu bilaabo biqilka.  
+Khudaarta xilli-hore waxay biqilaan oo koraan marka dhulku qabow yahay, badanaa waxaa la beeraa **Maarso ama Abriil**, iyadoo ay ku xiran tahay cimilada iyo xaaladda ciidda.
 
-Korinta geedaha yar-yar ee aad adigu samaysato waxay xaqiijisaa inaad hesho noocyada aad rabto wakhtiga saxda ah ee beerista. Kaabajka, broccoli, karfoosha, iyo kale waxaa si caadi ah looga helaa nurseries ahaan dhirta yar-yar; iibsashada dhirta yar-yar waxay horumarisaa koritaanka oo dedejisaa goosashada. Tani waa mid gaar ahaan muhiim ah haddii khudaartu tahay nooc u nugul "ubax degdeg ah" halkii ay ka koraan caleemo cagaaran marka hawadu kululaato.  
+Khudaarta ku biqilaysa heerkul gaar ah ee ciidda:
 
-Khudaarta qaarkood ma yimaadaan abuur ahaan ama geed ahaan toona. Tusaalooyinka waxaa ka mid ah tuber baradho, bulbka toon iyo basal (sets) oo si toos ah loogu beeri karo dhulka. Korinta khudaarta daa’imka ah waa hab kale oo lagu bilaabi karo xilli hore. Ka fiirso asparagus, sorrel, Jerusalem artichoke, rhubarb, iyo artichoke, dhammaan waa dhir daa’im ah oo aan u baahan in sannad walba la abuuro oo soo baxa xilli hore.  
+- **40°F heerkulka ciidda**: digir fava, beed, brokoli, Brussel sprouts, kaabish Shiine, kaabish, karootada, kauliflower, kale, collard, kohlrabi, toon, basbaas, dabocase, rutabaga, digir, Swiss chard, celery, turnip
+- **35°F heerkulka ciidda**: saladh, basal, parsnip, spinach
 
-### Bacriminta Dhulka  
-Khudaarta badankoodu waa dalag sannadle ah waxaana u baahan nafaqo kugu filan si ay si fiican u soo saaraan. Dhirta waxay isticmaashaa oo kaliya nafaqooyinka ku milmay biyaha dhulka, laakiin inta badan nafaqooyinka ku jira dhulka ma ahan qaab milma. Si degdeg ah loogu arko natiijooyin, isticmaal bacriminta ku milma biyaha.  
+---
 
-Haddii aad isticmaasho bacriminta dabiiciga ah oo aan ahayn dareere, ku codso bilowga labo bilood ka hor beerista. Tusaalooyinka bacriminta dabiiciga ah waxaa ka mid ah emulsion kalluun (3-5% N); saxarada digaaga ee la qasiiray (3% N); mealka dhiigga (12-15% N); mealka lafaha (12-24% P); iyo mealka kelp (2-5% K).  
+### Goorma La Bilaabaa Beerista
 
-Beeraha khudaarta Portland metro waxay muujiyeen daraasad dhowaan la sameeyay inay leeyihiin heerar aad u sarreeya oo fosfooraska, potassium iyo nafaqooyin kale ah. Waxaan ku talinaynaa in beeralaydu sameeyaan tijaabada dhulka si ay u ogaadaan waxa u baahan oo kaliya bacrimiyaan sida loo baahan yahay. Dalagga culus sida beet, collard, kale, saladka, ba
+Bilaaw beerista marka ciiddu aysan aad u qoyaneyn laakiin ay ku filan tahay diirimaad dalagga aad rabto inaad beerto.
+
+- **Hubi qoyaan ciidda**: Qabso ciidda gacantaada. Haddii biyo ka da’aan ama ciiddu ay samaysato kubad adag, sug. Shaqada ciida qoyan waxay burburisaa qaab-dhismeedkeeda.
+- **Rototilling**: Mar laba jeer ka mari ciida la shaqayn karo. Joogso marka ay ciiddu weli leedahay qaybo yaryar; iska ilaali inaad aad u burburiso.
+
+**Heerkulka ciidda** waa muhiim si abuurku u biqilo, xididku u koro, iyo ficilka noolaha ciidda. Isticmaal heerkul-beere si aad u hubiso heerkulka ciidda:
+
+1. Geli heerkul-beeraha ciidda qoto dheer oo ah 2 inji.
+2. Hubi 9 subaxnimo 7 maalmood oo xiriir ah.
+3. Xisaabi celceliska heerkulka si aad u go’aamiso goorta la beerayo.
+
+---
+
+### Qalab Kugu Caawin Kara Beerista Hore
+
+- Ku dar **2”-4” walax organic ah** xilliga dayrta si aad u hagaajiso nafaqooyinka ciidda, jilicsanaanta ciidda, iyo inaad yarayso ciriiriga roobka.
+- Dabool dhulka **balaastiig cad** si aad u kululayso ciidda (ogow: balaastiig cad sidoo kale waxa uu si fiican u koraa cawska).
+- Isticmaal **sariir kor loo qaaday**, cloche, sanduuq qabow, ama tunnel balaastiig ah.
+- Ku dabool dhulka la beero **dabool saf la dul dhigo** si loo kululeeyo ciidda loona ilaaliyo dalagga, isla markaana iftiinka iyo biyaha ay u gudbaan.
+
+Eeg **[Sida Loo Sameeyo Sariir Kor loo Qaaday oo Cloche ah (EC 1627)](http://catalog.extension.oregonstate.edu)**, oo ah buug ka yimid Jaamacadda Oregon State, si aad u hesho tilmaamo faahfaahsan.
+
+---
+
+### Doorashada Abuurka, Beerista Goobta, iyo Dalagyada Sannadlaha ah
+
+#### Abuurka
+
+Karootada, digirta, saladhka, kohlrabi, caleenta, beedka, iyo dabocasta si fudud ayaa looga beeri karaa abuur. Ku beero abuurka si toos ah ciidda.
+
+- **Abuur hore loo biqiliyey**:
+  - Dhigo abuurka biyo ah 2-4 saacadood ka hor inta aan la beerin.
+  - Ama, dhig abuurka la qoyey inta u dhaxaysa laba warqad qoyan oo la geliyo bac balaastiig ah, meel diiran dhig ilaa ay biqilaan.
+
+#### Goob-goobka
+
+Korinta dhirta aad adigu beertay waxay kuu xaqiijinaysaa inaad hesho noocyada aad rabto xilliga saxda ah ee la beero.
+
+- Kaabish, brokoli, kauliflower, iyo kale waxa laga helaa meelaha dhirta lagu iibiyo ee caruurtu ka soo baxdo.
+- Iibsashada dhir yaryar waxay kaaga hormarinaysaa goosashada, gaar ahaan khudaarta u nugul "ubax degdeg ah" xilliga cimiladu kulushahay.
+
+#### Sannadleyaal
+
+Qaar ka mid ah khudaarta kama yimaadaan abuur ama dhir, sida tuber-baradho, toon, iyo basal (sets), kuwaas oo si toos ah ciidda loogu beeri karo.
+
+Korinta khudaarta sannadlaha ah waa hab kale oo aad hore ugu bilaabi karto goosashada. Ka fiirso:
+
+- Asparagus
+- Sorrel
+- Jerusalem artichoke
+- Rhubarb
+- Artichoke
+
+Kuwaan sannadlayaasha ah looma baahna in sannad walba la beero waxayna bilaabaan goosashada xilli hore.
+
+---
+
+### Nafaqada Ciidda
+
+Khudaarta badankeed waa dalagyo sannadle ah oo u baahan nafaqo ku filan si ay u soo saaraan goosasho fiican.
+
+- Dhirta waxay isticmaashaa oo kaliya nafaqada ku milantay biyaha ciidda. Natiijo degdeg ah awgeed, isticmaal **bacriminta biyaha ku milanta**.
+- Haddii aad isticmaalayso **bacriminta organic** (aan dareere ahayn), ku dar ciidda labo bilood ka hor inta aad beerto. Tusaalooyinka:
+  - Fish emulsion (3-5% N)
+  - Digada digaaga ee qudhuntay (3% N)
+  - Dhiig shiidan (12-15% N)
+  - Laf shiidan (12-24% P)
+  - Kelp meal (2-5% K)
+
+#### Tijaabada Ciidda
+
+Beero badan oo ku yaal aagga Portland waxay leeyihiin heerar sare oo fosfooraska, potassium, iyo nafaqooyin kale. Beeraleydu waa inay sameeyaan tijaabo ciidda ah si ay u ogaadaan waxa ka maqan oo kaliya ay u bacrimiyan sida loogu baahdo.
+
+- **Cunto badan u baahan**: beed, collard, kale, saladh, basbaas, spinach, yaanyo waxay u baahan karaan nafaqo dheeraad ah.
+- **Cunto yar u baahan**: karootada, toon, basal, chard, mustard, basbaas waxay u baahan karaan nafaqo dhexdhexaad ah.
+- **Nidaamiyeyaasha nitrogen**: digir, soy bean, clover inta badan si fiican ayey u koraan iyagoon bacriminta ubaahnayn.
+
+---
+
+### Kheyraadka OSU Extension Service
+
+Booqo [OSU Extension Service](http://catalog.extension.oregonstate.edu) si aad u hesho kheyraad:
+
+- **Beerta Khudaarta Xilli-gaaban (PNW 497)**
+- **Sida Loo Sameeyo Sariir Kor loo Qaaday oo Cloche ah (EC 1627)**
+- **Beerta Khudaarta Dayrta iyo Jiilaalka ee Pacific Northwest (PNW 548)**
+
+Booqo [Kheyraadka Jaamacadda 10-daqiiqo™](http://www.cmastergardeners.org/10-minute-university) si aad u hesho waraaqo iyo muuqaallo ku saabsan korinta khudaarta.
+
+---
+
+#### Adeegga OSU Extension wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: midab, jinsiyad, asalka qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, heerka guurka, xaaladda qoyska/waalidnimo, dakhliga laga helo barnaamijyda caawinta dadweynaha, aaminsanaanta siyaasadda, macluumaadka hidda-sidaha, xaaladda ciidanimada, aargoosi, ama fal-celin waxyeello horey uga dhacday arrimaha xuquuqda madaniga. (Dhammaan sababaha la mamnuucay ma khuseeyaan barnaamij walba.)
+---

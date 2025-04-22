@@ -1,121 +1,154 @@
-Đại học 10 phút™  
-Hiệp hội Người làm vườn Bậc thầy Quận Clackamas phối hợp và hỗ trợ Chương trình Người làm vườn Bậc thầy của OSU™  
+#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension
 
-Làm vườn trên đất sét  
+# Làm Vườn Trên Đất Sét
 
-### Giới thiệu  
-Đất được tạo ra từ đá và chất hữu cơ phân hủy. Đất khỏe mạnh, theo tỷ lệ thể tích, nên có 45% khoáng chất từ đá, 5% chất hữu cơ, 50% không gian rỗng để chứa nước và không khí. Trong số các chức năng quan trọng của đất có:  
-- Là nơi sống cho các sinh vật như vi khuẩn, nấm, tuyến trùng, sinh vật nguyên sinh và giun đất;  
-- Là điểm neo cho rễ cây;  
-- Là kho chứa dinh dưỡng để hỗ trợ sự phát triển của cây;  
-- Là nơi lưu trữ và làm sạch nước.  
+### Giới Thiệu
 
-Cát, bùn và đất sét là các hạt khoáng chất của đất. Hạt cát có thể nhìn thấy bằng mắt thường và có cảm giác sần sùi, trong khi hạt bùn nhỏ hơn (tương tự như một hạt bột trắng) và có cảm giác mịn. Cả hai đều có hình dạng giống đá nhỏ. Hạt đất sét thì không thể nhìn thấy bằng mắt thường và thường phẳng. Hầu hết đất là hỗn hợp của cát, bùn và đất sét. Đất mùn có hỗn hợp gần như bằng nhau của ba loại hạt này.  
+Đất hình thành từ đá đã phân huỷ và chất hữu cơ. Đất khỏe mạnh, tính theo thể tích, nên có:
+- **45% khoáng chất từ đá**
+- **5% chất hữu cơ**
+- **50% khoảng trống** cho nước và không khí
 
-Kết cấu đất phản ánh tỷ lệ cát, bùn và đất sét; cấu trúc đất tốt dựa vào các sinh vật sống (vi khuẩn và nấm) và chất mùn (chất hữu cơ phân hủy) để kết dính các hạt thành các khối nhỏ, được gọi là "peds," là các khối cấu tạo của đất.  
+Nhiều chức năng quan trọng của đất bao gồm:
+- Nơi sinh sống cho các sinh vật như vi khuẩn, nấm, tuyến trùng, động vật nguyên sinh và giun đất
+- Nơi bám cho rễ cây
+- Kho dự trữ dinh dưỡng giúp cây phát triển
+- Lưu trữ và lọc nước
 
----
+Cát, bùn, và sét là các hạt khoáng trong đất:
+- Hạt **cát** có thể nhìn thấy bằng mắt thường và cảm giác ráp.
+- Hạt **bùn** nhỏ hơn (giống như hạt bột mì) và cảm giác mịn.
+- Hạt **sét** không nhìn thấy được bằng mắt thường và thường dẹt.
 
-### Tính chất của đất sét so với các loại đất khác  
+Hầu hết các loại đất là hỗn hợp của cát, bùn và sét. **Đất thịt (loam)** là loại đất có tỷ lệ ba thành phần này gần bằng nhau.
 
-| Loại đất            | Khả năng giữ nước       | Độ phì nhiêu | Độ thấm nước | Cảm giác                      |
-|---------------------|-----------------------|--------------|--------------|------------------------------|
-| Đất mùn             | Trung bình           | Trung bình   | Trung bình   | --                           |
-| Đất cát mùn         | Thấp - Trung bình    | Thấp         | Cao          | Sần sùi                      |
-| Đất bùn mùn         | Cao                  | Trung bình   | Thấp - Trung bình | Mịn, dễ uốn khi ướt nhưng không dính |
-| Đất sét và đất sét mùn | Cao                  | Cao          | Thấp         | Cứng khi khô, dính khi ướt; có thể nặn thành dải |
-
----
-
-### Khoa học đất nói gì?  
-
-#### Độ phì nhiêu  
-- Đất sét giàu dinh dưỡng cho cây. Các hạt đất sét mang điện tích âm, giữ các hạt tích điện dương như canxi, kali, magie, sắt và các dinh dưỡng cho cây khác.  
-
-#### Độ thấm nước  
-- Đất ướt và đất có kết cấu mịn (nhiều đất sét hoặc bùn) dễ bị nén chặt. Đất bị nén sẽ có các khối "peds" phẳng, làm cản trở sự di chuyển của nước và rễ cây. Đất sét bị nén khó phục hồi.  
-- Đất khỏe mạnh có nhiều không gian giữa các khối "peds" (macropores) để hỗ trợ sự di chuyển của nước, khí và rễ. Nhiều không gian macropores dẫn đến khả năng thoát nước tốt hơn.  
-
-#### Khả năng giữ nước  
-- Các lỗ nhỏ gọi là micropores (không gian bên trong một khối "ped") mang lại khả năng giữ nước cho đất.  
-
-#### Làm xáo trộn đất  
-- Việc đào và xới đất làm phá vỡ các khối "peds," nhưng lại đưa không khí vào các không gian macropores. Xới đất quá mức làm giảm chức năng của hệ nấm, tiêu diệt tuyến trùng có lợi và thường dẫn đến đất bị nén chặt.  
-
-#### Sự sống trong đất  
-- Đất có rất nhiều sự sống -- nhiều sinh vật có lợi cho cây. Đất chứa nhiều chất hữu cơ thường có nhiều vi sinh vật hơn. Vi sinh vật trong đất hoạt động mạnh nhất trong khoảng nhiệt độ từ 70°F đến 100°F, trong khi giun đất hoạt động mạnh nhất ở khoảng 50°F.  
-
-- Rễ cây tiết ra một chất gọi là "exudate," chứa đường, vitamin, oxy và các hợp chất khác. Exudate thu hút vi sinh vật đến gần rễ cây. Các nghiên cứu cho thấy thành phần exudate khác nhau tùy theo loài cây và hình thành cộng đồng nấm quanh mỗi cây.  
+Kết cấu đất phản ánh tỷ lệ cát, bùn, sét. Cấu trúc đất tốt nhờ các sinh vật sống (vi khuẩn và nấm) và mùn (chất hữu cơ phân huỷ) kết dính các hạt lại thành **cục đất (peds)**, là những khối xây dựng của đất.
 
 ---
 
-### Vi sinh vật có lợi  
+### Đặc Điểm Đất Sét So Với Các Loại Khác
 
-- Vi khuẩn Rhizobia bắt giữ nitơ từ không khí để cây sử dụng.  
-- Tuyến trùng có lợi rất nhạy cảm với sự xáo trộn và nhiều tuyến trùng bị tiêu diệt do xới đất, thường làm rối loạn toàn bộ mạng lưới thức ăn trong đất.  
-- Nhiều loại nấm hình thành mối quan hệ có lợi (gọi là mycorrhizae) với rễ cây. Sợi nấm hoạt động giống như các lông rễ dài để lấy nước và dinh dưỡng từ đất cho cây. Mycorrhizae cũng cải thiện cấu trúc đất bằng cách kết tụ các hạt đất thành các khối "peds."  
-
----
-
-### Cách quản lý đất sét  
-
-#### Kiểm tra đất của bạn  
-- Trước khi thêm các chất cải tạo, hãy kiểm tra đất của bạn. Bón phân chỉ khi kiểm tra đất cho thấy thiếu hụt hoặc cây không phát triển tốt. Hãy nhớ rằng đất sét giàu dinh dưỡng. Ở thung lũng Willamette, hầu hết cây cối, bụi cây và cây lâu năm không cần thêm phân bón.  
-
-#### Giữ rễ sống phát triển  
-- Cây sống thu hoạch năng lượng mặt trời và hỗ trợ một cộng đồng vi sinh vật trong đất thông qua chất tiết từ rễ. Các nghiên cứu cho thấy chất tiết định hình thành phần vi sinh vật trong đất. Trồng nhiều loại cây đa dạng giúp tối đa hóa sự đa dạng của sự sống trong đất, điều này giúp xây dựng đất khỏe mạnh.  
-
-#### Giảm xáo trộn  
-- Bất cứ điều gì làm xáo trộn đất (đi bộ trên đất, đào, xới) đều có thể làm phá vỡ hoặc nén các khối "peds" và giảm không gian rỗng, điều quan trọng đối với độ thấm nước và khả năng giữ nước.  
-
-#### Giữ đất được che phủ  
-- Phủ đất để điều chỉnh nhiệt độ đất, giảm bốc hơi và hạn chế sự phát triển của cỏ dại. Lớp phủ hữu cơ phân hủy và thêm chất hữu cơ vào đất -- các vật liệu thô cho phép lưu thông không khí, trong khi các chất đặc hơn, như bìa cứng, làm giảm sự trao đổi khí. Gỗ băm từ các chuyên gia cây cảnh (4-6”) là một lớp phủ tốt – nó cho phép lưu thông không khí và phân hủy chậm để thêm chất hữu cơ vào đất.  
-
-#### Nuôi vi sinh vật trong đất  
-- Chất hữu cơ (OM) là nền tảng của mạng lưới thức ăn trong đất; thêm OM sẽ nuôi vi sinh vật trong đất. Chọn dạng OM đã được ủ kỹ và không chứa các đặc tính không mong muốn như muối cao hoặc kim loại nặng. OM như lá cây và chất thải từ sân vườn đã được ủ có thể được trộn vào hoặc một lớp mỏng 1/2 đến 1” có thể đặt trên bề mặt để tạo môi trường thuận lợi cho hoạt động của vi sinh vật.  
-
-#### Tạo luống trồng cho mùa này  
-- Nếu bạn cần luống mới cho cây rau hàng năm, hãy trộn OM đã được ủ vào toàn bộ luống. Điều này sẽ mang lại lợi ích ngay lập tức của đất dễ làm việc và độ phì nhiêu cao hơn. Tuy nhiên, những lợi ích này chỉ mang tính ngắn hạn vì OM sẽ phân hủy nhanh chóng, dinh dưỡng không sử dụng sẽ bị mất, và đất sẽ bị lún xuống.  
+| Đặc điểm                    | Đất thịt | Đất cát thịt   | Đất bùn thịt   | Đất sét & Đất thịt sét                                 |
+|-----------------------------|----------|----------------|----------------|--------------------------------------------------------|
+| **Khả năng giữ nước**       | Vừa phải | Thấp - vừa     | Cao            | Cao                                                   |
+| **Độ phì nhiêu**            | Vừa phải | Thấp           | Vừa phải       | Cao                                                   |
+| **Độ thấm nước**            | Vừa phải | Cao            | Thấp - vừa     | Thấp                                                  |
+| **Cảm giác**                | --       | Ráp            | Mịn, dẻo khi ướt nhưng không dính | Cứng khi khô, dính khi ướt; có thể nặn thành dải |
 
 ---
 
-### Thay đổi từ quá khứ  
-- Quan niệm "Chỉ cần thêm chất hữu cơ!" như giải pháp cải thiện đất sét đã được sửa đổi. Trước đây, chúng tôi khuyến nghị thêm ban đầu 2-4” OM với lượng nhỏ hơn sau đó. Điều này đã thay đổi. Các nghiên cứu gần đây về vườn đô thị, nơi đã thêm OM trong nhiều năm, cho thấy mức độ không lành mạnh của phosphate và OM. Mức phosphate cao làm giảm khả năng cây hấp thụ sắt và phát triển mycorrhizae có lợi, đồng thời góp phần gây ô nhiễm sông ngòi. Nếu mua OM từ các nguồn thương mại, Bộ Nông nghiệp Oregon phân tích OM về hàm lượng dinh dưỡng. Kiểm tra để đảm bảo bạn mua OM có hàm lượng phosphate thấp nếu bạn đã thêm OM vào đất trong thời gian dài.  
+### Khoa Học Đất Cho Biết Gì?
+
+#### Độ Phì Nhiêu
+- Đất sét giàu dinh dưỡng cho cây.
+- Hạt sét mang điện tích âm, giúp giữ các ion dương như canxi, kali, magie, sắt và các chất dinh dưỡng thực vật khác.
+
+#### Độ Thấm Nước
+- Đất ướt và đất kết cấu mịn (nhiều sét hoặc bùn) dễ bị nén chặt.
+- Đất bị nén có các cục đất bị dẹp, cản trở nước và rễ di chuyển.
+- Đất sét bị nén rất khó phục hồi.
+- Đất khỏe mạnh có nhiều khoảng trống giữa các cục đất (**khoảng trống lớn/macropores**) giúp nước, khí và rễ di chuyển dễ dàng. Nhiều khoảng trống lớn giúp đất thoát nước tốt hơn.
+
+#### Khả Năng Giữ Nước
+- Các lỗ nhỏ hay **khoảng trống nhỏ/micropores** (bên trong một cục đất) quyết định khả năng giữ nước của đất.
+
+#### Làm Xáo Trộn Đất
+- Đào xới đất phá vỡ các cục đất nhưng cũng đưa không khí vào các khoảng trống lớn.
+- Xới đất quá nhiều làm hỏng sợi nấm, giết chết tuyến trùng có lợi và thường khiến đất bị nén chặt.
+
+#### Sự Sống Trong Đất
+- Đất chứa rất nhiều sinh vật sống, nhiều loại có ích cho cây.
+- Đất giàu chất hữu cơ thường có nhiều vi sinh vật hơn.
+- Vi sinh vật đất hoạt động mạnh nhất ở nhiệt độ **21°C – 38°C (70°F – 100°F)**, giun đất hoạt động mạnh khoảng **10°C (50°F)**.
+
+#### Rễ Cây Và Chất Tiết Rễ
+- Rễ cây tiết ra một chất gọi là **chất tiết rễ (exudate)**, chứa đường, vitamin, oxy và các hợp chất khác.
+- Chất tiết rễ thu hút vi sinh vật tới gần rễ cây.
+- Nghiên cứu cho thấy thành phần chất tiết rễ thay đổi theo loài cây và ảnh hưởng đến cộng đồng nấm quanh rễ.
+
+#### Vi Sinh Vật Có Lợi
+- **Vi khuẩn Rhizobia** cố định đạm từ không khí cho cây sử dụng.
+- Tuyến trùng có lợi rất nhạy cảm với xáo trộn, nhiều con sẽ chết khi xới đất, làm ảnh hưởng toàn bộ mạng lưới thức ăn trong đất.
+- Nhiều loại nấm tạo quan hệ cộng sinh có lợi (**mycorrhizae**) với rễ cây.
+  - Sợi nấm hoạt động như rễ phụ dài, giúp cây hút nước và chất dinh dưỡng.
+  - Mycorrhizae còn cải thiện cấu trúc đất bằng cách kết tụ các hạt đất thành cục đất.
 
 ---
 
-### Tìm hiểu thêm về đất  
+### Cách Quản Lý Đất Sét
 
-#### Các tài liệu  
-Ấn phẩm của Đại học Bang Oregon: https://catalog.extension.oregonstate.edu/  
-- Hướng dẫn thu thập mẫu đất, EC628  
-- Nguyên tắc sức khỏe đất, EC1647  
-- Phòng thí nghiệm phân tích phục vụ Oregon, EM8677  
-- Bón vôi để nâng độ pH đất cho sản xuất cây trồng, EM9057  
+#### Kiểm Tra Đất
+- Trước khi bổ sung chất, hãy kiểm tra đất.
+- Chỉ bón phân nếu kết quả kiểm tra cho thấy thiếu chất hoặc cây không phát triển tốt.
+- Nhớ rằng đất sét giàu dinh dưỡng.
+- Ở Thung lũng Willamette, hầu hết cây thân gỗ, cây bụi, và cây lâu năm không cần bón phân.
 
-Ấn phẩm của Đại học Bang Washington: https://pubs.extension.wsu.edu/extension-publications  
-- Cây che phủ cho người làm vườn tại nhà phía Tây dãy Cascade, FS111E  
-- Hướng dẫn về đất và phân bón cho người làm vườn tại nhà, EM063E  
-- Lời giới thiệu về Mycorrhizae cho người làm vườn, FS269E  
+#### Duy Trì Rễ Sống
+- Cây sống hấp thụ năng lượng mặt trời và nuôi dưỡng cộng đồng vi sinh vật đất qua chất tiết rễ.
+- Nghiên cứu cho thấy chất tiết rễ quyết định thành phần vi sinh vật trong đất.
+- Trồng đa dạng nhiều loại cây giúp tăng đa dạng sinh học đất, từ đó xây dựng đất khỏe mạnh.
+
+#### Hạn Chế Xáo Trộn
+- Mọi hoạt động xáo trộn đất (dẫm chân, đào, xới) đều có thể phá vỡ hoặc nén cục đất, giảm khoảng trống – rất quan trọng cho độ thấm nước và giữ nước.
+
+#### Luôn Phủ Đất
+- Phủ đất bằng vật liệu hữu cơ giúp điều hòa nhiệt độ, hạn chế bốc hơi nước và giảm cỏ dại.
+- Phủ hữu cơ sẽ phân huỷ, bổ sung chất hữu cơ cho đất.
+  - Vật liệu thô cho phép không khí lưu thông, còn vật liệu đặc như bìa các tông hạn chế trao đổi khí.
+  - Mùn gỗ từ thợ cắt tỉa cây (4-6 inch) là loại phủ đất tốt – vừa thông khí vừa phân hủy từ từ để bổ sung chất hữu cơ.
+
+#### Nuôi Vi Sinh Vật Đất
+- Chất hữu cơ (**OM**) là nền tảng của chuỗi thức ăn trong đất; bổ sung OM giúp nuôi vi sinh vật.
+- Chọn loại đã ủ hoai kỹ, không chứa muối hay kim loại nặng độc hại.
+- OM như lá ủ hoai, rác vườn có thể trộn vào đất hoặc phủ một lớp mỏng (1-2,5 cm) lên để tạo môi trường thuận lợi cho vi sinh vật phát triển.
+
+#### Tạo Luống Trồng Cho Mùa Này
+- Nếu cần luống mới cho rau hằng năm, hãy trộn OM đã ủ vào toàn bộ luống.
+- Điều này giúp đất dễ làm, tăng độ phì nhanh chóng.
+- Tuy nhiên, lợi ích này chỉ ngắn hạn do OM phân huỷ nhanh, dinh dưỡng không dùng hết sẽ bị rửa trôi, đất sẽ lún xuống.
+
+#### Thay Đổi So Với Trước Đây
+- Câu khẩu hiệu “Chỉ cần bổ sung chất hữu cơ!” như là giải pháp cho đất sét đã được điều chỉnh.
+- Trước đây, khuyến nghị ban đầu là bổ sung 5-10 cm OM, những lần sau giảm dần.
+- Nghiên cứu gần đây ở vườn đô thị nơi bổ sung OM nhiều năm cho thấy lượng photpho và OM quá cao.
+  - Photpho cao làm cây khó hấp thụ sắt, hạn chế sự phát triển của mycorrhizae có lợi, và gây ô nhiễm sông suối.
+- Nếu mua OM thương mại, Bộ Nông nghiệp Oregon đã kiểm tra hàm lượng dinh dưỡng của OM.
+- Nếu bạn đã bổ sung OM lâu năm, nên chọn loại OM có hàm lượng photpho thấp.
 
 ---
 
-#### Video  
-- Lớp phủ: Tốt, Xấu, và Rất Rất Xấu, video Đại học 10 phút™  
-https://www.youtube.com/watch?v=NXL9n2KNm1E&feature=youtu.be  
+### Tìm Hiểu Thêm Về Đất
 
-- Lấy mẫu đất tại nhà, Đại học Bang Washington  
-https://www.youtube.com/watch?time_continue=305&v=0tRQUPDRiDU  
+#### Ấn Phẩm
 
-- Minh họa sức khỏe đất  
-https://video.search.yahoo.com/yhs/search?p=ray+archuleta%27s+soil+health+demo+2014+custom&action=view  
+**Ấn phẩm của Đại học Bang Oregon**
+- [Hướng dẫn lấy mẫu đất, EC628](https://catalog.extension.oregonstate.edu/)
+- [Nguyên tắc sức khỏe đất, EC1647](https://catalog.extension.oregonstate.edu/)
+- [Phòng thí nghiệm phân tích phục vụ bang Oregon, EM8677](https://catalog.extension.oregonstate.edu/)
+- [Bón vôi nâng pH đất cho sản xuất cây trồng, EM9057](https://catalog.extension.oregonstate.edu/)
 
-- Những người chăn bò carbon đất https://www.youtube.com/watch?v=ZGvVli0OTrQ  
+**Ấn phẩm của Đại học Bang Washington**
+- [Cây phủ đất cho vườn gia đình phía tây dãy Cascades, FS111E](https://pubs.extension.wsu.edu/extension-publications)
+- [Hướng dẫn vườn gia đình về đất và phân bón, EM063E](https://pubs.extension.wsu.edu/extension-publications)
+- [Kiến thức cơ bản về Mycorrhizae cho người làm vườn, FS269E](https://pubs.extension.wsu.edu/extension-publications)
 
-- Từ bụi đất đến đất https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops&action=view  
+**Giải mã những lầm tưởng về đất cho giáo viên Extension**  
+[Xem xét tài liệu về cấu trúc và chức năng đất](https://www.nacaa.com/journal/index.php?jid=1024)
+
+#### Video
+
+- [Phủ đất: Tốt, xấu và cực kỳ xấu](https://www.youtube.com/watch?v=NXL9n2KNm1E)
+- [Hướng dẫn lấy mẫu đất tại nhà, Đại học Bang Washington](https://www.youtube.com/watch?v=0tRQUPDRiDU)
+- [Trình diễn sức khỏe đất](https://video.search.yahoo.com/yhs/search?p=ray+archuleta%27s+soil+health+demo+2014+custom)
+- [Những người chăn bò carbon trên đất](https://www.youtube.com/watch?v=ZGvVli0OTrQ)
+- [Từ bụi đất thành đất tốt](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)
+
+#### Trang Web
+
+- [Web Soil Survey](http://www.websoilsurvey.sc.egov/)
+- [Tài liệu và video Đại học 10 Phút™](http://www.cmastergardeners.org/10-minute-university)
 
 ---
 
-#### Trang web  
-- Khảo sát đất trực tuyến www.websoilsurvey.sc.egov/  
-- Tài liệu và video Đại học 10 phút™, www.cmastergardeners.org/10-minute-university  
+###### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm diễn đạt giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc đáp trả do đã thực hiện quyền dân sự trước đó. (Không phải tất cả căn cứ bị cấm đều áp dụng cho mọi chương trình).
+---

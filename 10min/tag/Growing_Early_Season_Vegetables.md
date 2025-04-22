@@ -1,58 +1,122 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta sa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Pagtatanim ng Mga Gulay na Maagang Panahon  
+# Pagtatanim ng Gulay na Maagang Panahon
 
-### Ano Ito  
-Ang mga gulay na maagang panahon ay tinatawag ding “cool-season” crops. Sa pangkalahatan, ang kanilang mga buto ay tumutubo sa mas mababang temperatura ng lupa at lumalaki sa mas malamig na temperatura ng hangin. Halimbawa nito ang mga gulay na ugat (beet, carrot, kohlrabi, potato, leek, onion, at radish), Cole crops (broccoli, cabbage, cauliflower, at Brussel sprout), at mga berdeng gulay (lettuce, parsley, spinach, pea, chive, at kale).  
+### Ano Ito
 
-Ang ilang mga gulay na cool-season ay may tendensiyang maglabas ng bulaklak kapag uminit ang hangin. Maghanap ng mga uri na “lumalaban sa bolting” o naaabot ang maturity sa mas kaunting araw. Direktang magtanim ng dill, arugula, cilantro, at iba pang halaman na madaling mag-bolt.  
+Ang mga gulay na maagang panahon, na tinatawag ding “cool-season” crops, ay tumutubo kahit malamig ang lupa at hangin. Kasama dito ang:
 
-### Panahon ng Pagtatanim  
-Ang mga gulay na maagang panahon ay tumutubo at lumalaki sa mas mababang temperatura at karaniwang itinatanim sa Marso o Abril, depende sa panahon at kondisyon ng lupa.  
+- **Mga ugat na gulay**: remolacha (beet), karot, kohlrabi, patatas, leek, sibuyas, labanos
+- **Mga cole crops**: broccoli, repolyo, cauliflower, Brussel sprout
+- **Dahon na gulay**: letsugas, perehil, spinach, gisantes, chive, kale
 
-Ang mga gulay na tumutubo sa 40°F temperatura ng lupa ay kinabibilangan ng: fava bean, beet, broccoli, Brussel sprouts, Chinese cabbage, cabbage, carrot, cauliflower, kale, collard, kohlrabi, leek, parsley, radish, rutabaga, pea, Swiss chard, celery, at turnip; habang ang lettuce, onion, parsnip, at spinach ay tumutubo sa 35°F.  
-
-### Kailan Magsisimulang Magtanim  
-Magsimula sa pagtatanim kapag ang lupa ay hindi masyadong basa ngunit sapat na mainit para sa crop na nais mong itanim. Siguraduhing huwag magtrabaho sa lupa kapag ito ay masyadong basa. Para suriin ang moisture ng lupa, pisilin ang isang dakot ng lupa sa iyong kamay – kung may tubig na tumutulo o ang lupa ay bumubuo ng mahigpit na bola, maghintay. Ang pagtrabaho sa lupa kapag ito ay masyadong basa ay masisira ang istruktura nito.  
-
-Kung gagamit ng rototiller, gumawa ng isa o dalawang pasada lamang sa lupa na maaaring trabahuhin. Tumigil kapag ang lupa ay may maliliit na piraso pa; huwag itong gawing sobrang pinong lupa.  
-
-Ang temperatura ng lupa ay mahalaga sa pagtubo ng buto, paglaki ng ugat, at aktibidad ng mga mikrobyo sa lupa na nagko-convert ng nutrients sa porma na magagamit ng mga halaman. Ang masusing hardinero ay gumagamit ng thermometer sa lupa bago magtanim. Suriin ang temperatura ng lupa tuwing alas-9 ng umaga sa loob ng 7 sunod-sunod na araw sa lalim na 2 pulgada. Ang average na temperatura ay magbibigay ng magandang indikasyon kung kailan magtanim.  
-
-### Mga Kapaki-pakinabang na Kasangkapan para sa Maagang Pagtatanim  
-- Magdagdag ng 2”-4” organic matter sa taglagas para magbigay ng nutrients, mapabuti ang kalidad ng lupa, at mabawasan ang compaction mula sa ulan  
-- Takpan ang lupa ng malinaw na polyethylene plastic para painitin ang lupa (ang malinaw na plastic ay magpapalago rin ng mga damo)  
-- Gumawa ng raised bed, gumamit ng cloche, cold frame, o plastic tunnel  
-- Takpan ang bagong tanim na lupa gamit ang floating row cover para painitin ang lupa at protektahan ang tanim habang pinapayagan ang liwanag at tubig na makapasok  
-
-Tingnan ang “How to Build Your Own Raised Bed Cloche” (EC 1627), isang publikasyon ng Oregon State University Extension, para sa detalyadong mga tagubilin.  
-
-### Pagpili sa pagitan ng Mga Buto, Transplants, o Perennials  
-Ang carrot, pea, lettuce, kohlrabi, greens, beet, at radish ay madaling tumubo mula sa buto; direktang itanim ang mga buto sa lupa. Pre-sprout ang mga buto, lalo na ang mga may makapal na coating, para mapabilis ang pagtubo. Isang paraan ay ang pagbabad ng mga buto sa loob ng 2-4 oras bago itanim sa lupa; o ilagay ang nababad na mga buto sa pagitan ng dalawang patong ng basang papel-tuwalya at ilagay sa plastic bag. Itago sa mainit na lugar hanggang tumubo ang mga buto.  
-
-Ang pagtatanim ng sariling transplants ay nakakasiguro na makuha ang mga uri na nais sa tamang oras ng pagtatanim. Ang cabbage, broccoli, cauliflower, at kale ay karaniwang makukuha bilang mga seedling plants mula sa mga nursery; ang pagbili ng maliliit na halaman ay nagbibigay ng head start at nagpapabilis sa ani. Mahalagang gawin ito lalo na kung ang gulay ay may tendensiyang mag-bolt kaysa magpalaki ng berdeng dahon kapag dumating ang mas mainit na panahon.  
-
-Ang ilang gulay ay hindi nagmumula sa buto o halaman. Halimbawa ang mga tuber ng patatas, bawang, at sibuyas (sets) na maaaring direktang itanim sa lupa. Ang pagtatanim ng mga perennial na gulay ay isa pang paraan para makapagsimula ng maaga. Isaalang-alang ang asparagus, sorrel, Jerusalem artichoke, rhubarb, at artichoke – lahat ng ito ay perennial na hindi kailangang itanim taon-taon at nagbibigay ng ani nang maaga sa panahon.  
-
-### Fertility ng Lupa  
-Karamihan sa mga gulay ay annual crops at nangangailangan ng sapat na nutrients para magbigay ng magandang ani. Ang mga halaman ay gumagamit lamang ng nutrients na natutunaw sa tubig ng lupa, ngunit karamihan sa nutrients sa lupa ay hindi nasa soluble na porma. Para sa agarang resulta, gumamit ng water-soluble na uri ng fertilizer.  
-
-Kung gumamit ng organic fertilizers na hindi likido, mag-apply ng ilang buwan bago magtanim. Halimbawa ng organic fertilizers ay fish emulsion (3-5% N); composted chicken manure (3% N); blood meal (12-15% N); bone meal (12-24% P); at kelp meal (2-5% K).  
-
-Ang mga vegetable garden sa Portland metro area ay ipinakita sa isang kamakailang pag-aaral na may labis na mataas na antas ng phosphorus, potassium, at iba pang nutrients. Inirerekomenda namin sa mga hardinero na magsagawa ng soil test para malaman kung ano ang kulang at mag-fertilize lamang kung kinakailangan. Ang mga heavy feeders tulad ng beet, collard, kale, lettuce, parsley, spinach, at tomato ay maaaring mangailangan ng mas maraming nutrients. Ang mga light feeders tulad ng carrot, garlic, onion, chard, mustard, at pepper ay maaaring mangailangan ng katamtamang dami. Ang bean, pea, soybean, at clover ay kumukuha ng nitrogen mula sa hangin at kadalasang hindi nangangailangan ng fertilizer.  
-
-### Mga Mapagkukunan  
-OSU Extension Service Resources:  
-[Short Season Vegetable Gardening PNW 497](http://catalog.extension.oregonstate.edu)  
-[How to Build Your Own Raised Bed Cloche EC 1627](http://catalog.extension.oregonstate.edu)  
-[Fall and Winter Vegetable Gardening in the Pacific Northwest PNW548](http://catalog.extension.oregonstate.edu)  
-
-10-Minute University™ Resources:  
-[Annual Vegetable Production Specifics for Oregon](http://www.cmastergardeners.org/10-minute-university)  
-Maraming handouts at video tungkol sa pagtatanim ng gulay  
+Ang ilang cool-season na gulay ay madaling magbulaklak kapag uminit ang panahon. Humanap ng mga uri na “lumalaban sa bolting” o mabilis maghinog. Itanim nang direkta ang dill, arugula, cilantro, at iba pang madaling mag-bolt.
 
 ---
 
-Ang Oregon State University Extension Service ay ipinagbabawal ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, marital status, familial/parental status, kita mula sa programa ng pampublikong tulong, politikal na paniniwala, genetic information, status ng beterano, reprisal o retaliation para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+### Panahon ng Pagtatanim
+
+Ang mga gulay na maagang panahon ay tumutubo at lumalaki kahit malamig at kadalasang itinatanim ng **Marso o Abril**, depende sa panahon at kondisyon ng lupa.
+
+Mga gulay na tumutubo sa partikular na temperatura ng lupa:
+
+- **40°F na temperatura ng lupa**: fava bean, beet, broccoli, Brussel sprouts, Chinese cabbage, repolyo, karot, cauliflower, kale, collard, kohlrabi, leek, perehil, labanos, rutabaga, gisantes, Swiss chard, kintsay, singkamas
+- **35°F na temperatura ng lupa**: letsugas, sibuyas, parsnip, spinach
+
+---
+
+### Kailan Magsisimula ng Pagtatanim
+
+Magsimulang magtanim kapag hindi na masyadong basa ang lupa at sapat na ang init para sa nais mong itanim.
+
+- **Suriin ang basa ng lupa**: Pisilin ang isang dakot ng lupa. Kung may tumutulo pang tubig o buo at dikit-dikit ito, maghintay muna. Ang pagtatrabaho sa basang lupa ay nakakasira ng estruktura nito.
+- **Rototilling**: Mag-araro ng isa o dalawang ulit kapag pwede nang trabahuhin ang lupa. Tumigil kapag may maliliit pang tipak. Huwag masyadong gawing pino.
+
+**Temperatura ng lupa** ay mahalaga para sa pagtubo ng buto, paglaki ng ugat, at aktibidad ng mga mikrobyo sa lupa. Gumamit ng thermometer para sukatin ang temperatura ng lupa:
+
+1. Isaksak ang thermometer sa lupa ng 2 pulgadang lalim.
+2. Suriin tuwing alas-9 ng umaga sa loob ng 7 araw na sunod-sunod.
+3. Kuhanin ang average na temperatura para malaman kung kailan maaaring magtanim.
+
+---
+
+### Mga Kapaki-pakinabang na Kagamitan Para Maagang Makapagtanim
+
+- Maglagay ng **2”-4” organikong bagay** tuwing taglagas para mapabuti ang sustansya at istruktura ng lupa, at mabawasan ang pagkapit ng lupa dahil sa ulan.
+- Takpan ang lupa ng **malinaw na plastik (polyethylene)** para uminit ito (paalala: tumutubo rin ang damo sa ilalim ng malinaw na plastik).
+- Gumamit ng **raised bed**, cloche, cold frame, o plastic tunnel.
+- Takpan ang bagong taniman ng **floating row cover** para uminit ang lupa at maprotektahan ang pagtatanim habang napapadaan pa rin ang liwanag at tubig.
+
+Tingnan ang **[How to Build Your Own Raised Bed Cloche (EC 1627)](http://catalog.extension.oregonstate.edu)**, isang publikasyon ng Oregon State University Extension, para sa detalyadong gabay.
+
+---
+
+### Pagpili sa Buto, Itinanim na Halaman, o Perennial
+
+#### Buto
+
+Ang karot, gisantes, letsugas, kohlrabi, dahon, beet, at labanos ay madaling palaguin mula sa buto. Itanim ang mga buto direkta sa lupa.
+
+- **Pagpapasimula ng buto**:
+  - Ibabad ang mga buto ng 2-4 oras bago itanim.
+  - Pwede ring ilagay ang mga basang buto sa pagitan ng dalawang basang tuwalya sa loob ng plastik na bag. Ilagay ito sa mainit na lugar hanggang tumubo ang buto.
+
+#### Itinanim na Halaman
+
+Kung ikaw mismo ang magtatanim ng seedlings, siguradong makukuha mo ang uri at tamang oras ng pagtatanim.
+
+- Karaniwang may nabibiling seedling ng repolyo, broccoli, cauliflower, at kale sa mga plant nursery.
+- Ang pagbili ng maliit na halaman ay nakakatulong para mas mabilis ang pag-ani, lalo na sa mga gulay na madaling mag-bolt kapag mainit.
+
+#### Perennial
+
+May mga gulay na hindi nabibili bilang buto o halaman, tulad ng potato tubers, bawang, at onion bulbs (sets), na pwede nang itanim direkta sa lupa.
+
+Ang pagtatanim ng perennial na gulay ay isa ring paraan para maagang mag-umpisa.
+
+- Asparagus
+- Sorrel
+- Jerusalem artichoke
+- Rhubarb
+- Artichoke
+
+Ang mga perennial na ito ay hindi kailangang itanim taon-taon at maaga silang namumunga.
+
+---
+
+### Sustansya ng Lupa
+
+Karamihan sa mga gulay ay annual at nangangailangan ng sapat na sustansya para mamunga ng marami.
+
+- Kailangan ng halaman ang nutrients na natutunaw sa tubig ng lupa. Para sa mabilisang epekto, gumamit ng **water-soluble fertilizer**.
+- Kung **organic fertilizer** (hindi likido) ang gagamitin, ilagay ito ilang buwan bago magtanim. Halimbawa:
+  - Fish emulsion (3-5% N)
+  - Composted chicken manure (3% N)
+  - Blood meal (12-15% N)
+  - Bone meal (12-24% P)
+  - Kelp meal (2-5% K)
+
+#### Pagsusuri ng Lupa
+
+Madalas mataas na ang phosphorus, potassium, at iba pang nutrients sa mga hardin sa Portland metro area. Magpa-soil test para malaman kung may kulang at maglagay lang ng pataba kung kailangan.
+
+- **Malakas sa pataba**: beet, collard, kale, letsugas, perehil, spinach, kamatis – maaaring mangailangan ng mas maraming nutrients.
+- **Katamtaman ang kailangan**: karot, bawang, sibuyas, chard, mustasa, paminta – kailangan ng moderate na nutrients.
+- **Nitrogen fixers**: beans, gisantes, soybean, clover – kadalasang mabubuhay kahit walang pataba.
+
+---
+
+### Mga Mapagkukunan mula sa OSU Extension Service
+
+Bisitahin ang [OSU Extension Service](http://catalog.extension.oregonstate.edu) para sa mga resources:
+
+- **Short Season Vegetable Gardening (PNW 497)**
+- **How to Build Your Own Raised Bed Cloche (EC 1627)**
+- **Fall and Winter Vegetable Gardening in the Pacific Northwest (PNW 548)**
+
+Bisitahin din ang [10-Minute University™ Resources](http://www.cmastergardeners.org/10-minute-university) para sa mga handout at video tungkol sa pagtatanim ng gulay.
+
+---
+
+#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, katayuang may asawa, katayuang magulang/pamilya, kita mula sa public assistance program, paniniwala sa politika, genetic information, katayuang beterano, pagganti, o paghihiganti para sa dating civil rights activity. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
+---

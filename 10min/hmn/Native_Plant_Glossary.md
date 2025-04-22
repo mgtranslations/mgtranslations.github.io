@@ -1,35 +1,44 @@
-# 10-Minute University™
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Lub Koom Haum Clackamas County Master Gardener Association hauv kev koom tes thiab txhawb nqa nrog  
-OSU Extension Master Gardener™ Program  
+## Cov Lus Txhais Txog Cov Nroj Tsuag Ib Qho Hauv Zos
 
-### Native Plant Glossary
+### Nroj Tsuag Ib Qho Hauv Zos
 
-#### Native Plant  
-Qhov kev txhais lus los ntawm Tsoomfwv Meskas tau muab los ntawm Natural Resources and Conservation Service (NRCS).  
-NRCS txhais tias "Cov nroj tsuag uas yog ib feem ntawm kev sib haum xeeb ntawm xwm uas tau tsim los ntau pua lossis txhiab xyoo hauv ib cheeb tsam lossis ib qhov chaw ib puag ncig. Nco ntsoov: Lo lus 'native' yuav tsum tau siv nrog ib qho kev qhia txog cheeb tsam (piv txwv, native rau New England). Tsuas yog cov nroj tsuag uas pom hauv lub tebchaws no ua ntej European tuaj nyob thiaj li raug suav tias yog native rau Tebchaws Meskas."
+Kev txhais los ntawm tsoom fwv teb chaws Meskas muab los ntawm Natural Resources and Conservation Service (NRCS). NRCS piav tias nroj tsuag ib qho hauv zos yog:
 
-#### Non-Native Plant  
-Ib cov nroj tsuag uas tau raug coj tuaj nrog kev pab ntawm tib neeg mus rau ib qhov chaw tshiab lossis ib qhov chaw nyob tshiab, uas tsis tau muaj nyob rau ntawd ua ntej.
+> “Ib hom nroj tsuag uas yog ib feem ntawm txoj kev sib haum xeeb ntawm ntuj uas tau tsim tawm ntau puas lossis ntau txhiab xyoo nyob ib thaj av tshwj xeeb lossis ib puag ncig tej keeb kwm. Ceeb toom: Lo lus ib qho hauv zos (native) yuav tsum siv nrog qhov qhia txog thaj chaw (piv txwv, ib qho hauv New England). Tsuas yog cov nroj tsuag uas muaj nyob hauv teb chaws no ua ntej cov neeg European tuaj nyob xwb thiaj li suav tias yog nroj tsuag ib qho hauv teb chaws United States.”
 
-#### Naturalized Plant  
-Ib cov nroj tsuag uas tsis yog native thiab tsis tas yuav muaj kev pab ntawm tib neeg los tswj nws mus ntev, hauv ib cheeb tsam uas nws tsis yog native. Cov nroj tsuag uas yog naturalized tsis yog native.
+### Nroj Tsuag Tsis Yog Ib Qho Hauv Zos
 
-#### Cultivar  
-Ib cov nroj tsuag uas tau raug xaiv los ntawm cov neeg txhawb nroj tsuag rau qee yam kev tsim nuj nqis, uas tau khaws cia thaum lawv loj hlob.  
-- Ib cov cultivar tsis tuaj raws li noob thiab xav tau kev tswj hwm los ntawm tib neeg kom txuas ntxiv;  
-- Koj tuaj yeem paub ib cov cultivar los ntawm nws lub npe scientific uas pib nrog nws genus, ua raws li nws species, thiab tom qab ntawd nws lub npe cultivar hauv cov cim lus txhais (""). Piv txwv li: **Ribes sanguineum 'Oregon snowflake'** yog ib cov cultivar uas tau los ntawm native **Ribes sanguineum**; thiab  
-- **Nativar** yog lo lus slang rau ib cov cultivar ntawm cov nroj tsuag native.
+Ib hom nroj tsuag uas tib neeg tau coj los cog rau ib thaj chaw tshiab lossis ib thaj chaw tshiab uas yav tas los tsis muaj hom no.
 
-#### Hybrid  
-Ib cov nroj tsuag uas tau tsim los ntawm kev sib xyaw cov ntaub ntawv caj ces ntawm ob hom tsiaj sib txawv. Lawv tsis yog cultivars, tab sis koj tuaj yeem muaj cultivars ntawm hybrid.  
-- **Lavandula x intermedia** yog kev sib xyaw ntawm **Lavandula angustifolia** (English lavender) thiab **Lavandula latifolia** (Portuguese lavender)  
-- **Lavandula x intermedia 'Grosso'** thiab **Lavandula x intermedia 'Provence'** yog ob cov cultivars ntawm **Lavandula x intermedia**  
+### Nroj Tsuag Uas Muaj Peev Xwm Tshiab
 
-#### Mutation  
-Cov kev hloov pauv caj ces ntawm cov nroj tsuag, uas tseem hu ua sports lossis chimeras, yog kev hloov pauv caj ces uas yuav cuam tshuam rau qhov tshwm sim ntawm nplooj, paj, txiv hmab txiv ntoo, lossis ceg ntoo.  
-- Kev tsim los ntawm vegetative propagation yog siv los tswj cov yam ntxwv tsim nyog, tab sis cov nroj tsuag feem ntau yuav rov qab mus rau lawv daim duab qub, hu ua "reversion".  
-- Piv txwv: Paj **Camellia** uas muaj kab txaij thiab xaim.  
+Ib hom nroj tsuag tsis yog ib qho hauv zos tab sis twb tsis tas yuav muaj neeg pab los txhawb nws kom nws nyob mus ntev rau ib cheeb tsam uas nws tsis yog ib qho hauv zos. Nroj tsuag uas muaj peev xwm tshiab no tsis yog ib qho hauv zos.
+
+### Hom Tshiab (Cultivar)
+
+Ib hom nroj tsuag uas cov neeg yug nroj tsuag tau xaiv vim muaj qee yam zoo, thiab lawv khaws cia thaum cog ntxiv.
+
+- Hom tshiab no tsis nthuav tawm qhov zoo ib yam los ntawm noob, thiab yuav tsum muaj tib neeg pab txhawb kom nws nyob mus ntxiv.
+- Koj paub tau txog hom tshiab los ntawm nws lub npe kws tshawb fawb, pib nrog hom, ua raws li hom tsiaj, thiab tom qab ntawd yog nws lub npe hom tshiab nyob hauv cov cim “”. Piv txwv, *Ribes sanguineum ‘Oregon snowflake’* yog hom tshiab los ntawm nroj tsuag ib qho hauv zos *Ribes sanguineum*.
+- **Nativar** yog ib lo lus siv ua lus dag rau hom tshiab ntawm nroj tsuag ib qho hauv zos.
+
+### Nroj Tsuag Sib Hais (Hybrid)
+
+Ib hom nroj tsuag uas tsim los ntawm kev sib tov cov keeb kwm caj ces ntawm ob hom sib txawv. Lawv tsis yog hom tshiab (cultivar), tab sis kuj muaj peev xwm muaj hom tshiab ntawm hybrid thiab.
+
+- *Lavandula x intermedia* yog kev sib tov ntawm *Lavandula angustifolia* (English lavender) thiab *Lavandula latifolia* (Portuguese lavender).
+- *Lavandula x intermedia ‘Grosso’* thiab *Lavandula x intermedia ‘Provence’* yog ob hom tshiab ntawm *Lavandula x intermedia*.
+
+### Kev Hloov Tshiab (Mutation)
+
+Kev hloov tshiab hauv nroj tsuag, tseem hu ua sports lossis chimeras, yog kev hloov ntawm caj ces uas tej zaum yuav ua rau nws cov nplooj, paj, txiv hmab txiv ntoo, lossis ceg hloov pauv.
+
+- Kev cog los ntawm tus ceg yuav pab khaws cov yam ntxwv uas xav tau. Nroj tsuag tej zaum yuav rov qab mus rau hom qub, txhais tau tias ib feem lossis tag nrho tsob nroj rov qab los ua li qub.
+- **Piv txwv:** Paj Camellia uas muaj qhov daj thiab kab.
 
 ---
-Oregon State University Extension Service tsis kam ua kev cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua ub no, thiab cov ntaub ntawv ntawm qhov kev qhia txog haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, tus kheej cov cim (xws li kev qhia tus kheej), kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, kev ua niam txiv/kev ua txiv, nyiaj tau los los ntawm kev pab cuam pej xeem, kev ntseeg txog kev nom tswv, cov ntaub ntawv caj ces, kev ua tub rog, kev rov qab los lossis kev txhawb nqa rau kev ua haujlwm txog kev cai lij choj yav dhau los. (Tsis yog txhua yam uas tsis pub yuav siv rau txhua qhov kev pab cuam.)
+
+##### Lub Chaw Pabcuam Kev Kawm Txog Nroj Tsuag ntawm Oregon State University Extension Service tsis pub muaj kev cais tawm rau txhua yam kev pabcuam, kev ua haujlwm, kev ua si, thiab cov ntaub ntawv raws li haiv neeg, xim tawv nqaij, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, tus kheej tshaj tawm txog poj niam txiv neej (xws li kev qhia txog poj niam txiv neej), kev nyiam sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, kev muaj me nyuam, nyiaj tau los ntawm kev pab cuam pej xeem, kev ntseeg hauv nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim lossis kev raug pauj vim yog kev tawm tsam huaj lwm txoj cai. (Tsis yog txhua yam uas tsis pub yuav siv tau rau txhua qhov kev pabcuam.)
+---

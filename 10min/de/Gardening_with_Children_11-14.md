@@ -1,58 +1,83 @@
-# 10-Minuten-Universität™  
-Oregon Master Gardener™ Association – Clackamas County Chapter  
-In Zusammenarbeit mit dem Oregon State University Extension Service  
+#### 10-Minuten-Universität™ · Oregon Master Gardener™ Association – Clackamas County Chapter · In Zusammenarbeit mit dem Oregon State University Extension Service
 
-## Gärtnern mit Kindern im Alter von 11-14 Jahren  
-Das Gärtnern mit Kindern im Alter von 11 bis 14 Jahren kann sowohl für Kinder als auch für Erwachsene spannend und bereichernd sein. Es lenkt sie von Computer- und Bildschirmzeit ab, regt die Fantasie an und hilft dabei, Stress und Angst abzubauen. Kinder in diesem Alter sind körperlich bereit, umfangreichere Gartenarbeit zu verrichten, und werden es genießen, Strukturen im Garten zu erkunden, wie beispielsweise den Bau eines Spaliers oder eines Hochbeets, das Platz spart oder bessere Sonnenbedingungen und Bodenqualität bietet. Diese Aktivitäten sind sehr bereichernd und stärkend für Kinder.
+# Gärtnern mit Kindern im Alter von 11–14 Jahren
 
-Kinder im Alter von 11 bis 14 Jahren können planen, die Folgen von Handlungen antizipieren sowie Ergebnisse beobachten und vorhersagen. Das Gärtnern fördert Fähigkeiten wie Lernen, Planen, Problemlösen und Verantwortungsbewusstsein. Dies sind lebenslange Kompetenzen, die in allen Aspekten des Lebens eines Kindes benötigt werden. Das Lernen über die gegenseitige Abhängigkeit von Pflanzen und Tieren ist für diese Altersgruppe besonders interessant. Wie Insekten, Amphibien, Pflanzen und andere Gartentiere wie Maulwürfe, Wühlmäuse und Taschenratten miteinander interagieren, ist entscheidend für erfolgreiches Gärtnern. Der verringerte Einsatz von Pestiziden und Herbiziden, die natürliche Prozesse stören, ist dabei von großer Bedeutung, ebenso wie das Verständnis, wie Boden, Wasser und Kompost zu einem fruchtbaren Garten beitragen.
+Gärtnern mit Kindern im Alter von 11 bis 14 Jahren kann für Kinder und Erwachsene spannend und lohnend sein. Es bringt sie weg vom Computer und anderen Bildschirmen, regt die Fantasie an und verringert Stress und Ängste. Kinder in diesem Alter sind körperlich bereit, mehr im Garten zu arbeiten, und sie haben Freude daran, Strukturen im Garten zu entdecken, zum Beispiel beim Bau eines Rankgitters oder eines Hochbeets. Diese Aktivitäten sparen Platz, sorgen für besseres Sonnenlicht und Bodennutzung und stärken das Selbstbewusstsein der Kinder.
 
----
-
-## Einige Aktivitäten  
-
-### Bau eines Hochbeets  
-Das Planen und Gestalten eines Beets zur Gemüseproduktion ist eine großartige Möglichkeit für Kinder, die Notwendigkeit von ausreichendem Sonnenlicht, einer Wasserquelle und einer geeigneten Bodenstruktur für den Gemüseanbau zu verstehen. Sie müssen auch planen, was gepflanzt werden soll, um den Raum optimal zu nutzen, und die Zeitplanung der Pflanzungen koordinieren.  
-- [Gemüsegarten in Oregon (PDF)](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)  
-- [Hochbeet-Gartenbau](https://catalog.extension.oregonstate.edu/fs270)  
-
-### Bau eines Regenwassergartens  
-Diese Aktivität kann einfach oder komplex sein, bietet jedoch eine wunderbare Gelegenheit für Kinder, die Bedeutung von sauberem Wasser und einem sauberen Umfeld zu lernen. Es gibt viele Ressourcen online, die helfen können, den geeigneten Regenwassergarten für Ihren Garten auszuwählen.  
-Lesen Sie Bücher, die beschreiben, wie Pflanzen die Bodenstruktur erhalten, Wasser verlangsamen, Nährstoffe zurückhalten und Schadstoffe filtern. Recherchieren Sie, welche Pflanzen in Feuchtgebieten oder saisonal nassen Bereichen wachsen und gedeihen. Welche Pflanzen sind für einen Regenwassergarten besonders geeignet? Die öffentliche Bibliothek und ihre Mitarbeiter können Ihnen dabei helfen, die besten Titel für Ihre Recherche zu finden. Einige empfohlene Ressourcen sind:  
-- [PDF-Artikel über Regenwassergärten in Oregon](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)  
-- [Richtlinien der Stadt Portland für Regenwassergärten](https://www.portlandoregon.gov/bes/article/188636)  
-
-### Bau eines Amphibienhabitats  
-Dieses Projekt kann in einem Regenwassergarten durchgeführt werden oder, falls ausreichend Platz vorhanden ist, können Sie einen kleinen Teich in einem schattigen, feuchten Bereich eines bestehenden Gartens anlegen. Die Förderung von Amphibienaktivität ist für den Garten vorteilhaft, da sie Räuber vieler Insekten sind, die Zierpflanzen und Gemüse schädigen können. Eine Vielzahl von Frosch- und Salamanderarten ist in Oregon heimisch. Sie benötigen je nach Art Schatten, Löcher, Spalten oder geschützte Räume. Mögliche Materialien für das Projekt sind Rindenstücke, alte Töpfe, Äste, verschiedene Steine, Moos und natürliche Materialien. Einige empfohlene Ressourcen sind:  
-- **Landscaping for Wildlife in the Pacific Northwest** von Russell Link  
-- **Attracting Amphibians** von der National Wildlife Federation  
-- [Reptilien und Amphibien in Ihren Garten locken](https://www.google.com/search?q=why+are+amphibians+beneficial+to+the+garden+in+oregon%3Aedu&rlz=1C1PRFC_enUS734US734&oq=why+are+amphibians+be)  
-
-### Unterstützung der Biodiversität  
-Bauen Sie Lebensraumkästen für verschiedene lokale Arten. Warum sind Kolibris, Zugvögel und Fledermäuse im Garten wichtig? Was ist mit Mauerbienen?  
-Kinder können gut konstruierte und nutzbare Lebensraumkästen bauen und die Lebensraumchancen für lokale Arten erhöhen. „All About Birdhouses“ von NestWatch, Cornell Lab of Ornithology, könnte bei Ihrer Recherche hilfreich sein, aber es gibt viele Informationen über Vogelhäuser für bestimmte Arten sowie über das Design und die Platzierung von Fledermaushäusern online oder in Ihrer lokalen Bibliothek. Falls Kinder sich für Mauerbienen interessieren, ist die OSU-Erweiterungspublikation [Nurturing Mason Bees in Western Oregon](https://catalog.extension.oregonstate.edu/em9130) hilfreich. Diese Lebensraumforschungen können Gedanken zu Pflanzen fördern, die Bestäuber anziehen. Der folgende Link hilft Ihnen bei der Auswahl von Pflanzenarten, die Vögel und Insekten in den Garten locken:  
-- [Bau von Nistkästen für Wildvögel](https://catalog.extension.oregonstate.edu/ec1556)  
+Kinder in dieser Altersgruppe können planen, Ursache und Wirkung voraussehen sowie Ergebnisse beobachten und vorhersagen. Gärtnern fördert Fähigkeiten wie Lernen, Planen, Problemlösen und Verantwortungsbewusstsein – lebenslange Fähigkeiten, die in allen Lebensbereichen gebraucht werden. Besonders spannend ist es für diese Altersgruppe, die gegenseitige Abhängigkeit von Pflanzen und Tieren zu verstehen. Zu wissen, wie Insekten, Amphibien, Pflanzen und andere Gartentiere wie Maulwürfe, Wühlmäuse und Taschenratten zusammenwirken, ist wichtig für den Gartenerfolg. Weniger Einsatz von Pestiziden und Herbiziden, die natürliche Abläufe stören, und das Lernen, wie Boden, Wasser und Kompost zu einem fruchtbaren Garten beitragen, sind wichtige Lektionen.
 
 ---
 
-## Förderung der Lesekompetenz  
-Es gibt viele wunderbare Bilder- und Lehrbücher über das Gärtnern, die Kinder vor Beginn und während der Arbeit im Garten schätzen. Lautes Lesen regt Fragen an und kann eine Grundlage für Gartenpläne sein. Ihr örtlicher Bibliothekar wird Ihnen gerne dabei helfen, Ressourcen zu finden, die sowohl Ihnen als auch Ihrem Kind gefallen.  
-- *„Up in the Garden and Down in the Dirt“* von Kate Messner  
-- *„The Ugly Vegetables“* von Grace Lin  
-- *„In A Garden“* von Tim McCanna  
-- *„I Am a Farmer“* von Baptiste und Miranda Paul  
-- *„Harlem Grown“* von Tony Hillery  
-- *„A Green Place to Be“* von Ashley Yazdani  
-- *„Let’s Build a Rain Garden“* von Sally Wenczel  
-- *„Rain Gardens: Managing Water Sustainably in The Garden and Designed Landscape“* von Nigel Dunnett und Andy Clayden  
+## Einige Aktivitäten
+
+### Bau eines Hochbeets für Gemüse
+
+Ein Beet zu planen und zu gestalten, um Gemüse anzubauen, ist eine tolle Möglichkeit für Kinder, die Bedeutung von ausreichend Sonnenlicht, einer Wasserquelle und dem richtigen Bodenprofil zum Anbau von Gemüse zu verstehen. Sie müssen auch planen, was gepflanzt werden soll, um den Platz optimal zu nutzen, und den Zeitpunkt der Pflanzungen koordinieren.
+
+- [Gemüsegarten in Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
+- [Gärtnern mit Hochbeeten](https://catalog.extension.oregonstate.edu/fs270)
+
+### Bau eines Regengartens
+
+Diese Aktivität kann einfach oder komplex sein, bietet aber eine großartige Gelegenheit für Kinder, die Bedeutung von sauberem Wasser zu lernen und wie man zu einer sauberen Umwelt beiträgt.
+
+- Lies Bücher, die beschreiben, wie Pflanzen den Boden festigen, Wasser verlangsamen, Nährstoffe halten und Schadstoffe filtern.
+- Recherchiere Pflanzen, die in Feuchtgebieten oder zeitweise nassen Bereichen wachsen und gedeihen. Welche Pflanzen sind besonders geeignet für einen Regengarten?
+
+Vorgeschlagene Ressourcen:
+- [Regengärten in Oregon (PDF)](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
+- [Richtlinien der Stadt Portland für Regengärten](https://www.portlandoregon.gov/bes/article/188636)
+
+### Bau eines Lebensraums für Amphibien
+
+Dieses Projekt kann im Regengarten durchgeführt werden oder, wenn genug Platz vorhanden ist, kann ein kleiner Teich in einem schattigen, feuchten Bereich des Gartens angelegt werden. Amphibien im Garten zu fördern ist vorteilhaft, weil sie viele Insekten fressen, die Zierpflanzen und Gemüse schädigen können.
+
+Es gibt verschiedene Frosch- und Salamanderarten, die in Oregon heimisch sind. Sie brauchen Schatten, Löcher, Spalten oder geschützte Bereiche, je nach Art. Materialien wie Rindenstücke, alte Töpfe, Äste, verschiedene Steine, Moos und andere natürliche Dinge können genutzt werden.
+
+Vorgeschlagene Ressourcen:
+- *Landscaping for Wildlife in the Pacific Northwest* von Russell Link
+- *Amphibien anlocken* von der National Wildlife Federation
+- [Reptilien und Amphibien in Ihren Garten locken](https://www.google.com/search?q=why+are+amphibians+beneficial+to+the+garden+in+oregon%3Aedu)
+
+### Förderung der Artenvielfalt
+
+Baue Lebensraumkästen für verschiedene heimische Arten. Entdecke die Bedeutung von Kolibris, Zugvögeln, Fledermäusen und Mauerbienen im Garten.
+
+Kinder können stabile, brauchbare Nistkästen bauen, um mehr Lebensräume für heimische Arten zu schaffen. Ressourcen wie „Alles über Vogelhäuser“ von NestWatch (Cornell Lab of Ornithology) können hilfreich sein. Es gibt auch viele Informationen online oder in deiner Bücherei über Vogelhäuser für bestimmte Arten sowie über Bau und Platzierung von Fledermauskästen.
+
+Wenn sich Kinder für Mauerbienen interessieren, ist die OSU Extension Publikation [Mauerbienen in West-Oregon fördern](https://catalog.extension.oregonstate.edu/em9130) hilfreich. Diese Lebensraumerforschung führt oft zu Überlegungen, welche Pflanzen Bestäuber anziehen.
+
+Vorgeschlagene Ressource:
+- [Nistkästen für Wildvögel bauen](https://catalog.extension.oregonstate.edu/ec1556)
 
 ---
 
-## Ressourcen der Oregon State University  
-- [Leitfaden für Pädagogen zum Gemüsegarten](https://catalog.extension.oregonstate.edu/em9032)  
+## Leseförderung
 
-### Master Gardener™-Tipps  
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Für 10-Minuten-Universität™-Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+Es gibt viele schöne Bilder- und Sachbücher über das Gärtnern, die Kinder vor und während der Arbeit im Garten schätzen werden. Vorlesen regt zum Nachfragen an und kann ein Sprungbrett für Gartenpläne sein. Deine örtliche Bibliothekarin oder dein Bibliothekar hilft dir gerne, passende Bücher zu finden, die euch beiden gefallen.
 
-Oregon State University Extension Service untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien auf Grundlage von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem Sozialhilfeprogramm, politischer Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+### Vorgeschlagene Bücher
+
+- *Up in the Garden and Down in the Dirt* von Kate Messner
+- *The Ugly Vegetables* von Grace Lin
+- *In A Garden* von Tim McCanna
+- *I Am a Farmer* von Baptiste und Miranda Paul
+- *Harlem Grown* von Tony Hillery
+- *A Green Place to Be* von Ashley Yazdani
+- *Let’s Build a Rain Garden* von Sally Wenczel
+- *Rain Gardens: Managing Water Sustainably in The Garden and Designed Landscape* von Nigel Dunnett und Andy Clayden
+
+---
+
+## Ressource der Oregon State University
+
+- [Leitfaden für Pädagog:innen zum Gemüsegärtnern](https://catalog.extension.oregonstate.edu/em9032)
+
+---
+
+#### Master Gardener™-Beratung · Rufen Sie die Home Horticulture Hotline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™-Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischen Ansichten, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Gründe gelten für alle Programme.)
+---

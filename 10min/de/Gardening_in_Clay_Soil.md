@@ -1,110 +1,154 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Gartenarbeit in Lehmboden  
+# Gärtnern in Lehmboden
 
-### Einführung  
-Boden entsteht aus verwitterten Gesteinen und organischem Material. Gesunder Boden sollte zu 45 % aus Gesteinsmineralien, zu 5 % aus organischem Material und zu 50 % aus Porenraum für Wasser und Luft bestehen. Zu den vielen wichtigen Funktionen des Bodens gehören:  
-- Lebensraum für lebende Organismen wie Bakterien, Pilze, Nematoden, Protozoen und Regenwürmer;  
-- Verankerung für Pflanzenwurzeln;  
-- Nährstoffspeicher zur Unterstützung des Pflanzenwachstums; und  
-- Speicher und Reiniger von Wasser.  
+### Einführung
 
-Sand, Schluff und Ton sind die mineralischen Bestandteile des Bodens. Sandpartikel sind mit bloßem Auge sichtbar und fühlen sich körnig an, während Schluffpartikel kleiner sind (ähnlich einem Partikel von weißem Mehl) und sich glatt anfühlen. Beide sind wie kleine Gesteinsstücke geformt. Tonpartikel sind mit bloßem Auge unsichtbar und typischerweise flach. Die meisten Böden sind eine Mischung aus Sand, Schluff und Ton. Lehmboden hat ungefähr gleiche Anteile aller drei Partikel.  
+Boden entsteht aus verwitterten Gesteinen und organischer Substanz. Gesunder Boden sollte im Volumen etwa so zusammengesetzt sein:
+- **45 % Mineralien aus Gesteinen**
+- **5 % organische Substanz**
+- **50 % Porenraum** für Wasser und Luft
 
-Die Bodenstruktur spiegelt das Verhältnis von Sand, Schluff und Ton wider; eine gute Bodenstruktur hängt von lebenden Organismen (Bakterien und Pilzen) und Humus (zersetztem organischem Material) ab, die die Partikel zu sogenannten Aggregaten zusammenkleben, welche die Bausteine des Bodens sind.  
+Zu den vielen wichtigen Funktionen von Boden gehören:
+- Lebensraum für Organismen wie Bakterien, Pilze, Nematoden, Protozoen und Regenwürmer
+- Verankerung für Pflanzenwurzeln
+- Nährstoffspeicher zur Unterstützung des Pflanzenwachstums
+- Speicher und Reiniger für Wasser
 
-### Eigenschaften von Lehmboden im Vergleich zu anderen Bodentypen  
+Sand, Schluff und Ton sind die mineralischen Bestandteile des Bodens:
+- **Sand** ist mit bloßem Auge sichtbar und fühlt sich grobkörnig an.
+- **Schluff** ist kleiner (ähnlich wie ein Mehlkorn) und fühlt sich glatt an.
+- **Ton** ist mit bloßem Auge unsichtbar und meist platt.
 
-|   | Lehm | Sandiger Lehm | Schluffiger Lehm | Ton und toniger Lehm |  
-|---|---|---|---|---|  
-| **Wasserhaltevermögen** | Moderat | Niedrig bis moderat | Hoch | Hoch |  
-| **Fruchtbarkeit** | Moderat | Niedrig | Moderat | Hoch |  
-| **Durchlässigkeit** | Moderat | Hoch | Niedrig bis moderat | Niedrig |  
-| **Gefühl** | -- | Körnig | Glatt, biegsam wenn nass, aber nicht klebrig | Hart wenn trocken, klebrig wenn nass; kann zu Bändern geformt werden |  
+Die meisten Böden sind eine Mischung aus Sand, Schluff und Ton. **Lehmboden** enthält ungefähr gleiche Anteile aller drei Teilchen.
 
----
-
-### Was sagt die Bodenkunde?  
-
-#### Fruchtbarkeit  
-- Lehmböden sind reich an Pflanzennährstoffen. Tonpartikel haben negative Ladungen, die positiv geladene Partikel wie Kalzium, Kalium, Magnesium, Eisen und andere Pflanzennährstoffe binden.  
-
-#### Durchlässigkeit  
-- Nasser Boden und fein strukturierter Boden (mit hohem Gehalt an Ton oder Schluff) verdichten sich leicht. Verdichtete Böden haben flache Aggregate, die die Bewegung von Wasser und Wurzeln behindern. Verdichteter Lehmboden ist schwer wiederherzustellen.  
-- Gesunder Boden hat viele Räume zwischen den Aggregaten (Makroporen), um die Bewegung von Wasser, Gasen und Wurzeln zu unterstützen. Mehr Makroporen führen zu besserer Drainage.  
-
-#### Wasserhaltevermögen  
-- Kleine Poren oder Mikroporen (der Raum innerhalb eines Aggregats) verleihen dem Boden sein Wasserhaltevermögen.  
-
-#### Bodenbearbeitung  
-- Graben und Umgraben zerbrechen Aggregate, führen aber Luft in die Makroporen ein. Übermäßiges Umgraben verringert die Funktionalität von Pilzfäden, tötet nützliche Nematoden und führt in der Regel zu verdichtetem Boden.  
-
-#### Bodenleben  
-- Boden ist voller Leben – viele davon sind für Pflanzen vorteilhaft. Böden mit höheren Gehalten an organischem Material enthalten tendenziell mehr Mikroorganismen. Bodenmikroorganismen sind zwischen 21 °C und 38 °C am aktivsten, während Regenwürmer bei etwa 10 °C am aktivsten sind.  
-- Pflanzenwurzeln scheiden eine Substanz namens Exudat aus, die Zucker, Vitamine, Sauerstoff und andere Verbindungen enthält. Exudat zieht Mikroorganismen in die Nähe der Pflanzenwurzeln. Studien zeigen, dass die Zusammensetzung des Exudats je nach Pflanzenart variiert und die Pilzgemeinschaft um jede Pflanze prägt.  
+Die Bodentextur beschreibt das Verhältnis von Sand, Schluff und Ton. Eine gute Bodenstruktur entsteht durch lebende Organismen (Bakterien und Pilze) und Humus (zersetzte organische Substanz), die die Teilchen zu **Bodengefügen** (Peds) zusammenkleben – die Bausteine des Bodens.
 
 ---
 
-### Nützliche Mikroben  
-- Rhizobien-Bakterien binden Stickstoff aus der Luft für die Nutzung durch Pflanzen.  
-- Nützliche Nematoden sind sehr empfindlich gegenüber Störungen; viele sterben durch Bodenbearbeitung, was oft das gesamte Nahrungsnetz des Bodens stört.  
-- Viele Arten von Pilzen bilden vorteilhafte Verbindungen (Mykorrhizae genannt) mit Pflanzenwurzeln. Pilzfäden wirken wie lange Wurzelhaare, um Wasser und Nährstoffe aus dem Boden für die Pflanze zu gewinnen. Mykorrhizae verbessern auch die Bodenstruktur, indem sie Bodenpartikel zu Aggregaten zusammenfügen.  
+### Eigenschaften von Lehmboden im Vergleich zu anderen Bodentypen
+
+| Eigenschaft                     | Lehm    | Sandiger Lehm   | Schlufflehm      | Ton und Lehmtone                                   |
+|----------------------------------|---------|-----------------|------------------|----------------------------------------------------|
+| **Wasserspeichervermögen**      | Mittel  | Niedrig - Mittel| Hoch             | Hoch                                               |
+| **Fruchtbarkeit**               | Mittel  | Niedrig         | Mittel           | Hoch                                               |
+| **Durchlässigkeit**             | Mittel  | Hoch            | Niedrig - Mittel | Niedrig                                            |
+| **Gefühl**                      | --      | Grobkörnig      | Glatt, formbar wenn nass, aber nicht klebrig | Hart wenn trocken, klebrig wenn nass; kann zu Bändern geformt werden |
 
 ---
 
-### Wie man Lehmboden bewirtschaftet  
+### Was sagt die Bodenkunde?
 
-#### Teste deinen Boden  
-- Bevor du Zusätze hinzufügst, teste deinen Boden. Dünge nur, wenn der Bodentest Mängel zeigt oder Pflanzen nicht gut wachsen. Denke daran, dass Ton reich an Nährstoffen ist. Im Willamette Valley brauchen die meisten Bäume, Sträucher und mehrjährige Pflanzen keine zusätzlichen Dünger.  
+#### Fruchtbarkeit
+- Lehmböden sind reich an Pflanzennährstoffen.
+- Tonpartikel tragen negative Ladungen, die positiv geladene Teilchen wie Kalzium, Kalium, Magnesium, Eisen und andere Nährstoffe für Pflanzen festhalten.
 
-#### Lebende Wurzeln wachsen lassen  
-- Lebende Pflanzen nutzen die Energie der Sonne und unterstützen eine Gemeinschaft von Bodenmikroorganismen durch ihre Wurzelausscheidungen. Studien zeigen, dass diese Ausscheidungen die Zusammensetzung der Bodenmikroben beeinflussen. Der Anbau einer Vielzahl von Pflanzen erhöht die Vielfalt des Bodenlebens, was dazu beiträgt, gesunden Boden aufzubauen.  
+#### Durchlässigkeit
+- Nasser und feinkörniger Boden (mit viel Ton oder Schluff) verdichtet sich leicht.
+- Verdichtete Böden haben abgeflachte Bodengefüge, die das Eindringen von Wasser und Wurzeln erschweren.
+- Verdichteter Lehmboden ist schwer wiederherzustellen.
+- Gesunder Boden hat viele Hohlräume zwischen den Bodengefügen (**Makroporen**) für den Durchfluss von Wasser, Gasen und Wurzeln. Mehr Makroporen bedeuten bessere Drainage.
 
-#### Störungen minimieren  
-- Alles, was den Boden stört (darüber laufen, graben, umgraben), kann Aggregate zerstören oder verdichten und den Porenraum verringern, der für Durchlässigkeit und Wasserhaltevermögen wichtig ist.  
+#### Wasserspeichervermögen
+- Kleine Poren oder **Mikroporen** (der Raum innerhalb eines Bodengefüges) geben dem Boden sein Wasserspeichervermögen.
 
-#### Den Boden bedecken  
-- Mulchen, um die Bodentemperatur zu regulieren, Verdunstung zu minimieren und das Wachstum von Unkraut zu reduzieren. Organisches Mulchmaterial zersetzt sich und fügt dem Boden organisches Material hinzu – gröbere Materialien ermöglichen Luftzirkulation, während dichtere Substanzen wie Karton den Gasaustausch behindern. Holzschnitzel von Baumpflegern (4-6”) sind ein gutes Mulchmaterial – sie ermöglichen Luftzirkulation und zersetzen sich langsam, um organisches Material zum Boden hinzuzufügen.  
+#### Bodenbearbeitung
+- Graben und Umgraben zerkleinern die Bodengefüge, bringen aber Luft in die Makroporen.
+- Zu häufiges Umgraben schädigt Pilzhyphen, tötet nützliche Nematoden und führt meist zu verdichteten Böden.
 
-#### Bodenmikroben füttern  
-- Organisches Material (OM) steht am unteren Ende des Nahrungsnetzes des Bodens; das Hinzufügen von OM füttert die Bodenmikroben. Wähle eine Form, die ordnungsgemäß kompostiert wurde und keine unerwünschten Eigenschaften wie hohen Salz- oder Schwermetallgehalt enthält. Kompostierte Blätter und Gartenabfälle können eingemischt werden oder eine dünne Schicht (1/2 bis 1”) kann obenauf gelegt werden, um eine Umgebung zu schaffen, die mikrobielles Wachstum begünstigt.  
+#### Bodenleben
+- Der Boden wimmelt von Leben, von denen viele für Pflanzen nützlich sind.
+- Böden mit mehr organischer Substanz enthalten meist mehr Mikroorganismen.
+- Bodenmikroben sind am aktivsten bei Temperaturen zwischen **21°C und 38°C** (70°F bis 100°F), Regenwürmer bei etwa **10°C** (50°F).
 
-#### Ein Pflanzbeet für diese Saison vorbereiten  
-- Wenn du ein neues Beet für eine jährliche Gemüsekultur benötigst, mische kompostiertes OM in das gesamte Beet ein. Dies sollte dir sofort Vorteile wie besser bearbeitbaren Boden und höhere Fruchtbarkeit bringen. Solche Vorteile sind jedoch kurzfristig, da OM schnell abgebaut wird, ungenutzte Nährstoffe wahrscheinlich verloren gehen und der Boden sich setzt.  
+#### Pflanzenwurzeln und Exsudate
+- Pflanzenwurzeln geben sogenannte **Exsudate** ab, die Zucker, Vitamine, Sauerstoff und andere Stoffe enthalten.
+- Exsudate locken Mikroorganismen in die Nähe der Pflanzenwurzeln.
+- Studien zeigen, dass die Zusammensetzung der Exsudate je nach Pflanzenart unterschiedlich ist und die Pilzgemeinschaft rund um jede Pflanze beeinflusst.
 
----
-
-### Eine Veränderung gegenüber der Vergangenheit  
-- Das Mantra „Füge einfach organisches Material hinzu!“ als Lösung zur Verbesserung von Tonboden wurde angepasst. Früher empfahlen wir eine anfängliche Zugabe von 5-10 cm OM mit anschließenden, geringeren Mengen. Dies hat sich geändert. Neuere Studien von Stadtgärten, in denen über Jahre hinweg OM hinzugefügt wurde, zeigen ungesunde Phosphat- und OM-Werte. Hohe Phosphatgehalte hemmen die Aufnahme von Eisen durch Pflanzen, die Entwicklung von nützlichen Mykorrhizae und tragen zur Verschmutzung von Flüssen bei. Wenn du OM von kommerziellen Quellen kaufst, analysiert das Landwirtschaftsministerium von Oregon OM auf Nährstoffgehalt. Stelle sicher, dass du OM mit niedrigem Phosphorgehalt kaufst, wenn du deinem Boden seit langer Zeit OM hinzufügst.  
-
----
-
-### Mehr über Boden lernen  
-
-#### Veröffentlichungen  
-Oregon State University Extension Veröffentlichungen:  
-- [A Guide to Collecting Soil Samples, EC628](https://catalog.extension.oregonstate.edu/)  
-- [Soil Health Principles, EC1647](https://catalog.extension.oregonstate.edu/)  
-- [Analytical Laboratories Serving Oregon, EM8677](https://catalog.extension.oregonstate.edu/)  
-- [Applying Lime to Raise Soil pH for Crop Production, EM9057](https://catalog.extension.oregonstate.edu/)  
-
-Washington State University Extension Veröffentlichungen:  
-- [Cover Crops for Home Gardeners West of the Cascades, FS111E](https://pubs.extension.wsu.edu/extension-publications)  
-- [A Home Gardener’s Guide to Soils and Fertilizers, EM063E](https://pubs.extension.wsu.edu/extension-publications)  
-- [A Gardener’s Primer to Mycorrhizae, FS269E](https://pubs.extension.wsu.edu/extension-publications)  
-
-#### Videos  
-- [Mulches: The Good, The Bad, and the Really Really Ugly](https://www.youtube.com/watch?v=NXL9n2KNm1E&feature=youtu.be)  
-- [Home Soil Sampling, Washington State University](https://www.youtube.com/watch?time_continue=305&v=0tRQUPDRiDU)  
-- [Soil Health Demonstration](https://video.search.yahoo.com/yhs/search?p=ray+archuleta%27s+soil+health+demo+2014+custom&action=view)  
-- [Soil Carbon Cowboys](https://www.youtube.com/watch?v=ZGvVli0OTrQ)  
-- [From Dirt to Soil](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops&action=view)  
-
-#### Websites  
-- [Web Soil Survey](www.websoilsurvey.sc.egov/)  
-- [10-Minute University™ Handouts and Videos](www.cmastergardeners.org/10-minute-university)  
+#### Nützliche Mikroben
+- **Rhizobien-Bakterien** binden Stickstoff aus der Luft für Pflanzen.
+- Nützliche Nematoden sind sehr empfindlich auf Störungen und viele werden beim Umgraben getötet, was das gesamte Nahrungsnetz im Boden stören kann.
+- Viele Pilzarten leben in nützlichen Gemeinschaften (**Mykorrhizae**) mit Pflanzenwurzeln.
+  - Pilzhyphen funktionieren wie lange Wurzelhaare, um Wasser und Nährstoffe aus dem Boden für die Pflanze zu holen.
+  - Mykorrhizae verbessern auch die Bodenstruktur, indem sie Bodenteilchen zu Gefügen zusammenlagern.
 
 ---
 
-Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiären/Elternstatus, Einkommen aus einem Sozialhilfeprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Rache für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme).
+### Wie man Lehmboden richtig pflegt
+
+#### Testen Sie Ihren Boden
+- Vor dem Hinzufügen von Zusätzen sollten Sie den Boden testen.
+- Düngen Sie nur, wenn der Test einen Mangel zeigt oder die Pflanzen schlecht wachsen.
+- Denken Sie daran, dass Ton viele Nährstoffe enthält.
+- Im Willamette Valley brauchen die meisten Bäume, Sträucher und Stauden keinen zusätzlichen Dünger.
+
+#### Lassen Sie immer lebende Wurzeln wachsen
+- Lebende Pflanzen nutzen Sonnenenergie und unterstützen durch ihre Wurzelausscheidungen eine Gemeinschaft von Bodenmikroben.
+- Studien zeigen, dass Exsudate die Zusammensetzung der Bodenmikroben beeinflussen.
+- Wer eine vielfältige Auswahl an Pflanzen anbaut, fördert eine größere Artenvielfalt im Bodenleben – das hilft, gesunden Boden zu schaffen.
+
+#### Störungen minimieren
+- Alles, was den Boden stört (darauf gehen, graben, umgraben), zerstört oder verdichtet Bodengefüge und verringert die Porenräume, die für Durchlässigkeit und Wasserspeicherung wichtig sind.
+
+#### Mit Mulch abdecken
+- Mulch hilft, die Bodentemperatur auszugleichen, Verdunstung zu reduzieren und Unkraut zu unterdrücken.
+- Organischer Mulch zerfällt und erhöht den Humusgehalt im Boden.
+  - Grobe Materialien lassen Luft durch, während dichtere Stoffe wie Pappe den Gasaustausch behindern.
+  - Baumschnitt-Häcksel (10–15 cm) sind ein guter Mulch – sie lassen Luft durch und zerfallen langsam zu Humus.
+
+#### Bodenmikroben füttern
+- Organische Substanz (**OS**) steht an der Basis des Nahrungsnetzes im Boden; OS füttert die Bodenmikroben.
+- Wählen Sie eine Form, die richtig kompostiert wurde und keine schädlichen Stoffe wie viel Salz oder Schwermetalle enthält.
+- OS wie kompostierte Blätter und Gartenabfälle können eingearbeitet oder als dünne Schicht (1–2,5 cm) oben aufgebracht werden, um ein mikrobenfreundliches Umfeld zu schaffen.
+
+#### Ein Beet für diese Saison anlegen
+- Wenn Sie ein neues Beet für einjähriges Gemüse brauchen, mischen Sie kompostierte OS in das ganze Beet.
+- Das bringt sofort einen besser bearbeitbaren Boden und mehr Fruchtbarkeit.
+- Diese Vorteile sind aber nur kurzfristig, weil OS schnell abgebaut wird, ungenutzte Nährstoffe verloren gehen und der Boden sich setzt.
+
+#### Ein Wandel zur Vergangenheit
+- Das Motto „Einfach organische Substanz hinzufügen!“ als Lösung für Lehmboden wurde angepasst.
+- Früher empfahlen wir, zunächst 5–10 cm OS und danach weniger Mengen zuzugeben.
+- Neue Studien aus Stadtgärten, in denen jahrelang OS hinzugefügt wurde, zeigen ungesunde Werte von Phosphat und OS.
+  - Zu viel Phosphat hemmt die Eisenaufnahme der Pflanzen, die Entwicklung nützlicher Mykorrhizae und trägt zur Verschmutzung von Flüssen bei.
+- Wenn Sie OS aus dem Handel kaufen, analysiert das Landwirtschaftsministerium von Oregon den Nährstoffgehalt.
+- Achten Sie darauf, OS mit wenig Phosphor zu kaufen, wenn Sie schon lange OS in Ihren Boden einarbeiten.
+
+---
+
+### Mehr über Boden erfahren
+
+#### Veröffentlichungen
+
+**Publikationen der Oregon State University Extension**
+- [A Guide to Collecting Soil Samples, EC628](https://catalog.extension.oregonstate.edu/)
+- [Soil Health Principles, EC1647](https://catalog.extension.oregonstate.edu/)
+- [Analytical Laboratories Serving Oregon, EM8677](https://catalog.extension.oregonstate.edu/)
+- [Applying Lime to Raise Soil pH for Crop Production, EM9057](https://catalog.extension.oregonstate.edu/)
+
+**Publikationen der Washington State University Extension**
+- [Cover Crops for Home Gardeners West of the Cascades, FS111E](https://pubs.extension.wsu.edu/extension-publications)
+- [A Home Gardener’s Guide to Soils and Fertilizers, EM063E](https://pubs.extension.wsu.edu/extension-publications)
+- [A Gardener’s Primer to Mycorrhizae, FS269E](https://pubs.extension.wsu.edu/extension-publications)
+
+**Soil Myth Busting for Extension Educators**  
+[Überblick: Literatur zu Bodenstruktur und Funktion](https://www.nacaa.com/journal/index.php?jid=1024)
+
+#### Videos
+
+- [Mulches: The Good, The Bad, and the Really Really Ugly](https://www.youtube.com/watch?v=NXL9n2KNm1E)
+- [Home Soil Sampling, Washington State University](https://www.youtube.com/watch?v=0tRQUPDRiDU)
+- [Soil Health Demonstration](https://video.search.yahoo.com/yhs/search?p=ray+archuleta%27s+soil+health+demo+2014+custom)
+- [Soil Carbon Cowboys](https://www.youtube.com/watch?v=ZGvVli0OTrQ)
+- [From Dirt to Soil](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)
+
+#### Webseiten
+
+- [Web Soil Survey](http://www.websoilsurvey.sc.egov/)
+- [10-Minuten-Universität™ Handouts und Videos](http://www.cmastergardeners.org/10-minute-university)
+
+---
+
+###### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkünften aus öffentlichen Hilfsprogrammen, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Durchsetzung von Bürgerrechten. (Nicht alle genannten Kriterien gelten für alle Programme).
+---

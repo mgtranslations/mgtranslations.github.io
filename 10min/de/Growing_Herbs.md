@@ -1,98 +1,132 @@
-# 10-Minute University™
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program
+# Kräuter anbauen
 
-## Kräuter anbauen
+## Überblick
 
-### Überblick
-Ein Kraut ist eine Pflanze, die im Gegensatz zu einem Baum keinen holzigen Stamm produziert. Es lebt lange genug, um Blüten und oft Samen zu entwickeln. Kräuter können einjährig, zweijährig oder mehrjährig sein. Je nachdem, wer zählt, gibt es 40 bis 70 verschiedene Arten von Kräutern.
+Ein Kraut ist eine Pflanze, die – anders als ein Baum – keinen holzigen Stängel bildet. Es lebt lange genug, um Blüten und oft auch Samen zu entwickeln. Kräuter können einjährig, zweijährig oder mehrjährig sein. Je nach Zählweise gibt es 40 bis 70 verschiedene Arten von Kräutern.
 
-### Eigenschaften
-Kräuter werden in zwei oder mehr Kategorien eingeteilt:
+## Eigenschaften
+
+Kräuter werden auf verschiedene Arten eingeteilt:
 
 - **Aromatisch**  
-  Die meisten Kräuter haben angenehm duftende Blüten oder Blätter und werden wegen ihrer Öle angebaut, um Parfüms, Toilettenwasser und verschiedene Düfte herzustellen. Beispiele: Lavendel, Minze, Majoran, Liebstöckel, Rosmarin und Basilikum.
+  Die meisten Kräuter haben angenehm duftende Blüten oder Blätter und werden wegen ihrer Öle angebaut, aus denen Parfüms, Duftwässer und verschiedene Düfte hergestellt werden. Beispiele: Lavendel, Minze, Majoran, Liebstöckel, Rosmarin und Basilikum.
 
-- **Kulinarisch**  
-  Diese Kräuter sind dafür bekannt, Geschmack beim Kochen hinzuzufügen. Unter diesen Kräutern wird Petersilie am häufigsten produziert und hauptsächlich als Garnitur verwendet. Danach folgt Salbei. Weitere Beispiele sind Basilikum, Schnittlauch, Dill, Thymian, Bohnenkraut, Majoran, Minze und Rosmarin.
+- **Küchenkräuter**  
+  Diese Kräuter werden geschätzt, weil sie Speisen Geschmack verleihen. Unter diesen Kräutern wird Petersilie am häufigsten angebaut und meist als Garnitur verwendet. Danach ist Salbei besonders beliebt. Weitere Beispiele sind Basilikum, Schnittlauch, Dill, Thymian, Bohnenkraut, Majoran, Minze und Rosmarin.
 
-- **Medizinisch**  
-  Seit der Antike in der Medizin verwendet, glaubt man, dass einige Kräuter eine Vielzahl von Krankheiten heilen oder böse Geister abwehren können. Andere wie Knoblauch könnten vorbeugende Eigenschaften haben.  
-  Die moderne Medizin erkennt einige Kräuter als heilend an, während andere überschätzt sind und vorsichtig verwendet werden sollten, da sie Wechselwirkungen mit Medikamenten haben können, sei es mit rezeptpflichtigen oder rezeptfreien Produkten.  
-  Bevor Kräuter zu medizinischen Zwecken verwendet werden, konsultieren Sie Ihren Arzt.
+- **Heilkräuter**  
+  Schon seit der Antike werden Kräuter in der Medizin verwendet. Manche Kräuter sollen Krankheiten heilen oder böse Geister abwehren. Andere, wie Knoblauch, könnten vorbeugende Eigenschaften haben.  
+  Während einige Kräuter nach heutigem Wissen tatsächlich heilende Wirkungen haben, werden andere überschätzt und sollten mit Vorsicht oder gar nicht verwendet werden, da sie mit Medikamenten – ob verschreibungspflichtig oder frei verkäuflich – wechselwirken können.  
+  Vor der Verwendung von Kräutern zu medizinischen Zwecken sollten Sie sich mit Ihrem Arzt beraten.
 
-- **Dekorativ**  
-  Für frische oder getrocknete Arrangements angebaut, haben diese Kräuter oft leuchtend gefärbte Blüten und Blätter, während andere eine bunte Blattfärbung zeigen. Einige Beispiele sind Thymian, Rosmarin, Minze, Lavendel und Schnittlauch.
+- **Zierkräuter**  
+  Diese Kräuter werden für frische oder getrocknete Arrangements angebaut. Manche haben leuchtend gefärbte Blüten und Blätter, andere eine bunte Blattfärbung. Beispiele: Thymian, Rosmarin, Minze, Lavendel und Schnittlauch.
 
-### Lebensdauer
-- **Einjährige Kräuter** wachsen und blühen eine Saison und sterben dann ab. Beispiele: Anis, Basilikum, Kerbel, Koriander, Dill und Sommerbohnenkraut.  
-- **Zweijährige Kräuter** leben zwei Saisons und blühen im zweiten Jahr. Beispiele: Kümmel und Petersilie.  
-- **Mehrjährige Kräuter** können viele Jahre leben und blühen jede Saison. Einige sind laubabwerfend (sterben im Winter ab), während andere immergrün sind. Beispiele für laubabwerfende mehrjährige Kräuter sind Schnittlauch, Fenchel und Winterbohnenkraut, während immergrüne mehrjährige Kräuter Majoran, Rosmarin und Thymian umfassen.
+## Lebensdauer
 
-## Kräuter im Freien anbauen
+- **Einjährige Kräuter**  
+  Wachsen und blühen innerhalb einer Saison und sterben dann ab. Beispiele: Anis, Basilikum, Kerbel, Koriander, Dill und Sommerbohnenkraut.
 
-### Wie man beginnt
-Fast alle Kräuter können aus Samen gezogen werden. Die Regel beim Säen lautet: Pflanze die Samen in einer Tiefe, die dem 2- bis 4-fachen ihrer Breite entspricht. Mit anderen Worten, je feiner der Samen, desto flacher sollte er gesät werden.  
-Anis, Koriander, Dill und Fenchel sollten direkt in den Garten gesät werden, da sie nicht gut verpflanzt werden können.  
-Stecklinge und Teilungen sind nützlich und sogar einfacher als die Aussaat, wenn Sie Estragon, Schnittlauch und Minze vermehren. Tatsächlich kann echter französischer Estragon nur aus einem Steckling oder einer Teilung einer bestehenden Pflanze gezogen werden.
+- **Zweijährige Kräuter**  
+  Leben zwei Saisons und blühen im zweiten Jahr. Beispiele: Kümmel und Petersilie.
 
-### Boden
-Die meisten Kräuter wachsen am besten in gut durchlässigem, ziemlich fruchtbarem Boden mit einem neutralen pH-Wert von 6,5 bis 7,0. Die Drainage ist wahrscheinlich der wichtigste Faktor für den erfolgreichen Kräuteranbau. Kräuter stagnieren und können in durchnässtem Boden sterben.
+- **Mehrjährige Kräuter**  
+  Können mehrere Jahre leben und blühen jedes Jahr. Manche sind laubabwerfend (sterben im Winter zurück), andere immergrün. Beispiele für laubabwerfende mehrjährige Kräuter: Schnittlauch, Fenchel und Winterbohnenkraut. Immergrüne mehrjährige Kräuter: Majoran, Rosmarin und Thymian.
 
-### Dünger
-Der Boden muss nicht besonders fruchtbar sein, daher sollten Sie wenig oder gar keinen Dünger verwenden. Bei Kräutern neigt hochfruchtbarer Boden dazu, übermäßige Mengen an Blättern mit wenig Geschmack zu produzieren.  
-Ausnahmen sind Kerbel, Fenchel, Liebstöckel und Sommerbohnenkraut, die alle moderate Mengen an Dünger benötigen. Kompost ist ideal.
+# Kräuter draußen anbauen
 
-### Standort
-Im Allgemeinen benötigen Kräuter volle Sonne, können aber mit nur 6 Stunden Sonnenlicht pro Tag gedeihen. Einige Kräuter wie Minze müssen eingedämmt werden, da sie sonst den Garten überwuchern können.  
-Pflanzen Sie ausbreitende Kräuter in Behältern oder in einem Behälter, den Sie knapp unter die Erde versenken. Verwenden Sie einen Topf, der groß genug ist, um die Wurzeln für ein paar Jahre zu beschränken.
+## Wie man anfängt
 
-## Kräuter drinnen anbauen
+Fast alle Kräuter können aus Samen gezogen werden. Die Faustregel: Samen in einer Tiefe aussäen, die dem 2- bis 4-fachen ihrer Breite entspricht. Je feiner der Samen, desto flacher sollte er gesät werden.
 
-### Licht
-Die meisten Kräuter benötigen viel Sonnenlicht. Das bedeutet, dass Kräuter während des Winters drinnen zusätzlich beleuchtet werden müssen. Es ist wichtig zu wissen, dass die Intensität des Winterlichts oft weniger als ein Zehntel des Sommerlichts im Freien beträgt. Darüber hinaus verringert das Fensterglas die Menge an Licht, die für Pflanzen verfügbar ist.  
-Ohne ausreichend Licht verlangsamt sich das Wachstum der meisten Kräuter oder stoppt während des Winters, selbst wenn sie an einem warmen Standort gehalten werden.  
-Mehrjährige Kräuter profitieren davon, wenn Sie sie im Sommer an einen geschützten Platz im Freien stellen oder den Topf bis zum Rand in den Boden setzen.
+- Säen Sie Anis, Koriander, Dill und Fenchel direkt ins Beet, da sie das Umpflanzen nicht gut vertragen.
+- Stecklinge und Teilungen sind praktisch, oft sogar leichter als Samen, wenn Sie Estragon, Schnittlauch und Minze vermehren wollen. Echter französischer Estragon kann nur durch Teilung oder Stecklinge einer bestehenden Pflanze vermehrt werden.
 
-### Bewässerung
-Gießen Sie gründlich nur dann, wenn die Bodenoberfläche trocken ist. Lassen Sie Topfkräuter nicht in einer Wasserschale stehen, da ihre Wurzeln absterben können.
+## Boden
 
-### Dünger
-Drinnen wachsende Kräuter benötigen wöchentliche Anwendungen von Flüssigdünger oder organischem Fischdünger, wann immer die Pflanzen aktiv wachsen.
+Die meisten Kräuter wachsen am besten in gut durchlässigem, ziemlich fruchtbarem Boden mit neutralem pH-Wert von 6,5 bis 7,0. Die Drainage ist wahrscheinlich der wichtigste Faktor für erfolgreichen Kräuteranbau. In nassem Boden wachsen Kräuter schlecht oder sterben ab.
 
-## Schädlinge und andere Probleme
+## Dünger
 
-Sehr wenige Insekten, Milben oder Krankheiten greifen Kräuter an. Tatsächlich wird gesagt, dass einige Kräuter Schädlinge abwehren, und einige Gärtner glauben, dass Kräuter hervorragende Begleitpflanzen sind. Einige Kräuter wie Knoblauch werden sogar in organischen Schädlingsbekämpfungsrezepturen verwendet.  
-Blattläuse, ein häufiger Schädling in jedem Garten, können sich von Anis, Kümmel, Dill, krauser Petersilie und Fenchel ernähren. Oft ist das erste Anzeichen ihrer Anwesenheit die Klebrigkeit auf den Blättern und Stängeln.  
-Andere potenzielle, aber weniger häufige Schädlinge sind Weiße Fliegen, Schmierläuse, Schildläuse, Thripse und Schnecken. Bei heißem, trockenem Wetter können Spinnmilben problematisch werden.  
-Die meisten kleinen, weichkörperigen Schädlinge können einfach und sicher mit regelmäßigen Wassersprays oder insektizider Seife bekämpft werden, die gemäß den Anweisungen auf dem Etikett verdünnt und direkt auf die Schädlinge aufgetragen wird. Was auch immer die Behandlung ist, stellen Sie sicher, dass das Etikett angibt, dass es sicher für essbare Pflanzen ist.  
-Krankheiten, abgesehen von Wurzelproblemen aufgrund von übermäßig nassem Boden oder Blumenerde, sind in der Kräuterfamilie selten. Manchmal wird Minze von Rost befallen; falls dies passiert, entfernen Sie den betroffenen Stängel und die dazugehörigen Blätter.
+Der Boden muss nicht besonders nährstoffreich sein, daher sollten Sie wenig oder keinen Dünger verwenden. Sehr nährstoffreicher Boden fördert zwar das Blattwachstum, mindert aber das Aroma.
 
-## Ernte und Lagerung
+- Ausnahmen sind Kerbel, Fenchel, Liebstöckel und Sommerbohnenkraut, die etwas Dünger brauchen. Kompost ist ideal.
 
-Während der Saison können Sie frische Blätter pflücken, sobald die Pflanze genügend Laub hat, um weiter zu wachsen. Im Allgemeinen haben Kräuter den besten Geschmack, wenn sie geerntet werden, bevor sich die Blütenknospen öffnen.  
-Ernten Sie Kräuter morgens, wenn die ätherischen Öle, die den Kräutern ihren charakteristischen Duft und Geschmack verleihen, ihre höchste Konzentration haben. Pflücken Sie die Blätter, nachdem der Tau getrocknet ist, aber bevor die Sonne zu heiß wird.  
-Für größere Ernten können einjährige Kräuter bodennah abgeschnitten werden, während mehrjährige Kräuter nur um etwa ein Drittel ihrer Größe zurückgeschnitten werden sollten.  
-Viele Kräuter können für die zukünftige Verwendung durch Trocknen oder Einfrieren konserviert werden. Für Letzteres schneiden Sie frische Kräuter, legen sie in eine Eiswürfelschale, bedecken sie mit Wasser und frieren sie ein. Basilikum verliert seinen Geschmack beim Trocknen, daher sollte es frisch verwendet oder auf eine von zwei Arten eingefroren werden – als Pesto oder in einer Eiswürfelschale mit gehackten Blättern, die mit Wasser bedeckt sind.  
+## Standort
 
-Weitere Informationen zum Anbau, zur Verwendung und zur Konservierung von Kräutern finden Sie in den unten aufgeführten Publikationen oder kontaktieren Sie die Master Gardeners bei Ihrem örtlichen Beratungsdienst.
+Im Allgemeinen brauchen Kräuter volle Sonne, gedeihen aber auch mit nur 6 Stunden Sonnenlicht pro Tag.
 
-## Zusätzliche Informationen
+- Manche Kräuter, wie Minze, müssen eingedämmt werden, damit sie den Garten nicht überwuchern. Pflanzen Sie solche Kräuter in Töpfe oder versenken Sie den Topf im Boden, sodass der Rand kaum sichtbar ist. Der Topf sollte groß genug sein, um die Wurzeln für ein paar Jahre zu halten.
 
-### Webseiten:
-- Kräuter aus Samen ziehen: [www.backyardgardener.com/herb/](http://www.backyardgardener.com/herb/)
-- Einzelne Kräuter anbauen: [www.pioneerthinking.com/growingherbs.html](http://www.pioneerthinking.com/growingherbs.html)
-- Kräuter drinnen anbauen: [www.doityourself.com/vegetables/growingherbsindoors.html](http://www.doityourself.com/vegetables/growingherbsindoors.html)
-- Kräutergarten für Bienen: [http://altnature.com/library/herb.htm](http://altnature.com/library/herb.htm)
-- Kräuter im Heimgarten anbauen: [www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm](http://www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm)
+# Kräuter drinnen anbauen
 
-### Bücher:
-- *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)  
-- *Herbs, An Illustrated Guide* (Sunset Books)  
-- *All About Herbs* (Ortho Books)  
+## Licht
 
-## Master-Gardener™-Ratschläge
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), oder 503-445-4608 (Multnomah County).  
-- Für weitere 10-Minute University™ Handouts und den Kursplan besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).
+Kräuter brauchen viel Sonnenlicht. Im Winter benötigen sie Zusatzbeleuchtung, wenn sie drinnen wachsen.
 
-Die Oregon State University Extension Service verbietet Diskriminierung in allen ihren Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiären/elterlichen Status, Einkommen aus einem Sozialhilfeprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+- Das Licht im Winter ist oft weniger als ein Zehntel so stark wie im Sommer draußen. Fensterglas verringert die Lichtmenge für Zimmerpflanzen zusätzlich.
+- Wenn das Licht nicht ausreicht, wächst das meiste Küchenkräuter im Winter kaum oder gar nicht, selbst wenn der Standort warm ist.
+
+Mehrjährige Kräuter profitieren davon, wenn sie im Sommer an einen geschützten Platz nach draußen gestellt oder samt Topf in die Erde gesetzt werden.
+
+## Zimmerkräuter gießen
+
+Gießen Sie gründlich, aber erst, wenn die Oberfläche der Erde trocken ist. Lassen Sie keine Kräutertöpfe im Wasser stehen; die Wurzeln könnten absterben.
+
+## Zimmerkräuter düngen
+
+Kräuter im Haus benötigen während des Wachstums wöchentlich Flüssigdünger oder organische Fisch-Emulsion.
+
+# Schädlinge und andere Probleme
+
+Nur wenige Insekten, Milben oder Krankheiten befallen Kräuter.
+
+- Manche Kräuter sollen Schädlinge fernhalten, und viele Gärtner glauben, dass Kräuter gute Nachbarpflanzen sind. Knoblauch wird sogar in ökologischen Schädlingsbekämpfungsmitteln verwendet.
+- Blattläuse können Anis, Kümmel, Dill, krausblättrige Petersilie und Fenchel befallen. Ein erster Hinweis sind klebrige Blätter und Stängel.
+- Weitere mögliche Schädlinge: Weiße Fliegen, Schmierläuse, Schildläuse, Thripse, Schnecken und Spinnmilben, besonders bei heißem, trockenem Wetter.
+
+Die meisten kleinen, weichen Schädlinge lassen sich mit kräftigem Wasserstrahl oder verdünnter Insektizidseife (nach Packungsanweisung) bekämpfen. Achten Sie darauf, dass das Mittel für essbare Pflanzen zugelassen ist.
+
+Krankheiten sind bei Kräutern selten, außer bei Wurzelfäule durch zu nasse Erde. Minze kann gelegentlich von Rost befallen werden; entfernen Sie dann die betroffenen Triebe und Blätter.
+
+# Ernten und Lagern
+
+- Pflücken Sie während der Saison frische Blätter, sobald die Pflanze genug Laub für weiteres Wachstum hat. Das Aroma ist am besten, wenn die Kräuter kurz vor der Blüte geerntet werden.
+- Ernten Sie morgens, wenn die ätherischen Öle am höchsten sind. Pflücken Sie Blätter, nachdem der Tau getrocknet ist, aber bevor die Sonne zu heiß wird.
+
+Für größere Ernten:
+
+- Einjährige Kräuter können bodennah abgeschnitten werden.
+- Mehrjährige Kräuter sollten nur etwa um ein Drittel zurückgeschnitten werden.
+
+Viele Kräuter lassen sich durch Trocknen oder Einfrieren haltbar machen. Zum Einfrieren:
+
+- Frische, gehackte Kräuter in eine Eiswürfelform geben, mit Wasser auffüllen und einfrieren.
+- Basilikum schmeckt frisch oder gefroren als Pesto oder gehackt in Eiswürfeln am besten.
+
+Weitere Informationen zum Anbauen, Verwenden und Konservieren von Kräutern finden Sie in den unten aufgeführten Veröffentlichungen oder wenden Sie sich an die Master Gardeners beim Extension Service Ihres Landkreises.
+
+# Weitere Informationen
+
+## Webseiten
+
+- [Kräuter aus Samen ziehen](http://www.backyardgardener.com/herb/)
+- [Einzelne Kräuter anbauen](http://www.pioneerthinking.com/growingherbs.html)
+- [Kräuter drinnen anbauen](http://www.doityourself.com/vegetables/growingherbsindoors.html)
+- [Kräutergärten für Bienen](http://altnature.com/library/herb.htm)
+- [Kräuter im Hausgarten anbauen](http://www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm)
+
+## Bücher
+
+- *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
+- *Herbs, An Illustrated Guide* (Sunset Books)
+- *All About Herbs* (Ortho Books)
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™-Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkünften aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Einschüchterung wegen früherer Bürgerrechtsbeschwerden. (Nicht alle genannten Diskriminierungsverbote gelten für alle Programme.)
+---

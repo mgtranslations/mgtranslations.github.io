@@ -1,131 +1,148 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ee Clackamas County oo wada shaqayn la leh Barnaamijka Beeraleyda Master-ka ee OSU Extension
 
-Ururka Beeralayda Aqoon-dheer ee Clackamas County oo iskaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™.
+# Beeralayda oo isticmaalaya Kompost
 
-## Beerashada Compost
+Kompost waa mulch aad u wanaagsan marka sare ee ciidda la saaro. Marka la dhex galiyo ciidda, waxay noqotaa bacriminta iyo hagaajinta ciidda. Adiga oo raacaya talaabooyinka ku qoran warqaddan, beeraleyda guriga wuxuu cawska la jaray, caleemaha, iyo qashinka kale ee beerta uga dhigi karaa kompost loo isticmaalo guriga.
 
-Compost waa mulch aad u fiican marka lagu dul saaro dhulka. Waxa uu ka kooban yahay bacriminta iyo dhulka hagaajinaya marka lagu dhex geliyo dhulka. Adigoo raacaya tallaabooyinka ku jira qoraalkan, beeralayda guriga ayaa ka soo saari kara cawska la jaray, caleemaha, iyo qashinka beerta oo u beddeli kara compost si loogu isticmaalo guriga.
+---
 
-### Sida Guusha Loogu Gaadho
+## Habka Guusha
 
-Buulka compost-kaaga waa bulsho firfircoon oo ka kooban noolaha yaryar (bakteeriyo, fangaska, protozoa) iyo kuwo kale (jiirka lugaha badan, jiiraha lugaha badan, quraanjada iyo dixiriga) kuwaa oo "ka shaqeeya" qashinka beerta. Si aad u siiso nafaqooyin muhiim ah noolaha yaryar, ku dar laba qaybood oo ka kooban maaddooyinka kaarboonka-qani ah (“bunni”) iyo hal qayb maaddooyinka nitrogen-qani ah (“cagaar”) marka aad dhiseyso buulkaaga. Isku-darka kaarboonka iyo nitrogenka ee sidan u dhiganta waxay kor u qaadayaa tirada noolaha yaryar waxayna soo saartaa compost si degdeg ah. Isku-darka kale ee bunni iyo cagaar ayaa sidoo kale soo saari kara compost wanaagsan laakiin si tartiib ah ayuu u baaba’aayaa.
+Xirmadaada kompostku waa bulsho buuxda oo nooleyaal yaryar ah (bakteeriyo, fangas, protozoa) iyo kuwo kale (caaro, shinni-biyood, cayayaanka, iyo diir) kuwaas oo "ka shaqeeya" qashinka beerta. Si aad nafaqo muhiim ah ugu siiso noolayaasha, isku qas **laba qaybood oo ah walxo karboon badan leh (“brown”)** iyo **hal qaybood oo ah walxo nitrogen badan leh (“green”)** marka aad dhiseyso xirmadaada. Isku darka karboonka iyo nitrogen-ka sidan ah waxay kobcinayaan nooleyaal badan oo si degdeg ah kompost u sameeya. Haddii aad isticmaasho wax ka duwan, kompost wuu samaysmaa laakiin si gaabis ah buu u burburaa.
 
-### Maaddooyinka Cagaar (Hal Qayb)
+### Cagaar (Hal Qaybood)
+
 - Caws cusub oo la jaray
 - Caleemo cagaaran
-- Laamaha dhirta
-- Laamaha dhirta laga jaray
-- Haramaha sanadlaha ah ee aan lahayn madax abuur
+- Laamo dhirta ah
+- Laamo la jarjaray ee beerta
+- Caws xilliyeedyo aan miraha lahayn
 - Qashinka khudradda iyo miraha
-- Shaandhooyinka qaxwaha iyo bacaha shaaha
-- Doolka beerta hore
+- Shaandheeyaha bunka iyo bacaha shaaha
+- Dhoobo duug ah ee la beertay
 
-### Maaddooyinka Bunni (Laba Qaybood)
+### Bunni (Laba Qaybood)
+
 - Laamo yaryar
-- Caws iyo caleemo qalalan
-- Waraaqaha wararka oo la shiiday
-- Caws qalalan
-- Qoryaha la shiiday
+- Caws qallalan iyo caleemo qallalan
+- Wargeys la jarjaray
+- Bal
+- Xabag alwaax ah
 
-### Maaddooyinka aan lagu darin Compost-ka
-- Dhirta xanuunsan
-- Haramaha leh madax abuur
-- Haramaha faafa sida quack grass iyo morning glory
-- Xididdada haramaha sanadlaha ah
-- Saxarada xayawaanka
-- Haraaga xayawaanka dhintay
-- Rootiga iyo badarka
-- Hilibka ama kalluunka
-- Caanaha
-- Dufanka, saliidda cuntada ama raashinka saliidda leh.
+---
 
-Caanaha, dufanka, hilibka waxay yeelanayaan ur xun waxayna soo jiidanayaan cayayaan. Saxarada xayawaanka waxay faafin karaan cudur. Haramaha waxay ku faafi karaan beero kale. Tixgeli inaad isticmaasho sanduuqa compostka dixiriga si aad ugu isticmaasho qashinka jikada.
+### Agab Aan La Isticmaalin
 
-### Si looga fogaado dhibaatooyinka sunta xabagta:
-Isticmaal wax yar ama ha isticmaalin xabagta. Heerkulka kulul ee ku jira buulka compost-ka wuxuu dedejinayaa burburka xabagta ilaa maaddooyin aan sun ahayn. Isku-darka maaddooyinka dabiiciga ah ee compost-ka ayaa sidoo kale ka dhigaya xabagta mid aan firfircooneyn. U daa compost-kaaga sanado ka badan ka hor intaadan isticmaalin si loo gaaro burburka xabagta oo dhameystiran.
+Ha ku darin kompostka:
 
-## Sida Loo Dhiso Buulka Compost
+- Dhir xanuunsan
+- Caws leh miraha
+- Caws xun (tusaale, quack grass, morning glory)
+- Xididdada caws xilliyadooda badan
+- Qashinka xayawaanka
+- Xayawaan dhintay
+- Rooti iyo badar
+- Hilib ama kalluun
+- Caano iyo waxyaabaha laga sameeyo
+- Dufan, saliid karis, ama cunto dufan leh
 
-### Jarjar Maaddooyinka
-Haddii noolaha yaryar ay helaan dusha sare oo badan oo ay ka quudiyaan, maaddooyinka waxay si degdeg ah u burburayaan. Jarjar qashinka beerta adiga oo isticmaalaya seefta, mashiinka shiidka ama mashiinka cawska.
+Dufanka, hilibka, iyo caanaha waxay ur xun keeni karaan oo xayawaan soo jiidan karaan. Qashinka xayawaanka wuxuu faafin karaa cudurro. Cawska xun wuxuu ku faafi karaa beero kale. Tixgeli isticmaalka sanduuq diir ama “worm compost bin” si aad ugu shubto qashinka jikadaada.
 
-### Cabbirka Muhiimka ah
-Buulasha compost-ka waxay qabtaan kulka ay soo saaraan malaayiinka noolaha yaryar. Buul cabbirkoodu yahay 3-talaabo x 3-talaabo x 3-talaabo ayaa loo arkaa ugu yaraan cabbirka kulul ee compost si degdeg ah loo sameeyo. Buulasha ka weyn ama ka dheer 5-talaabo ma helaan hawo ku filan oo gaarta noolaha yaryar ee bartamaha.
+### Tixgelinta Sunta Dhirta
+
+Si aad uga fogaato dhibaatooyinka sunta dhirta:
+
+- Isticmaal sunta dhirta si aad u yar ama ha isticmaalin.
+- Heerkulka kulul ee xirmada kompostku wuxuu dedejiyaa burburka sunta dhirta si ay sun la’aan u noqoto.
+- Ku xirnaanshaha walxaha dabiiciga ah ee kompostkuna wuxuu ka dhigaa sunta mid aan firfircoonayn.
+- U daa kompostkaaga inuu fadhiyo hal sano ama ka badan ka hor intaadan isticmaalin si sunta dhirta u burburto ku dhowaad dhammaan.
+
+---
+
+## Sida Loo Dhiso Xirmada Kompostka
+
+### Jarjar Si Yar
+
+Nooleyaasha yaryar waxay si dhakhso ah u burburiyaan walxaha marka ay dusha sare badan leeyihiin. Jarjar qashinka beerta adiga oo isticmaalaya mindi, ama isticmaal mashiin wax shiida ama mishiinka cawska.
+
+### Cabbirka Waa Muhiim
+
+Xirmada kompostku waxay qabataa kulaylka ay sameeyaan malaayiin nooleyaal yar yar. **Xirmo cabbirkeedu yahay 3-foot x 3-foot x 3-foot** waa cabbirka ugu yar ee kompost kulul oo degdeg ah. Xirmo ka ballaaran ama ka dheer **5 feet** ma ogola hawada inay gaarto bartamaha.
 
 ### Hawo iyo Biyo
-Nolosha inta badan dhulka ku nooshahay waxay u baahan tahay biyo iyo hawo si ay u noolaato. Noolaha yaryar ee buulka compost-ka waxay si fiican u shaqeeyaan marka buulka uu qoyan yahay sida shukumaan lagaga soo saaray oo uu leeyahay marin hawo badan. Qorraxda ama roobka badan waxay saameyn xun ku yeelan karaan dheelitirka hawada iyo qoyaanka ee buulkaaga. Hawada buulka ayaa si degdeg ah u dhamaata marka loo eego biyaha, sidaas darteed buulka waa in si joogto ah loo “rogrogo” ama loo isku qasaa si hawada loo daro taasoo kor u qaadaysa heerkulka sare iyo xakameynta urta.
 
-### Waqtiga iyo Heerkulka
-Bakteeriyada burburisa waxay ku noolaan kartaa heerkulka u dhexeeya 110°F - 160°F. Buulka kulul, si degdeg ah ayay u shaqeeyaan. Haddii aad gaarto dheelitir wanaagsan oo kaarboon iyo nitrogen ah, aad bixiso dusha sare oo badan oo ku dhex jira maaddooyin mug weyn, oo aad siiso qoyaanka iyo hawada ku filan, heerkulka wuxuu kordhi doonaa maalmo gudahood.
+Nooleyaasha inta badan dhulka jooga waxay u baahan yihiin biyo iyo hawo si ay u noolaadaan. Nooleyaasha kompostka waxay si fiican u shaqeeyaan marka xirmada ay qoyan tahay sida isbuunyo la qariyey oo ay hawada si fiican ugu dhex socoto. Qorraxda ama roobka xad dhaafka ah waxay saameyn karaan dheelitirka hawada iyo qoyaanka. Hawada xirmada waxaa laga isticmaalaa si dhakhso ah marka loo eego biyaha, sidaa darteed waa in **xirmada si joogto ah loo rogrogaa** si hawada loo geliyo taas oo keenta kulayl sare iyo ka hortagga urta xun.
 
-## Isticmaalka Compost
+### Waqti iyo Heerkul
 
-### Si loo hagaajiyo dhulka
-Ku dar laba ilaa shan inch oo compost ah beerta khudradda iyo ubaxa sanad walba ka hor inta aan la beerin.
+Bakteeriyada burburisa waxay aad ugu fiican yihiin heerkulka u dhexeeya **110°F - 160°F**. Xirmada kulul waxay dedejisaa shaqada nooleyaasha. Haddii aad hesho dheelitirka saxda ah ee karboonka iyo nitrogen-ka, aadna sare u qaaddo aagga ay wax ku cunaan nooleyaasha, aadna ilaaliso qoyaanka iyo hawada, heerkulka wuu kacayaa maalmo gudahood.
 
-### Si loo sameeyo isku-darka dhirta
-Ku dar hal qayb compost laba qaybood oo dhulka dhirta ah oo ganacsi ah, ama samee isku-darkaaga adiga oo isticmaalaya qaybaha compost iyo ciid ama perlite.
+---
 
-### Si loo daboolo cawska
-Daboolka cawska adiga oo ku daraya compost ayaa loo tixgeliyaa in uu bixiyo sii deyn tartiib ah oo nitrogen ah. Ku dar compost si fiican u shiidan oo ciid ku dar, kadibna si siman ugu faafi cawska. Isticmaalka compost wuxuu sidoo kale hagaajin doonaa xaalada dhulkaaga wuxuuna kordhin doonaa haynta biyaha, sidaas darteedna badbaadinaya biyaha.
+## Isticmaalka Kompostka
 
-## Dhibaatooyinka Suurtagalka ah iyo Xalka
+### Hagaajinta Ciidda
 
-### Buulka compost-ka ma kululaado
-#### Sababaha suurtagalka ah:
-- Aad u qoyan: maaddooyinka compost-ka way qoyan yihiin.
-#### Xalka suurtagalka ah:
-- Rog buulka, ku dar maaddada qalalan oo nuugta sida qoryaha la shiiday, cawska ama qoryaha la jarjaray.
+Ku dar **laba ilaa shan inch** oo kompost ah beerta khudradda iyo ubaxa sannad kasta ka hor beerta.
 
-#### Sababaha kale:
-- Aad u qalalan:
-#### Xalka suurtagalka ah:
-- Ku shub biyo tuubada; qoyaan buulka adiga oo aan qoynin.
+### Samaynta Dhoobo Beereed
 
-#### Sababaha kale:
-- Nitrogen ku filan ma jiro: buulka compost-ka aad buu u yar yahay; buulku waa qoyan yahay; wuxuu kaliya kulul yahay bartamaha.
-#### Xalka suurtagalka ah:
-- Rog buulka, ku dar maaddooyinka nitrogen-qani ah (doolka, cawska la jaray). Ku dar buul cusub; qoyaan.
+Ku dar **hal qaybood oo kompost** ah **laba qaybood oo dhoobo beereed la iibiyo**, ama samee adiga oo isku qasaya kompost iyo carro ama perlite isla eg.
 
-#### Sabab kale:
-- Maaddada waxaa laga yaabaa inay dhameystiran tahay compost-ka.
-#### Xalka suurtagalka ah:
-- Compost-ka dhameystiran waa madow oo burburay oo leh ur dhulka ah.
+### Sare-U-Dhigidda Cawska
 
-### Buulka compost-ka wuxuu leeyahay urka ukunta qasacadaysan
-#### Sababaha suurtagalka ah:
-- Aad u qoyan/hawo ku filan ma jiro: buulka compost-ka wuu urayaa oo ma burburayo.
-#### Xalka suurtagalka ah:
-- Rog buulka si hawo loo geliyo, ku dar maaddada qallalan oo nuugta sida qoryaha la shiiday, cawska, qoryaha la jarjaray.
+Ku darista kompostka sare ee cawska ayaa si tartiib ah u sii deynaysa nitrogen-ka. Isku qas kompost si fiican loo sifeeyey iyo carro oo si siman ugu firdhi cawska. Isticmaalka kompostka wuxuu sidoo kale hagaajinayaa xaaladda ciidda wuxuuna kordhinayaa haynta biyaha, taasoo kaa caawinaysa inaad biyo badbaadiso.
 
-### Buulka compost-ka wuxuu leeyahay ur ammonia
-#### Sababaha suurtagalka ah:
-- Nitrogen aad u badan: nitrogen-ka xad-dhaafka ah ayaa hawada laga sii daayaa sida gaaska ammonia.
-#### Xalka suurtagalka ah:
-- Rog buulka, ku dar qoryaha la shiiday ama kaarboon kale oo ka soo saar nitrogen-ka buulka.
+---
 
-#### Sabab kale:
-- Aad u alkaline: luminta nitrogen-ka sida ammonia waxay kordhisaa marka buulka uu aad u alkaline yahay (pH sare). Ku darista dhagaxa lime-ka aad u badan buulka wuxuu ka dhigayaa mid alkaline.
-#### Xalka suurtagalka ah:
-- Rog buulka, ku dar maaddooyin acid ah sida qoryaha la shiiday, caleemaha oak, qashinka khudradda.
+## Dhibaatooyinka Imaan Kara iyo Xalalkooda
 
-#### Sabab kale:
-- Aad u qoyan/hawo ku filan ma jiro.
-#### Xalka suurtagalka ah:
-- Rog buulka, ku dar maaddada qallalan oo nuugta sida qoryaha la shiiday, cawska, qoryaha la jarjaray.
+### Kompostku Ma Kululaado
 
-### Cayayaanka (jiir, raccoon, cayayaanka)
-#### Sababaha suurtagalka ah:
-- Haraaga hilibka ama raashinka dufanka leh.
-#### Xalka suurtagalka ah:
-- Ka saar hilibka/dufanka buulka. Ku rog si aad heerkulka u kordhiso iyo si aad u dheelitirto kaarboon iyo nitrogen; isticmaal sanduuq compost oo aan xayawaanku geli karin.
+| **Sababaha Suurtagalka ah**                  | **Xalalka Suurtagalka ah**                                                                 |
+|----------------------------------------------|-------------------------------------------------------------------------------------------|
+| Aad u qoyan: kompostku aad buu u qoyan yahay.| Rog xirmada, oo ku dar walxo qalalan sida qoryaha la jajabiyey, bal, ama laamo yaryar.     |
+| Aad u qalalan.                              | Ku shub biyo, qoy xirmada adigoo aan biyaha badin.                                        |
+| Ma jiro nitrogen ku filan: xirmada aad ayay u yar tahay; xirmada qoyan; kulaylka bartamaha oo kaliya. | Rog xirmada, oo ku dar walxo nitrogen badan (digada, caws la jaray). Isku qas si aad u samayso xirmo cusub; qoy. |
+| Waxyaabaha laga yaabo in kompostku dhammaaday.| Kompostka dhammaaday waa mugdi, jajaban, oo ur dhulka ah leh.                             |
 
-### Ilaha OSU Extension Service
+---
 
-https://catalog.extension.oregonstate.edu
+### Kompostku Wuxuu U Uureeyaa Sida Ukun Qumaneed
 
-**Beeralayda Aqoon-dheer™ Talooyin**
-- Wac Khadka Guriga ee Horticulture: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).
-- Si aad u hesho qoraallada Jaamacadda 10-Daqiiqo™ iyo jadwalka fasalka, booqo www.cmastergardeners.org.
+| **Sababaha Suurtagalka ah**                  | **Xalalka Suurtagalka ah**                                                                 |
+|----------------------------------------------|-------------------------------------------------------------------------------------------|
+| Aad u qoyan/ma jiro oksijiin: xirmada kompostka way qudhuntay, ma burburinayso. | Rog xirmada si aad u haweyso, oo ku dar walxo qalalan sida qoryaha la jajabiyey, bal, ama laamo yaryar. |
 
-Adeegga Oregon State University Extension Service wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada iyadoo lagu saleynayo midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo jeeda barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sidaha, xaaladda askariga, aargoosi ama aargoosi wixii hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---
+
+### Kompostku Wuxuu Leeyahay Uur Ammonia
+
+| **Sababaha Suurtagalka ah**                  | **Xalalka Suurtagalka ah**                                                                 |
+|----------------------------------------------|-------------------------------------------------------------------------------------------|
+| Nitrogen aad u badan: nitrogen-ka ayaa hawada ugu baxa sida ammonia. | Rog xirmada, oo ku dar qoryo la jajabiyey ama walxo karboon ah. Ujeedadu waa in nitrogen-ka xirmada lagu hayo. |
+| Aad u alkaline ah: lumista nitrogen-ka sida ammonia ayaa kordha marka xirmada aad u alkaline tahay (pH sare). Ku darista lime badan ayaa xirmada ka dhigta alkaline. | Rog xirmada, oo ku dar walxo aashito leh sida qoryaha la jajabiyey, caleemo oak ah, ama qashinka khudradda. |
+| Aad u qoyan/ma jiro oksijiin.                | Rog xirmada, oo ku dar walxo qalalan sida qoryaha la jajabiyey, bal, ama laamo yaryar.     |
+
+---
+
+### Cayayaanka (Jiir, Racoon, Cayayaan)
+
+| **Sababaha Suurtagalka ah**                  | **Xalalka Suurtagalka ah**                                                                 |
+|----------------------------------------------|-------------------------------------------------------------------------------------------|
+| Hilib ama cunto dufan leh ayaa xirmada ku jirta. | Ka saar hilibka/cunto dufan leh xirmada. Rog si aad u kordhiso heerkulka oo aad u dheellitirto karboonka iyo nitrogen-ka; isticmaal sanduuq kompost oo xayawaan ka celin ah. |
+
+---
+
+## Kheyraadka Adeegga OSU Extension
+
+- [Beeraleyda oo isticmaalaya Kompost, Mulches iyo Daboolidda Safafka, EC 1247](https://catalog.extension.oregonstate.edu)
+
+---
+
+#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Warqadaha Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada: Booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Adeegga OSU Extension Service waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muuqaalkiisa), dookha galmada, naafonimada, da’da, xaalada guurka, xaalada qoyska/waalidka, dakhli laga helo barnaamij caawimo dadweyne, aaminsanaanta siyaasadeed, xogta hidaha, xaalada ciidan hore, ama aargoosi/xadgudub la xiriira xuquuqaha madaniga hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

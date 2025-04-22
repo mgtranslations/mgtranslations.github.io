@@ -1,62 +1,114 @@
-10-Minute University™
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa
-OSU Extension Master Gardener™ Program
+#### 10-Minute University™ · The Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
 
 ## Panimula sa Pagtatanim ng Root Crops
-Ang mga root crops ay may lugar sa bawat hardin ng gulay. Ang mga ito ang unang at huling gulay na inaani, at sa tamang pag-iimbak sa bahay, magkakaroon ka ng sariwang suplay hanggang taglamig. Ang mga crops na ito ay perpekto rin dahil maliit lamang ang espasyo na kinakailangan sa hardin, maaaring anihin sa mahabang panahon, at nagbibigay ng malalaking dami ng pagkaing sagana sa enerhiya. Ang mga ito ay maunlad sa raised bed, in-ground, at container gardens. Ang kasaysayan ng paghahalaman ay nagbabanggit ng pagtatanim ng root crops ng mga sinaunang kabihasnan sa Mediterranean Europe, Asia, Africa, Oceania, at South America. Ang kaalaman na ang beets, carrots, turnips, patatas, sweetpotatoes, sibuyas, at parsnips ay naging popular sa loob ng mahigit 5,000 taon ay nagpapakita na ang mga root crops ay nagtagumpay dahil madali itong itanim at masarap kainin.  
 
-Ang "root vegetable" ay isang kategorya sa kusina, hindi isang botanical na isa. Ang botanika ay nagtatangi sa tunay na ugat tulad ng taproots at tuberous roots mula sa mga hindi ugat o geophytes gaya ng bulbs, corms, rhizomes, at tubers.  
+May lugar ang root crops sa bawat gulayan. Isa sila sa mga unang inaani at huling naaani na gulay, at kung maayos ang pag-iimbak sa bahay, magkakaroon ka ng sariwang suplay hanggang sa taglamig. Mainam ang mga pananim na ito dahil kaunti lang ang puwang na kailangan sa hardin, maaaring anihin nang matagal, at nagbibigay ng maraming pagkaing mataas sa enerhiya. Tumutubo sila nang maganda sa raised beds, in-ground, at container gardens.
 
-## Mga Uri ng Root Crops  
-### 1. Bulbs  
-Nag-iimbak ng enerhiya para sa halaman sa mga makakatas na layer, sa ibabaw o ilalim ng lupa.  
-**Halimbawa:** sibuyas, bawang, leeks, shallots  
+Binanggit sa kasaysayan ng paghahalaman na itinatanim na ang root crops ng mga sinaunang sibilisasyon sa Mediterranean Europe, Asia, Africa, Oceania, at South America. Ang kaalaman na ang beets, carrots, turnips, patatas, kamote, sibuyas, at parsnips ay mahigit 5,000 taon nang popular ay nagsasabi ng isang bagay: nagtagumpay ang root crops dahil madali silang itanim at masarap kainin.
 
-### 2. Corms  
-Mga starchy na underground plant stems na nagtatago ng tubig, enerhiya, at nutrients upang tulungan ang halaman na magparami at mabuhay.  
-**Halimbawa:** taro, water chestnut  
+Ang "root vegetable" ay kategoryang pangkusina, hindi pang-botanika. Sa botanika, may pagkakaiba sa tunay na ugat tulad ng taproots at tuberous roots, at sa mga hindi-ugat o geophytes tulad ng bulbs, corms, rhizomes, at tubers.
 
-### 3. Rhizomes  
-Mga pangunahing tangkay ng halaman na tumutubo nang pahalang sa ilalim ng lupa o sa ibabaw ng lupa. May mga nodes na naglalabas ng shoots.  
-**Halimbawa:** ginger, asparagus  
+---
 
-### 4. Tap Roots  
-Nag-iimbak ng enerhiya para sa halaman sa matibay na orb o cylindrical roots.  
-**Halimbawa:** beets, carrots, daikon radish, parsnips, radish, rutabaga, turnips  
+## Mga Uri ng Root Crops
 
-### 5. Tuberous Roots  
-Mga binagong, pinalaking ugat na nag-iimbak ng pagkain para sa halaman. Karaniwan itong magkakalapit sa ibaba ng isang tangkay na may isang growing point sa proximal end.  
-**Halimbawa:** sweetpotato, cassava  
+1. **Bulbs**  
+   Nag-iimbak ng enerhiya para sa halaman sa makakapal na bahagi, nasa ibabaw o ilalim ng lupa.  
+   - Halimbawa: sibuyas, bawang, leek, shallot
 
-### 6. Tubers  
-Makakapal na underground stems na walang tunic o basal plate at naglalaman ng maraming nodes o "mata" na naglalabas ng buds sa ibabaw ng tuber.  
-**Halimbawa:** Jerusalem artichoke, yam, patatas, jicama  
+2. **Corms**  
+   Makakapal at makakalamang bahagi ng halaman sa ilalim ng lupa na nag-iimbak ng tubig, enerhiya, at sustansya para makapagparami at mabuhay ang halaman.  
+   - Halimbawa: gabi, water chestnut
 
-## Pagtatanim ng Root Crops  
+3. **Rhizomes**  
+   Pangunahing tangkay ng halaman na tumutubo pahalang sa ilalim ng lupa o ibabaw ng lupa. May mga node na pinagmumulan ng bagong usbong.  
+   - Halimbawa: luya, asparagus
 
-### Pangangailangan ng Garden Bed para sa Root Crops  
-Ang root crops ay mas maunlad sa bukas, maaraw na lugar na may sandy loam at peat soils. Ang pagdaragdag ng organic matter ay maaaring magpabuti sa mabigat na clay soils. Kapag ang lupa ay maaaring trabahuhin, paluwagin ang nangungunang 7-8 pulgada ng lupa at maghalo ng compost, coconut core, o commercial raised bed soil. Ang magaan at maluwag na lupa na makakapagpanatili ng moisture ay ideal para sa pagtatanim ng root crops. Ang pinakamainam na pH ng lupa ay nag-iiba mula 6 hanggang 8, depende sa uri ng root crop. Bago magtanim, magbroadcast ng isang libra ng pre-plant fertilizer (gaya ng 20-20-20) para sa bawat 100 square feet o aged animal manures at compost para sa magandang paglaki ng mga crops na ito.  
+4. **Tap Roots**  
+   Nag-iimbak ng enerhiya para sa halaman sa bilugan o pahabang ugat.  
+   - Halimbawa: beets, carrots, labanos (daikon), parsnips, labanos, rutabaga, turnips
 
-### Mga Peste ng Root Crops  
-Ang mga peste ng insekto ay kinabibilangan ng root maggots sa turnip, rutabaga, at radish; leafminers sa beets; at carrot rust flies o leafhoppers sa carrots at parsnips. Ang aphids, flea beetles, at white flies ay karaniwang matatagpuan sa ilalim ng mga dahon. Ang mga slugs at snails ay maaaring sirain ang mga seedlings at batang halaman. Protektahan gamit ang barriers o baits. Regular na pagmamatyag, row covers, traps, at pisikal na pag-alis ay mga remedyo para sa mga home gardener. Ang mga preventive measures ng companion planting ay maaaring makatulong na magtulak ng mga insekto. Ang mga peste ng mammal ay maaaring kinabibilangan ng rabbits, rodents, deer, o squirrels na kumakain ng mga dahon at naghuhukay sa lupa, habang ang mga gophers at rabbits ay kinakain ang mga ugat. Ang mga preventive measures tulad ng wire mesh na nakabaon nang malalim sa ilalim ng garden bed hanggang sa ibabaw at isang maayos na bakod/cage perimeter ay maaaring magtulak sa mga pesky mammals.  
+5. **Tuberous Roots**  
+   Binagong ugat na malaki at nag-iimbak ng pagkain para sa halaman. Madalas magkakasama sa baba ng tangkay na may isang dulo na pinagmumulan ng usbong.  
+   - Halimbawa: kamote, cassava
 
-### Crop Rotation ng Root Crops  
-Ang pag-unawa sa mga pamilya ng halaman at crop rotation ay mahalaga para sa kalusugan at produksyon ng halaman. Ang taunang kasanayan ng pagtatanim ng mga gulay nang sunud-sunod sa iba't ibang lugar ng hardin ay maiiwasan ang pagdami ng mga soil-borne pests at sakit, at magagamit nang mas mahusay ang nutrients ng lupa. Ang taunang paggalaw ng crops at rotation sa apat na taong cycle ay makakatulong upang maiwasan ang mga problema, mapatibay ang lupa, at maitaguyod ang mahusay na produksyon ng root crops. Ang kasanayan ng crop rotation at companion planting ay nagpapataas ng natural na biodiversity sa hardin. Ang companion planting ay isang magandang paraan upang magamit ang espasyo nang mahusay. Ang mga halaman ay maaaring tumubo sa mga kapwa kapaki-pakinabang na arrangement.  
+6. **Tubers**  
+   Makakapal na tangkay sa ilalim ng lupa na walang tunic o basal plate, maraming nodes o "mata" na pinagmumulan ng usbong sa ibabaw.  
+   - Halimbawa: Jerusalem artichoke, yam, patatas, singkamas
 
-#### Mga Halimbawa ng Companion Planting  
-- **Chenopodiaceae** – beets, spinach, chard; **Mga Kasama:** bush beans, lettuce, sibuyas, radish  
-- **Brassicas** – radish, turnip, rutabaga, broccoli, cabbage, cauliflower, brussels sprout, kale, kohlrabi; **Mga Kasama:** green onions  
-- **Umbellifers** – carrots, parsnips, (celery, fennel, cumin, parsley, cilantro, dill); **Mga Kasama:** beets, spinach, sibuyas, chives  
-- **Solanaceae** – patatas, kamatis, bell peppers, chili pepper, eggplant; **Mga Kasama:** sweetpotato, horseradish, bawang, peas, thyme  
-- **Alliums** – bawang, leek, sibuyas, shallots, scallion, chives; **Mga Kasama:** beets, carrot, lettuce, kamatis  
-- **Convolvulaceae** – sweetpotato; **Mga Kasama:** parsnips, beets, bush beans, thyme, oregano  
+---
 
-## Mga Mapagkukunan  
-- Easy Gardening Series-Texas A &amp; M AgriLife Extension Service  
-[https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)  
-- Root Crops  
-[https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)  
-- The Underground Vegetable  
-[https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)  
+## Pagtatanim ng Root Crops
 
-_Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang ekspresyon ng kasarian), oryentasyong sekswal, kapansanan, edad, marital status, familial/parental status, kita mula sa pampublikong tulong, paniniwalang pulitikal, impormasyon ng genetic, katayuan ng beterano, pagganti o paghihiganti para sa dating aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)_
+### Mga Kailangan sa Garden Bed para sa Root Crops
+
+Pinakamabuting tumutubo ang root crops sa bukas, maaraw na lugar na may sandy loam at peat soils. Ang pagdagdag ng organikong materyal ay makatutulong sa mabigat na clay na lupa. Kapag maaaring trabahuhin ang lupa, paluwagin ang unang 7–8 pulgada ng lupa at ihalo ang compost, coconut coir, o commercial na raised bed soil. Ang magaan at maluwag na lupa na kayang maghawak ng tubig ang pinakamaganda para sa root crops.
+
+Ang tamang pH ng lupa ay mula 6 hanggang 8, depende sa uri ng root crop. Bago magtanim, ikalat ang isang libra ng pre-plant fertilizer (tulad ng 20-20-20) sa bawat 100 square feet o gumamit ng nabulok na dumi ng hayop at compost para sa magandang tubo ng lahat ng pananim na ito.
+
+---
+
+### Mga Peste ng Root Crops
+
+Mga insektong peste:
+- **Root maggots** sa turnip, rutabaga, at labanos
+- **Leafminers** sa beets
+- **Carrot rust flies** o **leafhoppers** sa carrots at parsnips
+
+Iba pang karaniwang peste:
+- **Aphids**, **flea beetles**, at **white flies** sa ilalim ng dahon
+- **Slugs** at **snails** na sumisira sa mga bagong usbong at batang halaman
+
+**Mga paraan ng pag-iwas:**
+- Protektahan gamit ang harang o pain
+- Regular na pagmamasid, row covers, traps, at pisikal na pagtanggal
+- Companion planting para itaboy ang mga insekto
+
+**Mga mammal na peste:**
+- Kuneho, daga, usa, o ardilya na kumakain ng dahon at naghuhukay sa lupa
+- Gophers at kuneho na kumakain ng mga ugat
+
+**Mga paraan ng pag-iwas:**
+- Wire mesh na ibinaon mula ilalim ng garden bed hanggang ibabaw ng lupa
+- Pinong bakod o kulungan sa paligid para hindi mapasok ng mga hayop
+
+---
+
+### Pagpapalit-palit ng Itatanim na Root Crops (Crop Rotation)
+
+Mahalaga ang pag-unawa sa pamilya ng halaman at pagpapalit-palit ng tanim para sa kalusugan at produksyon ng halaman. Ang taunang pagpapalit ng lugar ng pagtatanim ay nakakaiwas sa pagdami ng peste at sakit sa lupa at mas napapakinabangan ang sustansya ng lupa.
+
+Ang apat na taong cycle ng crop rotation ay nakakatulong maiwasan ang problema, mapalakas ang lupa, at mapabuti ang produksyon ng root crops. Ang crop rotation at companion planting ay nagpapataas ng natural na biodiversity sa hardin. Ang companion planting ay magandang paraan para magamit nang husto ang espasyo, pinapayagan ang mga halaman na tumubo nang may benepisyo sa isa’t isa.
+
+#### Mga Pamilya ng Halaman at Kaakibat
+
+- **Chenopodiaceae**: Beets, spinach, chard  
+  - Kaakibat: Bush beans, lettuce, sibuyas, labanos
+
+- **Brassicas**: Labanos, turnip, rutabaga, broccoli, repolyo, cauliflower, brussels sprout, kale, kohlrabi  
+  - Kaakibat: Green onions
+
+- **Umbellifers**: Carrots, parsnips, celery, fennel, cumin, parsley, cilantro, dill  
+  - Kaakibat: Beets, spinach, sibuyas, chives
+
+- **Solanaceae**: Patatas, kamatis, bell peppers, siling labuyo, talong  
+  - Kaakibat: Kamote, horseradish, bawang, peas, thyme
+
+- **Alliums**: Bawang, leek, sibuyas, shallots, scallion, chives  
+  - Kaakibat: Beets, carrot, lettuce, kamatis
+
+- **Convolvulaceae**: Kamote  
+  - Kaakibat: Parsnips, beets, bush beans, thyme, oregano
+
+---
+
+## Mga Sanggunian
+
+- [Easy Gardening Series - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
+- [Root Crops](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
+- [The Underground Vegetable](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
+
+---
+
+#### Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansa ng pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyon ng genetika, katayuan bilang beterano, paghihiganti o pagganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

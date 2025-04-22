@@ -1,47 +1,114 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khibradda leh ee Clackamas County · Iskaashi iyo Taageero Barnaamijka OSU Extension Master Gardener™
 
-Ururka Clackamas County Master Gardener oo iskaashanaya oo taageeraya Barnaamijka Master Gardener™ ee OSU Extension.
+## Hordhac Ku Saabsan Korinta Khudaarta Xididka ah
 
-## Hordhac ku saabsan Korinta Dalagyada Xididka
+Khudaarta xididka ah waxay meel muhiim ah ka leedahay beeralayda khudaarta. Waa kuwa ugu horreeya iyo kuwa ugu dambeeya ee la goosto, waxaana suurtagal ah in aad sii haysato ilaa xilliga jiilaalka haddii aad si fiican ugu kaydiso guriga. Khudaartan waxay ku fiican yihiin beerta maxaa yeelay meel yar ayay ka qaataan, muddo dheer ayaa la goosan karaa, waxayna soo saaraan cunto tamar badan leh. Waxay si fiican ugu koraan sariiraha kor loo qaaday, dhulka tooska ah, iyo beero weel lagu beero.
 
-Dalagyada xididka waxay ku leeyihiin meel muhiim ah beerta khudradda. Waxay ka mid yihiin khudradda ugu horreysa iyo ugu dambeysa ee la goosto, waxaana lagu hayn karaa guriga si aad u hesho sahay cusub xilliga jiilaalka. Dalagyadan sidoo kale waa kuwo ku habboon maxaa yeelay waxay ka qaataan boos yar beerta, waxaa la goosan karaa muddo dheer, waxayna soo saaraan cunto tamar badan leh. Waxay si wanaagsan ugu koraan sariiraha kor loo qaaday, dhulka hoostiisa iyo jardiinooyinka weelasha lagu koriyo. Taariikhaha beerta waxay xusaan dalagyada xididka oo ay hore u korin jireen ilbaxnimadii hore ee Yurub ee Mediterranean-ka, Aasiya, Afrika, Oceania iyo Koonfurta Ameerika. Kaliya inaad ogaato in beetada, karootada, turnips-ka, baradhada, baradhada macaan, basasha, iyo parsnips-ka ay caan ahaayeen in ka badan 5,000 sano ayaa wax badan ka sheegaysa; dalagyada xididka way badbaadeen maxaa yeelay way fududahay in la beero oo waa dhadhan fiican.
+Taariikhaha beeralayda waxay sheegayaan in khudaarta xididka ah lagu beeri jiray ilbaxnimadii hore ee Yurubta Mediterranean, Aasiya, Afrika, Oceania, iyo Koonfurta Ameerika. In la ogaado in dabocase, karootada, turnibka, baradhada, baradhada macaan, basal, iyo pastinaca ay caan ahaayeen in ka badan 5,000 sano waxay inoo sheegaysaa wax muhiim ah: khudaarta xididka ah waxay u adkeysatay maxaa yeelay way fududahay in la beero waana macaan in la cuno.
 
-"Khudradda xididka" waa qayb ka mid ah jikada, ma ahan mid botani ah. Botanigu wuxuu kala saaraa xididada dhabta ah sida xididada asliga ah iyo xididada tuberous-ka marka loo eego kuwa aan ahayn xididka ama geophytes sida bulbs, corms, rhizomes, iyo tubers.
+"Khudaar xidid ah" waa qaybo laga kala saaro jikada, ma aha qayb cilmiga dhirta ah. Cilmiga dhirta wuxuu kala saaraa xididada dhabta ah sida xididka tooska ah iyo xididada baruurta leh, kuwa aan xididka ahayn sida bulbooyinka, corms, rhizomes, iyo tubers.
 
-## Noocyada Dalagyada Xididka
+---
 
-1. **Bulbs**: Waxay kaydiyaan tamarta dhirta lakabyo buuran oo kor ama hoos dhulka. Tusaalooyinka: basasha, toonka, leek, shallots.
-2. **Corms**: Waa jirrid dhirta oo buuran oo hoos dhulka ku kaydisa biyo, tamar, iyo nafaqo si dhirta ay u tarmaan oo u badbaadaan. Tusaalooyinka: taro, chestnut-ka biyaha.
-3. **Rhizomes**: Waa jirrid dhirta ugu weyn oo si toosan hoos dhulka ama dusha ciidda u koraysa. Waxay leeyihiin nodes-ka soo saara laamo. Tusaalooyinka: sinjibiil, asbaragas.
-4. **Taproots**: Waxay kaydiyaan tamarta dhirta qaab goobo adag ama xidido cylindrical ah. Tusaalooyinka: beetada, karootada, daikon radish, parsnips, radish, rutabaga, turnips.
-5. **Tuberous Roots**: Waa xidido isbeddelay oo weyn oo dhirta u kaydiya cunto. Badanaa waxay ku urursan yihiin saldhigga jirridda iyagoo leh hal barta koritaanka. Tusaalooyinka: baradhada macaan, cassava.
-6. **Tubers**: Waa jirrid dhulka hoos yaal oo buuran oo aan lahayn tunic ama basal plate, waxayna leeyihiin nodes badan oo "indho" ah oo soo saara laamo dusha tuber-ka. Tusaalooyinka: Jerusalem artichoke, yam, baradho, jicama.
+## Noocyada Khudaarta Xididka ah
 
-## Korinta Dalagyada Xididka
+1. **Bulbooyin**  
+   Waxay kaydiyaan tamarta dhirta iyagoo leh lakabyo baruur leh, kor ama hoos dusha dhulka.  
+   - Tusaale: basal, toon, leek, shallot
 
-### Shuruudaha Sariirta Beerta ee Dalagyada Xididka
+2. **Corms**  
+   Waa laamo dhirta hoose ka baxa oo leh starch, waxayna kaydiyaan biyo, tamar, iyo nafaqo si ay dhirtu u taranto oo u badbaado.  
+   - Tusaale: taro, chestnut biyo
 
-Dalagyada xididka waxay si fiican ugu koraan goob furan oo qorrax leh oo leh ciidda loamy ah iyo peat. Ku daridda maaddooyinka dabiiciga ah waxay hagaajin kartaa ciidda culus ee dhoobada leh. Marka ciiddu ay shaqayn karto, dabci 7-8 inch ee ugu sarreeya ciidda oo ku dar compost, coconut core, ama ciidda sariirta kor loo qaaday ee ganacsiga. Ciidda iftiin leh oo jilicsan oo hayn karta qoyaanka ayaa ku habboon korinta dalagyada xididka. pH-ga ugu wanaagsan ee ciidda wuxuu ku kala duwan yahay 6 ilaa 8, iyadoo ku xiran nooca dalagga xididka. Ka hor inta aan la beerin, ku faafi hal rodol oo bacriminta pre-plant ah (sida 20-20-20) 100 square feet kasta ama manure xayawaanka ee gabowday iyo compost si wanaagsan loogu koro dhammaan dalagyadan.
+3. **Rhizomes**  
+   Waa laan dhirta ah oo si toosan hoosta dhulka uga baxda ama dhulka korkiisa mara. Waxay leeyihiin xirmooyin soo saara laamayaal.  
+   - Tusaale: ginger, asparagus
 
-### Cayayaanka Dalagyada Xididka
+4. **Xididada Tooska ah (Tap Roots)**  
+   Waxay kaydiyaan tamarta dhirta iyagoo ah xididyo adag ama wareegsan.  
+   - Tusaale: dabocase, karootada, daikon radish, pastinaca, radish, rutabaga, turnib
 
-Cayayaanka cayayaanka waxaa ka mid ah maggot-ka xididka ee turnips-ka, rutabaga iyo radish; leafminers-ka ee beetada; iyo duqsiyada miridhka karootada ama leafhoppers ee karootada iyo parsnips-ka. Aphids, cayayaanka flea, iyo duqsiyada cad waxay caadi ahaan ku yaalliin hoosta caleemaha. Dhurwaaga iyo qolofta waxay burburin karaan geedo yar iyo geedo da' yar. Ku ilaali caqabadaha ama baits-ka. Kormeer joogto ah, daboolka safka, dabinnada, iyo ka saarista jirka, waa xalal ku habboon beerta guriga. Tallaabooyinka ka hortagga ee beerta isku dhow ayaa caawin kara in cayayaanka laga fogeeyo. Cayayaanka xayawaanka waxaa ka mid noqon kara bakaylaha, jiirka, deerada ama squirrels-ka oo cunaya caleemaha iyo qodista ciidda, halka gophers-ka iyo bakaylaha ay cunaan xididada. Tallaabooyinka ka hortagga ee mesh birta oo si qoto dheer loogu aasay sariirta beerta ilaa dusha sare iyo xayndaabyo wanaagsan/cage ayaa ka hortagi kara xayawaanka dhibka badan.
+5. **Xididada Baruurta leh (Tuberous Roots)**  
+   Waa xididyo la beddelay oo waaweyn oo dhirta u kaydiya cunto. Badanaa waxay isugu tagaan salka laanta dhirta oo hal meel ka baxa.  
+   - Tusaale: baradhada macaan, cassava
 
-### Wareegga Dalagyada Xididka
+6. **Tubers**  
+   Waa laamo dhirta hoose ka baxa oo dhumuc leh, aan lahayn dabool ama basal plate, waxayna leeyihiin meelo badan ("indho") oo ubaxyo ka soo baxaan.  
+   - Tusaale: Jerusalem artichoke, yicib, baradho, jicama
 
-Fahamka qoysaska dhirta iyo wareegga dalagyada ayaa muhiim u ah caafimaadka iyo wax-soo-saarka dhirta. Farsamada sanadlaha ah ee beerista khudradda midba midka kale ee meelo kala duwan oo beerta ah waxay ka fogaan doontaa ururinta cayayaanka dhulka ku dhashay iyo cudurrada waxayna si fiican u isticmaali doontaa nafaqooyinka ciidda. Dhaqdhaqaaqa sanadlaha ah ee dalagyada iyo wareegga afar sano ah, wuxuu ka caawin doonaa ka hortagga dhibaatooyinka, xoojinta ciidda, iyo kor u qaadista wax-soo-saarka dalagyada xididka. Farsamada wareegga dalagyada iyo beerta isku dhow waxay kordhisaa noocyada dabiiciga ah ee kala duwan ee beerta. Beerta isku dhow waa hab fiican oo si hufan loo isticmaalo booska. Dhirta waxay ku kori karaan habab kala faa'iido leh.
+---
 
-- **Chenopodiaceae** – beetada, spinach-ka, chard; Saaxiibbada: bush beans, lettuce, basasha, radish.
-- **Brassicas** – radish, turnip, rutabaga, broccoli, cabbage, cauliflower, brussels sprout, kale, kohlrabi; Saaxiibbada: basasha cagaaran.
-- **Umbellifers** – karootada, parsnips-ka, (celery, fennel, cumin, parsley, cilantro, dill; Saaxiibbada: beetada, spinach-ka, basasha, chives.
-- **Solanaceae** – baradhada, yaanyada, bell peppers, chili pepper, eggplant; Saaxiibbada: baradhada macaan, horseradish, toonka, peas-ka, thyme.
-- **Alliums** – toonka, leek, basasha, shallots, scallion, chives; Saaxiibbada: beetada, karootada, lettuce, yaanyada.
-- **Convolvulaceae** – baradhada macaan; Saaxiibbada: parsnips-ka, beetada, bush beans, thyme, oregano.
+## Korinta Khudaarta Xididka ah
 
-## Khayraadka
+### Shuruudaha Sariiraha Beerta ee Khudaarta Xididka ah
 
-- **Easy Gardening Series** - Texas A&M AgriLife Extension Service: [aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
-- **Root Crops** - [ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
-- **The Underground Vegetable** - [washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
+Khudaarta xididka ah waxay aad ugu koraan meel furan oo qoraxdu si toos ah u saarto, oo leh ciid is haysta oo carro ciid leh ama peat ah. Ku darida walxo organic ah waxay ka dhigtaa ciidda cufan mid fiican. Marka ciidda la shaqayn karo, jilci 7–8 inch ee sare ee ciidda kuna dar compost, coconut coir, ama ciid sariir beero ganacsi ah. Carro khafiif ah oo qoyaan hayn karta waa tan ugu fiican ee lagu koriyo khudaarta xididka ah.
 
-Oregon State University Extension Service waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeeggeeda, hawlaheeda, iyo agabkeeda iyadoo ku saleysan jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), isirka, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helay barnaamijka kaalmooyinka dadweynaha, caqiidooyinka siyaasadeed, macluumaadka hidde-sideyaasha, xaaladda askarta, aargoosasho ama aargoosasho ka dhashay hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+pH-ga ugu fiican ee ciidda wuxuu u dhexeeyaa 6 ilaa 8, iyadoo ku xiran nooca khudaarta xididka ah ee la beerayo. Ka hor intaadan beerin, ku dar hal rodol oo bacriminta ah (sida 20-20-20) halkii 100 feet labajibbaaran ama isticmaal digada xoolaha oo duug ah iyo compost si loo helo koboc fiican oo dhammaan khudaartan ah.
+
+---
+
+### Cayayaanka Khudaarta Xididka ah
+
+Cayayaanka waxyeelleeya waxaa ka mid ah:
+- **Root maggots** oo waxyeelleeya turnib, rutabaga, iyo radish
+- **Leafminers** oo beets ku dhaca
+- **Carrot rust flies** ama **leafhoppers** oo karootada iyo pastinaca ku dhaca
+
+Cayayaanka kale ee caamka ah:
+- **Aphids**, **flea beetles**, iyo **white flies** oo ka hooseeya caleemaha
+- **Slugs** iyo **snails** oo cunaya miraha iyo dhirta yar yar
+
+**Tallaabooyinka ka hortagga:**
+- Ka ilaali cayayaanka adigoo isticmaalaya xayndaabyo ama sun
+- Kormeer joogto ah, daboolid safaf ah, dabin, iyo si gacanta ah u saarid
+- Dhir la beero is barbar socda si ay uga cabsadaan cayayaanka
+
+**Xayawaanka waxyeelleeya:**
+- Bakaylaha, jiirka, deerada, ama doofaarada duurjoogta ah oo cunaya caleemaha ama qodaya ciidda
+- Gophers iyo bakaylaha oo xididka goosta
+
+**Tallaabooyinka ka hortagga:**
+- Mesh bir ah oo si qoto dheer hoosta beerta looga qodo ilaa dusha sare
+- Xayndaab adag ama sanduuq ku wareegsan si looga ilaaliyo xayawaanka
+
+---
+
+### Wareejinta Dalagga Khudaarta Xididka ah
+
+Fahanka qoysaska dhirta iyo wareejinta dalagga waa muhiim si loo helo dalag caafimaad leh iyo wax-soosaar fiican. Dalagga oo sanad walba meel cusub lagu beero waxay ka hortagtaa in cayayaanka iyo cudurrada ciidda ku ururaan waxayna ka dhigtaa nafaqada ciidda mid si fiican loo isticmaalo.
+
+Wareejinta dalagga afar sano ah waxay ka hortagtaa dhibaatooyin, waxayna xoojisaa ciidda, taasoo keenta wax-soosaar fiican oo khudaarta xididka ah ah. Wareejinta dalagga iyo dhirta xiga ee la beero waxay kordhiyaan kala duwanaanshaha dabiiciga ah ee beerta. Dhirta is xigta waa hab fiican oo meel lagu badbaadiyo, dhirtaana waxay is caawiyaa marka la isku beero.
+
+#### Qoysaska Dhirta iyo Kuwo la Weheliyo
+
+- **Chenopodiaceae**: beets, spinach, chard  
+  - Kuwo la weheliyo: digir gaaban, lettuce, basal, radish
+
+- **Brassicaceae**: radish, turnib, rutabaga, broccoli, cabbage, cauliflower, brussels sprout, kale, kohlrabi  
+  - Kuwo la weheliyo: basal cagaaran
+
+- **Umbellifers**: karootada, pastinaca, celery, fennel, cumin, parsley, cilantro, dill  
+  - Kuwo la weheliyo: beets, spinach, basal, chives
+
+- **Solanaceae**: baradho, yaanyo, basbaas, basbaas kulul, eggplant  
+  - Kuwo la weheliyo: baradhada macaan, horseradish, toon, digir, thyme
+
+- **Alliums**: toon, leek, basal, shallots, basal cagaaran, chives  
+  - Kuwo la weheliyo: beets, karootada, lettuce, yaanyo
+
+- **Convolvulaceae**: baradhada macaan  
+  - Kuwo la weheliyo: pastinaca, beets, digir gaaban, thyme, oregano
+
+---
+
+## Ilo Dheeraad ah
+
+- [Taxanaha Beeralayda Fudud - Texas A&M AgriLife Extension Service](https://aggie-horticulture.tamu.edu/vegetable/easy-gardening-series/)
+- [Khudaarta Xididka](https://ag.umass.edu/sites/ag.umass.edu/files/fact-sheets/pdf/root_crops.pdf)
+- [Khudaarta Hoos-dhulka ku jirta](https://washingtoncountymastergardeners.org/wp-content/uploads/2024/04/Root-Crops-Vegetable-Underground.pdf)
+
+---
+
+#### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabkeeda iyadoo lagu saleynayo: jinsiyadda, midabka, asal qaran, diinta, jinsi, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), galmo, naafonimo, da', xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka yimaada barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidaha, xaaladda duqa ah, ama aargoosi ama ciqaab loo geystay qof hore u qaatay hawlaha xuquuqda madaniga ah. (Dhammaan xeerarka mamnuuca ma khuseeyaan dhammaan barnaamijyada.)
+---

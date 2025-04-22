@@ -1,109 +1,154 @@
-Jaamacadda 10-Daqiiqo™  
-Ururka Beeralayda Sare ee Clackamas County oo iska kaashaday oo taageeraya  
-Barnaamijka OSU Extension Master Gardener™  
+#### 10-Daqiiqo Jaamacad™ · Ururka Beeralayda Master-ka ah ee Clackamas County oo iskaashanaya una adeegaya Barnaamijka OSU Extension Master Gardener™
 
-Beeraleyda Dhulka Dhoobada ah  
-**Hordhac**  
-Dhulka wuxuu ka samaysan yahay dhagaxyo burburay iyo walxo dabiici ah. Dhul caafimaad qaba, marka la fiiriyo mugga, waa inuu ka kooban yahay 45% macdano dhagax ah, 5% walxo dabiici ah, iyo 50% meel bannaan oo loogu talagalay biyaha iyo hawada. Shaqooyinka muhiimka ah ee dhulka waxaa ka mid ah:  
-- Hoy u ah noolaha sida bakteeriyada, fungi, nematodes, protozoa, iyo quraanjada dhulka;  
-- Xoog u siiya xididdada dhirta;  
-- Ilaha nafaqada si ay u taageeraan koritaanka dhirta; iyo  
-- Meel kayd iyo nadiifinta biyaha.  
+# Beerashada Dhulka Dhoobada ah
 
-Dhulka waxaa ka kooban ciid, dhoobo, iyo dhoobo dhagax ah. Qaybaha ciidda waa kuwo indhaha lagu arki karo oo dareemaya qallafsan halka qaybaha dhoobada ay ka yar yihiin oo dareemaya siman. Labaduba waxay u eg yihiin dhagaxyo yaryar. Qaybaha dhoobada lama arki karo indhaha caadiga ah waxayna inta badan yihiin kuwo fidsan. Dhulalka badankoodu waa isku-dar ciid, dhoobo, iyo dhoobo. Loam waa isku-dar qaybahaas oo dhamaan si isku dheellitiran.  
+### Hordhac
 
-Qaabka ciidda waxay ka tarjumaysaa saamiga ciid, dhoobo, iyo dhoobo; qaab-dhismeedka ciidda ee wanaagsan wuxuu ku tiirsan yahay noolaha dhulka (bakteeriyada iyo fungi) iyo humus (walxo dabiici ah oo burburay) si ay ugu xiraan qaybaha dhulka oo ay u sameeyaan qaybo dhismeedka dhulka.  
+Dhulku wuxuu ka samaysmaa dhagaxyo burburay iyo walxo nool oo qudhmay. Dhul caafimaad qaba, marka la cabbiro, waa in uu ka kooban yahay:
+- **45% macdano dhagax ah**
+- **5% walxo nool oo qudhmay**
+- **50% meel bannaan** oo biyo iyo hawada galaan
 
-### Sifooyinka Dhulka Dhoobada ah Marka la Barbardhigo Noocyada Kale  
-| Dhulka Loam | Loam Ciideed | Loam Dhoobo | Dhulka Dhoobo/Dhoobo Loam |  
-|---------------|---------------|--------------|----------------|  
-| **Awoodda Haynta Biyaha**: Dhexdhexaad | Hoose-Dhexdhexaad | Sare | Sare |  
-| **Fertility**: Dhexdhexaad | Hoose | Dhexdhexaad | Sare |  
-| **Permeability**: Dhexdhexaad | Sare | Hoose-Dhexdhexaad | Hoose |  
-| **Dareen**: — | Qallafsan | Siman, la qaabeeyo marka qoyan laakiin aan dheg lahayn | Adag marka qalalan, dheg leh marka qoyan, loo qaabeeyo xargo |  
+Shaqooyinka muhiimka ah ee dhulka waxaa ka mid ah:
+- Hoy u ah makhluuqaadka yaryar sida bakteeriyada, fangaska, nematoodka, protozoa, iyo doogga dhulka
+- Xoog u noqda xididdada dhirta
+- Kayd nafaqo si ay dhirtu u korto
+- Meel lagu kaydiyo oo lagu nadiifiyo biyaha
 
-### Maxay Sayniska Dhulka ka Sheegaysaa?  
-**Fertility**  
-- Dhulka dhoobada ah wuxuu hodan ku yahay nafaqada dhirta. Qaybaha dhoobada waxay sitaan culeysyo taban oo haysta qaybaha culeyska leh ee togan sida kalsiyum, potassium, magnesium, birta, iyo nafaqada kale ee dhirta.  
+Carro, ciid, iyo dhoobo waa qaybaha macdanta ee dhulka:
+- **Carro** waa la arki karaa, waana jilicsan marka la taabto.
+- **Ciid** waa ka yar tahay carro, waxay la mid tahay bur cad oo dareen siman leh.
+- **Dhoobo** lama arki karo indhaha oo waa siman ama fidsan.
 
-**Permeability**  
-- Dhulka qoyan iyo midka leh qaab-dhismeedka wanaagsan (kuwa culus oo leh dhoobo ama dhoobo) si fudud ayay u yaraadaan. Dhulalka yaraaday waxay leeyihiin qaybo dhulka oo fidsan kuwaas oo xannibaya dhaqdhaqaaqa biyaha iyo xididdada. Dhulka dhoobo ee yaraaday way adag tahay in dib loo hagaajiyo.  
-- Dhulka caafimaad qaba wuxuu leeyahay meel bannaan oo badan oo u dhexeeya qaybo dhulka (macropores) si ay u taageeraan dhaqdhaqaaqa biyaha, gaaska, iyo xididdada. Meel bannaan oo badan waxay keentaa biyo-marin wanaagsan.  
+Dhulka badankiisu waa isku-dar carro, ciid, iyo dhoobo. **Loam** waa dhul ka kooban qiyaas isku mid ah oo saddexdan ah.
 
-**Awoodda Haynta Biyaha**  
-- Meelaha yaryar ama micropores (meesha ka dhex jirta qayb dhulka) waxay siinayaan dhulka awoodda haynta biyaha.  
-
-**Dhibaatada Dhulka**  
-- Qodista iyo qalitaanka waxay burburiyaan qaybo dhulka, laakiin waxay hawada gelisaa macropores. Qalitaan xad-dhaaf ah wuxuu yareeyaa shaqada fungal hyphae, wuxuu dilaa nematodes-ka faa'iido leh, wuxuuna caadi ahaan keenaa dhul yaraaday.  
-
-**Nolosha Dhulka**  
-- Dhulka wuxuu hodan ku yahay noolaha — kuwa badan oo faa'iido u leh dhirta. Dhulka oo leh heerar sare oo walxo dabiici ah waxay u badan tahay inay leeyihiin microorganisms badan. Microorganisms-ka dhulka waxay aad u firfircoon yihiin inta u dhaxaysa 70°F ilaa 100°F halka quraanjada dhulka ay aad u firfircoon yihiin qiyaastii 50°F.  
-
-- Xididdada dhirta waxay soo daayaan walxo loo yaqaan exudate oo ka kooban sonkor, fiitamiinno, oxygen, iyo walxo kale. Exudate waxay soo jiidataa microorganisms-ka dhulka agagaarka xididdada dhirta. Daraasado waxay muujinayaan in walxaha exudate ay kala duwan yihiin iyadoo ku xiran nooca dhirta waxayna qaabeeyaan bulshada fungal-ka ee agagaarka dhirta.  
-
-**Microorganisms-ka Faa'iido Leh**  
-- Bakteeriyada Rhizobia waxay qabataa nitrogen-ka hawada si loo isticmaalo dhirta.  
-- Nematodes-ka faa'iido leh waa kuwo aad u nugul marka la waxyeeleeyo waxaana badanaa lagu dilaa qalitaanka, taas oo inta badan waxyeelaysa shabakadda cuntada dhulka ee dhulka dhibaatoobay.  
-- Fungi badan oo kala duwan waxay sameeyaan xiriir faa'iido leh (oo loo yaqaan mycorrhizae) xididdada dhirta. Fungal hyphae waxay u shaqeeyaan sida xididdo dhaadheer si ay u helaan biyo iyo nafaqada dhulka ee dhirta. Mycorrhizae sidoo kale waxay hagaajiyaan qaab-dhismeedka dhulka iyagoo isku ururinaya qaybaha dhulka si ay u sameeyaan qaybo dhulka.  
-
-### Sida Loo Maamulo Dhulka Dhoobada ah  
-**Tijaabi Dhulkaaga**  
-- Kahor intaadan ku darin waxyaabaha lagu daro, tijaabi dhulkaaga. Bacriminta kaliya haddii tijaabada dhulka ay muujiso yaraanta ama dhirtu aysan si fiican u koraan. Xusuusnow in dhoobada ay hodan ku tahay nafaqooyinka. Dooxada Willamette, geedaha badankooda, geedaha yaryar, iyo dhirta sanadlaha ah uma baahna bacriminta dheeraadka ah.  
-
-**Ku Hay Xididdada Nool ee Koraya**  
-- Dhirta nool waxay soo jiidaan tamarta qorraxda waxayna taageeraan bulshada microorganisms-ka dhulka iyagoo adeegsanaya exudates-ka xididdada. Daraasadaha waxay muujinayaan in exudates-ku ay qaabeeyaan qaabka microbes-ka dhulka. Korinta noocyo kala duwan oo dhir ah waxay kordhisaa kala duwanaanshaha nolosha dhulka taasoo ka caawisa dhisidda dhulka caafimaadka qaba.  
-
-**Yaree Dhibaatada**  
-- Wax kasta oo dhibaataynaya dhulka (ku socodka, qodista, qalitaanka) waxay burburiyaan ama yaraadaan qaybo dhulka waxayna yareeyaan meel bannaan oo muhiim u ah permeability iyo awoodda haynta biyaha.  
-
-**Ku Dabool Dhulka**  
-- Mulch isticmaalo si loo dheellitiro heerkulka dhulka, loo yareeyo biyaha baxa, iyo loo yareeyo koritaanka haramaha. Mulch dabiici ah wuxuu burburayaa wuxuuna ku daraa walxo dabiici ah dhulka — waxyaabaha qaro weyn waxay ogolaadaan socodka hawada halka walxaha cufan, sida kartoonka, ay xannibaan is-weydaarsiga gaaska. Qaybo alwaax ah oo ka yimid geedaha (4-6") waa mulch wanaagsan — waxay ogolaadaan socodka hawada waxayna si tartiib ah u burburiyaan si ay ugu daraan walxo dabiici ah dhulka.  
-
-**Ku Quudi Microbes-ka Dhulka**  
-- Walxo dabiici ah (OM) waa salka shabakadda cuntada dhulka; ku darista OM waxay quudisaa microbes-ka dhulka. Dooro nooc si sax ah loo compost-gareeyay oo aan ku jirin sifooyin aan loo baahnayn sida cusbada ama biraha culus. OM sida caleemo compost-gareeyay iyo qashinka beerta waxaa lagu dari karaa ama lakab yar oo 1/2 ilaa 1" ah waa la dul dhigi karaa si loo abuuro deegaan u roon dhaqdhaqaaqa microbes-ka.  
-
-**Samee Meel Beero Xilli Ciyaareedkan**  
-- Haddii aad u baahan tahay meel cusub oo loogu talagalay dhirta sanadlaha ah, ku dar compost OM dhammaan meelaha dhirta. Tani waa inay ku siiso faa'iidooyin degdeg ah oo dhulka la shaqeyn karo iyo bacrin sare. Si kastaba ha ahaatee, faa'iidooyinkaas waa kuwo ku meel gaar ah sababtoo ah OM si degdeg ah ayuu u burburayaa, nafaqooyinka aan la isticmaalin waxay u badan tahay inay lumiyaan, dhulkuna wuu degi doonaa.  
-
-**Isbeddelka Laga Sameeyay Waayadii Hore**  
-- Hal-ku-dhigga "Kaliya Ku Dar Walxo Dabiici ah!" sida xalka hagaajinta dhoobada ayaa la beddelay. Waayadii hore, waxaan ku talinay ku darista hore ee 2-4" OM oo ay weheliso tiro yar oo dheeraadka ah. Tani way is bedeshay. Daraasadaha cusub ee beero magaalooyinka oo OM lagu daray sannado badan waxay muujinayaan heerar aan caafimaad qabin oo fosfooraska iyo OM ah. Heer fosfooraska sare wuxuu xannibaa dhirta inay qaadato birta iyo horumarinta mycorrhizae faa'iido leh, wuxuuna ka qayb qaataa wasakheynta webiyada. Haddii aad ka iibsanayso OM ilo ganacsi, Waaxda Beeraha Oregon waxay baartaa OM si ay u ogaato waxa ku jira nafaqada. Hubi inaad iibsato OM oo leh fosfooraska hoose haddii aad muddo dheer ku dartay OM dhulkaaga.  
+Qaabka dhulka wuxuu ka tarjumayaa sida ay carro, ciid, iyo dhoobo u badan yihiin. Dhisme dhul oo wanaagsan wuxuu ku tiirsan yahay noolaha dhulka (bakteeriyo iyo fangas) iyo humus (walxo nool oo qudhmay) kuwaas oo isku dhejiya qaybaha dhulka si ay u sameeyaan **peds**, kuwaas oo ah qaybaha dhismaha dhulka.
 
 ---
 
-### Waxbadan Ka Baro Dhulka  
-**Daabacadaha**  
-Daabacadaha Adeegga Oregon State University Extension https://catalog.extension.oregonstate.edu/  
-- Hagaha Ururinta Muunada Dhulka, EC628  
-- Mabaadi'da Caafimaadka Dhulka, EC1647  
-- Shaybaarrada Falanqaynta ee Adeegga Oregon, EM8677  
-- Ku Daro Lime si Loo Kordhiyo PH-ka Dhulka ee Wax-soo-saarka Dalagyada, EM9057  
+### Sifooyinka Dhulka Dhoobada ah marka la barbardhigo kuwa kale
 
-Daabacadaha Adeegga Washington State University Extension https://pubs.extension.wsu.edu/extension-publications  
-- Dhirta Daboolka Beeralayda Guriga ee Galbeedka Cascades, FS111E  
-- Hagaha Beeralayda Guriga ee Dhulka iyo Bacriminta, EM063E  
-- Hagaha Beeralayda ee Mycorrhizae, FS269E  
+| Sifo                     | Loam     | Sandy Loam     | Silt Loam      | Dhoobo iyo Clay Loam                              |
+|--------------------------|----------|----------------|----------------|---------------------------------------------------|
+| **Xajmiga Biyaha**       | Dhexdhexaad | Hoose - Dhexdhexaad | Sare | Sare                                              |
+| **Nafaqada**             | Dhexdhexaad | Hoose         | Dhexdhexaad    | Sare                                              |
+| **Dhexgalka Biyaha**     | Dhexdhexaad | Sare          | Hoose - Dhexdhexaad | Hoose                                         |
+| **Dareen**               | --       | Jilicsan       | Siman, la leexin karo marka qoyan laakiin aan dheg-dhegnayn | Adag marka qalalan, dheg-dhegan marka qoyan; si fudud ayaa loo leexin karaa |
 
-La Dagaallanka Khuraafaadka Dhulka ee Macallimiinta Extension: Dib u Eegidda Cilmi-baarista ee Qaab-Dhismeedka Dhulka iyo Shaqeyntiisa  
-https://www.nacaa.com/journal/index.php?jid=1024&fbclid=IwAR1vZ1tBQOXBJHjLTSSkmkIxiMpsIkfJ81TOUcCrXgzwBptLufJBzDsTUNc  
+---
 
-**Muuqaallada**  
-Mulches: Wanaagga, Xumaanta, iyo Kan Aad u Xun ee Xun, muuqaalka Jaamacadda 10-Daqiiqo™  
-https://www.youtube.com/watch?v=NXL9n2KNm1E&feature=youtu.be  
+### Maxaa Cilmiga Dhulku ina Barayaa?
 
-Muunada Dhulka Guryaha, Washington State University  
-https://www.youtube.com/watch?time_continue=305&v=0tRQUPDRiDU  
+#### Nafaqada
+- Dhulka dhoobada ah waa hodan nafaqooyinka dhirta.
+- Qaybaha dhoobada waxay leeyihiin daloolo xambaarsan koronto taban, taasoo qabata koronto togan sida kalsiyum, potassium, magnesium, bir, iyo nafaqooyin kale oo dhirta u wanaagsan.
 
-Bandhiga Caafimaadka Dhulka  
-https://video.search.yahoo.com/yhs/search;_ylt=AwrVk.PbmkheP2YANRoPxQt.;_ylu=X3oDMTByNWU4cGh1BGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzYw--?p=ray+archuleta%27s+soil+health+demo+2014+custom&fr=yhs-symantec-ext_onb&hspart=symantec&hsimp=yhs-ext_onb#id=1&vid=9dc2f4b19ef0a17fdbf63b79d0262fea&action=view  
+#### Dhexgalka Biyaha
+- Dhulka qoyan iyo midka leh dhoobo ama ciid badan si fudud ayuu isu adkeeyaa.
+- Dhul adkaaday wuxuu leeyahay peds fidsan, taasoo adkeysa in biyo iyo xididdo dhaqaajiyaan.
+- Dhulka dhoobada ah ee adkaaday waa adag tahay in la hagaajiyo.
+- Dhul caafimaad qaba wuxuu leeyahay daloolo badan oo u dhexeeya peds (**macropores**) si ay u taageeraan dhaqaaqa biyaha, hawada, iyo xididdada. Daloolo badan waxay keenaan biyo bax wanaagsan.
 
-Carbon Cowboys Dhulka https://www.youtube.com/watch?v=ZGvVli0OTrQ  
+#### Xajmiga Biyaha
+- Daloolo yaryar ama **micropores** (meesha ku jirta ped-ka) ayaa dhulka siinaya awoodda uu biyo u hayo.
 
-Laga Bilaabo Ciid ilaa Dhulka  
-https://video.search.yahoo.com/yhs/search;_ylt=AwrVk.mVYEhe9HEAagsPxQt.;_ylu=X3oDMTByNWU4cGh1BGNvbG8DZ3ExBHBvcwMxBHZ0aWQDBHNlYwNzYw--?p=gabe+brown+cover+crops&fr=yhs-symantec-ext_onb&hspart=symantec&hsimp=yhs-ext_onb#id=7&vid=bcbc67625385789d9244a52f91a2843d&action=view  
+#### Kacsanaanta Dhulka
+- Qodista iyo falidda waxay jebiyaan peds laakiin waxay hawo geliyaan daloolada waaweyn.
+- Falid badan waxay dhaawacdaa hyphae-ka fangaska, waxay dishay nematoodka wanaagsan, badanaana waxay keentaa dhul adkaada.
 
-**Websites**  
-Web Soil Survey www.websoilsurvey.sc.egov/  
+#### Noolaha Dhulka
+- Dhulku wuxuu ka buuxaa nolol, kuwaas oo badankood dhirta u fiican.
+- Dhul leh walxo nool oo badan oo qudhmay wuxuu leeyahay noolaha dhulka oo badan.
+- Noolaha dhulka wuxuu ugu firfircoon yahay inta u dhaxaysa **70°F ilaa 100°F**, halka doogga dhulka uu ugu firfircoon yahay **qiyaastii 50°F**.
 
-Jaamacadda 10-Daqiiqo™ Qoraallada iyo Muuqaallada, www.cmastergardeners.org/10-minute-university  
+#### Xididdada Dhirta iyo Dheecaanka
+- Xididdada dhirtu waxay soo saartaa walax la yiraahdo **exudate**, taasoo ka kooban sonkor, fiitamiinno, ogsijiin, iyo walxo kale.
+- Exudate-ka wuxuu soo jiitaa noolaha dhulka ee ku wareegsan xididdada dhirta.
+- Cilmi-baarisuhu waxay muujisay in walxaha exudate-ka ay kala duwan yihiin marka loo eego noocyada dhirta, taasoo saameyn ku yeelata bulshada fangaska ee ku wareegsan dhirta.
 
-Adeegga Oregon State University Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka iyadoo lagu salaynayo jinsiyadda, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), rabitaanka galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo baxa barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sideyaasha, xaaladda halyeeyga, aargudashada ama aargoosiga falka xuquuqda madaniga ee hore. (Ma aha dhammaan saldhigyada la mamnuucay waxay khuseeyaan dhammaan barnaamijyada.)  
+#### Noolaha Dhulka ee Wanaagsan
+- **Bakteeriyada Rhizobia** waxay hawada ka qabtaan nitrogen si dhirtu u isticmaasho.
+- Nematoodka faa’iidada leh aad buu ugu nugul yahay kacsanaanta dhulka, badankoodna waa la dilaa marka la falo, taasoo khalkhal galisa silsiladda cuntada dhulka.
+- Noocyo badan oo fangas ah ayaa sameeya xiriir faa’iido leh (**mycorrhizae**) oo la leh xididdada dhirta.
+  - Hyphae-ka fangaska waxay la shaqeeyaan sida timo dhaadheer oo xididdo ah si ay dhirta uga helaan biyo iyo nafaqooyin.
+  - Mycorrhizae waxay sidoo kale hagaajiyaan qaab-dhismeedka dhulka iyagoo isku dara qaybaha dhulka si ay u sameeyaan peds.
+
+---
+
+### Sida Loo Maareeyo Dhulka Dhoobada ah
+
+#### Tijaabi Dhulkaaga
+- Ka hor intaadan wax ku darin dhulkaaga, tijaabi.
+- Bacrimiya dhulkaaga oo keliya haddii tijaabadu muujiso baahi ama dhirtu si fiican u koraan.
+- Xasuuso in dhulka dhoobada ah uu hodan ku yahay nafaqooyinka.
+- Dooxada Willamette, inta badan geedaha, geedaha gaagaaban, iyo dhirta sannadlaha ah uma baahna bacriminta dheeraad ah.
+
+#### Xididdo Nool ha Korayaan
+- Dhirta nool waxay dhulka u keentaa tamarta qoraxda, waxayna taageeraan bulshada noolaha dhulka iyagoo isticmaalaya exudate-yadooda.
+- Cilmi-baarisuhu waxay muujinayaan in exudate-tu ay qaabeeyaan noocyada noolaha dhulka.
+- Noocyo kala duwan oo dhir ah oo la beero waxay kordhiyaan kala duwanaanshaha nolosha dhulka, taasoo dhisaysa dhul caafimaad qaba.
+
+#### Yaree Kacsanaanta
+- Wax kasta oo kacsiiya dhulka (sida socodka, qodista, falidda) waxay jebin kartaa ama adkeyn kartaa peds-ka, waxayna yarayn kartaa daloolada, taasoo muhiim u ah dhexgalka biyaha iyo awoodda dhulku biyo u hayo.
+
+#### Dabool Dhulkaaga
+- Mulch u isticmaal si aad u xakameyso heer-kulka dhulka, u yarayso biyo lumiska, una yarayso haramaha.
+- Mulch-ka organic-ga ah waa uu qudhmaa oo wuxuu kordhiyaa walxo nool oo dhulka ah.
+  - Qalabka adag wuxuu ogolaanayaa hawo socod, halka walxo cufan, sida kartoon, ay xannibaan is-weydaarsiga gaaska.
+  - Qoryaha la jaray ee beerta (4-6”) waa mulch fiican – waxay ogolaanayaan hawo socod waxayna si tartiib ah ugu darsamaan dhulka.
+
+#### Quudi Noolaha Dhulka
+- Walxaha nool ee qudhmay (**OM**) waxay saldhig u yihiin silsiladda cuntada dhulka; ku darista OM waxay quudisaa noolaha dhulka.
+- Dooro qaab walxo nool oo si fiican loo qudhmiyay oo aan lahayn waxyaabo aan loo baahnayn sida milix badan ama bir culus.
+- OM sida caleemo iyo qashinka beerta oo la qudhmiyay waxaa lagu dari karaa ama lakab khafiif ah (1/2 ilaa 1”) ayaa dusha la saari karaa si loo abuuro deegaan u fiican noolaha dhulka.
+
+#### Samee Sariir Beero Xilli-kan
+- Haddii aad u baahan tahay sariir cusub oo khudradda sannadlaha ah, ku dar OM la qudhmiyay dhulka oo dhan.
+- Tani waxay si degdeg ah u hagaajinaysaa dhulka oo ka dhigaysa mid la shaqayn karo, nafaqo badanna leh.
+- Si kastaba, faa’iidooyinkan waa kuwo ku meel gaar ah maadaama OM si dhaqso ah u qudhmi doono, nafaqooyinka aan la isticmaalin waa lumi karaan, dhulkuna wuu degi doonaa.
+
+#### Isbeddelka La Sameeyay
+- Halkii laga oran jiray “Kaliya Walxo Nool Ku Dar!” si dhulka dhoobada ah loo hagaajiyo, hadda talada way is bedeshay.
+- Hore, waxaanu talinay in la daro 2-4” oo OM ah marka hore, lagana dhigo mid yar mustaqbalka.
+- Daraasado cusub oo lagu sameeyay jardiinooyinka magaalooyinka ee OM badan lagu daray sannado badan waxay muujinayaan heerar aan caafimaad qabin oo fosfoor iyo OM ah.
+  - Heer fosfoor oo sareeya wuxuu caqabad ku noqdaa dhirta inay bir ka qaadato dhulka, wuxuu hor istaagaa horumarka mycorrhizae-da faa’iidada leh, wuxuuna wasakheeyaa wabiyada.
+- Haddii aad OM ka soo gadanayso shirkado, Waaxda Beeraha ee Oregon waxay baaraysaa OM si loo ogaado nafaqooyinka ku jira.
+- Hubi inaad OM ka iibsatid mid fosfoor hooseeya haddii aad muddo dheer dhulkaaga OM ku daraysay.
+
+---
+
+### Waxbadan Ka Baro Dhulka
+
+#### Daabacaadaha
+
+**Daabacaadaha Kordhinta Jaamacadda Gobolka Oregon**
+- [Hagaha Ururinta Tijaabada Dhulka, EC628](https://catalog.extension.oregonstate.edu/)
+- [Mabaadi’da Caafimaadka Dhulka, EC1647](https://catalog.extension.oregonstate.edu/)
+- [Shaybaarro Falanqeynaya Oregon, EM8677](https://catalog.extension.oregonstate.edu/)
+- [Saarista Lime si loo Kordhiyo pH-ga Dhulka, EM9057](https://catalog.extension.oregonstate.edu/)
+
+**Daabacaadaha Kordhinta Jaamacadda Gobolka Washington**
+- [Dalagyada Daboolka ee Beeralayda Guryaha ka baxsan Cascades, FS111E](https://pubs.extension.wsu.edu/extension-publications)
+- [Hagaha Beeralayda Guriga ee Dhulka iyo Bacriminta, EM063E](https://pubs.extension.wsu.edu/extension-publications)
+- [Hordhac Beeralayda ee Mycorrhizae, FS269E](https://pubs.extension.wsu.edu/extension-publications)
+
+**Jebinta Khuraafaadka Dhulka ee Barayaasha Kordhinta**  
+[Dib-u-eegista Qoraallada ku Saabsan Qaab-dhismeedka iyo Shaqeynta Dhulka](https://www.nacaa.com/journal/index.php?jid=1024)
+
+#### Muuqaallo
+
+- [Mulch: Kan Wanaagsan, Kan Xun, iyo Kan Aadka U Xun](https://www.youtube.com/watch?v=NXL9n2KNm1E)
+- [Tijaabada Dhulka ee Guriga, Jaamacadda Gobolka Washington](https://www.youtube.com/watch?v=0tRQUPDRiDU)
+- [Muuqaalka Caafimaadka Dhulka](https://video.search.yahoo.com/yhs/search?p=ray+archuleta%27s+soil+health+demo+2014+custom)
+- [Soil Carbon Cowboys](https://www.youtube.com/watch?v=ZGvVli0OTrQ)
+- [Laga Bilaabo Dhoobo ilaa Dhul](https://video.search.yahoo.com/yhs/search?p=gabe+brown+cover+crops)
+
+#### Bogagga Internetka
+
+- [Web Soil Survey](http://www.websoilsurvey.sc.egov/)
+- [10-Daqiiqo Jaamacad™ Warqadaha iyo Muuqaallada](http://www.cmastergardeners.org/10-minute-university)
+
+---
+
+###### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabyadiisa dhammaantood sabab la xiriirta: jinsiyadda, midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijyo deeq guud ah, aaminsanaanta siyaasadeed, xogta hidaha, xaaladda askarnimo, aargoosi ama ciqaab la xiriirta hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

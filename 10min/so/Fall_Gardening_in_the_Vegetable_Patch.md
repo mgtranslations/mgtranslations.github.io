@@ -1,56 +1,96 @@
-### Jaamacadda 10-Daqiiqo™  
-Ururka Clackamas County Master Gardener oo iskaashanaya kuna taageeraya  
-Barnaamijka OSU Extension Master Gardener™  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khubaro ah ee Clackamas County oo iskaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
 
-### Beerashada Dayrta ee Beerta Khudaarta  
-#### Goosashada iyo Kaydinta Khudaarta  
-- Gooso yaanyo cagaaran oo leh midab cadaan ah hoosta si ay ugu bislaadaan gudaha. Ururi abuurka yaanyada bisil xilliga oo dhan. Ka qaad abuurka yaanyada, geli dhalo biyo leh, ha u bislaadaan 3-5 maalmood, ku mayr abuurka miiraha, ku qalaji shukumaan warqad ah, kuna kaydi baakad sumaysan.  
-- Gooso baradhada laba todobaad ka dib markii geedaha dhintaan ama la gooyo si maqaarka u adkaado, laakiin ka hor roobabka dayrta. Qodo, qallaji, ha dhaqina. Ku kaydi meel qabow (40+ darajo), mugdi ah, oo hawo leh, ha ku kaydin caag.  
-- Gooso squash-ka jiilaalka marka uu bislaado (marka farahaaga aanay maqaarka gelin) ka hor baraf (hoos 28 darajo) sababtoo ah dhaawac ayaa dhici kara. Ku kaydi meel qalalan, mugdi ah, qabow, qiyaastii 50 darajo.  
-- Qalaji abuurka digirta geedka ilaa ay sanqadhayaan, ama gooy digirta huruudda qoyan si ay u qalalaan gudaha aan kuleyl ama qorrax lahayn.  
-- Ka tag khudaarta xididka leh (karootada, beetka, turnipka, basasha & leekyada) dhulka dhexdiisa oo ka ilaali 1 ilaa 2 inch caleemo qalalan ama caws, ama ku dabool maro ilaalin ah. Swiss chard, kale iyo collard guud ahaan way ka badbaadaan jiilaalka iyada oo aan ilaalin xilliga jiilaalka dabacsan.  
-- Gooy thyme-ka iyo rosemary-ga oo qalaji caleemaha. Rosemary si adag u gooy oo kaliya haddii aad u goosanayso ulo.  
-- Gooso basil-ka ka hor inta heerkulka habeenkii uusan ka hoos dhicin 50 darajo. Isla markiiba u shaqee ama geli laamaha biyo si ay u sii jiraan. Samee pesto, ama jar, ku rid saxaarad baraf, ku dabool biyo, oo barafee.  
+---
 
-### Beerashada Khudaarta Dayrta iyo Jiilaalka  
-- Sababaha loogu beerto dayrta waa: ciiddu waa qalalan oo diirran; qaar ka mid ah dalagyadu waxay si fiican ugu koraan cimilada qabow; cayayaanka waa ka yar yihiin; uma baahnid biyo badan; waxaad heli kartaa khudaar cusub xilliga jiilaalka iyo gu'ga.  
-- Si goosasho dayrta iyo jiilaalka loo helo, bilow abuurka beetka, broccoli-ga, cabbage-ka, karootada, Chinese cabbage, collard, kale, kohlrabi, rutabaga, iyo Swiss chard laga bilaabo abuurka bisha Luulyo. Geedaha la beero xagaaga dambe/dayrta hore waxay u baahan yihiin ugu yaraan 4 toddobaad korriin si ay u adkeystaan heerkulka jiilaalka.  
-- Dhirtan si toos ah ayaa loo abuuri karaa dayrta: abuurka fava beans (Oct.–Nov.), arugula, qaar ka mid ah basal, iyo mustard (illaa bartamaha Oct.); iyo abuurka toonta, dhinaca sare kor u jeedda oo 2 ilaa 3 inch qoto dheer (October/Nov. hore).  
+## Beeralayda Dayrta ee Goobta Khudradda
 
-### Adeegsiga Waxyaabaha Dheereeya Xilliyada  
-Waxyaabaha dheereeya xilliyada waxay caawiyaan dhirta yaryar si ay si fiican u koraan oo waxay ka ilaaliyaan dhirta qabowga jiilaalka iyo cimilada daran. Waxyaabahaas waxaa ka mid ah:  
-- Maro ilaalin ah, sanduuqyada qabow (xagga koonfureed u jeedda ayaa ugu fiican), iyo waxyaabaha daboolaya dhirta si ay u diiriyaan hawada oo ay u ilaaliyaan dhirta;  
-- Caag ciidda kululeeya; iyo  
-- Meelo kulul, sanduuqyo qabow oo leh fiilo kuleyl oo lagu aasay 2+ inch ciidda hoosteeda, kuwaas oo kululeeya ciidda iyo hawada.  
+### Goosashada iyo Kaydinta Khudradda
 
-### Nadiifinta Beerta Khudaarta  
-Nadiifinta dayrta waxay ka dhigtaa beerashada gu'ga mid sahlan. Ka saar oo iska tuur cayayaanka iyo miraha qasan iyo kuwa aan bislayn. Siib, gooy ama jar dhirta iyo caleemaha cudurka qaba si loogu tuuro compost ganacsi. Dhig caleemaha dhintay iyo laamaha gudaha compost-ka guriga. U adeegso sunta lo’ iyo duqsiyada si loo yareeyo tirada dayrta iyo gu'ga.  
+- **Yaanyo Cagaaran**: Goos yaanyada cagaaran ee leh midab cad oo hoose ah si ay ugu bislaadaan gudaha guriga. Uruuri abuurka yaanyada dhammaan xilliga. Ku rid abuurka dhalo biyo leh, ha uumi-baxo 3–5 maalmood, ku dhaq abuurka shaandho, ku qalaji tuwaal warqad ah, kuna keydi baqshad sumad leh.
+- **Baradho**: Goos 2 toddobaad kadib marka laamooyinku geeriyoodaan ama la jaro si maqaarku u adkaado, laakiin ka hor roobabka dayrta. Qod, qalaji, hana dhaq. Ku kaydi meel qabow (40+ darajo), mugdi, hawo leh, hana gelin bac.
+- **Qajaarada Jiilaalka**: Goos marka ay bislaan (marka suulasha la geliyo aysan si fudud u goynin maqaarka) iyo ka hor dhaxanta (hooseeya 28 darajo) si aysan waxyeello u gaarin. Ku kaydi meel qalalan, mugdi, qabow, qiyaastii 50 darajo ah.
+- **Digirta Qallalan**: Ka tag abuurka geedka ilaa ay yeeraan cod gariir ah, ama jar hadhuudhka dahabka ah ee qoyan si ay gudaha u qalalaan iyada oo aan la kululeyn ama la dhigin qoraxda.
+- **Khudradda Xididka leh**: Ka tag karootada, beedka, turnibka, basal, iyo leek dhulka, kuna dabool 1–2 inch oo caleemo qalalan ah ama bal, ama isticmaal maro dabool ah. Swiss chard, kaale, iyo collards badanaa way ka badbaadaan jiilaalka la’aanteed ilaalin xilliga jiilaalka oo deggan.
+- **Dhirta Udgoon**: Jar thyme iyo rosemary oo qalaji caleemaha. Si adag u jar rosemary oo keliya haddii aad u goosanayso ulaha.
+- **Basiil**: Goos ka hor inta aysan habeenkii hoos u dhicin 50 darajo. Isla markiiba ka shaqee ama geli biyaha si ay u sii jirto. Samee pesto, ama jar, geli saxaarad baraf ah, ku dabool biyo, kuna qabooji barafka.
 
-### Horumarinta Dhulka  
-Ku dar 2 ilaa 4 inch caleemo ama compost sida mulch si loo yareeyo adkaanta ciidda iyo nabaad-guurka, loo yareeyo cayayaanka, loona xakameeyo heerkulka ciidda. Oktoobar 1 waa taariikhda bartilmaameedka ee beerista dalagyada daboolka ah kuwaas oo yareeya adkaanta iyo nabaad-guurka ciidda oo ku dar nafaqo marka loo rogo ciidda gu'ga.  
+---
 
-Dayrta waa wakhti ku habboon tijaabada pH ciidda. Ka qaad muunad ciid ah adiga oo ka saaraya dhirta sare ama mulch (adeegso qalab nadiif ah, galoofyo, iyo gacmo nadiif ah), qodo 6 ilaa 8 inch oo ka saar qayb toosan oo ciidda ah. Ku celi habka dhowr meelood oo beerta ah. Ku qas muunadaha weel, ku wareeji ½ koob bac caag ah si loo tijaabiyo. Haddii lime loo baahdo, codsiyada dayrta waxay diyaarin doonaan ciidda si loo beero gu'ga. Ha ku darin lime meelaha baradhada lagu beero, sababtoo ah lime waxay keentaa baradhada caarada leh.  
+### Beerista Khudradda Dayrta iyo Jiilaalka
 
-Adeegso shaybaar ganacsi oo baaritaan ku sameeya nafaqada ciidda. Clackamas County Master Gardeners waxay tijaabiyaan muunadaha ciidda ee pH saddex dhacdo oo sanadle ah. Fiiri www.cmastergardeners.org wixii faahfaahin ah.  
+- **Maxaad Dayrta ugu Beertaa?**
+  - Dhulku waa qalalan oo diiran.
+  - Qaar ka mid ah dalagyadu waxay ugu koraan si fiican cimilada qabow.
+  - Cayayaanka ayaa yar.
+  - Biyo yar ayaa loo baahan yahay.
+  - Khudrad cusub xilliga jiilaalka iyo guga.
 
-### Khayraadka  
-- Daabacaadda OSU Extension: https://catalog.extension.oregonstate.edu/  
-  - Kaydinta Bocorka iyo Squash-ka Jiilaalka ee Guriga (EC 1632)  
-  - Beerashada Khudaarta Dayrta iyo Jiilaalka ee Waqooyiga Pacific (PNW 548)  
-  - Sida loo dhisto sanduuq sariir-dhismeed (EC 1627)  
-  - Hagaha Soo Ururinta Muunadaha Ciidda ee Beero iyo Beer-guri (EC 628)  
-  - Beerashada sariiraha kor loo qaado (FS 270)  
-  - Dalagyada Daboolka ah ee Beeraha Guriga (FS 304)  
+- **Goosashada Dayrta iyo Jiilaalka**:
+  - Ka bilaaw abuurka beedka, brokoli, kabeetada, karootada, kabeetada Shiinaha, collard, kaale, kohlrabi, rutabaga, iyo Swiss chard bisha Luulyo. Geedo yaryar oo la beero dhammaadka xagaaga/bilowga dayrta waxay u baahan yihiin ugu yaraan 4 toddobaad oo koritaan ah si ay u adkeystaan qabowga jiilaalka.
+  - Si toos ah u beero digirta fava (Oktoobar–Nofeembar), arugula, qaar ka mid ah basasha, iyo mustard (ilaa bartamaha Oktoobar).
+  - Beero tuuryo toon ah (dhinaca fiiqan kor) 2–3 inch hoosta dhulka bisha Oktoobar/ bilowga Nofeembar.
 
-- Khayraadka Jaamacadda 10-Daqiiqo™: http://www.cmastergardeners.org  
-  - Kaydinta Abuurka  
-  - Bilowga Beertaada Khudaarta  
-  - Koritaanka Khudaarta Jiilaalka  
-  - Beerashada Mulch-ka  
-  - Beerashada sariiro kor loo qaaday  
-  - Tijaabada pH ciidda  
+---
 
-### Talooyinka Master Gardener™  
-Wac Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), ama 503-445-4608 (Multnomah County).  
+### Isticmaalka Waxyaabaha Kordhiya Xilliyada
 
-Adeegga Oregon State University Extension Service wuxuu mamnuucayaa takooridda dhammaan barnaamijyadeeda, adeegyadeeda, hawlaheeda, iyo alaabteeda iyadoo lagu saleynayo jinsiyadda, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafanimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo baxa barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-wadeenka, xaaladda halyeeynimada, dib-u-dhac ama aargudasho ku saabsan hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada mamnuuca ma khuseeyaan dhammaan barnaamijyada.)  
+Waxyaabaha kordhiya xilliyada waxay ka caawiyaan geedaha yar yar inay si fiican u koraan una ilaaliyaan qabowga jiilaalka iyo cimilada adag. Waxay ka mid yihiin:
+
+- **Marada Daboolka, Sanduuqyada Qabowga iyo Cloche**: Diiriya hawada oo ilaaliya dhirta. Dhinaca koonfurta waa ugu fiican.
+- **Balka Caaga ah**: Diiriya dhulka.
+- **Sariiraha Kulul**: Sanduuq qabow oo leh fiilo kululeeysa oo 2+ inch hoos uga jirta dusha dhulka waxay diirisaa dhulka iyo hawada labadaba.
+
+---
+
+## Nadiifinta Goobta Khudradda
+
+Nadiifinta dayrtu waxay fududeysaa jardiinada guga:
+
+- Ka saar oo tuur cawska xun iyo khudradda qudhuntay ama aan bislaan.
+- Jiid, jar, ama gooy dhirta iyo caleenta cudurka leh si loogu diro bacriminta ganacsiga.
+- Geli caleenta dhimatay iyo laamaha bacriminta guriga.
+- Ugu talo-gal sun dufkaha iyo doofarka si loo yareeyo tiradooda dayrta iyo guga.
+
+---
+
+## Horumarinta Dhulka
+
+- Ku dar 2–4 inch caleemo ama bacriminta dusha dhulka si loo yareeyo adkaanta iyo nabaadguurka, loo xakameeyo cawska xun, loona ilaaliyo heerkulka dhulka.
+- **Dalagyada Daboolka**: Ku beero ka hor Oktoobar 1 si loo yareeyo adkaanta iyo nabaad-guurka dhulka, loona kordhiyo nafaqooyinka marka lagu daro dhulka guga.
+- **Baadhista pH Dhulka**:
+  - Ka qaad muunad dhul adigoo ka saaraya cawska sare ama bacriminta (isticmaal qalab nadiif ah, gacmo gashi, iyo gacmo nadiif ah).
+  - Qod 6–8 inch oo qoto dheer oo ka saar jarjaran toosan oo dhul ah. Ku celi dhowr meel oo jardiinada ah.
+  - Isku qas muunado weel, ka qaad ½ koob oo geli bac caag ah si loo baadho.
+  - Haddii la rabo lime, isticmaalka dayrta ayaa diyaarin doona dhulka beerta guga. Ha isticmaalin lime meelaha baradhada lagu beero, sababtoo ah lime wuxuu keenaa baradho nabar leh.
+
+- Isticmaal shaybaarrada ganacsiga si aad u ogaatid nafaqooyinka dhulka. Beeraleyda Khubarada ee Clackamas County waxay baadhaan muunadaha pH dhulka saddex jeer sanadkii. Ka fiiri [www.cmastergardeners.org](http://www.cmastergardeners.org) faahfaahin dheeraad ah.
+
+---
+
+## Kheyraad
+
+- **Daabacaadaha OSU Extension**:
+  - [Kaydinta Bocorka iyo Qajaarada Jiilaalka ee Guriga (EC 1632)](https://catalog.extension.oregonstate.edu/ec1632)
+  - [Beeralayda Dayrta iyo Jiilaalka ee Waqooyiga Galbeed ee Pacific (PNW 548)](https://catalog.extension.oregonstate.edu/pnw548)
+  - [Sida Loo Dhisto Cloche Sariir Sare (EC 1627)](https://catalog.extension.oregonstate.edu/ec1627)
+  - [Hagaha Soo Qaadista Muunadaha Dhulka ee Beeraha iyo Jardiinada (EC 628)](https://catalog.extension.oregonstate.edu/ec628)
+  - [Beeralayda Sariirta Sare (FS 270)](https://catalog.extension.oregonstate.edu/fs270)
+  - [Dalagyada Daboolka ee Jardiinada Guriga (FS 304)](https://catalog.extension.oregonstate.edu/fs304)
+
+- **Kheyraadka Jaamacadda 10-Daqiiqo™**:  
+  Booqo [www.cmastergardeners.org](http://www.cmastergardeners.org) si aad u hesho waraaqo iyo fiidyowyo:
+  - Badbaadinta Abuurka
+  - Bilaabista Beertaada Khudradda
+  - Korinta Khudradda Jiilaalka
+  - Beeralayda Balka
+  - Beeralayda Sariirta Sare
+  - Tijaabinta pH Dhulka
+
+---
+
+#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta ee Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo iyo jadwal fasallo dheeraad ah ee Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga OSU Extension wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa dhammaan, iyadoo la eegayo: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dookha galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sidaha, xaaladda ciidanimada, ciqaabta, ama aargoosiga dhaqdhaqaaqyadii hore ee xuquuqda madaniga. (Dhammaan xeerarkan lama dabaqo dhammaan barnaamijyada.)
+---

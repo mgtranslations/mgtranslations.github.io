@@ -1,54 +1,115 @@
-### Université en 10 minutes™  
-L’association des jardiniers experts du comté de Clackamas, en collaboration avec et en soutien au programme des jardiniers experts de l’extension de l’Université d’État de l’Oregon (OSU).  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration et en soutien avec le programme OSU Extension Master Gardener™
 
-## Cultiver des framboises  
+# Cultiver les Framboises
 
-### Pourquoi cultiver des framboises ?  
-Les framboises sont délicieuses, délicates et se dégustent mieux fraîchement cueillies. Elles sont aussi durables : les framboises rouges et jaunes peuvent rester productives jusqu’à 15 ans, tandis que les framboises noires restent productives entre 4 et 8 ans.  
+### Pourquoi cultiver des framboises ?
+Les framboises sont délicieuses, délicates et sont meilleures lorsqu’elles sont fraîchement cueillies. Elles vivent aussi longtemps :
+- Les framboises rouges et jaunes peuvent rester productives jusqu’à 15 ans.
+- Les framboises noires restent productives pendant 4 à 8 ans.
 
-### Types et sélections  
-Votre premier choix concerne les types qui produisent une fois, au début de l’été (fructification sur floricane), et ceux qui produisent deux fois, en été et en automne (fructification sur primocane). Ensuite, vous devez choisir parmi de nombreuses variétés qui diffèrent par la couleur et la saveur des fruits. Vous pouvez organiser des tests de dégustation avant de faire votre sélection ou consulter la publication de l’OSU sur les variétés cultivées (cultivars) adaptées à notre région.  
-Exemples : cultivars rouges à fructification sur floricane (Willamette, Meeker et Cascade Delight) ; cultivars rouges à fructification sur primocane (Vintage, Heritage et Caroline) ; cultivars jaunes à fructification sur primocane (Fallgold et Anne) ; cultivars noirs à fructification sur floricane (Munger et Jewel) ; et cultivars violets à fructification sur floricane (Royalty et Brandywine).  
+### Types et sélections
+Votre premier choix concerne le type de framboises :
+1. **Une seule fois, au début de l’été** (fructification sur floricane).
+2. **Deux fois, en été et en automne** (fructification sur primocane).
 
-### Choisir un emplacement  
-Les framboises peuvent tolérer une ombre partielle, mais elles produisent mieux en plein soleil, avec une meilleure qualité de fruits. Évitez les endroits où des pommes de terre, tomates, poivrons, aubergines, autres mûriers ou fraises ont été cultivés au cours des trois dernières années, car ces cultures sont sensibles à de nombreux insectes et maladies similaires à ceux des framboises. Cultivez les plantes dans un sol fertile, limoneux et bien drainé, avec une capacité modérée à retenir l’eau. Évitez les sols lourds et argileux.  
+Ensuite, choisissez parmi les variétés qui diffèrent par la couleur et la saveur du fruit. Vous pouvez organiser des tests de goût avant de choisir, ou consulter la publication de l’OSU sur les variétés qui réussissent bien dans notre région. Exemples :
+- **Variétés rouges à floricane** : Willamette, Meeker, Cascade Delight.
+- **Variétés rouges à primocane** : Vintage, Heritage, Caroline.
+- **Variétés jaunes à primocane** : Fallgold, Anne.
+- **Variétés noires à floricane** : Munger, Jewel.
+- **Variétés pourpres à floricane** : Royalty, Brandywine.
 
-### Préparer le sol  
-Il est préférable de cultiver les framboises sur un monticule surélevé de 45 à 60 cm de hauteur et de 60 cm de largeur pour garantir un excellent drainage. Sinon, construisez une plate-bande surélevée avec un bon drainage. Le pH du sol doit être compris entre 5,6 et 6,5.  
-L’année précédant la plantation, éliminez toutes les mauvaises herbes vivaces. Appliquez de la matière organique en été ou en automne – vous pouvez utiliser du fumier, du compost, des feuilles ou de la sciure – et mélangez-la au sol. Assurez-vous qu’elle est décomposée avant la plantation. Plantez les framboises l’année suivant la préparation du sol.  
+### Choisir un emplacement
+Les framboises supportent la mi-ombre, mais elles produisent mieux et donnent des fruits de meilleure qualité en plein soleil. Évitez les endroits où des pommes de terre, tomates, poivrons, aubergines, autres petits fruits à canne ou fraises ont poussé durant les 3 dernières années, car ces cultures partagent de nombreux insectes et maladies avec les framboises.
 
-### Plantation  
-Les framboises sont généralement vendues sous forme de plants à racines nues. Achetez des plants certifiés exempts de maladies pour minimiser les problèmes. Plantez tôt au printemps, dès que le sol est praticable. Pour planter, creusez un trou dans le sol amendé, suffisamment large pour permettre aux racines de s’étaler. Placez le point le plus haut où les racines sont attachées aux tiges à environ 2 à 5 cm sous le niveau du sol. Recouvrez de terre et arrosez abondamment pour éliminer les poches d’air.  
+Cultivez les framboises dans un sol meuble, fertile, limoneux, bien drainé et qui retient modérément l’eau. Évitez les sols argileux lourds.
 
-### Fertilisation  
-L’année de la plantation, fertilisez chaque plant avec un total de 56 grammes d’azote (N) par rangée de 3 mètres. Utilisez un engrais équilibré comme le 16-16-16 ou une source organique (par exemple, de la farine de graines de coton). Vous pouvez calculer la quantité nécessaire en divisant 56 grammes par le pourcentage d’azote. Par exemple, vous aurez besoin de 340 grammes d’engrais 16-16-16 pour obtenir 56 grammes d’azote (56 grammes/ pourcentage d’azote dans l’engrais = quantité d’engrais nécessaire).  
-Dans les nouvelles plantations, ne pas appliquer tout l’engrais d’un coup. Divisez la quantité totale en trois parties. Appliquez le premier tiers deux semaines après la plantation, le deuxième tiers un mois plus tard, et le dernier tiers un mois après cela.  
+### Préparation du sol
+- Plantez les framboises sur une butte surélevée (45 à 60 cm de haut sur 60 cm de large) ou dans une plate-bande surélevée pour garantir un excellent drainage.
+- Maintenez le pH du sol entre **5,6 et 6,5**.
+- L’année précédant la plantation, éliminez toutes les mauvaises herbes vivaces.
+- Appliquez de la matière organique (fumier, compost, feuilles ou sciure) en été ou en automne et incorporez-la au sol. Assurez-vous qu’elle soit décomposée au moment de la plantation.
+- Plantez les framboises l’année suivant la préparation du sol.
 
-Pour les plantations établies, appliquez de l’engrais chaque année pour maintenir une bonne croissance. Chaque année, appliquez un total de 56 à 85 grammes d’azote par rangée de 3 mètres. Cela correspond à 368 à 538 grammes d’engrais 16-16-16 ou 1,1 kg d’engrais 5-5-3. Appliquez la moitié entre fin mars et début avril, et le reste début juin. Fertilisez les framboises à fructification sur primocane avec 14 à 28 grammes d’azote supplémentaire fin juillet.  
+### Plantation
+Les framboises sont généralement vendues sous forme de plants à racines nues. Achetez des plants certifiés sans maladie pour limiter les problèmes.
 
-### Arrosage  
-Les plantes établies ont besoin de 2,5 à 4 cm d’eau par semaine de la mi-juin à la fin de l’été. Veillez à arroser uniquement la zone des racines, en évitant de mouiller les fruits.  
+- **Période de plantation** : début du printemps, dès que le sol est praticable.
+- **Méthode de plantation** :
+  1. Creusez un trou dans le sol amendé, assez large pour étaler les racines.
+  2. Placez le point le plus haut où les racines s’attachent à la canne à environ 2 à 5 cm sous le niveau du sol.
+  3. Recouvrez de terre et arrosez bien pour éliminer les poches d’air.
 
-### Gestion des mauvaises herbes  
-Cultivez pour contrôler les mauvaises herbes et les tiges qui se développent en dehors des rangs. Cultivez à une profondeur de 2 à 5 cm maximum pour éviter d’endommager les racines. Le paillage peut être utilisé pour supprimer les mauvaises herbes et maintenir l’humidité du sol.  
+### Fertilisation
 
-### Treillage et taille  
-Les méthodes de taille des framboises varient considérablement selon les types de framboises. En résumé, les framboises à fructification estivale ont besoin de support pour maintenir les tiges droites. Taillez en retirant les floricanes morts après la fructification en été ou en automne. En hiver, éclaircissez les primocanes cassés ou faibles et entraînez les tiges sur le treillage (vous pouvez les couper à environ 1,8 m).  
-Pour produire deux récoltes sur les framboises à fructification sur primocane, retirez les floricanes morts après la fructification en été ou en automne. Ensuite, taillez la partie morte des primocanes (la partie ayant fructifié l’automne dernier). Pour produire une seule récolte de framboises à fructification sur primocane, taillez en fin d’hiver en coupant toutes les tiges au sol. La récolte d’automne sera produite sur les extrémités des primocanes qui poussent pendant l’été. Dans ce scénario, les framboises à fructification automnale nécessitent uniquement une structure de support temporaire.  
+#### Nouvelles plantations
+La première année, fertilisez chaque plant avec un total de **56 g d’azote (N)** par rangée de 3 mètres. Utilisez un engrais équilibré comme le **16-16-16** ou une source organique (par exemple, farine de graines de coton).
 
-### Ravageurs et maladies  
-La pourriture des racines due à Phytophthora peut être un problème sérieux. Les sols lourds et argileux ainsi que les zones de racines humides sont des conditions idéales pour ce champignon qui tue les floricanes. Les autres ravageurs incluent le charançon des racines, les acariens, les pucerons, l’oïdium, l’anthracnose et le flétrissement verticillien.  
+Pour calculer la quantité nécessaire :
+- Divisez 56 g par le pourcentage d’azote dans l’engrais.
+  - Exemple : Il faut **340 g d’engrais 16-16-16** pour obtenir 56 g d’azote (56 g ÷ pourcentage de N = grammes d’engrais nécessaires).
 
-### Informations supplémentaires  
-Publications de l’OSU disponibles en ligne :  
-- **Cultiver des framboises dans votre jardin** : EC 1306  
-- **Cultivars de framboises pour le nord-ouest du Pacifique** : PNW 655  
-- **Guide de jardinage durable** : EM 8742  
-- **Cultiver des baies sur la côte de l’Oregon : framboises et mûres** : EM 9180 (contenu également pertinent pour la vallée de Willamette).  
-- Apprenez à tailler les framboises grâce à un module en ligne disponible sur : [Pruning Raspberries](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en)  
+N’appliquez pas tout l’engrais en une seule fois. Divisez la quantité totale en trois parts :
+1. Appliquez le premier tiers 2 semaines après la plantation.
+2. Appliquez le deuxième tiers 1 mois plus tard.
+3. Appliquez le dernier tiers encore un mois après.
 
-### Conseils des jardiniers experts™  
-- Appelez la ligne d’assistance en horticulture domestique : 503-655-8631 (comté de Clackamas), 503-821-1150 (comté de Washington) ou 503-445-4608 (comté de Multnomah).  
-- Pour télécharger les fiches et consulter le programme des cours de l’Université en 10 minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org) ou [www.metromastergardeners.org](http://www.metromastergardeners.org).  
+#### Plants établis
+Fertilisez chaque année pour garder une bonne croissance :
+- **Quantité** : 56 à 85 g d’azote par rangée de 3 mètres.
+  - Exemple : 370 à 540 g d’engrais 16-16-16 ou 1,1 kg d’engrais 5-5-3.
+- **Moment** :
+  - Appliquez la moitié entre fin mars et début avril.
+  - Appliquez le reste début juin.
+- **Framboises à primocane** : Ajoutez 14 à 28 g d’azote fin juillet.
 
-Le service d’extension de l’Université d’État de l’Oregon interdit toute discrimination dans ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours négatifs liés à une activité antérieure en matière de droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes).
+### Arrosage
+Les plants établis ont besoin de **2,5 à 4 cm d’eau par semaine** de la mi-juin à la fin de l’été. Arrosez uniquement la zone racinaire, sans mouiller la zone des fruits.
+
+### Gestion des mauvaises herbes
+- Binez pour contrôler les mauvaises herbes et les pousses qui sortent des rangs.
+- Ne binez pas plus profondément que **2,5 à 5 cm** pour éviter d’abîmer les racines.
+- Utilisez du paillis pour limiter les mauvaises herbes et garder l’humidité du sol.
+
+### Palissage & Taille
+Les méthodes de taille varient selon le type de framboise :
+
+- **Framboises d’été** :
+  - Maintenez les cannes droites à l’aide d’un palissage.
+  - Enlevez les floricanes mortes après la récolte en été ou à l’automne.
+  - En hiver, éclaircissez les primocanes cassées ou faibles et attachez les cannes au treillis (les cannes peuvent être raccourcies à environ 1,8 m).
+
+- **Framboises à primocane** :
+  - Pour obtenir deux récoltes :
+    - Enlevez les floricanes mortes après la récolte en été ou à l’automne.
+    - Coupez la partie morte des primocanes (celle qui a fructifié l’automne précédent).
+  - Pour obtenir une seule récolte :
+    - Taillez en fin d’hiver en coupant toutes les cannes au ras du sol.
+    - La récolte d’automne poussera sur le haut des primocanes qui auront grandi pendant l’été.
+    - Les framboisiers d’automne n’ont besoin que d’un support temporaire.
+
+### Ravageurs et maladies
+Problèmes courants :
+- **Pourriture des racines à Phytophthora** : prolifère dans les sols argileux lourds et humides et tue les floricanes.
+- Autres ravageurs : charançon des racines, acariens, pucerons.
+- Maladies : oïdium, anthracnose, flétrissement verticillien.
+
+### Informations supplémentaires
+Publications OSU disponibles en ligne à [https://extension.oregonstate.edu/](https://extension.oregonstate.edu/) :
+- **Cultiver les framboises dans votre jardin** (EC 1306)
+- **Variétés de framboises pour le nord-ouest du Pacifique** (PNW 655)
+- **Guide du jardinage durable** (EM 8742)
+- **Cultiver des petits fruits sur la côte de l’Oregon : framboises et mûres** (EM 9180) – Contenu également utile pour la vallée de la Willamette.
+- Apprenez à tailler les framboisiers avec un module en ligne sur [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
+
+#### Conseil du Maître Jardinier™
+- **Appelez le service d’aide Horticulture à domicile :**
+  - 503-655-8631 (Comté de Clackamas)
+  - 503-821-1150 (Comté de Washington)
+  - 503-445-4608 (Comté de Multnomah)
+- Pour d’autres fiches pratiques 10-Minute University™ et les horaires des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu provenant d’un programme d’assistance publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+---

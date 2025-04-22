@@ -1,50 +1,80 @@
-# 10-Minute University™  
-**Clackamas County Master Gardener Association** kev koom tes nrog thiab txhawb nqa **OSU Extension Master Gardener™ Program**  
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener Association koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Kev Cog Zaub Hauv Cov Thawv
+# Cog Ntsuab Hauv Thawv
 
-### Txheej txheem  
-Cov thawv cog zaub tuaj yeem muab kev zoo nkauj xim, kev tsim qauv thoob plaws hauv xyoo, thiab tsw qab rau tej chaw ntawm vaj. Cov thawv no yog qhov zoo rau cov nroj tsuag uas tsis nyiam txias lossis cov uas xav tau kev saib xyuas tshwj xeeb (xws li vaj pob zeb, vaj dej). Cov thawv tuaj yeem nqa cov nroj tsuag mus rau qhov siab uas lawv tuaj yeem pom zoo ze. Rau cov neeg cog vaj uas muaj chaw txwv, cov thawv muab chaw ntxiv rau kev cog nroj tsuag. Thiab rau cov neeg cog vaj uas muaj ntau nroj tsuag dhau lossis tsis paub qhov twg los tso cov nroj tsuag tshiab, cov thawv yog qhov chaw nyob zoo rau ib ntus.  
+### Tshooj Lus
 
-### Hom Thawv  
-Koj muaj kev xaiv ntau yam thawv, ntawm cov uas feem ntau yog:  
-- **Cov lauj kaub av nplaum:** pheej yig, tab sis qhuav sai.  
-- **Terracotta:** kim dua cov lauj kaub av nplaum, tab sis nyob ntev dua thiab qhuav qeeb dua.  
-- **Cov thawv ceramic:** muaj ntau yam xim thiab duab, tab sis yooj yim puas.  
-- **Cov lauj kaub yas:** muaj qhov hnyav tsawg thiab pheej yig, tab sis ua brittles tom qab raug lub teeb. Koj tuaj yeem txhim kho nws lub neej los ntawm muab tso rau hauv ib lub thawv zoo nkauj.  
-- **Cov thawv ntoo:** kawg kawg yuav lwj; cov ntoo uas tiv taus zoo tshaj yog cedar thiab redwood.  
-- **Cov thawv hlau:** ua xeb thaum lub sijhawm dhau mus.  
-- **Whiskey barrel:** loj txaus rau cov ntoo me thiab cov nroj tsuag me, tab sis nyuaj rau kev txav.  
+Cov thawv cog ntsuab tuaj yeem muab xim zoo nkauj, ua kom vaj tsev zoo nkauj txhua xyoo, thiab muaj ntxhiab tsw qab hauv tej thaj chaw ntawm vaj. Lawv yog qhov zoo rau cov nroj tsuag uas tsis tshua tiv taus no, lossis cov uas xav tau kev saib xyuas tshwj xeeb (xws li cog pob zeb, cog dej). Thawv tseem pab coj nroj tsuag mus txog qhov siab kom peb pom tau zoo dua. Rau cov neeg ua vaj uas tsis muaj chaw txaus, thawv yog ib txoj hauv kev ntxiv chaw cog nroj. Thiab rau cov uas muaj ntau nroj tsuag los yog tsis tau txiav txim siab qhov twg yuav muab cov nroj tshiab, thawv yog chaw nyob ib ntus zoo.
 
-Ib qho kev xaiv ntxiv yog ua koj cov thawv tshwj xeeb ntawm cov khoom qub xws li lub laub qub, cov lauj kaub qub, txawm tias khau qub lossis khau looj. Koj yog qhov txwv rau koj kev xav. Txawm koj xaiv siv dab tsi ua thawv, nco ntsoov tias nws muaj cov qhov dej ntws tawm.  
+### Hom Thawv Cog
 
-### Qhov Coob Thawv  
-Qhov loj ntawm cov thawv yeej yog ntsuas raws li qhov dav ntawm sab saum toj. Ua ib qho kev qhia, thawv 12-nti yog qhov zoo rau cov paj ib xyoos thiab cov nroj tsuag ntev. Cov thawv me yuav qhuav sai heev. Cov thawv loj yog qhov zoo rau cov nroj tsuag me, cov ntoo me, thiab cov nroj tsuag sib xyaw. Ib nrab lub thoob tuaj yeem muaj ib lub vaj me me nrog cov nroj tsuag zoo nkauj lossis cov nroj tsuag noj tau; koj tuaj yeem xaiv paj ntau xim; tshuaj ntsuab rau kev ua noj lossis ua tshuaj yej; zaub rau khoom noj txom ncauj lossis khoom noj; lossis kev sib xyaw ntawm lawv.  
+Koj xaiv tau ntau hom thawv cog, feem ntau yog cov hauv qab no:
 
-### Cov Khoom Cog Nroj Tsuag  
-Cov thawv yuav tsum tau sau nrog cov khoom sib xyaw uas tsim los kom cov dej ntws tau zoo. Hauv lwm lo lus, cov khoom sib xyaw zoo yuav muag thiab sib xyaw.  
-Tsis txhob siv av hauv vaj cog rau hauv cov thawv. Nws cov kev ntxhib ntxoo zoo heev yuav thaiv cov dej ntws tau zoo hauv lub thawv me me. Qhov no ua rau cov cag tsis loj hlob tau zoo vim tias tsis muaj pa txaus, thiab cov nroj tsuag tsis vam meej. Av vaj kuj tuaj yeem nqa kab mob, kab tsuag, thiab cov noob nroj tsuag phem tuaj. Koj tuaj yeem sib xyaw cov chiv qeeb rau hauv cov khoom sib xyaw ua ntej koj cog. Txawm hais tias qee tus neeg hais kom ntxiv cov khoom siv khaws dej, kev tshawb fawb txhawb nqa rau qhov ntawd tsis muaj zog.  
+- **Thawv av nplaum**: Pheej yig, tabsis qhuav sai heev.
+- **Thawv terracotta**: Kim dua av nplaum, tabsis nyob ntev dua thiab tsis qhuav sai.
+- **Thawv ceramic**: Muaj ntau xim thiab ntau yam zoo nkauj, tabsis yooj yim tawg.
+- **Thawv yas**: Yooj yim nqa thiab pheej yig, tabsis yuav tawg sai yog raug tshav ntuj ntau. Koj tuaj yeem ua kom thawv yas nyob ntev dua yog muab tso rau hauv thawv zoo nkauj dua.
+- **Thawv ntoo**: Thaum kawg yuav pos, tabsis ntoo cedar thiab ntoo redwood yog cov uas ruaj khov tshaj.
+- **Thawv hlau**: Yuav xeb thaum siv ntev.
+- **Thawv whiskey barrel**: Zoo rau cog txiv hmab txiv ntoo me me los yog tsob ntoo me, tabsis nyuaj rau nqa.
 
-Tsis txhob ua raws li txoj kev kev yees uas ntxiv ib txheej khoom zoo ntawm qab ntawm lub thawv rau kev ntws dej. Vim txog qhov dej txav hauv lub thawv, cov khoom ntawd hauv qab yuav tuaj cuam tshuam rau qhov dej ntws.  
+Koj tseem tuaj yeem tsim koj tus kheej thawv cog los ntawm cov khoom cuav xws li lub log thauj khoom laus, lub lauj kaub laus, txawm tias khau lossis khau looj plab. Koj tsuas txwv rau qhov koj xav xwb. Tsis hais koj xaiv siv yam twg ua thawv cog, nco ntsoov tias yuav tsum muaj qhov dej ntws tawm.
 
-### Chiv  
-Cov khoom chiv hauv thawv raug ntxuav tawm txhua zaus koj muab dej rau. Yog li nws tseem ceeb heev kom ntxiv chiv thaum koj cog hauv thawv. Sib xyaw chiv qeeb 3-4 hli rau hauv cov khoom sib xyaw ua ntej koj pib. Tom qab ntawd, kom cov nroj tsuag nyob rau hauv kev zoo tshaj plaws thaum lub caij loj hlob, ntxiv chiv uas yaj hauv dej txhua 2 mus rau 3 lub lis piam, raws li qhov xav tau.  
+Loj thiab me ntawm thawv qhia raws qhov dav saum:
 
-### Kev Saib Xyuas Nroj Tsuag  
-- Feem ntau, qhov thawv loj dua, koj cov nroj tsuag yuav zoo dua.  
-- Cov thawv txwv chaw rau cag. Yog li, kom pab cov nroj tsuag vam meej, koj yuav tsum muab dej thiab chiv ntau dua li yog cov nroj tsuag cog rau hauv av. Koj tuaj yeem pom tias koj yuav tsum muab dej rau cov thawv ib zaug, lossis txawm tias ob zaug, ib hnub thaum huab cua sov.  
-- Muab cov thawv tso rau hauv qhov chaw uas tsim nyog rau cov nroj tsuag. Tiv thaiv cov thawv los ntawm tshav ntuj ncaj qha kom tsis txhob "ci" cov cag los ntawm cov cua sov ntau dhau.  
-- Thaum lub caij loj hlob, cov nroj tsuag hauv thawv xav tau kev kho kom zoo thiab ntau zaus. Hlais thiab tshem cov paj tuag raws li qhov xav tau kom txhawb kev loj hlob thiab ua rau muaj paj tshiab.  
-- Thaum cov nroj tsuag hauv thawv loj hlob, npaj siab tshem cov uas tsis ua haujlwm, thiab ntxiv cov tshiab kom cov thawv zoo nkauj.  
-- Thaum lub caij ntuj no, cov thawv tuaj yeem tawg thaum lub sijhawm txias heev vim dej hauv cov khoom sib xyaw nthuav dav thaum nws khov. Tiv thaiv cov cag ntawm cov nroj tsuag los ntawm lub caij ntuj no txias los ntawm kev qhwv cov thawv nrog cov khoom siv txias. Los yog, cia cov thawv rau hauv qhov chaw uas tsis khov xws li lub tsev rau khoom lossis lub tsev tsheb.  
+- Thawv 12-nti (12-inch) zoo rau paj txhua xyoo thiab paj ntev. Yam me dua no yuav qhuav sai heev.
+- Thawv loj dua zoo rau cog tsob ntoo me thiab cog ntau yam sib xyaw.
+- Ib nrab thawv whiskey barrel yuav cog tau ib qho vaj me me nrog paj, tshuaj ntsuab, zaub, lossis ua ke ua ke.
 
-### Kev Xaiv Nroj Tsuag  
-- Yuav luag txhua yam uas tuaj yeem cog rau hauv av tuaj yeem cog rau hauv thawv. Qhov no suav nrog cov ntoo me, cov nroj tsuag me, rose, vines, cov paj ib xyoos, thiab cov nroj tsuag ntev, yog tias qhov loj ntawm cov thawv tsim nyog.  
-- Thaum npaj thawv, xav txog cov nroj tsuag uas muaj qhov siab sib txawv, uas muaj cov nplooj sib txawv, thiab qhia cov xim sib xyaw lossis sib txawv hauv cov paj thiab/los yog cov nplooj.  
-- Kev zoo nkauj yog ib yam uas txhua tus nyiam sib txawv. Xaiv qhov koj nyiam.  
-- Feem ntau, cog cov paj ib xyoos ua pawg kom tau txais kev zoo nkauj pom tau, muab cov zaub qhov chaw txaus rau lawv nthuav thaum lawv loj hlob, thiab xyuas kom cov ntoo thiab cov nroj tsuag me muaj chaw txaus rau cag loj hlob.  
-- Npaj cog dua cov nroj tsuag ntev xws li ntoo thiab cov nroj tsuag me txhua 2 mus rau 3 xyoos thiab hlais cov cag raws li qhov xav tau. Qhov no tuaj yeem ua tau ob txoj kev. Ib txoj kev yog hlais tawm ob peb nti ntawm cov cag, tom qab ntawd muab rov qab rau hauv lub thawv qub, thiab ntxiv cov khoom sib xyaw tshiab rau qhov chaw. Los yog koj tuaj yeem hloov cov nroj tsuag mus rau lub thawv loj dua li qub, thiab sau qhov chaw nrog cov khoom sib xyaw tshiab.  
+### Av Cog Hauv Thawv
 
-### Kev Pab thiab Kev Pab Tau  
-- Hu rau **Home Horticulture Helpline:** 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), lossis 503-445-4608 (Multnomah County).  
-- **Container Planting Video:** [https://www.youtube.com/watch?v=wHnYV-kgJ0c](http
+Thawv yuav tsum sau nrog av tshwj xeeb rau thawv cog (potting mix) vim cov av no yog txiav txim los ua rau dej tuaj yeem ntws tau zoo. Lwm lo lus, av no yuav tsum ua kom sib luag thiab muag muag.
+
+**Tsis txhob siv av hauv vaj rau hauv thawv.** Av hauv vaj mos dhau lawm, dej yuav tsis tuaj yeem ntws tau zoo hauv thawv. Vim li ntawd, cov cag yuav tsis loj hlob zoo vim tsis muaj cua txaus, thiab koj cov nroj tsuag yuav tsis vam meej. Av hauv vaj kuj tseem nqa tau kab mob, kab, thiab noob nroj tsuag phem tuaj ntxiv thiab.
+
+Koj tuaj yeem tov tshuaj chiv qeeb rau hauv cov av cog ua ntej koj cog. Txawm tias qee tus qhia kom ntxiv cov tshuaj kom tau dej nyob ntev, tab sis tsis muaj kev tshawb fawb txhawb qhov no.
+
+Tsis txhob ua raws li cov lus qhia uas hais kom ntxiv ib txheej khoom tuab rau hauv qab thawv rau dej ntws. Qhov no yuav ua rau dej tsis tuaj yeem ntws tau zoo.
+
+### Chiv
+
+Chiv hauv thawv yuav raug ntxuav tawm txhua zaus koj muab dej. Yog li ntawd, tseem ceeb kom ntxiv chiv thaum pib cog:
+
+- Tov chiv qeeb (3-4 hli) rau hauv av ua ntej pib cog.
+- Thaum lub caij loj hlob, muab tshuaj chiv uas tov rau dej txhua 2 txog 3 lim tiam, yog xav tau.
+
+### Kev Saib Xyuas Nroj Tsuag
+
+- Feem ntau, thawv càng loj, nroj tsuag càng loj hlob zoo.
+- Thawv txwv qhov chaw rau cag loj hlob. Yog li, koj yuav tsum muab dej thiab chiv ntau dua li yog cog hauv av. Tej zaum koj yuav tsum muab dej ib zaug los yog ob zaug txhua hnub thaum huab cua sov.
+- Muab thawv tso rau qhov chaw haum rau cov nroj tsuag. Tiv thaiv thawv kom tsis txhob raug tshav ntuj ncaj qha kom cov cag tsis kub dhau.
+- Thaum lub caij loj hlob, cov nroj tsuag hauv thawv xav tau kev tu thiab hlais paj nquag. Txiab thiab tshem cov paj uas tag lawm kom nroj tsuag loj txawm thiab muaj paj ntau dua.
+- Thaum nroj tsuag loj hlob, npaj siab tshem cov uas tsis haum thiab hloov tshiab kom thawv saib tau zoo.
+- Thaum lub caij ntuj no, thawv tej zaum yuav tawg vim dej hauv av nthuav tawm thaum khov. Tiv thaiv cov cag los ntawm qhov txias los ntawm kev vov thawv nrog ntaub los sis muab thawv rau hauv tsev, chaw nres tsheb, los yog chaw tsis muaj frost.
+
+### Xaiv Nroj Tsuag
+
+- Yuav luag txhua yam uas cog hauv av tau, kuj cog tau hauv thawv. Xws li tsob ntoo me, nroj tsuag, paj, tsob hmab, paj txhua xyoo thiab paj ntev, yog thawv loj txaus.
+- Thaum npaj thawv, xav txog qhov siab sib txawv, cov nplooj txawv, thiab xim paj los yog nplooj sib xyaw los yog sib txawv.
+- Kev zoo nkauj yog raws li koj nyiam. Xaiv yam koj nyiam.
+- Feem ntau:
+  - Cog paj txhua xyoo ua pawg kom pom zoo nkauj dua.
+  - Tso chaw kom zaub loj tau.
+  - Nco ntsoov tso chaw txaus rau cag ntawm tsob ntoo thiab nroj tsuag loj hlob.
+- Npaj hloov thawv rau cov nroj tsuag nyob ntev xws li tsob ntoo thiab nroj tsuag txhua 2 los yog 3 xyoos thiab txiav cag yog xav tau. Ua tau ob txoj kev:
+  1. Txiab ib feem ntawm cag tawm, ces muab rov rau hauv thawv qub, ntxiv av tshiab.
+  2. Muab nroj tsuag rau hauv thawv loj dua, ntxiv av tshiab.
+
+### Kev Pab Cuam
+
+- Hu rau Home Horticulture Helpline:
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- [Saib yees duab txog kev cog hauv thawv](https://www.youtube.com/watch?v=wHnYV-kgJ0c)
+- Rau ntau daim ntawv thiab yees duab ntxiv, mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+#### Lub Tsev Kawm Qib Siab Oregon State University Extension Service tsis pub ua txhaum cai hauv txhua txoj haujlwm, kev pab, kev ua, thiab cov ntaub ntawv, tsis hais haiv neeg, xim, teb chaws, kev ntseeg, poj niam txiv neej, kev lees paub poj niam txiv neej (xws li kev qhia poj niam txiv neej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, txij nkawm, tsev neeg, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, txoj hauj lwm tub rog, lossis kev rau txim vim tau tiv thaiv txoj cai. (Tsis yog txhua yam kev txwv no muaj cuam tshuam rau txhua txoj haujlwm).
+---

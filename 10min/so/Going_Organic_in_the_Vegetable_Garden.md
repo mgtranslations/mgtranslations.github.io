@@ -1,43 +1,84 @@
-Jaamacadda 10-Daqiiqo™  
-Ururka Clackamas County Master Gardener oo wada shaqeyn la leh iyo taageerada  
-Barnaamijka OSU Extension Master Gardener™  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ee Degmada Clackamas oo la kaashanaya lana taageeraya Barnaamijka Master Gardener™ ee OSU Extension
 
-Ka Organiyeynta Beeraha Khudaarta  
+# Beeralayda Khudradda ee Dabiiciga ah
 
-### Waa maxay “Beero Organic”?  
-Isticmaalka hababka “Beero Organic” waxay ka dhigan tahay in la joojiyo isticmaalka alaabta synthetic. Bedelkeeda, waxaa la adeegsanayaa kaliya alaab dabiici ah oo lagu kobciyo ciidda lana xakameeyo lana daweeyo cudurrada, cayayaanka, iyo haramaha. Wax walba kale waa sidii caadiga ahayd; waxaad beeri, daryeesho, waraabin, oo goosan sidii hore. Waxaad dooran kartaa inaad si buuxda ugu wareegto hababka organic ama inaad isku dhex daro habab kala duwan. Tusaale ahaan, waxaad dooran kartaa inaad ka saarto sunta cayayaanka synthetic iyo haramaha balse aad sii wadato isticmaalka bacriminta synthetic.  
+### Waa maxay “Beeralayda Dabiiciga ah”?
 
-### Compost-ku wuxuu dhisaa ciid caafimaad leh  
-Ciid wanaagsan waa furaha beerashada guulaysata, waxaana lagu hagaajin karaa adigoo ku daraya compost-ka walxaha organic ee ciidda. Ku bilow beer cusub adigoo sanad walba ku daraya 2 ilaa 4 inch oo compost ah. Ku dar wax badan haddii ciidda ay tahay mid aad u culus (clay) ama mid aad u carro badan (sandy). Qiyaastii kala bar walxaha organic ee compost-ka ayaa sanad walba burbura. Sidaas darteed, walxaha organic-ka ayaa ku ururaya ciiddaada waqti ka dib. Haddii aad rabto natiijooyin degdeg ah, samee sariiro kor loo qaaday (raised beds) oo ka sameysan ciidda deegaanka, compost, carro, iyo saxaro xoolo.  
+Markaad qaadato habka “Beeralayda Dabiiciga ah” waxay ka dhigan tahay in aad joojiso isticmaalka alaabta kiimikada ah ee la sameeyay. Halkii aad ka isticmaali lahayd alaabo dabiici ah oo si dabiici ah u jirta oo dhulka kobcisa isla markaana xakameysa cudurrada, cayayaanka, iyo cawska aan loo baahnayn. Wax kasta oo kale waa sidoodii; waxaad beertaa, daryeeshaa, waraabisaa, oo goosataa sidii hore. Waxaad si buuxda ugu wareegi kartaa hababka dabiiciga ah ama waxaad isku dari kartaa habab kala duwan. Tusaale ahaan, waxaad dooran kartaa in aad joojiso isticmaalka sunta cayayaanka iyo cawska ee kiimikada ah, laakiin aad sii wadato isticmaalka bacriminta kiimikada qaarkood.
 
-Ku darista compost-ka ciidda waxay hagaajinaysaa qaab dhismeedka ciidda iyo caafimaadkeeda muddada dheer. Si kastaba ha ahaatee, maaha ilo lagu kalsoonaan karo oo bacriminta. Meelaha ay muhiim tahay kobaca xooggan, sida beerta khudaarta, ku dar bacriminta dheeraad ah.  
+---
 
-### Bacriminta Organic-ka Waxay Ku Kordhisaa Bacrin  
-- Ciidda way lumisaa bacrinteeda waqti ka dib: dhirta waxay isticmaashaa nafaqooyinkooda marka ay koraan, roobka jiilaalka wuxuu dhaqaa nafaqooyinka fudud ee ciidda. Sidaas darteed, waxaan u baahanahay inaan sanad walba ku darno bacriminta.  
-- Dhirta waxay isticmaali kartaa kaliya nafaqooyinka fudud ee la milmi karo; bacriminta badan ee organic-ka waxay ka kooban tahay nafaqooyin aan la milmi karin oo ay tahay in ay burburiyaan noolaha ciidda ka hor inta aysan diyaar u noqon dhirta.  
-- Bacriminta organic-ka oo hore loo isku daray oo dheellitiran oo ay ku jiraan nitrogen (N), fosfooraska (P), iyo potassium (K) waa hab fudud oo lagu bilaabi karo.  
-- Haddii aad doorato inaad sameysato isku darkaaga, isku dar bacriminta si degdeg ah u shaqeysa iyo mid si tartiib ah u shaqeysa si ay dhirtaada u quudiyaan inta lagu jiro xilliga koritaanka oo dhan. Bacriminta organic ee si degdeg ah u shaqeysa (iyo N-P-K assay-keeda) waxaa ka mid ah emulsion-ka kalluunka (5-1-1); blood meal (15-1-1); fish meal (10-4-0); iyo bat guano (10-3-1). Bacriminta si tartiib ah u shaqeysa waxaa ka mid ah cottonseed meal (7-2-1); alfalfa (2-1-2); bone meal (2-15-0); soft rock phosphate (0-3-0); kelp meal (0-0-10); iyo greensand (0-0-5). Ku shaqee bacriminta si tartiib ah u shaqeysa ciidda dhowr bilood ka hor inta aadan dhirin. Noolaha ciidda way firfircoon yihiin markay heerkulku kulul yahay.  
-- Bacriminta sare ee ciidda ayaa muhiim u ah dhirta yar iyo kuwa la beeray inay koraan oo ay ku guuleystaan. Dhirta yar ee kobcaya waxay si fiican uga hortagi karaan cayayaanka iyo cudurrada waxayna si fiican ula tartami karaan haramaha. Bacriminta la milmi karo sida emulsion-ka kalluunka ee dareeraha ah waxay ka caawisaa dhirta yar inay si degdeg ah u xasilloonaan. Marka ciidda kululaato, nafaqooyinka bacriminta si tartiib ah u shaqeysa ayaa diyaar u noqon doona dhirta si ay u sii wadaan ilaa goosashada.  
-- Dalagyada daboolka jiilaalka waxay yarayn karaan nabaad-guurka ciidda iyo cadaadiska. Marka ay koraan, dhirtaani waxay ku qabsadaan nafaqooyinka ciidda iyaga si ay u yareeyaan inta uu roobku dhaqayo. Guga, jar ulaha iyo caleemaha dalagyada daboolka ka hor inta aysan ubax noqon oo ku dar xerada compost-ka. Rog ciidda si aad u disho xididada.  
+### Compost-ka wuxuu Dhisaa Dhul Caafimaad Qaba
 
-### Hababka Organic-ka ee Xakameynta Cayayaanka  
-- U fiirso si fiican. Tallaabada ugu horreysa ee xakameynta cayayaanka waa in la aqoonsado cayayaanka sababay dhaawaca. Isticmaalka sunta cayayaanka ama sunta loogu talagalay xakameynta cayayaanka ma caawin doonto haddii shimbiruhu yihiin ilaha dhaawaca. Waxaad ka heli kartaa caawimo Master Gardeners online ee www.metromastergardeners.org ama wac lambarrada telefoonka ee hoos ku qoran.  
-- Dhirta caafimaadka leh way yar yihiin inay soo jiitaan cayayaanka waxayna awood u leeyihiin inay ka koraan dhaawaca.  
-- Ka taxaddar xakameynta cayayaanka iyo cudurrada marka khudaartaadu ay tahay dhir yar. Dhirta yar ee jilicsan si degdeg ah ayaa loo burburin karaa; marka ay ku filan yihiin, dhirtu waxay u adkeysan karaan dhaawac iyada oo aan wax-soo-saarka laga lumin.  
-- Ka ilaalinta dhirta yar iyo kuwa la beeray cayayaanka waa mid ka mid ah hababka ugu waxtarka badan ee xakameynta cayayaanka organic-ka. Daboolka safka duulaya wuxuu ka ilaalinayaa cayayaanka duulaya iyo shimbiraha. Waxaa si toos ah loogu dul dhigi karaa dhirta waxaana dhinacyada lagu hayn karaa dhagxaan ama looxyo. Marka dhirtu koraan, waxay kor u riixayaan daboolka safka. Wakhtigaas, dhirtu way weyn yihiin oo aan soo jiidan cayayaanka badan. Daboolladaani waxay sidoo kale kululeeyaan ciidda si ay u dhiirrigeliyaan koritaanka dhirta yar ee degdegga ah.  
-- Galbeedka Oregon, slugs waa cayayaanka ugu weyn ee beerta. Furaha waa in la xakameeyo ka hor inta aan la beeriin abuurka ama dhirta la beeray. Baits-ka si aad ah uma shaqeeyaan marka slugs ay haystaan dhirta yar ee jilicsan si ay u quudiyaan; waxay burburin karaan saf dhan oo dhir yar ah hal habeen oo quudin ah. Gacanta ku gurguurinta habeenkii ama meelaha qarsoon maalintii, qalabka biirka, ama bait-ka organic ee slug-ka ah oo ay ku jiraan birta fosfooraska waxay noqon karaan kuwo waxtar leh.  
-- Cayayaanka faa’iido leh waa cayayaanka ugaarsada cayayaanka beerta waxayna ka caawiyaan yaraynta tirada cayayaanka beertaada. Nectar-ka iyo pollen-ka dhirta ubaxa yar waxay soo jiitaan cayayaanka faa’iidada leh ee dadka waa weyn ee beertaada. Beerta geedaha perennial-ka ah ee mint-ka, oregano, marjoram, iyo thyme waxay ubaxaan waqtiyo kala duwan inta lagu jiro xagaaga; ubaxyadani waxay soo jiitaan cayayaanka faa’iidada leh ee dadka waa weyn si ay ugu quudiyaan beertaada. Haddii ay booqdaan, qaar waxay dhigi doonaan ukun ka soo baxda cayayaanka ugaarsada cayayaanka beerta.  
-- Haddii wax walba ay kaa dhamaadaan, sunta organic-ka waxaa loo isticmaali karaa in lagu baabi’iyo cayayaanka waxyeellada leh. Aqoonsi cayayaanka ka hor inta aadan dooran sunta ka dhanka ah cayayaanka aad isku dayeyso inaad xakameyso. Tusaale ahaan, isticmaalka Bacillus thuringiensis si aad u xakameyso dirxiga butterfly ee dhirta qoyska cabbage-ka. Sunta guud ee balaaran ayaa si aan kala sooc lahayn u disha, waxay waxyeelleeyaan shinnida, cayayaanka faa’iidada leh, iyo noolaha ciidda. Rotenone, Neem, iyo Pyrethrins waa tusaalooyinka sunta organic ee balaaran.  
+Dhulka wanaagsan waa furaha beero guul leh, waxaana lagu hagaajiyaa ku darista walxaha compost-ka ah. Bilow beero cusub adigoo sanad kasta ku daraya 2 ilaa 4 inch oo compost ah. Isticmaal wax intaa ka badan haddii dhulkaagu yahay dhoobo culus ama carro aad u ciid ah. Qiyaastii kala bar walxaha dabiiciga ah ee compost-ka waxay burburaan sanad kasta. Sidaas darteed, walxaha dabiiciga ah waxay waqti ka dib ku ururaan dhulkaaga. Haddii aad rabto natiijo degdeg ah, samee sariir kor loo qaaday oo laga sameeyay dhul deegaanka ah, compost, ciid, iyo digada xoolaha.
 
-### Hababka Xakameynta Haramaha Organic  
-- Haramaha sannadlaha ah – kuwa sanad walba ka soo baxa abuurka – waxaa ugu wanaagsan in laga hortago inay abuur sameystaan iyo in la qodo ama gacanta looga saaro haramaha yar. La dagaalanka marka ay yar yihiin oo si fudud loo saari karo waa habka ugu wanaagsan. Ku dabool haramaha walxo organic ah, sida compost ama caws, si aad u daboosho abuurka haramaha. Waa inaad tan sameysaa xagaaga ka dib marka ciidda ay kululaato. Marka la beero, isticmaal dhirta la beeray halkii aad ka isticmaali lahayd abuurka si ay dhirta la beeray u hesho 3- ilaa 4-todobaad oo horumar ah oo ku saabsan haramaha tartamaya; dhirta si adag loo beero waxay hoos u dhigtaa haramaha yaryar ee abuurka ah. Mar labaad, habkani wuxuu si fiican u shaqeeyaa dhirta caafimaadka leh, si degdeg ah u koraya oo ka koraan haramaha.  
-- Haramaha sanadlaha ah – kuwa dib ugu soo laabanaya isla meeshii beertaada sanad walba – waxay noqon karaan kuwo adag in la xakameeyo. Haramahaasi waa in la saaraa ka hor inta aan la beeriin khudaarta. Sheet mulch waa bedelka haramaha: daboosha haramaha adoo isticmaalaya lakabyo qaro weyn oo warqad ah ama kartoon ah. Lakabyada waxaa lagu dul dhigi karaa oo ciidda lagu keeni karaa si loo dhiso sariiraha sheet mulch-ka kore. Waqti ka dib, sheet mulch-ka wuu burburayaa waxaana lagu dari karaa ciidda.  
+Ku darista compost-ka dhulka waxay hagaajisaa dhismaha iyo caafimaadka waqti-dheer ee dhulka. Si kastaba ha ahaatee, compost-ka ma aha isha ugu fiican ee bacriminta. Marka koritaanka xooggan la rabo, sida beerta khudradda, waxaa loo baahan yahay in lagu daro bacriminta dheeraad ah.
 
-### Kheyraadka Adeegga OSU Extension  
-[https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
+---
 
-### Talooyinka Master Gardener™  
-- Wac Khadka Caawinta Beeraha Guriga: 503-655-8631 (Clackamas County); 503-725-2300 (Washington County); 503-445-4608 (Multnomah County). Ama soo gudbi su’aal [www.metromastergardeners.org](http://www.metromastergardeners.org)  
-- Booqo website-ka Clackamas Chapter Master Gardeners’ [www.cmastergardeners.org](http://www.cmastergardeners.org) si aad u hesho qoraallada Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada bilaashka ah.  
+### Bacriminta Dabiiciga ah waxay Kordhisaa Wax-soosaarka
 
-Adeegga Fidinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka iyadoo lagu saleynayo jinsiyadda, midabka, asal qaran, diinta, jinsi, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jahada galmada, naafonimada, da’da, heerka guurka, heerka qoyska/waalidka, dakhliga laga helo barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sideyaasha, heerka halyeeynimada, aargoosi ama ciqaabta ka dhalatay hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada mamnuuca ah ma khuseeyaan dhammaan barnaamijyada.)
+- Dhulku wuxuu waayaa bacrimintiisa waqti ka dib: dhirta ayaa isticmaasha nafaqooyinka marka ay korto, roobabkana waxay dhaqaan nafaqooyinka dhulka ku milma. Sidaas darteed, waa in la isticmaalaa bacriminta sanad kasta.
+- Dhirta waxa ay isticmaali karaan oo kaliya nafaqooyinka dhulka ku milma; bacriminta dabiiciga ah badankeed waxay ka kooban tahay nafaqooyin aan si fudud u milmin oo u baahan in ay jeermiska dhulka burburiyaan si dhirta uga faa’iidaysato.
+- Bacriminta dabiiciga ah ee horey loo isku qasay oo dheellitiran kana kooban nitrogen (N), phosphorus (P), iyo potassium (K) waa hab fudud oo lagu bilaabo.
+- Haddii aad rabto inaad samaysato isku darkaaga, isku dar bacriminta si degdeg ah u shaqaysa iyo mid si tartiib ah u shaqaysa si dhirtaadu ay cunto u hesho xilliga oo dhan ee koritaanka.
+
+  Bacriminta dabiiciga ah ee si degdeg ah u shaqaysa (iyo cabbiradooda N-P-K) waxaa ka mid ah:
+  - Emulsion kalluun (5-1-1)
+  - Dhiig la qalajiyey (15-1-1)
+  - Cunto kalluun (10-4-0)
+  - Digaagga bakaylaha (10-3-1)
+
+  Bacriminta si tartiib ah u shaqaysa waxaa ka mid ah:
+  - Cunto abuur suuf ah (7-2-1)
+  - Alfalfa (2-1-2)
+  - Cunto lafta xoolaha (2-15-0)
+  - Fosfate dhagax jilicsan (0-3-0)
+  - Cunto kelp (0-0-10)
+  - Greensand (0-0-5)
+
+  Bacriminta si tartiib ah u shaqaysa waa in dhulka lagu daree bilo ka hor inta aan la beerin. Jeermiska dhulka waxa uu firfircoon yahay marka heerkulku kululaado.
+
+- Bacrimin sare oo dhulku leeyahay waa muhiim si abuurka iyo dhirta la beddelayo ay u koraan si fiican. Abuurka xooggan waxa ay awoodi karaan inay iska difaacaan cayayaanka iyo cudurrada, sidoo kalena tartamaan cawska aan loo baahnayn. Bacriminta ku milanta biyaha sida dareeraha kalluunka waxay ka caawisaa dhirta yar in ay si dhakhso leh u koraan. Marka dhulku kululaado, nafaqooyinka bacriminta si tartiib ah u shaqaysa waxay noqdaan kuwo dhirtu heli karto ilaa goosashada.
+- Dalagyada daboolka ah ee lagu beero jiilaalka waxay yareyn karaan nabaad-guurka iyo isku-buufinta dhulka. Marka ay koraan, dhirtani waxay ku xiraan nafaqooyinka dhulka si roobku uusan u dhaqin. Guga, jar jar dhirta daboolka ah ka hor intaysan ubaxin oo ku dar compost-ka. Dhulka rogo si xididdada loo dilo.
+
+---
+
+### Hababka Dabiiciga ah ee La-dagaalanka Cayayaanka
+
+- **U fiirso si taxaddar leh.** Talaabada koowaad ee la-dagaalanka cayayaanka waa in la aqoonsado cayayaanka waxyeelada geysanaya. Isticmaalidda sunta caarada ama sunta cayayaanka loogu talagalay ma tarayso haddii shimbiruhu yihiin kuwa waxyeelada leh. Waxaad ka heli kartaa caawimaad Master Gardeners [www.metromastergardeners.org](http://www.metromastergardeners.org) ama wac lambarrada hoos ku xusan.
+- Dhirta caafimaadka qabta waxay u nugul yihiin in ay cayayaan la soo darsaan waxaana ay awood u leeyihiin in ay ka koraan waxyeelada.
+- Si gaar ah uga taxaddar la-dagaalanka cayayaanka iyo cudurrada marka dhirtaadu tahay abuur ama geedo yar yar. Dhirta yaryar ee jilicsan si degdeg ah ayaa waxyeelo loogu geysan karaa; marka ay weynaatana waxay u dulqaadan kartaa waxyeelo iyada oo aan wax-soosaarku yaraan.
+- Ka ilaalinta abuurka iyo dhirta la beddelayo cayayaanka waa hab ka mid ah kuwa ugu wax ku oolka badan ee la-dagaalanka cayayaanka. Daboolka sariiraha sabbaynaya wuxuu ka ilaaliyaa cayayaanka duulaya iyo shimbiraha. Waxaa si toos ah loogu saari karaa dhirta waxaana dhinacyada looga hayn karaa dhagaxyo ama looxyo. Marka dhirtu koraan, waxay kor u riixaysaa daboolka. Markaas dhirtu waxay noqotaa mid weyn oo aan u muuqan cayayaanka badankooda. Dabooladani waxay sidoo kale kululeeyaan dhulka si abuurka si dhakhso leh u koraan.
+- Galbeedka Oregon, caarada waa cayayaanka ugu weyn ee beerta. Furaha waa in la xakameeyo ka hor inta aan la beerin abuurka ama geedaha la beddelayo. Sunta caarada ma waxtar badna marka caaradu haysato dhir yaryar oo jilicsan; waxay hal habeen ku baabi’in kartaa dhir dhan. Gacanta lagu ururiyo habeenkii ama meelaha ay ku dhuuntaan maalintii, qabashada caarada, tuulooyinka biirka, ama sunta caarada ee dabiiciga ah ee ay ku jirto iron phosphate dhammaan waa waxtar.
+- Cayayaanka waxtarka leh waa cayayaan quudiya cayayaanka beerta waxyeelada ka geysta waxayna yareeyaan cayayaanka beertaada. Malabka iyo pollen ka dhirta ubaxa yaryar waxay soo jiitaan cayayaanka waxtarka leh. Beerta geedaha udgoon ee muddooyin kala duwan ubaxda sida naasaha, oregano, marjoram, iyo thyme waxay soo jiitaan cayayaanka waxtarka leh xilliga xagaaga. Haddii ay yimaadaan, qaar waxay dhigaan ukumo ka gogo’a oo noqda cayayaan la dagaalama cayayaanka waxyeelada leh.
+- Haddii wax walba kale fashilmaan, sunta dabiiciga ah waa la isticmaali karaa si loo tirtiro cayayaanka waxyeelada leh. Aqoonso cayayaanka ka hor intaadan dooranin sunta cayayaanka gaarka ah.
+
+  Tusaale: Isticmaalka Bacillus thuringiensis si loo xakameeyo abuurka balanbalka kaabashka ee dhirta kaabashka. Sunta baahsan waxay dishaa dhammaan cayayaanka oo ay ku jiraan shinnida, cayayaanka waxtarka leh, iyo jeermiska dhulka. Rotenone, Neem, iyo Pyrethrins waa tusaaleoyinka sunta dabiiciga ah ee baahsan.
+
+---
+
+### Hababka Dabiiciga ah ee Xakamaynta Cawska
+
+- **Cawska sannadlaha ah** – kuwaas oo sanad kasta ka soo baxa abuur – waxaa ugu fiican in laga hortago in ay abuur sameeyaan iyo in la jaro ama gacanta laga rujiyo marka ay yaryar yihiin. Markaad weerarto marka ay yaryar yihiin oo si fudud loo rujin karo waa habka ugu fiican. Daboolidda dhulka adigoo isticmaalaya walxo dabiici ah sida compost ama caws qalalan waxay dabooshaa abuurka cawska. Waa in aad tan samaysaa xagaaga marka dhulku kululaado. Marka la beerayo, isticmaal geedo la beddelay halkii aad abuur ka isticmaali lahayd si geedaha la beddelay ay 3 ilaa 4 toddobaad uga hormaraan cawska tartamaya; geedo la isku dhejiyay si dhow waxay daboolaan abuurka cawska. Mar kale, habkani wuxuu si fiican ugu shaqeeyaa dhirta caafimaadka qabta ee si degdeg ah u koraan.
+- **Cawska sannad walba soo baxa** – kuwaas oo isla meesha kaaga beerta mar kasta ka soo baxa – way adag tahay in la xakameeyo. Cawskaasi waa in laga saaraa ka hor inta aanad beerta khudradda beeri. Mulching xaashiyo ah waa beddelka caws jarista: ku dabool cawska xaashi wargeysyo ama kartoono ah. Xaashiyahaas ayaa la dhigi karaa kadibna carro cusub ayaa lagu dul shubi karaa si beero loogu sameeyo. Waqti ka dib, xaashiyahaasi way burburaan waxaana lagu dari karaa dhulka.
+
+---
+
+### Kheyraadka Adeegga OSU Extension
+
+Booqo [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Talo Beeralayda Master-ka ah
+
+- **Wac Khadka Gargaar ee Guriga:**
+  - 503-655-8631 (Degmada Clackamas)
+  - 503-725-2300 (Degmada Washington)
+  - 503-445-4608 (Degmada Multnomah)
+- Weydiiso su’aal [www.metromastergardeners.org](http://www.metromastergardeners.org)
+- Booqo bogga Master Gardeners ee Clackamas [www.cmastergardeners.org](http://www.cmastergardeners.org) si aad u hesho qoraallo iyo jadwalka fasallada bilaashka ah ee Jaamacadda 10-Daqiiqo™.
+
+---
+
+##### Adeegga OSU Extension waxay mamnuucday takoorid dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabyada ku saleysan: midab, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, xaaladda askarinimo, aargoosiga ama falcelinta ka dhalata hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyada mamnuuca ah ma khuseeyaan dhammaan barnaamijyada.)
+---

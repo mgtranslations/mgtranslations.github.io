@@ -1,98 +1,174 @@
-# 10-Minute University™
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-**Cov koom haum Clackamas County Master Gardener Association tau koom tes nrog thiab txhawb nqa cov OSU Extension Master Gardener™ Program**
-
-## Kev Tsim Vaj Tsev Zoo Kom Txo Kev Kub Ntxhov
+# Tsim Tsev Teb Taws Teeb Kom Txo Tawm Taws Hav Zoov
 
 ### Taw Qhia
-Kev tsim vaj tsev zoo pab tiv thaiv koj tsev, vaj tse, thiab cawm tau neeg txoj sia. Kev tsim qauv zoo thiab kev xaiv cov nroj tsuag kom txawj pab tsim ib qho chaw tiv thaiv ze rau koj tsev. Muaj ntau yam khoom siv vaj tsev zoo nkauj thiab tiv thaiv hluav taws, suav nrog ntoo, tsob nroj, thiab paj. Kev tiv thaiv hluav taws tsis yog txhais tias yuav tiv thaiv tau txhua yam. Cov lus qhia no tsuas yog siv los pab qhia, tsis yog kev lav tau.
 
-### Xyuas Koj Tsev thiab Vaj Tsev rau Cov Txheej Txheem Kub Ntxhov
-Muaj ntau yam uas koj tuaj yeem ua tau kom txo qhov kev phom sij! Ob yam tseem ceeb txiav txim seb ib lub tsev puas muaj sia nyob thaum muaj hluav taws: 
-
-1. Kev ua tau zoo ntawm qhov chaw tiv thaiv ze rau nws (piv txwv, kev nkag mus rau vaj tse rau cov neeg tua hluav taws).
-2. Qhov kev muaj peev xwm kom zoo tiv thaiv hluav taws ntawm tsev. Ob yam no yog qhov Home Ignition Zone (HIZ).
-
-#### Thaj Chaw Ze, HIZ 1
-- Npog qhov chaw los ntawm tsev mus txog 5 feet ntawm qhov chaw tsim khoom. 
-- Lub hom phiaj: txo qhov kev phom sij ntawm hluav taws nyob ze tsev.
-- Tsis muaj nroj tsuag tshwj tsis yog cov paj hauv lub tais/thawv thiab nyom zoo khaws cia.
-
-#### Thaj Chaw Nruab Nrab, HIZ 2
-- Npog 5-30 feet nyob ib ncig ntawm koj tsev. 
-- Lub hom phiaj: tiv thaiv hluav taws tsis txhob nce mus rau sab saud hauv ntoo lossis tsob nroj kom pab tsev nyob ruaj ntseg.
-- Tshem tawm “ladder fuels” - cov ceg ntoo qis thiab tsob nroj nyob ze uas ua rau hluav taws nce mus txog tsev. Qhov chaw no yuav tsum “tsawg, huv, thiab ntsuab.”
-
-#### Thaj Chaw Dav, HIZ 3
-- Npog 30-100 feet (lossis ntau dua) nyob ib ncig ntawm koj tsev. 
-- Lub hom phiaj: txo lub zog ntawm hluav taws thiab qeeb nws mus txog cov vaj tse.
-- Qhov chaw no yuav loj dua yog tias muaj toj siab vim toj siab ua rau hluav taws muaj zog dua. Tsim ib txoj kev huv, tsis txuas ntxiv ntawm cov nroj tsuag, ua rau hluav taws nyuaj mus txog vaj tse.
-
-Source: National Fire Protection Association
+Kev tsim tsev teb kom tiv taus hluav taws pab tiv thaiv koj lub tsev, koj lub cuab yeej, thiab cawm tau tib neeg txoj sia. Kev npaj kom zoo thiab xaiv nroj tsuag kom haum yuav pab tsim ib cheeb tsam tiv thaiv nyob ib ncig koj lub tsev. Muaj ntau hom nroj tsuag zoo nkauj thiab tiv taus hluav taws xws li xyoob, tsob ntoo, nroj tsuag, thiab paj. Nroj tsuag tiv taus hluav taws tsis txhais hais tias yuav tsis hlob hlo. Daim ntawv no yog kev qhia xwb, tsis yog kev lav.
 
 ---
 
-## Kev Tiv Thaiv Cov Tsev los ntawm Kev Kub Ntxhov
+### Tshawb Xyuas Koj Lub Tsev thiab Chaw Nyob Rau Yam Ua Rau Hluav Taws
 
-Puas paub tias feem ntau ntawm cov tsev uas poob rau hluav taws yog los ntawm cov embers ntawm hluav taws tsis yog hluav taws nws tus kheej? Nco ntsoov rau qhov kev kub ntxhov ntawm cov tsev xws li tsev, laj kab, rooj zaum, thiab vaj tse. Qhov ru tsev yog qhov feem ntau kev phom sij thaum hluav taws los vim cov embers ya. Cov embers kuj nkag tau los ntawm qhov cua. Pauv cov khoom siv tsev uas tuaj yeem kub tau rau cov khoom siv uas tiv thaiv hluav taws zoo dua, xws li hlau, pobzeb, pavers, thiab pob zeb. Siv cov qhov cua tiv thaiv hluav taws uas tsim los kom muaj kev ruaj ntseg. Siv cov khoom siv ru tsev Class 1 thiab khaws cov ru tsev thiab cov gutters kom huv ntawm cov khoom pov tseg organic kom tiv thaiv hluav taws.
+Muaj ntau yam uas koj ua tau los pab txo kev pheej hmoo! Muaj ob yam tseem ceeb uas txiav txim siab tias lub tsev puas yuav muaj peev xwm tiv taus hluav taws:
 
-Khaws cov ntoo, nroj tsuag, thiab cov khoom uas tuaj yeem kub tau xws li cov ntoo siab thiab cov nroj tsuag tuab nyob ze lub tsev, qhov cua, qhov rai, thiab rooj zaum kom deb ntawm tsev.
+1. **Kev muaj chaw tiv thaiv hluav taws nyob ib ncig ntawm lub tsev** (piv txwv, cov neeg tua hluav taws nkag tau yooj yim).
+2. **Qhov yooj yim uas hluav taws nkag tau rau hauv lub tsev.**
 
----
+Ob yam no hu ua **Cheeb Tsam Hluav Taws Nkag Tsev (Home Ignition Zone, HIZ).**
 
-## Kev Tsim Vaj Tsev Zoo piv rau Kev Tsim Vaj Tsev Txheem
+#### Cheeb Tsam Ze Zog (HIZ 1)
 
-### Cov Cim ntawm Cov Nroj Tsuag Tiv Thaiv Hluav Taws
-Cov yam ntxwv tseem ceeb: Cov dej ua kom txias, ceg ntoo qhib, thiab cov nroj tsuag uas tsis muaj roj. Cov dej ua kom txias ua rau hluav taws tsis muaj zog, txo kev kis hluav taws. Feem ntau, ntoo uas poob nplooj (deciduous) thiab nroj tsuag tsis kub ntau npaum li conifers.
+- **Muaj xws li:** Lub tsev mus txog 5 taw ntawm tus ntsis tsev.
+- **Lub hom phiaj:** Txo kev pheej hmoo hluav taws nkag ze lub tsev.
+- **Kev coj raws li no:**
+  - Tsis txhob cog nroj tsuag (tsuas yog cov paj tso rau hauv pob tawb lossis thawv, thiab nyom uas saib xyuas zoo).
 
-### Cov Cim ntawm Cov Nroj Tsuag Kub Tau Zoo
-Cov nroj tsuag uas kub tau yooj yim muaj dej tsawg thiab feem ntau muaj cov roj, resins, wax, lossis pitch. Piv txwv suav nrog ornamental juniper, Leyland cypress, Italian cypress, rosemary, arborvitae, eucalyptus.
+#### Cheeb Tsam Nruab Nrab (HIZ 2)
 
----
+- **Muaj xws li:** 5–30 taw ncig lub tsev.
+- **Lub hom phiaj:** Tiv thaiv hluav taws kom tsis txhob nce mus rau saum tsob ntoo lossis nroj tsuag kom lub tsev muaj kev nyab xeeb.
+- **Kev coj raws li no:**
+  - Tshem tawm “ladder fuels” (cov ceg ntoo qis thiab nroj tsuag nyob ze uas ua kom hluav taws nce tau mus txog lub tsev).
+  - Cheeb tsam no yuav tsum “ntxiv, huv, thiab ntsuab.”
 
-## Cov Nroj Tsuag Tiv Thaiv Hluav Taws vs Cov Nroj Tsuag Kub Tau Zoo
+#### Cheeb Tsam Deb (HIZ 3)
 
-### Cov Nroj Tsuag Tiv Thaiv Zoo
-**HIZ 1**: Cov nroj tsuag uas tsim nyog suav nrog cov paj txhua xyoo thiab nyom. Khaws cia kom muaj dej zoo.  
-**HIZ 2**: Suav nrog cov shrubs qis, ceg ntoo qhib xws li lilac thiab snowberry nrog rau cov ntoo me xws li vine maple thiab crabapple. Cov paj txhua xyoo thiab cov paj tsis muaj volatile compounds kuj siv tau.  
-**HIZ 3**: Muaj cov ntoo loj thiab shrubs nrog qhov chaw sib nrug tsim nyog. Cov ntoo raug txiav kom siab thiab muaj qhov chaw qhib loj ntawm lawv. Cov ntoo poob nplooj, xws li flowering dogwood thiab western catalpa, tuaj yeem tiv thaiv hluav taws tau zoo. Ponderosa pine thiab western larch yog cov tiv thaiv hluav taws zoo tshaj ntawm cov conifers.
+- **Muaj xws li:** 30–100 (lossis ntau dua) taw ncig lub tsev.
+- **Lub hom phiaj:** Txo hluav taws lub zog thiab qeeb qeeb nws kom tsis txhob nkag tau mus txog tsev.
+- **Kev coj raws li no:**
+  - Tsim kom muaj kev huv thiab tsis muaj nroj tsuag txuas mus li, kom hluav taws tsis tuaj ncaj qha rau lub tsev.
+  - Cheeb tsam no yuav loj dua yog tias muaj toj roob hauv pes, vim toj roob hauv pes ua kom hluav taws nce siab dua.
 
-### Cov Nroj Tsuag Kub Tau Zoo kom Tshem Tawm
-**HIZ 1**: Tshem tawm cov shrubs, tshwj xeeb tshaj yog cov uas muaj volatile compounds, xws li juniper, arborvitae, thiab rosemary. Tshem tawm cov ntoo uas nyob ze ru tsev uas tsim roof litter rau cov embers.  
-**HIZ 2 & 3**: Conifers feem ntau kub tau yooj yim dua ntoo poob nplooj. Nco ntsoov tshem tawm cov nroj tsuag phem xws li blackberry thiab French broom. Yog tias tsis tswj, lawv tuaj yeem tsim tau cov khoom pov tseg qhuav uas ntxiv roj rau hluav taws.
-
----
-
-## Kev Tu Vaj Tsev Zoo
-
-### Cov Kev Xyaum Zoo Hauv Tsev
-**HIZ 1**: Khaws cov nroj tsuag kom muaj dej thiab txiav zoo. Tshem tawm cov khoom pov tseg ntawm nroj tsuag tuag. Khaws nyom kom txiav zoo.  
-**HIZ 2**: Khaws cov nroj tsuag kom muaj dej thiab txiav zoo. Qhov chaw no tuaj yeem muab mulch yog tias muaj dej. Khaws cov khoom pov tseg.  
-**HIZ 3**: Tsim ib txoj kev nkag dav kom cov neeg pab cuam tuaj yeem txav tau yooj yim. Khaws cov ntoo/shrubs kom zoo los ntawm txiav cov ceg qis thiab tshem tawm cov ceg ntoo qhuav lossis muaj kab mob. Tshem tawm cov nroj tsuag phem loj hlob ntau. Txiav cov nroj tsuag tuab thiab txo cov ntoo sib zog.
-
-### Cov Kev Phom Sij Hluav Taws Nyob Ze Tsev
-**HIZ 1**: Mulch tsis pom zoo vim nws yooj yim kub tau. Cov laj kab ntoo, qhov rooj, thiab arbors tuaj yeem ua cov “ladder fuels.” Khaws cov rooj zaum ntoo zoo thiab tsis khaws cov khoom uas kub tau nyob hauv lossis ze rooj zaum.  
-**HIZ 2**: Txhob tso cov nroj tsuag kub tau yooj yim nyob ze rau ib yam vaj tse. Khaws nyom kom txiav zoo. Khaws cov khoom pov tseg ntawm nroj tsuag.  
-**HIZ 3**: Khaws cov ntoo rau hluav taws tsawg kawg 30 feet deb ntawm tsev.
+*Chaw Qhia: National Fire Protection Association*
 
 ---
 
-## Cov Khoom Siv Vaj Tsev Tiv Thaiv Hluav Taws vs Cov Khoom Siv Vaj Tsev Kub Tau Zoo
+### Qhov Yooj Yim Hluav Taws Nkag Tsev
 
-### Cov Khoom Siv Tiv Thaiv Hluav Taws
-Cov khoom siv uas tsis kub tau: pob zeb, gravel, cib, pob zeb loj, hlau, txhuas, iav. Nyom thiab cov nroj tsuag qis tuaj yeem qeeb hluav taws thiab tsim kev tiv thaiv hluav taws.
+Koj puas paub tias feem ntau tsev uas poob rau hluav taws yog vim cov tshauv ya los ntawm hluav taws, tsis yog hluav taws los ncaj qha?
 
-### Cov Khoom Siv Kub Tau Zoo
-Kev xeem qhia tias Western red cedar bark yog mulch uas yooj yim kub tau. Cov laj kab, qhov rooj, thiab trellises uas ua los ntawm ntoo kuj kub tau yooj yim.
+#### Yam Tseem Ceeb
+
+- **Vaj Tse:**
+  - Vaj tse yog qhov yooj yim tshaj hauv hluav taws vim tshauv ya tuaj.
+  - Siv cov khoom ruaj khov tiv taus hluav taws (Class 1) rau saum tsev thiab ntxuav cov vaj tse thiab gutters kom tsis muaj nroj tsuag qhuav.
+- **Khoom Siv Tsev:**
+  - Hloov cov khoom uas yuav kub tau ua kom siv cov khoom tiv thaiv hluav taws xws li hlau, pob zeb, paving, thiab pob zeb loj.
+  - Siv qhov cub tshwj xeeb tiv thaiv tshauv thiab hluav taws.
+- **Khoom Yooj Yim Kub:**
+  - Khaws taws ntoo, ceg ntoo, thiab nroj tsuag tuab tawm ntawm tsev, qhov cub, qhov rais, thiab chaw ua si.
 
 ---
 
-## Xav Paub Ntxiv
+### Tsim Teb Taws Teeb thiab Tsim Teb Ib Txwm
 
-- **The Home Ignition Zone: Protecting your property from wildfire**  
+#### Cov Nroj Tsuag Tiv Taus Hluav Taws Muaj Cov Yam Ntaus
+
+- Dej nyob ntau hauv nroj tsuag.
+- Ceg ntoo qhib thiab tsis muaj roj los yog tshuaj uas yooj yim kub.
+- Tsob ntoo thiab nroj tsuag poob nplooj feem ntau tsis kub li cov ntoo evergreen.
+
+#### Cov Nroj Tsuag Yooj Yim Kub Muaj Cov Yam Ntaus
+
+- Dej tsawg hauv nroj tsuag.
+- Muaj roj, tshuaj, cawv, los yog cob.
+- Piv txwv: Juniper zoo nkauj, Leyland Cypress, Italian Cypress, Rosemary, Arborvitae, Eucalyptus.
+
+---
+
+### Xaiv Nroj Tsuag Tiv Taus Hluav Taws
+
+#### HIZ 1
+
+- **Pom zoo:** Cov paj ib xyoos thiab nyom (tu kom dej txaus).
+- **Tsis pom zoo:** Nroj tsuag muaj roj (piv txwv, juniper, arborvitae, rosemary). Tsis txhob cog ntoo uas ceg hla saum tsev.
+
+#### HIZ 2
+
+- **Pom zoo:**
+  - Nroj tsuag qis thiab ceg ntoo qhib (piv txwv, lilac, snowberry).
+  - Tsob ntoo me me (piv txwv, vine maple, crabapple).
+  - Cov paj ib xyoos thiab ntau xyoo uas tsis muaj roj.
+- **Tsis pom zoo:** Nroj tsuag yooj yim kub nyob ze tsev.
+
+#### HIZ 3
+
+- **Pom zoo:**
+  - Tsob ntoo thiab nroj tsuag loj, cog kom sib nrug.
+  - Tsob ntoo poob nplooj (piv txwv, flowering dogwood, western catalpa).
+  - Cov evergreen tiv taus hluav taws (piv txwv, ponderosa pine, western larch).
+- **Tsis pom zoo:**
+  - Evergreen nyob ze tsev.
+  - Pawg nroj tsuag txawv teb chaws (piv txwv, blackberry, French broom).
+
+---
+
+### Kev Tu Tsev thiab Teb Kom Zoo
+
+#### HIZ 1
+
+- Tu nroj tsuag kom txaus dej thiab txiav ceg.
+- Tshem tawm nroj tsuag tuag.
+- Txiav nyom.
+
+#### HIZ 2
+
+- Tu nroj tsuag kom muaj dej thiab txiav ceg.
+- Muab mulch yog tias muaj dej txaus.
+- Khaws thiab tshem tawm nroj tsuag tuag.
+
+#### HIZ 3
+
+- Tsim kev taug kom First Responders nkag tau yooj yim.
+- Txiav ceg qis ntawm cov ntoo thiab nroj tsuag laus.
+- Tshem tawm nroj tsuag txawv teb chaws loj hlob dhau.
+- Txiav nroj tsuag tuab thiab txo pawg ntoo sib ze.
+
+---
+
+### Yam Ua Rau Hluav Taws Nyob Ze Tsev thiab Chaw Nyob
+
+#### HIZ 1
+
+- Tsis txhob siv mulch vim nws yog khoom yooj yim kub.
+- Ntoo laj kab, rooj vag, thiab arbor yuav ua kom hluav taws nce tau.
+- Tu rooj tog ntoo thiab tsis txhob khaws khoom yooj yim kub hauv qab los sis ze ntawd.
+
+#### HIZ 2
+
+- Tsis txhob cog nroj tsuag yooj yim kub nyob ze tsev.
+- Txiav nyom thiab tshem tawm nroj tsuag tuag.
+
+#### HIZ 3
+
+- Khaws taws ntoo yam tsawg kawg 30 taw ntawm tsev.
+
+---
+
+### Cov Lus Qhia Rau Cov Khoom Siv Tsim Teb Tiv Taus Hluav Taws
+
+#### Cov Khoom Pom Zoo
+
+- Cov khoom tsis kub: Cement, gravel, cib, pob zeb, hlau, aluminium, iav.
+- Nyom thiab nroj tsuag qis yuav pab qeeb hluav taws thiab tsim kev thaiv hluav taws.
+
+#### Cov Khoom Yooj Yim Kub
+
+- Western red cedar bark yog mulch yooj yim kub tshaj plaws.
+- Laj kab, rooj vag, thiab trellis uas yog ntoo yooj yim kub.
+
+---
+
+### Xav Paub Ntxiv
+
+- **Cheeb Tsam Hluav Taws Nkag Tsev: Tiv Thaiv Koj Cov Cuab Yeej Cuab Yig Ntawm Hluav Taws Hav Zoov**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf)
 
-- **Fire-Resistant Plants for Home Landscapers**  
+- **Nroj Tsuag Tiv Taus Hluav Taws Rau Tsev Teb**  
   [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)
 
-**Oregon State University Extension Service** tsis pub muaj kev ntxub ntxaug nyob rau hauv tag nrho nws cov kev pab cuam, kev pabcuam, kev ua haujlwm, thiab cov ntaub ntawv.
+---
+
+###### Oregon State University Extension Service tsis pub qhov kev cais tawm hauv nws cov kev pab cuam, kev pab, kev ua ub no, thiab ntaub ntawv vim haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev txheeb ze (xws li kev qhia txog tus kheej), kev nyiam poj niam txiv neej, kev xiam oob khab, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj los ntawm kev pab pej xeem, kev ntseeg pej xeem, ntaub ntawv caj ces, kev ua tub rog, kev raug tsim txom, los sis kev raug pauj vim ua hauj lwm rau kev txhawb txoj cai. (Tsis yog txhua yam txwv no siv rau txhua txoj kev pab cuam.)
+---

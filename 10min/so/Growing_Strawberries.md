@@ -1,62 +1,79 @@
-# Jaamacadda 10-Daqiiqo™  
-Ururka Beeraleyda Khabiirka ee Degmada Clackamas oo iskaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Clackamas County ee Master Gardener oo kaashanaya lana taageeraya Barnaamijka OSU Extension Master Gardener™
 
-## Korinta Faraantiyada  
+# Sida loo Koro Suufka (Strawberries)
 
-### Maxaa Looga Koray Faraantiyada?  
-- Haddii aad si habboon u daryeesho dhirta, waxaad ka heli kartaa miro ku filan qoyskaaga xitaa meel yar.  
-- Faraantiyada waxay sii wadaan inay soo saaraan miro muddo 3 ilaa 4 sano ah.  
+### Maxaad U Beerataa Suufka?
+- Haddii aad si fiican u daryeesho dhirta, waxaad ka heli kartaa suuf ku filan qoyskaga xataa dhul yar.
+- Beeraha suufka waxay sii bixi karaan miro muddo 3 ilaa 4 sano ah.
 
-### Noocyada Faraantiyada  
-- **June-bearers** – Hal mar ayey sannadkii midho keenaa, badanaa bisha Juun. Tusaalooyin waxaa ka mid ah Hood, Totem, Benton, Sweet Sunrise, iyo Tillamook. Waxay soo saaraan laamo badan.  
-- **Everbearers** – Laba goor ayey midho keentaa, mid bisha Juun ama Luulyo iyo mid kale xilliga dayrta. Tusaalooyin waxaa ka mid ah Quinault iyo Fort Laramie. Waxay soo saaraan laamo yar.  
-- **Day-neutrals** – Waxay midho keentaa inta badan xilliga koritaanka ilaa ay aad u kululaato. Kuwani waa nooca ugu fiican beerta guriga iyo weelasha. Tusaalooyin waxaa ka mid ah Albion, Seascape, Selva, Tristar, iyo Tribute.  
+### Noocyada Suufka
+- **June-bearers** – Waxay soo saaraan hal goosasho oo keliya sanadkii, badanaaba bisha Juun. Tusaalooyin waxaa ka mid ah Hood, Totem, Benton, Sweet Sunrise, iyo Tillamook. Waxay soo saaraan laamo badan.
+- **Everbearers** – Waxay soo saaraan labo goosasho, mid bisha Juun ama Luulyo iyo mid kale xilliga dayrta. Tusaalooyin waxaa ka mid ah Quinault iyo Fort Laramie. Waxay soo saaraan laamo yar.
+- **Day-neutrals** – Waxay miro soo saaraan inta badan xilliga koritaanka marka laga reebo marka uu aad u kulul yahay. Kuwaani waa nooca ugu fiican ee beerta guriga iyo weelasha. Tusaalooyin waxaa ka mid ah Albion, Seascape, Selva, Tristar, iyo Tribute.
 
-### Xulashada Goobta  
-- Qorraxda buuxda ayaa loo baahan yahay si loo helo wax soo saar iyo tayo miro oo wanaagsan.  
-- Si loo yareeyo cayayaanka iyo cudurrada, beddel goobta kasta oo aad ku beerto (3 ilaa 4 sano kasta).  
-- Ka fogow meelihii hore loogu beeray yaanyo, basbaas, baradho, baamiye, faraanti, raspberries ama blackberries saddexdii sano ee la soo dhaafay. Dhirtan waxay marti u noqon karaan fangaska keena cudurrada sida Verticillium wilt.  
+### Sida Loo Xusho Goobta Lagu Beero
+- Qorrax buuxda ayaa loo baahan yahay si loo helo miro badan oo tayo wanaagsan leh.
+- Si aad uga fogaato cayayaanka iyo cudurrada, beddel meesha aad ku beerto mar kasta oo aad beer cusub dhigato (3 ilaa 4 sanoba mar).
+- Ka fogow inaad ku beerto meel ay hore uga baxeen yaanyo, basbaas, baradho, baamiye, suuf, raspberries, ama blackberries 3-dii sano ee la soo dhaafay. Dhirtaan waxay qaadi karaan fangaska keena cudurrada sida Verticillium wilt oo saameyn kara suufkaaga.
 
-### Diyaarinta Carrada  
-- **Ugu Wanaagsan**: Sariir kor loo qaaday oo leh carro si fiican u dhoobo ah, hodan ku ah maaddo dabiici ah oo pH-keedu u dhexeeyo 5.6 ilaa 6.5.  
-- **Ka Fogoow**: Beero ku yaal carrada dhoobada culus. Haddii carrada la heli karo ay leedahay biyo-mareen xun, waxaad ku hagaajin kartaa adoo ku daraya maaddo dabiici ah.  
+### Sida Loo Diyaariyo Carrada
+- **Ugu Fiican:** Gogol kor loo qaaday oo ah carrada dhoobo-caddaan ah oo si fiican u daata, hodan ku ah walxo dabiici ah, lehna pH u dhexeeya 5.6 iyo 6.5.
+- **Ka Fogoow:** Inaad ku beerto carrada dhoobo culus. Haddii carrada kaliya ee aad heli karto aysan si fiican u daadaneyn, waxaad hagaajin kartaa adigoo ku daraya walxo dabiici ah.
 
-### Hababka Beerta  
-Waxaa jira laba hab: Habka Matted-row iyo Habka Hill.  
-- **Habka Hill** – Ku habboon day-neutrals: Ku beero dhirta 12 ilaa 15 inji oo kala durugsan oo ku jira labo ama saddex saf oo ballaaran oo ay ka dhaxeyso 1½ ilaa 2 fiit oo waddo ah.  
-- **Habka Matted-row** – Ku habboon June-bearers: Ku beero dhirta qiyaastii 15 inji oo kala durugsan safka dhexdiisa iyadoo ay safafka u dhexeeyaan 3 ilaa 4 fiit, si loo sameeyo 1.5 fiit oo ballaaran oo dhir ah.  
+### Hababka Beerista
+Waxaa jira laba hab: Matted-row iyo Hill.
 
-### Beeridda  
-- Iibso dhir si rasmi ah looga hubiyay cudurrada. Ha beeran laamaha ka yimid beertaadii hore ama deriskaaga.  
-- Ka beer sida ugu dhaqsaha badan markaad awooddo inaad shaqeyso carrada guga.  
-- Qotada beeritaanka aad bay muhiim u tahay. Marka la beero, qodo god kasta oo ku filan si aan xididdada loo qalloocin. Kala fidi xididdada oo dhig dhirta isla qoto dheer ee ay ku jirtay weelka beerta; dhirta xidid-dabiiciga ah, hubi in bartamaha taajka uu la siman yahay dusha carrada.  
+- **Hill system** — Loogu talagalay day-neutrals: Ku beero dhirta 12 ilaa 15 inch oo kala fog, laba ama saddex saf oo isku dhow, adigoo ka tagaya 1½ ilaa 2 feet oo marin ballaaran ah.
+- **Matted-row system** — Loogu talagalay June-bearers: Dhirta ku beero qiyaastii 15 inch oo kala fog safka, 3 ilaa 4 feet u dhaxaysa safafka si loo sameeyo gogol dhir ah oo 1.5 feet ballac ah.
 
-- June-bearers waxay soo saaraan miro aad u yar sannadka beeritaanka, waana fiican tahay in laga saaro ubaxyada soo baxa xagaaga ugu horreeya si aan dhirtu u daalin. Day-neutrals, kaliya ka saar ubaxa ugu horreeya ee soo baxa isla markiiba ka dib beeritaanka. Day-neutrals waxay soo saari doonaan miro yar xagaaga ugu horreeya. Dhamaan noocyada waxay si buuxda miro u keeni doonaan sannadka xiga ee beeritaanka.  
+### Beerista
+- Iibso dhir la xaqiijiyay inaysan lahayn cudur. Ha beerin laamaha ka soo baxa beertaadii hore ama deriskaaga.
+- Ku beero sida ugu dhakhsaha badan ee aad carrada ugu shaqeyn karto guga.
+- **Qoto dheer ee beerista:** Qod dalool kasta oo dhir ah si ay xididdadu si fiican ugu fidsamaan oo aan loo laaban. Fidi xididdada oo dhig dhirta isla heerkii ay ka ahayd weelka beerta. Haddii ay yihiin dhir xidid kaliya ah, hubi in bartamaha taajka (crown) dhirtu ay la siman tahay dusha carrada.
 
-### Bacriminta  
-- Ku fiirso koritaanka dhirta: Cagaar khafiif ah ama huruud ah iyo koritaan laamo yar waxay muujin karaan yaraanta nitrogen (N).  
-- Sannadka beeritaanka, ku bacrim dhirta bacriminta dheellitiran sida 16-16-16 ama badeeco dabiici ah. Saf 100-fiit ah, mari 2 wiqiyadood oo nitrogen ah (N) hal ama laba toddobaad ka dib beeritaanka. Tani waxay la mid tahay 13 wiqiyadood oo 16-16-16 ah (2 wiqiyadood/0.16). Ku mari 2 wiqiyadood oo kale oo N ah hal bil ka dib (dhammaadka May) iyo 0.5 ilaa 1 wiqiyad oo N ah dhammaadka Juun.  
-- Dhirta horey u beertay, wakhtiga bacriminta wuxuu ku xiran yahay nooca la beeray. June-bearers bacriminta ka dib goosashada. Goyso caleemaha duugga ah qiyaastii 1 ilaa 2 toddobaad ka dib goosashada ugu dambeysa ka dibna ku mari 4 wiqiyadood oo N safka 100-fiit ah, si siman ugu faafi dhererka iyo ballaca safka oo dhan. Isla markiiba waraabi ka dib bacriminta. Day-neutrals, mari N inta badan xilliga koritaanka iyo midho-dhalinta; mari 1 wiqiyad oo N safka 100-fiit ah BIL kasta oo ka mid ah Abriil, May, Juun, iyo Luulyo, oo tixgeli inaad ku darto 1 wiqiyad oo N ah bisha Agoosto haddii xoogga dhirta uu yahay mid dhexdhexaad ah ama wanaagsan.  
+- **June-bearers:** Waxay soo saaraan miro aad u yar sanadka la beero. Ka jar ubaxa dhamaan xagaaga ugu horeeya si aanay dhirtu u daalin.
+- **Day-neutrals:** Ka jar oo kaliya ubaxa ugu horeeya ee isla markiiba ka dib markaad beerto. Day-neutrals waxay soo saari doonaan miro yar xagaaga ugu horeeya.
+- Dhammaan noocyada waxay si buuxda u soo saari doonaan miro sanadka xiga ee la beero.
 
-### Waraabinta  
-- 1 ilaa 1.5 inji oo biyo ah toddobaadkii inta lagu jiro xilliga koritaanka. Ha u oggolaan dhirta inay cadaadis ku soo saarto abaarta.  
+### Bacriminta
+- Kula soco koboca dhirta: Haddii caleemaha ay cagaarka khafiifka ah yihiin ama jaalle yihiin, ama laamaha cusub uusan badnayn, waxaa laga yaabaa inay tahay nafaqo la’aan nitrogen (N).
 
-### Maamulka Weedhka  
-- Weedhku wuxuu dhirta kula tartamaa biyaha iyo nafaqooyinka, sidaas darteed ka fogee weedhaha adoo gacanta ku saara. Haddii aad ku beerato day-neutrals habka hill, waxaad isticmaali kartaa mulch-caaga ah oo leh nidaamka waraabinta, sida dhibic, hoostiisa.  
+- **Sanadka la beero:**
+  - Bacriminta dhirta isticmaal bacriminta isku dheellitiran sida 16-16-16 ama mid organic ah.
+  - Saf 100-foot ah, mari 2 ounces oo nitrogen (N) ah hal ama labo todobaad ka dib markaad beerto. Tani waxay la mid tahay 13 ounces oo 16-16-16 (2 ounces/0.16).
+  - Mari 2 ounces oo kale oo N ah hal bil kadib (dabayaaqada May) iyo 0.5 ilaa 1 ounce oo N ah dhamaadka June.
 
-### Cayayaanka iyo Cudurrada  
-- Cudurrada ugu daran ee faraantiyada waa Botrytis, miraha qudhunka, xididka qudhunka, iyo Verticillium wilt.  
-- Dhibaatooyinka cayayaanka waxaa ka mid ah root weevil, aphid, spider mite, iyo crown moth.  
+- **Suuf hore loo beero:**
+  - **June-bearers:** Bacriminta ka dib goosashada. Ka gooy caleemaha duqoobay qiyaastii 1 ilaa 2 toddobaad kadib goosashada ugu dambeysa, dabadeed mari 4 ounces oo N ah saf 100-foot ah, si siman ugu fidi dhir dhan. Waraabi isla markiiba bacriminta kadib.
+  - **Day-neutrals:** Mari N inta badan xilliga koritaanka iyo goosashada. Mari 1 ounce oo N ah saf 100-foot ah bilaha Abriil, May, Juun, iyo Luulyo. Haddii ay dhirtu firfircoon tahay, mari 1 ounce oo N ah Agosto.
 
-### Khayraadka Adeegga OSU Extension  
-Booqo Adeegga OSU Extension khadka tooska ah: [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- **Growing Strawberries in Your Home Garden EC 1307**  
-- **Strawberry Cultivars for Western Oregon and Washington EC 1618**  
-- **Growing Berries on the Oregon Coast: Strawberries EM 9178 (Also applies to Willamette Valley)**  
+### Waraabinta
+- Bixi 1 ilaa 1.5 inch oo biyo ah toddobaadkii inta lagu jiro xilliga koritaanka. Ka fogow in dhirtu ay qallasho.
 
-### Talooyinka Khabiirka Beerta™  
-- Wac Khadka Caawinta ee Horticulture Guriga: 503-655-8631 (Degmada Clackamas), 503-821-1150 (Degmada Washington), 503-445-4608 (Degmada Multnomah).  
-- Wixii kale ee handouts Jaamacadda 10-Daqiiqo™ iyo jadwalka fasalka, booqo [www.cmastergardeners.org](www.cmastergardeners.org) ama [www.metromastergardeners.org](www.metromastergardeners.org).  
-- Raadi Khabiirada Beerta Suuqyada Beeraleyda ee deegaanka.  
+### Maaraynta Cawska
+- Cawska wuxuu la tartamaa dhirta biyaha iyo nafaqada. Ka saar cawska gacanta.
+- Haddii aad koriso day-neutral habka hill system, waxaad isticmaali kartaa balaastiig mulch ah iyo nidaam waraabin, sida drip irrigation, hoostiisa.
 
-**Adeegga Kordhinta Jaamacadda Oregon State** wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muuqa jinsiga), doorashada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka taageerada dadweynaha, aaminsanaanta siyaasadda, macluumaadka hidde-sidaha, xaaladda hubinta, aargoosiga ama jawaabta ficillada xuquuqda madaniga ah ee hore. (Ma aha dhammaan saldhigyadan mamnuuca inay khuseeyaan dhammaan barnaamijyada).
+### Cayayaanka iyo Cudurrada
+- **Cudurrada:** Cudurrada ugu daran ee suufka waa Botrytis, miro qalloocda, xidid qallayl, iyo Verticillium wilt.
+- **Cayayaanka:** Cayayaanka ugu badan waa root weevil, aphid, spider mite, iyo crown moth.
+
+### Kheyraadka Adeegga OSU Extension
+Booqo adeegga OSU Extension Service online: [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+
+- **Sida loo Koro Suufka Beerta Gurigaaga** (EC 1307)
+- **Noocyada Suufka ee Galbeedka Oregon iyo Washington** (EC 1618)
+- **Koritaanka Miro Oregon Coast: Suufka** (EM 9178) (Sidoo kale waa loo isticmaali karaa Willamette Valley)
+
+#### Talooyinka Master Gardener™
+
+- **Wac Line-ta Talooyinka Beerta Guriga:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Si aad u hesho waraaqo kale oo 10-Minute University™ ah iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+- Ka raadi Master Gardeners suuqyada beeraleyda ee deegaanka.
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Oregon State University wuxuu mamnuucayaa takoorka barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku saleysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), nooca galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijyada kaalmada dadweynaha, aaminsanaanta siyaasadeed, xogta hidde-sideyaasha, heerka ciidanimada, ama aargudasho/tallaabo laga qaaday xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay looguma dabaqo barnaamij kasta.)

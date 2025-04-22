@@ -1,93 +1,60 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Great Plant Picks: Shrubs  
-S: Hardin na may lilim, D: Halamang matibay sa tagtuyot, W: Benepisyo sa Wildlife: Mga Ibon, Bubuyog, Paruparo, Hummingbird  
+# Mahuhusay na Halamang Pinipili: Mga Palumpong
 
-### Pangalan S/D/W Sukat (10 Taon) Araw/Lilim Natatanging Katangian  
+*S: Halaman para sa Maliwanag o Madilim na Hardin, D: Kayang mabuhay kahit tuyo, W: Pakinabang sa mga Hayop: Ibon, Bubuyog, Paruparo, Hummingbird*
 
-#### Glossy Abelia  
-**Abelia x grandiflora**  
-- **W**  
-- 6’ x 7’, 8’ x 9’  
-- Buong araw hanggang bahagyang lilim  
-- Semi-evergreen na may mabangong pink na bulaklak mula maagang tagsibol hanggang taglagas.  
-
-#### Gold Variegated Abelia  
-**Abelia x grandiflora ‘Kaleidoscope’**  
-- **W**  
-- 4’ x 5’, 5’ x 6’  
-- Buong araw hanggang bahagyang lilim  
-- Semi-evergreen na may ginto, berde, at dilaw na dahon. Maliit na puting bulaklak mula tag-init hanggang taglagas.  
-
-#### Glossy Abelia ‘Edward Goucher’  
-**Abelia ‘Edward Goucher’**  
-- **W**  
-- 6’ x 7’, 7’ x 8’  
-- Buong araw hanggang bahagyang lilim  
-- Multi-stemmed na may madilim na dahon. Pink na bulaklak mula tag-init hanggang taglagas.  
-
-#### Strawberry Tree  
-**Arbutus unedo**  
-- **W**  
-- 10’ x 10’, 18’ x 18’  
-- Buong araw o bahagyang lilim  
-- Bulaklak at bunga tuwing taglagas na may kaakit-akit na dahon at balat buong taon.  
-
-#### Compact Strawberry Tree  
-**Arbutus unedo ‘Compacta’**  
-- **W**  
-- 8’ x 8’, 15’ x 15’  
-- Buong araw hanggang bahagyang lilim  
-- Bulaklak at bunga tuwing taglagas na may kaakit-akit na dahon at balat buong taon.  
-
-#### Autumn Magic Black Chokecherry  
-**Aronia melanocarpa ‘Autumn Magic’**  
-- Sukat: 5’ x 4’, 7’ x 6’  
-- **Buong araw**  
-- Isang shrub na may apat na panahon ng interes, compact na anyo na may bulaklak, bunga, at kaakit-akit na balat.  
-
-#### Variegated Japanese Aucuba  
-**Aucuba japónica ‘Mr. Goldstrike’**  
-- **S**  
-- 6’ x 6’, 8’ x 7’  
-- Bahagyang lilim hanggang malalim na lilim  
-- Bold, gold-splashed na dahon buong taon.  
-
-#### Rozannie Japanese Aucuba  
-**Aucuba japónica ‘Rozannie’**  
-- **S**  
-- 4’ x 4’, 6’ x 6’  
-- Bahagyang lilim hanggang malalim na lilim  
-- Makintab na berdeng dahon buong taon na may maliwanag na pulang bunga tuwing taglagas.  
-
-#### Sawtoothed Japanese Aucuba  
-**Aucuba japónica ‘Serratifolia’**  
-- **S**  
-- 6’ x 6’, 8’ x 7’  
-- Bahagyang lilim hanggang malalim na lilim  
-- Bold, makintab na dahon buong taon.  
-
-#### Darwin’s Barberry  
-**Berberis darwinii**  
-- **S, D, W**  
-- 5’ x 4’, 6’ x 6’  
-- Buong araw o bahagyang lilim  
-- Pula/orange na buds na nagiging orange na bulaklak tuwing tagsibol.  
-
-#### Warty Barberry  
-**Berberis verruculosa**  
-- **S, D**  
-- 4’ x 5’, 6’ x 6’  
-- Buong araw hanggang bahagyang lilim  
-- Maliit na evergreen na dahon na may dilaw na bulaklak tuwing tagsibol.  
-
----
-
-**Great Plant Picks** (GPP) ay ang pangunahing programa sa edukasyon ng Elisabeth C. Miller Botanical Garden. Noong 2001, inilabas ang unang listahan na nagbibigay ng rekomendasyon para sa pagbuo ng komprehensibong paleta ng mga natatanging halaman para sa maritime Pacific Northwest. Hanggang ngayon, mahigit sa 1,000 natatanging halaman ang napili para sa mga hardinero sa kanluran ng Cascade Mountains mula Eugene, Oregon, USA hanggang Vancouver, British Columbia, Canada.  
-
-Ang mga halaman ng GPP na napili para sa listahan ay nakakatugon sa mga pamantayan: maaaring mabuhay sa iba’t ibang uri ng lupa, nangangailangan ng katamtaman o mas mababang karagdagang tubig, kayang tiisin ang init, malamig na matibay sa USDA zone 7, hindi madaling dapuan ng sakit/peste, at nagbibigay ng higit sa isang panahon ng interes sa hardin. Maraming halaman ng GPP ang nag-aalok din ng benepisyo sa ekolohiya (pollinators, pagkain para sa ibon, tirahan para sa wildlife, atbp.).  
-
----
-
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito base sa lahi, kulay, pinagmulan ng bansa, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, marital status, familial/parental status, kita mula sa pampublikong tulong program, paniniwalang politikal, impormasyon genetiko, status ng beterano, pagganti o paghihiganti para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+| Pangalan | S/D/W | Sukat sa 10 Taon | Sukat sa Pagtanda | Araw/Lilim | Natatanging Katangian |
+|----------|-------|------------------|-------------------|------------|----------------------|
+| Glossy Abelia Abelia x grandiflora | W | 6' x 7' | 8' x 9' | Buong araw hanggang bahagyang lilim | Semi-evergreen na may mabangong rosas na bulaklak mula tagsibol hanggang taglagas. |
+| Gold Variegated Abelia Abelia x grandiflora 'Kaleidoscope' | W | 4' x 5' | 5' x 6' | Buong araw hanggang bahagyang lilim | Semi-evergreen na may dilaw, berde, at gintong dahon. Maliit na puting bulaklak mula tag-init hanggang taglagas. |
+| Glossy Abelia 'Edward Goucher' Abelia 'Edward Goucher' | W | 6' x 7' | 7' x 8' | Buong araw hanggang bahagyang lilim | Palumpong na maraming sanga na may madilim na dahon. Rosas na bulaklak mula tag-init hanggang taglagas. |
+| Strawberry Tree Arbutus unedo | W | 10' x 10' | 18' x 18' | Buong araw o maliwanag hanggang bukas na lilim | Namumulaklak at namumunga tuwing taglagas, maganda ang mga dahon at balat ng puno buong taon. |
+| Compact Strawberry Tree Arbutus unedo 'Compacta' | W | 8' x 8' | 15' x 15' | Buong araw hanggang bukas na lilim | Namumulaklak at namumunga tuwing taglagas, maganda ang mga dahon at balat ng puno buong taon. |
+| Autumn Magic Black Chokecherry Aronia melanocarpa 'Autumn Magic' |  | 5' x 4' | 7' x 6" | Buong araw | Palumpong para sa apat na panahon na may bulaklak, bunga, at magandang balat ng puno. |
+| Variegated Japanese Aucuba Aucuba japonica 'Mr. Goldstrike' | S | 6' x 6' | 8' x 7" | Maliwanag hanggang madilim na lilim | Makapal, gintong talsik-talsik na dahon buong taon. |
+| Rozannie Japanese Aucuba Aucuba japonica 'Rozannie' | S | 4' x 4' | 6' x 6' | Maliwanag hanggang madilim na lilim | Makintab at luntiang dahon buong taon na may maliwanag na pulang bunga tuwing taglagas. |
+| Sawtoothed Japanese Aucuba Aucuba japonica 'Serratifolia' | S | 6' x 6' | 8' x 7' | Maliwanag hanggang madilim na lilim | Makapal at makintab na dahon buong taon. |
+| Darwin's Barberry Berberis darwinii | S, D, W | 5' x 4' | 6' x 6' | Buong araw o bahagyang lilim | Pula/orens na usbong na nagbubukas ng orens na bulaklak tuwing tagsibol. |
+| Warty Barberry Berberis verruculosa | S, D | 4' x 5' | 6' x 6' | Buong araw hanggang bahagyang lilim | Maliit na evergreen na dahon na may dilaw na bulaklak sa tagsibol. |
+| Bob Hope Camellia Camellia japonica 'Bob Hope' | W | 8' x 6' | 15' x 12' | Maliwanag hanggang bukas na lilim | Makintab, madilim na evergreen na dahon at semi-double na pulang bulaklak. |
+| Victoria California Lilac Ceanothus 'Victoria' | W | 6' x 4' | 12' x 15' | Buong araw | Pinakamatibay na California lilac na may madilim na berdeng dahon at indigo asul na bulaklak. |
+| White Rockrose Cistus x hybridus | D | 3' x 5' | 4' x 6' | Buong araw | Pinakamatibay at mapagkakatiwalaang cistus para sa ating rehiyon na may puting bulaklak tuwing tagsibol. |
+| Ivory Halo Red Twig Dogwood Cornus alba 'Bailhalo' IVORY HALO | W | 6' x 6' | 8' x 8' | Buong araw, maliwanag o bukas na lilim | Mint green at creamy white na dahon, may bulaklak tuwing tagsibol at kulay taglagas. |
+| Red Twig Dogwood Cornus alba 'Elegantissima' | W | 8' x 8' | 10' x 10' | Buong araw, maliwanag hanggang bahagyang lilim | Matibay na palumpong na may puti-berdeng dahon, kulay taglagas, at pulang sanga tuwing taglamig. |
+| Black Stem Dogwood Cornus alba 'Kesselringii' | S, D, W | 8' x 8' | 10' x 10' | Buong araw, maliwanag o bukas na lilim | Natatanging makintab at malalim na purple-itim na mga sanga. Ang mga bagong dahon ay may madilim na lilim na tumatagal buong panahon ng paglaki. |
+| Red Osier Dogwood Cornus sericea 'Baileyi' | W | 8' x 8' | 10' x 10' | Buong araw, maliwanag hanggang bahagyang lilim | Klasikong shrub dogwood na may puting bulaklak tuwing tagsibol, puting bunga tuwing tag-init at taglagas, at maliwanag na pulang sanga sa taglamig. |
+| Variegated Red-twig Dogwood Cornus sericea 'Hedgerows Gold' | W | 8' x 8' | 10' x 10' | Buong araw, maliwanag hanggang bahagyang lilim | Maliwanag na dilaw-gintong dahon sa pulang sanga, kaakit-akit sa mga ibon ang bunga nito. |
+| Purple Smokebush Cotinus coggygria 'Royal Purple' | W | 8' x 7' | 15' x 12' | Buong araw o bahagyang lilim | Mayaman na burgundy na dahon at maliliit na bulaklak na nagiging lacey na kumpol ng buto, kaakit-akit ang palumpong na ito. |
+| Purple Smokebush Cotinus 'Grace' | W | 15' x 12' | 20' x 15' | Buong araw hanggang bahagyang lilim | Mula mapulang liwanag hanggang madilim na pulang dahon, maraming rosas na bulaklak sa tagsibol at magarang kulay sa taglagas. |
+| Compact Cotoneaster Cotoneaster adpressus 'Little Gem' | W | 2' x 3' | 3' x 5' | Buong araw hanggang bahagyang lilim | Siksik, semi-evergreen hanggang malagas na palumpong na may pulang bunga. Maaaring gamitin bilang foundation plant o pangtakip sa retaining wall. |
+| Bearberry Cotoneaster Cotoneaster dammeri | S, W | 6" x 6' | 6" x 10' | Buong araw hanggang maliwanag o bukas na lilim | Madaling palaguin, siksik na semi-evergreen na palumpong na may pulang bunga. |
+| Gray-leaf Cotoneaster Cotoneaster glaucophyllus hort. | W | 2' x 4' | 3' x 6' | Buong araw, maliwanag hanggang bukas na lilim | Usok-abong berdeng dahon na mahusay gawing mababang bakod. Puting bulaklak sa tagsibol, kasunod ang pulang bunga mula tag-init hanggang taglamig. |
+| Darley Heath Erica x darleyensis 'Darley Dale' | W | 1' x 3' | 1.5' x 4' | Buong araw | Sagana sa shell-pink na bulaklak na nagiging medium pink habang umuusad ang panahon. |
+| Darley Heath Erica x darleyensis 'Kramer's Rote' | W | 1' x 3' | 1.5' x 4' | Buong araw | Tuwid at mabuhok na heath na may mapula-purpurang bulaklak mula Disyembre hanggang Abril. |
+| Darley Heath Erica x darleyensis 'Silberschmelze' | W | 1' x 3' | 1.5' x 4' | Buong araw | 'Molten silver' ay bumubuo ng dagat ng maliliit, kampanilyang puting bulaklak mula Disyembre hanggang Mayo na bumabalot sa evergreen na dahon. |
+| Darley Heath Erica x darleyensis 'White Perfection' | W | 1' x 3' | 1.5' x 4' | Buong araw | Pinakamaputi ng bulaklak sa halos lahat ng heath. Namumulaklak mula Disyembre hanggang Abril, ang maliliit, kampanilyang bulaklak ay nasa ibabaw ng maliwanag na berdeng dahon na may dilaw na dulo tuwing tagsibol. |
+| Winter Heath Erica carnea 'Myretoun Ruby' | W | 1' x 3' | 1.5' x 4' | Buong araw | Daan-daang maliliit na bulaklak na urn-shaped na nagsisimula sa dusty rose at nagiging magenta hanggang ruby-red. Bumabalot sa mababang evergreen na palumpong mula Enero hanggang Mayo. |
+| Winter Heath Erica carnea 'Springwood White' | W | 1' x 3' | 1.5' x 4' | Buong araw | May daan-daang maliliit na urn-shaped, abong puting bulaklak mula Disyembre hanggang Mayo, sa evergreen na palumpong na mababa at gumagapang. |
+| Winter Heath Erica carnea 'Vivellii' | W | 1' x 3' | 1.5' x 4' | Buong araw | Daan-daang maliliit, urn-shaped na purplish-pink na bulaklak na nagiging magenta, bumabalot sa evergreen shrub na mababa at gumagapang. |
+| Japanese Fatsia Fatsia japonica | S | 6' x 5' | 7' x 6" | Bukas hanggang madilim na lilim | Pinaka-natatanging evergreen na may malalaking palmadong dahon para sa hardin na may lilim. Ang mga dahon ay umaabot hanggang 16 pulgada ang lapad. |
+| Camouflage Japanese Fatsia Fatsia japonica 'Murakumo nishiki' CAMOUFLAGE | S | 5' x 4' | 7' x 6' | Bukas hanggang madilim na lilim | Matapang na palmadong dahon, hanggang 16 pulgada ang lapad, mapusyaw na dilaw sa base, tapos may iba't ibang shade ng berde sa gilid ng dahon. |
+| Variegated Forsythia Forsythia 'Fiesta' | W | 6' x 6' | 8' x 8' | Buong araw | Compact na uri ng forsythia na may variegated na dahon at dilaw na bulaklak tuwing tagsibol. |
+| Convex Leaf Japanese Holly Ilex crenata 'Convexa' | S, D | 4' x 5' | 6' x 6' | Buong araw hanggang bahagyang lilim | Mabilis lumaking evergreen na mahusay gawing bakod. |
+| Dwarf Japanese Holly Ilex crenata 'Dwarf Pagoda' | D | 3' x 2' | 4' x 2' | Buong araw, maliwanag hanggang bukas na lilim | Natatanging Japanese holly na napaka-siksik at maliit. |
+| Japanese Holly Ilex crenata 'Green Island' | S, D | 4' x 5' | 6' x 6' | Buong araw hanggang bahagyang lilim | Madilim, pinong evergreen na dahon na may gumagapang na anyo. |
+| Marie's Columnar Japanese Holly Ilex crenata 'Mariesii' | S, D | 4' x 1' | 8' x 2' | Buong araw, maliwanag hanggang bukas na lilim | 'Mariesii' ay tuwid na tumutubo pataas, lumilikha ng madilim na berdeng palatandaan sa hardin. |
+| Northern Beauty Japanese Holly Ilex crenata 'Northern Beauty' | S, D | 4' x 5' | 6' x 6' | Buong araw hanggang bahagyang lilim | Mabilis lumaking evergreen na may siksik na sanga at madilim na berdeng dahon na mas malaki kaysa sa ibang uri. |
+| Curly-leaf Japanese Privet Ligustrum japonicum 'Rotundifolium' |  | 3' x 2' | 5' x 3' | Buong araw hanggang maliwanag o bukas na lilim | Siksik na evergreen na palumpong na may makapal at madilim na berdeng dahon. |
+| Boxleaf Honeysuckle Lonicera liqustrina var pileata |  | 3' x 5' | 4' x 6' | Buong araw hanggang maliwanag, bukas, bahagyang lilim | Evergreen na dahon na parang boxwood sa mababang palumpong na may maliit na puting bulaklak at lilang bunga. |
+| Golden Boxleaf Honeysuckle Lonicera nitida 'Baggensen's Gold' | S | 4' x 6' | 6' x 8' | Buong araw hanggang bahagyang lilim | Buntok ng mga sanga na baluktot na may maliit na gintong dahon. |
+| Hybrid Mahonia Mahonia x media 'Arthur Menzies' | S, W | 6' x 5' | 8' x 6' | Buong araw hanggang bahagyang lilim | Dramatic, mala-palmera na dahon na nagsasanga. Malalaking kumpol ng dilaw na bulaklak tuwing taglamig, nagiging itim na bungang may wax tuwing huling tag-init. |
+| Hybrid Mahonia Mahonia x media 'Charity' | W | 6' x 5' | 8' x 6' | Buong araw hanggang bahagyang lilim | Matayog na evergreen na palumpong para sa hardin tuwing taglamig. May kumpol ng malalambot na dilaw na bulaklak sa taglamig. |
+| Hybrid Mahonia Mahonia x media 'Winter Sun' | S, W | 6' x 5' | 8' x 6' | Buong araw hanggang bahagyang lilim | Evergreen na palumpong na may mala-palmera na dahon at dilaw at mabangong bulaklak tuwing huling taglagas o simula ng taglamig. |
+| Cascade Oregon Grape Mahonia nervosa | S | 2' x 4' | 3' x 6' | Buong araw hanggang madilim na lilim | Katutubo sa PNW. Pangtakip sa lupa na may dilaw na bulaklak tuwing Mayo. |
+| Creeping Oregon Grape Mahonia repens | S | 1' x 3' | 1' x 5' | Buong araw hanggang madilim na lilim | Katutubo sa PNW. Huling taglamig hanggang maagang tagsibol, kumpol ng matingkad na dilaw na bulaklak ay bumubulwak para sa mga pollinator ng hardin. |
+| Compact Heavenly Bamboo Nandina domestica 'Gulf Stream' |  | 3' x 2' | 4' x 3' | Buong araw hanggang maliwanag o bukas na lilim | Siksik at compact na evergreen na palumpong na may magagandang dahon para sa interes buong taon. |
+| Burkwood's Sweet Olive Osmanthus x burkwoodii | S, D | 5' x 5' | 10' x 10' | Buong araw hanggang maliwanag hanggang madilim na lilim | Matibay na evergreen na palumpong na mahusay gawing panakip at tumutubo halos kahit saan. |
+| Sweet Olive Osmanthus delavayi | S, D, W | 6' x 5' | 12' x 8' | Buong araw hanggang maliwanag hanggang madilim na lilim | Maliit, napakadilim na berdeng dahon at maliliit, mababangong puting bulaklak. Evergreen na palumpong na nagbibigay ng interes buong taon. |
+| Variegated False Holly Osmanthus heterophyllus 'Goshiki' | S | 5' x 5' | 8' x 8' | Buong araw, maliwanag hanggang madilim na lilim | Matibay na variegated na evergreen na may mabangong bulaklak tuwing taglagas. |
+| Purple Leaf False Holly Osmanthus heterophyllus 'Purpureus' | S, W | 6

@@ -1,119 +1,148 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Hängekörbe  
+# Hängende Blumenkörbe
 
-### Überblick  
-Hängekörbe, die mit üppigen, farbenfrohen Blumen überquellen, sind beliebte Sommermerkmale in vielen Städten und Gärten.  
+### Überblick
 
-### Wählen Sie einen Behälter  
-Ein geeigneter Behälter sollte groß genug sein, um die gesamte Wachstumsperiode zu überdauern, und gleichzeitig leicht genug, um ihn an seinen Platz zu hängen. Ein schlichter Behälter eignet sich gut, da der Topf innerhalb kurzer Zeit vollständig von Ihren hängenden Pflanzen bedeckt sein wird.  
+Hängende Blumenkörbe, die überquellen vor üppigen, farbenfrohen Blumen, sind beliebte Sommer-Highlights in vielen Städten und Gärten.
 
-Behälter gibt es in verschiedenen Formen, Größen und Materialien. Holz, Sphagnum-Moos und unglasierter Ton oder Terrakotta können schnell austrocknen. Diese können ausgekleidet werden (meistens mit perforiertem Plastik), um sie länger feucht zu halten. Beachten Sie, dass Ton und Terrakotta nach dem Pflanzen und Gießen sehr schwer sein werden. Wählen Sie Behälter, die zu Ihrem Stil, Ihrer Einrichtung und Landschaft passen.  
+### Einen Behälter auswählen
 
-Bedenken Sie, dass ein 25 cm (10 Zoll) großer Behälter möglicherweise alle ein bis zwei Tage gegossen werden muss. Kleinere Behälter erfordern sogar noch häufigeres Gießen.  
+Ein geeigneter Behälter ist groß genug, um die gesamte Wachstumsperiode zu überstehen, und gleichzeitig leicht genug, um ihn aufzuhängen. Ein schlichter Behälter eignet sich gut, denn schon bald wird der Topf vollständig von deinen hängenden Pflanzen bedeckt sein.
 
-### Verwenden Sie eine Blumenerde  
-Verwenden Sie eine hochwertige Blumenerde, um Ihren Behälter zu füllen. Diese Produkte sind so formuliert, dass sie sehr grob sind und somit eine gute Drainage in Behältern gewährleisten. Eine gut drainierte Mischung fördert gesunde Pflanzen.  
+Behälter gibt es in vielen Formen, Größen und Materialien. Holz, Sphagnum-Moos und unglasierter Ton oder Terrakotta können schnell austrocknen. Sie können ausgekleidet werden (meistens mit perforiertem Plastik), damit die Erde länger feucht bleibt. Bedenke, dass Ton und Terrakotta sehr schwer werden, wenn sie bepflanzt und gegossen sind. Wähle Behälter, die zu deinem Stil, deiner Dekoration und deinem Garten passen.
 
-Wenn Sie den Behälter in einer anderen Saison wiederverwenden, sollten Sie die Blumenerde ersetzen. Dies ist besonders wichtig, wenn die vorherige Pflanzung eine Wurzelkrankheit hatte; in diesem Fall sollte der Behälter ebenfalls gründlich gereinigt werden.  
+Beachte, dass ein 25-cm-Behälter vielleicht alle 1 bis 2 Tage gegossen werden muss. Kleinere Behälter brauchen noch häufiger Wasser.
 
-Verwenden Sie keine Gartenerde in Behältern, da ihre feine Textur die Drainage stark einschränkt und somit das Wurzelwachstum hemmt. Gartenerde kann auch Krankheiten, Insekten und Unkrautsamen mitbringen.  
+### Blumenerde verwenden
 
-Seien Sie sich bewusst, dass der oft empfohlene „grobe Stoff am Boden des Behälters für die Drainage“ falsch ist. Aufgrund der Dynamik des Wasserflusses in einem Behälter wird dieses grobe Material die Drainage behindern.  
+Verwende eine hochwertige Blumenerde, um deinen Behälter zu füllen. Diese Mischungen sind so gemacht, dass sie grob sind und dadurch eine gute Drainage im Behälter ermöglichen. Eine gut durchlässige Erde hilft sehr, gesunde Pflanzen zu fördern.
 
-### Verwenden Sie Dünger  
-Geben Sie Ihren Pflanzen einen guten Start, indem Sie Dünger vor dem Pflanzen in die Blumenerde mischen. Eine langsam freisetzende Formel, die 3 bis 4 Monate hält, eignet sich gut, da sie die gesamte Saison über wirksam ist.  
+Wenn du den Behälter in einer anderen Saison wiederverwendest, solltest du die Blumenerde austauschen. Das ist besonders wichtig, wenn die vorherige Bepflanzung an einer Wurzelkrankheit litt. In diesem Fall den Behälter auch gut reinigen.
 
-Nachdem alle Pflanzen eingepflanzt sind, setzen Sie die Blumenerde um ihre Wurzelballen mit Wasser an, das mit einem löslichen Dünger in halber Stärke angereichert ist.  
+Verwende keine Gartenerde in Behältern, da die feine Struktur die Drainage stark einschränkt und das Wurzelwachstum hemmt. Außerdem kann Gartenerde Krankheiten, Insekten und Unkrautsamen einschleppen.
 
-### Wählen Sie Ihre Pflanzen  
-Es ist wichtig, dass die Pflanzen in einem einzelnen Behälter unter denselben Wachstumsbedingungen gut gedeihen, sei es Sonne oder Schatten, feucht oder relativ trocken.  
+Beachte, dass der oft empfohlene Tipp, grobes Material auf den Boden des Behälters zu geben, falsch ist. Wegen der Wasserbewegung im Behälter hemmt dieses grobe Material die Drainage eher.
 
-Berücksichtigen Sie auch die Wuchsform der Pflanzen, wie aufrecht oder hängend. Sie können einjährige und mehrjährige Pflanzen in einem einzelnen Topf für nur eine Saison kombinieren. Am Ende der Saison können Sie die Einjährigen ersetzen, um einen frischen, neuen Look zu erhalten.  
+### Dünger verwenden
 
-### Gestalten und pflanzen  
-Nachdem Sie einen Pflanzbehälter ausgewählt haben und die Pflanzen sowie die Blumenerde bereitstehen, folgen Sie diesen Schritten für den Erfolg:  
+Hilf deinen Pflanzen beim Start, indem du vor dem Einpflanzen Dünger in die Blumenerde einmischst. Ein Langzeitdünger, der für 3 bis 4 Monate wirkt, eignet sich gut, da er die ganze Saison über hält.
 
-1. Schütten Sie die Menge an Blumenerde aus, die Sie benötigen, und mischen Sie einen langsam freisetzenden Dünger für 3 bis 4 Monate hinzu; folgen Sie den Anweisungen auf dem Etikett für die Menge.  
-2. Füllen Sie gerade genug Blumenerde in Ihren Behälter, sodass die Pflanzen platziert werden können und noch 2,5 cm (1 Zoll) unter dem Rand des Behälters liegen. (Beachten Sie, dass Sie, wenn Sie den Behälter vollständig füllen, die Blumenerde wiederholt herausnehmen müssen, um Platz für den nächsten Wurzelballen zu schaffen.)  
-3. Stellen Sie die hohen, aufrechten Pflanzen in die Mitte oder den hinteren Teil des Behälters, füllen Sie mit gruppierten Pflanzen nach und schließen Sie mit hängenden Pflanzen am Rand des Behälters ab. Um ein ausgewogenes Aussehen zu schaffen, platzieren Sie zwei oder mehr gleiche Pflanzen (oder mehrere Pflanzen ähnlicher Größe, Blätter und Farbe) gegenüberliegend im Behälter.  
-4. Um das Pflanzen abzuschließen, füllen Sie die Blumenerde um die Pflanzen herum auf, um die Kombination zu verbinden und alle freiliegenden Wurzeln zu bedecken. Wenn alles an seinem Platz ist, sollte die Blumenerde etwa 2,5 cm (1 Zoll) unter dem Rand des Behälters liegen, um Platz für das Gießen zu lassen.  
-5. Setzen Sie die Blumenerde mit düngerangereichertem Wasser in halber Stärke um die Wurzelballen.  
-6. Hängen Sie Ihren Behälter dort auf, wo die Sonnen- oder Schattenbedingungen den Anforderungen Ihrer Pflanzen entsprechen. Jetzt können Sie sich zurücklehnen, entspannen und genießen!  
+Wenn alle Pflanzen eingesetzt sind, setze die Blumenerde um die Wurzelballen mit Wasser an, das mit einem halb so starken, wasserlöslichen Dünger angereichert ist.
 
-### Pflegen Sie Ihren Behälter  
-Gießen Sie, wenn nötig. Sie müssen während kühler oder milder Wetterbedingungen nicht so oft gießen wie bei warmem, sogar heißem und/oder windigem Wetter. Bei heißem Wetter müssen Sie möglicherweise ein- bis zweimal täglich gießen, abhängig von der Größe des Behälters und der Anzahl sowie Art der Pflanzen darin.  
+### Pflanzen auswählen
 
-Wenn Sie unsicher sind, ob Wasser benötigt wird, fühlen Sie die Oberfläche der Blumenerde. Gießen Sie, wenn sie trocken ist, nicht, wenn sie feucht ist.  
+Es ist wichtig, dass die Pflanzen in einem Behälter unter denselben Bedingungen gedeihen können, egal ob Sonne oder Schatten, feucht oder eher trocken. Achte auch auf den Wuchs der Pflanzen, wie aufrecht oder hängend.
 
-Die anfängliche Düngerdosis, die Sie in die Blumenerde gemischt haben, könnte ausreichen, um die Pflanzen durch die Saison zu bringen. Aber wenn die Pflanzen anfangen nachzulassen, ergänzen Sie mit einem wasserlöslichen Dünger einmal oder zweimal pro Woche und wiederholen Sie dies bei Bedarf.  
+Du kannst Einjährige und Stauden in einem Behälter kombinieren – für eine Saison. Am Ende der Saison kannst du die Einjährigen austauschen, um einen frischen Look zu bekommen.
 
-Um alles während der Saison ordentlich aussehen zu lassen, entfernen Sie verwelkte Blumen mindestens einmal pro Woche.  
+### Gestalten und Pflanzen
 
-### Einige empfohlene Pflanzen  
-Zahlreiche Pflanzen eignen sich für saisonale Hängekörbe. Die unten aufgeführten sind nur einige der vielen möglichen Vorschläge. Beachten Sie, dass einige Pflanzen sowohl für Sonne als auch für Schatten geeignet sind.  
+Nachdem du einen Pflanztopf ausgewählt und die Pflanzen und Blumenerde bereit hast, befolge diese Schritte für den Erfolg:
 
-#### Aufrechte Pflanzen für Sonne  
-- Angelonia  
-- Cordyline  
-- Kosmeen  
-- Margeriten  
-- Dracaena  
-- Geranien  
-- Ziergräser  
+1. Gib die Menge Blumenerde, die du brauchst, in einen Behälter und mische einen Langzeitdünger für 3 bis 4 Monate darunter. Beachte die Dosierung auf der Verpackung.
+2. Fülle so viel Blumenerde in den Behälter, dass die Pflanzen eingesetzt werden können und noch 2,5 cm (1 Zoll) Platz bis zum Rand bleibt. (Achte darauf, dass du nicht zu viel Erde einfüllst, sonst musst du ständig Erde entfernen, um Platz für die Wurzelballen zu schaffen.)
+3. Setze die hohen, aufrechten Pflanzen in die Mitte oder den hinteren Teil des Behälters, fülle mit buschigen Pflanzen auf und schließe mit hängenden Pflanzen am Rand ab. Für ein ausgewogenes Bild kannst du zwei oder mehr gleiche Pflanzen (oder mehrere ähnlich große, blättrige und farbige Pflanzen) gegenüberliegend im Behälter platzieren.
+4. Fülle zum Abschluss um die Pflanzen herum mit zusätzlicher Blumenerde auf, um die Mischung zu verbinden und freiliegende Wurzeln zu bedecken. Am Ende sollte die Blumenerde etwa 2,5 cm (1 Zoll) unter dem Rand sein, damit Platz zum Gießen bleibt.
+5. Setze die Blumenerde um die Wurzelballen mit wasserlöslichem Dünger in halber Stärke.
+6. Hänge deinen Behälter dort auf, wo die Sonnen- oder Schattenbedingungen zu deinen Pflanzen passen. Jetzt kannst du dich zurücklehnen, entspannen und genießen!
 
-#### Aufrechte Pflanzen für Schatten  
-- Heliotrop  
-- Schatten-Kolumne  
-- Doppel-Balsaminen  
-- Rex-Begonien  
-- Farne  
-- Fuchsien  
+### Pflege deines Behälters
 
-#### Gruppierte Pflanzen für Sonne  
-- Bidens  
-- Brachycome  
-- Diascia  
-- Fantasy-Petunie  
-- Faser-Begonien  
+Gieße, wenn nötig. Bei kühlem oder mildem Wetter brauchst du weniger oft zu gießen als bei warmem, heißem und/oder windigem Wetter. Bei Hitze kann es sein, dass du ein- bis zweimal täglich gießen musst, je nach Größe des Behälters und Menge sowie Art der Pflanzen.
 
-#### Gruppierte Pflanzen für Schatten  
-- Schatten-Kolumne  
-- Polka-Dot-Pflanze  
-- Brachycome  
-- Impatiens  
+Wenn du unsicher bist, ob gegossen werden muss, fühle die Oberfläche der Blumenerde. Gieße, wenn sie trocken ist; nicht gießen, wenn sie feucht ist.
 
-#### Hängende Pflanzen für Sonne  
-- Anagalis  
-- Alyssum  
-- Bacopa  
-- Kriechendes Charlie  
-- Kriechende Jenny  
-- Kriechende Zinnie  
-- Efeu  
-- Süßkartoffelranke  
+Die erste Düngergabe reicht möglicherweise für die ganze Saison. Sollten die Pflanzen aber schwächeln, dünge zusätzlich ein- bis zweimal pro Woche mit einem wasserlöslichen Dünger und wiederhole dies nach Bedarf.
 
-#### Hängende Pflanzen für Schatten  
-- Bacopa  
-- Lamium  
-- Kriechendes Charlie  
-- Süßkartoffelranke  
-- Fuchsien  
-- Efeu  
+Um alles gepflegt aussehen zu lassen, entferne mindestens einmal pro Woche verwelkte Blüten (abgeblühte Köpfe).
 
-### Zusätzliche Informationen  
-Es gibt so viele Bücher über das Züchten von Hängekörben, dass es schwierig ist, unsere Vorschläge auf nur wenige zu beschränken. Sie finden viele weitere in Bibliotheken und Buchläden.  
+### Einige empfohlene Pflanzen
 
-- *Hanging Baskets: A Practical Step-By-Step Guide* von Jenny Hendy  
-- *Year-Round Containers, Baskets & Boxes* von Graham Strong und Claire Phoenix  
-- *The Hanging Garden* von Sue Fisher  
-- *Container and Hanging Gardens* (Ortho Books)  
-- *Gardening in Containers* (Sunset)  
-- *Pots in the Garden* von Ray Rogers  
+Viele Pflanzen eignen sich für saisonale hängende Blumenkörbe. Die hier genannten sind nur einige von vielen Möglichkeiten. Beachte, dass manche Pflanzen sowohl für Sonne als auch für Schatten geeignet sind.
 
-### Master Gardener™ Ratschläge  
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County) oder 503-445-4608 (Multnomah County).  
-- Für weitere Handouts und Kurspläne der 10-Minuten-Universität™ besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+#### Aufrechte Pflanzen für Sonne
 
-Die Oregon State University Extension Service verbietet Diskriminierung in allen ihren Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Vergeltung für vorherige Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+- Angelonia
+- Cordyline
+- Kosmee
+- Margeriten
+- Drachenbaum
+- Geranie
+- Ziergräser
+
+#### Aufrechte Pflanzen für Schatten
+
+- Heliotrop
+- Schatten-Koleus
+- Gefülltes Fleißiges Lieschen
+- Rex-Begonie
+- Farne
+- Fuchsie
+- Neu-Guinea-Fleißiges Lieschen
+- Knollenbegonie
+
+#### Buschige Pflanzen für Sonne
+
+- Bidens
+- Brachycome
+- Diascia
+- Petunie 'Fantasy'
+- Faserige Begonie
+
+#### Buschige Pflanzen für Schatten
+
+- Geranie
+- Nemesia
+- Koleus
+- Punktblume
+- Fleißiges Lieschen
+- Aufrechte Lobelie
+
+#### Hängende Pflanzen für Sonne
+
+- Anagallis
+- Alyssum
+- Bacopa
+- Kriechendes Günsel
+- Kriechendes Pfennigkraut
+- Kriechende Zinnie
+- Efeu
+- Taubnessel
+- Lakritzpflanze
+
+#### Hängende Pflanzen für Schatten
+
+- Lotusrebe
+- Million Bells
+- Portulak
+- Scaevola
+- Süßkartoffelrebe
+- Hängende Lobelie
+- Hängende Petunie
+- Verbene
+- Vinca
+
+### Weitere Informationen
+
+Es gibt so viele Bücher über hängende Blumenkörbe, dass es schwerfällt, nur wenige Titel zu empfehlen. In Bibliotheken und Buchhandlungen findest du noch viele mehr.
+
+- *Hanging Baskets: A Practical Step-By-Step Guide* von Jenny Hendy
+- *Year-Round Containers, Baskets & Boxes* von Graham Strong und Claire Phoenix
+- *The Hanging Garden* von Sue Fisher
+- *Container and Hanging Gardens* (Ortho Books)
+- *Gardening in Containers* (Sunset)
+- *Pots in the Garden* von Ray Rogers
+
+#### Master Gardener™ Rat
+
+- **Ruf die Home Horticulture Helpline an:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Für weitere 10-Minuten-Universität™-Handouts und den Stundenplan besuche [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Der Beratungsdienst der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle ausgeschlossenen Gründe gelten für alle Programme.)
+---

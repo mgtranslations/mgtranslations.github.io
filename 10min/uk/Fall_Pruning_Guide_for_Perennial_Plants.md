@@ -1,93 +1,92 @@
-### 10/9/2018 1 Підготовлено Лаурою Ейєр
+#### Осінній гід по обрізці багаторічних рослин · Підготувала Лора Айєр · 09.10.2018
 
-## Осінній посібник з обрізання багаторічних рослин
+## Обрізати
 
-### Обрізати
-- Бородатий ірис  
-- Монарда (Monarda didyma)  
-- Лілія ожинова (Belamcanda chinensis)  
-- Гайлардія (Gaillardia x grandiflora)  
-- Бронзовий фенхель (Foeniculum vulgare ‘Purpureum’)  
-- Котяча м'ята (Nepeta)  
-- Аквілегія (Aquilegia)  
-- Корідаліс (Corydalis lutea)  
-- Крокосмія  
-- Лілейник (Hemerocallis)  
-- Золотиста маргаритка (Anthemis tinctoria)  
-- Золотозірка (Chrysogonum virginianum)  
-- Клематис (Clematis recta)  
-- Бегонія багаторічна (Begonia grandis)  
-- Геліантус (багаторічні сорти: H. x laetiflorus, H. salicifolium...)  
-- Мальва алцейська (Malva alcea)  
-- Японська анемона (Anemone x hybrida)  
-- Лігуларія (Ligularia dentata)  
-- Лілієлистий аденофора (Adenophora lilifolia)  
-- Астранція (Astrantia major)  
-- Лютик лугова (Thalictrum aquilegiifolium)  
-- Гірська волошка (Centaurea montana)  
-- Ромашка фарбована (Tanacetum coccineum)  
-- Пенстемон (Penstemon barbatus)  
-- Півонія (Paeonia)  
-- Соняшник багаторічний (Helianthus)  
-- Флокс (Phlox paniculata)  
-- Маклейя (Macleaya cordata)  
-- Лугова королева, королева лугів (Filipendula rubra, F. ulmaria)  
-- Бруннера крупнолиста (Brunnera macrophylla)  
-- Шавлія (Salvia nemorosa)  
-- Геленіум (Helenium autumnale)  
-- Купена (Polygonatum odoratum)  
-- Вероніка/Вероніка колосиста (Veronica spicata)  
-- Дикий або хибний індиго (Baptisia australis)  
-- Тисячолисник (Achillea)  
-
-### Залишити стоячими
-- Артемізія  
-- Айстра  
+- Бородата іриска
+- Монарда (*Monarda didyma*)
+- Лілія-ожина (*Belamcanda chinensis*)
+- Гайлардія (*Gaillardia x grandiflora*)
+- Бронзовий фенхель (*Foeniculum vulgare ‘Purpureum’*)
+- Котяча м'ята (*Nepeta*)
+- Аквілегія (*Aquilegia*)
+- Коридаліс (*Corydalis lutea*)
+- Крокосмія
+- Лілійник (*Hemerocallis*)
+- Антеміс фарбувальний (*Anthemis tinctoria*)
+- Золотозір (*Chrysogonum virginianum*)
+- Клематис приземний (*Clematis recta*)
+- Бегонія зимостійка (*Begonia grandis*)
+- Геліантус (багаторічні види: *H. x laetiflorus*, *H. salicifolium* тощо)
+- Мальва мускусна (*Malva alcea*)
+- Японська анемона (*Anemone x hybrida*)
+- Лігуларія (*Ligularia dentate*)
+- Лілієлистий дзвіночок (*Adenophora lilifolia*)
+- Астранція велика (*Astrantia major*)
+- Таліктрум (*Thalictrum aquilegiifolium*)
+- Гірська волошка (*Centaurea montana*)
+- Піретрум (*Tanacetum coccineum*)
+- Пенстемон (*Penstemon barbatus*)
+- Півонія (*Paeonia*)
+- Соняшник багаторічний (*Helianthus*)
+- Флокс (*Phlox paniculata*)
+- Маклея пухнаста (*Macleaya cordata*)
+- Таволга (*Filipendula rubra*, *F. ulmaria*)
+- Бруннера велика (*Brunnera macrophylla*)
+- Шавлія (*Salvia nemorosa*)
+- Геленіум осінній (*Helenium autumnale*)
+- Купина запашна (*Polygonatum odoratum*)
+- Вероніка колоскова (*Veronica spicata*)
+- Баптиція синя (*Baptisia australis*)
+- Тисячолистник (*Achillea*)
 
 ---
 
-### 10/9/2018 2 Підготовлено Лаурою Ейєр
+## Залишити стояти
 
-### Залишити стоячими
-- Астільба  
-- Плакун-трава (Platycodon grandiflorus)  
-- Золота корзинка (Aurinia saxatilis)  
-- Акантус (Acanthus spinosus)  
-- Бергенія (Bergenia cordifolia)  
-- Чорнобривець (Rudbeckia fulgida)  
-- Блакитний туманний кущ (Caryopteris sp.)  
-- Буддлея (Buddleia davidii)  
-- Ластівчин корінь (Asclepias tuberosa)  
-- Дзвоники (Campanula)  
-- Лобелія кардинальна (Lobelia cardinalis)  
-- Гейхера (Heuchera sp.)  
-- Евфорбія багатоколірна (Euphorbia polychroma)  
-- Дельфініум  
-- Гвоздика (Dianthus)  
-- Тіарелла (Tiarella cordifolia)  
-- Наперстянка (Digitalis purpurea)  
-- Диктамнус (Dictamnus albus)  
-- Ліатріс (Liatris spicata)  
-- Гравілат (Geum)  
-- Чортополох круглий (Echinops ritro)  
-- Золотарник (Solidago)  
-- Італійська буглосса (Anchusa azurea)  
-- Євпаторіум (Eupatorium maculatum)  
-- Мантія леді (Alchemilla mollis)  
-- Шерстиста вушанка (Stachys byzantina)  
-- Лаванда (Lavandula sp.)  
-- Бавовняна лаванда (Santolina chamaecyparissus)  
-- Люпин (Lupinus sp.)  
-- Хризантема (Chrysanthemum)  
-- Скабіоза (Scabiosa columbaria)  
-- Ехінацея пурпурова (Echinacea purpurea)  
-- Кніфофія (Kniphofia)  
-- Російський шалфей (Perovskia atriplicifolia)  
-- Лимонник (Limonium latifolium)  
-- Морський падуб (Eryngium)  
-- Седум  
-- Корейопсис (Coreopsis species)  
-- Хелоне (Chelone lyonii)  
-- Валеріана червона (Centranthus ruber)  
-- Гуара (Guara sp.)  
-- Амсонія верболиста (Amsonia tabernaemontana)
+#### Підготувала Лора Айєр · 09.10.2018
+
+- Артемізія
+- Айстра
+- Астильба
+- Дзвіночок широколистий (*Platycodon grandiflorus*)
+- Золота кошикова (*Aurinia saxatilis*)
+- Ведмежі лапи (*Acanthus spinosus*)
+- Бергенія (*Bergenia cordifolia*)
+- Рудбекія блискуча (*Rudbeckia fulgida*)
+- Каріоптерис (*Caryopteris sp.*)
+- Буддлея Давіда (*Buddleia davidii*)
+- Асклепій (*Asclepias tuberosa*)
+- Дзвіночок
+- Лобелія кардинальська (*Lobelia cardinalis*)
+- Гейхера (*Heuchera sp.*)
+- Молочай багатобарвний (*Euphorbia polychroma*)
+- Дельфініум
+- Діантус
+- Тіарелла (*Tiarella cordifolia*)
+- Наперстянка пурпурова (*Digitalis purpurea*)
+- Диктамнус (*Dictamnus albus*)
+- Ліатріс (*Liatris spicata*)
+- Гейхера (*Geum*)
+- Синяк сферичний (*Echinops ritro*)
+- Золотарник (*Solidago*)
+- Анхуза італійська (*Anchusa azurea*)
+- Евпаторій плямистий (*Eupatorium maculatum*)
+- Манжетка м'яка (*Alchemilla mollis*)
+- Чистець шерстистий (*Stachys byzantina*)
+- Лаванда (*Lavandula sp.*)
+- Сантоліна (*Santolina chamaecyparissus*)
+- Люпин (*Lupinus sp.*)
+- Хризантема (*Chrysanthemum*)
+- Скабіоза (*Scabiosa columbaria*)
+- Ехінацея пурпурова (*Echinacea purpurea*)
+- Кніфофія (*Kniphofia*)
+- Перовська (*Perovskia atriplicifolia*)
+- Лімонник морський (*Limonium latifolium*)
+- Синеголовник (*Eryngium*)
+- Седум
+- Корефосис (*Coreopsis species*)
+- Хелоне (*Chelone lyonii*)
+- Центрантус (*Centranthus ruber*)
+- Гаура (*Guara sp.*)
+- Амсонія вербова (*Amsonia tabernaemontana*)
+---

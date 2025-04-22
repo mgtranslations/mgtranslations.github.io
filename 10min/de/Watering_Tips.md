@@ -1,82 +1,112 @@
-# 10-Minute University™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit und Unterstützung des  
-OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Bewässerungstipps  
+## Bewässerungstipps
 
-### Theorie & Techniken  
-- Gießen Sie früh am Morgen, wenn die Luft kühl, der Wind niedrig und der Wasserdruck in kommunalen Systemen höher ist.  
-- Tiefes Gießen im gesamten Wurzelbereich fördert tiefes Wurzelwachstum und robuste, gesunde Pflanzen.  
-- Bewässern Sie Rasenflächen bis zu einer Tiefe von 8 bis 10 Zoll, Blumenbeete bis zu einer Tiefe von etwa 12 bis 15 Zoll. Die meisten Bäume in Oregon haben die Mehrheit ihrer saugenden Wurzeln in den oberen 12 bis 18 Zoll des Bodens, aber tief wachsende Senkwurzeln können bis zu etwa 3 bis 4 Fuß tief gehen. Die Wurzeln vieler Sträucher können mehrere Fuß tief wachsen, wenn die Bodenbedingungen geeignet sind; Kamelien- und Rhododendronwurzeln sind Ausnahmen, da sie näher an der Oberfläche liegen.  
-- Verwenden Sie eine Bewässerungsrate, die das Wasser in den Boden eindringen lässt, anstatt von der Oberfläche abzulaufen.  
-- Konzentrieren Sie die Bewässerung auf den Wurzelbereich. Je weniger Wasser zwischen Pflanzen aufgetragen wird, desto weniger Unkraut wächst.  
-- Tonböden nehmen Wasser langsam auf und benötigen möglicherweise mehrere Ein-Aus-Zyklen, um gründlich durchfeuchtet zu werden. Einmal hydratisiert, trocknet Tonboden langsam aus und kann daher seltener bewässert werden. Sandböden lassen Wasser schnell hindurchlaufen, trocknen jedoch auch schnell aus. Lehmböden liegen irgendwo dazwischen.  
-- Messen Sie regelmäßig die Wassertiefe und die Trockenheit des Bodens. Lassen Sie den Boden zwischen den Bewässerungen teilweise austrocknen, damit Sauerstoff wieder in den Boden gelangen kann.  
-- Pflanzsubstrate in Behältern trocknen schneller aus als Gartenbeete, daher müssen Topfpflanzen häufiger bewässert werden.  
-- Im Gemüsegarten sollten Pflanzen und Reihen so eng gepflanzt werden, dass sich die Kronen bei ausgewachsenen Pflanzen gerade berühren. Dies führt zu einem dicht bepflanzten Bereich, der weniger Wasser für eine reichere Ernte benötigt. Ein zusätzlicher Vorteil ist, dass beschatteter Boden weniger Wasser durch Verdunstung verliert.  
-- Sparen Sie Bodenfeuchtigkeit mit einer 3 Zoll dicken Schicht aus organischem Mulch wie Holzspänen oder Kompost.  
-- Schwarze Plastikmulch reduziert die Verdunstung in Gemüsebeeten und erwärmt den Boden. Bei Tomaten und Paprika hat roter Plastikmulch den zusätzlichen Vorteil, die Erträge zu verbessern. Warmer Boden ist eine Schlüsselzutat, um Gemüse erfolgreich in unserem Klima anzubauen.  
-- Um neu gepflanzte Bäume und Sträucher effektiv zu bewässern, formen Sie ein Auffangbecken, indem Sie einen niedrigen Erdwall am äußeren Rand des Wurzelballens errichten. Füllen Sie das Becken mit Wasser und lassen Sie es einziehen. Jedes Mal, wenn Sie bewässern, füllen Sie das Becken einmal bei Sandboden, zweimal bei Lehmboden und dreimal bei Tonboden.  
-- Bei Behältern können sich weiße Ablagerungen aus verschiedenen Salzen aus hartem Wasser und Dünger auf der Oberfläche des Topfsubstrats oder der Außenseite von Tontöpfen bilden, was auf unzureichende Entwässerung oder einen zu geringen Wasserdurchfluss hinweist. Um Salzablagerungen zu minimieren, gießen Sie, bis überschüssiges Wasser aus der Abflussöffnung austritt.  
+### Theorie & Techniken
 
-### Unwirksame Bewässerung  
+- **Gießen Sie früh am Morgen**, wenn die Luft kühl ist, wenig Wind weht und der Wasserdruck im städtischen System am höchsten ist.
+- **Tiefes Gießen** im gesamten Wurzelbereich fördert tiefes Wurzelwachstum und kräftige, gesunde Pflanzen.
+- **Bewässerungstiefen:**
+  - Rasen: 20–25 cm tief
+  - Blumenbeete: 30–38 cm tief
+  - Bäume: Die meisten Saugwurzeln befinden sich in den oberen 30–45 cm des Bodens, aber Pfahlwurzeln können 90–120 cm tief wachsen.
+  - Sträucher: Wurzeln können mehrere Meter tief wachsen, wenn die Bodenbedingungen passen. Ausnahmen sind Kamelien- und Rhododendronwurzeln, die näher an der Oberfläche liegen.
+- Verwenden Sie eine **Gießrate**, bei der das Wasser einsickern kann und nicht abläuft.
+- Konzentrieren Sie das Gießen auf die **Wurzelzone**, um das Unkrautwachstum zu verringern.
+- **Bodenarten:**
+  - Lehmböden nehmen Wasser langsam auf und benötigen oft mehrere Gießintervalle, um gründlich durchfeuchtet zu werden. Einmal durchfeuchtet, trocknet Lehm langsam aus und muss seltener gegossen werden.
+  - Sandige Böden lassen Wasser schnell durch, trocknen aber auch schnell wieder aus.
+  - Lehmige Böden liegen dazwischen.
+- **Messen Sie regelmäßig die Wassertiefe und Bodenfeuchte.** Lassen Sie den Boden zwischen den Wassergaben teilweise trocknen, damit wieder Sauerstoff eindringen kann.
+- **Topfpflanzen** trocknen schneller aus als Gartenbeete und müssen häufiger gegossen werden.
+- Im Gemüsegarten sollten Pflanzen und Reihen so eng stehen, dass sich die Blätter bei voller Größe gerade berühren. So entsteht eine dichte Pflanzung, die weniger Wasser verbraucht und die Verdunstung reduziert.
+- Sparen Sie Bodenfeuchtigkeit mit einer **7–8 cm dicken Schicht organischen Mulchs** wie Holzschnitzeln oder Kompost.
+- **Plastikmulch:**
+  - Schwarze Folie verringert Verdunstung und erwärmt den Boden.
+  - Rote Folie steigert die Erträge bei Tomaten und Paprika.
+  - Warmer Boden ist wichtig für den Gemüseanbau im Klima Oregons.
+- Bei neu gepflanzten Bäumen und Sträuchern formen Sie ein **Gießbecken**, indem Sie am Rand des Wurzelballens einen niedrigen Erdwall aufhäufen. Füllen Sie das Becken mit Wasser und lassen Sie es einsickern. Die Anzahl der Füllungen hängt vom Bodentyp ab:
+  - Sandiger Boden: einmal füllen.
+  - Lehmiger Boden: zweimal füllen.
+  - Lehmboden: dreimal füllen.
+- **Salzansammlungen** in Töpfen: Weißliche Ablagerungen von hartem Wasser und Dünger können auf unzureichende Drainage oder zu wenig Durchfluss hinweisen. Gießen Sie so, dass überschüssiges Wasser aus dem Abflussloch läuft, um Salzablagerungen zu verringern.
 
-#### Symptome von Überbewässerung  
-- Gelbe oder gefleckte Blätter.  
-- Blätter werden blassgrün oder gelb und fallen dann ab.  
-- Pflanzen wachsen schlecht, und dünne Stängel knicken.  
+### Unwirksames Gießen
 
-#### Symptome von Unterbewässerung  
-- Gelbe oder gefleckte Blätter.  
-- Blätter wirken stumpf, leicht grau und verlieren ihre reflektierende Qualität.  
-- Der Rasen verliert seinen Glanz, nimmt einen blaugrünen Farbton an und federt nicht zurück, wenn man auf ihn tritt.  
-- Blätter welken und erholen sich nicht, wenn sie bewässert werden.  
+#### Anzeichen für Überwässerung
 
-Wenn Pflanzen an heißen Tagen welken, überprüfen Sie zuerst den Boden. Fühlt sich der Boden feucht an, warten Sie bis zum Abend, um zu sehen, ob sich die Pflanzen erholen; wenn nicht, bewässern Sie sie.  
+- Gelbe oder fleckige Blätter
+- Blätter werden hellgrün oder gelb und fallen dann ab
+- Pflanzen wachsen schlecht, und dünne Stängel knicken um
 
-### Bewässerungsmethode  
-Unabhängig von der bevorzugten Bewässerungsmethode sollten Sie den Feuchtigkeitsgehalt des Bodens einige Stunden nach der Bewässerung überprüfen, um die Wirksamkeit Ihrer Bemühungen zu beurteilen. Ihr Ziel ist es, den gesamten Wurzelbereich Ihrer Pflanzen zu befeuchten. Im Allgemeinen bedeutet dies eine Tiefe von 12 bis 15 Zoll für die meisten Blumen und Gemüse.  
+#### Anzeichen für Unterwässerung
 
-Überkopf-Bewässerung von Bäumen und Sträuchern, sei es durch Sprinkler oder per Hand, kann eine ideale Umgebung für die Ausbreitung von Pilz- und Bakterienproblemen wie Apfelschorf, Rost und Schwarzflecken bei Rosen bieten. Wann immer möglich, bewässern Sie früh genug am Tag, damit die Blätter vor dem Abend trocknen.  
+- Gelbe oder fleckige Blätter
+- Blätter sehen stumpf, etwas gräulich aus und glänzen nicht
+- Rasen verliert seinen Glanz, bekommt einen blaugrünen Ton und richtet sich nach dem Betreten nicht mehr auf
+- Blätter welken und erholen sich auch nach dem Gießen nicht
 
-Handbewässerung ist eine beruhigende Praxis für viele Gärtner. Sie kann jedoch Wasser schneller liefern, als der Boden es aufnehmen kann, was zu verschwenderischem Abfluss führt.  
+Wenn Pflanzen an einem heißen Tag welken, prüfen Sie zuerst den Boden. Fühlt er sich feucht an, warten Sie bis zum Abend, ob sich die Pflanzen erholen; falls nicht, gießen Sie sie.
 
-Sprinkler können Wasser dort verstreuen, wo es nicht benötigt wird. Und wie bei der Handbewässerung wird Wasser oft schneller geliefert, als es in den Boden eindringen kann.  
+### Bewässerungsmethoden
 
-Verwenden Sie einen Sprinkler, der nur den Garten abdeckt, nicht die umliegenden Bereiche. Ein Sprinkler führt zu einem höheren Verdunstungsverlust als andere Bewässerungsmethoden. Minimieren Sie den Wasserverlust, indem Sie zu kühlen, windfreien Tageszeiten bewässern (abends bis morgens).  
+Egal, welche Methode Sie bevorzugen: Prüfen Sie die Bodenfeuchte einige Stunden nach dem Gießen, um die Wirksamkeit zu bestimmen. Das Ziel ist, die gesamte Wurzelzone zu durchfeuchten:
 
-Niedrigdurchfluss-Systeme (Tröpfchenbewässerung und Tropfschläuche) können Feuchtigkeit direkt in den Wurzelbereich mit einer gleichmäßigen Rate über die gesamte Saison liefern und so das bestmögliche Wachstum fördern. Sie können Tropfemitter, Tropfschläuche und Mini-Sprühgeräte und Sprinkler kombinieren, um ein effektives und effizientes Bewässerungssystem zu schaffen.  
+- Blumen und Gemüse: 30–38 cm tief
 
-Ein korrekt funktionierendes Niedrigdurchfluss-System vermeidet Wasserverluste durch Abfluss oder Verdunstung. Und da Wasser direkt auf den Boden aufgebracht wird, bleiben die Blätter trocken und Krankheiten werden begrenzt. Niedrigdurchfluss-Systeme können im Vergleich zu herkömmlichen Bewässerungsmethoden (per Hand oder Sprinkler) bis zu 50 % weniger Wasser verbrauchen. Solche Systeme können jedoch auch Wasser verschwenden, wenn sie zu lange laufen gelassen werden.  
+#### Überkopf-Bewässerung
 
-Niedrigdurchfluss-Systeme sind einfach zu installieren, da Versorgungsleitungen auf der Bodenoberfläche verlegt werden können.  
+- Überkopf-Bewässerung von Bäumen und Sträuchern (mit Sprinkler oder von Hand) kann Pilz- und Bakterienkrankheiten wie Apfelschorf, Rost und Schwarzfleckenkrankheit bei Rosen fördern.
+- Gießen Sie früh am Tag, damit die Blätter vor dem Abend abtrocknen.
 
-Einige Leute bevorzugen es, mit einem Kit zu beginnen, um ihr Vertrauen aufzubauen, und erweitern ihr System durch den Kauf zusätzlicher Komponenten. Oft können Sie kostenlose, informative Herstelleranleitungen bei Einzelhändlern oder online erhalten.  
+#### Handbewässerung
 
-Ein Tropfsystem in seiner einfachsten Form beginnt an einem Außenzapfhahn und fügt diese Komponenten in folgender Reihenfolge hinzu: Timer (mechanisch oder batteriebetrieben); Rückflussverhinderer; Druckregler; Filter; Adapter für Rohrleitungen; Versorgungsrohrleitungen; und eine Endkappe. Fügen Sie druckkompensierte Emitter hinzu, wo nötig, um den Pflanzen ausreichend Wasser für jedes Wurzelsystem zu liefern. Vermeiden Sie es, den Druckregler zu überlasten, indem Sie den Wasserhahn nur teilweise öffnen.  
+- Beim Gießen von Hand kann mehr Wasser aufgetragen werden, als der Boden aufnehmen kann – es kommt zu Abfluss.
 
-Möglicherweise müssen Sie ein wenig experimentieren, um die richtige Anordnung für Ihren Garten zu finden. Es wird jedoch einfach sein, das System während der Einrichtung und auch später, wenn die Pflanzen wachsen oder Sie Ihre Bepflanzung ändern, anzupassen.  
+#### Sprinkler
 
-Nach der Installation müssen Sie ein einfaches Experiment durchführen, um Antworten auf mehrere kritische Fragen zu erhalten: Wie weit auseinander sollten die Tropfer oder Tropfschläuche platziert werden? Wie lange sollte das System laufen? Und wie oft?  
+- Sprinkler verteilen Wasser oft dort, wo es nicht gebraucht wird, und geben meist mehr Wasser ab, als in den Boden einsickern kann.
+- Verwenden Sie Sprinkler, die nur den Garten abdecken, nicht die Umgebung.
+- Verringern Sie Verdunstungsverluste, indem Sie zu kühlen, windstillen Zeiten gießen (abends bis morgens).
 
-Beginnen Sie, indem Sie das Wasser für eine Stunde einschalten, mindestens eine Stunde stoppen und dann in den Boden graben, um zu sehen, wie breit und tief die Feuchtigkeit eingedrungen ist. Wenn das Wasser nicht tief genug für die Wurzelbereiche der vorgesehenen Pflanzen ist, bewegen Sie den Tropfer oder Tropfschlauch an eine neue Stelle im Boden, lassen Sie das Wasser länger laufen als beim ersten Mal, warten Sie etwa eine Stunde und überprüfen Sie den Boden erneut. Wiederholen Sie den Vorgang, bis Sie die benötigten Antworten erhalten.  
+#### Tropfbewässerung und Niedrigdrucksysteme
+
+- **Vorteile:**
+  - Bringen Feuchtigkeit direkt in die Wurzelzone und geben sie über die Saison gleichmäßig ab.
+  - Fördern optimales Wachstum und begrenzen Krankheiten, da die Blätter trocken bleiben.
+  - Verwenden bis zu 50 % weniger Wasser als herkömmliche Methoden.
+- **Bestandteile:**
+  - Zeitschaltuhr (mechanisch oder batteriebetrieben)
+  - Rückflussverhinderer
+  - Druckregler
+  - Filter
+  - Schlauchadapter
+  - Zuleitungsrohr
+  - Endkappe
+  - Druckausgleichende Tropfer für eine gleichmäßige Wasserabgabe an jedes Wurzelsystem
+- **Tipps zur Installation:**
+  - Legen Sie die Zuleitungen auf die Bodenoberfläche.
+  - Beginnen Sie mit einem Set, um Vertrauen zu gewinnen, und erweitern Sie dann mit weiteren Teilen.
+  - Probieren Sie aus, um Platzierung, Dauer und Häufigkeit zu bestimmen:
+    - Lassen Sie das Wasser eine Stunde laufen, dann eine Stunde ruhen. Prüfen Sie dann Tiefe und Breite der Durchfeuchtung.
+    - Stellen Sie Platzierung und Dauer so ein, dass die Wurzelzone ausreichend feucht ist.
+
+### Ressourcen
+
+- **OSU Extension Service Veröffentlichungen:**
+  - [Richtiges Gießen zahlt sich aus, EM 9133](https://catalog.extension.oregonstate.edu/)
+  - [Schlüssel zu wassersparenden Gärten, EM 9134](https://catalog.extension.oregonstate.edu/)
+  - [Gartenpflege zur Wassereinsparung, EM 9135](https://catalog.extension.oregonstate.edu/)
+
+#### Master Gardener™ Beratung
+
+- **Anrufen beim Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Weitere 10-Minuten-Universität™ Merkblätter und Kurspläne finden Sie unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
 ---
 
-## OSU Extension Service Publikationen  
-- [It Pays to Water Wisely, EM 9133](https://catalog.extension.oregonstate.edu/)  
-- [Keys to Water-efficient Landscapes, EM 9134](https://catalog.extension.oregonstate.edu/)  
-- [Landscape Maintenance to Conserve Water, EM 9135](https://catalog.extension.oregonstate.edu/)  
-
-## Master Gardener™ Beratung  
-Rufen Sie die Home Horticulture Helpline an:  
-- 503-655-8631 (Clackamas County)  
-- 503-821-1150 (Washington County)  
-- 503-445-4608 (Multnomah County)  
-
-### 10-Minute University Videos  
-[Video: Verwendung von Tropfbewässerung](http://www.cmastergardeners.org/10-minute-university/video)  
-
+#### Oregon State University Extension Service · Der Oregon State University Extension Service untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien auf Grund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich -ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
 ---
-
-Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien auf der Grundlage von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)

@@ -1,56 +1,115 @@
-### Đại học 10 phút™  
-Hiệp hội Làm vườn Bậc thầy Hạt Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Bậc thầy của OSU™  
+#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
 
-### Trồng Cây Mâm Xôi  
+# Trồng Dâu Tây Đen (Raspberry)
 
-#### Tại sao nên trồng cây mâm xôi?  
-Cây mâm xôi thơm ngon, mềm mại và ngon nhất khi được hái tươi. Ngoài ra, chúng còn sống lâu: mâm xôi đỏ và vàng có thể sản xuất quả trong vòng 15 năm; mâm xôi đen sản xuất quả từ 4 đến 8 năm.  
+### Tại Sao Nên Trồng Dâu Tây Đen?
+Dâu tây đen rất ngon, mềm và tuyệt nhất là khi ăn tươi vừa hái. Chúng cũng sống lâu:
+- Dâu tây đen đỏ và vàng có thể cho trái tốt trong 15 năm.
+- Dâu tây đen đen cho trái trong 4 đến 8 năm.
 
-#### Các loại và lựa chọn  
-Lựa chọn đầu tiên của bạn là giữa loại chỉ sản xuất quả một lần vào đầu mùa hè (ra quả trên cành già) và loại sản xuất quả hai lần vào mùa hè và mùa thu (ra quả trên cành non). Tiếp theo, bạn cần chọn giữa nhiều loại khác nhau về màu sắc và hương vị của quả. Bạn có thể thử nghiệm hương vị trước khi lựa chọn hoặc tham khảo tài liệu của OSU về các giống cây (cultivars) phù hợp với khu vực này. Ví dụ: các giống mâm xôi đỏ ra quả trên cành già (Willamette, Meeker & Cascade Delight); các giống mâm xôi đỏ ra quả trên cành non (Vintage, Heritage & Caroline); mâm xôi vàng ra quả trên cành non (Fallgold & Anne); mâm xôi đen ra quả trên cành già (Munger & Jewel); và mâm xôi tím ra quả trên cành già (Royalty & Brandywine).  
+### Các Loại và Lựa Chọn
+Bạn cần quyết định giữa hai loại:
+1. **Chỉ ra trái một lần, đầu mùa hè** (ra trái trên cành năm trước - floricane).
+2. **Ra trái hai lần, vào mùa hè và mùa thu** (ra trái trên cành mới - primocane).
 
-#### Chọn địa điểm  
-Cây mâm xôi có thể chịu được bóng râm một phần, nhưng khi trồng dưới ánh nắng đầy đủ, cây sẽ cho năng suất và chất lượng quả tốt hơn. Tránh trồng ở nơi mà khoai tây, cà chua, ớt, cà tím, các loại cây mâm xôi khác hoặc dâu tây đã trồng trong 3 năm qua. Những loại cây này dễ bị các loại sâu bệnh giống như mâm xôi. Trồng cây ở đất màu mỡ, thoát nước tốt, đất mùn với khả năng giữ nước vừa phải. Tránh đất sét nặng.  
+Tiếp theo, chọn giống dựa theo màu sắc và hương vị quả. Có thể thử nếm trước khi chọn hoặc tham khảo tài liệu của OSU về các giống phù hợp với khu vực của chúng ta. Ví dụ:
+- **Giống đỏ ra trái trên cành năm trước**: Willamette, Meeker, Cascade Delight.
+- **Giống đỏ ra trái trên cành mới**: Vintage, Heritage, Caroline.
+- **Giống vàng ra trái trên cành mới**: Fallgold, Anne.
+- **Giống đen ra trái trên cành năm trước**: Munger, Jewel.
+- **Giống tím ra trái trên cành năm trước**: Royalty, Brandywine.
 
-#### Chuẩn bị đất  
-Tốt nhất là trồng mâm xôi trên một mô đất cao từ 1½ đến 2 feet và rộng 2 feet để có khả năng thoát nước tốt. Hoặc xây một luống đất cao với khả năng thoát nước tốt. Độ pH của đất nên nằm trong khoảng từ 5.6 đến 6.5.  
+### Chọn Vị Trí Trồng
+Dâu tây đen chịu được bóng râm nhẹ, nhưng sẽ cho nhiều trái hơn và chất lượng trái tốt hơn khi trồng đủ nắng. Tránh trồng ở nơi từng trồng khoai tây, cà chua, ớt, cà tím, các loại dâu thân gỗ khác hoặc dâu tây trong 3 năm gần đây vì những cây này có thể mang sâu bệnh giống dâu tây đen.
 
-Trong năm trước khi trồng, loại bỏ tất cả cỏ dại lâu năm. Bổ sung chất hữu cơ vào mùa hè hoặc mùa thu – bạn có thể sử dụng phân chuồng, phân trộn, lá cây hoặc mùn cưa – trộn đều vào đất. Đảm bảo chất hữu cơ đã phân hủy trước khi trồng cây. Trồng mâm xôi vào năm sau khi đã chuẩn bị đất.  
+Trồng dâu tây đen trên đất tơi xốp, màu mỡ, có khả năng giữ nước vừa phải và thoát nước tốt. Tránh đất sét nặng.
 
-#### Trồng cây  
-Mâm xôi thường được bán dưới dạng cây rễ trần. Mua cây đã được chứng nhận không có bệnh để giảm thiểu vấn đề sâu bệnh. Trồng cây vào đầu mùa xuân khi đất có thể làm việc được. Đào một hố rộng đủ để trải rộng rễ cây. Đặt phần cao nhất nơi rễ gắn vào cành, khoảng 1 đến 2 inch dưới mặt đất. Phủ đất và tưới nước đủ để loại bỏ túi khí.  
+### Chuẩn Bị Đất
+- Trồng dâu tây đen trên luống cao (cao 1½ đến 2 feet, rộng 2 feet) hoặc trên luống nổi để đảm bảo thoát nước tốt.
+- Giữ pH đất từ **5.6 đến 6.5**.
+- Loại bỏ hết cỏ dại lâu năm trong năm trước khi trồng.
+- Bón thêm chất hữu cơ (phân chuồng, phân compost, lá cây mục hoặc mùn cưa) vào mùa hè hoặc thu và trộn đều vào đất. Đảm bảo chất hữu cơ đã phân hủy xong trước khi trồng.
+- Trồng dâu tây đen vào năm sau khi đã chuẩn bị đất.
 
-#### Bón phân  
-Trong năm đầu tiên trồng, bón tổng cộng 2 ounce nitơ (N) cho mỗi hàng dài 10 feet. Sử dụng phân bón cân đối như 16-16-16 hoặc nguồn hữu cơ (ví dụ: bột hạt bông). Bạn có thể tính lượng cần thiết bằng cách chia 2 ounce cho phần trăm nitơ trong phân bón. Ví dụ, bạn cần 12 ounce phân bón 16-16-16 để có 2 ounce N (2 ounce/phần trăm N trong phân bón = lượng phân bón cần thiết).  
+### Trồng Cây
+Dâu tây đen thường được bán dưới dạng cây rễ trần. Nên mua cây đã được chứng nhận sạch bệnh để giảm nguy cơ bị bệnh.
 
-Trong các cây trồng mới, không bón toàn bộ lượng phân bón cùng một lúc. Chia tổng lượng thành ba phần. Bón phần đầu tiên sau khi trồng 2 tuần, phần tiếp theo 1 tháng sau, và phần cuối cùng thêm 1 tháng nữa.  
+- **Thời gian trồng**: Đầu mùa xuân, khi đất vừa có thể làm đất được.
+- **Cách trồng**:
+  1. Đào hố rộng vừa đủ để rễ trải ra thoải mái.
+  2. Đặt phần gốc (nơi rễ gắn vào thân) thấp hơn mặt đất 1 đến 2 inch.
+  3. Lấp đất và tưới nước kỹ để loại bỏ túi khí.
 
-Đối với cây đã trồng lâu năm, bón phân hàng năm để duy trì sự phát triển tốt. Mỗi năm, bón tổng cộng 2 đến 3 ounce nitơ cho mỗi hàng dài 10 feet. Điều này tương đương với 13 đến 19 ounce phân bón 16-16-16 hoặc 2.5 pound phân bón 5-5-3. Bón một nửa vào cuối tháng 3 đến đầu tháng 4 và phần còn lại vào đầu tháng 6. Bón thêm 0.5 đến 1 ounce N vào cuối tháng 7 cho cây mâm xôi ra quả trên cành non.  
+### Bón Phân
 
-#### Tưới nước  
-Cây đã trồng lâu năm cần 1 đến 1½ inch nước mỗi tuần từ giữa tháng 6 đến cuối mùa hè. Chỉ tưới vào vùng rễ, tránh làm ướt khu vực quả.  
+#### Cây Mới Trồng
+Năm đầu tiên, bón tổng cộng **2 ounce đạm (N)** cho mỗi hàng dài 10 feet. Dùng phân cân đối như **16-16-16** hoặc nguồn hữu cơ (như bột hạt bông).
 
-#### Quản lý cỏ dại  
-Xới đất để kiểm soát cỏ dại và các cành phát triển ngoài hàng. Xới đất không sâu hơn 1 đến 2 inch để tránh làm hỏng rễ. Có thể sử dụng lớp phủ để ngăn chặn cỏ dại và duy trì độ ẩm trong đất.  
+Cách tính lượng phân cần dùng:
+- Chia 2 ounce cho phần trăm đạm trong phân bón.
+  - Ví dụ: Cần **12 ounce phân 16-16-16** để có 2 ounce đạm (2 ounce ÷ phần trăm N = số ounce phân cần dùng).
 
-#### Làm giàn và tỉa cành  
-Phương pháp tỉa cành cho cây mâm xôi thay đổi đáng kể giữa các loại cây. Tóm tắt, mâm xôi ra quả vào mùa hè cần hỗ trợ để giữ các cành đứng. Tỉa bằng cách loại bỏ các cành chết sau khi ra quả vào mùa hè hoặc mùa thu.  
+Không bón hết một lần. Chia thành ba phần:
+1. Bón 1/3 đầu tiên sau khi trồng 2 tuần.
+2. Bón 1/3 tiếp theo sau 1 tháng nữa.
+3. Bón 1/3 cuối cùng sau thêm 1 tháng.
 
-Vào mùa đông, loại bỏ các cành non bị gãy hoặc yếu và buộc các cành vào giàn (có thể cắt ngắn đến khoảng 6 feet). Để sản xuất hai vụ quả trên cây mâm xôi ra quả trên cành non, loại bỏ các cành già chết sau khi ra quả vào mùa hè hoặc mùa thu. Sau đó, loại bỏ phần đầu đã chết trên cành non (phần đã ra quả vào mùa thu trước).  
+#### Cây Đã Ổn Định
+Bón phân hàng năm để cây phát triển tốt:
+- **Lượng**: 2 đến 3 ounce đạm cho mỗi hàng 10 feet.
+  - Ví dụ: 13 đến 19 ounce phân 16-16-16 hoặc 2,5 pound phân 5-5-3.
+- **Thời điểm**:
+  - Bón một nửa cuối tháng 3 đến đầu tháng 4.
+  - Bón nửa còn lại vào đầu tháng 6.
+- **Dâu tây đen ra trái trên cành mới**: Bón thêm 0,5 đến 1 ounce đạm vào cuối tháng 7.
 
-Để chỉ sản xuất một vụ quả trên cây mâm xôi ra quả trên cành non, tỉa vào cuối mùa đông bằng cách cắt tất cả các cành xuống đất. Vụ quả mùa thu sẽ được tạo ra trên phần đầu của cành non mọc vào mùa hè. Trong trường hợp này, mâm xôi ra quả vào mùa thu chỉ cần một cấu trúc hỗ trợ tạm thời.  
+### Tưới Nước
+Cây đã ổn định cần **1 đến 1½ inch nước mỗi tuần** từ giữa tháng 6 đến cuối mùa hè. Chỉ tưới vùng gốc, tránh làm ướt trái.
 
-#### Sâu bệnh  
-Bệnh thối rễ Phytophthora có thể là một vấn đề nghiêm trọng. Đất sét nặng và vùng rễ ẩm ướt là điều kiện lý tưởng cho loại nấm này, gây chết các cành già. Các loài sâu bệnh khác bao gồm bọ rễ, nhện đỏ, rệp, bệnh phấn trắng, bệnh thán thư và bệnh héo Verticilium.  
+### Quản Lý Cỏ Dại
+- Làm cỏ và cắt bỏ các cành phát triển ngoài hàng.
+- Không xới đất sâu quá **1 đến 2 inch** để tránh làm hỏng rễ.
+- Dùng phủ gốc để hạn chế cỏ dại và giữ ẩm cho đất.
 
-#### Thông tin bổ sung  
-Các tài liệu của OSU có sẵn trực tuyến tại [https://extension.oregonstate.edu/](https://extension.oregonstate.edu/)  
-- **Trồng Cây Mâm Xôi Trong Vườn Nhà** EC 1306  
-- **Các Giống Mâm Xôi Cho Tây Bắc Thái Bình Dương** PNW 655  
-- **Cẩm Nang Làm Vườn Bền Vững** EM 8742  
-- **Trồng Các Loại Quả Dâu Ven Biển Oregon: Mâm Xôi và Dâu Đen** EM 9180 (nội dung cũng phù hợp cho thung lũng Willamette)  
-- Tìm hiểu cách tỉa cành mâm xôi từ module trực tuyến tại [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en)  
+### Dàn Leo & Tỉa Cành
+Cách tỉa cành sẽ khác nhau tùy loại dâu tây đen:
 
-#### Lời khuyên từ Làm vườn Bậc thầy™  
-- Gọi đến Đường dây trợ giúp làm vườn tại nhà: 503-655-8631 (Hạt Clackamas), 503-821-1150 (Hạt Washington), hoặc 503-445-4608 (Hạt Multnomah).  
-- Để xem tài liệu và lịch trình lớp học của Đại học 10 phút™, truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org) hoặc [www.metromastergardeners.org](http://www.metromastergardeners.org).
+- **Dâu tây đen ra trái mùa hè**:
+  - Chống cành đứng bằng dàn leo.
+  - Cắt bỏ các cành ra trái (floricane) đã chết sau khi thu hoạch mùa hè hoặc thu.
+  - Mùa đông, tỉa bớt cành yếu, gãy và buộc các cành còn lại vào dàn leo (có thể cắt ngọn cành ở độ cao khoảng 6 feet).
+
+- **Dâu tây đen ra trái trên cành mới**:
+  - Nếu muốn thu hai mùa:
+    - Cắt bỏ cành ra trái (floricane) đã chết sau khi thu hoạch mùa hè hoặc thu.
+    - Cắt bỏ phần ngọn đã ra trái năm trước trên cành mới (primocane).
+  - Nếu chỉ muốn thu một mùa:
+    - Tỉa toàn bộ cành sát mặt đất vào cuối mùa đông.
+    - Vụ mùa thu sẽ ra trên ngọn các cành mới mọc mùa hè.
+    - Dâu tây đen ra trái mùa thu chỉ cần dàn chống tạm thời.
+
+### Sâu Bệnh
+Các vấn đề thường gặp:
+- **Thối rễ Phytophthora**: Phát triển mạnh trên đất sét nặng và vùng rễ ẩm ướt, làm chết cành ra trái.
+- Sâu hại khác: Sâu đục rễ, nhện đỏ, rệp.
+- Bệnh: Mốc sương, bệnh thán thư, héo Verticillium.
+
+### Thông Tin Thêm
+Tài liệu của OSU có sẵn trực tuyến tại [https://extension.oregonstate.edu/](https://extension.oregonstate.edu/):
+- **Trồng Dâu Tây Đen tại Vườn Nhà Bạn** (EC 1306)
+- **Các Giống Dâu Tây Đen cho Tây Bắc Thái Bình Dương** (PNW 655)
+- **Sổ Tay Làm Vườn Bền Vững** (EM 8742)
+- **Trồng Dâu ở Bờ Biển Oregon: Dâu Tây Đen và Dâu Đen** (EM 9180) – Nội dung cũng phù hợp cho vùng Willamette Valley.
+- Học cách tỉa dâu tây đen qua khóa học trực tuyến tại [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
+
+#### Tư Vấn Làm Vườn Chuyên Gia™
+- **Gọi đường dây tư vấn làm vườn tại nhà:**
+  - 503-655-8631 (Quận Clackamas)
+  - 503-821-1150 (Quận Washington)
+  - 503-445-4608 (Quận Multnomah)
+- Để xem thêm các tài liệu và lịch lớp học 10-Minute University™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trả thù vì các hoạt động quyền công dân trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình.)
+---

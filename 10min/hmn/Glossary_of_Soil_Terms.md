@@ -1,89 +1,199 @@
-Av Luam Teb
+#### 10-Minute University™ · Lub Koom Haum Kws Tswv Zos Clackamas County Master Gardener · Ua ke nrog thiab txhawb OSU Extension Master Gardener™ Program
 
-Cov Lus Txhais   
-Txhua qhov kev txhais lus tag nrho saib Washington State University Extension phau ntawv EM063E  
-Ib Phau Ntawv Qhia Rau Cov Tsev Ua Teb Txog Av thiab Chiv.  
+# Cov Lus Qhia Txog Av
 
-**aeration**—Ib txoj kev uas huab cua raug nthuav tawm, sib xyaw nrog, lossis yaj rau hauv ib yam khoom (av).  
+Yog xav pom tag nrho cov ntsiab lus, mus saib Washington State University Extension EM063E: *A Home Gardener’s Guide to Soils and Fertilizers*.
 
-**aggregation**—Txoj kev uas xuab zeb, av nplaum, av xuab zeb, thiab cov organic ua ke tsim cov pawg, tseem hu ua peds.  
+---
 
-**biosolids**—Cov khoom tsim los ntawm kev kho dej khib nyiab hauv nroog uas muaj cov khoom noj, cov organic, thiab cov khoom tsis muaj zog. Cov biosolids Class A tau raug kho kom tshem tawm cov kab mob thiab tsim nyog siv rau hauv vaj thiab chaw zoo nkauj. Cov biosolids composts thiab blends yog cov khoom siv ntxiv rau hauv av, thaum cov khoom biosolids qhuav raug siv ua chiv.  
+## Cov Lus Qhia
 
-**capillary force**—Kev ua uas cov dej molecules txuam rau saum npoo ntawm cov av particles thiab rau ib leeg, yog li khaws dej hauv micropores tiv thaiv lub zog ntawm lub ntiajteb.  
+### Aeration
 
-**carbon sequestration**—Rau thaum cov nroj tsuag tshem CO2 tawm hauv huab cua, thiab cov pa roj carbon raug khaws cia rau hauv cov nroj tsuag thiab av. Nws yog ib qho cuab yeej los txo cov pa roj CO2 hauv huab cua thiab txo kev hloov huab cua.  
+Ib txoj kev uas cua nkag mus los yog sib tov rau hauv ib yam khoom (xws li av).
 
-**clay**—Hom av me tshaj plaws (tsawg dua 0.002 mm hauv txoj kab uas hla).  
+### Aggregation
 
-**composting (txias & kub)**—  
-A. Kev ua compost txias yog ib qho txheej txheem qeeb uas involves tsim ib pawg compost thiab cia nws tawg mus rau ib xyoos lossis ntev dua. Kev ua compost txias tsis tua cov noob nroj tsuag lossis cov kab mob.  
-B. Kev ua compost kub tsim compost tiav hauv ob mus rau plaub hlis. Cov kub tau tswj kom decomposition los ntawm kev sib xyaw cov khoom siv zog (ntsuab) thiab cov khoom siv bulking (xim av), ua kom pawg compost noo, thiab ntxeev nws ntau zaus.  
+Txoj kev uas xuab zeb, av nplaum, av tshauv, thiab yam organic los ua pawg me me, hu ua peds.
 
-**compaction**—Kev siab uas tsuam cov av rau hauv cov txheej uas tiv thaiv keeb kwm hauv paus thiab kev txav ntawm dej. Feem ntau yog vim txoj kev taug kev lossis tshuab hla, tab sis kuj yog los nag rau av liab qab.  
+### Biosolids
 
-**compost**—Cov khoom siv organic uas tau tsim los ntawm kev decomposition biological tswj. Compost yuav siv tau ua khoom siv ntxiv rau hauv av los ntxiv cov khoom organic thiab tso tawm cov khoom noj qeeb qeeb lossis ua ib daim mulch uas tom qab ntawd raug ntxeev mus rau hauv av.  
+Yam khoom los ntawm kev kho qhov dej khib nyiab hauv nroog, muaj cov as-ham, yam organic, thiab yam tsis yog organic.
 
-**cover crop**—Cov nroj tsuag uas loj hlob los tiv thaiv av los ntawm dej ntws thiab av erosion thiab ntxiv cov organic rau hauv av.  
+- **Class A biosolids**: Tau kho kom tshem tau kab mob thiab haum rau kev siv hauv vaj lossis chaw ua paj.
+- **Kev siv**: Biosolids composts thiab blends yog kev kho av, hos cov biosolids uas qhuav siv ua chiv.
 
-**decomposition**—Kev tawg ntawm cov khoom organic los ntawm cov kab mob me me.  
+### Capillary Force
 
-**dolomitic limestone**—Ib hom limestone uas muaj magnesium nrog calcium.  
+Kev uas cov dej lo rau saum cov av thiab sib lo nrog rau lwm tej dej ua ke, pab kom dej nyob hauv qhov me me ntawm av txawm muaj gravity rub.
 
-**fertilizer**—Ib yam khoom ntuj tsim lossis synthetic uas ntxiv rau hauv av los muab cov khoom noj rau nroj tsuag.  
+### Carbon Sequestration
 
-**fertilizer analysis**—Qhov ntau ntawm cov khoom noj tseem ceeb (nitrogen (N), phosphorus (P), thiab potassium (K)) uas nroj tsuag xav tau hauv ntau ntau thiab qhia raws li feem pua ntawm qhov hnyav ntawm chiv.  
+Thaum cov nroj tsuag khaws CO₂ tawm hauv huab cua, ces carbon cia rau hauv nroj tsuag thiab av. Qhov no pab txo CO₂ hauv huab cua thiab pab tiv thaiv huab cua hloov pauv.
 
-**green manure**—Cover crops uas loj hlob los siv rau hauv av rau cov khoom noj thiab cov khoom organic lossis tshuav rau saum npoo av ua mulch.  
+### Clay
 
-**infiltration**—Kev txav ntawm dej los ntawm av.  
+Yam me tshaj plaws ntawm av (me dua 0.002 mm).
 
-**leaching**—Kev txav ntawm dej thiab cov khoom noj soluble qaij mus rau hauv av.  
+### Composting (Txias & Kub)
 
-**lime**—Cov pob zeb limestone uas raug zom (calcium carbonate, CaCO3) siv rau hauv av kom txhawb pH.  
+- **Txias Composting**: Ib txoj kev qeeb, tsim cov pawg compost cia ib xyoos los yog ntev dua kom ua siav. Tsis tua noob nroj tsuag phem thiab kab mob.
+- **Kub Composting**: Ua tiav compost nyob rau ob txog plaub hlis. Siv cua sov los pab decomposition, sib tov cov khoom ntsuab thiab xim av kom sib npaug, muab dej txaus thiab tig tas li.
 
-**loam**—Ib hom av uas muaj xuab zeb, av xuab zeb, thiab av nplaum sib npaug.  
+### Compaction
 
-**macropore**—Ib qhov av loj. Macropores suav nrog cov kab earthworm thiab cov hauv paus nroj tsuag, thiab lawv tswj permeability thiab aeration hauv av.  
+Sij hawm muaj qhov siab los nias av ua txheej uas tawv, ua rau cag nroj tsuag thiab dej tsis txav taus. Feem ntau yog los ntawm kev taug kev, tshuab, los yog nag los rau av dawb.
 
-**micronutrient/trace element**—Ib qho khoom noj uas nroj tsuag siv hauv qhov tsawg (iron, zinc, molybdenum, manganese, boron, copper, thiab chlorine).  
+### Compost
 
-**micropore**—Ib qhov av me me, feem ntau yog ib feem me me ntawm millimeter hauv txoj kab uas hla. Micropores yog lub luag haujlwm rau kev khaws dej hauv av.  
+Yam khoom organic uas twb tau meem los ntawm cov kab mob me me.
 
-**organic amendment**—Ib yam khoom uas muaj keeb kwm biology uas ntxiv rau hauv av los tsim cov khoom organic thiab txhim kho kev noj qab haus huv ntawm av. Cov piv txwv suav nrog compost, manure, thiab cover crop residues.  
+- **Kev siv**: Siv los ntxiv yam organic rau hauv av thiab maj mam tso cov as-ham, los yog siv ua mulch tom qab muab rau hauv av.
 
-**organic fertilizer**—Ib yam khoom chiv ntuj tsim uas tau dhau los tsawg kawg lossis tsis muaj kev ua tiav. Nws suav nrog cov khoom nroj tsuag, tsiaj, thiab/los yog cov khoom siv. Cov chiv organic feem ntau muaj cov khoom noj ntau dua li cov khoom siv ntxiv organic.  
+### Cover Crop
 
-**organic mulch**—Ib yam khoom organic (feem ntau yog ntoo) uas muab tso rau saum npoo av los txo kev poob dej, tiv thaiv npoo av los ntawm erosion, thaiv weeds, thiab txo kev hloov pauv ntawm qhov kub ntawm av. Cov piv txwv suav nrog cov ntoo bark, arborist chips, thiab straw.  
+Nroj tsuag cog los tiv thaiv av kom tsis txhob raug dej ntws los thiab txhawb ntxiv yam organic rau av.
 
-**pathogen**—Ib yam kab mob uas ua rau mob hauv av, suav nrog cov kab mob, cov kab mob, cov fungi, thiab nematodes.  
+### Decomposition
 
-**permeability**—Qhov ceev uas dej txav los ntawm av.  
+Kev ua rau yam organic tawg los ntawm kab mob me me.
 
-**phosphate**—Cov phosphorus uas qhia hauv feem ntau cov chiv kev txhais lus (P2O5).  
+### Dolomitic Limestone
 
-**pH**—Ib txoj kev ntsuas acidity lossis alkalinity hauv av. Cov nqi tsawg dua 7 qhia acidity, ib qho nqi ntawm 7 yog nruab nrab, thiab cov nqi ntau dua 7 qhia alkalinity. Feem ntau av muaj pH ntawm 4.5 txog 9.  
+Ib hom limestone uas muaj magnesium thiab calcium.
 
-**potash**—Hom potassium uas qhia hauv feem ntau cov chiv kev txhais lus (K2O), xws li cov chiv ntim.  
+### Fertilizer
 
-**processed fertilizer**—Ib yam khoom chiv uas tau ua lossis raug ua kom tshem tawm los ntawm cov khoom ntuj tsim rau hauv ib daim ntawv concentrated uas muaj ntau rau nroj tsuag.  
+Yam ntuj tsim los yog yam ua los ntawm tib neeg ntxiv rau av kom muaj as-ham rau nroj tsuag.
 
-**quick-release fertilizer**—Ib yam khoom chiv uas muaj cov khoom noj uas nroj tsuag tuaj yeem siv tau, muag ua ammonium thiab nitrate.  
+### Fertilizer Analysis
 
-**sand**—Hom av coarsest (0.05 mus rau 2 mm hauv txoj kab uas hla).  
+Cov as-ham tseem ceeb (nitrogen (N), phosphorus (P), potassium (K)) uas nroj tsuag xav tau ntau, thiab qhia seb muaj pes tsawg feem pua hauv chiv.
 
-**secondary nutrient**—Ib yam khoom noj uas nroj tsuag xav tau hauv qhov txaus (sulfur, calcium, thiab magnesium).  
+### Green Manure
 
-**silt**—Ib yam av uas muaj qhov loj nruab nrab (ntawm qhov loj ntawm xuab zeb thiab av nplaum) ntawm 0.002 mus rau 0.05 mm hauv txoj kab uas hla.  
+Cov nroj tsuag uas cog los rau hauv av kom muaj as-ham thiab yam organic, los yog cia rau saum av ua mulch.
 
-**slow-release fertilizer**—Ib yam khoom chiv uas hloov mus rau ib daim ntawv uas nroj tsuag siv tau los ntawm cov kab mob hauv av.  
+### Infiltration
 
-**soil**—Ib qho kev sib xyaw ntuj uas muaj zog biology ntawm cov pob zeb tawg thiab cov khoom organic ntawm npoo av.  
+Kev txav ntawm dej hauv av.
 
-**soil health**—Lub peev xwm txuas ntxiv ntawm av ua ib qhov chaw muaj sia uas txhawb cov nroj tsuag, tsiaj txhu, thiab tib neeg.  
+### Leaching
 
-**soil structure**—Kev tsim hauv av ntawm cov aggregates (peds) uas tsim los ntawm cov txheej txheem ntawm cov xuab zeb, av xuab zeb, av nplaum, thiab cov khoom organic uas sib xyaw ua pawg.  
+Dej thiab as-ham muab ntws mus hauv av mus tob zuj zus.
 
-**soil texture**—Qhov coarse lossis zoo ntawm av. Cov texture raug txiav txim los ntawm cov proportions ntawm xuab zeb, av xuab zeb, thiab av nplaum hauv av.  
+### Lime
 
-**water-holding capacity**—Lub peev xwm ntawm cov av pores khaws dej rau cov nroj tsuag siv.  
+Av zeb limestone (calcium carbonate, CaCO₃) muab rau av kom tsa pH.
+
+### Loam
+
+Av uas muaj xuab zeb, av tshauv, thiab av nplaum sib npaug.
+
+### Macropore
+
+Qhov loj hauv av. Macropores muaj xws li qhov kab npauj npaim thiab cag nroj tsuag hla, pab tswj dej thiab cua mus hauv av.
+
+### Micronutrient/Trace Element
+
+As-ham uas nroj tsuag siv tsawg (xws li hlau, zinc, molybdenum, manganese, boron, copper, chlorine).
+
+### Micropore
+
+Qhov me me hauv av, feem ntau yog me dua ib millimeter. Micropores pab kom av tuav tau dej.
+
+### Organic Amendment
+
+Yam khoom los ntawm tsiaj txhu los yog nroj tsuag ntxiv rau av kom txhim kho yam organic thiab kev noj qab nyob zoo ntawm av. Piv txwv: compost, quav nyuj, seem ntawm nroj tsuag.
+
+### Organic Fertilizer
+
+Yam chiv ntuj tsim uas tsis tau hloov ntau.
+
+- **Piv txwv**: Yam khoom los ntawm nroj tsuag, tsiaj txhu, lossis pob zeb.
+- **Tus cwj pwm**: Muaj ntau as-ham dua yam organic amendment.
+
+### Organic Mulch
+
+Yam organic (feem ntau yog ntoo) muab rau saum av los txo kev ploj dej, tiv thaiv av kom tsis txhob ya, tua nroj tsuag phem, thiab pab kho cua kub txias ntawm av.
+
+- **Piv txwv**: Ntoo tsuag me, ntoo chips, thiab nplooj qhuav.
+
+### Pathogen
+
+Kab mob ua mob rau av, suav nrog kab mob, kab mob tus kab, kab mob nroj tsuag, thiab kab mob nematode.
+
+### Permeability
+
+Tus npaum li cas dej txav mus hauv av.
+
+### Phosphate
+
+Hom phosphorus uas muaj nyob hauv feem ntau ntawm chiv (P₂O₅).
+
+### pH
+
+Kev ntsuas seb av muaj acidity lossis alkaline.
+
+- **Tus nqi**:
+  - Tsawg dua 7: Acidic
+  - Sib npaug 7: Neutral
+  - Loj dua 7: Alkaline
+- **Kev ncua**: Feem ntau av muaj pH ntawm 4.5 txog 9.
+
+### Potash
+
+Hom potassium uas muaj nyob hauv feem ntau ntawm chiv (K₂O).
+
+### Processed Fertilizer
+
+Chiv uas raug tsim los yog hloov los ntawm yam ntuj tsim kom muaj ntau as-ham rau nroj tsuag siv tau yooj yim.
+
+### Quick-Release Fertilizer
+
+Chiv uas muaj as-ham rau nroj tsuag siv tau tam sim ntawd, xws li ammonium thiab nitrate.
+
+### Sand
+
+Yam loj tshaj plaws ntawm av (0.05 mus rau 2 mm).
+
+### Secondary Nutrient
+
+As-ham uas nroj tsuag xav tau me me (sulfur, calcium, magnesium).
+
+### Silt
+
+Av tshauv, loj dua av nplaum tab sis me dua xuab zeb (0.002 mus rau 0.05 mm).
+
+### Slow-Release Fertilizer
+
+Yam chiv uas yuav tsum muaj kab mob me me hloov mus ua yam nroj tsuag siv tau.
+
+### Soil
+
+Av yog yam ntuj tsim muaj pob zeb tawg thiab yam organic sib tov, nyob saum npoo ntiaj teb.
+
+### Soil Health
+
+Lub peev xwm ntawm av kom ua haujlwm tau zoo ua ib lub ecosystem uas txhawb nroj tsuag, tsiaj txhu, thiab tib neeg.
+
+### Soil Structure
+
+Kev txhim kho ntawm av los ntawm pawg me me (peds) uas xuab zeb, av tshauv, av nplaum, thiab yam organic sib lo ua ke.
+
+### Soil Texture
+
+Kev pom seb av yog loj los yog me. Texture yog los ntawm qhov sib npaug ntawm xuab zeb, av tshauv, thiab av nplaum.
+
+### Water-Holding Capacity
+
+Kev muaj peev xwm ntawm av kom tuav tau dej rau nroj tsuag siv.
+
+---
+
+#### Master Gardener™ Lus Qhia · Hu Xov Tooj Nug: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Yog xav paub ntxiv txog 10-Minute University™ cov ntaub ntawv thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub cais tawm ib tus neeg twg hauv nws cov program, kev pabcuam, kev ua ub no, thiab cov ntaub ntawv vim yog haiv neeg, xim, lub teb chaws, kev ntseeg, poj niam txiv neej, tus kheej (xws li kev qhia tus kheej), kev sib raug zoo, kev xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/kev ua niam txiv, nyiaj tau los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, cov ntaub ntawv txuam caj ces, kev ua qub tub rog, kev raug nplua, lossis kev rau txim vim muaj kev tiv thaiv kev cai. (Tsis yog txhua qhov kev txwv no siv rau txhua program.)
+---

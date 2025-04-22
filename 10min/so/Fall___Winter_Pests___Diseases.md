@@ -1,59 +1,101 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Master-ka ee Degmada Clackamas · Iskaashi iyo Taageero Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beeraleyda Sare ee Degmada Clackamas oo kaashanaya oo taageeraya  
-Barnaamijka OSU Extension Master Gardener™  
+## Cayayaanka iyo Cudurrada Dayrta & Jiilaalka
 
-## Cayayaanka iyo Cudurrada Xilliga Dayrta iyo Jiilaalka  
+### Cayayaanka Urta iyo Box Elder Bugs (Cayayaanka)
+**Dhibaatada:** Cayayaanku waxay ku ururaan darbiyada iyo daaqadaha, waxayna keeni karaan dhib.  
+**Sababta:** Cayayaankani waxay raadsadaan diirimaad marka hawadu qabowdo.  
+**Xalka:**
+- Ka hortag in ay soo galaan adiga oo hagaajinaya shaashadaha daaqadaha, daldaloolada agagaarka daaqadaha, albaabada, meelaha hawada ka gasho, xagalada, iyo marinnada saqafka sare.
+- Ka saar cayayaanka adiga oo isticmaalaya vacuum ama gacantaada.
+- Cayayaanka urta leh waxay sii daayaan ur, markaas ku rid biyo saabuun leh si aad uga fogaato urka.
 
-### Cayayaanka Urta iyo Cayayaanka Box Elder (Cayayaanka)
-**Dhibaatada:** Cayayaanku waxay ku urursan yihiin derbiyada iyo daaqadaha, iyagoo abuura dhib.  
-**Sababta:** Cayayaankaas waxay raadsadaan kulayl markay heerkulka hawadu hoos u dhaco.  
-**Xalka:** Ka ilaali inay soo galaan adoo hagaajinaya shaashadaha iyo ku buufinta daaqadaha, albaabbada, shaashadaha saqafka, geesaha, iyo hawo-qaadaha saqafka. Ka saar cayayaanka adoo adeegsanaya vacuum ama gacanta. Cayayaanka urta waxay soo saaraan ur; ku rid biyo saabuun leh si aad uga fogaato urta.  
+---
 
-### Cayayaanka Fall Webworm (Cayayaan)
-**Dhibaatada:** Geedaha caleenta ka dhaca waxaa ku jira teendho weyn oo silik ah, oo ay ka buuxaan dirxiga, saxarada, iyo caleemo dhintay. Mararka qaar teendhooyinku waxay ku baahaan hal ama dhowr laan. Badanaa waa dhibaato muuqaal oo kaliya.  
-**Sababta:** Dirxiga nooca Moth Tiger ee deegaanka ah ayaa isku daboolay teendho silik ah oo cunaya caleemaha teendhada gudahooda.  
-**Xalka:** Raadso teendhooyinkan xagaaga dambe oo xakamee ka hor inta aysan waxyeello weyn dhicin. Goy laamaha ay cayayaanku ku jiraan laakiin iska ilaali faafinta dirxiga. Ku burbur teendhooyinka adoo ku submerging biyo saabuun leh.  
+### Fall Webworm (Cayayaan)
+**Dhibaatada:** Xadhko waaweyn oo xariir ah oo laga helo geedaha caleenta daadata, oo buuxa diiryo, saxaro (xaar), iyo caleemo dhintay. Mararka qaar xadhkahaasi waxay daboolaan laamo badan. Badanaa waa dhaawac muuqaal ah oo kaliya.  
+**Sababta:** Diiryo ka tirsan nooc Tiger Moth ah oo u dhashay deegaanka, ayaa is dhex dhigto xadhig xariir ah waxayna cunaan caleenta gudaha xadhigaas.  
+**Xalka:**
+- Raadi xadhkaha xariirta ah dhammaadka xagaaga oo la tacaal ka hor inta aanay waxyeelo badani dhicin.
+- Jar laamaha uu ku jiro cayayaanku, laakiin iska ilaali faafinta diiryada.
+- Ku burburi adiga oo gelinaya biyo saabuun leh.
+
+---
 
 ### Crane Fly (Cayayaan)
-**Dhibaatada:** Aagga doogga la saameeyay si daran ayuu u dhimaa xilliga gu'ga hore markay tahay waqtiga koritaanka xooggan inuu bilaabo.  
-**Sababta:** Dirxiga Crane Fly-ga Yurub waxay ka dillaacaan xagaaga dambe oo cunaan xididdada doogga laga bilaabo Diseembar ilaa Maajo.  
-**Xalka:** Daminta nidaamka waraabka kadib Maalinta Shaqaalaha badanaa waxay abuuri kartaa dhibaato abaareed oo ku filan si loo yareeyo tirada dirxiga iyada oo aan waxyeello u geysan doogga. Bilaab monitor-ka aagagga doogga ee dhumucda leh Diseembar. Ku bixi daryeelka doogga oo sax ah (la tasho xaashida 10-Daqiiqo ee Daryeelka Doogga) si aad caafimaadkiisa u ilaaliso. Intaa waxaa dheer, ku dhaqaaq beero waara si aad uga faa'iidaysato cadowga dabiiciga ah sida shimbiraha, quraanjada, dawacooyinka, shinnida jaallaha ah, rahyada, iyo nematodes.  
+**Dhibaatada:** Meelaha cawska ah ayaa aad u yaraada guga hore xilligaas oo la filayo in cawska si xooggan u koro.  
+**Sababta:** Diiryada crane fly-ga Yurub ayaa dillaaca dhammaadka xagaaga waxayna cunaan xididdada cawska laga bilaabo Diseembar ilaa May.  
+**Xalka:**
+- Deminta nidaamka waraabka ka dib Labor Day waxay badanaa abuuri kartaa abaarta la'aanta oo hoos u dhigta tirada diiryada adigoon waxyeello u geysan cawska.
+- Ka bilaaw la socodka meelaha cawska ah ee fidsan Diseembar.
+- Si joogto ah u daryeel cawska (la tasho warqadda Jaamacadda 10-Daqiiqo ee Daryeelka Cawska) si cawskaagu u ahaado mid caafimaad qaba.
+- Ku shaqee beeralaynta waarta si aad u hesho caawimaad ka timaadda cadowga dabiiciga ah sida shimbiraha, cayayaanada, bakaylaha, shinni-dabiiciga ah, rahaha, iyo nematodes-ka.
 
-### Cayayaanka Raashinka Pantry (Cayayaan)
-**Dhibaatada:** Cayayaanka waxaa laga helaa raashinka qalalan sida badarka, bur, miraha qallalan, raashinka xayawaanka, iyo abuurka shimbiraha.  
-**Sababta:** Dirxiga yaryar iyo quraanjada waa cayayaanka ugu badan ee raashinka ka soo baxa guriga.  
-**Xalka:** Baadh dhammaan weelasha raashinka oo iska tuur kuwa uu cayayaanku galay. Nadiifi si fiican shelf-yada iyo meelaha lagu kaydiyo. Ku kaydi raashinka weel adag oo leh dabool adag. Joojinta faafitaanka cayayaanka waxay u baahan tahay dadaal joogto ah, oo si joogto ah loo kormeero, loo saaro, oo loo nadiifiyo.  
+---
 
-### Milixda Budada ah (Fungus)
-**Dhibaatada:** Caleemaha iyo laamaha waxay muujiyaan dhibco yar oo caddaan ah oo isu bedela budo cad oo ku baahda dhammaan qaybaha dhirta. Waxay saameysaa noocyo badan oo dhir ah.  
-**Sababta:** Caadi ahaan waxaa laga helaa xagaaga dambe marka heerkulka hawadu uu u dhexeeyo 68-81⁰F. Huurka sare, heerkulka diiran, iyo dhir isku dhow ayaa kor u qaada koritaanka fangaska.  
-**Xalka:** Ku beer noocyada iska caabinta haddii ay suurtagal tahay. Ku beer meel qorax buuxda leh, iska ilaali dhir isku dhow, oo, haddii ay suurtagal tahay, ku dhaq crop rotation. Goy caleemaha cudurka qaba si aad u yareyso faafitaanka cudurka marxaladaha hore.  
+### Cayayaanka Qolka Raashinka (Cayayaanka)
+**Dhibaatada:** Cayayaan laga helay alaabta qalalan sida bur, baasto, miraha qalalan, cunto xayawaan, iyo abuurka shimbiraha.  
+**Sababta:** Quraanjada yaryar iyo cayayaanada yaryar ayaa ah kuwa ugu badan ee raashinka guriga waxyeeleeya.  
+**Xalka:**
+- Baadh dhammaan weelasha raashinka oo tuur kuwa aad ka hesho cayayaan.
+- Si fiican u nadiifi shelf-yada iyo weelasha kaydka.
+- Ku kaydi raashinka weelo adag oo dabool adag leh.
+- Ka hortagga cayayaanka waxay u baahan tahay dadaal joogto ah oo ah la socod, saarid, iyo nadiifin.
 
-### Red Thread (Fungus)
-**Dhibaatada:** Meelo huruud ah oo wareegsan, aan caadi ahayn ayaa isu bedela bunni oo u muuqda inay dhintaan. Caleemaha doogga ee uu saameeyay waxay leeyihiin midab casaan yar.  
-**Sababta:** Fangas ka dhaca Oregon, oo badanaa la arko xilliga dayrta xilliyada ay hawadu huurka tahay. Inkasta oo ay dhibaato muuqaal u keenayso doogga, waxay dhif u dishaa doogga.  
-**Xalka:** Ku bacriminta bacriminta nitrogen degdeg ah oo ka hortag abaarta. Red Thread waxay si daran u saameysaa doogga daciifka ah marka nitrogen-ka uu yar yahay.  
+---
 
-### Qandhada iyo Qolofta (Mollusks)
-**Dhibaatada:** Waxyeelada caleemaha, ubaxa, miraha, iyo qaybaha dhirta oo leh raad mucuus silvery ah. Waxyeeladan caadi ahaan waxay leedahay godad aan caadi ahayn oo leh gees siman.  
-**Sababta:** Qandhada iyo Qolofta.  
-**Xalka:** Isku darka farsamooyin badan ayaa u noqon doona mid waxtar u leh yareynta tirada qandhada iyo qolofta iyo yareynta waxyeelada beertaada. Maarso, Abriil, Maajo, Juun, iyo Oktoobar waa bilaha ugu fiican ee lagu kormeero dhaqdhaqaaqa. Yaree dhibaatada adoo dooranaya dhir adkaysi leh iyo ku dhaqanka hababka beeraleyda ee ku xusan xaashida ‘Maareynta Qandhada iyo Qolofta’ ee www.cmastergardeners.org  
+### Powdery Mildew (Fangas)
+**Dhibaatada:** Caleemaha iyo laamaha ayaa muujinaya dhibco yar oo caddaan ah oo isu beddela budo caddaan ah kuna fida dhammaan qaybaha dhirta. Waxay saamaysaa dhir badan.  
+**Sababta:** Caadiyan waxay dhacdaa dhammaadka xagaaga marka heerkulka hawada uu dhexda u dhaxeeyo 68–81°F. Furuurucda waxaa keeni kara dabayl. Qoyaanka sare, diirimaadka, iyo dhirta aad isugu dhow waxay caawiyaan koritaanka fangaska.  
+**Xalka:**
+- Ku beero noocyada iska-caabbinta haddii ay jiraan.
+- Ku beero meel qoraxda si buuxda u hesho, iska ilaali in dhirtu aad isugu dhowdahay, iskuna day inaad dhirta beddesho mar kasta oo suurtagal ah.
+- Jar caleemaha cudurka leh si aad u yareyso faafidda cudurka marxaladaha hore.
 
-Daaweynta bait-ka ganacsiga xilliga dayrta waxay keenaysaa cayayaan yar oo dhiga ukunta si loo dhimo tirada. Raac tilmaamaha ku yaala baakadka si aad u hubiso badbaadada iyo natiijooyinka ugu wanaagsan.  
+---
 
-### Flagging Tree (Deegaanka)
-**Dhibaatada:** Laamaha bunni ah ayaa si cad u muuqda xilliga dayrta hore. Waxay saameysaa caleemaha da'da ah waxayna guud ahaan si siman ugu fidsan tahay geedka. Caleemaha sannadka hadda ee ku yaal talooyinka laamaha waxay sii joogaan cagaar. Caleemaha dhintay waxaa laga saaraa geedka xilliga dayrta iyo jiilaalka. Geedka caadi ahaan wuxuu dib u helaa muuqaalkiisa caafimaad xilliga gu'ga.  
-**Sababta:** Geedaha cagaaran, oo ay ku jiraan kuwa conifers iyo kuwa cagaaran ee ballaaran, waxay si dabiici ah u daadiyaan caleemo duugoobay sannad kasta. Waxyaabaha keena stress, sida biyo yaraanta, dabaylo kulul, waxyeelada dhismaha ama dhibaatooyinka xididka, hababka beerista liita, ama beerista dhowaan waxay kor u qaadi karaan flagging.  
-**Xalka:** Waraabinta dheeraadka ah ayaa laga yaabaa inay loo baahdo xilliga abaarta xagaaga. Iska ilaali in la carqaladeeyo ciidda gudaha aagga xididka oo guud ahaan ka baxsan xariiqda dhibic ee geedka.  
+### Red Thread (Fangas)
+**Dhibaatada:** Goobo wareegsan oo huruud ah oo aan joogto ahayn ayaa isu beddela bunni waxayna u ekaadaan kuwo dhintay. Cawska la dhibay wuxuu yeeshaa midab casaan khafiif ah.  
+**Sababta:** Fangas badanaa laga arko gobolka Oregon, gaar ahaan xilliyada dayrta marka cimiladu qoyan tahay. Inkastoo uu keeno dhibaato muuqaal ah, si dhif ah buu u dilo cawska.  
+**Xalka:**
+- U bacriminta cawska bacriminta nitrogen-ka degdega loo sii daayo iyo ka hortagga abaarta.
+- Red thread wuxuu kasii daraa cawska daciifka ah iyo marka nitrogen-ku yaryahay.
+
+---
+
+### Doollooyinka iyo Qolofta (Mollusks)
+**Dhibaatada:** Waxyeello ka timaadda caleemaha, ubaxa, miraha, iyo qaybaha khafiifka ah ee dhirta oo leh raad mucuus ah. Waxyeelladan badanaa waa godad aan joogto ahayn oo leh geesaha siman.  
+**Sababta:** Doollooyin iyo qolofo.  
+**Xalka:**
+- Isku darka xeelado badan ayaa ugu waxtar badan dhimista tirada doollooyinka iyo qolofta iyo yareynta waxyeellada beertaada.
+- Bisha Maarso, Abriil, May, Juun, iyo Oktoobar waa waqtiyada ugu wanaagsan ee la socodka dhaqdhaqaaqooda.
+- Yaree dhibaatada adiga oo dooranaya dhir adkaysi leh iyo ku dhaqanka talooyinka beeralaynta ee ku qoran warqadda "Maareynta Doollooyinka iyo Qolofta" ee [www.cmastergardeners.org](http://www.cmastergardeners.org).
+- Isticmaal sunta doollooyinka ee ganacsiga xilliga dayrta si loo yareeyo dadka weyn ee ukunta dhigaya. Raac tilmaamaha ku qoran xirmada si aad u hesho badbaado iyo natiijo fiican.
+
+---
+
+### Calan-saaridda Geedaha (Deegaanka)
+**Dhibaatada:** Laamood bunni ah ayaa aad u muuqda billaawga dayrta. Waxay saameysaa caleemaha duqoobay oo badanaa si siman ayay ugu faafaan geedka. Kobaca laamaha sannadkan wuxuu ahaanayaa cagaar. Caleenta dhimatay waxaa dabayshu ama roobku ka saaraa geedka dayrta iyo jiilaalka. Geedku badiyaa wuxuu noqdaa mid caafimaad qaba guga.  
+**Sababta:** Geedaha cagaaran sida conifers-ka iyo kuwa caleenta ballaaran waxay si dabiici ah u daadiyaan caleemo duqoobay sannad kasta. Dhibaatooyinka sida biyo la'aanta, dabaylo kulul, dhaawaca dhismaha, dhibaatada xididdada, ama beero aan sax ahayn, ama geed la beero dhowaan, waxay kicin karaan calan-saarid.  
+**Xalka:**
+- Waraabin dheeraad ah ayaa loo baahnaan karaa xilliga abaarta ee xagaaga.
+- Ka fogow in la qalqal geliyo ciidda gudaha aagga xididdada, taas oo badanaa ka baxsan xariiqda hoos u daadka ee laamaha.
+
+---
 
 ### Dhaawaca Jiilaalka (Deegaanka)
-**Dhibaatada:** Laamaha jabay, ubaxa dhintay, caleemaha bunni ah, dildilaaca jirridda geedka, xididada dhintay.  
-**Sababta:** Dhaawaca jiilaalka wuxuu ka dhalan karaa heerkulka aadka u qabow, ciidda barafaysan, dabaylo qalalan, baraf culus oo laamaha ku dhaca, biyo barafaysan ee jirridda geedka, ama baraf hore.  
-**Xalka:** Goy laamaha iyo caleemaha dhintay. Raac hababka goynta si aad u hubiso in laamaha waaweyn lagu gooyo saddex tallaabo, kuwa yarna lagu gooyo buro dibadda ah oo ku jirta xagal 45-degree ah. Hubi dildilaaca jirridda geedka wixii cayayaan ah, oo haddii la helo, ka saar. Ka hor intaadan ka saarin geedka, sug ilaa koritaanka firfircoon uu bilaabmo si aad u hubiso in uu dhintay.  
+**Dhibaatada:** Laamo jaban, ubaxyo dhintay, caleemo bunni ah, dildilaacyo ku jira jirridda, xididdo dhintay.  
+**Sababta:** Dhaawaca jiilaalka wuxuu ka dhici karaa qabow aad u daran, dhul barafaysan, dabaylo qalajiya, baraf badan oo laamaha saaran, biyo ku jaba jirridda, ama baraf hore.  
+**Xalka:**
+- Jar laamaha iyo caleemaha dhintay. Raac habka saxda ah ee jarista si laamaha waaweyn loo jaro saddex tallaabo, kuwa yaryarna loogu jaro meel dibadda ah 45-degree.
+- Baadh dildilaacyada jirridda si aad u aragto cayayaan, haddii aad hesho, ka saar.
+- Kahor intaadan geedka saarin, sug ilaa koboca cusub bilowdo si aad u hubiso inuu dhintay.
 
-### Talooyinka Master Gardener™
-- Wac Khadka Caawinta Horticulture ee Guriga: 503-655-8631 (Degmada Clackamas), 503-821-1150 (Degmada Washington), ama 503-445-4608 (Degmada Multnomah).  
-- Si aad u hesho xaashiyaha Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada, booqo www.cmastergardeners.org.  
+---
 
-Adeegga Oregon State University Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo alaabta ku saleysan jinsiyadda, midabka, asal ahaan qaranka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helay barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda halyeeyga, ciqaabta ama aargoosiga falka xuquuqda madaniga ah ee hore. (Ma aha dhammaan saldhigyada la mamnuucay ayaa khuseeya dhammaan barnaamijyada).
+#### Talo Beeraleyda Master™ · Wac Khadka Caawinta Horticulture: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii intaas dheeraad ah ee ku saabsan warqadaha Jaamacadda 10-Daqiiqo iyo jadwalka fasallada, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka yimaada barnaamijka kaalmo dadweyne, aaminsanaanta siyaasadeed, xogta hidde-sidaha, xaaladda askari hore, ciqaabta ama aargoosiga la xiriira la dagaallanka takoorka ee hore. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

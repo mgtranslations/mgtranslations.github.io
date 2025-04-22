@@ -1,54 +1,122 @@
-### Universidade de 10 Minutos™  
-A Associação de Mestres Jardineiros do Condado de Clackamas, em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU  
+#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão OSU
 
-### Controle de Lesmas e Caracóis  
+# Como Controlar Lesmas e Caracóis
 
-#### Alguns Fatos Básicos  
-Lesmas e caracóis terrestres são moluscos de corpo mole que vivem na terra e podem viver até seis anos. Enquanto deslizam sobre um "pé" muscular que constantemente secreta muco, deixam um rastro característico de limo. Os adultos são ativos à noite e em dias nublados ou com neblina, buscando esconderijos em dias ensolarados.  
+### Alguns Fatos Básicos
 
-As lesmas frequentemente se enterram no solo, até seis pés de profundidade, em busca de um ambiente fresco e úmido. Os caracóis se selam com uma membrana semelhante a pergaminho para se protegerem durante períodos quentes e secos ou quando está frio. Durante o clima frio, caracóis e lesmas hibernam na camada superior do solo. Em áreas com invernos amenos, caracóis e lesmas podem estar ativos durante todo o ano.  
+Lesmas e caracóis terrestres são moluscos de corpo mole que vivem em terra e podem viver até seis anos. Eles deslizam sobre um “pé” muscular que solta muco, deixando para trás um rastro característico de baba. Os adultos ficam ativos à noite e em dias nublados ou com neblina, procurando esconderijos em dias de sol.
 
-A maioria das lesmas e caracóis terrestres são hermafroditas, com cada adulto possuindo órgãos reprodutivos masculinos e femininos. Os caracóis marrons de jardim atingem a maturidade em dois anos e começam a depositar, em média, 80 ovos esféricos e de cor branca perolada de cada vez, em ninhos subterrâneos, até seis vezes por ano. As lesmas atingem a maturidade em três a seis meses e depositam ovos claros ou branco leitoso, ovais ou redondos, em lotes de 3 a 40.  
+As lesmas costumam cavar no solo, até dois metros de profundidade, procurando um ambiente fresco e úmido. Os caracóis se fecham com uma membrana parecida com papel para se proteger durante períodos quentes e secos ou quando está frio. No frio, caracóis e lesmas hibernam na camada superficial do solo. Em lugares com invernos amenos, eles podem ficar ativos o ano todo.
 
-#### Danos  
-Tanto caracóis quanto lesmas alimentam-se de plantas vivas e matéria vegetal em decomposição, causando danos às folhas, flores, frutos e outras partes suculentas das plantas. Procure os rastros de muco prateado para confirmar sua presença. Normalmente, os danos têm forma de buracos irregulares com bordas lisas.  
+A maioria das lesmas e caracóis terrestres são hermafroditas, ou seja, cada adulto tem órgãos reprodutivos masculinos e femininos. Os caracóis de jardim marrons levam dois anos para amadurecer e põem em média 80 ovos esféricos e brancos de cada vez em ninhos subterrâneos, podendo botar até seis vezes por ano. As lesmas amadurecem em três a seis meses e botam ovos claros ou esbranquiçados, ovais a redondos, em grupos de 3 a 40.
 
-### Como Controlar Lesmas e Caracóis  
+### Danos
 
-Uma combinação das técnicas listadas abaixo será mais eficaz na redução das populações de lesmas e caracóis e na minimização dos danos ao seu jardim. O melhor momento para controle a longo prazo é tratar o jardim inteiro no outono. Desta forma, haverá menos lesmas e caracóis adultos para depositar ovos. Uma segunda aplicação no final do inverno ou início da primavera ajudará a manter a população adulta reduzida. Uma terceira aplicação um mês depois deve manter seu jardim em boas condições para a temporada de crescimento. No entanto, o monitoramento regular também é necessário, pois lesmas e caracóis podem re-infestar jardins de propriedades vizinhas.  
+Caracóis e lesmas se alimentam de plantas vivas e restos de plantas mortas, causando danos a folhas, flores, frutos e outras partes suculentas das plantas. Procure rastros prateados de muco para confirmar sua presença. O dano geralmente aparece como buracos irregulares com bordas lisas.
 
-#### Escolha Suas Plantas com Cuidado  
+---
 
-**Plantas Resistentes:** Agapanto, Anêmona, Astilbe, Bambu, Coração-Sangrando, Iberis, Sinos de Coral, Samambaias, Dedaleira, Galinhas e Pintinhos, Hera, Junípero, Nandina, Sedum, Selo de Salomão, Aspérula, Wintergreen, Teixo.  
+## Como Controlar Lesmas e Caracóis
 
-**Plantas que as Lesmas Adoram Comer:** Manjericão, Família do Brócolis, Cenouras, Alface, Batatas, Morangos, Campânula, Narcisos, Gardênia, Genciana, Hosta, Impatiens, Samambaia Japonesa Pintada, Erva-de-Leopardo, Lírios, Lobélia (perene), Tagetes, Prímula, Estrela-de-Belém, Trílios, Begônia Tubérculo, Viola, Gengibre Selvagem.  
+Usar uma combinação das técnicas abaixo será mais eficiente para reduzir a população de lesmas e caracóis e diminuir os danos no seu jardim. O melhor momento para um controle de longo prazo é tratar o jardim inteiro no outono. Isso reduz o número de adultos que põem ovos. Uma segunda aplicação no final do inverno ou início da primavera ajuda a manter a população baixa. Uma terceira aplicação um mês depois prepara o jardim para a temporada de crescimento. É preciso monitorar regularmente, pois lesmas e caracóis podem voltar de propriedades vizinhas.
 
-#### Remova Locais Úmidos e Escuros  
-- **Regule a irrigação** – Evite regar o jardim à noite, quando lesmas e caracóis saem para se alimentar. Regue pela manhã.  
-- **Prepare o solo na primavera** – Minimize os restos de folhas para evitar que alimentem lesmas e caracóis jovens quando eclodem.  
-- **Revolva o mulch de inverno** – Embora o mulch seja benéfico para plantas e solo, também é um bom esconderijo. Revolva o mulch e outros detritos do jardim para expor essas pragas e seus ovos aos predadores.  
+### Escolha Suas Plantas com Cuidado
 
-#### Erga Barreiras  
-- **Tiras de cobre** – Testes mostram que lesmas podem receber um choque elétrico ao rastejarem sobre cobre, desde que a tira ou malha seja larga o suficiente para impedir que levantem o corpo. No entanto, grande parte das tiras de cobre vendidas em lojas de jardinagem não é larga o suficiente para criar uma barreira eficaz.  
-- **Cal, cinzas, terra diatomácea (forma seca)** – Esses materiais desaceleram as lesmas, mas não as matam. Essas barreiras precisam ser substituídas após chuva ou irrigação.  
+**Plantas Resistentes:**
+- Agapanto
+- Anêmona
+- Astilbe
+- Bambu
+- Coração-sangrento
+- Iberis (Candytuft)
+- Heuchera (Coral Bells)
+- Samambaias
+- Dedaleira (Foxglove)
+- Sempre-vivas (Hens and chicks)
+- Hera (Ivy)
+- Junípero (Juniper)
+- Nandina
+- Sedum
+- Selo-de-Salomão (Solomon’s Seal)
+- Asperela (Sweet Woodruff)
+- Wintergreen
+- Teixo (Yew)
 
-#### Incentive Predadores  
-Muitos animais se alimentam de lesmas e caracóis, incluindo sapos, cobras, besouros, moscas de pântano, pássaros, rãs, salamandras, tritões, patos, centopeias, porcos-espinhos e guaxinins. Incentive os que se encaixam no seu estilo de jardinagem.  
+**Plantas que Lesmas Gostam de Comer:**
+- Manjericão
+- Família do brócolis
+- Cenoura
+- Alface
+- Batata
+- Morango
+- Campânula
+- Narciso
+- Gardênia
+- Genciana
+- Hosta
+- Impatiens
+- Samambaia japonesa pintada
+- Arnica
+- Lírio
+- Lobélia (perene)
+- Calêndula (Marigold)
+- Narciso
+- Prímula
+- Estrela-de-Belém
+- Trillium
+- Begônia tuberosa
+- Viola
+- Gengibre-selvagem
 
-#### Instale Armadilhas  
-- **Armadilhas caseiras** – Use tábuas planas ou vasos de flores invertidos com uma borda elevada como esconderijos atraentes. Folhas de repolho invertidas e cascas de laranja ou toranja também funcionam bem. Coloque à noite e verifique as armadilhas todas as manhãs para destruir as pragas até que os números diminuam; depois, verifique semanalmente.  
-- **Coleta manual** – Duas vezes por semana, durante o início da primavera e outono, procure em esconderijos típicos sob pedras e folhagens. Faça isso à noite (mais produtivo) ou durante o dia. Coloque lesmas e caracóis em um balde com água com sabão. Use luvas ou pinças. Se tiver muco na pele, lave com vinagre branco e água morna.  
+### Remova Locais Úmidos e Escuros
 
-#### Iscas  
-- **Cerveja ou mistura de fermento e mel** – Use um recipiente fundo, como um pote de iogurte, com a borda ao nível do solo, garantindo que as pragas não possam sair. Prepare a mistura de mel e fermento fervendo água com mel e fermento; as proporções não são críticas. Cerveja pode ser usada como está. Verifique o recipiente diariamente para garantir que nenhum animal, como sapos, tenha caído acidentalmente. Esvazie e reabasteça a cada dois dias.  
-- **Fosfato de ferro (Sluggo, Escar-Go)** – Interfere no metabolismo do cálcio no intestino, fazendo com que caracóis e lesmas parem de se alimentar e morram de 3 a 6 dias depois. O fosfato de ferro é seguro para uso perto de animais de estimação, humanos, peixes, pássaros, insetos benéficos e mamíferos. Pode ser usado em culturas alimentares, plantas ornamentais, gramados, jardins, estufas e jardins de frutas até a colheita. Permanece ativo por até 2 semanas, mesmo com repetidas molhagens.  
-- **Metaldeído (Deadline)** – Desidrata rapidamente o caracol ou lesma se ingerido. No entanto, se houver água por perto ou se chover logo após a aplicação, pode não funcionar. Uma lesma pode perder metade de seu peso corporal e encolher para um terço de seu tamanho com Metaldeído ou sal e se recuperar, caso consiga alcançar solo úmido rapidamente ou se chover. Esses produtos não são recomendados para uso em vegetais comestíveis e podem ser prejudiciais a cães, gatos e peixes. Siga as instruções do rótulo cuidadosamente.  
+- **Agende a irrigação:** Evite molhar o jardim à noite, quando lesmas e caracóis saem para comer. Prefira regar pela manhã.
+- **Revolva o solo na primavera:** Reduza a quantidade de folhas caídas para não alimentar as lesmas e caracóis bebês logo após saírem dos ovos.
+- **Revire a cobertura morta do inverno:** A cobertura morta beneficia as plantas e o solo, mas também é um bom esconderijo. Revire a cobertura e outros restos do jardim para expor as pragas e seus ovos aos predadores.
 
-### Recursos  
-Obtenha publicações da Extensão da OSU em [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
+### Crie Barreiras
 
-### Conselhos de Mestres Jardineiros™  
-- Ligue para a Linha de Ajuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington), 503-445-4608 (Condado de Multnomah).  
-- Para folhetos e programação de aulas da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+- **Fitas de cobre:** Testes mostram que lesmas podem levar um pequeno choque ao passar por cobre, se a fita ou tela for larga o suficiente para evitar que a lesma levante o corpo por cima. Porém, a maioria das fitas vendidas não é larga o suficiente para ser uma barreira eficaz.
+- **Cal, cinzas, terra de diatomáceas (seca):** Isso diminui a velocidade das lesmas, mas não as mata. Essas barreiras precisam ser renovadas após chuva ou irrigação.
 
-O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda proveniente de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividades anteriores relacionadas a direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+### Incentive Predadores
+
+Muitos animais se alimentam de lesmas e caracóis, incluindo:
+- Sapos
+- Cobras
+- Besouros
+- Moscas-do-brejo
+- Pássaros
+- Rãs
+- Salamandras
+- Tritões
+- Patos
+- Milípedes
+- Porco-espinhos
+- Guaxinins
+
+Incentive predadores que combinem com o seu estilo de jardim.
+
+### Arme Armadilhas
+
+- **Armadilhas caseiras:** Use uma tábua plana ou um vaso de flores virado de cabeça para baixo com uma borda levantada como esconderijo. Folhas de repolho ou cascas de laranja/toranja também funcionam. Coloque as armadilhas à noite e confira toda manhã até diminuir o número, depois verifique semanalmente.
+- **Recolha manual:** Duas vezes por semana, no início da primavera e do outono, procure em esconderijos típicos sob pedras e folhas. Faça isso à noite (mais eficiente) ou de dia. Jogue as lesmas e caracóis em um balde com água e sabão. Use luvas ou pinça. Se a baba encostar na pele, lave com vinagre branco e água morna.
+
+### Iscas
+
+- **Cerveja ou mistura de fermento e mel:** Use um recipiente fundo, como um pote de iogurte, com a borda ao nível do solo para que as pragas não consigam sair. Prepare a mistura fervendo água com mel e fermento; as proporções não são críticas. A cerveja pode ser usada pura. Verifique o recipiente todos os dias para garantir que nenhum animal que não seja praga caiu dentro. Esvazie e reponha a cada dois dias.
+- **Fosfato de ferro (Sluggo, Escar-Go):** Afeta o metabolismo do cálcio no intestino, fazendo as lesmas e caracóis pararem de se alimentar e morrerem em 3 a 6 dias. O fosfato de ferro é seguro para animais de estimação, pessoas, peixes, pássaros, insetos úteis e mamíferos. Pode ser usado em hortas, jardins ornamentais, gramados, estufas e plantações de frutas até a colheita. Permanece ativo até 2 semanas, mesmo com chuva repetida.
+- **Metalaldeído (Deadline):** Desidrata caracóis e lesmas rapidamente se ingerido. Mas, se houver água por perto ou chover logo após a aplicação, pode não funcionar. Lesmas podem perder metade do peso e encolher para um terço do tamanho com metaldeído ou sal, mas se recuperam se chegarem ao solo úmido ou chover. Esses produtos não são recomendados próximos a hortaliças e podem ser perigosos para cães, gatos e peixes. Siga o rótulo com atenção.
+
+---
+
+## Recursos
+
+Adquira publicações da Extensão OSU em [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Dicas do Mestre Jardineiro™ · Ligue para o Home Horticulture Helpline: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para apostilas e horários das aulas da Universidade de 10 Minutos™: Visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
+---

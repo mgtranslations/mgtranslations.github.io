@@ -1,57 +1,122 @@
-### 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-### Umgang mit Schnecken und Nacktschnecken  
+# Schnecken und Nacktschnecken bekämpfen
 
-#### Einige Grundlegende Fakten  
-Landlebende Schnecken und Nacktschnecken sind weichkörperige, auf dem Land lebende Mollusken, die bis zu sechs Jahre alt werden können. Während sie sich auf einem muskulösen „Fuß“ bewegen, der ständig Schleim absondert, hinterlassen sie eine charakteristische Schleimspur. Erwachsene sind nachts sowie an bewölkten oder nebligen Tagen aktiv und suchen an sonnigen Tagen Verstecke.  
+### Einige grundlegende Fakten
 
-Nacktschnecken vergraben sich oft bis zu zwei Meter tief in den Boden, um eine kühle und feuchte Umgebung zu finden. Schnecken verschließen sich mit einer pergamentartigen Membran, um sich während heißer, trockener Perioden oder bei Kälte zu schützen. Während der kalten Jahreszeit überwintern Schnecken und Nacktschnecken im Oberboden. In Gebieten mit milden Wintern können Schnecken und Nacktschnecken das ganze Jahr über aktiv sein.  
+Landschnecken und Nacktschnecken sind weichkörperige, landlebende Weichtiere, die bis zu sechs Jahre alt werden können. Während sie auf ihrem muskulösen „Fuß“ gleiten, der Schleim absondert, hinterlassen sie eine typische Schleimspur. Erwachsene Tiere sind nachts und an bewölkten oder nebligen Tagen aktiv und suchen an sonnigen Tagen Verstecke.
 
-Die meisten landlebenden Schnecken und Nacktschnecken sind Zwitter, wobei jedes erwachsene Tier sowohl männliche als auch weibliche Fortpflanzungsorgane hat. Erwachsene braune Gartenschnecken reifen in zwei Jahren und legen durchschnittlich 80 kugelförmige, perlenweiße Eier gleichzeitig in unterirdischen Nestern, bis zu sechs Mal pro Jahr. Nacktschnecken erreichen ihre Reife in drei bis sechs Monaten und legen klare oder milchig weiße, ovale bis runde Eier in Gruppen von 3 bis 40.  
+Nacktschnecken graben sich oft bis zu zwei Meter tief in den Boden ein, um eine kühle und feuchte Umgebung zu finden. Schnecken verschließen sich mit einer pergamentartigen Membran, um sich während heißer, trockener Zeiten oder bei Kälte zu schützen. In der kalten Jahreszeit überwintern Schnecken und Nacktschnecken in der oberen Bodenschicht. In Gebieten mit milden Wintern können sie das ganze Jahr über aktiv sein.
 
-#### Schäden  
-Sowohl Schnecken als auch Nacktschnecken ernähren sich von lebenden Pflanzen und verrottendem Pflanzenmaterial und verursachen Schäden an Blättern, Blüten, Früchten und anderen saftigen Pflanzenteilen. Suchen Sie nach silbrigen Schleimspuren, um ihre Anwesenheit zu bestätigen. Die Schäden sind normalerweise unregelmäßig geformte Löcher mit glatten Rändern.  
+Die meisten Landschnecken und Nacktschnecken sind Zwitter, das heißt, jedes erwachsene Tier hat sowohl männliche als auch weibliche Fortpflanzungsorgane. Die braune Gartenschnecke wird in zwei Jahren erwachsen und legt durchschnittlich 80 kugelige, perlmuttweiße Eier pro Gelege in unterirdischen Nestern ab – bis zu sechsmal pro Jahr. Nacktschnecken werden in drei bis sechs Monaten erwachsen und legen klare oder milchig weiße, ovale bis runde Eier in Gruppen von 3 bis 40 Stück.
 
-### Wie man Schnecken und Nacktschnecken bekämpft  
-Eine Kombination der unten aufgeführten Techniken ist am effektivsten, um die Population von Schnecken und Nacktschnecken zu reduzieren und Schäden in Ihrem Garten zu minimieren. Die beste Zeit für eine langfristige Bekämpfung ist der Herbst, da es dann weniger erwachsene Schnecken und Nacktschnecken gibt, die ihre Eier legen können. Eine zweite Anwendung im späten Winter oder frühen Frühling reduziert die erwachsene Population. Eine dritte Anwendung einen Monat später sollte Ihren Garten für die Wachstumsperiode in gutem Zustand halten. Regelmäßige Überwachung ist jedoch erforderlich, da Schnecken und Nacktschnecken aus Nachbargrundstücken in den Garten zurückkehren können.  
+### Schäden
 
-#### Pflanzen mit Bedacht wählen  
-**Resistente Pflanzen:**  
-Agapanthus, Anemone, Astilbe, Bambus, Tränendes Herz, Schleifenblume, Purpurglöckchen, Farne, Fingerhut, Hauswurz, Efeu, Wacholder, Nandina, Fetthenne, Salomonsiegel, Waldmeister, Wintergrün, Eibe  
+Sowohl Schnecken als auch Nacktschnecken ernähren sich von lebenden Pflanzen und abgestorbenem Pflanzenmaterial und verursachen Schäden an Blättern, Blüten, Früchten und anderen saftigen Pflanzenteilen. Suchen Sie nach silbrigen Schleimspuren, um ihre Anwesenheit zu bestätigen. Ihre Fraßschäden erscheinen meist als unregelmäßige Löcher mit glatten Rändern.
 
-**Pflanzen, die Schnecken lieben:**  
-Basilikum, Gemüse aus der Brokkoli-Familie, Karotten, Salat, Kartoffeln, Erdbeeren, Glockenblume, Narzissen, Gardenien, Enzian, Funkien, Impatiens, Japanischer Malerfarn, Leopardenwurz, Lilien, Lobelien (mehrjährig), Ringelblumen, Primeln, Stern von Bethlehem, Dreiblatt, Knollenbegonien, Veilchen, Wilder Ingwer  
+---
 
-#### Feuchte, dunkle Verstecke entfernen  
-- **Bewässerung anpassen:** Vermeiden Sie die Bewässerung Ihres Gartens am Abend, da Schnecken und Nacktschnecken dann aktiv werden. Gießen Sie stattdessen morgens.  
-- **Frühjahrsbearbeitung:** Minimieren Sie Laubreste im Frühling, die als Nahrung für junge Schnecken und Nacktschnecken dienen.  
-- **Mulch umdrehen:** Obwohl Mulch für Pflanzen und den Boden vorteilhaft ist, dient er auch als gutes Versteck. Drehen Sie Mulch und andere Gartenabfälle um, um diese Schädlinge und ihre Eier Raubtieren auszusetzen.  
+## Wie man Schnecken und Nacktschnecken bekämpft
 
-#### Barrieren errichten  
-- **Kupferstreifen:** Tests zeigen, dass Schnecken einen elektrischen Schock erhalten können, wenn sie über ausreichend breite Kupferstreifen kriechen, die verhindern, dass Schnecken ihren Körper anheben. Die meisten im Handel erhältlichen Kupferstreifen sind jedoch nicht breit genug, um eine wirksame Barriere zu schaffen.  
-- **Kalk, Asche, Kieselgur:** Diese Materialien verlangsamen Schnecken, töten sie jedoch nicht. Sie müssen nach Regen oder Bewässerung ersetzt werden.  
+Eine Kombination der unten aufgeführten Methoden ist am wirksamsten, um die Schneckenpopulation zu verringern und Schäden im Garten zu minimieren. Die beste Zeit für eine langfristige Bekämpfung ist im Herbst. Das reduziert die Anzahl der erwachsenen Schnecken, die Eier legen. Eine zweite Anwendung im späten Winter oder frühen Frühling hilft, die erwachsene Population niedrig zu halten. Eine dritte Anwendung einen Monat später bereitet den Garten auf die Wachstumsperiode vor. Regelmäßige Kontrolle ist nötig, denn Schnecken können von benachbarten Grundstücken wieder in den Garten kommen.
 
-#### Raubtiere fördern  
-Viele Tiere fressen Schnecken und Nacktschnecken, darunter Kröten, Schlangen, Käfer, Sumpffliegen, Vögel, Frösche, Salamander, Molche, Enten, Tausendfüßler, Stachelschweine und Waschbären. Fördern Sie diejenigen, die zu Ihrer Gartenpflege passen.  
+### Wählen Sie Ihre Pflanzen mit Bedacht
 
-#### Fallen stellen  
-- **Selbstgemachte Fallen:** Flache Bretter oder umgedrehte Blumentöpfe mit einem angehobenen Rand sind attraktive Verstecke. Ebenso funktionieren umgedrehte Kohlblätter oder Schalen von Orangen/Grapefruits gut. Stellen Sie diese abends bereit. Kontrollieren Sie die Fallen jeden Morgen und vernichten Sie die Schädlinge, bis ihre Zahl abnimmt. Danach wöchentlich überprüfen.  
-- **Handpflücken:** Zwei Mal wöchentlich im frühen Frühling und Herbst unter typischen Verstecken wie Steinen und Laub suchen. Machen Sie dies nachts (produktiver) oder tagsüber. Werfen Sie die Schnecken und Nacktschnecken in einen Eimer mit Seifenwasser. Tragen Sie Handschuhe oder verwenden Sie Pinzetten. Falls Sie Schleim auf der Haut haben, waschen Sie ihn mit weißem Essig und warmem Wasser ab.  
+**Widerstandsfähige Pflanzen:**
+- Agapanthus
+- Anemone
+- Astilbe
+- Bambus
+- Tränendes Herz
+- Schleifenblume
+- Purpurglöckchen
+- Farne
+- Fingerhut
+- Hauswurz
+- Efeu
+- Wacholder
+- Nandina (Himmelsbambus)
+- Fetthenne (Sedum)
+- Salomonsiegel
+- Waldmeister
+- Wintergrün
+- Eibe
 
-#### Köder  
-- **Bier oder Hefemischung mit Honig:** Stellen Sie eine tiefe Falle (z. B. einen tiefen Joghurtbecher) mit dem Rand auf Bodenniveau. Dies stellt sicher, dass die Schädlinge nicht herauskriechen können. Bereiten Sie die Hefemischung mit Honig vor, indem Sie Wasser mit etwas Honig und Hefe kochen; die genauen Mengen sind nicht entscheidend. Bier kann direkt verwendet werden. Kontrollieren Sie die Falle täglich, um sicherzustellen, dass keine Frösche oder andere Tiere versehentlich hineingefallen sind. Leeren und füllen Sie die Falle alle paar Tage neu.  
-- **Eisenphosphat (Sluggo, Escar-Go):** Dieses stört den Kalziumstoffwechsel im Magen, wodurch Schnecken und Nacktschnecken aufhören zu fressen und 3 bis 6 Tage später sterben. Eisenphosphat ist sicher für Haustiere, Menschen, Fische, Vögel, nützliche Insekten und Säugetiere. Es kann rund um Nahrungspflanzen, Zierpflanzen, Rasenflächen, Gärten, Gewächshäuser und Beerenpflanzungen bis zur Ernte verwendet werden. Es bleibt bis zu 2 Wochen aktiv, auch bei wiederholtem Nasswerden.  
-- **Metaldehyd (Deadline):** Dieses Mittel dehydriert Schnecken und Nacktschnecken schnell nach der Einnahme. Wenn jedoch Wasser in der Nähe ist oder es kurz nach der Anwendung regnet, kann es unwirksam sein. Schnecken können bis zur Hälfte ihres Körpergewichts verlieren und auf ein Drittel ihrer Größe schrumpfen, aber sich erholen, wenn sie schnell feuchten Boden erreichen oder es regnet. Diese Mittel sind nicht zur Verwendung in der Nähe essbarer Gemüse empfohlen und können gefährlich für Hunde, Katzen und Fische sein. Befolgen Sie das Etikett sorgfältig.  
+**Pflanzen, die Schnecken gern fressen:**
+- Basilikum
+- Kohlgemüse
+- Karotten
+- Salat
+- Kartoffeln
+- Erdbeeren
+- Glockenblume
+- Narzissen
+- Gardenie
+- Enzian
+- Funkien (Hosta)
+- Fleißiges Lieschen
+- Japanischer Streifenfarn
+- Leopardenwurz
+- Lilien
+- Lobelie (mehrjährig)
+- Studentenblume (Tagetes)
+- Narzisse
+- Primel
+- Milchstern
+- Trillium
+- Knollenbegonie
+- Veilchen
+- Wild-Ingwer
 
-### Ressourcen  
-Holen Sie sich Publikationen der OSU Extension unter [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
+### Feuchte, dunkle Verstecke entfernen
 
-#### Master Gardener™ Beratung  
-- **Rufen Sie die Home Horticulture Helpline an:**  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- **Für Handouts und Kurspläne der 10-Minuten-Universität™ besuchen Sie:** [www.cmastergardeners.org](www.cmastergardeners.org)  
+- **Bewässerung richtig timen:** Gießen Sie den Garten morgens statt abends, da Schnecken und Nacktschnecken abends auf Nahrungssuche gehen.
+- **Im Frühling umgraben:** Verringern Sie Laub und Pflanzenreste, um frisch geschlüpften Schnecken keine Nahrung zu bieten.
+- **Wintermulch wenden:** Mulch ist zwar nützlich für Pflanzen und Boden, aber auch ein gutes Versteck für Schädlinge. Wenden Sie Mulch und andere Gartenabfälle, um Schädlinge und deren Eier für Fressfeinde sichtbar zu machen.
 
-Die Oregon State University Extension Service untersagt Diskriminierung in allen ihren Programmen, Dienstleistungen, Aktivitäten und Materialien auf der Grundlage von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/ elterlicher Status, Einkommen aus einem Programm der öffentlichen Hilfe, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Vergeltungsmaßnahmen für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+### Barrieren errichten
+
+- **Kupferstreifen:** Tests zeigen, dass Schnecken einen kleinen Stromschlag bekommen können, wenn sie über ausreichend breite Kupferstreifen oder -gitter kriechen. Die meisten im Handel erhältlichen Kupferstreifen sind jedoch nicht breit genug, um wirksam zu sein.
+- **Kalk, Asche, Kieselgur (trocken):** Diese Stoffe verlangsamen Schnecken, töten sie aber nicht. Die Barrieren müssen nach Regen oder Bewässerung erneuert werden.
+
+### Nützlinge fördern
+
+Viele Tiere fressen Schnecken und Nacktschnecken, darunter:
+- Kröten
+- Schlangen
+- Käfer
+- Sumpffliegen
+- Vögel
+- Frösche
+- Salamander
+- Molche
+- Enten
+- Tausendfüßer
+- Stachelschweine
+- Waschbären
+
+Fördern Sie Nützlinge, die zu Ihrem Garten passen.
+
+### Fallen aufstellen
+
+- **Selbstgemachte Fallen:** Verwenden Sie ein flaches Brett oder einen umgedrehten Blumentopf, den Sie an einer Seite anheben, als attraktives Versteck. Auch umgedrehte Kohlblätter oder Orangen-/Grapefruitschalen funktionieren gut. Legen Sie die Fallen abends aus und kontrollieren Sie sie morgens, bis die Schneckenzahl sinkt, danach wöchentlich.
+- **Absammeln:** Suchen Sie zwei Mal pro Woche im Frühling und Herbst typische Verstecke unter Steinen und Pflanzen ab. Am besten nachts (dann sind sie aktiver), aber auch tagsüber möglich. Werfen Sie die Tiere in einen Eimer mit Seifenwasser. Tragen Sie Handschuhe oder benutzen Sie eine Pinzette. Falls Schleim auf die Haut kommt, mit weißem Essig und warmem Wasser abwaschen.
+
+### Köder
+
+- **Bier oder Hefe-Honig-Mischung:** Stellen Sie eine tiefe Falle, zum Beispiel einen Joghurtbecher, so auf, dass der Rand auf Bodenniveau ist, damit die Tiere nicht wieder herausklettern. Die Honig-Hefe-Mischung wird durch Aufkochen von Wasser mit Honig und Hefe hergestellt; genaue Mengen sind nicht wichtig. Bier kann pur verwendet werden. Kontrollieren Sie die Falle täglich, damit keine anderen Tiere darin gefangen werden. Leeren und erneuern Sie die Flüssigkeit alle paar Tage.
+- **Eisen-III-Phosphat (z. B. Sluggo, Escar-Go):** Stört den Kalziumstoffwechsel im Darm, sodass Schnecken und Nacktschnecken die Nahrungsaufnahme einstellen und in 3 bis 6 Tagen sterben. Eisenphosphat ist ungefährlich für Haustiere, Menschen, Fische, Vögel, nützliche Insekten und Säugetiere. Es kann um Nahrungsmittelpflanzen, Zierpflanzen, Rasen, im Garten, Gewächshaus und in Beerengärten bis zur Ernte verwendet werden. Es bleibt bis zu 2 Wochen wirksam, auch bei mehrmaligem Befeuchten.
+- **Metaldehyd (z. B. Deadline):** Entzieht Schnecken und Nacktschnecken schnell Wasser, wenn sie es fressen. Wenn jedoch Wasser in der Nähe ist oder es nach der Anwendung regnet, wirkt es nicht. Schnecken können durch Metaldehyd oder Salz bis zur Hälfte ihres Körpergewichts verlieren und auf ein Drittel ihrer Größe schrumpfen, sich aber erholen, wenn sie feuchte Erde erreichen oder es regnet. Diese Mittel werden nicht für essbare Gemüse empfohlen und sind giftig für Hunde, Katzen und Fische. Beachten Sie die Anweisungen auf dem Etikett.
+
+---
+
+## Quellen
+
+OSU Extension-Publikationen finden Sie unter [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™ Handouts und Kursplan: Besuchen Sie [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Der Oregon State University Extension Service verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus oder Vergeltung für frühere Bürgerrechtsaktivitäten. (Nicht alle genannten Punkte betreffen jedes Programm.)
+---

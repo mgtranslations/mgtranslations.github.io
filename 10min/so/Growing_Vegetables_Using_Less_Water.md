@@ -1,57 +1,107 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khubarada ah ee Clackamas County oo kaashanaya lana shaqeynaya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beeraleyda Master-ka ee Degmada Clackamas oo iskaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
+# Beerashada Khudradda Iyadoo Biyo Yar la Isticmaalayo
 
-## Beerashada Khudaarta Iyadoo La Isticmaalayo Biyo Yar
+### Guudmarka
 
-### Dulmar
-Waaxda OSU Extension Small Farms waxay tijaabinaysay habka suurtagalka ah ee “beerashada qallalan” ee khudaarta dabiiciga ah si ganacsi ahaan loo beero. Beerashada qallalan waxay ku tiirsan tahay qoyaanka ciidda ee xilliga roobka si ay dalagyadu ugu baxaan, waxayna ugu fiican tahay meelaha roobkoodu yahay 20-inch ama ka badan sanadkiiba. Guushu waxay u baahan tahay maarayn taxaddar leh oo qoyaanka ciidda ah iyada oo loo marayo doorashada goobta, diyaarinta ciidda, iyo ilaalinta dusha sare ee ciidda. Maaha in dhammaan khudaartu ku habboon yihiin habkan, sidaa darteed doorashada noocyada waa muhiim. Warqaddan waxay ka soo ururinaysaa casharro cilmi-baaristan loogu talagalay beeralayda guryaha si ay u koriyaan khudaarta iyagoo badbaadinaya biyaha iyo ciidda.
+Waaxda Beeraleyda Yar ee OSU Extension ayaa tijaabinaysay suurtagalnimada “beerashada qalalan” ee khudradda dabiiciga ah si ganacsi ahaan loo beero. Beerashada qalalan waxay ku tiirsan tahay qoyaanka hadhay ee ciidda xilliga roobka si dalagyadu u koraan, waxaana ugu fiican meelaha helaya ugu yaraan 20 inch oo roob ah sanadkii. Guushu waxay u baahan tahay maarayn taxaddar leh oo qoyaanka ciidda ah adiga oo dooranaya goobta, diyaarinaya ciidda, iyo ilaalinaya dusha sare ee ciidda. Ma aha dhammaan khudradda inay ku habboon yihiin habkan, sidaas darteed doorashada noocyada waa muhiim. Qoraalkan waxa uu ka soo ururiyey casharro cilmi-baaristan ah si beeraleyda guryaha ugu beeraan khudaar iyagoo biyaha iyo ciidda ilaashanaya.
+
+---
 
 ### Diyaarinta Goobta
-Kordhi awoodda ciidda ee biyaha ku hayn karta adigoo ku daraya walxo dabiici ah (5-7% waa heerka ugu fiican). Ku beer dalag dabool ah dayrta sida clover cas iyo caddaan ah, Phacelia, buckwheat. Jar oo ciidda ku qabo gu’ga. Ku darista compost-ka, mid ganacsi ama mid guriga lagu sameeyo, waa ikhtiyaar kale. Haddii ciidda beertaadu hodan ku tahay dhoobo, ka faa’iidayso. Dhoobada waxay hayn kartaa biyo iyo nafaqooyin badan marka loo eego noocyada kale ee ciidda. Ku dar walxo dabiici ah si dhoobada looga dhigo mid si fiican loo shaqeyn karo. Waqtiga ugu fiican ee lagu diyaarin karo goobta beerta xilliga gu’ga waa dayrta.
 
-### Yaree Lumista Qoyaanka Ciidda
-Ku dabool dusha sare ee ciidda lakab mulching dabiici ah si ay uga ilaaliso inay qalasho. Mulching dabiiciga ah waxay ciidda ka dhigtaa qabow, sidaas darteed waa in la mariyaa kaliya marka dhirtu ay bilaabaan inay koraan. Tusaalooyinka waxaa ka mid ah qashinka beerta ee la compost-gareeyay, compost-kaaga, caws la jarjaray (haddii aysan ku jirin sunta cayayaanka), cawska qamadiga ama caleemo la jarjaray. Kartoon, bacaha burlap, iyo wargeysyo ayaa sidoo kale doorashooyin ah.
+- Kordhi awoodda ciidda ay biyo u hayso adigoo ku daraya walxo dabiici ah (5–7% waa heer ku fiican).
+- Beer dalag dabool xilliga dayrta sida clover cas iyo caddaan, Phacelia, ama buckwheat. Goy oo gelliso ciidda xilliga gu’ga.
+- Ku dar kompost, mid ganacsi ah ama mid aad guriga ku samaysay.
+- Haddii ciidda beertaadu dhoobo badan tahay, ka faa’iidayso. Dhoobadu waxay biyo iyo nafaqooyin badan hayn kartaa marka loo eego noocyada kale ee ciidda. Dhoobada ku dar walxo dabiici ah si ay u sahlanaato.
+- Xilliga ugu habboon ee aad goobta u diyaariso beerista gu’ga waa dayrta.
 
-Mulching-ka aan dabiiciga ahayn sida caaga cas iyo madow waa la isticmaali karaa si ciidda loo kululeeyo, loogana hortago qallalka iyo koritaanka haramaha. Mulching-ka wuxuu abuuraa deegaan ay ku noolaadaan slugs; mari sunta cayayaanka ee aan sunta ahayn.  
-Ciidda ka ilaali haramaha si loo yareeyo tartanka nafaqooyinka iyo biyaha.  
-Ka dhig dusha sare ee 2-inch ciidda dhirta ku hareeraysan mid dabacsan adigoo isticmaalaya qalab, si loo sameeyo "mulching boodhka". Tani waxay caawisaa buuxinta dildilaaca ciidda, iyadoo yareyneysa qallalka.  
-Ha ku socon meelaha dhirtu ku korto, si loo yareeyo cadaadiska loona ilaaliyo awoodda biyaha ee ciidda.
+---
 
-### Qaado Farsamooyin Si Faa’iido Leh Loo Adeegsado Biyaha Waraabka
-Isticmaal waraabka dhibcaha si loo yareeyo qallalka loona gaarsiiyo biyaha halka loo baahan yahay.  
-Ku ururi dhirta iyadoo loo eegayo baahidooda biyaha kooxo ama aagag.  
-Isticmaal saacadaha waraabka si aad u xakamayso soo noqnoqoshada iyo mugga biyaha; xakamaynta aagagga waxay hagaajisaa waxtarka.  
-Si aad qallalka u yarayso, waraabi subaxnimada hore kahor inta aysan ciidda iyo hawadu kululaan.
+### Yaree Khasaaraha Qoyaanka Ciidda
 
-### Waqtiga Abuurista
-Ku tiirsanow qoyaanka ciidda iyo heerkulka si aad u go’aamiso marka aad bilowdo diyaarinta abuurista. Si aad u tijaabiso qoyaanka, cadaadi kubbad ciid ah gacantaada. Haddii ay ku jirto kubbad laakiin si fudud u jajabto, way diyaar tahay.  
-Isticmaal heerkulbeeg ciida ah si aad u go’aamiso goorta la beero abuurka. La tasho jadwalka abuurista ama xirmada abuurka si aad u hesho shuruudaha heerkulka gaarka ah.  
-Marar badan noocyada ku habboon laguma heli karo ganacsi ahaan ama laguma heli karo xilliga saxda ah ee lagu beeri karo. Bilow abuurka gudaha si dhirtu ay horumar uga hesho kulaylka xagaaga.  
-Ku beero noocyo bislaada si degdeg ah, kahor inta aysan kulaylka xagaaga bilaaban. Qaarkood sidoo kale waxaa lagu beeran karaa xagaaga dambe si loo goosto dayrta. Tusaalooyinka waxaa ka mid ah lettuce, kaabash, Swiss chard, iyo broccoli.  
-Isticmaal qalab diirimaad sida cloches, “walls-o-water,” iyo sanduuqyada qabow si ay dhirta xilliga kulaylka sida yaanyada, basbaaska, iyo qarehu u helaan bilow degdeg ah.  
-Isku day inaad beerto dalagga jiilaalka sida broccoli purple sprouting, kaabash, iyo radicchio iwm.
+- Dabool dusha ciidda lakab walxo dabiici ah si aysan u qalalin. Mulch-ka dabiiciga ah wuxuu ciidda ka dhigayaa mid qabow, sidaas darteed waa in la saaraa kaddib marka dhirtu korto. Tusaalooyin:
+  - Qashinka la kompost gareeyey ee la iibiyo
+  - Kompost aad guriga ku samaysatay
+  - Caws la jarjaray (haddii aanay lahayn sunta cayayaanka)
+  - Xashka sarreenka ama caleemo la jarjaray
+  - Kartoon, bacaha burlap, iyo wargeys ayaa sidoo kale la isticmaali karaa.
+- Mulch aan dabiici ahayn sida balaastiiga cas ama madow waxay ciidda kululeeyaan, yareeyaan uum-baxa, kana hortagaan cawska xun.
+- Mulch-ku wuxuu hoy u yahay slugs; isticmaal sun aan waxyeello lahayn oo slugs-ka looga hortago.
+- Ka dhig ciidda mid aan caws lahayn si tartanka nafaqooyinka iyo biyaha loo yareeyo.
+- Ka dhig 2 inch ee sare ee ciidda ee agagaarka dhirta mid furan adigoo baangadaynaya si “mulch boodh ah” loo sameeyo. Tani waxay ka caawisaa in daloolada ciidda la buuxiyo, taas oo yareynaysa uum-baxa.
+- Iska ilaali inaad dul socoto aagagga dhirtu ku korto si aan ciidda la iska adkeyn oo awooddeeda biyo haynta loo ilaaliyo.
 
-### Adeegso Farsamooyin Abuuris Gaar Ah
-Ku soo qoy abuurka waaweyn habeenkii kahor intaadan beerin; tani waxay caawisaa dedejinta biqilka.  
-Kahor intaadan beerin abuurka yar yar, cadaadi dusha sare ee ciidda si tartiib ah adigoo isticmaalaya loox. Waxaa la rumeysan yahay inay tani kordhiso ficilka capillary ee ciidda kaasoo keena qoyaanka dusha sare halkaas oo abuurka iyo xididdada dhirtu heli karaan. Sababtaas awgeed, cadaadi ciidda marka dhirta la beddelayo.  
-Ku beero qaab blocks halkii ay ka ahaan lahayd safaf. Ku beero si dhow si loo hadheeyo ciidda. Ku rid dhirta yar yar hadhka dhirta dheer.  
-Haddii aad rabto inaad koriso adigoon isticmaalin waraabka caadiga ah, ku beero meel fog — laba-laab inta caadiga ah si loo yareeyo tartanka biyaha iyo nafaqada.
+---
 
-### Dooro Noocyo Khudaar oo U Adkaysata Abaaraha
-Noocyada khudaarta ee hidaha ah waxay noqon karaan kuwo u adkaysata abaarta haddii lagu horumariyay kahor markii waraabka biyaha la heli jiray. Isku day noocyada ay ku taliyaan beeraleyda qallalan (booqo bogagga OSU Dry Farm Program ee hoos ku qoran). Ku beero dalagyada laamaha leh sida squash, digirta (noocyada qolofka qallalan), digir, iyo qarehu; badanaa waxay u baahan yihiin biyo yar. Ugu dambeyntii, tixgeli isticmaalka abuurka maxalliga ah. In kasta oo aan si gaar ah loogu beeran xaaladaha abaarta, waxay u badan tahay inay la qabsadeen cimilada deegaanka.
+### Isticmaalka Xeeldheer ee Biyaha Waraabka
+
+- Isticmaal waraabka dareeraha (drip irrigation) si aad u yareyso uum-baxa ugana dhigto biyaha inay gaaraan halka loo baahan yahay.
+- Dhirta u kala sooc baahida biyaha oo geli aagag (zones).
+- Isticmaal saacadaha waraabka si aad u xaddido inta jeer iyo mugga biyaha; kantarool aagag ah wuxuu kordhiyaa waxtarka.
+- Si aad uum-baxa u yareyso, waraabi goor hore subaxii ka hor inta aan ciidda iyo hawadu kululaan.
+
+---
+
+### Waqtiga Beerista
+
+- Ku tiirsanow qoyaanka iyo heerkulka ciidda si aad u go’aamiso goorta la bilaabayo diyaarinta beerista.
+  - Si aad qoyaanka u tijaabiso, qabo kubbad ciid ah. Haddii ay kubbad ahaanayso laakiin si fudud u burburto, way diyaar tahay.
+  - Isticmaal heerkulbeeg ciid si aad u ogaato goorta abuurka la beero.
+- La tasho jadwalka beerista ama baakadka abuurka si aad u ogaato shuruudaha heerkulka gaarka ah.
+- Badanaa, noocyada ku habboon lama heli karo ama wakhtiga saxda ah lama heli karo. Abuurka guriga ku bilow si dhirtu fursad hore u hesho ka hor kulaylka.
+- Beero noocyo si dhaqso ah u bislaada, ka hor inta aan kulaylka xagaagu bilaaban. Qaar waxaa sidoo kale la beeri karaa dabayaaqada xagaaga si goosho dayr looga helo. Tusaalooyin:
+  - Lettuce (Saladh)
+  - Kabaajka (Cabbage)
+  - Swiss chard
+  - Broccoli
+- Isticmaal cloches, “walls-o-water,” iyo sanduuqyada qabow si aad dhirta xilliga kulul sida yaanyada, basbaaska, iyo qareebka hore ugu bilowdo.
+- Isku day inaad beerto dalagyo jiilaal sida broccoli purple sprouting, cabbage, radicchio, iwm.
+
+---
+
+### Farsamooyin Gaar ah oo Beerista ah
+
+- Abuurka waaweyn markaad beereyso, habeen dhan biyo ku qoy; tani waxay dedejisaa biqilka.
+- Ka hor intaadan abuurka yaryar beerin, si tartiib ah u cadaadi (u fidi) dusha ciidda adigoo loox ku cadaadinaya. Waxaa la aaminsan yahay in tani kordhiso dhaqdhaqaaqa biyaha ee ciidda si qoyaanku sare ugu soo baxo, taasoo abuurka iyo xididada dhirta sahli karta inay biyo helaan.
+- Isla sababtaas awgeed, cadaadi ciidda agagaarka dhirta markaad beddelayso.
+- Ku beero dhirta xirmooyin (blocks) halkii aad safafka ka beeri lahayd. Si isugu dhow u beero si dhirtu hoos ugu sameyso oo ciidda qarin karto. Dhirta gaaban hoos geli dhirta dhaadheer.
+- Haddii aad rabto inaad beerto adigoon biyo badan waraabin, dhirta si kala fog u beero—laba jibaar masaafada caadiga ah—si tartanka biyaha iyo nafaqooyinka loo yareeyo.
+
+---
+
+### Dooro Noocyo Khudaar ah oo Adkaysi u leh Abaarta
+
+- Noocyada khudradda dhaqameed waxay u adkaysan karaan abaarta haddii la sameeyay ka hor inta aan la helin waraab biyo socod ah.
+- Isku day noocyada ay ku taliyaan beeraleyda qalalan (booqo bogagga Barnaamijka OSU Dry Farm ee hoos ku xusan).
+- Beero dalagyo laamo leh sida squash, digir (noocyada qalalan), digirta cagaaran, iyo qareebka; badanaa biyo yar bay u baahan yihiin.
+- Tixgeli isticmaalka abuurka maxaliga ah. In kasta oo aan si gaar ah loogu tarmin xaalado abaareed, haddana waxay u badan tahay inay la qabsadeen cimilada deegaanka.
+
+---
 
 ### Khayraadka
-- **Dry Farming in the Maritime NW**, Intro to Dry Farming Organic Vegetable, OSU Extension Publication EM9229, [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- Website: [http://smallfarms.oregonstate.edu/dry-farming-resources](http://smallfarms.oregonstate.edu/dry-farming-resources)  
-- *Water-Wise Vegetables* by Steve Solomon  
-- *Growing Vegetables West of the Cascades* by Steve Solomon  
-- *Gardening without Irrigation: or without much, anyway* by Steve Solomon  
-- *The Resilient Gardener: Food Production and Self-Reliance in Uncertain Times* by Carol Deppe  
-- **Regional Seed Sources**: Adaptive Seeds, Territorial Seeds, Abundant Life Seeds, New Dimension Seeds, Nichols Garden Nursery, Peace Seeds, Siskiyou Seeds  
 
-### Talooyinka Master Gardener™
-- Wac Khadka Caawinta Horticulture-ka Guriga: 503-655-8631 (Degmada Clackamas), 503-821-1150 (Degmada Washington), 503-445-4608 (Degmada Multnomah).  
-- Booqo [www.cmastergardeners.org](http://www.cmastergardeners.org) si aad u hesho fiidiyowyada iyo waraaqaha Jaamacadda 10-Daqiiqo™.
+- **Dry Farming in the Maritime NW, Intro to Dry Farming Organic Vegetable**, OSU Extension Publication EM9229: [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+- Bogga internetka: [http://smallfarms.oregonstate.edu/dry-farming-resources](http://smallfarms.oregonstate.edu/dry-farming-resources)
+- **Buugaagta Steve Solomon**:
+  - *Water-Wise Vegetables*
+  - *Growing Vegetables West of the Cascades*
+  - *Gardening without Irrigation: or without much, anyway*
+- **The Resilient Gardener: Food Production and Self-Reliance in Uncertain Times** by Carol Deppe
+- **Ilo Abuurka Gobolka**:
+  - Adaptive Seeds
+  - Territorial Seeds
+  - Abundant Life Seeds
+  - New Dimension Seeds
+  - Nichols Garden Nursery
+  - Peace Seeds
+  - Siskiyou Seeds
 
-Ururka Adeegga Kordhinta ee Jaamacadda Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyadiisa, hawlihiisa, iyo agabkiisa iyadoo ku saleysan jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muuqa jirka jinsiga), doorashada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminaadaha siyaasadeed, macluumaadka hiddo-wadaha, xaaladda halyeeyga, cawaaqibka ama aargoosiga ka dhashay hawlaha xuquuqda madaniga ah ee hore. (Dhammaan saldhigyadu lagama yaabo inay khuseeyaan dhammaan barnaamijyada).
+---
+
+#### Talooyinka Khubaro Beereed™ · Wac Khadka Taageerada Beeraha Guryaha: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii qoraallo iyo jadwal koorso oo kale ah, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga OSU Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muuqaalkiisa), doorashada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmo dadweyne, aragtida siyaasadeed, xogta hiddo-sideyaasha, xaaladda askarnimada, ciqaabta, ama aargudasho fal xuquuqda madaniga ah hore. (Dhammaan sababaha la mamnuucay laguma dabaqo dhammaan barnaamijyada.)
+---

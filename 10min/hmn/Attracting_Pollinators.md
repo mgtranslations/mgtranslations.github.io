@@ -1,88 +1,103 @@
-# Lub Tsev Kawm Ntawv 10-Minute™
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener · Ua haujlwm koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-**Kev Koom Tes ntawm Clackamas County Master Gardener Association nrog thiab txhawb nqa OSU Extension Master Gardener™ Program**
+## Cuab Nqaj Kom Cov Kab Noog Txhawv Los Rau Koj Lub Vaj
 
-## Kev Nyiam Cov Tsiaj Nqus Hmoov Rau Koj Lub Vaj
+### Kev Nqaj & Cov Kab Noog Nqaj
 
-### Kev Nqus Hmoov & Cov Tsiaj Nqus Hmoov
+Lub National Academy of Sciences kwv yees tias ib feem peb ntawm tib neeg cov zaub mov thiab ib feem loj ntawm tsiaj qus cov zaub mov los ntawm cov nroj tsuag uas yuav tsum tau muaj kab nqaj los tsim txiv hmab txiv ntoo thiab noob. Kev pab kom cov kab nqaj vam meej yuav coj tau txiaj ntsig zoo rau peb txhua tus.
 
-National Academy of Sciences hais tias ib feem peb ntawm tib neeg cov zaub mov thiab feem ntau ntawm cov tsiaj qus cov zaub mov los ntawm cov nroj tsuag uas xav tau cov tsiaj nqus hmoov los tsim txiv hmab txiv ntoo thiab noob. Yog li ntawd, kev pab cov tsiaj nqus hmoov kom muaj sia nyob yuav muaj txiaj ntsig rau peb txhua tus.
-
-Cov tsiaj nqus hmoov uas nquag pom muaj xws li noog, muv, npauj npaim, kab laug sab, kab ya, thiab kab. Nyob ib ncig ntawm peb lub vaj, muv zib mu thiab noog hummingbird tej zaum yog qhov pom tau tshaj plaws. Txawm li cas los xij, cov muv qus hauv zos, suav nrog muv bumblebee, muv mining, muv mason, muv hws, muv txiav nplooj, thiab muv carpenter, ua rau muaj txiaj ntsig zoo heev. Cov muv hauv zos yog cov tsiaj nqus hmoov zoo heev — lawv muaj peev xwm tiv taus huab cua txias thiab ntub dej zoo dua piv rau muv zib mu — lawv pib ua haujlwm ntxov nyob rau lub caij nplooj ntoos hlav thiab ua haujlwm ntev dua txhua hnub.
-
-### Cov Kev Phom Sij Tshiab Rau Cov Tsiaj Nqus Hmoov
-
-#### Kev Poob Tsev Nyob
-Thaum cov tsiaj qus cov chaw nyob raug hloov mus rau lwm yam kev siv, nws rhuav tshem cov tsiaj nqus hmoov cov zaub mov thiab chaw nyob.
-
-#### Tshuaj Tua Kab
-Cov muv, npauj npaim, thiab feem ntau ntawm lwm yam kab yog cov muaj kev phom sij rau tshuaj tua kab. Kev raug tshuaj tua kab yuav ua rau tuag lossis ua rau lawv tsis muaj zog mus ya, nrhiav zaub mov, thiab yug menyuam.
-
-#### Cov Nroj Tsuag Txawv Teb Chaws
-Qee cov nroj tsuag uas tau qhia los rau ib cheeb tsam feem ntau yuav nthuav thiab hloov chaw ntawm cov nroj tsuag hauv zos uas muab ntau yam khoom noj thiab chaw nyob rau cov tsiaj nqus hmoov hauv zos.
-
-### Txoj Kev Pab Cov Tsiaj Nqus Hmoov
-
-#### Muab Zaub Mov Rau Lub Caij Nplooj Ntoos Hlav Txog Lub Caij Nplooj Ntoos Zeeg
-Cov paj muab nectar (zib ntab) thiab hmoov (protein) rau cov tsiaj nqus hmoov thiab lawv cov menyuam. Vim tias cov tsiaj nqus hmoov sib txawv yuav muaj kev xaiv zaub mov sib txawv (saib hauv qab no), qhov kev hloov pauv yog ib qho tseem ceeb. Kev tshawb fawb tshiab qhia tias cov cheeb tsam uas muaj 15 lossis ntau hom paj yuav txhawb cov muv ntau yam.
-
-Cov neeg ua teb uas xav txuag muv yuav tsum, raws li txoj cai dav dav, muab tsawg kawg peb hom paj uas tawg txhua lub caij nplooj ntoos hlav mus txog caij nplooj ntoos zeeg. Muab cov paj zoo ib yam tso ua ke kom nyiam cov tsiaj nqus hmoov uas mus dhau.
-
-#### Cov Yam Ntxwv ntawm Cov Paj Rau Cov Tsiaj Nqus Hmoov
-
-| **Paj**       | **Muv**       | **Npauj Npaim** | **Noog**      | **Kab Ya**     |
-|---------------|---------------|-----------------|---------------|----------------|
-| **Xim**      | Dawb ci, daj, xiav | Txiv kab ntxwv, liab, ntshav | Txiv kab ntxwv, liab, dawb | Tsaus xim av, ntshav |
-| **Daim Duab** | Tiaj, chaw nres, raj | Dav, raj nqaim | Raj loj, chaw ruaj khov | Ntse, zoo li raj |
-| **Tsw**       | Tshiab, mos, zoo | Tsw qab, tsis muaj | Tsis muaj | Tsw phem |
-| **Nectar**    | Feem ntau muaj | Ntau, tob zais | Ntau, tob zais | Feem ntau tsis muaj |
-
-#### Muab Cov Nroj Tsuag Tawg Paj Thaum Caij Nplooj Ntoos Hlav
-Muab cov nroj tsuag uas tawg paj thaum lub caij nplooj ntoos hlav kom cov muv hauv zos uas pib ua haujlwm thaum ntxov muaj zaub mov sai tom qab lawv tawm ntawm kev tsaug zog lub caij ntuj no. Nroj tsuag tawg paj lub caij ntuj sov lig pab cov muv uas nyob dhau lub caij ntuj no ua neeg laus (xws li muv bumblebee).
-
-#### Muab Chaw Yug Rau Cov Muv Hauv Zos
-Cov muv hauv zos feem ntau yug hauv av. Ib qho chaw av liab lossis ib qho txaj uas muaj nroj tsuag ornamental tsawg yog qhov zoo tshaj plaws. Yog tias av raug npog los yog khawb ntau, nws yuav rhuav tshem lawv cov chaw yug. Qee cov muv yug hauv cov qhov uas kab beetle tso tseg nyob rau hauv cov ntoo uas tuag lossis hauv cov pawg nroj tsuag. Cov chaw yug zoo tshaj plaws yuav tsum qhuav, sov, tiv thaiv los ntawm cov tsiaj tsiaj, thiab nyob ze rau cov chaw zaub mov.
-
-#### Muab Cov Nroj Tsuag Rau Npauj Npaim thiab Kab Laug Sab
-Cov npauj npaim thiab kab laug sab laus feem ntau nyiam nectar, tab sis lawv cov menyuam noj cov nplooj nroj tsuag. Cov nroj tsuag uas yog "host plant" yog qhov chaw uas cov laus tso lawv cov qe. Cov nroj tsuag ornamental thiab tsob ntoo hauv zos zoo tshaj plaws rau ntau yam kab.
-
-#### Siv Cov Nroj Tsuag Hauv Zos thiab Txawv Teb Chaws
-Cov nroj tsuag hauv zos yog cov nroj tsuag zoo heev rau npauj npaim thiab kab laug sab thiab muab zaub mov rau lwm yam tsiaj nqus hmoov. Txawm li cas los xij, cov neeg ua teb hauv tsev uas nyiam cov nroj tsuag txawv teb chaws, tshwj xeeb yog cov nroj tsuag uas tawg paj ntau thiab cov nroj tsuag me, yuav tsum tsis txhob yig siv lawv kom muaj paj tawg ntev hauv lub vaj.
-
-#### Zam Tshuaj Tua Kab
-Thaum pom thawj zaug cov nroj tsuag muaj teeb meem, sau cov pov thawj kom paub tseeb txog kev kuaj mob. Kev nkag siab txog teeb meem yog qhov tsim nyog ua ntej siv tshuaj tua kab. Feem ntau cov teeb meem tsiaj nroj tsuag, thaum pom ntxov, tuaj yeem tswj tau yam tsis siv tshuaj. Yog li, saib xyuas koj lub vaj kom zoo.
-
-Ua tib zoo xav ua ntej siv tshuaj tua kab rau cov nroj tsuag uas cov tsiaj nqus hmoov tuaj xyuas. Cov tshuaj tua kab uas nkag mus rau hauv cov nroj tsuag yuav tsim teeb meem rau cov muv uas noj nectar thiab pollen. Yog tias siv tshuaj tua kab, ua raws li cov lus qhia kom siv tshuaj nyob rau hauv qhov tseeb, nyob rau huab cua zoo, thiab siv rau qhov chaw nroj tsuag kom raug. Txhawm rau tiv thaiv cov tsiaj nqus hmoov, tsis txhob kho cov nroj tsuag tawg paj, suav nrog cov nroj tsuag qus; zam qhov chaw yug; thiab siv tshuaj nyob rau hauv thaj tsam txias ntawm hnub, xws li thaum kaj ntug lossis thaum tsaus ntuj.
+Cov kab nqaj uas nquag pom muaj xws li noog, muv, npauj npaim, kab zuav, kab ya, thiab kab txaij. Hauv peb lub vaj, cov muv zib ntab thiab cov noog nqus zib ntab yog cov uas pom tau tshaj plaws. Tab sis, cov muv qus hauv zos, xws li muv tho qhov, muv khawb av, muv mason, muv hws, muv txiav nplooj, thiab muv kho ntoo, kuj pab tau ntau heev thiab. Cov muv hauv zos no nqaj zoo heev—lawv tiv taus huab cua txias thiab ntub tau zoo dua cov muv zib ntab, lawv pib ua haujlwm ntxov dua thaum lub caij nplooj ntoos hlav thiab ua haujlwm ntev dua ib hnub.
 
 ---
 
-### OSU thiab Cov Kev Pab Cuam Xwm
+### Teeb Meem Tshiab Rau Cov Kab Nqaj
 
-- **Enhancing Urban and Suburban Landscapes to Protect Pollinators EM9289**  
-  [https://catalog.extension.oregonstate.edu/em9289](https://catalog.extension.oregonstate.edu/em9289)
+#### Poob Chaw Nyob
+
+Thaum cov chaw nyob ntawm tsiaj qus hloov mus siv rau lwm yam, nws ua rau cov kab nqaj poob cov chaw nrhiav noj thiab chaw nyob.
+
+#### Tshuaj Tua Kab
+
+Cov muv, npauj npaim, thiab feem coob ntawm lwm yam kab yog cov ua rau tshuaj tua kab. Yog raug tshuaj tua kab, lawv yuav tuag lossis maj mam poob peev xwm ya, nrhiav zaub mov, thiab yug me nyuam.
+
+#### Tsiaj/Txhuv Nyob Tshiab
+
+Qee yam nroj tsuag uas raug coj los tshiab tuaj tuaj yuav txeeb cov chaw ntuj thiab ua kom cov nroj tsuag hauv zos uas pab tau rau cov kab nqaj poob mus. Mus saib *Invasive Species: What Gardeners Need to Know* rau kev paub ntxiv.
+
+---
+
+### Txoj Kev Pab Rau Cov Kab Nqaj
+
+#### Muab Zaub Mov Los Ntawm Paj Los Xws Txhua Lub Caij Nplooj Ntoos Hlav Mus Rau Lub Caij Nplooj Ntoos Zeeg
+
+Cov paj muab zib ntab (sugar) thiab hmoov paj (protein) rau cov kab nqaj thiab lawv cov me nyuam. Vim tias cov kab nqaj sib txawv yuav muaj kev nyiam noj txawv, ntau yam paj yog qhov tseem ceeb. Kev tshawb fawb tshiab qhia tias thaj chaw uas muaj 15 lossis ntau tshaj hom paj yuav pab kom muaj ntau yam muv.
+
+Cov neeg ua vaj uas xav txuag muv yuav tsum sim muaj tsawg kawg peb hom paj uas tab tom tawg nyob txhua lub sijhawm los ntawm caij nplooj ntoos hlav mus txog caij nplooj ntoos zeeg. Muab cov paj zoo ib yam tso ua ke kom cov kab nqaj pom yooj yim dua.
+
+#### Cov Ntaub Ntawv Paj Ntawm Cov Kab Nqaj
+
+| Paj         | Muv                              | Npauj Npaim               | Noog                         | Kab Ya                               |
+|-------------|----------------------------------|---------------------------|------------------------------|--------------------------------------|
+| **Xim**     | Dawb ci, daj, xiav               | Txiv kab ntxwv, liab, txiv pos nphuab | Txiv kab ntxwv, liab, dawb         | Xim daj, xim tsaus los yog xim pos nphuab   |
+| **Hom**     | Nplaim tiaj, chaw tsaws, raj     | Chaw tsaws loj, raj nqaim | Loj, zoo li funnel, muaj chaw tsaws khov | Nplaim ntub; zoo li funnel lossis qhov txhav |
+| **Tsw**     | Tshiab, qab ntxiag, zoo tsw      | Tsw tshuaj tsw, tsis muaj | Tsis muaj tsw                  | Tsw phem                              |
+| **Zib ntab**| Feem ntau muaj                   | Ntau, zais tob             | Ntau, zais tob                 | Feem ntau tsis muaj                    |
+
+*Chaw: Gail Langellotto, Oregon State University*
+
+Ntxiv cov paj uas tawg thaum caij nplooj hlav kom cov muv hauv zos uas tawm hauv caij ntuj no muaj zaub mov noj tam sim ntawd. Cog cov paj uas tawg lig thaum caij ntuj sov kom pab cov muv uas nyob ua neeg laus hla caij ntuj no (xws li muv tho qhov). *Plants for Pollinators*, 10-Minute University™ phau ntawv, muaj ntau cov tswv yim zoo.
+
+#### Muab Chaw Yug rau Cov Muv Hauv Zos
+
+Muaj ntau hom muv hauv zos yug hauv av. Ib thaj av dawb los yog ib thaj av qhuav uas muaj nroj tsuag qhuav me me yog qhov zoo tshaj. Yog npog av nrog yas mulch lossis khawb av ntau zaus yuav rhuav tshem lawv cov chaw yug. Lwm hom muv yug hauv qhov uas kab txaij tawm hauv ntoo tuag los yog hauv pawg ceg ntoo. Chaw yug zoo yog qhuav, sov, muaj chaw tiv thaiv, thiab nyob ze zaub mov.
+
+#### Muab Nroj Tsuag Rau Npauj Npaim thiab Kab Zuav
+
+Npauj npaim thiab kab zuav laus feem ntau nyiam noj zib ntab, tab sis lawv cov me nyuam noj nplooj nroj tsuag. Qhov “nroj tsuag yug” no yog qhov uas npauj npaim los yog kab zuav laus muab qe. Nroj tsuag thiab tsob ntoo hauv zos feem ntau yog nroj tsuag zoo rau ntau hom npauj npaim thiab kab zuav.
+
+#### Siv Nroj Tsuag Hauv Zos thiab Sab Nraud
+
+Nroj tsuag hauv zos yog nroj tsuag zoo rau npauj npaim thiab kab zuav thiab muab zaub mov rau lwm yam kab nqaj. Tab sis, cov neeg ua vaj uas nyiam cog nroj tsuag txawv teb chaws, tshwj xeeb yog cov paj tawg zoo thiab cov paj me me, tsis tas yuav txhawj siv lawv los pab kom muaj paj tawg ntev hauv lawv lub vaj.
+
+#### Tsis Txhob Siv Tshuaj Tua Kab
+
+Thaum pom nroj tsuag mob, sau pov thawj kom tshuaj xyuas kom raug. To taub qhov teeb meem ua ntej yuav ua tau qhov zoo tshaj. Ntau yam teeb meem nroj tsuag, yog paub ntxov, yuav kho tau tsis tas siv tshuaj. Ua tib zoo rau hauv vaj.
+
+Ua ntej siv tshuaj tua kab, tshwj xeeb rau cov nroj tsuag uas cov kab nqaj tuaj xyuas, xav txog qhov zoo thiab phem ua ntej. Tshuaj tua kab uas mus hauv nroj tsuag yuav tiv thaiv nplooj, tab sis kuj yuav mus rau hauv zib ntab thiab hmoov paj. Cov kab noj nplooj los yog muv uas noj zib ntab thiab hmoov paj yuav raug mob yog noj ntawm cov nroj tsuag uas muaj tshuaj no.
+
+Yog yuav siv tshuaj tua kab, ua raws li daim ntawv qhia:
+
+- Siv kom raug concentration.
+- Siv thaum huab cua zoo.
+- Tsuas tsuag rau qhov chaw nroj tsuag uas tsim nyog.
+
+Kom pab tiv thaiv cov kab nqaj:
+
+- Tsis txhob tsuag rau cov paj tab tom tawg, txawm yog cov nroj tsuag tsuag.
+- Tsis txhob tsuag ze chaw yug.
+- Tsuag thaum huab cua txias, piv txwv li tav su tsaus ntuj los yog tsaus ntuj, thaum feem ntau cov kab nqaj tsis nquag.
+
+---
+
+### OSU thiab Lwm Yam Chaw Pab
+
+- **Txhim Kho Thaj Chaw Vaj thiab Nroog kom Pab Kab Nqaj**  
+  [EM9289](https://catalog.extension.oregonstate.edu/em9289)
 
 - **Xerces Society Pollinator Conservation Resource Center**  
-  [www.xerces.org/pollinator-resource-center](https://www.xerces.org/pollinator-resource-center)
+  [www.xerces.org/pollinator-resource-center/](https://www.xerces.org/pollinator-resource-center/)
 
-- **Plants for Pollinators, 10-Minute University™ publication**  
+- **Plants for Pollinators**, 10-Minute University™ phau ntawv  
   [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
 - **The Best Bee Flowers**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)
+  [Saib ntawm YouTube](https://www.youtube.com/watch?v=2MOZqV4yk58&feature=youtu.be)
 
 ---
 
-### Master Gardener™ Cov Lus Qhia
-
-- Hu rau **Home Horticulture Helpline**:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)
-
-- Mus xyuas [www.cmastergardeners.org](https://www.cmastergardeners.org) kom tau txais cov ntawv qhia ntxiv thiab cov chav kawm.
+#### Master Gardener™ Kev Pab · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam ntawv qhia thiab teev sijhawm kawm 10-Minute University™, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
 ---
 
-### Oregon State University Extension Service
-
-Oregon State University Extension Service tsis pub muaj kev cais tawm hauv nws cov kev pab cuam, kev pab, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev pom poj niam txiv neej, kev nyiam poj niam txiv neej, kev xiam oob qhab, hnub nyoog, txoj kev sib yuav, kev ua niam txiv, nyiaj tau los, kev ntseeg kev nom kev tswv, tus yam ntxwv caj ces, tus neeg laus yav dhau los hauv kev tsov rog, lossis kev ua pauj rau kev ua ntej ntawm kev tiv thaiv txoj cai pej xeem. (Tsis yog txhua qhov kev cais tawm raug siv rau txhua qhov kev pab cuam.)
+##### Oregon State University Extension Service · Oregon State University Extension Service txwv tsis pub ua txhaum cai rau txhua yam kev pabcuam, kev ua haujlwm, kev ua ub no, thiab cov ntaub ntawv, raws li haiv neeg, xim, teb chaws tuaj, kev ntseeg, poj niam txiv neej, cim qhia poj niam txiv neej (xws li kev qhia txog poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev yuav poj niam yuav txiv, muaj menyuam, nyiaj hli los ntawm kev pab cuam pej xeem, kev ntseeg tib neeg, kev qhia txog caj ces, kev ua tub rog, kev rau txim, lossis kev muab txim rau yav dhau los. (Tsis yog txhua qhov txwv no siv rau txhua qhov kev pabcuam.)
+---

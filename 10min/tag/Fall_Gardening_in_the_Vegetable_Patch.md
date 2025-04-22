@@ -1,60 +1,96 @@
-## 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
 
-### Pag-aalaga ng Halaman sa Taglagas  
-#### Pag-aani at Pag-iimbak ng Gulay  
-- Anihin ang berdeng kamatis na may maputing kulay sa ilalim upang mahinog sa loob ng bahay. Kolektahin ang mga buto mula sa hinog na kamatis buong panahon. Isubo ang mga buto sa garapon na may tubig, hayaang mag-ferment ng 3-5 araw, banlawan ang laman ng buto sa strainer, patuyuin sa papel na tuwalya, at ilagay sa sobre na may label para sa imbakan.  
-- Anihin ang patatas 2 linggo matapos mamatay o putulin ang baging upang tumibay ang balat, ngunit bago umulan sa taglagas. Hukayin, patuyuin, at huwag hugasan. Itago sa malamig (40+ degree), madilim, at maaliwalas na lugar, hindi sa plastik.  
-- Anihin ang winter squash sa tamang panahon (kapag hindi mabutas ng kuko ang balat) at bago ang hamog (mas mababa sa 28 degrees) dahil maaaring masira. Itago sa tuyo, madilim, at malamig na lugar, mga 50 degrees.  
-- Patuyuin ang mga buto ng beans habang nasa baging hanggang marinig ang pagkalansing, o putulin ang mamasa-masang gintong pods upang patuyuin sa loob ng bahay na walang init o araw.  
-- Iwanan ang mga root vegetables (carrots, beets, turnips, onions & leeks) sa lupa at protektahan ng 1 hanggang 2 pulgada ng tuyong dahon o dayami, o gumamit ng row cover para sa proteksyon. Ang Swiss chard, kale, at collard ay karaniwang nabubuhay sa taglamig nang walang proteksyon kung banayad ang taglamig.  
-- Putulin ang thyme at rosemary at patuyuin ang mga dahon. Putulin nang malalim ang rosemary kung gagamitin para sa skewers.  
-- Anihin ang basil bago bumaba ang temperatura ng gabi sa 50 degrees. Iproseso agad o ilagay ang mga tangkay sa tubig para sa pansamantalang imbakan. Gumawa ng pesto, o putulin, ilagay sa ice cube trays, punuin ng tubig, at i-freeze.  
+---
 
-### Pagtatanim ng Gulay para sa Taglagas at Taglamig  
-- Ang mga dahilan para magtanim sa taglagas ay: ang lupa ay tuyo at mainit; ang ilang pananim ay mas mahusay lumaki sa malamig na panahon; mas kaunti ang peste; mas kaunti ang pangangailangan sa pagdidilig; at maaari kang magkaroon ng sariwang gulay sa taglamig at tagsibol.  
-- Para sa ani ng taglagas at taglamig, simulan ang beet, broccoli, cabbage, carrot, Chinese cabbage, collard, kale, kohlrabi, rutabaga, at Swiss chard mula sa buto noong Hulyo. Ang mga tanim na itinanim sa huling bahagi ng tag-init/maagang taglagas ay nangangailangan ng hindi bababa sa 4 na linggong paglaki upang makayanan ang temperatura ng taglamig.  
-- Ang mga tanim na maaaring direktang itanim sa taglagas ay kinabibilangan ng: fava beans (Oct.–Nov.), arugula, ilang uri ng sibuyas, at mustard (hanggang sa kalagitnaan ng Oktubre); at cloves ng bawang, nakatayo ang talim pataas at 2 hanggang 3 pulgada ang lalim (Oktubre/maagang Nobyembre).  
+## Pagtatanim sa Gulayan tuwing Taglagas
 
-### Paggamit ng Season Extenders  
-Ang season extenders ay tumutulong sa mas mahusay na paglaki ng maliliit na halaman at nagpoprotekta sa mga ito mula sa malamig na panahon ng taglamig at matinding lagay ng panahon. Kasama rito ang:  
-- Row covers, cold frames (pinakamainam ang nakaharap sa timog), at cloches na nagpapainit ng hangin at nagpoprotekta sa mga halaman;  
-- Plastic mulch na nagpapainit sa lupa; at  
-- Hot beds, cold frames na may heating cable na nakabaon ng higit sa 2 pulgada sa ilalim ng lupa, na nagpapainit sa lupa at hangin.  
+### Pag-ani at Pag-iimbak ng Gulay
 
-### Paglilinis ng Vegetable Patch  
-Ang paglilinis sa taglagas ay nagpapadali sa pagtatanim sa tagsibol. Tanggalin at itapon ang mga damo at bulok na prutas. Hilahin, putulin o putulin ang mga may sakit na halaman at dahon para sa commercial composting. Ilagay ang tuyong dahon at tangkay sa home compost. Maglagay ng pain para sa mga suso at snails upang mabawasan ang populasyon sa taglagas at tagsibol.  
+- **Berdeng Kamatis**: Anihin ang berdeng kamatis na may maputlang puti sa ilalim upang pahinugin sa loob ng bahay. Kolektahin ang buto mula sa hinog na kamatis buong panahon. Kutsarahin ang mga buto sa garapon na may tubig, pabayaan mag-ferment sa loob ng 3–5 araw, hugasan ang laman sa strainer, patuyuin sa papel na tuwalya, at ilagay sa sobre na may label para itago.
+- **Patatas**: Anihin makalipas ang 2 linggo matapos mamatay o maputol ang baging para tumigas ang balat, pero bago magsimula ang mga pag-ulan ng taglagas. Hukayin, patuyuin, at huwag hugasan. Itago sa malamig (higit 40 degrees), madilim, at may hangin na lugar, huwag sa plastik.
+- **Winter Squash**: Anihin kapag hinog na (kapag hindi na mabutas ng kuko ang balat) at bago magyelo (bababa sa 28 degrees) dahil puwedeng masira. Itago sa tuyong, madilim, at malamig na lugar, mga 50 degrees.
+- **Tuyong Beans**: Iwanang nakasabit ang buto hanggang marinig na kumakalansing, o putulin ang mamasa-masang dilaw na pods at patuyuin sa loob ng bahay na walang init o araw.
+- **Mga Root Crops**: Iwan sa lupa ang carrots, beets, turnips, sibuyas, at leeks at takpan ng 1–2 pulgada ng tuyong dahon o dayami, o gumamit ng row cover. Kadalasan, nabubuhay ang Swiss chard, kale, at collard kahit walang takip kapag banayad ang taglamig.
+- **Herbs**: Gupitin ang thyme at rosemary at patuyuin ang mga dahon. Gupitin nang marami ang rosemary kung gagamitin bilang skewer.
+- **Basil**: Anihin bago bumaba sa 50 degrees ang temperatura tuwing gabi. Gamitin agad o ilagay ang tangkay sa tubig. Gumawa ng pesto, o gupitin, ilagay sa ice cube tray, takpan ng tubig, at i-freeze.
 
-### Pagpapabuti ng Lupa  
-Magdagdag ng 2 hanggang 4 na pulgada ng dahon o compost bilang mulch upang mabawasan ang pagkapal at erosion, maibsan ang damo, at maayos ang temperatura ng lupa. Ang Oktubre 1 ang target na petsa para sa pagtatanim ng cover crops na nagpapabawas ng pagkapal at erosion ng lupa at nagdadagdag ng sustansya kapag isinama sa lupa sa tagsibol.  
+---
 
-Ang taglagas ay ang perpektong panahon para subukan ang pH ng lupa. Kolektahin ang sample ng lupa sa pamamagitan ng pag-aalis ng mga tanim sa ibabaw o mulch (gumamit ng malinis na kagamitan, guwantes, at kamay), humukay ng 6 hanggang 8 pulgada at kumuha ng vertical na slice ng lupa. Ulitin ang proseso sa ilang bahagi ng hardin. Paghaluin ang mga sample sa isang lalagyan, ilipat ang ½ tasa sa plastik na bag para sa pagsusuri. Kung kailangan ng apog, ang aplikasyon sa taglagas ay maghahanda ng lupa para sa pagtatanim sa tagsibol. Huwag maglagay ng apog sa lugar ng pagtatanim ng patatas, dahil ang apog ay nagdudulot ng scabby na patatas.  
+### Pagtatanim ng Gulay para sa Taglagas at Taglamig
 
-Gumamit ng commercial laboratories para sa pagsusuri ng sustansya ng lupa. Ang Clackamas County Master Gardeners ay nagsusuri ng pH ng lupa sa tatlong taunang event. Tingnan ang www.cmastergardeners.org para sa karagdagang detalye.  
+- **Bakit Magtanim sa Taglagas?**
+  - Tuyong at mainit-init ang lupa.
+  - May mga tanim na mas maganda ang tubo sa malamig na panahon.
+  - Mas kaunting peste.
+  - Mas kaunting pagdidilig.
+  - May sariwang gulay sa taglamig at tagsibol.
 
-### Mga Mapagkukunan  
-OSU Extension publications [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- **Storing Pumpkin and Winter Squash at Home** (EC 1632)  
-- **Fall and Winter Vegetable Gardening in the Pacific Northwest** (PNW 548)  
-- **How to Build Your Own Raised-bed Cloche** (EC 1627)  
-- **A Guide to Collecting Soil Samples for Farms and Gardens** (EC 628)  
-- **Raised Bed Gardening** (FS 270)  
-- **Cover Crops for Home Gardens** (FS 304)  
+- **Pag-aani sa Taglagas at Taglamig**:
+  - Simulan ang beet, broccoli, repolyo, carrot, Chinese cabbage, collard, kale, kohlrabi, rutabaga, at Swiss chard mula buto tuwing Hulyo. Ang mga punla na itinanim huli ng tag-init o maagang taglagas ay kailangang may 4 na linggo ng paglaki para kayanin ang lamig ng taglamig.
+  - Magtanim ng buto ng fava beans (Oktubre–Nobyembre), arugula, ilang sibuyas, at mustasa (hanggang kalagitnaan ng Oktubre) direkta sa lupa.
+  - Magtanim ng bawang (ang matulis pataas) 2–3 pulgada ang lalim tuwing Oktubre o unang bahagi ng Nobyembre.
 
-### 10-Minute University™ Resources  
-[http://www.cmastergardeners.org](http://www.cmastergardeners.org) para sa handouts at videos:  
-- **Saving Seed**  
-- **Starting Your Vegetable Garden**  
-- **Growing Winter Vegetables**  
-- **Gardening with Mulches**  
-- **Raised Bed Gardening**  
-- **Testing Soil pH**  
+---
 
-### Master Gardener™ Advice  
-Tumawag sa Home Horticulture Helpline:  
-- 503-655-8631 (Clackamas County)  
-- 503-821-1150 (Washington County)  
-- 503-445-4608 (Multnomah County)  
+### Paggamit ng Season Extenders
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita mula sa programa ng pampublikong tulong, paniniwala sa politika, impormasyon ng genetiko, katayuan bilang beterano, paghihiganti o paghihiganti para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+Tumutulong ang season extenders na mas lumaki at maprotektahan ang mga halaman laban sa lamig at masungit na panahon sa taglamig. Kasama rito ang:
+
+- **Row Cover, Cold Frame, at Cloche**: Pinapainit ang hangin at pinoprotektahan ang halaman. Pinakamainam kung nakaharap sa timog.
+- **Plastic Mulch**: Pinapainit ang lupa.
+- **Hot Bed**: Cold frame na may kable ng kuryente sa ilalim ng 2+ pulgada ng lupa para painitin ang lupa at hangin.
+
+---
+
+## Paglilinis ng Gulayan
+
+Pinapadali ng paglilinis tuwing taglagas ang pagtatanim sa tagsibol:
+
+- Alisin at itapon ang mga damo at bulok o hilaw na bunga.
+- Hilahin, putulin, o gupitin ang may sakit na halaman at dahon para sa commercial composting.
+- Ilagay ang mga tuyong dahon at tangkay sa sariling compost sa bahay.
+- Maglagay ng pain sa mga kuhol at suso para mabawasan ang dami nila tuwing taglagas at tagsibol.
+
+---
+
+## Pagpapabuti ng Lupa
+
+- Maglagay ng 2–4 pulgada ng dahon o compost bilang mulch upang mabawasan ang pagkatigas at pagka-erode ng lupa, mapigil ang damo, at mapanatili ang tamang temperatura ng lupa.
+- **Cover Crop**: Itanim bago mag Oktubre 1 para mabawasan ang pagkatigas at pagka-erode ng lupa, at magdagdag ng sustansya kapag hinukay pabalik sa lupa sa tagsibol.
+- **Pagsusuri ng pH ng Lupa**:
+  - Kumuha ng sample ng lupa sa pamamagitan ng pagtanggal ng damo o mulch (gumamit ng malinis na gamit, guwantes, at kamay).
+  - Humukay ng 6–8 pulgada at kumuha ng patayong hiwa ng lupa. Ulitin sa iba’t ibang bahagi ng hardin.
+  - Pagsamahin sa isang lalagyan, ilipat ang ½ tasa sa plastic bag para sa pagsusuri.
+  - Kung kailangan ng apog, ilagay ito sa taglagas para ihanda ang lupa sa pagtatanim sa tagsibol. Huwag lagyan ng apog ang bahagi para sa patatas dahil nagdudulot ito ng ‘scab’ sa patatas.
+
+- Gumamit ng commercial laboratory para sa pagsusuri ng sustansya ng lupa. Nagsusuri ng pH ng lupa ang Clackamas County Master Gardeners sa tatlong event kada taon. Tingnan ang [www.cmastergardeners.org](http://www.cmastergardeners.org) para sa detalye.
+
+---
+
+## Mga Sanggunian
+
+- **OSU Extension Publications**:
+  - [Pag-iimbak ng Kalabasa at Winter Squash sa Bahay (EC 1632)](https://catalog.extension.oregonstate.edu/ec1632)
+  - [Pagtatanim ng Gulay tuwing Taglagas at Taglamig sa Pacific Northwest (PNW 548)](https://catalog.extension.oregonstate.edu/pnw548)
+  - [Paano Gumawa ng Sariling Raised-Bed Cloche (EC 1627)](https://catalog.extension.oregonstate.edu/ec1627)
+  - [Gabay sa Pagkuha ng Sample ng Lupa para sa Bukid at Hardin (EC 628)](https://catalog.extension.oregonstate.edu/ec628)
+  - [Pagtatanim sa Raised Bed (FS 270)](https://catalog.extension.oregonstate.edu/fs270)
+  - [Cover Crops para sa Home Gardens (FS 304)](https://catalog.extension.oregonstate.edu/fs304)
+
+- **Mga Sanggunian ng 10-Minute University™**:  
+  Bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org) para sa mga handout at video:
+  - Pag-iipon ng Buto
+  - Pagsisimula ng Iyong Gulayan
+  - Pagtatanim ng Gulay sa Taglamig
+  - Paghahalaman gamit ang Mulch
+  - Pagtatanim sa Raised Bed
+  - Pagsusuri ng pH ng Lupa
+
+---
+
+#### Master Gardener™ Payong · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang handout at iskedyul ng klase ng 10-Minute University™, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, estado sa pag-aasawa, estado ng pamilya/magulang, kita mula sa public assistance program, paniniwala sa pulitika, genetic information, status bilang beterano, pagganti, o paghihiganti sa nakaraang civil rights activity. (Hindi lahat ng nabanggit na base ay sakop ng lahat ng programa.)
+---

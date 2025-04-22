@@ -1,76 +1,100 @@
-# Universidade de 10 Minutos™  
-A Associação de Mestres Jardineiros do Condado de Clackamas, em colaboração e em apoio ao  
-Programa Mestre Jardineiro™ da Extensão da OSU  
+#### 10-Minute University™ · A Associação de Jardineiros Mestres do Condado de Clackamas em colaboração e apoio ao Programa de Jardineiros Mestres da Extensão OSU
 
-## Escolhendo a Árvore Certa para o Seu Jardim  
+# Como Escolher a Árvore Certa para o Seu Jardim
 
-### Introdução  
-As árvores podem oferecer muitos benefícios — beleza, proteção, privacidade, sombra. Elas também podem reduzir os custos de aquecimento e resfriamento e aumentar o valor da propriedade. Árvores abrigam e alimentam a vida selvagem, além de proporcionar benefícios ambientais ao absorver dióxido de carbono, liberar oxigênio e reter água em sua zona de raízes.  
+### Introdução
 
-### Como Escolher uma Árvore  
-Antes de comprar uma árvore, avalie os possíveis locais. A longevidade das árvores exige um estudo cuidadoso do local. Certifique-se de que a localização escolhida e a árvore sejam compatíveis. Nada de compras por impulso!  
+As árvores trazem muitos benefícios—beleza, proteção, privacidade, sombra. Elas também podem diminuir os custos de aquecimento e resfriamento e aumentar o valor da propriedade. As árvores abrigam e alimentam a vida selvagem, além de trazer benefícios ambientais ao absorver dióxido de carbono, liberar oxigênio e reter água na zona das raízes.
 
-#### Local Potencial  
-Use a lista de verificação na seção abaixo. Como a maioria dos jardins urbanos tem espaço limitado, faça uma avaliação honesta dos possíveis conflitos à medida que a árvore cresce para evitar problemas futuros.  
+### Como Escolher uma Árvore
 
-#### Benefícios Desejados  
-Faça uma lista dos benefícios que você deseja obter com a árvore — sombra, beleza, cor da folhagem, frutos, flores, privacidade, valores para a vida selvagem são motivações comuns. Como nenhuma árvore oferece tudo, é útil pensar em concessões e saber suas prioridades.  
+Antes de comprar uma árvore, avalie os locais possíveis. Como as árvores vivem muito tempo, é importante estudar bem o local. Certifique-se de que o lugar combina com a árvore escolhida. Nada de compras por impulso!
 
-#### Considerações Gerais  
-Plante árvores decíduas ao sul/oeste para sombrear o sol de verão; use coníferas para bloquear o vento predominante no inverno. Ao selecionar uma árvore pela beleza da folhagem, flores ou frutos, coloque-a em um local onde folhas, pétalas e frutos caídos não sejam incômodos.  
+#### Local Potencial
 
-### Lista de Verificação para Escolher um Local para a Árvore  
+Use a lista de verificação na próxima seção. Como a maioria dos jardins urbanos tem pouco espaço, faça uma avaliação honesta dos possíveis conflitos que podem surgir conforme a árvore cresce, para evitar problemas futuros.
 
-#### Espaço Disponível  
-Estime o espaço disponível acima e abaixo do solo para a árvore crescer. Consulte várias fontes para saber a altura e largura da copa da árvore quando madura. Lembre-se de que o formato da árvore pode mudar com o tempo. Além disso, o tamanho pode variar dependendo do solo e da localização. Um bom recurso é o banco de dados de plantas paisagísticas da Oregon State University: [https://landscapeplants.oregonstate.edu/](https://landscapeplants.oregonstate.edu/)  
+#### Benefícios Desejados
 
-#### Direção do Vento e Exposição ao Sol  
-Árvores coníferas ou de folhas largas perenes podem bloquear o vento predominante e o sol de verão. Se você deseja uma árvore que ofereça sombra no verão e permita a passagem de luz no inverno, escolha uma árvore decídua. Lembre-se de que nem todas as coníferas são perenes — coníferas decíduas incluem larício, cipreste-calvo e metasequoia. Também lembre-se de que nem todas as árvores de folhas largas são decíduas — árvores perenes de folhas largas incluem magnólia-do-sul, azevinho e árvore-morango.  
+Faça uma lista dos benefícios que você quer da árvore—sombra, beleza, cor das folhas, frutos, flores, privacidade, valor para a vida selvagem são motivos comuns. Como nenhuma árvore oferece tudo, pense nos prós e contras e saiba quais são suas prioridades.
 
-#### Conflitos Potenciais  
-- **Com outras plantas**: Considere o alcance futuro das raízes e galhos — imagine como a árvore será em 20 anos. Copas maduras podem ter formatos arredondados, em forma de vaso ou de lágrima invertida; visualize como isso pode afetar outras plantas. Exemplares colunados ou fastigiados são melhores para áreas estreitas, enquanto formatos pendentes criam áreas protegidas. As raízes de árvores maduras podem se estender além da linha de gotejamento.  
-- **Com fios elétricos e estruturas**: Mantenha as árvores a pelo menos 1 metro de pavimentos, 4,5 metros de edifícios e outras árvores, e, se a árvore crescer mais de 9 metros, 7,5 metros de distância de fios elétricos aéreos.  
+#### Considerações Gerais
 
-Árvores altas que atingem 18 metros ou mais devem ficar a 10,5 metros de distância da casa para permitir o desenvolvimento adequado das raízes.  
+- Plante árvores caducas ao sul/oeste para sombrear o sol do verão; use coníferas para bloquear o vento no inverno.
+- Se escolher uma árvore pela beleza das folhas, flores ou frutos, coloque-a em um lugar onde as folhas, pétalas e frutos caídos não sejam um incômodo.
 
-#### Solo e Água  
-As raízes precisam de ar e água. Idealmente, o solo deve ter boa estrutura e permitir o fluxo de ar e água. As raízes de árvores maduras se estendem além da copa; escolha um local que não seja cercado por pavimentos impermeáveis.  
+### Lista de Verificação para Plantar uma Árvore
 
-#### Benefícios Desejados  
-As árvores oferecem beleza com suas folhagens, flores, frutos e cascas. Alguns desses benefícios podem vir acompanhados de detritos indesejados. Plante a árvore onde suas características atraentes sejam melhor apreciadas e os detritos causem o menor incômodo possível.  
+#### Espaço Disponível
 
-### Árvores para Situações Especiais  
-A publicação da Extensão da Oregon State University, *Selecting, Planting, and Caring for a New Tree* (EC1438), sugere árvores para condições específicas. Para baixar gratuitamente, visite [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
+Avalie o espaço acima e abaixo do solo que a árvore terá quando crescer. Consulte várias fontes para saber a altura e largura quando adulta. Lembre-se que o formato da árvore pode mudar depois de madura. O tamanho também varia conforme o solo e o local. Um bom recurso é o [banco de dados de plantas ornamentais da Oregon State University](https://landscapeplants.oregonstate.edu/).
 
-O programa Universidade de 10 Minutos™ oferece uma lista de *Boas Árvores para o Jardim de Casa* com mais sugestões de especialistas regionais em horticultura. Para baixar gratuitamente, visite [https://www.cmastergardeners.org/10-minute-university/](https://www.cmastergardeners.org/10-minute-university/)  
+#### Direção do Vento e Exposição ao Sol
 
-#### Locais Difíceis (solo pobre, condições urbanas, variações de temperatura)  
-- **Goldenrain Tree** (*Koelreuteria paniculata*): Copa de 9 metros, zonas 5–9  
-- **Hawthorn sem espinhos** (*Crataegus crusgalli inermis*): Copa de 7,5 metros, zonas 4–8  
+Árvores coníferas ou de folhas largas e sempre verdes podem bloquear o vento e o sol do verão. Se quiser sombra no verão, mas luz solar no inverno, escolha uma árvore caduca.
 
-#### Sob Fios Elétricos  
-- **Glorybower** (*Clerodendrum trichotomum*): Copa de 7,5 metros, zonas 6–8  
-- **Cornus kousa (Dogwood Kousa)**: Copa de 7,5 metros, zonas 5–8  
-- **Vine Maple** (*Acer circinatum*): Copa de 6 metros, zonas 4–8  
+- Nem toda conífera é sempre verde—coníferas caducas incluem lariço, cipreste-dos-pântanos, sequóia-do-amanhecer.
+- Nem toda árvore de folhas largas é caduca—árvores sempre verdes de folhas largas incluem magnólia-do-sul, azevinho, árvore-morango.
 
-#### Fonte de Sombra  
-- **Red Maple** (*Acer rubrum*): Copa de 12 metros, zonas 4–8  
-- **Katsura Tree** (*Cercidiphyllum japonicum*): Copa de 12 metros, zonas 5–8  
+#### Possíveis Conflitos
 
-#### Baixa Necessidade de Água Após Estabelecida  
-- **Hackberry** (*Celtis occidentalis*): Copa de 10,5 metros, zonas 6–9  
-- **Yellowwood** (*Cladrastis kentukea*): Copa de 10,5–13,5 metros, zonas 4–8  
-- **Turkish Filbert** (*Corylus colurna*): Copa de 7,5 metros, zonas 4–8  
-- **Eastern Redbud** (*Cercis canadensis*): Copa de 6 metros, zonas 4–8  
+- **Com outras plantas**: Considere até onde as raízes e galhos podem crescer—imagine a árvore daqui a 20 anos. As copas podem ser arredondadas, em formato de vaso ou de gota invertida; pense em como isso pode afetar outras plantas. Árvores de forma colunar ou fastigiada são melhores para espaços estreitos, enquanto árvores choronas criam recintos. As raízes de árvores maduras geralmente vão além do limite da copa.
+- **Com fios e construções**: Plante árvores a pelo menos 1 metro de calçadas, 4,5 metros de prédios e outras árvores, e se ela crescer mais de 9 metros, mantenha 7,5 metros de distância dos fios elétricos.
 
-### Para Mais Informações  
-- *Trees and Shrubs for Fall and Winter Bloom* (EM9277): [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- *Choosing the Right Tree* (International Society of Arboriculture): [https://www.treesaregood.org/treeowner/choosingtherighttree](https://www.treesaregood.org/treeowner/choosingtherighttree)  
+Árvores altas que chegam a mais de 18 metros devem ficar a pelo menos 10,5 metros da casa para o bom desenvolvimento das raízes.
 
-### Para Consultar Mestres Jardineiros™  
-Ligue para a Linha de Ajuda em Horticultura Residencial:  
-- Clackamas County: 503-655-8631  
-- Washington County: 503-821-1150  
-- Multnomah County: 503-445-4608  
+#### Solo e Água
 
-O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, nacionalidade, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, estado familiar/parental, renda proveniente de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represálias por atividades anteriores relacionadas a direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+As raízes precisam de ar e água. O ideal é que o solo tenha boa estrutura e permita a passagem de ar e água. As raízes das árvores maduras vão além da copa; escolha um lugar onde não fiquem cercadas por calçadas ou pisos impermeáveis.
+
+#### Benefícios Desejados
+
+As árvores embelezam com suas folhas, flores, frutos e casca. Mas esses benefícios podem vir acompanhados de resíduos indesejados. Plante a árvore onde suas qualidades sejam bem aproveitadas e os resíduos causem menos incômodo.
+
+### Árvores para Situações Especiais
+
+A publicação da Extensão da Oregon State University *Selecionando, Plantando e Cuidando de uma Nova Árvore* (EC1438) sugere árvores para condições específicas. Para baixar gratuitamente, acesse [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu).
+
+A 10-Minute University™ oferece *Boas Árvores para o Jardim de Casa* com mais sugestões de especialistas regionais em horticultura. Baixe grátis em [https://www.cmastergardeners.org/10-minute-university/](https://www.cmastergardeners.org/10-minute-university/).
+
+#### Lugares Difíceis (solo ruim, condições urbanas, variações de temperatura)
+
+- **Chuva-de-ouro** (*Koelreuteria paniculata*): Copa de 9 m, zona 5–9
+- **Espinheiro-sem-espinhos** (*Crataegus crusgalli inermis*): Copa de 7,5 m, zona 4–8
+
+#### Sob Fios de Energia
+
+- **Glorybower** (*Clerodendrum trichotomum*): Copa de 7,5 m, zona 6–8
+- **Cerejeira-do-japão** (*Cornus kousa*): Copa de 7,5 m, zona 5–8
+- **Bordo-videira** (*Acer circinatum*): Copa de 6 m, zona 4–8
+
+#### Fonte de Sombra
+
+- **Bordo-vermelho** (*Acer rubrum*): Copa de 12 m, zona 4–8
+- **Árvore Katsura** (*Cercidiphyllum japonicum*): Copa de 12 m, zona 5–8
+
+#### Pouca Necessidade de Água Após Estabelecida
+
+- **Lódão** (*Celtis occidentalis*): Copa de 10,5 m, zona 6–9
+- **Yellowwood** (*Cladrastis kentukea*): Copa de 11–13,5 m, zona 4–8
+- **Avelã-da-Turquia** (*Corylus colurna*): Copa de 7,5 m, zona 4–8
+- **Cercis Oriental** (*Cercis canadensis*): Copa de 6 m, zona 4–8
+
+### Para Mais Informações
+
+- *Árvores e Arbustos para Florescer no Outono e Inverno* (EM9277): [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+- *Escolhendo a Árvore Certa*, Sociedade Internacional de Arboricultura: [https://www.treesaregood.org/treeowner/choosingtherighttree](https://www.treesaregood.org/treeowner/choosingtherighttree)
+
+#### Dicas do Jardineiro Mestre™
+
+- **Ligue para o Plantão de Horticultura Doméstica:**
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+
+- Para outros folhetos e horários de aulas da 10-Minute University™, acesse [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Serviço de Extensão da Oregon State University · O Serviço de Extensão da Oregon State University proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
+---

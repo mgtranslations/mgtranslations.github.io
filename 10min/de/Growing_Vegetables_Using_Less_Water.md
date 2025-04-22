@@ -1,58 +1,107 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Gemüseanbau mit weniger Wasser  
+# Gemüseanbau mit weniger Wasser
 
-### Überblick  
-Die Abteilung für kleine Farmen der OSU Extension hat die Machbarkeit des „Trockenanbaus“ von Bio-Gemüse für den kommerziellen Anbau getestet. Trockenanbau nutzt die verbleibende Bodenfeuchtigkeit aus der Regenzeit, um Pflanzen anzubauen, und funktioniert am besten in Gebieten mit 20 Zoll oder mehr jährlichem Niederschlag. Erfolg erfordert eine sorgfältige Bewirtschaftung der Bodenfeuchtigkeit durch Standortwahl, Bodenaufbereitung und Schutz der Bodenoberfläche. Nicht alle Gemüsesorten sind für diesen Ansatz geeignet, daher ist die Sortenauswahl wichtig. Dieses Handout zieht Lehren aus dieser Forschung für Hobbygärtner, um Gemüse anzubauen und gleichzeitig Wasser und Boden zu sparen.  
+### Überblick
 
-### Standort vorbereiten  
-Erhöhen Sie die Wasserhaltekapazität des Bodens, indem Sie organisches Material hinzufügen (5–7 % sind ideal). Pflanzen Sie eine Herbst-Zwischenfrucht wie Rot- und Weißklee, Phacelia, Buchweizen. Schneiden Sie diese ab und arbeiten Sie sie im Frühling in den Boden ein. Das Hinzufügen von Kompost, sei es kommerziell oder selbstgemacht, ist eine weitere Möglichkeit. Wenn Ihr Gartenboden reich an Ton ist, nutzen Sie ihn. Tonboden hält mehr Wasser und Nährstoffe als andere Bodentypen. Verbessern Sie den Tonboden mit organischem Material, um ihn besser bearbeitbar zu machen. Für die Frühjahrsbepflanzung ist der Herbst die beste Zeit, um Ihren Standort vorzubereiten.  
+Die Abteilung für kleine Landwirtschaften der OSU Extension hat die Machbarkeit des sogenannten „Trockenanbaus“ von Bio-Gemüse im kommerziellen Bereich untersucht. Beim Trockenanbau wird auf die im Boden verbleibende Feuchtigkeit aus der Regenzeit zurückgegriffen, um Pflanzen wachsen zu lassen. Das funktioniert am besten in Gebieten mit mindestens 50 cm jährlichem Niederschlag. Für den Erfolg ist eine sorgfältige Bewirtschaftung der Bodenfeuchtigkeit durch Standortwahl, Bodenvorbereitung und Schutz der Bodenoberfläche wichtig. Nicht alle Gemüsesorten eignen sich für diese Methode, daher ist die Sortenwahl besonders wichtig. Dieses Merkblatt fasst die Ergebnisse dieser Forschung für Hobbygärtner zusammen, die Gemüse anbauen und gleichzeitig Wasser und Boden schonen möchten.
 
-### Verlust von Bodenfeuchtigkeit minimieren  
-Decken Sie die Bodenoberfläche mit einer Schicht organischen Mulchs ab, um das Austrocknen zu verhindern. Organischer Mulch hilft, den Boden kühl zu halten und sollte erst angewendet werden, wenn die Pflanzen zu wachsen beginnen. Beispiele sind kommerziell kompostierte Gartenabfälle, eigener Kompost, Rasenschnitt (wenn dieser frei von Herbiziden oder Pestiziden ist), Weizenstroh oder gehackte Blätter. Karton, Jutesäcke und Zeitungspapier sind ebenfalls Optionen.  
-Anorganische Mulche wie rotes und schwarzes Plastik können verwendet werden, um den Boden zu erwärmen, Verdunstung und Unkrautwachstum zu verhindern. Mulch bietet Lebensraum für Schnecken; verwenden Sie ungiftiges Schneckenköder.  
-Halten Sie den Boden unkrautfrei, um die Konkurrenz um Nährstoffe und Wasser zu verringern.  
-Halten Sie die obersten 2 Zoll des Bodens um die Pflanzen locker, indem Sie hacken, um „Staubmulch“ zu erzeugen. Das Lockern des Bodens hilft, Risse im Boden zu schließen und so die Verdunstung zu verringern.  
-Gehen Sie nicht auf Flächen, auf denen Pflanzen wachsen, um Verdichtung zu vermeiden und die Wasserhaltekapazität des Bodens zu erhalten.  
+---
 
-### Techniken zur effizienten Nutzung von Bewässerungswasser  
-Verwenden Sie Tropfbewässerung, um Verdunstung zu minimieren und Wasser gezielt zuzuführen.  
-Gruppieren Sie Pflanzen entsprechend ihrem Wasserbedarf in Zonen.  
-Verwenden Sie Bewässerungs-Timer, um die Frequenz und das Volumen der Wasserzufuhr zu regulieren; zonenbasierte Steuerung erhöht die Effizienz.  
-Um Verdunstung zu reduzieren, bewässern Sie früh morgens, bevor der Boden und die Luft sich erwärmen.  
+### Den Standort vorbereiten
 
-### Zeitpunkt der Pflanzung  
-Verlassen Sie sich auf die Bodenfeuchtigkeit und -temperatur, um zu bestimmen, wann Sie mit der Pflanzungsvorbereitung beginnen. Um die Feuchtigkeit zu testen, drücken Sie eine Handvoll Erde zusammen. Wenn sie in einer Kugel bleibt, aber leicht zerfällt, ist sie bereit.  
-Verwenden Sie ein Bodenthermometer, um zu bestimmen, wann Sie Samen pflanzen sollten. Konsultieren Sie einen Pflanzkalender oder die Samenpackung für spezifische Temperaturanforderungen.  
-Oft sind geeignete Sorten nicht kommerziell erhältlich oder nicht rechtzeitig für die Pflanzung verfügbar. Starten Sie Samen drinnen, damit die Pflanzen einen Vorsprung vor der Hitze bekommen.  
-Pflanzen Sie Sorten, die früh reifen, bevor die Sommerhitze einsetzt. Einige können auch im Spätsommer für die Herbsternte gepflanzt werden. Beispiele sind Kopfsalat, Kohl, Mangold und Brokkoli.  
-Verwenden Sie Glocken, „Walls-o-Water“ und Frühbeete, um wärmeliebende Pflanzen wie Tomaten, Paprika und Melonen früher zu starten.  
-Probieren Sie Winterkulturen wie lila Sprossenbrokkoli, Kohl, Radicchio usw.  
+- Erhöhe die Wasserspeicherfähigkeit des Bodens durch Zugabe von organischer Substanz (5–7 % sind ideal).
+- Baue im Herbst eine Gründüngung wie Rot- und Weißklee, Phacelia oder Buchweizen an. Schneide sie im Frühjahr ab und arbeite sie in den Boden ein.
+- Kompost, egal ob gekauft oder selbst gemacht, ist eine weitere Möglichkeit.
+- Wenn dein Gartenboden viel Ton enthält, nutze dies. Tonboden speichert mehr Wasser und Nährstoffe als andere Böden. Mische organische Substanz unter, damit er besser zu bearbeiten ist.
+- Für die Frühjahrsaussaat ist die beste Zeit zur Vorbereitung des Bodens der Herbst.
 
-### Besondere Pflanztechniken anwenden  
-Weichen Sie große Samen vor dem Pflanzen über Nacht ein; dies beschleunigt die Keimung.  
-Drücken Sie vor dem Pflanzen kleiner Samen die Bodenoberfläche vorsichtig und fest mit einem Brett. Dies soll die kapillare Wirkung des Bodens erhöhen, wodurch Feuchtigkeit an die Oberfläche gelangt, wo Samen und Pflanzenwurzeln darauf zugreifen können. Aus demselben Grund drücken Sie den Boden um Pflanzen herum, wenn Sie diese umpflanzen.  
-Pflanzen Sie in Blöcken statt in Reihen. Pflanzen Sie dicht zusammen, um den Boden zu beschatten. Platzieren Sie kleinere Pflanzen im Schatten von größeren.  
-Wenn Sie ohne regelmäßige Bewässerung anbauen möchten, pflanzen Sie weiter auseinander – doppelt so weit wie normal, um die Konkurrenz um Wasser und Nährstoffe zu verringern.  
+---
 
-### Dürretolerante Gemüsesorten auswählen  
-Erbstück-Gemüsesorten können dürretoleranter sein, wenn sie vor der Einführung von fließendem Wasser für die Bewässerung entwickelt wurden. Probieren Sie Sorten aus, die von Trockenbauern empfohlen werden (besuchen Sie die OSU Dry Farm Program-Websites unten). Pflanzen Sie mehr rankende Kulturen wie Kürbis, Bohnen (Trocken-Schalensorten), Erbsen, Melonen; diese benötigen oft weniger Wasser. Ziehen Sie schließlich in Betracht, lokal angebaute Samen zu verwenden. Obwohl sie nicht speziell für Dürrebedingungen gezüchtet werden, sind sie eher an das lokale Klima angepasst.  
+### Den Verlust von Bodenfeuchtigkeit minimieren
 
-### Ressourcen  
-- **Trockenanbau im maritimen Nordwesten**, Einführung in den Trockenanbau von Bio-Gemüse, OSU Extension Publikation EM9229, [Link](https://catalog.extension.oregonstate.edu/)  
-- **Website**: [smallfarms.oregonstate.edu/dry-farming-resources](http://smallfarms.oregonstate.edu/dry-farming-resources)  
-- **Water-Wise Vegetables** von Steve Solomon  
-- **Growing Vegetables West of the Cascades** von Steve Solomon  
-- **Gardening without Irrigation: or without much, anyway** von Steve Solomon  
-- **The Resilient Gardener: Food Production and Self-Reliance in Uncertain Times** von Carol Deppe  
-- **Regionale Samenquellen**: Adaptive Seeds, Territorial Seeds, Abundant Life Seeds, New Dimension Seeds, Nichols Garden Nursery, Peace Seeds, Siskiyou Seeds  
+- Bedecke die Bodenoberfläche mit einer Schicht organischen Mulchs, damit sie nicht austrocknet. Organischer Mulch hält den Boden kühl und sollte deshalb erst nach dem Pflanzen ausgebracht werden. Beispiele sind:
+  - Kompostierte Gartenabfälle (gekauft)
+  - Eigenproduzierter Kompost
+  - Rasenschnitt (ohne Herbizide oder Pestizide)
+  - Stroh oder zerkleinerte Blätter
+  - Auch Karton, Jutesäcke und Zeitungspapier sind möglich.
+- Anorganischer Mulch wie rote und schwarze Folie kann verwendet werden, um den Boden zu erwärmen, Verdunstung zu verhindern und Unkrautwuchs zu hemmen.
+- Mulch bietet Lebensraum für Schnecken; setze ungiftige Schneckenköder ein.
+- Halte das Beet unkrautfrei, damit keine Konkurrenz um Wasser und Nährstoffe entsteht.
+- Lockere die obersten 5 cm des Bodens rund um die Pflanzen mit der Hacke, damit eine „Staubmulch“-Schicht entsteht. So werden Bodenrisse geschlossen und Verdunstung reduziert.
+- Vermeide es, auf den Beeten zu laufen, damit der Boden nicht verdichtet wird und seine Wasserspeicherfähigkeit erhalten bleibt.
 
-### Master Gardener™ Beratung  
-- Rufen Sie die Home Horticulture Helpline an:  
-  - **503-655-8631** (Clackamas County)  
-  - **503-821-1150** (Washington County)  
-  - **503-445-4608** (Multnomah County)  
-- Besuchen Sie [cmastergardeners.org](http://www.cmastergardeners.org) für 10-Minuten-Universitäts™-Videos und Handouts.  
+---
 
-Die Oregon State University Extension Service untersagt Diskriminierung in all ihren Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Vergeltungsmaßnahmen für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme).
+### Methoden zur effizienten Nutzung von Gießwasser anwenden
+
+- Verwende Tropfbewässerung, um Verdunstung zu minimieren und Wasser gezielt dorthin zu bringen, wo es gebraucht wird.
+- Fasse Pflanzen mit ähnlichem Wasserbedarf in Zonen zusammen.
+- Nutze Bewässerungs-Timer, um Menge und Häufigkeit zu steuern; gezielte Steuerung nach Zonen verbessert die Effizienz.
+- Gieße möglichst früh am Morgen, bevor sich Boden und Luft aufwärmen, um Verdunstung zu verringern.
+
+---
+
+### Den richtigen Zeitpunkt für die Aussaat wählen
+
+- Richte dich nach Bodenfeuchtigkeit und -temperatur, um zu entscheiden, wann du mit der Vorbereitung beginnst.
+  - Um die Feuchtigkeit zu prüfen, presse ein Stück Erde in der Hand. Bleibt es als Ball zusammen, zerfällt aber leicht, ist der Boden bereit.
+  - Verwende ein Bodenthermometer, um den richtigen Zeitpunkt für die Aussaat zu bestimmen.
+- Sieh in einen Aussaatkalender oder auf die Samenpackung, um die genauen Temperaturanforderungen zu erfahren.
+- Passende Sorten sind oft nicht im Handel erhältlich oder nicht zur richtigen Zeit verfügbar. Ziehe deshalb Pflanzen drinnen vor, damit sie einen Vorsprung bekommen.
+- Baue Sorten an, die früh reifen, also vor der Sommerhitze. Einige können auch im Spätsommer für die Herbsternte gepflanzt werden. Beispiele:
+  - Kopfsalat
+  - Kohl
+  - Mangold
+  - Brokkoli
+- Verwende Frühbeete, „Wasserwände“ oder Folientunnel, um wärmeliebende Pflanzen wie Tomaten, Paprika und Melonen früher zu pflanzen.
+- Probiere Wintergemüse wie lila Sprossenbrokkoli, Kohl, Radicchio usw.
+
+---
+
+### Besondere Pflanztechniken anwenden
+
+- Weiche große Samen über Nacht in Wasser ein, um die Keimung zu beschleunigen.
+- Drücke vor der Aussaat kleiner Samen die Bodenoberfläche leicht mit einem Brett fest. Das soll die Kapillarwirkung fördern, sodass Feuchtigkeit zur Oberfläche gelangt, wo Samen und Wurzeln sie aufnehmen können.
+- Aus demselben Grund die Erde um die Wurzeln beim Auspflanzen leicht andrücken.
+- Pflanze in Blöcken statt in Reihen. Setze die Pflanzen dicht, damit der Boden beschattet wird. Kleinere Pflanzen können im Schatten größerer stehen.
+- Wenn du ohne regelmäßige Bewässerung gärtnern möchtest, pflanze weiter auseinander – doppelt so weit wie sonst –, um die Konkurrenz um Wasser und Nährstoffe zu verringern.
+
+---
+
+### Wähle trockenheitsverträgliche Gemüsesorten
+
+- Alte Gemüsesorten sind oft trockentoleranter, wenn sie vor der modernen Bewässerung entstanden sind.
+- Probiere Sorten, die von Trocken-Anbauern empfohlen werden (siehe die unten genannten OSU-Programme).
+- Baue mehr rankende Kulturen an wie Kürbis, Bohnen (Trockensorten), Erbsen und Melonen; sie brauchen oft weniger Wasser.
+- Verwende, wenn möglich, regional erzeugtes Saatgut. Auch wenn es nicht speziell für Trockenheit gezüchtet wurde, ist es oft besser an das lokale Klima angepasst.
+
+---
+
+### Ressourcen
+
+- **Trockenanbau im maritimen Nordwesten, Einführung in den Trockenanbau von Bio-Gemüse**, OSU Extension Publikation EM9229: [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+- Webseite: [http://smallfarms.oregonstate.edu/dry-farming-resources](http://smallfarms.oregonstate.edu/dry-farming-resources)
+- **Bücher von Steve Solomon**:
+  - *Water-Wise Vegetables*
+  - *Growing Vegetables West of the Cascades*
+  - *Gardening without Irrigation: or without much, anyway*
+- **The Resilient Gardener: Food Production and Self-Reliance in Uncertain Times** von Carol Deppe
+- **Regionale Saatgutquellen**:
+  - Adaptive Seeds
+  - Territorial Seeds
+  - Abundant Life Seeds
+  - New Dimension Seeds
+  - Nichols Garden Nursery
+  - Peace Seeds
+  - Siskiyou Seeds
+
+---
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline anrufen: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für weitere 10-Minuten-Universität™ Merkblätter und Kurspläne besuche [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Gründe gelten für alle Programme.)
+---

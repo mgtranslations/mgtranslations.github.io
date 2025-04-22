@@ -1,87 +1,152 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta para sa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association kasama at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Mga Annuals, Biennials, at Perennials  
+# Annuals, Biennials, & Perennials
 
-### Pangkalahatang Ideya  
-Ang mga hardinero ay may maraming pagpipilian – kung minsan ay sobra pa – para sa kanilang mga ornamental flower gardens, na kadalasang tinutukoy ng uri ng pamumuhay ng halaman.  
+### Pangkalahatang-ideya
 
-- **Annuals**: Nabubuhay ang mga annual plants para sa isang season lamang. Gayunpaman, inaasahan natin na magbibigay sila ng maraming magaganda at makukulay na bulaklak bago sila mamatay.  
-- **Biennials**: Nabubuhay ang mga biennials ng dalawang taon. Sa unang taon, gumagawa lamang sila ng maikling tangkay at dahon, at magbubulaklak sa pangalawang taon.  
-- **Perennials**: Nabubuhay ang perennial plants ng tatlong taon o higit pa, kadalasang nagsisimula ng kanilang unang cycle ng pamumulaklak sa ikalawang taon. Ang mga short-lived ay tumatagal lamang ng ilang taon, habang ang mga long-lived ay maaaring mabuhay ng dekada.  
+Maraming pagpipilian ang mga hardinero—minsan ay masyadong marami—para sa kanilang ornamental na hardin ng mga bulaklak, na kadalasang nakabatay sa uri ng pamumuhay ng mga halaman.
 
-### Pagpili ng Iyong Mga Halaman  
-Kapag bumibili ng mga annuals, biennials, at perennials, pumili ng malulusog na halaman na may hydrated na dahon at malusog na berdeng kulay.  
+- **Mga annual na halaman** ay nabubuhay lamang ng isang season. Kahit ganito, inaasahan natin na magbibigay ito ng maraming magagandang bulaklak nang matagal bago mamatay.
+- **Mga biennial** ay nabubuhay ng dalawang taon. Sa unang taon ay dahon at maikling tangkay lang ang lumalabas, tapos namumulaklak sa ikalawang taon.
+- **Mga perennial na halaman** ay nabubuhay ng tatlo o higit pang taon, kadalasan ay unang namumulaklak sa ikalawang taon. Ang mga maikli ang buhay ay namumunga lang ng ilang taon, habang ang mga matibay ay maaaring tumagal ng mga dekada.
 
-1. Dapat creamy-white ang kulay ng mga ugat; suriin ang kondisyon sa pamamagitan ng pag-slide ng root ball mula sa paso, pagkatapos ay maingat itong ibalik.  
-2. Iwasan ang mga halaman na may sirang tangkay; tuyong, nalalanta, o dilaw na dahon; o pinsala mula sa mga insekto o sakit. Dapat punuin ng halaman ang lalagyan ngunit hindi dapat lumabas ang ugat mula sa mga drainage holes.  
+---
 
-**Tip**: Mas magandang pumili ng compact, well-branched, at may maraming buds na halaman kaysa sa mga nasa full bloom. Bagamat maaantala ang pamumulaklak, mas tatagal ang halaman at mas magiging masagana ang bulaklak nito.  
+## Pagpili ng Iyong mga Halaman
 
-### Mga Biennials at Perennials  
-Hanapin ang mga biennials sa seksyon ng annual o perennial. Ang mga sikat na biennials ay foxglove, gayundin ang iba’t ibang campanulas tulad ng Canterbury bell at chimney flower.  
+Kapag bumibili ng iyong mga annual, biennial, at perennial, pumili ng malulusog na halaman na may:
 
-Ang mga perennials, evergreen man o deciduous, ay maaaring hardy (nakakayanan ang frost) o tender (nasasaktan ng frost). Sa ating rehiyon, ang mga hardy perennials ay may label para sa USDA zone 7 o 8, o Sunset zone 6.  
+- Ganap na hydrated na mga dahon at malusog na berdeng kulay.
+- Ugat na ang dulo ay kulay cream-puti. Suriin ito sa pamamagitan ng maingat na paghila ng root ball mula sa paso, at ibalik nang maayos.
 
-Ang tender perennials ay maaaring magdagdag ng kagandahan sa iyong hardin; itanim ang mga ito na parang annuals. Para magamit muli sa susunod na season, ilagay sila sa protektadong lugar sa taglamig.  
+### Iwasan ang mga halaman na may:
 
-### Mga Bulaklak na Bulbs  
-Maraming flower bulbs ang mga maaasahang perennials sa ating lugar, tulad ng daffodils at crocus. Ang lilies at dahlias ay mahusay din; itanim ang lilies ng 4 hanggang 6 pulgada ang lalim, at ang dahlias ng 7 hanggang 8 pulgada.  
+- Naputol na mga tangkay.
+- Tuyot, nalalanta, o dilaw na mga dahon.
+- Pinsala mula sa insekto o sakit.
+- Mga ugat na nakalabas sa drainage holes (madalas ay senyales na masyadong matagal sa paso ang halaman).
 
-Ang tulips ay karaniwang hindi bumabalik sa pangalawang taon maliban kung sila ay nasa lugar na nananatiling tuyo sa tag-araw. Ang mas maliliit na species ng tulips ay mas maaasahan kaysa sa mas malalaking hybrid.  
+### Mga Tip sa Pagpili
 
-### Pagpili ng Lugar para sa Pagtatanim  
-Ang label ng biniling transplant ay karaniwang nagsasaad ng pinakamahusay na kondisyon ng araw o lilim, gayundin ang basa o tuyong lupa.  
+- **Annuals:** Pumili ng compact, maraming sanga, at maraming usbong kaysa yung namumulaklak na. Mas matagal bago mamulaklak pero mas tatagal ang buhay at mas marami ang bulaklak.
+- **Biennials:** Hanapin sa seksyon ng annual o perennial. Sikat na pagpipilian ang foxglove at iba’t ibang campanula tulad ng Canterbury bell at chimney flower.
+- **Perennials:**
+  - Nahahati sa hardy (nabubuhay kahit malamig) at tender (nasasaktan sa lamig).
+  - Sa ating lugar, ang hardy perennials ay may label na USDA zone 7 o 8, o Sunset zone 6.
+  - Ang tender perennials ay maaaring palakihin bilang annuals o ilagay sa ligtas na lugar tuwing tag-lamig.
 
-- Karamihan sa mga annuals, biennials, at perennials ay mahusay sa umagang sikat ng araw na may proteksyon sa mainit na sikat ng araw sa hapon; ang minimum na 4 na oras ng maliwanag na liwanag ay sapat, ngunit 6 na oras ay mas mainam.  
-- Ang lahat ng halaman ay mas maganda sa lupa na may maayos na drainage.  
+### Bulaklak na Ugat (Bulbs)
 
-### Pagtatanim  
-Ang ilang annuals, biennials, at perennials ay maaaring itanim nang direkta sa hardin mula sa buto, habang ang iba ay mas mainam na simulan sa loob ng bahay. Ang packet ng buto ay magsasaad ng pinakamahusay na oras ng pagtanim at espasyo sa hardin.  
+- Maaasahang perennials ang daffodil, crocus, lily, at dahlia.
+- Madalas na hindi bumabalik ang tulips maliban kung itinanim sa lugar na tuyo tuwing tag-init. Ang species tulips ay mas maaasahan kaysa malalaking hybrid.
 
-Maaari ding bumili ng mga batang transplant para sa agarang kasiyahan.  
+---
 
-- Para sa karamihan ng mga halaman, pinakamahusay silang itanim sa parehong lalim mula sa kanilang orihinal na paso.  
-- Ihanda ang garden bed sa pamamagitan ng pag-alis ng mga bato at damo, at pagdagdag ng dalawang pulgada ng compost upang mapabuti ang drainage sa clay soils at retention ng tubig sa sandy soils.  
+## Pagpili ng Lugar ng Pagtataniman
 
-**Tip**: Siguraduhing basa ang halaman at ang root system bago itanim sa moist garden soil.  
+Karaniwan, nakasulat sa label ng biniling halaman ang pinakamainam na kondisyon para sa:
 
-Maglagay ng pataba sa lupa habang itinatanim ang bawat halaman. Gumamit ng slow-release fertilizer o kombinasyon ng all-purpose fertilizer at bone meal. Sundin ang mga direksyon sa label para sa tamang dami.  
+- **Araw o lilim.**
+- **Basa o tuyong lupa.**
 
-### Pagdidilig  
-- Ang mga annuals ay may mababaw na ugat, kaya madalas silang nangangailangan ng pagdidilig. Ang pagkalanta, kahit kaunti lamang, ay permanenteng nakakapinsala sa halaman.  
-- Ang mga biennials at perennials ay nangangailangan ng regular na pagdidilig sa unang season upang masigurado ang matibay na root system. Dapat mabasa ang buong root zone, mga 12 hanggang 15 pulgada ang lalim.  
+Karamihan sa mga annual, biennial, at perennial ay lumalago ng maayos kapag may:
 
-**Tip**: Magdilig nang maaga sa araw upang matuyo ang mga dahon bago maggabi; mas mainam na magdilig sa base ng halaman.  
+- Umaga na may araw at protektado sa init ng hapon (minimum 4 na oras ng maliwanag na ilaw, mas maganda ang 6 na oras).
+- Lupa na hindi binabaha.
 
-### Paglalagay ng Pataba  
-- Ang mga annuals ay nangangailangan ng regular na paggamit ng water-soluble, all-purpose fertilizer isang beses o dalawang beses sa isang buwan.  
-- Ang mga biennials at perennials ay kadalasang maayos kahit walang karagdagang pataba.  
+---
 
-**Babala**: Huwag maglagay ng pataba sa biennials at perennials sa taglagas upang maiwasan ang bagong paglago na maaaring masira ng lamig.  
+## Pagtatanim
 
-### Pangangalaga sa Tag-init  
-Ang ilang annuals, tulad ng impatiens at fibrous begonias, ay self-cleaning. Ngunit karamihan sa mga annuals ay kailangang deadheaded o alisin ang mga tuyong bulaklak.  
+### Mula sa Butil
 
-Kapag hindi ginawa ito, magsisimula silang gumawa ng buto at titigil sa pamumulaklak. Ang mga perennials ay kailangang deadheaded din upang magpatuloy ang pamumulaklak hangga’t maaari.  
+- Ang ilang annual, biennial, at perennial ay maaaring itanim direkta sa hardin, ang iba naman ay mas maganda magsimula sa loob ng bahay.
+- Basahin ang seed packet para sa tamang panahon at agwat ng pagtatanim.
 
-### Pangangalaga sa Taglagas  
-- Ang mga annuals ay tinatanggal at kinokompost sa pagtatapos ng season.  
-- Ang mga first-season biennials ay mag-iiwan ng rosette ng berdeng dahon na magpapatuloy sa taglamig. Tanggalin lamang ang anumang dilaw na dahon.  
+### Mula sa Transplants
 
-Ang karamihan ng mga herbaceous perennials ay maaaring putulin hanggang sa lupa sa huling bahagi ng taglagas, ngunit ang ibang may magagandang seed heads ay maaaring iwanan para sa mga ibon o para sa winter interest.  
+- Itanim sa parehong lalim kung paano ito nakatanim sa paso.
+- Ihanda ang taniman sa pamamagitan ng:
+  - Pagtanggal ng mga bato at damo.
+  - Paglalagay ng hindi bababa sa 2 pulgada ng compost para gumanda ang daloy ng tubig sa clay soil at mapanatiling basa ang sandy soil.
+  - Magdagdag muli ng compost sa bawat panahon ng pagtatanim.
 
-Ang evergreen perennials ay kadalasang pinuputol sa tagsibol bago magsimula ang bagong paglago.  
+### Karagdagang Tips
 
-## Karagdagang Impormasyon  
-Maraming aklat tungkol sa pag-aalaga ng annuals, biennials, at perennials ang makukuha sa mga aklatan at tindahan ng aklat.  
+- Siguraduhing basa ang halaman at ugat bago itanim sa basang lupa ng hardin.
+- Ihalo ang pataba sa lupa sa pagtatanim. Gumamit ng slow-release fertilizer o pinagsamang all-purpose fertilizer at bone meal (sundin ang label).
+- Gumamit ng pataba na hinaluan ng tubig sa kalahating lakas para tumulong sa pag-settle ng lupa sa paligid ng ugat.
 
-### Mga Rekomendasyon:  
-- *Armitage’s Annuals: A Color Encyclopedia* ni Allan M. Armitage  
-- *Herbaceous Perennial Plants* ni Allan M. Armitage  
-- *The Well-Tended Perennial Garden* ni Tracy DiSabato-Aust  
+---
 
-### Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), o 503-445-4608 (Multnomah County).  
-- Bisitahin ang www.cmastergardeners.org o www.metromastergardeners.org para sa higit pang impormasyon.
+## Pagdidilig
+
+- **Annuals:**
+  - Mababaw ang ugat kaya mas madalas kailangang diligan.
+  - Iwasan ang pagkalanta dahil hindi na makakabawi ang halaman at kokonti ang bulaklak.
+- **Biennials at Perennials:**
+  - Kailangan ng regular na pagdidilig sa unang taon para lumakas ang ugat.
+  - Diligan ng malalim para mabasa ang ugat ng 12–15 pulgada ang lalim.
+  - Diligan sa umaga para matuyo ang dahon bago dumilim. Sa base ng halaman magdilig para sa pinakamagandang resulta.
+
+---
+
+## Pagpapataba
+
+### Annuals
+
+- Nakikinabang sa regular na pataba na natutunaw sa tubig na all-purpose, isang beses o dalawang beses bawat buwan.
+- Dagdagan ang pataba kung hindi lumalago ng maayos ang halaman.
+
+### Biennials at Perennials
+
+- Maayos ang paglago kahit kaunti o walang dagdag na pataba.
+- Iwasan ang pagpapataba sa taglagas para hindi tumubo ang bagong sanga na maaaring masira ng lamig.
+
+---
+
+## Pag-aalaga sa Tag-init
+
+- Ang ilang annual (hal. impatiens at fibrous begonias) ay hindi kailangang tanggalan ng bulaklak dahil kusang natatanggal ang mga lanta.
+- Karamihan sa annual at perennial ay kailangang tanggalan ng lanta o tuyong bulaklak para hindi magbunga ng buto at mas tumagal ang pamumulaklak.
+- Linisin ang halaman sa pagtanggal ng mga namamatay o patay na dahon at sanga.
+
+---
+
+## Pag-aalaga sa Taglagas
+
+- **Annuals:** Alisin at itapon o i-compost pagkatapos ng season.
+- **Biennials:** Sa unang taon, magkakaroon ng rosette ng berdeng dahon na magtatagal hanggang taglamig. Alisin ang mga dilaw na dahon kapag kinakailangan.
+- **Perennials:**
+  - Putulin ang karamihan sa herbaceous perennials hanggang lupa tuwing huling bahagi ng taglagas maliban kung may magagandang buto o ornamental na damo para sa interes sa taglamig.
+  - Ang ilang perennials ay mababagal lumitaw sa tagsibol; iwanan ang bahagi ng tangkay bilang palatandaan.
+  - Ang evergreen perennials ay karaniwang pinuputol tuwing tagsibol bago magsimulang tumubo ang bagong dahon.
+
+### Paghahati ng Perennials
+
+- Kailangang hatiin ang perennials na namumuo nang siksikan, kaunti na ang bulaklak, o bumababa ang sigla.
+- Hatiin at itanim muli sa bagong lupa bago magsimulang tumubo ang bagong dahon.
+- Ang iba, tulad ng peonies at hostas, ay maayos ang paglago sa parehong lugar ng maraming taon.
+
+---
+
+## Karagdagang Impormasyon
+
+Maraming libro tungkol sa pagtatanim ng annuals, biennials, at perennials ang makikita sa mga aklatan at tindahan. Mga inirerekomendang pamagat:
+
+- *Armitage’s Annuals: A Color Encyclopedia* ni Allan M. Armitage
+- *Armitage’s Manual of Annuals, Biennials, and Half-Hardy Perennials* ni Allan M. Armitage
+- *Herbaceous Perennial Plants* ni Allan M. Armitage
+- *Garden Perennials* ni Allan M. Armitage
+- *The Well-Tended Perennial Garden* ni Tracy DiSabato-Aust
+- *Sunset Western Garden Book*
+- *The AHS A-Z Encyclopedia of Garden Plants*
+
+---
+
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuan sa pag-aasawa, kalagayan ng pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genetika, katayuan bilang beterano, pagganti, o paghingi ng hustisya para sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
+---

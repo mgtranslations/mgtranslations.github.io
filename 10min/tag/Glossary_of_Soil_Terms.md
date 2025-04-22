@@ -1,89 +1,199 @@
-# Lupa  
-## Talahulugan ng mga Termino  
-Para sa kumpletong nilalaman ng talahulugan, tingnan ang publikasyon ng Washington State University Extension EM063E  
-**Isang Gabay ng Hardinero sa Lupa at Pataba.**  
+#### 10-Minute University™ · Clackamas County Master Gardener Association · Sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program
 
-### Mga Termino  
-**aeration**—Isang proseso kung saan ang hangin ay ikinakalat, hinahalo, o tinutunaw sa isang substansya (lupa).  
+# Glosaryo ng mga Terminong Panglupa
 
-**aggregation**—Ang proseso ng buhangin, banlik, luwad, at organikong materyal na bumubuo ng mga kumpol o tinatawag ding peds.  
+Para sa kumpletong nilalaman ng glosaryo, tingnan ang publikasyon ng Washington State University Extension EM063E: *Gabay ng Home Gardener sa Lupa at Pataba*.
 
-**biosolids**—Mga produkto ng paggamot sa munisipal na wastewater na naglalaman ng sustansya, organikong materyal, at mga inorganikong sangkap. Ang Class A biosolids ay ginamot upang alisin ang mga pathogen at angkop para gamitin sa mga hardin at tanawin. Ang biosolids composts at blends ay mga pandagdag sa lupa, habang ang mga pinatuyong biosolids na produkto ay ginagamit bilang mga pataba.  
+---
 
-**capillary force**—Ang aksyon kung saan ang mga molekula ng tubig ay dumidikit sa ibabaw ng mga particle ng lupa at sa isa't isa, kaya't pinapanatili ang tubig sa micropores laban sa puwersa ng gravity.  
+## Glosaryo
 
-**carbon sequestration**—Nangyayari kapag ang mga halaman ay nag-aalis ng CO2 mula sa atmospera, at ang carbon ay iniimbak sa mga halaman at lupa. Isa itong paraan upang mabawasan ang CO2 sa atmospera at maibsan ang pagbabago ng klima.  
+### Aeration
 
-**clay**—Ang pinakamaliit na uri ng pangunahing particle ng lupa (mas mababa sa 0.002 mm ang diameter).  
+Isang proseso kung saan ang hangin ay pinaikot, hinalo, o tinunaw sa isang bagay (lupa).
 
-**composting (cold & hot)**—  
-A. Ang cold composting ay isang mabagal na proseso na kinapapalooban ng paggawa ng compost pile at pag-iwan dito upang mabulok nang isang taon o higit pa. Hindi nito kayang patayin ang mga binhi ng damo o mga pathogen.  
-B. Ang hot composting ay gumagawa ng compost sa loob ng dalawa hanggang apat na buwan. Ang init ay pinananatili sa pamamagitan ng paghahalo ng balanseng dami ng mga materyal na may enerhiya (berde) at mga ahente ng bulking (kayumanggi), pagpapanatili ng kahalumigmigan ng compost pile, at madalas na paghalu-halo nito.  
+### Aggregation
 
-**compaction**—Ang presyon na nagpapasiksik sa lupa sa mga layer na mahirap pasukin ng mga ugat at tubig. Karaniwang resulta ito ng pag-apak o trapiko ng makina, ngunit sanhi rin ng ulan sa hubad na lupa.  
+Ang proseso ng pagsasama-sama ng buhangin, lusak, luwad, at organikong bagay upang bumuo ng mga kumpol, na tinatawag ding peds.
 
-**compost**—Stabilized na organikong materyal na ginawa sa pamamagitan ng kontroladong biological decomposition ng mga organikong materyales. Ang compost ay maaaring gamitin bilang pandagdag sa lupa upang magdagdag ng organikong materyal at dahan-dahang maglabas ng sustansya o bilang malts na kalaunan ay hinahalo sa lupa.  
+### Biosolids
 
-**cover crop**—Mga halaman na itinatanim upang protektahan ang lupa mula sa pag-agos ng tubig at erosion, at magdagdag ng organikong materyal sa lupa.  
+Mga produkto mula sa pagproseso ng tubig dumi ng lungsod na naglalaman ng sustansya, organikong bagay, at inorganic na sangkap.
 
-**decomposition**—Ang pagkasira ng mga organikong materyal sa pamamagitan ng mga microorganism.  
+- **Class A biosolids**: Pinroseso upang alisin ang mga mikrobyo at ligtas gamitin sa hardin at taniman.
+- **Paggamit**: Ang mga compost at halo ng biosolids ay gamit bilang pampataba ng lupa, habang ang tuyo at pinrosesong biosolids ay ginagamit bilang pataba.
 
-**dolomitic limestone**—Isang uri ng limestone na naglalaman ng magnesium pati na rin calcium.  
+### Capillary Force
 
-**fertilizer**—Isang natural o sintetikong produkto na idinadagdag sa lupa upang magbigay ng sustansya sa halaman.  
+Ang kilos kung saan ang mga molekula ng tubig ay dumikit sa mga ibabaw ng maliit na bahagi ng lupa at sa isa’t isa, kaya naitatabi ang tubig sa maliliit na butas ng lupa laban sa puwersa ng grabidad.
 
-**fertilizer analysis**—Ang dami ng pangunahing sustansya (nitrogen (N), phosphorus (P), at potassium (K)) na kailangan ng mga halaman sa malaking dami at ipinapahayag bilang porsyento ng timbang ng pataba.  
+### Carbon Sequestration
 
-**green manure**—Mga cover crop na itinatanim upang isama sa lupa para sa benepisyo ng sustansya at organikong materyal, o iniiwan sa ibabaw ng lupa bilang malts.  
+Nangyayari kapag ang mga halaman ay nag-aalis ng CO₂ mula sa hangin at iniimbak ang carbon sa mga halaman at lupa. Isa ito sa mga paraan upang mabawasan ang CO₂ sa atmospera at makatulong sa pagbabago ng klima.
 
-**infiltration**—Ang paggalaw ng tubig sa loob ng lupa.  
+### Clay
 
-**leaching**—Paggalaw ng tubig at natutunaw na sustansya pababa sa profile ng lupa.  
+Ang pinakamaliit na pangunahing bahagi ng lupa (mas maliit sa 0.002 mm ang diyametro).
 
-**lime**—Durog na limestone rock (calcium carbonate, CaCO3) na inilalapat sa lupa upang itaas ang pH.  
+### Composting (Malamig at Mainit)
 
-**loam**—Isang lupa na may halos pantay na dami ng buhangin, banlik, at luwad na particle.  
+- **Cold Composting**: Mabagal na proseso kung saan binubuo ang bunton ng compost at hinahayaan itong mabulok sa loob ng isang taon o higit pa. Hindi nito napapatay ang mga buto ng damo o mikrobyo.
+- **Hot Composting**: Naitatapos ang compost sa loob ng dalawa hanggang apat na buwan. Ang init ay pinananatili sa pamamagitan ng paghahalo ng tamang dami ng berdeng materyal (may enerhiya) at kayumangging materyal (bulking agent), pagpapanatiling mamasa-masa ng bunton, at madalas na paghalo.
 
-**macropore**—Isang malaking pore sa lupa. Kasama sa macropores ang mga channel ng bulati at ugat, at kinokontrol nito ang permeability at aeration ng lupa.  
+### Compaction
 
-**micronutrient/trace element**—Isang sustansya na ginagamit ng mga halaman sa maliit na dami (iron, zinc, molybdenum, manganese, boron, copper, at chlorine).  
+Puwersang nagpapadikit sa lupa na nagiging sanhi upang mahirapang tumubo ang ugat at makalusot ang tubig. Madalas dulot ng paglalakad o makina sa ibabaw ng lupa, at maaari ring sanhi ng ulan sa hubad na lupa.
 
-**micropore**—Isang maliit na pore ng lupa, karaniwang isang bahagi ng millimeter ang diameter. Ang micropores ay responsable sa kakayahan ng lupa na maghawak ng tubig.  
+### Compost
 
-**organic amendment**—Isang materyal na nagmula sa biological na idinadagdag sa lupa upang magtayo ng organikong materyal at mapabuti ang kalusugan ng lupa. Mga halimbawa ay compost, dumi ng hayop, at mga nalalabi ng cover crop.  
+Naistabilisa at nabubulok na organikong bagay na ginawa sa kontroladong paraan ng biological na pagkabulok ng organikong materyales.
 
-**organic fertilizer**—Isang natural na materyal na pataba na kaunti o hindi dumaan sa proseso. Maaaring maglaman ng halaman, hayop, at/o mineral na materyal. Ang organic fertilizers ay karaniwang mas mayaman sa sustansya kaysa sa organic amendments.  
+- **Paggamit**: Maaaring gamitin bilang pampataba ng lupa na nagdadagdag ng organikong bagay at dahan-dahang nagpapalabas ng sustansya, o bilang mulch na maaaring haluin sa lupa kalaunan.
 
-**organic mulch**—Isang organikong materyal (madalas na kahoy) na inilalagay sa ibabaw ng lupa upang mabawasan ang pagkawala ng evaporation, protektahan ang ibabaw ng lupa mula sa erosion, supilin ang mga damo, at baguhin ang pagbabago ng temperatura ng lupa. Halimbawa: ground bark, arborist chips, at dayami.  
+### Cover Crop
 
-**pathogen**—Isang organismong nagdudulot ng sakit sa lupa, kabilang ang bacteria, virus, fungi, at nematodes.  
+Mga halamang itinatanim upang protektahan ang lupa mula sa pag-agos ng tubig at erosyon, at magdagdag ng organikong bagay sa lupa.
 
-**permeability**—Ang bilis ng paggalaw ng tubig sa lupa.  
+### Decomposition
 
-**phosphate**—Ang anyo ng phosphorus na nakalista sa karamihan ng mga pagsusuri ng pataba (P2O5).  
+Ang pagbubulok o pagkasira ng organikong materyales ng mga mikroorganismo.
 
-**pH**—Isang sukatan ng acidity o alkalinity ng lupa. Ang mga halaga na mas mababa sa 7 ay nagpapahiwatig ng acidity, ang halaga ng 7 ay neutral, at ang mga halaga na mas mataas sa 7 ay nagpapahiwatig ng alkalinity. Karamihan sa mga lupa ay may pH sa pagitan ng 4.5 at 9.  
+### Dolomitic Limestone
 
-**potash**—Ang anyo ng potassium na nakalista sa karamihan ng mga pagsusuri ng pataba (K2O), tulad ng sa mga nakapakete na pataba.  
+Uri ng apog na may taglay na magnesium bukod sa calcium.
 
-**processed fertilizer**—Isang pataba na ginawa o pinino mula sa natural na sangkap sa isang mas puro na anyo na mas magagamit ng mga halaman.  
+### Fertilizer
 
-**quick-release fertilizer**—Isang pataba na naglalaman ng sustansya sa anyong magagamit ng halaman na ibinebenta bilang ammonium at nitrate.  
+Natural o synthetic na produkto na inilalagay sa lupa upang magbigay ng nutrisyon sa mga halaman.
 
-**sand**—Ang pinakamagaspang na uri ng pangunahing particle ng lupa (0.05 hanggang 2 mm ang diameter).  
+### Fertilizer Analysis
 
-**secondary nutrient**—Isang sustansya na kailangan ng mga halaman sa katamtamang dami (sulfur, calcium, at magnesium).  
+Ang dami ng pangunahing sustansya (nitrogen (N), phosphorus (P), at potassium (K)) na kailangan ng halaman sa malaking halaga at ipinapahayag bilang porsyento ng bigat ng pataba.
 
-**silt**—Isang pangunahing particle ng lupa na may sukat sa pagitan ng buhangin at luwad (0.002 hanggang 0.05 mm ang diameter).  
+### Green Manure
 
-**slow-release fertilizer**—Isang materyal na pataba na ginagawang magagamit sa halaman sa pamamagitan ng mga microorganism sa lupa.  
+Mga cover crop na itinatanim upang haluin sa lupa para sa dagdag na sustansya at organikong bagay, o iniiwan sa ibabaw ng lupa bilang mulch.
 
-**soil**—Isang natural, aktibong biyolohikal na halo ng mga piraso ng weathered rock at organikong materyal sa ibabaw ng lupa.  
+### Infiltration
 
-**soil health**—Ang patuloy na kakayahan ng lupa na gumana bilang isang mahalagang buhay na ekosistema na nagpapanatili ng mga halaman, hayop, at tao.  
+Ang paggalaw ng tubig sa loob ng lupa.
 
-**soil structure**—Ang kaayusan sa lupa ng mga peds na nabuo sa proseso ng pagsasama-sama ng mga particle ng buhangin, banlik, luwad, at organikong materyal upang bumuo ng mga kumpol.  
+### Leaching
 
-**soil texture**—Ang pagiging magaspang o pino ng lupa. Ang texture ay natutukoy sa proporsyon ng buhangin, banlik, at luwad sa lupa.  
+Paggalaw ng tubig at mga natutunaw na sustansya pababa sa mga patong ng lupa.
 
-**water-holding capacity**—Ang kakayahan ng pores ng lupa na maghawak ng tubig para sa paggamit ng halaman.
+### Lime
+
+Durug na batong apog (calcium carbonate, CaCO₃) na inilalagay sa lupa upang itaas ang pH.
+
+### Loam
+
+Lupa na may halos pantay na dami ng buhangin, lusak, at luwad.
+
+### Macropore
+
+Malaking butas sa lupa. Kasama dito ang mga butas na gawa ng bulate at ugat, at ito ang kumokontrol sa daloy ng tubig at hangin sa lupa.
+
+### Micronutrient/Trace Element
+
+Sustansya na kailangan ng halaman sa napakaliit na halaga (iron, zinc, molybdenum, manganese, boron, copper, at chlorine).
+
+### Micropore
+
+Maliit na butas sa lupa, kadalasan mas maliit sa isang milimetro. Ang mga micropore ang dahilan kung bakit kayang mag-imbak ng tubig ang lupa.
+
+### Organic Amendment
+
+Material na mula sa mga buhay na bagay na idinadagdag sa lupa para mapaganda ang organikong bagay at kalusugan ng lupa. Halimbawa: compost, dumi ng hayop, at natitirang bahagi ng cover crop.
+
+### Organic Fertilizer
+
+Natural na pataba na halos hindi dumaan sa proseso o pagpoproseso.
+
+- **Halimbawa**: Halaman, hayop, at/o mineral na materyales.
+- **Katangian**: Mas mataas ang sustansya kumpara sa organic amendment.
+
+### Organic Mulch
+
+Organikong materyal (madalas na kahoy) na inilalagay sa ibabaw ng lupa para mabawasan ang pagkawala ng tubig, protektahan ang ibabaw ng lupa mula sa erosyon, pigilan ang damo, at gawing pantay ang temperatura ng lupa.
+
+- **Halimbawa**: Durug na balat ng puno, chips ng arborist, at dayami.
+
+### Pathogen
+
+Mikroorganismong nagdudulot ng sakit sa lupa, kasama ang bacteria, virus, fungi, at nematode.
+
+### Permeability
+
+Bilis ng paggalaw ng tubig sa loob ng lupa.
+
+### Phosphate
+
+Porma ng phosphorus na karaniwang nakalista sa analisis ng pataba (P₂O₅).
+
+### pH
+
+Pagsukat kung gaano ka-asido o ka-alkalino ang lupa.
+
+- **Mga Halaga**:
+  - Mas mababa sa 7: Asido
+  - Katumbas ng 7: Neutral
+  - Higit sa 7: Alkalino
+- **Saklaw**: Karamihan ng lupa ay may pH na 4.5 hanggang 9.
+
+### Potash
+
+Porma ng potassium na nakalista sa analisis ng pataba (K₂O), tulad ng nasa mga pakete ng pataba.
+
+### Processed Fertilizer
+
+Pataba na ginawa o pinino mula sa natural na sangkap upang maging mas puro at mas madaling magamit ng mga halaman.
+
+### Quick-Release Fertilizer
+
+Pataba na naglalaman ng mga sustansyang madaling magamit ng halaman gaya ng ammonium at nitrate.
+
+### Sand
+
+Pinakamalaki at pinakagaspang na bahagi ng lupa (0.05 hanggang 2 mm ang diyametro).
+
+### Secondary Nutrient
+
+Sustansya na kailangan ng halaman sa katamtamang dami (sulfur, calcium, at magnesium).
+
+### Silt
+
+Pangunahing bahagi ng lupa na katamtaman ang laki (mas malaki sa clay, mas maliit sa buhangin) na 0.002 hanggang 0.05 mm ang diyametro.
+
+### Slow-Release Fertilizer
+
+Pataba na dahan-dahang nagiging magagamit ng halaman sa tulong ng mga mikroorganismo sa lupa.
+
+### Soil
+
+Likas at buhay na halo ng mga pira-pirasong bato at organikong bagay sa ibabaw ng mundo.
+
+### Soil Health
+
+Tuloy-tuloy na kakayahan ng lupa na gumanap bilang mahalagang ecosystem na sumusuporta sa halaman, hayop, at tao.
+
+### Soil Structure
+
+Ayos ng mga kumpol (peds) sa lupa na nabuo sa pagsasama ng buhangin, lusak, luwad, at organikong bagay.
+
+### Soil Texture
+
+Kung gaano kabuo o kapino ang lupa. Ang texture ay base sa dami ng buhangin, lusak, at luwad sa lupa.
+
+### Water-Holding Capacity
+
+Kakayahan ng mga butas ng lupa na mag-imbak ng tubig na magagamit ng halaman.
+
+---
+
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa iba pang 10-Minute University™ handout at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang may asawa, katayuan bilang magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyon sa genes, katayuan bilang beterano, paghihiganti, o pagbalikwas dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
+---

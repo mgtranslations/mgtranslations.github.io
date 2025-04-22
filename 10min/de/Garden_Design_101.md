@@ -1,64 +1,132 @@
-# 10-Minute University™
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program
+# Gartenplanung 101
 
-## Gartengestaltung 101
-
-Ein gutes Design ist die Grundlage für einen schönen, gesunden und nachhaltigen Garten. Ein durchdachter Plan kombiniert die Elemente eines guten Designs – Linie, Form, Textur, Duft und Farbe – und berücksichtigt dabei die Bedürfnisse und Wünsche des Hausbesitzers.
-
-### Hardscape
-
-**Weg:** Hauptwege sollten breit genug sein, damit mindestens zwei Personen nebeneinander gehen können, mindestens 1,5 Meter. Für Nebenwege, auf denen Menschen hintereinander gehen, sollte die Breite mindestens 90 Zentimeter betragen.
-
-**Pflasterung:** Sicherer Stand hat Vorrang. Vermeiden Sie rutschige Oberflächen oder lose verlegte Pflastersteine, die wackeln. Verwenden Sie ungesiebten Kies mit scharfen Kanten für Kieswege, da dieser besser verdichtet und nicht rollt.
-
-**Treppen:** Halten Sie die Gartentreppen auf maximal 15 Zentimeter Höhe. Die Tiefe jeder Stufe plus das Doppelte der Höhe sollten zusammen 66 Zentimeter ergeben. Treppen mit einer Höhe von 15 Zentimetern benötigen also eine Tiefe von 35 Zentimetern. Wenn Ihre Gartentreppen mehr als 10 Stufen umfassen, sollten Sie nach jeder vierten oder fünften Stufe eine Plattform einplanen. Eine großzügige Plattform ist notwendig, wenn sich eine Treppe in eine andere Richtung wendet; Plattformen sollten mindestens so tief sein wie die Treppe breit ist.
-
-**Terrasse und Deck:** Überlegen Sie, wie Sie den Raum für Essen oder Gesellschaft nutzen möchten und wie viele Gäste voraussichtlich kommen. Planen Sie mindestens 0,4 Quadratmeter Platz pro Person ein. Lassen Sie bei der Platzierung von Gartenmöbeln einen 90 Zentimeter breiten Rand um die Möbelgruppe für eine bequeme Bewegung.
-
-### Logistik
-
-**Einfahrt:** Überprüfen Sie vor der Installation von Sträuchern, Mauern oder Zäunen die Sichtlinien, indem Sie sich in Ihr Auto setzen, um sicherzustellen, dass die Sicht nicht blockiert ist.
-
-**Nachbarn:** Informieren Sie sich über die Anforderungen Ihrer Hausbesitzervereinigung und der örtlichen Behörden. Besprechen Sie Ihre Ideen mit Ihren Nachbarn, falls möglich.
-
-**Versorgungsleitungen:** Kontaktieren Sie Ihre Gemeindeverwaltung und Versorgungsunternehmen, um unterirdische Leitungen zu markieren, wenn Sie Höhen ändern, Gräben von mehr als 45 Zentimeter Tiefe ausheben oder Terrassen und Gehwege aufgraben möchten. Rufen Sie 811 oder besuchen Sie digsafelyoregon.com.
-
-### Designplan
-
-**Grundkarte:** Erstellen Sie eine Grundkarte auf Millimeterpapier, um die vorhandenen Standorte von Gebäuden, Wegen, Bäumen und anderen wichtigen Merkmalen darzustellen. Es ist üblich, dass Designer ein Quadrat als 30 oder 60 Zentimeter der tatsächlichen Größe darstellen. Verwenden Sie Lineale, Geodreiecke, Dreiecke und Landschaftsschablonen nach Bedarf. Fügen Sie anschließend Beleuchtung, Wassermerkmale, Wege, Terrassen oder andere Hardscape-Elemente hinzu. Kartieren Sie Sonnen- und Schattenmuster.
-
-**Pflanzendesign:** Eine gute Startgröße für eine Rabatte beträgt 2,4 Meter Breite und 7,2 Meter Länge; wählen Sie eine Größe, die zu Ihrem Standort sowie Ihrer Zeit und Ihrem Budget passt. Spielen Sie zunächst mit der Form der Gartenbeete auf Ihrer Karte und legen Sie dann Schläuche aus, um die Grenzen für zukünftige Beete zu markieren. Verwenden Sie eine Vielfalt von Pflanzen (Bäume, Sträucher, Stauden und Zwiebeln), um eine Vielfalt an Laub und Blüten für alle Jahreszeiten zu schaffen. Lassen Sie Platz für das Wachstum der Pflanzen.
-
-### Pflanzen
-
-**Wachstum einplanen:** Platzieren Sie Pflanzen so, dass sie nicht bei voller Größe überfüllt sind. Konsultieren Sie die Pflanzenschilder, beachten Sie jedoch, dass Pflanzen im Willamette Valley oft größer werden als angegeben. Wenn Sie sofort eine vollständige Landschaft haben möchten, pflanzen Sie mit der Absicht, später einige Pflanzen zu versetzen oder zu entfernen. Sie können auch einjährige Pflanzen und kurzlebige Stauden als Lückenfüller in neuen Pflanzungen verwenden.
-
-**Richtiger Abstand:** Platzieren Sie hohe Pflanzen (ab 75 Zentimeter Höhe) mindestens 60 Zentimeter von Gehwegen und Terrassenrändern entfernt. Andernfalls können diese Bereiche sich überfüllt anfühlen. Halten Sie auch dornige Pflanzen wie Rosen von Verkehrsbereichen fern.
-
-**Denken Sie über die Blüte hinaus:** Während Blumen attraktiv sind, bieten viele Pflanzen Laub, Früchte und Rinde für ganzjährige Farbe, Form und Textur. Verlängern Sie die Attraktivität Ihres Gartens mit Herbstlaubfarben und Winterinteressen durch Früchte, Rinde und Samenstände.
-
-**Rasen hat seinen Platz:** Ein Rasen bietet dem Auge einen Ruhepunkt von der Fülle Ihres Gartens. Er bietet auch Platz, um barfuß zu gehen oder Spiele zu spielen. Wählen Sie eine Größe, die überschaubar ist und Ihren Bedürfnissen entspricht.
-
-**Pflanzenauswahl:** Beginnen Sie mit einer Liste aller Pflanzen, die Sie anbauen möchten; überprüfen Sie ihre Anforderungen, um sicherzustellen, dass sie in Ihrem Boden, Feuchtigkeits- und Lichtverhältnissen gedeihen. Erstellen Sie dann eine Tabelle dieser Pflanzen mit Spalten für Typ (z. B. immergrüner Strauch), Höhe und Breite, Laubfarbe, Blütenfarbe und -zeit, Duft und alles andere, was an dieser Pflanze besonders ist. Überprüfen Sie die Verfügbarkeit vor Ort.
-
-**Pflanzplatzierung:** Verwenden Sie Schlüsselpflanzen als Grundlage, um Kombinationen mit anderen Pflanzen zu schaffen. Überprüfen Sie Ihre Tabelle und wählen Sie einige Pflanzen mit mehrjährigem Interesse als Anker für Ihr Design aus und bauen Sie Szenen um sie herum. Kontrastieren Sie luftige, lockere Pflanzen mit Pflanzen mit kräftiger Textur. Platzieren Sie runde Formen neben spitzen Formen und verwenden Sie niedrigwüchsige oder kriechende Pflanzen an der Vorderseite der Rabatte, um den Rand zu vereinheitlichen.
-
-Bauen Sie Kombinationen, indem Sie sie mit ergänzenden Pflanzen umgeben, die zur gleichen Zeit blühen. Dies wird die visuelle Attraktivität Ihres Gartens stärken. In einem kleinen Garten können zu viele Farben chaotisch wirken. Wählen Sie ein kühles oder warmes Farbschema und wählen Sie die Pflanzen aus Ihrer Liste aus.
-
-Drei Prinzipien stehen hinter wirkungsvollen Pflanzenkombinationen:
-
-1. Farbschema  
-2. Textur  
-3. Form  
-
-Verwenden Sie diese Prinzipien, um Kontraste in Ihren Pflanzenkombinationen zu schaffen. Verwenden Sie zum Beispiel Laub, um Farbe in Ihre Pflanzungen zu bringen, wie Grün, Blau, Gelb, Rot und Grau. Verwenden Sie Texturen wie kräftig, spitz, glatt, federartig und filigran, um Interesse zu wecken. Verwenden Sie Formen wie Rund, Spießförmig und Kriechend, um Kontraste zwischen Ihren Pflanzungen zu schaffen.
-
-### Master Gardener™ Beratung
-
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Für weitere Handouts und Kurspläne des 10-Minute University™ besuchen Sie www.cmastergardeners.org.  
+Gutes Design ist die Grundlage für einen schönen, gesunden und nachhaltigen Garten. Ein durchdachter Plan vereint die Elemente guten Designs – Linie, Form, Struktur, Duft und Farbe – und berücksichtigt dabei die Bedürfnisse und Wünsche der Hausbesitzer.
 
 ---
 
-Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Farbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich geschlechtlicher Ausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/elterlicher Status, Einkommen aus einem Sozialhilfeprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Grundlagen gelten für alle Programme).
+## Feste Bauelemente (Hardscape)
+
+### Wege
+
+- Hauptwege sollten breit genug sein, damit mindestens zwei Personen nebeneinander gehen können, also mindestens 1,50 Meter.
+- Für Nebenwege, auf denen man hintereinander geht, sollte die Breite mindestens 90 Zentimeter betragen.
+
+### Pflasterung
+
+- Sicherer Stand hat Priorität.
+- Vermeide glatte Oberflächen oder locker verlegte Platten, die wackeln.
+- Verwende ungesiebten Kies mit scharfen Kanten für Kieswege, da dieser besser verdichtet und nicht rollt.
+
+### Stufen
+
+- Gartentreppen sollten nicht höher als 15 Zentimeter pro Stufe sein.
+- Die Tiefe jeder Stufe plus das Zweifache der Höhe sollte zusammen 66 Zentimeter ergeben. Zum Beispiel benötigen Stufen mit 15 Zentimeter Höhe eine Auftrittstiefe von 36 Zentimetern.
+- Wenn deine Gartentreppe mehr als 10 Stufen hat, plane nach jeder vierten oder fünften Stufe ein Podest ein.
+- Ein großzügiges Podest ist nötig, wenn die Treppe die Richtung ändert; Podeste sollten mindestens so tief sein wie die Treppe breit ist.
+
+### Terrasse und Deck
+
+- Überlege, wie du den Platz zum Essen oder für Gäste nutzen möchtest und wie viele Personen wahrscheinlich dort sein werden.
+- Plane mindestens 0,4 Quadratmeter Platz pro Person ein.
+- Wenn du Gartenmöbel aufstellst, lasse einen 90 Zentimeter breiten Bereich um die Möbelgruppe für bequemes Bewegen frei.
+
+---
+
+## Logistik
+
+### Einfahrt
+
+- Bevor du Sträucher, Mauern oder Zäune anlegst, prüfe die Sichtlinien, indem du im Auto sitzt, damit die Sicht nicht behindert wird.
+
+### Nachbarn
+
+- Informiere dich über Vorgaben deiner Hausgemeinschaft und der örtlichen Behörden.
+- Sprich, wenn möglich, mit deinen Nachbarn über deine Ideen.
+
+### Leitungen
+
+- Kontaktiere deine Gemeinde und Versorgungsunternehmen, um unterirdische Leitungen markieren zu lassen, wenn du Veränderungen am Boden vornimmst, Gräben tiefer als 45 Zentimeter aushebst oder Terrassen und Wege umgestaltest.
+- Wähle 811 oder besuche [digsafelyoregon.com](https://digsafelyoregon.com).
+
+---
+
+## Entwurfsplan
+
+### Grundriss (Base Map)
+
+- Erstelle eine Grundkarte auf Millimeterpapier, auf der die bestehenden Gebäude, Wege, Bäume und andere wichtige Merkmale eingezeichnet sind.
+- Üblicherweise entspricht ein Kästchen 30 oder 60 Zentimeter der tatsächlichen Größe.
+- Verwende Lineale, Geodreiecke, Dreiecke und Landschaftsschablonen nach Bedarf.
+- Ergänze anschließend Beleuchtung, Wasserstellen, Wege, Terrassen oder andere feste Bauelemente.
+- Zeichne die Sonnen- und Schattenbereiche ein.
+
+### Pflanzplanung
+
+- Eine gute Anfangsgröße für ein Beet ist 2,40 Meter breit und 7,20 Meter lang; wähle eine Größe, die zu deinem Standort, deiner Zeit und deinem Budget passt.
+- Probiere zuerst verschiedene Beetformen auf deiner Karte aus und markiere dann mit einem Gartenschlauch die geplanten Beetgrenzen im Garten.
+- Verwende eine Vielfalt an Pflanzen (Bäume, Sträucher, Stauden und Zwiebeln), um ein buntes Bild und Blütezeiten über das ganze Jahr zu schaffen.
+- Lasse genug Platz, damit die Pflanzen ausgewachsen nicht zu eng stehen.
+
+---
+
+## Pflanzen
+
+### Planung für Wachstum
+
+- Setze Pflanzen so, dass sie im ausgewachsenen Zustand nicht zu eng stehen.
+- Schau dir die Angaben auf den Pflanzenetiketten an, aber wisse, dass Pflanzen im Willamette Valley oft größer werden als angegeben.
+- Wenn du gleich einen vollen Garten willst, pflanze so, dass du später einige Pflanzen versetzen oder entfernen kannst.
+- Du kannst auch Einjährige und kurzlebige Stauden als Lückenfüller verwenden.
+
+### Genügend Abstand halten
+
+- Setze hohe Pflanzen (ab 75 Zentimeter) mindestens 60 Zentimeter vom Rand von Wegen und Terrassen entfernt. Sonst wirken diese Bereiche schnell überfüllt.
+- Halte stachelige Pflanzen wie Rosen von viel genutzten Wegen fern.
+
+### Mehr als Blüten bedenken
+
+- Viele Pflanzen bieten neben Blüten auch Blätter, Früchte und Rinde für Farbe, Struktur und Form das ganze Jahr über.
+- Nutze Herbstfärbung und interessante Winteraspekte wie Früchte, Rinde und Samenstände, um den Garten das ganze Jahr attraktiv zu machen.
+
+### Rasen hat seinen Platz
+
+- Ein Rasen bietet dem Auge eine Ruhepause von der Üppigkeit des Gartens.
+- Er bietet außerdem Platz zum Barfußlaufen und Spielen.
+- Wähle eine Größe, die zu dir passt und die du pflegen kannst.
+
+### Pflanzenauswahl
+
+- Erstelle eine Liste aller Pflanzen, die du anbauen möchtest; prüfe, ob sie zu deinem Boden, Feuchtigkeit und Lichtverhältnissen passen.
+- Erstelle eine Tabelle mit Spalten für Typ (z. B. immergrüner Strauch), Höhe und Breite, Blattfarbe, Blütenfarbe und -zeit, Duft und besondere Merkmale.
+- Prüfe, ob die Pflanzen in deiner Nähe erhältlich sind.
+
+### Pflanzplatzierung
+
+- Wähle Hauptpflanzen aus, um mit ihnen Kombinationen zu gestalten.
+- Suche in deiner Tabelle nach Pflanzen, die in mehreren Jahreszeiten interessant sind, und baue kleinere Pflanzengruppen um sie herum.
+- Kombiniere luftige, lockere Pflanzen mit solchen mit kräftiger Struktur.
+- Setze runde Formen neben spitze und verwende niedrig wachsende oder bodendeckende Pflanzen am Beetrand, um den Abschluss zu gestalten.
+- Gestalte Kombinationen aus Pflanzen, die zur gleichen Zeit blühen – das macht deinen Garten optisch ansprechender.
+- In kleinen Gärten wirken zu viele Farben schnell unruhig. Wähle entweder eine kühle oder warme Farbpalette und suche die Pflanzen entsprechend aus.
+
+#### Grundsätze für wirkungsvolle Pflanzenkombinationen
+
+1. **Farbgestaltung**
+2. **Struktur**
+3. **Form**
+
+- Nutze diese Grundsätze, um Kontraste in deinen Pflanzenkombinationen zu schaffen.
+- Verwende Laub, um Farben ins Beet zu bringen, z. B. grün, blau, gelb, rot oder grau panaschiert.
+- Setze verschiedene Strukturen ein, wie kräftig, spitz, glatt, federartig oder filigran, für mehr Abwechslung.
+- Nutze Formen wie polsterförmig, spitz oder hängend, um Kontraste zu schaffen.
+
+---
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Weitere 10-Minuten-Universität™ Merkblätter und Kurspläne findest du unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Die Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien, unabhängig von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle genannten Schutzkategorien gelten für jedes Programm.)
+---

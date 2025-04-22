@@ -1,59 +1,96 @@
-# 10-Minute University™
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-Lub Koom Haum Clackamas County Master Gardener tau sib koom tes nrog thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
+---
 
-## Kev Ua Teb Lub Caij Nplooj Ntoos Zeeg
+## Kev Ua Liaj Ua Teb Thaum Caij Nplooj Zeeg Hauv Lub Vaj Zaub
 
-### Sau thiab Khaws Cov Zaub  
-- Sau cov txiv lws suav ntsuab uas muaj xim dawb nyob hauv qab rau hauv tsev kom siav. Khaws cov noob ntawm cov txiv lws suav siav txhua lub caij. Nqa cov noob tso rau hauv lub hub nrog dej, cia kom lwj 3-5 hnub, ntxuav tawm cov nqaij ntawm cov noob hauv lub lim, ziab rau ntawm daim ntawv so, thiab tso rau hauv lub hnab ntawv nrog npe rau khaws cia.  
-- Sau qos yaj ywm 2 lub lis piam tom qab cov nroj tsuag tuag los yog raug txiav kom tawv cov tawv nqaij, tab sis ua ntej dej nag lub caij nplooj ntoos zeeg. Nqa, ziab, thiab tsis txhob ntxuav. Khaws cia rau hauv qhov chaw txias (40+ degrees), tsaus, thiab qhib cua, tsis txhob siv yas.  
-- Sau cov txiv lws kub thaum siav tiav (thaum tus xibtes tsis tuaj yeem chob tau daim tawv nqaij) thiab ua ntej dej khov (hauv qab 28 degrees) vim kev puas tsuaj yuav tshwm sim. Khaws cia rau hauv qhov chaw qhuav, tsaus, txias, kwv yees 50 degrees.  
-- Ziab cov noob taum ntawm cov nroj tsuag kom txog thaum lawv nrov, los yog txiav cov pob taum uas ntub dej kub kom ziab sab hauv tsis muaj cua sov los yog hnub ci.  
-- Cia cov zaub cag (carrot, beet, turnip, dos & leek) nyob hauv av thiab tiv thaiv nrog 1 txog 2 nti ntawm cov nplooj qhuav los yog straw, los yog siv ntaub npog tiv thaiv. Swiss chard, kale thiab collard feem ntau ciaj sia lub caij ntuj no yam tsis muaj kev tiv thaiv thaum lub caij ntuj no me me.  
-- Txiav thyme thiab rosemary thiab ziab cov nplooj. Txiav rosemary ntau yog tias sau rau skewers.  
-- Sau basil ua ntej qhov kub ntawm hmo ntuj poob qis dua 50 degrees. Ua tam sim ntawd los yog muab cov ceg rau hauv dej kom cia. Ua pesto, los yog txiav, ntim rau hauv cov tais dej khov, npog nrog dej, thiab khov.  
+### Sau thiab Cia Zaub
 
-## Cog Cov Zaub Rau Lub Caij Nplooj Ntoos Zeeg thiab Lub Caij Ntuj No  
-- Cov laj thawj rau kev cog hauv lub caij nplooj ntoos zeeg yog: av qhuav thiab sov; qee cov qoob loo loj hlob zoo tshaj hauv huab cua txias; muaj tsawg dua kab mob; tsis tas yuav siv dej ntau; thiab koj tuaj yeem muaj cov khoom noj tshiab thaum lub caij ntuj no thiab lub caij nplooj ntoos hlav.  
-- Rau kev sau qoob loo caij nplooj ntoos zeeg thiab caij ntuj no, pib beet, broccoli, cabbage, carrot, Chinese cabbage, collard, kale, kohlrabi, rutabaga, thiab Swiss chard los ntawm noob thaum Lub Xya Hli. Cov nroj tsuag uas cog tom qab lub caij ntuj sov/lub caij nplooj ntoos zeeg ntxov yuav tsum muaj tsawg kawg 4 lub lis piam kev loj hlob kom tiv taus qhov kub ntawm lub caij ntuj no.  
-- Cov nroj tsuag uas tuaj yeem cog ncaj qha rau hauv lub caij nplooj ntoos zeeg muaj xws li: taum fava (Lub Kaum Hli–Lub Kaum Ib Hlis), arugula, qee cov dos, thiab mustard (mus txog nruab nrab Lub Kaum Hli); thiab cov dos qej, lub ntsiab rau saum thiab 2 txog 3 nti tob (Lub Kaum Hli/Lub Kaum Ib Hlis ntxov).  
+- **Lws Suav Ntsuab**: Sau cov lws suav ntsuab uas muaj xim dawb me ntsis rau hauv qab, coj mus rau hauv tsev kom siav. Sau noob los ntawm cov lws suav siav txhua caij. Khaws cov noob tso rau hauv ib lub raj mis dej, cia kom nphoo 3–5 hnub, ntxuav tej nqaij tawm hauv ib lub lim, cia kom qhuav rau saum daim ntaub so tes thiab muab tso rau hauv ib lub hnab ntawv muaj npe khaws cia.
+- **Qos yaj ywm**: Sau 2 lub lis piam tom qab cov ceg ntoo tuag los yog txiav kom tawv daim tawv, tab sis ua ntej nag caij nplooj zeeg. Khawb, cia kom qhuav, tsis txhob ntxuav. Cia rau qhov txias (40+ degrees), tsaus, thiab muaj cua tuaj, tsis txhob muab tso hauv hnab yas.
+- **Taub Ntoos Caij Ntuj No**: Sau thaum siav (uas ntiv tes xib teg tsis txhob nkag tawv taub) thiab ua ntej daus (hauv qab 28 degrees) vim tej zaum yuav puas. Cia rau qhov qhuav, tsaus, thiab txias, kwv yees li 50 degrees.
+- **Noob Npleg Qhuav**: Cia cov noob ua rau ntawm ceg ntoo kom txog thaum hnov nrov, los yog txiav cov noob daj uas tseem ntub coj mus cia kom qhuav hauv tsev tsis txhob rhaub nrog cua sov los yog tshav ntuj.
+- **Zaub Hauv Av**: Cia carrots, beets, turnips, dos, thiab leeks nyob hauv av thiab npog nrog 1–2 ntiv tes nplooj qhuav los yog quav nyab, los sis siv ntaub npog. Swiss chard, kale, thiab collards feem ntau yuav nyob dim caij ntuj no tsis tas yuav npog thaum caij ntuj no sov.
+- **Cov Txuj Lom**: Txiav thyme thiab rosemary thiab cia cov nplooj qhuav. Txiav rosemary kom deb tsuas yog thaum yuav siv ua skewers.
+- **Ntoos Basil**: Sau ua ntej hmo ntuj txias dua 50 degrees. Siv tam sim ntawd los yog muab ceg tso rau hauv dej kom khaws tau ntev. Ua pesto, los yog txiav, muab tso rau hauv cov pwm dej khov, muab dej npog, thiab muab khov.
 
-## Siv Cov Cuab Yeej Rau Lub Caij Ntuj No  
-Cov cuab yeej rau lub caij ntuj no pab cov nroj tsuag me loj hlob zoo dua thiab tiv thaiv cov nroj tsuag los ntawm lub caij ntuj no txias thiab huab cua phem. Muaj:  
-- Cov ntaub npog, cov thawv txias (tig rau sab qab teb yog qhov zoo tshaj), thiab cloches uas ua rau cua sov thiab tiv thaiv cov nroj tsuag;  
-- Yas npog uas ua rau av sov; thiab  
-- Cov thawv sov, cov thawv txias nrog cov hlua cua sov faus tshaj 2 nti hauv qab av, sov ob qho av thiab cua.  
+---
 
-## Kev Ntxuav Lub Teb Zaub  
-Kev tu lub caij nplooj ntoos zeeg ua rau kev ua teb lub caij nplooj ntoos hlav yooj yim dua. Tshem tawm thiab muab cov nroj tsuag thiab cov txiv uas lwj thiab tsis siav pov tseg. Rub, txiav los yog txiav cov nroj tsuag thiab cov nplooj uas muaj kab mob rau kev ua kom thiaj li tsis muaj kab mob ntxiv. Muab cov nplooj tuag thiab cov ceg rau hauv cov compost hauv tsev. Siv tshuaj rau slugs thiab snails kom txo cov kab mob lub caij nplooj ntoos zeeg thiab lub caij nplooj ntoos hlav.  
+### Cog Zaub Caij Nplooj Zeeg thiab Caij Ntuj No
 
-## Kev Txhim Kho Av  
-Ntxiv 2 txog 4 nti ntawm cov nplooj los yog compost ua mulch kom txo kev nias thiab av puas tsuaj, tiv thaiv kev loj hlob ntawm nroj tsuag phem, thiab tswj qhov kub ntawm av. Lub Kaum Hli 1 yog hnub npaj cog cov nroj tsuag npog uas txo kev nias thiab av puas tsuaj thiab ntxiv cov as-huv rau hauv av thaum hloov mus rau hauv av lub caij nplooj ntoos hlav.  
+- **Vim li cas ho cog thaum caij nplooj zeeg?**
+  - Av qhuav thiab sov.
+  - Qee hom zaub loj zoo thaum huab cua txias.
+  - Tsis muaj kab ntau.
+  - Tsis tas yuav muab dej ntau.
+  - Muaj zaub tshiab rau caij ntuj no thiab caij nplooj ntoos hlav.
 
-Lub caij nplooj ntoos zeeg yog lub sijhawm zoo tshaj plaws los kuaj qhov pH ntawm av. Sau cov qauv av los ntawm kev tshem tawm cov nroj tsuag saum toj los yog mulch (siv cov cuab yeej huv, hnab looj tes, thiab txhais tes), khawb mus rau 6 txog 8 nti thiab tshem tawm ib daim av ntsug. Rov ua cov txheej txheem hauv ntau qhov chaw ntawm lub vaj. Sib tov cov qauv hauv ib lub thawv, hloov ½ khob rau hauv lub hnab yas rau kev kuaj. Yog tias xav tau lime, kev thov lime lub caij nplooj ntoos zeeg yuav ua rau av npaj rau cog lub caij nplooj ntoos hlav. Tsis txhob thov lime rau qhov chaw cog qos yaj ywm, vim lime ua rau qos yaj ywm muaj kab mob.  
+- **Sau Zaub Caij Nplooj Zeeg thiab Caij Ntuj No**:
+  - Pib cog beet, broccoli, cabbage, carrot, Chinese cabbage, collard, kale, kohlrabi, rutabaga, thiab Swiss chard pib ntawm noob thaum lub 7 hli. Cov nroj tsuag me uas cog thaum caij nplooj zeeg lig/lub caij ntuj sov lig yuav tsum loj tau tsawg kawg 4 lub lis piam kom ua tau liab qab rau huab cua txias caij ntuj no.
+  - Ntxiv noob fava beans (Kaum Hli–Kaum Ib Hlis), arugula, qee cov dos, thiab mustard (txog nrab Kaum Hli).
+  - Cog cov noob qej (lub taub ntswg tig rau saum) 2–3 ntiv tes tob thaum Kaum Hli/lub Plaub Hlis ua ntej.
 
-Siv cov chaw kuaj mob rau kev tshuaj xyuas cov as-huv av. Clackamas County Master Gardeners muab kev kuaj pH ntawm av rau peb qhov kev tshwm sim txhua xyoo. Tshawb xyuas www.cmastergardeners.org rau cov lus qhia tshwj xeeb.  
+---
 
-## Cov Kev Pab  
-OSU Extension Publications: https://catalog.extension.oregonstate.edu/  
-- Khaws Cov Txiv Lws Kub thiab Cov Txiv Lws Siav Hauv Tsev (EC 1632)  
-- Cog Cov Zaub Rau Lub Caij Nplooj Ntoos Zeeg thiab Caij Ntuj No Hauv Pacific Northwest (PNW 548)  
-- Yuav Ua Li Cas Tsim Koj Tus Khaub Ncaws Txias Rau Lub Vaj (EC 1627)  
-- Phau Ntawv Qhia Txog Kev Sau Cov Qauv Av Rau Kev Ua Teb thiab Cov Vaj (EC 628)  
-- Ua Teb Hauv Cov Vaj Siab (FS 270)  
-- Cov Nroj Tsuag Npog Rau Cov Vaj Tsev (FS 304)  
+### Siv Cov Khoom Ua Kom Nroj Tsuag Loj Zoo
 
-## 10-Minute University™ Resources  
-http://www.cmastergardeners.org rau cov ntawv qhia thiab cov yeeb yaj kiab  
-- Khaws Noob  
-- Pib Koj Lub Vaj Zaub  
-- Loj Hlob Cov Zaub Lub Caij Ntuj No  
-- Ua Teb nrog Mulches  
-- Ua Teb Hauv Cov Vaj Siab  
-- Kuaj pH ntawm Av  
+Cov khoom pab no pab kom cov nroj tsuag me loj zoo thiab tiv thaiv lawv ntawm huab cua txias thiab huab cua phem. Lawv muaj:
 
-## Master Gardener™ Kev Pab  
-Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), los yog 503-445-4608 (Multnomah County)  
+- **Ntaub npog kab, thawv ntoo txias, thiab cloches**: Ua kom cua sov thiab tiv thaiv nroj tsuag. Tig mus rau sab qab teb yog zoo tshaj.
+- **Yas npog av**: Ua kom av sov.
+- **Hot Beds**: Thawv ntoo txias nrog hlua hluav taws xob hauv qab av 2 ntiv tes ua kom av thiab cua sov.
 
-Oregon State University Extension Service txwv tsis pub kev ntxub ntxaug hauv txhua qhov haujlwm, kev pabcuam, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, lub teb chaws, kev ntseeg, poj niam txiv neej, tus cwj pwm poj niam txiv neej (nrog rau kev qhia tus kheej), kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, niam txiv/kev tu menyuam, nyiaj tau los los ntawm kev pab nyiaj, kev ntseeg hauv nom tswv, cov ntaub ntawv caj ces, tus tub rog, kev ua pauj lossis kev ua pauj rau kev ua nom tswv yav dhau los. (Tsis yog txhua yam raug txwv siv rau txhua qhov haujlwm.)
+---
+
+## Kev Ntxuav Lub Vaj Zaub
+
+Kev ntxuav lub caij nplooj zeeg ua rau kev ua teb caij nplooj ntoos hlav yooj yim dua:
+
+- Tshem thiab pov pov tseg cov nyom phem thiab txiv hmab txiv ntoo lwj los yog tseem me.
+- Rub, txiav, lossis txiav tej nroj tsuag thiab nplooj uas muaj kab mob rau lub tuam txhab ua compost.
+- Muab tej nplooj tuag thiab ceg ntoo tso rau hauv tsev ua compost.
+- Npaj tshuaj slugs thiab snails kom txo tau lawv tus naj npawb rau caij nplooj zeeg thiab caij nplooj ntoos hlav.
+
+---
+
+## Ua Kom Av Zoo Dua
+
+- Ntxiv 2–4 ntiv tes nplooj los yog compost ua mulch kom txo qhov av sib tw thiab xeb, thaiv nyom, thiab tswj kub hauv av.
+- **Nroj tsuag npog av**: Cog ua ntej lub Kaum Hli 1 kom txo qhov av sib tw thiab xeb, ntxiv cov tshuaj ua zaub mov rau av thaum muab rov los ua av rau caij nplooj ntoos hlav.
+- **Kuaj pH hauv av**:
+  - Sau piv txwv av los ntawm kev tshem nplooj lossis mulch saum plaws (siv cov cuab yeej huv, hnab looj tes, thiab tes huv).
+  - Khawb 6–8 ntiv tes tob thiab tshem ib daim av ntsug. Ua li ntawd hauv ntau qhov chaw hauv vaj.
+  - Sib tov cov av rau hauv ib lub thawv, muab ½ khob rau hauv hnab yas rau kev kuaj.
+  - Yog xav ntxiv lime, muab lime rau lub caij nplooj zeeg yuav npaj tau av rau caij nplooj ntoos hlav. Tsis txhob ntxiv lime rau qhov chaw cog qos yaj ywm, vim lime ua rau qos yaj ywm muaj kab scab.
+
+- Siv cov chaw kuaj kws tshaj lij rau kev kuaj tshuaj av. Clackamas County Master Gardeners kuaj pH hauv av peb zaug hauv ib xyoos. Mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org) kom paub meej ntxiv.
+
+---
+
+## Cov Peev Xwm
+
+- **OSU Extension Cov Ntawv Qhia**:
+  - [Cia Pumpkin thiab Taub Ntoos Caij Ntuj No Hauv Tsev (EC 1632)](https://catalog.extension.oregonstate.edu/ec1632)
+  - [Kev Ua Vaj Zaub Caij Nplooj Zeeg thiab Caij Ntuj No Hauv Pacific Northwest (PNW 548)](https://catalog.extension.oregonstate.edu/pnw548)
+  - [Yuav Ua Li Cas Tsim Koj Tus Kheej Raised-Bed Cloche (EC 1627)](https://catalog.extension.oregonstate.edu/ec1627)
+  - [Phau Ntawv Qhia Sau Piv Txwv Av Rau Tsev Ua Liaj Ua Teb (EC 628)](https://catalog.extension.oregonstate.edu/ec628)
+  - [Kev Ua Vaj Zaub Raised Bed (FS 270)](https://catalog.extension.oregonstate.edu/fs270)
+  - [Nroj Tsuag Npog Av Rau Tsev Ua Vaj (FS 304)](https://catalog.extension.oregonstate.edu/fs304)
+
+- **10-Minute University™ Cov Peev Xwm**:  
+  Mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org) kom tau cov ntawv qhia thiab yeeb yaj kiab:
+  - Cia Noob
+  - Pib Koj Lub Vaj Zaub
+  - Ua Zaub Caij Ntuj No
+  - Ua Vaj Nrog Mulch
+  - Ua Vaj Zaub Raised Bed
+  - Kuaj pH hauv av
+
+---
+
+#### Master Gardener™ Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm cov ntawv qhia 10-Minute University™ thiab lub sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service tsis pub cais tawm hauv nws cov kev pab cuam, kev pab, kev ua, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev nyiam sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/txiv neej niam tsev, nyiaj tau los los ntawm kev pabcuam pej xeem, kev ntseeg txog nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug rau txim, lossis kev raug mob vim yog tau siv txoj cai. (Tsis yog txhua yam no tsis raug cai nyob rau txhua qhov kev pab cuam.)
+---

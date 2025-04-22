@@ -1,35 +1,44 @@
-# Jaamacadda 10-Daqiiqo™  
-Ururka Barnaamijka Beeralayda Sare ee Clackamas County oo iskaashanaya Barnaamijka OSU Extension Master Gardener™  
+#### Jaamacadda 10 Daqiiqo™ · Ururka Beeralayda Sare ee Clackamas County oo iskaashanaya barnaamijka OSU Extension Master Gardener™
 
-## Samee Beertaada Mid U Adkaysata Cimilada: Cawska  
-Isbeddelka kuleylka ee Dunida wuxuu keenayaa barafyo dhalaalaya, heerka badda oo kor u kaca, badda oo sii xumeysata, iyo abaaro iyo fatahaado soo noqnoqda oo daran. Waqooyiga Baasifik ayaa la kulantay abaaro dheer, dabab badan oo sii kordhaya iyo xooggan, mowjado kulayl ah, duullaanka cayayaanka, iyo cudurrada geedaha. Barafka oo yaraada wuxuu keenayaa qulqulka webiyada oo dhaqso u gaara heerka ugu sarreeya, taas oo yareynaysa sahayda biyaha. Intaas waxaa dheer, isbeddelka cimiladu wuxuu keenayaa dhacdooyin cimilo oo aan caadi ahayn, sida mowjado kulayl ah iyo roobab culus oo soo noqnoqda.  
-[Oregon Climate Assessments](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)  
+## Ka Dhig Beertaada Mid Isbeddel Cimilada U Adkaysata: Cawska
 
-### Sidee Beeralayda Loogu Habboonaan Karaa Xilliyadan?  
-Warqaddan waxaa ku jira fikrado lagu dhisayo adkaysi beerta iyada oo loo marayo xulashada dhirta iyo hababka koritaanka.  
+Isbedelka cimilada ee dunida ayaa keena barafyo dhalaalaya, heer biyo oo koraya, biyo badeed sii xanaaqaya, iyo abaaro iyo fatahaado soo noqnoqda oo xoog badan. Waqooyiga Galbeed ee Pacific-ga waxaa ka dhacay abaaro dheeraaday, dabeylo dab ka kacay oo sii badanaya, mowjado kulayl ah, weerarada cayayaanka, iyo cudurrada geedaha. Baraf yaraanta waxay keentaa in qulqulka webiyada iyo durdurada uu soo hor maro taasoo yaraynaysa biyaha. Marka lagu daro arrimahan, isbeddelka cimilada wuxuu keenaa dhacdooyin cimilada oo aan la saadaalin karin (kuleyl daran, roob xoog leh) oo sii badanaya.  
+[https://blogs.oregonstate.edu/occri/oregon-climate-assessments/](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
 
-## Waxa Aan Ognahay  
-- Isbeddelka cimiladu wuxuu dhacayaa sababtoo ah gaaska kaarboon laba ogsaydh (CO2) oo aad ugu badan hawada. Dhamaan dhirta cagaaran waxay awood u leeyihiin inay hawada ka qabtaan kaarboon iyada oo loo marayo geedi-socodka sawir-qaadista.  
-- Xilliga dheer ee cawska koraya wuxuu leeyahay awood weyn oo lagu qabto kaarboonka hawada loona dhaqaajiyo caleemaha cawska iyo nidaamka xididka.  
-- Dhulka bannaan iyo meelaha adag (sida asphalt iyo laami) waxay kordhiyaan heerkulka marka la barbardhigo meelaha daboolan dhirta. Cawska ayaa 4°C ka qabow marka loo eego meelaha magaalada ee aan daboolnayn, waxaana uu noqon karaa ilaa 39°C ka qabow marka loo eego cawska macmalka ah maalinta kulul.  
-- Cilmi-baarayaasha Barnaamijka Maareynta Cawska ee Jaamacadda Oregon State waxay baarayaan sida loo sameeyo cawskaaga mid u wanaagsan cimilada. Cawska wuxuu kaarboon ka qaataa hawada oo si ku-meel-gaar ah ugu kaydiyaa caleemaha iyo xididdada. Si kastaba ha ahaatee, qaar ka mid ah kaarboonkaas waxaa hawada dib ugu soo celinaya noolaha yaryar ee carrada ku jira, kuwaas oo jebiya xididada iyo caleemaha qalalan. Si aad u hesho faahfaahin, akhri [Cawska Saaxiibka ah ee Cimilada](https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly).  
+Sideen u beernaynaa xilliyadan? Qoraalkan waxa uu bixinayaa fikrado ku saabsan sida beerta loogu dhisi karo adkaysi iyada oo la dooranayo dhirta iyo hababka korinta.
 
-## Fursadaha Yaraynta Saameynta Cimilada  
-- Daraasado waxay muujinayaan in goynta, bacriminta iyo waraabinta ay kordhin karto sawir-qaadista oo ay kordhin karto kaarboonka u wareegaya dhirta cawska iyo carrada.  
-- Hababka dhaqanka qaarkood waxay dhiirrigeliyaan noolaha yaryar ee carrada inay jebiyaan maadada dabiiciga ah, taasoo sii deynaysa kaarboon dib ugu soo noqda hawada.  
+## Waxa Aan Ognahay
 
-## Waxyaabaha La Sameeyo  
+Isbeddelka cimilada waxa uu dhacayaa sababtoo ah gaaska kaarboon laba ogsaydh (CO₂) ayaa si xad-dhaaf ah ugu ururaya hawada. Dhammaan dhirta cagaaran waxay awood u leeyihiin inay kaarboon ka qabtaan hawada iyaga oo adeegsanaya habka sawir-qaadista (photosynthesis).
 
-### Goynta Heerka Ugu Habboon  
-Cawska lagu maamulo dhererka goynta sare wuxuu leeyahay caleemo badan. Si kastaba, goynta hoose waxay kordhisaa cufnaanta cawska iyadoo kicinaysa koritaanka dhinacyada. Cilmi-baarista OSU waxay soo jeedinaysaa in dhererka goynta ah 2-inch ama ka badan uu yahay kan ugu wanaagsan caafimaadka cawska, ka hortagga haramaha ballaadhan iyo qabashada kaarboonka. Goynta ka yar 2-inch waxay fursad siineysaa haramaha inay soo baxaan. Dhererka goynta 4-inch wuxuu bixiyaa qabashada ugu badan ee kaarboonka iyo ka hortagga haramaha.  
+Cawska oo xilli korriin dheer leh waxay la micno tahay in uu kaarboon badan ka saari karo hawada kuna kaydin karo caleemaha iyo xididdada cawska.
 
-### Jooji Qiiqa  
-Ku beddel mashiinnada korontada ku shaqeeya, sida kuwa goynta, dhinacyada la hagaajiyo, iyo matoorada kale. Mashiinnada gacanta lagu shaqeeyo waa ikhtiyaar kale oo kharash yar leh oo kaliya u baahan awoodda aadanaha.  
+Dhul bannaan iyo meelaha adag (sida asphalt iyo laamiga) waxay sare u qaadaan heerkulka marka loo eego meelaha dhirta daboolayso. Cawska ayaa 14°C ka qabow marka loo eego meelaha magaalooyinka ee aan cawska lahayn, waxaana uu ilaa 39°C ka qabow yahay cawska macmalka ah maalinta kulaylka ah.
 
-### Ka Tag Caleemaha Cawska Meesha  
-Ha isticmaalin boorsada caleemaha, balse isticmaal mashiinnada goynta ee caleemaha shiida si ay ugu noqdaan cawska. Isticmaal fargeeto si aad u kala fogeyso caleemaha waaweyn si aysan u dabooli cawska. Tani waxay dib ugu celinaysaa nafaqooyinka cawska waxayna yareynaysaa baahida bacriminta. Cilmi-baaristu waxay muujisay in qaadista caleemaha cawska ay qaadi doonto ku dhowaad kala bar nitrogen-ka la mariyay sannadkii.  
+Cilmi-baarayaasha Barnaamijka Maamulka Cawska ee Jaamacadda Oregon State waxay baarayaan sida cawskaaga loogu dhigi karo mid cimilada-saaxiib la ah. Cawska waxa uu kaarboon ka nuugaa hawada oo si ku meel gaar ah ugu kaydiyaa caleemaha iyo xididdada. Laakiin qaar ka mid ah kaarboonkaas waxaa dib ugu celiya hawada nooleyaasha dhulka ee burburiya xididdada iyo cawska dhintay.  
+Faahfaahin dheeraad ah ka akhri: Cawska Cimilada-saaxiibka ah: [https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly](https://extension.oregonstate.edu/gardening/lawn/through-thoughtful-practices-lawns-can-be-climate-friendly)
 
-### Bacriminta Si Fikir Leh  
-Heerarka bacriminta sannadlaha ah waa inay ahaadaan 2 ilaa 4 rodol oo nitrogen (N) ah halkii 1,000 ft laba jibbaaran. Si aad u yareyso raadkaaga kaarboonka, isticmaal bacrimin dabiici ah laba jeer sannadkii, xilli gu’ga iyo xilli dayrta, iyadoo la siinayo 1 ilaa 2 rodol oo N ah halkii 1,000 ft laba jibbaaran. Haddii aad doorato bacrimin kiimiko ah, dooro mid si tartiib ah u sii deynaya oo leh isku-darka fosfooraska oo hooseeya, sida 10:1 nitrogen ilaa fosfooraska.  
+## Fursadaha Yaraynta Saameynta Cimilada
 
-### Dhis Carra
+- Daraasado ayaa muujiyay in jarista, bacriminta iyo waraabinta la xoojiyay ay kordhiso sawir-qaadista oo ay badiso kaarboonka galaya cawska iyo ciidda.
+- Qaar ka mid ah dhaqamada beeralayda ayaa dhiirrigeliya noolaha ciidda si ay u burburiyaan walxaha organic-ka ah taasoo sii deynaysa kaarboon dib ugu laabanaya hawada.
+
+## Waxa la Sameeyo
+
+- **Jari cawska dherer sax ah:** Cawska la jaro iyadoo dhererkiisu sareeyo wuxuu leeyahay biomass badan oo caleemo ah. Laakiin dherer hoose oo la jaro wuxuu kordhiyaa cufnaanta cawska. Cilmi-baarista OSU waxay muujisay in dhererka 2 inch ama ka badan uu ugu fiican yahay caafimaadka cawska, ka hortagga haramaha iyo kaydinta kaarboonka. Jarista ka hooseysa 2 inch waxay u oggolaanaysaa haramaha inay ku bataan. Jarista 4 inch waxay siisaa kaydinta ugu badan ee kaarboonka iyo ka hortagga haramaha.
+- **Ka fogow qiiqa:** U beddel mashiinnada caws jarista, geesaha, gooyaha xarigga, iyo qalabka kale kuwa korontada ku shaqeeya. Mashiinnada gacanta lagu riixo waa ikhtiyaar kale oo jaban oo aan u baahnayn koronto.
+- **Caleemaha cawska meesha ha looga qaadin:** Ka fogow bacda ama isticmaal mashiin cawska gooya oo dib ugu celiya caleemaha cawska. Isticmaal xaaqin si aad u kala saarto caleemaha badan si aysan u daboolin cawska. Tani waxay dib ugu celineysaa nafaqooyinka cawska waxayna yareyneysaa baahida bacriminta. Cilmi-baaristu waxay muujisay in caleemo qaadista iyo ka saarista caleemaha cawska ay meesha ka saarto qiyaastii kala bar nitrogen-kii la mariyay sanadkii.
+- **Si maskax leh ugu dar bacriminta:** Heerarka bacriminta sanadlaha ah waa 2 ilaa 4 rodol oo nitrogen (N) ah halkii 1,000 sq ft. Si aad u yarayso raadadka kaarboonkaaga, isticmaal bacriminta organic laba jeer sanadkii, mar guga iyo mar dayrta, 1 ilaa 2 rodol N halkii 1,000 sq ft midkiiba. Haddii aad doorato bacriminta synthetic, dooro nooca si tartiib ah u sii deynaya oo leh fosfooraska yar, sida 10:1 nitrogen ilaa fosfooraska.
+- **Dhiso ciidda:** Ku darista compost waxay gacan ka geysan kartaa dhismaha ciidda. Ku faafi lakab afar meelood meel inch ah cawska jira guga ama dayrta kadibna xaaq. Lakabkan compost-ka ah wuxuu bixinayaa qiyaastii 2 rodol N halkii 1,000 sq ft. Sidaas darteed, laba jeer oo sidaa loo mariyo sanadkii waxay siinayaan 4 rodol N halkii 1,000 sq ft.
+- **Cawskaaga ku dar clover:** Clover iyo dhirta kale ee legumes-ka ah waxay kaarboon ka qabtaan hawada. Ku dar dhirtan si aad u abuurto "eco-lawn" oo aad uga fogaato qiiqa ka soo baxa bacriminta inta la sameynayo ama la gaarsiinayo.
+- **Biyaha si xikmad leh u isticmaal:** Cilmi-baaris dhowaan laga sameeyay galbeedka Oregon waxay muujisay in qiyaastii afar meelood meel inch oo la mariyo afar jeer usbuucii, wadarta hal inch usbuucii, ay cawska ka dhigeyso mid cagaaran oo caafimaad qaba kana yar haramaha marka loo eego cawska hal mar la siiyo hal inch. Yaraynta biyaha waraabka waxay sidoo kale yareyneysaa firfircoonida noolaha ciidda oo yareynaysa qiiqa kaarboonka.
+- **U daa inuu bunni noqdo:** Haddii aad aqbali karto caws bunni ah xagaaga, u daa inuu seexdo adigoon waraabin. Maskaxda ku hay in caws aan la waraabin uu u nugul yahay haramaha ballaaran oo u baahan doona dayactir dayrta. Cawska seexda sidoo kale guud ahaan waa dhexdhexaad kaarboon. Cawska ma koraayo oo ma nuugayo kaarboonka, laakin noolaha ciidda sidoo kale ma firfircoon oo ma sii deynayo kaarboon.
+- **Bedel cawskaaga biyo badan cuna:** Tall fescue guud ahaan waa caws xilli qabow ah oo adkaysi u leh abaarta oo cagaar sii ahaan kara xagaaga adoon waraabin. Cilmi-baarista OSU ee Willamette Valley waxay muujisay in nus inch usbuucii uu ku filan yahay tall fescue, halka perennial ryegrass loo baahan yahay hal inch usbuucii. Bariga iyo bartamaha Oregon, tall fescue waxay u baahan doontaa biyo badan (qiyaastii hal inch usbuucii). Common yarrow (Achillea millefolium) waa qayb ka mid ah dhirta eco-lawn ee Oregon. Isku-darka common yarrow iyo cawska waxay cawska ka dhigaysaa mid cagaaran waqti dheer xagaaga adoon waraabin. Haddii waraabinta la bixiyo bil kasta (nus ilaa hal inch mar bishiiba), cawska wuu cagaarnaan karaa xagaaga oo dhan. Abuurka common yarrow iyo dhirta kale ee eco-lawn waxaa laga iibsan karaa shirkadaha abuurka ee online-ka ah. Eco-lawn waxaa lagu beeri karaa adigoo abuurka ku firdhiya cawska jira ama marka la cusboonaysiinayo cawska gebi ahaanba.
+- **Daboolyo kale oo dhulka jiifa, aan caws ahayn** waxaa ka mid ah thyme jiifa, mint jiifa, chamomile hooseeya ama xataa moos. Ku dooro daboolka dhulka cadadka iftiinka iyo qoyaan ee goobta.
+- **Kor u qaad dulqaadkaaga haramaha:** Haramaha waxay xitaa ka caawin karaan beertaada inay noqoto mid kala duwanaansho leh iyagoo cunto u ah cayayaan kala duwan. Haramaha ubaxa leh waxay taageero u yihiin cayayaanka dhirta bacrimisa.
+- **Si xikmad leh u isticmaal sunta haramaha, haddii aad u baahan tahay:** Jari haramaha ka hor inta aysan abuur samayn si aadan ugu faafin ama isticmaal hab ka saarista jirka si aad u xakameyso haramaha. Haddii aad u baahato sunta haramaha, dooro mid saameyn yar leh adigoo ka eegaya liiska: [https://blogs.oregonstate.edu/schoolipm/pesticides/](https://blogs.oregonstate.edu/schoolipm/pesticides/)
+
+---
+
+#### Adeegga Kordhinta Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku saleysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aragtida siyaasadda, macluumaadka hidaha, xaaladda askariga, aargoosi, ama ciqaab loo geystay hawlaha xuquuqda madaniga ah. (Dhammaan sababaha la mamnuucay ma khuseeyaan barnaamij kasta.)  
+---

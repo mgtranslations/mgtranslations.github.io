@@ -1,38 +1,156 @@
-## Université en 10 Minutes™  
-L'association des Maîtres Jardiniers du comté de Clackamas, en collaboration avec et en soutien du programme OSU Extension Master Gardener™  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien du programme OSU Extension Master Gardener™
 
-### Cultiver des Racines  
-#### Cultiver des Bulbes  
-**Planter de l’ail**  
-Les mois d'août à octobre sont idéaux. Divisez le bulbe en gousses individuelles. Plantez à 3 pouces de profondeur, à 6 pouces d'écart, le côté pointu vers le haut. Arrosez jusqu'à ce que les pluies d'hiver commencent ou pendant les périodes de sécheresse. Gardez les plates-bandes sans mauvaises herbes. Fertilisez à mi-saison avec un engrais équilibré. Les fleurs d'ail (appelées scapes) peuvent être récoltées et consommées en milieu d'été. Réduisez l'arrosage à partir de fin juillet. Les feuilles commenceront à sécher et à brunir à la mi-août. Utilisez une fourche de jardin pour desserrer doucement les racines et tirer délicatement la plante. Laissez l’ail sécher dans un endroit frais et sec pendant quelques semaines. Coupez les feuilles et les racines.  
+---
 
-**Planter des oignons**  
-Plantez des ensembles d'oignons en mars, lorsque les températures sont fraîches. Plantez à 2-3 pouces d'écart, le côté pointu vers le haut. Les plantes préfèrent des conditions humides et fraîches au début de leur développement. En les éclaircissant, vous obtiendrez des oignons plus gros. Fertilisez à mi-saison avec un engrais équilibré. Les oignons en développement apprécient des conditions chaudes et sèches. Récoltez lorsque les tiges vertes tombent et commencent à brunir. Réduisez l'arrosage à ce stade. Utilisez une fourche de jardin pour desserrer doucement les racines et tirer. Enlevez la terre et laissez les oignons dans un endroit frais et sec pendant une à deux semaines. Coupez les feuilles et les racines.  
+## Spécificités de la culture des plantes-racines
 
-**Cultiver des poireaux**  
-Les poireaux cultivés à partir de graines sont mieux semés fin février ou début mars (8-10 semaines avant les dernières gelées), en intérieur dans des plateaux peu profonds remplis de terreau. Après germination, les semis peuvent être déplacés dans un châssis froid pour se développer. Une fois le risque de gel passé, les semis de poireaux peuvent être plantés dans des trous de 6 pouces de profondeur, espacés de 8 à 10 pouces. Ne remplissez pas les trous avec de la terre, mais laissez la terre s'y accumuler progressivement grâce à un arrosage doux. Du paillis ou du compost peut être ajouté une fois qu'ils poussent activement. Enterrer profondément les poireaux aide à blanchir les tiges et les rend tendres. Assurez une humidité constante autour des racines et appliquez un engrais polyvalent à mi-saison. Les poireaux peuvent être récoltés à n'importe quel stade de leur développement. Utilisez une fourche de jardin à 4 pouces de la base pour desserrer la terre et retirer les plantes une à une. Coupez les racines, taillez les feuilles à 5 pouces au-dessus de la tige blanche/vert clair. La partie comestible, appelée "fût", est constituée de couches de tiges charnues. Cette structure et ce mode de croissance en font un bulbe.  
+### Cultiver des bulbes
 
-#### Cultiver des Rhizomes  
-**Gingembre ou Curcuma**  
-Le gingembre ou le curcuma peuvent être propagés à partir d'un morceau de rhizome sain et dodu. Coupez le rhizome en morceaux de 1 à 1½ pouces et laissez-les cicatriser pendant quelques jours. Les rhizomes peuvent avoir été traités avec un retardateur de croissance, donc faites-les tremper dans de l'eau toute une nuit. Plantez les rhizomes en mars, les bourgeons de croissance tournés vers le haut, espacés de 2 à 4 pouces, et recouvrez-les avec 3 pouces de terreau dans un pot. Gardez les plantes en développement dans des conditions chaudes et humides, pour imiter leur origine tropicale. Les rhizomes peuvent développer des racines, se ramifier pour créer d'autres plantules et produire des pousses. La plante peut être transférée à l'extérieur ou transplantée dans un jardin en juin. Le rhizome poussera horizontalement dans le pot ou le jardin pendant l'été, mais il doit être récolté ou déplacé à l'intérieur avant les gelées. Les plants de gingembre atteindront environ 2 à 3 pieds de hauteur. La récolte peut être partielle ou totale. Utilisez une fourche de jardin pour desserrer doucement le rhizome/les racines, détachez une partie du rhizome et retirez les feuilles. Conservez le rhizome au congélateur ou au réfrigérateur. Les feuilles peuvent être séchées pour du thé.  
+#### Ail
 
-#### Cultiver des Racines Pivotantes  
-**Carottes, Radis, Betteraves et Panais**  
-Ces légumes sont des cultures de saison fraîche, ce qui signifie qu'ils peuvent être plantés tôt lorsque le sol atteint environ 40 degrés au printemps, ou en fin d'été pour une récolte d'automne. Semez les graines en suivant les indications sur le paquet. Gardez le sol uniformément humide, surtout pendant la germination, et arrosez en profondeur régulièrement pendant la saison de croissance. L’éclaircissage des jeunes plants est essentiel pour le développement des racines (selon les instructions du paquet). Les jeunes légumes-racines récoltés contribuent à cet objectif. Les panais nécessitent un engrais riche en azote à mi-saison. Pour les autres cultures, fertilisez modérément en mettant l’accent sur le phosphore et le potassium. Le temps de récolte dépend de la variété des plantes : les radis sont prêts en 21-35 jours, les betteraves en 50-65 jours, les carottes en 65-90 jours (220 jours pour celles hivernées), et les panais en 100 jours avant les fortes chaleurs estivales. Récoltez en tirant doucement sur la base des feuilles et en les tirant vers le haut. Rincez la terre et stockez dans un réfrigérateur frais et humide.  
+- **Plantation :**
+  - Plantez les bulbes d’ail entre août et octobre pour de meilleurs résultats.
+  - Séparez le bulbe en gousses individuelles.
+  - Plantez les gousses à 7 cm de profondeur, espacées de 15 cm, la pointe vers le haut.
+- **Entretien :**
+  - Arrosez jusqu’à ce que les pluies d’hiver commencent ou durant les périodes sèches.
+  - Gardez les plates-bandes sans mauvaises herbes.
+  - Fertilisez à mi-saison avec un engrais équilibré.
+- **Récolte :**
+  - Les tiges florales (“scapes”) peuvent être récoltées et mangées à la mi-été.
+  - Réduisez l’arrosage fin juillet.
+  - Les feuilles commencent à sécher et brunir à la mi-août.
+  - Utilisez une fourche de jardin pour desserrer délicatement les racines et retirer la plante.
+  - Laissez sécher l’ail dans un endroit frais et sec pendant quelques semaines.
+  - Coupez les feuilles et enlevez les racines.
 
-#### Cultiver des Racines Tubéreuses  
-**Patates Douces**  
-Les patates douces sont cultivées à partir de "boutures" qui se développent en plantes vigoureuses. En avril, placez une patate douce dans une boîte en carton avec du sable humide, recouvrez de 2 pouces de sable. Fermez la boîte et laissez dans un endroit chaud. Vérifiez l'apparition de pousses. Une bonne bouture de patate douce doit être ferme, verte et mesurer entre 8 et 12 pouces, avec une ou deux feuilles. Plantez les boutures avec l’extrémité coupée vers le bas à 4-5 pouces de profondeur, espacées de 9 à 15 pouces. Les rangées doivent être espacées de 3 à 4 pieds. Arrosez immédiatement après la transplantation pour favoriser la formation des racines sur les boutures. Maintenez une humidité uniforme du sol. Les variétés de patates douces ont des jours de maturité variables, mais la plupart nécessitent entre 90 et 120 jours. Récoltez les patates douces à la fin de l'été ou au début de l'automne, avant que la température du sol ne descende en dessous de 60°F. La récolte et le stockage sont similaires à ceux des pommes de terre.  
+#### Oignons
 
-#### Cultiver des Tubercules  
-**Pommes de Terre**  
-Plantez les pommes de terre fin mars ou début avril. Préparez-les en coupant une grosse pomme de terre de semence en plusieurs morceaux (environ 2 onces chacun) ayant 2-3 yeux (bourgeons dormants), puis laissez sécher à l’air pendant quelques jours pour cicatriser les blessures. Dans un sol meuble et bien drainé, creusez des trous de 2 pieds de profondeur, 12 pouces de largeur et espacés de 3 pieds. Placez les morceaux de pomme de terre dans les trous et recouvrez de 4-6 pouces de terre. Si le sol du jardin est dur, creusez des trous peu profonds de 6 pouces avec une base et des côtés ameublis. Recouvrez de 4-6 pouces de terre. Lorsque les pousses de pommes de terre émergent avec du feuillage en 3-4 semaines, ajoutez 12 pouces d’un mélange de terre, compost ou foin pour les recouvrir. Répétez cette opération au moins une fois pour encourager la formation des tubercules. Les variétés précoces peuvent être récoltées en 9-12 semaines, et les variétés tardives en 14-17 semaines, toujours après la floraison des plantes. Pour récolter, utilisez une fourche à au moins 6 pouces de la plante ; creuser et chercher avec les mains est une autre technique. Enlevez la terre (ne lavez pas) et stockez dans un endroit frais et sec.  
+- **Plantation :**
+  - Plantez les bulbilles d’oignon en mars, quand il fait frais.
+  - Plantez-les à 5–7 cm d’intervalle, la pointe vers le haut.
+- **Entretien :**
+  - Les conditions fraîches et humides sont préférées au début de la croissance.
+  - Éclaircissez les plants à mesure qu’ils grandissent pour obtenir de plus gros oignons.
+  - Fertilisez à mi-saison avec un engrais équilibré.
+  - Les oignons en développement préfèrent des conditions chaudes et sèches.
+- **Récolte :**
+  - Récoltez lorsque les tiges vertes tombent et commencent à brunir.
+  - Réduisez l’arrosage à ce moment-là.
+  - Utilisez une fourche de jardin pour desserrer délicatement les racines et retirer la plante.
+  - Enlevez la terre et laissez sécher les oignons en hauteur dans un endroit frais et sec pendant 1 à 2 semaines.
+  - Coupez les feuilles et retirez les racines.
 
-### Ressources  
-Les légumes-racines peuvent donner un bon départ à votre jardin de printemps  
-[https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)  
+#### Poireaux
 
-Racines, tiges et bulbes comestibles - Extension de Penn State  
-[https://extension.psu.edu/edible-roots-stems-and-bulbs](https://extension.psu.edu/edible-roots-stems-and-bulbs)  
+- **Plantation :**
+  - Commencez les semis à l’intérieur fin février ou début mars (8 à 10 semaines avant la dernière gelée) dans des plateaux peu profonds avec du terreau.
+  - Après la germination, déplacez les jeunes plants dans un châssis froid pour qu’ils se développent.
+  - Après la menace de gel, plantez les poireaux un par trou de 15 cm de profondeur, espacés de 20 à 25 cm.
+  - Ne remplissez pas le trou de terre ; laissez la terre s’y accumuler progressivement avec des arrosages doux.
+- **Entretien :**
+  - Un paillage ou du compost peut être ajouté une fois la croissance commencée.
+  - Enterrer profondément aide à blanchir les tiges et les rendre tendres.
+  - Fournissez une humidité constante à la zone racinaire.
+  - Appliquez un engrais polyvalent à mi-saison.
+- **Récolte :**
+  - Les poireaux peuvent être récoltés à n’importe quel stade de développement.
+  - Utilisez une fourche de jardin à 10 cm de la base pour desserrer la terre et retirer les plants un par un.
+  - Coupez les racines et taillez les feuilles à environ 13 cm au-dessus de la tige blanche/vert clair.
+  - La partie comestible, appelée “fût”, est composée de couches de tiges charnues.
 
-Le service d'extension de l'université d'État de l'Oregon interdit toute discrimination dans ses programmes, services, activités et supports sur la base de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris l'expression de genre), orientation sexuelle, handicap, âge, statut marital, statut familial/de parent, revenu issu d'un programme d'assistance publique, opinions politiques, informations génétiques, statut de vétéran, représailles ou retorsions pour une activité antérieure liée aux droits civiques. (Toutes ces bases interdites ne s'appliquent pas à tous les programmes.)
+---
+
+### Cultiver des rhizomes
+
+#### Gingembre ou curcuma
+
+- **Plantation :**
+  - Multipliez à partir d’un rhizome sain et dodu.
+  - Coupez le rhizome en morceaux de 2–4 cm et laissez-les cicatriser quelques jours.
+  - Faites tremper les rhizomes une nuit s’ils ont été traités avec un ralentisseur de croissance.
+  - Plantez les rhizomes en mars, bourgeons vers le haut, espacés de 5 à 10 cm, et couvrez-les de 7 cm de terreau dans un pot.
+- **Entretien :**
+  - Gardez les plantes dans des conditions chaudes et humides, comme sous les tropiques.
+  - Transplantez à l’extérieur ou dans le jardin en juin.
+  - Les rhizomes poussent à l’horizontale en été, mais doivent être récoltés ou rentrés avant les gelées.
+- **Récolte :**
+  - Les plantes de gingembre atteignent 60 à 90 cm de haut.
+  - Récoltez partiellement ou complètement à l’aide d’une fourche de jardin pour desserrer les rhizomes/racines.
+  - Cassez des morceaux de rhizome et enlevez les feuilles.
+  - Conservez les rhizomes au congélateur ou au réfrigérateur.
+  - Les feuilles peuvent être séchées pour faire du thé.
+
+---
+
+### Cultiver des racines pivotantes
+
+#### Carottes, radis, betteraves et panais
+
+- **Plantation :**
+  - Semez les graines tôt au printemps lorsque le sol atteint environ 4°C ou à la fin de l’été pour une récolte d’automne.
+  - Suivez les instructions de l’emballage pour l’espacement.
+- **Entretien :**
+  - Maintenez le sol uniformément humide, surtout pendant la germination.
+  - Arrosez régulièrement et en profondeur pendant la saison de croissance.
+  - Éclaircissez les jeunes plants pour favoriser le développement des racines (voir l’emballage des graines).
+  - Les panais ont besoin d’un engrais riche en azote à mi-saison ; les autres cultures demandent une fertilisation modérée avec plus de phosphore et de potassium.
+- **Récolte :**
+  - Radis : 21–35 jours.
+  - Betteraves : 50–65 jours.
+  - Carottes : 65–90 jours (220 jours si hivernées).
+  - Panais : 100 jours avant les fortes chaleurs estivales.
+  - Récoltez en tirant doucement la base des fanes vers le haut.
+  - Rincez la terre et conservez au réfrigérateur dans un environnement frais et humide.
+
+---
+
+### Cultiver des racines tubéreuses
+
+#### Patates douces
+
+- **Plantation :**
+  - Faites pousser à partir de “boutures” (“slips”) début avril.
+  - Placez une patate douce dans une boîte en carton avec du sable humide, recouvrez de 5 cm de sable et gardez au chaud.
+  - Surveillez la germination ; les boutures doivent être fermes, vertes, de 20–30 cm de long avec une ou deux feuilles.
+  - Plantez les boutures, extrémité coupée vers le bas, à 10–13 cm de profondeur et espacées de 23–38 cm.
+  - Les rangs doivent être espacés de 90 à 120 cm.
+- **Entretien :**
+  - Arrosez immédiatement après la plantation pour favoriser la formation des racines.
+  - Maintenez une humidité régulière du sol.
+- **Récolte :**
+  - Les patates douces mûrissent en 90 à 120 jours.
+  - Récoltez de la fin de l’été au début de l’automne, avant que la température du sol ne descende sous 16°C.
+  - Récoltez et stockez comme les pommes de terre.
+
+---
+
+### Cultiver des tubercules
+
+#### Pommes de terre
+
+- **Plantation :**
+  - Plantez fin mars ou début avril.
+  - Coupez les grosses pommes de terre de semence en morceaux (environ 60 g) avec 2 à 3 yeux chacun ; laissez sécher quelques jours pour cicatriser.
+  - Dans un sol meuble et bien drainé, creusez des trous de 60 cm de profondeur, 30 cm de large et espacés de 90 cm.
+  - Placez le morceau de pomme de terre dans le trou et recouvrez de 10–15 cm de terre.
+  - Pour les sols durs, creusez des trous peu profonds de 15 cm et ameublissez la base et les côtés. Recouvrez de 10–15 cm de terre.
+- **Entretien :**
+  - Dès l’apparition des pousses avec le feuillage (en 3–4 semaines), ajoutez 30 cm d’un mélange de terre, compost ou foin pour recouvrir. Répétez au moins une fois pour favoriser la formation des tubercules.
+- **Récolte :**
+  - Variétés précoces : 9–12 semaines.
+  - Variétés tardives : 14–17 semaines (après floraison).
+  - Utilisez une fourche de jardin à au moins 15 cm du plant pour ameublir la terre ; chercher à la main est aussi possible.
+  - Brossez la terre (ne lavez pas) et stockez dans un endroit frais et sec.
+
+---
+
+## Ressources
+
+- [Les plantes-racines peuvent donner un coup de pouce à votre potager de printemps](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
+- [Racines, tiges et bulbes comestibles – Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
+
+---
+
+###### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état matrimonial, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des opinions politiques, des informations génétiques, du statut d’ancien combattant, des représailles ou de la rétorsion pour une activité antérieure relative aux droits civils. (Toutes les bases d’interdiction ne s’appliquent pas à tous les programmes.)
+---

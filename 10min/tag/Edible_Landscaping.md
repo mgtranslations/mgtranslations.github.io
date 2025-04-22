@@ -1,91 +1,109 @@
-s f10-Minute University™
-Ang Clackamas County Master Gardener Association, sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Edible Landscaping
+# Nakakaing Landscaping
 
-### Overview
-Kapag iniisip ng mga tao ang tungkol sa pagtatanim ng pagkain sa mga urban na lugar, kadalasang iniisip nila ang pagtatago ng vegetable garden sa likod ng bahay. Ang edible landscaping ay nagbibigay ng alternatibo sa karaniwang residential landscapes; ang mga halaman na edible ay maaaring maging kasing ganda habang nagpo-produce ng prutas at gulay. Maaari kang magtanim ng buong edible landscape o isama ang ilang edible plants sa mga kasalukuyang hardin.
+### Pangkalahatang-ideya
 
-### Depinisyon
-Ang edible landscaping ay ang paggamit ng mga halaman na nagpo-produce ng pagkain sa residential landscape. Pinagsasama nito ang mga puno ng prutas at mani, berry bushes, gulay, herbs, edible flowers, kasama ang ornamental plants sa mga disenyo na kaaya-aya sa mata. Ang mga disenyo na ito ay maaaring mag-adopt ng anumang istilo ng hardin at maaaring maglaman ng 1 hanggang 100 porsyentong edible na mga halaman.
+Kapag iniisip ng mga tao ang pagtatanim ng pagkain sa lungsod, kadalasan ay tinatago nila ang gulayan sa likod ng bahay.
 
-### Bakit Gumamit ng Edible Landscaping?
-- Masiyahan sa pagiging sariwa at lasa ng mga prutas at gulay na sariling tanim.
-- Kontrolin ang dami at uri ng mga pesticide at herbicide na ginagamit sa mga pagkain na iyong kinakain.
-- Dagdagan ang food security sa iyong sambahayan.
-- Makakatipid sa gastusin sa grocery.
-- Magtanim ng mga hindi pangkaraniwang uri na hindi mabibili sa mga tindahan.
-- Lumabas, makipag-ugnayan sa natural na mundo, at mag-enjoy.
+Nag-aalok ang nakakaing landscaping ng alternatibo sa karaniwang disenyo ng mga bakuran; ang mga halamang nakakain ay maaari ring maging maganda at nagbibigay pa ng bunga at gulay. Maaari kang magtanim ng puro nakakain na halaman o ihalo ang ilan sa mga ito sa iyong kasalukuyang hardin.
 
-### Mga Bagay na Dapat Isaalang-alang
+### Kahulugan
+
+Ang nakakaing landscaping ay ang paggamit ng mga halamang nagbibigay ng pagkain sa bakuran ng bahay. Pinagsasama nito ang mga punong prutas at mani, mga palumpong ng berries, gulay, damo (herbs), nakakain na bulaklak, at ornamental na halaman sa magagandang disenyo. Maaaring gumamit ng kahit anong istilo ng hardin, mula 1 hanggang 100 porsyentong nakakain na halaman.
+
+### Bakit Dapat Mag-landscape ng Nakakain?
+
+- Masisiyahan ka sa sariwa at masarap na prutas at gulay na galing mismo sa iyong bakuran.
+- Makokontrol mo ang dami at uri ng pesticide at herbicide na ginagamit sa iyong pagkain.
+- Mapapataas mo ang seguridad sa pagkain ng iyong pamilya.
+- Makakatipid ka sa gastusin sa pagkain.
+- Makakapagtanim ka ng kakaibang uri ng gulay at prutas na wala sa tindahan.
+- Makakalabas ka, makikipag-ugnayan sa kalikasan, at mag-eenjoy.
+
+### Mga Dapat Isaalang-alang
 
 #### Lokasyon
-Karamihan sa mga prutas at gulay ay nangangailangan ng 6 hanggang 8 oras ng sikat ng araw para mag-produce ng maayos. Ang ilang native na halaman, tulad ng salmonberry at thimbleberry, ay maaaring tumubo sa lilim, gayundin ang mga halaman na may edible na dahon, tulad ng lettuce at kale.
+
+Karamihan sa mga prutas at gulay ay nangangailangan ng 6 hanggang 8 oras ng araw para mamunga nang maayos. Ang ilang halamang likas dito tulad ng salmonberry at thimbleberry ay tumatagal kahit may kaunting lilim, pati na rin ang mga halamang kinakain ang dahon gaya ng letsugas at kale.
 
 #### Espasyo
-Siguraduhing isaalang-alang ang laki ng halaman kapag ito ay ganap na lumaki. Ang dwarf o semi-dwarf na puno at mas maliliit na shrubs ay angkop sa mas maliit na espasyo. Ang paggamit ng trellises, fences, at arbors ay isang paraan upang magamit ang vertical space para sa pagtatanim ng edible trees, shrubs, at vines.
 
-#### Oras at Pangangalaga
-Ang mga edible plants ay nangangailangan ng pangangalaga sa mga partikular na yugto ng kanilang paglaki upang manatiling produktibo. Kasama sa pangangalaga ang pagpapabuti ng lupa, maingat na pagdidilig at paglalagay ng fertilizer sa tamang oras, at masusing pamamahala ng mga sakit at insekto. Ito ay lalong mahalaga kapag ang mga halaman ay bago o kakatanim pa lamang.
+Isipin ang laki ng halaman kapag malaki na ito. Ang mga punong dwarf o semi-dwarf at mga palumpong na maliit ay bagay sa masisikip na lugar. Maaaring gamitin ang mga trellis, bakod, at arbor para magamit ang patayong espasyo at doon magpalago ng nakakain na puno, palumpong, at baging.
+
+#### Oras at Pag-aalaga
+
+Kailangan ng tamang pag-aalaga ang mga nakakain na halaman sa bawat yugto ng kanilang paglaki para manatiling mabunga. Kailangan nila ng pinabuting lupa, maingat na pagdidilig at paglalagay ng pataba sa tamang oras, at pagbantay sa sakit at peste. Lalo na ito kapag bata pa ang halaman o bagong tanim.
 
 #### Paggamit
-Alamin kung kailan dapat anihin ang mga tanim, at maging handa na gamitin ang kasaganahan mula sa iyong hardin.
 
-#### Kagandahan
-Ang mga ornamental plants ay nag-aalok ng malawak na hanay ng kulay ng bulaklak, hugis ng dahon, texture, at kulay ng dahon. Sa kaunting pananaliksik, posibleng makahanap ng mga edible plants na may mga katangian na iyong pinahahalagahan. Halimbawa:
-1. Gustong-gusto ang pink na bulaklak ng dogwood tree? Ang apple tree ay may magagandang pink na bulaklak.
-2. Nagagandahan sa hugis at malalim na pulang kulay ng dahon ng Japanese maple? Ang Black elderberry ay may lacy, blackish na dahon.
-3. Gustong-gusto ang maliwanag na pulang kulay ng dahon ng burning bush tuwing taglagas? Ang blueberry bushes ay may parehong epekto.
-4. Hinahangaan ang malalaking dahon ng hostas ngunit walang sapat na lilim? Ang rhubarb ay nagdadala ng drama sa maaraw na lugar na may malalaking dahon.
+Alamin kung kailan dapat anihin at maghanda na gamitin ang saganang ani mula sa iyong hardin.
 
-### Maikling Listahan ng Edible Plants (* nangangahulugang native)
+#### Ganda
 
-#### Small Trees (10 hanggang 20 talampakan)
-- **Apple**: Pumili mula sa semi-dwarf, espalier, at columnar forms; lahat ay may magagandang pink na bulaklak tuwing tagsibol. Ang mga varieties tulad ng Chehalis, Jonafree, Liberty, Prima, at Redfree ay resistant sa scab.
-- **Black Elderberry** (*): Lacy, blackish na dahon na napaka-kaakit-akit; ang prutas ay ginagamit para sa jelly, syrup, at wine. Mabuting fire-resistant na halaman.
-- **Cherry**: Pulang o ginintuang prutas tuwing tag-init. May compact forms na angkop para sa maliit na espasyo. Madalas na nagkakasakit, at mahilig din ang mga ibon sa cherries!
-- **Fig**: Malalaki, tropikal na dahon. Walang sakit.
-- **Pear**: Asian at European—Puti ang bulaklak tuwing maagang tagsibol. Ang Asian pears ay madalas na hindi nagkakaroon ng sakit.
-- **Persimmon**: Makulay na orange na prutas tuwing taglagas; walang problema sa sakit.
-- **Plum**: Ang hinog na prutas ay maaaring berde, ginto, pula, o purple. Ang Brooks at Italian varieties ng European plums ay madaling itanim. Ang brown rot ang pinakakaraniwang problema.
-- **Serviceberry** (*): Mga kumpol ng puting bulaklak tuwing maagang tagsibol; ang kulay ng dahon tuwing taglagas ay maliwanag na dilaw hanggang orange. Adaptable sa iba’t ibang uri ng lupa at moisture.
+Ang mga ornamental na halaman ay may iba’t-ibang kulay ng bulaklak, hugis at tekstura ng dahon. Sa kaunting pananaliksik, makakahanap ka ng nakakain na halaman na may mga katangiang gusto mo. Halimbawa:
 
-#### Shrubs (woody, perennials, annuals; 3 hanggang 10 talampakan)
-- **Blueberry**: Magandang kulay tuwing taglagas at masaganang prutas tuwing tag-init. Madaling itanim at may kaunting problema sa sakit.
-- **Currant at Gooseberry**: Maraming tart berries na ginagamit sa jams at jellies. Madaling tumubo sa medium hanggang heavy soil at sa iba’t ibang pH ng lupa.
-- **Evergreen Huckleberry** (*): Magandang evergreen shrub na may bronze-colored na dahon. Mahilig sa part hanggang full shade.
-- **Rhubarb**: Malalaki, kawili-wiling dahon at pulang tangkay. Nakakalason ang dahon ng rhubarb; tangkay lang ang dapat kainin.
-- **Salmonberry** (*): Ang hinog na prutas ay maliwanag na orange hanggang malalim na pula. Madaling mag-naturalize ngunit kailangang kontrolin sa pagkalat.
-- **Strawberry Tree**: Malaking evergreen shrub na may madilim na berdeng glossy na dahon at maliwanag na pulang prutas. Namumulaklak tuwing huling taglagas hanggang taglamig; pinakamainam na ilagay sa protektadong lugar.
-- **Tomato**: Kaakit-akit, edible na prutas sa dilaw, orange, pula, berde, purple, at itim na kulay at iba’t ibang hugis. Itinatanim bilang annual tuwing tag-init; kailangan ng araw at init upang mahinog. Iwasan ang overhead watering upang maiwasan ang sakit.
+1. Gusto mo ba ang pink na bulaklak ng dogwood tree? Ang apple tree ay may magagandang pink na bulaklak.
+2. Gusto mo ang hugis at makapal na pulang dahon ng Japanese maple? Ang black elderberry ay may lacy at maitim na dahon.
+3. Gustong-gusto mo ang maliwanag na pulang kulay ng burning bush tuwing taglagas? Ganoon din ang blueberry bush.
+4. Nahihilig ka sa malalaking dahon ng hosta pero kulang sa lilim? Ang rhubarb ay nagbibigay drama sa maaraw na lugar gamit ang malalaking dahon.
 
-#### Vines at Iba Pang Climbers
-- **Grape** (wine o seedless table grapes): Kaakit-akit na dahon na nagbibigay ng magandang lilim tuwing tag-init sa arbor o patio. Kailangan ng mahigpit na taunang pruning para sa maayos na productivity.
-- **Kiwi** (fuzzy at hardy kiwi): Exotic na dahon, puting bulaklak tuwing Mayo, at prutas na kulay berde, pula, at brown tuwing taglagas. Karamihan ay nangangailangan ng matibay na istruktura para suportahan ang masiglang pag-usbong. May mga bagong mas maliit at self-fertile na varieties.
-- **Raspberry**: Ang mga prutas ay nagbibigay ng magagandang kulay tuwing tag-init at taglagas. Ang mga sanga ay mabilis tumubo at punan ang maaraw na lugar tuwing tagsibol at tag-init. Itanim ito sa lupa na maayos ang drainage upang maiwasan ang root rot.
-- **Marionberry**: Isang blackberry na hindi masyadong invasive, developed sa OSU. Isang espesyal na teknika ang ginagamit upang i-train ang berry canes sa wires.
-- **Cucumber**: Kapag pinayagang umakyat, ang mga bulaklak at prutas ng cucumber ay nagiging magandang background plant. Madaling mauhaw sa mainit na panahon at nangangailangan ng maraming tubig.
-- **Pole Bean**: Kailangan ng full sun at mabuting air circulation upang maiwasan ang powdery mildew. Gamitin sa lugar ng mga bata upang gumawa ng teepees at tunnels.
+### Maikling Listahan ng mga Nakakain na Halaman (* tumutukoy sa katutubong halaman)
 
-#### Ground Covers
-- **Strawberry**: Mga puting bulaklak tuwing tagsibol at pulang prutas tuwing tag-init; ang strawberries ay short-lived at kailangang itanim muli bawat 3 hanggang 4 na taon.
-- **Lingonberry**: Maganda at mukhang delicate na evergreen ground cover. Mas maraming prutas ang naipoproduce sa full sun ngunit tumutubo rin sa part shade.
-- **Lettuce**: Ang mga dahon ay may iba’t ibang kulay mula pula, berde, hanggang asul, na may iba’t ibang hugis. Ang lettuce ay mabilis mag-seed tuwing mainit na panahon; magtanim ng binhi kada dalawang linggo para sa tuloy-tuloy na supply.
-- **Kale**: Lacy na dahon sa pula, purple, berde, at asul. Mas tumutubo tuwing taglagas hanggang taglamig; miyembro ng cabbage family at maaaring atakihin ng flea beetles at cabbage moth.
-- **Swiss Chard**: Ang mga makukulay na varieties ay ang reyna ng edible ornamentals. Tandaan na ang mga slug ay mahilig din sa Swiss chard.
+#### Maliit na Puno (10 hanggang 20 talampakan)
 
-## Karagdagang Resources
-### Mga Resources para sa Edible Plants sa Northwest
-- **Sunset Western Garden Book**
-- **Oregon State University Extension Publications**
-  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-- **10-Minute University**
-  [www.cmastergardeners.org](http://www.cmastergardeners.org)
+- **Mansanas**: Pumili ng semi-dwarf, espalier, o columnar na uri; lahat ay may magagandang pink na bulaklak tuwing tagsibol. Ang mga uri gaya ng Chehalis, Jonafree, Liberty, Prima, at Redfree ay hindi madaling dapuan ng scab.
+- **Black Elderberry***: Maganda ang lacy at maitim na dahon; ang bunga ay ginagamit sa jelly, syrup, at alak. Maganda ring panlaban sa sunog.
+- **Seresa**: Pula o gintong bunga tuwing tag-init. May maliliit na uri para sa masisikip na lugar. Madaling tamaan ng sakit. Gustong-gusto rin ng mga ibon ang seresa!
+- **Igos**: Malalaki at mukhang tropikal ang mga dahon. Madalang dapuan ng sakit.
+- **Peras**: Asian at European—Puti ang bulaklak tuwing maagang tagsibol. Ang Asian pears ay halos walang sakit.
+- **Persimmon**: Makukulay na orange na bunga tuwing taglagas; halos walang sakit.
+- **Plum**: Maaaring berde, ginto, pula, o lila ang hinog na bunga. Ang Brooks at Italian na uri ng European plums ay madaling palaguin. Brown rot ang karaniwang problema.
+- **Serviceberry***: Pumpon ng puting bulaklak tuwing maagang tagsibol; matingkad na dilaw hanggang orange ang kulay tuwing taglagas. Madaling umangkop sa iba’t-ibang lupang pagtataniman.
 
-### Master Gardener™ Advice
-- Tumawag sa Home Horticulture Helpline:
+#### Palumpong (kahoy, perennial, annual; 3 hanggang 10 talampakan)
+
+- **Blueberry**: Maganda ang kulay tuwing taglagas at maraming bunga tuwing tag-init. Madaling palaguin at bihira ang sakit.
+- **Currant at Gooseberry**: Maraming maasim na bunga para sa jam at jelly. Tumutubo sa katamtaman hanggang mabigat na lupa at sa iba’t-ibang pH ng lupa.
+- **Evergreen Huckleberry***: Magandang evergreen na palumpong na may bronse ang dahon. Gusto ng bahagyang lilim hanggang buong lilim.
+- **Rhubarb**: Malalaki at kakaiba ang dahon, pula ang tangkay. Ang dahon ng rhubarb ay lason; tangkay lang ang kinakain.
+- **Salmonberry***: Ang hinog na bunga ay maliwanag na orange hanggang malalim na pula. Madaling tumubo at kumalat kaya kailangang kontrolin.
+- **Strawberry Tree**: Malaki, evergreen na palumpong na may madilim na berdeng dahon at maliwanag na pulang bunga. Namumulaklak mula taglagas hanggang taglamig; ilagay sa lugar na protektado sa hangin.
+- **Kamatis**: Maganda, nakakain na bunga na may kulay dilaw, orange, pula, berde, lila, at itim at iba’t-ibang hugis. Itinatanim tuwing tag-init, kailangan ng araw at init para mahinog. Iwasan ang pagbubuhos ng tubig sa dahon para maiwasan ang sakit.
+
+#### Baging at Iba Pang Gumagapang
+
+- **Ubas** (pang-alak o seedless na ubas): Magandang dahon na nagbibigay lilim sa arbor o patio tuwing tag-init. Kailangan ng matinding pagputol taon-taon para mamunga nang marami.
+- **Kiwi** (fuzzy at hardy kiwi): Kakaibang dahon, puting bulaklak tuwing Mayo, at bunga na berde, pula at kayumanggi tuwing taglagas. Karamihan ay nangangailangan ng matibay na suporta dahil sa mabilis na paglaki. Mayroon nang mga maliit at self-fertile na uri.
+- **Raspberry**: Nagbibigay ng makukulay na bunga tuwing tag-init at taglagas. Mabilis lumaki ang mga sanga at napupuno ang maaraw na lugar tuwing tagsibol at tag-init. Itanim sa lupa na madaling matuyo para maiwasan ang root rot.
+- **Marionberry**: Blackberry na hindi madaling kumalat, dinebelop sa OSU. May espesyal na paraan ng pagtali ng sanga sa alambre.
+- **Pipino**: Kung palalampasin na gumapang, ang bulaklak at bunga ng pipino ay magandang background ng hardin. Madaling mauhaw sa init at kailangan ng maraming tubig.
+- **Pole Bean**: Kailangan ng buong araw at maayos na hangin para maiwasan ang powdery mildew. Puwedeng gamitin sa pambatang bahagi ng hardin para gawing teepee o tunnel.
+
+#### Pangtakip sa Lupa
+
+- **Fresa**: Puti ang bulaklak tuwing tagsibol at pula ang bunga tuwing tag-init; ang fresa ay hindi tumatagal at dapat palitan bawat 3 hanggang 4 na taon.
+- **Lingonberry**: Maganda at mukhang maselang evergreen na ground cover. Mas maraming bunga kung may buong araw ngunit tumutubo rin kahit may lilim.
+- **Letsugas**: Iba-iba ang kulay mula pula, berde, hanggang asul, pati hugis ng dahon. Mabilis mamulaklak kung mainit; magtanim kada 2 linggo para tuloy-tuloy ang ani.
+- **Kale**: Lacy na dahon na pula, lila, berde, at asul. Mas maganda mula taglagas hanggang taglamig; kabilang sa pamilya ng repolyo kaya puwedeng atakihin ng ipis at cabbage moth.
+- **Swiss Chard**: Matingkad ang kulay at reyna ng edible ornamentals. Tandaan na mahilig din dito ang mga susô.
+
+### Karagdagang Pinagkukunan
+
+#### Mga Pinagmumulan ng Nakakain na Halaman sa Northwest
+
+- *Sunset Western Garden Book*
+- Oregon State University Extension Publications: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- *10-Minute University*: [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+#### Payong Master Gardener™
+
+- **Tumawag sa Home Horticulture Helpline:**
   - 503-655-8631 (Clackamas)
   - 503-821-1150 (Washington)
   - 503-445-4608 (Multnomah)
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, marital status, familial/parental status, kita mula sa public assistance program, political beliefs, genetic information, veteran’s status, reprisal o retaliation para sa naunang civil rights activity. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, aktibidad, at mga materyales batay sa lahi, kulay, pinagmulang bansa, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, katayuang mag-asawa, katayuan bilang magulang/pamilya, kita mula sa pampublikong tulong, paniniwala sa pulitika, genetic information, katayuang beterano, paghihiganti o retaliation sa naunang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

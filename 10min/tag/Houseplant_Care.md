@@ -1,54 +1,94 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Paano Mag-alaga ng mga Halaman sa Loob ng Bahay  
+# Paano Alagaan ang mga Halamang Panloob
 
-Ang pag-aalaga ng mga halaman sa loob ng bahay ay isang mahusay na paraan upang magdagdag ng luntiang greenery sa iyong tahanan. Bagamat may mga halaman na halos hindi mahirap palaguin, lahat ng halaman ay nangangailangan ng pangunahing pangangalaga. Tumutubo ang mga halaman sa kapaligirang malapit sa kanilang likas na tirahan. Bago bumili ng mga bagong halaman, alamin ang kanilang pangunahing pangangailangan upang matukoy kung mayroon kang tamang lugar para sa kanila sa iyong bahay at maibibigay ang tamang pag-aalaga.  
+Ang pagtatanim ng mga halamang panloob ay isang mahusay na paraan para magdagdag ng luntiang berdeng tanawin sa iyong tahanan. Kahit na may mga halamang panloob na halos hindi mahirap alagaan, lahat ng halaman ay nangangailangan ng pangunahing pag-aalaga. Mas maganda ang tubo ng mga halaman kung ang kanilang paligid ay kahawig ng kanilang natural na tirahan. Bago bumili ng bagong halaman, alamin muna ang kanilang pangunahing pangangailangan para malaman kung may tamang lugar ka para sa kanila at kung kaya mong ibigay ang tamang pag-aalaga.
 
-### Liwanag  
-Ang exposure sa liwanag ay mahalaga para sa matagumpay na pagpapalago ng mga halaman sa loob ng bahay. Karaniwan, maaari kang umasa sa direksyunal na mga palatandaan. Ang bintanang nakaharap sa timog ay tumatanggap ng pinakamalakas na sikat ng araw, ang kanluran at silangan ay nasa gitna, at ang bintanang nakaharap sa hilaga ay itinuturing na mababa ang liwanag. Mag-ingat na huwag ilagay ang mga halaman na masyadong malapit o nakadikit sa bintana, kung saan ang pagbabago ng temperatura at malamig na hangin ay maaaring makapinsala sa mga dahon. Ang LED grow lights ay isang enerhiya-mahusay na paraan upang magdagdag ng liwanag. Iwasan din ang mga heating vents at fireplaces.  
+## Liwanag
 
-### Lokasyon  
-Ang mga halaman sa loob ng bahay ay nangangailangan ng maayos na daloy ng hangin sa paligid nila para sa magandang kalusugan at upang mabawasan ang problema sa mga insekto. Pagsamahin ang mga halaman ayon sa pangangailangan sa liwanag at temperatura. Iwasan ang mga heating vents at fireplaces.  
+Mahalaga ang liwanag para sa matagumpay na pagtubo ng mga halamang panloob. Karaniwan, maaari kang umasa sa direksyon ng bintana:
 
-### Pagdidilig  
-Diligan ang mga halaman ayon sa pangangailangan ng bawat isa. Suriin sa pamamagitan ng pagpasok ng daliri sa lupa, hanggang sa ikalawang buhol, upang suriin ang kahalumigmigan ng lupa. O buhatin ang paso. Kung magaan, nangangailangan ng tubig ang halaman. Siguraduhing gumamit ng mga lalagyan na may butas sa ilalim para sa drainage, o ang tubig ay magtitipon sa ilalim at magdudulot ng root rot. Mas maraming halaman ang namamatay dahil sa sobrang pagdidilig kaysa sa kulang sa tubig. Siguraduhing diligan ang lupa, hindi ang mga dahon. Sa taglamig, bahagyang diligan ang mga halaman at gawin lamang ito kapag tuyo na ang potting mix.  
+- Ang bintanang nakaharap sa timog ay tumatanggap ng pinaka-matinding sikat ng araw.
+- Ang kanluran at silangang bahagi ay nasa gitna ng tindi ng liwanag.
+- Ang bintanang nakaharap sa hilaga ay itinuturing na may mababang liwanag.
 
-### Halumigmig  
-Maraming halaman sa loob ng bahay ang nagmula sa mga mahalumigmig na tropikal na kagubatan, habang ang iba tulad ng cacti at succulents ay nagmula sa tuyong klima. Ang hangin sa loob ng bahay ay maaaring maging tuyo, lalo na sa panahon ng taglamig kapag ginagamit ang heating systems. Ang sobrang tuyong hangin ay maaaring magdulot ng pagkurba, pagkalanta, pagyelo, dilaw, o kayumangging dahon. Ang sobrang halumigmig naman ay maaaring magdulot ng sakit. Ang optimal na hanay ng halumigmig para sa karamihan ng mga halaman sa loob ng bahay ay 40-60 porsyento.  
+Mag-ingat na huwag ilapit masyado o idikit ang halaman sa bintana, dahil ang pagbabago ng temperatura at malamig na hangin ay maaaring makasira ng mga dahon. Ang LED grow lights ay isang enerhiyang episyenteng paraan para magdagdag ng ilaw. Iwasan din ang malapit sa mga bentilador ng init at fireplace.
 
-#### Mga Paraan upang Madagdagan ang Halumigmig ng Hangin  
-- Mag-spray ng tubig sa mga dahon ng halaman nang regular.  
-- Ilagay ang mga halaman sa tray na may mga bato at tubig. Siguraduhing ang ilalim ng paso ay hindi nakababad sa tubig.  
-- Gumamit ng humidifier.  
-- Ilagay ang mga halaman sa silid na may mas mataas na halumigmig tulad ng banyo o kusina.  
+## Pagkakalagay
 
-### Mga Lalagyan  
-Mahalaga ang tamang laki at uri ng lalagyan para sa kalusugan ng mga halaman sa loob ng bahay. Ang terracotta pots ay mabilis matuyo at maganda para sa mga halaman sa disyerto. Ang paso na masyadong malaki ay maaaring magdulot ng root rot, habang ang paso na masyadong maliit ay maaaring maglimita sa pag-absorb ng tubig at nutrients. Simulan sa lalagyan na 1-2 pulgada na mas malaki kaysa sa root ball at unti-unting lumipat sa mas malaking sukat. Siguraduhing ang mga lalagyan ay may sapat na drainage holes sa ilalim upang makadaan ang sobrang tubig.  
+Kailangan ng mga halamang panloob ng maayos na daloy ng hangin sa paligid nila para manatiling malusog at maiwasan ang mga insekto. Pagsama-samahin ang mga halaman ayon sa kanilang pangangailangan sa liwanag at temperatura. Iwasan din ilagay malapit sa mga vent ng heater at fireplace.
 
-Tanggalin ang mga halaman sa loob ng bahay mula sa mga lalagyan taun-taon upang suriin ang mga ugat. Kung ang mga ugat ay paikot-ikot sa paso at masyadong masikip, oras na upang ilipat sa mas malaking lalagyan. Ang pinakamainam na panahon para maglipat ay sa tagsibol o tag-init kapag ang mga halaman ay aktibong tumutubo, o putulin ng hanggang isang ikatlo ng mga ugat upang mapanatili ang laki ng halaman.  
+## Pagdidilig
 
-### Lupa  
-Ang mga halaman sa loob ng bahay ay nangangailangan ng medium na lupa upang lumaki, bagamat ang ilang halaman tulad ng air plants ay maaaring lumaki nang walang lupa. Ang mga potting mix ay formulated para sa iba't ibang uri ng halaman. Karamihan sa mga halaman sa loob ng bahay ay tatagal sa all-purpose potting soil. Ang cacti at succulents ay mas gusto ang payat na mix na may higit na buhangin o perlite para sa mas mahusay na drainage. Ang orchids ay pinakamahusay sa mix na binubuo ng bark. Para sa mga malusog na halaman, gumamit ng sariwa at sterile na potting mix upang mabawasan ang panganib ng sakit.  
+Diligan ang halaman ayon sa pangangailangan ng bawat isa:
 
-### Pagpapataba  
-Kapag ang mga halaman ay aktibong tumutubo, magbigay ng pataba sa moderation gamit ang slow-release fertilizer sa granules, tablets, o stakes. Karaniwan itong tumatagal ng 2 hanggang 3 buwan ngunit maaaring tumagal nang mas matagal depende sa produkto. Ang ilang mga brand ay may slow-release fertilizers na tumatagal ng anim na buwan. Bilang alternatibo, gumamit ng liquid version tuwing ikalawang linggo ayon sa direksyon. Ang mga halaman ay hindi nangangailangan ng pataba kapag bumagal o tumigil ang pagtubo, karaniwang mula Nobyembre hanggang Marso.  
+- Suriin sa pamamagitan ng pagsundot ng daliri sa lupa, hanggang ikalawang buko, para malaman kung basa pa ang lupa.
+- O buhatin ang paso. Kung magaan na ito, kailangan ng halaman ng tubig.
 
-Ang mga halaman sa loob ng bahay tulad ng African violets at orchids ay nangangailangan ng regular na pagpapataba upang makabuo ng flower buds. Ang iba tulad ng cacti at succulents ay mas maganda na may kaunti o walang pataba. Ang sobrang pagpapataba ay maaaring magdulot ng pagkapaso sa mga dahon o iba pang pinsala, habang ang kakulangan ng nutrients ay maaaring magdulot ng mahinang pagtubo o stress. Kung napapansin mo ang pagkapaso sa mga dulo ng dahon o puting crust sa ibabaw ng potting soil, malamang na sobra kang magpataba.  
+Siguraduhing gumamit ng paso na may butas sa ilalim para makalabas ang sobrang tubig at maiwasan ang pagkabulok ng ugat. Mas maraming halaman ang namamatay dahil sa sobrang dilig kaysa sa kakulangan ng tubig. Diligan ang lupa at hindi ang mga dahon. Sa taglamig, konting tubig lang at kung tuyo na ang lupa bago ulit diligan.
 
-### Paglilinis ng mga Dahon  
-Ang alikabok ay maaaring maipon sa mga dahon, na nagpapaputla sa hitsura nito at nakakasagabal sa kakayahan ng halaman na sumipsip ng liwanag sa pamamagitan ng mga dahon. Banlawan o punasan ang mga dahon gamit ang basang tela upang ma-refresh.  
+## Halumigmig
 
-## Mga Resources ng Oregon State University  
-- [Ang exposure sa liwanag ay mahalaga para sa matagumpay na pagpapalago ng mga halaman sa loob ng bahay](https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants)  
-- [Ang soluble salts ay nakasisira sa mga halaman sa loob ng bahay](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)  
-- [Ang mga carefree succulents ay patuloy na tumataas ang kasikatan](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)  
-- [Ang makukulay na indoor plants ay nagiging magandang regalo para sa holidays](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)  
-- [Madadaling indoor herbs na nagpapasarap sa pagluluto](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)  
+Maraming halamang panloob ang galing sa mga tropikal na kagubatan na mahalumigmig, samantalang ang iba tulad ng cactus at succulent ay nagmula sa tuyong lugar. Maaaring maging tuyo ang hangin sa loob ng bahay lalo na sa taglamig kapag gumagamit ng heater. Kung masyadong tuyo ang hangin, maaaring matuyo, malanta, mabaluktot, maging dilaw o kayumanggi ang mga dahon. Kung sobra naman ang halumigmig, maaaring magdulot ito ng sakit sa halaman. Ang tamang halumigmig para sa karamihan ng halamang panloob ay 40-60 porsyento.
 
-## Master Gardener™ Advice  
-Makipag-ugnayan sa lokal na OSU Extension office para sa Master Gardener advice. Tingnan ang site na ito para sa contact information: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us)  
-Para sa 10-Minute University™ handouts at schedule ng klase, bisitahin ang [https://cmastergardeners.org](https://cmastergardeners.org)  
+Palakihin ang halumigmig ng hangin sa isa o higit pang mga paraan:
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito base sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/magulang, kita mula sa programa ng pampublikong tulong, paniniwala sa pulitika, impormasyon ng genetiko, katayuan ng beterano, pagganti o paghihiganti para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+- Regular na wisikan ng tubig ang mga dahon.
+- Ilagay ang halaman sa tray na may mga bato at tubig. Siguraduhing hindi nakababad sa tubig ang ilalim ng paso.
+- Gumamit ng humidifier.
+- Ilagay ang halaman sa silid na mas mataas ang halumigmig tulad ng banyo o kusina.
+
+## Lalagyan
+
+Ang laki at uri ng lalagyan ay mahalaga para sa kalusugan ng halaman:
+
+- Ang terracotta na paso ay mabilis matuyo at maganda para sa mga halaman sa disyerto.
+- Ang sobrang laking paso ay maaaring magdulot ng pagkabulok ng ugat, habang ang maliit na paso naman ay maaaring magpigil sa pag-absorb ng tubig at sustansya.
+
+Simulan gamit ang paso na 1-2 pulgada ang laki kaysa sa ugat ng halaman at unti-unting palakihin habang lumalaki ang halaman. Siguraduhing may sapat na butas sa ilalim ang paso para makalabas ang sobrang tubig.
+
+Tanggalin ang halaman mula sa paso kada taon para suriin ang mga ugat. Kung paikot-ikot na sa paso ang mga ugat at masyado nang masikip, panahon na para ilipat sa mas malaking paso. Pinakamagandang panahon maglipat ay tuwing tagsibol o tag-init kapag aktibo ang paglaki ng halaman, o putulin ng hanggang isang-katlo ng mga ugat para mapanatili ang laki ng halaman.
+
+## Lupa
+
+Kailangan ng mga halamang panloob ng medium na pagtataniman, bagamat may ilan tulad ng air plants na kayang mabuhay kahit walang lupa. Ang potting mix ay ginagawa para sa iba't ibang uri ng halaman:
+
+- Karamihan sa mga halamang panloob ay tumutubo nang maayos sa all-purpose potting soil.
+- Ang cactus at succulents ay mas gusto ang potting mix na mas maraming buhangin o perlite para mas maganda ang daloy ng tubig.
+- Ang orchids ay mas maganda sa potting mix na gawa sa bark.
+
+Para maging malusog ang halaman, gumamit ng bagong sterilized potting mix para mabawasan ang panganib ng sakit.
+
+## Pagpapabunga
+
+Kapag aktibong tumutubo ang mga halaman, maglagay ng abono ng paunti-unti gamit ang slow-release fertilizer sa anyong granules, tablets, o sticks. Karaniwan itong tumatagal ng 2 hanggang 3 buwan ngunit depende sa produkto, puwedeng mas matagal. May mga brand na umaabot ng anim na buwan ang slow-release fertilizer. Pwede ring gumamit ng liquid fertilizer kada dalawang linggo ayon sa instruksyon.
+
+Hindi na kailangan ng abono kapag bumabagal o humihinto ang paglaki ng halaman, karaniwan mula Nobyembre hanggang Marso.
+
+- Ang mga halamang panloob tulad ng African violets at orchids ay kailangang regular abunuhan para makabuo ng bulaklak.
+- Ang iba tulad ng cactus at succulents ay mas maigi na kaunti lang o walang abono.
+
+Ang sobrang abono ay maaaring makasunog ng dahon o magdulot ng iba pang pinsala, habang ang kakulangan sa sustansya ay maaaring magdulot ng mahina o stress na paglaki. Kung mapapansin mong nasusunog ang dulo ng mga dahon o may puting crust sa ibabaw ng lupa, malamang na sobra ang abono.
+
+## Paglilinis ng Dahon
+
+Maaaring mamuo ang alikabok sa mga dahon, kaya't nagmumukhang maputla at nahihirapang sumipsip ng liwanag. Banlawan o punasan ang mga dahon gamit ang basang tela para magmukhang bago at presko.
+
+---
+
+## Mga Resource mula sa Oregon State University
+
+- [Mahalaga ang liwanag sa pagtubo ng matagumpay na halamang panloob](https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants)
+- [Nakakasama ang soluble salts sa mga halamang panloob](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)
+- [Lalong sumisikat ang mga succulents na madaling alagaan](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
+- [Makukulay na halamang panloob, magandang regalo sa holidays](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
+- [Madadaling halamang pampalasa sa loob ng bahay, pampasarap ng luto](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
+
+---
+
+#### Master Gardener™ na Payo · Makipag-ugnayan sa inyong lokal na OSU Extension office para sa payo ng Master Gardener. Tingnan dito para sa contact information: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Para sa 10-Minute University™ handouts at class schedules, bisitahin ang [https://cmastergardeners.org](https://cmastergardeners.org).
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyal batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuang may asawa, katayuang may pamilya/magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuang beterano, pagganti o paghihiganti dahil sa nakaraang aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na batayan ay naaangkop sa lahat ng programa.)
+---

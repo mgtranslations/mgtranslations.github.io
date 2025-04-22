@@ -1,54 +1,115 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association, sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Pagtatanim ng Raspberry  
+# Pagpapalago ng Raspberry
 
-### Bakit Magtanim ng Raspberry?  
-Ang mga raspberry ay masarap, malambot, at pinakamainam kainin kapag bagong pitas. Ang mga ito rin ay matagal mabuhay: ang pulang at dilaw na raspberry ay maaaring maging produktibo ng hanggang 15 taon; ang itim na raspberry naman ay produktibo nang 4 hanggang 8 taon.  
+### Bakit Magtanim ng Raspberry?
+Masarap at malambot ang mga raspberry, at pinakamasarap kainin kapag bagong pitas. Matagal din silang namumunga:
+- Ang pulang at dilaw na raspberry ay maaaring mamunga ng hanggang 15 taon.
+- Ang itim na raspberry ay namumunga mula 4 hanggang 8 taon.
 
-### Mga Uri at Pagpili  
-Una mong desisyon ay kung pipili ng uri na namumunga isang beses sa maagang tag-init (floricane-fruiting), o yung namumunga dalawang beses sa tag-init at taglagas (primocane-fruiting). Susunod, kailangan mong pumili mula sa marami na nag-iiba sa kulay at lasa ng bunga. Maaaring magsagawa ng taste test bago pumili. O kaya’y kumonsulta sa OSU publication tungkol sa mga cultivated varieties (cultivars) na mahusay mag-perform sa ating rehiyon. Mga halimbawa: pulang floricane-fruiting cultivars (Willamette, Meeker & Cascade Delight); pulang primocane-fruiting cultivars (Vintage, Heritage & Caroline); dilaw na primocane-fruiting (Fallgold & Anne); itim na floricane-fruiting (Munger & Jewel); at purple floricane-fruiting (Royalty & Brandywine).  
+### Mga Uri at Pagpili
+Ang unang pagpipilian mo ay ang uri ng raspberry na:
+1. **Namumunga isang beses, tuwing unang bahagi ng tag-init** (floricane-fruiting).
+2. **Namumunga dalawang beses, tuwing tag-init at taglagas** (primocane-fruiting).
 
-### Pagpili ng Lugar  
-Kayang tiisin ng raspberry ang bahagyang lilim, ngunit mas maganda ang ani at kalidad ng bunga sa lugar na may buong araw. Iwasan ang lugar kung saan tumubo ang patatas, kamatis, sili, talong, ibang caneberries, o strawberry sa nakalipas na 3 taon. Ang mga pananim na ito ay madalas kapareho ng mga insekto at sakit na tumatama sa raspberry. Magtanim sa lupa na maayos ang drainage, mataba, loamy, at may katamtamang kapasidad ng paghawak sa tubig. Iwasan ang mabigat na clay soil.  
+Pagkatapos, pumili sa mga uri na nagkakaiba-iba ang kulay at lasa ng bunga. Maaari kang magsagawa ng pagtikim bago pumili o basahin ang publikasyon ng OSU tungkol sa mga uri ng raspberry na mahusay tumubo sa ating lugar. Ilan sa mga halimbawa:
+- **Pulang floricane-fruiting na mga uri**: Willamette, Meeker, Cascade Delight.
+- **Pulang primocane-fruiting na mga uri**: Vintage, Heritage, Caroline.
+- **Dilaw na primocane-fruiting na mga uri**: Fallgold, Anne.
+- **Itim na floricane-fruiting na mga uri**: Munger, Jewel.
+- **Lila na floricane-fruiting na mga uri**: Royalty, Brandywine.
 
-### Paghahanda ng Lupa  
-Pinakamainam na magtanim ng raspberry sa nakataas na mound na may taas na 1½ hanggang 2 talampakan at lapad na 2 talampakan upang magkaroon ng mahusay na drainage. O kaya’y gumawa ng raised bed na may maayos na drainage. Ang pH ng lupa ay dapat nasa pagitan ng 5.6 at 6.5.  
+### Pagpili ng Lugar
+Kayang mabuhay ng raspberry sa may bahagyang lilim, pero mas marami at mas maganda ang bunga kung nasa ilalim ng direktang sikat ng araw. Iwasan ang mga lugar na pinagtaniman ng patatas, kamatis, sili, talong, ibang berry, o strawberry sa nakaraang 3 taon, dahil pareho sila ng peste at sakit sa raspberry.
 
-Sa taon bago magtanim, alisin ang lahat ng perennial na damo. Maglagay ng organic matter sa tag-init o taglagas – maaaring gumamit ng dumi ng hayop, compost, dahon, o sawdust – at ihalo ito sa lupa. Siguraduhing decomposed na ito bago magtanim. Magtanim ng raspberry sa taon pagkatapos ng paghahanda ng lupa.  
+Itanim ang raspberry sa lupa na may magandang drainage, mataba, at loamy na may katamtamang kakayahang maghawak ng tubig. Iwasan ang mabigat at luwad na lupa.
 
-### Pagtatanim  
-Karaniwang ibinebenta ang raspberry bilang bare-root plants. Bumili ng certified disease-free na mga halaman upang mabawasan ang problema sa sakit. Magtanim nang maaga sa tagsibol kapag maaaring magtrabaho sa lupa. Sa pagtatanim, maghukay ng butas sa inayos na lupa na sapat ang lapad upang maikalat ang mga ugat. Ilagay ang pinakamataas na bahagi kung saan nakakabit ang mga ugat sa mga cane, mga 1 hanggang 2 pulgada sa ilalim ng lupa. Takpan ng lupa at diligan nang maayos upang alisin ang mga air pocket.  
+### Paghahanda ng Lupa
+- Itanim ang raspberry sa nakataas na bunton (1½ hanggang 2 talampakan ang taas at 2 talampakan ang lapad) o sa raised bed para sa mahusay na drainage.
+- Panatilihin ang pH ng lupa sa pagitan ng **5.6 at 6.5**.
+- Sa taon bago magtanim, alisin lahat ng perennial na damo.
+- Maglagay ng organikong bagay (hal. dumi ng hayop, compost, tuyong dahon, o sawdust) sa tag-init o taglagas at ihalo ito sa lupa. Siguraduhing nabubulok na ito bago magtanim.
+- Magtanim ng raspberry isang taon pagkatapos ng paghahanda ng lupa.
 
-### Paglalagay ng Pataba  
-Sa taon ng pagtatanim, lagyan ng pataba ang bawat halaman ng kabuuang 2 onsa ng nitrogen (N) sa bawat 10 talampakang hilera. Gumamit ng well-balanced na pataba tulad ng 16-16-16 o organic na pinagmulan (halimbawa, cotton seed meal). Maaari mong kalkulahin ang kinakailangang dami sa pamamagitan ng paghahati sa 2 onsa sa porsyento ng nitrogen. Halimbawa, kailangan mo ng 12 onsa ng 16-16-16 na pataba upang makuha ang 2 onsa ng N (2 onsa/porsyento ng N sa pataba = dami ng pataba na kailangan). Sa bagong tanim, huwag ilagay ang lahat ng pataba nang sabay-sabay. Hatiin ang kabuuang dami sa tatlo. Ilagay ang unang bahagi 2 linggo pagkatapos magtanim, ang susunod na bahagi 1 buwan pagkatapos, at ang huling bahagi isang buwan pa ulit.  
+### Pagtatanim
+Kadalasang binebenta ang raspberry bilang bare-root na halaman. Bumili ng certified na walang sakit na halaman para iwasan ang problema.
 
-Para sa mga matagal nang tanim, maglagay ng pataba taon-taon upang mapanatili ang mahusay na paglago. Bawat taon, maglagay ng kabuuang 2 hanggang 3 onsa ng nitrogen sa bawat 10 talampakang hilera. Ito ay magiging 13 hanggang 19 onsa ng 16-16-16 na pataba o 2.5 libra ng 5-5-3 na pataba. Ilagay ang kalahati mula huling bahagi ng Marso hanggang unang bahagi ng Abril at ang natirang kalahati noong unang bahagi ng Hunyo. Lagyan ng karagdagang 0.5 hanggang 1 onsa ng N ang primocane-fruiting raspberry sa huling bahagi ng Hulyo.  
+- **Panahon ng pagtatanim**: Maagang tagsibol, kapag kayang bungkalin ang lupa.
+- **Paraan ng pagtatanim**:
+  1. Maghukay ng butas sa inayos na lupa na sapat ang lapad para mailatag ang mga ugat.
+  2. Ilagay ang pinakataas na bahagi kung saan nakakabit ang mga ugat sa tungkod nang 1 hanggang 2 pulgada sa ilalim ng lupa.
+  3. Takpan ng lupa at diligan nang mabuti para mawala ang mga hangin sa paligid ng ugat.
 
-### Pagdidilig  
-Ang mga matagal nang tanim ay nangangailangan ng 1 hanggang 1½ pulgadang tubig bawat linggo mula kalagitnaan ng Hunyo hanggang huling bahagi ng tag-init. Siguraduhing ang root zone lamang ang dinidiligan at iwasan ang pagbasang bahagi ng bunga.  
+### Pag-abono
 
-### Pamamahala ng Damo  
-Magbungkal upang kontrolin ang damo at mga cane na tumutubo sa labas ng hilera. Magbungkal nang hindi lalalim sa 1 hanggang 2 pulgada upang maiwasan ang pinsala sa ugat. Maaaring gumamit ng mulch upang mabawasan ang damo at mapanatili ang moisture ng lupa.  
+#### Bagong Tanim
+Sa unang taon, mag-abono ng **2 ounces ng nitrogen (N)** sa bawat 10 talampakang hanay ng tanim. Gumamit ng balanseng abono tulad ng **16-16-16** o organikong alternatibo (hal. cottonseed meal).
 
-### Trellising at Pagpuputol  
-Ang mga paraan ng pagpuputol ng raspberry ay nag-iiba depende sa uri ng raspberry. Sa madaling salita, ang summer-bearing raspberry ay nangangailangan ng suporta upang maitayo ang mga cane. Putulin ang mga patay na floricane pagkatapos mamunga sa tag-init o taglagas. Sa taglamig, bawasan ang mga sirang o mahihinang primocane at i-train ang mga cane sa trellis (maaaring putulin ang taas sa mga 6 na talampakan).  
+Para makuha ang tamang dami:
+- Hatiin ang 2 ounces sa porsyento ng nitrogen sa abono.
+  - Halimbawa: Kailangan mo ng **12 ounces ng 16-16-16 na abono** para makakuha ng 2 ounces ng N (2 ounces ÷ porsyento ng N = ounces ng abono na kailangan).
 
-Upang makakuha ng dalawang ani sa primocane-fruiting raspberry, alisin ang mga patay na floricane pagkatapos mamunga sa tag-init o taglagas. Pagkatapos, alisin ang patay na bahagi ng primocane (bahagi na namunga noong nakaraang taglagas). Upang makakuha ng isang ani lamang ng primocane-fruiting raspberry, putulin ang lahat ng cane sa lupa huling bahagi ng taglamig. Ang ani sa taglagas ay magmumula sa dulo ng primocane na tumubo sa tag-init. Sa ganitong senaryo, ang fall-bearing raspberry ay nangangailangan lamang ng pansamantalang suporta.  
+Huwag ilagay nang sabay-sabay ang lahat ng abono. Hatiin ito sa tatlo:
+1. Ilagay ang unang bahagi 2 linggo matapos magtanim.
+2. Ilagay ang pangalawang bahagi makalipas ang 1 buwan.
+3. Ilagay ang huling bahagi makalipas pa ang 1 buwan.
 
-### Peste at Sakit  
-Ang Phytophthora root rot ay maaaring maging seryosong problema. Ang mabigat na clay soil at basang ugat ay ideal na kondisyon para sa fungus na pumapatay sa floricane. Ang ibang peste ay kinabibilangan ng root weevil, spider mites, aphids, powdery mildew, Anthracnose, at Verticilium wilt.  
+#### Lumang Tanim
+Mag-abono taon-taon para mapanatili ang magandang paglaki:
+- **Dami**: 2 hanggang 3 ounces ng nitrogen kada 10 talampakang hanay.
+  - Halimbawa: 13 hanggang 19 ounces ng 16-16-16 na abono o 2.5 libra ng 5-5-3 na abono.
+- **Panahon**:
+  - Ilagay ang kalahati sa pagitan ng huling bahagi ng Marso at unang bahagi ng Abril.
+  - Ilagay ang natitira sa unang bahagi ng Hunyo.
+- **Primocane-fruiting na raspberry**: Magdagdag ng 0.5 hanggang 1 ounce ng nitrogen sa huling bahagi ng Hulyo.
 
-### Karagdagang Impormasyon  
-Mga publikasyon mula sa OSU na maaaring ma-access online sa [OSU Extension](https://extension.oregonstate.edu/):  
-- **Growing Raspberries in Your Home Garden EC 1306**  
-- **Raspberry Cultivars for the Pacific Northwest PNW 655**  
-- **Sustainable Gardening Handbook EM 8742**  
-- **Growing Berries on the Oregon Coast: Raspberries and Blackberries EM 9180** (ang nilalaman ay naaangkop din para sa Willamette Valley)  
-- Matuto kung paano magpuputol ng raspberry mula sa online module sa [Pruning Raspberries](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en)  
+### Pagdidilig
+Kailangan ng established na halaman ng **1 hanggang 1½ pulgada ng tubig bawat linggo** mula kalagitnaan ng Hunyo hanggang huling bahagi ng tag-init. Diligan lang ang ugat, huwag basain ang bunga at dahon.
 
-### Master Gardener™ na payo  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), o 503-445-4608 (Multnomah County).  
-- Para sa mga handout ng 10-Minute University™ at iskedyul ng klase, bisitahin ang [Clackamas Master Gardeners](www.cmastergardeners.org) o [Metro Master Gardeners](www.metromastergardeners.org).  
+### Pamamahala ng Damo
+- Magbungkal para kontrolin ang damo at mga tukod na tumutubo sa labas ng hanay.
+- Huwag bungkalin nang malalim, hanggang **1 hanggang 2 pulgada lang** para hindi masira ang ugat.
+- Gumamit ng mulch para mapigil ang paglago ng damo at mapanatili ang kahalumigmigan ng lupa.
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, identidad ng kasarian (kasama ang ekspresyon ng kasarian), oryentasyong sekswal, kapansanan, edad, estado ng pag-aasawa, katayuan ng pamilya/pagiging magulang, kita mula sa pampublikong programa ng tulong, paniniwala sa politika, impormasyon sa genetika, estado ng beterano, o pagganti para sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa).
+### Trellis at Pagpupungos
+Magkaiba ang paraan ng pagpupungos depende sa uri ng raspberry:
+
+- **Summer-bearing na raspberry**:
+  - Suportahan ang mga tukod gamit ang trellis.
+  - Alisin ang mga patay na floricane pagkatapos mamunga sa tag-init o taglagas.
+  - Sa taglamig, bawasan ang mga sirang o mahihinang primocane at itali ang matitibay na tukod sa trellis (maaaring putulin ang taas ng mga tukod hanggang 6 na talampakan).
+
+- **Primocane-fruiting na raspberry**:
+  - Para sa dalawang ani:
+    - Alisin ang mga patay na floricane pagkatapos mamunga sa tag-init o taglagas.
+    - Alisin ang patay na dulo ng primocane (bahaging namunga noong nakaraang taglagas).
+  - Para sa isang ani:
+    - Magpungos sa huling bahagi ng taglamig, putulin lahat ng tukod hanggang lupa.
+    - Ang bunga sa taglagas ay lalabas sa dulo ng mga primocane na tutubo sa tag-init.
+    - Ang fall-bearing na raspberry ay nangangailangan lamang ng pansamantalang suporta.
+
+### Peste at Sakit
+Karaniwang problema:
+- **Phytophthora root rot**: Namumuhay sa luwad na lupa at basang ugat, pumapatay ng floricane.
+- Ibang peste: Root weevil, spider mites, aphids.
+- Mga sakit: Powdery mildew, Anthracnose, Verticillium wilt.
+
+### Karagdagang Impormasyon
+Makikita ang mga publikasyon ng OSU online sa [https://extension.oregonstate.edu/](https://extension.oregonstate.edu/):
+- **Growing Raspberries in Your Home Garden** (EC 1306)
+- **Raspberry Cultivars for the Pacific Northwest** (PNW 655)
+- **Sustainable Gardening Handbook** (EM 8742)
+- **Growing Berries on the Oregon Coast: Raspberries and Blackberries** (EM 9180) – May kaugnayan din para sa Willamette Valley.
+- Matutunan kung paano magpungos ng raspberry sa online module na ito: [https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en](https://workspace.oregonstate.edu/course/pruning-raspberries?hsLang=en).
+
+#### Master Gardener™ na Payo
+- **Tumawag sa Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Para sa iba pang 10-Minute University™ na handouts at iskedyul ng klase, bumisita sa [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (pati gender expression), sexual orientation, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/magulang, kita mula sa public assistance program, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, pagganti, o paghihiganti sa dating aktibidad ng civil rights. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
+---

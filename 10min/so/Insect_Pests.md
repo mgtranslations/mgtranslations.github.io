@@ -1,64 +1,102 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Khabiirka ah ee Clackamas County oo kaashanaya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Beerta ee Clackamas County oo wada shaqeyn la leh oo taageeraya Barnaamijka OSU Extension Master Gardener™
+---
 
-## Cayayaanka Waxyeellada Leh
+## Cayayaanka Dhibaatada Leh
 
 ### Guudmar
-Cayayaanka waxyeello u geysan kara dhirta iyagoo cunaya ama calalinaya. Inkastoo tani ay dhibaato ku noqon karto beeraleyda qaarkood, kuwa kale waxay dooran karaan inay u dulqaataan. Si kastaba ha ahaatee, haddii tirada cayayaanka ay aad u badan tahay oo ay waxyeello u geysato awoodda dhirta si ay u noolaato ama u soo saarto cunto, waxaa laga yaabaa in bini’aadamku uu faro geliyo.
 
-Qoraalkan wuxuu bixinayaa macluumaad kaa caawinaya inaad aqoonsato sababaha suurtagalka ah ee cayayaanka gurigaaga ku dhaca iyo talooyin ku saabsan sida loo yareeyo cayayaanka. Ka fiirso fikradahaaga ku aaddan nolosha dabiiciga, oo ay ku jiraan cayayaanka, si aad u go’aamiso inta aad ka falcelin doonto.
+Cayayaanka waxay dhibaato u geysan karaan dhirta iyagoo cuna ama calaliya. Tani waxay ku dhibi kartaa qaar ka mid ah beeralayda, halka kuwa kalena ay go'aansan karaan inay ka dulqaataan. Hase yeeshee, haddii tirada cayayaanka ay aad u sii badato oo ay waxyeello u geysato awoodda dhirta inay noolaato ama wax soo saarto, faragelin bini'aadan ayaa loo baahan karaa.
 
-### Calaamadaha Ay Ka Tagaan Cayayaanka
-Mararka qaarkood way adag tahay in la aqoonsado sababta dhirta waxyeellada loo geysto sababtoo ah cayayaanku waa yaryihiin, si fiican ayay ugu dhex milmaan deegaanka, waxay noqon karaan kuwo firfircoon oo keliya habeenkii, ama waxay ku dhuuman karaan dhinaca hoose ee caleemaha. Tani waxay caqabad ku noqotaa helitaanka xukun sax ah, taas oo lama huraan u ah faragelin ku habboon oo wax ku ool ah.
+Qoraalkan waxa uu bixinayaa macluumaad kaa caawinaya in la aqoonsado sababaha keena cayayaanka ku soo badanaya beerta guriga, wuxuuna xusaa habab looga hortago cayayaanka. Ka fiirso aragtidaada qof ahaaneed ee la-noolaanshaha dabeecadda, oo ay ku jirto cayayaanka, si aad u go'aansato goorta aad tallaabo qaadi lahayd.
 
-Nasiib wanaagse, hababka ay cayayaanku cunaan waxay bixin karaan tilmaamo faa’iido leh. Cayayaanka waxaa lagu kala garan karaa sida ay u cunaan: calalin/ku xoqid ama daloolin-siinid.
+---
 
-- **Cayayaanka Calalin/Xoqidda** waxay leeyihiin afaf awood u leh inay daloolo ka sameeyaan caleemaha, ubaxyada, xididada, abuurka, miraha ama qaybaha adag ee dhirta. Tusaalooyinka cayayaanka caleemaha calaliya waxaa ka mid ah: earwigs, caterpillars, sawfly larvae, webworms, leafrollers, skeletonizers, cutworms, flea beetles, blister beetles, iyo cucumber beetles. Cayayaanka cuna ubaxa, miraha iyo abuurka waxaa ka mid ah: fruit flies, midges, yellow jackets, hornets, codling moth, corn earworms, iyo seed weevils. Cayayaanka waxyeellada dhismaha waxaa ka mid ah: carpenter ants, termites, iyo powderpost beetles.
+### Calaamadaha Ay Reebaan Cayayaanka
 
-- **Cayayaanka Daloolin-Siinta** ma waxyeelleeyaan oo kaliya dhirta iyagoo cuna, laakiin mararka qaar waxay ku mudaan maaddooyin sun ah oo sababa calaamado laga bilaabo dhibco fudud oo caleemaha ah ilaa waxyeello weyn oo dhirta oo dhan ah. Dhibcaha iyo calaamaduhu waxay dhacaan marka chlorophyll-ka uu baaba’o iyada oo ay sabab u tahay afaf daloolinaya. Tusaalooyinka cayayaanka daloolin-siinta waxaa ka mid ah: whiteflies, aphids, adelgids, mealybugs, scales, leafhoppers, spittlebugs, lace bugs, thrips, iyo mites.
+Mararka qaar way adag tahay in la ogaado cidda waxyeellada u geysatay dhirta sababtoo ah cayayaanka badankoodu waa yar yihiin, si fudud ayay ugu dhex milmaan deegaanka, habeenkii ayay firfircoon yihiin, ama waxay is qariyaan hoosta caleemaha. Tani waxay caqabad ku tahay ogaanshaha saxda ah ee dhibaatada, taasoo muhiim u ah in si sax ah oo wax ku ool ah loo xalliyo.
 
-### Waxyeellada Caadiyan La Arko
-- **Seedlings oo la calaliyay heerka ciidda:** Cutworms.
-- **Laamaha oo dalool leh oo leh cayayaan gudaha ku jira, caleemo engegay ama dhir adag oo leh raadad hoos barkooda:** Borers.
-- **Xididdada ama dhirta oo leh calaamado wax cunid ama meelaha dhintay:** Wireworms, noocyada kala duwan ee cayayaanka grubs-ka, weevils.
-- **Miraha ama dhirta oo leh dhibco, dheg ama dhoobo:** Aphids, leafhoppers, spittlebugs, whiteflies, scales, iyo mealybugs.
-- **Caleemo leh daloolo waaweyn:** Cayayaanka qaangaarka ah ama marxaladda larval ee beetles, moth larvae.
-- **Caleemo la qalfoofiyey:** Beetle larvae, pear slugs, thrips, iyo noocyada caterpillar qaarkood.
-- **Caleemo duuduuban, cidhiidhi ah ama qalloocan:** Aphids, leafhoppers, plant bugs.
-- **Hoos u dhac guud oo ku dhaca dhirta oo ay weheliso xididada la calaliyay:** Marxaladaha larval ee cuna xididada ee weevils, beetles ama moths.
-- **Dimples iyo/qallooca miraha iyo berry-ga:** Stink bugs-ka quudinaya dhirta oo loo yaqaan brown marmorated stink bug.
-- **Geedo iyo alwaax leh godad dalool ah iyo qashar:** Carpenter ants, termites.
-- **Alwaax la farsameeyay oo leh dalool yar iyo boodh cusub oo alwaax ah:** Powderpost beetles.
+Nasiib wanaag, sida ay u quudaan cayayaanka ayaa bixin karta tilmaamo muhiim ah. Cayayaanka waxaa lagu kala gartaa habka ay u cunaan: **calalin/qodid** ama **mudid-nuugid**.
 
-## Maaraynta Cayayaanka Isku-Dhafan
-Maaraynta Cayayaanka Isku-Dhafan waa hab nidaamsan iyo mid dhamaystiran oo ujeedadiisu tahay in la yareeyo cayayaanka iyadoo sida ugu yar loo waxyeellaynayo caafimaadka aadanaha, deegaanka, iyo noolaha aan bartilmaameedka ahayn.
+#### Cayayaanka Calaliya/Qoda
 
-### 1. Ka Hortagga
-- Ku beero dhirta "saxda ah" meesha "saxda ah". Baro shuruudaha dhaqanka ee dhirta oo ku beero deegaanka ku habboon si aad u dhiirrigeliso koritaanka caafimaadka leh.
-- Ilaali nadaafadda. Ka saar qaybaha dhirta ee cudurka qaba; dhulka ka nadiifi caleemo dhintay.
-- Dhirta ku hay caafimaad wanaagsan iyada oo la siinayo daryeel ku habboon si loo yareeyo u nuglaanshaha cayayaanka iyo cudurada.
-- Dhiirrigeli cayayaanka faa’iidada leh. Ku beero dhirta soo jiidashada cayayaanka dabiiciga ah sida carrots, cilantro, dill, sweet clover, fennel, iyo Queen Anne’s Lace si aad u soo jiidato cayayaanka wax cunaya ee dabiiciga ah.
-- Baadh dhismayaasha. Ka feejignow daadadka biyaha. Albaabada iyo daaqadaha si fiican u xir.
+Cayayaankan waxay leeyihiin afaf u suurto galinaya inay dalooliyaan caleemo, ubaxyo, xididdo, abuur, miro, ama qaybo adag oo dhirta ka mid ah. Tusaalooyin waxaa ka mid ah:
 
-### 2. Kormeeridda
-- Noqo qof baadhitaan sameeya, si joogto ah u fiiri dhirtaada si aad u aragto calaamadaha ay cayayaanku ka tagaan.
+- **Caleem-cunayaasha**: Bahalaha dhagaha, diirimmada, xashiishyada sawfly, diirimmada shabaqa, duqsiyada caleenta rogta, diirimmada lafa-galeenka, cutworms, beetle-yada boodhka, beetle-yada blister, beetle-yada qajaar.
+- **Cunayaasha ubaxa, miraha, iyo abuurka**: Duqsiyada miraha, midges, geel-jireyaasha jaalaha ah, hornets, diirimmada codling moth, diirimmada dhagaxa galleyda, abuur-cunayaasha.
+- **Cayayaanka dhismaha waxyeelleeya**: Shinniyaasha dhismaha, termites, beetle-yada budada.
+
+#### Cayayaanka Muda-Nuuga
+
+Cayayaankan waxay si toos ah u waxyeelleeyaan dhirta iyagoo quudaya, mararka qaarna waxay geliyaan walxo sun ah oo keena calaamado kala duwan oo ka bilaabma dhibco caleemaha ah ilaa burbur dhir dhan ah. Dhibcaha iyo midab-beelka caleemaha waxay dhacaan marka chlorophyll-ka la burburiyo. Tusaalooyin waxaa ka mid ah:
+
+- Duqsiyada cad-cad (whiteflies)
+- Aphids
+- Adelgids
+- Mealybugs
+- Scales
+- Leafhoppers
+- Spittlebugs
+- Lace bugs
+- Thrips
+- Mites
+
+---
+
+### Noocyada Dhibaatada Caadiga ah
+
+- **Geed yar oo caleenta laga gooyey heerka ciidda**: Cutworms.
+- **Laamo madhan oo diirimmadu ku jiraan, caleemo faduulan, ama geedo adag oo hoosta jirridda dhabbayaal ka muuqdaan**: Borers.
+- **Xididdo ama basal leh calaamado quudin ama meelo dhintay**: Wireworms, noocyo badan oo diirimmada beetle-yada ah, abuur-cunayaal.
+- **Miro ama dhir leh dhibco, dhanaan, dufan, ama xumbo**: Aphids, leafhoppers, spittlebugs, whiteflies, scales, mealybugs.
+- **Caleemo leh daloolo waaweyn oo aan kala fiicnayn**: Qaybta dadka ama diirimmada beetle-yada, diirimmada diirka.
+- **Caleemo lafa-galeen ah**: Diirimmada beetle-yada, pear slugs, thrips, iyo noocyo diirimo ah.
+- **Caleemo laablaaban, laab-laaban, ama is bedelay**: Aphids, leafhoppers, plant bugs.
+- **Hoos u dhicid guud ee geedka oo ay weheliso xididdo la calaliyey**: Diirimmada xidid-cunayaasha, beetle-yada, ama diirimmada diirka.
+- **Miro iyo berry leh daloolo yar yar ama is bedelay**: Plant-feeding stink bugs, sida brown marmorated stink bug.
+- **Geedo iyo alwaax leh godad qodan iyo kaadida cayayaanka**: Shinniyaasha dhismaha, termites.
+- **Alwaax la farsameeyey leh daloolo yar yar iyo boodh cusub**: Beetle-yada budada.
+
+---
+
+## Maaraynta Isku-dhafan ee Cayayaanka
+
+Maaraynta Isku-dhafan ee Cayayaanka waa hannaan nidaamsan oo dhamaystiran oo la dagaallama cayayaanka anoo la yaraynayo saamaynta ku timaadda caafimaadka bini’aadamka, deegaanka, iyo noocyada kale ee aan la bartilmaameedsanayn.
+
+### 1. Ka Hortag
+
+- **Dhig geedka “ku habboon” meesha “ku habboon”**: Baro baahiyaha geedka oo la jaan-qaad deegaanka si uu si caafimaad leh u koro.
+- **Nadiifinta beerta**: Ka saar qaybo dhir ah oo cudur qaba; nadiifi dhulka caleemo daatay.
+- **Dhirta caafimaadkooda ilaali**: Daryeelka wanaagsan wuxuu yareeyaa halista cayayaanka iyo cudurrada.
+- **Dhiirrigeli cayayaanka faa’iidada leh**: Beer dhirta soo jiidata cayayaanka nafci leh sida karootada, cilantro, dill, sweet clover, fennel, iyo Queen Anne’s Lace si ay uga hortagaan cayayaanka waxyeellada leh.
+- **Hubi dhismayaasha**: Ka taxaddar daadadka biyaha. Albaabada iyo daaqadaha si fiican u xidh.
+
+### 2. Kormeer
+
+- Noqo baare: Si joogto ah u eeg dhirtaada si aad u ogaato calaamadaha cayayaanka.
 
 ### 3. Aqoonsiga Cayayaanka
-- Aqoonsiga saxda ah waa muhiim. Mararka qaar cayayaanka ayaa iska jooga meel waxyeello ka dhacday laakiin ma ahan sababta.
-- Fiiri. Cayayaanka ma cunayaan caleemaha, ubaxa ama cayayaanka kale? Ma duulayaan mise way socdaan? Waa maxay muuqaalka jirkooda? Sawirro u qaad si aad uga caawiso aqoonsiga.
 
-### 4. Sameynta Istaraatiijiyad Maaraynta Cayayaanka
-- Markii sababta la aqoonsado, Beeraleyda Khabiirka ah waxay ku talin karaan habab dhaqameed, farsamo, noolaha, iyo kimiko si loo yareeyo tirada cayayaanka.
+- Aqoonsiga saxda ah waa muhiim. Mararka qaar cayayaan ayaa jooga meel dhaawac gaaray balse isagu ma aha sababta.
+- **Dhaqso u fiirso**: Cayayaanku ma cunayaan caleemo, ubaxyo, ama cayayaan kale? Ma duulayaan mise way soconayaan? Sidee bay u egyihiin? Sawir ka qaad si aad u fududeyso aqoonsiga.
 
-## Khayraadka OSU iyo Kuwa Kale
-- **Audubon’s Field Guide to Insects and Spiders** by Alfred Knops, 1998
-- **Garden Insects** by Crenshaw, 2004
-- **Oregon State University Extension Publications:** [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-- **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994
+### 4. Samaynta Istiraatijiyad Maaraynta Cayayaanka
 
-## Talada Beeraleyda Khabiirka ah
-- Wac khadka caawinta ee Horticulture Guriga: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).
-- Si aad u hesho qoraallo kale oo ku saabsan Jaamacadda 10-Daqiiqo™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](www.cmastergardeners.org).
+- Marka la ogaado cayayaanka, Khabiirada Beeralayda waxay talin karaan habab dhaqameed, farsamo, noolaha, iyo kiimiko si loo yareeyo tirada cayayaanka.
 
-Adeegga Oregon State University Extension wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan isirka, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda askarnimada, ciqaabta ama aargoosiga ka dhashay hawlaha xuquuqda madaniga ee hore. (Dhammaan saldhigyadan la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---
+
+## Kheyraadka OSU iyo Kuwo Kale
+
+- **Hagaha Beerta ee Audubon ee Cayayaanka iyo Caarada** oo uu qoray Alfred Knops, 1998
+- **Cayayaanka Beerta** oo uu qoray Crenshaw, 2004
+- **Daabacaadaha Oregon State University Extension**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Beerta Dabiiciga ah ee Rodale: Xakamaynta Cayayaanka iyo Cudurrada**, Rodale Publishing, 1994
+
+---
+
+#### Talooyinka Master Gardener™ · Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo kale ah ee 10-Minute University™ iyo jadwalka fasallada, booqo [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Oregon State waxay mamnuucaysaa takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, jinsiyadda, asalka qaranka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhli ka soo gala barnaamijka caawimada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sideyaasha, xaaladda askarinimada, ciqaab ama aargoosi la xiriira hawlaha xuquuqda madaniga ah ee hore. (Dhammaan sababaha la mamnuucay ma khusayaan barnaamij kasta.)

@@ -1,38 +1,83 @@
-## Université de 10 minutes™  
-L'association des maîtres jardiniers du comté de Clackamas, en collaboration avec et en soutien au programme OSU Extension Master Gardener™  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme des Maîtres Jardiniers OSU Extension™
 
-### Ajouter une bioswale  
-Dans les zones développées, les précipitations qui tombent sur les surfaces dures sont acheminées dans des tuyaux, des fossés et des drains avant d'être déversées dans les ruisseaux, les cours d'eau et les rivières. Une bioswale est conçue pour recueillir les eaux de ruissellement provenant des toits, des allées ou d'autres surfaces imperméables. Elle permet aux eaux de pluie de s'infiltrer dans le sol et d'être filtrées par les plantes et le sol pour réduire le ruissellement et la pollution dans les voies d'eau naturelles. Le design linéaire des bioswales les rend adaptées au ruissellement le long des routes, mais elles sont également utilisées dans les cours avant et arrière ainsi qu'au-dessous des gouttières de toit. Les bioswales peuvent également remplacer les bordures ou les gouttières.  
+# Ajouter une bioswale
 
-#### Emplacement potentiel pour une bioswale :  
-- La nappe phréatique saisonnière haute est à moins de 24 pouces du fond de la bioswale.  
-- La roche mère est plus basse que 18 pouces du fond de la bioswale.  
-- Les infrastructures souterraines sont à au moins 5 pieds de distance. En Oregon, il est obligatoire de contacter le Centre de Notification des Services Publics (1-800-332-2344) ou (811) avant de commencer toute excavation.  
-- Les bâtiments sont à au moins 10 pieds de distance.  
-- Les pentes de 10 % sont à au moins 100 pieds de distance. Évitez d’installer une bioswale là où la pente aval dépasse 30 %.  
+Dans les zones développées, la pluie qui tombe sur les surfaces dures est dirigée vers des tuyaux, des fossés et des bouches d’égout avant d’être rejetée dans les ruisseaux, cours d’eau et rivières. Une bioswale est conçue pour recueillir les eaux de ruissellement provenant des toits, allées ou autres surfaces imperméables. Elle permet à l’eau de pluie de s’infiltrer dans le sol et d’être filtrée par les plantes et la terre, ce qui réduit le ruissellement et la pollution vers les cours d’eau naturels. La forme linéaire des bioswales les rend adaptées aux bords de routes, mais on les utilise aussi dans les jardins de devant et d’arrière ainsi qu’au pied des descentes de gouttière. Les bioswales peuvent aussi remplacer les bordures ou les caniveaux.
 
-Vérifiez auprès du service de planification de votre ville ou de votre comté pour voir s'ils exigent un permis ou si vous devrez respecter les exigences locales pour l'installation.  
+## Emplacements possibles pour une bioswale
 
-### Conception et dimensions  
-Une conception bien pensée peut augmenter l'efficacité d'une bioswale. Une bioswale végétalisée en forme de trapèze, de "u" ou de triangle est la plus efficace. La taille de la bioswale devrait être d'au moins 1 % de la surface drainée. Plus la bioswale est grande, plus elle peut stocker et infiltrer les eaux de pluie, permettant ainsi de mieux gérer les fortes précipitations. Il est important de prévoir où l'eau s'écoulera en cas de très fortes pluies. Il est recommandé d'ajouter un tuyau de dérivation pour les flux élevés ou un débordement afin de gérer les flux importants en toute sécurité. Cela pourrait permettre à l'eau de se déverser dans une zone herbeuse plate ou dans le système d'eau pluviale. Les pentes latérales de la bioswale devraient être aussi douces que possible pour éviter l'érosion.  
+Les emplacements potentiels pour une bioswale doivent respecter ces critères :
 
-Idéalement, la profondeur du flux dans la bioswale ne devrait pas dépasser 6 pouces lors d'un événement pluvieux. La bioswale devrait se drainer dans les 24 à 30 heures. Si l'eau ne reste pas dans la bioswale pendant au moins 9 minutes, peu ou pas d'infiltration ou de filtrage des polluants se produira. Il est recommandé que la pente d'une bioswale soit inférieure à 10 %.  
+- La nappe phréatique saisonnière se trouve à moins de 60 cm du fond de la bioswale.
+- La roche mère est située à plus de 45 cm du fond de la bioswale.
+- Les réseaux souterrains sont à au moins 1,5 mètre de distance. Il est obligatoire dans l’Oregon d’appeler le Centre de Notification des Réseaux (1-800-332-2344 ou 811) avant de commencer toute excavation.
+- Les bâtiments sont à au moins 3 mètres de distance.
+- Les pentes de 10 % se trouvent à au moins 30 mètres de distance. Évitez d’installer une bioswale là où la pente descendante dépasse 30 %.
 
-### Rochers  
-Il est important de placer de gros rochers à l'entrée et à la sortie de la bioswale pour ralentir le débit d'eau et faciliter le nettoyage des sédiments et autres débris. Pour un bénéfice optimal en termes de qualité de l'eau, placez de gros rochers périodiquement le long de la bioswale pour ralentir la vitesse de l'eau et améliorer son absorption dans le sol.  
+Renseignez-vous auprès du service d’urbanisme de votre ville ou de votre comté pour savoir si un permis est nécessaire ou si vous devez suivre des règles particulières pour l’installation.
 
-### Sol  
-Les 18 premiers pouces de sol dans une bioswale sont souvent amendés avec du compost organique. Cela permettra d'établir une végétation robuste et de mieux traiter les eaux pluviales. Il est important de tester votre sol pour son pH (objectif : entre 5,5 et 7,5) et sa porosité. Les laboratoires d'analyse disponibles en Oregon peuvent être trouvés ici : [Analytical Laboratories Serving Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf).  
+---
 
-### Plantes  
-Pour une infiltration et un traitement optimaux, vous aurez besoin d'une variété d'arbres, d'arbustes, de graminées et de couvre-sols. Les fleurs vivaces, les plantes indigènes et les graminées ornementales peuvent ajouter un attrait visuel significatif. Les plantations dans les bioswales devraient être denses pour réduire la vitesse des flux, prévenir l'érosion et contrôler les mauvaises herbes. Choisissez des plantes en fonction de leur tolérance aux inondations et de leur capacité à survivre dans les conditions climatiques locales sans engrais, herbicides ou insecticides. Sélectionnez des plantes tolérantes à l'eau comme les laîches et les graminées aux points d'entrée et au fond de la bioswale. Les couvre-sols aideront à prévenir l'érosion sur les pentes. Les plantes devraient nécessiter peu ou pas d'arrosage après la première année. Il est préférable de planter à l'automne, car les pluies automnales aideront à établir les plantes.  
+## Conception et dimensions
 
-### Entretien  
-Les plantes nécessitent un arrosage supplémentaire pendant le premier été pour les aider à s'établir. Étendez un paillis de 2 à 3 pouces de profondeur, en utilisant un paillis de bois fin pour retenir l'humidité et réduire les mauvaises herbes. Inspectez votre bioswale après les événements pluvieux pour enlever les accumulations de sédiments aux points d'entrée ou de sortie. Replantez si nécessaire et surveillez fréquemment les mauvaises herbes jusqu'à ce que les plantes soient bien établies. Évitez d'utiliser des engrais, des herbicides et des pesticides.  
+La conception peut améliorer l’efficacité d’une bioswale. Une bioswale de forme trapézoïdale, en “U” ou triangulaire, entièrement végétalisée, est la plus efficace. La taille de la bioswale doit représenter au moins 1 % de la superficie de la zone drainée. Plus la bioswale est grande, plus elle peut stocker et infiltrer l’eau de pluie, ce qui permet de gérer de fortes pluies.
 
-### Ressources  
-- [Fiche technique sur les bioswales pour la gestion de l’eau](https://catalog.extension.oregonstate.edu/em9209)  
-- [Guide des jardins de pluie](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)  
-- [Laboratoires d'analyse en Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)  
+Il est important de prévoir où l’eau s’écoulera lors de très fortes pluies. Il est recommandé d’installer un tuyau de dérivation pour les gros débits ou un exutoire de trop-plein pour évacuer l’eau en toute sécurité. Cela peut permettre à l’eau de se déverser dans une zone herbeuse ou d’entrer dans le système d’égout pluvial.
 
-L'Université d'État de l'Oregon interdit la discrimination dans tous ses programmes, services, activités et matériels sur la base de la race, de la couleur, de l'origine nationale, de la religion, du sexe, de l'identité de genre (y compris l'expression de genre), de l'orientation sexuelle, du handicap, de l'âge, de l'état matrimonial, du statut familial/de parentalité, des revenus provenant d'un programme d'assistance publique, des convictions politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours de bâton pour une activité antérieure liée aux droits civils. (Toutes les bases interdites ne s'appliquent pas à toutes les situations.)  
+Les pentes latérales de la bioswale doivent être aussi douces que possible pour éviter l’érosion. Idéalement, la profondeur d’eau dans la bioswale ne doit pas dépasser 15 cm lors d’une pluie. La bioswale doit se vider en 24 à 30 heures. Si l’eau ne reste pas dans la bioswale au moins 9 minutes, il y aura peu ou pas d’infiltration ou de filtration des polluants. Il est conseillé que la pente d’une bioswale soit inférieure à 10 %.
+
+---
+
+## Rochers
+
+Il est important de placer de gros rochers à l’entrée et à la sortie de la bioswale pour ralentir le flux d’eau et faciliter le nettoyage du limon et des débris. Pour maximiser l’amélioration de la qualité de l’eau, placez de gros rochers à intervalles réguliers le long de la bioswale pour ralentir la vitesse de l’eau et améliorer l’absorption dans le sol.
+
+---
+
+## Sol
+
+Les 45 premiers centimètres de sol dans une bioswale sont souvent amendés avec du compost organique. Cela permet une bonne installation des plantes et un meilleur traitement de l’eau de pluie. Il est important de faire analyser votre sol pour le pH (objectif : entre 5,5 et 7,5) et la porosité. Des laboratoires d’analyses desservant l’Oregon sont listés ici :  
+[https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
+
+---
+
+## Plantes
+
+Pour une infiltration et un traitement optimaux, vous aurez besoin d’une variété d’arbres, d’arbustes, de graminées et de plantes couvre-sol. Les fleurs vivaces, plantes indigènes et graminées ornementales peuvent aussi embellir votre bioswale.
+
+Les plantations dans les bioswales doivent être denses pour réduire la vitesse de l’eau, prévenir l’érosion et limiter les mauvaises herbes. Choisissez les plantes selon leur tolérance à l’inondation et leur capacité à survivre dans le climat local sans engrais, herbicides ou insecticides.
+
+- Choisissez des plantes qui supportent l’eau, comme les laîches et les graminées, aux points d’entrée et au fond de la bioswale.
+- Les couvre-sols aideront à prévenir l’érosion sur les pentes.
+- Les plantes ne devraient avoir besoin que de peu ou pas d’arrosage après la première année d’installation.
+
+Il est préférable de planter à l’automne. Les pluies d’automne aideront les plantes à bien s’installer.
+
+---
+
+## Entretien
+
+Les plantes ont besoin d’un arrosage supplémentaire pendant le premier été pour bien s’installer.
+
+- Paillez sur 5 à 8 cm de profondeur avec du paillis de bois fin pour retenir l’humidité et réduire les mauvaises herbes.
+- Inspectez votre bioswale après les pluies pour enlever les dépôts de sédiments à l’entrée ou à la sortie.
+- Replantez si besoin et surveillez régulièrement les mauvaises herbes jusqu’à ce que les plantes aient bien poussé.
+- Évitez l’utilisation d’engrais, d’herbicides et de pesticides.
+
+---
+
+## Ressources
+
+- **Fiche technique sur les swales pour la qualité de l’eau (Low Impact Development)**  
+  [https://catalog.extension.oregonstate.edu/em9209](https://catalog.extension.oregonstate.edu/em9209)
+
+- **Guide du jardin de pluie**  
+  [https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
+
+- **Laboratoires d’analyses desservant l’Oregon**  
+  [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8677.pdf)
+
+---
+
+#### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état matrimonial, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut de vétéran, les représailles ou les mesures de rétorsion pour une activité antérieure relative aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+---

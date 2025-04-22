@@ -1,75 +1,100 @@
-# 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Xaiv Tsob Ntoo Zoo Rau Koj Lub Vaj  
+# Xaiv Tsob Ntoo Uas Zoo Rau Koj Lub Vaj
 
-### Taw Qhia  
-Tsob ntoo muaj ntau yam txiaj ntsig -- kev zoo nkauj, npog chaw, kev ntiag tug, thiab ntxoov ntxoo. Lawv tseem pab txo nqi cua sov thiab cua txias, thiab ntxiv tus nqi rau vaj tse. Tsob ntoo yog tsev thiab zaub mov rau tsiaj qus thiab muab txiaj ntsig rau ib puag ncig los ntawm kev nqus carbon dioxide, tso pa oxygen, thiab khaws dej rau hauv lawv cov cag.  
+### Taw Qhia
 
-### Yuav Xaiv Tsob Ntoo Li Cas  
-Ua ntej yuav ib tsob ntoo, ntsuas seb muaj chaw twg haum. Vim tias tsob ntoo nyob ntev, yuav tsum muaj kev tshawb xyuas zoo txog lub chaw.  
-Ua tib zoo xyuas kom tseeb tias koj qhov chaw thiab tsob ntoo haum zoo. Tsis txhob yuav vim kev xav ib pliag xwb!  
+Tsob ntoo muaj txiaj ntsig ntau yam—ua kom zoo nkauj, txwv chaw, muab kev ceev ntiag tug, thiab muab qhov ntxoov ntxoo. Lawv tseem pab txo nqi cua sov thiab cua txias, thiab pab nce tus nqi vaj tsev. Tsob ntoo yog chaw nyob thiab chaw noj haus rau tsiaj qus, thiab tseem pab txuag ib puag ncig los ntawm kev nqus carbon dioxide, tso pa oxygen tawm, thiab khaws dej rau hauv lawv tej cag.
 
-#### Chaw Nyob Muaj Peev Xwm:  
-Siv cov ntawv teev npe hauv tshooj hauv qab. Vim feem ntau vaj hauv nroog muaj chaw tsawg, xav txog cov teeb meem yav tom ntej thaum tsob ntoo loj hlob kom zam dhau kev nyuaj siab.  
+### Yuav Xaiv Tsob Ntoo Li Cas
 
-#### Kev Txaus Siab Nyob Nrog Tsob Ntoo:  
-Tsim ib daim ntawv teev npe ntawm cov txiaj ntsig koj xav tau ntawm tsob ntoo -- ntxoov ntxoo, kev zoo nkauj, xim nplooj, txiv hmab txiv ntoo, paj, kev npog ntiag tug, lossis nqi rau tsiaj qus. Vim tsis muaj ib tsob ntoo twg uas muaj tag nrho cov txiaj ntsig, nws pab tau yog koj xav txog qhov hloov pauv thiab paub koj qhov tseem ceeb.  
+Ua ntej yuav tsob ntoo, xav txog seb yuav muab tso rau qhov twg. Vim tsob ntoo nyob ntev, koj yuav tsum kawm txog qhov chaw kom zoo. Xyuas kom tseeb tias qhov chaw thiab tsob ntoo sib haum. Tsis txhob yuav yam tsis xav ua ntej!
 
-#### Kev Xav Txog Dav Dav:  
-Tso tsob ntoo poob nplooj rau sab qab teb/qaum teb hnub poob kom tiv thaiv tshav ntuj lub caij ntuj sov; siv tsob ntoo ntoo uas tsis poob nplooj los thaiv cua txias lub caij ntuj no. Thaum xaiv tsob ntoo rau kev zoo nkauj ntawm nplooj, paj thiab txiv, tso nws rau qhov chaw uas nplooj poob, paj thiab txiv yuav tsis ua kev phiab.  
+#### Qhov Chaw Muaj Peem Tsawg
 
-### Daim Ntawv Teev Npe Rau Chaw Ntoo  
+Siv daim ntawv teev hauv qab no. Vim feem ntau cov vaj hauv nroog tsis loj, koj yuav tsum xav kom meej meej txog tej teeb meem uas yuav tshwm sim tom ntej thaum tsob ntoo loj hlob.
 
-#### Chaw Muaj Nyob:  
-Kwv yees qhov chaw saum toj thiab hauv av uas yuav muaj rau tsob ntoo thaum nws loj hlob. Sab laj nrog ntau qhov chaw hais txog qhov siab thiab dav ntawm tsob ntoo thaum nws hlob tiav. Nco ntsoov tias tsob ntoo lub cev yuav pauv hloov thaum nws loj hlob. Qhov loj kuj txawv nyob ntawm av thiab thaj chaw. Ib qho chaw zoo yog Oregon State University cov ntaub ntawv hais txog nroj tsuag: [https://landscapeplants.oregonstate.edu/](https://landscapeplants.oregonstate.edu/)  
+#### Yam Uas Koj Xav Tau
 
-#### Kev Ntsuam Xyuas Cua thiab Tshav Ntuj:  
-Tsob ntoo uas tsis poob nplooj lossis muaj nplooj dav tuaj yeem thaiv cua thiab tshav ntuj lub caij ntuj sov. Yog xav tau ntxoov ntxoo lub caij ntuj sov tab sis tso cai rau tshav ntuj los rau lub caij ntuj no, xaiv tsob ntoo poob nplooj. Nco ntsoov tias tsis yog txhua tsob ntoo conifer tsis poob nplooj -- conifers uas poob nplooj muaj xws li larch, bald cypress, dawn redwood. Tsis tas li ntawd, tsis yog txhua tsob ntoo broadleaf poob nplooj -- broadleaf uas tsis poob nplooj muaj xws li Southern magnolia, holly, thiab strawberry tree.  
+Sau cov txiaj ntsig uas koj xav tau los ntawm tsob ntoo—ntxoov ntxoo, kev zoo nkauj, xim nplooj, txiv, paj, kev ceev ntiag tug, lossis pab tsiaj qus. Tsis muaj ib tsob ntoo twg muab tau txhua yam no, yog li koj yuav tsum paub koj qhov tseem ceeb tshaj thiab txiav txim siab txog tej yam yuav tau tso tseg.
 
-#### Teeb Meem Muaj Peev Xwm:  
-- **Nrog lwm cov nroj tsuag** – Xav txog cov cag thiab ceg yav tom ntej – xav txog tias tsob ntoo yuav zoo li cas tom qab 20 xyoo. Cov ceg ntoo loj hlob tuaj yeem yog puag ncig, zoo li lauj kaub, lossis zoo li kua muag rov qab; xav txog tias nws yuav cuam tshuam rau lwm cov nroj tsuag li cas. Cov qauv zoo li tus ncej nqaim thiab qhov siab haum rau thaj chaw nqaim, thaum cov qauv uas khoov yuav tsim ib qho chaw npog. Cov cag ntawm tsob ntoo loj hlob tuaj yeem tshaj qhov dav ntawm cov ceg.  
-- **Nrog cov xov hlau thiab vaj tsev** – Tso tsob ntoo tsawg kawg 3 feet ntawm txoj kev, 15 feet ntawm vaj tsev thiab lwm tsob ntoo, thiab yog tias koj tsob ntoo yuav loj dua 30 feet, tso nws 25 feet deb ntawm cov xov hluav taws xob.  
-- **Tsob ntoo siab** uas loj txog 60 feet lossis ntau dua yuav tsum nyob 35 feet deb ntawm lub tsev kom cov cag loj hlob tau zoo.  
+#### Cov Lus Xav Txog Nquag
 
-#### Av thiab Dej:  
-Cov cag xav tau huab cua thiab dej. Qhov zoo tshaj plaws yog av uas muaj qauv zoo thiab tso cai rau huab cua thiab dej mus los. Cov cag ntawm tsob ntoo loj hlob dav dua qhov dav ntawm cov ceg; muab nws ib qhov chaw uas tsis yog nyob ib puag ncig los ntawm txoj kev uas dej tsis nkag tau.  
+- Muab cov ntoo uas poob nplooj rau sab qab teb lossis sab hnub poob kom thaiv tau tshav ntuj sov; siv cov ntoo ntsuab ib txhis los thaiv cua txias thaum caij ntuj no.
+- Thaum xaiv tsob ntoo rau nplooj, paj, lossis txiv kom zoo nkauj, muab nws tso rau qhov chaw uas nplooj, paj, thiab txiv poob tsis ua teeb meem rau koj.
 
-#### Kev Txaus Siab Nyob Nrog Tsob Ntoo:  
-Tsob ntoo muaj kev zoo nkauj nrog lawv cov nplooj, paj, txiv, thiab tawv ntoo. Qee cov txiaj ntsig no yog nrog cov nplooj uas poob. Tso tsob ntoo rau qhov chaw uas muaj kev zoo nkauj rau qhov muag tab sis cov nplooj poob tsis ua qhov phiab.  
+### Daim Ntawv Teev Yuav Muab Tsob Ntoo Rau Qhov Twg
 
-### Cov Ntoo Rau Cov Qhov Chaw Tshwj Xeeb  
-Oregon State University Extension tau luam tawm cov ntaub ntawv hais txog kev xaiv, cog, thiab saib xyuas tsob ntoo tshiab (EC1438). Rau kev rub dawb, mus saib: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-10-Minute University™ muaj cov ntaub ntawv hais txog Cov Ntoo Zoo Rau Lub Vaj nrog kev pom zoo los ntawm cov kws txawj horticultural hauv cheeb tsam. Rau kev rub dawb, mus saib: [https://www.cmastergardeners.org/10-minute-university/](https://www.cmastergardeners.org/10-minute-university/)  
+#### Chaw Muaj Rau Loj Hlob
 
-#### Qhov Chaw Tawv (av tsis zoo, tej yam kev nyuaj hauv nroog, kev hloov pauv kub thiab txias):  
-- **Goldenrain Tree** *Koelreuteria paniculata* – Dav 30’, thaj chaw 5–9  
-- **Thornless Cockspur Hawthorn** *Crataegus crusgalli inermis* – Dav 25’, thaj chaw 4–8  
+Kwv yees seb saum toj thiab hauv qab av muaj chaw npaum li cas rau tsob ntoo loj hlob. Xyuas ntau qhov chaw qhia txog qhov siab thiab dav ntawm tsob ntoo thaum loj. Nco ntsoov tias tsob ntoo yuav hloov dua thaum loj hlob. Qhov loj kuj nyob ntawm av thiab qhov chaw. Ib qhov chaw zoo yog [Oregon State University landscape plant database](https://landscapeplants.oregonstate.edu/).
 
-#### Hauv qab Xov Hlau:  
-- **Glorybower** *Clerodendrum trichotomum* – Dav 25’, thaj chaw 6–8  
-- **Kousa Dogwood** *Cornus kousa* – Dav 25’, thaj chaw 5–8  
-- **Vine Maple** *Acer circinatum* – Dav 20’, thaj chaw 4–8  
+#### Cua thiab Hnub Ci
 
-#### Ntxoov Ntxoo:  
-- **Red Maple** *Acer rubrum* – Dav 40’, thaj chaw 4–8  
-- **Katsura Tree** *Cercidiphyllum japonicum* – Dav 40’, thaj chaw 5–8  
+Cov ntoo ntsuab ib txhis lossis ntoo broadleaf evergreen pab thaiv cua thiab tshav ntuj. Yog xav tau ntxoov ntxoo rau caij ntuj sov tab sis xav kom hnub tuaj rau caij ntuj no, xaiv cov ntoo poob nplooj.
 
-#### Kev Xav Tau Dej Tsawg Tom Qab Loj Hlob Zoo:  
-- **Hackberry** *Celtis occidentalis* – Dav 35’, thaj chaw 6–9  
-- **Yellowood** *Cladrastis kentukea* – Dav 35–45’, thaj chaw 4–8  
-- **Turkish Filbert** *Corylus colurna* – Dav 25’, thaj chaw 4–8  
-- **Eastern Redbud** *Cercis canadensis* – Dav 20’, thaj chaw 4–8  
+- Tsis yog txhua tsob ntoo conifer muaj nplooj ntsuab ib txhis—ntoo larch, bald cypress, thiab dawn redwood yeej poob nplooj.
+- Tsis yog txhua tsob ntoo broadleaf poob nplooj—Southern magnolia, holly, thiab strawberry tree yog broadleaf evergreen.
 
-### Kom Paub Ntxiv  
-- **Trees and Shrubs for Fall and Winter Bloom** *EM9277*: [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- **Choosing the Right Tree**, International Society of Arboriculture: [https://www.treesaregood.org/treeowner/choosingtherighttree](https://www.treesaregood.org/treeowner/choosingtherighttree)  
+#### Tej Teeb Meem Yav Tom Ntej
 
-### Rau Kev Pab los ntawm Master Gardener™  
-Hu rau Home Horticulture Helpline:  
-- 503-655-8631 (Clackamas County)  
-- 503-821-1150 (Washington County)  
-- 503-445-4608 (Multnomah County)  
+- **Nrog lwm tsob nroj**: Xav txog lub sijhawm yav tom ntej thaum cag thiab ceg loj hlob—xav pom zoo li cas tom ntej 20 xyoo. Cov ntoo loj ib txwm muaj lub taub hau puag ncig, zoo li lauj kaub, lossis zoo li dej muag kua muag; xav seb nws yuav ua li cas rau lwm tsob nroj. Cov ntoo uas ncaj thiab siab zoo rau qhov chaw nqaim, hos cov ntoo nkhaus zoo rau kev txwv chaw. Cag ntawm tsob ntoo loj yuav loj tshaj li cov ceg.
+- **Nrog cov xaim hluav taws xob thiab tsev**: Tsob ntoo yuav tsum nyob deb tsawg kawg 3 ko taw ntawm txoj kev, 15 ko taw ntawm tsev thiab lwm tsob ntoo, thiab yog tsob ntoo ntawd yuav loj dua 30 ko taw, muab nws 25 ko taw deb ntawm cov xaim hluav taws xob saum toj.
 
-Oregon State University Extension Service txwv tsis pub kev ntxub ntxaug hauv txhua qhov kev pab cuam, kev pab, thiab khoom siv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, tus kheej (nrog rau kev qhia tus kheej), kev nyiam poj niam txiv neej, kev xiam oob qhab, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj tau los los ntawm kev pab cuam pej xeem, kev ntseeg kev nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev tsim txom lossis kev ua pauj rau kev ua haujlwm ntawm cov cai pej xeem yav dhau los. (Tsis yog txhua yam kev txwv tsis pub siv rau txhua qhov kev pab cuam.)
+Cov ntoo siab tshaj 60 ko taw yuav tsum nyob 35 ko taw deb ntawm tsev kom cag loj hlob zoo.
+
+#### Av & Dej
+
+Cag ntoo xav tau huab cua thiab dej. Qhov zoo tshaj yog kom av muaj kev sib xyaw zoo thiab cia dej thiab huab cua mus tau. Cag ntawm tsob ntoo loj yuav dav dhau ntawm cov ceg; xaiv qhov chaw uas tsis raug thaiv los ntawm txoj kev los pavemen.
+
+#### Yam Uas Koj Xav Tau
+
+Tsob ntoo ua kom zoo nkauj nrog nplooj, paj, txiv, thiab tawv ntoo. Qee zaum tej qhov zoo no yuav muaj cov khib nyiab. Muab tsob ntoo rau qhov chaw uas koj pom nws zoo nkauj tshaj thiab khib nyiab tsis ua teeb meem rau koj.
+
+### Cov Ntoo Rau Tej Chaw Tshwj Xeeb
+
+Phau ntawv *Selecting, Planting, and Caring for a New Tree* (EC1438) los ntawm Oregon State University Extension muaj cov ntoo haum rau tej yam xwm txheej tshwj xeeb. Mus rub dawb ntawm [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu).
+
+10-Minute University™ tseem muaj *Good Trees for the Home Garden* nrog ntau cov tswv yim los ntawm cov kws paub txog nroj tsuag hauv cheeb tsam. Mus rub dawb ntawm [https://www.cmastergardeners.org/10-minute-university/](https://www.cmastergardeners.org/10-minute-university/).
+
+#### Chaw Nyiaj Nyuab (av tsis zoo, nroog, kub hloov pauv)
+
+- **Goldenrain Tree** (*Koelreuteria paniculata*): Dav 30’, vùng 5–9
+- **Thornless Cockspur Hawthorn** (*Crataegus crusgalli inermis*): Dav 25’, vùng 4–8
+
+#### Hauv qab xaim hluav taws xob
+
+- **Glorybower** (*Clerodendrum trichotomum*): Dav 25’, vùng 6–8
+- **Kousa Dogwood** (*Cornus kousa*): Dav 25’, vùng 5–8
+- **Vine Maple** (*Acer circinatum*): Dav 20’, vùng 4–8
+
+#### Muab Ntxoov Ntxoo
+
+- **Red Maple** (*Acer rubrum*): Dav 40’, vùng 4–8
+- **Katsura Tree** (*Cercidiphyllum japonicum*): Dav 40’, vùng 5–8
+
+#### Tsis xav tau dej ntau tom qab loj hlob
+
+- **Hackberry** (*Celtis occidentalis*): Dav 35’, vùng 6–9
+- **Yellowwood** (*Cladrastis kentukea*): Dav 35–45’, vùng 4–8
+- **Turkish Filbert** (*Corylus colurna*): Dav 25’, vùng 4–8
+- **Eastern Redbud** (*Cercis canadensis*): Dav 20’, vùng 4–8
+
+### Xav Paub Ntxiv
+
+- *Trees and Shrubs for Fall and Winter Bloom* (EM9277): [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+- *Choosing the Right Tree*, International Society of Arboriculture: [https://www.treesaregood.org/treeowner/choosingtherighttree](https://www.treesaregood.org/treeowner/choosingtherighttree)
+
+#### Tswv Yim los ntawm Master Gardener™
+
+- **Hu rau Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+
+- Rau lwm cov ntaub ntawv 10-Minute University™ thiab ntawv qhia ntawv kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service · Oregon State University Extension Service tsis pub muaj kev cais tawm hauv nws cov kev pab cuam, kev pab, kev ua, thiab ntaub ntawv vim yog haiv neeg, xim tawv, teb chaws, kev ntseeg, poj niam txiv neej, yam txuj ci (xws li kev qhia txuj ci), kev sib deev, kev xiam oob qhab, hnub nyoog, txheej txheem kev sib yuav, tsev neeg/txiv neej niam tsev, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg, kev paub txog caj ces, xwm txheej tub rog, kev raug txim, lossis rau qhov tau siv txoj cai tiv thaiv kev ncaj ncees yav dhau los. (Tsis yog txhua yam txwv no siv rau txhua qhov kev pab.)
+---

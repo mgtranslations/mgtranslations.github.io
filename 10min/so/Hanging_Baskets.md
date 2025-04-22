@@ -1,119 +1,148 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master-ka ah ee Clackamas County oo iskaashanaya lana kaashanaya Barnaamijka OSU Extension Master Gardener™
 
-Ururka Clackamas County Master Gardener oo iskaashanaya oo taageeraya Barnaamijka OSU Extension Master Gardener™
-
-## Dambiilaha Laalaada
+# Dambiilo La Hago
 
 ### Guudmar
-Dambiilaha laalaada oo ubaxyo midabo qani ah ka buuxaan ayaa ah muuqaal muhiim ah oo xagaaga lagu qiimeeyo magaalooyinka iyo beeraha badan.  
 
-### Doorashada Weelka
-Weel ku habboon waa mid ku filan inuu sii jiro xilliga koritaanka oo dhan isla markaana u fududahay in kor loo qaado oo meeshiisa la dhigo. Weel caadi ah ayaa si fiican u shaqaynaya sababtoo ah waqti yar gudihiis, dambiilaha waxaa dabooli doona dhirtaada daadinaysa.  
+Dambiilaha la hago, oo buuxa ubaxyo midab leh oo faro badan, waa astaamo aad loo jecel yahay xilliga xagaaga magaalooyin iyo beero badan.
 
-Weelasha waxay ku yimaadaan qaabab, cabbirro, iyo qalab kala duwan. Alwaax, sphagnum moss, iyo dhoobo aan dhalaalin ama terra cotta, waxay si degdeg ah u engegaan. Kuwaas waxaa lagu dabooli karaa (caadi ahaan bac daaqsan) si ay qoyaan ugu sii jiraan waqti dheer. Ogow in dhoobo iyo terra cotta ay noqon doonaan kuwo aad u culus marka la beero lana waraabiyo. Door weelal ku habboon qaabkaaga, farshaxankaaga, iyo muuqaalka deegaankaaga.  
+### Dooro Weelka
 
-Ogow in weel 10-inch ah uu u baahan karo in la waraabiyo 1 ilaa 2 maalmoodba mar. Weelasha yaryar waxay u baahan doonaan waraabin ka badan midkaas.  
+Weelka ku habboon waa inuu yahay mid waaweyn oo ku filan inuu socdo dhammaan xilliga koritaanka isla markaana fudud si sahlan loogu sudho meeshii la rabo. Weel caadi ah wuu fiican yahay sababtoo ah, waqti yar gudahood, geedahaaga hoos u dhacaya ayaa gabi ahaanba dabooli doona.
 
-### Isticmaal Isku-darka Beerta
-Isticmaal isku-dar tayo wanaagsan oo lagu buuxiyo weelkaaga. Badeecooyinkaan waxaa loo sameeyay inay yihiin kuwo aad u qallafsan, taasoo hubinaysa in weelka uu si fiican u daadsho. Isku-dar si fiican u daadiya ayaa wax badan ka taraya kor u qaadida dhirta caafimaadka leh.  
+Weelashu waxay yimaadaan qaabab, cabbirro, iyo agabyo kala duwan. Alwaax, dhir sphagnum moss ah, iyo dhoobo aan la dahaadhin (terra cotta) waxay si degdeg ah u engegi karaan. Kuwaas waxaa lagu safri karaa (badanaa balaastiik dalool leh) si ay biyaha ugu jiraan waqti dheer. Ogoow in dhoobada iyo terra cotta ay aad u culusi doonaan marka la beero lana waraabiyo. Dooro weelasha ku habboon qaabkaaga, qurxinta gurigaaga, iyo muuqaalka beertaada.
 
-Haddii aad dib u isticmaasho weelka xilli kale, tixgeli inaad beddesho isku-darka beerta. Beddalidda waxay noqon doontaa muhiim haddii dhirta hore ay lahayd cudur xididada ah; haddii ay sidaas tahay, sidoo kale si fiican u dhaq weelka.  
+Ogow in weel 10-inji ah laga yaabo inuu u baahdo waraabin 1 ilaa 2 maalmood kasta. Weelasha yaryar waxay u baahan doonaan waraabin intaas ka badan.
 
-Ha isticmaalin ciidda beerta ee weelasha sababtoo ah dhumucdeeda ayaa si weyn u xaddidaysa daadinta oo sidaas darteed ka hor istaagaysa xididdada inay si fiican u koraan. Ciidda beerta waxay sidoo kale keeni kartaa cudurro, cayayaanka, iyo abuurka haramaha.  
+### Isticmaal Isku-darka Beerta Weelka
 
-Ogow in talada caanka ah ee ah "wax qallafsan oo hoose ku rid si ay u daadsho" ay khaldan tahay. Sababta oo ah dhaqaalaha biyaha ee ku jira weelka, walaxda qallafsan waxay hor istaagi doontaa daadinta.  
+Isticmaal isku-dar tayo wanaagsan leh si aad u buuxiso weelkaaga. Waxyaalahan waxaa loo sameeyey inay aad u jajaban yihiin si biyuhu si fiican uga baxaan weelka. Isku-dar si fiican loo miiray waxa uu caawiyaa koritaanka caafimaadka leh ee dhirtaada.
+
+Haddii aad weelka dib u isticmaalayso xilli kale, tixgeli inaad beddesho isku-darkii hore. Tani waa muhiim haddii dhirtii hore ay la xanuunsatay cudur xidid. Haddii ay sidaas tahay, si fiican u dhaq weelka.
+
+Ha isticmaalin ciidda beerta ee weelka, sababtoo ah way yartahay oo biyaha ma sii dayso, waxayna xannibtaa koritaanka xididdada. Sidoo kale, ciidda beerta waxay keeni kartaa cudurro, cayayaan, iyo iniin caws ah.
+
+Ogow in talada ah "waxyaabo waaweyn oo hoose la dhigo si biyuhu uga baxaan" ay khalad tahay. Sababtoo ah sida biyuhu ugu dhaqaaqaan weelka dhexdiisa, waxyaabahaas waaweyn waxay xannibaan bixitaanka biyaha.
 
 ### Isticmaal Bacriminta
-Si fiican u billaab dhirtaada adoo isku daraya bacriminta isku-darka beerta ka hor inta aan la beeri. Qaacido si tartiib ah u sii deynaysa oo loogu talagalay inay socoto 3 ilaa 4 bilood ayaa si wanaagsan u shaqaynaysa sababtoo ah waxay sii jiri doontaa xilliga oo dhan.  
 
-Marka dhirta oo dhan la dhigo, ku qabo isku-darka beerta xididdada iyada oo la isticmaalayo biyo ay ku jirto bacriminta dareeraha ee xoogga yar.  
+Ka dhig dhirtaada mid si wanaagsan u bilaabata adigoo bacriminta ku dara isku-darkii beerta ka hor intaadan wax beerin. Bacrimin si tartiib ah u sii deynaysa nafaqooyinka oo soconaysa 3 ilaa 4 bilood waa mid fiican sababtoo ah waxay soconaysaa xilliga oo dhan.
 
-### Doorashada Dhirtaada
-Waxaa muhiim ah in dhirta ku jirta hal weel ay si fiican ugu koraan xaaladaha isku midka ah, ha ahaato qorrax ama hadh, qoyan ama qalalan. Sidoo kale maskaxda ku hay habka koritaanka ee dhirta, sida toosan ama daadinaysa. Waxaad isku dari kartaa sanadlayaal iyo kuwa sannado badan sii jira hal weel xilli kaliya ah ka dibna, dhammaadka xilliga, waxaad ku beddeli kartaa sanadlayaasha muuqaal cusub.  
+Marka dhirta la dhigo, isku-darka beerta ku aadi xididdada adigoo isticmaalaya biyo lagu daray bacriminta la milay ee xooggeedu kala bar yahay.
 
-### Naqshadaynta iyo Beerista
-Ka dib markaad doorato dambiilaha oo aad haysato dhirta iyo isku-darka beerta, raac tilmaamahan si aad guul u gaarto:  
-1. Ku shub isku-darka beerta inta aad u malaynayso inaad u baahan tahay, ka dibna ku dar bacriminta sii deynaysa 3 ilaa 4 bilood; raac tilmaamaha sumadda si aad u ogaato qadarka la isticmaalayo.  
-2. Ku shub isku-darka beerta weelkaaga si dhirta loo dhigo oo ay weli hal inch ka hooseyso cidhifka weelkaaga.  
-3. Ku rid dhirta waaweyn ee toosan bartamaha ama dhabarka weelka, ku buuxi kuwa isku shubanaya, ka dibna ku dhammaystir kuwa daadinaya geesaha weelka. Si aad u abuurto muuqaal dheelitiran, ku rid laba ama in ka badan oo isla dhir ah (ama dhir badan oo isku cabbir, caleemo, iyo midab leh) meelaha ka soo horjeeda.  
-4. Si aad u dhammaystirto beerista, ku buuxi dhirta agagaarkooda isku-darka beerta si aad u isku darto isku darka iyo inaad qarisid xididada muuqda.  
-5. Ku qabo isku-darka beerta xididdada biyaha bacriminta leh ee xoogga yar.  
-6. Ku laalaad dambiilahaaga meelaha qorraxda ama hadhka ah ee ku habboon shuruudaha dhirtaada. Hadda waxaad nasan kartaa oo ku raaxaysan kartaa!  
+### Dooro Dhirtaada
 
-### Dayactirka Weelkaaga
-Waraabi marka loo baahdo. Uma baahnid inaad waraabiso inta badan marka cimiladu qabow tahay sida aad u baahato marka ay diirimaad tahay, xataa kulul, iyo/ama dabayshu socoto. Inta lagu jiro cimilada kulul, waxaad u baahan kartaa waraabin hal mar ama laba jeer maalintii iyadoo ku xiran cabbirka weelka iyo tirada iyo nooca dhirta ku jirta.  
+Waa muhiim in dhirta ku jirta hal weel ay dhammaantood si fiican ugu koraan xaalado isku mid ah, ha ahaato qorax ama hoos, qoyaan ama mid qalalan. Sidoo kale xasuuso sida ay dhirtu u koraan, sida mid toosan ama mid hoos u dhacaysa.
 
-Marka aad shaki ka qabtid baahida biyo, taabo dusha isku-darka beerta. Waraabi haddii ay qallalan tahay, ha waraabin haddii ay qoyan tahay.  
+Waxaad isku dari kartaa dhir sanadle ah iyo kuwo sannado badan jiraya hal weel xilli kaliya. Dhamaadka xilliga, waxaad beddeli kartaa kuwa sanadlaha ah si aad u hesho muuqaal cusub.
 
-Qiyaasta hore ee bacriminta aad ku dartay isku-darka beerta waxay ku filnaan kartaa dhirta oo dhan xilliga. Laakiin haddii dhirtu ay bilaabaan inay liicaan, ku dar bacriminta dareeraha hal ama laba jeer toddobaadkii, ka dibna ku celi sida loo baahdo.  
+### Naqshadeynta iyo Beerista
 
-Si aad wax walba ugu ekaato kuwo nadiif ah xilliga oo dhan, ka saar ubaxyada dhintay (deadheading) ugu yaraan hal mar toddobaadkii.  
+Markaad doorato weelka, dhirta, iyo isku-darka beerta, raac tillaabooyinkan si aad ugu guulaysato:
 
-### Talooyin Dhir ah oo La Taliyay
-Dhir badan ayaa ku guuleysta dambiilaha xilliga laalaada. Kuwan hoos ku xusan waa dhowr ka mid ah talooyinka suurtagalka ah ee badan. Ogow in dhirta qaar ay ku habboon yihiin qorraxda iyo hadhka labadaba.  
+1. Ku shub isku-darka beerta intaad u malaynayso inaad u baahan tahay, kadibna ku dar bacriminta si tartiib ah u sii deysa nafaqooyinka muddo 3 ilaa 4 bilood ah; raac tilmaamaha sanduuqa.
+2. Ku shub isku-darka beerta weelka si dhirtu ugu fadhiisato oo ay weli hal inch uga hooseyso cirifka weelka. (Ogow in haddii aad weelka buuxiso, aad marar badan ka saar doonto si aad uga dhigto meelaha xididdadu galaan.)
+3. Ku dheji dhirta dhaadheer bartamaha ama gadaasha weelka, kadib ku buuxi kuwa balaaran, ugu dambayna ku dar kuwa hoos u dhacaya geesaha weelka. Si muuqaal isu dheellitiran loo helo, dhig laba ama ka badan oo nooc isku mid ah ama dhir la mid ah midba dhinac ka soo horjeeda.
+4. Si aad u dhamaystirto beerista, ku buuxi meelaha bannaan isku-darka beerta si aad u mideyso dhirta ugana daboosho xididdada soo baxday. Markasta oo wax walba la dhigo, isku-darka beerta waa inuu hal inch ka hooseeyaa cirifka weelka si biyo u galaan.
+5. Ku aadi isku-darka beerta xididdada dhirta adigoo adeegsanaya biyo lagu daray bacriminta la milay ee xooggeedu kala bar yahay.
+6. Ku sudh weelkaaga meel ay shuruudaha qoraxda ama hooska la jaanqaadaan baahida dhirtaada. Hadda fadhiiso, naso, oo ku raaxayso!
 
-#### Dhirta Toosan ee Qorraxda  
-- Angelonia  
-- Cordyline  
-- Cosmos  
-- Daisies  
-- Dracaena  
-- Geranium  
-- Dhirta Dusha Sare  
+### Daryeelka Weelkaaga
 
-#### Dhirta Toosan ee Hadhka  
-- Heliotrope  
-- Shade coleus  
-- Double impatiens  
-- Rex begonia  
-- Ferns  
-- Fuchsia  
+Biyo sii markasta oo loo baahdo. Ma u baahnid inaad si joogto ah biyo u siiso xilliyada qabowga ama dabaysha yar, laakin marka ay kulushahay ama dabayl jirto, waxaa laga yaabaa inaad u baahato inaad biyo siisid hal ama laba jeer maalintii, iyadoo ku xiran cabbirka weelka iyo tirada/noolaanshaha dhirta.
 
-#### Dhirta Isku Shubta ee Qorraxda  
-- Bidens  
-- Brachycome  
-- Diascia  
-- Fantasy petunia  
-- Fibrous begonia  
+Haddii aad ka shakisan tahay in biyo loo baahan yahay, taabo dusha isku-darka beerta. Biyo sii haddii uu qalalan yahay; ha biyo siin haddii uu qoyan yahay.
 
-#### Dhirta Isku Shubta ee Hadhka  
-- Brachycome  
-- Coleus  
-- Impatiens  
-- Sun coleus  
-- Upright lobelia  
+Bacrimintii hore ee aad ku dartay isku-darka beerta waxa laga yaabaa inay ku filan tahay dhirtaada xilliga oo dhan. Laakiin haddii dhirtu ay gaabis noqoto, ku dar bacrimin la milay biyo, hal ama laba jeer toddobaadkii, kadibna ku celi sida loogu baahdo.
 
-#### Dhirta Daadinaysa ee Qorraxda  
-- Anagalis  
-- Alyssum  
-- Bacopa  
-- Creeping Charlie  
-- Creeping Jenny  
-- Creeping Zinnia  
-- Ivy  
-- Lamium  
+Si wax walba u ekaadaan nadiif xilli oo dhan, iska jar ubaxyada haray (deadhead) ugu yaraan mar toddobaadkii.
 
-#### Dhirta Daadinaysa ee Hadhka  
-- Bacopa  
-- Creeping Charlie  
-- Creeping Jenny  
-- Fuchsia  
-- Ivy  
-- Lamium  
+### Dhirta La Taliyo
+
+Dhir badan ayaa si fiican ugu kora dambiilaha la hago xilliyada kala duwan. Kuwa hoose waa qaar ka mid ah talooyinka, laakiin waxaa jira kuwo kale oo badan. Ogoow in dhir badan ay ku wanaagsan yihiin qoraxda iyo hooska labadaba.
+
+#### Dhirta Dhaadheer ee Qoraxda
+
+- Angelonia
+- Cordyline
+- Cosmos
+- Daisies
+- Dracaena
+- Geranium
+- Caws qurxoon
+
+#### Dhirta Dhaadheer ee Hooska
+
+- Heliotrope
+- Coleus hooska
+- Double impatiens
+- Rex begonia
+- Faraas
+- Fuchsia
+- New Guinea impatiens
+- Tuberous begonia
+
+#### Dhirta Buurbuuran ee Qoraxda
+
+- Bidens
+- Brachycome
+- Diascia
+- Fantasy petunia
+- Fibrous begonia
+
+#### Dhirta Buurbuuran ee Hooska
+
+- Geranium
+- Nemesia
+- Coleus
+- Polka dot plant
+- Impatiens
+- Lobelia dhaadheer
+
+#### Dhirta Hoos U Dhacaysa ee Qoraxda
+
+- Anagalis
+- Alyssum
+- Bacopa
+- Creeping Charlie
+- Creeping Jenny
+- Creeping Zinnia
+- Ivy
+- Lamium
+- Licorice plant
+
+#### Dhirta Hoos U Dhacaysa ee Hooska
+
+- Lotus vine
+- Million bells
+- Portulaca
+- Scaevola
+- Sweet potato vine
+- Lobelia hoos u dhacaysa
+- Petunia hoos u dhacaysa
+- Verbena
+- Vinca
 
 ### Macluumaad Dheeraad ah
-Waxaa jira buugaag badan oo laga heli karo sida loo koro dambiilaha laalaada, taasoo adkeynaysa inaan ku koobno talooyinka dhowr buug oo keliya. Waxaad kuwo badan ka heli doontaa maktabadaha iyo dukaamada buugaagta.  
 
-Buugaag Talooyin ah:  
-- *Hanging Baskets: A Practical Step-By-Step Guide* by Jenny Hendy  
-- *Year-Round Containers, Baskets & Boxes* by Graham Strong and Claire Phoenix  
-- *The Hanging Garden* by Sue Fisher  
-- *Container and Hanging Gardens* (Ortho Books)  
-- *Gardening in Containers* (Sunset)  
-- *Pots in the Garden* by Ray Rogers  
+Buugaag badan ayaa laga heli karaa koritaanka dambiilaha la hago, waana adag tahay in la xaddido talooyinka. Waxaad ka heli doontaa kuwo kale maktabadaha iyo dukaamada buugaagta.
 
-#### Talooyinka Master Gardener™  
-- Wac Khadka Caawinta Horticulture: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), ama 503-445-4608 (Multnomah County).  
-- Wixii warqado ah ee 10-Daqiiqo Jaamacadda™ ah iyo jadwalka fasallada, booqo www.cmastergardeners.org.  
+- *Hanging Baskets: A Practical Step-By-Step Guide* by Jenny Hendy
+- *Year-Round Containers, Baskets & Boxes* by Graham Strong and Claire Phoenix
+- *The Hanging Garden* by Sue Fisher
+- *Container and Hanging Gardens* (Ortho Books)
+- *Gardening in Containers* (Sunset)
+- *Pots in the Garden* by Ray Rogers
 
-Jaamacadda Oregon State Extension Service waxay ka mamnuucday takoorka barnaamijyadeeda, adeegyada, hawlaha, iyo agabkeeda dhammaan dhinacyada ku saabsan jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga),...
+#### Talooyinka Beeralayda Master-ka ah™
+
+- **Wac Khadka Caawinta Beerta Guriga:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Si aad u hesho waraaqo kale iyo jadwalka fasallada Jaamacadda 10-Daqiiqo™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Ballaarinta Jaamacadda Oregon State University waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabkiisa iyadoo lagu salaynayo midab, qowmiyad, asal qaran, diinta, jinsi, aqoonsi jinsiyadeed (oo ay ku jirto muujinta jinsiga), jihada galmo, naafonimo, da', xaaladda guurka, xaaladda qoyska/waalidnimo, dakhli laga helo barnaamijyada caawinta dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda ciidanimo, ciqaab ama aargoosi la xiriirta hawlo xuquuqul insaanka hore. (Dhammaan waxyaabaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

@@ -1,208 +1,92 @@
-# Université de 10 Minutes™  
-L'association des jardiniers maîtres du comté de Clackamas, en collaboration avec et en soutien du programme OSU Extension Master Gardener™  
+#### Université en 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien au programme OSU Extension Master Gardener™
 
-## Grandes plantes recommandées : Bulbes, Fougères, Vignes et Graminées  
-S : Jardin ombragé, D : Plante tolérante à la sécheresse, W : Avantages pour la faune : Oiseaux, Abeilles, Papillons, Colibris  
+## Les Meilleures Plantes à Choisir : Bulbes, Fougères, Lianes et Graminées
 
-### Bulbes  
-#### Nom S/D/W Taille 10 ans Soleil/Ombre Caractéristiques remarquables  
-**Naked Ladies**  
-Amaryllis belladonna  
-1’ 6” x 1’ 6” Plein soleil  
-Ses tiges meurent en plein été, puis une magnifique fleur en forme de trompette de 18 pouces apparaît en automne.  
+### Clé
 
-**Windflower**  
-Anemone blanda  
-4” x 1’ Plein soleil  
-Fleurs au début du printemps avec des fleurs semblables à des marguerites dans des teintes de rose, blanc et un indigo pur.  
-
-**Camas de Cusick**  
-Camassia cusickii  
-S, W 3’ x 3’ Plein soleil à ombre légère ou ouverte  
-Originaire du Nord-Ouest Pacifique. Bulbe avec une belle fleur bleu glacé à bleu ciel de la fin du printemps au début de l'été.  
-
-**Camas**  
-Camassia quamash  
-S, W 2’ x 2’ Plein soleil à ombre légère ou ouverte  
-Originaire du Nord-Ouest Pacifique. Ce bulbe facile à cultiver produit des épis spectaculaires de fleurs bleu vif à violet en mai.  
-
-**Crocus d'automne**  
-Colchicum autumnale  
-D 1’ x 6” Plein soleil  
-En début d'automne, de grandes fleurs en forme de vase, lavande-rose, jaillissent du sol pour offrir une touche de couleur éclatante.  
-
-**Crocus d'automne 'The Giant'**  
-Colchicum ‘The Giant’  
-D 1’ x 4” Plein soleil  
-Fleurs lavande-rose en forme de vase extra-larges avec du blanc à la base des pétales à l'intérieur. Ces fleurs magnifiques apparaissent au début de l'automne.  
-
-**Crocus à grandes fleurs 'Flower Record'**  
-Crocus ‘Flower Record’  
-5” x 6” Plein soleil  
-Ce cultivar hybride est facile à cultiver et de longue durée avec des fleurs en forme de calice d'un riche violet royal.  
-
-**Crocus à grandes fleurs 'Goldilocks'**  
-Crocus ‘Goldilocks’  
-5” x 5” Plein soleil  
-Crocus durable avec des fleurs dorées ornées d'une touche de bordeaux.  
-
-**Crocus à grandes fleurs 'Jeanne d’Arc'**  
-Crocus Jeanne d’Arc’  
-5” x 9” Plein soleil  
-Fleurs blanches en forme de calice avec des éclats de violet à l'extérieur. Variété de crocus durable.  
-
-**Crocus à grandes fleurs 'King of the Striped'**  
-Crocus ‘King of the Striped’  
-5” x 9” Plein soleil  
-Fleurs en forme de calice avec un veinage violet distinctif sur des pétales blancs. Les anthères orange ajoutent de l'intérêt.  
-
-**Crocus à grandes fleurs 'Pickwick'**  
-Crocus ‘Pickwick’  
-5” x 9” Plein soleil  
-Variété de crocus charmante avec un veinage violet sur des pétales blancs. Les anthères orange ajoutent de l'intérêt.  
-
-**Crocus à grandes fleurs 'Yellow Mammoth'**  
-Crocus ‘Yellow Mammoth’  
-5” x 9” Plein soleil  
-Fleurs en forme de calice d'un jaune bouton d'or riche avec des anthères de couleur similaire.  
-
-**Violette persane**  
-Cyclamen coum  
-S 4” x 6” Ombre légère à profonde  
-Originaire de la Méditerranée, elle est dormante en été. Feuillage de la taille d'une pièce d'argent qui apparaît en automne tardif, variant du vert foncé à l'argent solide. Fleurs allant du blanc au magenta et au rose.  
-
-**Cyclamen à feuille de lierre**  
-Cyclamen hederifolium  
-S 6” x 6” Ombre légère, tachetée, ouverte à profonde  
-Fleurs roses en septembre et octobre, bien que des fleurs blanches puissent aussi apparaître, suivies par le feuillage.  
-
-**Perce-neige d'été**  
-Leucojum aestivum ‘Gravetye Giant’  
-1’ 6” x 1” Plein soleil à ombre légère ou ouverte  
-Plante vivace bulbeuse avec des feuilles foncées brillantes. En printemps, des tiges sans feuilles atteignant jusqu'à 36 pouces portent 8 fleurs blanches en forme de cloche légèrement parfumées au chocolat.  
-
-**Narcisse miniature 'February Gold'**  
-Narcissus ‘February Gold’  
-12” x 12” Plein soleil à ombre légère  
-Fleurs dorées de trois pouces inclinées sur une tige robuste. Plantez en groupes pour un effet naturel.  
-
-**Narcisse miniature 'Jack Snipe'**  
-Narcissus ‘Jack Snipe’  
-8” x 4” Plein soleil à ombre légère  
-Charmantes fleurs ivoire-blanc de 1,5 pouce avec une trompette centrale jaune vif inclinée sur une tige robuste.  
-
-**Narcisse à trompette blanche 'Mount Hood'**  
-Narcissus ‘Mount Hood’  
-1’ 3” x 0.5’ Plein soleil à ombre légère  
-Fleurs blanches de quatre pouces inclinées sur une tige robuste. Plantez en groupes de 5 à 7 pour le meilleur effet.  
-
-**Narcisse à trompette dorée 'Saint Keverne'**  
-Narcissus ‘Saint Keverne’  
-1’ 3” x 0.5’ Plein soleil à ombre légère  
-Fleurs jaunes canari inclinées sur une tige robuste.  
-
-**Narcisse miniature 'Tête-à-Tête'**  
-Narcissus ‘Tete-a-Tete’  
-8” x 1’ Plein soleil à ombre légère  
-Ce narcisse charmant a des fleurs dorées de 2,5 pouces.  
-
-**Narcisse orchidée blanche 'Thalia'**  
-Narcissus ‘Thalia’  
-1’ x 4” Plein soleil à ombre légère  
-Fleurs blanches à plusieurs têtes inclinées sur une tige robuste. Magnifique en groupes.  
-
-**Oignon violet 'Corrina'**  
-Triteleia ‘Corrina’  
-D, W 1’ x 6” Plein soleil  
-Originaire de la côte Ouest. Fleurs violettes profondes et étoilées sur des tiges d'un pied au printemps tardif et début d'été.  
-
-**Oignon jaune 'Starlight'**  
-Triteleia ixioides ‘Starlight’  
-D 1’ x 6” Plein soleil  
-Originaire de la côte Ouest. Fleurs jaunes pâles en étoile au printemps tardif et début d'été.  
-
-**Oignon bleu 'Queen Fabiola'**  
-Triteleia laxa ‘Queen Fabiola’  
-D, W 1’ x 6” Plein soleil  
-Originaire de la côte Ouest. Fleurs violettes en étoile sur des tiges d'un pied au printemps tardif et début d'été.  
+- **S** : Jardin ombragé  
+- **D** : Plante tolérante à la sécheresse  
+- **W** : Bénéfice pour la faune : Oiseaux, Abeilles, Papillons, Colibris  
 
 ---
 
-### Fougères  
-#### Nom S/D/W Taille 10 ans Soleil/Ombre Caractéristiques remarquables  
-**Fougère cheveux de Vénus**  
-Asplenium trichomanes  
-S 6” x 6” Ombre légère à profonde  
-Originaire du Nord-Ouest Pacifique. Fougère délicate avec des frondes persistantes miniatures formant des touffes vertes adorables.  
+## Bulbes
 
-**Fougère d'automne**  
-Dryopteris erythrosora  
-2’ x 2’ Ombre légère à profonde  
-Facile à cultiver, cette fougère persistante présente une nouvelle croissance rouge-bronze.  
-
-**Fougère brillante d'automne**  
-Dryopteris erythrosora ‘Brilliance’  
-2’ x 2’ Plein soleil à ombre légère  
-'Brilliance' est une variété plus intense en couleur lorsqu'exposée au soleil avec irrigation régulière.  
-
-**Fougère épée**  
-Polystichum munitum  
-S 3’ x 3’ Ombre légère à profonde  
-Originaire du Nord-Ouest Pacifique. Persistante et formant une belle monticule arqué.  
-
-**Fougère bouclier doux**  
-Polystichum setiferum  
-S 1.5’ x 2’ Ombre légère à profonde  
-Frondes persistantes finement découpées formant un tourbillon autour du centre de la plante.  
-
----
-
-### Graminées  
-#### Nom S/D/W Taille 10 ans Soleil/Ombre Caractéristiques remarquables  
-**Herbe à plume**  
-Calamagrostis x acutiflora ‘Karl Foerster’  
-5’ x 2’ Plein soleil  
-Feuillage structurant et gracieux avec inflorescences plumeuses passant du bronze-rose au doré.  
-
-**Herbe d'avoine bleue**  
-Helictotrichon sempervirens  
-2’ x 2’ Plein soleil  
-Feuillage bleu-gris formant une monticule architectural. Très élégant en été.  
-
-**Herbe à plume géante**  
-Stipa gigantea  
-2’ x 4’ Plein soleil  
-Herbe majestueuse avec des têtes de graines en forme de gouttes dorées en été.  
+| Nom                                         | S/D/W | Taille        | Soleil/Ombre               | Caractéristiques remarquables                                                            |
+|----------------------------------------------|-------|---------------|----------------------------|-----------------------------------------------------------------------------------------|
+| **Naked Ladies**                             |       | 45 cm x 45 cm | Plein soleil               | Les tiges meurent au milieu de l'été ; floraison spectaculaire en trompette de 45 cm à l'automne. |
+| **Anémone des vents**                        |       | 10 cm x 30 cm | Plein soleil               | Fleurs ressemblant à des marguerites au début du printemps, en rose, blanc et indigo.   |
+| **Camassie de Cusick**                       | S, W  | 90 cm x 90 cm | Plein soleil à mi-ombre    | Originaire du PNW. Belle floraison bleu glace à bleu ciel, de la fin du printemps au début de l'été. |
+| **Camassie**                                 | S, W  | 60 cm x 60 cm | Plein soleil à mi-ombre    | Originaire du PNW. Grappes voyantes de fleurs bleu vif à violet en mai.                 |
+| **Colchique d’automne**                      | D     | 30 cm x 15 cm | Plein soleil               | Grandes fleurs lavande-rose en forme de vase émergent au début de l'automne.            |
+| **Colchique d’automne ‘The Giant’**          | D     | 30 cm x 10 cm | Plein soleil               | Grandes fleurs lavande-rose avec du blanc à la base des pétales.                        |
+| **Grand Crocus ‘Flower Record’**             |       | 13 cm x 15 cm | Plein soleil               | Magnifiques fleurs violettes en forme de calice.                                        |
+| **Grand Crocus ‘Goldilocks’**                |       | 13 cm x 13 cm | Plein soleil               | Fleurs dorées avec une touche de bordeaux.                                              |
+| **Grand Crocus ‘Jeanne d’Arc’**              |       | 13 cm x 23 cm | Plein soleil               | Superbes fleurs blanches en calice avec des touches violettes à l'extérieur.            |
+| **Grand Crocus ‘King of the Striped’**       |       | 13 cm x 23 cm | Plein soleil               | Nervures violettes uniques ("rayures") sur pétales blancs ; anthères orange attrayantes.|
+| **Grand Crocus ‘Pickwick’**                  |       | 13 cm x 23 cm | Plein soleil               | Veinures violettes sur pétales blancs ; anthères orange attrayantes.                   |
+| **Grand Crocus ‘Yellow Mammoth’**            |       | 13 cm x 23 cm | Plein soleil               | Fleurs jaune bouton d'or en calice et anthères assorties.                              |
+| **Violette de Perse**                        | S     | 10 cm x 15 cm | Ombre légère à profonde    | Dormant l'été. Feuillage de la taille d'une pièce de monnaie apparaît en fin d'automne. Fleurs de couleurs variées. |
+| **Cyclamen à feuilles de lierre**            | S     | 15 cm x 15 cm | Ombre légère à profonde    | Floraison rose en septembre et octobre ; le feuillage apparaît après.                   |
+| **Perce-neige d’été**                        |       | 45 cm x 2,5 cm| Plein soleil à mi-ombre    | Feuilles longues et brillantes vert foncé ; tiges sans feuilles portent des fleurs blanches parfumées au chocolat au printemps. |
+| **Narcisse miniature ‘February Gold’**       |       | 30 cm x 30 cm | Plein soleil à mi-ombre    | Fleurs jaune doré sur tiges solides. À planter en groupe pour un effet naturel.         |
+| **Narcisse miniature ‘Jack Snipe’**          |       | 20 cm x 10 cm | Plein soleil à mi-ombre    | Fleurs ivoire-blanc avec trompette centrale jaune vif.                                 |
+| **Narcisse trompette blanc ‘Mount Hood’**    |       | 38 cm x 15 cm | Plein soleil à mi-ombre    | Fleurs blanches de 10 cm en trompette sur tiges solides. Idéal en groupe.               |
+| **Narcisse trompette doré ‘Saint Keverne’**  |       | 38 cm x 15 cm | Plein soleil à mi-ombre    | Grandes fleurs jaune canari en trompette sur tiges solides.                             |
+| **Narcisse miniature ‘Tete-a-Tete’**         |       | 20 cm x 30 cm | Plein soleil à mi-ombre    | Ravissantes fleurs jaune doré de 6 cm.                                                 |
+| **Narcisse orchidée blanc ‘Thalia’**         |       | 30 cm x 10 cm | Plein soleil à mi-ombre    | Fleurs blanches à plusieurs têtes sur tiges solides. Superbes en groupe.                |
+| **Ail violet ‘Corrina’**                     | D, W  | 30 cm x 15 cm | Plein soleil               | Bouquets de fleurs étoilées violet foncé sur des tiges de 30 cm.                        |
+| **Ail jaune ‘Starlight’**                    | D     | 30 cm x 15 cm | Plein soleil               | Fleurs étoilées jaune pâle de la fin du printemps au début de l'été.                    |
+| **Ail bleu ‘Queen Fabiola’**                 | D, W  | 30 cm x 15 cm | Plein soleil               | Bouquets de fleurs étoilées violettes sur des tiges de 30 cm.                           |
 
 ---
 
-### Vignes  
-#### Nom S/D/W Taille 10 ans Soleil/Ombre Caractéristiques remarquables  
-**Vigne 'Crimson Glory'**  
-Vitis coignetiae  
-30’ x 20’ Plein soleil à ombre légère  
-Feuilles larges et rouges à l'automne.  
+## Fougères
 
-**Vigne 'Purple Leaf'**  
-Vitis vinifera ‘Purpurea’  
-20’ x 6’ Plein soleil  
-Feuillage vert teinté de bourgogne au printemps, devenant rouge vif en automne.  
+| Nom                        | S/D/W | Taille      | Soleil/Ombre            | Caractéristiques remarquables                                                          |
+|----------------------------|-------|-------------|-------------------------|---------------------------------------------------------------------------------------|
+| **Asplénie trichomane**    | S     | 15 cm x 15 cm| Ombre légère à profonde | Originaire du PNW. Petites frondes persistantes formant de jolis petits touffes vertes.|
+| **Fougère d’automne**      |       | 60 cm x 60 cm| Ombre légère à profonde | Facile à cultiver, persistante, jeunes pousses bronze-rouge, frondes matures vert foncé et brillant. |
+| **Fougère d’automne ‘Brilliance’** | | 60 cm x 60 cm| Plein soleil à mi-ombre | Couleur plus intense au soleil. Jeunes frondes dressées contrastent avec les frondes matures brillantes. |
+| **Fougère épée**           | S     | 90 cm x 90 cm| Ombre légère à profonde | Originaire du PNW. Persistante, forme une touffe élégante et arquée. Tolère l’ombre sèche.|
+| **Fougère à bouclier doux**| S     | 45 cm x 60 cm| Ombre légère à profonde | Frondes persistantes finement découpées, arquées, formant une plante en monticule.      |
 
 ---
 
-### À propos des Grandes Plantes Recommandées (GPP)  
-GPP est un programme éducatif de premier plan du jardin botanique Elisabeth C. Miller. Depuis 2001, plus de 1 000 plantes exceptionnelles ont été sélectionnées pour les jardiniers du Pacifique Nord-Ouest maritime.  
+## Graminées
 
-### Critères de sélection des plantes GPP  
-- Adaptées à divers types de sols  
-- Besoin modéré ou moins en eau  
-- Tolérantes à la chaleur  
-- Résistantes au froid (zone USDA 7)  
-- Peu sensibles aux maladies et ravageurs  
-- Intérêt pour plusieurs saisons  
-- Avantages écologiques (pollinisateurs, nourriture pour oiseaux, habitat pour la faune, etc.)  
+| Nom                                   | S/D/W | Taille    | Soleil/Ombre | Caractéristiques remarquables                                                          |
+|----------------------------------------|-------|-----------|--------------|----------------------------------------------------------------------------------------|
+| **Herbe de la pampa ‘Karl Foerster’** |       | 1,5 m x 60 cm | Plein soleil | Plumes étroites et plumeuses rose-bronze virant au doré.                               |
+| **Herbe avoine bleue**                |       | 60 cm x 60 cm | Plein soleil | Feuillage gris-bleu étroit formant un monticule persistant et architectural.            |
+| **Grande herbe à plumes**              |       | 60 cm x 1,2 m | Soleil       | Graminée majestueuse avec de grandes graines en forme de goutte, séchant en doré miel.  |
 
 ---
 
-### Politique de non-discrimination de l'OSU Extension Service  
-Le Service d'Extension de l'Université d'État de l'Oregon interdit toute discrimination dans ses programmes, activités et matériels.
+## Lianes
+
+| Nom                        | S/D/W | Taille      | Soleil/Ombre               | Caractéristiques remarquables                                                          |
+|----------------------------|-------|-------------|----------------------------|---------------------------------------------------------------------------------------|
+| **Vigne ‘Crimson Glory’**  |       | 9 m x 6 m   | Plein soleil à mi-ombre    | Grandes feuilles rouges en forme de cœur, jusqu'à 30 cm. Feuillage d’automne éclatant. |
+| **Vigne à feuilles pourpres** |   | 6 m x 1,8 m | Soleil                     | Feuillage de printemps vert avec reflet bordeaux ; feuillage d’automne rouge profond.  |
+
+---
+
+## À propos de Great Plant Picks
+
+Great Plant Picks (GPP) est le principal programme éducatif du Jardin Botanique Elisabeth C. Miller. En 2001, la première liste est parue avec des recommandations pour composer une palette complète de plantes exceptionnelles pour le nord-ouest pacifique maritime. À ce jour, plus de 1 000 plantes remarquables ont été sélectionnées pour les jardiniers vivant à l’ouest des montagnes Cascade, de Eugene, Oregon (États-Unis) à Vancouver, Colombie-Britannique (Canada).
+
+### Critères de sélection
+
+- Peuvent pousser dans une variété de sols.
+- Nécessitent peu ou pas d’arrosage supplémentaire.
+- Tolèrent la chaleur.
+- Résistantes au froid (zone 7 USDA).
+- Peu sensibles aux maladies/insectes.
+- Offrent plusieurs saisons d’intérêt au jardin.
+- Beaucoup de plantes GPP offrent aussi des bénéfices écologiques (pollinisateurs, nourriture pour oiseaux, habitat pour la faune, etc.).
+
+---
+
+###### Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et supports, fondée sur la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus issus d’une aide sociale, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou la rétorsion pour une activité antérieure relative aux droits civils (tous les critères ne s’appliquent pas à tous les programmes).
+---

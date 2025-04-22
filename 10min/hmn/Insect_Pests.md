@@ -1,92 +1,103 @@
-# 10-Minute University™
-
-**Lub Koom Haum Clackamas County Master Gardener hauv kev koom tes thiab kev txhawb nqa ntawm OSU Extension Master Gardener™ Program**
-
-## Cov Kab Tsuaj
-
-### Saib Ua Ntej
-
-Cov kab tsuag tuaj yeem ua teeb meem los ntawm kev noj lossis zom peb cov nroj tsuag. Thaum qee tus neeg ua liaj ua teb yuav tsis nyiam qhov no, lwm tus yuav txiav txim siab tiv taus. Yog tias qhov kab tsuag muaj ntau heev uas ua rau cov nroj tsuag tsis muaj peev xwm ciaj sia lossis tsim khoom noj, tib neeg yuav tsum tau pab daws teebmeem.
-
-Cov ntawv no muab cov ntaub ntawv los pab txheeb xyuas cov kab tsuag thiab qhia txog kev tiv thaiv kab tsuag hauv tsev vaj. Xav txog koj tus kheej txoj kev xav txog kev nyob nrog ntuj, suav nrog cov kab tsuag, kom txiav txim siab thaum twg koj yuav tsum ua.
-
-### Cov Cim Tseg los ntawm Cov Kab Tsuaj
-
-Nws feem ntau nyuaj rau kev txheeb xyuas tus kab tsuag ua rau muaj kev puas tsuaj rau cov nroj tsuag vim tias ntau cov kab tsuag me me, sib xyaw zoo rau tom qab, tsuas tuaj tawm hmo ntuj, lossis nkaum ntawm qab nplooj. Qhov no ua teeb meem rau kev paub tseeb, uas yog qhov tseem ceeb rau kev daws teebmeem kom raug.
-
-Hmoov zoo, kev noj mov ntawm cov kab tsuag tuaj yeem muab cov cim pab tau. Cov kab tsuag tau sib txawv raws li lawv txoj kev noj mov: zom/zoo li rab chais lossis txhaws-siv qhov ncauj.
-
-#### Cov Kab Zom/Zoo Li Rab Chais
-
-Cov kab tsuag zom/zoo li rab chais muaj qhov ncauj uas muaj peev xwm zom qhov rau hauv nplooj, paj, cag, noob, txiv hmab txiv ntoo, lossis ntoo ntawm cov nroj tsuag. Cov kab tsuag zom nplooj muaj xws li: **earwigs**, **caterpillars**, **sawfly larvae**, **webworms**, **leafrollers**, **skeletonizers**, **cutworms**, **flea beetles**, **blister beetles**, thiab **cucumber beetles**. Cov kab zom paj, txiv hmab txiv ntoo, thiab noob muaj xws li: **fruit flies**, **midges**, **yellow jackets**, **hornets**, **coddling moth**, **corn earworms**, thiab **seed weevils**. Cov kab tsuag uas ua rau cov qauv puas tsuaj muaj xws li **carpenter ants**, **termites**, thiab **powderpost beetles**.
-
-#### Cov Kab Txhaws-Siv Qhov Ncauj
-
-Cov kab txhaws-siv qhov ncauj tsis tsuas yog ua rau cov nroj tsuag puas tsuaj ncaj qha los ntawm kev noj mov, tab sis qee zaus txhaws cov tshuaj lom uas ua rau cov nplooj puas, los yog cov nroj tsuag puas tag nrho. Qhov cim thiab qhov me me ntawm cov nplooj tshwm sim thaum chlorophyll raug rhuav tshem los ntawm cov kab siv qhov ncauj. Cov kab txhaws-siv qhov ncauj muaj xws li: **whiteflies**, **aphids**, **adelgids**, **mealybugs**, **scales**, **leafhoppers**, **spittlebugs**, **lace bugs**, **thrips**, thiab **mites**.
+#### 10-Minute University™ · Koom Haum Tswj Kawm Ua Vaj Tshiab Clackamas County koom tes thiab txhawb nqa OSU Extension Master Gardener™ Program
 
 ---
 
-### Kev Puas Tsuaj Pom Tau
+## Kab Tsiaj Ua Phem
 
-- **Cov nroj tsuag me raug zom ntawm hauv paus av:** Cutworms.
-- **Ceg ntoo hollow nrog larvae sab hauv, nplooj qaug lossis cov ntoo uas muaj kab ncig qab tawv ntoo:** Borers.
-- **Cag lossis cov bulb muaj cim zom lossis chaw tuag:** Wireworms, ntau hom kab beetle grubs, weevils.
-- **Txiv hmab txiv ntoo lossis nroj tsuag muaj cim, nplaum, lossis muaj dej:** Aphids, leafhoppers, spittlebugs, whiteflies, scales, thiab mealybugs.
-- **Nplooj muaj qhov loj thiab tsis zoo:** Cov kab beetle laus lossis larvae ntawm moth.
-- **Nplooj uas zoo li skeleton:** Beetle larvae, pear slugs, thrips, thiab qee hom caterpillar.
-- **Nplooj qog, qias neeg, lossis hloov pauv:** Aphids, leafhoppers, plant bugs.
-- **Cov nroj tsuag tsis muaj zog thiab muaj cag zom:** Root feeding larval stages ntawm weevils, beetles, lossis moths.
-- **Cov txiv hmab txiv ntoo thiab berries muaj cim thiab hloov pauv:** Plant-feeding stink bugs hu ua brown marmorated stink bug.
-- **Cov ntoo thiab cov ntoo ua haujlwm muaj qhov hollow thiab frass (kab tsuag poop):** Carpenter ants, termites.
-- **Cov ntoo ua tiav muaj qhov me me thiab cov sawdust tshiab:** Powderpost beetles.
+### Saib Dav
+
+Kab tsiaj tej zaum yuav ua teeb meem vim lawv noj lossis zom peb cov nroj tsuag. Qhov no tej zaum yuav ua ntxhov siab rau qee tus neeg ua vaj, tab sis lwm tus kuj kam ua siab ntev nrog lawv. Tab sis, yog tias cov kab tsiaj nce mus ntau heev txog npaum li ntawd uas ua rau cov nroj tsuag tsis muaj peev xwm ciaj sia lossis ua qoob loo, ces tib neeg yuav tsum tau pab cuam.
+
+Phau ntawv no muab cov ntaub ntawv pab kom paub qhov ua rau muaj kab tsiaj hauv vaj tsev thiab teev qee yam kev ua uas pab tiv thaiv kev muaj kab tsiaj. Xav txog koj tus kheej saib txog kev nyob nrog ntuj, suav nrog kab tsiaj, kom txiav txim siab tias thaum twg koj yuav pib ua.
 
 ---
 
-## Kev Tswj Kab Tsuag Ua Ke
+### Cov Cim Tseg Tseg los ntawm Kab Tsiaj
 
-Kev Tswj Kab Tsuag Ua Ke (Integrated Pest Management) yog ib txoj kev uas siv kev daws teebmeem kom tsawg qhov kev puas tsuaj rau tib neeg kev noj qab haus huv, ib puag ncig, thiab cov tsiaj uas tsis yog lub hom phiaj.
+Feem ntau nyuaj heev los paub tias dab tsi ua rau cov nroj tsuag puas vim ntau hom kab tsiaj me me, lawv zoo nrog lub chaw, tej zaum tsuas tawm tshwm thaum hmo ntuj xwb, los sis nkaum rau sab nram qab ntawm cov nplooj. Qhov no ua rau nyuaj rau kev txheeb xyuas kom zoo, uas yog ib yam tseem ceeb rau kev pab daws teeb meem kom raug.
+
+Qhov zoo ces, txoj kev noj mov ntawm kab tsiaj tej zaum yuav muab tau ib co cim qhia. Kab tsiaj txawv los ntawm lawv txoj kev noj mov: **zom/khawb** lossis **ntxiv-hlais-nqus**.
+
+#### Kab Tsiaj Zom/Khawb
+
+Kab tsiaj zom/khawb muaj qhov ncauj uas zom tau qhov hauv nplooj, paj, cag, noob, txiv hmab txiv ntoo, lossis tej ntoo. Piv txwv muaj:
+
+- **Kab zom nplooj**: Kab earwigs, kab kab laug sab me (caterpillars), kab sawfly me nyuam, kab webworms, kab leafrollers, kab skeletonizers, kab cutworms, kab flea beetles, kab blister beetles, kab cucumber beetles.
+- **Kab noj paj, txiv hmab txiv ntoo, thiab noob**: Kab fruit flies, kab midges, kab yellow jackets, kab hornets, kab codling moth, kab corn earworms, kab seed weevils.
+- **Kab ua puas tsev**: Kab carpenter ants, kab termites, kab powderpost beetles.
+
+#### Kab Tsiaj Ntshiv-Hlais-Nqus
+
+Kab tsiaj ntshiv-hlais-nqus tsis tsuas yog ua rau nroj tsuag puas ncaj qha los ntawm kev noj, tab sis qee zaum lawv tseem txhaws tshuaj lom uas ua rau nplooj muaj kab cim los mus puas tag nrho cov nroj tsuag. Txheej kab cim thiab kab cim me me tshwm sim thaum chlorophyll raug rhuav tshem los ntawm qhov ncauj nqus. Piv txwv muaj:
+
+- Kab whiteflies
+- Kab aphids
+- Kab adelgids
+- Kab mealybugs
+- Kab scales
+- Kab leafhoppers
+- Kab spittlebugs
+- Kab lace bugs
+- Kab thrips
+- Kab mites
+
+---
+
+### Qhov Kev Puas Uas Pom Feem Coob
+
+- **Noob Nroj Tsuag raug zom ntawm ntua av**: Kab cutworms.
+- **Caj nplooj hollow nrog me nyuam kab nyob hauv, nplooj qhuav, lossis ntoo nrog kab kab taug qab hauv qab tawv ntoo**: Kab borers.
+- **Cag lossis pob kws muaj qhov zom lossis qhov tuag**: Kab wireworms, ntau hom kab beetle me nyuam, kab weevils.
+- **Txiv hmab txiv ntoo lossis nroj tsuag muaj kab cim, nplaum, nplaum npuas, lossis ntxhua**: Kab aphids, kab leafhoppers, kab spittlebugs, kab whiteflies, kab scales, kab mealybugs.
+- **Nplooj muaj qhov loj loj zom**: Kab beetle laus lossis me nyuam kab moth.
+- **Nplooj skeletonized**: Kab beetle me nyuam, kab pear slugs, kab thrips, thiab qee hom caterpillar.
+- **Nplooj quav, zuav, lossis distorted**: Kab aphids, kab leafhoppers, kab plant bugs.
+- **Nroj tsuag laus qis nrog cag raug zom**: Me nyuam kab noj cag ntawm kab weevils, kab beetles, lossis kab moths.
+- **Txiv hmab txiv ntoo thiab berries muaj kab dimple lossis distorted**: Kab stink bugs noj nroj tsuag, xws li kab brown marmorated stink bug.
+- **Ntoo thiab ntoo ua lumber muaj qhov khoov khoov thiab frass (kab quav)**: Kab carpenter ants, kab termites.
+- **Ntoo ua lawm nrog qhov me me thiab hmoov ntoo tshiab**: Kab powderpost beetles.
+
+---
+
+## Kev Tswj Kab Tsiaj Sib Xws
+
+Kev Tswj Kab Tsiaj Sib Xws yog ib txoj kev ua haujlwm zoo thiab saib xyuas txhua yam kom tswj tau kab tsiaj nrog kev cuam tshuam tsawg tshaj plaws rau tib neeg kev noj qab haus huv, ib puag ncig, thiab tsiaj uas peb tsis xav kom raug kev puas tsuaj.
 
 ### 1. Kev Tiv Thaiv
 
-- Cog cov nroj tsuag "zoo" rau hauv qhov chaw "zoo." Paub txog cov nroj tsuag xav tau thiab muab rau lawv ib puag ncig kom lawv loj hlob zoo.
-- Khaws tej chaw huv. Tshem tawm cov nroj tsuag muaj mob; tswj kom cov av huv tsis muaj nplooj poob.
-- Tu cov nroj tsuag kom zoo nrog kev saib xyuas kom tsim nyog kom txo tau kev puas tsuaj los ntawm kab tsuag thiab mob.
-- Txhawb cov kab zoo. Cog cov nroj tsuag uas nyiam kab zoo, xws li: carrots, cilantro, dill, sweet clover, fennel, thiab Queen Anne’s Lace, kom nyiam cov kab tsuag tswv ntuj.
-- Tshawb xyuas cov tsev. Ceeb toom txog cov chaw dej xau. Khaws cov qhov rooj thiab qhov rais kaw kom zoo.
+- **Cog tsob nroj “Kom Raug” rau qhov chaw “Kom Raug”**: Kawm paub txog qhov nroj tsuag xav tau thiab muab rau qhov chaw zoo kom nws loj hlob zoo.
+- **Khaws vaj kom huv si**: Tshem cov nroj tsuag mob tawm; khaws hauv qab nroj tsuag kom tsis muaj nplooj qub.
+- **Khaws cov nroj tsuag kom noj qab nyob zoo**: Kev saib xyuas zoo pab kom tsis raug mob los ntawm kab tsiaj thiab kab mob.
+- **Txhawb kab pab zoo**: Cog nroj tsuag uas nyiam kab pab, xws li carrots, cilantro, dill, sweet clover, fennel, thiab Queen Anne’s Lace, kom nyiam kab noj kab tsiaj los pab tua kab phem.
+- **Tshawb xyuas tsev**: Saib xyuas kom tsis txhob muaj dej xau. Khaws qhov rooj thiab qhov rai kaw kom zoo.
 
 ### 2. Kev Saib Xyuas
 
-- Ua tus neeg tshawb nrhiav, saib xyuas koj cov nroj tsuag tsis tu ncua kom pom cov cim uas cov kab tsuag tso tseg.
+- Ua tus tshawb nrhiav: Nquag saib xyuas koj cov nroj tsuag kom pom tej kab tsiaj tseg pov tseg.
 
-### 3. Kev Txheeb Txheej Kab Tsuag
+### 3. Paub Kab Tsiaj
 
-- Kev txheeb xyuas kom yog yog qhov tseem ceeb. Qee zaus kab tsuag tsuas yog nyob hauv qhov chaw puas tsuaj, tab sis tsis yog tus ua rau puas tsuaj.
-- Saib xyuas. Cov kab tsuag puas noj nplooj, paj, lossis lwm cov kab? Lawv puas ya lossis txav mus kev? Kev zoo li cas? Thaij duab kom pab txheeb xyuas.
+- Kev txheeb xyuas kom raug yog ib qho tseem ceeb. Qee zaum kab tsiaj tsuas nyob ze qhov chaw uas puas tab sis tsis yog tus ua.
+- **Saib xyuas**: Kab tsiaj puas noj nplooj, paj, lossis lwm yam kab? Lawv ya los sis mus? Lawv zoo li cas? Thaij duab los pab txheeb xyuas.
 
-### 4. Kev Tsim Txoj Haujlwm Tswj Kab Tsuag
+### 4. Tsim Kev Tswj Kab Tsiaj
 
-- Thaum tus kab tsuag raug txheeb xyuas, Master Gardeners tuaj yeem pom zoo cov txheej txheem kev coj noj coj ua, tshuab, kev tswj kab mob tsiaj, thiab tshuaj los txo cov kab tsuag.
-
----
-
-## OSU thiab Cov Chaw Pab Ntxiv
-
-- **Audubon’s Field Guide to Insects and Spiders** los ntawm Alfred Knops, 1998.
-- **Garden Insects** los ntawm Crenshaw, 2004.
-- **Oregon State University Extension Publications:** [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-- **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994.
+- Thaum paub tus kab ua phem lawm, Master Gardeners yuav pab qhia siv kev coj ua, kev siv tes, kev siv kab pab, thiab tshuaj los pab tswj kom muaj tsawg dua.
 
 ---
 
-## Lub Tswv Yim los ntawm Master Gardener™
+## OSU thiab Lwm Yam Kev Pab
 
-- Hu rau Home Horticulture Helpline:  
-  - **503-655-8631** (Clackamas County)  
-  - **503-821-1150** (Washington County)  
-  - **503-445-4608** (Multnomah County)
-
-- Rau lwm cov ntawv thiab cov sijhawm kawm ntawm 10-Minute University™, mus saib [www.cmastergardeners.org](www.cmastergardeners.org).  
+- **Audubon’s Field Guide to Insects and Spiders** los ntawm Alfred Knops, 1998
+- **Garden Insects** los ntawm Crenshaw, 2004
+- **Oregon State University Extension Publications**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Rodale’s Organic Gardening: Controlling Pests and Diseases**, Rodale Publishing, 1994
 
 ---
 
-**Oregon State University Extension Service tsis pub kev cais tawm nyob rau nws cov kev pabcuam, kev pab, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, teb chaws keeb kwm, kev ntseeg, poj niam txiv neej, tus kheej kev pom zoo (suav nrog kev qhia txog poj niam txiv neej), kev nyiam, kev tsis taus, hnub nyoog, xwm txheej sib yuav, xwm txheej tsev neeg/kev ua niam txiv, nyiaj tau los los ntawm kev pab pej xeem, kev ntseeg hauv nom tswv, kev qhia txog caj ces, xwm txheej qub tub rog, kev rov ua phem lossis kev ua pauj rau kev ua hauj lwm hauv txoj cai pej xeem yav dhau los. (Tsis yog txhua qhov kev cais tawm raug siv rau txhua qhov kev pabcuam.)**
+#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam 10-Minute University™ ntawv qhia thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service txwv tsis pub ua qhov kev ntxub ntxaug hauv txhua yam kev pab cuam, kev pab, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, tebchaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev ua niam txiv, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim, lossis kev raug pauj vim ua kev ua raws cai. (Tsis yog txhua yam txwv no siv rau txhua yam kev pab cuam.)
+---

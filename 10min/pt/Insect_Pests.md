@@ -1,84 +1,103 @@
-### Universidade de 10 Minutos™  
-A Associação de Jardineiros Mestres do Condado de Clackamas, em colaboração e apoio ao  
-Programa de Jardineiros Mestres™ da Extensão da OSU  
+#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros da Extensão da OSU
 
 ---
 
-### Pragas de Insetos  
+## Pragas de Insetos
 
-#### Visão Geral  
-Insetos podem causar problemas ao comer ou mastigar nossas plantas. Enquanto isso pode incomodar alguns jardineiros, outros podem preferir tolerar. No entanto, se o nível de população de pragas ficar tão alto que prejudique a capacidade de sobrevivência ou produção de alimentos de uma planta, pode ser necessário intervenção humana.  
+### Visão Geral
 
-Este folheto oferece informações para ajudar a identificar possíveis causas de infestações de insetos no jardim doméstico e lista práticas que ajudam a prevenir infestações. Reflita sobre sua visão pessoal de convivência com a natureza, incluindo pragas de insetos, para determinar em que ponto você tomará uma atitude.  
+Insetos podem causar problemas ao comer ou mastigar nossas plantas. Enquanto isso pode incomodar alguns jardineiros, outros podem optar por tolerar. No entanto, se o número de pragas ficar tão alto que prejudique a capacidade da planta de sobreviver ou produzir alimento, pode ser necessário intervir.
 
----
-
-### Pistas Deixadas por Pragas de Insetos  
-Muitas vezes é difícil identificar o culpado pelos danos às plantas porque muitos insetos são pequenos, se misturam bem com o ambiente, podem ser ativos apenas à noite ou se escondem na parte inferior das folhas. Isso apresenta um desafio para obter um diagnóstico preciso, que é essencial para uma intervenção adequada e eficaz.  
-
-Felizmente, os hábitos de alimentação dos insetos podem oferecer pistas úteis. Os insetos podem ser diferenciados pelo seu método de alimentação: mastigação/raspagem ou perfuração-sucção.  
-
-#### Mastigação/Raspagem  
-Insetos mastigadores/raspadores possuem partes bucais capazes de mastigar buracos nas folhas, botões, raízes, sementes, frutos ou partes lenhosas das plantas. Exemplos de insetos mastigadores de folhas incluem tesourinhas, lagartas, larvas de moscas-serra, vermes-da-teia, enroladores de folhas, esqueletizadores, lagartas, besouros pulgas, besouros de bolhas e besouros de pepino. Alimentadores de flores, frutos e sementes incluem moscas-das-frutas, mosquitos, vespas, marimbondos, traça-das-maçãs, larvas-da-espiga-do-milho e gorgulhos-de-sementes. Pragas estruturais incluem formigas-carpinteiras, cupins e besouros-poste-de-pó.  
-
-#### Perfuração-Sucção  
-Insetos perfuradores-sugadores não apenas causam danos diretos às plantas ao se alimentar, mas às vezes injetam substâncias tóxicas que causam sintomas que variam desde simples manchas nas folhas até grandes perturbações em toda a planta. Manchas e pontuações ocorrem quando o clorofila é destruído por partes bucais sugadoras. Exemplos de insetos sugadores incluem moscas-brancas, pulgões, adelgídeos, cochonilhas, escamas, cigarrinhas, cigarrinhas-espumosas, insetos-renda, tripes e ácaros.  
+Este folheto oferece informações para ajudar a identificar possíveis causas de infestações de insetos no jardim de casa e lista práticas que ajudam a prevenir infestações. Reflita sobre sua visão pessoal de conviver com a natureza, incluindo as pragas de insetos, para decidir em que momento você vai agir.
 
 ---
 
-### Danos Comumente Observados  
-- **Mudas mastigadas ao nível do solo:** Lagartas.  
-- **Caules ocos com larvas dentro, folhas murchas ou plantas lenhosas com trilhas sob a casca:** Brocas.  
-- **Raízes ou bulbos com sinais de alimentação ou pontos mortos:** Larvas de besouros, gorgulhos.  
-- **Frutos ou plantas manchados, pegajosos, viscosos ou espumosos:** Pulgões, cigarrinhas, cigarrinhas-espumosas, moscas-brancas, escamas e cochonilhas.  
-- **Folhas com grandes buracos irregulares:** Adultos ou larvas de besouros, larvas de mariposas.  
-- **Folhas esqueletizadas:** Larvas de besouros, lesmas-de-pêra, tripes e algumas espécies de lagartas.  
-- **Folhas enroladas, enrugadas ou deformadas:** Pulgões, cigarrinhas, insetos de plantas.  
-- **Declínio geral de uma planta junto com raízes mastigadas:** Estágios larvais alimentadores de raízes de gorgulhos, besouros ou mariposas.  
-- **Frutos e bagas com covinhas e/ou deformados:** Percevejos alimentadores de plantas, como o percevejo-marmorado-marrom.  
-- **Árvores e madeira com cavidades escavadas e resíduos (fezes de insetos):** Formigas-carpinteiras, cupins.  
-- **Madeira processada com pequenos buracos e serragem fresca:** Besouros-poste-de-pó.  
+### Pistas Deixadas por Pragas de Insetos
+
+Frequentemente é difícil identificar quem causou danos às plantas porque muitos insetos são pequenos, se camuflam bem, podem ser ativos só à noite ou se escondem no verso das folhas. Isso torna o diagnóstico correto um desafio, mas ele é necessário para uma intervenção apropriada e eficaz.
+
+Felizmente, os hábitos alimentares dos insetos podem dar pistas importantes. Os insetos podem ser diferenciados pelo seu modo de alimentação: **mastigadores/raspadores** ou **sugadores-perfuradores**.
+
+#### Insetos Mastigadores/Raspadores
+
+Insetos mastigadores ou raspadores têm peças bucais que conseguem mastigar buracos em folhas, brotos, raízes, sementes, frutos ou partes lenhosas das plantas. Exemplos incluem:
+
+- **Comedores de folhas**: Tesourinhas, lagartas, larvas de mosca-serra, lagartas tecedeiras, enroladores de folhas, esqueletizadores, larvas de traça, pulgões-de-salto, besouros blister, besouros do pepino.
+- **Comedores de flores, frutos e sementes**: Moscas-das-frutas, mosquitos, vespas-amarelas, marimbondos, traça-da-maçã, lagarta-da-espiga-do-milho, gorgulhos de sementes.
+- **Pragas estruturais**: Formigas carpinteiras, cupins, besouros do pó.
+
+#### Insetos Sugadores-Perfuradores
+
+Insetos sugadores-perfuradores não só danificam as plantas ao se alimentar, mas às vezes também injetam substâncias tóxicas que provocam sintomas que vão de pequenas manchas nas folhas a grandes danos em toda a planta. Manchas e pontos ocorrem quando a clorofila é destruída pelas peças bucais sugadoras. Exemplos incluem:
+
+- Moscas-brancas
+- Pulgões
+- Adelgídeos
+- Cochonilhas-farinhentas
+- Escamas
+- Cigarrinhas
+- Espumilhas
+- Percevejos rendados
+- Tripes
+- Ácaros
 
 ---
 
-### Manejo Integrado de Pragas  
-Manejo Integrado de Pragas é uma abordagem sistemática e holística que suprime pragas com impacto mínimo na saúde humana, no meio ambiente e em organismos não-alvo.  
+### Danos Comuns Observados
 
-#### 1. Prevenção  
-- **Plante a planta "certa" no lugar "certo":** Conheça os requisitos culturais de uma planta e combine-os com seu ambiente para incentivar um crescimento saudável.  
-- **Mantenha a sanitização:** Remova partes de plantas doentes; mantenha o solo livre de folhas caídas.  
-- **Mantenha as plantas saudáveis:** Cuidados adequados reduzem a suscetibilidade a danos por insetos e doenças.  
-- **Incentive insetos benéficos:** Plante plantas atrativas, como cenouras, coentro, endro, trevo doce, erva-doce e flor-de-cenoura, para atrair predadores naturais de pragas de insetos.  
-- **Inspecione estruturas:** Fique atento a vazamentos de água. Mantenha portas e janelas devidamente seladas.  
-
-#### 2. Monitoramento  
-- Torne-se um detetive, cheque suas plantas regularmente em busca de pistas deixadas por pragas de insetos.  
-
-#### 3. Identificação da Praga  
-- A identificação adequada é importante. Às vezes, um inseto está apenas presente na área onde ocorreu o dano, mas não é a causa.  
-- **Observe:** Os insetos estão mastigando folhas, botões ou outros insetos? Eles estão voando ou rastejando? Qual é sua aparência física? Tire fotos para ajudar na identificação.  
-
-#### 4. Desenvolvimento de uma Estratégia de Manejo de Pragas  
-- Após identificar o culpado, os Jardineiros Mestres podem recomendar métodos culturais, mecânicos, biológicos e químicos para reduzir a população de pragas.  
+- **Mudas cortadas ao nível do solo**: Larvas cortadeiras.
+- **Caule oco com larvas dentro, folhas murchas ou plantas lenhosas com trilhas sob a casca**: Brocas.
+- **Raízes ou bulbos roídos ou com manchas mortas**: Larvas de besouros, gorgulhos, muitos tipos de larvas.
+- **Frutos ou plantas com manchas, pegajosos, viscosos ou espumosos**: Pulgões, cigarrinhas, espumilhas, moscas-brancas, escamas, cochonilhas-farinhentas.
+- **Folhas com grandes buracos irregulares**: Adultos ou larvas de besouros, lagartas de mariposas.
+- **Folhas esqueléticas**: Larvas de besouros, larvas de lesma-da-pereira, tripes e algumas espécies de lagartas.
+- **Folhas enroladas, enrugadas ou deformadas**: Pulgões, cigarrinhas, percevejos.
+- **Declínio geral da planta junto com raízes mastigadas**: Larvas de gorgulhos, besouros ou mariposas que se alimentam das raízes.
+- **Frutas e bagas com covinhas e/ou deformadas**: Percevejos que se alimentam de plantas, como o percevejo-marrom-marmorizado.
+- **Árvores e madeira com cavidades escavadas e fezes de insetos**: Formigas carpinteiras, cupins.
+- **Madeira processada com pequenos buracos e serragem fresca**: Besouros do pó.
 
 ---
 
-### Recursos da OSU e Outros  
-- **Audubon’s Field Guide to Insects and Spiders** por Alfred Knops, 1998  
-- **Garden Insects** por Crenshaw, 2004  
-- **Publicações da Extensão da Universidade Estadual de Oregon:** [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **Rodale’s Organic Gardening: Controlando Pragas e Doenças**, Rodale Publishing, 1994  
+## Manejo Integrado de Pragas
+
+O Manejo Integrado de Pragas é uma abordagem sistemática e holística que controla as pragas com o menor impacto possível na saúde humana, no meio ambiente e em outros organismos que não são alvo.
+
+### 1. Prevenção
+
+- **Plante a planta “Certa” no lugar “Certo”**: Conheça as necessidades da planta e combine com o ambiente para estimular o crescimento saudável.
+- **Mantenha a limpeza**: Remova partes doentes das plantas; mantenha o solo livre de folhas caídas.
+- **Mantenha as plantas saudáveis**: Cuidados adequados reduzem a chance de danos por insetos e doenças.
+- **Incentive insetos benéficos**: Plante espécies como cenoura, coentro, endro, trevo doce, erva-doce e cenoura-brava para atrair predadores naturais das pragas.
+- **Inspecione estruturas**: Fique atento a vazamentos de água. Mantenha portas e janelas bem vedadas.
+
+### 2. Monitoramento
+
+- Seja um detetive: Verifique regularmente suas plantas em busca de pistas deixadas por pragas de insetos.
+
+### 3. Identificação da Praga
+
+- Identificação correta é importante. Às vezes um inseto está apenas passando por ali onde ocorreu o dano, mas não é o causador.
+- **Observe**: Os insetos estão comendo folhas, brotos ou outros insetos? Estão voando ou andando? Como são fisicamente? Tire fotos para ajudar na identificação.
+
+### 4. Desenvolvendo uma Estratégia de Controle de Pragas
+
+- Depois de identificar o causador, os Mestres Jardineiros podem recomendar métodos culturais, mecânicos, biológicos e químicos para reduzir a população de pragas.
 
 ---
 
-### Conselho dos Jardineiros Mestres™  
-- Ligue para a Linha Direta de Horticultura Doméstica:  
-  - 503-655-8631 (Condado de Clackamas)  
-  - 503-821-1150 (Condado de Washington)  
-  - 503-445-4608 (Condado de Multnomah)  
-- Para outros folhetos da Universidade de 10 Minutos™ e cronogramas de aulas, visite [www.cmastergardeners.org](www.cmastergardeners.org)  
+## Recursos da OSU e Outros
+
+- **Guia de Campo Audubon de Insetos e Aranhas** de Alfred Knops, 1998
+- **Insetos do Jardim** de Crenshaw, 2004
+- **Publicações da Extensão da Universidade Estadual de Oregon**: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- **Jardinagem Orgânica Rodale: Controle de Pragas e Doenças**, Rodale Publishing, 1994
 
 ---
 
-### Declaração de Não Discriminação  
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parental, renda derivada de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+#### Orientação do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos do 10-Minute University™ e horários de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

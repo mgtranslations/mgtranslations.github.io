@@ -1,65 +1,132 @@
-# 10-Minute University™  
-Lub Koom Haum Cov Kws Ua Teb Ntoo ntawm Clackamas County ua ke nrog thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Lub Koom Haum Saib Xyuas Vaj Tsev Kawm Ua Vaj, Clackamas County, koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Garden Design 101  
-Kev tsim zoo yog lub hauv paus ntawm vaj zoo nkauj, noj qab nyob zoo, thiab ruaj khov. Lub tswv yim zoo yuav sib txuas cov ntsiab lus tsim zoo – kab, duab, ntxhib, tsw qab, thiab xim – thaum suav nrog cov kev xav tau thiab kev xav ntawm tus tswv tsev.  
+# Kev Tsim Vaj Tsev 101
 
-### Hardscape  
-#### Txoj Kev  
-Cov kev loj yuav tsum dav txaus rau ob tus neeg taug kev ib sab, tsawg kawg yog 5 feet. Rau txoj kev me uas tib neeg taug kev ib leeg, qhov dav yuav tsum tsawg kawg yog 3 feet.  
+Kev tsim kom zoo yog qhov tseem ceeb ntawm ib lub vaj uas zoo nkauj, noj qab nyob zoo, thiab yuav nyob tau ntev. Ib qhov kev npaj zoo yuav qhia txog txhua yam uas tsim nyog—xws li kab, hom, qhov muag kov, tsw, thiab xim—thiab tseem suav nrog cov kev xav thiab xav tau ntawm tus tswv tsev.
 
-#### Paving  
-Muab qhov chaw ruaj khov ua qhov tseem ceeb. Tsis txhob siv qhov chaw nplua lossis cov pob zeb uas tsis ruaj. Siv cov pob zeb ntxhib uas muaj ntug ntse rau txoj kev pob zeb vim lawv ruaj khov thiab tsis txav mus.  
+---
 
-#### Steps  
-Khaws cov stairs hauv vaj kom tsis pub siab tshaj 6 inches. Qhov tob ntawm txhua stair ntxiv ob npaug rau qhov siab yuav tsum sib npaug nrog 26 inches. Yog li, stairs uas muaj 6-inch siab yuav xav tau qhov tob 14 inches. Yog tias koj txoj kev stairs muaj ntau tshaj 10 stairs, xav txog kev tsim chaw so tom qab txhua plaub lossis tsib stairs. Ib qho chaw so dav dav yog tsim nyog thaum twg txoj kev stairs hloov kev; chaw so yuav tsum tsawg kawg yog dav npaum li qhov stairs.  
+## Hardscape
 
-#### Patio thiab Deck  
-Xav txog seb koj npaj siv qhov chaw li cas rau kev noj mov lossis sib tham thiab tus naj npawb ntawm cov qhua. Muab tsawg kawg yog 4 square feet rau txhua tus neeg. Thaum tso rooj tog sab nraum zoov, tseg 3-foot qhov chaw ib ncig ntawm txhua pab rooj tog rau kev txav mus yooj yim.  
+### Txoj Kev Taug
 
-### Logistics  
-#### Txoj Kev  
-Ua ntej tso ntoo, phab ntsa, lossis laj kab, xyuas qhov pom los ntawm kev zaum hauv koj lub tsheb kom paub tseeb tias tsis muaj kev thaiv.  
+- Cov kev loj yuav tsum dav txaus rau ob leeg mus ib sab, tsawg kawg yog 5 feet.
+- Rau cov kev me uas tsuas muaj ib leeg taug, yuav tsum muaj dav tsawg kawg 3 feet.
 
-#### Cov Neeg Ze  
-Xyuas kom koj paub txhua yam uas koj qhov chaw nyob lossis lub zos yuav tsum tau ua. Sib tham nrog cov neeg nyob ze txog koj cov tswv yim yog tias ua tau.  
+### Paving (Cov Nplaim Ntab)
 
-#### Utilities  
-Hu rau koj lub zos thiab cov chaw muab kev pab kom kos kab hauv av yog tias koj npaj hloov qhov siab, khawb trenches ntau tshaj 18 inches tob, lossis khawb patio thiab sidewalk. Hu rau 811 lossis mus xyuas digsafelyoregon.com.  
+- Ua kom cov kev mus taug kom ruaj ntseg.
+- Tsis txhob siv cov nplaim uas du lossis cov pob zeb uas yooj yim txav.
+- Siv cov pob zeb tawg tsis tau ntxuav rau txoj kev gravel, vim lawv sib cog zoo dua thiab tsis txav.
 
-### Tsim Tawm Tswv Yim  
-#### Base Map  
-Ua daim ntawv qhia rau hauv daim graph paper qhia qhov chaw uas muaj tsev, txoj kev, ntoo, thiab lwm yam tseem ceeb. Nws yog ib txwm siv ib square sib npaug li 1 lossis 2 feet ntawm qhov loj tiag. Siv rulers, T-squares, triangles, thiab cov templates tsim vaj raws li xav tau. Tom ntej, ntxiv teeb pom kev, dej qhov chaw, txoj kev, patio, lossis lwm yam hardscape. Kos qhov chaw uas muaj hnub ci thiab ntxoov ntxoo.  
+### Cov Qib Taug
 
-#### Planting Design  
-Ib qhov chaw zoo pib rau ib thaj teb yog 8 feet dav thiab 24 feet ntev; xaiv qhov loj uas haum rau koj qhov chaw thiab koj lub sijhawm thiab nyiaj txiag. Ua ntej, ua si nrog daim duab ntawm thaj teb rau koj daim ntawv qhia, tom qab ntawd tso cov hoses kom cim thaj chaw rau yav tom ntej thaj teb. Siv ntau yam nroj tsuag (ntoo, txhawv, perennials, thiab bulbs) los tsim ib daim ntawv ntawm nplooj thiab tag nrho lub caij nplooj ntoos hlav. Tseg qhov chaw rau nroj tsuag kom loj hlob tau.  
+- Tsis txhob ua cov kauj ruam hauv vaj siab tshaj 6 nti.
+- Qhov tob ntawm txhua qib ntxiv ob npaug ntawm qhov siab yuav tsum sib npaug rau 26 nti. Piv txwv, yog kauj ruam siab 6 nti, ces qhov dav yuav tsum yog 14 nti.
+- Yog tias koj muaj kauj ruam ntau dua 10 theem, xav txog muab chaw so tom qab txhua 4 lossis 5 kauj ruam.
+- Thaum hloov kev taug hauv kauj ruam, yuav tsum muaj chaw so dav li qhov dav ntawm kauj ruam.
 
-### Cov Nroj Tsuag  
-#### Npaj Rau Kev Loj Hlob  
-Muab cov nroj tsuag tso qhov chaw kom lawv tsis txhob sib txhuam thaum lawv loj hlob tiav. Saib cov ntawv cim ntawm nroj tsuag, tab sis paub tias cov nroj tsuag hauv Willamette Valley feem ntau loj dua li tau qhia. Yog tias koj xav tau lub vaj puv tam sim ntawd, cog nrog lub tswv yim hloov chaw lossis tshem qee cov nroj tsuag tom qab. Koj tuaj yeem siv cov nroj tsuag txhua xyoo thiab cov perennials uas nyob luv rau qhov chaw ntxiv rau cov nroj tsuag tshiab.  
+### Patio thiab Deck
 
-#### Khaws Qhov Chaw Uas Zoo  
-Muab cov nroj tsuag siab (30 inches lossis siab dua) tsawg kawg yog 2 feet deb ntawm txoj kev taug kev thiab qhov chaw patio. Txwv tsis pub, cov chaw no yuav zoo li nqaim. Tsis tas li ntawd, khaws cov nroj tsuag uas muaj pos xws li roses deb ntawm txoj kev taug kev.  
+- Xav txog tias koj yuav siv qhov chaw no li cas xws li noj mov lossis sib tham, thiab yuav muaj pes tsawg tus qhua.
+- Tso tsawg kawg 4 square feet rau txhua tus neeg.
+- Thaum txhim kho rooj tog sab nraum zoov, tso chaw 3 feet ncig ib ncig kom txav tau yooj yim.
 
-#### Xav Nyob Ntawm Qhov Tsis Tsaus Ntuj  
-Thaum cov paj zoo nkauj, ntau cov nroj tsuag muaj nplooj, txiv hmab txiv ntoo, thiab ntoo rau xim, duab, thiab ntxhib ib xyoo. Ntxiv kev zoo nkauj rau koj lub vaj los ntawm kev siv cov xim nplooj ntoos thaum lub caij nplooj zeeg thiab kev nyiam nyob rau lub caij ntuj no nrog cov txiv hmab txiv ntoo, ntoo, thiab lub taub hau noob.  
+---
 
-#### Lawns Muaj Qhov Chaw  
-Ib lub tiaj nyom muab qhov chaw rau lub qhov muag kom so ntawm qhov kev zoo nkauj ntawm koj lub vaj. Nws kuj tseem muaj qhov chaw los mus ko taw qhib lossis ua si. Xaiv qhov loj uas tswj tau thiab ua tau raws li koj xav tau.  
+## Logistics
 
-#### Xaiv Cov Nroj Tsuag  
-Pib los ntawm kev teeb ib daim ntawv teev tag nrho cov nroj tsuag uas koj xav cog; xyuas lawv cov kev xav tau kom paub tseeb tias lawv yuav loj hlob tau zoo hauv koj cov av, dej, thiab qhov chaw ci. Tom qab ntawd, tsim ib daim ntawv teev cov nroj tsuag no nrog qhov siab, qhov dav, xim nplooj, xim paj thiab lub sijhawm, tsw qab, thiab lwm yam uas yog qhov tshwj xeeb ntawm cov nroj tsuag. Xyuas seb puas muaj nyob hauv zos.  
+### Qhov Chaw Nkag Tsev (Driveway)
 
-#### Muab Cov Nroj Tsuag  
-Siv cov nroj tsuag tseem ceeb ua lub hauv paus rau kev tsim kev sib tshuam nrog lwm cov nroj tsuag. Saib koj daim ntawv teev thiab xaiv qee cov nroj tsuag uas muaj kev nyiam ntau lub caij ua qhov chaw ntawm koj cov qauv thiab tsim kev sib txuas ib puag ncig lawv. Sib piv cov nroj tsuag uas ntxhov ntxhov, cua daj cua dub nrog cov nroj tsuag uas muaj cov duab loj. Muab cov duab puag ncig ze rau cov duab uas muaj ntiv tes thiab siv cov nroj tsuag uas muaj qhov tsawg nyob rau pem hauv ntej ntawm thaj teb kom ua ke rau ntawm ntug.  
+- Ua ntej cog nroj tsuag, phab ntsa, lossis laj kab, zaum hauv koj lub tsheb saib kom tsis txhob muaj yam thaiv kev pom.
 
-Tsim kev sib txuas los ntawm kev ncig lawv nrog cov nroj tsuag uas sib txuas lus nrog lawv thaum lub sijhawm paj. Qhov no yuav ntxiv dag zog rau qhov kev pom zoo ntawm koj lub vaj. Hauv lub vaj me me, ntau xim tuaj yeem zoo li tsis txaus siab. Xaiv qhov xim txias lossis xim sov thiab xaiv cov nroj tsuag los ntawm koj daim ntawv teev.  
+### Phooj Ywg Ze (Neighbors)
 
-Peb cov hauv paus ntsiab lus yog qhov tseem ceeb rau kev sib txuas cov nroj tsuag: 1. Xim scheme, 2. Texture, 3. Form. Siv cov hauv paus ntsiab lus no los tsim kev sib txawv hauv koj cov nroj tsuag sib txuas. Piv txwv li, siv cov nplooj ntoos los muab xim rau koj cov nroj tsuag xws li ntsuab, xiav, daj, liab, thiab grey variegated. Siv cov ntxhib xws li duab loj, ntiv tes, du, mos, thiab zoo nkauj los ntxiv kev nyiam rau koj cov nroj tsuag. Siv cov duab xws li mounding, spiked, thiab trailing los tsim kev sib txawv ntawm koj cov nroj tsuag.  
+- Paub kom meej txog txhua txoj cai ntawm koj lub zej zog thiab hauv zej zog.
+- Tham nrog koj cov neeg nyob ib ncig yog muaj peev xwm.
 
-### Master Gardener™ Cov Lus Qhia  
-- Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Rau lwm cov ntawv 10-Minute University™ thiab chav kawm ntawv teev, mus xyuas www.cmastergardeners.org  
+### Utilities (Cov Kav Hluav Taws Xob, Dej, thiab lwm yam)
 
-Oregon State University Extension Service txwv tsis pub muaj kev ntxub ntxaug hauv txhua qhov program, kev pabcuam, kev ua haujlwm, thiab cov ntaub ntawv ntawm cov haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia tus kheej), kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, txoj kev sib yuav, niam txiv/familial txoj haujlwm, nyiaj txiag los ntawm kev pabcuam pej xeem, kev ntseeg, cov ntaub ntawv caj ces, tus tub rog tus txheej xwm, kev tsim txom lossis kev rov qab rau kev ua haujlwm dhau los hauv kev tiv thaiv cov cai pej xeem. (Tsis yog txhua qhov txwv tau siv rau txhua qhov program).
+- Hu rau koj lub nroog thiab cov tuam txhab kom lawv tuaj cim cov kab hauv av yog koj npaj yuav khawb tob tshaj 18 nti, hloov av, lossis khawb thaj av, patio, lossis txoj kev zeb.
+- Hu 811 lossis mus saib [digsafelyoregon.com](https://digsafelyoregon.com).
+
+---
+
+## Kev Tsim Vaj Tsev
+
+### Daim Qauv (Base Map)
+
+- Tsim daim qauv ntawm koj vaj hauv daim ntawv graph kom qhia txog qhov chaw ntawm tsev, kev, ntoo, thiab lwm yam tseem ceeb.
+- Feem ntau cov neeg tsim vaj siv ib square rau 1 lossis 2 feet ntawm qhov tseeb.
+- Siv tus kav, T-square, triangles, thiab cov qauv tsim vaj raws li xav tau.
+- Tom ntej, ntxiv teeb, qhov dej, kev, patio, lossis lwm yam hardscape.
+- Kos qhov tshav ntuj thiab qhov ntxoov ntxoo.
+
+### Kev Tsim Nroj Tsuag (Planting Design)
+
+- Ib qhov chaw zoo rau kab npoo yog 8 feet dav thiab 24 feet ntev; xaiv qhov loj uas haum rau koj qhov chaw, sijhawm, thiab nyiaj txiag.
+- Ua ntej, sim ua rau daim qauv saib koj nyiam zoo li cas, tom qab ntawd muab hose txiav qhia kab npoo rau yav tom ntej.
+- Siv ntau yam nroj tsuag (ntoo, nplooj tsuag, perennial, thiab bulbs) los tsim kom zoo saib thiab muaj paj txhua lub caij.
+- Cia chaw rau nroj tsuag loj hlob kom tag.
+
+---
+
+## Nroj Tsuag
+
+### Tsim Rau Kom Loj (Plan for Growth)
+
+- Muab nroj tsuag rau kom lawv tsis sib txeeb thaum loj hlob tag.
+- Nyeem cov ntawv cim ntawm nroj tsuag, tiam sis paub tias hauv Willamette Valley, nroj tsuag feem ntau loj dua li hais tseg.
+- Yog tias koj xav kom koj vaj txhim khu sai, cog rau kom txav tau lossis muab qee yam tshem tawm tom qab.
+- Koj siv tau nroj tsuag ib xyoos thiab perennial tsis ntev los ua nroj tsuag ntxiv.
+
+### Cia Chaw Kom Zoo (Keep Proper Distance)
+
+- Muab cov nroj tsuag siab (30 nti lossis siab dua) ua kom deb 2 feet ntawm kev taug thiab patio. Yog tsis ua li ntawd, cov chaw ntawd yuav ntim heev.
+- Tsis txhob cog nroj tsuag uas muaj pos xws li roses ze kev taug.
+
+### Xav Tshaj Paj (Think Beyond the Bloom)
+
+- Txawm tias paj zoo nkauj, ntau hom nroj tsuag muaj nplooj, txiv hmab txiv ntoo, thiab tawv ntoo uas muaj xim, hom, thiab qhov muag kov txhua lub caij.
+- Ua kom koj vaj zoo saib txhua lub caij los ntawm kev siv nplooj hloov xim lub caij nplooj zeeg thiab muaj txaus siab rau caij ntuj no nrog txiv hmab txiv ntoo, tawv ntoo, thiab noob.
+
+### Tiaj Nyom Muaj Nqi (Lawn Has Its Place)
+
+- Tiaj nyom yog qhov chaw kom qhov muag so ntawm koj cov paj zoo nkauj.
+- Nws kuj yog qhov chaw rau taug taw liab lossis ua si.
+- Xaiv qhov loj uas yooj yim saib xyuas thiab haum rau koj xav tau.
+
+### Xaiv Nroj Tsuag (Plant Selection)
+
+- Ua ib daim ntawv teev tag nrho cov nroj tsuag koj xav cog; xyuas lawv cov kev xav tau kom paub tias lawv yuav loj hlob tau yooj yim hauv koj av, dej, thiab qhov kaj.
+- Ua daim ntawv teev nrog cov kab rau hom (piv txwv: evergreen shrub), qhov siab thiab dav, xim nplooj, xim paj thiab lub sijhawm, tsw qab, thiab lwm yam tseem ceeb.
+- Tshawb xyuas seb puas muaj nyob hauv koj cheeb tsam.
+
+### Muab Nroj Tsuag Rau Qhov Chaw (Plant Placement)
+
+- Siv cov nroj tsuag tseem ceeb los tsim kev sib xyaw nrog lwm yam.
+- Saib koj daim ntawv teev thiab xaiv ob peb yam uas muaj txiaj ntsig ntau lub caij los ua qhov tseem ceeb thiab tsim pab pawg ib ncig lawv.
+- Sib piv cov nroj tsuag mos thiab dav nrog cov uas muaj nplooj loj thiab zoo txawv.
+- Muab cov hom duab puag ncig ze rau cov hom nroj tsuag ncaj qhov thiab siv cov uas muaj nplooj txo qis los looj rau pem hauv ntej.
+- Tsim cov kev sib xyaw los ntawm kev cog nrog lwm yam uas tawg paj tib lub caij. Qhov no yuav ua kom koj vaj zoo nkauj dua.
+- Nyob rau hauv ib lub vaj me me, muaj ntau xim dhau yuav ua rau ntxhov. Xaiv ib pawg xim txias lossis sov, ces xaiv cov nroj tsuag raws li koj daim ntawv teev.
+
+#### Cov Ntsiab Cai Tsim Kev Sib Txuas Nroj Tsuag Zoo
+
+1. **Pawg Xim**
+2. **Qhov Muag Kov**
+3. **Hom**
+
+- Siv cov ntsiab cai no los tsim qhov txawv ntawm koj cov nroj tsuag.
+- Piv txwv, siv nplooj nroj tsuag los ntxiv xim xws li ntsuab, xiav, daj, liab, thiab dawb.
+- Siv qhov muag kov xws li loj, ncaj, du, mos, thiab sib luag los ua kom nthuav.
+- Siv hom xws li puag ncig, ncaj, thiab pw los tsim qhov txawv ntawm koj cov nroj tsuag.
+
+---
+
+#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: Clackamas County: 503-655-8631 · Washington County: 503-821-1150 · Multnomah County: 503-445-4608 · Rau lwm cov ntaub ntawv 10-Minute University™ thiab teev sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service txwv tsis pub ua kev cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua ub no, thiab ntaub ntawv, raws li haiv neeg, xim, tebchaws keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia txog poj niam txiv neej (xws li kev qhia tawm tus kheej), kev sib deev, xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/kev ua niam txiv, nyiaj tau los los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev rau txim, lossis kev ua phem rau lwm tus vim kev tiv thaiv cai. (Tsis yog txhua yam uas txwv tsis pub siv rau txhua qhov kev pab cuam.)
+---

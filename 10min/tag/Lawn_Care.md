@@ -1,70 +1,120 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association, sa pakikipagtulungan at suporta sa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Pangangalaga ng Damuhan  
+# Pangangalaga ng Damuhan
 
-### Panimula  
-Ang pag-unawa sa natural na pag-unlad ng damuhan sa tahanan ay mahalaga upang magkaroon ng magandang damuhan habang binabawasan ang trabaho at paggamit ng kemikal. Para magsimula, kailangang tanggapin ng hardinero sa bahay ang isang realidad -- ang mga bagong damuhan na may damo, kadalasang perennial ryegrass at fine fescue, ay unti-unting at natural na magbabago patungo sa bentgrasses at annual bluegrasses. Ang prosesong ito ay hindi maiiwasan dahil sa mga buto na dala ng hangin o naroroon na sa “seed bank” ng lupa noong na-install ang damuhan. Ang huling produkto, ang “climax lawn,” ay perpektong angkop sa inyong lokasyon. Kung susundin ng hardinero sa bahay ang mga tagubilin sa pangangalaga sa handout na ito, ang climax lawn ay maaaring magmukhang luntiang, malusog, at kaakit-akit.  
+### Panimula
 
----
-
-### Pagputol ng Damo  
-Ang pagputol ng damo ay mahalaga sa pamamahala ng damuhan sa bahay. Ang wastong pagputol ng damo ay nangangailangan ng tamang taas ng mower at dalas ng pagputol: Magputol ng mataas, at magputol nang madalas!  
-- **Dalas** – Magputol ng damo lingguhan mula Marso hanggang Oktubre at isang beses sa isang buwan sa natitirang bahagi ng taon. Ang damuhang pinahintulutan na matuyo sa tag-init ay hindi nangangailangan ng regular na pagputol.  
-- **Taas ng Pagputol** – Itakda ang taas ng pagputol ayon sa dominanteng uri ng damo: 1-1.5” para sa colonial bentgrass; 1.5-2.5” para sa fine fescue, perennial rye, at Kentucky blue; 2-3” para sa tall fescue. Kung hindi sigurado kung ano ang mayroon, itakda ang taas sa 2”.  
-- **Damo na Naputol** – Gumamit ng mulching mower upang maibalik ang naputol na damo sa damuhan. Binabawasan nito ang pangangailangan sa karagdagang nitrogen fertilizer. Dapat na ang naputol na damo ay pino, magaan, at pantakip. Ang nagbukol-bukol na basa na naputol na damo ay dapat buwagin, muling putulin, o ipunin at ilagay sa compost bin.  
-- **Talim ng Mower** – Panatilihing matalas ang talim upang malinis ang pagputol ng damo at hindi ito mapunit.  
-- **Pagkapal ng Lupa** – Ang pag-apak at gulong ng mower ay nagpapapal ng lupa. Baguhin ang pattern ng pagputol upang mabawasan ang epekto.  
+Ang pag-unawa kung paano likas na nagbabago ang damuhan sa bahay ay mahalaga para magkaroon ng maganda at maayos na damuhan habang binabawasan ang pagod at paggamit ng kemikal. Una, kailangang tanggapin ng hardinero sa bahay ang isang katotohanan: ang mga bagong damuhan na tinaniman ng damo, kadalasan perennial ryegrass at fine fescue, ay unti-unting nagbabago patungo sa bentgrasses at annual bluegrasses. Ang prosesong ito ay di-maiiwasang resulta ng mga binhi na dinadala ng hangin o ng mga binhing nasa lupa na noong inilagay ang damuhan. Ang huling resulta, ang tinatawag na “climax lawn,” ay mabuti at akma sa iyong lugar. Kung susundin ng hardinero ang mga tagubiling nakasaad dito, ang climax lawn ay maaaring magmukhang luntian, malusog, at kaaya-aya.
 
 ---
 
-### Paglalagay ng Pataba  
-Ang malusog na damuhan ay kailangang lagyan ng pataba, mas mainam kung 2 hanggang 4 na beses sa isang taon. Ang pataba ay nagpapahusay sa sigla at kalusugan ng damo upang malabanan ang mga damo.  
-- **Pangangailangan ayon sa Uri ng Damo** – Ang perennial ryegrass ay may pinakamataas na pangangailangan sa nitrogen; ang tall fescue ay katamtaman; at ang fine fescues at bentgrasses ay maayos sa mababang antas ng nitrogen.  
-- **Dalas** – Ang uri ng dominanteng damo ang nagtatakda ng dalas; ang perennial rye ay nangangailangan ng 2 hanggang 4 na aplikasyon ng nitrogen bawat taon, ang tall fescue at fine fescue ay nangangailangan ng 1 hanggang 3 aplikasyon bawat taon, at ang climax lawn ay dapat lagyan ng pataba 2 beses sa isang taon.  
-- **Pag-timing** – Kung maglalagay ng pataba dalawang beses sa isang taon, gawin ito minsan sa kalagitnaan ng Mayo at isa pa sa pagitan ng kalagitnaan ng Setyembre hanggang kalagitnaan ng Oktubre. Kung apat na beses taun-taon, gawin ang unang aplikasyon sa Abril, ang pangalawa sa Mayo-Hunyo, ang pangatlo sa Agosto-Setyembre, at ang huli sa Oktubre.  
-- **Nilalaman ng Pataba (N-P-K)** – Ang pataba para sa damuhan ay dapat mataas sa nitrogen (N) at mababa sa phosphorus (P) at potassium (K). Sa ating lugar, ang P ay kadalasang hindi kulang kaya, maliban kung ang soil analysis ay nagpapakita ng pangangailangan, gumamit ng mga produkto na naglalaman ng N at K lamang.  
-- **Pagbili ng Pataba** – Hanapin ang mga produkto na may pantay na proporsyon ng water soluble (mabilis na release) at water insoluble (mabagal na release) na nitrogen, na nakasaad sa label ng pataba.  
-- **Paglalagay ng Pataba** – Maglagay ng pataba sa 0.5 hanggang 1.5 pounds ng N bawat 1,000 square feet, depende sa kalusugan ng damuhan. Ang luntiang damuhan ay maaaring gumamit ng mababang antas habang ang manipis, naninilaw na damo ay dapat tumanggap ng mataas na antas.  
-- **Pagtukoy ng Rate** – I-adjust ang rate ng pataba ayon sa konsentrasyon ng N sa label. Halimbawa, kung ang pataba ay 20% nitrogen (e.g., 20-x-y na nakalagay sa pakete), maglalagay ng 5 pounds ng pataba upang makakuha ng 1 pound ng N.  
+### Pagputol ng Damo
+
+Mahalaga ang pagputol ng damo sa pamamahala ng damuhan sa bahay. Ang tamang pagputol ay nangangailangan ng tamang taas ng blade at tamang dalas: **Putulin nang mataas, at palaging magputol!**
+
+- **Dalas**  
+  Magputol ng damo kahit isang beses kada linggo mula Marso hanggang Oktubre at isang beses kada buwan sa natitirang bahagi ng taon. Ang damuhang natutuyo o natutulog tuwing tag-init ay hindi kailangang putulin nang regular.
+
+- **Taas ng Pagputol**  
+  I-set ang taas ng pagputol base sa pangunahing uri ng damo:  
+  - 1–1.5” para sa colonial bentgrass  
+  - 1.5–2.5” para sa fine fescue, perennial rye, at Kentucky blue  
+  - 2–3” para sa tall fescue  
+  Kung hindi ka sigurado sa uri ng damo, itakda ang taas sa 2”.
+
+- **Mga Tipak ng Damo**  
+  Gumamit ng mulching mower upang maibalik ang mga tipak ng damo sa damuhan. Nakakabawas ito sa pangangailangan ng dagdag na pataba. Dapat, ang mga tipak ay pino at manipis lang ang pagkakalat. Ang mga namuong at basang tipak ay dapat paghiwa-hiwalayin at putulin muli o kalusin at ilagay sa compost bin.
+
+- **Mga Talim ng Mower**  
+  Panatilihing matalim ang mga talim para malinis ang pagputol at hindi mapunit ang damo.
+
+- **Pagpiga ng Lupa**  
+  Ang tapak ng paa at gulong ng mower ay nagpapasiksik ng lupa. Baguhin ang direksyon ng pagputol para mabawasan ang epekto nito.
 
 ---
 
-### Pagdidilig  
-Ang maikling, mas madalas na pagdidilig ang tamang paraan. Ang lupa na clay ay nangangailangan ng maikli, mas madalas na pagdidilig upang mabasa ang ugat habang iniiwasan ang pag-agos, habang ang mas mabuhanging lupa ay nangangailangan ng maikli, madalas na pagdidilig upang palitan ang kaunting tubig na kaya nitong hawakan.  
-- **Pagkakaiba-iba sa Panahon** – Dahil ang pagdidilig sa bahay ay dagdag lamang sa ulan, nagbabago ang pangangailangan sa pagdidilig ayon sa dami ng ulan. Patayin ang sistema ng pagdidilig sa taglamig.  
-- **Dalas** – Sa tagsibol/maagang tag-init kung saan ang temperatura ay katamtaman pa at minimal ang evaporation, magdilig ng ¼” dalawang hanggang tatlong beses sa isang linggo (katumbas ng ½ hanggang ¾ inch bawat linggo). Dagdagan ang mga araw o pagkakataon ng pagdidilig habang tumataas ang temperatura at pangangailangan sa tubig.  
-- **Sa Panahon ng Tagtuyot** – Sa panahon ng matinding tagtuyot sa Willamette Valley, ang damuhan ay dapat makatanggap ng 1 hanggang 1 ½” na tubig bawat linggo.  
-- **Mga Tip** – Sa pagitan ng mga pagkakataon ng pagdidilig, suriin ang nilalaman ng kahalumigmigan sa pamamagitan ng pagpasok ng screwdriver sa damuhan; kung ang lupa ay matigas at tuyot, dagdagan ang mga pagkakataon ng pagdidilig sa inyong programa. Magdilig nang maaga sa araw upang mabawasan ang pagkawala sa evaporation.  
-- **Pagtipid ng Tubig** – Maaaring hayaang maging kayumanggi ang damuhan sa tag-init; karamihan sa damo ay mabubuhay at muling magiging luntian sa pagdating ng ulan sa taglagas. Ang patuloy na tagtuyot ay maaaring pumatay sa mababaw na ugat at magdulot ng pagpasok ng damo. Ang masusing pagdidilig isang beses sa isang buwan ay magpapaliit sa pinsala sa ugat at magpapabilis ng paggaling sa taglagas.  
+### Pagpapataba
+
+Kailangang pakainin ang malusog na damuhan ng 2 hanggang 4 na beses bawat taon. Ang pataba ay nagpapaganda at nagpapalakas ng damo upang matalo ang mga damong ligaw.
+
+- **Pangangailangan batay sa uri ng damo**  
+  - Pinakamalaking pangangailangan sa nitrogen ang perennial ryegrass.  
+  - Katamtaman ang tall fescue.  
+  - Kaunti lang ang kailangan ng fine fescues at bentgrasses.
+
+- **Dalas**  
+  Ang uri ng pangunahing damo ang magtatakda ng dalas:  
+  - Perennial rye: 2 hanggang 4 na beses ng nitrogen bawat taon.  
+  - Tall fescue at fine fescue: 1 hanggang 3 beses bawat taon.  
+  - Climax lawn: 2 beses bawat taon.
+
+- **Oras ng Paglalagay**  
+  - Kung dalawang beses lang magpataba, gawin ito sa kalagitnaan ng Mayo at pagkatapos ay sa pagitan ng kalagitnaan ng Setyembre at kalagitnaan ng Oktubre.  
+  - Kung apat na beses kada taon, una sa Abril, pangalawa sa Mayo–Hunyo, pangatlo sa Agosto–Setyembre, at panghuli sa Oktubre.
+
+- **Laman ng Pataba (N-P-K)**  
+  Dapat mataas sa nitrogen (N) at mababa sa phosphorus (P) at potassium (K) ang pataba para sa damuhan. Sa ating lugar, kadalasan hindi kulang ang P, kaya kung walang soil analysis na nagsasabing kailangan, magdagdag lang ng produkto na may N at K.
+
+- **Pagpili ng Pataba**  
+  Hanapin ang pataba na may pantay na bahagi ng water-soluble (mabilis matunaw) at water-insoluble (mabagal matunaw) na nitrogen.  
+  - Agad na nagbibigay ng resulta ang water-soluble, habang ang slow-release ay dahan-dahan ang epekto.  
+  - Ang produkto na may parehong uri ng nitrogen ay magbibigay ng pantay na paglaki.
+
+- **Organikong Opsyon**  
+  Kung gusto mo ng organikong pataba, ang feather meal o corn gluten meal ay epektibong pinagmumulan ng nitrogen. Ang mga organikong pataba ay halimbawa ng slow-release.
+
+- **Dami ng Paglalagay**  
+  Maglagay ng 0.5 hanggang 1.5 libra ng nitrogen kada 1,000 talampakang parisukat, depende sa kalusugan ng damo. Ang luntiang damuhan ay sapat na sa mababang dami, habang ang manipis o nangingitim na damo ay dapat sa mataas na dami. I-adjust ang dami batay sa konsentrasyon ng N sa pataba. Halimbawa, kung 20% nitrogen ang pataba (hal. 20-x-y sa pakete), maglagay ng 5 libra ng pataba para makuha ang 1 libra ng N.
 
 ---
 
-### Pag-aalis ng Damo  
-Maging masigasig sa pag-aalis ng malalaking damo na may tap roots, tulad ng dandelions, at isaalang-alang ang pagtanggap sa maliliit na damo tulad ng clover at English daisy. Kung may damo sa damuhan, alisin ito nang manu-mano o maglagay ng broadleaf herbicides sa tiyak na lugar. Punan ang anumang bakanteng lugar ng compost at mag-seed ng damo; kung walang seed, ang mga lugar na ito ay magiging damo muli. Ang ganitong paraan ay nakakatipid ng oras, pera, at binabawasan ang hindi kailangang paggamit ng kemikal.  
+### Pagdidilig
+
+Mas mainam ang madalas ngunit maiikling oras ng pagdidilig. Ang lupang luad ay kailangang madalas at maikli ang dilig para mabasa ang ugat pero maiwasan ang pag-apaw, habang ang mabuhanging lupa ay kailangan ding madalas at maikli ang dilig dahil kaunti lang ang kayang hawakan nitong tubig. Isa pang dapat isaalang-alang ay ang pagkatuyo dahil sa init: mas madalas magdilig kapag mainit ang panahon.
+
+- **Pagbabago ng Panahon**  
+  Dahil pandagdag lang sa ulan ang pagdidilig sa bahay, nagbabago ang pangangailangan depende sa dami ng ulan. Patayin ang irrigation system tuwing taglamig.
+
+- **Gaano Kadalas**  
+  - Sa tagsibol/maagang tag-init kung saan katamtaman ang temperatura at kaunti ang evaporation, magdilig ng ¼” dalawa hanggang tatlong beses kada linggo (katumbas ng ½ hanggang ¾ pulgada kada linggo).  
+  - Magdagdag ng araw ng pagdidilig habang tumataas ang temperatura at pangangailangan sa tubig. Gumamit ng lata ng tuna o rain gauge para sukatin ang lalim ng tubig, layunin ang ¼” kada dilig.  
+  - Sa pinakamatinding tagtuyot sa Willamette Valley, dapat makakuha ang damuhan ng 1 hanggang 1½ pulgada ng tubig kada linggo.
+
+- **Mga Tip**  
+  - Sa pagitan ng pagdidilig, suriin ang basa ng lupa sa pamamagitan ng pagtusok ng screwdriver sa damuhan; kung matigas at tuyo, dagdagan ang pagdidilig.  
+  - Magdilig nang maaga sa umaga para mabawasan ang pagkawala ng tubig dahil sa evaporation.
+
+- **Pagtipid sa Tubig**  
+  Maaari mong hayaang magkulay-kayumanggi ang damuhan sa tag-init; karamihan ng damo ay muling magiging luntian pagdating ng ulan sa taglagas. Pero ang matagal na tagtuyot ay maaaring makapatay ng mababaw na ugat at magdulot ng pagdami ng damong ligaw. Isang malalim na pagdidilig kada buwan ay makakabawas sa pinsala sa ugat at bibilis ang pagbangon sa taglagas.
 
 ---
 
-### Pag-aalis ng Thatch  
-Ang thatch ay isang makapal na layer ng tangkay at ugat ng damo, ang iba ay buhay at ang iba ay patay, na nabubuo sa pagitan ng ibabaw ng lupa at berdeng dahon. Ang thatch ay dapat alisin gamit ang steel hand rake kapag ang damo ay nagsisimula pa lamang sa masiglang paglaki sa tagsibol. Kapag pinabayaan, ang ugat ng damo ay tutubo sa makapal na layer ng thatch, na mas mabilis matuyo kaysa lupa, at magdudulot ng stress sa damuhan.  
+### Pag-aalis ng Damong Ligaw
+
+Maging mapagmatyag sa pagtanggal ng malalaking damong ligaw na may malalim na ugat, tulad ng dandelion, at pagtiisan na lang ang maliliit tulad ng trebol at English daisy. Kung may damong ligaw sa damuhan, bunutin ito o mag-spot treatment ng broadleaf na herbicide. Lagyan ng compost at magtanim muli sa mga parte ng damuhan na wala nang damo. Kung walang bagong binhi, muling tatambakan ng damong ligaw ang lugar. Ang pamamaraang ito ay nakakatipid ng oras, pera, at nababawasan ang hindi kailangang paggamit ng kemikal.
 
 ---
 
-### Karagdagang Impormasyon  
-Ang mga publikasyon ng OSU ay makukuha online sa [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu)  
-- **Turfgrass Seeding Recommendations for the Pacific Northwest PNW299**  
-- **Practical Lawn Care for Western Oregon EC1521**  
-- **Practical Lawn Establishment and Renovation EC1550**  
-- **Retail Lawn Seed Mixtures for Western Oregon and Western Washington EM9100**  
+### Pag-alis ng Thatch
+
+Ang thatch ay siksik na patong ng tangkay at ugat ng damo, buhay at patay, na nabubuo sa pagitan ng ibabaw ng lupa at ng luntiang damo. Dapat itong tanggalin gamit ang steel hand rake kapag nagsisimula nang lumago ang damo sa tagsibol. Kapag pinabayaan, doon tutubo ang ugat ng damo at mas mabilis itong matutuyo kaysa lupa, na nagdudulot ng stress sa damuhan tuwing tagtuyot.
 
 ---
 
-### Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), o 503-445-4608 (Multnomah County).  
-- Para sa 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+### Karagdagang Impormasyon
+
+Mga publikasyon ng OSU na makikita online sa [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):
+
+- **Turfgrass Seeding Recommendations for the Pacific Northwest** (PNW299)  
+- **Practical Lawn Care for Western Oregon** (EC1521)  
+- **Practical Lawn Establishment and Renovation** (EC1550)  
+- **Retail Lawn Seed Mixtures for Western Oregon and Western Washington** (EM9100)
 
 ---
 
-### Paalala  
-Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kabilang ang pagpapahayag ng kasarian), orientasyon sekswal, kapansanan, edad, katayuang may asawa, status ng pamilya/magulang, kita mula sa pampublikong programa sa tulong, paniniwalang pampulitika, impormasyon sa genetiko, status bilang beterano, paghihiganti o pagbabalik para sa naunang aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay nalalapat sa lahat ng programa.)
+#### Master Gardener™ Advice · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa mga handout ng 10-Minute University™ at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org).
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng mga programa, serbisyo, aktibidad, at materyales nito base sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kabilang ang gender expression), sexual orientation, kapansanan, edad, estado ng pag-aasawa, estado bilang magulang/pamilya, kita mula sa programang pampubliko, paniniwalang pampulitika, genetic information, status bilang beterano, pagganti o paghihiganti dahil sa dating aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

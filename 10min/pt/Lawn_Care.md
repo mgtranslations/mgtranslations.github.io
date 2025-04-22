@@ -1,69 +1,120 @@
-# Universidade de 10 Minutos™
+#### 10-Minute University™ · A Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
 
-A Associação de Jardineiros Mestre do Condado de Clackamas, em colaboração e apoio ao Programa de Jardineiros Mestre™ da Extensão da OSU.
-
-## Cuidados com o Gramado
+# Cuidados com o Gramado
 
 ### Introdução
 
-Compreender como os gramados residenciais evoluem naturalmente é essencial para ter um gramado bonito, enquanto minimiza o trabalho e o uso de produtos químicos. Para começar, o jardineiro doméstico precisa aceitar uma realidade: novos gramados semeados com grama, geralmente azevém perene e festuca fina, gradualmente e naturalmente se transformarão em gramados com grama bentgrass e grama azul anual. Esse processo é inevitável devido às sementes trazidas pelo vento ou já presentes no "banco de sementes" do solo quando o gramado foi instalado. O resultado final, um "gramado clímax", é perfeitamente adaptado ao seu local. Se o jardineiro seguir as instruções de cuidados deste guia, um gramado clímax pode parecer exuberante, saudável e convidativo.
-
-### Corte
-
-Cortar a grama é fundamental para o manejo do gramado residencial. Um corte adequado exige ajustar a altura do cortador e realizar o corte na frequência recomendada: corte alto e corte frequente!
-
-- **Frequência**: Corte pelo menos uma vez por semana de março a outubro e uma vez por mês no restante do ano. Gramados que entram em dormência no verão não precisam de cortes regulares.
-- **Altura do corte**: Ajuste a altura de corte de acordo com o tipo predominante de grama: 1-1,5” para bentgrass colonial; 1,5-2,5” para festuca fina, azevém perene e grama azul do Kentucky; 2-3” para festuca alta. Se você não tiver certeza do tipo de grama, ajuste a altura para 2”.
-- **Recortes de grama**: Use um cortador de grama com função de mulching para retornar os recortes ao gramado. Isso reduz a necessidade de fertilizantes nitrogenados adicionais. Idealmente, os recortes devem formar uma cobertura leve e finamente cortada. Recortes molhados e agrupados devem ser espalhados, cortados novamente ou recolhidos e colocados na composteira.
-- **Lâminas do cortador**: Mantenha-as afiadas para que a grama seja cortada de forma limpa e não rasgada.
-- **Compactação**: O tráfego de pessoas e as rodas do cortador compactam o solo. Alterne o padrão de corte para diminuir o impacto.
-
-### Fertilização
-
-Um gramado saudável precisa ser fertilizado preferencialmente de 2 a 4 vezes por ano. O fertilizante melhora o vigor e a saúde da grama, permitindo que ela supere as ervas daninhas.
-
-- **Necessidades por tipo de grama**: O azevém perene tem maior necessidade de nitrogênio; a festuca alta é intermediária; e as festucas finas e bentgrass prosperam com níveis baixos de nitrogênio.
-- **Frequência**: O tipo de grama predominante determina a frequência; o azevém perene necessita de 2 a 4 aplicações de nitrogênio por ano, a festuca alta e a festuca fina precisam de 1 a 3 aplicações por ano, e o gramado clímax deve ser fertilizado 2 vezes por ano.
-- **Cronograma**: Se você fertilizar duas vezes ao ano, faça uma aplicação em meados de maio e outra entre meados de setembro e meados de outubro. Se fertilizar quatro vezes ao ano, realize as aplicações em abril, maio-junho, agosto-setembro e outubro.
-- **Conteúdo do fertilizante (N-P-K)**: Fertilizantes para gramados devem ser ricos em nitrogênio (N) e baixos em fósforo (P) e potássio (K). Em nossa região, o P tende a não ser deficiente, então, a menos que uma análise de solo indique necessidade, use produtos contendo apenas N e K.
-- **Proporções no fertilizante**: Procure produtos com uma proporção igual de fontes de N solúvel em água (liberação rápida) e insolúvel em água (liberação lenta), conforme indicado no rótulo.
-- **Aplicação de fertilizante**: Aplique fertilizante entre 0,5 e 1,5 libras de N por 1.000 pés quadrados, dependendo da saúde do gramado. Gramados exuberantes podem receber a dose mais baixa, enquanto gramados finos e amarelados devem receber a dose mais alta.
-- **Fertilizantes orgânicos**: Se optar por fertilizantes orgânicos, farinha de penas ou farinha de glúten de milho são fontes eficazes de nitrogênio.
-
-### Rega
-
-Irrigações curtas e frequentes são mais eficazes. Solos argilosos precisam de sessões curtas e frequentes para molhar a zona das raízes sem causar escoamento, enquanto solos arenosos necessitam de irrigação frequente para reabastecer pequenas quantidades de água.
-
-- **Variações sazonais**: Como a irrigação residencial complementa a chuva, as necessidades de irrigação mudam com a precipitação. Desligue o sistema de irrigação durante o inverno.
-- **Frequência**: Na primavera/início do verão, quando as temperaturas ainda são moderadas, aplique ¼” de água duas a três vezes por semana (equivalendo a ½ a ¾ de polegada por semana). Aumente os dias ou eventos de irrigação conforme as temperaturas e a demanda por água aumentam.
-- **Dicas**: Entre os eventos de irrigação, verifique a umidade inserindo uma chave de fenda no gramado. Se o solo estiver duro e seco, adicione mais eventos de irrigação. Regue de manhã cedo para minimizar a perda por evaporação.
-- **Conservação de água**: Você pode deixar o gramado ficar marrom durante o verão; a maioria das gramíneas sobreviverá e voltará a ficar verde com a chegada das chuvas de outono. Sessões de irrigação profundas uma vez por mês minimizam danos às raízes e aceleram a recuperação no outono.
-
-### Controle de Ervas Daninhas
-
-Seja vigilante ao remover ervas daninhas grandes com raízes profundas, como dentes-de-leão, e considere tolerar pequenas ervas como trevo e margarida inglesa. Se houver ervas daninhas no gramado, remova-as manualmente ou aplique herbicidas seletivos. Preencha áreas sem grama com composto e semeie novamente; caso contrário, essas áreas se tornarão novamente pontos de ervas daninhas.
-
-### Dethatching
-
-Thatch é uma camada compacta de caules e raízes de grama, alguns vivos e outros mortos, que se forma entre a superfície do solo e as lâminas verdes. O thatch deve ser removido com um ancinho de aço quando o gramado começar a crescer vigorosamente na primavera. Se não for removido, as raízes da grama crescerão nessa camada espessa, que seca mais rápido que o solo e causa estresse por seca no gramado.
-
-## Informações Adicionais
-
-Publicações da OSU disponíveis online em [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):
-
-- **Recomendações de Semeadura de Gramíneas para o Noroeste do Pacífico** - PNW299
-- **Cuidados Práticos com Gramados para o Oeste do Oregon** - EC1521
-- **Estabelecimento e Renovação Prática de Gramados** - EC1550
-- **Misturas de Sementes de Gramados para o Oeste do Oregon e Washington** - EM9100
-
-### Orientação de Jardineiros Mestres™
-
-- Ligue para a Linha de Ajuda de Horticultura Residencial:  
-  - 503-655-8631 (Condado de Clackamas)  
-  - 503-821-1150 (Condado de Washington)  
-  - 503-445-4608 (Condado de Multnomah)  
-- Para guias e cronograma de cursos da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).
+Entender como os gramados residenciais evoluem naturalmente é fundamental para ter um gramado bonito enquanto se minimiza o trabalho e o uso de produtos químicos. Para começar, o jardineiro doméstico precisa aceitar uma realidade: novos gramados semeados com grama, geralmente azevém perene e festuca fina, vão gradualmente e naturalmente se transformar em gramados de agrostis e poa anual. Esse processo é resultado inevitável de sementes trazidas pelo vento ou já presentes no “banco de sementes” do solo quando o gramado foi instalado. O resultado final, um “gramado clímax”, é perfeitamente adaptado ao seu local. Se o jardineiro seguir as orientações deste folheto, um gramado clímax pode parecer viçoso, saudável e convidativo.
 
 ---
 
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, condição familiar ou parental, renda de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represálias ou retaliação por atividades anteriores de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+### Corte
+
+Cortar a grama é essencial para o manejo do gramado residencial. Um bom corte exige regular a altura certa do cortador e cortar na frequência recomendada: **Corte alto e corte com frequência!**
+
+- **Frequência**  
+  Corte pelo menos uma vez por semana de março a outubro e uma vez por mês no restante do ano. Gramados que ficam dormentes durante o verão não precisam de cortes regulares.
+
+- **Altura do corte**  
+  Ajuste a altura do corte conforme o tipo dominante de grama:  
+  - 2,5–4 cm para agrostis colonial  
+  - 4–6,5 cm para festuca fina, azevém perene e poa do Kentucky  
+  - 5–7,5 cm para festuca alta  
+  Se não tiver certeza de qual grama possui, ajuste a altura para 5 cm.
+
+- **Restos de grama**  
+  Use um cortador com função de reciclagem para devolver os resíduos ao gramado. Isso reduz a necessidade de adubação com nitrogênio. O ideal é que os restos formem uma camada fina e leve. Se ficarem úmidos e empelotados, espalhe-os e corte novamente ou recolha para o composto.
+
+- **Lâminas do cortador**  
+  Mantenha-as afiadas para que a grama seja cortada de forma limpa, sem ser rasgada.
+
+- **Compactação**  
+  O trânsito de pessoas e as rodas do cortador compactam o solo. Altere o padrão de corte para reduzir esse impacto.
+
+---
+
+### Adubação
+
+Um gramado saudável precisa ser adubado de preferência 2 a 4 vezes ao ano. O adubo melhora o vigor e a saúde da grama, permitindo que ela supere as plantas daninhas.
+
+- **Necessidade por tipo de grama**  
+  - Azevém perene precisa de mais nitrogênio.  
+  - Festuca alta tem uma necessidade intermediária.  
+  - Festucas finas e agrostis se desenvolvem bem com baixos níveis de nitrogênio.
+
+- **Frequência**  
+  O tipo de grama dominante determina a frequência:  
+  - Azevém perene precisa de 2 a 4 aplicações de nitrogênio por ano.  
+  - Festuca alta e festuca fina precisam de 1 a 3 aplicações anuais.  
+  - Gramado clímax deve ser adubado 2 vezes ao ano.
+
+- **Época de aplicação**  
+  - Se adubar duas vezes ao ano, faça uma aplicação em meados de maio e outra entre meados de setembro e meados de outubro.  
+  - Se adubar 4 vezes ao ano, faça a primeira aplicação em abril, a segunda entre maio e junho, a terceira entre agosto e setembro, e a última em outubro.
+
+- **Composição do adubo (N-P-K)**  
+  Os adubos para gramado devem ser ricos em nitrogênio (N) e baixos em fósforo (P) e potássio (K). Na nossa região, geralmente não falta P, então, a menos que uma análise do solo indique necessidade, use produtos apenas com N e K.
+
+- **Escolha do adubo**  
+  Procure produtos com proporções iguais de nitrogênio solúvel em água (liberação rápida) e insolúvel em água (liberação lenta), como indicado no rótulo.  
+  - O nitrogênio solúvel age rapidamente, enquanto o de liberação lenta age com o tempo.  
+  - Produtos com os dois tipos de nitrogênio promovem crescimento mais uniforme.
+
+- **Opções orgânicas**  
+  Se deseja adubo orgânico, farinha de penas ou farinha de glúten de milho são boas fontes de nitrogênio. Adubos orgânicos são exemplos de produtos de liberação lenta.
+
+- **Taxa de aplicação**  
+  Aplique de 0,25 a 0,75 kg de N por 100 m², conforme a saúde do gramado. Gramados viçosos precisam da dose menor; gramados finos e amarelados devem receber a dose maior. Ajuste a taxa conforme a concentração de N indicada no rótulo. Por exemplo, se o adubo tem 20% de nitrogênio (ex: 20-x-y no rótulo), aplique 2,5 kg de adubo para obter 0,5 kg de N.
+
+---
+
+### Rega
+
+Irrigações mais curtas e frequentes são o ideal. Solos argilosos precisam de sessões curtas e frequentes para molhar as raízes sem causar enxurrada. Solos arenosos também precisam de regas curtas e frequentes, pois retêm pouca água. A evaporação também afeta a rega: regue mais quando estiver quente.
+
+- **Variações sazonais**  
+  Como a irrigação complementa a chuva, as necessidades mudam conforme a precipitação. Desligue o sistema de irrigação no inverno.
+
+- **Frequência**  
+  - Na primavera/início do verão, quando as temperaturas são moderadas e a evaporação é baixa, aplique 0,5 cm duas a três vezes por semana (totalizando 1 a 2 cm por semana).  
+  - Aumente os dias de irrigação conforme as temperaturas e a demanda por água aumentarem. Use latas de atum vazias ou pluviômetros para medir a profundidade da irrigação, visando 0,5 cm por vez.  
+  - Durante períodos de seca intensa no Vale do Willamette, gramados devem receber de 2,5 a 3,5 cm de água por semana.
+
+- **Dicas**  
+  - Entre as irrigações, verifique a umidade do solo inserindo uma chave de fenda no gramado. Se o solo estiver duro e seco, aumente a frequência.  
+  - Regue no início da manhã para reduzir a perda por evaporação.
+
+- **Economia de água**  
+  Você pode deixar o gramado ficar marrom no verão; a maioria das gramas sobreviverá e ficará verde novamente com as chuvas do outono. Secas prolongadas podem matar raízes rasas e favorecer o surgimento de plantas daninhas. Uma boa rega por mês minimiza os danos às raízes e acelera a recuperação no outono.
+
+---
+
+### Controle de plantas daninhas
+
+Fique atento para remover plantas daninhas grandes, com raízes profundas, como o dente-de-leão, e considere tolerar pequenas, como o trevo e a margarida inglesa. Se houver plantas daninhas no gramado, retire-as manualmente ou aplique herbicidas para folhas largas de forma localizada. Preencha as áreas nuas com um pouco de composto e faça uma nova semeadura. Se não semear, essas áreas rapidamente se tornarão focos de plantas daninhas. Essa abordagem economiza tempo, dinheiro e reduz o uso desnecessário de produtos químicos.
+
+---
+
+### Descompactação de palha (dethatching)
+
+A palha é uma camada densa de caules e raízes de grama, vivos e mortos, que se forma entre o solo e as lâminas verdes. Ela deve ser removida com um ancinho de aço quando a grama começar o crescimento vigoroso na primavera. Se não for removida, as raízes crescem nessa camada, que seca mais rápido que o solo e causa estresse por seca ao gramado.
+
+---
+
+### Informações adicionais
+
+Publicações da OSU disponíveis online em [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):
+
+- **Recomendações para Semeadura de Gramados no Noroeste do Pacífico** (PNW299)  
+- **Cuidados Práticos com Gramados no Oeste do Oregon** (EC1521)  
+- **Estabelecimento e Renovação Prática de Gramados** (EC1550)  
+- **Misturas de Sementes para Gramados no Oeste do Oregon e Oeste de Washington** (EM9100)
+
+---
+
+#### Orientação de Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos do 10-Minute University™ e calendário de aulas, visite [www.cmastergardeners.org](http://www.cmastergardeners.org).
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/paternal, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividade anterior relacionada a direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

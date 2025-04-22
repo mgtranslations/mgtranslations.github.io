@@ -1,64 +1,100 @@
-10-Minute University™  
-A Associação de Jardineiros Mestres do Condado de Clackamas em colaboração e em apoio ao Programa de Jardineiros Mestres™ da Extensão da OSU  
+#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU
 
-O Jardineiro Adaptado  
+# O Jardineiro Habilitado
 
-### Introdução  
-A jardinagem pode ser um passatempo para toda a vida que oferece benefícios tanto mentais quanto físicos. À medida que envelhecemos ou enfrentamos lesões, os desafios físicos exigem algumas adaptações para continuar a jardinar. Desde jardineiros com um pouco de artrite até a jardinagem em uma cadeira de rodas, há uma ampla gama de soluções.  
+### Introdução
 
-### Seleção de Ferramentas  
-Escolher o tamanho e a função corretos das ferramentas de jardinagem pode fazer toda a diferença no conforto e na eficácia do uso das ferramentas.  
+A jardinagem pode ser um passatempo para a vida toda que traz benefícios mentais e físicos. Conforme envelhecemos ou lidamos com lesões, os desafios físicos exigem algumas adaptações para continuar praticando a jardinagem. Desde jardineiros com um pouco de artrite até aqueles que jardinam em cadeira de rodas, existem muitas soluções possíveis.
 
-#### Ferramentas de Poda  
-- **Tesouras de poda** - O tamanho importa! Encontre o tamanho que melhor se adapta à sua mão para facilidade de uso e conforto. Muitas tesouras de poda estão disponíveis em versões pequenas, médias e grandes. Elas também vêm em versões para destros e canhotos.  
-- **Tesouras de poda longas (loppers)** - Escolha um comprimento adequado para sua posição de poda. Loppers com cabos leves e extensíveis de alumínio permitem ajustar o comprimento conforme necessário.  
-- **Lâminas e mecanismos de poda**  
-  - Tesouras de bypass funcionam com um movimento de tesoura, onde uma lâmina passa sobre a outra.  
-    - **Vantagens**: Corte limpo e versátil para madeira verde e seca.  
-  - Tesouras de bigorna funcionam com a lâmina superior descendo sobre a lâmina inferior, como uma faca contra uma tábua de corte.  
-    - **Vantagens/Desvantagens**: A abertura da lâmina não precisa ser tão ampla quanto nas tesouras de bypass; muito boas para madeira seca ou morta, mas podem esmagar caules verdes; o corte não é tão limpo.  
-  - Tesouras de poda com mecanismo de catraca e tesouras longas com catraca utilizam um mecanismo composto que exige menos força e permite cortar gradualmente um galho ou caule.  
-  - Tesouras longas com engrenagens oferecem 40% mais potência ao cortar. Cabos mais longos oferecem mais alavancagem.  
+---
 
-#### Ferramentas de Mão  
-- Procure ferramentas ergonômicas que mantenham o pulso em uma posição neutra, alinhado com o antebraço. Conforme a mobilidade e a força diminuem, é mais eficiente usar articulações maiores para realizar as tarefas. Utilizar o antebraço e o ombro reduz o esforço nas mãos e pulsos.  
-- Adaptações, como cabos em formato de “D” mostrados na ilustração, podem ser adicionados a ancinhos e vassouras padrão para um bom agarre e para ajudar a manter os pulsos retos.  
-- Use acolchoamento para aumentar o tamanho dos cabos e proporcionar um agarre mais confortável. Folhas de espuma presas com fita adesiva ou envoltórios de guidão de bicicleta são duas soluções eficazes. Existem muitas maneiras de adaptar ferramentas de jardinagem para ajudar com problemas na coluna, joelhos, quadris, mãos e braços.  
-- Um furador ajustado com uma broca helicoidal é útil para criar buracos de plantio. Um furador com fio pesa menos que um furador com bateria, e a adição de um cabo lateral no furador oferece mais controle.  
-- Ancinhos, tanto de folhas quanto de cabeça arqueada, vêm com cabos leves e ajustáveis. Alguns ancinhos de folhas têm cabeças retráteis que podem funcionar como ancinhos de gramado ou alcançar espaços menores.  
+### Seleção de Ferramentas
 
-### Design do Jardim  
-- **Pavimentação** - Uma superfície dura e uniforme com boa tração é a melhor solução possível. Concreto moldado e pavimentos compactos e lisos são ideais. Decks de madeira e caminhos de granito decomposto também funcionam. Evite materiais soltos, como cascalho não compactado e lascas de madeira que podem se tornar irregulares com o tempo.  
-- **Caminhos** - Caminhos com pelo menos 91 cm de largura oferecem espaço suficiente para manobrar uma cadeira de rodas ou um andador, mas 122 cm é o ideal. Mantenha os caminhos livres de obstáculos.  
-- **Corrimãos** - Considere adicionar corrimãos ao longo dos caminhos. Instale-os em escadas ou degraus antes de mudanças de nível.  
-- **Acesso Melhorado** - Canteiros elevados são o padrão ouro para acesso ao jardim para pessoas com problemas de mobilidade. Podem ser tão simples quanto um tanque de armazenamento ou saco de cultivo ou construídos com madeira ou alvenaria. Uma superfície superior suficientemente larga que também funcione como um banco para trabalhar ou descansar é uma ótima característica.  
-- **Cultivo Vertical** - Treliças e sistemas de cultivo vertical facilitam o acesso a muitos vegetais e trepadeiras ornamentais.  
-- **Rega** - Use mangueiras leves, mangueiras de gotejamento ou sistemas de irrigação por gotejamento para facilitar a rega. Mantenha as mangueiras o mais curtas possível. Canteiros elevados e vasos ou sacos podem exigir rega mais frequente do que plantas no solo. Vasos podem ser adaptados para serem autoirrigáveis.  
-- **Assentos** - Proporcione assentos leves nas áreas do jardim que possam ser movidos conforme necessário para sombra ou sol.  
+Escolher o tamanho e a função corretos das ferramentas de jardinagem pode fazer toda a diferença no conforto e no uso eficaz das ferramentas.
 
-### Seleção de Plantas  
-- Escolha versões menores e de baixa manutenção de seus ornamentais e vegetais favoritos.  
+#### Ferramentas de Poda
 
-### Auxílios de Mobilidade  
-- Banco/ajoelhador de jardim com bolsos de armazenamento nas alças  
-- Assentos de jardim com rodas e armazenamento acoplado que se movem com você enquanto trabalha  
-- Carrinhos de mão com várias rodas para estabilidade e versatilidade  
-- Carrinhos de jardim para todas as suas ferramentas e suprimentos que se movem com você e economizam passos desnecessários  
+- **Tesouras de poda**
+  - O tamanho importa! Encontre o tamanho que se adapta melhor à sua mão para facilitar o uso e o conforto. Muitas tesouras vêm em versões pequenas, médias e grandes. Também existem versões para destros e canhotos.
+- **Podadores de cabo longo (Loppers)**
+  - Escolha um comprimento que funcione para a posição que você vai podar. Modelos com cabos de alumínio extensíveis e leves permitem ajustar o comprimento conforme necessário.
+- **Lâminas e mecanismos de poda**
+  - **Tesouras tipo Bypass**
+    - Funcionam como uma tesoura, com uma lâmina passando sobre a outra.
+    - **Vantagens:** Corte limpo e bom para galhos verdes e secos.
+  - **Tesouras tipo Bigorna (Anvil)**
+    - Funcionam com a lâmina de cima descendo sobre uma lâmina de base, como uma faca em uma tábua.
+    - **Vantagens/Desvantagens:** A abertura da lâmina não precisa ser tão grande quanto nas tesouras tipo bypass; muito boas para madeira morta ou seca, mas podem esmagar galhos verdes; o corte não é tão limpo.
+  - **Tesouras de poda com catraca e podadores de cabo longo com catraca**
+    - Usam um mecanismo composto que exige menos força e permite cortar aos poucos um galho ou caule.
+  - **Podadores de cabo longo com engrenagem**
+    - Oferecem 40% mais força ao cortar. Cabos mais longos dão mais alavanca.
 
-### Condicionamento Físico  
-- Alongar antes e depois de jardinar pode aliviar dores e rigidez. Consulte seu médico/fisioterapeuta/personal trainer para exercícios apropriados de flexibilidade e força antes de começar.  
-- Construir flexibilidade e força muscular pode tornar a jardinagem mais fácil e agradável. Muitas academias têm treinadores ou aulas que podem oferecer exercícios adequados às suas habilidades.  
+#### Ferramentas Manuais
 
-### Recursos  
-- **Gardening for Life – A Guide to Garden Adaptations for Gardeners**  
-  [https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)  
+- Procure ferramentas ergonômicas que mantenham o punho em posição neutra, alinhado com o antebraço. Conforme a mobilidade e a força diminuem, é mais eficiente usar articulações maiores para realizar as tarefas. Usar o antebraço e o ombro tira a pressão das mãos e pulsos.
+- Adaptações como cabos em formato de “D” podem ser adicionados a ancinhos e vassouras comuns para melhorar a pegada e ajudar a manter o punho reto.
+- Use enchimento para tornar os cabos maiores e mais confortáveis. Folhas de espuma presas com fita adesiva e fitas de guidão de bicicleta são duas soluções que funcionam bem. Existem várias formas de adaptar ferramentas de jardim para ajudar com problemas nas costas, joelhos, quadris, mãos e braços.  
+  - [Guia da Extensão da OSU](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em8504.pdf)
+- Uma furadeira com broca tipo trado (auger) é útil para fazer buracos de plantio. Uma furadeira com fio pesa menos que uma à bateria, e a adição de um cabo lateral dá mais controle.
+- Ancinhos, tanto de folhas quanto de cabeça arqueada, têm cabos leves e ajustáveis. Alguns ancinhos de folhas têm cabeças dobráveis que funcionam como ancinhos de grama ou para alcançar lugares menores.
+
+---
+
+### Projeto do Jardim
+
+- **Pavimentação**
+  - Uma superfície dura, nivelada e com boa aderência é a melhor opção. Concreto e pisos de pedra lisos e bem encaixados são ideais. Decks de madeira e caminhos de granito compactado também funcionam. Evite materiais soltos, como cascalho solto e lascas de madeira, que podem se tornar irregulares com o tempo.
+- **Caminhos**
+  - Caminhos com pelo menos 90 cm de largura permitem o uso de cadeira de rodas ou andador, mas o ideal é 1,20 m. Mantenha os caminhos livres de obstáculos.
+- **Corrimãos**
+  - Considere instalar corrimãos ao longo dos caminhos. Coloque-os em escadas ou degraus, antes de mudanças de nível.
+- **Acesso Facilitado**
+  - Canteiros elevados são o padrão-ouro para acesso ao jardim para pessoas com mobilidade reduzida. Podem ser simples como tanques de metal ou sacos de plantio, ou feitos de madeira ou alvenaria. Uma borda larga que também sirva de banco para trabalhar ou descansar é uma ótima característica.  
+    - [Guia da Extensão da OSU](https://catalog.extension.oregonstate.edu/fs270)
+- **Cultivo Vertical**
+  - Treliças e sistemas verticais facilitam o acesso a muitos vegetais e plantas ornamentais trepadeiras.
+- **Irrigação**
+  - Use mangueiras leves, mangueiras de exsudação ou sistemas de gotejamento para tornar a rega mais fácil. Mantenha as mangueiras o mais curtas possível. Canteiros e vasos ou sacos de plantio podem precisar de rega mais frequente que plantas no solo. Vasos podem ser adaptados para irrigação automática.
+- **Assentos**
+  - Coloque assentos leves nas áreas do jardim que possam ser movidos conforme a necessidade de sombra ou sol.
+
+---
+
+### Seleção de Plantas
+
+- Escolha variedades de baixa manutenção e versões menores de seus vegetais e plantas ornamentais favoritos.
+
+---
+
+### Auxílios de Mobilidade
+
+- Banco/ajoelhador duplo para jardim com bolsos de armazenamento nas alças
+- Assentos de jardim com rodas e compartimento de armazenamento que se movem com você enquanto trabalha
+- Carrinhos de jardim com várias rodas para maior estabilidade e versatilidade
+- Carrinhos de jardim para todas as ferramentas e suprimentos, que se movem com você e evitam passos desnecessários
+
+---
+
+### Condicionamento Físico
+
+- Alongar antes e depois da jardinagem pode aliviar dores e rigidez. Consulte seu médico, fisioterapeuta ou treinador para exercícios de flexibilidade e força adequados antes de começar.
+- Desenvolver flexibilidade e força muscular pode tornar a jardinagem mais fácil e prazerosa. Muitas academias têm treinadores ou oferecem aulas com exercícios adaptados à sua capacidade.
+
+---
+
+### Recursos
+
+- **Jardinagem para a Vida – Um Guia de Adaptações no Jardim para Jardineiros**  
+  - [Baixar Guia](https://s3.wp.wsu.edu/uploads/sites/2079/2015/12/GFL-booklet-complete.pdf)
 - **Carry on Gardening**  
-  [https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)  
+  - [Dicas para Jardineiros com Deficiência](https://www.carryongardening.org.uk/top-tips-for-disabled-gardeners.aspx)
 
-### Conselho de Jardineiros Mestres™  
-Ligue para a Linha Direta de Horticultura Doméstica:  
-- 503-655-8631 (Condado de Clackamas)  
-- 503-821-1150 (Condado de Washington)  
-- 503-445-4608 (Condado de Multnomah)  
+---
 
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda proveniente de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)  
+#### Dicas dos Mestres Jardineiros™ · Ligue para o Serviço de Atendimento de Horticultura Residencial: Condado de Clackamas: 503-655-8631 · Condado de Washington: 503-821-1150 · Condado de Multnomah: 503-445-4608
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou revanche por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+---

@@ -1,58 +1,83 @@
-# Lub Tsev Kawm Ntawv 10 Feeb™  
-Lub Koom Haum Oregon Master Gardener™ – Chav Haujlwm Hauv Clackamas County  
-Ua Haujlwm Sib Koom Tes nrog Oregon State University Extension Service  
+#### 10-Minute University™ · Oregon Master Gardener™ Association – Clackamas County Chapter · Ua Hauj Lwm Nrog Oregon State University Extension Service
 
-## Kawm Vaj Tsev nrog Cov Me Nyuam Hnub Nyoog 11-14  
-Kawm vaj tsev nrog cov me nyuam hnub nyoog 11 txog 14 tuaj yeem ua rau zoo siab thiab muaj txiaj ntsig rau cov me nyuam thiab cov laus. Qhov no pab lawv txo kev siv lub computer thiab lwm yam khoom siv uas muaj npo, txhawb kev xav uas pab txo kev ntxhov siab thiab kev txhawj xeeb. Cov me nyuam hnub nyoog no twb muaj zog txaus los ua haujlwm vaj tsev ntau dua thiab yuav txaus siab tshawb txog cov qauv hauv vaj tsev xws li kev txhim kho ib lub laj kab trellis lossis lub vaj tsev siab uas pab txuag chaw lossis pab kom muaj lub hnub ci zoo dua thiab av zoo dua. Cov haujlwm no yog qhov muaj txiaj ntsig rau cov me nyuam.  
+# Ua Vaj Tsev Nrog Cov Menyuam Hnub Nyug 11-14 Xyoos
 
-Cov me nyuam hnub nyoog 11 txog 14 muaj peev xwm npaj, xav txog qhov tshwm sim thiab saib xyuas thiab kwv yees qhov tshwm sim. Kawm vaj tsev pab tsim kho txuj ci rau kev kawm, kev npaj, kev daws teeb meem thiab kev lav dej num. Cov no yog cov txuj ci uas yuav siv tau mus tas ib sim neej rau txhua yam hauv lub neej ntawm cov me nyuam. Kawm txog kev sib koom ua ke ntawm cov nroj tsuag thiab cov tsiaj yog qhov txaus siab rau cov me nyuam hnub nyoog no. Kev sib raug zoo ntawm cov yoov, cov tsiaj amphibians, cov nroj tsuag thiab lwm yam tsiaj hauv vaj xws li moles, voles thiab gophers yog qhov tseem ceeb rau kev kawm vaj tsev kom zoo. Txo kev siv tshuaj tua kab thiab tshuaj tua nroj tsuag uas cuam tshuam nrog kev muaj sia nyob yog qhov tseem ceeb, thiab kawm txog kev sib txuas ntawm av, dej thiab compost uas pab tsim lub vaj tsev muaj txiaj ntsig yog qhov uas yuav tsum tau saib xyuas kom nkag siab zoo.  
+Ua vaj tsev nrog cov menyuam hnub nyug 11 txog 14 xyoo yeej yog ib yam lom zem thiab zoo rau cov menyuam thiab cov laus. Nws pab kom lawv tsis txhob siv sijhawm saib computer thiab lwm yam screen, ua rau lawv lub siab muaj kev xav tshiab, thiab pab kom lawv txo kev ntxhov siab thiab kev txhawj xeeb. Cov menyuam hnub nyug no twb muaj zog txaus los ua tej haujlwm vaj tsev loj dua, thiab lawv yuav txaus siab tshawb nrhiav tej yam hauv vaj, xws li ua ib lub trellis los yog tsim ib lub txaj vaj siab. Cov dej num no pab txuag chaw, muab tshav ntuj thiab av zoo dua, thiab tseem ua rau cov menyuam muaj peev xwm thiab ntseeg siab rau lawv tus kheej.
 
-## Ib Txhia Txoj Haujlwm  
-### Tsim Lub Vaj Tsev Rau Zaub  
-Npaj thiab tsim lub vaj tsev los tsim zaub yog ib txoj kev zoo rau cov me nyuam kom nkag siab txog qhov tseem ceeb ntawm lub hnub ci txaus, qhov chaw dej, thiab cov av uas yuav tsum tau rau kev cog zaub. Lawv yuav tsum tau npaj seb yuav cog dab tsi kom siv tau qhov chaw zoo tshaj thiab npaj lub sijhawm cog.  
-- **Kev Kawm Cog Zaub Hauv Oregon**: [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)  
-- **Kev Kawm Vaj Tsev Siab**: [https://catalog.extension.oregonstate.edu/fs270](https://catalog.extension.oregonstate.edu/fs270)  
+Cov menyuam hnub nyug no muaj peev xwm npaj ua ntej, xav txog qhov tshwm sim, thiab saib xyuas los twv seb dab tsi yuav tshwm sim. Ua vaj tsev pab tsim kev txawj kawm, kev npaj, kev daws teeb meem, thiab kev lav ris—yog cov txuj ci yuav tsum muaj hauv lub neej. Kev kawm txog kev vam khom ntawm tsob nroj thiab tsiaj yog ib yam uas cov menyuam hnub nyug no nyiam heev. Paub txog yuav ua li cas kab, tsiaj amphibian, tsob nroj, thiab lwm yam tsiaj hauv vaj xws li moles, voles, thiab gophers sib cuam tshuam, yog qhov tseem ceeb rau kev ua vaj zoo. Kev txo kev siv tshuaj tua kab thiab tshuaj tua nroj uas cuam tshuam kev ua vaj ntuj, thiab kawm txog av, dej, thiab compost pab txhim kho av zoo, yog cov lus qhia tseem ceeb.
 
-### Tsim Lub Vaj Tsev Nrog Dej Nag  
-Txoj haujlwm no tuaj yeem yooj yim lossis nyuaj, tab sis yog ib txoj hauv kev zoo heev rau cov me nyuam kom kawm txog qhov tseem ceeb ntawm dej huv thiab kev pab txhawb rau ib puag ncig huv. Muaj ntau yam kev pab rau hauv online uas pab koj txiav txim siab txog hom vaj tsev nrog dej nag zoo tshaj rau koj lub tsev.  
-- Nyeem cov phau ntawv uas piav txog kev cog nroj tsuag uas pab tuav av kom ruaj, qeeb dej, khaws cov khoom noj hauv av, thiab lim cov tshuaj phem.  
-- Tshawb nrhiav txog cov nroj tsuag uas loj hlob thiab vam meej hauv cov chaw av ntub lossis chaw uas ntub dej raws caij nyoog. Qhov nroj tsuag twg yog cov nroj tsuag uas pab txhawb rau lub vaj tsev nrog dej nag?  
-- Cov tsev qiv ntawv pej xeem thiab cov neeg ua haujlwm hauv tsev qiv ntawv tuaj yeem pab koj nrhiav cov phau ntawv uas zoo tshaj rau koj txoj kev tshawb nrhiav.  
-- Cov kev pab tswv yim:  
-  - **PDF txog Vaj Tsev Nrog Dej Nag Hauv Oregon**: [https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)  
-  - **Cov Lus Qhia Txog Vaj Tsev Nrog Dej Nag Hauv Portland**: [https://www.portlandoregon.gov/bes/article/188636](https://www.portlandoregon.gov/bes/article/188636)  
+---
 
-### Tsim Chaw Rau Cov Tsiaj Amphibians  
-Txoj haujlwm no tuaj yeem ua hauv lub vaj tsev nrog dej nag, lossis yog tias koj muaj chaw txaus, koj tuaj yeem tsim ib lub pas dej me hauv ib qhov chaw ntxoov ntxoo thiab ntub dej hauv vaj tsev uas twb muaj lawm. Kev txhawb cov tsiaj amphibians yog qhov zoo rau vaj tsev vim lawv yog cov tsiaj uas noj ntau yam kab uas tuaj yeem ua phem rau cov nroj tsuag zoo nkauj thiab cov zaub.  
-- Muaj ntau yam kab thiab tsiaj salamanders uas yog tsiaj hauv Oregon. Lawv xav tau ntxoov ntxoo, qhov, qhov txhab, lossis chaw uas muaj ntaub npog, nyob ntawm hom tsiaj. Cov khoom siv xws li ntoo tawg, lub lauj kaub qub, ntoo, pob zeb, moss, thiab cov khoom siv ntuj tsim tau siv tau rau txoj haujlwm.  
-- Cov kev pab tswv yim:  
-  - **Kev Tsim Vaj Tsev Rau Tsiaj Nyeg Hauv Pacific Northwest** los ntawm Russell Link  
-  - **Kev Nyiam Cov Tsiaj Amphibians** los ntawm Lub Koom Haum National Wildlife Federation  
-  - **Kev Nyiam Cov Tsiaj Amphibians thiab Reptiles rau Koj Lub Vaj Tsev**: [https://www.google.com/search?q=why+are+amphibians+beneficial+to+the+garden+in+oregon%3Aedu](https://www.google.com/search?q=why+are+amphibians+beneficial+to+the+garden+in+oregon%3Aedu)  
+## Qee Yam Ua Tau
 
-### Txhawb Kev Muaj Ntau Yam Tsiaj  
-Tsim lub thawv rau vaj tsev rau ntau yam tsiaj hauv zos. Qhov tseem ceeb ntawm cov noog hummingbirds, cov noog uas tsiv teb tsaws chaw, thiab cov nas hauv vaj tsev yog dab tsi? Cov nas mason bees li cas?  
-- Cov me nyuam tuaj yeem tsim cov thawv vaj tsev uas siv tau zoo thiab tsim kev muaj ntau yam tsiaj hauv zos.  
-- **Kev Tshawb Fawb Txog Lub Tsev Noog**: NestWatch, Cornell Lab of Ornithology. Muaj ntau yam ntaub ntawv txog kev tsim tsev noog rau cov tsiaj tshwj xeeb thiab kev tsim tsev rau nas tsuag nyob hauv online lossis hauv tsev qiv ntawv.  
-- Yog tias cov me nyuam xav txog mason bees, **Kev Tshawb Fawb Txog Mason Bees Hauv Western Oregon** los ntawm OSU Extension yuav pab tau: [https://catalog.extension.oregonstate.edu/em9130](https://catalog.extension.oregonstate.edu/em9130).  
-- Cov kev pab tswv yim txog kev cog nroj tsuag uas nyiam cov noog thiab cov kab:  
-  - **Kev Tsim Lub Tsev Noog Rau Cov Noog Nyeg**: [https://catalog.extension.oregonstate.edu/ec1556](https://catalog.extension.oregonstate.edu/ec1556)  
+### Tsim Ib Lub Txaj Zaub Siab
 
-### Ntxiv Kev Nyeem Ntawv  
-Muaj ntau phau ntawv zoo heev uas piav txog vaj tsev thiab kev ua haujlwm uas cov me nyuam nyiam nyeem ua ntej lawv pib thiab thaum lawv ua haujlwm hauv vaj tsev. Nyeem nrov rau lawv mloog yog ib txoj hauv kev uas pab lawv nug lus thiab tuaj yeem ua qhov pib rau kev npaj vaj tsev. Koj lub tsev qiv ntawv hauv zos yuav zoo siab pab koj nrhiav cov ntaub ntawv uas koj thiab koj tus me nyuam yuav nyiam.  
-- **“Up in the Garden and Down in the Dirt”** los ntawm Kate Messner  
-- **“The Ugly Vegetables”** los ntawm Grace Lin  
-- **“In A Garden”** los ntawm Tim McCanna  
-- **“I Am a Farmer”** los ntawm Baptiste thiab Miranda Paul  
-- **“Harlem Grown”** los ntawm Tony Hillery  
-- **“A Green Place to Be”** los ntawm Ashley Yazdani  
-- **“Let’s Build a Rain Garden”** los ntawm Sally Wenczel  
-- **“Rain Gardens: Managing Water Sustainably in The Garden and Designed Landscape”** los ntawm Nigel Dunnett thiab Andy Clayden  
+Npaj thiab tsim ib lub txaj rau cog zaub yog txoj kev zoo rau cov menyuam kawm txog qhov tseem ceeb ntawm kev muaj tshav ntuj txaus, qhov chaw muaj dej, thiab hom av uas tsim nyog rau kev cog zaub. Lawv tseem yuav tsum npaj seb yuav cog dab tsi kom siv tau qhov chaw zoo tshaj, thiab teeb sijhawm cog kom haum.
 
-## Cov Kev Pab Oregon State University  
-- **Cov Lus Qhia Txog Kev Kawm Cog Zaub**: [https://catalog.extension.oregonstate.edu/em9032](https://catalog.extension.oregonstate.edu/em9032)  
-- **Kev Pab Tawm Tswv Yim Los Ntawm Master Gardener™**:  
-  - Hu rau **Home Horticulture Helpline**: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-  - Mus saib rau **10-Minute University™ Handouts thiab Cov Teem Caij Kawm**: [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+- [Vaj Zaub Hauv Oregon](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec871.pdf)
+- [Ua Vaj Txaj Siab](https://catalog.extension.oregonstate.edu/fs270)
 
-Oregon State University Extension Service tsis pub ua kev cais tawm hauv txhua qhov kev pab cuam, kev pab, kev ua haujlwm, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev nthuav qhia poj niam txiv neej), kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, xwm txheej sib yuav, xwm txheej niam txiv, cov nyiaj tau los ntawm kev pab cuam pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, xwm txheej tub rog, kev ua pauj, lossis kev ua pauj rau kev ua haujlwm yav dhau los hauv kev tiv thaiv pej xeem txoj cai. (Tsis yog txhua yam uas raug txwv siv rau txhua qhov kev pab cuam).
+### Tsim Ib Lub Vaj Npua Dej
+
+Qhov dej num no yooj yim los yog nyuaj tau, tab sis yog ib txoj kev zoo rau cov menyuam kawm txog qhov tseem ceeb ntawm dej huv thiab yuav pab li cas rau ib puag ncig huv.
+
+- Nyeem phau ntawv piav txog yuav ua li cas tsob nroj pab tuav av, qeeb dej, khaws cov nutrients, thiab lim cov kab mob thiab tshuaj lom.
+- Tshawb xyuas txog cov nroj tsuag uas loj hlob tau zoo hauv av ntub dej lossis tej chaw uas dej lo ntev. Cov nroj tsuag twg pab tau rau lub vaj npua dej?
+
+Cov chaw pab kawm:
+- [Rain Gardens hauv Oregon (PDF)](https://seagrant.oregonstate.edu/sgpubs/oregon-rain-garden-guide)
+- [City of Portland Cov Lus Qhia Tsim Rain Gardens](https://www.portlandoregon.gov/bes/article/188636)
+
+### Tsim Chaw Nyob Rau Tsiaj Amphibian
+
+Qhov project no ua tau nyob hauv vaj npua dej, los yog yog koj muaj chaw txaus, koj tsim tau ib lub pas dej me nyob hauv qhov chaw ntxoov ntxoo, ntub dej ntawm koj vaj. Ua kom muaj tsiaj amphibian yog qhov zoo rau vaj, vim tsiaj amphibian noj ntau yam kab uas ua phem rau paj ntoo thiab zaub.
+
+Muaj ntau hom qe thiab salamander yog tsiaj qus hauv Oregon. Lawv xav tau ntxoov ntxoo, qhov taub, qhov tsua, lossis qhov chaw npog raws hom tsiaj. Koj siv tau tej twb ntoo, lauj kaub laus, ntoo, pob zeb, moss, thiab lwm yam khoom ntuj.
+
+Cov chaw pab kawm:
+- *Landscaping for Wildlife in the Pacific Northwest* los ntawm Russell Link
+- *Attracting Amphibians* los ntawm National Wildlife Federation
+- [Coax Reptiles thiab Amphibians los rau Koj Vaj](https://www.google.com/search?q=why+are+amphibians+beneficial+to+the+garden+in+oregon%3Aedu)
+
+### Txhawb Kev Ntau Yam Tsiaj
+
+Tsim lub thawv/chaw nyob rau ntau hom tsiaj hauv zos. Tshawb txog qhov tseem ceeb ntawm hummingbirds, noog ya mus deb, kab npis, thiab mason bees hauv vaj.
+
+Cov menyuam tuaj yeem tsim tau lub thawv/chaw nyob kom zoo siv tau rau ntau hom tsiaj kom muaj chaw nyob ntau dua. Cov chaw xws li “All About Birdhouses” los ntawm NestWatch (Cornell Lab of Ornithology) yuav pab tau. Kuj tseem muaj ntau yam ntaub ntawv online lossis hauv koj lub tsev qiv ntawv txog tsev noog rau hom noog tshwj xeeb, thiab kev tsim tsev kab npis.
+
+Yog cov menyuam nyiam mason bees, phau ntawv [Nurturing Mason Bees in Western Oregon](https://catalog.extension.oregonstate.edu/em9130) los ntawm OSU Extension yuav pab tau. Kev tshawb nrhiav no yuav coj mus rau kev xav txog cov nroj tsuag uas nyiam cov kab pab txhawb cog nroj.
+
+Cov chaw pab kawm:
+- [Tsim Tsev Rau Noog Qus](https://catalog.extension.oregonstate.edu/ec1556)
+
+---
+
+## Ntxiv Kev Nyeem Ntawv
+
+Muaj ntau phau ntawv duab thiab phau ntawv qhia ua vaj uas cov menyuam yuav nyiam nyeem ua ntej pib thiab thaum lawv ua vaj. Nyeem rau lawv mloog pab lawv nug lus thiab ua rau lawv muaj tswv yim npaj kev ua vaj. Koj tus librarian yuav pab tau koj nrhiav cov ntawv uas koj thiab koj tus menyuam yuav nyiam.
+
+### Cov Phau Ntawv Pom Zoo
+
+- *Up in the Garden and Down in the Dirt* los ntawm Kate Messner
+- *The Ugly Vegetables* los ntawm Grace Lin
+- *In A Garden* los ntawm Tim McCanna
+- *I Am a Farmer* los ntawm Baptiste thiab Miranda Paul
+- *Harlem Grown* los ntawm Tony Hillery
+- *A Green Place to Be* los ntawm Ashley Yazdani
+- *Let’s Build a Rain Garden* los ntawm Sally Wenczel
+- *Rain Gardens: Managing Water Sustainably in The Garden and Designed Landscape* los ntawm Nigel Dunnett thiab Andy Clayden
+
+---
+
+## Oregon State University Cov Chaw Pab
+
+- [Phau Ntawv Qhia Rau Cov Xibfwb Ua Vaj Zaub](https://catalog.extension.oregonstate.edu/em9032)
+
+---
+
+#### Master Gardener™ Cov Lus Qhia · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau 10-Minute University™ cov ntawv qhia thiab sijhawm kawm, mus saib [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service txwv tsis pub ua kev xaiv ncua hauv nws txhua yam haujlwm, kev pab, kev ua, thiab ntaub ntawv vim yog haiv neeg, xim tawv nqaij, teb chaws yug, kev ntseeg, poj niam txiv neej, cim xeeb poj niam txiv neej (nrog rau kev qhia txog poj niam txiv neej), kev sib deev, kev xiam oob khab, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj tau los los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug rau txim los yog raug pauj vim yav dhau los koom tes nrog kev tiv thaiv tej cai. (Tsis yog txhua yam txwv no siv rau txhua yam haujlwm.)
+---

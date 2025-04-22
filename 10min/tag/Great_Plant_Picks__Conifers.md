@@ -1,81 +1,57 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Mahuhusay na Halaman: Mga Koniper  
-S: Hardin sa Lilim, D: Halamang Matibay sa Tagtuyot, Wildlife – Ibon, Bubuyog, Paru-paro, Kolibri  
+# 10-Minute University
 
-### Pangalan S/D/W 10 Taon Paglaki Araw/Lilim Mga Natatanging Katangian  
-#### Weeping Alaskan Yellow Cedar  
-**Callitropsis nootkatensis ‘Green Arrow’**  
-15’ x 3’ 35’ x 5’ Buong araw, liwanag hanggang bukas na lilim  
-Isang makitid na evergreen na katutubo sa Pacific NW. Bumubuo ito ng tanda ng pananabik sa hardin. Mahusay para sa mga maliit na hardin o masikip na espasyo.  
+## Mga Mahuhusay na Halaman: Mga Konipero
 
-#### Weeping Alaskan Yellow Cedar  
-**Callitropsis nootkatensis ‘Pendula’**  
-18’ x 8’ 35’ x 12’ Buong araw, liwanag hanggang bukas na lilim  
-Isa sa pinakamagandang weeping conifers, nagbibigay ng elegante at magarang accent sa tanawin. Matibay sa tagtuyot matapos maitanim.  
+*S: Halaman para sa Lilim, D: Matibay sa Tagtuyot, Wildlife - Ibon, Bubuyog, Paruparo, Hummingbird*
 
-#### Narrow Alaskan Yellow Cedar  
-**Callitropsis nootkatensis ‘Van den Akker’**  
-15’ x 3’ 35’ x 5’ Buong araw, liwanag hanggang bukas na lilim  
-Ang haligi nitong parang tore ay lubos na kapaki-pakinabang para sa mga maliit na hardin o masikip na espasyo. Nagdadagdag ng taas nang hindi lumalapad.  
-
-#### Incense Cedar  
-**Calocedrus decurrens**  
-18’ x 5’ 40’ x 12’ Buong araw  
-Matibay, madaling palaguing koniper na katutubo sa SW at Central OR. Ang tuwid nitong porma ay gumaganda habang tumatanda. Ang dahon ay may amoy ng sedro kapag mainit ang panahon.  
-
-#### Divinely Blue Deodar Cedar  
-**Cedrus deodara ‘Divinely Blue’**  
-4’ x 6’ 5’ x 8’ Buong araw  
-Isang semi-dwarf evergreen conifer na may kulay asul-berde hanggang pulbos na asul na dahon, pinakamahusay ito sa buong araw ngunit maaaring tiisin ang kaunting lilim.  
-
-#### Hinoki Cypress  
-**Chamaecyparis obtusa ‘Gracilis’**  
-S 15’ x 6’ 25’ x 10’ Buong araw, liwanag hanggang dappled lilim  
-Isang elegante at maganda malaking columnar shrub hanggang maliit na evergreen tree, ang payat na Hinoki cypress ay mahusay na pagpipilian para sa mga maliit na hardin.  
-
-#### Dwarf Hinoki Cypress  
-**Chamaecyparis obtusa ‘Kosteri’**  
-S 4’ x 5’ 8’ x 6’ Buong araw, liwanag hanggang dappled lilim  
-Mabagal ang paglaki at maluwag na pyramidal sa anyo, na may makintab, madilim na berdeng dahon na umiikot, lumilikha ng marangyang tekstura.  
-
-#### Dwarf Hinoki Cypress  
-**Chamaecyparis obtusa ‘Nana’**  
-S 1’ x 2’ 2’ x 3’ Buong araw, liwanag hanggang dappled lilim  
-Isang napakabagal lumaking cultivar. Ang madilim na berdeng sanga nito ay mahigpit na umiikot at nagiging patag sa maliliit na magkakapatong na fans, bumubuo ng parang maliit na berdeng tasa.  
-
-#### Dwarf Hinoki Cypress  
-**Chamaecyparis obtusa ‘Nana Gracilis’**  
-S 3’ x 2’ 6’ x 4’ Buong araw, liwanag hanggang dappled lilim  
-Isang mabagal lumaking koniper na nagiging maganda, madilim na berdeng makitid na pyramid sa loob ng maraming taon. Ang makintab na dahon ay lumalaki sa mahigpit na magkakapatong na fans na lumilikha ng layered na tasa na parang vase.  
-
-#### Dwarf Hinoki Cypress  
-**Chamaecyparis obtusa ‘Spiralis’**  
-5’ x 3’ 8’ x 6’ Buong araw, liwanag hanggang bukas na lilim  
-Mahusay na pagpipilian bilang maliit na solong specimen o bilang halaman sa lalagyan.  
-
-#### Dwarf Golden Threadleaf Cypress  
-**Chamaecyparis obtusa ‘Golden Mop’**  
-S, D 4’ x 4’ 8’ x 7’ Buong araw, liwanag hanggang bukas na lilim  
-Ang hardy evergreen conifer na ito ay bumubuo ng maselang, ginintuang lacey mound sa hardin. Ang bagong tumubo ay lumilitaw na maliwanag na ginintuang dilaw at pinapanatili ang kulay sa buong panahon ng paglaki.  
-
-#### Japanese Cedar  
-**Cryptomeria japonica ‘Black Dragon’**  
-6’ x 4’ 10’ x 8’ Buong araw, liwanag, bukas, dappled lilim  
-Ang napakadilim na dahon ng koniper na ito ay madaling palaguin at mahusay na ihalo sa mga halamang may mas malalaki o variegated na dahon.  
-
-*(Ang iba pang mga halaman ay isasalin sa parehong format na may parehong antas ng detalye.)*  
-
----
-
-## Tungkol sa Great Plant Picks  
-Ang Great Plant Picks (GPP) ay ang pangunahing pang-edukasyong programa ng Elisabeth C. Miller Botanical Garden. Noong 2001, ang unang listahan ay inilabas na may mga rekomendasyon para sa pagbubuo ng isang komprehensibong koleksyon ng mahuhusay na halaman para sa maritime Pacific Northwest. Sa ngayon, mahigit 1,000 natatanging halaman ang napili para sa mga hardinero na nakatira sa kanluran ng Cascade Mountains mula Eugene, Oregon, USA hanggang Vancouver, British Columbia, Canada.  
-
-### Pamantayan ng Pagpili  
-Ang mga GPP na halaman na napili para sa listahang ito ay nakakatugon sa mga sumusunod na pamantayan: maaaring mabuhay sa iba't ibang uri ng lupa, nangangailangan ng katamtaman o mas kaunting pandagdag na tubig, matatag sa init, matibay sa USDA zone 7, hindi madaling kapitan ng sakit/peste, at nagbibigay ng higit sa 1-panahon ng interes sa hardin. Marami ring GPP na halaman ang nag-aalok ng ekolohikal na benepisyo (pollinators, pagkain ng ibon, tirahan para sa wildlife, atbp.).  
-
----
-
-## Pagtanggi  
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, marital status, familial/parental status, kita mula sa programa ng pampublikong tulong, paniniwalang politikal, impormasyon ng genetiko, katayuan ng beterano, paghihiganti o pag-ganti para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+| Pangalan | S/D/W | Laki sa 10 taon | Laki sa Kaganapan | Araw/Lilim | Natatanging Katangian |
+|---|---|---|---|---|---|
+| Weeping Alaskan Yellow Cedar Callitropsis nootkatensis 'Green Arrow' |  | 15' x 3' | 35' x 5' | Buong araw, bahagyang hanggang bukas na lilim | Isang makitid na evergreen na likas sa Pacific NW. Para itong tandang pananabik sa hardin. Mahusay para sa maliliit na hardin o masisikip na espasyo. |
+| Weeping Alaskan Yellow Cedar Callitropsis nootkatensis 'Pendula' |  | 18' x 8' | 35' x 12' | Buong araw, bahagyang hanggang bukas na lilim | Isa sa pinakamagandang weeping conifer, nagbibigay ng eleganteng anyo sa tanawin. Matibay sa tagtuyot kapag naitaguyod na. |
+| Narrow Alaskan Yellow Cedar Callitropsis nootkatensis 'Van den Akker' |  | 15' x 3' | 35' x 5' | Buong araw, bahagyang hanggang bukas na lilim | Ang haliging anyo nito ay napaka-kapaki-pakinabang para sa maliliit na hardin o makikitid na espasyo. Nagbibigay taas nang hindi lumalapad. |
+| Incense cedar Calocedrus decurrens |  | 18' x 5' | 40' x 12' | Buong araw | Matibay at madaling palaguin na conifer na likas sa SW at Central OR. Ang tuwid at marangal na anyo nito ay gumaganda habang tumatanda. Ang dahon ay may amoy sedro kapag mainit ang panahon. |
+| Devinely Blue Deodar Cedar Cedrus deodara 'Divinely Blue' |  | 4' x 6' | 5' x 8' | Buong araw | Isang semi-dwarf na evergreen conifer na may asul-berdeng hanggang pulbos na asul na dahon, pinakamaganda sa buong araw ngunit tumatanggap din ng bahagyang lilim. |
+| Hinoki Cypress Chamaecyparis obtusa 'Gracilis' | S | 15' x 6' | 25' x 10' | Buong araw, bahagyang hanggang daplis na lilim | Isang elegante at magandang malaking palumpong hanggang maliit na punong evergreen, mahusay para sa maliliit na hardin. |
+| Dwarf Hinoki Cypress Chamaecyparis obtusa 'Kosteri' | S | 4' x 5' | 8' x 6' | Buong araw, bahagyang hanggang daplis na lilim | Mabagal tumubo at may maluwag na hugis piramide, may makinang at madilim na berdeng dahon na nagkukulot, nagbibigay ng kakaibang tekstura. |
+| Dwarf Hinoki Cypress Chamaecyparis obtusa 'Nana' | S | 1' x 2' | 2' x 3' | Buong araw, bahagyang hanggang daplis na lilim | Napakabagal lumaki. Ang madilim na berdeng sanga ay mahigpit na nagkukulot at bumubuo ng maliliit na tagaytay na parang tasa. |
+| Dwarf Hinoki Cypress Chamaecyparis obtusa 'Nana Gracilis' | S | 3' x 2' | 6' x 4' | Buong araw, bahagyang hanggang daplis na lilim | Mabagal tumubo, nagiging magandang madilim na berdeng makitid na piramide paglipas ng maraming taon. Ang makinang na dahon ay lumalaki sa siksik na magkakapatong na tagaytay na parang tasa. |
+| Dwarf Hinoki Cypress Chamaecyparis obtusa 'Spiralis' |  | 5' x 3' | 8' x 6' | Buong araw, bahagyang hanggang bukas na lilim | Mahusay na pagpipilian para sa maliit na isahang tanim o bilang halaman sa paso. |
+| Dwarf Golden Threadleaf Cypress Chamaecyparis obtusa 'Golden Mop' | S, D | 4' x 4' | 8' x 7' | Buong araw, bahagyang hanggang bukas na lilim | Matibay na evergreen na conifer na bumubuo ng maselang, gintong lacey na bunton sa hardin. Ang bagong tubo ay matingkad na dilaw at nananatili ang kulay sa buong panahon ng paglago. |
+| Japanese Cedar Cryptomeria japonica 'Black Dragon' |  | 6' x 4' | 10' x 8' | Buong araw, bahagyang, bukas, daplis na lilim | Madaling palaguin at mahusay isama sa mga halamang may malalaki o may guhit na dahon. Napakaitim ng dahon nito. |
+| Plumose Rose Japanese Cedar Cryptomeria japonica Elegans Group |  | 15' x 5' | 30' x 10' | Buong araw, bahagyang, bukas, daplis na lilim | Ang dahon ay parang karayom at malambot. Berde tuwing tag-init at nagiging mahogany-plum tuwing taglagas at taglamig. |
+| Golden Japanese Cedar Cryptomeria japonica 'Sekkan-sugi' |  | 10' x 6' | 30' x 18' | Buong araw, bahagyang, bukas, daplis na lilim | Ang dulo ng dahon ay kulay krema-dilaw, pinaka-matingkad kapag bagong tubo tuwing tagsibol at maagang tag-init. Namumukod-tangi sa tanawin dahil sa matinding kulay. |
+| Granny's Ringlets Cryptomeria japonica 'Spiralis' |  | 4' x 6' | 15' x 8' | Buong araw, bahagyang lilim | Matingkad na berdeng parang balat ng Granny Smith apple, mabagal tumubo at semi-dwarf. |
+| Dwarf Japanese Cedar Cryptomeria japonica 'Tansu' |  | 3' x 3' | 4' x 4' | Buong araw, bahagyang hanggang daplis na lilim | Dwarf at compact na Japanese cedar na may kakaibang maikling, palumpong na tubo, bumubuo ng di-regular na hugis piramide. |
+| Vilmoriniana Dwarf Japanese Maple Cryptomeria japonica 'Vilmoriniana' |  | 2' x 2' | 3' x 3' | Buong araw, bahagyang lilim | Kaakit-akit na dwarf na anyo ng Japanese cedar, may maikli at siksik na mga sanga na bumubuo ng maliit at bilugang anyo. |
+| Yoshino Japanese Cedar Cryptomeria japonica 'Yoshino' |  | 20' x 10' | 35' x 20' | Buong araw, bahagyang lilim | Matingkad na berdeng hanggang asul-berdeng dahon na maganda tingnan buong taon. |
+| Hollywood Juniper Juniperis chinensis 'Kaizuka' |  | 12' x 8' | 15' x 12' | Buong araw | Kaakit-akit na pataas na umiikot na tubo, malapad, siksik, at di-regular na paglago. Nagbubunga ng berries at asul-berdeng cones. |
+| Dawn Redwood Metasequoia glyptostroboides |  | 30' x 12" | 70' x 25' | Buong araw | Nangangailangan ng malawak na espasyo at napakaganda bilang specimen o tanim sa grupo. Ang mga sanga ay parang pako, matingkad na berde sa tagsibol at nagiging kulay kalawang sa taglagas. |
+| Siberian Cypress Microbiota decussata |  | 1.5' x 5' | 2' x 8' | Buong araw, daplis na lilim | Maselang, lacey na dahon na nakalagay sa magagandang patong. Ang dulo ng bawat sanga ay bahagyang nakayuko, nagbibigay ng kakaibang ganda. Berde tuwing panahon ng paglago, at nagiging kulay ube-kayumanggi kapag malamig na. |
+| Serbian Spruce Picea omorika | W | 15' x 5' | 30' x 10' | Buong araw | Isa sa pinakamagandang evergreen para sa urban landscape, may makitid na haligi na may nakayukong mga sanga sa gilid. Lumalaban sa peste at sakit. |
+| Weeping Serbian Spruce Picea omorika 'Pendula Bruns' |  | 8' x 2' | 30' x 6' | Buong araw | Kamangha-manghang focal point specimen. Ang karayom ay asul-berde sa ibabaw at pilak-puti sa ilalim. |
+| Caucasian Spruce Picea orientalis | W | 15' x 7' | 40' x 15' | Buong araw | Maikli at makinang na madilim na berdeng karayom. Nanatiling matingkad ang kulay kahit taglamig. |
+| Golden Caucasian Spruce Picea orientalis 'Aureospicata' | W | 15' x 7' | 40' x 15' | Buong araw | Matikas na evergreen na may maikli, madilim na berdeng karayom sa matitigas na sanga. Sumisibol ng matingkad na chartreuse na bagong tubo tuwing tagsibol. Napakaganda ng pagkakaiba ng lumang at bagong tubo! |
+| Golden Caucasian Spruce Picea orientalis 'Skylands' | W | 15' x 7' | 40' x 15' | Buong araw, bahagyang lilim | Tuwid na piramidal na puno na may ginintuang bagong tubo tuwing tagsibol. |
+| Shore Pine Pinus contorta var. contorta | W | 15' x 12' | 35' x 25' | Buong araw | Tumutubo halos saan mang lugar basta may sapat na sikat ng araw. Isa sa ilang conifer na tumatanggap ng basang lupa basta hindi laging lubog sa tubig buong taon. |
+| Bosnian Pine Pinus heldreichii | D, W | 15' x 7' | 25' x 12' | Buong araw | Mabagal tumubo, matibay at maaaring tumubo kahit sa mahihirap na lupa at mainit na araw. |
+| Compact Japanese Black Pine Pinus thunbergii 'Thunderhead' | W | 8' x 8' | 12' x 15' | Buong araw | Magandang di-regular na hugis, madilim na berdeng karayom, matibay sa tagtuyot at mas compact ang anyo. |
+| Blue Mountain Plum Pine Podocarpus lawrencei 'Blue Gem' | W | 4' x 8' | 6' x 12' | Buong araw, bahagyang hanggang bukas na lilim | Ang bagong tubo tuwing tagsibol ay matingkad na asul-berde na lalong tumitindi ang kulay sa tag-init. Isa sa pinaka-matibay sa Podocarpus at sa pinakamahusay na asul na dahon para sa PNW. |
+| Podocarpus lawrencei 'Purple King' |  | 7' x 7' | 12' x 15' | Buong araw, bahagyang hanggang bukas na lilim | Ang bagong tubo tuwing tagsibol ay maputlang pink-abo-berde, nagiging siksik at malalim na olibong berdeng mga sanga. Mahusay na background para sa mga halamang may guhit at ginintuang dahon. Maaari ring putulin at hubugin bilang bakod. |
+| Red Tip Mountain Plum Pine Podocarpus lawrencei 'Red Tip' | W | 3' x 4' | 4' x 6' | Buong araw, bahagyang hanggang bukas na lilim | Magandang dahon buong taon na may pulang bagong tubo tuwing tagsibol na namumukod-tangi laban sa madilim na berdeng lumang sanga. Sa taglamig, ang pulang kulay ng dahon ay nagbibigay ng karagdagang ganda sa hardin. |
+| Alpine Tortara Podocarpus nivalis |  | 3' x 6' | 4' x 8' | Buong araw, bahagyang hanggang daplis na lilim | Isang madaling palaguing evergreen shrub na nabubuhay sa maraming uri ng lupa. Tumatanggap ng init at madaling putulin. |
+| Weeping Douglas Fir Pseudotsuga menziesii 'Graceful Grace' | W | 15' x 4' | 30' x 12' | Buong araw | Ang kakaibang weeping na tubo ng native na koniper na ito ay nararapat sa espesyal na lugar sa hardin upang maipakita ang kakaibang anyo nito. |
+| Bald Cypress Taxodium distichum |  | 20' x 12" | 60' x 35' | Buong araw | Tumatanggap ng basang kondisyon at nalalaglag ang mga dahon sa taglagas upang ipakita ang magandang balat ng puno. |
+| Pond Cypress Taxodium var. imbricatum 'Nutans' |  | 15' x 5' | 30' x 10' | Buong araw | Balahibong, matingkad na berdeng dahon na namumukod-tangi sa hardin at maganda ring tanim sa paso. |
+| Irish Yew Taxus baccata 'Fastigiata' |  | 7' x 1.5' | 15' x 3' | Buong araw, bahagyang o bukas na lilim | Kapaki-pakinabang sa araw o lilim. Madalas gamitin bilang bakod dahil madaling hubugin. |
+| Spreading English Yew Taxus baccata 'Repandens' |  | 2' x 5' | 3' x 8' | Buong araw, bahagyang o bukas na lilim | Mababa ang tubo, may mga sanga na yumuyuko sa dulo. Ang ganitong anyo ay akma bilang groundcover ng katamtamang laki. |
+| Columnar Golden Yew Taxus baccata 'Standishii' |  | 5' x 1.5' | 12' x 2' | Buong araw | Mahusay, mabagal tumubo na evergreen na nagbibigay ng magandang patayong akento na hindi nangangailangan ng maraming pag-aalaga. |
+| Compact Columnar Arborvitae Thuja occidentalis 'Degroot's Spire' |  | 8' x 1.5' | 15' x 3' | Buong araw | Sikat dahil sa makitid at patayong anyo, may siksik na berdeng dahon na minsan ay paikot-ikot at patong-patong. Madalas gamitin bilang bakod, screen, o isahang tanim. |
+| Emerald Green Cedar Thuja occidentalis 'Smaragd' |  | 12' x 3' | 18' x 4' | Buong araw | Sikat dahil nananatiling matingkad na berde buong taon at may magandang ayos ng mga sanga. Ang Emerald cedar ay natural na siksik lumaki. |
+| Western Red Cedar Thuja plicata | S | 25' x 8' | 100' x 30' | Buong araw, bahagyang hanggang malalim na lilim | Mahalagang bahagi ng kagubatan ng Pacific Northwest, napakagandang koniper para sa malalaking espasyo o hardin. |
+| Variegated Western Red Cedar Thuja plicata 'Zebrina' |  | 20' x 12' | 60' x 30' | Buong araw, bahagyang o bukas na lilim | Variegated na Western Red Cedar na may berde at krema-gintong dahon. Pagkatapos maitaguyod, diligan kada 10 hanggang 14 araw kapag tagtuyot. |
+| Hiba Cedar Thujopsis dolabrata | S | 15' x 6' | 30' x 20' | Buong araw, bahagyang o bukas na lilim | Katulad ng Western Red Cedar natin, ngunit mas makapal at makinang ang dahon, madilim na berde sa ibabaw, may puting guhit sa ilalim. |
+| Dwarf Hiba Cedar Thujopsis dolabrata 'Nana' |  | 3' x 4' | 6' x 8' | Buong araw, bahagyang o bukas na lilim | Compact, mabagal tumubo na evergreen conifer na may kakaibang makapal, parang sungay na dahon. |
+| Prostrate Canadian Hemlock Tsuga canadensis 'Cole's Prostrate' |  | 2' x 4' | 2.5' x 6' | Bahagyang hanggang bukas na lilim | Dwarf, gumagapang na conifer na akma sa maliit na hardin, rock garden, o alpine garden, lalo na para magbigay ng evergreen na epekto. |
+| Dwarf Canadian Hemlock Tsuga canadensis "Jervis' | S | 3' x 2' | 5' x 3' |

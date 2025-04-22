@@ -1,57 +1,82 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Machen Sie Ihren Garten klimaresistenter: Ökosystem  
+## Machen Sie Ihren Garten klimaresistenter: Ökosystem
 
-Die Erde durchläuft eine Erwärmungsphase, die zum Schmelzen von Gletschern, steigenden Meeresspiegeln, zunehmender Versauerung der Ozeane sowie häufigeren und intensiveren Dürren und Überschwemmungen führt. Der pazifische Nordwesten hat verlängerte Dürren, zunehmende Häufigkeit und Intensität von Waldbränden, Hitzewellen, Insektenausbrüche und Baumkrankheiten erlebt. Weniger Schneefall führt zu früheren Spitzenflüssen in Flüssen und Bächen und verringert die Wasserversorgung. Zusätzlich zu diesen Trends bringt der Klimawandel unvorhersehbare und extreme Wetterereignisse (Hitzewellen, Starkregen) in größerer Häufigkeit.  
-[Weitere Informationen](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
+Die Erde erlebt eine Erwärmung, die zum Schmelzen der Gletscher, zum Anstieg des Meeresspiegels, zur zunehmenden Versauerung der Ozeane und zu häufigeren sowie heftigeren Dürren und Überschwemmungen führt. Im pazifischen Nordwesten gab es lang anhaltende Dürren, zunehmende Häufigkeit und Schwere von Waldbränden, Hitzewellen, Insektenausbrüchen und Baumkrankheiten. Weniger Schneefall führt zu früheren Höchstständen in Flüssen und Bächen und verringert die Wasserversorgung. Zusätzlich zu diesen Trends bringt der Klimawandel häufiger unberechenbare extreme Wetterereignisse (Hitzewellen, Starkregen).  
+[Mehr erfahren](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
 
-Wie können wir in diesen Zeiten gärtnern? Dieses Handout bietet Ideen, um die Widerstandsfähigkeit im Garten zu stärken.
+Wie können wir in diesen Zeiten gärtnern? Dieses Infoblatt bietet Ideen, wie Sie die Widerstandsfähigkeit Ihres Gartens stärken können.
 
-## Was wir wissen  
+---
 
-- Es gibt schätzungsweise 5 Millionen Arten auf der Erde, von denen nur 1,5 Millionen identifiziert wurden.  
-- Der Klimawandel hat und verursacht weiterhin Artensterben und Lebensraumzerstörung.  
-- Die Erwärmung hat die Phänologie (saisonale natürliche Phänomene, wie das Wachstum oder Blühen von Pflanzen) verändert und betrifft verschiedene Arten unterschiedlich. Dies führt dazu, dass Arten, die voneinander abhängig sind, aus dem Gleichgewicht geraten.  
-- Viele Arten reagieren auf die Erwärmung, indem sie nach Norden oder in höhere Lagen wandern und früher aus der Ruhe-/Winterstarre erwachen. Diese Massenmigration erhöht die Wahrscheinlichkeit neuer invasiver Arten.  
-- Biodiversität kann anhand der Vielfalt der Lebensräume (Ökosystemvielfalt), der Anzahl und Vielfalt der Arten (Artenvielfalt) und der Vielfalt der Gene (genetische Vielfalt) gemessen werden.  
-- Lebensräume bieten Raum, Nahrung, Wasser und Schutz für Tiere oder Pflanzen. Ökosysteme beziehen sich auf den Lebensraum, die Organismen und deren Interaktionen. Beispiele für Ökosysteme sind Wald, Grasland, Wüste und Feuchtgebiete. Das wärmere Klima beeinflusst Ökosysteme und Lebensräume.  
-- Es gibt 12 Level-I-Ökoregionen (ein Gebiet, in dem Ökosysteme im Allgemeinen ähnlich sind) in den USA. [Finden Sie Ihre Ökoregion hier](https://www.epa.gov/eco-research/ecoregions).  
-- Schlüsselarten haben großen Einfluss auf das Ökosystem und wirken sich auf viele andere Arten aus. Beispiele sind Biber für Fluss- oder Feuchtgebietsökosysteme und Oregon-Weißeiche für Eichen-Savannen-Ökosysteme.  
-- Menschen sind auf natürliche Prozesse angewiesen, die von anderen Arten durchgeführt werden, um Wasser und Luft zu reinigen, Abfall zu zersetzen und Nährstoffe zu recyceln, die das Ökosystem gesund halten. Der Verlust von Arten beeinträchtigt diese natürlichen Prozesse. Wir wissen nicht, wie viel Verlust unser Ökosystem ertragen kann, während es weiterhin wesentliche Dienste bietet.  
+## Was wir wissen
 
-## Mögliche Klimamaßnahmen  
+- Es gibt schätzungsweise 5 Millionen Arten auf der Erde; nur 1,5 Millionen wurden identifiziert.
+- Der Klimawandel verursacht weiterhin das Aussterben von Arten und die Zerstörung von Lebensräumen.
+- Die Erwärmung hat die Phänologie (jahreszeitliche Naturerscheinungen, wie das Wachstum oder Blühen von Pflanzen) verändert und wirkt sich auf verschiedene Arten unterschiedlich schnell aus. Dadurch geraten Arten, die voneinander abhängig sind, aus dem Gleichgewicht.
+- Viele Arten reagieren auf die Erwärmung, indem sie nach Norden oder in höhere Lagen wandern und früher aus der Winterruhe erwachen. Diese Massenwanderungen erhöhen die Wahrscheinlichkeit neuer invasiver Arten.
+- Die Biodiversität kann anhand der Vielfalt der Lebensräume (Ökosystemvielfalt), der Anzahl und Vielfalt der Arten (Artenvielfalt) und der genetischen Vielfalt gemessen werden.
+- Lebensräume bieten Raum, Nahrung, Wasser und Schutz für Tiere und Pflanzen. Ein Ökosystem umfasst den Lebensraum, die Organismen und deren Zusammenspiel. Beispiele für Ökosysteme sind Wälder, Grasländer, Wüsten und Feuchtgebiete. Das wärmere Klima beeinflusst Ökosysteme und Lebensräume.
+- In den USA gibt es 12 Ecoregions der Stufe I (Gebiete mit ähnlichen Ökosystemen). [Finden Sie Ihre Ecoregion hier](https://www.epa.gov/eco-research/ecoregions).
+- Schlüsselarten haben großen Einfluss auf das Ökosystem und wirken sich auf viele andere Arten aus. Beispiele sind Biber für Fluss- oder Feuchtgebietsökosysteme und die Oregon-Eiche für Eichen-Savannen.
+- Menschen sind auf natürliche Prozesse angewiesen, die von anderen Arten ausgeführt werden, um Wasser und Luft zu reinigen, Abfälle abzubauen und Nährstoffe zu recyceln, damit das Ökosystem gesund bleibt. Der Verlust von Arten beeinträchtigt diese natürlichen Prozesse. Wir wissen nicht, wie viel Verlust unser Ökosystem ertragen kann und trotzdem lebensnotwendige Dienste leistet.
 
-- Pflanzen Sie Schlüsselarten, um ein vielfältiges Gartenleben zu fördern und zu unterstützen.  
-- Fügen Sie Redundanz in den Gartenlebensräumen hinzu, um mögliche klimabedingte Ausfälle abzufedern.  
-- Schaffen Sie neue Lebensräume für kleine Kreaturen, deren Bedürfnisse in einem Garten erfüllt werden können.  
-- Wählen Sie Pflanzen sorgfältig aus und informieren Sie sich über invasive Arten.  
-- Wiederverwilderung (Rückgabe des Landes an die Natur mit wenig oder keiner menschlichen Intervention) wird oft mit der Wiedereinführung von Schlüsselarten kombiniert.  
+---
 
-## Maßnahmen  
+## Mögliche Maßnahmen zur Klimaanpassung
 
-- **Schlüsselarten in Ihren Garten integrieren**  
-  Diese haben erheblichen Einfluss auf viele andere Arten. Um Kandidaten für Ihre Ökoregion zu überprüfen, besuchen Sie [National Wildlife Federation](https://www.nwf.org/Garden-for-Wildlife/About/Native-Plants/keystone-plants-by-ecoregion). Diese Listen basieren auf der Arbeit von Dr. Doug Tallamy und dem Gärtner Jarrod Fowler und wurden von der National Wildlife Federation zusammengestellt. Die Listen zeigen Pflanzen auf Gattungsebene mit einigen Beispielen für häufige Arten.  
-  Um heimische Arten in Ihrer Region zu finden, verwenden Sie staatliche Ressourcen wie [Oregon Flora](https://oregonflora.org/), [Calflora](https://www.calflora.org/) und [Washington Flora Checklist](https://burkeherbarium.org/waflora/checklist.php?Category=Endemic).  
+- Pflanzen Sie Schlüsselarten, um vielfältiges Leben im Garten anzuziehen und zu unterstützen.
+- Schaffen Sie Redundanz in den Lebensräumen des Gartens, um auf klimabedingte Ausfälle vorbereitet zu sein.
+- Erstellen Sie neue Lebensräume für kleine Tiere, deren Bedürfnisse im Garten gedeckt werden können.
+- Wählen Sie Pflanzen sorgfältig aus und informieren Sie sich über invasive Arten.
+- Wiederverwilderung (die Natur sich selbst überlassen, mit wenig oder keinem menschlichen Eingriff) wird oft mit der Wiedereinführung von Schlüsselarten kombiniert.
 
-- **Neue Lebensräume schaffen**  
-  Einige Kreaturen könnten mit Ihrem Garten kompatibel sein. Beispiele:  
-  - **Bodenbrütende Bienen**: Diese machen 70 % der einheimischen Bienen aus und benötigen kleine, ungestörte Bereiche zum Nisten. Beginnen Sie mit einem 2 x 2 Fuß großen Bereich ohne Mulch (diese Bienen sind zu schwach, um durch Mulch zu graben), der in der Nähe von blühenden Pflanzen liegt und Sonne bis Halbschatten erhält. Lassen Sie den Boden unberührt und bewässern Sie nicht.  
-  - **Königinnen von Hummeln** überwintern unterirdisch in verlassenen Mausnestern oder unter Laub. Lassen Sie ungestörte Bereiche unter Bäumen und Sträuchern, um Schutz zu bieten.  
-  - **Pazifische Chorfrösche** profitieren von einfachen, saisonalen Teichen. Diese [Extension-Artikel](https://extension.oregonstate.edu/news/how-build-simple-pond-native-frogs) bietet Anleitungen und Links zu weiteren Ressourcen.  
-  - **Käferbank**: Eine erhöhte Fläche, die mit Bündelgräsern und anderen Gräsern bepflanzt ist, um Lebensraum für nützliche Insekten und andere Lebewesen zu bieten. Einige Prinzipien können für Hausgärten angepasst werden. [Mehr Informationen](http://oregonipm.ippc.orst.edu/Agroecology/NEW_BEETLE_BANK_1.pdf).  
-  - **Pfützenstation**: Platzieren Sie in der Nähe von Schmetterlings-Wirtspflanzen und Nektarquellen eine Station, die Wasser und Mineralien für Schmetterlinge bereitstellt, besonders wichtig während heißer und trockener Perioden. [Mehr erfahren](https://www.nwf.org/-/media/Documents/PDFs/Garden-for-Wildlife/Tip-Sheets/Water-Butterfly-Gardens).  
+---
 
-- **Vielfalt und Redundanz für wichtige Funktionen im Gartensystem pflanzen**  
-  Für die Ernährung von Bestäubern beginnen Sie mit mindestens 3 blühenden Pflanzen für jede der Jahreszeiten Frühling, Sommer und Herbst, um eine lange Saison als Nahrungsquelle zu gewährleisten. Fügen Sie dann weitere Blütenvielfalt hinzu, um einige Ausfälle durch extreme Hitze oder späten Frühling zu kompensieren und dennoch genug für Bienen bereitzustellen.  
+## Was zu tun ist
 
-- **Keine invasiven Arten anbauen**  
-  Invasive Pflanzen entkommen aus der Gartenkultur, um natürliche Gebiete zu besiedeln und einheimische Pflanzen zu verdrängen. Verwechseln Sie sie nicht mit kräftigen Pflanzen, die sich gerne selbst aussäen oder durch Wurzeln gut verbreiten. Erfahren Sie, was in Ihrer Region invasiv ist. Der Oregon Invasive Species Council bietet Ressourcen unter [Oregon Invasive Species Council](https://www.oregoninvasivespeciescouncil.org/infohub).  
+### Fügen Sie Schlüsselarten in Ihren Garten ein
 
-- **Beobachten und dokumentieren Sie die Biodiversität**  
-  Lernen Sie Ihr Gartenökosystem kennen, um eine Wissensbasis für Bewältigung und Anpassung aufzubauen. Tagebuchführung ist ein traditionelles Werkzeug, das die Phänologie bedeutender Pflanzen, Vorfälle von Schädlingen und Krankheiten, große Wetterereignisse und allgemeine Gartenfortschritte notiert. Neuere Werkzeuge wie [iNaturalist](https://www.inaturalist.org) (ein Online-Netzwerk von Menschen, die Biodiversitätsinformationen teilen, um voneinander zu lernen) dokumentieren und identifizieren Bewohner und Besucher des Gartens.  
+Schlüsselarten haben große Auswirkungen auf viele andere Arten. Um geeignete Pflanzen für Ihre Ecoregion zu finden, besuchen Sie die [Keystone Plants by Ecoregion der National Wildlife Federation](https://www.nwf.org/Garden-for-Wildlife/About/Native-Plants/keystone-plants-by-ecoregion). Diese Listen basieren auf der Arbeit von Dr. Doug Tallamy und dem Gärtner Jarrod Fowler.
 
-- **Wiederverwilderung**  
-  Dies wird im Allgemeinen auf große Gebiete angewendet mit dem Fokus auf die Wiederherstellung ökologischer Funktionen. Einige Prinzipien können für Hausgärten relevant sein. [Mehr Informationen](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).  
+Um heimische Arten in Ihrer Region zu finden, nutzen Sie landesspezifische Ressourcen wie:
 
-Die Oregon State University Extension Service verbietet Diskriminierung in all ihren Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiären/Elternstatus, Einkommen aus einem staatlichen Unterstützungsprogramm, politischen Ansichten, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien für vorherige Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+- [Oregon Flora](https://oregonflora.org/)
+- [Calflora](https://www.calflora.org/)
+- [Washington Flora Checklist](https://burkeherbarium.org/waflora/checklist.php?Category=Endemic)
+
+### Schaffen Sie neue Lebensräume
+
+Manche Tiere haben ein Verbreitungsgebiet, das zum eigenen Garten passt. Beispiele sind:
+
+- **Bodenbrütende Bienen**: Sie machen 70 % der heimischen Bienen aus und brauchen kleine, ungestörte Flächen zum Nisten. Beginnen Sie mit einer 60 x 60 cm großen, mulchfreien Stelle (diese Bienen sind zu schwach, um sich durch Mulch zu graben), die in der Nähe von Blühpflanzen liegt und Sonne bis Halbschatten bekommt. Lassen Sie den Boden in Ruhe und gießen Sie nicht.
+- **Hummel-Königinnen**: Sie überwintern unterirdisch in verlassenen Mäusenestern oder unter Laub. Lassen Sie ungestörte Bereiche unter Bäumen und Sträuchern, um Schutz zu bieten.
+- **Pazifische Laubfrösche**: Sie profitieren von einfachen, saisonalen Teichen. [Erfahren Sie, wie Sie einen einfachen Teich für heimische Frösche bauen](https://extension.oregonstate.edu/news/how-build-simple-pond-native-frogs).
+- **Käfer-Bänke**: Das sind erhöhte Bereiche mit Horstgräsern und anderen Gräsern, die Lebensraum für nützliche Insekten und andere Tiere bieten. Einige Prinzipien lassen sich auf Hausgärten übertragen. [Mehr über Käfer-Bänke erfahren](http://oregonipm.ippc.orst.edu/Agroecology/NEW_BEETLE_BANK_1.pdf).
+- **Schmetterlings-Pfützenplätze**: Legen Sie in der Nähe von Futter- und Nektarpflanzen für Schmetterlinge eine Pfützenstelle an, um während heißer und trockener Zeiten Wasser und Mineralien anzubieten. [Mehr erfahren](https://www.nwf.org/-/media/Documents/PDFs/Garden-for-Wildlife/Tip-Sheets/Water-Butterfly-Gardens).
+
+### Pflanzliche Vielfalt und Redundanz
+
+- Für Nahrung der Bestäuber beginnen Sie mit mindestens drei Blühpflanzen für Frühling, Sommer und Herbst, um über eine lange Saison Nahrung zu bieten.
+- Fügen Sie mehr Blühpflanzen hinzu, damit bei Ausfällen durch extreme Hitze oder späten Frühling noch genug für die Bienen bleibt.
+
+### Verzichten Sie auf invasive Arten
+
+- Invasive Pflanzen entkommen der Gartenkultur, besiedeln natürliche Flächen und verdrängen heimische Arten.
+- Verwechseln Sie invasive Arten nicht mit kräftig wachsenden oder sich gut ausbreitenden Pflanzen.
+- Lernen Sie, was in Ihrer Region invasiv ist. Der [Oregon Invasive Species Council](https://www.oregoninvasivespeciescouncil.org/infohub) bietet Informationen.
+
+### Beobachten und dokumentieren Sie die Artenvielfalt
+
+- Lernen Sie Ihr Gartenökosystem kennen, um Wissen für Anpassung und Umgang zu erwerben.
+- Ein Gartentagebuch ist ein traditionelles Werkzeug, um die Phänologie wichtiger Pflanzen, das Auftreten von Schädlingen und Krankheiten, große Wetterereignisse und den allgemeinen Gartenfortschritt festzuhalten.
+- Nutzen Sie auch neue digitale Werkzeuge wie [iNaturalist](https://www.inaturalist.org), ein soziales Netzwerk zum Teilen von Biodiversitätsdaten und zur Bestimmung von Gartenbewohnern und -besuchern.
+
+### Wiederverwilderung
+
+Wiederverwilderung wird meist auf große Gebiete angewendet und konzentriert sich darauf, ökologische Funktionen wiederherzustellen. Einige Prinzipien sind auch für Hausgärten sinnvoll. [Mehr über Wiederverwilderung erfahren](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
+
+---
+
+#### Der Oregon State University Extension Service verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Kriterien gelten für alle Programme.)
+---

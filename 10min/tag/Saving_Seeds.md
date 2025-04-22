@@ -1,62 +1,100 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
 
-## Pag-iimbak ng Binhi  
+# Pag-iipon ng Binhi
 
-### Bakit Kolektahin ang mga Binhi?  
-Ang pag-iimbak ng binhi ay nagtuturo ng pagiging masinop. Pinapayagan din tayo nitong pumili ng mga binhi batay sa lasa, at sa kanilang kakayahang mag-adapt sa lokal na lupa, klima, at peste.  
+### Bakit Mangolekta ng Binhi?
+Ang pag-iipon ng binhi ay nagtuturo ng pagiging maparaan. Pinapayagan din tayong pumili ng lasa at ng pagkakaangkop ng halaman sa lokal na lupa, klima, at mga peste.
 
-### Mga Uri ng Halaman  
-Ang pag-iimbak ng binhi mula sa mga taunang halaman ay ang pinakamadali. Ang mga halaman tulad ng kamatis, beans, peas, at lettuce ay natatapos ang buong siklo ng kanilang buhay sa isang taniman at sila ay self-pollinating. Ang mga taunang halaman na gumagapang tulad ng pipino, kalabasa, melon, at pumpkins ay mas mahirap imbak dahil sa cross-pollination.  
+### Mga Uri ng Halaman
 
-Ang mga biennial tulad ng carrots, parsley, at Swiss chard ay nabubuhay ng dalawang taon at gumagawa ng binhi sa kanilang ikalawang taon. Ang pag-iimbak ng binhi ay maaaring maging mahirap dahil sa pangangailangan ng pag-overwinter at cross-pollination.  
+- **Taunan (Annuals)**: Pinakamadaling mangolekta ng binhi mula sa mga taunang halaman. Ang mga halaman tulad ng kamatis, sitaw, gisantes, at letsugas ay natatapos ang buong siklo ng buhay sa isang panahon ng pagtatanim at sila ay self-pollinating. Ang mga taunang gumagapang tulad ng pipino, kalabasa, melon, at pumpkin ay mas mahirap ipunin dahil madaling maghalo ang kanilang polen.
+- **Biennial**: Ang mga halaman tulad ng karot, perehil, at Swiss chard ay nabubuhay ng dalawang taon at namumunga ng binhi sa ikalawang taon. Mahirap mangolekta ng binhi mula sa kanila dahil kailangan nilang magtagal ng taglamig at madaling maghalo ang polen.
+- **Perennial**: Ang mga halaman na ito ay nabubuhay ng tatlong taon o higit pa at kadalasang dinarami sa pamamagitan ng pagputol at paghahati, hindi sa pamamagitan ng binhi.
 
-Ang mga perennial ay nabubuhay ng tatlong taon o higit pa at kadalasang pinararami sa pamamagitan ng cuttings o divisions, hindi sa pamamagitan ng binhi.  
+### Paano Nangyayari ang Polinasyon
 
-### Paano Nangyayari ang Pollination  
-May tatlong paraan ng pollination: hangin, insekto, at tao.  
-Ang open pollination ay ang kakayahang mag-cross sa ibang halaman sa parehong pamilya o variety. Ang mga halaman sa grupong ito ay maaaring self-pollinated, na nagpapadali sa pag-iimbak ng binhi, o cross-pollinated, na nagpapahirap sa proseso.  
+May tatlong paraan ng polinasyon: hangin, insekto, at tao.
 
-Ang self-pollination ay tumutukoy sa mga halaman na may bulaklak na parehong may babae at lalaki na bahagi. Kasama rito ang kamatis, beans, lettuce, at eggplant. Sa kabaligtaran, ang pipino at kalabasa ay nangangailangan ng cross-pollination kung saan ang hangin o insekto ang nagdadala ng pollen mula sa bulaklak na lalaki patungo sa bulaklak na babae sa parehong o ibang halaman.  
+- **Open Pollination**: Kayang mag-cross-pollinate sa ibang halaman sa parehong pamilya o uri. Ang mga halaman sa grupong ito ay maaaring self-pollinated, kaya madaling mangolekta ng binhi, o cross-pollinated, kaya mas mahirap mangolekta ng binhi.
+- **Self-Pollination**: Tumutukoy sa mga halaman na may bulaklak na may parehong pambabae at panlalaking bahagi. Kabilang dito ang kamatis, sitaw, letsugas, at talong.
+- **Cross-Pollination**: Ang mga halaman tulad ng pipino at kalabasa ay nangangailangan ng hangin o insekto upang madala ang polen mula sa bulaklak ng lalaki papunta sa bulaklak ng babae, sa parehong halaman o sa ibang halaman.
 
-Ang mga hardinero sa bahay na nais mag-imbak ng binhi mula sa cross-pollinating na halaman ay umaasa sa manual pollination. Para magsimula, pumili ng bulaklak na babae (may maliit na prutas sa ilalim nito). I-close ito gamit ang rubber band gabi bago ito magbukas. Sa umaga, ilipat ang pollen mula sa bulaklak na lalaki patungo sa babae, at pagkatapos ay agad na i-close ang bulaklak na babae gamit ang rubber band. Alisin ang rubber band habang lumalaki ang prutas.  
+#### Manwal na Polinasyon para sa Mga Hardinero sa Bahay
 
-### Pagkolekta at Pag-iimbak ng Binhi  
-Pumili ng mga halaman na walang sakit para sa pag-iimbak ng binhi. Isaalang-alang ang mga katangian tulad ng: lasa, ganda, laki, ani, maagang o huling pamumulaklak, petsa ng pagkahinog, paraan ng pollination, at koleksyon. Kolektahin ang binhi mula sa ilang halaman at prutas sa buong panahon ng ani. Kolektahin ang binhi mula sa ganap na hinog na prutas, ngunit hindi bulok. Halimbawa, ang pipino na nasa edible stage ay wala pang mature na binhi. Ang pagkahinog ay nangyayari pagkatapos ng unang frost, tulad ng sa pumpkins at winter squash. Kolektahin ang binhi ng bulaklak kapag ang bulaklak ay nalanta at natuyo, may tuyong puffy tops, o tuyong seed pods na nagsisimulang magbukas.  
+Para mangolekta ng binhi mula sa mga halaman na nagko-cross-pollinate:
 
-#### Ang Dry Method  
-Ang mga halaman na may tuyong binhi ay kinabibilangan ng peas, beans, carrots, peppers, at karamihan sa mga bulaklak at herbs. Ang mga ito ay pinakamahusay na iniiwan sa halaman hanggang ang mga binhi ay matuyo. Kapag kinakailangan, bunutin ang buong halaman at isabit nang patiwarik o putulin ang seed pods at patuyuin sa lilim. Gumamit ng bag para mahuli ang anumang binhi na tumalbog. Huwag gumamit ng init sa pagpapatuyo ng binhi; ito ay nakakasira.  
+1. Piliin ang mga bulaklak ng babae (may maliit na bunga sa ilalim).
+2. Isara ang bawat isa gamit ang goma band bago ito magbukas sa gabi.
+3. Sa umaga, ilipat ang polen mula sa bulaklak ng lalaki papunta sa babae.
+4. Isara muli ang bulaklak ng babae gamit ang goma band agad-agad.
+5. Alisin ang goma band kapag lumalaki na ang bunga.
 
-- Ang peppers ay dapat pula/dilaw at kulubot para makolekta ang binhi. Gumamit ng gloves para sa hot peppers!  
+### Pagkolekta at Pag-iimbak ng Binhi
 
-#### Ang Wet Method  
-Ang mga halaman na may makatas na prutas tulad ng kamatis ay pinakamahusay na pinoproseso sa pamamagitan ng fermentation. Scoop ang mga binhi sa baso, magdagdag ng tubig, at hayaan sa isang mainit na lugar nang 3 o higit pang araw hanggang magkaroon ng mold film sa ibabaw. I-strain at hugasan ang bulok na laman sa binhi. Isawsaw ang mga binhi sa 20% bleach solution para makatulong sa proteksyon laban sa ilang virus. Pagkatapos ng banlaw sa sariwang tubig, ilabas ang mga binhi sa papel na tuwalya upang matuyo.  
+Pumili ng mga halamang walang sakit bilang pinagkukunan ng binhi. Isaalang-alang ang mga katangian tulad ng lasa, ganda, laki, dami ng bunga, maaga o huling pamumulaklak, petsa ng paghinog, paraan ng polinasyon, at kung paano ito kokolektahin.
 
-- Hayaan ang summer squash at pipino sa halaman hanggang ang balat ay maging dilawish at matigas, lampas sa edible stage.  
-- Ang binhi ng eggplant ay hinog kapag ang prutas ay kayumanggi at kulubot. Ang binhi na iniwan sa tubig nang matagal ay tutubo.  
+- Kolektahin ang binhi mula sa ilang halaman at bunga sa buong panahon ng pag-ani.
+- Kolektahin ang binhi mula sa hinog na bunga, ngunit huwag mula sa bulok. Halimbawa:
+  - Ang mga pipino na pwedeng kainin ay wala pang hinog na binhi. Ang hinog na binhi ay nangyayari matapos ang unang hamog na nagyelo, tulad ng sa kalabasa at winter squash.
+  - Kolektahin ang binhi ng bulaklak kapag natuyo na at nalalanta, may tuyong ulo o bungang natutuyo at nabubuka na.
 
-### Pag-iimbak at Paggamit ng Binhi  
-Ilagay ang tuyong binhi sa mga envelope na may label na uri (hal., kamatis), variety (hal., Indigo Rose), araw ng pagkahinog, at petsa ng koleksyon. Ilagay sa airtight na garapon at i-freeze nang 2 araw upang patayin ang mga peste. Para panatilihing tuyo ang mga binhi, maglagay ng ½ tasa ng bagong bukas na powdered milk, nakabalot sa tissue, sa loob ng garapon. Itabi sa malamig, madilim, tuyo na lugar tulad ng refrigerator o freezer, at protektahan mula sa mga insekto at daga. Dalhin ang binhi mula sa freezer sa room temperature bago buksan. Ang mga legumes ay mas gusto ang breathable na bag.  
+#### Ang Tuyong Paraan
 
-Planuhin ang paggamit ng binhi sa loob ng 3 taon. Dahil ang viability ng binhi at ang sigla ng halaman ay bumababa sa paglipas ng panahon, asahan na magtanim ng mas marami mula sa mas matatandang binhi upang makuha ang tamang bilang ng mga halaman na nais.  
+Ang mga halamang may tuyong binhi ay kinabibilangan ng gisantes, sitaw, karot, sili, at karamihan sa bulaklak at halamang-gamot.
 
-### Mga Posibleng Problema  
-- Huwag kolektahin ang binhi mula sa hybrids. Ang mga binhi ay maaaring sterile o magresulta sa mga halaman na hindi kahawig ng parent plant.  
-- Ang mga binhi ay maaaring magdala ng sakit; ang paglubog sa bleach, pagbabanlaw, at pagpapatuyo ay kadalasang nakakatulong upang maiwasan ito.  
-- Ang produksyon ng binhi ay nagpapababa ng sigla ng halaman; pumili ng mga pinakamahusay na halaman at prutas para sa pag-iimbak ng binhi.  
-- Huwag iasa ang buong hardin sa iyong naimbak na binhi, bilang pag-iingat.  
+- Pinakamabuting iwan ang binhi sa halaman hanggang matuyo.
+- Kung kailangan, bunutin ang buong halaman at isabit nang patiwarik o putulin ang mga bunga ng binhi at patuyuin sa lilim.
+- Gamitin ang bag upang saluhin ang mga binhing tumatalsik.
+- Huwag gumamit ng init sa pagpapatuyo ng binhi; ito ay nakakasira.
 
-### Karagdagang Impormasyon  
-OSU Extension Publications sa [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-**Collecting and Storing Seeds from Your Garden FS220**  
-Cornell University, [http://www.gardening.cornell.edu/vegetables/factsheets.html](http://www.gardening.cornell.edu/vegetables/factsheets.html)  
-**Basic Concepts of Seed Production and Seed Regeneration**  
-University of Maine, Cooperative Extension Publications [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
-**An Introduction to Seed Saving for the Home Gardener 2750e**  
+**Tandaan:**  
+- Dapat pula/dilaw at kulubot na ang sili bago kolektahin ang binhi. Magsuot ng guwantes para sa maanghang na sili!
 
-### Master Gardener™ Advice  
-- Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), o 503-445-4608 (Multnomah County).  
-- Para sa 10-Minute University™ handouts at class schedule, bisitahin ang [www.cmastergardeners.org](www.cmastergardeners.org).  
+#### Ang Basang Paraan
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, pinagmulan ng bansa, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), oryentasyong sekswal, kapansanan, edad, kalagayan ng pag-aasawa, kalagayan ng pamilya/magulang, kita mula sa programa ng pampublikong tulong, paniniwalang pampulitika, impormasyong genetiko, estado ng pagiging beterano, reprisal o paghihiganti para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na batayan ay nalalapat sa lahat ng programa.)
+Ang mga halamang may makakatas na bunga tulad ng kamatis ay pinakamabuting iproseso sa pamamagitan ng fermentasyon:
+
+1. Kuskusin ang binhi sa isang baso, lagyan ng tubig, at hayaang nakababad sa mainit-init na lugar ng tatlong araw o higit pa hanggang magkaroon ng amag sa ibabaw.
+2. Isalin sa salaan at hugasan ang nabubulok na laman mula sa binhi.
+3. Isawsaw ang binhi sa 20% bleach solution para maprotektahan laban sa ilang virus.
+4. Pagkatapos hugasan sa malinis na tubig, ilatag ang binhi sa papel na tuwalya para patuyuin.
+
+**Tandaan:**  
+- Hayaang manatili sa halaman ang summer squash at pipino hanggang ang balat ay maging maputla dilaw at matigas, lampas na sa pwedeng kainin.
+- Ang binhi ng talong ay hinog kapag ang bunga ay kulay brown at kulubot. Ang binhi na naiwan nang matagal sa tubig ay tutubo.
+
+### Pag-iimbak at Paggamit ng Binhi
+
+1. Ilagay ang tuyong binhi sa sobre na may label ng uri (hal. kamatis), variety (hal. Indigo Rose), araw bago hinog, at petsa ng pagkolekta.
+2. Ilagay sa mahigpit na garapon at i-freeze ng dalawang araw para patayin ang peste.
+3. Para panatilihing tuyo ang binhi, maglagay ng ½ tasa ng bagong bukas na gatas na pulbos na binalot sa tissue sa loob ng garapon.
+4. Itago sa malamig, madilim, at tuyong lugar, tulad ng refrigerator o freezer, at protektahan mula sa insekto at daga.
+
+**Mahalaga:**  
+- Hayaang mag-room temperature muna ang binhi mula sa freezer bago buksan.
+- Mas gusto ng mga legume ang parang humihinga na bag.
+
+Planuhin na gamitin ang iyong binhi sa loob ng tatlong taon. Dahil bumababa ang bisa at lakas ng binhi habang tumatagal, magtanim ng mas marami mula sa lumang binhi para makuha ang dami ng halaman na gusto mo.
+
+### Mga Maaaring Problema
+
+- Huwag mangolekta ng binhi mula sa hybrids. Maaaring walang bisa o hindi magmukhang magulang ang lalabas na halaman.
+- Maaaring magdala ng sakit ang binhi; ang pagbabad sa bleach, paghuhugas, at pagpapatuyo ay kadalasang nakakatulong upang maiwasan ito.
+- Ang paggawa ng binhi ay nagpapahina ng halaman; pumili ng pinakamaganda at pinaka-malulusog na halaman at bunga para pagkuhanan ng binhi.
+- Huwag umasa lang sa sarili mong binhi para sa buong hardin, para sigurado.
+
+## Karagdagang Impormasyon
+
+- OSU Extension Publications: [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
+  - *Pagkolekta at Pag-iimbak ng Binhi mula sa Iyong Hardin FS220*
+- Cornell University: [http://www.gardening.cornell.edu/vegetables/factsheets.html](http://www.gardening.cornell.edu/vegetables/factsheets.html)  
+  - *Mga Pangunahing Konsepto ng Produksyon at Pagpaparami ng Binhi*
+- University of Maine, Cooperative Extension Publications: [http://umaine.edu/publications/2750e](http://umaine.edu/publications/2750e)  
+  - *Panimula sa Pag-iipon ng Binhi para sa Mga Hardinero sa Bahay 2750e*
+
+#### Master Gardener™ Payong Horticulture · Tumawag sa Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Para sa 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng kanilang programa, serbisyo, gawain, at materyales batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, estado ng pag-aasawa, estado ng pamilya o magulang, kita mula sa pampublikong tulong, paniniwalang pampulitika, impormasyong henetiko, katayuan bilang beterano, paghihiganti o pagganti dahil sa naunang aktibidad ng karapatang sibil. (Hindi lahat ng ipinagbabawal ay naaangkop sa lahat ng programa.)
+---

@@ -1,73 +1,85 @@
-# 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener hauv kev koom tes thiab kev txhawb nqa ntawm OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Kev Tu Vaj Tsev Caij Nplooj Zeeg  
+# Kev Tu Vaj Lub Caij Nplooj Zeeg
 
-### Txheej Txheem  
-Caij nplooj zeeg yog lub sijhawm zoo rau kev cog nroj tsuag tshiab, tsiv lossis hloov cov nroj tsuag thiab cov nroj tsuag ntev, thiab muab mulch rau hauv koj lub vaj. Kev mob zoo li cag rot, nplooj txaij, thiab kab mob ntawm tus txha zoo rau caij nplooj zeeg nag. Kev tu vaj kom zoo yuav tiv thaiv kev mob los ntawm kev tsim thiab muaj txiaj ntsig zoo dua li kho cov nroj tsuag uas twb muaj mob lawm.  
+### Saib Dav
 
-### Cov Lus Qhia Dav  
-Paub lub sijhawm daus thawj hauv koj cheeb tsam. Hauv Willamette Valley, lub sijhawm no feem ntau nyob rau thawj lub lim tiam hauv Lub Kaum Hli. Coj cov nroj tsuag uas tsis muaj zog mus rau sab hauv tsev ua ntej lub caij ntuj no. Nco ntsoov ntxuav lawv cov nplooj thiab saib rau kab lossis thaiv kab mob ua ntej.  
+Lub caij nplooj zeeg yog lub sijhawm zoo los ntxiv tsob nroj tshiab, hloov los yog cog tsob ntoo me thiab cov nroj tsuag rov los, thiab muab mulch rau koj lub vaj. Kab mob xws li mob cag, mob nplooj, thiab mob ceg ntoo loj hlob zoo thaum los nag lub caij nplooj zeeg. Kev tu vaj kom huv yuav pab tiv thaiv kom kab mob tsis tshwm sim thiab pab zoo dua li muab tshuaj rau tsob nroj uas twb muaj mob lawm.
 
-Txhim kho koj cov av. Hloov cov av nrog compost kom txhim kho qhov dej ntws. Cov av uas muaj cov organic ntau feem ntau nyob sov dua hauv lub caij ntuj no, yog li txo kev poob nroj tsuag. Kuaj cov av thiab, yog xav tau, siv cov lime tam sim no. Yog tias qhov chiv yuav tsum tau txo, ntxiv sulphur.  
+### Cov Lus Qhia Txhua Yam
 
-Xyuas seb koj cov nroj tsuag puas xav tau dej, tshwj xeeb tshaj yog tom qab huab cua qhuav thiab cua ntev. Xyuam xim rau cov vaj tshiab thiab cov nroj tsuag nyob hauv lossis ze ntawm cov ntoo loj uas twb muaj lawm.  
+- **Paub hnub thawj zaug yuav daus nag khov (frost) hauv koj cheeb tsam.**  
+  Nyob rau Willamette Valley, hnub no feem ntau yog thawj lub lim tiam hauv Lub Kaum Hli. Nqa cov nroj tsuag uas tsis tawv mus hauv tsev ua ntej lub caij ntuj no, kom lawv tsis khov. Nco ntsoov ntxuav lawv cov nplooj thiab xyuas kom tsis muaj kab los yog qe kab.
 
-Nrhiav kab slug thiab slug qe hauv qab cov laug cam thiab pob zeb thiab hauv cov nroj tsuag tuab, thiab ua kom lawv tuag los ntawm kev zuaj lossis txiav. Siv tshuaj los tua kab slug thaum tsim nyog thiab npaj rau lub caij nplooj ntoos hlav nrog lwm daim ntawv thov tshiab. Ntes moles thiab gophers thiab tswj lwm cov teeb meem kab tsuag.  
+- **Ua kom koj daim av zoo dua.**  
+  Ntxiv compost rau hauv av kom dej ntws tau zoo. Av uas muaj ntau yam organic yuav sov dua thaum caij ntuj no, pab kom tsob nroj tuag tsawg dua. Kuaj av thiab yog xav tau, ntxiv lime tam sim no. Yog xav kom av tsis muaj alkaline ntau, ntxiv sulfur.
 
-Mulch yog ib qho kev tiv thaiv. Nws ua rau cov av nyob ib ncig ntawm cov cag nroj tsuag txias rau hnub sov thiab sov rau hmo ntuj txias. Tom qab cov nroj tsuag tsis ua haujlwm lawm, siv 3-4” ntawm cov mulch vaj tsev uas tau compost zoo. Taper qhov tob kom tawm ntawm cov nroj tsuag thiab cov ntoo kom tsis txhob npog.  
+- **Xyuas seb koj cov nroj tsuag puas xav tau dej,** tshwj xeeb yog tom qab huab cua qhuav thiab cua ntsawj ntev. Saib xyuas tshwj xeeb rau cov vaj tsob nroj tshiab thiab cov uas nyob hauv qab lossis ze ntoo loj.
 
-Rho tawm thiab rhuav tshem cov nroj tsuag uas muaj mob ua ntej lawv kis mus rau cov nroj tsuag nyob ze. Nws yooj yim dua los pom cov ntoo thiab cov nroj tsuag mob thaum muaj nplooj. Tshwj tsis yog koj qhov compost pawg kub mus rau 160 degrees lossis siab dua, tawm cov nroj tsuag uas muaj mob sab nraum koj qhov compost.  
+- **Saib nrhiav snails thiab lawv cov qe** hauv qab nplais, pob zeb, thiab hauv cov nplooj tuab. Muab tua los yog txiav pov tseg. Muab tshuaj rau snails thaum xav tau thiab npaj kom muaj dua tshiab thaum pib caij nplooj ntoos hlav. Ntes moles thiab gophers thiab tswj lwm yam kab tsuag.
 
-Thaum tshem cov ceg ntoo uas muaj mob, txiav ob lossis peb nti hauv qab thaj chaw uas muaj mob. Yog tias koj txiav mus rau qhov chaw uas muaj mob ntawm tus txha, ntxuav cov cuab yeej txiav nroj tsuag los ntawm kev so nrog cawv lossis ib cov tshuaj ntawm ib feem xab npum hauv tsev thiab cuaj feem dej.  
+- **Muab mulch ua txheej tiv thaiv.**  
+  Nws pab kom av nyob ncig cag tsob nroj txias dua thaum hnub kub thiab sov dua thaum hmo ntuj txias. Thaum tsob nroj tsis loj hlob lawm, muab mulch 3–4 ntiv tes tuab rau saum av. Txiav kom qis kom cov cag thiab ceg ntoo tsis raug mulch npog.
 
-### Cov Nroj Tsuag Zoo Nkauj  
-Cia qee cov nroj tsuag rov hlob hauv caij nplooj zeeg. Tom qab cov noob hlob tuaj hauv lub caij nplooj ntoos hlav, txo kom tsim tau cov xim uas koj xav tau. Cov noob nroj tsuag zoo nkauj xws li sweet peas, sunflowers, columbine, annual delphiniums, poppies, calendula, nasturtiums, clarkia, alyssum thiab txawm tias petunias tuaj yeem tu kom lawv rov qab los xyoo dhau xyoo. Cov tshuaj ntsuab ib xyoos yog cov uas tuaj yeem rov hlob tau yooj yim. Dill thiab cilantro tuaj yeem rov hlob txhua xyoo yog tias cov noob tseem nyob ntawm tus nroj tsuag.  
+- **Tshem thiab rhuav tshem cov nroj tsuag muaj mob** ua ntej lawv kis mus rau lwm tsob. Nws yooj yim dua pom kab mob ntawm ntoo thiab shrub thaum tseem muaj nplooj. Tshwj tsis yog koj compost pile kub txog 160°F los sis siab dua, tsis txhob muab cov nroj tsuag muaj mob tso rau hauv compost.
 
-Sau cov tshuaj ntsuab, cov noob nroj tsuag thiab paj rau kev ziab. Sau cov noob qhuav los ntawm cov paj thiab zaub uas muaj noob qhib rau kev cog rau xyoo tom ntej.  
+- **Thaum txiav ceg ntoo muaj mob,** txiav ob los sis peb ntiv tes hauv qab thaj chaw muaj mob. Yog tias koj txiav rau hauv thaj chaw muaj mob, ntxuav cov cuab yeej txiav nroj tsuag nrog cawv los yog tov los ntawm ib feem bleach thiab cuaj feem dej.
 
-Txiav luv cov ceg roses mus rau 30” lossis siab li hauv nplooj ntsws kom tiv thaiv kev puas tsuaj los ntawm cua. Ua tiav kev txiav roses rau lub Ob Hlis. Txiav cov nroj tsuag uas paj nyob rau lub caij ntuj sov rau lub caij ntuj no lig lossis caij nplooj ntoos hlav. Tsis txhob txiav paj rau lub caij nplooj zeeg vim nws yuav txhawb kev loj hlob tshiab uas yooj yim rau kev puas tsuaj los ntawm caij ntuj no.  
+### Cov Nroj Tsuag Zoo Nkauj
 
-Cov nroj tsuag herbaceous xws li hostas, daylilies, astilbes, monardas, peonies, thiab solidagos yuav poob mus rau hauv av thaum caij nplooj zeeg thiab rov hlob tuaj hauv lub caij nplooj ntoos hlav. Thaum daus ua rau lawv sab saum toj tig xim av, txiav mus rau hauv av.  
+- **Cia qee yam nroj tsuag txi noob rau caij nplooj zeeg.**  
+  Thaum cov me nyuam nroj tsuag tuaj rau caij nplooj hlav, cheb kom muaj xim zoo li koj xav tau. Sweet peas, sunflowers, columbine, annual delphiniums, poppies, calendula, nasturtiums, clarkia, alyssum, thiab txawm yog petunias los yeej tuaj tau txhua xyoo yog ua li no. Cov tshuaj ntsuab ib xyoos xws li dill thiab cilantro kuj txi tau noob yog cia lub taub noob rau ntawm tsob nroj.
 
-Cov nroj tsuag semi-herbaceous xws li rudbeckias, penstemons thiab Shasta daisies, poob cov nplooj saum toj hauv huab cua txias tab sis khaws cov nplooj hauv qab. Tshem tawm cov sab saum toj tuag tab sis tawm 2-3 nti ntawm cov nplooj ntsuab hauv qab.  
+- **Sau tshuaj ntsuab, taub noob thiab paj kom qhuav.**  
+  Sau cov noob qhuav los ntawm cov paj thiab zaub kom cog dua xyoo tom ntej.
 
-Cog cov noob paj rau lub caij nplooj ntoos hlav thiab faib cov nroj tsuag loj xws li daylilies, hellebores, thiab hostas. Qhov no yuav tswj lawv qhov loj thiab rov cog paj.  
+- **Txiav ceg ntoo paj liab (rose) kom luv** li 30 ntiv tes lossis siab li koj npoo taw kom tsis txhob raug cua txhav. Ua kom tiav txiav ceg rose rau lub Ob Hlis. Txiav ceg shrubs uas tawg paj thaum ntuj sov rau thaum lub caij ntuj no xaus los yog pib caij nplooj ntoos hlav. Tsis txhob txiav ceg ntoo lub caij nplooj zeeg vim yuav ua rau muaj kev loj hlob tshiab uas yuav raug txhav thaum ntuj no.
 
-Txhim kho cov ntoo tshiab uas cog tag nrho kom lawv tsis txhob co hauv cua thiab ua rau lawv cov cag xoob. Tshem tawm cov ntoo txhim rau lub caij nplooj ntoos hlav.  
+- **Cov perennial herbaceous** xws li hostas, daylilies, astilbes, monardas, peonies, thiab solidagos yuav tuag mus txog hauv av lub caij nplooj zeeg thiab rov tuaj dua caij nplooj hlav. Thaum daus los thiab lawv cov nplooj daj tag, txiav kom ze hauv av.
 
-Dig cov noob nroj tsuag uas tsis muaj zog xws li dahlias, begonias, caladiums, cannas, thiab gladiolas. Qhwv lawv hauv cov khoom uas ntub dej me ntsis thiab khaws cia rau qhov chaw txias, tsaus.  
+- **Cov semi-herbaceous perennials** xws li rudbeckias, penstemons, thiab Shasta daisies yuav ploj cov nplooj sab saud tab sis tseem cia cov nplooj sab hauv qab. Tshem cov nplooj tuag tab sis tseg 2–3 ntiv tes nplooj ntsuab ntawm hauv qab.
 
-Cov nroj tsuag ornamental grasses muaj cov noob zoo nkauj thaum caij nplooj zeeg thiab caij ntuj no. Nws yog qhov zoo tshaj plaws txiav lawv rau lub caij nplooj ntoos hlav thaum cov nroj tsuag tshiab pib hlob tuaj.  
+- **Cog cov bulb uas tawg paj rau caij nplooj hlav** thiab faib cov perennial loj xws li daylilies, hellebores, thiab hostas. Qhov no pab tswj kom lawv loj thiab pab kom tawg paj dua tshiab.
 
-Rho tawm cov nplooj ntoo thiab nroj tsuag nplooj thiab muab compost tshwj tsis yog lawv muaj cov cim mob.  
+- **Txiav ceg ntoo tshiab cog** kom lawv tsis txhob txav hauv cua thiab kom cag tsis txhob xoob. Tshem cov nplawm (stake) tawm rau caij nplooj hlav.
 
-Siv cov chiv uas tso tawm qeeb rau koj lub tshav nyom kom pab txhawb kev loj hlob ntawm cov cag. Nrhiav cov chiv tshav nyom uas tau cim rau kev siv rau lub caij nplooj zeeg/caij ntuj no. Siv tshuaj tua kab los tswj cov nroj tsuag uas muaj nplooj dav. Hlawv lub tshav nyom los ntawm kev txhuam nws thiab rov cog cov noob tshav nyom nyob rau qhov chaw uas tsis muaj zog thiab tsis loj hlob.  
+- **Nqa cov bulb uas tsis tawv li dahlias, begonias, caladiums, cannas, thiab gladiolas hauv av.** Qhwv rau hauv ntaub ntub me me thiab cia rau hauv qhov chaw txias, tsaus ntuj.
 
-### Cov Zaub Mov  
-Rho tawm cov nroj tsuag uas muaj mob. Muab cov nroj tsuag noj qab haus huv rau hauv av lossis compost.  
+- **Cov nyom zoo nkauj** muaj cov taub noob zoo nkauj rau caij nplooj zeeg thiab caij ntuj no. Zoo tshaj yog txiav lawv rau caij nplooj hlav thaum cov me nyuam nplooj pib tawm.
 
-Rho tawm cov ceg qub ntawm cov raspberries, blackberries thiab boysenberries.  
+- **Kaum cov nplooj ntawm ntoo thiab shrubs** thiab muab compost tshwj tsis yog lawv muaj kab mob.
 
-Cog cov nroj tsuag npog hauv lub vaj zaub thiab cov vaj tshiab uas tseem tsis tau cog. Cov nroj tsuag npog yog ib qho tseem ceeb rau kev tiv thaiv av los ntawm kev txo kev puas tsuaj, txo cov nroj tsuag, txhim kho av, thiab muab cov khoom organic ntau. Cov piv txwv ntawm cov nroj tsuag npog yog: rye, crimson clover, hairy vetch, winter wheat. Npaj rau kev ua cov nroj tsuag npog ua ntej lawv txi noob.  
+- **Muab chiv qeeb qeeb rau nyom** kom pab kom cag loj hlob. Nrhiav chiv uas sau rau siv rau caij nplooj zeeg/caij ntuj no. Siv tshuaj tua nyom broadleaf. Cheb nyom kom huv thiab cheb dua tshiab rau cov chaw nyom tsis tuab.
 
-### Kev Kho Vaj Tsev  
-- Ntxuav cov tsev noog rau kev siv rau lub caij ntuj no lossis lub caij nplooj ntoos hlav.  
-- Ntxuav cov tsev txias rau kev siv rau lub caij ntuj no.  
-- Khaws cov tshuaj vaj hauv qhov chaw ruaj ntseg, qhuav – deb ntawm cov menyuam thiab tsiaj.  
-- Ntxuav cov nplooj poob thiab khib nyiab tawm ntawm cov dej thiab cov raj xa dej.  
-- Npaj kev siv dej rau lub caij ntuj no.  
-- Coj cov lauj kaub av thiab cov khoom zoo nkauj hauv vaj mus rau qhov chaw kom tsis txhob puas tsuaj los ntawm txoj kev kub hnyav.  
-- Txiav ntse cov cuab yeej txiav nroj tsuag thiab lwm yam cuab yeej txiav.  
-- Ntxuav, xuab zeb thiab roj cov cuab yeej hauv vaj ua ntej khaws cia rau lub caij ntuj no.  
-- Rho tawm roj qub hauv lub tshuab txiav nyom tom qab txiav zaum kawg. Txiav ntse cov hniav ntawm lub tshuab txiav nyom.  
+### Cov Zaub Noj
 
-### Cov Kev Pab  
-Oregon State University Extension Service, http://extension.oregonstate.edu/catalog  
+- **Tshem cov seem nroj tsuag muaj mob.**  
+  Nqus los yog muab compost rau cov seem zaub noj uas tsis muaj mob.
 
-### Master Gardener™ Cov Lus Qhia  
-- Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas), 503-821-1150 (Washington), 503-445-4608 (Multnomah).  
-- Rau 10-Minute University™ cov ntawv qhia, mus saib www.cmastergardeners.org  
-- Nrhiav Master Gardeners ntawm cov Lag Luam Cov Khoom Noj.  
+- **Tshem cov ceg qub uas twb tau txiv** ntawm raspberries, blackberries, thiab boysenberries.
 
-Oregon State University Extension Service tsis pub kev cais tawm hauv tag nrho nws cov kev pab cuam, kev pabcuam, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm teb chaws, kev ntseeg, kev sib deev, kev qhia txog kev sib deev (xws li kev qhia txog kev sib deev), kev sib deev, kev tsis taus, hnub nyoog, cov xwm txheej sib yuav, xwm txheej niam txiv/kev tu menyuam, cov nyiaj tau los los ntawm kev pab nyiaj txiag pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, xwm txheej qub tub rog, kev rau txim lossis kev ua pauj rau kev ua ub no hauv txoj cai kev ywj pheej yav dhau los. (Tsuas yog tsis yog txhua qhov kev cawm yog siv rau txhua qhov kev pab cuam.)
+- **Cog cover crops** rau hauv vaj zaub thiab cov vaj tshiab uas tseem tsis tau cog. Cover crops pab tiv thaiv av kom tsis ya, txo nroj tsuag phem, ua kom av zoo dua, thiab ntxiv khoom organic rau av. Piv txwv cover crops muaj rye, crimson clover, hairy vetch, thiab winter wheat. Xav ua ntej yuav ua li cas nrog cover crops thaum lawv yuav txi noob.
+
+### Cov Haujlwm Tu Vaj
+
+- Ntxuav tsev noog kom lawv siv tau rau caij ntuj no lossis caij nplooj hlav.
+- Ntxuav cold frames kom siv tau rau caij ntuj no.
+- Cia tshuaj tua kab tsuag hauv qhov chaw ruaj, qhuav—kom deb ntawm me nyuam thiab tsiaj.
+- Ntxuav nplooj thiab khib nyiab hauv gutters thiab downspouts.
+- Npaj irrigation system rau caij ntuj no.
+- Nqa cov lauj kaub av los yog vaj ornaments hauv tsev kom tsis txhob puas thaum kub txias hloov.
+- Hloov ntsej thiab lwm yam cuab yeej txiav kom ntse.
+- Ntxuav, xuab zeb thiab pleev roj rau cov cuab yeej ua vaj ua ntej cia rau caij ntuj no.
+- Nqa roj qub hauv tshuab txiav nyom tawm tom qab txiav nyom zaum kawg. Muab ntsej tshuab txiav nyom ntse.
+
+### Cov Chaw Pab
+
+- **Oregon State University Extension Service:**  
+  [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
+
+#### Tswv Yim los ntawm Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Rau 10-Minute University™ daim ntawv qhia, mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org) · Mus nrhiav Master Gardener ntawm Farmers’ Markets hauv cheeb tsam.
+
+---
+
+##### Oregon State University Extension Service tsis pub cais tawm hauv tag nrho lawv cov programs, kev pab, kev ua ub ua no, thiab ntaub ntawv raws li haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev sib deev, xiam oob khab, hnub nyoog, kev sib yuav, tsev neeg/kev ua niam txiv, nyiaj los ntawm kev pab cuam pej xeem, kev ntseeg kev nom kev tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim, los yog kev pauj rau kev tiv thaiv cai. (Tsis yog txhua yam uas tsis pub siv rau txhua program.)
+---

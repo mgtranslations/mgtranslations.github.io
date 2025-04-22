@@ -1,206 +1,243 @@
-# Melhores Árvores para Jardins  
-**10-Minute University™**  
-**Associação de Jardineiros Mestre™ do Condado de Clackamas**  
-
-## Associação de Jardineiros Mestre™ do Condado de Clackamas  
-**10-Minute University™**  
-Em colaboração e apoio ao  
-Programa de Jardineiros Mestre do Serviço de Extensão da OSU™  
-
-## Objetivos  
-Esta apresentação ajudará você:  
-- Saber como posicionar, plantar e cuidar de uma árvore de jardim para que ela prospere.  
-- Conhecer excelentes opções para jardins domésticos no Pacífico Noroeste.  
-
-## Recursos  
-- **Publicação de Extensão da Universidade Estadual de Oregon EC1438**  
-  [https://catalog.extension.oregonstate.edu/ec1438](https://catalog.extension.oregonstate.edu/ec1438)  
-  Seleção, Plantio e Cuidados com uma Nova Árvore (coautor: Paul Ries)  
-- **Especialistas em Horticultura**  
-  - **Paul Bonine**, Co-Proprietário, XERA Plants, [www.xeraplants.com](http://www.xeraplants.com)  
-  - **Nancy Buley**, Diretora de Marketing, J. Frank Schmidt & Son Co. [www.jfschmidt.com](http://www.jfschmidt.com)  
-  - **Jane Hartline**, Proprietária, Sauvie Island Natives, [https://sauvienatives.com](https://sauvienatives.com)  
-  - **Sean Hogan**, Proprietário, Cistus Design Nursery, [www.cistus.com](http://www.cistus.com)  
-  - **Martin Nicholson**, Curador, Hoyt Arboretum, [www.hoytarboretum.org](http://www.hoytarboretum.org)  
-  - **Richie Steffen**, Diretor Executivo, Elizabeth C. Miller Botanical Garden & Great Plant Picks, [www.greatplantpicks.org](http://www.greatplantpicks.org)  
+#### 10-Minute University™ · Associação de Mestres Jardineiros do Condado de Clackamas · Em colaboração e apoio ao Programa de Mestre Jardineiro™ da OSU Extension
 
 ---
 
-## Considerações de Espaço para Posicionar uma Árvore  
-- Estime o espaço disponível acima e abaixo do solo.  
-- Estime o alcance futuro das raízes e galhos.  
-- Consulte várias fontes para altura e largura na maturidade:  
-  - **Banco de Dados de Plantas Paisagísticas da OSU**  
-    [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu)  
-  - **The Tree Book**, Michael Dirr & Keith Warren, Timber Press, 2019  
-  - **Trees to Know in Oregon and Washington**, Edward Jensen, Publicação de Extensão da OSU EC1450  
-    [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- Lembre-se de que o tamanho varia dependendo do solo e da localização.  
+## AVISO: O arquivo original contém muitas imagens e não pôde ser totalmente traduzido, por favor consulte também o arquivo pdf original [aqui](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
+
+# Melhores Árvores para Jardins
 
 ---
 
-## Lugares para Ver Árvores  
-- **Hoyt Arboretum**, Portland, OR  
-  [https://hoytarboretum.gardenexplorer.org/](https://hoytarboretum.gardenexplorer.org/)  
-- **Campus da Universidade Estadual de Oregon**, Corvallis, OR  
-  [https://landscapeplants.oregonstate.edu/](https://landscapeplants.oregonstate.edu/)  
-- **Ruas e Parques de Portland**  
-  [https://www.portland.gov/trees/get-involved/treeinventory](https://www.portland.gov/trees/get-involved/treeinventory)  
-- **Jardim Expositivo da Cistus Nursery**, Sauvie Island, OR  
-- **Iseli Nursery**, Boring, OR  
-- **Arboreto J. Frank Schmidt**, Boring, OR  
+## Objetivos
+
+Esta apresentação vai ajudar você a:
+
+- Saber como posicionar, plantar e cuidar de uma árvore no jardim para que ela cresça saudável.
+- Conhecer ótimas opções de árvores para jardins residenciais no Noroeste do Pacífico.
 
 ---
 
-## Formatos de Árvores na Maturidade  
-A forma da árvore pode mudar com a maturidade.  
-Imagens disponíveis em [https://jfschmidt.com](https://jfschmidt.com).  
+## Recursos
+
+- **Publicação da Extensão da Universidade Estadual de Oregon EC1438**  
+  [Selecionando, Plantando e Cuidando de uma Nova Árvore](https://catalog.extension.oregonstate.edu/ec1438) (Paul Ries, coautor)
+- **Seis Especialistas em Horticultura**
+  - Paul Bonine, coproprietário, XERA Plants, [www.xeraplants.com](https://www.xeraplants.com)
+  - Nancy Buley, diretora de marketing, J. Frank Schmidt & Son Co., [www.jfschmidt.com](https://www.jfschmidt.com)
+  - Jane Hartline, proprietária, Sauvie Island Natives, [https://sauvienatives.com](https://sauvienatives.com)
+  - Sean Hogan, proprietário, Cistus Design Nursery, [www.cistus.com](https://www.cistus.com)
+  - Martin Nicholson, curador, Hoyt Arboretum, [www.hoytarboretum.org](https://www.hoytarboretum.org)
+  - Richie Steffen, diretor executivo, Elizabeth C. Miller Botanical Garden & Great Plant Picks, [www.greatplantpicks.org](https://www.greatplantpicks.org)
 
 ---
 
-## Raízes de Árvores Atacam Tubos de Esgoto?  
-- Escolha árvores menores se a proximidade com tubos de esgoto for preocupante.  
-- Árvores maiores têm raízes mais extensas. Raízes “agressivas” incluem:  
-  - Salgueiro, Freixo, Álamo, Algodoeiro, Liquidâmbar, Sicômoro, algumas variedades de Bordo (Norueguês, Prateado, Boxelder, Vermelho).  
-- As raízes seguem onde há água e ar — penetram em rachaduras ou juntas fracas nos tubos.  
-- Bordas de concreto forçam as raízes a crescer acima do solo ou mais profundamente.  
-  - **Paisagismo e Utilidades: Problemas, Prevenção e Seleção de Plantas**  
-    [https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf](https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf)  
+## Considerações de Espaço para Plantar uma Árvore
+
+- Calcule o espaço disponível acima e abaixo do solo.
+- Pense no alcance futuro das raízes e ramos.
+- Consulte várias fontes para saber a altura e a largura que a árvore terá quando adulta:
+  - [Banco de Dados de Plantas da Paisagem da OSU](https://landscapeplants.oregonstate.edu)
+  - *The Tree Book*, Michael Dirr & Keith Warren, Timber Press, 2019
+  - *Trees to Know in Oregon and Washington*, Edward Jensen, Publicação da OSU Extension EC1450, [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- Lembre-se que o tamanho pode variar dependendo do solo e do local.
 
 ---
 
-## Problemas com Fios e Estruturas ao Posicionar uma Árvore  
-- **Manual do Proprietário de Árvores do USDA** [www.treeownersmanual.info](http://www.treeownersmanual.info)  
-  - Mantenha árvores a pelo menos 1 metro de pavimentos, 4,5 metros de edifícios e outras árvores.  
-  - Árvores que crescem mais de 9 metros devem ser plantadas a 7,5 metros de fios aéreos.  
-  - Árvores altas que atingem 18 metros ou mais devem estar a pelo menos 10,5 metros da casa para o desenvolvimento adequado das raízes.  
+## Lugares para Ver Árvores
 
-- **Sociedade Internacional de Arboricultura** [www.isa-arbor.com](http://www.isa-arbor.com)  
-  - Árvores plantadas dentro de 4,5 metros de fios de utilidades não devem exceder 6 metros de altura na maturidade.  
-
----
-
-## Solo e Água para Posicionar uma Árvore  
-- As raízes precisam de ar e água.  
-- Solo saudável permite que ar e água fluam; solo compactado não.  
-- Posicione árvores onde as raízes não serão cobertas por pavimento ou concreto.  
-- Tenha uma fonte de irrigação.  
-- Regue na zona das raízes durante o estabelecimento (primeiros 3 anos).  
-- Algumas árvores maduras precisam de água durante períodos de seca.  
-- Grama e árvores geralmente têm necessidades de irrigação diferentes.  
-- Algumas árvores, como ciprestes e carvalhos nativos, não gostam de água no verão.  
+- Hoyt Arboretum, Portland, OR  
+  [https://hoytarboretum.gardenexplorer.org](https://hoytarboretum.gardenexplorer.org)
+- Campus da Universidade Estadual de Oregon, Corvallis, OR  
+  [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu)
+- Ruas e parques de Portland  
+  [https://www.portland.gov/trees/get-involved/treeinventory](https://www.portland.gov/trees/get-involved/treeinventory)
+- Jardim de Exposição do Viveiro Cistus, Sauvie Island, OR
+- Viveiro Iseli, Boring, OR
+- Arboreto J. Frank Schmidt, Boring, OR
 
 ---
 
-## Usando Árvores como Quebra-Vento ou Sombra  
-- Considere usar coníferas ou árvores perenes de folhas largas para bloquear o vento predominante.  
-- Use copas de árvores para sombrear o sol de verão.  
-- Use uma árvore caducifólia para sombra no verão se desejar que a luz solar entre no inverno.  
+## Formatos de Árvores na Maturidade
+
+O formato da árvore pode mudar conforme ela cresce.  
+Imagens disponíveis em [https://jfschmidt.com](https://jfschmidt.com).
 
 ---
 
-## Melhores Árvores Pequenas  
-### Caducifólias  
-- Bordo Japonês de Folha de Samambaia  
-- Árvore de Franja Chinesa  
-- Maçã Silvestre Sparkling Sprite®  
-- Pau-ferro Persa  
-- Lagerstroemia  
-- Ginkgo Gold Spire™  
-- Bordo Trepador (nativo de OR)  
-- Cascara (nativo de OR)  
-- Maçã Silvestre Ocidental (nativa de OR)  
+## As Raízes das Árvores Atacam os Canos de Esgoto?
 
-### Perenes  
-- Laranja Mock  
-- Nespereira  
-- Magnolia ‘Largess’  
-- Lacebark da Nova Zelândia  
-- Abeto Nobre ‘Rick’s Foxtail’  
+- Escolha árvores menores se houver preocupação com conflito com canos de esgoto.
+- Árvores grandes têm raízes mais extensas; árvores conhecidas por ter raízes ‘agressivas’ incluem:
+  - Salgueiro, Fresno, Álamo, Algodoeiro, Liquidâmbar, Sicômoro, alguns tipos de Bordo (Noruega, Prateado, Boxelder, Vermelho).
+- As raízes vão onde há água e ar, entrando em rachaduras ou conexões fracas nos canos de esgoto.
+- Bordas de concreto forçam as raízes a crescerem acima do solo ou mais fundo.
+
+**Recurso:**  
+[Paisagismo e Utilidades: Problemas, Prevenção e Seleção de Plantas](https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf)
 
 ---
 
-## Melhores Árvores para Quebra-Vento ou Sombra  
-### Quebra-Vento  
-- Cedro Incenso (nativo de OR)  
+## Fios & Estruturas: Cuidados ao Plantar uma Árvore
 
-### Árvores de Sombra Perene  
-- Carvalho Prateado  
-
-### Árvores de Sombra Caducifólias  
-- Chitalpa ‘Pink Dawn’  
-- Bordo Redpoint®  
-- Tupelo Firestarter®  
-- Cerejeira Pink Flair®  
-- Zelkova City Sprite®  
-- Stewartia Japonesa  
+- **Manual dos Proprietários de Árvores do USDA**: [www.treeownersmanual.info](https://www.treeownersmanual.info)
+  - Plante as árvores a pelo menos 1 metro (3 pés) de calçadas, 4,5 metros (15 pés) de prédios e outras árvores.
+  - Se a árvore vai crescer mais de 9 metros (30 pés), plante a 7,5 metros (25 pés) de distância de fios elétricos.
+  - Árvores altas que chegam a 18 metros (60 pés) ou mais devem ficar a pelo menos 10,5 metros (35 pés) da casa para desenvolvimento adequado das raízes.
+- **Sociedade Internacional de Arboricultura**: [www.isa-arbor.com](https://www.isa-arbor.com)
+  - Árvores plantadas a menos de 4,5 metros (15 pés) de fios de utilidades não devem passar de 6 metros (20 pés) de altura quando adultas.
 
 ---
 
-## Melhores Árvores para Locais Ensolarados e Secos  
-### Nativas do Oregon  
-- Lilás da Califórnia  
-- Cipreste de Macnab  
-- Carvalho Vivo do Cânion  
-- Carvalho Branco do Oregon  
+## Solo & Água: Cuidados ao Plantar uma Árvore
 
-### Não Nativas  
-- Carvalho de Cortiça  
-- Carvalho das Ilhas Channel  
-- Oliveira  
-- Eucalipto Jounama Snow Gum  
+- As raízes precisam de ar e água.
+- Solo saudável permite que ar e água circulem; solo compactado não.
+- Plante árvores onde as raízes não ficarão cobertas por cimento ou concreto.
+- Tenha uma fonte de irrigação.
+- Regue a área das raízes enquanto a árvore está se estabelecendo (primeiros 3 anos).
+- Algumas árvores maduras precisam de água durante a seca.
+- Grama e árvore raramente têm as mesmas necessidades de água.
+- Algumas árvores, como ciprestes e carvalhos nativos, não gostam de água no verão.
 
 ---
 
-## Comprando uma Árvore: Maior ≠ Mais Rápido  
-- Árvores menores transplantadas retomam o crescimento mais rapidamente.  
-- Árvores maiores transplantadas requerem muito mais tempo.  
-- Após o transplante, o crescimento é lento durante vários anos enquanto as raízes alcançam o tamanho da árvore não transplantada.  
+## Usando Árvores Como Quebra-Vento ou para Sombra
+
+- Considere usar coníferas ou árvores de folhas perenes largas para bloquear o vento.
+- Use a copa das árvores para sombrear do sol do verão.
+- Use árvores decíduas para sombra no verão caso queira luz solar no inverno.
 
 ---
 
-## Plantio  
-### Dicas de Plantio Baseadas em Pesquisa Horticultural  
-- Tamanho do buraco: mesma profundidade que o sistema radicular, pelo menos duas vezes a largura.  
-- Remova raízes e pedras grandes do buraco.  
-- Desfaça o solo escavado.  
-- Faça um monte de solo nativo no centro.  
-- Coloque as raízes sobre o monte e espalhe como uma estrela.  
-- Certifique-se de que a coroa esteja ACIMA do nível do solo.  
-- Preencha o buraco com terra e regue bem.  
+## Melhores Árvores Pequenas
 
-### Não Plante Muito Fundo  
-- Certifique-se de que o alargamento da raiz esteja visível.  
+### Decíduas
 
-### Estacas  
-- Somente se necessário (planta pesada ou local com vento).  
-- Insira estacas antes de plantar para evitar danos às raízes.  
-- Amarre baixo (um terço inferior do tronco).  
-- Solto o suficiente para permitir movimento.  
-- Use materiais que não danifiquem a casca.  
-- Remova estacas após um ano.  
+- Bordo-da-lua-com-folhas-de-samambaia
+- Árvore-da-neve-chinesa
+- Maçã Silvestre Sparkling Sprite®
+- Parótia-persa
+- Resedá
+- Ginkgo Gold Spire™
+- Bordo-trepadeira (nativo do Oregon)
+- Cascara (nativo do Oregon)
+- Maçã Silvestre Ocidental (nativo do Oregon)
 
-### Regue Bem  
-- Regue frequentemente se plantar em estação quente.  
-- Plantio no outono requer menos água suplementar.  
-- Hidrate antes de congelar.  
-- Coníferas perenes usam água mesmo no inverno.  
-- Regue a zona das raízes durante o estabelecimento (primeiros 3 anos).  
+### Perenes
+
+- Laranjeira-mexicana
+- Nêspera
+- Magnólia ‘Largess’
+- Lacebark da Nova Zelândia
+- Abeto nobre ‘Rick’s Foxtail’
 
 ---
 
-## Use Mulch  
-- Use lascas de madeira (até 30 cm de espessura é aceitável).  
-- Não misture no solo.  
-- Cubra toda a zona das raízes.  
-- Deixe rente ao tronco.  
+## Melhores Árvores para Quebra-Vento ou Sombra
+
+### Quebra-Vento
+
+- Cedro-do-incenso (nativo do Oregon)
+
+### Árvore de Sombra Perene
+
+- Carvalho-de-folha-prateada
+
+### Árvore de Sombra Decídua
+
+- Chitalpa ‘Pink Dawn’
+- Bordo Redpoint®
+- Tupelo Firestarter®
+- Cerejeira Pink Flair®
+- Zelkova City Sprite®
+- Stewartia japonesa
 
 ---
 
-## Recursos  
-- **Selecionando, Plantando e Cuidando de uma Nova Árvore**, Publicação de Extensão da Universidade Estadual de Oregon EC1438  
-  [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **The Sibley Guide to Trees**, David Allen Sibley, Knopf, 2009  
-- **The Tree Book**, Michael A. Dirr & Keith S. Warren, Timber Press, 2019  
-- **Trees to Know in Oregon and Washington**, Edward C. Jensen, Publicação de Extensão da OSU EC1450  
-- **i-Tree** [https://www.itreetools.org](https://www.itreetools.org)
+## Melhores Árvores para Locais Ensolarados e Secos
+
+### Nativas do Oregon
+
+- Lilás-da-califórnia
+- Cipreste Macnab
+- Carvalho-de-cânion
+- Carvalho-branco-do-oregon
+
+### Não Nativas
+
+- Carvalho-cortiça
+- Carvalho da Ilha do Canal
+- Oliveira
+- Jounama Snow Gum
+
+---
+
+## Comprar uma Árvore: Maior ≠ Mais Rápida
+
+- O crescimento normal retorna quando a árvore transplantada atinge uma proporção de ramos/raízes parecida com a de árvores não transplantadas.
+- Árvores menores transplantadas voltam a crescer mais cedo.
+- Árvores maiores transplantadas levam muito mais tempo.
+- Após o transplante, árvores crescem devagar por muitos anos enquanto as raízes alcançam o tamanho das árvores não transplantadas.
+
+**Recurso:**  
+[Influência do Tamanho da Árvore no Estabelecimento e Crescimento após o Transplante](https://journals.ashs.org/horttech/view/journals/horttech/15/1/article-p118.xml)
+
+---
+
+## Dicas para Plantio
+
+### Não Plante Fundo Demais
+
+- O alargamento das raízes deve ficar acima do nível do solo.
+
+### Estaque Apenas se Necessário
+
+- Para plantas muito pesadas no topo ou locais com muito vento.
+- Coloque os tutores no solo antes de plantar para não danificar as raízes.
+- Amarre na parte baixa (um terço inferior do tronco), frouxo o suficiente para permitir movimento.
+- Use materiais que não machuquem a casca.
+- Retire os tutores após um ano.
+
+### Regue Bem
+
+- Regue com frequência se plantar em época quente.
+- No outono, é preciso menos irrigação adicional.
+- Hidrate antes de geadas.
+- Coníferas perenes precisam de água mesmo no inverno.
+- Regue a área das raízes nos primeiros 3 anos.
+- Por semana, 8 litros por polegada de diâmetro do tronco.
+- As raízes vão além da copa da árvore.
+- Umedeça toda a área das raízes com água pingando devagar:
+  - Mangueira de gotejamento OU
+  - Fure o fundo de um balde de 20 litros e coloque sobre as raízes, depois encha de água.
+
+### Use Cobertura Morta (Mulch)
+
+- 10 cm de lascas de madeira de arborista sobre o solo (pesquisas mostram que até 30 cm está ok).
+- Fresco é melhor que compostado—alimenta fungos e enriquece a biologia do solo.
+- Não misture no solo.
+- Cubra toda a área das raízes, afinando próximo ao tronco.
+
+**Recursos:**
+
+- [Lascas de Madeira Gratuitas](https://portlandgeneral.com/outages-safety/safety/tree-maintenance/free-wood-chips)
+- [Usando lascas de madeira de arborista como cobertura vegetal](https://pubs.extension.wsu.edu/search?q=FS160E)
+
+---
+
+## Recursos Adicionais
+
+- *Selecionando, Plantando e Cuidando de uma Nova Árvore*, Publicação da OSU Extension EC1438, download gratuito em [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- *The Sibley Guide to Trees*, David Allen Sibley, Knopf, 2009
+- *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
+- *Trees to Know in Oregon and Washington*, Edward C. Jensen, Serviço de Extensão da Universidade Estadual de Oregon, EC1450
+- [i-Tree](https://www.itreetools.org/)
+
+---
+
+#### Dúvidas sobre jardinagem? Ligue para a linha de ajuda em horticultura residencial: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para outros folhetos e horários das aulas do 10-Minute University™, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/paternal, renda de programas de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou represália por atividades anteriores de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
+---

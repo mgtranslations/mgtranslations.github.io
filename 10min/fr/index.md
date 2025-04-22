@@ -1,111 +1,133 @@
-# Fiches d’information de l’Université en 10 minutes™ – Association des Maîtres Jardiniers™ du Comté de Clackamas
+#### 10-Minute University™ L’Association des Maîtres Jardiniers du Comté de Clackamas En collaboration avec et en soutien du programme OSU Extension Master Gardener™
 
-**Université en 10 minutes™** est la marque déposée de cours rapides sur les informations essentielles en jardinage, enseignés par les Maîtres Jardiniers du Service de vulgarisation de l’Université d’État de l’Oregon. *Toutes les fiches ont été examinées par la faculté de vulgarisation de l’O.S.U. pour leur exactitude.*
+# Fiches pratiques 10-Minute University™ – Association des Maîtres Jardiniers™ du Comté de Clackamas
 
-***
+**10-Minute University™** est la marque déposée de petits cours sur les informations essentielles de jardinage, enseignés par les Maîtres Jardiniers du Service d’Extension de l’Université d’État de l’Oregon. *Toutes les fiches pratiques ont été vérifiées par le corps enseignant de l’Extension O.S.U. pour leur exactitude factuelle.*
 
-[Fiches d’information de l’Université en 10 minutes™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Vidéos de l’Université en 10 minutes™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
+---
+Source originale : 
 
-***
-## Informations Générales sur le Jardinage
-* [Annuel, Bisannuel et Vivace](Annuals__Biennials__and_Perennials.md)
-* [Fossés filtrants](Bioswales.md)
-* [Les Meilleurs Arbres de Jardin](Best_Garden_Trees.md)
-* [Choisir le Bon Arbre](Choosing_the_Right_Tree.md)
-* [Compostage avec des Vers](Composting_With_Worms.md)
-* [Plantes en Contenants](Container_Planting.md)
-* [Le Jardinier Accessible](The_Enabled_Gardener.md)
-* [Entretien du Jardin en Automne](Fall___Winter_Pests___Diseases.md)
-* [Paysage Résistant au Feu](Firewise_Landscaping.md)
-* [Conception de Jardin 101](Garden_Design_101.md)
-* [Jardinage avec les Enfants 4-7 ans](Gardening_with_Children_4-7.md)
-* [Jardinage avec les Enfants 8-10 ans](Gardening_with_Children_8-10.md)
-* [Jardinage avec les Enfants 11-14 ans](Gardening_with_Children_11-14.md)
-* [Jardinage avec du Compost](Gardening_with_Compost.md)
-* [Jardinage avec du Paillis](Gardening_with_Mulch.md)
-* [Jardinage sous Serre](Greenhouse_Gardening.md)
-* [Paniers Suspendus](Hanging_Baskets.md)
-* [Entretien des Plantes d’Intérieur](Houseplant_Care.md)
-* [Culture Hydroponique](Hydroponic_Growing.md)
-* [Entretien de la Pelouse](Lawn_Care.md)
-* [Conseils de Plantation Basés sur la Recherche](Planting_Tips_Based_on_Research.md)
-* [Plantes Pollinisatrices](Pollinator_Plants.md)
-* [Jardin Pluvial](Rain_Garden.md)
-* [Jardinage en Carrés surélevés](Raised_Bed_Gardening.md)
-* [Entretien des Roses](Rose_Care.md)
-* [Conservation des Semences](Saving_Seeds.md)
-* [Conseils de Jardinage Printaniers](Spring_Gardening_Tips.md)
-* [Dix Mauvaises Herbes à Connaître](Ten_Weeds_to_Know.md)
-* [Conseils d’Arrosage](Watering_Tips.md)
+[Fiches pratiques 10-Minute University™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Vidéos 10-Minute University™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
-## Résilience Climatique au Jardin
-* [Écosystème](Ecosystem.md)
-* [Pelouses](Lawns.md)
-* [Plantes](Plants.md)
-* [Sol](Soil.md)
-* [Eau](Water.md)
-* [Restaurer les Écosystèmes des Jardins](Restore_Garden_Ecosystems.md)
-* [Choix de Plantes Exceptionnelles : Bulbes, Fougères, Lianes, Graminées](Great_Plant_Picks__Bulbs_Ferns_Vines_Grasses.md)
-* [Choix de Plantes Exceptionnelles : Conifères](Great_Plant_Picks__Conifers.md)
-* [Choix de Plantes Exceptionnelles : Vivaces](Great_Plant_Picks__Perennials.md)
-* [Choix de Plantes Exceptionnelles : Arbustes](Great_Plant_Picks__Shrubs.md)
-* [Choix de Plantes Exceptionnelles : Arbres](Great_Plant_Picks__Trees.md)
+---
+
+## Informations générales sur le jardinage
+
+- [Annuelles, bisannuelles et vivaces](Annuals__Biennials__and_Perennials.md)
+- [Bioswales](Bioswales.md)
+- [Meilleurs arbres de jardin](Best_Garden_Trees.md)
+- [Choisir le bon arbre](Choosing_the_Right_Tree.md)
+- [Compostage avec des vers](Composting_With_Worms.md)
+- [Plantation en pot](Container_Planting.md)
+- [Le jardinier aidé](The_Enabled_Gardener.md)
+- [Entretien du jardin en automne](Fall___Winter_Pests___Diseases.md)
+- [Aménagement paysager résistant au feu](Firewise_Landscaping.md)
+- [Conception de jardin 101](Garden_Design_101.md)
+- [Jardiner avec des enfants de 4 à 7 ans](Gardening_with_Children_4-7.md)
+- [Jardiner avec des enfants de 8 à 10 ans](Gardening_with_Children_8-10.md)
+- [Jardiner avec des enfants de 11 à 14 ans](Gardening_with_Children_11-14.md)
+- [Jardiner avec du compost](Gardening_with_Compost.md)
+- [Jardiner avec du paillis](Gardening_with_Mulch.md)
+- [Jardinage en serre](Greenhouse_Gardening.md)
+- [Jardinières suspendues](Hanging_Baskets.md)
+- [Soins des plantes d’intérieur](Houseplant_Care.md)
+- [Culture hydroponique](Hydroponic_Growing.md)
+- [Entretien de la pelouse](Lawn_Care.md)
+- [Conseils de plantation basés sur la recherche](Planting_Tips_Based_on_Research.md)
+- [Plantes pour pollinisateurs](Pollinator_Plants.md)
+- [Jardin de pluie](Rain_Garden.md)
+- [Jardinage en carré surélevé](Raised_Bed_Gardening.md)
+- [Soins des rosiers](Rose_Care.md)
+- [Sauvegarder les graines](Saving_Seeds.md)
+- [Conseils de jardinage de printemps](Spring_Gardening_Tips.md)
+- [Dix mauvaises herbes à connaître](Ten_Weeds_to_Know.md)
+- [Conseils d’arrosage](Watering_Tips.md)
+
+## Résilience climatique du jardin
+
+- [Écosystème](Ecosystem.md)
+- [Pelouses](Lawns.md)
+- [Plantes](Plants.md)
+- [Sol](Soil.md)
+- [Eau](Water.md)
+- [Restaurer les écosystèmes du jardin](Restore_Garden_Ecosystems.md)
+- [Meilleurs choix de plantes : bulbes, fougères, vignes, graminées](Great_Plant_Picks__Bulbs_Ferns_Vines_Grasses.md)
+- [Meilleurs choix de plantes : conifères](Great_Plant_Picks__Conifers.md)
+- [Meilleurs choix de plantes : vivaces](Great_Plant_Picks__Perennials.md)
+- [Meilleurs choix de plantes : arbustes](Great_Plant_Picks__Shrubs.md)
+- [Meilleurs choix de plantes : arbres](Great_Plant_Picks__Trees.md)
 
 ## Sols
-* [Glossaire des Termes sur les Sols](Glossary_of_Soil_Terms.md)
-* [Les Bases du Sol](Soil_101.md)
-* [Jardinage dans un Sol Argileux](Gardening_in_Clay_Soil.md)
-* [Test Simple de Sédimentation des Sols](Simple_Soil_Sedimentation_Test.md)
-* [Matières Organiques comme Amendements pour Sols de Jardin](Organic_Matter_as_Garden_Soil_Amendments.md)
-* [Test de pH du Sol](Testing_Soil_pH.md)
 
-## Cultiver des Plantes Comestibles
-* [Production Annuelle de Légumes en Oregon](Annual_Vegetable_Production_for_Oregon.md)
-* [Cultures de Couverture pour Jardins Domestiques](Cover_Crops_for_Home_Gardens.md)
-* [Aménagement Paysager Comestible](Edible_Landscaping.md)
-* [Jardinage Automnal dans le Potager](Fall_Gardening_in_the_Vegetable_Patch.md)
-* [Passer au Bio dans le Potager](Going_Organic_in_the_Vegetable_Garden.md)
-* [Cultiver des Myrtilles](Growing_Blueberries.md)
-* [Cultiver des Légumes en Début de Saison](Growing_Early_Season_Vegetables.md)
-* [Cultiver des Herbes Aromatiques](Growing_Herbs.md)
-* [Cultiver de la Laitue et autres Légumes Feuilles](Growing_Lettuce_and_Other_Greens.md)
-* [Cultiver des Contenants Jolis et Délicieux](Growing_Pretty___Delicious_Containers.md)
-* [Cultiver des Framboises](Growing_Raspberries.md)
-* [Introduction à la Culture des Racines](Growing_Root_Crops_Introduction.md)
-* [Détails sur la Culture des Racines](Growing_Root_Crops_Specifics.md)
-* [Cultiver des Fraises](Growing_Strawberries.md)
-* [Cultiver des Tomates](Growing_Tomatoes.md)
-* [Cultiver des Légumes en Utilisant Moins d’Eau](Growing_Vegetables_Using_Less_Water.md)
-* [Cultiver des Légumes d’Hiver](Growing_Winter_Vegetables.md)
-* [Démarrer votre Potager](Starting_Your_Vegetable_Garden.md)
+- [Glossaire des termes du sol](Glossary_of_Soil_Terms.md)
+- [Le sol 101](Soil_101.md)
+- [Jardiner dans un sol argileux](Gardening_in_Clay_Soil.md)
+- [Test simple de sédimentation du sol](Simple_Soil_Sedimentation_Test.md)
+- [Matière organique comme amendement du sol de jardin](Organic_Matter_as_Garden_Soil_Amendments.md)
+- [Tester le pH du sol](Testing_Soil_pH.md)
 
-## Insectes et Ravageurs
-* [Attirer les Pollinisateurs](Attracting_Pollinators.md)
-* [Insectes Bénéfiques](Beneficial_Insects.md)
-* [Créer un Jardin pour Pollinisateurs](Creating_A_Pollinator_Garden.md)
-* [Les Meilleures Fleurs pour Abeilles](The_Best_Bee_Flowers.md)
-* [Ravageurs et Maladies en Automne et Hiver](Fall___Winter_Pests___Diseases.md)
-* [Ravageurs d’Insectes](Insect_Pests.md)
-* [Gestion Intégrée des Ravageurs (IPM) pour Jardins Domestiques](Integrated_Pest_Management__IPM__For_Ho.md)
-* [Gestion des Gaufres](Managing_Gophers.md)
-* [Gestion des Taupes](Managing_Moles.md)
-* [Gestion des Limaces et Escargots](Managing_Slugs_and_Snails.md)
-* [Abeille Maçonne des Vergers](Orchard_Mason_Bee.md)
-* [Ravageurs et Maladies des Roses](Rose_Pests_and_Diseases.md)
-* [Ravageurs et Maladies Printanières](Spring_Pests_and_Diseases.md)
+## Cultiver des plantes comestibles
 
-## Taille et Outils
-* [Guide de Taille Automnal des Plantes Vivaces](Fall_Pruning_Guide_for_Perennial_Plants.md)
-* [Entretien des Outils de Jardin](Garden_Tool_Care.md)
-* [Taille Facile](Pruning_Made_Easy.md)
-* [Taille des Arbres et Arbustes](Pruning_Trees_and_Shrubs.md)
-* [Affûtage des Outils de Jardin](Sharpening_Garden_Tools.md)
+- [Production annuelle de légumes pour l’Oregon](Annual_Vegetable_Production_for_Oregon.md)
+- [Engrais verts pour jardins familiaux](Cover_Crops_for_Home_Gardens.md)
+- [Aménagement comestible](Edible_Landscaping.md)
+- [Jardinage d’automne au potager](Fall_Gardening_in_the_Vegetable_Patch.md)
+- [Jardiner bio au potager](Going_Organic_in_the_Vegetable_Garden.md)
+- [Cultiver les myrtilles](Growing_Blueberries.md)
+- [Cultiver des légumes précoces](Growing_Early_Season_Vegetables.md)
+- [Cultiver des herbes aromatiques](Growing_Herbs.md)
+- [Cultiver la laitue et autres salades](Growing_Lettuce_and_Other_Greens.md)
+- [Cultiver de jolis et délicieux contenants](Growing_Pretty___Delicious_Containers.md)
+- [Cultiver les framboises](Growing_Raspberries.md)
+- [Introduction aux légumes racines](Growing_Root_Crops_Introduction.md)
+- [Détails sur la culture des légumes racines](Growing_Root_Crops_Specifics.md)
+- [Cultiver les fraises](Growing_Strawberries.md)
+- [Cultiver les tomates](Growing_Tomatoes.md)
+- [Cultiver des légumes en utilisant moins d’eau](Growing_Vegetables_Using_Less_Water.md)
+- [Cultiver des légumes d’hiver](Growing_Winter_Vegetables.md)
+- [Commencer votre potager](Starting_Your_Vegetable_Garden.md)
 
-## Plantes Natives
-* [Liste des Plantes de l’Étude sur l’Attractivité des Plantes Natives](Native_Plants_Attractiveness_Study_Plant_List.md)
-* [Glossaire des Plantes Natives](Native_Plant_Glossary.md)
-* [Utiliser des Plantes Natives dans votre Jardin](Using_Native_Plants_in_your_Garden.md)
+## Insectes et ravageurs
 
-## Conférences Invitées
-* [Paillis : le Bon, le Mauvais, et le Vraiment, Vraiment Laid. – Linda Chalker-Scott, PhD, WSU](Mulches__the_Good__the_Bad__and_the_Really__Really_Ugly.___Linda_Chalker-Scott__PhD__WSU.md)
-* [Classification et Taille des Clématites – Linda Beutler](Mulches__the_Good__the_Bad__and_the_Really__Really_Ugly.___Linda_Chalker-Scott__PhD__WSU.md)
+- [Attirer les pollinisateurs](Attracting_Pollinators.md)
+- [Insectes bénéfiques](Beneficial_Insects.md)
+- [Créer un jardin pour les pollinisateurs](Creating_A_Pollinator_Garden.md)
+- [Les meilleures fleurs pour abeilles](The_Best_Bee_Flowers.md)
+- [Ravageurs et maladies d’automne et d’hiver](Fall___Winter_Pests___Diseases.md)
+- [Insectes nuisibles](Insect_Pests.md)
+- [Lutte intégrée contre les ravageurs (IPM) pour les jardins familiaux](Integrated_Pest_Management.md)
+- [Gérer les gaufres](Managing_Gophers.md)
+- [Gérer les taupes](Managing_Moles.md)
+- [Gérer les limaces et escargots](Managing_Slugs_and_Snails.md)
+- [Abeille maçonne des vergers](Orchard_Mason_Bee.md)
+- [Ravageurs et maladies des rosiers](Rose_Pests_and_Diseases.md)
+- [Ravageurs et maladies du printemps](Spring_Pests_and_Diseases.md)
+
+## Taille et outils
+
+- [Guide de taille d’automne pour plantes vivaces](Fall_Pruning_Guide_for_Perennial_Plants.md)
+- [Entretien des outils de jardin](Garden_Tool_Care.md)
+- [La taille simplifiée](Pruning_Made_Easy.md)
+- [Tailler arbres et arbustes](Pruning_Trees_and_Shrubs.md)
+- [Aiguiser les outils de jardin](Sharpening_Garden_Tools.md)
+
+## Plantes indigènes
+
+- [Liste d’étude des plantes indigènes attractives](Native_Plants_Attractiveness_Study_Plant_List.md)
+- [Glossaire des plantes indigènes](Native_Plant_Glossary.md)
+- [Utiliser des plantes indigènes dans votre jardin](Using_Native_Plants_in_your_Garden.md)
+
+## Conférences invitées
+
+- [Paillis : le bon, le mauvais et le vraiment, vraiment laid – Linda Chalker-Scott, PhD, WSU](Mulches.md)
+- [Classification et taille des clématites – Linda Beutler](Clematis.md)
+
+---
+
+#### Conseils de Maître Jardinier™ • Appelez la ligne d’assistance en horticulture domestique : 503-655-8631 (Comté de Clackamas) • 503-821-1150 (Comté de Washington) • 503-445-4608 (Comté de Multnomah) • Pour d’autres fiches et le calendrier des cours 10-Minute University™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Service d’Extension de l’Université d’État de l’Oregon • Le Service d’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe, de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état civil, du statut familial/parental, des revenus provenant d’un programme d’aide publique, des convictions politiques, des informations génétiques, du statut de vétéran, de représailles ou de sanctions pour une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+
+---

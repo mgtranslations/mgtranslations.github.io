@@ -1,100 +1,83 @@
-### Université de 10 minutes™  
-L’Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration avec et en soutien au  
-Programme OSU Extension Master Gardener™  
+#### Université de 10 Minutes™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration et en soutien au Programme Maître Jardinier™ de l’Extension de l’OSU
 
-### Les insectes bénéfiques dans le jardin  
-#### Aperçu  
-Parmi les plus de 28 000 espèces d’insectes du Nord-Ouest Pacifique, seulement un à deux pour cent  
-endommagent les cultures, les plantes ou les structures. La majorité est bénéfique et aide les jardiniers  
-à contrôler les ravageurs du jardin ou à polliniser les fruits et légumes. Ce document explore les insectes  
-bénéfiques courants de notre région et partage des idées pour encourager leur présence dans nos jardins.  
+# Insectes utiles au jardin familial
 
-### Les insectes bénéfiques  
-Les trois principaux types d’insectes bénéfiques sont les pollinisateurs, les prédateurs et les parasitoïdes.  
+### Aperçu
 
-#### Les pollinisateurs  
-Les pollinisateurs incluent les abeilles, les mouches, les papillons et les mites. Dans les jardins, les abeilles  
-domestiques, les bourdons, les abeilles maçonnes des vergers et les syrphes sont les pollinisateurs les plus  
-importants, mais de nombreux autres pollinisateurs moins connus, comme les guêpes, les fourmis, les moucherons  
-et les coléoptères jouent également un rôle. Les pollinisateurs jouent un rôle essentiel dans la production de nos  
-cultures alimentaires et de nos plantes de jardin. Les jardiniers peuvent améliorer la santé et la productivité de leur  
-jardin en encourageant la présence des pollinisateurs.  
+Parmi plus de 28 000 espèces d’insectes dans le Nord-Ouest Pacifique, seulement un à deux pour cent endommagent les cultures, les plantes ou les structures. La majorité sont bénéfiques et aident le jardinier à contrôler les ravageurs ou à polliniser fruits et légumes. Ce document présente les insectes utiles courants dans notre région et propose des idées pour encourager leur présence dans nos jardins familiaux.
 
-#### Les prédateurs  
-Les prédateurs, tels que les coccinelles, les mantes religieuses, les chrysopes, les carabes, les punaises pirates  
-minimes, les punaises demoiselles, les larves de syrphes et les mouches serpentines, mangent un grand nombre  
-d’autres insectes. Ils aident à réduire le nombre de ravageurs. En encourageant la présence des prédateurs,  
-les jardiniers diminuent le besoin de contrôler les insectes nuisibles.  
+---
 
-#### Les parasitoïdes  
-Les parasitoïdes sont des insectes qui vivent sur ou dans un insecte hôte, se nourrissant de l’hôte et le tuant  
-généralement avec le temps. Les parasitoïdes bénéfiques courants incluent de petites guêpes sans dard et les mouches  
-tachinaires. Ces insectes sont difficiles à voir, mais les recherches montrent qu’ils ont un impact important sur les  
-populations de ravageurs. Les jardiniers peuvent attirer les parasitoïdes avec leurs plantes alimentaires préférées.  
-Cela inclut des plantes portant des grappes en forme de parapluie (ombelles) de minuscules fleurs comme les carottes,  
-la coriandre, l’aneth, le trèfle doux, le fenouil et la dentelle de la reine Anne.  
+## Insectes utiles
 
-### Comment encourager les insectes bénéfiques  
+Les trois grands types d’insectes utiles sont :
 
-#### Créez des habitats  
-Vous pouvez fournir un habitat pour une variété d’insectes bénéfiques dans votre jardin. Les carabes et les staphylins  
-qui patrouillent dans le sol la nuit en mangeant des limaces et des vers gris ont besoin d’un endroit pour se cacher de  
-leurs ennemis pendant la journée. Les couvre-sols et les paillis grossiers comme les copeaux de bois, la paille et le  
-paillis de feuilles organiques offrent cet habitat. De nombreuses abeilles indigènes nichent dans le sol. Une zone de sol  
-nu ou un lit sec avec des touffes éparses d’herbes ornementales est idéal. Couvrir le sol avec du paillis plastique ou  
-retourner fréquemment le sol peut détruire les nids d’abeilles indigènes. Vous pouvez attirer et garder des abeilles  
-indigènes comme les abeilles maçonnes en leur fournissant des boîtes de nidification faites maison ou achetées.  
+1. **Pollinisateurs**  
+   Les pollinisateurs comprennent les abeilles, les mouches, les papillons et les mites. Dans les jardins familiaux, les abeilles domestiques, les bourdons, les abeilles maçonnes et les syrphes sont les principaux pollinisateurs. Beaucoup d’autres pollinisateurs mineurs, comme les guêpes, les fourmis, les moucherons et les coléoptères, jouent aussi un rôle. Les pollinisateurs sont essentiels à la production alimentaire et à la santé des plantes du jardin. Les jardiniers peuvent améliorer la santé et la productivité de leur jardin en favorisant la présence des pollinisateurs.
 
-#### Fournissez de la nourriture et de l’eau  
-Les insectes ont besoin d’eau pour vivre. Offrez de l’eau dans une soucoupe remplie de cailloux et gardez-la pleine  
-par temps sec. Les fleurs fournissent du nectar (sucre) et du pollen (protéines) aux pollinisateurs et à leurs jeunes.  
-Parce que différents pollinisateurs peuvent avoir des préférences alimentaires différentes, la variété est importante.  
-Des recherches récentes montrent que les zones comprenant 15 espèces ou plus de plantes en fleurs augmentent  
-la diversité des abeilles. Les jardiniers qui souhaitent conserver les abeilles devraient, en règle générale, fournir  
-au moins trois espèces de plantes en fleurs à tout moment, du printemps à l’automne.  
-Les papillons adultes et les mites préfèrent généralement se nourrir de nectar, mais leurs jeunes se nourrissent  
-de feuilles de plantes. Ces "plantes hôtes" sont là où les adultes pondent leurs œufs. Les arbres et arbustes  
-ornementaux indigènes sont souvent d’excellentes plantes hôtes.  
-De nombreux prédateurs et parasitoïdes adultes se nourrissent de nectar et de pollen des plantes insectaires,  
-comme la millefeuille, l’aneth, les soucis et le tournesol.  
+2. **Prédateurs**  
+   Les prédateurs, comme les coccinelles, les mantes religieuses, les chrysopes, les carabes, les punaises pirates, les punaises demoiselles, les larves de syrphes et les rafidies, consomment de nombreux autres insectes et contrôlent les populations de ravageurs. En encourageant les prédateurs, les jardiniers peuvent réduire le besoin de lutter contre les insectes nuisibles.
 
-#### Pratiquez la gestion intégrée des ravageurs  
-La gestion intégrée des ravageurs est une approche complète et systématique des problèmes de plantes.  
-Au premier signe de détresse des plantes, collectez des preuves pour un diagnostic approprié. Comprendre  
-le problème est essentiel pour agir efficacement. De nombreux problèmes de plantes, lorsqu’ils sont détectés  
-tôt, peuvent être gérés par des moyens non chimiques. Soyez donc vigilant dans le jardin.  
-Avant d’utiliser des pesticides systémiques, en particulier sur les plantes visitées par les pollinisateurs, réfléchissez  
-aux avantages par rapport aux inconvénients. Les pesticides systémiques protègent les feuilles des plantes contre  
-les ravageurs et peuvent être transportés en petites doses vers le nectar et le pollen. Les chenilles se nourrissant  
-de plantes ou les abeilles collectant le nectar et le pollen peuvent être affectées lorsqu’elles se nourrissent de plantes  
-protégées par des pesticides systémiques.  
-Si vous devez utiliser des pesticides, suivez les instructions sur l’étiquette afin qu’ils soient appliqués à la bonne  
-concentration, dans des conditions météorologiques appropriées, sur la bonne partie de la plante. Évitez de traiter  
-les plantes en fleurs, y compris les mauvaises herbes ; restez éloigné des zones de nidification ; et vaporisez pendant  
-les moments les plus frais de la journée, comme au crépuscule ou en soirée, lorsque la plupart des pollinisateurs  
-sont moins actifs.  
+3. **Parasitoïdes**  
+   Les parasitoïdes sont des insectes qui vivent sur ou dans un autre insecte, s’en nourrissent et finissent généralement par le tuer. Les parasitoïdes bénéfiques courants incluent les petites guêpes sans aiguillon et les mouches tachinides. Bien qu’ils soient difficiles à voir, des recherches montrent qu’ils ont un impact important sur les populations de ravageurs. Les jardiniers peuvent attirer les parasitoïdes en plantant leurs plantes nourricières favorites, telles que celles à ombelles de petites fleurs : carottes, coriandre, aneth, trèfle doux, fenouil et la carotte sauvage (Queen Anne’s lace).
 
-### Ressources  
-- **Insects of the Pacific Northwest**, Peter and Judy Haggard  
-- **Encouraging Beneficial Insects to Your Garden PNW 550**  
-  [http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/38715/pnw550.pdf](http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/38715/pnw550.pdf)  
-- **Attracting Pollinators to Your Garden, 10-Minute University™ Handout**  
-  [www.cmastergardeners.org](http://www.cmastergardeners.org)  
-- **Clark County Washington Presents Bugs and Pests**  
-  [http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)  
+---
 
-### Conseils des Maîtres Jardiniers™  
-- Appelez la ligne d’assistance en horticulture domestique :  
-  - 503-655-8631 (Comté de Clackamas)  
-  - 503-821-1150 (Comté de Washington)  
-  - 503-445-4608 (Comté de Multnomah)  
-- Pour d’autres documents de l’Université de 10 minutes™ et le calendrier des cours, visitez  
-  [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+## Comment encourager les insectes utiles
 
-### Service d’extension de l’Université d’État de l’Oregon  
-Le Service d’extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes,  
-services, activités et matériaux sur la base de la race, de la couleur, de l’origine nationale, de la religion, du sexe,  
-de l’identité de genre (y compris l’expression de genre), de l’orientation sexuelle, du handicap, de l’âge, de l’état  
-civil, du statut familial ou parental, des revenus provenant d’un programme d’assistance publique, des croyances  
-politiques, des informations génétiques, du statut de vétéran, des représailles ou des retours en arrière pour une  
-activité antérieure liée aux droits civils. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
+### Créer des habitats
+
+Vous pouvez offrir un habitat à divers insectes utiles dans votre jardin :
+
+- **Carabes et staphylins**  
+  Ces insectes patrouillent le sol la nuit, mangeant limaces et vers gris. Ils ont besoin d’un abri pendant la journée. Les couvre-sols et les paillis grossiers comme l’écorce, la paille et le paillis de feuilles organiques offrent cet habitat.
+
+- **Abeilles natives**  
+  Beaucoup d’abeilles natives nichent dans le sol. Une parcelle de terre nue ou un lit sec de touffes d’herbes ornementales espacées est idéale. Recouvrir le sol de paillis plastique ou passer la motobineuse souvent peut détruire leurs nids. Attirez et gardez les abeilles natives, comme les abeilles maçonnes, en leur offrant des nichoirs faits maison ou achetés.
+
+### Offrir nourriture et eau
+
+Les insectes ont besoin d’eau pour vivre. Mettez de l’eau dans une soucoupe remplie de cailloux et gardez-la pleine pendant les journées sèches.
+
+- **Fleurs pour les pollinisateurs**  
+  Les fleurs offrent du nectar (sucre) et du pollen (protéines) aux pollinisateurs et à leurs petits. La variété est importante, car chaque pollinisateur a ses préférences. Des recherches récentes montrent qu’un jardin avec 15 espèces ou plus de plantes à fleurs augmente la diversité des abeilles. Les jardiniers devraient viser à avoir au moins trois espèces de plantes en fleurs à tout moment, du printemps à l’automne.
+
+- **Papillons et mites**  
+  Les papillons et mites adultes préfèrent souvent le nectar, mais leurs chenilles mangent les feuilles. Ces « plantes hôtes » servent aux adultes pour pondre leurs œufs. Les arbres et arbustes ornementaux natifs sont souvent d’excellentes plantes hôtes.
+
+- **Prédateurs et parasitoïdes**  
+  Beaucoup d’adultes prédateurs et parasitoïdes se nourrissent de nectar et de pollen de plantes insectifères, comme l’achillée, l’aneth, le souci et le tournesol.
+
+### Pratiquer la gestion intégrée des ravageurs
+
+La gestion intégrée des ravageurs (GIR) est une approche complète et systématique des problèmes de plantes :
+
+1. **Détection précoce**  
+   Au premier signe de problème, rassemblez des indices pour bien diagnostiquer. Comprendre le problème est essentiel pour agir efficacement. Beaucoup de problèmes, détectés tôt, peuvent être réglés sans produits chimiques.
+
+2. **Réfléchir avant d’utiliser des pesticides**  
+   Avant d’utiliser des pesticides systémiques, surtout sur des plantes visitées par les pollinisateurs, pesez les avantages et les inconvénients. Les pesticides systémiques protègent les feuilles des ravageurs, mais peuvent nuire aux chenilles, abeilles et autres insectes utiles s’ils sont transportés dans le nectar et le pollen.
+
+3. **Bonne application**  
+   Si l’utilisation de pesticides est nécessaire, suivez soigneusement les instructions de l’étiquette. Appliquez à la bonne dose, dans de bonnes conditions météo, et sur la bonne partie de la plante. Évitez de traiter les fleurs, les zones de nidification, et pulvérisez de préférence aux heures fraîches (crépuscule ou soir), quand les pollinisateurs sont moins actifs.
+
+---
+
+## Ressources
+
+- *Insects of the Pacific Northwest*, Peter et Judy Haggard
+- *Encourager les insectes utiles dans votre jardin*, PNW 550  
+  [Lire le guide ici](http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/38715/pnw550.pdf)
+- *Attirer les pollinisateurs dans votre jardin*, fiche Université de 10 Minutes™  
+  [Visitez ici](https://www.cmastergardeners.org)
+- *Le comté de Clark, Washington présente Insectes et Ravageurs*  
+  [En savoir plus ici](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
+
+---
+
+#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches Université de 10 Minutes™ et le calendrier des cours, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Le Service d’Extension de l’Université d’État de l’Oregon interdit la discrimination dans tous ses programmes, services, activités et documents, en raison de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression du genre), l’orientation sexuelle, le handicap, l’âge, le statut marital, le statut familial/parental, le revenu provenant d’un programme d’aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les mesures prises pour des activités antérieures de droits civiques. (Toutes les interdictions ne s’appliquent pas à tous les programmes.)
+---

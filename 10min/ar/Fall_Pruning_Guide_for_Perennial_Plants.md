@@ -1,94 +1,92 @@
-### 10/9/2018  
-#### تم التحضير بواسطة لورا آير  
+#### دليل تقليم النباتات المعمرة في الخريف · إعداد: لورا آير · 10/9/2018
 
-## دليل تقليم النباتات المعمرة في الخريف  
+## النباتات التي يجب تقليمها
 
-### تقليم  
+- السوسن الملتحي
+- زهرة النحل (*Monarda didyma*)
+- زنبق التوت الأسود (*Belamcanda chinensis*)
+- زهرة البطانية (*Gaillardia x grandiflora*)
+- الشمر البرونزي (*Foeniculum vulgare ‘Purpureum’*)
+- النعناع البري (*Nepeta*)
+- زهرة الحذاء (*Aquilegia*)
+- كوريداليس (*Corydalis lutea*)
+- كروكوزميا
+- زنبق النهار (*Hemerocallis*)
+- زهرة الأقحوان الذهبية (*Anthemis tinctoria*)
+- النجم الذهبي (*Chrysogonum virginianum*)
+- ياسمين الأرض (*Clematis recta*)
+- بيغونيا قوية (*Begonia grandis*)
+- دوار الشمس (الأصناف المعمرة: *H. x laetiflorus*, *H. salicifolium*, إلخ)
+- خبازى الخطمي (*Malva alcea*)
+- شقائق النعمان اليابانية (*Anemone x hybrida*)
+- ليغولاريا (*Ligularia dentate*)
+- أودونوفورا ذات الأوراق الزنبقية (*Adenophora lilifolia*)
+- زهرة السيد الرئيسية (*Astrantia major*)
+- شارع المرج (*Thalictrum aquilegiifolium*)
+- زهرة الجبل الزرقاء (*Centaurea montana*)
+- الأقحوان الملون (*Tanacetum coccineum*)
+- بنستيمون (*Penstemon barbatus*)
+- الفاوانيا (*Paeonia*)
+- دوار الشمس المعمر (*Helianthus*)
+- الفلوكس (*Phlox paniculata*)
+- زهرة الخشخاش الريشي (*Macleaya cordata*)
+- ملكة البراري، ملكة المرج (*Filipendula rubra*, *F. ulmaria*)
+- زهرة بغلاس السيبيرية (*Brunnera macrophylla*)
+- المريمية (*Salvia nemorosa*)
+- زهرة العطاس الخريفية (*Helenium autumnale*)
+- خاتم سليمان (*Polygonatum odoratum*)
+- فيرونيكا / سبايك سبيدويل (*Veronica spicata*)
+- البرسيم الكاذب أو البري (*Baptisia australis*)
+- زهرة اليارو (*Achillea*)
 
-- السوسنة الملتحية  
-- عشبة النحل (Monarda didyma)  
-- زنبق التوت الأسود (Belamcanda chinensis)  
-- زهرة البطانية (Gaillardia x grandiflora)  
-- الشمر البرونزي (Foeniculum vulgare ‘Purpureum’)  
-- النعنع البري (Nepeta)  
-- زهرة الكولومبين (Aquilegia)  
-- الكوريداليس (Corydalis lutea)  
-- الكروكوزميا  
-- زنبق النهار (Hemerocallis)  
-- الأقحوان الذهبي (Anthemis tinctoria)  
-- النجمة الذهبية (Chrysogonum virginianum)  
-- زاحف الكليمتيس (Clematis recta)  
-- بيجونيا المعمرة (Begonia grandis)  
-- الهيليانثوس (Helianthus - الأنواع المعمرة مثل H. x laetiflorus، H. salicifolium...)  
-- الملوخية الخبازية (Malva alcea)  
-- الأنيمون الياباني (Anemone x hybrida)  
-- الليجولاريا (Ligularia dentate)  
-- زهرة الجرس اللولبي (Adenophora lilifolia)  
-- زهرة الماستروورت (Astrantia major)  
-- نبات المروج (Thalictrum aquilegiifolium)  
-- زهرة الجبل الزرقاء (Centaurea montana)  
-- زهرة الأقحوان المطلية (Tanacetum coccineum)  
-- نبات بنستيمون (Penstemon barbatus)  
-- زهرة الفاوانيا (Paeonia)  
-- زهرة الشمس المعمرة (Helianthus)  
-- الفلوكس (Phlox paniculata)  
-- نبات الخشخاش الريشي (Macleaya cordata)  
-- ملكة البراري، ملكة المروج (Filipendula rubra، F. ulmaria)  
-- نبات سيبيريان بوجلوس (Brunnera macrophylla)  
-- السالفيا (Salvia nemorosa)  
-- زهرة العطاس (Helenium autumnale)  
-- ختم سليمان (Polygonatum odoratum)  
-- سبيدويل الشائك (Veronica spicata)  
-- نبات الإنديغو البري أو الزائف (Baptisia australis)  
-- نبات اليارو (Achillea)  
+---
 
-### ترك النباتات قائمة  
+## النباتات التي تترك قائمة
 
-- الأرتيميسيا  
-- زهرة الأستر  
+#### إعداد: لورا آير · 10/9/2018
 
-### 10/9/2018  
-#### تم التحضير بواسطة لورا آير  
-
-- زهرة الأستيلبي  
-- زهرة البالون (Platycodon grandiflorus)  
-- سلة الذهب (Aurinia saxatilis)  
-- زهرة دب البري (Acanthus spinosus)  
-- نبات البرجينيا (Bergenia cordifolia)  
-- زهرة العين السوداء (Rudbeckia fulgida)  
-- شجيرة الضباب الأزرق (Caryopteris sp.)  
-- شجيرة الفراشة (Buddleia davidii)  
-- عشبة الفراشة (Asclepias tuberosa)  
-- زهرة الجرس (Campanula)  
-- زهرة الكاردينال (Lobelia cardinalis)  
-- أجراس المرجان (Heuchera sp.)  
-- زهرة اللبخ (Euphorbia polychroma)  
-- زهرة الدلفينيوم  
-- زهرة الديانثوس  
-- زهرة الطحلب (Tiarella cordifolia)  
-- زهرة قفاز الثعلب (Digitalis purpurea)  
-- نبات الغاز (Dictamnus albus)  
-- زهرة الريشة السعيدة (Liatris spicata)  
-- زهرة الجيوم  
-- زهرة الشوك الكروي (Echinops ritro)  
-- نبات العصفر الذهبي (Solidago)  
-- نبات البوجلوس الإيطالي (Anchusa azurea)  
-- عشبة جو-باي (Eupatorium maculatum)  
-- عباءة السيدة (Alchemilla mollis)  
-- نبات أذن الحمل (Stachys byzantina)  
-- نبات الخزامى (Lavandula sp.)  
-- نبات القطن الخزامي (Santolina chamaecyparissus)  
-- زهرة اللوبين (Lupinus sp.)  
-- الأقحوان (Chrysanthemum)  
-- زهرة الدبوس (Scabiosa columbaria)  
-- زهرة المخروط الأرجواني (Echinacea purpurea)  
-- زهرة القلم الأحمر الساخن (Kniphofia)  
-- المريمية الروسية (Perovskia atriplicifolia)  
-- نبات الخزامى البحري (Limonium latifolium)  
-- نبات الخرشوف البحري (Eryngium)  
-- نبات السيدوم  
-- زهرة القرص (Coreopsis species)  
-- زهرة رأس السلحفاة (Chelone lyonii)  
-- نبات الفاليريان (Centranthus ruber)  
-- زهرة العصا (Guara sp.)  
-- الأمسونية الصفصافية (Amsonia tabernaemontana)
+- الأرتيميسيا
+- الأستر
+- الأستيلبي
+- زهرة البالون (*Platycodon grandiflorus*)
+- سلة الذهب (*Aurinia saxatilis*)
+- مخالب الدب (*Acanthus spinosus*)
+- بيرجينيا (*Bergenia cordifolia*)
+- سوزان ذات العيون السوداء (*Rudbeckia fulgida*)
+- شجيرة الضباب الأزرق (*Caryopteris sp.*)
+- شجيرة الفراشة (*Buddleia davidii*)
+- عشب الفراشة (*Asclepias tuberosa*)
+- كامبانولا
+- زهرة الكاردينال (*Lobelia cardinalis*)
+- أجراس المرجان (*Heuchera sp.*)
+- زهرة النجمية المبطنة (*Euphorbia polychroma*)
+- الدلفينيوم
+- الديانثوس
+- زهرة الرغوة (*Tiarella cordifolia*)
+- قفاز الثعلب (*Digitalis purpurea*)
+- نبتة الغاز (*Dictamnus albus*)
+- زهرة الريشة السعيدة (*Liatris spicata*)
+- جيوم
+- شوك الكرة (*Echinops ritro*)
+- العصفر الذهبي (*Solidago*)
+- بغلاس الإيطالي (*Anchusa azurea*)
+- عشبة جو باي (*Eupatorium maculatum*)
+- عباءة السيدة (*Alchemilla mollis*)
+- أذن الحمل (*Stachys byzantina*)
+- الخزامى (*Lavandula sp.*)
+- قطن الخزامى (*Santolina chamaecyparissus*)
+- اللوبيليا (*Lupinus sp.*)
+- الأقحوان (*Chrysanthemum*)
+- زهرة الدبوس (*Scabiosa columbaria*)
+- زهرة المخروط الأرجواني (*Echinacea purpurea*)
+- زهرة النار الحمراء (*Kniphofia*)
+- المريمية الروسية (*Perovskia atriplicifolia*)
+- الخزامى البحري (*Limonium latifolium*)
+- زهرة البحر الشوكية (*Eryngium*)
+- السيدوم
+- زهرة القرص (*Coreopsis species*)
+- رأس السلحفاة (*Chelone lyonii*)
+- الناردين (*Centranthus ruber*)
+- زهرة العصا (*Guara sp.*)
+- أمسونيا الصفصافية (*Amsonia tabernaemontana*)
+---

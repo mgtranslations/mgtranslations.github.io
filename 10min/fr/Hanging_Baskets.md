@@ -1,116 +1,148 @@
-# Université de 10 Minutes™  
-L'Association des Maîtres Jardiniers du Comté de Clackamas, en collaboration avec et en soutien au Programme des Maîtres Jardiniers™ de l'Extension de l'Université de l'État de l'Oregon (OSU)  
+#### 10-Minute University™ · L’Association des Maîtres Jardiniers du Comté de Clackamas en collaboration avec et en soutien au Programme des Maîtres Jardiniers™ de l’Extension de l’OSU
 
-## Paniers Suspendus  
+# Jardinières Suspendues
 
-### Aperçu  
-Les paniers suspendus, débordant de fleurs abondantes aux couleurs riches, sont des éléments appréciés durant l'été dans de nombreuses villes et jardins.  
+### Aperçu
 
-### Choisir un contenant  
-Un contenant adapté doit être assez grand pour durer toute la saison de croissance et assez léger pour être suspendu facilement. Un contenant simple fonctionne bien, car rapidement, le pot sera complètement couvert par vos plantes retombantes.  
+Les jardinières suspendues, débordantes de fleurs aux couleurs éclatantes, sont des éléments appréciés dans de nombreuses villes et jardins pendant l’été.
 
-Les contenants existent dans une variété de formes, tailles et matériaux. Le bois, la mousse de sphaigne, et l'argile non émaillée ou la terre cuite peuvent se dessécher rapidement. Ces matériaux peuvent être doublés (généralement avec un plastique perforé) pour conserver l'humidité plus longtemps. Sachez que l'argile et la terre cuite seront très lourdes une fois plantées et arrosées. Choisissez des contenants adaptés à votre style, décor et paysage.  
+### Choisir un Contenant
 
-Un contenant de 25 cm peut nécessiter un arrosage tous les 1 à 2 jours. Les contenants plus petits devront être arrosés encore plus fréquemment.  
+Un contenant adapté doit être assez grand pour durer toute la saison de croissance et assez léger pour être accroché facilement. Un pot simple fonctionne bien car, en peu de temps, il sera complètement recouvert par vos plantes retombantes.
 
-### Utiliser un mélange de terreau  
-Utilisez un mélange de terreau de bonne qualité pour remplir votre contenant. Ces produits sont formulés pour être très grossiers, assurant ainsi un bon drainage dans les contenants. Un mélange bien drainé favorise grandement la santé des plantes.  
+Les contenants existent dans de nombreuses formes, tailles et matériaux. Le bois, la mousse de sphaigne et la terre cuite non vernissée peuvent sécher rapidement. On peut les tapisser (souvent avec du plastique perforé) pour garder l’humidité plus longtemps. Sachez que la terre cuite deviendra très lourde après la plantation et l’arrosage. Choisissez des contenants adaptés à votre style, à votre décor et à votre jardin.
 
-Si vous réutilisez le contenant pour une autre saison, envisagez de remplacer le mélange de terreau. Ce remplacement est essentiel si la plantation précédente avait une maladie des racines ; dans ce cas, nettoyez également le contenant soigneusement.  
+Sachez qu’un contenant de 25 cm peut nécessiter un arrosage tous les 1 à 2 jours. Les pots plus petits devront être arrosés encore plus souvent.
 
-N'utilisez pas de terre de jardin dans les contenants, car sa texture fine limite sévèrement le drainage et, par conséquent, inhibe la croissance des racines. La terre de jardin peut aussi introduire des maladies, des insectes et des graines de mauvaises herbes.  
+### Utiliser un Terreau
 
-Soyez conscient que l'idée souvent suggérée de mettre des matériaux grossiers au fond du contenant pour le drainage est incorrecte. En raison des dynamiques du mouvement de l'eau dans un contenant, ces matériaux grossiers inhibent le drainage.  
+Utilisez un terreau de bonne qualité pour remplir votre contenant. Ces produits sont conçus pour être très grossiers, ce qui assure un bon drainage dans les pots. Un mélange bien drainé favorise la bonne santé des plantes.
 
-### Utiliser un engrais  
-Donnez un bon départ à vos plantes en mélangeant un engrais dans le mélange de terreau avant de planter. Une formule à libération lente conçue pour durer 3 à 4 mois fonctionne bien, car elle durera toute la saison. Une fois toutes les plantes en place, stabilisez le mélange autour de leurs racines avec de l'eau enrichie d'un engrais soluble à moitié dose.  
+Si vous réutilisez le contenant une autre saison, pensez à remplacer le terreau. Cela est essentiel si la plantation précédente a eu une maladie des racines ; dans ce cas, lavez aussi bien le pot.
 
-### Choisir vos plantes  
-Il est essentiel que les plantes dans un même contenant prospèrent dans les mêmes conditions de croissance, qu'il s'agisse de soleil ou d'ombre, d'humidité ou de sécheresse relative. Pensez également à l'habitude de croissance des plantes, comme le port dressé ou retombant. Vous pouvez combiner annuelles et vivaces dans un même pot pour une seule saison, puis, à la fin de la saison, remplacer les annuelles pour un look frais et nouveau.  
+N’utilisez pas de terre de jardin dans les pots, car sa texture fine limite beaucoup le drainage et gêne la croissance des racines. La terre de jardin peut aussi apporter des maladies, des insectes et des graines de mauvaises herbes.
 
-### Concevoir et planter  
-Après avoir choisi un contenant, et réuni les plantes et le mélange de terreau, suivez ces étapes pour réussir :  
-1. Versez la quantité de mélange de terreau dont vous pensez avoir besoin, puis mélangez-y un engrais à libération lente de 3 à 4 mois selon les instructions sur l'étiquette.  
-2. Versez juste assez de mélange dans votre contenant pour que les plantes puissent être placées tout en restant à 2,5 cm sous le rebord du contenant. (Sachez que si vous remplissez complètement le contenant, vous devrez retirer du mélange pour faire de la place aux racines.)  
-3. Placez les plantes hautes au centre ou à l'arrière du contenant, remplissez avec des plantes en touffes, puis terminez avec des plantes retombantes sur le bord du contenant. Pour un look équilibré, placez deux ou plusieurs exemplaires de la même plante (ou plusieurs plantes de taille, feuillage et couleur similaires) en vis-à-vis dans le contenant.  
-4. Pour compléter la plantation, remplissez autour des plantes avec du mélange supplémentaire pour fusionner la combinaison et couvrir les racines exposées. Une fois tout en place, le mélange doit être à environ 2,5 cm sous le rebord du contenant pour laisser de l'espace pour l'arrosage.  
-5. Stabilisez le mélange autour des racines avec de l'eau enrichie d'engrais mélangé à moitié dose.  
-6. Suspendez votre contenant dans un endroit où les conditions de soleil ou d'ombre correspondent aux besoins de vos plantes. Maintenant, détendez-vous et profitez !  
+Attention : il est faux de croire que mettre “du gros matériau au fond du pot pour le drainage” aide. À cause de la façon dont l’eau circule dans un pot, ce matériau grossier gênera le drainage.
 
-### Entretenir votre contenant  
-Arrosez si nécessaire. Vous n’aurez pas besoin d’arroser aussi souvent par temps frais ou doux que par temps chaud, voire très chaud, et/ou venteux. Par temps chaud, vous devrez peut-être arroser une ou deux fois par jour, selon la taille du contenant et le nombre et le type de plantes qu'il contient.  
+### Utiliser de l’Engrais
 
-Si vous doutez de la nécessité d’arroser, touchez la surface du mélange. Arrosez s’il est sec, ne le faites pas s’il est humide.  
+Aidez vos plantes à bien démarrer en mélangeant de l’engrais dans le terreau avant la plantation. Une formule à libération lente conçue pour durer 3 à 4 mois fonctionne bien car elle dure toute la saison.
 
-La dose initiale d'engrais mélangée au terreau peut suffire pour toute la saison. Mais si les plantes commencent à faiblir, complétez avec un engrais soluble dans l’eau une ou deux fois par semaine, puis répétez si nécessaire.  
+Après avoir installé toutes les plantes, stabilisez le terreau autour des mottes de racines avec de l’eau enrichie d’un engrais soluble à moitié dose.
 
-Pour garder un aspect soigné tout au long de la saison, retirez les fleurs fanées (taillez) au moins une fois par semaine.  
+### Choisir Vos Plantes
 
-### Quelques plantes suggérées  
-De nombreuses plantes réussissent dans des paniers suspendus saisonniers. Voici quelques suggestions parmi les nombreuses options disponibles. Certaines plantes conviennent autant au soleil qu'à l'ombre.  
+Il est essentiel que les plantes d’un même contenant aient des besoins similaires, que ce soit en soleil ou à l’ombre, en sol humide ou plutôt sec. Pensez aussi à la forme de croissance des plantes, comme dressée ou retombante.
 
-#### Plantes dressées pour le soleil  
-- Angelonia  
-- Cordyline  
-- Cosmos  
-- Marguerites  
-- Dracaena  
-- Géranium  
-- Graminées ornementales  
+Vous pouvez associer des annuelles et des vivaces dans un même pot pour une saison. À la fin de la saison, vous pouvez remplacer les annuelles pour un nouveau look.
 
-#### Plantes dressées pour l'ombre  
-- Héliotrope  
-- Coléus d'ombre  
-- Impatiens doubles  
-- Fougères  
-- Fuchsia  
-- Bégonias tubéreux  
+### Concevoir et Planter
 
-#### Plantes en touffes pour le soleil  
-- Bidens  
-- Brachycome  
-- Diascia  
-- Pétunia Fantasy  
-- Bégonia fibreux  
+Après avoir choisi un pot, préparé les plantes et le terreau, suivez ces étapes pour réussir :
 
-#### Plantes en touffes pour l'ombre  
-- Géranium  
-- Némésie  
-- Coléus  
-- Impatiens  
-- Lobélie dressée  
+1. Versez la quantité de terreau dont vous pensez avoir besoin, puis mélangez-y un engrais à libération lente pour 3 à 4 mois ; suivez les instructions de l’étiquette pour la quantité à utiliser.
+2. Mettez juste assez de terreau dans le contenant pour que les plantes soient à 2-3 cm sous le bord du pot. (Si vous remplissez le pot à ras bord, vous devrez ôter du terreau à chaque nouvelle plante.)
+3. Placez les plantes hautes et droites au centre ou à l’arrière du pot, ajoutez ensuite les plantes en touffes, puis terminez par les plantes retombantes près du bord. Pour un aspect équilibré, placez deux ou plusieurs plants identiques (ou de taille, feuillage et couleur similaires) en face à face dans le pot.
+4. Pour finir la plantation, complétez autour des plantes avec du terreau pour harmoniser l’ensemble et bien couvrir les racines exposées. À la fin, le terreau doit être à environ 2-3 cm sous le bord du pot pour laisser de la place à l’arrosage.
+5. Stabilisez le terreau autour des racines avec de l’eau enrichie d’engrais à moitié dose.
+6. Accrochez votre contenant à l’endroit où les conditions de soleil ou d’ombre conviennent à vos plantes. Maintenant, détendez-vous et profitez-en !
 
-#### Plantes retombantes pour le soleil  
-- Anagalis  
-- Alyssum  
-- Bacopa  
-- Charlie rampant  
-- Jenny rampante  
-- Zinnia rampant  
-- Lamium  
-- Plante réglisse  
+### Entretenir Votre Contenant
 
-#### Plantes retombantes pour l'ombre  
-- Bacopa  
-- Charlie rampant  
-- Jenny rampante  
-- Fuchsia  
-- Vigne de patates douces  
-- Lierre  
-- Lobélie retombante  
+Arrosez quand c’est nécessaire. Vous n’aurez pas besoin d’arroser aussi souvent par temps frais ou doux que par temps chaud, voire très chaud et/ou venteux. Pendant les fortes chaleurs, il peut être nécessaire d’arroser une à deux fois par jour selon la taille du contenant et le nombre et type de plantes.
 
-### Informations supplémentaires  
-De nombreux livres sont disponibles sur la culture des paniers suspendus, il est donc difficile de limiter nos suggestions. Vous trouverez davantage de titres dans les bibliothèques et librairies.  
+Si vous doutez du besoin d’arroser, touchez la surface du terreau. Arrosez si c’est sec ; n’arrosez pas si c’est humide.
 
-- *Hanging Baskets: A Practical Step-By-Step Guide* par Jenny Hendy  
-- *Year-Round Containers, Baskets & Boxes* par Graham Strong et Claire Phoenix  
-- *The Hanging Garden* par Sue Fisher  
-- *Container and Hanging Gardens* (Livres Ortho)  
-- *Gardening in Containers* (Sunset)  
-- *Pots in the Garden* par Ray Rogers  
+La première dose d’engrais mélangée au terreau peut suffire pour toute la saison. Mais si les plantes commencent à ralentir, complétez avec un engrais soluble une ou deux fois par semaine, puis répétez si besoin.
 
-### Conseils des Maîtres Jardiniers™  
-- Appelez la ligne d’assistance en horticulture domestique : 503-655-8631 (Comté de Clackamas), 503-821-1150 (Comté de Washington), ou 503-445-4608 (Comté de Multnomah).  
-- Pour plus de fiches et le programme des cours de l’Université de 10 Minutes™, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+Pour garder un bel aspect toute la saison, retirez les fleurs fanées au moins une fois par semaine.
 
-L'Université de l'État de l'Oregon interdit la discrimination dans tous ses programmes, services, activités et matériaux sur la base de la race, la couleur, l'origine nationale, la religion, le sexe, l'identité de genre (y compris l'expression de genre), l'orientation sexuelle, le handicap, l'âge, le statut marital, le statut familial ou parental, les revenus provenant d'un programme d'assistance publique, les convictions politiques, les informations génétiques, le statut de vétéran, les représailles ou les retours négatifs liés à une activité antérieure en matière de droits civils. (Tous les motifs interdits ne s'appliquent pas à tous les programmes.)
+### Quelques Plantes Suggérées
+
+De nombreuses plantes réussissent en jardinières suspendues saisonnières. Celles listées ci-dessous ne sont qu’un petit exemple. Notez que certaines plantes conviennent au soleil ou à l’ombre.
+
+#### Plantes Dressées pour le Soleil
+
+- Angélonia
+- Cordyline
+- Cosmos
+- Marguerites
+- Dracaena
+- Géranium
+- Graminées ornementales
+
+#### Plantes Dressées pour l’Ombre
+
+- Héliotrope
+- Coléus d’ombre
+- Impatiens doubles
+- Bégonia Rex
+- Fougères
+- Fuchsia
+- Impatiens de Nouvelle-Guinée
+- Bégonia tubéreux
+
+#### Plantes en Touffes pour le Soleil
+
+- Bidens
+- Brachycome
+- Diascia
+- Pétunia Fantasy
+- Bégonia fibreux
+
+#### Plantes en Touffes pour l’Ombre
+
+- Géranium
+- Nemesia
+- Coléus
+- Plante à points blancs
+- Impatiens
+- Lobélie dressée
+
+#### Plantes Retombantes pour le Soleil
+
+- Anagalis
+- Alyssum
+- Bacopa
+- Lierre terrestre (Creeping Charlie)
+- Lysimaque (Creeping Jenny)
+- Zinnia rampant
+- Lierre
+- Lamium
+- Réglisse ornementale
+
+#### Plantes Retombantes pour l’Ombre
+
+- Lotus rampant
+- Million bells
+- Pourpier (Portulaca)
+- Scaevola
+- Patate douce ornementale
+- Lobélie retombante
+- Pétunia retombant
+- Verveine
+- Vinca
+
+### Informations Supplémentaires
+
+Il existe tellement de livres sur les jardinières suspendues qu’il est difficile de n’en suggérer que quelques-uns. Vous en trouverez bien d’autres en bibliothèque et en librairie.
+
+- *Jardinières Suspendues : Guide Pratique Pas à Pas* de Jenny Hendy
+- *Jardinières et Bacs Toute l’Année* de Graham Strong et Claire Phoenix
+- *Le Jardin Suspendu* de Sue Fisher
+- *Jardins en Pots et Suspendus* (Ortho Books)
+- *Le Jardinage en Pots* (Sunset)
+- *Pots au Jardin* de Ray Rogers
+
+#### Conseils du Maître Jardinier™
+
+- **Appelez la ligne d’assistance en horticulture :**
+  - 503-655-8631 (Comté de Clackamas)
+  - 503-821-1150 (Comté de Washington)
+  - 503-445-4608 (Comté de Multnomah)
+- Pour plus de fiches 10-Minute University™ et le calendrier des cours, visitez [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### L’Oregon State University Extension Service interdit toute discrimination dans ses programmes, services, activités et documents, sur la base de la race, la couleur, l’origine nationale, la religion, le sexe, l’identité de genre (y compris l’expression de genre), l’orientation sexuelle, le handicap, l’âge, l’état civil, le statut familial/parental, les revenus provenant d’une aide publique, les opinions politiques, les informations génétiques, le statut d’ancien combattant, les représailles ou les sanctions pour des activités antérieures de droits civils. (Toutes les restrictions ne s’appliquent pas nécessairement à tous les programmes.)
+---

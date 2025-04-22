@@ -1,73 +1,85 @@
-# 10-Minuten-Universität™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Herbst-Gartenpflege  
+# Gartenpflege im Herbst
 
-### Übersicht  
-Der Herbst ist eine gute Zeit, um neue Pflanzen hinzuzufügen, Sträucher und Stauden zu versetzen oder zu verpflanzen und Ihre Gartenbeete zu mulchen. Krankheiten wie Wurzelfäule, Blattflecken und Stängelkrebse gedeihen im Herbstregen. Eine richtige Reinigung kann die Entwicklung von Krankheiten verhindern und ist effektiver als die Behandlung einer infizierten Pflanze.  
+### Überblick
 
-### Allgemeine Tipps  
-Kennen Sie das Datum des ersten Frostes in Ihrer Region. Im Willamette Valley liegt dieses Datum normalerweise in der ersten Oktoberwoche. Bringen Sie empfindliche Pflanzen vor diesem Zeitpunkt ins Haus, um sie zu überwintern. Reinigen Sie vorher ihre Blätter und überprüfen Sie sie auf Insekten oder deren Eier.  
+Der Herbst ist eine gute Zeit, um neue Pflanzen zu setzen, Sträucher und Stauden umzupflanzen oder zu teilen und die Gartenbeete zu mulchen. Krankheiten wie Wurzelfäule, Blattflecken und Stängelkrebse gedeihen im herbstlichen Regen. Gründliches Aufräumen kann Krankheiten verhindern und ist effektiver als die Behandlung bereits infizierter Pflanzen.
 
-Verbessern Sie Ihren Boden. Bearbeiten Sie den Boden mit Kompost, um die Drainage zu verbessern. Böden mit hohem Gehalt an organischem Material bleiben im Winter wärmer und reduzieren so den Pflanzenverlust. Testen Sie den Boden und tragen Sie, falls erforderlich, jetzt Kalk auf. Wenn die Alkalität reduziert werden muss, fügen Sie Schwefel hinzu.  
+### Allgemeine Tipps
 
-Überprüfen Sie, ob Ihre Pflanzen Wasser benötigen, besonders nach längeren Trocken- und Windperioden. Widmen Sie neu gepflanzten Beeten und Pflanzen unter oder in der Nähe von großen, etablierten Bäumen besondere Aufmerksamkeit.  
+- **Kennen Sie den ersten Frosttermin in Ihrer Region.**  
+  Im Willamette Valley ist dies meist in der ersten Oktoberwoche. Bringen Sie empfindliche Pflanzen vorher ins Haus, damit sie überwintern können. Reinigen Sie vorher die Blätter und kontrollieren Sie auf Insekten oder deren Eier.
 
-Suchen Sie unter Brettern und Steinen oder in dichtem Laub nach Schnecken und Schneckeneiern und töten Sie sie durch Zerquetschen oder Schneiden. Ködern Sie Schnecken bei Bedarf und seien Sie im frühen Frühling für eine weitere frische Anwendung bereit. Fallen Sie Maulwürfe und Taschenratten und bekämpfen Sie andere Schädlingsprobleme.  
+- **Verbessern Sie Ihren Boden.**  
+  Arbeiten Sie Kompost ein, um die Drainage zu verbessern. Böden mit viel organischem Material bleiben im Winter wärmer, was den Verlust von Pflanzen reduziert. Testen Sie den Boden und bringen Sie, falls nötig, Kalk aus. Falls der Boden weniger alkalisch werden soll, geben Sie Schwefel hinzu.
 
-Mulch ist eine Isolierung. Er hält den Boden um die Pflanzenwurzeln an warmen Tagen kühler und an kalten Nächten wärmer. Nachdem die Pflanzen in den Ruhezustand übergegangen sind, tragen Sie 7-10 cm gut kompostierten Gartenmulch auf. Verringern Sie die Tiefe, sodass die Kronen der Pflanzen und Baumstämme unbedeckt bleiben.  
+- **Überprüfen Sie, ob Ihre Pflanzen Wasser brauchen,** vor allem nach längerer Trockenheit oder windigem Wetter. Achten Sie besonders auf neu angelegte Beete und Pflanzen, die unter oder in der Nähe großer, alter Bäume stehen.
 
-Entfernen und zerstören Sie erkrankte Pflanzen, bevor sie ihre Nachbarn infizieren. Es ist einfacher, Baum- und Strauchkrankheiten zu erkennen, wenn Blätter vorhanden sind. Es sei denn, Ihr Komposthaufen erhitzt sich auf 160 Grad oder mehr – lassen Sie erkrankte Pflanzenteile aus Ihrem Kompost weg.  
+- **Suchen Sie nach Schnecken und Schneckeneiern** unter Brettern, Steinen oder dichtem Laub. Töten Sie sie durch Zerdrücken oder Abschneiden. Verwenden Sie bei Bedarf Schneckenköder und seien Sie bereit, im zeitigen Frühjahr erneut auszubringen. Fangen Sie Maulwürfe und Wühlmäuse und bekämpfen Sie andere Schädlinge.
 
-Beim Entfernen erkrankter Äste schneiden Sie zwei bis drei Zentimeter unterhalb des infizierten Bereichs. Falls Sie in den infizierten Teil des Astes schneiden, sterilisieren Sie das Schneidewerkzeug, indem Sie es mit Alkohol oder einer Lösung aus einem Teil Haushaltsbleiche und neun Teilen Wasser abwischen.  
+- **Mulch dient als Isolierung.**  
+  Er hält den Boden an warmen Tagen kühler und an kalten Nächten wärmer. Nachdem die Pflanzen in Winterruhe sind, bringen Sie 7–10 cm gut verrotteten Mulch aus. Lassen Sie dabei den Wurzelbereich (Krone) der Pflanzen sowie Baumstämme frei.
 
-### Zierpflanzen  
-Lassen Sie einige Pflanzen im Herbst von selbst aussäen. Nachdem die Keimlinge im Frühling aufgehen, dünnen Sie sie aus, um das gewünschte Farbmuster zu formen. Süßwicken, Sonnenblumen, Akelei, einjährige Rittersporn, Mohn, Ringelblumen, Kapuzinerkresse, Clarkia, Alyssum und sogar Petunien können auf diese Weise gepflegt werden, um jedes Jahr zurückzukehren. Einjährige Kräuter sind willige Selbstaussäer. Dill und Koriander können jedes Jahr zurückkommen, wenn die Samenstände an der Pflanze bleiben.  
+- **Entfernen und vernichten Sie kranke Pflanzen,** bevor sie andere anstecken. Krankheiten an Bäumen und Sträuchern lassen sich besser erkennen, solange Blätter vorhanden sind. Kompostieren Sie kranke Pflanzenteile nur, wenn Ihr Komposthaufen mindestens 70°C erreicht, sonst entsorgen Sie diese lieber separat.
 
-Sammeln Sie Kräuter, Samenstände und Blumen zum Trocknen. Sammeln Sie getrocknete Samen von offen bestäubten Blumen und Gemüse zum Aussäen im nächsten Jahr.  
+- **Beim Entfernen von kranken Ästen** schneiden Sie zwei bis drei Zentimeter unterhalb der befallenen Stelle ab. Wenn Sie in den befallenen Bereich schneiden, desinfizieren Sie Ihr Werkzeug mit Alkohol oder einer Mischung aus einem Teil Haushaltsbleiche und neun Teilen Wasser.
 
-Kürzen Sie Rosenstöcke auf 75 cm oder Hüfthöhe, um Windschäden zu vermeiden. Beenden Sie den Rosenschnitt im Februar. Schneiden Sie sommerblühende Sträucher im späten Winter oder frühen Frühling. Herbstschnitt sollte vermieden werden, da er neues Wachstum stimuliert, das anfällig für Winterschäden ist.  
+### Zierpflanzen
 
-Krautig-staudenartige Pflanzen wie Funkien, Taglilien, Astilben, Monarden, Pfingstrosen und Goldruten sterben im Herbst bis zum Boden zurück und treiben im Frühling wieder aus. Sobald der Frost ihre Spitzen braun färbt, schneiden Sie sie bis zum Boden zurück.  
+- **Lassen Sie einige Pflanzen im Herbst aussamen.**  
+  Wenn im Frühling die Keimlinge erscheinen, können Sie sie ausdünnen und die gewünschte Farbkombination gestalten. Duftwicken, Sonnenblumen, Akelei, einjährige Delphinien, Mohn, Ringelblume, Kapuzinerkresse, Clarkia, Steinkraut und sogar Petunien können so jedes Jahr wiederkommen. Einjährige Kräuter wie Dill und Koriander können sich ebenfalls selbst aussäen, wenn die Samenstände an der Pflanze bleiben.
 
-Halb-krautige Stauden, wie Sonnenhut, Bartfaden und Shasta-Gänseblümchen, verlieren im Winter ihre oberen Blätter, behalten aber basales Laub. Entfernen Sie die abgestorbenen Spitzen, lassen Sie jedoch 5-7 cm grünes Laub an der Basis stehen.  
+- **Sammeln Sie Kräuter, Samenstände und Blüten zum Trocknen.**  
+  Ernten Sie getrocknete Samen von offen bestäubten Blumen und Gemüsen für die Aussaat im nächsten Jahr.
 
-Pflanzen Sie im Frühling blühende Zwiebeln und teilen Sie große Stauden wie Taglilien, Christrosen und Funkien. Dies kontrolliert ihre Größe und erneuert die Blüte.  
+- **Kürzen Sie Rosen-Triebe** auf etwa 75 cm oder Hüfthöhe, um Windschäden zu vermeiden. Den Rückschnitt der Rosen schließen Sie im Februar ab. Sträucher, die im Sommer blühen, schneiden Sie im späten Winter oder zeitigen Frühjahr. Vermeiden Sie den Rückschnitt im Herbst, da dies neues Wachstum anregt, das im Winter Schaden nehmen kann.
 
-Stützen Sie neu gepflanzte Laubbäume, damit sie nicht im Wind schaukeln und ihre Wurzeln lockern. Entfernen Sie die Stützen im Frühling.  
+- **Krautig wachsende Stauden** wie Funkien, Taglilien, Astilben, Indianernessel, Pfingstrosen und Goldrute sterben im Herbst bis zum Boden ab und treiben im Frühling wieder aus. Sobald der Frost die Blätter braun gefärbt hat, schneiden Sie sie bodennah zurück.
 
-Graben Sie empfindliche Zwiebeln wie Dahlien, Begonien, Kaladien, Canna und Gladiolen aus. Wickeln Sie sie in feuchtes Material und lagern Sie sie an einem kühlen, dunklen Ort.  
+- **Halb-krautig wachsende Stauden** wie Sonnenhut, Bartfaden und Margeriten verlieren im Herbst das obere Laub, behalten aber basale Blätter. Entfernen Sie die abgestorbenen Teile, lassen Sie aber 5–7 cm grüne Blätter an der Basis stehen.
 
-Ziergräser haben im Herbst und Winter schöne Samenstände. Es ist am besten, sie im Frühling zu schneiden, wenn junge Triebe zu erscheinen beginnen.  
+- **Pflanzen Sie frühjahrsblühende Zwiebeln** und teilen Sie große Stauden wie Taglilien, Lenzrosen und Funkien. So kontrollieren Sie ihre Größe und fördern die Blüte.
 
-Rechen Sie Baum- und Strauchblätter zusammen und kompostieren Sie sie, es sei denn, sie zeigen Anzeichen von Krankheit.  
+- **Stützen Sie frisch gepflanzte Laubbäume,** damit sie bei Wind nicht wackeln und die Wurzeln sich gut verankern. Entfernen Sie die Stützen im Frühjahr.
 
-Tragen Sie Langzeitdünger auf Ihren Rasen auf, um das Wurzelwachstum zu fördern. Achten Sie auf Rasendünger, der für Herbst-/Winteranwendungen gekennzeichnet ist. Tragen Sie Herbizide auf, um breitblättrige Unkräuter zu bekämpfen. Vertikutieren Sie den Rasen durch Harken und säen Sie nach, wo der Rasen nicht dicht und kräftig ist.  
+- **Graben Sie frostempfindliche Zwiebeln aus** wie Dahlien, Begonien, Kaladien, Canna und Gladiolen. Wickeln Sie sie in feuchtes Material und lagern Sie sie kühl und dunkel.
 
-### Essbare Pflanzen  
-Entfernen Sie erkrankte Pflanzenreste. Graben Sie gesunde Pflanzenreste unter oder kompostieren Sie sie.  
+- **Ziergräser** haben im Herbst und Winter schöne Samenstände. Am besten schneiden Sie sie im Frühjahr zurück, wenn neue Triebe erscheinen.
 
-Entfernen Sie alte fruchttragende Ruten von Himbeeren, Brombeeren und Boysenbeeren.  
+- **Rechen Sie Laub von Bäumen und Sträuchern zusammen** und kompostieren Sie es, sofern es keine Krankheitsanzeichen zeigt.
 
-Pflanzen Sie Zwischenfrüchte in den Gemüsegarten und neu angelegte Beete, die noch nicht bepflanzt sind. Zwischenfrüchte bieten wertvollen Bodenschutz, indem sie Erosion reduzieren, Unkräuter unterdrücken, die Bodenstruktur verbessern und große Mengen organischen Materials liefern. Beispiele für Zwischenfrüchte sind Roggen, Inkarnatklee, Zottelwicke und Winterweizen. Haben Sie einen Plan, um die Zwischenfrüchte zu verarbeiten, bevor sie Samen bilden.  
+- **Düngen Sie den Rasen mit Langzeitdünger,** um das Wurzelwachstum zu fördern. Achten Sie auf Rasendünger, der für Herbst/Winter geeignet ist. Bekämpfen Sie breitblättrige Unkräuter mit Herbiziden. Vertikutieren Sie den Rasen durch Harken und säen Sie nach, wo der Rasen nicht dicht wächst.
 
-### Hausarbeiten  
-- Reinigen Sie Vogelhäuser für die Nutzung als Ruheboxen im Winter oder für die Nutzung im Frühling.  
-- Reinigen Sie Frühbeete für den Wintergebrauch.  
-- Lagern Sie Gartenchemikalien an einem sicheren, trockenen Ort – fern von Kindern und Haustieren.  
-- Reinigen Sie gefallene Blätter und Schmutz aus Dachrinnen und Fallrohren.  
-- Winterfest machen Sie Ihr Bewässerungssystem.  
-- Bringen Sie Tontöpfe oder Gartendekorationen herein, um Schäden durch wechselnde Wintertemperaturen zu vermeiden.  
-- Schärfen Sie Gartenscheren und andere Schneidewerkzeuge.  
-- Reinigen, schleifen und ölen Sie Gartengeräte, bevor Sie sie für den Winter lagern.  
-- Entleeren Sie altes Benzin aus dem Rasenmäher nach dem letzten Mähen. Lassen Sie die Mähmesser schärfen.  
+### Nutzpflanzen
 
-### Ressourcen  
-Oregon State University Extension Service, [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)  
+- **Entfernen Sie kranke Pflanzenreste.**  
+  Gesunde Ernterückstände können Sie untergraben oder kompostieren.
 
-### Master Gardener™ Tipps  
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas), 503-821-1150 (Washington), 503-445-4608 (Multnomah).  
-- Für Handouts der 10-Minuten-Universität™ besuchen Sie [www.cmastergardeners.org](www.cmastergardeners.org)  
-- Suchen Sie nach Master Gardeners auf lokalen Bauernmärkten.  
+- **Entfernen Sie alte Fruchtruten** bei Himbeeren, Brombeeren und Boysenbeeren.
 
-Oregon State University Extension Service verbietet Diskriminierung in allen seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärem/Elternstatus, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien für frühere zivilrechtliche Aktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+- **Säen Sie Gründüngung** in Gemüsebeeten und noch nicht bepflanzten Flächen aus. Gründüngung schützt den Boden vor Erosion, unterdrückt Unkraut, verbessert die Bodenstruktur und liefert viel organisches Material. Beispiele sind Roggen, Inkarnatklee, Haarwicke und Winterweizen. Planen Sie rechtzeitig, wie Sie die Gründüngung vor dem Aussamen bearbeiten.
+
+### Hausarbeiten
+
+- Reinigen Sie Nistkästen, damit Vögel im Winter Unterschlupf finden oder sie im Frühling nutzen können.
+- Säubern Sie Frühbeete für den Wintereinsatz.
+- Lagern Sie Gartenchemikalien sicher und trocken – außerhalb der Reichweite von Kindern und Haustieren.
+- Entfernen Sie Laub und Schmutz aus Regenrinnen und Fallrohren.
+- Machen Sie das Bewässerungssystem winterfest.
+- Bringen Sie Tontöpfe oder Gartendekorationen ins Haus, um Frostschäden zu vermeiden.
+- Schärfen Sie Astscheren und andere Schneidwerkzeuge.
+- Reinigen, schleifen und ölen Sie Gartengeräte, bevor Sie sie für den Winter einlagern.
+- Lassen Sie nach dem letzten Mähen das Benzin aus dem Rasenmäher ab und lassen Sie die Messer schärfen.
+
+### Ressourcen
+
+- **Oregon State University Extension Service:**  
+  [http://extension.oregonstate.edu/catalog](http://extension.oregonstate.edu/catalog)
+
+#### Master Gardener™ Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas) · 503-821-1150 (Washington) · 503-445-4608 (Multnomah) · Für 10-Minuten-Universität™ Handouts besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org) · Suchen Sie Master Gardeners auf den Bauernmärkten der Region.
+
+---
+
+##### Der Oregon State University Extension Service untersagt Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus öffentlichen Hilfsprogrammen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltungsmaßnahmen oder Repressalien aufgrund früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

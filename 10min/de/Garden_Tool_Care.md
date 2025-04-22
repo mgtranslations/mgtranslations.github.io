@@ -1,69 +1,72 @@
-# 10-Minuten-Universität™
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und unterstützt durch das OSU Extension Master Gardener™ Programm.
+# Pflege und Wartung von Gartengeräten
 
-## Pflege und Wartung von Gartengeräten
-
-Gartengeräte verschlechtern sich durch Zeit und Feuchtigkeit, kombiniert mit Erde und Rost. Die richtige Reinigung und Pflege, wie unten beschrieben, hält sie in gutem Zustand und verlängert ihre Lebensdauer.
-
-### Lagerung
-
-Lagern Sie Werkzeuge an einem sauberen, trockenen Ort. Werkzeuge können auf Regalen oder in Halterungen gelagert werden oder einfach an eine Wand gelehnt werden. Lagern Sie Werkzeuge mit Holzteilen nicht so, dass das Holz mit Erde oder Beton in Kontakt kommt. Reinigen Sie sie gründlich und stellen Sie den Zustand von Holzgriffen wieder her, bevor Sie sie über den Winter lagern.
-
-### Pflege während der Gartensaison
-
-Für Schaufeln, Hacken, Gabeln und andere langstielige Metallwerkzeuge halten Sie einen 5-Gallonen-Eimer bereit, der zu 4/5 mit Sand gefüllt ist, optional mit etwa einem Liter Motoröl gut vermischt. Nach jedem Gebrauch tauchen Sie das Werkzeug ein paar Mal in den Eimer, um die Klinge zu reinigen und mit Öl zu beschichten. Entfernen Sie es und wischen Sie es mit einem leicht geölten Tuch ab.
-
-### Winterlagerung
-
-Reinigen Sie die Werkzeuge gründlich, bevor Sie sie für den Winter lagern. Entfernen Sie Erde mit einer festen Drahtbürste, falls nötig. Entfernen Sie Rost mit Sandpapier. Nach der Reinigung geben Sie den Metalloberflächen einen Schutzanstrich, wie WD-40 oder leichtes Motoröl.
-
-## Schritt-für-Schritt-Anleitung für gründliche Reinigung
-
-Halten Sie Werkzeuge sauber und scharf – gut gepflegte Werkzeuge machen die Arbeit einfacher und angenehmer. Reinigen Sie nach jedem Gebrauch Schmutz und Rost vom gesamten Werkzeug, einschließlich Klingen, Griff(e) usw.
-
-1. Verwenden Sie eine Bürste, um Schmutz zu entfernen, und anschließend ein trockenes Tuch.
-2. Falls nötig, reinigen Sie mit einem feuchten Tuch und trocknen Sie das Werkzeug danach.
-3. Bei starkem Harzaufbau verwenden Sie einen Farbschaber oder scharfes Meißel, wobei darauf zu achten ist, das Metall nicht zu beschädigen. Reinigen Sie mit Alkohol, Verdünner oder haushaltsüblichem schäumendem Badreiniger. Bearbeiten Sie abschließend mit feiner Stahlwolle.
-4. Falls Rost bleibt, entfernen Sie ihn mit einer Drahtbürste und/oder Sandpapier.
-5. Wischen Sie alle Metalloberflächen mit einem leicht geölten Tuch ab.
-6. Holzteile sollten von rauen Stellen oder Splittern befreit werden, indem sie abgeschnitten und glatt geschliffen werden. Pflegen Sie eine Beschichtung aus Leinöl oder Mineralöl.
-
-## Schritt-für-Schritt-Anleitung zur Einstellung der Klingen
-
-Für zweiklingige Schneidwerkzeuge sind die Klingen manchmal scharf, aber das Werkzeug schneidet nicht. Wenn Ihre Schere scharf ist, aber die Schnittstelle rau oder rissig ist, oder einen kleinen Absatz hinterlässt, ist Ihre Schere nicht richtig ausgerichtet. Überprüfen Sie das Werkzeug auf lose Teile. Schließen Sie die Griffe und suchen Sie nach einem Abstand zwischen den Klingen. Wenn die Klingen falsch ausgerichtet, lose oder verbogen sind, muss das Werkzeug zerlegt und angepasst werden.
-
-1. Fixieren Sie das Werkzeug gut, sodass der Drehpunkt freiliegt und sowohl der Kopf der Schraube als auch die Mutter zugänglich sind. Eine stabile Werkbank mit Schraubstock ist hilfreich, aber ein robuster Tisch mit Klemmen reicht aus. Es ist wichtig, dass das Werkzeug sicher gehalten wird, da während der Demontage und Montage Kraft aus verschiedenen Winkeln ausgeübt wird, und wenn sich das Werkzeug bewegt, können schwere Verletzungen entstehen.
-2. Möglicherweise müssen Sie zuerst verrostete Schrauben lösen. Wenden Sie WD-40, Liquid Wrench oder ein anderes durchdringendes Mittel an und folgen Sie den Anweisungen auf dem Etikett.
-3. Entfernen Sie die Drehschraube mit Schraubenschlüsseln, Schraubendrehern oder anderen geeigneten Werkzeugen. Achten Sie darauf, die Position und Ausrichtung von Unterlegscheiben oder Abstandshaltern zu notieren. Einige können gewölbt sein, um Druck auf andere Teile der Baugruppe auszuüben, daher achten Sie auf die Richtung der Wölbung für die spätere Montage. In einigen Fällen gibt es eine Sicherungsmutter oder ein anderes Gerät, das verhindert, dass sich die Mutter dreht. Entfernen Sie diese zuerst, falls vorhanden. In einigen Fällen ist die Mutter dauerhaft an einer Klinge befestigt, aber meistens ist sie frei. Hinweis: Einige Drehschrauben sind linksgewindet (Festziehen gegen den Uhrzeigersinn). Diese haben normalerweise einen Pfeil auf dem Kopf der Schraube, der die Richtung zum Lösen angibt.
-4. Überprüfen Sie auf verbogene Teile und richten Sie sie aus oder ersetzen Sie sie falls nötig.
-5. Reinigen Sie alle Teile gründlich, einschließlich der Innenflächen der Schraubenlöcher, der Schraube und der Mutter.
-6. Schmieren Sie die Schraube, die Schraubenlöcher und die Basis beider Klingen um die Schraubenlöcher mit leichtem Maschinenöl (z. B. 3-in-1-Öl).
-7. Montieren Sie die Schraube zuerst in die Klinge. Wenn die Schraube in die Klinge geschraubt wird, ziehen Sie sie fest. Oder sie kann eine Nut haben und nur hineingehen, wenn sie in die Nut der Klinge ausgerichtet ist. Achten Sie darauf, alle Unterlegscheiben an der Schraube wie zuvor zu platzieren.
-8. Montieren Sie die andere Klinge und alle Unterlegscheiben oder anderen Teile in der Reihenfolge und Ausrichtung, wie sie vor der Demontage waren.
-9. Ziehen Sie die Mutter auf die Schraube. Zu diesem Zeitpunkt sollten Sie das Werkzeug nicht leicht öffnen können. Beginnen Sie, die Schraube in kleinen Schritten zu lockern. Stellen Sie sich das Gesicht einer Uhr vor. Starten Sie mit einem Fünf-Minuten-Schritt. Entfernen Sie das Werkzeug aus der Klemme oder dem Schraubstock und testen Sie seine Funktion. Wiederholen Sie dies, bis die Klingen beginnen, sich zu bewegen. Reduzieren Sie nun Ihre Schritte auf eine Minute. Wenn die Einstellung korrekt ist, bewegen sich die Klingen glatt und leicht ohne Wackeln.
-10. Bewegen Sie das Werkzeug ein paar Mal und geben Sie ihm dann einen letzten Wisch, um überschüssiges Öl zu entfernen und die freiliegenden Metalloberflächen mit Öl zu beschichten.
-
-## Zusätzliche Informationen
-
-Die folgenden sind nur einige der OSU-Veröffentlichungen, die online verfügbar sind unter:  
-[https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
-
-- Praktische Werkzeuge für den Gemüsegärtner  
-  [http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)  
-- Gute Pflege für hart arbeitende Gartengeräte  
-  [http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)  
-- Gartengeräte schärfen  
-  [http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
-
-## Master Gardener™ Beratung
-
-- Rufen Sie die Home Horticulture Helpline an:  
-  503-655-8631 (Clackamas County),  
-  503-821-1150 (Washington County), oder  
-  503-445-4608 (Multnomah County).  
-- Für 10-Minuten-Universität™ Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).
+Werkzeuge verschlechtern sich durch Zeit und Feuchtigkeit, zusammen mit Erde und Rost. Die richtige Reinigung und Pflege, wie unten beschrieben, hält sie in gutem Zustand und verlängert ihre Lebensdauer.
 
 ---
 
-Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiären/elterlichen Status, Einkommen aus einem öffentlichen Unterstützungsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Vergeltung für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+### Aufbewahrung
+
+Bewahren Sie Werkzeuge an einem sauberen, trockenen Ort auf. Werkzeuge können auf Regalen, in Halterungen oder einfach an eine Wand gelehnt gelagert werden. Lagern Sie keine Werkzeuge mit Holzgriffen so, dass das Holz den Boden oder Beton berührt. Reinigen Sie die Werkzeuge gründlich und erneuern Sie die Griffe, bevor Sie sie über den Winter einlagern.
+
+---
+
+### Pflege während der Gartensaison
+
+Für Schaufeln, Hacken, Gabeln und andere langstielige Metallwerkzeuge halten Sie einen 20-Liter-Eimer bereit, der zu 4/5 mit Sand gefüllt ist. Optional können Sie etwa einen Liter Motoröl gründlich untermischen. Nach jedem Gebrauch tauchen Sie das Werkzeug mehrmals in den Eimer, um das Blatt zu reinigen und mit Öl zu überziehen. Herausnehmen und mit einem leicht geölten Lappen abwischen.
+
+---
+
+### Winterlagerung
+
+Reinigen Sie die Werkzeuge gründlich, bevor Sie sie für den Winter einlagern. Kratzen Sie Erde ab, bei Bedarf mit einer festen Drahtbürste. Entfernen Sie Rost mit Sandpapier. Nach der Reinigung geben Sie einen schützenden Ölfilm auf die Metallteile, z.B. WD-40 oder leichtes Motoröl.
+
+---
+
+### Schritt-für-Schritt-Anleitung für gründliche Reinigung
+
+Halten Sie Ihre Werkzeuge sauber und scharf – gut gepflegte Werkzeuge erleichtern die Arbeit und machen mehr Spaß. Nach jedem Gebrauch entfernen Sie Schmutz oder Rost. Reinigen Sie das gesamte Werkzeug, einschließlich Klingen, Griffen usw.
+
+1. Entfernen Sie mit einer Bürste Schmutz, dann mit einem trockenen Lappen nachwischen.
+2. Falls nötig, verwenden Sie danach einen feuchten Lappen und trocknen das Werkzeug.
+3. Bei starkem Harzaufbau mit einem Farbschaber oder scharfen Meißel vorsichtig abkratzen, ohne das Metall zu beschädigen. Mit Alkohol, Terpentin (Lackverdünner) oder schäumendem Haushaltsreiniger säubern. Anschließend mit feiner Stahlwolle nacharbeiten.
+4. Falls noch Rost vorhanden ist, mit einer Drahtbürste und/oder Sandpapier entfernen.
+5. Wenn die Klinge sauber ist, wischen Sie alle Metallteile mit einem leicht geölten Tuch ab.
+6. Holzteile sollten an rauen Stellen oder Splittern geglättet werden, indem Sie diese abschneiden und schleifen. Pflegen Sie die Griffe mit Leinöl oder Paraffinöl.
+
+---
+
+### Schritt-für-Schritt-Anleitung zum Einstellen der Klingen
+
+Bei zweischneidigen Schneidwerkzeugen sind die Klingen manchmal scharf, aber das Werkzeug schneidet nicht gut. Wenn Ihre Gartenschere scharf ist, das Schnittgut aber ausgefranst ist oder einen kleinen Absatz hat, ist die Schere nicht richtig eingestellt. Prüfen Sie das Werkzeug auf lockere Teile. Schließen Sie die Griffe und schauen Sie, ob zwischen den Klingen ein Spalt ist. Sind die Klingen nicht ausgerichtet, locker oder verbogen, muss das Werkzeug zur Einstellung zerlegt werden.
+
+1. Sichern Sie das Werkzeug gut, sodass der Drehpunkt sichtbar ist und sowohl der Schraubenkopf als auch die Mutter zugänglich sind. Eine stabile Werkbank mit Schraubstock ist hilfreich, aber auch ein kräftiger Tisch mit Klemmen reicht. Das Werkzeug muss sicher festgehalten werden, da beim Zerlegen und Zusammenbauen Kraft aus verschiedenen Winkeln ausgeübt wird und Verletzungsgefahr besteht, wenn das Werkzeug verrutscht.
+2. Bei verrosteten Schrauben zuerst mit WD-40, Liquid Wrench oder einem anderen Rostlöser behandeln und die Anweisungen befolgen.
+3. Entfernen Sie mit Schraubenschlüsseln, Schraubendrehern oder passenden Werkzeugen den Drehbolzen. Merken Sie sich die Anordnung und Ausrichtung von Unterlegscheiben oder Abstandshaltern. Einige sind gewölbt, um Druck auf andere Teile auszuüben. Merken Sie sich die Richtung für den Zusammenbau. Bei manchen gibt es eine Kontermutter oder ein Sicherungsteil, das zuerst gelöst und entfernt werden muss. In manchen Fällen ist die Mutter fest mit einer Klinge verbunden, meistens aber beweglich. **Hinweis:** Manche Drehbolzen haben ein Linksgewinde (lösen durch Drehen nach rechts). Sie sind oft mit einem Pfeil markiert, der die Richtung zum Lösen zeigt.
+4. Prüfen Sie, ob Teile verbogen sind, und richten oder ersetzen Sie diese bei Bedarf.
+5. Reinigen Sie alle Teile gründlich, auch die Innenseiten der Bohrungen, den Bolzen und die Mutter.
+6. Ölen Sie den Bolzen, die Bohrungen und die Klingenbasis rund um die Bohrungen mit leichtem Maschinenöl (z.B. 3-in-1 Öl).
+7. Setzen Sie das Werkzeug wieder zusammen. Zuerst den Bolzen in die Klinge stecken. Falls der Bolzen in die Klinge geschraubt wird, ziehen Sie ihn fest an. Oder er ist mit einer Nut versehen und passt nur in eine bestimmte Position. Legen Sie alle Unterlegscheiben wie vorher an.
+8. Montieren Sie die andere Klinge und alle weiteren Teile in der ursprünglichen Reihenfolge und Ausrichtung.
+9. Ziehen Sie die Mutter am Bolzen fest. Jetzt sollte sich das Werkzeug kaum öffnen lassen. Lösen Sie den Bolzen in kleinen Schritten. Denken Sie an eine Uhr: Beginnen Sie mit einem Fünf-Minuten-Schritt. Nehmen Sie das Werkzeug aus der Halterung und testen Sie die Funktion. Wiederholen Sie dies, bis sich die Klingen zu bewegen beginnen. Dann reduzieren Sie die Schritte auf eine Minute, bis sich die Klingen leicht und ohne Wackeln aneinander vorbeibewegen.
+10. Betätigen Sie das Werkzeug ein paar Mal und wischen Sie es dann noch einmal ab. Ölen Sie alle sichtbaren Metallteile.
+
+---
+
+### Weitere Informationen
+
+Folgende OSU-Veröffentlichungen sind online verfügbar:
+
+- [Praktische Werkzeuge für den Gemüsegarten](http://extension.oregonstate.edu/gardening/practical-tools-vegetable-gardener)
+- [Pflegen Sie Ihre fleißigen Gartengeräte gut](http://extension.oregonstate.edu/gardening/take-good-care-hard-working-garden-tools)
+- [Gartengeräte schärfen](http://extension.oregonstate.edu/benton/sites/default/files/sharpgdn_insights2012.pdf)
+
+---
+
+#### Master Gardener™ Beratung · Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für 10-Minuten-Universität™ Handouts und Kursplan besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org).
+
+---
+
+##### Der Oregon State University Extension Service verbietet Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Familien-/Elternstatus, Einkommen aus öffentlichen Unterstützungsprogrammen, politischer Überzeugung, genetischen Informationen, Veteranenstatus, Vergeltung oder Repressalien wegen früherer Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

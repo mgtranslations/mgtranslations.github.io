@@ -1,91 +1,148 @@
-# Universidade de 10 Minutos™  
-A Associação de Jardineiros Mestres do Condado de Clackamas, em colaboração e apoio ao Programa de Jardineiro Mestre™ da Extensão da OSU  
+#### Universidade de 10 Minutos™ · Associação de Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa de Mestres Jardineiros™ da Extensão da OSU
 
-## Jardinagem com Composto  
-O composto é um excelente material para cobertura quando colocado sobre o solo. É uma fonte de fertilizante e um condicionador de solo quando trabalhado no solo. Seguindo os passos deste folheto, um jardineiro doméstico pode transformar aparas de grama, folhas e outros resíduos do jardim em composto para uso em casa.  
+# Jardinagem com Composto
 
-### Receita de Sucesso  
-Sua pilha de composto é uma comunidade viva de microrganismos (bactérias, fungos, protozoários) e outros (centopeias, milípedes, besouros e minhocas) que "processam" os resíduos do jardim. Para fornecer nutrientes essenciais para os microrganismos, misture duas partes de materiais ricos em carbono ("marrom") com uma parte de materiais ricos em nitrogênio ("verde") ao construir sua pilha. Uma pilha com essas proporções de carbono para nitrogênio promoverá grandes populações de microrganismos e produzirá composto rapidamente. Outras proporções de marrom para verde também criarão bom composto, mas a decomposição será mais lenta.  
+O composto é uma excelente cobertura quando colocado sobre o solo. Ele serve como fonte de fertilizante e condicionador de solo quando misturado à terra. Seguindo os passos deste folheto, um jardineiro doméstico pode transformar restos de grama, folhas e outros resíduos do jardim em composto para uso em casa.
 
-#### Verde (uma parte)  
-- Aparas de grama fresca  
-- Folhas verdes  
-- Caules de plantas  
-- Podas de cercas vivas  
-- Ervas anuais sem sementes  
-- Sobras de vegetais e frutas  
-- Filtros de café e saquinhos de chá  
-- Terra velha de vasos  
+---
 
-#### Marrom (duas partes)  
-- Galhos  
-- Grama e folhas secas  
-- Jornal picado  
-- Palha  
-- Cavacos de madeira  
+## Receita para o Sucesso
 
-**Não compostar:**  
-Plantas doentes; ervas daninhas com sementes; ervas daninhas invasoras como grama-quack e glória-da-manhã; raízes de ervas daninhas perenes; resíduos de animais de estimação; animais mortos; pão e grãos; partes de carne ou peixe; produtos lácteos; gordura, óleo de cozinha ou alimentos oleosos. Gordura, carne e laticínios cheiram mal e atraem pragas. Resíduos de animais de estimação podem espalhar doenças. Ervas daninhas podem se espalhar para outros jardins. Considere usar uma caixa de compostagem com minhocas para os restos de cozinha.  
+Sua pilha de composto é uma comunidade cheia de microorganismos (bactérias, fungos, protozoários) e outros (centopeias, lacraias, besouros e minhocas) que “processam” os resíduos do jardim. Para fornecer nutrientes essenciais aos microrganismos, misture **duas partes de materiais ricos em carbono (“marrom”)** para **uma parte de materiais ricos em nitrogênio (“verde”)** ao montar sua pilha. Uma pilha com essas proporções de carbono para nitrogênio vai promover grandes populações de microrganismos e produzir composto rapidamente. Outras proporções de marrom para verde também criam um bom composto, mas ele vai se decompor mais devagar.
 
-Para evitar problemas com herbicidas: Use poucos ou nenhum herbicida. As altas temperaturas em uma pilha de composto aceleram a decomposição dos herbicidas em compostos não tóxicos. A ligação com a matéria orgânica no composto também desativa os herbicidas. Deixe seu composto descansar por um ano ou mais antes de usá-lo para permitir a quase completa decomposição dos herbicidas.  
+### Verde (Uma Parte)
 
-### Construindo uma Pilha de Composto  
-- **Pique em pedaços pequenos:** Quanto mais área de superfície os microrganismos tiverem para se alimentar, mais rápido os materiais se decomporão. Pique os resíduos do jardim com um facão ou use um triturador/cortador ou cortador de grama para picar os materiais.  
-- **O tamanho importa:** Pilhas de composto retêm o calor gerado pela atividade de milhões de microrganismos. Uma pilha de composto de 90 cm por 90 cm por 90 cm é considerada o tamanho mínimo para compostagem rápida e quente. Pilhas mais largas ou mais altas que 1,5 metro não permitem que o ar alcance os microrganismos no centro da pilha.  
-- **Ar e água:** A maioria dos seres vivos precisa de certa quantidade de água e ar para sobreviver. Os microrganismos na pilha de composto trabalham melhor quando a pilha está tão úmida quanto uma esponja torcida e tem muitas passagens de ar. Extremos de sol ou chuva podem afetar adversamente o equilíbrio de ar e umidade na sua pilha. O ar na pilha é usado mais rápido que a água, então a pilha deve ser "virada" ou misturada regularmente para adicionar ar que promovará altas temperaturas e controlará odores.  
-- **Tempo e temperatura:** Bactérias decompositoras prosperam em temperaturas entre 43°C e 71°C. Quanto mais quente a pilha, mais rápido elas trabalham. Se você alcançar um bom equilíbrio de carbono e nitrogênio, fornecer muita área de superfície dentro de um grande volume de material e manter umidade e aeração adequadas, a temperatura aumentará em alguns dias.  
+- Restos de grama fresca
+- Folhas verdes
+- Talos de plantas
+- Restos de poda de cerca-viva
+- Ervas daninhas anuais sem sementes
+- Restos de legumes e frutas
+- Filtros de café e saquinhos de chá
+- Terra de vasos usada
 
-### Usos para Composto  
-- **Para melhorar o solo:** Misture de 5 a 13 cm de composto em jardins de vegetais e flores todos os anos antes de plantar.  
-- **Para fazer mistura de vasos:** Adicione uma parte de composto para duas partes de terra comercial para vasos, ou faça sua própria mistura com partes iguais de composto e areia ou perlita.  
-- **Para cobertura de gramados:** É recomendado cobrir áreas gramadas com composto para fornecer uma liberação lenta de nitrogênio. Misture composto bem peneirado com areia e espalhe uniformemente sobre o gramado. Usar composto também melhorará a condição do solo e aumentará a retenção de água, economizando água.  
+### Marrom (Duas Partes)
 
-### Problemas Potenciais e Soluções  
-#### Pilha de composto não esquenta  
-- **Possíveis causas:**  
-  - Muito úmido: materiais da pilha estão encharcados.  
-  - Muito seco.  
-  - Pouco nitrogênio: pilha muito pequena; úmida apenas no centro.  
+- Gravetos
+- Grama e folhas secas
+- Jornal picado
+- Palha
+- Cavacos de madeira
 
-- **Soluções potenciais:**  
-  - Vire a pilha, adicionando materiais secos e absorventes como serragem, palha ou cavacos de madeira.  
-  - Molhe com uma mangueira, umedeça a pilha sem saturá-la.  
-  - Adicione materiais ricos em nitrogênio (esterco, aparas de grama). Misture para formar uma nova pilha; umedeça.  
-  - Material pode estar pronto para uso: composto pronto é escuro, quebradiço e tem cheiro de terra.  
+---
 
-#### Pilha de composto cheira a ovos podres  
-- **Causa:**  
-  - Muito úmido/pouco oxigênio: pilha está apodrecendo e não decompondo.  
+### Materiais a Evitar
 
-- **Solução:**  
-  - Vire a pilha para aerar, adicionando materiais secos e absorventes como serragem, palha ou cavacos de madeira.  
+Não coloque no composto:
 
-#### Pilha de composto tem cheiro de amônia  
-- **Causa:**  
-  - Excesso de nitrogênio está sendo liberado na forma de gás amônia.  
-  - Muito alcalino: perda de nitrogênio na forma de amônia aumenta quando a pilha é muito alcalina (pH alto).  
+- Plantas doentes
+- Ervas daninhas com sementes
+- Plantas invasoras (ex.: tiririca, corriola)
+- Raízes de ervas daninhas perenes
+- Fezes de animais de estimação
+- Animais mortos
+- Pães e grãos
+- Partes de carne ou peixe
+- Laticínios
+- Gordura, óleo de cozinha ou alimentos gordurosos
 
-- **Solução:**  
-  - Vire a pilha, adicionando serragem ou outra fonte de carbono para manter o nitrogênio na pilha.  
-  - Adicione materiais ácidos como serragem, folhas de carvalho, restos de vegetais.  
+Gordura, carne e laticínios vão cheirar mal e atrair pragas. Fezes de animais podem espalhar doenças. Ervas daninhas podem se espalhar para outros jardins. Considere usar uma composteira de minhocas para os restos da cozinha.
 
-#### Presença de pragas (ratos, guaxinins, insetos)  
-- **Causa:**  
-  - Presença de carne ou restos de alimentos gordurosos.  
+### Considerações sobre Herbicidas
 
-- **Solução:**  
-  - Remova carne/restos gordurosos da pilha. Vire para aumentar a temperatura e equilibrar a proporção de carbono para nitrogênio. Use uma caixa de compostagem à prova de animais.  
+Para evitar problemas com herbicidas:
 
-### Recursos do Serviço de Extensão da OSU  
-[https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-**Jardinagem com Compostos, Coberturas e Coberturas de Fileira, EC 1247**  
+- Use pouco ou nenhum herbicida.
+- Temperaturas altas na pilha de composto aceleram a decomposição dos herbicidas em compostos não tóxicos.
+- A ligação com matéria orgânica no composto também inativa os herbicidas.
+- Deixe seu composto descansar por um ano ou mais antes de usar, para permitir a decomposição quase completa dos herbicidas.
 
-### Conselhos de Jardineiro Mestre™  
-- Ligue para a Linha de Apoio à Horticultura Doméstica:  
-  - 503-655-8631 (Condado de Clackamas)  
-  - 503-821-1150 (Condado de Washington)  
-  - 503-445-4608 (Condado de Multnomah)  
-- Para folhetos e cronograma de aulas da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+---
 
----  
-O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar ou parental, renda derivada de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represália ou retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas.)
+## Montando uma Pilha de Composto
+
+### Pique Tudo em Pedaços Pequenos
+
+Se os microrganismos tiverem mais superfície para se alimentar, o material vai se decompor mais rápido. Pique os resíduos do jardim com um facão, ou use um triturador ou cortador de grama para triturar os materiais.
+
+### O Tamanho é Importante
+
+As pilhas de composto retêm o calor gerado pela atividade de milhões de microrganismos. Uma **pilha de composto de 90 cm x 90 cm x 90 cm** é considerada o tamanho mínimo para compostagem rápida e quente. Pilhas mais largas ou altas que **1,5 metro** não permitem que o ar chegue ao centro.
+
+### Ar e Água
+
+A maioria dos seres vivos precisa de certa quantidade de água e ar para sobreviver. Os microrganismos na pilha de composto trabalham melhor quando a pilha está úmida como uma esponja espremida e com muitos espaços para passagem de ar. Excesso de sol ou chuva pode prejudicar o equilíbrio de ar e umidade da pilha. O ar é consumido mais rápido do que a água, então a pilha deve ser **“revirada” ou misturada regularmente** para adicionar ar, o que ajuda a aumentar a temperatura e controlar odores.
+
+### Tempo e Temperatura
+
+As bactérias da decomposição se desenvolvem em temperaturas entre **43°C e 71°C**. Quanto mais quente, mais rápido elas trabalham. Se você conseguir um bom equilíbrio entre carbono e nitrogênio, oferecer bastante superfície e volume de material, e manter a umidade e aeração adequadas, a temperatura vai subir em alguns dias.
+
+---
+
+## Usos do Composto
+
+### Para Melhorar o Solo
+
+Misture **cinco a dez centímetros** de composto nas hortas e jardins de flores todo ano antes do plantio.
+
+### Para Fazer Terra para Vasos
+
+Adicione **uma parte de composto** para **duas partes de terra comercial para vasos**, ou faça sua mistura com partes iguais de composto e areia ou perlita.
+
+### Para Cobrir Gramados
+
+Cobrir áreas de gramado com composto é indicado para fornecer liberação lenta de nitrogênio. Misture composto peneirado com areia e espalhe de maneira uniforme sobre o gramado. O uso de composto também melhora o solo e aumenta a retenção de água, ajudando a economizar água.
+
+---
+
+## Problemas Potenciais e Soluções
+
+### Pilha de Composto Não Esquenta
+
+| **Possíveis Causas**                        | **Soluções Potenciais**                                                               |
+|---------------------------------------------|---------------------------------------------------------------------------------------|
+| Muito molhado: o material está encharcado.  | Revire a pilha, adicionando material seco como serragem, palha ou cavacos de madeira. |
+| Muito seco.                                | Molhe com mangueira; umedeça sem encharcar.                                           |
+| Pouco nitrogênio: pilha pequena; úmida; quente só no centro. | Revire a pilha, adicione material rico em nitrogênio (esterco, grama cortada). Misture para formar nova pilha e umedeça. |
+| Material já está totalmente decomposto.    | Composto pronto é escuro, soltinho e cheira à terra.                                  |
+
+---
+
+### Pilha de Composto com Cheiro de Ovos Podres
+
+| **Possíveis Causas**                        | **Soluções Potenciais**                                                               |
+|---------------------------------------------|---------------------------------------------------------------------------------------|
+| Muito molhado/pouco oxigênio: a pilha está apodrecendo, não decompondo. | Revire a pilha para arejar, adicionando material seco como serragem, palha ou cavacos de madeira. |
+
+---
+
+### Pilha de Composto com Cheiro de Amônia
+
+| **Possíveis Causas**                        | **Soluções Potenciais**                                                               |
+|---------------------------------------------|---------------------------------------------------------------------------------------|
+| Muito nitrogênio: excesso de nitrogênio liberando gás amônia. | Revire a pilha, adicionando serragem ou outra fonte de carbono. O objetivo é manter o nitrogênio na pilha. |
+| Muito alcalino: a perda de nitrogênio via amônia aumenta com pH alto. Muito calcário deixa a pilha alcalina. | Revire a pilha, adicione material ácido como serragem, folhas de carvalho, restos de legumes. |
+| Muito molhado/pouco oxigênio.               | Revire a pilha, adicionando material seco como serragem, palha ou cavacos de madeira. |
+
+---
+
+### Pragas (Ratos, Guaxinins, Insetos)
+
+| **Possíveis Causas**                        | **Soluções Potenciais**                                                               |
+|---------------------------------------------|---------------------------------------------------------------------------------------|
+| Presença de carne ou restos gordurosos.     | Remova carne/alimentos gordurosos da pilha. Revire para aumentar a temperatura e equilibrar a proporção carbono-nitrogênio; use uma composteira à prova de animais. |
+
+---
+
+## Recursos da Extensão da OSU
+
+- [Jardinagem com Compostos, Coberturas e Proteções de Fileiras, EC 1247](https://catalog.extension.oregonstate.edu)
+
+---
+
+#### Dicas do Mestre Jardineiro™ · Ligue para o Plantão de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para folhetos e programação da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação ou vingança por atividade anterior de direitos civis. (Nem todas as proibições se aplicam a todos os programas.)
+---

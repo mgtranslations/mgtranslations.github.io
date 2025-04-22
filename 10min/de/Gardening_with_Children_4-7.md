@@ -1,54 +1,96 @@
-# 10-Minuten-Universität™  
-Oregon Master Gardener™ Association – Clackamas County Kapitel  
-In Zusammenarbeit mit dem Oregon State University Extension Service  
+#### 10-Minuten-Universität™ · Oregon Master Gardener™ Association – Clackamas County Chapter · In Zusammenarbeit mit dem Oregon State University Extension Service
 
-## Gartenarbeit mit Kindern im Alter von 4-7 Jahren  
+## Gärtnern mit Kindern im Alter von 4–7 Jahren
 
-Gartenarbeit mit Kindern kann eine der lohnendsten Erfahrungen für sowohl Kind als auch Eltern, Großeltern oder Mentoren sein. Kinder sind natürliche Gärtner, da sie neugierig sind, durch praktisches Tun lernen und Spaß daran haben, im Dreck zu spielen.  
+Gärtnern mit Kindern kann eine der lohnendsten Erfahrungen für das Kind und für Eltern, Großeltern oder Mentorinnen und Mentoren sein. Kinder sind von Natur aus Gärtner, weil sie neugierig sind, durch Ausprobieren lernen und es lieben, im Dreck zu spielen.
 
-Gemeinsames Arbeiten im Garten kann jede Woche Stunden wertvoller Zeit bieten und das Interesse eines Kindes an den Vorgängen in der Natur und Wissenschaft fördern. Kinder genießen auch die sensorische Stimulation, sei es das Wasser aus einem Behälter zu gießen oder die Erde zu bearbeiten, um Unkraut zu entfernen.  
+Gemeinsames Arbeiten im Garten kann jede Woche viele Stunden Qualitätszeit bieten und fördert das Interesse eines Kindes an Natur und Wissenschaft. Kinder genießen auch die vielen Sinneseindrücke, sei es beim Wasser gießen oder beim Unkrautjäten in der Erde.
 
-### Warum mit Kindern gärtnern?  
-- Sie können den Kreislauf des Lebens hautnah erleben.  
-- Es lehrt sie Verantwortung und fördert ihre Kreativität.  
-- Es vermittelt ihnen ein Verständnis für unsere Abhängigkeit von der Natur und ihrer Fülle.  
+### Warum mit Kindern gärtnern?
 
-Der Gemüsegarten kann besonders lohnend für Kinder jeden Alters sein. Kleine Kinder profitieren, wenn Sie Gemüsesamen wählen, die groß sind und leichter für kleine Hände zu handhaben. Diese Samen keimen auch schneller und bringen in einer einzigen Saison essbare Ergebnisse hervor. Es fördert eine gute Ernährung und führt Kinder an neue Lebensmittel heran. Sie werden eher neue Lebensmittel probieren, weil sie diese selbst angebaut haben.  
+- Sie erleben den Kreislauf des Lebens hautnah.
+- Es lehrt sie Verantwortung und fördert ihre Kreativität.
+- Sie verstehen, wie sehr wir von der Natur und ihrer Fülle abhängen.
 
-### Ideen zum Nachdenken  
-- Geben Sie ihnen ihren eigenen Bereich, sei es ein Hochbeet, Töpfe oder Bodenparzellen. Jedes Kind sollte seinen eigenen Bereich haben.  
-- Halten Sie es klein, da ein kleiner Bereich überschaubarer ist und alles durch Kinderaugen größer erscheint. Beginnen Sie klein und vergrößern Sie den Bereich mit zunehmendem Alter und Interesse.  
-- Platzieren Sie ihren Garten an der bestmöglichen Stelle mit ausreichendem Sonnenlicht und einer Wasserquelle.  
-- Nutzen Sie ernsthafte Werkzeuge. Geben Sie ihnen keine Plastikwerkzeuge, die brechen könnten und einen neuen Gärtner frustrieren.  
+Gemüsegärtnern ist für Kinder jeden Alters besonders lohnend. Kleine Kinder profitieren davon, wenn man große Gemüsesamen auswählt, die sich leichter mit kleinen Händen pflanzen lassen. Diese keimen oft schneller und bringen essbare Ergebnisse in nur einer Saison. Gärtnern fördert gesunde Ernährung und macht Kinder mit neuen Lebensmitteln vertraut. Sie probieren eher etwas Neues, wenn sie es selbst angebaut haben.
 
-### Einige Aktivitäten  
-Passen Sie die Menge der Arbeit an das Kind und den Zeitrahmen an. Denken Sie daran, dass es wichtig ist, die Erfahrung für beide Seiten lohnend zu gestalten, also überlegen Sie den Umfang der Aktivität und hören Sie auf, bevor jemand überfordert oder frustriert wird. Das gilt auch für Erwachsene.  
+### Ideen zum Ausprobieren
 
-- **Pflanzen Sie Blumen oder Gemüse für Bestäuber** wie Bienen, Vögel und Schmetterlinge. Gärtner schätzen Insekten und Bestäuber, die im Garten leben und ihn besuchen. Sie können Sonnenblumen, Zinnien oder Kapuzinerkresse pflanzen. Diese sind attraktiv und bieten Nahrung für Bestäuber.  
-  - Weitere Informationen finden Sie hier: [Förderung von nützlichen Insekten in Ihrem Garten](https://catalog.extension.oregonstate.edu/pnw550) und [Leitfaden für Pädagogen zu Gemüseanbau](https://catalog.extension.oregonstate.edu/em9032).  
+- **Eigenes Beet für jedes Kind**: Ob Hochbeet, Blumentopf oder ein Stück Garten – jedes Kind sollte einen eigenen Bereich haben.
+- **Klein anfangen**: Ein kleineres Beet ist leichter zu pflegen, und für Kinder wirkt alles größer. Fangt klein an und erweitert den Garten mit zunehmendem Alter und Interesse.
+- **Den besten Platz wählen**: Achte auf genug Sonne und eine Wasserquelle.
+- **Richtiges Werkzeug benutzen**: Gib ihnen keine Plastikwerkzeuge, die leicht kaputtgehen und Frust verursachen.
 
-- **Gehen Sie auf Schneckenjagd.** Kinder lernen, welche Rolle Schnecken in einem Ökosystem spielen. Es gibt drei häufige Schneckenarten im pazifischen Nordwesten: Bananenschnecke (eine einheimische und nützliche Art), Leopardschnecke und rote Rundrückenschnecke. Die graue Gartenschnecke ist die zerstörerischste für Nutzpflanzen. Kinder lernen, dass Schnecken Fressfeinde wie Schlangen und Salamander haben und dass Schnecken und Schnecken zwar „Schädlinge“ für Gärtner sind, aber eine Schlüsselrolle im Ökosystem des Gartens spielen. Wenn Sie sich entscheiden, gefundene Schnecken oder Schnecken zu entsorgen, können Sie dies sanft tun, indem Sie sie in einen Eimer mit Seifenwasser geben.  
-  - Weitere Informationen finden Sie hier: [Schnecken und Schnecken identifizieren](https://agsci.oregonstate.edu/slug-portal/identification) und [Schnecken und Schnecken](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf).  
+### Einige Aktivitäten
 
-- **Kinder lieben es, nach „Zersetzern“ zu suchen.** Würmer, Kellerasseln, Ameisen und Schnecken gehören alle zum Ökosystem und sind wesentlich für den Abbau organischer Substanz zu Humus. Sie sollten gefeiert werden. Lassen Sie die Kinder einen kleinen Eimer Erde ausgraben oder in einem kleinen Bereich des Gartens graben und die Anzahl der gefundenen „Zersetzer“ aufschreiben. Es ist hilfreich, wenn sie ein Mikroskop oder eine Lupe verwenden können.  
-  - Weitere Informationen finden Sie hier: [Ressource der Oregon State University über Zersetzer](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf).  
+Du kannst die Menge an Arbeit an das Kind und den Zeitrahmen anpassen. Wichtig ist, dass das Erlebnis für euch beide bereichernd ist – überlege dir den Umfang der Aktivität gut und höre auf, bevor jemand überfordert oder frustriert ist – auch die Erwachsenen.
 
-Denken Sie daran, den Kindern die wesentlichen Informationen über das Pflanzen an einem Ort mit dem meisten Sonnenlicht zu geben und sicherzustellen, dass die Erde die Samen bedeckt (nicht zu tief). Ermutigen Sie sie dazu, zu beobachten, wie die Insekten mit den wachsenden Pflanzen interagieren. Einige beliebte Gemüsesamen für Kinder: Kürbisse, Stangenbohnen, Radieschen, Zuckererbsen, Feuerbohnen und Cocktailtomaten.  
+#### Blumen oder Gemüse für Bestäuber pflanzen
 
-### Literatur hinzufügen  
-Es gibt viele wunderbare Bilder- und Anleitungbücher über Gartenarbeit, die Kinder schätzen werden, bevor sie beginnen und während sie im Garten arbeiten. Vorlesen regt Fragen an und kann ein Ausgangspunkt für Gartenpläne sein. Ihr örtlicher Bibliothekar hilft Ihnen gerne dabei, Ressourcen zu finden, die sowohl Ihnen als auch Ihrem Kind Freude bereiten. Hier sind einige Vorschläge:  
-- „From Seed to Plant“ von Gail Gibbons  
-- „The Tiny Seed“ von Eric Carle  
-- „Growing Vegetable Soup“ von Lois Ehlert  
-- „The Vegetables We Eat“ von Gail Gibbons  
-- „The Carrot Seed“ von Ruth Krause  
-- „Muncha! Muncha! Muncha!“ von Candace Fleming  
-- „Flip, Float, Fly: Seeds on the Move“ von JoAnn Early Macken  
-- „Berries, Nuts and Seeds“ von Diane L. Burns  
-- „Jack’s Garden“ von Henry Cole  
+Gärtner schätzen Insekten und Bestäuber, die im Garten leben oder zu Besuch kommen. Ihr könnt Sonnenblumen, Zinnien oder Kapuzinerkresse pflanzen. Sie sehen schön aus und bieten Nahrung für Bestäuber.
 
-### Master Gardener™ Ratschläge  
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Für 10-Minuten-Universität™ Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](www.cmastergardeners.org).  
+Hier findest du Veröffentlichungen der Oregon State University:
 
-Die Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkommen aus einem Sozialhilfsprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus, Vergeltung oder Vergeltung für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+- [Nützliche Insekten im eigenen Garten fördern](https://catalog.extension.oregonstate.edu/pnw550)
+- [Leitfaden für Pädagogen zum Gemüsegarten](https://catalog.extension.oregonstate.edu/em9032)
+
+#### Auf Schneckenjagd gehen
+
+Kinder lernen, welche Rolle Schnecken im Ökosystem spielen. Im pazifischen Nordwesten gibt es drei häufige Schneckenarten:
+
+- **Bananenschnecke**: Eine einheimische und nützliche Art.
+- **Tigerschnecke** und **rote Rundrückenschnecke**.
+- **Gartenschnecke (grau)**: Besonders schädlich für Pflanzen.
+
+Schnecken haben Feinde wie Schlangen und Salamander. Auch wenn Schnecken und Nacktschnecken für Gärtner „Schädlinge“ sind, spielen sie eine wichtige Rolle im Ökosystem des Gartens. Wenn ihr gefundene Schnecken loswerden wollt, könnt ihr sie vorsichtig in einen Eimer mit Seifenwasser setzen.
+
+Hier gibt es weitere Informationen:
+
+- [Schnecken und Nacktschnecken bestimmen](https://agsci.oregonstate.edu/slug-portal/identification)
+- [Schnecken und Nacktschnecken](https://www.oregon.gov/oda/shared/documents/publications/ippm/odaguidemolluscs2016forweb.pdf)
+
+#### Auf der Suche nach Zersetzern
+
+Regenwürmer, Asseln, Ameisen und Schnecken sind wichtige Teile des Ökosystems und helfen, organisches Material in Humus zu verwandeln. Sie sind echte Helden.
+
+Lass die Kinder einen kleinen Eimer Erde ausheben oder in einem kleinen Bereich des Gartens graben und zählen, wie viele „Zersetzer“ sie entdecken. Es hilft, wenn sie dabei eine Lupe oder ein Mikroskop benutzen können.
+
+Sieh dir die Ressource der Oregon State University zu Zersetzern an:
+
+- [Würmer als Zersetzer](https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/hyp/lessons-manuals/K12/K5/grade_three_worms_as_decomposers.pdf)
+
+#### Pflanztipps
+
+Gib Kindern die wichtigsten Informationen zum Pflanzen: Sucht einen sonnigen Platz und achtet darauf, dass die Erde die Samen bedeckt (aber nicht zu tief). Ermutige sie, zu beobachten, wie Insekten mit den wachsenden Pflanzen umgehen.
+
+Beliebte Gemüsesamen für Kinder:
+
+- Kürbisse
+- Stangenbohnen
+- Radieschen
+- Zuckererbsen
+- Feuerbohnen
+- Cherrytomaten
+
+### Mit Büchern das Gärtnern entdecken
+
+Es gibt viele schöne Bilder- und Sachbücher über das Gärtnern, die Kinder vor und während der Gartenarbeit begeistern werden. Gemeinsames Vorlesen lädt zum Fragen ein und kann Inspiration für den Garten sein. Deine örtliche Bibliothekarin hilft dir gerne, passende Bücher für dich und dein Kind zu finden.
+
+Hier einige Vorschläge:
+
+- *Vom Samen zur Pflanze* von Gail Gibbons
+- *Die kleine Saat* von Eric Carle
+- *Gemüsesuppe wächst im Garten* von Lois Ehlert
+- *Das Gemüse, das wir essen* von Gail Gibbons
+- *Die Karottensaat* von Ruth Krause
+- *Muncha! Muncha! Muncha!* von Candace Fleming
+- *Flip, Float, Fly: Samen unterwegs* von JoAnn Early Macken
+- *Beeren, Nüsse und Samen* von Diane L. Burns
+- *Jacks Garten* von Henry Cole
+
+#### Master Gardener™ Beratung · Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Für Handouts und Kursplan der 10-Minuten-Universität™: Besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Der Oregon State University Extension Service verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, Einkommen aus Sozialleistungen, politischer Überzeugung, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

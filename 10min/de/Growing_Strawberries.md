@@ -1,64 +1,80 @@
-# 10-Minute University™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Erdbeeren Anbauen  
+# Erdbeeren anbauen
 
-### Warum Erdbeeren anbauen?  
-- Bei richtiger Pflege können Sie genug Beeren für Ihre Familie aus einer relativ kleinen Fläche gewinnen.  
-- Erdbeerpflanzungen können 3 bis 4 Jahre lang produktiv bleiben.  
+### Warum Erdbeeren anbauen?
+- Wenn du die Pflanzen richtig pflegst, kannst du genug Beeren für deine Familie auf einer relativ kleinen Fläche ernten.
+- Erdbeerpflanzungen bleiben 3 bis 4 Erntejahre lang produktiv.
 
-### Arten von Erdbeeren  
-- **Einmaltragende Sorten** – Produzieren nur eine Ernte pro Jahr, hauptsächlich im Juni. Beispiele: Hood, Totem, Benton, Sweet Sunrise und Tillamook. Sie bilden viele Ausläufer.  
-- **Mehrfachtragende Sorten** – Produzieren zwei Ernten, eine im Juni oder Juli und die andere im Herbst. Beispiele: Quinault und Fort Laramie. Sie bilden wenige Ausläufer.  
-- **Tagneutrale Sorten** – Produzieren fast durchgehend Früchte während der Wachstumsperiode, außer bei großer Hitze. Diese sind ideal für den Hausgarten und für Container. Beispiele: Albion, Seascape, Selva, Tristar und Tribute.  
+### Erdbeerarten
+- **Einmaltragende Sorten (June-bearers)** – Bringen nur eine Ernte pro Jahr, meist im Juni. Beispiele: Hood, Totem, Benton, Sweet Sunrise und Tillamook. Sie bilden viele Ausläufer.
+- **Immertragende Sorten (Everbearers)** – Bringen zwei Ernten, eine im Juni oder Juli und eine im Herbst. Beispiele: Quinault und Fort Laramie. Sie bilden wenige Ausläufer.
+- **Tagneutrale Sorten (Day-neutrals)** – Tragen fast durchgehend während der Wachstumszeit Früchte, außer wenn es sehr heiß ist. Diese sind am besten für den Hausgarten und für Kübel geeignet. Beispiele: Albion, Seascape, Selva, Tristar und Tribute.
 
-### Standortwahl  
-- Volle Sonne ist für beste Produktion und Fruchtqualität erforderlich.  
-- Um Probleme mit Insekten und Krankheiten zu minimieren, wechseln Sie den Standort bei jeder Neupflanzung (alle 3 bis 4 Jahre).  
-- Vermeiden Sie das Pflanzen an Orten, wo in den letzten 3 Jahren Tomaten, Paprika, Kartoffeln, Auberginen, Erdbeeren, Himbeeren oder Brombeeren gewachsen sind. Diese Pflanzen können Wirte für Pilze sein, die Krankheiten wie Verticillium-Welke bei Erdbeeren verursachen.  
+### Standortwahl
+- Volle Sonne ist für beste Erträge und Fruchtqualität notwendig.
+- Um Probleme mit Insekten und Krankheiten zu verringern, wechsle den Standort bei jeder Neupflanzung (alle 3 bis 4 Jahre).
+- Vermeide das Pflanzen an Stellen, wo in den letzten 3 Jahren Tomaten, Paprika, Kartoffeln, Auberginen, Erdbeeren, Himbeeren oder Brombeeren gewachsen sind. Diese Pflanzen können Pilze beherbergen, die Krankheiten wie Verticillium-Welke verursachen.
 
-### Bodenvorbereitung  
-- **Optimal**: Ein Hochbeet aus gut durchlässigem Lehmboden, reich an organischer Substanz, mit einem pH-Wert zwischen 5,6 und 6,5.  
-- **Vermeiden**: Das Pflanzen in schweren Lehmböden. Wenn nur schlecht entwässerter Boden verfügbar ist, können Sie ihn möglicherweise durch Zugabe von organischer Substanz verbessern.  
+### Bodenvorbereitung
+- **Am besten:** Ein Hochbeet mit gut durchlässigem, humusreichem Lehmboden und einem pH-Wert zwischen 5,6 und 6,5.
+- **Vermeide:** Das Pflanzen in schweren Lehmböden. Wenn nur schlecht durchlässiger Boden zur Verfügung steht, kann er durch Zugabe von organischem Material verbessert werden.
 
-### Pflanzsysteme  
-Es gibt zwei Systeme: das Mattenreihen-System und das Hügel-System.  
-- **Hügel-System** – Für tagneutrale Sorten: Pflanzen Sie die Pflanzen 30 bis 38 cm auseinander in Doppel- oder Dreifachreihen und lassen Sie 45 bis 60 cm breite Gänge dazwischen.  
-- **Mattenreihen-System** – Für einmaltragende Sorten: Pflanzen Sie die Pflanzen etwa 38 cm auseinander in die Reihe und lassen Sie 90 bis 120 cm Abstand zwischen den Reihen, um eine 45 cm breite Pflanzenmatte zu erzeugen.  
+### Pflanzsysteme
+Es gibt zwei Systeme: Reihenmattensystem und Hügelbeet-System.
 
-### Pflanzung  
-- Kaufen Sie zertifizierte krankheitsfreie Pflanzen. Verwenden Sie keine Ausläufer aus Ihrem alten Beet oder von Ihrem Nachbarn.  
-- Pflanzen Sie so früh wie möglich, wenn der Boden im Frühjahr bearbeitbar ist.  
-- Die Pflanztiefe ist sehr wichtig für Erdbeeren. Graben Sie beim Pflanzen für jede Pflanze ein Loch, das groß genug ist, um die Wurzeln ohne Biegung aufzunehmen. Verteilen Sie die Wurzeln und setzen Sie die Pflanze auf die gleiche Tiefe, wie sie im Baumschulcontainer war. Bei wurzelnackten Pflanzen stellen Sie sicher, dass der mittlere Punkt der Krone auf Höhe der Bodenoberfläche liegt.  
+- **Hügelbeet-System** — Für tagneutrale Sorten: Setze die Pflanzen 30–38 cm auseinander in Doppel- oder Dreierreihen, lasse zwischen den Reihen 45–60 cm breite Wege.
+- **Reihenmattensystem** — Für einmaltragende Sorten: Setze die Pflanzen ca. 38 cm auseinander, mit 90–120 cm Abstand zwischen den Reihen, damit eine 45 cm breite Pflanzenmatte entsteht.
 
-- Einmaltragende Sorten produzieren im Pflanzjahr nur sehr wenige Früchte, und es ist am besten, alle Blüten, die im ersten Sommer erscheinen, zu entfernen, um die Pflanzen nicht zu belasten. Bei tagneutralen Sorten entfernen Sie nur die erste Blühphase, die direkt nach der Pflanzung erscheint. Tagneutrale Sorten produzieren eine kleine Ernte im ersten Sommer. Alle Sorten sind im Jahr nach der Pflanzung voll produktiv.  
+### Pflanzen
+- Kaufe zertifizierte, krankheitsfreie Pflanzen. Setze keine Ausläufer aus alten Beeten oder vom Nachbarn.
+- Pflanze so früh wie möglich im Frühjahr, sobald der Boden bearbeitbar ist.
+- **Pflanztiefe:** Grabe für jede Pflanze ein Loch, das groß genug ist, damit die Wurzeln nicht geknickt werden. Breite die Wurzeln aus und setze die Pflanze so tief wie im Anzuchttopf. Bei wurzelnackten Pflanzen soll der Mittelpunkt der Krone auf Höhe der Erdoberfläche liegen.
 
-### Düngung  
-- Beobachten Sie das Pflanzenwachstum: Blassgrüne oder gelbe Blätter und schlechter Ausläuferwuchs können auf Stickstoffmangel (N) hinweisen.  
-- Im Pflanzjahr düngen Sie die Pflanzen mit einem ausgewogenen Dünger wie 16-16-16 oder einem organischen Produkt. Für eine 30 Meter lange Reihe geben Sie 56 Gramm Stickstoff (N) ein bis zwei Wochen nach der Pflanzung. Dies entspricht 368 Gramm 16-16-16 (56 Gramm/0,16). Geben Sie einen Monat später (Ende Mai) weitere 56 Gramm N und im späten Juni nochmals 14 bis 28 Gramm N hinzu.  
-- Für etablierte Erdbeeren hängt der Düngezeitpunkt von der angebauten Sorte ab. Einmaltragende Sorten düngen Sie nach der Ernte. Schneiden Sie die alten Blätter etwa 1 bis 2 Wochen nach der letzten Fruchternte ab und geben Sie dann 112 Gramm N pro 30 Meter lange Reihe, verteilt über die gesamte Reihenlänge und -breite. Bewässern Sie direkt nach dem Düngen. Für tagneutrale Sorten geben Sie N überwiegend während der Wachstums- und Fruchtperiode: 28 Gramm N pro 30 Meter lange Reihe im April, Mai, Juni und Juli und überlegen Sie, im August weitere 28 Gramm N hinzuzugeben, wenn die Pflanzkraft mäßig bis gut ist.  
+- **Einmaltragende Sorten:** Bringen im Pflanzjahr nur sehr wenig Frucht. Entferne im ersten Sommer alle Blüten, um die Pflanzen nicht zu schwächen.
+- **Tagneutrale Sorten:** Entferne nur die ersten Blüten direkt nach dem Pflanzen. Tagneutrale Sorten tragen im ersten Sommer eine kleine Ernte.
+- Alle Sorten bringen im Jahr nach dem Pflanzen eine volle Ernte.
 
-### Bewässerung  
-- 2,5 bis 3,8 cm Wasser pro Woche während der Wachstumsperiode. Setzen Sie die Pflanzen keinem Trockenstress aus.  
+### Düngen
+- Achte auf das Pflanzenwachstum: Blassgrüne oder gelbe Blätter und schlechter Ausläuferwuchs können auf Stickstoffmangel (N) hindeuten.
 
-### Unkrautmanagement  
-- Unkraut konkurriert mit Pflanzen um Wasser und Nährstoffe, daher halten Sie die Pflanzungen unkrautfrei, indem Sie Unkraut von Hand entfernen. Wenn Sie tagneutrale Sorten im Hügel-System anbauen, können Sie Plastikmulch mit einem Bewässerungssystem wie Tropfbewässerung darunter verwenden.  
+- **Im Pflanzjahr:**
+  - Dünge mit einem ausgewogenen Dünger wie 16-16-16 oder einem organischen Produkt.
+  - Für eine 30 Meter lange Reihe: Gib 56 g Stickstoff (N) ein bis zwei Wochen nach dem Pflanzen. Das entspricht 370 g 16-16-16 (56 g/0,16).
+  - Dünge einen weiteren 56 g N einen Monat später (Ende Mai) und weitere 14–28 g N Ende Juni.
 
-### Schädlinge und Krankheiten  
-- Die schwerwiegendsten Krankheitsprobleme bei Erdbeeren sind Botrytis, Fruchtfäule, Wurzelfäule und Verticillium-Welke.  
-- Zu den Insektenproblemen gehören Wurzelrüsselkäfer, Blattläuse, Spinnmilben und Kronenmotte.  
+- **Für bestehende Erdbeerpflanzungen:**
+  - **Einmaltragende Sorten:** Dünge nach der Ernte. Schneide alte Blätter 1–2 Wochen nach der letzten Ernte ab und gib 112 g N pro 30 Meter Reihe gleichmäßig verteilt. Danach sofort wässern.
+  - **Tagneutrale Sorten:** Dünge während der Wachstums- und Erntezeit. Gib 28 g N pro 30 Meter Reihe im April, Mai, Juni und Juli. Bei gutem Wachstum kann im August eine weitere Gabe von 28 g N sinnvoll sein.
 
-### OSU Extension Service Ressourcen  
-Besuchen Sie Ihren OSU Extension Service online unter [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- Erdbeeren im Hausgarten anbauen EC 1307  
-- Erdbeersorten für West-Oregon und Washington EC 1618  
-- Beeren an der Oregon-Küste anbauen: Erdbeeren EM 9178 (gilt auch für das Willamette-Tal)  
+### Bewässerung
+- Gib während der Wachstumszeit wöchentlich 2,5 bis 4 cm Wasser. Vermeide Trockenstress für die Pflanzen.
 
-### Master Gardener™ Beratung  
-- Rufen Sie die Home Horticulture Helpline an: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), 503-445-4608 (Multnomah County).  
-- Für weitere 10-Minute University™ Handouts und Kurspläne besuchen Sie [www.cmastergardeners.org](http://www.cmastergardeners.org) oder [www.metromastergardeners.org](http://www.metromastergardeners.org).  
-- Suchen Sie nach Master Gardeners auf lokalen Bauernmärkten.  
+### Unkrautbekämpfung
+- Unkraut konkurriert um Wasser und Nährstoffe. Entferne Unkraut regelmäßig von Hand aus den Beeten.
+- Bei tagneutralen Sorten im Hügelbeet kannst du Folienmulch mit Bewässerung, z.B. Tröpfchenbewässerung, darunter verwenden.
+
+### Schädlinge und Krankheiten
+- **Krankheiten:** Die wichtigsten Krankheiten bei Erdbeeren sind Botrytis, Fruchtfäule, Wurzelfäule und Verticillium-Welke.
+- **Schädlinge:** Häufige Probleme sind Wurzelrüssler, Blattläuse, Spinnmilben und Erdbeerstecher.
+
+### OSU Extension Service Ressourcen
+Besuche den OSU Extension Service online unter [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+
+- **Erdbeeren im Hausgarten anbauen** (EC 1307)
+- **Erdbeersorten für West-Oregon und Washington** (EC 1618)
+- **Beerenanbau an der Küste Oregons: Erdbeeren** (EM 9178) (Gilt auch für das Willamette Valley)
+
+#### Master Gardener™ Beratung
+
+- **Ruf die Home Horticulture Helpline an:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Weitere 10-Minute University™ Merkblätter und Kurspläne findest du unter [www.cmastergardeners.org](https://www.cmastergardeners.org)
+- Suche nach Master Gardeners auf den Wochenmärkten in deiner Nähe.
 
 ---
 
-Der Oregon State University Extension Service untersagt Diskriminierung in all seinen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, nationaler Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, familiärer/Elternstatus, Einkünften aus einem Sozialhilfeprogramm, politischen Überzeugungen, genetischen Informationen, Veteranenstatus oder Vergeltung für frühere Aktivitäten im Bereich der Bürgerrechte. (Nicht alle verbotenen Grundlagen gelten für alle Programme).
+##### Der Extension Service der Oregon State University verbietet Diskriminierung in allen Programmen, Dienstleistungen, Aktivitäten und Materialien aufgrund von Rasse, Hautfarbe, Herkunft, Religion, Geschlecht, Geschlechtsidentität (einschließlich Geschlechtsausdruck), sexueller Orientierung, Behinderung, Alter, Familienstand, Elternstatus, durch öffentliche Hilfe erzieltem Einkommen, politischen Überzeugungen, genetischer Information, Veteranenstatus, Vergeltung oder Repressalien für frühere Bürgerrechtsaktivitäten. (Nicht alle verbotenen Grundlagen gelten für alle Programme.)
+---

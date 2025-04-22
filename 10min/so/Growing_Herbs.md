@@ -1,100 +1,132 @@
-# Jaamacadda 10-Daqiiqo™  
-Ururka Beeralayda Weyn ee Clackamas County oo iskaashi la leh barnaamijka OSU Extension Master Gardener™  
+#### 10-Minute University™ · Ururka Beeralayda Master-ka ee Clackamas County oo la kaashanaya Barnaamijka OSU Extension Master Gardener™
 
-## Korinta Dhirta Udgoon  
-### Guudmar  
-Dhir udgoon waa dhir aan lahayn jir qoryo ah sida geed. Waxay noolaan doontaa inta ay ubax ka soo saari karto oo badanaa abuur dhali karto. Dhirta udgoon waxay noqon karaan kuwo sanadle ah, laba-sano ah, ama kuwo muddo dheer noolaan kara. Waxaa jira u dhaxayn 40 ilaa 70 nooc oo dhir udgoon ah, iyadoo ku xiran cidda tirineysa.  
+# Korinta Dhirta Udgoon
 
-### Astaamaha  
-Dhirta udgoon waxaa loo kala saaraa dhowr siyaabood:  
+## Guudmarka
+
+Dhirta udgoon waa dhir, kala duwan geedka, oo aan lahayn jir adag oo alwaax ah. Waxay noolaataa muddo gaaban si ay ubax u samayso, mararka qaarna, si ay abuur u samayso. Dhirta udgoon waxay noqon karaan kuwo sanadkasta baxa, labo sano baxa, ama sanado badan noolaan kara. Iyadoo la xisaabinayo qofka tirinaya, waxaa jira 40 ilaa 70 nooc oo dhirta udgoon ah.
+
+## Sifooyinka
+
+Dhirta udgoon waxaa loo qaybiyaa labo ama in ka badan siyaabo:
+
 - **Udgoon**  
-Dhirta badankood waxay leeyihiin ubax ama caleemo udgoon leh, waxaana loo koriyo saliidda ay ka soo saaraan si loo sameeyo cadar, biyo udgoon, iyo ur kala duwan. Tusaalooyinka: lavender, mint, marjoram, lovage, rosemary, iyo basil.  
+  Dhirta udgoon inta badan waxay leeyihiin ubaxyo ama caleemo udgoon oo fiican, waxaana loo beeraa saliidahooda si loo sameeyo cadar, biyo udgoon, iyo carfiyo kala duwan. Tusaalooyin: lavender, minti, marjoram, lovage, rosemary, iyo basil.
 
 - **Cunto Karinta**  
-Dhirta udgoon ee noocan ah waxaa loo qiimeeyaa dhadhanka ay ku kordhiyaan cuntada. Parsley waa dhirta ugu badan ee loo isticmaalo qurxinta cuntooyinka. Waxaa ku xiga sage. Tusaalooyin kale waxaa ka mid ah basil, chives, dill, thyme, savory, marjoram, mint iyo rosemary.  
+  Dhirtaan waxaa loo isticmaalaa in lagu daro dhadhan cuntooyinka. Parsley ayaa ugu badan la beeraa, inta badan waxaa loo isticmaalaa qurxinta cuntada. Ka xigta waa sage. Tusaalooyin kale waxaa ka mid ah basil, chives, dill, thyme, savory, marjoram, mint, iyo rosemary.
 
-- **Caafimaadka**  
-Tan iyo waqtiyo hore, dhirta udgoon waxaa loo isticmaalay caafimaad ahaan, waxaana la rumeysan yahay inay awood u leeyihiin daaweynta cuduro badan ama xitaa ka ilaalinta ruuxyada xun. Dhirta sida garlic waxaa laga yaabaa inay leedahay astaamo ka hortag ah.  
-Inkasta oo aqoonta caafimaadka ee hadda jirta ay aqoonsatay in dhirta qaarkood ay leeyihiin astaamo daaweyn ah, waxaa jira kuwo si aad ah loo buunbuuniyay oo u baahan taxaddar, maadaama ay la falgali karaan daawooyinka, ha ahaadaan kuwa dhakhtar qoray ama kuwa laga helo farmashiyaha.  
-Ka hor inta aan dhirta loo isticmaalin caafimaad ahaan, la tasho dhakhtarkaaga.  
+- **Dawo**  
+  Dhirta qaar ayaa tan iyo waayihii hore loo isticmaalayay daawo ahaan, waxaana la rumeysan yahay inay bogsiin karaan cudurro badan ama iska celiyaan ruux xun. Qaar kale, sida toonta, waxay leeyihiin awood ka hortag.  
+  In kasta oo aqoonta casriga ah ee caafimaadka ay aqoonsatay qaar dhir ah inay leeyihiin awood bogsiin, kuwa kale si wayn ayaa loo buunbuuniyay waxaana loo baahan yahay in si taxaddar leh loo isticmaalo, maxaa yeelay waxay la falgeli karaan daawooyinka, ha ahaadeen kuwa dhakhtarku qoro ama kuwa la kala iibsado.  
+  Ka hor intaadan isticmaalin dhirta ujeeddo caafimaad, la tasho xirfadle caafimaad.
 
-- **Dhir Qurxoon**  
-Dhirta udgoon ee loo koriya qurxinta ubaxyo cusub ama qalalan, waxay yeelan karaan ubaxyo ama caleemo midabo leh, halka qaar kale ay leeyihiin caleemo isbeddelaya. Tusaalooyin: thyme, rosemary, mint, lavender, iyo chives.  
+- **Qurxin**  
+  Dhirtaan waxaa loo beeraa in lagu qurxiyo guriga iyagoo cusub ama la qalajiyay. Qaar waxay leeyihiin ubaxyo midab leh iyo caleemo kala duwan, qaarna caleemo midabo badan leh. Tusaalooyin: thyme, rosemary, mint, lavender, iyo chives.
 
-### Cimri Dheer  
-- **Sanadle**  
-Dhirta sanadlaha ah waxay koraan oo ubax soo saarayaan hal xilli ka dibna way dhintaan. Tusaalooyin: anise, basil, chervil, coriander, dill, iyo summer savory.  
+## Muddada Nolosha
 
-- **Labadii Sano Hal Mar**  
-Dhirta laba-sano ah waxay noolaan karaan laba xilli, iyagoo ubax ka soo saaraya xilliga labaad. Tusaalooyin: caraway iyo parsley.  
+- **Dhirta Udgoon ee Sanadlaha ah**  
+  Waxay baxaan oo ubaxaan hal xilli, kadibna way dhintaan. Tusaalooyin: anise, basil, chervil, coriander, dill, iyo summer savory.
 
-- **Dhirta Dheer Nool**  
-Dhirta muddo dheer nool waxay noolaan karaan sanado badan oo ubax soo saaraya xilli kasta. Qaar ka mid ah waa kuwo caleenta dhinta xilliga qaboobaha halka kuwo kale ay yihiin kuwo caleenta sii haysta (evergreen). Tusaalooyin: chives, fennel, iyo winter savory (kaleenta dhinta) halka evergreen-ka ay ka mid yihiin marjoram, rosemary, iyo thyme.  
+- **Dhirta Udgoon ee Laba Sano Baaxda**  
+  Waxay noolaadaan labo xilli, waxayna ubaxaan xilliga labaad. Tusaalooyin: caraway iyo parsley.
 
-## Korinta Dhirta Udgoon Dibadda  
-### Sida Loo Bilaabo  
-Dhirta badankood waxaa laga koriyaa abuur. Habka abuurta loo beero waa in lagu beero qoto ka siman 2 ilaa 4 jeer ballacooda. Taas macnaheedu waa, abuurta yar-yar waa in si qoto yar loo beeraa.  
-Anise, coriander, dill, iyo fennel waa in si toos ah loogu beeraa beerta sababtoo ah ma si fiican u guuraan marka la beddelo.  
-Qoyaan iyo kala-qaybinta waa habab fudud oo waxtar leh marka aad tarayso dhir sida tarragon, chive, iyo mint. Tarragon dhab ah oo Faransiis ah waxaa kaliya laga bilaabi karaa gooyn ama kala qaybinta dhir jira.  
+- **Dhirta Udgoon ee Sanado Badan**  
+  Waxay noolaan karaan sanado badan, waxayna ubaxaan xilli kasta. Qaar waa kuwo caleemo daata xilliga qaboobaha, qaarna caleemo joogto ah. Tusaalooyinka kuwa caleenta daata: chives, fennel, iyo winter savory. Kuwa caleenta joogtada ah: marjoram, rosemary, iyo thyme.
 
-### Carrada  
-Dhirta badankood waxay ku koraan si fiican carrada si fiican u miiraysa, oo dhexdhexaad ah oo bacrin ah leh pH 6.5 ilaa pH 7.0. Qoyaan miiriddu waa qodobka ugu muhiimsan ee koritaanka dhirta udgoon. Dhirta waxay istaagtaa oo laga yaabaa inay dhintaan haddii carradu qoyaan badan tahay.  
+# Korinta Dhirta Udgoon ee Banaanka
 
-### Bacriminta  
-Carradu uma baahna inay si gaar ah bacrin u noqoto, marka isticmaal bacriminta yar ama ha isticmaalin haba yaraatee. Carrada bacrin badan waxay soo saartaa caleemo badan oo aan dhadhan lahayn.  
-Tusaalooyin ka reeban waxaa ka mid ah chervil, fennel, lovage, iyo summer savory, kuwaas oo u baahan bacriminta dhexdhexaad ah. Compost-ka waa mid ku habboon.  
+## Sida Loo Bilaabo
 
-### Meesha  
-Guud ahaan, dhirta waxay u baahan yihiin qorrax buuxda laakiin waxay ku koraan ugu yaraan 6 saacadood oo qorrax ah maalintii. Dhirta sida mint waa in lagu xaddidaa sababtoo ah waxay ku faafi karaan beerta.  
-Beero dhirta ku faafaysa weelal, ama ku beero weel aad dhulka ku qarisay ilaa geeska sare. Isticmaal weel weyn oo ku filan in xididku ku xannibnaado muddo labo sano ah.  
+Dhammaan dhirta udgoon waxay ka soo bixi karaan abuur. Xeerka lagu beero abuurka waa in la geliyo dhulka qoto dheer oo ah 2 ilaa 4 jeer ballaca abuurka. Hadduu abuurku yaryahay, meel sarre ha ka beero.
 
-## Korinta Dhirta Udgoon Gudaha  
-Dhirta badankood waxay u baahan yihiin qorrax badan. Sidaas darteed, korinta dhirta udgoon gudaha xilliga qaboobaha waxay u baahan tahay nalal dheeraad ah. Waxaa muhiim ah in la fahmo in xoogga iftiinka qaboobaha uu inta badan ka yar yahay tobankii meelood ee iftiinka dibadda xilliga xagaaga. Intaas waxaa dheer, muraayadda daaqadda waxay sii yareysaa iftiinka la heli karo ee dhirta gudaha.  
-Haddii iftiinka uusan badaneyn, koritaanka dhirta udgoon badankood gudaha ayaa gaabin doona ama istaagi doona xilliga qaboobaha xitaa marka lagu hayo meel diirran.  
-Dhirta muddo dheer nool waxay ka faa'iideysan doonaan haddii aad dibadda ku dhigto xagaaga meel difaac leh ama aad weelka ku qarisid dhulka geeskiisa sare.  
+- Abuurka anise, coriander, dill, iyo fennel si toos ah ugu beero beerta maxaa yeelay si fudud looma kala beddeli karo.
+- Qayb ka goynta ama kala qeybinta geedka waa hab fiican, xataa ka sahlan abuurka, marka la tarayo tarragon, chive, iyo mint. Tarragon Faransiis dhab ah waxaa lagu bilaabi karaa oo kaliya goyn ama kala qaybinta geed hore.
 
-### Waraabinta Dhirta Gudaha  
-Si fiican u waraabi marka dusha sare ee carradu qalalan tahay oo la taabto. Ha u ogolaan dhirta weelka ku jirta inay ku fariistaan biyo; xididkoodu wuu dhiman doonaa.  
+## Dhulka
 
-### Bacriminta Dhirta Gudaha  
-Dhirta gudaha waxay u baahan doonaan bacriminta dareeraha ah ama bacriminta kalluunka ee dabiiciga ah toddobaad kasta marka dhirtu si firfircoon u korto.  
+Dhirta udgoon waxay ugu fiican yihiin dhul biyo-mareen fiican leh, bacrin ah, pH-giisuna yahay 6.5 ilaa 7.0. Biyo-mareenka dhulku waa waxa ugu muhiimsan ee beerta dhirta udgoon. Haddii dhulku aad u qoyan yahay, dhirtu way istaagi kartaa ama way dhiman kartaa.
 
-## Cayayaanka iyo Waxyeelada Kale  
-Cayayaanka, mites, ama cudurrada aad u yar ayaa weerara dhirta udgoon.  
-Dhirta qaarkood waxaa lagu sheegaa inay cayayaanka ka fogeeyaan, qaarna waxay sameeyaan dhir fiican oo la adeegsan karo. Garlic ayaa xitaa loo isticmaalaa sidii qeyb ka mid ah hababka cayayaanka dabiiciga ah.  
-Aphids, cayayaanka jilicsan ee caanka ah, waxay ku quudi karaan anise, caraway, dill, parsley caleenta qalloocan, iyo fennel. Mararka qaarkood calaamadihii ugu horreeyay ee joogitaankooda waa dhumucda ku taal caleemaha iyo jirridda.  
-Cayayaanka kale ee suurtogalka ah, laakiin aan caadi ahayn, waxaa ka mid ah whiteflies, mealybugs, scale, thrips, iyo slugs. Cimilada kulul ee qalalan, spider mites ayaa dhib noqon kara.  
-Cayayaanka jilicsan ee yar-yar waxaa si fudud oo ammaan ah looga maareyn karaa buufinta biyo xoog leh ama saabuun cayayaanka dilaysa oo loo qasi karo sida tilmaamaha ku qoran. Hubso in calaamada ay sheegtay in ay badbaado u tahay dhirta la cuni karo.  
-Cudurrada, marka laga reebo dhibaatooyinka xididka ee ka dhasha carrada qoyan ama isku-dhafka weelka, waa kuwo aan caadi ahayn dhirta udgoon. Mararka qaarkood mint waxaa ku dhaca cudur loo yaqaan rust; haddii ay dhacdo, ka saar jirridda iyo caleemaha la xiriira.  
+## Bacriminta
 
-## Goosashada iyo Kaydinta  
-Inta lagu jiro xilliga, waxaad goosan kartaa caleemo cusub marka dhirtu leedahay caleemo ku filan si ay u sii korto. Guud ahaan, dhirta waxay leedahay dhadhan fiican haddii la soo ururiyo ka hor inta aan ubaxyada furmin.  
-Goosashada dhirta waa in la sameeyo subaxii, marka saliidaha muhiimka ah ee dhirta ay ugu sarreeyaan. Goos caleemaha ka dib markii dhaxanta ay qalashay, laakiin ka hor inta qorraxdu aysan aad u kululaan.  
-Goosashada weyn, dhirta sanadlaha ah waa la goyn karaa ilaa heerka dhulka, halka dhirta dheer nool aysan ka badnaan karin in la gooyo ilaa saddex meelood hal meel.  
-Dhir badan waxaad u kaydin kartaa mustaqbalka adigoo qalajinaya ama barafaynaya. Si aad u sameysid tan dambe, dhig dhirta cusub ee la jarjaray saxan barafka, ku dabool biyo, kana dhig baraf. Basil ma laha dhadhan haddii la qalajiyo, marka isticmaal cusub ama baraf ka dhig qaab pesto ah, ama ku rid saxanka barafka sida caleemo la jarjaray oo biyo lagu daboolay.  
+Dhulka uma baahna inuu aad u bacrin yahay, sidaas darteed isticmaal bacriminta yar ama gebi ahaanba ha isticmaalin. Bacriminta badan waxay keentaa caleemo badan oo dhadhan la’aan ah.
 
-Si aad wax badan uga barato korinta, isticmaalka, iyo kaydinta dhirta, eeg daabacyada hoos ku xusan, ama wac Beeraleyda Weyn ee xafiiska adeegga kordhinta ee degmadaada.  
+- Marka laga reebo chervil, fennel, lovage, iyo summer savory, kuwaas oo u baahan bacriminta dhexdhexaad ah. Compost-ku waa mid ku haboon.
 
-### Macluumaad Dheeraad ah  
-Kuwa soo socda waa kheyraadyo yar oo la heli karo:  
-- **Websaydhyada**:  
-  - [Dhirta Laga Beero Abuur](http://www.backyardgardener.com/herb/)  
-  - [Korinta Dhirta Gaar Ah](http://www.pioneerthinking.com/growingherbs.html)  
-  - [Korinta Dhirta Gudaha](http://www.doityourself.com/vegetables/growingherbsindoors.html)  
-  - [Beerta Dhirta ee Shinnida](http://altnature.com/library/herb.htm)  
-  - [Korinta Dhirta Beerta Guriga](http://www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm)  
+## Goobta Beerta
 
-- **Buugaagta**:  
-  - *Gourmet Herbs* (Buugga Brooklyn Botanic Garden Handbook)  
-  - *Herbs, An Illustrated Guide* (Sunset Books)  
-  - *All About Herbs* (Ortho Books)  
+Guud ahaan, dhirta udgoon waxay u baahan yihiin qorax buuxda laakin waxay kori karaan ugu yaraan 6 saacadood oo iftiin ah maalintii.
 
-### Talooyinka Beeraleyda Weyn™  
-- Wac Khadka Caawinta Beeraha Guriga:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
+- Dhirta qaar sida mint, waa in la xakameeyaa, haddii kale waxay baabi’inayaan beerta. Ku beero dhirtaas weelasha ama gali weel dhulka ilaa afka weelka. Isticmaal weel ballaaran si xididdada loo xakameeyo dhowr sano.
 
-- Si aad u hesho buug-yaraha Jaamacadda 10-Daqiiqo™ iyo jadwalka fasalka, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+# Korinta Dhirta Udgoon ee Gudaha
 
-Adeegga Kordhinta ee Jaamacadda Oregon State wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan jinsiyadda, midabka, asal ahaan qowmiyadeed, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jihada galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo baxa barnaamijka kaalmada dadweynaha, caqiidada siyaasadeed, macluumaadka hidda, xaaladda halyeeynimo, ciqaab ama aargoosi ka dhashay hawlaha xuquuqda madaniga ah ee hore. (Maaha dhammaan saldhigyada la mamnuucay ayaa khuseeya dhammaan barnaamijyada.)
+## Iftiinka
+
+Dhirta udgoon inta badan waxay u baahan yihiin iftiin badan. Marka lagu beero gudaha xilliga jiilaalka, waxaa loo baahan yahay iftiin dheeraad ah.
+
+- Iftiinka jiilaalka waa ka yar yahay toban meelood meel iftiinka bannaanka xilliga xagaaga. Daaqadda muraayaddeeda ayaa sii yareyneysa iftiinka dhirta gudaha gaara.
+- Haddii iftiin badani jirin, koritaanka dhirta gudaha inta badan wuu gaabinayaa ama wuu istaagayaa xilliga jiilaalka xitaa haddii la dhigto meel diiran.
+
+Dhirta udgoon ee sanado badan waxay faa’iideysanayaan haddii xagaaga dibadda lagu dhigo meel ammaan ah ama la galiyo weelka dhulka ilaa afkiisa.
+
+## Waraabinta Dhirta Gudaha
+
+Waraabi si fiican marka oogada sare ee ciidda ay qalalan tahay. Ha u ogolaanin dhirta weelka ku jirta inay fadhiistaan biyo saxan ku jira; xididdadoodu way dhiman doonaan.
+
+## Bacriminta Dhirta Gudaha
+
+Dhirta udgoon ee gudaha waxay u baahan doonaan bacrimin todobaadle ee dareere ah ama emulsion kalluun organic ah, mar kasta oo dhirtu si firfircoon u korto.
+
+# Cayayaanka iyo Xayawaanka Kale
+
+Cayayaanka, dillaacyada, ama cudurrada dhirta udgoon aad bay u yar yihiin.
+
+- Dhirta qaar ayaa la sheegaa inay iska celiyaan cayayaanka, beeraley badanna waxay aaminsan yihiin dhirta udgoon inay yihiin saaxiibo wanaagsan oo geedaha kale la beero. Dhirta sida toonta waxaa xitaa loo isticmaalaa hababka dabiiciga ah ee la dagaalanka cayayaanka.
+- Aphids ayaa cuni kara anise, caraway, dill, parsley caleen duuban, iyo fennel. Calaamadda ugu horreysa waa dheecaan dufan leh oo caleemaha iyo laamaha saaran.
+- Cayayaanka kale ee dhici kara waxaa ka mid ah whiteflies, mealybugs, scale, thrips, slugs, iyo spider mites marka cimiladu kulushahay oo qalalan tahay.
+
+Inta badan cayayaanka yaryar ee jidhka jilicsan leh waxaa lagu xakameyn karaa buufin biyo xoog leh ama saabuun cayayaanka lagu dilo oo la qasay sida ay tilmaamayso calaamadda. Hubi calaamadda inay sheegto in la isticmaali karo dhirta la cuni karo.
+
+Cudurrada dhirta udgoon waa naadir, marka laga reebo dhibaatooyinka xididka ee keena dhul aad u qoyan ama isku dhafka la beero. Mint mararka qaar waxaa haleeli kara rust; haddii ay sidaas tahay, jar laanta iyo caleemaha xanuunsan.
+
+# Goosashada iyo Kaydinta
+
+- Xilliga koritaanka, gooso caleemaha cusub marka dhirtu leedahay caleemo ku filan oo koritaan u oggolaanaya. Dhirta udgoon waxay leeyihiin dhadhan fiican haddii la goosto ka hor inta aan ubaxyada furmin.
+- Goosashada subaxii samee, markay saliidaha muhiimka ah ugu badan yihiin caleenta. Gooso caleemaha marka roobka dillaacay ka dib laakiin intaan qoraxdu kululaan.
+
+Goosasho weyn:
+
+- Dhirta udgoon sanadlaha ah waa la jarjari karaa dhulka heerkiisa.
+- Kuwa sanado badan nool waa in la goostaa saddex meelood meel keliya.
+
+Dhir badan waad kaydin kartaa mustaqbalka adigoo qalajinaya ama barafajinaya. Si aad u barafajiso:
+
+- Ku rid dhirta cusub ee la jarjaray saxan baraf ah, ku shub biyo, kadibna barafaji.
+- Basil waa tan ugu fiican ee la isticmaalo iyadoo cusub ama barafaysan, sida pesto ama caleemaha la jarjaray ee barafka lagu daray.
+
+Si aad wax badan uga barato sida loo beero, loo isticmaalo, iyo loo kaydiyo dhirta udgoon, eeg buugaagta hoos ku xusan ama la xiriir Beeralayda Master-ka ee xafiiska Adeegga Kordhinta ee degmadaada.
+
+# Macluumaad Dheeraad ah
+
+## Bogagga Internetka
+
+- [Dhirta Udgoon ee Abuurka laga bilaabo](http://www.backyardgardener.com/herb/)
+- [Korinta Noocyo Dhir Udgoon Gaar ah](http://www.pioneerthinking.com/growingherbs.html)
+- [Korinta Dhirta Udgoon ee Gudaha](http://www.doityourself.com/vegetables/growingherbsindoors.html)
+- [Beerta Dhirta Udgoon ee Shinnida](http://altnature.com/library/herb.htm)
+- [Korinta Dhirta Udgoon ee Beerta Guriga](http://www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm)
+
+## Buugaag
+
+- *Gourmet Herbs* (Brooklyn Botanic Garden Handbook)
+- *Herbs, An Illustrated Guide* (Sunset Books)
+- *All About Herbs* (Ortho Books)
+
+#### Talo Beeraleyda Master-ka™ · Wac Khadka Caawinta Beerta: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Wixii waraaqo macluumaad ah iyo jadwalka fasalada ee 10-Minute University™, booqo [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Oregon State waxay mamnuucday takoorka barnaamijyadeeda oo dhan, adeegyada, hawlaha, iyo agabka ku salaysan: midabka, asalka, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), jiheynta galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helo barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, xogta hidda-sidaha, xaaladda halyeeynimada, ciqaabta ama aargoosiga la xiriira hawlaha xuquuqda madaniga ah ee hore. (Dhamaan saldhigyada la mamnuucay looguma dabaqi karo barnaamijyada oo dhan.)
+---

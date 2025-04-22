@@ -1,41 +1,82 @@
-# 10-Minute University™  
-Ang Clackamas County Master Gardener Association, sa pakikipagtulungan at pagsuporta sa OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association katuwang at sumusuporta sa OSU Extension Master Gardener™ Program
 
-## Gawing Mas Matatag sa Klima ang Iyong Hardin: Ecosystem  
-Ang mundo ay dumaranas ng pag-init na nagreresulta sa pagkatunaw ng mga glacier, pagtaas ng lebel ng dagat, pagtaas ng acidity ng karagatan, at mas madalas at matinding tagtuyot at pagbaha. Sa Pacific Northwest, nakaranas ng matagal na tagtuyot, tumataas na insidente at kalubhaan ng wildfire, heat waves, mga outbreak ng insekto, at sakit sa mga puno. Ang nabawasang snowpack ay nagdudulot ng mas maagang peak flows sa mga ilog at sapa at nababawasan ang suplay ng tubig. Bukod sa mga trend na ito, ang pagbabago ng klima ay nagdudulot ng pabago-bagong matinding mga kaganapan sa panahon (heat wave, malakas na ulan) nang mas madalas. [Oregon Climate Assessments](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)  
+## Gawing Mas Matibay sa Klima ang Iyong Hardin: Ecosystem
 
-Paano tayo maghahardin sa ganitong panahon? Ang handout na ito ay nagbibigay ng mga ideya para sa pagpapabuti ng resiliency sa hardin.  
+Ang mundo ay dumaranas ng pag-init na nagdudulot ng pagkatunaw ng mga glacier, pagtaas ng lebel ng dagat, pagtaas ng asido ng karagatan, at mas madalas at matinding tagtuyot at pagbaha. Sa Pacific Northwest, nakaranas ng matagal na tagtuyot, pagdami at paglala ng mga wildfire, matitinding init, pag-atake ng mga insekto, at mga sakit ng puno. Ang nabawasang snowpack ay nagdudulot ng mas maagang pagtaas ng tubig sa mga ilog at sapa at nagpapababa ng suplay ng tubig. Bukod sa mga pagbabagong ito, ang pagbabago ng klima ay nagdudulot ng pabago-bago at matitinding mga pangyayari sa panahon (katulad ng heat wave at matinding ulan) nang mas madalas.  
+[Matuto pa](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
 
-## Ang Ating Nalalaman  
-- Tinatayang may 5 milyong species sa mundo, ngunit 1.5 milyon lamang ang na-identify.  
-- Ang pagbabago ng klima ay nagdulot at patuloy na nagdudulot ng extinction ng mga species at pagkasira ng habitat.  
-- Ang pag-init ay nagbago sa phenology (seasonal na natural phenomenon, tulad ng pagsisimula ng paglaki o pamumulaklak ng mga halaman) at nakakaapekto sa iba't ibang species sa iba't ibang rate. Nagdudulot ito ng kawalan ng synchrony ng mga species na umaasa sa isa't isa.  
-- Maraming species ang tumutugon sa trend ng pag-init sa pamamagitan ng paglipat patungong hilaga o mas mataas na altitude, at sa mas maagang paglabas mula sa dormancy/hibernation. Ang mas malawak na migration na ito ay nagpapataas ng posibilidad ng mga bagong invasive species.  
-- Ang biodiversity ay maaaring sukatin sa pamamagitan ng pagkakaiba-iba ng mga habitat (ecosystem diversity), dami at uri ng mga species (species diversity), at pagkakaiba-iba ng genes (genetic diversity).  
-- Ang habitat ay nagbibigay ng espasyo, pagkain, tubig, at tirahan para sa hayop o halaman na mabuhay. Ang ecosystem ay tumutukoy sa habitat, mga organismo, at kung paano sila nakikipag-ugnayan sa isa't isa. Mga halimbawa ng ecosystem ay kagubatan, damuhan, disyerto, at wetland. Ang pagbabago ng klima ay nakakaapekto sa mga ecosystem at mga habitat.  
-- Mayroong 12 Level I ecoregions (isang lugar kung saan ang mga ecosystem ay karaniwang magkakatulad) sa US. Bisitahin ang [EPA Ecoregions](https://www.epa.gov/eco-research/ecoregions) upang malaman ang iyong ecoregion.  
-- Ang mga keystone species ay may malaking impluwensya sa ecosystem at nakakaapekto sa maraming species. Halimbawa ay ang mga beaver para sa ilog o wetland ecosystems, at ang Oregon white oak para sa oak savannah ecosystems.  
-- Ang mga tao ay umaasa sa mga natural na proseso, na isinagawa ng ibang species, upang linisin ang tubig at hangin, mag-decompose ng basura, at mag-recycle ng nutrients na nagpapanatili sa ecosystem na malusog. Ang pagkawala ng species ay nakakaapekto sa mga natural na prosesong ito. Hindi natin alam kung gaano karaming pagkawala ang kayang tiisin ng ecosystem at patuloy na magbigay ng mahahalagang serbisyo.  
+Paano tayo maghahardin sa ganitong panahon? Ang handout na ito ay nag-aalok ng mga ideya kung paano gawing mas matibay sa pagbabago ng klima ang iyong hardin.
 
-## Posibleng Pagbabawas ng Epekto ng Klima  
-- Magtanim ng keystone species upang makaakit at suportahan ang iba't ibang buhay sa hardin.  
-- Magdagdag ng redundancy sa habitat ng hardin bilang paghahanda para sa ilang pagkabigo dulot ng klima.  
-- Gumawa ng mga bagong habitat para sa maliliit na nilalang na ang pangangailangan ay maaaring suportahan sa isang hardin.  
-- Pumili ng mga halaman nang maingat at manatiling may kaalaman tungkol sa invasive species.  
-- Ang rewilding (pagbibigay ng lupa pabalik sa kalikasan nang kaunti o walang interbensyon ng tao) ay madalas na sinasabayan ng muling pagpapakilala ng keystone species.  
+---
 
-## Ano ang Gagawin  
-- **Magdagdag ng keystone species sa iyong hardin:** Mayroon silang malaking epekto sa maraming ibang species. Upang suriin ang mga kandidato para sa iyong ecoregion, bisitahin ang [Keystone Plants by Ecoregion](https://www.nwf.org/Garden-for-Wildlife/About/Native-Plants/keystone-plants-by-ecoregion). Ang mga listahan ay batay sa trabaho nina Dr. Doug Tallamy at horticulturist Jarrod Fowler, at pinagsama ng National Wildlife Federation. Ang mga listahan ay nagpapakita ng mga halaman sa antas ng genus na may ilang halimbawa ng mga karaniwang species.  
-  Upang mahanap ang mga native species sa iyong lugar, gumamit ng mga resource na nakabatay sa estado tulad ng [Oregon Flora](https://oregonflora.org/), [Calflora](https://www.calflora.org/), at [Washington Flora Checklist](https://burkeherbarium.org/waflora/checklist.php?Category=Endemic).  
-- **Magdagdag ng bagong habitat:** Ang home range ng ilang nilalang ay maaaring tumugma sa iyong hardin. Mga halimbawa:  
-  - *Ground-nesting bees:* Ang 70% ng mga native bees ay nangangailangan ng maliliit, hindi ginagalaw na lugar para sa nesting. Simulan sa isang 2-ft x 2-ft na lugar na walang mulch (ang mga bees na ito ay hindi kayang maghukay sa mulch) na malapit sa mga namumulaklak na halaman at tumatanggap ng araw o bahagyang araw. Iwanan ang lupa na hindi ginagalaw at huwag magpatubig.  
-  - *Queen bumblebees:* Nag-o-overwinter sa ilalim ng lupa sa mga inabandonang pugad ng daga o sa ilalim ng leaf litter. Mag-iwan ng mga lugar sa ilalim ng mga puno at shrubs upang magbigay ng proteksyon.  
-  - *Pacific chorus frogs:* Nakikinabang mula sa simpleng, seasonal na mga pond. Ang artikulong ito sa Extension ay nagbibigay ng gabay at mga link sa higit pang mga resource. [Building Simple Ponds for Frogs](https://extension.oregonstate.edu/news/how-build-simple-pond-native-frogs)  
-  - *Beetle bank:* Isang nakaangat na lugar na tinamnan ng bunching at iba pang damo upang magbigay ng habitat para sa mga kapaki-pakinabang na insekto at iba pang nilalang. Ang ilang prinsipyo ay maaaring i-adapt para sa mga hardin sa bahay. [Beetle Bank Guide](http://oregonipm.ippc.orst.edu/Agroecology/NEW_BEETLE_BANK_1.pdf)  
-  - *Puddling station:* Maglagay ng istasyon malapit sa mga host plants ng butterfly at nectar source upang magbigay ng tubig at mineral para sa mga butterflies, lalo na sa panahon ng mainit at tuyo. [Butterfly Garden Tips](https://www.nwf.org/-/media/Documents/PDFs/Garden-for-Wildlife/Tip-Sheets/Water-Butterfly-Gardens)  
-- **Magtanim ng diversity at redundancy:** Para sa pagkain ng pollinator, magsimula sa hindi bababa sa 3 namumulaklak na halaman para sa bawat spring, summer, at fall season, upang magbigay ng pangmatagalang food source. Pagkatapos, magdagdag ng higit pang bloom varieties upang mapaghandaan ang ilang pagkabigo dulot ng matinding init o late spring at mayroon pa ring sapat para sa bees.  
-- **Huwag magtanim ng invasive species:** Ang invasive plants ay nakatakas sa horticulture upang kolonisahin ang natural na mga lugar at palitan ang mga native. Huwag malito sa mga masiglang tumutubo na masayang nagse-self-sow o mabilis na kumakalat sa ugat. Alamin kung ano ang invasive sa iyong lugar. Ang Oregon’s Invasive Species Council ay nag-aalok ng mga resource sa [Oregon Invasive Species Infohub](https://www.oregoninvasivespeciescouncil.org/infohub).  
-- **Mag-obserba at mag-record ng biodiversity:** Alamin ang ecosystem ng iyong hardin upang bumuo ng knowledge base para sa coping at adaptation. Ang journaling ay tradisyonal na tool na nagtatala ng phenology ng mga mahahalagang halaman, insidente ng pests at sakit, mga pangunahing kaganapan sa panahon, at pangkalahatang progreso ng hardin. Ang mga mas bagong tool tulad ng [iNaturalist](https://www.inaturalist.org) (isang online social network ng mga tao na nagbabahagi ng impormasyon tungkol sa biodiversity upang matulungan ang isa't isa na matuto tungkol sa kalikasan) ay nagdodokumento at nakikilala ang mga residente at bisita ng hardin.  
-- **Rewilding:** Karaniwang inilalapat sa malalaking lugar na may pokus sa pagpapanumbalik ng mga ecological function. Ang ilang prinsipyo ay maaaring maging relevant sa mga hardin sa bahay. [Rewilding Benefits and Risks](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding)  
+## Mga Alam Natin
 
-Ang Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, marital status, familial/parental status, kita mula sa pampublikong programa ng tulong, political beliefs, genetic information, veteran’s status, reprisal o retaliation para sa naunang civil rights activity. (Hindi lahat ng mga ipinagbabawal na base ay naaangkop sa lahat ng mga programa.)
+- Tinatayang may 5 milyong species sa mundo; 1.5 milyon pa lang ang natutukoy.
+- Ang pagbabago ng klima ay nagdulot at patuloy na nagdudulot ng pagkaubos ng mga species at pagkasira ng tirahan.
+- Ang pag-init ay nagbago ng phenology (mga natural na pangyayari ayon sa panahon, tulad ng pagsisimula ng paglaki o pamumulaklak ng mga halaman) at iba-iba ang epekto nito sa bawat species. Dahil dito, nagkakaroon ng hindi pagkakasabay ang mga species na umaasa sa isa't isa.
+- Maraming species ang tumutugon sa pag-init ng klima sa pamamagitan ng paglipat pa-hilaga o sa mas mataas na lugar at mas maagang paglabas mula sa dormancy/hibernation. Nagpapataas ito ng tsansa ng pagpasok ng mga bagong invasive species.
+- Nasusukat ang biodiversity sa dami ng iba't ibang tirahan (ecosystem diversity), bilang at dami ng species (species diversity), at dami ng genes (genetic diversity).
+- Ang tirahan ay nagbibigay ng espasyo, pagkain, tubig, at silungan para sa mga hayop o halaman na mabuhay. Ang ecosystem ay tumutukoy sa tirahan, mga organismo, at kung paano sila nagkaka-ugnayan. Halimbawa ng mga ecosystem ay kagubatan, damuhan, disyerto, at latian. Apektado ang mga ecosystem at tirahan ng pag-init ng klima.
+- Mayroong 12 Level I ecoregions (mga lugar na magkatulad ang ecosystem) sa U.S. [Hanapin ang iyong ecoregion dito](https://www.epa.gov/eco-research/ecoregions).
+- Ang keystone species ay may malaking epekto sa ecosystem at nakakaapekto sa maraming ibang species. Halimbawa nito ay ang beaver para sa mga ecosystem ng ilog o latian at Oregon white oak para sa oak savannah ecosystems.
+- Umaasa ang mga tao sa mga natural na proseso na ginagawa ng ibang species para linisin ang tubig at hangin, magbulok ng basura, at mag-recycle ng nutrisyon na nagpapanatili ng kalusugan ng ecosystem. Ang pagkawala ng species ay nakakaapekto sa mga prosesong ito. Hindi natin alam kung gaano karaming pagkawala ang kayang tiisin ng ating ecosystem bago ito mawalan ng mahalagang serbisyo.
+
+---
+
+## Pwedeng Gawin Laban sa Pagbabago ng Klima
+
+- Magtanim ng keystone species para makaakit at masuportahan ang iba’t ibang buhay sa hardin.
+- Magdagdag ng redundancy sa tirahan sa hardin bilang paghahanda sa mga posibleng pagkabigo dahil sa klima.
+- Gumawa ng bagong tirahan para sa maliliit na hayop na kayang mabuhay sa hardin.
+- Pumili ng mga halaman nang maingat at manatiling updated tungkol sa mga invasive species.
+- Ang rewilding (pagbabalik ng lupa sa kalikasan nang kaunti o walang interbensyon ng tao) ay kadalasang sinasabayan ng muling pagpapakilala ng mga keystone species.
+
+---
+
+## Ano ang Dapat Gawin
+
+### Magdagdag ng Keystone Species sa Iyong Hardin
+
+Malaki ang epekto ng keystone species sa maraming ibang species. Para makita ang mga maaaring itanim sa iyong ecoregion, bisitahin ang [National Wildlife Federation's Keystone Plants by Ecoregion](https://www.nwf.org/Garden-for-Wildlife/About/Native-Plants/keystone-plants-by-ecoregion). Ang mga listahang ito ay batay sa gawa ni Dr. Doug Tallamy at horticulturist Jarrod Fowler.
+
+Para matukoy ang mga native species sa inyong lugar, gamitin ang mga state-based na resources gaya ng:
+
+- [Oregon Flora](https://oregonflora.org/)
+- [Calflora](https://www.calflora.org/)
+- [Washington Flora Checklist](https://burkeherbarium.org/waflora/checklist.php?Category=Endemic)
+
+### Magdagdag ng Bagong Tirahan
+
+Maaaring tugma sa iyong hardin ang tahanan ng ilang nilalang. Halimbawa:
+
+- **Ground-nesting bees**: Binubuo nila ang 70% ng mga native na bubuyog at nangangailangan ng maliliit at hindi ginagalaw na lugar para magpugad. Simulan sa 2 talampakan x 2 talampakan na lugar na walang mulch (hindi kayang maghukay ang mga bubuyog sa mulch) malapit sa mga namumulaklak na halaman at nasisikatan ng araw o kalahating araw. Huwag galawin ang lupa at huwag diligan.
+- **Queen bumblebees**: Nag-o-overwinter sila sa ilalim ng lupa sa mga abandonadong pugad ng daga o sa ilalim ng mga tuyong dahon. Mag-iwan ng hindi ginagalaw na lugar sa ilalim ng mga puno at palumpong bilang proteksyon.
+- **Pacific chorus frogs**: Nakikinabang sila sa mga simpleng, pana-panahong pond. [Alamin kung paano gumawa ng simpleng pond para sa native na palaka](https://extension.oregonstate.edu/news/how-build-simple-pond-native-frogs).
+- **Beetle banks**: Ito ay mga mataas na lugar na tinaniman ng mga damo bilang tirahan ng mga kapaki-pakinabang na insekto at iba pang hayop. Maaaring iangkop ang ilang prinsipyo nito sa mga home garden. [Matuto pa tungkol sa beetle banks](http://oregonipm.ippc.orst.edu/Agroecology/NEW_BEETLE_BANK_1.pdf).
+- **Puddling stations para sa paruparo**: Maglagay ng puddling station malapit sa mga host plant at nectar source ng paruparo upang magbigay ng tubig at mineral, lalo na sa mainit at tuyong panahon. [Matuto pa](https://www.nwf.org/-/media/Documents/PDFs/Garden-for-Wildlife/Tip-Sheets/Water-Butterfly-Gardens).
+
+### Iba't Ibang Halaman at Redundancy
+
+- Para sa pagkain ng mga pollinator, magsimula ng hindi bababa sa tatlong namumulaklak na halaman sa bawat panahon ng tagsibol, tag-init, at taglagas para may pagkain ang mga pollinator sa mahabang panahon.
+- Magdagdag pa ng iba’t ibang bulaklak para kung may mabigo dahil sa matinding init o huling tagsibol, may matitira pa ring pagkain para sa mga bubuyog.
+
+### Iwasang Magtanim ng Invasive Species
+
+- Ang invasive plants ay tumatakas mula sa hardin papunta sa likas na lugar at pinapalitan ang mga native.
+- Huwag ipagkamali ang invasive plants sa mga masiglang tumutubo o malakas magparami sa pamamagitan ng buto o ugat.
+- Alamin kung ano ang mga invasive sa inyong lugar. Ang [Oregon Invasive Species Council](https://www.oregoninvasivespeciescouncil.org/infohub) ay may mga resources.
+
+### Obserbahan at Irekord ang Biodiversity
+
+- Alamin kung ano ang ecosystem ng iyong hardin upang magkaroon ng kaalaman para sa pagharap at pag-aangkop.
+- Ang journaling ay tradisyunal na paraan para itala ang phenology ng mahahalagang halaman, mga insidente ng peste at sakit, malalaking pangyayari sa panahon, at pangkalahatang progreso ng hardin.
+- Gumamit ng makabagong tools tulad ng [iNaturalist](https://www.inaturalist.org), isang online na social network para sa pagbahagi ng impormasyon tungkol sa biodiversity na makakatulong tukuyin ang mga residente at bisita ng iyong hardin.
+
+### Rewilding
+
+Ang rewilding ay kadalasang ginagawa sa malalaking lugar para maibalik ang mga tungkulin ng ekolohiya. Maaaring ang ilang prinsipyo nito ay may kaugnayan din sa mga home garden. [Matuto pa tungkol sa rewilding](https://www.iucn.org/resources/issues-brief/benefits-and-risks-rewilding).
+
+---
+
+#### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito dahil sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, gender identity (kasama ang gender expression), sexual orientation, kapansanan, edad, katayuang may asawa, katayuang pampamilya/pagiging magulang, kita mula sa public assistance program, paniniwalang pampulitika, genetic information, status bilang beterano, o paghihiganti dahil sa naunang civil rights activity. (Hindi lahat ng nabanggit na basehan ay akma sa lahat ng programa.)
+---

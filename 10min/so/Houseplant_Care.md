@@ -1,52 +1,94 @@
-# Jaamacadda 10-Daqiiqo ™  
-Ururka Beeralayda Khabiirka ah ee Degmada Clackamas oo iskaashi la leh oo taageera Barnaamijka Khabiirka ah ee OSU Extension Master Gardener™  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Guryaha ee Degmada Clackamas oo kaashanaya isla markaana taageeraya Barnaamijka OSU Extension Master Gardener™
 
-## Sida Loogu Daryeelo Dhirta Guriga  
-Korinta dhirta guriga waa hab fiican oo lagu daro cagaar qurux badan gurigaaga. Inkasta oo qaar ka mid ah dhirta guriga ay si fudud u koraan, dhirta oo dhan waxay u baahan yihiin daryeelka aasaasiga ah. Dhirta waxay ku wanaagsan yihiin deegaan u eg deegaanka ay asal ahaan ka yimaadeen. Kahor intaadan iibsan dhir cusub, ogow baahidooda aasaasiga ah si aad u go’aamiso haddii aad haysato meel ku habboon gurigaaga oo aad siin karto daryeel sax ah.  
+# Sida Loo Daryeelo Dhirta Guriga
 
-### Iftiinka  
-Iftiinka waa furaha korinta dhirta guriga ee guusha leh. Badanaa, waxaad ku tiirsanaan kartaa tilmaamaha jihada. Daaqadda dhinaca koonfurta waxay heshaa qorraxda ugu xooggan, galbeedka iyo bari waxay ku jiraan darajada dhexe, halka daaqadda dhinaca waqooyi la tixgeliyo inay leedahay iftiin hoose. Ka taxaddar inaadan dhirta ku dhigin meel aad ugu dhow ama taabashada daaqadda, halkaas oo kala duwanaanta heerkulka iyo qabowgu dhaawici karaan caleemaha. Laydhadhka LED ee koritaanka waa hab tamar-ku-ool ah oo lagu daro iftiin. Meelaha kululeynta iyo meelaha dabka lagu shido waa in sidoo kale laga fogaadaa.  
+Korinta dhirta guriga waa hab fiican oo gurigaaga loogu daro cagaar qurux badan. In kasta oo dhir badan oo guriga lagu beero ay fududahay in la kori karo, dhir kastaa waxay u baahan tahay daryeel aasaasi ah. Dhirta waxay ku korodhsataa meel la mid ah deegaanka ay asal ahaan ka soo jeedaan. Ka hor intaadan iibsan dhir cusub, ogow baahiyahooda aasaasiga ah si aad u hubiso inaad u heli karto meel ku habboon gurigaaga oo aad si fiican ugu daryeeli karto.
 
-### Meelaynta  
-Dhirta guriga waxay u baahan yihiin hawo wanaagsan oo ku wareegsan si ay caafimaad u yeeshaan oo ay u yareeyaan dhibaatooyinka cayayaanka. Ku uruuri dhirta guriga iyada oo loo eegayo baahiyaha iftiinka iyo heerkulka. Meelaha kululeynta iyo meelaha dabka lagu shido waa in laga fogaadaa.  
+## Iftiinka
 
-### Biyaha  
-Biyo si waafaqsan baahida dhirta gaar ah. Hubi adiga oo fartaada ku gelinaya ciidda, ilaa far-galka labaad, si aad u hubiso qoyaan ciidda. Ama qaad dheriga. Haddii uu fudud yahay, dhirtu waxay u baahan tahay biyo. Hubi inaad isticmaasho weelal leh godad biyo-maraynta ah meelaha hoose, haddii kale biyuhu waxay ku ururi doonaan hoosta oo waxay sababi doonaan qudhunka xididka. Biyo-bixinta badan waxay dishaa dhirta ka badan inta ay biyo-yarida disho. Hubi inaad biyaha siiso ciidda, maaha caleemaha. Xilliga jiilaalka, dhirta si fudud u waraabi oo kaliya marka isku-dhafka dheriga uu qalalan yahay.  
+Helitaanka iftiin ku filan waa furaha korinta dhirta guriga. Badanaa, waxaad ku ogaan kartaa jihada:
 
-### Qoyaanka  
-Dhirta badan oo guriga ku koraya asal ahaan waxay ka yimaadeen kaymaha roobka ee kulaylaha qoyan, halka kuwa kale sida cactiga iyo dhirta adkaha ay ka yimaadeen deegaan qalalan. Hawada guriga waxay noqon kartaa qalalan, gaar ahaan xilliga jiilaalka marka nidaamyada kululaynta ay shaqeynayaan. Hawo aad u qalalan waxay keeni kartaa caleemo engegan, laalaabmay, jaallo ah ama bunni ah. Qoyaanka badan wuxuu keeni karaa cudurro. Qoyaanka ugu fiican ee dhirta guriga badankood waa 40-60 boqolkiiba.  
+- Daaqad u jeeda koonfur waxay heshaa qorraxda ugu xoogga badan.
+- Daaqadaha galbeedka iyo bari waxay dhigaan meel dhexe.
+- Daaqad u jeeda waqooyi waxaa loo tixgeliyaa in ay tahay iftiin hoose.
 
-Habab lagu kordhiyo qoyaanka hawada:  
-- Si joogto ah u buufi caleemaha dhirta.  
-- Dhig dhirta meel saxan buuxan oo dhagaxyo iyo biyo ah. Hubi in dheriga hoostiisu uusan ku fadhin biyo fadhiya.  
-- Isticmaal qalabka qoyaan-sameeyaha.  
-- Dhig dhirta meel qol leh qoyaanka sare sida musqusha ama jikada.  
+Iska jir in aanad dhirta aad ugu dhawayn ama taaban daaqadda, sababtoo ah heerkulka isbeddelaya iyo qabowga ayaa wax yeeli kara caleemaha. Iftiinka LED-grow waa hab tamar-badbaadin ah oo lagu kordhiyo iftiinka. Iska ilaali in aad dhirta dhigto meelaha kululeeyaha iyo meelaha dabka guryaha laga shito.
 
-### Weelasha  
-Cabbirka iyo nooca weelku waa muhiim caafimaadka dhirta guriga. Dheriga dhoobada ee terracotta ayaa si degdeg ah u qalala oo ku habboon dhirta saxaraha. Dheri aad u weyn wuxuu sababi karaa qudhunka xididka, halka dheri aad u yar uu xaddidi karo nuugista biyaha iyo nafaqada. Ku bilow weel cabbirkiisu yahay 1-2 inch ka weyn xididka dhirta oo si tartiib ah ugu gudub cabbir weyn. Hubi in weelashu ay leeyihiin godad biyo-maraynta ku filan oo hoosta ah si ay biyaha xad-dhaafka ah u mariyaan.  
+## Meelaynta
 
-Ka saar dhirta guriga sanadkiiba hal mar si aad u hubiso xididdada. Haddii xididdadu ay wareegayaan oo ay si adag ugu xiran yihiin dheriga, waa waqtigii lagu beeran lahaa weel weyn. Waqtiga ugu fiican ee lagu beeran karo waa xagaaga ama guga marka dhirtu si firfircoon u korayso, ama jar ilaa saddex-meelood oo xididdada si dhirta ay u sii ahaato isla cabbirka.  
+Dhirta guriga waxay u baahan tahay hawo wanaagsan oo ku wareegsan si ay caafimaad u yeeshaan isla markaana looga yareeyo cayayaanka. Ku ururi dhirta guriga si waafaqsan baahida iftiinka iyo heerkulka. Iska ilaali in aad dhirta dhigto meelaha kululeeyaha iyo meelaha dabka.
 
-### Ciidda  
-Dhirta guriga waxay u baahan yihiin ciid-dhexaad si ay u koraan, inkasta oo dhirta qaarkood sida dhirta hawada ay ku koraan iyada oo aan lahayn ciida. Isku-dhafyada dheriga waxaa loo diyaariyay noocyada kala duwan ee dhirta. Dhirta guriga badankood waxay ku barwaaqoobaan ciidda dheriga ee ujeedooyinka guud. Cactiga iyo succulents-ku waxay door bidaan isku-dhaf yar oo leh ciid badan ama perlite si ay u helaan biyo-maraynta wanaagsan. Orchidyada waxay ku fiican yihiin isku-dhaf barkadeed. Si dhirta caafimaad u yeeshaan, isticmaal isku-dhaf cusub oo nadiif ah si loo yareeyo halista cudurrada.  
+## Waraabinta
 
-### Bacriminta  
-Marka dhirtu si firfircoon u korayso, si dhexdhexaad ah u quudi bacriminta si tartiib-tartiib ah u sii deysa oo ah budo, kiniin ama tiir. Kuwaas badanaa waxay soconayaan 2 ilaa 3 bilood laakiin waxay socon karaan waqti dheer iyada oo ku xiran badeecada. Qaar ka mid ah noocyada waxay leeyihiin bacriminta sii-deysa oo gaarta ilaa lix bilood. Ama beddelkeeda, isticmaal nooca dareeraha toddobaad kasta oo kale sida lagu farayo. Dhirta ma u baahna bacriminta marka koritaanka uu gaabiyo ama istaago, badanaa laga bilaabo Nofembar ilaa Maarso.  
+Biyo sii si waafaqsan baahida dhirta:
 
-Dhirta guriga sida violets-ka Afrikaanka ah iyo orchidyada waxay u baahan yihiin bacriminta joogtada ah si ay u sameeyaan ubaxyo. Kuwa kale sida cactiga iyo succulents-ku waxay ku fiican yihiin bacriminta yar ama aan lahayn. Bacriminta badan waxay gubi kartaa caleemaha ama sababi kartaa dhaawac kale, halka nafaqo-yari ay keeni karto koritaan daciif ah ama culays. Haddii aad aragto gubasho ku jirta caarada caleemaha ama qolof cad oo ka muuqda ciidda dheriga, waxaad u badan tahay inaad bacriminta badan isticmaashay.  
+- Ka hubi adiga oo farahaaga gelinaya ciidda ilaa farahaaga labaad si aad u hubiso qoyaan.
+- Ama qaad weelka dhirta. Haddii uu fudud yahay, dhirtu waxay u baahan tahay biyo.
 
-### Nadiifinta Caleemaha  
-Boorka ayaa ku ururi kara caleemaha, taas oo ka dhigaysa muuqaal madhalays ah isla markaana ka horjoogsanaysa dhirta inay nuugto iftiinka iyada oo caleemaha. Ku nadiifi ama ku masax caleemaha maro qoyan si aad u cusboonaysiiso.  
+Hubi in aad isticmaasho weelal daloolo leh, si aanay biyuhu ugu ururin hoosta oo aysan xididada u caariyin. Biyo badan oo la siiyaa dhirta waxay dilaan dhirta ka badan marka biyaha la yara siiyo. Biyo sii ciidda ee ha biyo siinin caleemaha. Xilliga jiilaalka, dhirta si fudud u waraabi oo kaliya marka ciiddu qalalan tahay.
 
-## Kheyraadka Jaamacadda Gobolka Oregon  
-[Light exposure is key to growing successful houseplants](https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants)  
-[Soluble salts damage houseplants](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)  
-[Carefree succulents continue to grow in popularity](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)  
-[Colorful indoor plants make delightful gifts for the holidays](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)  
-[Easy indoor herbs spice up cooking](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)  
+## Qoyaanka Hawada
 
-## Talooyinka Khabiirka Beeralayda™  
-La xiriir xafiiska OSU Extension ee deegaankaaga si aad u hesho talooyinka Khabiirka Beeralayda. Booqo goobtan si aad u hesho macluumaadka xiriirka: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us)  
-Si aad u hesho buug-yaraha Jaamacadda 10-Daqiiqo™ iyo jadwalka fasalka, booqo: [https://cmastergardeners.org](https://cmastergardeners.org)  
+Dhir badan oo guriga lagu beero waxay asal ahaan ka yimaadeen kaymaha roobka ee qoyan, halka qaar kale sida kaktusyada iyo succulents-ka ay ka yimaadeen meelaha ay qallalaan. Hawada gudaha guriga waxay noqon kartaa mid qalalan, gaar ahaan xilliga jiilaalka marka kulayliyaha la shido. Hawo aad u qalalan waxay keeni kartaa in caleemuhu qalalaan, dilaacaan, laabmaan, huruudaan ama bunni noqdaan. Qoyaanka aadka u badan wuxuu keeni karaa cudurro. Qoyaanka ugu fiican ee inta badan dhirta guriga waa 40-60 boqolkiiba.
 
-Jaamacadda Gobolka Oregon ee Adeegga Ballaarinta waxay mamnuucaysaa takoorka dhammaan barnaamijkeeda, adeegyada, hawlaha, iyo agabka ku saleysan jinsiyadda, midabka, asal ahaan qowmiyadda, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dareenka galmada, naafada, da’da, xaaladda guurka, xaaladda qoyska/qoysnimada, dakhliga laga helay barnaamijka gargaarka dadweynaha, aaminsanaanta siyaasadda, macluumaadka hidde-sidaha, heerka halyeeynimada, ama aargoosiga ama ciqaabta falka xuquuqda madaniga ah ee hore. (Ma aha dhammaan saldhigyada mamnuuca ay khuseeyaan dhammaan barnaamijyada).
+Kordhi qoyaanka hawada mid ama dhowr hab oo ka mid ah kuwaan:
+
+- Caleemaha dhirta si joogto ah u buufi biyo.
+- Dhig dhirta korka saxan buuxa oo leh dhagaxyo yaryar iyo biyo. Hubi in hoose ee weelka uusan biyaha gudaha fadhiisan.
+- Isticmaal mashiinka qoyaanka.
+- Dhig dhirta qol leh hawo qoyan sida musqusha ama jikada.
+
+## Weelasha
+
+Cabbirka iyo nooca weelka aad ku beerto dhirta waa muhiim:
+
+- Weelasha dhoobada (terracotta) way fududahay in ay qalalaan, waxaana fiican in lagu beero dhirta lamadegaanka ka timaada.
+- Weel aad u weyn wuxuu horseedi karaa xididada oo qudhunta, weel yarna wuxuu xaddidi karaa biyaha iyo nafaqooyinka.
+
+Bilaaw weel 1-2 inch ka weyn xididka dhirta, kadib si tartiib tartiib ah u weynee. Hubi in weelasha ay leeyihiin daloolo biyo-mareen ah si biyaha xad-dhaafka ah u baxaan.
+
+Sanadkiiba mar ka saar dhirta guriga weelka si aad u eegto xididada. Haddii xididada ay weelka ku wareegayaan oo aad u cufan yihiin, waa waqtigii la beddeli lahaa weel weyn. Waqtiga ugu fiican ee lagu beddelo waa gu’ga ama xagaaga marka dhirtu si firfircoon u korto, ama jar ilaa sadex-meelood meel xididada si dhirtu isku cabbir u ahaato.
+
+## Ciidda
+
+Dhirta guriga waxay u baahan yihiin ciid ay ku koraan, inkasta oo dhir qaar sida air plants aanay u baahnayn ciid. Isku-darka ciidda waxaa loo diyaariyaa noocyada dhirta kala duwan:
+
+- Dhirta guriga badankooda waxay si fiican ugu koraan ciidda guud ee guriga.
+- Kaktusyada iyo succulents-ka waxay jecel yihiin isku-dar ciid leh carro badan ama perlite si biyuhu u baxaan.
+- Orchids-ka waxay ugu fiican yihiin isku-dar geed adag oo bark ah.
+
+Si aad u hesho dhir caafimaad leh, isticmaal ciid cusub oo nadiif ah si aad u yareyso cudurrada.
+
+## Bacriminta
+
+Marka dhirtu si firfircoon u korto, si dhexdhexaad ah ugu quudi bacriminta si tartiib ah u sii daaya, sida granules, kiniinno, ama ul bacrimineed. Kuwani badanaa waxay soconayaan 2 ilaa 3 bilood laakiin waxay socon karaan waqti dheer iyadoo ku xiran badeecada. Qaar ka mid ah bacrimiyeyaasha waxay socdaan lix bilood. Ama isticmaal nooca dareeraha ah asbuuc kasta oo kale sida tilmaamaha.
+
+Dhirta uma baahna bacrimin marka koritaanku yaraado ama istaago, badanaa laga bilaabo November ilaa March.
+
+- Dhir guriga sida African violets iyo orchids waxay u baahan yihiin bacriminta joogtada ah si ay ubax u sameeyaan.
+- Kuwo kale sida kaktusyada iyo succulents-ka waxay ugu fiican yihiin bacriminta yar ama aan la siin.
+
+Bacriminta xad-dhaafka ah waxay gubi kartaa caleemaha ama dhaawac kale keeni kartaa, halka nafaqo la’aantu keeni karto koritaan daciif ah ama cadaadis. Haddii aad aragto gubasho ku taal cirifka caleemaha ama xabo cad oo ciidda korka taal, waxaa laga yaabaa inaad aad u bacrimiso.
+
+## Nadiifinta Caleemaha
+
+Boodhku wuxuu ku ururi karaa caleemaha, taasoo ka dhigi karta mid madow oo caqabad ku noqda dhirta in ay iftiin nuugto. Biyo ku dhaq ama ku masax caleemaha maro qoyan si aad u cusboonaysiiso.
+
+---
+
+## Kheyraadka Jaamacadda Oregon State
+
+- [Iftiinka waa furaha korinta dhirta guriga](https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants)
+- [Milixda ku jirta biyaha waxay waxyeelaysaa dhirta guriga](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)
+- [Succulents-ka sahlan ayaa sii caan baxaya](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
+- [Dhirta midabka leh ee gudaha waxay yihiin hadiyado qurux badan xilliga fasaxyada](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
+- [Dhirta basbaaska gudaha ayaa cuntada dhadhan u yeelaysa](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
+
+---
+
+#### Talooyinka Master Gardener™ · La xiriir xafiiska OSU Extension ee deegaankaaga si aad u hesho talooyin Master Gardener. Ka hubi boggan xogta xiriirka: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Wixii warqado iyo jadwal fasallo ah ee Jaamacadda 10-Daqiiqo™, booqo [https://cmastergardeners.org](https://cmastergardeners.org).
+
+---
+
+##### Adeegga Kordhinta Jaamacadda Oregon State waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ku salaysan: jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), nooca galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo baxa barnaamijka caawimada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-sideyaasha, xaaladda askarnimada, aargoosi ama ciqaab la xiriira ku xadgudubkii hore ee xuquuqda madaniga ah. (Dhammaan saldhigyada la mamnuucay lama daboolayo dhammaan barnaamijyada.)
+---

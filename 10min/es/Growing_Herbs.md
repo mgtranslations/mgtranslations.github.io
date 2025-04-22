@@ -1,117 +1,132 @@
-# Universidad de 10 Minutos™  
-La Asociación de Jardineros Maestros del Condado de Clackamas, en colaboración y apoyo del Programa de Jardineros Maestros™ de Extensión de OSU  
+#### 10-Minute University™ · La Asociación de Maestros Jardineros del Condado de Clackamas en colaboración y apoyo al Programa de Maestros Jardineros™ de Extensión de OSU
 
-## Cultivo de Hierbas  
+# Cultivo de Hierbas
 
-### Resumen  
-Una hierba es una planta que, a diferencia de un árbol, no produce un tallo leñoso. Vive lo suficiente para desarrollar flores y, a menudo, semillas. Las hierbas pueden ser anuales, bienales o perennes. Dependiendo de quién las cuente, hay entre 40 y 70 tipos diferentes de hierbas.  
+## Resumen
 
-### Atributos  
-Las hierbas se categorizan de dos o más maneras:  
+Una hierba es una planta que, a diferencia de un árbol, no produce un tallo leñoso. Vive lo suficiente para desarrollar flores y, a menudo, semillas. Las hierbas pueden ser anuales, bienales o perennes. Dependiendo de quién las cuente, hay entre 40 y 70 tipos diferentes de hierbas.
+
+## Características
+
+Las hierbas se clasifican de dos o más maneras:
 
 - **Aromáticas**  
-  La mayoría de las hierbas tienen flores o follaje de olor agradable y se cultivan por sus aceites para producir perfumes, aguas de tocador y varios aromas. Ejemplos: lavanda, menta, mejorana, apio de monte, romero y albahaca.  
+  La mayoría de las hierbas tienen flores o follaje con buen aroma y se cultivan por sus aceites para hacer perfumes, aguas de tocador y diferentes fragancias. Ejemplos: lavanda, menta, mejorana, apio de monte, romero y albahaca.
 
 - **Culinarias**  
-  Estas hierbas son valoradas por añadir sabor a la cocina. Entre ellas, el perejil es producido en mayor cantidad y se utiliza principalmente como adorno. Le sigue en popularidad la salvia. Otros ejemplos incluyen albahaca, cebollín, eneldo, tomillo, ajedrea, mejorana, menta y romero.  
+  Estas hierbas se valoran por dar sabor a la comida. Entre ellas, el perejil es la que más se produce y se utiliza mayormente como adorno. Después, la más popular es la salvia. Otros ejemplos incluyen albahaca, cebollín, eneldo, tomillo, ajedrea, mejorana, menta y romero.
 
 - **Medicinales**  
-  Usadas en la medicina desde tiempos antiguos, algunas hierbas se cree que tienen el poder de curar una amplia gama de enfermedades o ahuyentar espíritus malignos. Otras, como el ajo, pueden tener características preventivas.  
-  Aunque el conocimiento médico actual reconoce a algunas hierbas por sus propiedades curativas, otras están altamente sobrevaloradas y deben usarse con cuidado, si acaso, ya que pueden interactuar con medicamentos, ya sean recetados o de venta libre.  
-  Antes de usar hierbas con fines medicinales, consulta con tu profesional de salud.  
+  Usadas en la medicina desde la antigüedad, se cree que algunas hierbas pueden curar una gran variedad de enfermedades o alejar malos espíritus. Otras, como el ajo, pueden tener características preventivas.  
+  Aunque la medicina moderna reconoce que algunas hierbas tienen propiedades curativas, otras están muy sobrevaloradas y deben usarse con cuidado, o no usarse, porque pueden interactuar con medicamentos, ya sean con o sin receta.  
+  Antes de usar hierbas con fines medicinales, consulta a tu profesional de salud.
 
 - **Ornamentales**  
-  Cultivadas para arreglos frescos o secos, estas hierbas pueden tener flores y follaje de colores brillantes, mientras que otras tienen follaje variado. Algunos ejemplos son tomillo, romero, menta, lavanda y cebollín.  
+  Cultivadas para arreglos frescos o secos, estas hierbas pueden tener flores y hojas de colores brillantes, mientras que otras tienen hojas variegadas. Ejemplos incluyen tomillo, romero, menta, lavanda y cebollín.
 
-### Longevidad  
-- **Hierbas anuales**  
-  Crecen y florecen en una temporada y luego mueren. Ejemplos: anís, albahaca, perifollo, cilantro, eneldo y ajedrea de verano.  
+## Longevidad
 
-- **Hierbas bienales**  
-  Viven por dos temporadas y florecen durante la segunda. Ejemplos: alcaravea y perejil.  
+- **Hierbas Anuales**  
+  Crecen y florecen una temporada y luego mueren. Ejemplos: anís, albahaca, perifollo, cilantro, eneldo y ajedrea de verano.
 
-- **Hierbas perennes**  
-  Pueden vivir por varios años y florecen cada temporada. Algunas son caducas (mueren en invierno) mientras que otras son de hoja perenne. Ejemplos de hierbas perennes caducas: cebollín, hinojo y ajedrea de invierno. Ejemplos de hierbas perennes de hoja perenne: mejorana, romero y tomillo.  
+- **Hierbas Bienales**  
+  Viven dos temporadas y florecen en la segunda. Ejemplos: alcaravea y perejil.
 
-## Cultivo de hierbas al aire libre  
+- **Hierbas Perennes**  
+  Pueden vivir varios años y florecen cada temporada. Algunas son caducas (mueren en invierno) y otras son de hoja perenne. Ejemplos de hierbas perennes caducas son cebollín, hinojo y ajedrea de invierno, mientras que las perennes de hoja perenne incluyen mejorana, romero y tomillo.
 
-### Cómo empezar  
-Casi todas las hierbas se pueden cultivar a partir de semillas. La guía para plantar semillas es sembrarlas a una profundidad igual a 2-4 veces su ancho. En otras palabras, cuanto más pequeña sea la semilla, más superficial debe ser sembrada.  
-Siembra anís, cilantro, eneldo y hinojo directamente en el jardín, ya que no se trasplantan bien.  
+# Cultivo de Hierbas al Aire Libre
 
-Los esquejes y las divisiones son útiles e incluso más fáciles que sembrar semillas cuando propagas estragón, cebollín y menta. De hecho, el verdadero estragón francés solo puede iniciarse a partir de un esqueje o división de una planta existente.  
+## Cómo Comenzar
 
-### Suelo  
-La mayoría de las hierbas crecen mejor en suelos bien drenados, bastante fértiles y con un pH neutro de 6.5 a 7.0. El drenaje es probablemente el factor más importante para el éxito en el cultivo de hierbas. Las hierbas se estancan y pueden morir en suelos empapados.  
+Casi todas las hierbas se pueden cultivar a partir de semillas. La regla para sembrar es colocar la semilla a una profundidad igual a 2 a 4 veces su ancho. En otras palabras, cuanto más fina la semilla, más superficial debe sembrarse.
 
-### Fertilizante  
-El suelo no tiene que ser especialmente fértil, por lo que se debe usar poco o ningún fertilizante. Con las hierbas, los suelos altamente fértiles tienden a producir cantidades excesivas de follaje con poco sabor.  
+- Siembra anís, cilantro, eneldo y hinojo directamente en el jardín porque no se trasplantan bien.
+- Los esquejes y divisiones son útiles, incluso más fáciles que las semillas, al propagar estragón, cebollín y menta. El verdadero estragón francés solo se puede iniciar a partir de un esqueje o división de una planta existente.
 
-Entre las excepciones están el perifollo, el hinojo, el apio de monte y la ajedrea de verano, que requieren cantidades moderadas de fertilizante. El compost es ideal.  
+## Suelo
 
-### Ubicación  
-En general, las hierbas necesitan pleno sol pero prosperan con al menos 6 horas de luz solar al día. Algunas hierbas, como la menta, necesitan ser contenidas o dominarán el jardín.  
+La mayoría de las hierbas crecen mejor en suelos bien drenados, bastante fértiles y con un pH neutro de 6.5 a 7.0. El drenaje probablemente es el factor más importante para el éxito en el cultivo de hierbas. Las hierbas se estancan y pueden morir en suelos encharcados.
 
-Planta cualquier hierba potencialmente invasora en contenedores, o planta en un contenedor que se hunda en el suelo hasta justo debajo del borde. Usa una maceta lo suficientemente grande como para confinar las raíces por un par de años.  
+## Fertilizante
 
-## Cultivo de hierbas en interiores  
+El suelo no tiene que ser especialmente fértil, así que usa poco o nada de fertilizante. Un suelo muy fértil produce mucho follaje pero poco sabor.
 
-### Luz  
-En general, las hierbas requieren mucha luz solar. Por eso, cultivarlas en interiores durante el invierno requiere iluminación suplementaria. Es importante darse cuenta de que la intensidad de la luz en invierno es a menudo menos de una décima parte de la luz exterior durante el verano. Además, el vidrio de la ventana disminuye aún más la cantidad de luz disponible para las plantas en interiores.  
+- Las excepciones incluyen perifollo, hinojo, apio de monte y ajedrea de verano, que requieren cantidades moderadas de fertilizante. El compost es ideal.
 
-A menos que haya luz abundante, el crecimiento de la mayoría de las hierbas en interiores se ralentizará o detendrá durante el invierno, incluso si se mantienen en un lugar cálido.  
+## Ubicación
 
-Las hierbas perennes se beneficiarán si las colocas al aire libre durante el verano en un lugar protegido o si hundes la maceta en el suelo hasta el borde.  
+En general, las hierbas necesitan sol pleno, pero pueden crecer bien con al menos 6 horas de luz solar al día.
 
-### Riego de hierbas en interiores  
-Riega a fondo solo cuando la superficie del suelo esté seca al tacto. No permitas que las hierbas en macetas permanezcan en un platillo con agua; sus raíces morirán.  
+- Algunas hierbas, como la menta, deben estar contenidas o invadirán el jardín. Planta las que son invasoras en macetas o entierra una maceta en el suelo hasta justo debajo del borde. Usa una maceta lo suficientemente grande para que las raíces estén contenidas por un par de años.
 
-### Fertilización de hierbas en interiores  
-Las hierbas en interiores requerirán aplicaciones semanales de fertilizantes líquidos o emulsión de pescado orgánica siempre que las plantas estén creciendo activamente.  
+# Cultivo de Hierbas en Interiores
 
-## Insectos y otros plagas  
-Muy pocos insectos, ácaros o enfermedades atacan a las hierbas.  
+## Luz
 
-De hecho, se dice que varias hierbas repelen plagas y algunos jardineros creen que las hierbas son excelentes plantas compañeras. Algunas hierbas, como el ajo, incluso se utilizan en fórmulas de manejo de plagas orgánico.  
+Por lo general, las hierbas necesitan mucha luz solar. Cultivarlas en interiores en invierno requiere luz suplementaria.
 
-Los pulgones, una plaga común de cuerpo blando en cualquier jardín, pueden alimentarse de anís, alcaravea, eneldo, perejil rizado y hinojo. A veces, la primera pista de su presencia es la pegajosidad en las hojas y tallos.  
+- La intensidad de la luz en invierno es a menudo menor a una décima parte de la luz exterior en verano. El vidrio de las ventanas también reduce la cantidad de luz disponible para las plantas de interior.
+- A menos que haya mucha luz, la mayoría de las hierbas crecerán muy lento o dejarán de crecer en invierno, incluso si están en un lugar cálido.
 
-Otras plagas potenciales, pero menos comunes, incluyen moscas blancas, cochinillas, escamas, trips y babosas. En clima cálido y seco, los ácaros araña pueden ser problemáticos.  
+Las hierbas perennes se benefician si las sacas al exterior en verano en un lugar protegido o entierras la maceta en el suelo hasta el borde.
 
-La mayoría de las pequeñas plagas de cuerpo blando pueden manejarse de manera fácil y segura con el uso regular de chorros de agua fuerte o jabón insecticida diluido según las instrucciones de la etiqueta, ambos aplicados directamente sobre las plagas. Sea cual sea el tratamiento, asegúrate de que la etiqueta indique que es seguro para usar en plantas comestibles.  
+## Riego de Hierbas en Interiores
 
-Las enfermedades, aparte de los problemas de raíz debido a suelos o mezclas de macetas excesivamente húmedos, son poco comunes en la familia de las hierbas. A veces la menta se infecta con óxido; si es así, elimina el tallo afectado y las hojas asociadas.  
+Riega bien solo cuando la superficie del suelo esté seca al tacto. No dejes las macetas en un plato con agua; las raíces se pueden morir.
 
-## Cosecha y almacenamiento  
-Durante la temporada, puedes recoger hojas frescas tan pronto como la planta tenga suficiente follaje para mantener su crecimiento. En general, las hierbas tienen mejor sabor si se recolectan antes de que los botones florales se abran.  
+## Fertilización de Hierbas en Interiores
 
-Cosecha las hierbas por la mañana, cuando los aceites esenciales que les dan sus aromas y sabores característicos están en su mayor concentración. Recoge las hojas después de que el rocío se haya secado, pero antes de que el sol se vuelva demasiado caliente.  
+Las hierbas de interior requieren aplicaciones semanales de fertilizante líquido o emulsión de pescado orgánica siempre que estén creciendo activamente.
 
-Para cosechas mayores, las hierbas anuales pueden cortarse al nivel del suelo, mientras que las perennes solo deben cortarse hasta un tercio de su tamaño.  
+# Insectos y Otras Plagas
 
-Puedes preservar muchas hierbas para uso futuro secándolas o congelándolas. Para congelarlas, coloca las hierbas frescas picadas en una bandeja de cubos de hielo, cúbrelas con agua y congélalas. La albahaca prácticamente pierde su sabor cuando se seca, así que úsala fresca o congélala de dos maneras: como pesto o en una bandeja de cubos de hielo con hojas picadas cubiertas de agua.  
+Muy pocos insectos, ácaros o enfermedades atacan a las hierbas.
 
-Para aprender más sobre el cultivo, uso y conservación de hierbas, consulta las publicaciones mencionadas a continuación o llama a los Jardineros Maestros en la oficina de Servicio de Extensión de tu condado.  
+- Se dice que algunas hierbas repelen plagas y algunos jardineros creen que las hierbas son excelentes plantas compañeras. Hierbas como el ajo incluso se usan en fórmulas de manejo orgánico de plagas.
+- Los pulgones pueden alimentarse de anís, alcaravea, eneldo, perejil crespo y hinojo. La primera señal de su presencia puede ser una sensación pegajosa en las hojas y tallos.
+- Otras posibles plagas incluyen mosca blanca, cochinilla, escamas, trips, babosas y ácaros rojos en clima cálido y seco.
 
-## Información adicional  
+La mayoría de las plagas pequeñas y blandas se pueden controlar con el uso regular de chorros de agua fuerte o jabón insecticida diluido según las instrucciones de la etiqueta. Asegúrate de que la etiqueta indique que es seguro para plantas comestibles.
 
-### Sitios web:  
-- [Hierbas para cultivar desde semillas](http://www.backyardgardener.com/herb/)  
-- [Cultivo de hierbas individuales](http://www.pioneerthinking.com/growingherbs.html)  
-- [Cultivo de hierbas en interiores](http://www.doityourself.com/vegetables/growingherbsindoors.html)  
-- [Jardinería de hierbas para abejas](http://altnature.com/library/herb.htm)  
-- [Cultivo de hierbas en el jardín doméstico](http://www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm)  
+Las enfermedades son poco comunes en las hierbas, excepto por problemas de raíz causados por suelo o sustrato demasiado húmedo. La menta puede infectarse ocasionalmente con roya; si es así, retira el tallo y las hojas afectadas.
 
-### Libros:  
-- *Gourmet Herbs* (un manual del Jardín Botánico de Brooklyn)  
-- *Herbs, An Illustrated Guide* (Sunset Books)  
-- *All About Herbs* (Ortho Books)  
+# Cosecha y Almacenamiento
 
-### Consejos de Jardineros Maestros™  
-- Llama a la línea directa de horticultura doméstica:  
-  - 503-655-8631 (Condado de Clackamas)  
-  - 503-821-1150 (Condado de Washington)  
-  - 503-445-4608 (Condado de Multnomah)  
-- Para más folletos de la Universidad de 10 Minutos™ y el horario de clases, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)  
+- Durante la temporada, recoge hojas frescas tan pronto como la planta tenga suficiente follaje para seguir creciendo. Las hierbas tienen mejor sabor si se cosechan antes de que se abran los capullos de las flores.
+- Cosecha las hierbas en la mañana, cuando los aceites esenciales están en su mayor concentración. Corta las hojas después de que el rocío se haya secado pero antes de que el sol esté muy fuerte.
 
-El Servicio de Extensión de la Universidad Estatal de Oregon prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluyendo expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar o parental, ingresos derivados de un programa de asistencia pública, creencias políticas, información genética, estatus de veterano, represalias o retaliación por actividad previa de derechos civiles. (No todas las bases prohibidas aplican a todos los programas.)
+Para cosechas grandes:
+
+- Las hierbas anuales se pueden cortar al nivel del suelo.
+- Las perennes solo deben cortarse hasta un tercio de su tamaño.
+
+Puedes conservar muchas hierbas para usarlas después secándolas o congelándolas. Para congelar:
+
+- Coloca hierbas frescas picadas en una bandeja para cubos de hielo, cúbrelas con agua y congela.
+- La albahaca es mejor usarla fresca o congelada como pesto o como hojas picadas en cubos de hielo.
+
+Para aprender más sobre el cultivo, uso y conservación de las hierbas, consulta las publicaciones que aparecen a continuación o comunícate con los Maestros Jardineros en la oficina de Extensión de tu condado.
+
+# Información Adicional
+
+## Sitios Web
+
+- [Hierbas para Cultivar desde Semilla](http://www.backyardgardener.com/herb/)
+- [Cultivo de Hierbas Individuales](http://www.pioneerthinking.com/growingherbs.html)
+- [Cultivo de Hierbas en Interiores](http://www.doityourself.com/vegetables/growingherbsindoors.html)
+- [Jardinería de Hierbas para Abejas](http://altnature.com/library/herb.htm)
+- [Cultivo de Hierbas en el Jardín Hogareño](http://www.wvu.edu/~agexten/hortcult/herbs/ne208hrb.htm)
+
+## Libros
+
+- *Gourmet Herbs* (Manual del Jardín Botánico de Brooklyn)
+- *Hierbas, una Guía Ilustrada* (Sunset Books)
+- *Todo sobre las Hierbas* (Ortho Books)
+
+#### Consejos de Maestros Jardineros™ · Llama a la línea de ayuda de Horticultura Hogareña: 503-655-8631 (Condado de Clackamas) · 503-821-1150 (Condado de Washington) · 503-445-4608 (Condado de Multnomah) · Para más folletos y horarios de clases de 10-Minute University™, visita [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### El Servicio de Extensión de la Universidad Estatal de Oregón prohíbe la discriminación en todos sus programas, servicios, actividades y materiales por motivos de raza, color, origen nacional, religión, sexo, identidad de género (incluida la expresión de género), orientación sexual, discapacidad, edad, estado civil, estado familiar/de padres, ingresos provenientes de un programa de asistencia pública, creencias políticas, información genética, condición de veterano, represalia o retaliación por actividad previa de derechos civiles. (No todas las bases prohibidas se aplican a todos los programas.)
+---

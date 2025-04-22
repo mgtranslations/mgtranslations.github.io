@@ -1,58 +1,113 @@
-# 10-Minute University™
+#### 10-Minute University™ · Lub Koom Haum Master Gardener ntawm Clackamas County koom tes thiab txhawb nqa nrog OSU Extension Master Gardener™ Program
 
-**Kev Kuaj PH Hauv Av**
+---
 
-## Saib Ua Ntej  
-Cov neeg cog qoob cog paj uas xav ua kom zoo tshaj rau lawv cov nroj tsuag paub qhov tseem ceeb ntawm PH hauv av, uas tseem ceeb ib yam li qhov chaw, kev nthuav tawm, thiab kev npaj av. PH hauv av yog qhov ntsuas ntawm qhov txias (qaub) lossis qhov kub (qab zib) ntawm av. Nws ntsuas ntawm ib qho kev ntsuas ntawm 0 txog 14, nrog cov lej qis dua ua rau qaub thiab cov lej siab dua ua rau qab zib. Qhov 7.0 yog qhov nruab nrab—yog tias tsis qaub lossis qab zib.
+## Kev Ntsuam Xyuas pH Av
 
-Thaum PH hauv av siab dhau lossis qis dhau, cov zaub mov hauv av yuav raug khi rau cov hmoov av thiab tsis muaj rau cov nroj tsuag. Hauv qhov xwm txheej no, ntxiv chiv yuav tsis muaj txiaj ntsig. Ob qho tib si cov zaub mov hauv av thiab dej nag txhua xyoo cuam tshuam rau PH hauv av. Hauv Western Oregon, dej nag feem ntau ntxuav cov zaub mov tawm thiab ua rau av ua qaub dua. Hauv Eastern Oregon, av yog qab zib dua.
+### Saib Dav
 
-Feem ntau, cov nroj tsuag loj hlob zoo tshaj hauv PH hauv av nruab nrab, txawm hais tias muaj cov nroj tsuag uas tsis zoo. Piv txwv, cov blueberries, azaleas, thiab rhododendrons ua tau zoo hauv av PH ntawm 4.5 txog 5.5. Cov nyom nyiam PH ntawm 5.5 txog 6, thaum cov roses ua tau zoo hauv av PH ntawm 6.5 txog 7.
+Cov neeg ua vaj ua tsev uas xav kom lawv cov nroj tsuag loj hlob zoo yuav tsum paub txog qhov tseem ceeb ntawm pH av, uas tseem ceeb ib yam li qhov chaw, hnub ci, thiab kev npaj av. pH av yog qhov ntsuas txog qhov chua (tsw qaub) lossis qhov qab zib (tsw qab zib) ntawm av. Nws ntsuas ntawm nplai 0 txog 14, uas yog tus lej tsawg dua yog chua tshaj, tus lej siab dua yog qab zib tshaj. Tus nqi 7.0 yog nruab nrab—xyuas tsis chua thiab tsis qab zib.
 
-## Hom Kev Kuaj Av  
-Muaj ob hom kev kuaj av tseem ceeb: Ib qho yog ntsuas cov zaub mov hauv av thiab ib qho yog ntsuas PH hauv av. Kev kuaj cov zaub mov hauv av ntsuas cov zaub mov uas muaj rau cov nroj tsuag. Qhov kev kuaj no yuav tsum tau ua hauv chav kuaj kws tshaj lij.
+Thaum pH av siab dhau lossis qis dhau, cov zaub mov muaj nyob rau hauv av yuav daig rau hauv av thiab cov nroj tsuag yuav tsis muaj peev xwm siv tau. Nyob rau qhov no, txawm koj ntxiv chiv los yuav tsis pab zoo li cas. Ob yam tseem ceeb—kev muaj zaub mov hauv av thiab nag los txhua xyoo—cuam tshuam rau pH av. Hauv Western Oregon, nag los ntau yuav ntxuav cov zaub mov tawm ntawm av, ua rau av chua dua. Hauv Eastern Oregon, av muaj qab zib dua.
 
-PH hauv av tuaj yeem kuaj hauv tsev nrog cov khoom siv yooj yim. Tsis tas li ntawd, Clackamas County Master Gardeners ua kev kuaj PH hauv av dawb ntau zaus hauv ib xyoos. Cov kws ua teb siv cov cuab yeej txawj ntse uas muab cov txiaj ntsig tseeb dua. Saib www.clackamascountymastergardeners.org lossis nug ib tug Master Gardener rau cov hnub ntawm kev kuaj PH hauv av dawb.
+Feem coob cov nroj tsuag loj hlob zoo tshaj nyob rau av uas pH nruab nrab, txawm tias muaj nroj tsuag qee hom uas xav tau sib txawv. Piv txwv li:
 
-## Yuav Ua Li Cas Thiaj Tau Ib Tug Qauv Av  
-Ua tib zoo ua raws cov kauj ruam no kom cov qauv av uas koj kuaj sawv cev tiag rau thaj chaw ntawd.
+- Kua txob xiav (blueberries), azaleas, thiab rhododendrons loj hlob zoo hauv av pH ntawm 4.5 txog 5.5.
+- Nyom nyiam pH ntawm 5.5 txog 6.
+- Paj Roses loj hlob zoo tshaj nyob rau pH ntawm 6.5 txog 7.
 
-1. Txiav txim siab tus naj npawb ntawm cov qauv raws li qhov chaw thiab cov qoob loo/nroj tsuag uas cog; txhua thaj chaw yuav tsum muaj nws tus qauv. Piv txwv, yog tias koj muaj ib lub roob siab thiab ib qhov chaw qis, ntub, coj cov qauv sib cais ntawm txhua qhov chaw. Yog tias koj muaj vaj zaub, nyom, thiab ib thaj cog paj, coj cov qauv sib cais ntawm txhua qhov chaw.
+---
 
-2. Thaum koj txiav txim siab tus naj npawb ntawm cov chaw uas yuav coj cov qauv av, npaj cov ntim huv tib si (lub hnab yas lossis lub raj mis). Cov ntim zoo tshaj yog muaj peev xwm txog 1 khob, txawm hais tias cov loj dua kuj tau txais.
+### Hom Kev Ntsuas Av
 
-3. Txhua tus qauv yuav tsum muaj nruab nrab ntawm ½ thiab ¾ khob av. Cov qauv yuav tsum yog ib qho sib xyaw ntawm ntau cov qauv me me hauv qhov chaw koj xav kuaj.
+Muaj ob hom kev ntsuas av tseem ceeb:
 
-4. Siv cov cuab yeej kuaj huv uas tsis yog galvanized, bronze, lossis brass. Nco ntsoov tias koj txhais tes thiab hnab looj tes huv. Ib qho me me ntawm chiv ntawm cov cuab yeej, ntawm koj txhais tes lossis hnab looj tes tuaj yeem cuam tshuam loj rau cov txiaj ntsig kuaj.
+1. **Kev Ntsuas Zaub Mov (Mineral Test)**: Ntsuas cov zaub mov muaj nyob rau hauv av uas nroj tsuag siv tau. Hom no yuav tsum coj mus kuaj hauv chav kuaj tshaj lij.
+2. **Kev Ntsuas pH Av**: Yuav kuaj tau hauv tsev siv cov cuab yeej ntsuas yooj yim.
 
-5. Coj cov qauv ntawm qhov tob kom raug—thaj chaw cag ntawm cov nroj tsuag hauv thaj chaw ntawd. Rau vaj zaub, cov qauv yuav tsum coj ntawm qhov chaw thiab 8” tob.
+Clackamas County Master Gardeners muaj kev ntsuas pH av dawb ntau zaus hauv ib xyoos siv cov cuab yeej siab kom tau qhov tseeb tshaj. Mus xyuas [www.clackamascountymastergardeners.org](http://www.clackamascountymastergardeners.org) lossis nug ib tug Master Gardener txog hnub ua kev kuaj pH av dawb.
 
-6. Nco ntsoov sau npe rau txhua tus qauv nrog koj lub npe thiab qhov chaw hauv koj lub vaj, piv txwv li, lub txaj paj, nyom sab hnub poob, vaj zaub, thiab lwm yam.
+---
 
-7. Zam kev coj cov qauv ntawm cov chaw txawv xws li pawg compost lossis cov pawg quav nyuj, lossis cov chaw uas kub hnyiab, vim lawv tsis sawv cev rau cov av hauv koj lub vaj.
+### Yuav Coj Av Mus Kuaj Li Cas
 
-## Cov Txiaj Ntsig Kuaj thiab Kev Kho  
-Txhua tus qauv yuav muab tus lej PH. Cov lej qis qhia tias av qaub, thiab cov lej siab dua qhia av qab zib. Thaum cov kws ua teb ua cov kev kuaj, lawv kuj pab txhais cov txiaj ntsig thiab qhia koj txog kev kho. Qhov zoo tshaj plaws yog kho PH hauv av dhau ntau xyoo. Ntxiv cov tshuaj kho kom haum rau lub caij nplooj zeeg; rov kuaj PH hauv av dua tom qab 3 txog 6 lub hlis. Rov ua dua yog tsim nyog.
+Ua raws li cov kauj ruam no kom paub tseeb tias koj tus qauv av sawv cev rau thaj chaw ntawd tiag:
 
-### Yuav Ua Li Cas Kom PH hauv Av Siab Dua  
-Ntxiv feem lime rau av. Ua li ntawd rau lub caij nplooj zeeg yuav tau txais cov txiaj ntsig zoo tshaj. Siv 5 txog 10 phaus lime rau 100 square feet yog tias sib tov rau hauv av ua ntej cog. Rau cov nyom lossis cov nroj tsuag uas cog lawm, ntxiv 5 phaus rau 100 square feet. Rov kuaj PH hauv av hauv 3 txog 6 lub hlis kom pom tias koj puas tau ua tiav PH uas xav tau.
+1. **Txiav txim siab txog pes tsawg tus qauv av**:
+   - Xav txog tej roob hav thiab hom nroj tsuag loj hlob.
+   - Ib thaj chaw yuav tsum muaj ib tus qauv av. Piv txwv:
+     - Qhov chaw roob thiab qhov chaw qis, dej ntub yuav tsum muaj tus qauv av sib txawv.
+     - Vaj zaub, tshav nyom, thiab chaw cog paj yuav tsum muaj tus qauv av nyias.
 
-Muaj ntau hom lime—ua hmoov, granular, lossis pelletized. Granular lossis pelletized lime yooj yim dua rau qhov siv. Yog tias siv hom hmoov, hnav lub qhov ncauj qhov ntswg. Dolomite lime muaj magnesium thiab yog qhov kev xaiv zoo rau cov neeg ua teb hauv Western Oregon uas av feem ntau tsis muaj magnesium.
+2. **Npaj lub thawv los sis hnab**:
+   - Siv lub raj mis yas lossis iav huv, los yog hnab yas huv.
+   - Qhov loj zoo tshaj yog kwv yees li 1 khob, txawm loj dua los siv tau.
 
-### Yuav Ua Li Cas Kom PH hauv Av Qis Dua  
-PH hauv av siab dua 7.0 tsis tshua muaj nyob sab hnub poob ntawm Cascades, yog li cov neeg cog qoob cog paj hauv thaj chaw no feem ntau tsuas acidify lawv cov av rau kev cog cov nroj tsuag uas nyiam qaub. Cov av nyob sab hnub poob ntawm Cascades yog qab zib, thiab tej zaum yuav tsum tau acidify rau txhua cov qoob loo.
+3. **Sau av**:
+   - Ib tus qauv av yuav tsum muaj ntawm ½ txog ¾ khob av.
+   - Sib tov ntau yam av me me los ntawm thaj chaw koj xav kuaj.
 
-Rau PH hauv av qis dua, ntxiv sulfur. Yog tias siv hom hmoov, hnav lub qhov ncauj qhov ntswg. Zoo li lime, sulfur zoo tshaj ntxiv rau lub caij nplooj zeeg. Nws zoo dua ntxiv rau ib thaj chaw ua ntej cog. Rau cov ntoo thiab cov nroj tsuag uas cog lawm, ntxiv ib qho me me rau av raws tus kab dej, lossis faib rau hauv ib kab ntawm blueberries. Rau cov ntaub ntawv ntxiv txog kev txo PH hauv av, saib EC 1560-E. Tsis muaj kev kuaj los txiav txim tus naj npawb ntawm sulfur ntxiv. Ib qho kuaj PH hauv av hauv 3 txog 6 lub hlis yuav qhia tau tias puas muaj ntxiv sulfur ntxiv.
+4. **Siv cuab yeej huv**:
+   - Tsis txhob siv cuab yeej ua hlau galvanized, bronze, lossis brass.
+   - Xyuas kom tes thiab hnab looj tes huv kom tsis muaj kab mob los sis lom.
 
-## Cov Chaw Pab ntawm OSU Extension Service  
-Mus rau koj lub chaw ua haujlwm OSU Extension Service ntawm 200 Warner-Milne Road, Oregon City, kom tau cov ntawv luam tawm no, lossis tau txais lawv hauv online ntawm http://catalog.extension.oregonstate.edu.  
-- **A List of Analytical Labs Serving Oregon EM 8677**  
-- **Soil Sampling for Home Gardens and Small Acreages EC 628**  
-- **Acidifying Soil for Blueberries and Ornamental Plants in the Yard and Garden, EC 1560-E**
+5. **Sau av ntawm qhov tob kom raug**:
+   - Rau vaj zaub, coj av ntawm saum av mus txog 8 ntiv tes tob.
 
-## Lus Qhia los ntawm Master Gardener™  
-- Hu rau Home Horticulture Helpline:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- Rau ntau dua 10-Minute University™ cov ntaub ntawv thiab chav kawm sijhawm, mus rau www.cmastergardeners.org lossis www.metromastergardeners.org.
+6. **Sau npe rau txhua tus qauv av**:
+   - Sau koj lub npe thiab qhov chaw hauv koj vaj (piv txwv, chaw cog paj rose, tshav nyom sab hnub poob, vaj zaub).
+
+7. **Tsis txhob coj av ntawm qhov chaw txawv txawv**:
+   - Tsis txhob coj av ntawm qhov chaw pov compost, pov quav nyuj, lossis qhov chaw hlawv, vim cov no tsis sawv cev rau av hauv koj vaj tiag.
+
+---
+
+### Qhov Tshwm Sim thiab Kev Kho
+
+Txhua tus qauv av yuav qhia tau pH:
+
+- **Tus lej qis** qhia tias av chua.
+- **Tus lej siab** qhia tias av qab zib.
+
+Thaum Master Gardeners ua kev kuaj, lawv yuav pab txhais cov txiaj ntsig thiab qhia txoj kev kho. Nws zoo tshaj kom kho pH av maj mam hauv ntau xyoo. Ntxiv cov tshuaj kho av kom tsim nyog rau lub caij nplooj zeeg thiab rov kuaj pH av dua tom qab 3 txog 6 hlis. Rov ua dua yog xav tau.
+
+#### Kev Ua Kom pH Av Siab Dua
+
+- Ntxiv chua lime rau lub caij nplooj zeeg kom tau qhov zoo tshaj.
+- Siv **5 txog 10 phaus lime rau 100 square feet** yog tias koj sib tov rau hauv av ua ntej cog.
+- Rau tshav nyom lossis nroj tsuag uas twb cog lawm, siv **5 phaus rau 100 square feet**.
+- Rov kuaj pH av tom qab 3 txog 6 hlis kom paub seb pH mus txog qhov koj xav tau los tsis tau.
+
+**Hom Lime:**
+
+- Muaj hom hmoov, granular, lossis pelletized lime.
+- Granular lossis pelletized lime yooj yim rau faib thoob plaws av.
+- Yog siv hmoov lime, hnav daim npog qhov ncauj.
+- Dolomite lime muaj magnesium thiab yog ib txoj kev xaiv zoo rau Western Oregon, vim av ntawd feem ntau tsis muaj magnesium txaus.
+
+#### Kev Ua Kom pH Av Qis Dua
+
+- Ntxiv sulfur rau lub caij nplooj zeeg kom tau qhov zoo tshaj.
+- Rau ntoo thiab tsob nroj loj, ntxiv me ntsis sulfur rau thaj chaw hauv qab ceg los sis faib rau ib kab xws li blueberry.
+- Yog siv hmoov sulfur, hnav daim npog qhov ncauj.
+
+Xav paub ntxiv txog kev ua kom pH av qis dua, saib **EC 1560-E**. Tsis muaj kev kuaj uas qhia tau pes tsawg sulfur yuav tsum ntxiv. Rov kuaj pH av tom qab 3 txog 6 hlis kom paub seb puas xav tau ntxiv.
+
+---
+
+### Cov Kev Pabcuam ntawm OSU Extension Service
+
+Mus xyuas koj lub chaw OSU Extension Service ntawm 200 Warner-Milne Road, Oregon City, los yog saib online ntawm [http://catalog.extension.oregonstate.edu](http://catalog.extension.oregonstate.edu):
+
+- **Daim Npe Cov Chaw Kuaj Av rau Oregon** (EM 8677)
+- **Kev Coj Av Mus Kuaj rau Vaj Tsev thiab Av Me Me** (EC 628)
+- **Kev Ua Kom Av Chua Rau Blueberries thiab Nroj Tsuag Zoo Nkauj hauv Vaj** (EC 1560-E)
+
+---
+
+#### Master Gardener™ Kev Pab Tswv Yim · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau ntau cov ntawv qhia ntxiv thiab sijhawm kawm ntawm 10-Minute University™, mus xyuas [www.cmastergardeners.org](http://www.cmastergardeners.org) los yog [www.metromastergardeners.org](http://www.metromastergardeners.org)
+
+---
+
+##### Oregon State University Extension Service tsis pub muaj kev xaiv txawv hauv txhua qhov kev pabcuam, kev ua haujlwm, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim tawv nqaij, tebchaws yug, kev ntseeg, pojniam/txiv neej, tus kheej/cov cim pojniam/txiv neej (xws li kev qhia tus kheej), kev nyiam pojniam/txiv neej, kev xiam oob khab, hnub nyoog, txoj kev sib yuav, tsev neeg/kawm xeeb, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, kev ua tub rog, kev rau txim los yog pauj rau kev tiv thaiv txoj cai yav tas los. (Tsis yog txhua yam no siv rau txhua qhov kev pabcuam.)
+---

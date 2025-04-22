@@ -1,62 +1,80 @@
-# Universidade de 10 Minutos™  
-A Associação de Mestres Jardineiros do Condado de Clackamas, em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU  
+#### Universidade de 10 Minutos™ · Associação dos Mestres Jardineiros do Condado de Clackamas em colaboração e apoio ao Programa Mestre Jardineiro™ da Extensão da OSU
 
-## Cultivando Morangos  
+# Cultivando Morangos
 
-### Por que cultivar morangos?  
-- Se você cuidar adequadamente das plantas, poderá obter morangos suficientes para sua família em uma área relativamente pequena.  
-- Os plantios de morango podem permanecer produtivos por 3 ou 4 anos de frutificação.  
+### Por Que Cultivar Morangos?
+- Se você cuidar bem das plantas, pode conseguir morangos suficientes para sua família em uma área relativamente pequena.
+- Os canteiros de morango podem continuar produtivos por 3 ou 4 anos de colheita.
 
-### Tipos de Morangos  
-- **Morangos de junho** – Produzem apenas uma colheita por ano, principalmente em junho. Exemplos incluem Hood, Totem, Benton, Sweet Sunrise e Tillamook. Produzem muitos estolhos.  
-- **Morangos sempre-vivos** – Produzem duas colheitas, uma em junho ou julho e outra no outono. Exemplos incluem Quinault e Fort Laramie. Produzem poucos estolhos.  
-- **Morangos neutros ao dia** – Produzem frutos quase continuamente durante a estação de crescimento, exceto quando está muito quente. Estes são os melhores tipos para jardins domésticos e vasos. Exemplos incluem Albion, Seascape, Selva, Tristar e Tribute.  
+### Tipos de Morangos
+- **De junho** – Produzem apenas uma safra por ano, principalmente em junho. Exemplos: Hood, Totem, Benton, Sweet Sunrise e Tillamook. Produzem muitos estolhos.
+- **Sempre-produzindo** – Produzem duas safras, uma em junho ou julho e outra no outono. Exemplos: Quinault e Fort Laramie. Produzem poucos estolhos.
+- **Dia-neutro** – Produzem frutas quase continuamente durante toda a estação de crescimento, exceto quando faz muito calor. Estes são os melhores tipos para jardins caseiros e vasos. Exemplos: Albion, Seascape, Selva, Tristar e Tribute.
 
-### Selecionando um Local  
-- É necessário sol pleno para a melhor produção e qualidade dos frutos.  
-- Para minimizar problemas com insetos e doenças, rotacione o local a cada nova plantação (a cada 3 ou 4 anos).  
-- Evite plantar onde tomates, pimentões, batatas, berinjelas, morangos, framboesas ou amoras tenham crescido nos últimos 3 anos. Essas plantas podem hospedar fungos que causam doenças, como o murchamento por Verticillium, nos seus morangos.  
+### Escolhendo um Local
+- Sol pleno é necessário para melhor produção e qualidade das frutas.
+- Para minimizar problemas com insetos e doenças, alterne o local a cada novo plantio (a cada 3 ou 4 anos).
+- Evite plantar onde tomates, pimentões, batatas, berinjelas, morangos, framboesas ou amoras foram cultivados nos últimos 3 anos. Essas plantas podem abrigar fungos que causam doenças, como o murchamento por Verticílio, para seus morangos.
 
-### Preparando o Solo  
-- **Melhor**: Um canteiro elevado com solo argiloso bem drenado, rico em matéria orgânica e com pH entre 5,6 e 6,5.  
-- **Evite**: Plantar em solos argilosos pesados. Se o único solo disponível tiver drenagem ruim, você pode melhorá-lo adicionando matéria orgânica.  
+### Preparando o Solo
+- **Melhor:** Um canteiro elevado de solo argiloso e bem drenado, rico em matéria orgânica, com pH entre 5,6 e 6,5.
+- **Evite:** Plantar em solos argilosos pesados. Se o único solo disponível for mal drenado, talvez seja possível melhorá-lo adicionando matéria orgânica.
 
-### Sistemas de Plantio  
-Existem dois sistemas: fileira emaranhada e sistema de colina.  
-- **Sistema de colina** — Para morangos neutros ao dia: plante as mudas com espaçamento de 30 a 38 cm em fileiras duplas ou triplas com corredores de 45 a 60 cm de largura entre elas.  
-- **Sistema de fileira emaranhada** — Para morangos de junho: plante as mudas com espaçamento de cerca de 38 cm na fileira e 90 a 120 cm entre fileiras para formar uma área de 45 cm de largura de plantas.  
+### Sistemas de Plantio
+Existem dois sistemas: fileira agrupada e fileira em colina.
 
-### Plantio  
-- Compre plantas certificadas livres de doenças. Não utilize estolhos do seu antigo canteiro ou do canteiro do vizinho.  
-- Plante o mais cedo possível na primavera, quando for possível trabalhar o solo.  
-- A profundidade do plantio é muito importante para os morangos. Ao plantar, cave um buraco grande o suficiente para acomodar as raízes sem dobrá-las. Espalhe o sistema radicular e plante na mesma profundidade em que estava no recipiente do viveiro. Para mudas de raiz nua, certifique-se de que o ponto médio da coroa esteja nivelado com a superfície do solo.  
+- **Sistema em colina** — Para morangos dia-neutro: Plante as mudas de 30 a 38 cm de distância em fileiras duplas ou triplas, deixando corredores de 45 a 60 cm entre elas.
+- **Sistema de fileira agrupada** — Para morangos de junho: Plante as mudas a cerca de 38 cm de distância na fileira, com 90 a 120 cm entre fileiras, para formar um tapete de plantas de cerca de 45 cm de largura.
 
-- Os morangos de junho produzem muito pouco fruto no ano de plantio, e é melhor remover todas as flores que surgirem durante o primeiro verão para evitar estressar as plantas. Para os neutros ao dia, remova apenas a primeira leva de flores que aparecerem logo após o plantio. Os neutros ao dia produzirão uma pequena colheita no primeiro verão. Todos os tipos estarão em plena produção no ano seguinte ao plantio.  
+### Plantio
+- Compre mudas certificadas e livres de doenças. Não plante estolhos do seu canteiro antigo ou do vizinho.
+- Plante o mais cedo possível, assim que for possível trabalhar o solo na primavera.
+- **Profundidade do plantio:** Cave um buraco para cada muda grande o suficiente para acomodar as raízes sem dobrá-las. Espalhe as raízes e plante na mesma profundidade que estava no viveiro. Para mudas de raiz nua, garanta que o meio da coroa fique no nível do solo.
 
-### Fertilização  
-- Observe o crescimento das plantas: folhas verde-pálidas ou amareladas e crescimento fraco de estolhos podem indicar deficiência de nitrogênio (N).  
-- No ano de plantio, fertilize as plantas com um fertilizante bem equilibrado, como 16-16-16 ou um produto orgânico. Para uma fileira de 30 metros, aplique 56 gramas de nitrogênio (N) uma ou duas semanas após o plantio. Isso equivale a 368 gramas de 16-16-16 (56 gramas/0,16). Aplique mais 56 gramas de N um mês depois (final de maio) e outros 14 a 28 gramas de N no final de junho.  
-- Para morangos estabelecidos, o momento da fertilização depende do tipo cultivado. Para os morangos de junho, fertilize após a colheita. Corte as folhas velhas cerca de 1 a 2 semanas após a última colheita e aplique 113 gramas de N por fileira de 30 metros, espalhando uniformemente ao longo da fileira. Irrigue imediatamente após fertilizar. Para os cultivares neutros ao dia, aplique N durante a maior parte da estação de crescimento e frutificação; aplique 28 gramas de N por fileira de 30 metros em abril, maio, junho e julho, e considere aplicar mais 28 gramas de N em agosto se o vigor das plantas for moderado a bom.  
+- **De junho:** Produzem muito pouco no ano do plantio. Remova todas as flores durante o primeiro verão para não sobrecarregar as plantas.
+- **Dia-neutro:** Remova apenas as primeiras flores logo após o plantio. Morangos dia-neutro produzirão uma pequena safra já no primeiro verão.
+- Todos os tipos estarão em plena produção no ano seguinte ao plantio.
 
-### Irrigação  
-- 2,5 a 3,8 cm de água por semana durante a estação de crescimento. Não sujeite as plantas ao estresse hídrico.  
+### Adubação
+- Observe o crescimento das plantas: Folhas verde-claras ou amareladas e pouco crescimento de estolhos podem indicar falta de nitrogênio (N).
 
-### Controle de Ervas Daninhas  
-- As ervas competem com as plantas por água e nutrientes, então mantenha o plantio livre de ervas daninhas removendo-as manualmente. Se você cultivar cultivares neutros ao dia no sistema de colina, pode usar cobertura plástica com um sistema de irrigação, como gotejamento, por baixo.  
+- **No ano do plantio:**
+  - Adube as plantas com um fertilizante balanceado, como 16-16-16, ou um produto orgânico.
+  - Para uma fileira de 30 metros, aplique 56 gramas de nitrogênio (N) uma ou duas semanas após o plantio. Isso equivale a 368 gramas de 16-16-16 (56g/0,16).
+  - Aplique mais 56g de N um mês depois (final de maio) e mais 14 a 28g de N no final de junho.
 
-### Pragas e Doenças  
-- Os problemas mais graves de doenças nos morangos incluem Botrytis, podridão dos frutos, podridão das raízes e murchamento por Verticillium.  
-- Os problemas com insetos incluem gorgulho das raízes, pulgões, ácaros e mariposa da coroa.  
+- **Para morangueiros estabelecidos:**
+  - **De junho:** Adube após a colheita. Corte as folhas antigas de 1 a 2 semanas depois da última colheita e depois aplique 112g de N por fileira de 30m, espalhando por todo o comprimento e largura da fileira. Irrigue logo após adubar.
+  - **Dia-neutro:** Aplique N durante a maior parte da estação de crescimento e frutificação. Aplique 28g de N por fileira de 30m no início de abril, maio, junho e julho. Considere aplicar mais 28g de N em agosto se o vigor da planta for de médio a bom.
 
-### Recursos da Extensão da OSU  
-Visite o site da Extensão da OSU em [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- Cultivando Morangos em Seu Jardim EC 1307  
-- Cultivares de Morango para o Oeste de Oregon e Washington EC 1618  
-- Cultivando Frutas no Litoral de Oregon: Morangos EM 9178 (Também aplica-se ao Vale Willamette)  
+### Irrigação
+- Forneça de 2,5 a 4 cm de água por semana durante a estação de crescimento. Evite deixar as plantas passarem sede.
 
-### Conselhos de Mestres Jardineiros™  
-- Ligue para a Linha de Ajuda de Horticultura Doméstica: 503-655-8631 (Condado de Clackamas), 503-821-1150 (Condado de Washington), 503-445-4608 (Condado de Multnomah).  
-- Para outros folhetos e cronograma de aulas da Universidade de 10 Minutos™, visite [www.cmastergardeners.org](http://www.cmastergardeners.org) ou [www.metromastergardeners.org](http://www.metromastergardeners.org).  
-- Procure por Mestres Jardineiros nos mercados de agricultores da região.  
+### Controle de Ervas Daninhas
+- As ervas daninhas competem por água e nutrientes. Mantenha as ervas daninhas longe das plantas retirando-as manualmente.
+- Se plantar cultivares dia-neutro no sistema em colina, você pode usar cobertura plástica com irrigação por gotejamento por baixo.
 
-O Serviço de Extensão da Universidade Estadual de Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, status familiar/parental, renda proveniente de um programa de assistência pública, crenças políticas, informações genéticas, status de veterano, represálias ou retaliação por atividade anterior relacionada aos direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
+### Pragas e Doenças
+- **Doenças:** Os principais problemas de doenças nos morangos são Botrytis, podridão dos frutos, podridão das raízes e murcha por Verticílio.
+- **Insetos:** Os principais problemas de insetos incluem gorgulho das raízes, pulgão, ácaro e traça da coroa.
+
+### Recursos do Serviço de Extensão da OSU
+Visite o Serviço de Extensão da OSU online em [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+
+- **Cultivando Morangos no Seu Jardim** (EC 1307)
+- **Cultivares de Morango para o Oeste do Oregon e Washington** (EC 1618)
+- **Cultivando Frutas Vermelhas na Costa do Oregon: Morangos** (EM 9178) (Também se aplica ao Vale Willamette)
+
+#### Orientação do Mestre Jardineiro™
+
+- **Ligue para o Plantão de Horticultura Doméstica:**
+  - 503-655-8631 (Condado de Clackamas)
+  - 503-821-1150 (Condado de Washington)
+  - 503-445-4608 (Condado de Multnomah)
+- Para outros folhetos da Universidade de 10 Minutos™ e horários de aulas, visite [www.cmastergardeners.org](https://www.cmastergardeners.org)
+- Procure por Mestres Jardineiros nas feiras de produtores da região.
+
+---
+
+##### O Serviço de Extensão da Universidade Estadual do Oregon proíbe discriminação em todos os seus programas, serviços, atividades e materiais com base em raça, cor, origem nacional, religião, sexo, identidade de gênero (incluindo expressão de gênero), orientação sexual, deficiência, idade, estado civil, situação familiar/parental, renda proveniente de programa de assistência pública, crenças políticas, informações genéticas, status de veterano, retaliação por atividade anterior de direitos civis. (Nem todas as bases proibidas se aplicam a todos os programas).
+---

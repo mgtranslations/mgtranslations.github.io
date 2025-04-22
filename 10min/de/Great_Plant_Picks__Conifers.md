@@ -1,104 +1,57 @@
-# 10-Minute University™  
-Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms  
+#### 10-Minuten-Universität™ · Die Clackamas County Master Gardener Association in Zusammenarbeit mit und zur Unterstützung des OSU Extension Master Gardener™ Programms
 
-## Great Plant Picks: Koniferen  
-S: Schattengarten, D: Trockenheitsresistente Pflanze, Wildtiere – Vögel, Bienen, Schmetterlinge, Kolibris  
+# 10-Minuten-Universität
 
-### Name S/D/W 10 Jahre Reife Sonne/Schatten Herausragende Merkmale  
-**Weinende Alaska-Gelbe Zeder**  
-_Callitropsis nootkatensis ‘Green Arrow’_  
-15’ x 3’ 35’ x 5’ Vollsonne, leichter bis offener Schatten  
-Ein schmaler immergrüner Baum, der im pazifischen Nordwesten heimisch ist. Er bildet einen Ausrufezeichenpunkt im Garten. Ideal für kleine Gärten oder enge Räume.  
+## Großartige Pflanzenwahl: Nadelbäume
 
-**Weinende Alaska-Gelbe Zeder**  
-_Callitropsis nootkatensis ‘Pendula’_  
-18’ x 8’ 35’ x 12’ Vollsonne, leichter bis offener Schatten  
-Eine der schönsten weinenden Koniferen, die einen eleganten Akzent in der Landschaft setzt. Nach der Etablierung trockenheitsresistent.  
+*S: Schattengarten, D: Trockenheitsresistente Pflanze, Wildtiere - Vogel, Biene, Schmetterling, Kolibri*
 
-**Schmale Alaska-Gelbe Zeder**  
-_Callitropsis nootkatensis ‘Van den Akker’_  
-15’ x 3’ 35’ x 5’ Vollsonne, leichter bis offener Schatten  
-Diese säulenartige Spitze ist äußerst nützlich für kleine Gärten oder enge Räume. Sie verleiht Höhe, ohne zu breit zu wachsen.  
-
-**Weihrauchzeder**  
-_Calocedrus decurrens_  
-18’ x 5’ 40’ x 12’ Vollsonne  
-Robuste, leicht zu kultivierende Konifere, die im Südwesten und Zentral-Oregon heimisch ist. Ihre aufrechte, stattliche Form wird mit zunehmendem Alter besser. Das Laub hat bei warmem Wetter einen zedernartigen Duft.  
-
-**Himmlisch Blaue Himalaya-Zeder**  
-_Cedrus deodara ‘Divinely Blue’_  
-4’ x 6’ 5’ x 8’ Vollsonne  
-Eine halbzwerghafte immergrüne Konifere mit blau-grünem bis pudrig blauem Laub, am besten in voller Sonne, aber toleriert auch leichten Schatten.  
-
-**Hinoki-Zypresse**  
-_Chamaecyparis obtusa ‘Gracilis’_  
-S 15’ x 6’ 25’ x 10’ Vollsonne, leichter bis gefleckter Schatten  
-Ein eleganter und schöner großer säulenförmiger Strauch bis kleiner immergrüner Baum. Die schlanke Hinoki-Zypresse ist eine großartige Wahl für kleine Gärten.  
-
-**Zwerg-Hinoki-Zypresse**  
-_Chamaecyparis obtusa ‘Kosteri’_  
-S 4’ x 5’ 8’ x 6’ Vollsonne, leichter bis gefleckter Schatten  
-Langsam wachsend und locker pyramidenförmig, mit glänzendem, dunkelgrünem Laub, das sich verdreht und eine üppige Textur schafft.  
-
-**Zwerg-Hinoki-Zypresse**  
-_Chamaecyparis obtusa ‘Nana’_  
-S 1’ x 2’ 2’ x 3’ Vollsonne, leichter bis gefleckter Schatten  
-Eine sehr langsam wachsende Sorte. Ihre dunkelgrünen Zweige verdrehen sich eng und flachen zu kleinen überlappenden Fächern ab, die wie kleine grüne Tassen aussehen.  
-
-**Zwerg-Hinoki-Zypresse**  
-_Chamaecyparis obtusa ‘Nana Gracilis’_  
-S 3’ x 2’ 6’ x 4’ Vollsonne, leichter bis gefleckter Schatten  
-Eine langsam wachsende Konifere, die im Laufe der Jahre zu einer schönen dunkelgrünen, schmalen Pyramide wird. Das glänzende Laub wächst in engen, überlappenden Fächern, die vasenartige Schichten bilden.  
-
-**Zwerg-Hinoki-Zypresse**  
-_Chamaecyparis obtusa ‘Spiralis’_  
-5’ x 3’ 8’ x 6’ Vollsonne, leichter bis offener Schatten  
-Eine hervorragende Wahl als kleines Einzelstück oder als Containerpflanze.  
-
-**Zwerg-Goldfaden-Zypresse**  
-_Chamaecyparis obtusa ‘Golden Mop’_  
-S, D 4’ x 4’ 8’ x 7’ Vollsonne, leichter bis offener Schatten  
-Diese robuste immergrüne Konifere bildet einen zarten, goldenen spitzenförmigen Hügel im Garten. Das neue Wachstum erscheint leuchtend goldgelb und hält die Farbe während der gesamten Wachstumsperiode.  
-
-**Japanische Zeder**  
-_Cryptomeria japonica ‘Black Dragon’_  
-6’ x 4’ 10’ x 8’ Vollsonne, leichter, offener, gefleckter Schatten  
-Diese Konifere mit sehr dunklem Laub ist leicht zu kultivieren und harmoniert gut mit Pflanzen mit größeren oder bunten Blättern.  
-
-**Plumose Rose Japanische Zeder**  
-_Cryptomeria japonica Elegans Group_  
-15’ x 5’ 30’ x 10’ Vollsonne, leichter, offener, gefleckter Schatten  
-Das Laub ist nadelartiger und weicher, daher der Name Plume Cedar. Im Sommer ist das Laub grün, mit dem Einsetzen der kalten Witterung verfärbt es sich im Spätherbst und Winter mahagonifarben.  
-
-**Goldene Japanische Zeder**  
-_Cryptomeria japonica ‘Sekkan-sugi’_  
-10’ x 6’ 30’ x 18’ Vollsonne, leichter, offener, gefleckter Schatten  
-Das Laub hat cremegelbe Spitzen, die im Frühjahr und Frühsommer bei neuem Wachstum am intensivsten sind. Es ist ein visuell dominanter Baum in der Landschaft, da die Laubfarbe so intensiv ist.  
-
-**Granny’s Ringlets**  
-_Cryptomeria japonica ‘Spiralis’_  
-4’ x 6’ 15’ x 8’ Vollsonne, leichter Schatten  
-Helles Apfelgrün, ähnlich der Haut eines Granny Smith-Apfels. Diese Sorte der einheimischen japanischen Zeder wächst langsam und ist halbzwerghaft.  
-
-**Zwerg-Japanische Zeder**  
-_Cryptomeria japonica ‘Tansu’_  
-3’ x 3’ 4’ x 4’ Vollsonne, leichter bis gefleckter Schatten  
-Diese kompakte japanische Zeder hat ein interessantes, kurzes, buschiges Wachstumsverhalten und bildet eine unregelmäßige pyramidenförmige Form.  
-
-**Vilmoriniana Zwerg-Japanische Zeder**  
-_Cryptomeria japonica ‘Vilmoriniana’_  
-2’ x 2’ 3’ x 3’ Vollsonne, leichter Schatten  
-Eine faszinierende Zwergform der japanischen Zeder. Ihre kurzen, dichten Zweige formen eine kleine, abgerundete Form von bis zu 2 Fuß Höhe und Breite in zehn Jahren.  
-
-**Yoshino Japanische Zeder**  
-_Cryptomeria japonica ‘Yoshino’_  
-20’ x 10’ 35’ x 20’ Vollsonne, leichter Schatten  
-Das helle grüne bis blaugrüne Laub sieht das ganze Jahr über attraktiv aus.  
-
-**Hollywood-Wacholder**  
-_Juniperus chinensis ‘Kaizuka’_  
-12’ x 8’ 15’ x 12’ Vollsonne  
-Attraktive, aufwärts gedrehte Wuchsform mit ausladendem, dichtem, unregelmäßigem Wachstum. Produziert Beeren und blaugrüne Zapfen.  
-
-...  
-*(Der Rest des Textes wird ähnlich übersetzt. Bitte geben Sie bei Bedarf an, ob weitere Abschnitte des ursprünglichen Textes übersetzt werden sollen.)*
+| Name | S/D/W | Größe nach 10 Jahren | Endgröße | Sonne/Schatten | Herausragende Merkmale |
+|---|---|---|---|---|---|
+| Hängende Alaskanische Gelbzeder Callitropsis nootkatensis 'Green Arrow' |  | 4,5 m x 1 m | 11 m x 1,5 m | Volle Sonne, heller bis offener Schatten | Ein schlanker immergrüner Baum, der im pazifischen Nordwesten heimisch ist. Er bildet ein Ausrufezeichen im Garten. Großartig für kleine Gärten oder enge Räume. |
+| Hängende Alaskanische Gelbzeder Callitropsis nootkatensis 'Pendula' |  | 5,5 m x 2,5 m | 11 m x 3,5 m | Volle Sonne, heller bis offener Schatten | Einer der schönsten hängenden Nadelbäume, setzt einen anmutigen Akzent in der Landschaft. Nach dem Anwachsen trockenheitsresistent. |
+| Schlanke Alaskanische Gelbzeder Callitropsis nootkatensis 'Van den Akker' |  | 4,5 m x 1 m | 11 m x 1,5 m | Volle Sonne, heller bis offener Schatten | Diese säulenförmige Spitze ist äußerst nützlich für kleine Gärten oder enge Räume. Sie bringt Höhe, ohne zu breit zu werden. |
+| Weihrauchzeder Calocedrus decurrens |  | 5,5 m x 1,5 m | 12 m x 3,5 m | Volle Sonne | Robuster, einfach zu pflegender Nadelbaum, der im Südwesten und in Zentral-Oregon heimisch ist. Seine aufrechte Form wird mit dem Alter schöner. Das Laub duftet bei warmem Wetter nach Zeder. |
+| 'Divinely Blue' Himalaya-Zeder Cedrus deodara 'Divinely Blue' |  | 1,2 m x 1,8 m | 1,5 m x 2,4 m | Volle Sonne | Ein halbzwerghafter immergrüner Nadelbaum mit blaugrünem bis pudrig-blauem Laub, am schönsten in voller Sonne, verträgt aber auch leichten Schatten. |
+| Hinoki-Scheinzypresse Chamaecyparis obtusa 'Gracilis' | S | 4,5 m x 1,8 m | 7,5 m x 3 m | Volle Sonne, heller bis gefleckter Schatten | Ein eleganter und schöner großer Strauch bis kleiner Baum, die schlanke Hinoki-Zypresse ist eine tolle Wahl für kleine Gärten. |
+| Zwerg-Hinoki-Zypresse Chamaecyparis obtusa 'Kosteri' | S | 1,2 m x 1,5 m | 2,4 m x 1,8 m | Volle Sonne, heller bis gefleckter Schatten | Langsam wachsend, locker pyramidenförmig, mit glänzend dunkelgrünem, gedrehtem Laub für eine üppige Textur. |
+| Zwerg-Hinoki-Zypresse Chamaecyparis obtusa 'Nana' | S | 0,3 m x 0,6 m | 0,6 m x 0,9 m | Volle Sonne, heller bis gefleckter Schatten | Eine sehr langsam wachsende Sorte. Ihre dunkelgrünen Zweige drehen sich fest und bilden kleine, sich überlappende Fächer wie kleine grüne Tassen. |
+| Zwerg-Hinoki-Zypresse Chamaecyparis obtusa 'Nana Gracilis' | S | 0,9 m x 0,6 m | 1,8 m x 1,2 m | Volle Sonne, heller bis gefleckter Schatten | Langsam wachsender Nadelbaum, der über viele Jahre eine schöne dunkelgrüne, schmale Pyramide bildet. Das glänzende Laub wächst in dichten Fächerlagen, was wie geschichtete Vasen aussieht. |
+| Zwerg-Hinoki-Zypresse Chamaecyparis obtusa 'Spiralis' |  | 1,5 m x 0,9 m | 2,4 m x 1,8 m | Volle Sonne, heller bis offener Schatten | Hervorragend als Solitär oder auch im Kübel. |
+| Zwerg-Goldfaden-Zypresse Chamaecyparis obtusa 'Golden Mop' | S, D | 1,2 m x 1,2 m | 2,4 m x 2,1 m | Volle Sonne, heller bis offener Schatten | Diese robuste immergrüne Zypresse bildet im Garten einen zarten, goldenen, spitzenartigen Hügel. Das junge Laub erscheint leuchtend goldgelb und behält die Farbe die ganze Saison. |
+| Japanische Zeder Cryptomeria japonica 'Black Dragon' |  | 1,8 m x 1,2 m | 3 m x 2,4 m | Volle Sonne, heller, offener, gefleckter Schatten | Dieser sehr dunkelblättrige Nadelbaum ist einfach zu pflegen und passt gut zu Pflanzen mit größeren oder bunten Blättern. |
+| Plumose Rose Japanische Zeder Cryptomeria japonica Elegans Gruppe |  | 4,5 m x 1,5 m | 9 m x 3 m | Volle Sonne, heller, offener, gefleckter Schatten | Das Laub ist nadelartiger und weicher, daher der Name Pfauen-Zeder. Im Sommer grün; im späten Herbst und Winter mahagonifarben. |
+| Goldene Japanische Zeder Cryptomeria japonica 'Sekkan-sugi' |  | 3 m x 1,8 m | 9 m x 5,4 m | Volle Sonne, heller, offener, gefleckter Schatten | Das Laub ist cremegelb an den Spitzen, besonders intensiv im Frühling und Frühsommer. Durch die starke Farbe ein auffälliger Baum. |
+| Granny's Ringlets Cryptomeria japonica 'Spiralis' |  | 1,2 m x 1,8 m | 4,5 m x 2,4 m | Volle Sonne, heller Schatten | Leuchtend apfelgrün, ähnlich wie die Schale eines Granny Smith Apfels, langsam wachsend und halbzwerghaft. |
+| Zwerg-Japanische Zeder Cryptomeria japonica 'Tansu' |  | 0,9 m x 0,9 m | 1,2 m x 1,2 m | Volle Sonne, heller bis gefleckter Schatten | Kompakte, zwergige Zeder mit kurzem, büscheligem Wuchs und unregelmäßiger Pyramidenform. |
+| Vilmoriniana Zwerg-Japanische Zeder Cryptomeria japonica 'Vilmoriniana' |  | 0,6 m x 0,6 m | 0,9 m x 0,9 m | Volle Sonne, heller Schatten | Faszinierende Zwergform der Japanischen Zeder. Die kurzen, dichten Zweige bilden einen kleinen, runden Busch. |
+| Yoshino Japanische Zeder Cryptomeria japonica 'Yoshino' |  | 6 m x 3 m | 11 m x 6 m | Volle Sonne, heller Schatten | Das leuchtend grüne bis blaugrüne Laub sieht das ganze Jahr über attraktiv aus. |
+| Hollywood-Wacholder Juniperis chinensis 'Kaizuka' |  | 3,6 m x 2,4 m | 4,5 m x 3,6 m | Volle Sonne | Attraktive, aufwärts drehende Wuchsform mit ausladendem, dichtem, unregelmäßigem Wuchs. Bildet Beeren und blaugrüne Zapfen. |
+| Urweltmammutbaum Metasequoia glyptostroboides |  | 9 m x 30 cm | 21 m x 7,5 m | Volle Sonne | Benötigt viel Platz und ist als Solitär oder in Gruppen spektakulär. Die farnartigen Zweige sind im Frühling zartgrün, im Herbst werden die Nadeln rötlich-braun. |
+| Sibirische Zypresse Microbiota decussata |  | 0,45 m x 1,5 m | 0,6 m x 2,4 m | Volle Sonne, gefleckter Schatten | Zartes, spitzenartiges Laub in eleganten Schichten. Jeder Zweig biegt sich leicht nach unten. Im Sommer hellgrün, im Winter erdtonig violett-braun. |
+| Serbische Fichte Picea omorika | W | 4,5 m x 1,5 m | 9 m x 3 m | Volle Sonne | Eine der besten Immergrünen für die Stadt, mit schmaler Säule und abwärts gebogenen Seitenzweigen. Widerstandsfähig gegen Schädlinge und Krankheiten. |
+| Hängende Serbische Fichte Picea omorika 'Pendula Bruns' |  | 2,4 m x 0,6 m | 9 m x 1,8 m | Volle Sonne | Ein hervorragendes Einzelstück. Nadeln oben blaugrün, unten silbrig-weiß. |
+| Kaukasische Fichte Picea orientalis | W | 4,5 m x 2,1 m | 12 m x 4,5 m | Volle Sonne | Kurze, glänzend dunkelgrüne Nadeln. Das dunkle Laub bleibt auch im Winter intensiv grün. |
+| Goldene Kaukasische Fichte Picea orientalis 'Aureospicata' | W | 4,5 m x 2,1 m | 12 m x 4,5 m | Volle Sonne | Prächtiger Immergrüner mit kurzen, dunkelgrünen Nadeln. Im Frühjahr leuchtet der neue Austrieb chartreuse-gelb – ein spektakulärer Kontrast! |
+| Goldene Kaukasische Fichte Picea orientalis 'Skylands' | W | 4,5 m x 2,1 m | 12 m x 4,5 m | Volle Sonne, heller Schatten | Aufrechter, pyramidenförmiger Baum mit goldenem Neuaustrieb im Frühling. |
+| Küsten-Kiefer Pinus contorta var. contorta | W | 4,5 m x 3,6 m | 11 m x 7,5 m | Volle Sonne | Wächst fast überall, solange genug Licht vorhanden ist. Eine der wenigen Nadelbäume, die feuchte Standorte vertragen, solange das Wasser nicht das ganze Jahr steht. |
+| Bosnische Kiefer Pinus heldreichii | D, W | 4,5 m x 2,1 m | 7,5 m x 3,6 m | Volle Sonne | Langsam wachsende, robuste und vielseitige Kiefer, verträgt schlechte Böden und starke Sonne. |
+| Kompakte Japanische Schwarzkiefer Pinus thunbergii 'Thunderhead' | W | 2,4 m x 2,4 m | 3,6 m x 4,5 m | Volle Sonne | Wunderschöne unregelmäßige Form, dunkelgrüne Nadeln, trockenheitsresistent und besonders kompakt. |
+| Blue Mountain Pflaumen-Kiefer Podocarpus lawrencei 'Blue Gem' | W | 1,2 m x 2,4 m | 1,8 m x 3,6 m | Volle Sonne, heller bis offener Schatten | Im Frühling leuchtend blaugrüner Austrieb, der im Sommer dunkler wird. Sehr winterhart und eine der besten blaulaubigen Sorten für den pazifischen Nordwesten. |
+| Podocarpus lawrencei 'Purple King' |  | 2,1 m x 2,1 m | 3,6 m x 4,5 m | Volle Sonne, heller bis offener Schatten | Neues Frühlingslaub blass rosa-grau-grün, später dicht, tief olivgrün. Die ungewöhnlichen Farben sind ein perfekter Hintergrund für bunte Pflanzen. Kann auch als Hecke geschnitten werden. |
+| Rote Spitzen-Pflaumen-Kiefer Podocarpus lawrencei 'Red Tip' | W | 0,9 m x 1,2 m | 1,2 m x 1,8 m | Volle Sonne, heller bis offener Schatten | Fantastisches Laub das ganze Jahr, im Frühling mit rotem Neuaustrieb, der sich gegen das dunkle Grün abhebt. Im Winter roter Schimmer für mehr Interesse im Garten. |
+| Alpine Tortara Podocarpus nivalis |  | 0,9 m x 1,8 m | 1,2 m x 2,4 m | Volle Sonne, heller bis gefleckter Schatten | Anpassungsfähiger immergrüner Strauch, gedeiht in vielen Böden. Verträgt Hitze und ist leicht zu schneiden. |
+| Hängende Douglasie Pseudotsuga menziesii 'Graceful Grace' | W | 4,5 m x 1,2 m | 9 m x 3,6 m | Volle Sonne | Der ungewöhnlich hängende Wuchs dieser heimischen Nadelbaumart verdient einen besonderen Platz im Garten. |
+| Sumpfzypresse Taxodium distichum |  | 6 m x 30 cm | 18 m x 10,5 m | Volle Sonne | Diese Zypresse verträgt feuchte Bedingungen und wirft im Herbst die Blätter ab, um ihre schöne Rinde zu zeigen. |
+| Teich-Zypresse Taxodium var. imbricatum 'Nutans' |  | 4,5 m x 1,5 m | 9 m x 3 m | Volle Sonne | Federleichtes, hellgrünes Laub macht sie zum Blickfang im Garten oder im Kübel. |
+| Irische Eibe Taxus baccata 'Fastigiata' |  | 2,1 m x 0,45 m | 4,5 m x 0,9 m | Volle Sonne, heller oder offener Schatten | Nützlich in Sonne oder Schatten. Häufig als Hecke verwendet, da sie gut schnittverträglich ist. |
+| Breitausbreitende Englische Eibe Taxus baccata 'Repandens' |  | 0,6 m x 1,5 m | 0,9 m x 2,4 m | Volle Sonne, heller oder offener Schatten | Niedrig wachsend, mit Bogenästen, die an den Spitzen hängen. Ideal als mittelhoher Bodendecker. |
+| Säulen-Gold-Eibe Taxus baccata 'Standishii' |  | 1,5 m x 0,45 m | 3,6 m x 0,6 m | Volle Sonne | Hervorragender, langsam wachsender Immergrüner als pflegeleichter, senkrechter Akzent. |
+| Kompakte Säulen-Lebensbaum Thuja occidentalis 'Degroot's Spire' |  | 2,4 m x 0,45 m | 4,5 m x 0,9 m | Volle Sonne | Beliebt wegen der schmalen, säulenförmigen Wuchsform mit dichtem, manchmal verdrehtem Laub. Wird oft als Hecke, Sichtschutz oder Solitär verwendet. |
+| Smaragd-Lebensbaum Thuja occidentalis 'Smaragd' |  | 3,6 m x 0,9 m | 5,4 m x 1,2 m | Volle Sonne | Beliebt, da er das ganze Jahr sein leuchtendes Smaragdgrün behält und attraktive Zweigmuster hat. Wächst von Natur aus sehr dicht. |
+| Riesen-Lebensbaum Thuja plicata | S | 7,5 m x 2,4 m | 30 m x 9 m | Volle Sonne, heller bis tiefer Schatten | Dieser wichtige Bewohner der Wälder im pazifischen Nordwesten ist ein sehr schöner Nadelbaum für große Flächen oder Gärten. |
+| Bunter Riesen-Lebensbaum Thuja plicata 'Zebrina' |  | 6 m x 3,6 m | 18 m x 9 m | Volle Sonne, heller oder offener Schatten | Ein bunter Riesen-Lebensbaum mit grün-goldenem Laub. Nach dem Anwachsen während der Trockenzeit alle 10–14 Tage gießen. |
+| Hiba-Lebensbaum Thujopsis dolabrata | S | 4,5 m x 1,8 m | 9 m x 6 m | Volle Sonne, heller oder offener Schatten | Ähnlich unserem Riesen-Lebensbaum, aber mit kräftigerem, glänzend dunkelgrünem Laub oben und auffällig weißen Markierungen unten. |
+| Zwerg-Hiba-Lebensbaum Thujopsis dolabrata 'Nana' |  | 0,9 m x 1,2 m | 1,8 m x 2,4 m | Volle Sonne, heller oder offener Schatten | Kompakter, langsam wachsender immergrüner Nadelbaum mit ungewöhnlich kräftigem, geweihartigem Laub. |
+| Prostrate Kanadische Hemlocktanne Tsuga canadensis 'Cole's Prostrate' |  | 0,6 m x 1,2 m | 0,75 m x 1,8 m | Heller bis offener Schatten | Ein zwergiger, niederliegender Nadelbaum, ideal für kleine Gärten, Steingärten oder als immergrüner Bodendecker. |
+| Zwerg-Kanadische

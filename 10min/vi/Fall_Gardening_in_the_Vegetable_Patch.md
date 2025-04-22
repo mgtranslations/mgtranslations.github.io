@@ -1,56 +1,96 @@
-### 10 phút Đại học™  
-Hiệp hội Làm vườn Bậc thầy Hạt Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Bậc thầy của OSU™  
+#### 10-Minute University™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas hợp tác và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp OSU Extension Master Gardener™
 
-### Làm vườn mùa thu ở vườn rau  
-#### Thu hoạch và Bảo quản Rau  
-- Thu hoạch cà chua xanh có màu trắng ở đáy để chín trong nhà. Thu thập hạt giống từ cà chua chín suốt mùa. Múc hạt vào lọ với nước, lên men 3-5 ngày, rửa sạch phần thịt bám trên hạt bằng rây, để khô trên khăn giấy và cho vào phong bì được ghi nhãn để bảo quản.  
-- Thu hoạch khoai tây 2 tuần sau khi dây leo chết hoặc bị cắt để làm da dày hơn, nhưng trước khi mưa mùa thu. Đào, để khô, và không rửa. Bảo quản ở nơi mát (40+ độ), tối, thông thoáng, không để trong túi nhựa.  
-- Thu hoạch bí mùa đông khi đã chín (khi móng tay không thể xuyên qua vỏ) và trước khi sương giá (dưới 28 độ) vì có thể gây hư hại. Bảo quản ở nơi khô ráo, tối, mát mẻ, khoảng 50 độ.  
-- Làm khô hạt đậu trên dây leo cho đến khi chúng kêu lách cách, hoặc cắt các vỏ vàng ẩm để khô bên trong không có nhiệt hoặc ánh sáng mặt trời.  
-- Để rau củ (cà rốt, củ dền, củ cải, hành và tỏi tây) trong đất và bảo vệ bằng lớp lá khô hoặc rơm dày từ 1 đến 2 inch, hoặc che bằng lớp phủ hàng. Cải cầu vồng, cải xoăn và cải xanh nhìn chung sống sót qua mùa đông mà không cần bảo vệ trong mùa đông nhẹ.  
-- Cắt tỉa cây xạ hương và cây hương thảo và làm khô lá. Cắt tỉa mạnh cây hương thảo chỉ khi thu hoạch để làm xiên.  
-- Thu hoạch cây húng quế trước khi nhiệt độ ban đêm giảm xuống dưới 50 độ. Chế biến ngay hoặc đặt thân cây vào nước để giữ. Làm sốt pesto, hoặc cắt, đóng gói vào khay đá, đổ nước lên trên, và đông lạnh.  
+---
 
-#### Trồng rau mùa thu và mùa đông  
-- Lý do để trồng cây vào mùa thu là: đất khô và ấm; một số loại cây trồng phát triển tốt nhất trong thời tiết mát mẻ; ít sâu bệnh hơn; ít cần tưới nước hơn; và bạn có thể có sản phẩm tươi trong mùa đông và mùa xuân.  
-- Để thu hoạch vào mùa thu và mùa đông, bắt đầu trồng củ dền, bông cải xanh, cải bắp, cà rốt, cải bắp Trung Quốc, cải xanh, cải xoăn, su hào, củ cải Thụy Điển, và cải cầu vồng từ hạt giống vào tháng 7. Cây con trồng vào cuối mùa hè/đầu mùa thu cần ít nhất 4 tuần để phát triển để chịu được nhiệt độ mùa đông.  
-- Các cây có thể gieo trực tiếp vào mùa thu bao gồm: đậu răng ngựa (tháng 10–11), rau cải rocket, một số loại hành, và cải mù tạc (đến giữa tháng 10); và tép tỏi, đặt đầu nhọn lên và gieo sâu 2 đến 3 inch (tháng 10/đầu tháng 11).  
+## Làm Vườn Mùa Thu ở Vườn Rau
 
-### Sử dụng công cụ kéo dài mùa vụ  
-Công cụ kéo dài mùa vụ giúp cây nhỏ phát triển tốt hơn và bảo vệ cây khỏi cái lạnh mùa đông và thời tiết khắc nghiệt. Bao gồm:  
-- Lớp phủ hàng, khung lạnh (hướng về phía nam là tốt nhất), và khung kính bảo vệ ấm không khí và bảo vệ cây trồng;  
-- Lớp phủ nhựa làm ấm đất; và  
-- Giường nóng, khung lạnh với cáp sưởi được chôn sâu hơn 2 inch dưới mặt đất, làm ấm cả đất và không khí.  
+### Thu Hoạch và Bảo Quản Rau Quả
 
-### Dọn dẹp vườn rau  
-Việc dọn dẹp mùa thu giúp làm vườn mùa xuân dễ dàng hơn. Loại bỏ và xử lý cỏ dại, trái cây thối và chưa chín. Kéo, cắt hoặc tỉa các cây và lá bị bệnh để ủ thương mại. Đặt lá và thân cây chết vào thùng ủ tại nhà. Bẫy sên và ốc để giảm số lượng vào mùa thu và mùa xuân.  
+- **Cà Chua Xanh**: Thu hoạch cà chua xanh có đáy màu trắng để làm chín trong nhà. Thu thập hạt từ cà chua chín suốt mùa. Múc hạt vào lọ nước, lên men 3–5 ngày, rửa sạch thịt quả khỏi hạt bằng rây, phơi khô trên giấy ăn, cho vào phong bì ghi nhãn để lưu trữ.
+- **Khoai Tây**: Thu hoạch sau 2 tuần kể từ khi dây héo hoặc bị cắt để vỏ khoai dày hơn, nhưng phải xong trước khi mưa thu đến. Đào lên, phơi khô và không rửa nước. Bảo quản nơi mát (trên 40 độ F), tối, thoáng khí, không để trong túi nilon.
+- **Bí Đao Mùa Đông**: Thu hoạch khi chín (khi móng tay không cào xuyên vỏ) và trước khi có sương giá (dưới 28 độ F) vì có thể bị hư hại. Bảo quản nơi khô ráo, tối, mát, khoảng 50 độ F.
+- **Đậu Khô**: Để hạt đậu trên dây cho đến khi lắc kêu, hoặc cắt vỏ đậu vàng còn ướt để phơi khô trong nhà, không dùng nhiệt hoặc phơi nắng.
+- **Rau Củ Rễ**: Để cà rốt, củ dền, củ cải, hành tây, và tỏi tây lại dưới đất và phủ 1–2 inch lá khô hoặc rơm, hoặc dùng lưới che hàng. Cải cầu vồng, cải xoăn, và cải bẹ xanh thường sống qua mùa đông không cần che chắn nếu mùa đông nhẹ.
+- **Các Loại Thảo Mộc**: Tỉa cành thyme và rosemary rồi phơi khô lá. Tỉa mạnh rosemary chỉ khi thu hái để làm xiên nướng.
+- **Húng Quế**: Thu hoạch trước khi nhiệt độ ban đêm xuống dưới 50 độ F. Chế biến ngay hoặc cắm cành vào nước để giữ tươi. Có thể làm pesto, hoặc cắt nhỏ, cho vào khay đá, phủ nước rồi đông lạnh.
 
-### Cải thiện đất  
-Thêm 2 đến 4 inch lá hoặc phân hữu cơ làm lớp phủ để giảm sự nén chặt và xói mòn, ngăn chặn cỏ dại và điều chỉnh nhiệt độ đất. Ngày 1 tháng 10 là ngày mục tiêu để trồng cây che phủ, giúp giảm sự nén chặt và xói mòn đất và thêm dưỡng chất khi được cày vào đất vào mùa xuân.  
+---
 
-Mùa thu là thời điểm lý tưởng để kiểm tra độ pH của đất. Thu thập mẫu đất bằng cách loại bỏ lớp thực vật hoặc lớp phủ trên cùng (sử dụng công cụ, găng tay, và tay sạch), đào sâu 6 đến 8 inch và lấy một lát đất theo chiều dọc. Lặp lại quá trình ở nhiều nơi trong vườn. Trộn mẫu trong một thùng chứa, chuyển ½ cốc vào túi nhựa để kiểm tra. Nếu cần bón vôi, việc làm vào mùa thu sẽ giúp đất sẵn sàng cho việc trồng vào mùa xuân. Không bón vôi vào khu vực trồng khoai tây, vì vôi dẫn đến khoai tây bị vảy.  
+### Trồng Rau Mùa Thu và Mùa Đông
 
-Sử dụng phòng thí nghiệm thương mại để phân tích dinh dưỡng đất. Các chuyên gia làm vườn bậc thầy của Hạt Clackamas kiểm tra mẫu đất để đo độ pH tại ba sự kiện hàng năm. Kiểm tra www.cmastergardeners.org để biết chi tiết.  
+- **Tại Sao Nên Trồng Vào Mùa Thu?**
+  - Đất khô và ấm.
+  - Một số loại rau phát triển tốt nhất khi trời mát.
+  - Ít sâu bệnh hơn.
+  - Ít cần tưới nước.
+  - Có rau tươi vào mùa đông và mùa xuân.
 
-### Tài nguyên  
-Ấn phẩm của OSU Extension https://catalog.extension.oregonstate.edu/  
-- Bảo quản Bí ngô và Bí mùa đông tại nhà (EC 1632)  
-- Làm vườn rau mùa thu và mùa đông ở Tây Bắc Thái Bình Dương (PNW 548)  
-- Cách xây dựng khung kính nâng cao của riêng bạn (EC 1627)  
-- Hướng dẫn thu thập mẫu đất cho trang trại và vườn (EC 628)  
-- Làm vườn trong khung nâng cao (FS 270)  
-- Cây che phủ cho vườn tại nhà (FS 304)  
+- **Thu Hoạch Mùa Thu và Mùa Đông**:
+  - Gieo hạt củ dền, bông cải xanh, bắp cải, cà rốt, cải thảo, cải bẹ xanh, cải xoăn, củ cải Thụy Điển, và cải cầu vồng trong tháng 7. Cây con trồng cuối hè/đầu thu cần ít nhất 4 tuần phát triển để chịu được nhiệt độ mùa đông.
+  - Gieo trực tiếp đậu fava (tháng 10–11), cải arugula, một số loại hành, và cải mù tạt (đến giữa tháng 10).
+  - Trồng tỏi (mặt nhọn hướng lên) sâu 2–3 inch vào tháng 10/đầu tháng 11.
 
-#### Tài nguyên từ 10 phút Đại học™  
-http://www.cmastergardeners.org để tìm tài liệu và video  
-- Lưu trữ hạt giống  
-- Bắt đầu vườn rau của bạn  
-- Trồng rau mùa đông  
-- Làm vườn với lớp phủ  
-- Làm vườn trong khung nâng cao  
-- Kiểm tra độ pH của đất  
+---
 
-### Lời khuyên từ Làm vườn Bậc thầy™  
-Gọi đường dây trợ giúp về làm vườn tại nhà: 503-655-8631 (Hạt Clackamas), 503-821-1150 (Hạt Washington), hoặc 503-445-4608 (Hạt Multnomah).  
+### Sử Dụng Các Phương Pháp Kéo Dài Mùa Vụ
 
-Dịch vụ Mở rộng của Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), khuynh hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
+Các phương pháp này giúp cây nhỏ phát triển tốt hơn và bảo vệ khỏi giá rét, thời tiết khắc nghiệt mùa đông. Bao gồm:
+
+- **Lưới Che Hàng, Khung Kính, và Nắp Che**: Làm ấm không khí và bảo vệ cây. Đặt hướng nam là tốt nhất.
+- **Phủ Nhựa**: Làm ấm đất.
+- **Luống Nóng**: Khung kính có dây nhiệt chôn sâu hơn 2 inch dưới mặt đất để làm ấm cả đất và không khí.
+
+---
+
+## Dọn Dẹp Vườn Rau
+
+Dọn dẹp mùa thu giúp làm vườn dễ dàng hơn vào mùa xuân:
+
+- Loại bỏ và xử lý cỏ dại, quả hỏng hoặc chưa chín.
+- Nhổ, cắt hoặc tỉa cây bệnh, lá bệnh để ủ phân hữu cơ thương mại.
+- Cho lá, thân cây đã chết vào thùng ủ phân tại nhà.
+- Đặt bẫy ốc sên và sên trần để giảm số lượng vào mùa thu và mùa xuân.
+
+---
+
+## Cải Thiện Đất
+
+- Bổ sung 2–4 inch lá cây hoặc phân hữu cơ làm lớp phủ để giảm nén đất, xói mòn, hạn chế cỏ dại, và điều hòa nhiệt độ đất.
+- **Cây Phủ Đất**: Trồng trước ngày 1/10 để giảm nén và xói mòn đất, bổ sung dinh dưỡng khi cày vào đất vào mùa xuân.
+- **Kiểm Tra Độ pH Đất**:
+  - Lấy mẫu đất bằng cách loại bỏ lớp cỏ hoặc lớp phủ (sử dụng dụng cụ, găng tay sạch).
+  - Đào sâu 6–8 inch và lấy một lát đất theo chiều dọc. Thực hiện ở nhiều vị trí trong vườn.
+  - Trộn các mẫu vào một thùng, lấy ½ cốc cho vào túi nhựa để kiểm tra.
+  - Nếu cần bón vôi, nên bón vào mùa thu để chuẩn bị đất cho mùa xuân. Không bón vôi ở khu vực trồng khoai tây vì sẽ dễ bị ghẻ khoai.
+
+- Sử dụng phòng thí nghiệm thương mại để phân tích dinh dưỡng đất. Nhóm Làm Vườn Chuyên Nghiệp Quận Clackamas kiểm tra pH đất miễn phí tại ba sự kiện mỗi năm. Xem chi tiết tại [www.cmastergardeners.org](http://www.cmastergardeners.org).
+
+---
+
+## Tài Nguyên
+
+- **Tài Liệu Hướng Dẫn của OSU Extension**:
+  - [Bảo Quản Bí Ngô và Bí Đao Mùa Đông Tại Nhà (EC 1632)](https://catalog.extension.oregonstate.edu/ec1632)
+  - [Trồng Rau Mùa Thu và Mùa Đông ở Tây Bắc Thái Bình Dương (PNW 548)](https://catalog.extension.oregonstate.edu/pnw548)
+  - [Cách Làm Nắp Che Cho Luống Trồng Nâng Cao (EC 1627)](https://catalog.extension.oregonstate.edu/ec1627)
+  - [Hướng Dẫn Lấy Mẫu Đất Cho Nông Trại và Vườn Nhà (EC 628)](https://catalog.extension.oregonstate.edu/ec628)
+  - [Trồng Rau Luống Nâng Cao (FS 270)](https://catalog.extension.oregonstate.edu/fs270)
+  - [Cây Phủ Đất Cho Vườn Nhà (FS 304)](https://catalog.extension.oregonstate.edu/fs304)
+
+- **Tài Nguyên của 10-Minute University™**:  
+  Truy cập [www.cmastergardeners.org](http://www.cmastergardeners.org) để xem tài liệu và video:
+  - Lưu Giữ Hạt Giống
+  - Bắt Đầu Vườn Rau Của Bạn
+  - Trồng Rau Mùa Đông
+  - Làm Vườn Với Lớp Phủ Đất
+  - Trồng Rau Luống Nâng Cao
+  - Kiểm Tra Độ pH Đất
+
+---
+
+#### Tư Vấn Làm Vườn Chuyên Nghiệp™ · Gọi Đường Dây Tư Vấn Làm Vườn Gia Đình: 503-655-8631 (Quận Clackamas) · 503-821-1150 (Quận Washington) · 503-445-4608 (Quận Multnomah) · Để xem thêm tài liệu và lịch học của 10-Minute University™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### Dịch vụ Mở Rộng Đại học Bang Oregon cấm mọi hình thức phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận diện giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ chương trình hỗ trợ công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc bị trả thù vì đã thực hiện quyền dân sự trước đó. (Không phải tất cả các lý do bị cấm đều áp dụng cho tất cả các chương trình.)
+---

@@ -1,37 +1,156 @@
-# Jaamacadda 10-Daqiiqo™
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeraleyda Khibradda leh ee Clackamas County oo wada shaqeyn iyo taageero la leh Barnaamijka Beeraleyda Khibradda leh ee OSU Extension Master Gardener™
 
-Ururka Beeralayda Master-ka ee Degmada Clackamas oo iskaashi la leh Barnaamijka OSU Extension Master Gardener™
+---
 
-## Korinta Dalagyada Xididka
+## Sida Loo Kordhiyo Dalagyada Xididka
 
-### Korinta Bulbs  
-**Beerida Toon Bulbs**  
-Agoosto ilaa Oktoobar waa xilliga ugu wanaagsan. Kala qaybi bulb-ka si aad ugu kala qaybiso xabad-xabad. Beer 3 inji qoto dheer, 6 inji kala fog, qaybta fiiqan kor u jeedda. Biyo geli ilaa roobka jiilaalka uu bilaabo ama xilliyada qalalan. Ka dhig sariiraha aan cagaar lahayn. Bacriminta xilli dhexe oo leh bacriminta dheelitiran. Ubaxyada toonka (scapes) waa la goosan karaa oo la cuni karaa xagaaga dhexe. Hoos u dhig biyaha dhammaadka Luulyo. Caleemaha waxay bilaabi doonaan inay qalalaan oo bunni noqdaan bartamaha Agoosto. Isticmaal fargeeto beerta si aad si tartiib ah ugu furto xididada oo si tartiib ah u soo jiid geedka. Toon dhig meel qabow oo qalalan dhowr toddobaad. Caleemaha jar oo xididada ka gooy.  
+### Sida Loo Beero Bulbs
 
-**Beerida Set-yada Basasha**  
-Mars marka ay qabow tahay. Beer 2-3 inji kala fog, qaybta fiiqan kor u jeedda. Geeduhu waxay jecel yihiin xaalado qoyan oo qabow bilowga koritaanka. Marka ay soo baxaan, khafiifinta waxay kor u qaadayaa basasha waaweyn. Bacriminta xilli dhexe oo leh bacriminta dheelitiran. Basasha soo baxaysa waxay jecel yihiin xaalado diirran oo qalalan. Goosashada marka caleemaha cagaaran ay dhiciyaan oo bunni noqdaan. Hoos u dhig biyaha xilligan. Isticmaal fargeeto beerta si aad si tartiib ah ugu furto xididada oo soo jiid. Dhooqada ka mari oo basasha ku dhig meel sare oo qabow oo qalalan toddobaad ama laba. Caleemaha jar oo xididada ka gooy.  
+#### Toon
 
-**Leeks-ka laga koriyo abuurka**  
-Waxaa ugu wanaagsan in lagu bilaabo Febraayo dhammaadkiisa ama Maarso bilowgiisa (8-10 toddobaad ka hor barafkii ugu dambeeyay), gudaha weelal yar oo dhulka abuurka ah lagu buuxiyo. Ka dib marka ay soo baxaan, abuurka waxaa loo wareejin karaa qol qabow si ay u koraan. Marka khatarta barafka ay dhammaato, abuurka leek-ka waxaa lagu beeri karaa hal geed halkii 6 inji qoto dheer, 8-10 inji kala fog. Ha ku buuxin godka ciid. U oggolow ciidda inay si tartiib ah u buuxsanto iyadoo si tartiib ah loo waraabinayo. Mulch ama compost ayaa lagu dari karaa marka ay si firfircoon u koraan. Ku aasid qoto dheer waxay caawisaa in la caddeeyo jiridda oo la jilciyo. Biyo joogto ah sii xididka iyo bacriminta ujeeddo guud ku mari bartamaha xilliga koritaanka. Leeks-ka waxaa la goosan karaa marxalad kasta oo koritaanka ah. Isticmaal fargeeto beerta, 4 inji ka fog salka si aad ciidda ugu furto oo hal-hal u soo jiid geedaha. Xididdada jar, caleemaha gooy 5 inji ka sarreeya jirridda cad ama cagaarka khafiifka ah oo leh qaab fallaadh u eg. Qaybta la cuni karo waxaa loo yaqaan "shank" waana lakabyo jirridaha baruurta leh. Qaab-dhismeedkan iyo qaab koritaanka ayaa ka dhigaya bulb.
+- **Beerista:**
+  - Beero toonka bisha Agoosto ilaa Oktoobar si aad natiijo fiican u hesho.
+  - Kala sooc toonta qaybaha yaryar ee la yiraahdo dhirta.
+  - Beero dhirta 3 inch oo qoto dheer, 6 inch kala fog, dhanka fiiqan kor u jeedi.
+- **Daryeelka:**
+  - Biyo sii ilaa roobabka jiilaalka bilaabmaan ama xilliyada qalalan.
+  - Ka ilaali sariiraha cawska iyo haramaha.
+  - Bacriminta samee bartamaha xilliga koritaanka adoo isticmaalaya bacriminta dheelitiran.
+- **Goosashada:**
+  - Geedaha toonta (ubaxyada) waa la goosan karaa lagana cuni karaa bartamaha xagaaga.
+  - Yaree biyaha dhammaadka Luulyo.
+  - Caleemaha waxay bilaabi doonaan inay engegaan oo bunni noqdaan bartamaha Agoosto.
+  - Isticmaal fargeeto beerta si aad si tartiib ah xididdada u dabciyo una soo saarto geedka.
+  - Toonta dhig meel qabow, qalalan dhowr toddobaad.
+  - Caleemaha jari oo xididdada ka gooy.
 
-## Korinta Rhizomes  
-**Sinjibiil ama Turmeric**  
-Sinjibiil ama turmeric waxaa lagu beeran karaa qayb ka mid ah rhizome caafimaad leh oo buuran. Rhizome-ka ku jar qaybo 1 ilaa 1½ inch ah oo meel dhig dhowr maalmood si ay u bogsato. Rhizome-ka waxaa laga yaabaa in lagu daaweeyay xakamaynta koritaanka sidaa darteed ku qoy biyo habeenkii. Rhizome-ka ku beeri Maarso, meelaha koritaanka kor u jeedda, 2-4 inji kala fog oo ku dabool 3 inch oo ciidda dheriga ah gudaha dheri. Geedaha koraya ku hay xaalado diirran oo qoyan si ay u ekaysiiyaan asalkeeda kuleylka leh. Rhizome-ka wuxuu ka soo bixi karaa xididada, laamo si uu u abuuro geedo kale, oo soo saaro jirridaha. Geedka dibadda waa la geyn karaa ama beerta lagu beeran karaa Juun. Rhizome-ka wuxuu si toosan ugu koraan doonaa dheriga ama beerta inta lagu jiro xagaaga laakiin waa in la goostaa ama gudaha loo wareejiyaa ka hor barafka. Sinjibiilku wuxuu koraan ilaa 2 ilaa 3 feet dheer. Goosashada waxay noqon kartaa qayb ahaan ama dhammaan geedka. Isticmaal fargeeto beerta si aad si tartiib ah ugu furto rhizome-ka/xididdada, qayb ka goy rhizome-ka oo caleemaha ka gooy. Rhizome-ka ku kaydi qaboojiyaha ama barafka. Caleemaha waa la qalajin karaa oo shaaha laga samayn karaa.
+#### Basal
 
-## Korinta Xididada Tap  
-**Karootada, Radishes, Beets iyo Parsnips**  
-Dalagyada qabow ah, macnaheedu waa in la beeri karo xilli hore marka ciidda ay gaarayso 40 darajo xilliga gu'ga iyo xagaaga dambe si loo helo dalag dayrta. Abuurka ku beeri oo kala fogee sida ku cad baakadka abuurka. Ku hay ciidda qoyan si siman, gaar ahaan marka ay soo baxayaan, oo si joogto ah biyaha ugu shubo qoto dheer xilliga koritaanka. Khafiifinta geedaha yaryar waa muhiim si loo horumariyo xididka (sida ku cad baakadka abuurka). Goosashada khudaarta xididka yar-yar waxay gaarsiisaa ujeeddadan. Parsnips-ka waxay u baahan yihiin bacriminta hodan ku ah nitrogen bartamaha xilliga. Dalagyada kale, si dhexdhexaad ah u quudi iyadoo diiradda la saarayo fosfooraska iyo kaalshiyamka. Waqtiga goosashada waxay ku xiran tahay noocyada geedka iyadoo radishes diyaar yihiin 21-35 maalmood, beets 50-65 maalmood, karootada 65-90 maalmood (220 maalmood xilliga jiilaalka), parsnips 100 maalmood ka hor inta kulaylka xagaaga uusan iman. Si tartiib ah u jiid salka caleemaha cagaaran oo kor u soo qaad. Dhooqada ka dhaq oo ku kaydi qaboojiyaha qoyan oo qabow.
+- **Beerista:**
+  - Beero basal-yada bisha Maarso marka cimiladu qabow tahay.
+  - Beero 2–3 inch kala fog, dhanka fiiqan kor u jeedi.
+- **Daryeelka:**
+  - Xaaladaha qoyan iyo qabow ayaa loo baahan yahay xilliga horumarka hore.
+  - Geedaha kala bixi marka ay koraan si aad u hesho basal waaweyn.
+  - Bacriminta dheelitiran samee bartamaha xilliga koritaanka.
+  - Basalaha marka ay koraan waxay jecel yihiin cimilo diiran oo qalalan.
+- **Goosashada:**
+  - Gooso marka caleemaha cagaaran ay dhacaan oo ay bunni noqdaan.
+  - Biyaha yaree xiligaas.
+  - Isticmaal fargeeto beerta si aad si tartiib ah xididdada ugu dabacdo una soo saarto.
+  - Dhooqada ka nadiifi oo dhig basalaha meel sare, qabow oo qalalan muddo 1–2 toddobaad ah.
+  - Caleemaha jari oo xididdada ka gooy.
 
-## Korinta Xididka Tuberous  
-**Sweetpotatoes**  
-Sweetpotatoes waxaa laga koriyo "slips" oo u koraan sidii geedo xadhig leh oo xooggan. Abriil horraantiisa, dhigo sweetpotato gudaha sanduuq kartoon ah oo leh ciid qoyan, ku dabool 2” ciid ah. Sanduuqa dabool oo ku dhig meel diirran. Hubi inay soo baxayaan. Sweetpotato slip fiican waa inuu ahaado adag, cagaaran, oo 8 ilaa 12 inji dheer, sida ugu fiican hal ama laba caleemood leh. Ku beeri slips-ka qaybta go'an hoos u jeedda 4 ilaa 5 inji qoto dheer iyo 9 ilaa 15 inji kala fog. Safafka waa inay ahaadaan 3 ilaa 4 feet kala fog. Geedaha waa in si degdeg ah loo waraabiyo marka la beerayo si kor loogu qaado xididada inay ka soo baxaan slips-ka. Ku hay ciidda qoyan si siman. Noocyada sweetpotato kala duwan waxay ku kala duwan yihiin maalmaha bislaanshaha, laakiin badankoodu waxay u dhexeeyaan 90 ilaa 120 maalmood. Sweetpotatoes waa in la goostaa xagaaga dambe ilaa dayrta horraanta ka hor inta heerkulka ciidda uusan ka hoos dhicin 60°F. Goosashada iyo kaydinta way la mid tahay sida baradhada.
+#### Leakyo
 
-## Korinta Tubers  
-**Baradhada**  
-Baradhada ku beeri Maarso dambe ama Abriil horraantiisa. Si aad ugu diyaariso, baradhada weyn ee abuurka ku jar qaybo dhowr ah (qiyaastii 2 ounces), mid walba leh 2-3 indhood (budada nasanaysa), ka dibna dhowr maalmood u daa inay bogsato. Dhulka jilicsan oo si fiican u miiray, godad ku qod 2’ qoto dheer 12” ballaaran iyo 3’ kala fog. Ku rid baradhada abuurka godka oo ku dabool 4-6” dhulka. Haddii ciidda beertu ay adag tahay, godad qoto dheer oo 6” ku qod iyadoo salka iyo dhinacyada lagu furayo fargeeto. Ku dabool 4-6” dhulka. Marka baradhada ay soo baxaan caleemo saddex ilaa afar toddobaad gudahood, ku dar 12” isku dar ah ciid, compost ama caws si aad ugu daboosho. Sii wad tan ugu yaraan hal mar oo kale si aad u dhiirrigeliso samayska tuber-ka. Noocyada hore waxaa la goosan karaa 9-12 toddobaad gudahood, noocyada dambe 14-17 toddobaad. Had iyo jeer ka dib marka geeduhu ubaxaan. Si aad u goosato, ciidda ka masax ugu yaraan 6” ka fog geedka; qodista iyo raadinta gacmaha waa farsamo kale. Dhooqada ka mari (ha dhaq) oo ku kaydi meel qabow oo qalalan.
+- **Beerista:**
+  - Abuurka ku billaaw gudaha guriga dhammaadka Febraayo ama horraanta Maarso (8–10 toddobaad kahor dhaxanta ugu dambeysa) oo dhig saxaarad yar oo ciid abuur ah.
+  - Markay soo baxaan, dhirta u rar meel qabow oo daboolan si ay u koraan.
+  - Marka khatarta dhaxantu dhammaato, beero geedka leek midkiiba hal god oo 6 inch qoto dheer ah, 8–10 inch kala fog.
+  - Ha buuxin godka ciidda; u daa si tartiib ah ayey ciidda ugu buuxsamaysaa markaad si tartiib ah u biyaysid.
+- **Daryeelka:**
+  - Malch ama compost ku dar marka ay si fiican u koraan.
+  - Qodista qoto dheer waxay ka dhigtaa jirida mid cad oo jilicsan.
+  - Sii biyo joogto ah oo ku filan xagga xididdada.
+  - Bacriminta guud ku dar bartamaha xilliga koritaanka.
+- **Goosashada:**
+  - Leak-yada waa la goosan karaa heer kasta oo ay koraan.
+  - Isticmaal fargeeto 4 inch u jirta salka si aad ciidda u dabacdo una so saarto geed kasta mid mid.
+  - Xididdada jari oo caleemaha jar illaa 5 inch ka sareysa jirida cad/cagaaran ee hoose.
+  - Qaybta la cuni karo, oo la yiraahdo “shank,” waa lakabyo jirida cufan.
 
-## Kheyraadka  
-- Dalagyada xididka waxay kor u qaadi karaan beertaada gu'ga: [Oregon State Extension](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)  
-- Xididada, Jirridaha, iyo Bulbs-ka la cuni karo: [Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)  
+---
 
-Oregon State University Extension Service waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka iyadoo ku saleysan jinsiyadda, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), jihada galmada, naafanimada, da’da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga laga helay barnaamijka kaalmooyinka dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde, xaaladda halyeeyga, aargoosiga ama ciqaabta ka hor hawlaha xuquuqda madaniga. (Dhammaan aasaaska mamnuucan ma khuseeyaan dhammaan barnaamijyada.)
+### Sida Loo Beero Rhizomes
+
+#### Sinsin ama Durdur
+
+- **Beerista:**
+  - Ka billaaw rhizome caafimaad qaba oo buuran.
+  - U jar rhizome-ka qaybo 1–1½ inch ah, ha u daayo dhowr maalmood si ay u bogsato.
+  - Haddii rhizome-ka lagu daweeyay wax koritaanka la joojiyo, habeen dhan biyo ku qoy.
+  - Beero rhizome-ka bisha Maarso, meelaha koritaanka kor u jeeda, 2–4 inch kala fog, kuna dabool 3 inch oo ciidda dhirta lagu beero ah, weel ku beero.
+- **Daryeelka:**
+  - Dhirta ku hay meel diiran oo qoyan si ay ugu ekaato jawiga kulaylaha.
+  - Dibedda u rari ama beerta ku beero bisha Juun.
+  - Rhizome-yadu waxay si siman u koraan xagaaga, laakin waa in la goosto ama gudaha loo soo raro kahor dhaxanta.
+- **Goosashada:**
+  - Geedaha sinsinta waxay koraan ilaa 2–3 fuudh.
+  - Goosasho buuxda ama qayb ahaan, isticmaal fargeeto si aad rhizome-ka/dhirta ugu dabacdo.
+  - Rhizome-ka ka jebi qaybaha lagana gooyo caleemaha.
+  - Rhizome-ka ku kaydi qaboojiyaha ama barafiyaha.
+  - Caleemaha waa la qalajin karaa si shaah looga dhigo.
+
+---
+
+### Sida Loo Beero Xididada Dheere
+
+#### Karooto, Daikon, Beet, iyo Parsnip
+
+- **Beerista:**
+  - Abuurka beero xilliga guga marka ciiddu tahay qiyaastii 40°F ama xagaaga dambe si aad u hesho dalag dayrta ah.
+  - Raac tilmaamaha baakadka abuurka si aad u ogaato fogeynta.
+- **Daryeelka:**
+  - Ciidda joogto u qoy, gaar ahaan inta abuurku baxayo.
+  - Biyo siiya si joogto ah oo qoto dheer inta lagu jiro xilliga koritaanka.
+  - Dhirta yaryar kala bixi si xididdu u koraan (raac tilmaamaha abuurka).
+  - Parsnip waxay u baahan tahay bacriminta nitrogen ah bartamaha xilliga koritaanka; dalagyada kale waxay u baahan yihiin bacriminta dhexdhexaad ah oo lagu daray fosfooraska iyo potassium.
+- **Goosashada:**
+  - Daikon: 21–35 maalmood.
+  - Beet: 50–65 maalmood.
+  - Karooto: 65–90 maalmood (220 maalmood haddii la ilaaliyo jiilaalka).
+  - Parsnip: 100 maalmood kahor kulaylka xagaaga.
+  - Si tartiib ah u jiid salka caleemaha si aad u goosato.
+  - Dhooqada dhaqo oo ku kaydi qaboojiyaha qoyan, qabow.
+
+---
+
+### Sida Loo Beero Xididada Tuberous
+
+#### Baradho Macaan
+
+- **Beerista:**
+  - Ka bilow “slips” bisha Abriil hore.
+  - Baradho macaan dhig sanduuq kartoon ah oo ciid qoyan ku jirto, ku dabool 2 inch oo ciid ah, meel diiran dhig.
+  - Eeg haddii ay ka soo baxaan dhir; slips-ku waa inay noqdaan kuwo adag, cagaaran, 8–12 inch dheer lehna hal ama labo caleemood.
+  - Beero slips dhamaadkii la jaray hoos u jeeda, 4–5 inch qoto dheer, 9–15 inch kala fog.
+  - Safafka waa in ay ahaadaan 3–4 fuudh kala fog.
+- **Daryeelka:**
+  - Biyo sii isla markiiba markaad dib u beerto si xididdu u samaysanto.
+  - Ilaali qoyaan dhexdhexaad ah oo ciidda ah.
+- **Goosashada:**
+  - Baradho macaanku waa bislaadaan 90–120 maalmood.
+  - Gooso xagaaga dambe ilaa dayrta hore, ka hor inta heerkulka ciidda ka hoos dhicin 60°F.
+  - Goosashada iyo kaydinta u samee sida baradhada caadiga ah.
+
+---
+
+### Sida Loo Beero Tubers
+
+#### Baradho
+
+- **Beerista:**
+  - Beero dhammaadka Maarso ama horraanta Abriil.
+  - Baradho abuur weyn u jar qaybo (qiyaastii 2 ounce) oo mid walba leeyahay 2–3 indhood; dhowr maalmood ha u daayo sidii ay u bogsato.
+  - Ciid furan oo si fiican u qubban, qod godad 2 fuudh qoto dheer, 12 inch ballac ah, 3 fuudh kala fog.
+  - Baradho abuurka dhig godka oo ku dabool 4–6 inch oo ciid ah.
+  - Haddii ciiddu adag tahay, qod godad 6 inch qoto dheer ah oo salka iyo dhinacyada dabciso. Ku dabool 4–6 inch oo ciid ah.
+- **Daryeelka:**
+  - Marka la arko laamaha soo baxa 3–4 toddobaad gudahood, ku dabool 12 inch oo isku dhaf ah ciid, compost, ama hay. Ku celi mar kale ugu yaraan si aad tubers badan u hesho.
+- **Goosashada:**
+  - Noocyada hore: 9–12 toddobaad.
+  - Noocyada dambe: 14–17 toddobaad (ka dib marka geedka ubaxyo yeesho).
+  - Isticmaal fargeeto ugu yaraan 6 inch u jirta geedka si aad ciidda u dabacdo; gacanta ku qodo oo raadi waa hab kale.
+  - Dhooqada ka xoq (ha dhaqin) oo ku kaydi meel qabow, qalalan.
+
+---
+
+## Kheyraad
+
+- [Dalagyada xididka waxay bilaabi karaan beertaada guga](https://extension.oregonstate.edu/gardening/vegetables/root-crops-can-jump-start-your-spring-garden)
+- [Xididada, Laamaha, iyo Bulbs la cuno - Penn State Extension](https://extension.psu.edu/edible-roots-stems-and-bulbs)
+
+---
+
+###### Adeegga Kordhinta Jaamacadda Gobolka Oregon waxay mamnuucday takoorka dhammaan barnaamijyadeeda, adeegyada, hawlaha, iyo agabka ay bixiso iyadoo aan loo eegayn jinsiyad, midab, asal qaran, diin, jinsi, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), doorashada galmada, naafonimo, da’, xaaladda guurka, xaaladda qoyska/waalidnimada, dakhliga laga helo barnaamijka taageerada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidda-sidaha, xaaladda ciidanimo, cawaaqib xumada, ama aargoosiga ficil hore oo xuquuqda madaniga ah la xiriira. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

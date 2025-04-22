@@ -1,74 +1,91 @@
-# Lub Tsev Kawm Ua Vaj Tsev 10 Feeb™
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-Lub koom haum Clackamas County Master Gardener Association ua ke nrog thiab txhawb nqa OSU Extension Master Gardener™ Program.
+# Kev Tsim Ib Lub Vaj Rau Cov Kab Tsuag Noj Paj
 
-## Tsim Vaj Tsev Rau Cov Kab Txhuam Pollen
+Yam tseem ceeb ntawm kev tsim ib lub vaj rau cov kab tsuag noj paj yog muab chaw rau cov kab tsuag thiab lwm yam tsiaj kom lawv muaj chaw yug me nyuam thiab muaj zaub mov txaus los ntawm lub caij nplooj ntoos hlav mus txog thaum lub caij nplooj zeeg. Cov kab tsuag uas pom hauv vaj feem ntau muaj nruab nrab ntawm cov ntxhuav, kab tsuag, npauj npaim, kab noctuam, kab ya, kab beetle, noog, thiab txawm yog kab ntsaum thiab. Vim tias muaj ntau hom kab tsuag uas xav tau ntau yam, txoj kev zoo tshaj plaws yog cog ntau hom paj uas muaj nectar thiab pollen.
 
-Yuav tsim tau ib lub vaj rau cov kab txhuam pollen kom zoo, koj yuav tsum muab chaw rau cov kab txhuam thiab lwm yam tsiaj me kom lawv muaj chaw yug menyuam thiab muaj khoom noj txaus txij lub caij nplooj ntoos hlav mus txog lub caij nplooj zeeg. Cov kab txhuam pollen hauv vaj feem ntau muaj xws li: cov muv, ntxhuav, npauj npaim, kab noog, kab menyuam, kab xwv, noog, thiab txawm tias cov kab. Vim muaj ntau yam kab txhuam pollen uas muaj kev xav tau sib txawv, txoj kev zoo tshaj yog cog ntau hom paj sib txawv uas tsim nectar thiab pollen.
+Nrog lub hom phiaj ntawd, no yog cov kauj ruam los tsim ib qho chaw zoo nkauj thiab zoo siab txais tos cov kab tsuag noj paj:
 
-### Cov Kauj Ruam Tsim Vaj Rau Cov Kab Txhuam Pollen
+### 1. Loj thiab Chaw Tsim
 
----
+Muaj hnub ci rau 6 txog 8 teev yog zoo tshaj plaws. Koj tuaj yeem ntxiv cov nroj tsuag rau hauv lub vaj uas twb muaj lawm lossis tsim ib lub vaj tshiab.
 
-#### 1. Qhov Loj thiab Qhov Chaw
+### 2. Av
 
-Rau qhov kev tsim vaj zoo tshaj, koj yuav tsum muaj hnub ci rau 6 txog 8 teev. Koj tuaj yeem ntxiv cov nroj tsuag rau hauv lub vaj uas twb muaj lawm lossis tsim vaj tshiab.
+Xyuas koj av saib zoo li cas. Puas yog av xuab zeb thiab ntws dej zoo, lossis av nplaum thiab av ntub? Hom av yuav txiav txim siab cov nroj tsuag twg yuav loj hlob tau zoo, nyob ntawm seb lawv xav tau kev ntws dej zoo thiab av muaj txiaj ntsig npaum li cas. Yog koj tsis paub hom av, koj tuaj yeem coj mus kuaj. Av pH yuav tsum nyob nruab nrab ntawm 6.0 thiab 7.0.
 
-#### 2. Av
+### 3. Kev Ntu Dej
 
-Saib xyuas qhov av hauv koj vaj. Nws puas yog av xuab zeb uas dej ntws zoo, lossis av nplaum uas dej nyob tau? Qhov av yuav txiav txim seb cov nroj tsuag twg yuav loj hlob tau zoo. Yog tias koj tsis paub qhov av zoo li cas, mus sim koj av. Qhov av pH yuav tsum nyob nruab nrab ntawm 6.0 thiab 7.0.
+Kev muab dej yog ib yam tseem ceeb, tshwj xeeb thaum cog nroj tsuag tshiab, uas yuav siv sijhawm 1 txog 3 xyoos. Xav txog koj yuav muab dej rau koj cov nroj tsuag li cas. Siv hose los yog lwm txoj kev muab dej kom dej mus ncaj rau hauv cov cag nroj tsuag.
 
-#### 3. Dej Tso Rau Nroj Tsuag
+### 4. Kev Xaiv Nroj Tsuag
 
-Kev muab dej rau cov nroj tsuag yog ib yam tseem ceeb, tshwj xeeb tshaj yog thaum cov nroj tsuag tab tom loj hlob, uas yuav siv sijhawm 1 txog 3 xyoos. Xyuas seb koj yuav muab dej rau koj cov nroj tsuag li cas. Siv cov hlua dej soakers lossis lwm yam kev siv dej kom dej mus rau cov hauv paus.
+- Xaiv ntau yam paj uas muaj txawv hom, loj me, thiab xim.
+- Xyuas kom muaj paj tuaj txij thaum ntxov caij nplooj ntoos hlav mus txog thaum lub caij nplooj zeeg.
+- Siv nroj tsuag ib txwm hauv zos, xws li tsob ntoo me thiab tsob ntoo loj, uas muaj paj tuaj ntxov thiab ntau.
+- Siv nroj tsuag txawv teb chaws uas muaj pollen thiab nectar.
+- Cog hom paj uas muaj ib txheej xwb, kom cov kab tsuag yooj yim mus noj nectar thiab pollen dua li cov paj ob txheej.
+- Cog paj rau hauv pawg loj kom pab cov kab tsuag nrhiav zaub mov tau yooj yim.
 
-#### 4. Xaiv Nroj Tsuag
+Xyuas cov ntawv qhia los ntawm Oregon State University Garden Ecology Lab rau cov nroj tsuag uas zoo rau kab tsuag hauv zos. *Native Plant Picks for Bees* yog ib phau ntawv los ntawm Oregon State University uas muaj ntau yam tswv yim: [Native Plant Picks for Bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees).
 
-- Nrhiav cov paj uas muaj ntau hom, loj me sib txawv, thiab xim.
-- Xyuas kom muaj paj hlob txij thaum ntxov lub caij nplooj ntoos hlav mus txog lub caij nplooj zeeg.
-- Siv cov nroj tsuag hauv zos, suav nrog cov nroj tsuag loj thiab tsob ntoo, uas muab paj ntxov thiab ntau.
-- Siv cov nroj tsuag txawv teb chaws uas tsim pollen thiab nectar.
-- Cog cov paj uas muaj ib txheej (single-flowered) uas muaj pollen thiab nectar sib nkag tau yooj yim dua li cov paj ob txheej (double flowers).
-- Muab cov nroj tsuag rau cov kab txhuam pollen nyob rau hauv pawg loj kom lawv txuag zog thaum nrhiav khoom noj.
+### 5. Xav Txog Loj Me
 
-#### 5. Loj Me Yog Qhov Tseem Ceeb
+Pib me me ua ntej thiab tom qab mam li loj hlob ntxiv, txawm yog koj tsim vaj tshiab los yog ntxiv rau hauv thawv. Saib xyuas cov nroj tsuag thiab xyuas seb hom kab tsuag twg tuaj rau koj cov paj. Puas muaj npauj npaim, ntxhuav, noog me haus nectar, los yog lwm yam kab tsuag?
 
-Pib me, thiab nce qhov loj ntawm koj vaj maj mam, tsis hais koj tsim vaj tshiab lossis ntxiv cov hub nroj tsuag. Saib xyuas kom ntau thiab xyuas seb cov kab txhuam twg tuaj rau koj cov nroj tsuag. Puas muaj muv, npauj npaim, noog ntxhw, lossis noog?
+### 6. Sijhawm Paj Tab
 
-#### 6. Lub Sijhawm Paj Tawg
+Lub hom phiaj yog tsim ib lub vaj uas muaj paj tuaj txij thaum ntxov caij nplooj ntoos hlav mus txog thaum kawg caij nplooj zeeg. Siv paj ib xyoos thiab nroj tsuag tub ntxhais, xws li California poppy, Oregon iris, thiab camas, los pab ntxiv rau tsob ntoo me thiab tsob ntoo loj kom muaj ntau yam sib txawv. Yog koj muaj chaw, ntau tsob ntoo thiab shrub hauv zos, xws li Manzanita thiab California lilac, muaj paj tuaj ntxov thiab muaj paj ntau heev.
 
-Lub hom phiaj yog tsim ib lub vaj uas muaj paj tawg txij lub caij nplooj ntoos hlav mus txog lub caij nplooj zeeg. Siv cov paj ib xyoos thiab cov nroj tsuag xws li California poppy, Oregon iris, thiab camas, kom ntxiv rau cov nroj tsuag loj thiab cov nroj tsuag uas muaj nyob mus ntev, thiab ntxiv ntau hom nroj tsuag. Yog tias koj muaj chaw txaus, tsob ntoo thiab tsob nroj hauv zos, xws li Manzanita thiab California lilac, tawg paj ntxov thiab muab paj ntau.
+### 7. Kev Tu Vaj
 
-#### 7. Kev Tu Lub Vaj
+Lub vaj yuav zoo dua yog tias yus hlob nroj tsuag phem thiab muab dej tsis tu ncua. Muab mulch me ntsis kom txo nroj tsuag phem. Tseg me ntsis av dawb kom ua chaw rau kab tsuag hauv zos mus yug me nyuam.
 
-Lub vaj yuav tau txais kev pab zoo ntawm kev rho cov nroj tsuag phem thiab muab dej. Muab cov khaubncaws mulch me me kom txo cov nroj tsuag phem. Tseg me me chaw av qhib kom muab chaw rau cov muv hauv zos yug.
+### 8. Tshuaj Tua Kab
 
-#### 8. Tshuaj Tua Kab
+Pab tiv thaiv kab tsuag los ntawm kev siv Integrated Pest Management rau kev tswj kab mob thiab tsiaj hauv koj lub vaj.
 
-Txhawb cov kab txhuam pollen ntawm koj lub vaj los ntawm kev siv Integrated Pest Management kom tswj cov kab thiab kab mob. Xaiv cov nroj tsuag muaj kev tiv thaiv kab mob kom tswj tau cov kab thiab kab mob tsawg. Txiav cov nroj tsuag uas muaj kab mob thiab siv lwm txoj kev tswj kab mob thiab kab tsuag. Siv tshuaj tua kab tsuag tsuas yog thaum kawg.
+- Xaiv cov nroj tsuag uas tiv taus kab mob kom kab mob thiab kab tsuag tsis tshwm sim ntau.
+- Txiav tawv kab mob thiab siv lwm txoj kev tswj siv kev cog qoob loo thiab kev tswj kab tsuag ib txwm.
+- Siv tshuaj tua kab tsuag tsuas yog thaum tsis muaj lwm txoj kev lawm.
 
-#### 9. Kev Tu Lub Vaj Lub Caij Nplooj Zeeg
+### 9. Kev Tu Vaj Thaum Lub Caij Nplooj Zeeg
 
-Tseg cov nplooj, cov nroj tsuag, thiab cov noob uas tsis muaj kab mob nyob hauv vaj mus txog lub caij nplooj ntoos hlav kom txhawb kev loj hlob ntawm cov kab txhuam pollen thiab cov kab menyuam.
-
----
-
-### Cov Chaw Pab thiab Kev Kawm
-
-#### Cov Kev Tsim Vaj Rau Cov Kab Txhuam Pollen
-
-- **Pollinator Garden Plans:** [https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi](https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi)
-- **Enhancing Urban and Suburban Landscapes to Protect Pollinators:** [https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators](https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators)
-- **Native Plant Picks for Bees:** [https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)
-- **Analytical Laboratories Serving Oregon:** [https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf](https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf)
-- **Native Plant Nurseries:** [https://portlandnativeplants.org/native-plant-nurseries](https://portlandnativeplants.org/native-plant-nurseries)
-
-#### Kev Pab Los Ntawm Master Gardener™
-
-Hu rau koj lub OSU Extension chaw ua haujlwm kom tau txais kev pab los ntawm Master Gardener. Mus saib qhov chaw no kom paub qhov chaw sib txuas lus: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us).
+Cia cov nplooj uas tsis muaj kab mob, ceg nroj tsuag, thiab cov noob rau hauv vaj mus txog thaum ntxov caij nplooj ntoos hlav, kom txhawb nqa kab tsuag menyuam, qe, kab ntsaum, thiab cov laus nyob lub caij ntuj no.
 
 ---
 
-### Kev Tiv Thaiv Kev Ntxub Ntxaug
+## Tsev Kawm Qib Siab & Lwm Yam Kev Pab
 
-Oregon State University Extension Service txwv tsis pub kev ntxub ntxaug hauv txhua cov kev pab, kev pabcuam, kev ua haujlwm, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, tus kheej txhais tau (xws li kev qhia tus kheej), kev nyiam poj niam txiv neej, kev txhawb nqa kev tsis taus, hnub nyoog, kev sib yuav, kev ua niam txiv, nyiaj txais los ntawm kev pabcuam pejxeem, kev ntseeg nom tswv, cov ntaub ntawv caj ces, tus txiv neej laus kev ua haujlwm, kev ua pauj lossis kev rau txim rau kev ua haujlwm ntawm txoj cai pejxeem yav dhau los. (Tsis yog txhua yam kev txwv siv rau txhua qhov kev pabcuam.)
+### Phiaj Xwm Vaj Rau Kab Tsuag Noj Paj
+
+[Phiaj Xwm Vaj Rau Kab Tsuag Noj Paj](https://ucdavis.app.box.com/s/h88bp60ucq6mk82w9v8eubtvuqecw1bi)
+
+### Txhim Kho Vaj Tsev thiab Vaj Tsiaj Hauv Nroog Kom Pab Kab Tsuag Noj Paj
+
+[Txhim Kho Vaj Tsev thiab Vaj Tsiaj Hauv Nroog Kom Pab Kab Tsuag Noj Paj](https://extension.oregonstate.edu/catalog/pub/em-9289-enhancing-urban-suburban-landscapes-protect-pollinators)
+
+### Nroj Tsuag Hauv Zos Rau Cov Ntxhuav
+
+[Nroj Tsuag Hauv Zos Rau Cov Ntxhuav](https://extension.oregonstate.edu/catalog/pub/em-9363-native-plant-picks-bees)
+
+### Chaw Kuaj Av Hauv Oregon
+
+[Chaw Kuaj Av Hauv Oregon](https://www.oregon.gov/ODA/programs/Pesticides/Documents/2020/AnalyticalLabsServingOregon.pdf)
+
+### Chaw Muag Nroj Tsuag Hauv Zos
+
+[Chaw Muag Nroj Tsuag Hauv Zos](https://portlandnativeplants.org/native-plant-nurseries)
+
+---
+
+## Lus Qhia Los Ntawm Master Gardener™
+
+Hu rau koj lub chaw haujlwm OSU Extension kom tau lus qhia los ntawm Master Gardener. Mus saib ntawm no kom paub cov ntaub ntawv hu: [Nrhiav Koj Lub Chaw Haujlwm Extension](https://extension.oregonstate.edu/find-us).
+
+Yog xav tau 10-Minute University™ cov ntawv qhia thiab sijhawm kawm, mus saib [Clackamas County Master Gardeners](https://cmastergardeners.org).
+
+---
+
+#### Oregon State University Extension Service · Oregon State University Extension Service tsis pub muaj kev cais tawm hauv txhua qhov kev pab, kev kawm, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam/txiv neej, kev tsim txiaj poj niam/txiv neej (xws li kev qhia tawm), kev nyiam sib deev, xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj me nyuam, nyiaj tau los ntawm kev pab pej xeem, kev ntseeg kev nom kev tswv, kab mob caj ces, kev ua tub rog, kev raug tsim txom, lossis raug pauj vim tau koom nrog kev tiv thaiv cai pej xeem yav dhau los. (Tsis yog txhua yam kev cais tawm no yuav siv rau txhua qhov program.)
+---

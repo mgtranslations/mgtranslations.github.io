@@ -1,64 +1,80 @@
-# Đại Học 10 Phút™  
-Hiệp hội Làm Vườn Bậc Thầy Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Bậc Thầy của OSU  
+#### Đại học 10 Phút™ · Hiệp hội Làm Vườn Chuyên Nghiệp Quận Clackamas phối hợp và hỗ trợ Chương trình Làm Vườn Chuyên Nghiệp của OSU Extension
 
-## Trồng Dâu Tây  
+# Trồng Dâu Tây
 
-### Tại Sao Trồng Dâu Tây?  
-- Nếu chăm sóc cây đúng cách, bạn có thể thu hoạch đủ lượng dâu cho gia đình từ một diện tích tương đối nhỏ.  
-- Vườn dâu tây có thể duy trì năng suất trong 3 hoặc 4 năm thu hoạch.  
+### Tại Sao Nên Trồng Dâu Tây?
+- Nếu bạn chăm sóc cây đúng cách, bạn có thể thu được đủ dâu cho cả gia đình từ một diện tích tương đối nhỏ.
+- Vườn dâu có thể cho quả tốt trong 3 hoặc 4 năm liên tục.
 
-### Các Loại Dâu Tây  
-- **Dâu tây mùa hè (June-bearers)** – Chỉ sản xuất một vụ mỗi năm, chủ yếu vào tháng Sáu. Ví dụ: Hood, Totem, Benton, Sweet Sunrise và Tillamook. Chúng tạo ra nhiều nhánh.  
-- **Dâu tây hai mùa (Everbearers)** – Sản xuất hai vụ, một vào tháng Sáu hoặc tháng Bảy và một vào mùa thu. Ví dụ: Quinault và Fort Laramie. Chúng tạo ra ít nhánh.  
-- **Dâu tây ngày trung tính (Day-neutrals)** – Sản xuất quả liên tục trong suốt mùa trồng trừ khi thời tiết quá nóng. Đây là loại tốt nhất cho vườn nhà và trồng trong chậu. Ví dụ: Albion, Seascape, Selva, Tristar và Tribute.  
+### Các Loại Dâu Tây
+- **Dâu ra quả tháng 6** – Chỉ cho một vụ quả mỗi năm, chủ yếu vào tháng 6. Ví dụ: Hood, Totem, Benton, Sweet Sunrise và Tillamook. Loại này thường mọc nhiều nhánh con (runner).
+- **Dâu ra quả hai vụ** – Cho hai vụ quả, một vào tháng 6 hoặc 7 và một vụ khác vào mùa thu. Ví dụ: Quinault và Fort Laramie. Loại này cho ít nhánh con.
+- **Dâu trung tính ngày** – Gần như ra quả liên tục trong suốt mùa sinh trưởng, trừ khi trời quá nóng. Đây là loại tốt nhất cho vườn nhà và trồng trong chậu. Ví dụ: Albion, Seascape, Selva, Tristar và Tribute.
 
-### Lựa Chọn Địa Điểm  
-- Cần có ánh sáng mặt trời đầy đủ để đạt năng suất và chất lượng quả tốt nhất.  
-- Để giảm thiểu vấn đề côn trùng và bệnh, hãy luân canh địa điểm mỗi lần bạn trồng mới (mỗi 3 đến 4 năm).  
-- Tránh trồng nơi cà chua, ớt, khoai tây, cà tím, dâu tây, mâm xôi hoặc quả mâm xôi đen đã được trồng trong 3 năm qua. Những cây này có thể là vật chủ của nấm gây bệnh như héo Verticillium đối với dâu tây.  
+### Chọn Vị Trí Trồng
+- Cần có đầy đủ ánh nắng để cây phát triển và quả chất lượng tốt nhất.
+- Để giảm thiểu sâu bệnh, hãy luân canh vị trí trồng mỗi khi trồng mới (mỗi 3 đến 4 năm).
+- Tránh trồng dâu ở nơi đã từng trồng cà chua, ớt, khoai tây, cà tím, dâu tây, mâm xôi hoặc mâm xôi đen trong 3 năm gần đây. Những loại cây này có thể chứa nấm gây bệnh cho dâu như bệnh héo Verticillium.
 
-### Chuẩn Bị Đất  
-- Tốt nhất: Một luống đất nâng cao, thoát nước tốt, đất thịt giàu chất hữu cơ với độ pH từ 5.6 đến 6.5.  
-- Tránh: Trồng trên đất sét nặng. Nếu đất duy nhất có sẵn có khả năng thoát nước kém, bạn có thể cải thiện bằng cách thêm chất hữu cơ.  
+### Chuẩn Bị Đất
+- **Tốt nhất:** Luống đất cao, tơi xốp, giàu hữu cơ, có độ pH từ 5.6 đến 6.5.
+- **Tránh:** Trồng trên đất sét nặng. Nếu chỉ có đất thoát nước kém, bạn có thể cải thiện bằng cách bổ sung chất hữu cơ.
 
-### Hệ Thống Trồng  
-Có hai hệ thống: Hệ thống hàng trải thảm và hệ thống đồi.  
-- **Hệ thống đồi** – Dành cho dâu tây ngày trung tính: đặt cây cách nhau 12 đến 15 inch theo hàng đôi hoặc ba hàng, để lại lối đi rộng 1½ đến 2 feet giữa các hàng.  
-- **Hệ thống hàng trải thảm** – Dành cho dâu tây mùa hè: đặt cây cách nhau khoảng 15 inch trong hàng, với khoảng cách 3 đến 4 feet giữa các hàng để tạo thảm cây rộng 1.5 feet.  
+### Hệ Thống Trồng
+Có hai hệ thống: Hệ thống hàng thảm (matted-row) và hệ thống luống (hill).
 
-### Trồng Cây  
-- Mua cây đã được chứng nhận không có bệnh. Không trồng cây nhánh từ vườn cũ của bạn hoặc của hàng xóm.  
-- Trồng càng sớm càng tốt khi đất có thể làm việc được vào mùa xuân.  
-- Độ sâu trồng rất quan trọng đối với dâu tây. Khi trồng, đào một hố đủ lớn cho mỗi cây để chứa bộ rễ mà không bị cong. Trải bộ rễ ra và đặt cây ở cùng độ sâu như trong chậu vườn ươm; với cây rễ trần, đảm bảo điểm giữa của thân cây ngang bằng với bề mặt đất.  
+- **Hệ thống luống** — Cho dâu trung tính ngày: Trồng cây cách nhau 30-38 cm theo hàng đôi hoặc ba, giữa các luống để lối đi rộng 45-60 cm.
+- **Hệ thống hàng thảm** — Cho dâu tháng 6: Trồng cây cách nhau khoảng 38 cm trong hàng và các hàng cách nhau 90-120 cm để tạo thành thảm cây rộng 45 cm.
 
-- Dâu tây mùa hè sản xuất rất ít quả trong năm trồng và tốt nhất là nên loại bỏ bất kỳ hoa nào xuất hiện trong mùa hè đầu tiên để không làm căng thẳng cây. Đối với dâu tây ngày trung tính, chỉ loại bỏ đợt hoa đầu tiên xuất hiện ngay sau khi trồng. Dâu tây ngày trung tính sẽ sản xuất một vụ nhỏ vào mùa hè đầu tiên. Tất cả các loại sẽ đạt năng suất đầy đủ vào năm sau khi trồng.  
+### Trồng Cây
+- Mua cây giống đã được chứng nhận không có bệnh. Không nên trồng cây con từ vườn cũ của bạn hoặc của hàng xóm.
+- Trồng càng sớm càng tốt khi đất có thể làm được vào mùa xuân.
+- **Độ sâu trồng:** Đào hố đủ rộng để rễ không bị uốn cong. Dàn đều rễ và trồng cây ở cùng độ sâu như trong bầu ươm. Với cây trần rễ, đảm bảo phần giữa của thân rễ ngang bằng mặt đất.
 
-### Bón Phân  
-- Quan sát sự phát triển của cây: Lá xanh nhạt hoặc vàng và sự phát triển nhánh kém có thể chỉ ra cây thiếu nitơ (N).  
-- Trong năm trồng, bón phân cho cây bằng phân bón cân đối như 16-16-16 hoặc sản phẩm hữu cơ. Đối với hàng dài 100 feet, bón 2 ounce nitơ (N) một hoặc hai tuần sau khi trồng. Điều này tương đương với 13 ounce 16-16-16 (2 ounce/0.16). Bón thêm 2 ounce N một tháng sau đó (cuối tháng Năm) và thêm 0.5 đến 1 ounce N vào cuối tháng Sáu.  
-- Đối với dâu tây đã được trồng lâu năm, thời gian bón phân phụ thuộc vào loại cây. Đối với dâu tây mùa hè, bón phân sau khi thu hoạch. Cắt bỏ lá cũ khoảng 1 đến 2 tuần sau khi thu hoạch quả cuối cùng, sau đó bón 4 ounce N cho hàng dài 100 feet, rải đều phân bón trên toàn bộ chiều dài và chiều rộng của hàng. Tưới nước ngay sau khi bón phân. Đối với dâu tây ngày trung tính, bón N trong suốt hầu hết mùa trồng và mùa thu hoạch; bón 1 ounce N cho hàng dài 100 feet vào mỗi tháng tư, tháng năm, tháng sáu và tháng bảy, và cân nhắc bón thêm 1 ounce N vào tháng tám nếu cây phát triển tốt.  
+- **Dâu tháng 6:** Gần như không có quả trong năm đầu trồng. Hái bỏ tất cả hoa vào mùa hè đầu tiên để cây không bị kiệt sức.
+- **Dâu trung tính ngày:** Chỉ hái bỏ đợt hoa đầu tiên ngay sau khi trồng. Dâu trung tính ngày sẽ cho một ít quả trong mùa hè đầu.
+- Tất cả các loại sẽ cho thu hoạch đầy đủ vào năm sau khi trồng.
 
-### Tưới Nước  
-- Cung cấp 1 đến 1.5 inch nước mỗi tuần trong mùa trồng. Đừng để cây bị căng thẳng do hạn hán.  
+### Bón Phân
+- Quan sát sự phát triển của cây: Lá có màu xanh nhạt hoặc vàng, cây ra ít nhánh con có thể là dấu hiệu thiếu đạm (N).
 
-### Quản Lý Cỏ Dại  
-- Cỏ dại cạnh tranh với cây về nước và chất dinh dưỡng, vì vậy hãy giữ cho vườn không có cỏ dại bằng cách nhổ bằng tay. Nếu bạn trồng dâu tây ngày trung tính theo hệ thống đồi, bạn có thể sử dụng lớp phủ nhựa với hệ thống tưới nước, chẳng hạn như tưới nhỏ giọt, bên dưới.  
+- **Năm đầu trồng:**
+  - Bón phân cân đối như 16-16-16 hoặc phân hữu cơ.
+  - Với hàng dài 30m, bón 56g đạm (N) một đến hai tuần sau khi trồng. Tương đương với 370g phân 16-16-16 (56g/0,16).
+  - Bón thêm 56g đạm sau một tháng (cuối tháng 5) và thêm 14-28g đạm vào cuối tháng 6.
 
-### Sâu Bệnh  
-- Các vấn đề bệnh nghiêm trọng nhất của dâu tây là Botrytis, thối quả, thối rễ và héo Verticillium.  
-- Các vấn đề về côn trùng bao gồm mọt rễ, rệp, nhện đỏ và sâu thân.  
+- **Với dâu đã trồng lâu năm:**
+  - **Dâu tháng 6:** Bón phân sau khi thu hoạch. Cắt bỏ lá già khoảng 1–2 tuần sau khi thu hoạch xong, rồi bón 112g đạm cho mỗi hàng dài 30m, rải đều lên toàn bộ hàng và tưới nước ngay sau khi bón.
+  - **Dâu trung tính ngày:** Bón đạm trong suốt mùa sinh trưởng và ra quả. Mỗi tháng 4, 5, 6, 7 bón 28g đạm cho mỗi hàng dài 30m. Nếu cây phát triển tốt, có thể bón thêm 28g đạm vào tháng 8.
 
-### Nguồn Tài Nguyên Dịch Vụ OSU Extension  
-Truy cập trực tuyến Dịch vụ OSU Extension tại [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)  
-- Trồng Dâu Tây Trong Vườn Nhà Bạn EC 1307  
-- Các Giống Dâu Tây Dành Cho Tây Oregon và Washington EC 1618  
-- Trồng Các Loại Quả Trên Bờ Biển Oregon: Dâu Tây EM 9178 (Cũng áp dụng cho Thung lũng Willamette)  
+### Tưới Nước
+- Cung cấp 2,5–4 cm nước mỗi tuần trong mùa sinh trưởng. Tránh để cây bị khô hạn.
 
-### Tư Vấn Làm Vườn Bậc Thầy™  
-- Gọi đường dây nóng về làm vườn tại nhà: 503-655-8631 (Quận Clackamas), 503-821-1150 (Quận Washington), 503-445-4608 (Quận Multnomah).  
-- Để xem các tài liệu và lịch lớp học Đại Học 10 Phút™, truy cập [www.cmastergardeners.org](www.cmastergardeners.org) hoặc [www.metromastergardeners.org](www.metromastergardeners.org).  
-- Tìm các chuyên gia làm vườn bậc thầy tại các Chợ Nông Sản khu vực.  
+### Quản Lý Cỏ Dại
+- Cỏ dại cạnh tranh nước và dinh dưỡng với cây. Hãy nhổ cỏ thường xuyên.
+- Nếu trồng dâu trung tính ngày theo hệ thống luống, bạn có thể dùng màng phủ nhựa kết hợp hệ thống tưới nhỏ giọt bên dưới.
+
+### Sâu Bệnh Hại
+- **Bệnh:** Các bệnh nghiêm trọng nhất với dâu là Botrytis, thối quả, thối rễ và bệnh héo Verticillium.
+- **Côn trùng:** Những vấn đề phổ biến là mọt hại rễ, rệp, nhện đỏ và sâu đục thân.
+
+### Tài Nguyên Từ OSU Extension Service
+Truy cập OSU Extension Service tại [https://catalog.extension.oregonstate.edu/](https://catalog.extension.oregonstate.edu/)
+
+- **Trồng Dâu Tây Trong Vườn Nhà Bạn** (EC 1307)
+- **Các Giống Dâu Tây Cho Miền Tây Oregon và Washington** (EC 1618)
+- **Trồng Dâu Tây Ở Vùng Ven Biển Oregon** (EM 9178) (Cũng áp dụng cho thung lũng Willamette)
+
+#### Tư Vấn Từ Master Gardener™
+
+- **Gọi đường dây hỗ trợ làm vườn tại nhà:**
+  - 503-655-8631 (Quận Clackamas)
+  - 503-821-1150 (Quận Washington)
+  - 503-445-4608 (Quận Multnomah)
+- Để xem thêm các tài liệu và lịch học của Đại học 10 Phút™, truy cập [www.cmastergardeners.org](https://www.cmastergardeners.org)
+- Tìm gặp các chuyên gia Master Gardener tại các chợ nông sản trong khu vực.
 
 ---
 
-Dịch vụ khuyến nông của Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm biểu hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình trợ cấp công, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa do hoạt động dân quyền trước đó. (Không phải tất cả các căn cứ bị cấm đều áp dụng cho tất cả các chương trình).
+##### Dịch vụ OSU Extension Service nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm cả thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình hoặc làm cha mẹ, thu nhập từ chương trình trợ cấp công cộng, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc phân biệt đối xử do các hoạt động dân quyền trước đó. (Không phải tất cả các tiêu chí bị cấm đều áp dụng cho tất cả các chương trình.)
+---

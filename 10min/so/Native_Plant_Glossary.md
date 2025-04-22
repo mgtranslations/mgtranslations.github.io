@@ -1,31 +1,44 @@
-10-Daqiiqo Jaamacad™  
-Ururka Beeralayda ee Clackamas County Master Gardener Association oo wada shaqayn la leh iyo taageerada Barnaamijka OSU Extension Master Gardener™  
+#### Jaamacadda 10-Daqiiqo™ · Ururka Beeralayda Master ee Clackamas County oo iskaashi la leh Barnaamijka OSU Extension Master Gardener™
 
-Qaamuuska Dhirta Dabiiciga ah  
-Dhirta Dabiiciga ah  
-Qeexitaanka rasmiga ah ee Dowladda Mareykanka waxa bixiya Adeegga Khayraadka Dabiiciga ah iyo Ilaalinta (NRCS).  
-NRCS waxay dhirta dabiiciga ah u qeexdaa sida "Geed qayb ka ah dheelitirka dabeecadda oo ku soo koray boqolaal ama kumanaan sano meel gaar ah ama nidaamka deegaanka. Ogsoonow: Erayga dabiici waa in mar walba la isticmaalo iyadoo lagu darayo qeexitaan juqraafi ah (taas oo ah, dabiici u ah New England [tusaale ahaan]). Kaliya dhirta laga heli jiray wadankan ka hor degganaanshaha Yurub ayaa loo tixgelin karaa inay u yihiin dhirta dabiici ee Maraykanka."  
+## Qaamuuska Dhirta Dabiiciga ah
 
-Dhirta Aan Dabiiciga Ahayn  
-Geed lagu keenay caawimada aadanaha meel cusub ama deegaan cusub, halkaas oo aan hore looga heli jirin.  
+### Dhirta Dabiiciga ah
 
-Geed Dabiici Noqday  
-Geed aan dabiici ahayn oo u baahan caawinta aadanaha si uu isku sii hayo wakhti dheer, meel aan ahayn deegaanka uu asal ahaan ka yimid. Dhirta dabiici noqotay ma aha dhir dabiici ah.  
+Qeexitaanka rasmiga ah ee Dowladda Mareykanka waxaa bixisa Adeegga Kheyraadka Dabiiciga ah iyo Ilaalinta (NRCS). NRCS waxay dhir dabiici ah ku qeexdaa:
 
-Nooca La Xushay  
-Geed loo xushay, oo ay doorteen kuwa taranka dhirta, sababo la xiriira astaamo gaar ah, kuwaas oo la sii hayo inta lagu gudajiro taranka.  
-- Geed la xushay ma soo saaro abuur run ah oo u baahan taranka oo ay dadku maamulaan si uu u sii jiro;  
-- Waxaad ku garan kartaa geed la xushay magaca cilmiyeysan ee uu ku bilaabmo noociisa, ka dib noociisa, ka dibna magaca la xushay oo lagu qoro calaamado kutaan ah. Tusaale ahaan, Ribes sanguineum 'Oregon snowflake' waa nooc laga soo saaray dhirta dabiiciga ah ee Ribes sanguineum; iyo  
-- Nativar waa ereyo gaaban oo loogu talagalay nooc la xushay ee geed dabiici ah.  
+> “Geed ka mid ah nidaamka dabiiciga ah ee degaan gaar ah ama nidaam deegaan (ecosystem) oo ka soo baxay boqolaal ama kumanaan sano. Fiiro gaar ah: Ereyga 'dabiici' waa in had iyo jeer lala xiriiriyaa meel gaar ah (tusaale, dhir dabiici u ah New England). Kaliya dhirta laga helay waddankan ka hor intii aanay reer Yurub imaanin ayaa loo tixgeliyaa dhir dabiici ah oo Mareykanka ah.”
 
-Isku-Dhaf  
-Geed laga soo saaray isku dhafka walxaha hidde ee laba nooc oo kala duwan. Ma aha nooc la xushay, laakiin, waxaad yeelan kartaa noocyo la xushay oo ah isku-dhaf.  
-- Lavandula x intermedia waa isku-dhaf u dhexeeya Lavandula angustifolia (lavender Ingiriis) iyo Lavandula latifolia (lavender Bortuqiis)  
-- Lavandula x intermedia 'Grosso' iyo Lavandula x intermedia 'Provence' waa laba nooc oo la xushay ee Lavandula x intermedia  
+### Dhir Aan Dabiici Ahayn
 
-Isbeddel  
-Isbeddelka dhirta, oo sidoo kale loo yaqaan sports ama chimeras, waa isbeddel hidde oo laga yaabo inay saameeyaan muuqaalka caleemaha, ubaxyada, miraha ama laamaha.  
-- Taranka dhirta ee vegetative ayaa loo isticmaalaa in la sii hayo astaamaha loo baahan yahay, dhirta badanaa waxay u nugul yihiin "dib u noqosho", taasoo macnaheedu yahay in qayb ama dhammaan dhirta ay ku noqdaan qaabkoodii asalka ahaa.  
-- Tusaalooyinka: Ubaxyada Camelia oo leh dhibco iyo xariijimo  
+Geed si dadku gacan uga geysteen in lagu keeno meel ama deegaan cusub, halkaas oo aan lagu arki jirin.
 
-Adeegga Oregon State University Extension Service wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabka ku salaysan jinsiyadda, midabka, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), nooca galmada, naafonimada, da'da, heerka guurka, heerka qoyska/waalidka, dakhliga laga soo qaatay barnaamijka caawinta dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde, heerka askarta, aargoosashada ama falcelinta ka hor hawlaha xuquuqda madaniga ah. (Dhammaan saldhigyada la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)  
+### Dhir Dabiiciyeeysan
+
+Geed aan dabiici ahayn oo aan u baahnayn caawimaad bini'aadan si uu isaga iskiis ugu noolaado waqti dheer, meel aanu asal ahaan ka soo jeedin. Dhirta dabiiciyeeysan ma aha dhir dabiici ah.
+
+### Nooc-beereed (Cultivar)
+
+Geed ay xulaan dadka beeraleyda ah si ay u helaan sifooyin gaar ah, kuwaas oo lagu ilaaliyo xilliga taranka.
+
+- Nooc-beereedku ma soo saaro abuur la mid ah kii waalidka, wuxuuna u baahan yahay faro-gelin bini'aadan si loo sii wado tarankiisa.
+- Waxa lagu garan karaa nooc-beereedka magaciisa sayniska ee ka bilaabma nooca guud (genus), kadib nooca (species), ka dibna magaca nooc-beereedka oo lagu xardho calaamado labo-geesood ah. Tusaale ahaan, *Ribes sanguineum ‘Oregon snowflake’* waa nooc-beereed laga soo saaray dhirta dabiiciga ah ee *Ribes sanguineum*.
+- **Nativar** waa erey loo adeegsado nooc-beereed laga sameeyay geed dabiici ah.
+
+### Isku-daris (Hybrid)
+
+Geed laga sameeyay is dhexgalka hiddo-sideyaal ka kala yimid laba nooc oo kala duwan. Kuma jiraan nooc-beereedyada, balse waxaa jiri kara nooc-beereedyo laga sameeyay isku-daris.
+
+- *Lavandula x intermedia* waa iskusid ka dhaxeeya *Lavandula angustifolia* (lavender Ingiriis) iyo *Lavandula latifolia* (lavender Bortaqiis).
+- *Lavandula x intermedia ‘Grosso’* iyo *Lavandula x intermedia ‘Provence’* waa laba nooc-beereed oo ka mid ah *Lavandula x intermedia*.
+
+### Isbeddel (Mutation)
+
+Isbeddelada dhirta, oo sidoo kale loo yaqaan 'sports' ama 'chimeras', waa isbeddelo hidde-side ah oo saamayn kara muuqaalka caleemaha, ubaxa, miraha, ama laamaha.
+
+- Taranka dhirta iyadoo la adeegsanayo qaybaha geedka (vegetative propagation) ayaa loo isticmaalaa in lagu ilaaliyo sifooyinka la rabo. Dhirta badanaa way u nugul yihiin "dib u noqoshada" taas oo macnaheedu yahay in geedka oo dhan ama qayb ka mid ah uu ku soo laabto qaabkii asaliga ahaa.
+- **Tusaale:** Ubaxa Camellia oo leh dhibcooyin iyo xariijimo.
+
+---
+
+##### Adeegga Ballaarinta Jaamacadda Gobolka Oregon wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku saleysan: midab, asal qaran, diin, jinsi, aqoonsi jinsiyeed (oo ay ku jirto muujinta jinsiyeed), jihaynta galmo, naafonimo, da’ , xaalada guur, xaalada qoys/waalid, dakhli ka yimid barnaamij gargaar dadweyne, aaminsanaanta siyaasadeed, macluumaadka hidde-side, heerka ciidanimada, ciqaab ama aargoosi la xiriirta ficil xuquuqda madaniga ah ee hore (Ma aha dhammaan sababaha la mamnuucay inay khuseeyaan dhammaan barnaamijyada).
+---

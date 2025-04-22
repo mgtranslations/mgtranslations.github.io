@@ -1,84 +1,174 @@
-### Đại học 10 Phút™  
-Hiệp hội Nhà làm vườn chuyên nghiệp Quận Clackamas hợp tác với và hỗ trợ Chương trình Nhà làm vườn chuyên nghiệp của OSU™  
+#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia của OSU Extension
 
-### Cảnh quan chống cháy để giảm rủi ro cháy rừng  
-#### Giới thiệu  
-Cảnh quan chống cháy giúp bảo vệ ngôi nhà, tài sản và cứu mạng sống. Thiết kế cẩn thận và lựa chọn cây trồng thông minh giúp tạo ra không gian phòng thủ xung quanh ngôi nhà của bạn. Có nhiều loại vật liệu cảnh quan hấp dẫn và chống cháy, cây cối, bụi cây và cây hoa sẵn có. Chống cháy không có nghĩa là không cháy. Tài liệu này được thiết kế để cung cấp hướng dẫn, không phải là sự đảm bảo.  
+# Cảnh quan Phòng cháy Giảm Nguy cơ Cháy rừng
 
-### Đánh giá ngôi nhà và sân của bạn để xác định các yếu tố rủi ro cháy rừng  
-Có nhiều việc bạn có thể làm để giảm rủi ro! Hai yếu tố chính quyết định liệu một ngôi nhà có tồn tại qua một trận cháy rừng hay không:  
-1. Hiệu quả của không gian phòng thủ xung quanh ngôi nhà (ví dụ, khả năng tiếp cận của lính cứu hỏa đến tài sản).  
-2. Khả năng bắt cháy của cấu trúc. Hai yếu tố này xác định Vùng Bắt Cháy của Ngôi Nhà (Home Ignition Zone - HIZ).  
+### Giới thiệu
 
-#### Vùng Gần Nhà, HIZ 1  
-Bao gồm từ ngôi nhà ra đến 5 feet từ móng nhà.  
-**Mục tiêu:** Giảm nguy cơ bắt cháy gần ngôi nhà.  
-Không nên có cây cối, ngoại trừ các giỏ/ chậu cây hàng năm và cỏ được chăm sóc tốt.  
+Cảnh quan phòng cháy giúp bảo vệ ngôi nhà, tài sản và cứu sống con người. Thiết kế cẩn thận và lựa chọn cây trồng hợp lý giúp tạo ra vùng phòng thủ xung quanh nhà bạn. Có rất nhiều loại vật liệu cảnh quan, cây, bụi và hoa đẹp mắt, chống cháy để lựa chọn. Chống cháy không có nghĩa là không thể cháy. Tài liệu này chỉ mang tính hướng dẫn, không phải là sự đảm bảo.
 
-#### Vùng Trung Gian, HIZ 2  
-Bao gồm từ 5-30 feet xung quanh ngôi nhà.  
-**Mục tiêu:** Ngăn lửa leo lên các phần trên của cây hoặc bụi cây để giữ an toàn cho ngôi nhà. Loại bỏ các "nhiên liệu bậc thang" - các cành cây thấp và bụi cây gần đó có thể giúp lửa leo lên ngôi nhà. Khu vực này nên "gọn gàng, sạch sẽ và xanh."  
+---
 
-#### Vùng Mở Rộng, HIZ 3  
-Bao gồm từ 30-100 feet (hoặc nhiều hơn) xung quanh ngôi nhà.  
-**Mục tiêu:** Giảm năng lượng của đám cháy và làm chậm sự tiến triển của nó để không lan đến các tòa nhà. Khu vực này cần lớn hơn khi có các độ dốc vì độ dốc làm tăng chiều dài ngọn lửa. Tạo một con đường sạch sẽ, không liên tục bằng cây cối, làm cho lửa trở nên khó khăn hơn để cháy trực tiếp đến tòa nhà.  
+### Đánh giá Ngôi nhà và Sân vườn về Các Yếu tố Nguy cơ Cháy rừng
 
-Nguồn: Hiệp hội Bảo vệ Cháy Quốc gia  
+Bạn có thể làm nhiều việc để giảm rủi ro! Hai yếu tố chính quyết định liệu một ngôi nhà có sống sót qua cháy rừng hay không:
 
-### Khả năng bắt cháy của cấu trúc  
-Bạn có biết rằng phần lớn các ngôi nhà bị mất trong cháy rừng là do tàn lửa từ đám cháy chứ không phải bản thân ngọn lửa? Hãy chú ý đến khả năng bắt cháy của các cấu trúc như ngôi nhà, hàng rào, ban công và các tòa nhà phụ.  
-- **Mái nhà:** Đây là phần dễ bị tổn thương nhất trong một trận cháy do tàn lửa bay. Tàn lửa cũng có thể xâm nhập qua hệ thống thông gió.  
-- **Vật liệu xây dựng:** Thay đổi các vật liệu dễ cháy thành các vật liệu chống cháy hơn như kim loại, ngói, đá lát và đá có thể tạo nên sự khác biệt.  
-- **Hệ thống thông gió:** Sử dụng các lỗ thông gió được thiết kế để an toàn đối với tàn lửa và lửa.  
-- **Vật liệu lợp mái:** Sử dụng vật liệu lợp mái Loại 1 và giữ mái nhà và máng xối sạch sẽ khỏi các mảnh vụn hữu cơ để ngăn bắt cháy.  
-- **Vật liệu xung quanh:** Giữ gỗ và các vật liệu dễ cháy như cây cối quá gần và bụi cây dày đặc không tiếp xúc với ngôi nhà, cửa sổ, thông gió và ban công.  
+1. **Hiệu quả của vùng phòng thủ xung quanh** (ví dụ: khả năng tiếp cận của đội cứu hỏa đến tài sản).
+2. **Khả năng dễ cháy của cấu trúc ngôi nhà.**
 
-### Cảnh quan chống cháy so với cảnh quan truyền thống  
+Hai yếu tố này xác định **Vùng Cháy quanh Nhà (HIZ).**
 
-#### Đặc điểm của cây chống cháy  
-Những đặc điểm quan trọng: Hàm lượng nước cao, cành cây thưa và thực vật không có chất nhựa. Hàm lượng nước cao hoạt động như một chất giảm nhiệt, làm giảm cường độ và sự lan rộng của ngọn lửa. Nhìn chung, cây lá rụng ít cháy hơn cây lá kim.  
+#### Vùng Gần Nhà (HIZ 1)
 
-#### Đặc điểm của cây dễ cháy  
-Cây dễ cháy có hàm lượng nước thấp và thường chứa các chất như dầu, nhựa, sáp hoặc nhựa. Ví dụ: cây bách juniper, cây bách Leyland, cây bách Ý, cây hương thảo, cây tuyết tùng, cây bạch đàn.  
+- **Bao gồm:** Từ ngôi nhà ra đến 1,5 mét (5 feet) tính từ móng nhà.
+- **Mục tiêu:** Giảm nguy cơ bốc cháy gần nhà.
+- **Hướng dẫn:**
+  - Không có cây cối ngoài các chậu cây treo/bồn cây hàng năm và cỏ được chăm sóc tốt.
 
-#### Các lựa chọn cây chống cháy  
-- **HIZ 1:** Các loại cây phù hợp bao gồm cây hàng năm và cỏ. Giữ chúng được tưới nước tốt.  
-- **HIZ 2:** Bao gồm các bụi cây thấp, cành cây thưa như cây lilac và cây snowberry, cũng như các cây nhỏ như cây phong dây leo và cây táo crabapple. Các cây hàng năm và lâu năm không chứa các hợp chất dễ cháy cũng có thể được sử dụng.  
-- **HIZ 3:** Bao gồm các cây lớn và bụi cây có khoảng cách hợp lý. Cây được tỉa cành thấp và có khoảng cách lớn giữa các cây. Cây lá rụng như cây dogwood hoa và cây catalpa phương Tây có thể chống cháy. Cây thông Ponderosa và cây thông larch phương Tây là những loại cây lá kim chống cháy tốt nhất.  
+#### Vùng Trung Gian (HIZ 2)
 
-#### Các loại cây dễ cháy cần tránh  
-- **HIZ 1:** Tránh các bụi cây, đặc biệt là những loại chứa các hợp chất dễ cháy, như cây juniper, cây tuyết tùng và cây hương thảo. Cũng tránh các cây cối che phủ mái nhà vì chúng tạo ra mảnh vụn mái dễ cháy.  
-- **HIZ 2 & 3:** Cây lá kim thường dễ cháy hơn cây lá rụng. Chú ý đến các mảng cây xâm lấn như cây blackberry và cây broom Pháp. Nếu không được quản lý, chúng có thể tạo thành các mảng mảnh vụn khô, thêm nhiên liệu cho đám cháy.  
+- **Bao gồm:** Khoảng 1,5–9 mét (5–30 feet) xung quanh nhà.
+- **Mục tiêu:** Ngăn lửa leo lên phần trên của cây hoặc bụi để bảo vệ ngôi nhà.
+- **Hướng dẫn:**
+  - Loại bỏ các vật liệu dễ bắt lửa tầng thấp (cành cây thấp, bụi gần cây có thể giúp ngọn lửa leo lên nhà).
+  - Vùng này nên được duy trì “thưa, sạch và xanh”.
 
-### Thực hành văn hóa tích cực tại nhà  
+#### Vùng Mở Rộng (HIZ 3)
 
-#### HIZ 1  
-- Duy trì cây cối với việc tưới nước và tỉa cành hợp lý.  
-- Loại bỏ các mảnh vụn cây chết.  
-- Giữ cỏ được cắt ngắn.  
+- **Bao gồm:** 9–30 mét (30–100 feet hoặc hơn) xung quanh nhà.
+- **Mục tiêu:** Giảm sức mạnh của cháy rừng và làm chậm đà lan tới các công trình.
+- **Hướng dẫn:**
+  - Tạo một đường cây không liên tục, sạch sẽ, làm lửa khó lan trực tiếp tới nhà.
+  - Vùng này nên mở rộng hơn nếu có dốc vì dốc làm lửa cháy mạnh hơn.
 
-#### HIZ 2  
-- Giữ cây cối khỏe mạnh bằng cách tưới nước và tỉa cành. Khu vực này có thể được phủ lớp phủ nếu được tưới nước.  
-- Cào và loại bỏ mảnh vụn.  
+*Nguồn: Hiệp hội Bảo vệ Cháy Quốc gia (NFPA)*
 
-#### HIZ 3  
-- Giữ một lối đi rộng để nhân viên cứu hộ có thể di chuyển.  
-- Duy trì cây cối/bụi cây trưởng thành bằng cách tỉa cành thấp và loại bỏ phần bị bệnh hoặc chết.  
-- Loại bỏ cây xâm lấn mọc quá mức.  
-- Tỉa thưa các cụm cây cối và giảm mật độ cây.  
+---
 
-### Các vật liệu cảnh quan chống cháy  
-- **Vật liệu không cháy:** Bê tông, sỏi, gạch, đá, sắt, nhôm, kính. Cỏ và các lớp phủ đất thấp có thể làm chậm ngọn lửa và tạo ra các khoảng cách chống cháy.  
+### Khả năng Dễ cháy của Cấu trúc
 
-#### Các vật liệu cảnh quan dễ cháy  
-- **Vỏ cây:** Vỏ cây tuyết tùng đỏ phương Tây là loại lớp phủ dễ cháy nhất.  
-- **Cấu trúc gỗ:** Hàng rào, cổng và giàn làm từ gỗ đều dễ cháy.  
+Bạn có biết rằng phần lớn nhà bị cháy trong cháy rừng là do tàn lửa bay từ xa chứ không phải do lửa trực tiếp?
 
-### Thông tin thêm  
-- **Vùng bắt cháy của ngôi nhà: Bảo vệ tài sản của bạn khỏi cháy rừng**  
-[https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf)  
+#### Những Điều Cần Lưu Ý
 
-- **Cây chống cháy cho cảnh quan tại nhà**  
-[https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)  
+- **Mái nhà:**
+  - Mái nhà là phần dễ bị tổn thương nhất vì tàn lửa bay vào.
+  - Sử dụng vật liệu mái loại 1 và giữ mái, máng xối sạch sẽ, không có lá cây để tránh bị cháy.
+- **Vật liệu xây dựng:**
+  - Thay thế vật liệu dễ cháy bằng các loại chống cháy như kim loại, ngói, gạch lát, đá.
+  - Sử dụng lỗ thông gió bảo vệ chống tàn lửa và an toàn với lửa.
+- **Vật liệu dễ cháy:**
+  - Để củi, cây cối và cây bụi rậm xa các công trình, lỗ thông gió, cửa sổ và sàn gỗ.
 
-Dịch vụ Mở rộng của Đại học Bang Oregon cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ một chương trình hỗ trợ công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
+---
+
+### Cảnh quan Phòng cháy so với Cảnh quan Truyền thống
+
+#### Đặc điểm của cây chống cháy
+
+- Hàm lượng nước cao.
+- Cành nhánh thưa, không có nhựa hoặc tinh dầu.
+- Cây rụng lá thường ít cháy hơn cây lá kim.
+
+#### Đặc điểm của cây rất dễ cháy
+
+- Hàm lượng nước thấp.
+- Chứa các chất như dầu, nhựa, sáp, hoặc nhựa thông.
+- Ví dụ: cây bách xù trang trí, bách Leyland, bách Ý, hương thảo, trắc bá, bạch đàn.
+
+---
+
+### Các Lựa chọn Cây chống Cháy
+
+#### HIZ 1
+
+- **Khuyến nghị:** Cây hàng năm và cỏ (giữ ẩm tốt).
+- **Tránh:** Những bụi cây chứa hợp chất dễ bay hơi (như bách xù, trắc bá, hương thảo). Tránh các cây che phủ mái nhà.
+
+#### HIZ 2
+
+- **Khuyến nghị:**
+  - Bụi thấp, cành thưa (như tử đinh hương, tuyết cầu).
+  - Cây nhỏ (như phong leo, táo dại).
+  - Cây hàng năm và lâu năm không có hợp chất dễ bay hơi.
+- **Tránh:** Cây rất dễ cháy gần nhà.
+
+#### HIZ 3
+
+- **Khuyến nghị:**
+  - Cây lớn và bụi với khoảng cách hợp lý.
+  - Cây rụng lá vào mùa hè (như mộc lan hoa trắng, catalpa tây).
+  - Cây lá kim chống cháy (như thông ponderosa, thông larch phương tây).
+- **Tránh:**
+  - Cây lá kim gần nhà.
+  - Đám cây xâm lấn (như mâm xôi, chổi Pháp).
+
+---
+
+### Thực hành Chăm sóc Nhà Tích cực
+
+#### HIZ 1
+
+- Chăm sóc cây bằng tưới nước và cắt tỉa hợp lý.
+- Loại bỏ lá cây, cành khô chết.
+- Cắt cỏ thường xuyên.
+
+#### HIZ 2
+
+- Giữ cây khỏe mạnh bằng tưới nước và cắt tỉa.
+- Phủ gốc nếu có hệ thống tưới.
+- Cào và dọn sạch rác cây cối.
+
+#### HIZ 3
+
+- Duy trì các lối đi rộng cho lực lượng cứu hộ.
+- Cắt tỉa cành thấp của cây lớn và bụi rậm.
+- Dọn sạch cây xâm lấn mọc quá mức.
+- Tỉa bớt cây dày và tách các cụm cây.
+
+---
+
+### Nguy cơ Cháy quanh Nhà và Tài sản
+
+#### HIZ 1
+
+- Tránh sử dụng lớp phủ gốc cây (mulch) vì dễ cháy.
+- Hàng rào, cổng và giàn gỗ có thể là vật liệu dẫn lửa.
+- Bảo dưỡng sàn gỗ và không để vật liệu dễ cháy dưới hoặc gần đó.
+
+#### HIZ 2
+
+- Tránh các cây dễ cháy gần công trình.
+- Giữ cỏ ngắn và loại bỏ rác thực vật.
+
+#### HIZ 3
+
+- Để củi cách nhà ít nhất 9 mét (30 feet).
+
+---
+
+### Hướng dẫn Vật liệu Cảnh quan chống Cháy
+
+#### Vật liệu Khuyến nghị
+
+- Vật liệu không cháy: bê tông, sỏi, gạch, đá, sắt, nhôm, kính.
+- Cỏ và thảm thực vật thấp có thể làm chậm lửa, tạo vùng ngăn cháy.
+
+#### Vật liệu Dễ cháy Cao
+
+- Vỏ cây tuyết tùng đỏ phía tây là loại mulch dễ cháy nhất.
+- Hàng rào, cổng và giàn bằng gỗ đều dễ cháy.
+
+---
+
+### Để biết thêm thông tin
+
+- **Vùng cháy quanh nhà: Bảo vệ tài sản của bạn khỏi cháy rừng**  
+  [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9247.pdf)
+
+- **Cây chống cháy dành cho người làm vườn tại nhà**  
+  [https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/pnw590.pdf)
+
+---
+
+###### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm mọi hình thức phân biệt đối xử trong tất cả chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, bản dạng giới (bao gồm biểu hiện giới), xu hướng tình dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/cha mẹ, thu nhập từ trợ cấp công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc bị trả đũa do hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
+---

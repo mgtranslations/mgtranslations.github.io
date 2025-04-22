@@ -1,125 +1,148 @@
+#### 10-Minute University™ · Ang Clackamas County Master Gardener Association sa pakikipagtulungan at suporta ng OSU Extension Master Gardener™ Program
+
 # Hanging Baskets
 
-## Pangkalahatang Ideya
+### Pangkalahatang-ideya
 
-Ang mga hanging basket, puno ng mga bulaklak na mayaman sa kulay, ay mahalagang tampok tuwing tag-araw sa maraming lungsod at hardin.
+Ang mga hanging basket, na puno ng makukulay at masaganang bulaklak, ay mga paboritong tampok tuwing tag-init sa maraming siyudad at hardin.
 
-## Pumili ng Lalagyan
+### Pumili ng Lalagyan
 
-Ang angkop na lalagyan ay dapat sapat ang laki upang tumagal sa buong panahon ng pagtubo at magaan upang maiangat sa lugar. Ang simpleng lalagyan ay maayos sapagkat, sa maikling panahon, ang paso ay ganap na matatakpan ng iyong mga trailing na halaman.
+Ang tamang lalagyan ay dapat sapat ang laki para tumagal sa buong panahon ng pagtatanim at magaan para madaling isabit. Ang simpleng lalagyan ay maayos gamitin dahil sa lalong madaling panahon, matatakpan na ito ng iyong mga trailing na halaman.
 
-Ang mga lalagyan ay may iba't ibang hugis, laki, at materyales. Ang kahoy, sphagnum moss, at clay o terra cotta na hindi glazed ay madaling matuyo. Ang mga ito ay maaaring lagyan ng lining (karaniwan ay perforated plastic) upang manatiling basa nang mas matagal. Tandaan na ang clay at terra cotta ay magiging mabigat pagkatapos itong taniman at diligan. Pumili ng mga lalagyan na angkop sa iyong istilo, dekorasyon, at tanawin.
+Iba-iba ang hugis, laki, at materyales ng mga lalagyan. Ang gawa sa kahoy, sphagnum moss, at hindi kinilalang clay o terra cotta ay madaling matuyo. Maaring lagyan ng lining (madalas plastik na may butas) para manatiling basa nang mas matagal. Tandaan na ang clay at terra cotta ay magiging mabigat kapag naitanim at nadiligan. Pumili ng lalagyan na babagay sa iyong estilo, dekorasyon, at tanawin.
 
-Tandaan na ang 10-inch na lalagyan ay maaaring kailangang diligan tuwing 1 hanggang 2 araw. Ang mas maliliit na lalagyan ay mangangailangan ng mas madalas na pagdilig.
+Tandaan na ang 10-pulgadang lalagyan ay maaaring kailangang diligan tuwing 1 hanggang 2 araw. Mas madalas kailangan diligan ang mas maliliit na lalagyan.
 
-## Gumamit ng Potting Mix
+### Gumamit ng Potting Mix
 
-Gumamit ng de-kalidad na potting mix upang punan ang iyong lalagyan. Ang mga produktong ito ay ginawa upang maging magaspang, kaya't nagkakaroon ng magandang drainage sa mga lalagyan. Ang maayos na drainage ay mahalaga upang mapanatiling malusog ang mga halaman.
+Gumamit ng de-kalidad na potting mix para punuin ang iyong lalagyan. Ang mga produktong ito ay dinisenyo para maging magaspang at maganda ang drainage. Ang maayos na drainage ay nakakatulong para maging malusog ang mga halaman.
 
-Kung gagamitin muli ang lalagyan sa ibang panahon, isaalang-alang ang pagpapalit ng potting mix. Mahalagang palitan ito kung ang nakaraang pagtatanim ay nagkaroon ng sakit sa ugat; kung gayon, linisin din nang maigi ang lalagyan. Huwag gumamit ng lupa mula sa hardin sa mga lalagyan sapagkat ang pinong texture nito ay naglilimita sa drainage at humahadlang sa pag-usbong ng ugat. Maaari rin itong magdala ng sakit, insekto, at mga buto ng damo.
+Kung gagamitin muli ang lalagyan sa ibang panahon, magpalit ng potting mix. Mahalaga ito lalo na kung nagkaroon ng sakit sa ugat ang dating tanim; hugasan din ang lalagyan nang mabuti.
 
-Alamin na ang madalas na mungkahing "magaspang na materyales sa ilalim ng lalagyan para sa drainage" ay mali. Dahil sa dinamika ng paggalaw ng tubig sa loob ng lalagyan, ang magaspang na materyales ay magpapabagal sa drainage.
+Huwag gumamit ng garden soil sa lalagyan dahil ang pinong texture nito ay nagpapahirap sa drainage at hindi tumutulong sa paglaki ng ugat. Maari ring magdala ang garden soil ng sakit, insekto, at buto ng damo.
 
-## Gumamit ng Abono
+Tandaan na ang madalas na suhestiyon na maglagay ng magaspang na bagay sa ilalim ng lalagyan para sa drainage ay mali. Dahil sa galaw ng tubig sa loob ng lalagyan, ang magaspang na materyal ay nagpapabagal ng drainage.
 
-Bigyang panimula ang iyong mga halaman sa pamamagitan ng paghahalo ng abono sa potting mix bago magtanim. Ang pormula na slow-release na tumatagal ng 3 hanggang 4 na buwan ay epektibo sapagkat ito ay tatagal sa buong panahon. Kapag naitanim na ang lahat ng halaman, ayusin ang potting mix sa paligid ng kanilang mga ugat gamit ang tubig na may kalahating lakas ng soluble na abono.
+### Gumamit ng Pataba
 
-## Pumili ng Iyong mga Halaman
+Simulan agad ang paglago ng iyong mga halaman sa pamamagitan ng paghahalo ng pataba sa potting mix bago magtanim. Ang slow-release na formula na tumatagal ng 3 hanggang 4 na buwan ay mabuti dahil tatagal ito sa buong season.
 
-Mahalaga na ang mga halaman sa isang lalagyan ay maganda ang pagtubo sa parehas na kondisyon, tulad ng sikat ng araw o lilim, basa o medyo tuyo. Tandaan din ang istilo ng pagtubo ng mga halaman, tulad ng tuwid o trailing. Maaari mong pagsamahin ang mga annuals at perennials sa isang lalagyan para sa isang panahon lamang. Sa pagtatapos ng panahon, maaari mong palitan ang mga annuals para sa bagong hitsura.
+Pagkatapos maitanim ang lahat ng halaman, lagyan ng tubig na may kalahating lakas ng soluble fertilizer ang potting mix sa paligid ng mga ugat.
 
-## Disenyo at Pagtatanim
+### Pumili ng Iyong mga Halaman
 
-Kapag napili mo na ang planter, at mayroon ka nang mga halaman at potting mix, sundin ang mga hakbang na ito para magtagumpay:
+Mahalagang siguruhin na ang mga halaman sa isang lalagyan ay pareho ang pangangailangan, tulad ng araw o lilim, basa o medyo tuyo. Isaalang-alang din ang hugis ng paglaki ng halaman, kung tuwid o trailing.
 
-1. Ibuhos ang dami ng potting mix na sa tingin mo ay kailangan, pagkatapos ay ihalo ang 3- hanggang 4-na buwang slow-release formula na abono; sundin ang mga tagubilin sa label para sa tamang dami.
-2. Ibuhos ang tamang dami ng potting mix sa iyong lalagyan upang ang mga halaman ay maayos na mailagay at manatili ng 1 pulgada sa ibaba ng gilid ng lalagyan.
-3. Ilagay ang mga matataas na halaman sa gitna o likod ng lalagyan, punan ng mga clumpers sa susunod, at tapusin sa mga trailing na halaman sa gilid ng lalagyan. Para sa balanseng hitsura, maglagay ng dalawa o higit pang magkatulad na halaman sa magkabilang panig ng lalagyan.
-4. Upang tapusin ang pagtatanim, punuan ang paligid ng mga halaman ng karagdagang potting mix upang pag-isahin ang kombinasyon at takpan ang anumang nakikitang ugat. Kapag nakalagay na ang lahat, ang potting mix ay dapat na 1 pulgada sa ibaba ng gilid ng planter upang magbigay ng espasyo para sa pagdilig.
-5. Ayusin ang potting mix sa paligid ng mga ugat gamit ang tubig na may abono na may kalahating lakas.
-6. Isabit ang iyong lalagyan kung saan ang sikat ng araw o lilim ay tumutugma sa pangangailangan ng iyong mga halaman. Ngayon, maaari ka nang mag-relax at mag-enjoy!
+Pwedeng pagsamahin ang annuals at perennials sa isang paso para sa isang season. Sa dulo ng season, pwede mong palitan ang annuals para sa panibagong itsura.
 
-## Panatilihin ang Iyong Lalagyan
+### Disenyo at Pagtatanim
 
-Diligan kapag kinakailangan. Hindi mo kailangang magdilig nang madalas sa malamig o banayad na panahon kumpara kapag mainit o mahangin. Sa mainit na panahon, maaaring kailanganin mong magdilig isang beses o dalawang beses sa isang araw, depende sa laki ng lalagyan at uri ng mga halaman sa loob nito.
+Pagkatapos pumili ng planter, at mayroon ka nang mga halaman at potting mix, sundin ang mga hakbang na ito para magtagumpay:
 
-Kapag nag-aalinlangan kung kailangan ng tubig, hawakan ang ibabaw ng potting mix. Diligan kung ito ay tuyo; huwag kung ito ay basa.
+1. Ibuhos ang tantiyadong dami ng potting mix, tapos ihalo ang slow-release fertilizer na tumatagal ng 3-4 na buwan; sundin ang instruksyon sa label para sa tamang dami.
+2. Maglagay ng sapat na potting mix sa lalagyan para ang mga halaman ay mailagay na 1 pulgada paibaba mula sa gilid ng lalagyan. (Kung punong-puno ang lalagyan, kailangan mo pang maghukay para magkasya ang mga ugat.)
+3. Itanim ang mga matataas na halaman sa gitna o likuran ng lalagyan, tapos punan ng clumping plants, at tapusin sa mga trailing plants sa gilid ng lalagyan. Para maging balanse ang itsura, maglagay ng dalawa o higit pang magkaparehong halaman (o mga halaman na magkakatulad ang laki, dahon, at kulay) sa magkatapat na bahagi ng lalagyan.
+4. Para matapos ang pagtatanim, punan sa paligid ng mga halaman ng karagdagang potting mix para magdikit-dikit ang mga ito at matakpan ang mga ugat na nakalantad. Kapag ayos na ang lahat, ang potting mix ay dapat 1 pulgada mula sa gilid ng lalagyan para may espasyo sa pagdidilig.
+5. Ayusin ang potting mix sa paligid ng mga ugat gamit ang tubig na may pataba na kalahating lakas.
+6. Isabit ang iyong lalagyan sa lugar na naaayon sa kailangan ng mga halaman mo, araw man o lilim. Ngayon, maaari ka nang magpahinga at mag-enjoy!
 
-Ang unang dosis ng abono na hinalo mo sa potting mix ay maaaring sapat upang suportahan ang mga halaman sa buong panahon. Ngunit kung ang mga halaman ay nagsimulang manghina, magdagdag ng water-soluble na abono isang beses o dalawang beses sa isang linggo, pagkatapos ay ulitin kung kinakailangan.
+### Pangangalaga sa Iyong Lalagyan
 
-Upang mapanatili ang maayos na hitsura sa buong panahon, alisin ang mga kupas na bulaklak (deadhead) hindi bababa sa isang beses sa isang linggo.
+Diligan kapag kailangan. Hindi mo kailangang madalas magdilig tuwing malamig o katamtaman ang panahon, kumpara kapag mainit o mahangin. Sa mainit na panahon, maaaring kailanganin mong magdilig isang beses o dalawang beses sa isang araw depende sa laki ng lalagyan at dami o uri ng halaman.
 
-## Ilang Inirekomendang Halaman
+Kung nagdududa kung kailangan ng tubig, hawakan ang ibabaw ng potting mix. Kung tuyo, diligan; kung basa, huwag.
 
-### Matataas na Halaman para sa Araw
-- Angelonia  
-- Cordyline  
-- Cosmos  
-- Daisies  
-- Dracaena  
-- Geranium  
-- Ornamental grasses  
+Ang unang lagay ng pataba na hinalo mo sa potting mix ay maaaring sapat na para sa buong season. Pero kung nagsisimula nang humina ang mga halaman, magdagdag ng water-soluble fertilizer isang beses o dalawang beses sa isang linggo, ulitin kung kinakailangan.
 
-### Matataas na Halaman para sa Lilim
-- Heliotrope  
-- Shade coleus  
-- Double impatiens  
-- Rex begonia  
-- Ferns  
-- Fuchsia  
-- New Guinea impatiens  
-- Tuberous begonia  
+Para malinis tingnan ang lahat sa buong season, alisin ang mga nalantang bulaklak (deadhead) kahit isang beses sa isang linggo.
 
-### Clumping na Halaman para sa Araw
-- Bidens  
-- Brachycome  
-- Diascia  
-- Fantasy petunia  
-- Fibrous begonia  
+### Ilang Inirerekomendang Halaman
 
-### Clumping na Halaman para sa Lilim
-- Geranium  
-- Nemesia  
-- Marigold  
-- Coleus  
-- Polka dot plant  
-- Impatiens  
+Maraming halaman ang maganda para sa seasonal hanging baskets. Ang mga nakalista sa ibaba ay ilan lamang sa mga posibleng suhestiyon. Pansinin na ang ilan sa mga ito ay pwedeng sa araw o lilim.
 
-### Trailing na Halaman para sa Araw
-- Anagalis  
-- Alyssum  
-- Bacopa  
-- Creeping Charlie  
-- Creeping Jenny  
-- Creeping Zinnia  
-- Ivy  
-- Lamium  
-- Licorice plant  
+#### Mga Tuwid na Halaman para sa Araw
 
-### Trailing na Halaman para sa Lilim
-- Lotus vine  
-- Million bells  
-- Portulaca  
-- Scaevola  
-- Sweet potato vine  
-- Ivy  
-- Verbena  
-- Vinca  
+- Angelonia
+- Cordyline
+- Cosmos
+- Daisies
+- Dracaena
+- Geranium
+- Ornamental grasses
 
-## Karagdagang Impormasyon
+#### Mga Tuwid na Halaman para sa Lalim
 
-Napakaraming libro ang magagamit tungkol sa pag-aalaga ng hanging baskets kaya mahirap limitahan ang aming mga mungkahi sa kaunting titulo lamang. Makakahanap ka ng marami pa sa mga aklatan at tindahan ng mga libro.
+- Heliotrope
+- Shade coleus
+- Double impatiens
+- Rex begonia
+- Ferns
+- Fuchsia
+- New Guinea impatiens
+- Tuberous begonia
 
-- *Hanging Baskets: A Practical Step-By-Step Guide* ni Jenny Hendy  
-- *Year-Round Containers, Baskets & Boxes* nina Graham Strong at Claire Phoenix  
-- *The Hanging Garden* ni Sue Fisher  
-- *Container and Hanging Gardens* (Ortho Books)  
-- *Gardening in Containers* (Sunset)  
-- *Pots in the Garden* ni Ray Rogers  
+#### Mga Clumping na Halaman para sa Araw
 
-## Master Gardener™ na Payo
+- Bidens
+- Brachycome
+- Diascia
+- Fantasy petunia
+- Fibrous begonia
 
-- Tawagan ang Home Horticulture Helpline: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), o 503-445-4608 (Multnomah County).  
-- Para sa higit pang 10-Minute University™ na mga handout at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+#### Mga Clumping na Halaman para sa Lalim
 
-Oregon State University Extension Service ay nagbabawal ng diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales batay sa lahi, kulay, bansang pinagmulan, relihiyon, kasarian, pagkakakilanlan ng kasarian (kasama ang ekspresyon ng kasarian), oryentasyong sekswal, kapansanan, edad, katayuan sa pag-aasawa, katayuan ng pamilya/pagiging magulang, kita mula sa pampublikong tulong, paniniwalang pampolitika, impormasyon ng genetika, katayuan bilang beterano, paghihiganti o ganting-salakay para sa naunang aktibidad sa karapatang sibil. (Hindi lahat ng ipinagbabawal na base ay naaangkop sa lahat ng programa.)
+- Geranium
+- Nemesia
+- Coleus
+- Polka dot plant
+- Impatiens
+- Upright lobelia
+
+#### Mga Trailing na Halaman para sa Araw
+
+- Anagalis
+- Alyssum
+- Bacopa
+- Creeping Charlie
+- Creeping Jenny
+- Creeping Zinnia
+- Ivy
+- Lamium
+- Licorice plant
+
+#### Mga Trailing na Halaman para sa Lalim
+
+- Lotus vine
+- Million bells
+- Portulaca
+- Scaevola
+- Sweet potato vine
+- Trailing lobelia
+- Trailing petunia
+- Verbena
+- Vinca
+
+### Karagdagang Impormasyon
+
+Napakaraming libro tungkol sa pagtatanim ng hanging baskets kaya mahirap piliin ang ilan lang. Makakahanap ka pa ng marami pa sa mga aklatan at bookstore.
+
+- *Hanging Baskets: A Practical Step-By-Step Guide* ni Jenny Hendy
+- *Year-Round Containers, Baskets & Boxes* nina Graham Strong at Claire Phoenix
+- *The Hanging Garden* ni Sue Fisher
+- *Container and Hanging Gardens* (Ortho Books)
+- *Gardening in Containers* (Sunset)
+- *Pots in the Garden* ni Ray Rogers
+
+#### Master Gardener™ na Payo
+
+- **Tumawag sa Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Para sa iba pang 10-Minute University™ handouts at iskedyul ng klase, bisitahin ang [www.cmastergardeners.org](http://www.cmastergardeners.org)
+
+---
+
+##### Ipinagbabawal ng Oregon State University Extension Service ang diskriminasyon sa lahat ng programa, serbisyo, aktibidad, at materyales nito batay sa lahi, kulay, nasyonalidad, relihiyon, kasarian, pagkakakilanlan sa kasarian (kabilang ang pagpapahayag ng kasarian), sekswal na oryentasyon, kapansanan, edad, katayuang mag-asawa, katayuang pampamilya/magulang, kita mula sa programang pampublikong tulong, paniniwalang pampulitika, impormasyon sa genetika, katayuan bilang beterano, paghihiganti o ganti dahil sa dating aktibidad sa karapatang pantao. (Hindi lahat ng ipinagbabawal na basehan ay naaangkop sa lahat ng programa.)
+---

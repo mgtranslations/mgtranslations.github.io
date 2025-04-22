@@ -1,187 +1,243 @@
-
-### Meilleurs Arbres de Jardin  
-**10-Minute University™**  
-**Association des Maîtres Jardiniers du Comté de Clackamas™**
+#### Université 10 Minutes™ · Association des Maîtres Jardiniers du Comté de Clackamas · En collaboration avec et en soutien au programme Maître Jardinier™ de l’Extension OSU
 
 ---
 
-### Association des Maîtres Jardiniers du Comté de Clackamas™  
-**10-Minute University™**  
-En collaboration et en soutien au programme des Maîtres Jardiniers de l'Extension de l’Université d'État de l'Oregon (OSU)
+## ATTENTION : Le fichier original contient beaucoup d’images et n’a pas pu être entièrement traduit, veuillez également consulter le fichier PDF original [ici](https://clackamascountymastergardeners.org/wp-content/uploads/2022/05/best-garden-trees__.pdf)
+
+# Les Meilleurs Arbres de Jardin
 
 ---
 
-### Objectifs  
-Cette présentation vous aidera à :  
-- Apprendre à placer, planter et entretenir un arbre de jardin pour qu’il prospère  
-- Découvrir d’excellents candidats pour les jardins familiaux du nord-ouest Pacifique  
+## Objectifs
+
+Cette présentation vous aidera à :
+
+- Savoir comment placer, planter et entretenir un arbre de jardin pour qu’il prospère.
+- Découvrir d’excellents arbres adaptés aux jardins familiaux du nord-ouest du Pacifique.
 
 ---
 
-### Ressources  
-**Publication de l’Extension de l’Université d'État de l'Oregon EC1438**  
-[https://catalog.extension.oregonstate.edu/ec1438](https://catalog.extension.oregonstate.edu/ec1438)  
-**Sélectionner, planter et entretenir un nouvel arbre** (Paul Ries, co-auteur)  
+## Ressources
 
-**Experts horticoles**  
-- **Paul Bonine**, Co-propriétaire, XERA Plants, [www.xeraplants.com](https://www.xeraplants.com)  
-- **Nancy Buley**, Directrice marketing, J. Frank Schmidt & Son Co., [www.jfschmidt.com](https://www.jfschmidt.com)  
-- **Jane Hartline**, Propriétaire, Sauvie Island Natives, [https://sauvienatives.com](https://sauvienatives.com)  
-- **Sean Hogan**, Propriétaire, Cistus Design Nursery, [www.cistus.com](https://www.cistus.com)  
-- **Martin Nicholson**, Conservateur, Hoyt Arboretum, [www.hoytarboretum.org](https://www.hoytarboretum.org)  
-- **Richie Steffen**, Directeur exécutif, Elizabeth C. Miller Botanical Garden & Great Plant Picks, [www.greatplantpicks.org](https://www.greatplantpicks.org)  
-
----
-
-### Considérations d’espace pour placer un arbre  
-- Estimer l’espace disponible au-dessus et sous le sol  
-- Estimer la portée future des racines et des branches  
-- Consulter plusieurs sources pour connaître la hauteur et la largeur à maturité  
-  - **Base de données des plantes paysagères de l’OSU** : [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu)  
-  - **The Tree Book**, Michael Dirr & Keith Warren, Timber Press, 2019  
-  - **Trees to Know in Oregon and Washington**, Edward Jensen, Publication de l’Extension de l’OSU EC1450 : [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- Garder à l'esprit que la taille varie selon le sol et l'emplacement  
+- **Publication de l’Extension de l’Université d’État de l’Oregon EC1438**  
+  [Choisir, planter et entretenir un nouvel arbre](https://catalog.extension.oregonstate.edu/ec1438) (Paul Ries, co-auteur)
+- **Six experts horticoles**
+  - Paul Bonine, co-propriétaire, XERA Plants, [www.xeraplants.com](https://www.xeraplants.com)
+  - Nancy Buley, directrice marketing, J. Frank Schmidt & Son Co., [www.jfschmidt.com](https://www.jfschmidt.com)
+  - Jane Hartline, propriétaire, Sauvie Island Natives, [https://sauvienatives.com](https://sauvienatives.com)
+  - Sean Hogan, propriétaire, Cistus Design Nursery, [www.cistus.com](https://www.cistus.com)
+  - Martin Nicholson, conservateur, Hoyt Arboretum, [www.hoytarboretum.org](https://www.hoytarboretum.org)
+  - Richie Steffen, directeur exécutif, Elizabeth C. Miller Botanical Garden & Great Plant Picks, [www.greatplantpicks.org](https://www.greatplantpicks.org)
 
 ---
 
-### Lieux pour voir des arbres  
-- **Hoyt Arboretum**, Portland, OR : [https://hoytarboretum.gardenexplorer.org/](https://hoytarboretum.gardenexplorer.org/)  
-- **Campus de l’Université d'État de l'Oregon**, Corvallis, OR : [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu)  
-- **Rues et parcs de Portland** : [https://www.portland.gov/trees/get-involved/treeinventory](https://www.portland.gov/trees/get-involved/treeinventory)  
-- **Jardin d’exposition de Cistus Nursery**, Sauvie Island, OR  
-- **Iseli Nursery**, Boring, OR  
-- **J Frank Schmidt Arboretum**, Boring, OR  
+## Considérations d’Espace pour la Plantation d’un Arbre
+
+- Estimez l’espace disponible au-dessus et au-dessous du sol.
+- Estimez l’étendue future des racines et des branches.
+- Consultez plusieurs sources pour connaître la hauteur et la largeur à maturité :
+  - [Base de données des plantes paysagères OSU](https://landscapeplants.oregonstate.edu)
+  - *The Tree Book*, Michael Dirr & Keith Warren, Timber Press, 2019
+  - *Trees to Know in Oregon and Washington*, Edward Jensen, Publication OSU Extension EC1450, [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- Gardez à l’esprit que la taille varie selon le sol et l’emplacement.
 
 ---
 
-### Formes d’arbres à maturité  
-La forme des arbres peut changer à maturité.  
-Images disponibles sur : [https://jfschmidt.com](https://jfschmidt.com)
+## Endroits pour Voir des Arbres
+
+- Hoyt Arboretum, Portland, OR  
+  [https://hoytarboretum.gardenexplorer.org](https://hoytarboretum.gardenexplorer.org)
+- Campus de l’Université d’État de l’Oregon, Corvallis, OR  
+  [https://landscapeplants.oregonstate.edu](https://landscapeplants.oregonstate.edu)
+- Rues et parcs de Portland  
+  [https://www.portland.gov/trees/get-involved/treeinventory](https://www.portland.gov/trees/get-involved/treeinventory)
+- Jardin d’exposition de la pépinière Cistus, Sauvie Island, OR
+- Pépinière Iseli, Boring, OR
+- Arboretum J. Frank Schmidt, Boring, OR
 
 ---
 
-### Les racines des arbres attaquent-elles les tuyaux d’égouts ?  
-- Choisir des arbres plus petits si un conflit avec les tuyaux d’égouts est préoccupant  
-- Les grands arbres ont des racines plus étendues. Arbres connus pour leurs racines « agressives » :  
-  - Saule, Frêne, Peuplier, Cottonwood, Sweet Gum, Sycomore, certains Érables (Norvège, Argenté, Boxelder, Rouge)  
-- Les racines vont là où il y a de l’eau et de l’air — elles pénètrent dans les fissures ou les joints faibles des tuyaux d’égouts  
-- Les bordures en béton forcent les racines à aller au-dessus du sol ou plus profondément  
-**Paysagisme et Services publics : Problèmes, Prévention et Sélection de Plantes**  
-[https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf](https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf)  
+## Formes des Arbres à Maturité
+
+La forme d’un arbre peut changer en vieillissant.  
+Images disponibles sur [https://jfschmidt.com](https://jfschmidt.com).
 
 ---
 
-### Problèmes liés aux fils et structures pour placer un arbre  
-**Manuel USDA pour les propriétaires d’arbres** : [www.treeownersmanual.info](http://www.treeownersmanual.info)  
-- Garder les arbres à au moins 90 cm des trottoirs, 4,5 m des bâtiments et autres arbres  
-- Si l’arbre atteint plus de 9 m, le planter à 7,5 m des fils aériens  
-- Les grands arbres de 18 m ou plus doivent être à au moins 10,5 m de la maison pour un bon développement des racines  
+## Les Racines des Arbres Attaquent-elles les Canalisations ?
 
-**International Society of Arboriculture** : [www.isa-arbor.com](http://www.isa-arbor.com)  
-- Les arbres placés à moins de 4,5 m des fils électriques ne doivent pas dépasser 6 m de haut à maturité  
+- Choisissez de petits arbres si vous craignez les conflits avec les canalisations.
+- Les grands arbres ont des racines plus étendues ; les arbres connus pour avoir des racines « agressives » incluent :
+  - Saule, Frêne, Peuplier, Peuplier deltoïde, Liquidambar, Platane, certains érables (Norvège, argenté, negundo, rouge).
+- Les racines vont là où il y a de l’eau et de l’air, en pénétrant les fissures ou les joints faibles des canalisations.
+- Les bordures en béton obligent les racines à aller en surface ou plus en profondeur.
 
----
-
-### Questions de sol et d’eau pour placer un arbre  
-- Les racines ont besoin d’air et d’eau  
-- Un sol sain permet à l’air et à l’eau de circuler, un sol compacté non  
-- Placer les arbres là où les racines ne seront pas couvertes par du trottoir ou du béton  
-- Avoir une source d’irrigation  
-- Arroser la zone racinaire pendant l’établissement (les 3 premières années)  
-- Certains arbres matures ont besoin d’eau pendant les périodes de sécheresse  
-- Les besoins en eau de la pelouse et de l’arbre diffèrent souvent  
-- Certains arbres, comme le cyprès et les chênes indigènes, n’aiment pas l’eau en été  
+**Ressource :**  
+[Aménagement paysager et services publics : problèmes, prévention et choix des plantes](https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS0991.pdf)
 
 ---
 
-### Utiliser les arbres comme brise-vent ou pour l’ombre  
-- Envisager d’utiliser des conifères ou des feuillus persistants pour bloquer le vent dominant  
-- Utiliser les canopées des arbres pour ombrager le soleil d’été  
-- Utiliser un arbre à feuilles caduques pour l’ombre estivale si vous souhaitez que la lumière traverse en hiver  
+## Problèmes de Fils & de Structures pour la Plantation d’un Arbre
+
+- **Manuel du propriétaire d’arbres USDA** : [www.treeownersmanual.info](https://www.treeownersmanual.info)
+  - Plantez les arbres à au moins 1 mètre des trottoirs, 4,5 mètres des bâtiments et autres arbres.
+  - Si l’arbre dépassera 9 mètres de haut, plantez-le à 7,5 mètres des fils aériens.
+  - Les arbres très hauts (plus de 18 mètres) doivent être plantés à au moins 10,5 mètres de la maison pour un bon développement des racines.
+- **Société Internationale d’Arboriculture** : [www.isa-arbor.com](https://www.isa-arbor.com)
+  - Les arbres placés à moins de 4,5 mètres des fils électriques ne doivent pas dépasser 6 mètres à maturité.
 
 ---
 
-### Meilleurs petits arbres  
-#### Feuillus  
-- **Érable du Japon à feuilles de fougère**  
-- **Chionanthus de Chine**  
-- **Pommetier Sparkling Sprite®**  
-- **Parrotie de Perse**  
-- **Lagerstroemia**  
-- **Ginkgo Gold Spire™**  
-- **Érable grimpant (natif d’OR)**  
-- **Cascara (natif d’OR)**  
-- **Pommetier occidental (natif d’OR)**  
+## Sol & Eau : Questions à Considérer pour Planter un Arbre
 
-#### Persistants  
-- **Laurier d’orange**  
-- **Néflier**  
-- **Magnolia ‘Largess’**  
-- **Hoheria de Nouvelle-Zélande**  
-- **Sapin noble ‘Rick’s Foxtail’**  
+- Les racines ont besoin d’air et d’eau.
+- Un sol sain permet la circulation de l’air et de l’eau ; un sol compacté non.
+- Placez les arbres là où les racines ne seront pas recouvertes de béton ou d’asphalte.
+- Prévoyez une source d’irrigation.
+- Arrosez la zone racinaire pendant l’établissement (les 3 premières années).
+- Certains arbres matures ont besoin d’eau en période de sécheresse.
+- La pelouse et l’arbre n’ont presque jamais les mêmes besoins en eau.
+- Certains arbres, comme le cyprès et les chênes indigènes, n’aiment pas l’eau en été.
 
 ---
 
-### Meilleurs arbres pour brise-vent ou pour l’ombre  
-#### Brise-vent  
-- **Cèdre d’encens (natif d’OR)**  
+## Utiliser les Arbres comme Brise-Vent ou pour l’Ombre
 
-#### Ombre persistante  
-- **Chêne à feuilles argentées**  
-
-#### Ombre caduque  
-- **Chitalpa ‘Pink Dawn’**  
-- **Érable Redpoint®**  
-- **Nyssa sylvatica Firestarter®**  
-- **Cerisier Pink Flair®**  
-- **Zelkova City Sprite®**  
-- **Stewartia japonais**  
+- Pensez à utiliser des conifères ou des arbres à feuilles persistantes pour bloquer le vent dominant.
+- Utilisez les houppiers pour faire de l’ombre en été.
+- Utilisez un arbre à feuilles caduques pour l’ombre estivale si vous souhaitez laisser passer la lumière en hiver.
 
 ---
 
-### Meilleurs arbres pour sites ensoleillés et secs  
-#### Natif de l’Oregon  
-- **Lilas de Californie**  
-- **Cyprès de Macnab**  
-- **Chêne vert canyon**  
-- **Chêne blanc de l’Oregon**  
+## Meilleurs Petits Arbres
 
-#### Non-natifs  
-- **Chêne-liège**  
-- **Chêne des Channel Islands**  
-- **Olivier**  
-- **Eucalyptus de Jounama**  
+### Feuillus
 
----
+- Érable du Japon à feuilles de fougère
+- Arbre à franges de Chine
+- Pommier d’ornement Sparkling Sprite®
+- Parrotie de Perse
+- Lagerstroemia (Lilas des Indes)
+- Ginkgo Gold Spire™
+- Érable à feuilles de vigne (originaire de l’OR)
+- Cascara (originaire de l’OR)
+- Pommier sauvage de l’Ouest (originaire de l’OR)
 
-### Acheter un arbre : Plus grand ≠ Plus rapide  
-- Les arbres transplantés grandissent lentement pendant plusieurs années jusqu’à ce que leurs racines atteignent la taille d’un arbre non transplanté  
-- Les arbres transplantés plus petits reprennent leur croissance plus rapidement  
-**Influence de la taille de l’arbre sur l’établissement et la croissance**  
-[https://journals.ashs.org/horttech/view/journals/horttech/15/1/article-p118.xml](https://journals.ashs.org/horttech/view/journals/horttech/15/1/article-p118.xml)  
+### Persistants
 
----
-
-### Conseils pour la plantation  
-- **Ne pas planter trop profondément**  
-  - Vérifier que le collet est au-dessus du niveau du sol  
-
-- **Tuteur uniquement si nécessaire**  
-  - Utiliser des matériaux qui n’endommageront pas l’écorce  
-  - Ne pas laisser le tuteur plus d’un an  
-
-- **Arroser généreusement**  
-  - Pendant l’établissement, fournir 2 gallons par pouce de diamètre de tronc par semaine  
-
-- **Utiliser du paillis**  
-  - Utiliser des copeaux de bois frais, pas compostés  
+- Oranger du Mexique
+- Néflier du Japon
+- Magnolia ‘Largess’
+- Houx de Nouvelle-Zélande
+- Sapin noble ‘Rick’s Foxtail’
 
 ---
 
-### Ressources supplémentaires  
-- **Sélectionner, planter et entretenir un nouvel arbre**, OSU Extension Publication EC1438 : [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)  
-- **The Tree Book**, Michael A. Dirr & Keith S. Warren, Timber Press, 2019  
-- **Trees to Know in Oregon and Washington**, Edward C. Jensen, OSU Extension Service, EC1450  
-- **i-Tree** : [https://www.itreetools.org/](https://www.itreetools.org/)  
+## Meilleurs Arbres Brise-Vent ou d’Ombre
 
+### Brise-vent
+
+- Cèdre à encens (originaire de l’OR)
+
+### Arbre d’Ombre à Feuillage Persistant
+
+- Chêne à feuilles argentées
+
+### Arbre d’Ombre à Feuillage Caduc
+
+- Chitalpa ‘Pink Dawn’
+- Érable Redpoint®
+- Nyssa Firestarter®
+- Cerisier Pink Flair®
+- Zelkova City Sprite®
+- Stewartia du Japon
+
+---
+
+## Meilleurs Arbres pour Emplacements Ensoleillés et Secs
+
+### Originaires de l’Oregon
+
+- Lilas de Californie
+- Cyprès de Macnab
+- Chêne vert canyon
+- Chêne blanc d’Oregon
+
+### Non-originaires
+
+- Chêne-liège
+- Chêne des Channel Islands
+- Olivier
+- Eucalyptus Jounama
+
+---
+
+## Acheter un Arbre : Plus Grand ≠ Plus Rapide
+
+- La croissance normale reprend quand un arbre transplanté retrouve un rapport pousses/racines comparable à celui d’un arbre non transplanté.
+- Les petits arbres transplantés reprennent leur croissance plus vite.
+- Les grands arbres transplantés mettent beaucoup plus de temps.
+- Après la transplantation, la croissance des arbres est lente pendant plusieurs années, le temps que les racines atteignent la taille de celles d’un arbre non transplanté.
+
+**Ressource :**  
+[Influence de la taille de l’arbre sur l’établissement et la croissance après transplantation](https://journals.ashs.org/horttech/view/journals/horttech/15/1/article-p118.xml)
+
+---
+
+## Conseils de Plantation
+
+### Ne Plantez Pas Trop Profond
+
+- Assurez-vous que le collet racinaire soit au-dessus du niveau du sol.
+
+### Tuteurez Uniquement Si Nécessaire
+
+- Plante lourde en tête ou emplacement venteux.
+- Plantez les tuteurs avant la plantation pour éviter d’abîmer les racines.
+- Attachez bas (dans le tiers inférieur du tronc), assez lâche pour permettre un peu de mouvement.
+- Utilisez des matériaux qui ne blessent pas l’écorce.
+- Gardez les tuteurs moins d’un an.
+
+### Arrosez Bien
+
+- Arrosez fréquemment si vous plantez en saison chaude.
+- Une plantation à l’automne demande moins d’arrosage supplémentaire.
+- Hydratez avant le gel.
+- Les conifères à feuillage persistant utilisent de l’eau même en hiver.
+- Arrosez la zone racinaire pendant l’établissement (3 premières années).
+- Par semaine, 8 litres d’eau par pouce (2,5 cm) de diamètre du tronc.
+- Les racines s’étendent au-delà de la ramure.
+- Humidifiez la zone racinaire avec un filet d’eau lent :
+  - Goutte-à-goutte / tuyau microporeux OU
+  - Percez des trous dans le fond d’un seau de 20 litres, placez-le sur la zone racinaire, et remplissez-le.
+
+### Utilisez du Paillis
+
+- 10 cm de copeaux de bois d’arboriste sur le sol (des études montrent que jusqu’à 30 cm sont acceptables).
+- Frais est mieux que composté — favorise les champignons et enrichit la vie microbiologique du sol.
+- Ne mélangez pas au sol.
+- Recouvrez toute la zone racinaire, en effilant vers le tronc.
+
+**Ressources :**
+
+- [Copeaux de bois gratuits](https://portlandgeneral.com/outages-safety/safety/tree-maintenance/free-wood-chips)
+- [Utiliser des copeaux de bois d’arboriste comme paillis de paysage](https://pubs.extension.wsu.edu/search?q=FS160E)
+
+---
+
+## Ressources Supplémentaires
+
+- *Sélection, plantation et entretien d’un nouvel arbre*, Publication Extension OSU EC1438, téléchargement gratuit sur [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu)
+- *The Sibley Guide to Trees*, David Allen Sibley, Knopf, 2009
+- *The Tree Book: Superior Selections for Landscapes, Streetscapes, and Gardens*, Michael A. Dirr & Keith S. Warren, Timber Press, 2019
+- *Trees to Know in Oregon and Washington*, Edward C. Jensen, Oregon State University Extension Service, EC1450
+- [i-Tree](https://www.itreetools.org/)
+
+---
+
+#### Conseils Maître Jardinier™ · Appelez la ligne d’assistance horticole à domicile : 503-655-8631 (Comté de Clackamas) · 503-821-1150 (Comté de Washington) · 503-445-4608 (Comté de Multnomah) · Pour d’autres fiches et horaires de l’Université 10 Minutes™, visitez [www.cmastergardeners.org](https://www.cmastergardeners.org)
+
+---
+
+##### L’Extension de l’Université d’État de l’Oregon interdit toute discrimination dans tous ses programmes, services, activités et documents sur la base de la race, couleur, origine nationale, religion, sexe, identité de genre (y compris l’expression du genre), orientation sexuelle, handicap, âge, statut matrimonial, statut familial/parental, revenus provenant d’un programme d’assistance publique, opinions politiques, informations génétiques, statut d’ancien combattant, représailles ou mesures de rétorsion suite à une activité antérieure liée aux droits civiques. (Toutes les bases interdites ne s’appliquent pas à tous les programmes.)
 ---

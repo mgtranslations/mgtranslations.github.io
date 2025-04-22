@@ -1,124 +1,114 @@
-# Những Loài Hoa Tốt Nhất Cho Ong --- Được Chứng Minh Qua Nghiên Cứu Làm Vườn
+#### Đại học 10 Phút™ · Hiệp hội Làm vườn Chuyên nghiệp Quận Clackamas · Hợp tác và hỗ trợ Chương trình Làm vườn Chuyên nghiệp OSU Extension Master Gardener™
 
-Danh sách này bao gồm các loại cây đã được Tiến sĩ Gordon Frankie, Đại học California, và các đồng nghiệp chứng minh là tốt nhất để thu hút ong. Các loài cây bản địa Oregon thu hút ong bản địa dựa trên nghiên cứu của Aaron Anderson, Phòng Thí Nghiệm Sinh Thái Vườn của Đại học Bang Oregon. Nguồn: California Bees & Blooms của Frankie và cộng sự, blogs.oregonstate.edu/gardenecologylab.
+# Những Loài Hoa Tốt Nhất Cho Ong — Được Chứng Minh Bởi Nghiên Cứu Làm Vườn
 
-## Phân Loại Theo Loại Cây
+Danh sách này bao gồm các loại cây đã được Tiến sĩ Gordon Frankie, Đại học California, và các đồng nghiệp chứng minh là thu hút ong tốt nhất[^1]. Các cây bản địa Oregon thu hút ong bản địa dựa trên nghiên cứu của Aaron Anderson, Phòng Thí nghiệm Sinh thái Vườn Đại học Bang Oregon[^2]. Nguồn: *California Bees & Blooms* của Frankie và các cộng sự, và blogs.oregonstate.edu/gardenecologylab/[^3].
 
-### Cây/ Cây Bụi
+## Sắp Xếp Theo Loại Cây
 
-| Tên Thường Gọi     | Tên Khoa Học                             | Thức Ăn Của Ong | Thời Gian Nở Hoa        | Ghi Chú                                                                                 |
-| :----------------- | :-------------------------------------- | :-------------- | :---------------------- | :------------------------------------------------------------------------------------- |
-| Bluebeard          | Caryopteris species                    | mật hoa         | giữa hè, đầu thu        | Caryopteris bao gồm các giống hoa màu xanh đến tím và lá màu xanh đến vàng            |
-| California Lilac   | Ceanothus 'Dark Star', 'Julia Phelps'  | phấn hoa        | mùa xuân, đầu hè        | Bụi cây cỡ vừa đến lớn với hoa màu xanh                                              |
-| Chaste Tree        | Vitex agnus-castus                     | phấn hoa & mật hoa | mùa hè, đầu thu        | Nhiều màu hoa để lựa chọn                                                              |
-| Manzanita          | Arctostaphylos densiflora 'Sentinel'   | phấn hoa & mật hoa | cuối đông, đầu xuân    | Các loài Arctostaphylos đặc biệt là A. densiflora 'Howard McMinn' & A. densiflora 'Sentinel' |
-| Rosemary           | Rosemarinus officinalis                | chủ yếu mật hoa | mùa hè                  | Nhiều kích thước, kiểu dáng cây, màu hoa và thời gian nở hoa                          |
+### Cây Thân Gỗ/Bụi
 
-### Cây Lâu Năm
+| Tên Thường Gọi     | Tên Khoa Học                                | Thức Ăn Cho Ong   | Thời Gian Ra Hoa           | Ghi Chú                                                                                                 |
+| :----------------- | :------------------------------------------ | :---------------- | :------------------------- | :------------------------------------------------------------------------------------------------------ |
+| Bluebeard (Cỏ Râu Xanh) | *Caryopteris* các loài                     | mật hoa           | giữa hè, đầu thu           | Bao gồm các giống hoa màu xanh đến tím và lá màu xanh đến vàng[^4].                                     |
+| California Lilac (Tử Đinh Hương California) | *Ceanothus* 'Dark Star', 'Julia Phelps'   | phấn hoa           | mùa xuân, đầu mùa hè        | Bụi vừa đến lớn, hoa màu xanh[^4].                                                                      |
+| Chaste Tree (Cây Khiết Thể) | *Vitex agnus-castus*                      | phấn hoa & mật hoa| mùa hè, đầu thu            | Có nhiều màu hoa để lựa chọn[^4].                                                                       |
+| Manzanita (Dâu Manzanita) | *Arctostaphylos densiflora* 'Sentinel'    | phấn hoa & mật hoa| cuối đông, đầu xuân         | Bao gồm *A. densiflora* 'Howard McMinn' & 'Sentinel'[^4].                                               |
+| Rosemary (Hương Thảo) | *Rosemarinus officinalis*                 | chủ yếu mật hoa    | mùa hè                     | Nhiều kích cỡ, dáng cây, màu hoa và thời gian ra hoa[^4].                                               |
 
-| Tên Thường Gọi        | Tên Khoa Học                    | Thức Ăn Của Ong | Thời Gian Nở Hoa       | Ghi Chú                                                                                 |
-| :-------------------- | :----------------------------- | :-------------- | :--------------------- | :------------------------------------------------------------------------------------- |
-| Aster                | Aster x frikartii              | phấn hoa & mật hoa | mùa hè, đầu thu        | Cũng có Aster chilensis                                                                |
-| Baby Sage            | Salvia microphylla 'Hotlips'   | phấn hoa & mật hoa | mùa hè, mùa thu        | Các loại Salvia khác cũng thu hút ong                                                  |
-| Black-eyed Susan     | Rudbeckia hirta                | phấn hoa & mật hoa | mùa hè                 | Loại có hoa lớn nhất, cánh hoa vàng đậm nhất và tâm tối nhất là thu hút ong nhất       |
-| Blanket Flower       | Gaillardia x grandiflora       | phấn hoa & mật hoa | mùa hè, đầu thu        |                                                                                         |
-| Bog Sage             | Salvia uliginosa               | phấn hoa & mật hoa | mùa hè, mùa thu        | Thích độ ẩm                                                                           |
-| Cat Mint             | Nepeta x faassenii             | mật hoa         | mùa xuân, mùa hè       | Màu hoa thay đổi (trắng, xanh, tím) tùy loại                                          |
-| Foothill Penstemon   | Penstemon heterophyllus        | phấn hoa & mật hoa | mùa hè                 | Các loại Penstemon khác cũng thu hút ong                                               |
-| Globe Mallow         | Sphaeralcea ambiqua            | phấn hoa        | mùa hè, mùa thu        |                                                                                         |
-| Goldenrod            | Solidago californica           | phấn hoa & mật hoa | mùa hè, đầu thu        |                                                                                         |
-| Hyssop               | Agastache rugosa 'Golden Jubilee' | mật hoa         | mùa hè                 | Các loài Agastache đặc biệt là A. rugosa, A. foeniculum                                |
-| Lamb's Ear           | Stachys byzantina              | chủ yếu mật hoa | cuối xuân đến mùa hè   | Lá xám mịn được ong thợ dùng để lót tổ                                                |
-| Largeflower Tickseed | Coreopsis grandiflora          | phấn hoa & mật hoa | mùa hè                 | Chọn loại hoa lớn và đơn giản, không chọn loại nhiều lớp cánh hoa                      |
-| Lavender             | Lavendula species              | mật hoa         | cuối xuân đến đầu thu  | Nhiều loài, mỗi loài có thời gian và màu sắc nở hoa khác nhau                         |
-| Lesser Calamint      | Calamintha nepeta              | mật hoa         | mùa hè, đầu thu        |                                                                                         |
-| Oregano, Marjoram    | Origanum species               | mật hoa         | mùa hè, đầu thu        | Màu hoa thay đổi, hồng và tím là phổ biến, trắng thì thỉnh thoảng                     |
-| Pincushion Flower    | Scabiosa atropurpurea          | phấn hoa & mật hoa | mùa hè                 | Màu hoa từ trắng đến hồng, hồng đậm đến tím                                          |
-| Purple Toadflax      | Linaria purpurea               | mật hoa         | mùa xuân đến đầu thu   |                                                                                         |
-| Russian Sage         | Perovskia atriplicifolia       | mật hoa         | mùa hè đến đầu thu     | Sau khi ổn định không cần tưới vào mùa hè                                             |
-| Sea Holly            | Eryngium species               | mật hoa         | mùa hè                 |                                                                                         |
-| Seaside Daisy        | Erigeron glaucus               | phấn hoa & mật hoa | mùa xuân đến đầu thu  |                                                                                         |
-| Sneezeweed           | Helenium 'Mardi Gras'          | phấn hoa & mật hoa | mùa hè đến đầu thu     | Thích nước mùa hè để kéo dài thời gian nở hoa                                         |
-| Sunflower (lâu năm)  | Helianthus 'Lemon Queen'       | phấn hoa & mật hoa | mùa hè đến đầu thu     | Hoa hướng dương hàng năm cũng là hoa tốt cho ong                                      |
+### Cây Thân Thảo Lâu Năm
+
+| Tên Thường Gọi         | Tên Khoa Học                     | Thức Ăn Cho Ong   | Thời Gian Ra Hoa           | Ghi Chú                                                                                                    |
+| :--------------------- | :------------------------------- | :---------------- | :------------------------- | :--------------------------------------------------------------------------------------------------------- |
+| Aster (Cúc Thạch Thảo) | *Aster x frikartii*              | phấn hoa & mật hoa| mùa hè, đầu thu            | Bao gồm cả *Aster chilensis*[^6].                                                                         |
+| Baby Sage (Xô Thơm Nhỏ) | *Salvia microphylla* 'Hotlips'   | phấn hoa & mật hoa| mùa hè, mùa thu            | Các giống *Salvia* khác cũng thu hút ong[^6].                                                             |
+| Black-eyed Susan (Hướng Dương Mắt Đen) | *Rudbeckia hirta*               | phấn hoa & mật hoa| mùa hè                     | Các giống có hoa lớn nhất, cánh vàng đậm nhất, tâm hoa tối nhất thu hút ong nhiều nhất[^6].                |
+| Blanket Flower (Hoa Mền) | *Gaillardia x grandiflora*      | phấn hoa & mật hoa| mùa hè, đầu thu            |                                                                                                            |
+| Bog Sage (Xô Thơm Đầm Lầy) | *Salvia uliginosa*              | phấn hoa & mật hoa| mùa hè, mùa thu            | Ưa đất ẩm[^6].                                                                                            |
+| Cat Mint (Cỏ Mèo)      | *Nepeta x faassenii*              | mật hoa           | mùa xuân, mùa hè           | Màu hoa thay đổi theo giống (trắng, xanh, tím)[^6].                                                       |
+| Foothill Penstemon (Địa Lan Penstemon) | *Penstemon heterophyllus*       | phấn hoa & mật hoa| mùa hè                     | Các loài *Penstemon* khác cũng thu hút ong[^6].                                                           |
+| Globe Mallow (Cẩm Quỳ Cầu) | *Sphaeralcea ambiqua*           | phấn hoa          | mùa hè, mùa thu            | [^6]                                                                                                       |
+| Goldenrod (Cây Kim Tiền) | *Solidago californica*          | phấn hoa & mật hoa| mùa hè, đầu thu            | [^6]                                                                                                       |
+| Hyssop (Tía Tô Đất)    | *Agastache rugosa* 'Golden Jubilee'| mật hoa          | mùa hè                     | Bao gồm *A. rugosa* và *A. foeniculum*[^7].                                                               |
+| Lamb's Ear (Tai Cừu)   | *Stachys byzantina*               | chủ yếu mật hoa    | cuối xuân, mùa hè          | Lá xám mịn được ong thợ sử dụng để lót tổ[^7].                                                            |
+| Largeflower Tickseed (Cúc Lớn) | *Coreopsis grandiflora*         | phấn hoa & mật hoa| mùa hè                     | Chọn các giống hoa to, đơn giản, tránh các giống cánh kép[^7].                                            |
+| Lavender (Oải Hương)   | *Lavendula* các loài               | mật hoa           | cuối xuân đến đầu thu      | Nhiều loài, mỗi loài có thời gian và màu hoa khác nhau[^7].                                               |
+| Lesser Calamint (Húng Quế Nhỏ) | *Calamintha nepeta*             | mật hoa           | mùa hè, đầu thu            | [^7]                                                                                                       |
+| Oregano, Marjoram (Kinh Giới, Kinh Giới Tây) | *Origanum* các loài          | mật hoa           | mùa hè, đầu thu            | Màu hoa đa dạng, phổ biến là hồng và tím, đôi khi có trắng[^7].                                           |
+| Pincushion Flower (Hoa Kim Ghim) | *Scabiosa atropurpurea*         | phấn hoa & mật hoa| mùa hè                     | Màu hoa từ trắng đến hồng, hồng đậm đến tím[^7].                                                          |
+| Purple Toadflax (Cỏ Linaria Tím) | *Linaria purpurea*              | mật hoa           | mùa xuân đến đầu thu       | [^7]                                                                                                       |
+| Russian Sage (Xô Thơm Nga) | *Perovskia atriplicifolia*      | mật hoa           | mùa hè đến đầu thu         | Khi đã ổn định, không cần tưới nước mùa hè[^7].                                                           |
+| Sea Holly (Cẩm Quỳ Biển) | *Eryngium* các loài               | mật hoa           | mùa hè                     | [^7]                                                                                                       |
+| Seaside Daisy (Cúc Biển) | *Erigeron glaucus*                 | phấn hoa & mật hoa| mùa xuân đến đầu thu       | [^7]                                                                                                       |
+| Sneezeweed (Cúc Hắt Xì) | *Helenium* 'Mardi Gras'           | phấn hoa & mật hoa| mùa hè đến đầu thu         | Ưa tưới nước mùa hè để hoa lâu tàn[^7].                                                                   |
+| Sunflower (perennial) (Hướng Dương Lâu Năm) | *Helianthus* 'Lemon Queen'      | phấn hoa & mật hoa| mùa hè đến đầu thu         | Hướng dương hàng năm cũng là hoa tốt cho ong[^7].                                                         |
 
 ### Cây Hàng Năm
 
-| Tên Thường Gọi | Tên Khoa Học        | Thức Ăn Của Ong | Thời Gian Nở Hoa       | Ghi Chú                              |
-| :------------- | :----------------- | :-------------- | :--------------------- | :----------------------------------- |
-| Bidens         | Bidens ferulifolia | phấn hoa & mật hoa | cuối xuân đến đầu thu | Không chịu được khí hậu thung lũng Willamette |
-| Cosmos         | Cosmos bipinnatus  | phấn hoa & mật hoa | mùa hè đến đầu thu    | Hoa có thể giống hoa cúc hoặc dạng bát |
-| Phacelia       | Phacelia species   | phấn hoa & mật hoa | mùa xuân              | Cây tốt cho ong nhưng không được coi là 'đáng trồng trong vườn' |
+| Tên Thường Gọi | Tên Khoa Học           | Thức Ăn Cho Ong   | Thời Gian Ra Hoa           | Ghi Chú                                   |
+| :------------- | :--------------------- | :---------------- | :------------------------- | :---------------------------------------- |
+| Bidens         | *Bidens ferulifolia*   | phấn hoa & mật hoa| cuối xuân đến đầu thu      | Không chịu lạnh ở Thung lũng Willamette[^9].|
+| Cosmos         | *Cosmos bipinnatus*    | phấn hoa & mật hoa| mùa hè đến đầu thu         | Hoa có thể giống cúc hoặc dạng bát[^9].    |
+| Phacelia       | *Phacelia* các loài    | phấn hoa & mật hoa| mùa xuân                   | Rất tốt cho ong nhưng không phải là cây "đẹp vườn"[^9]. |
 
 ### Cây Bản Địa Oregon
 
-| Tên Thường Gọi       | Tên Khoa Học             | Thức Ăn Của Ong | Thời Gian Nở Hoa       | Ghi Chú               |
-| :------------------- | :---------------------- | :-------------- | :--------------------- | :-------------------- |
-| California Poppy     | Eschscholzia california | phấn hoa        | mùa xuân đến đầu thu   | Hàng năm              |
-| Clarkia              | Clarkia amoena          | phấn hoa        | mùa hè                 | Hàng năm              |
-| Douglas Aster        | Aster subspicatus       | phấn hoa & mật hoa | mùa hè, mùa thu       | Lâu năm              |
-| Globe Gilia          | Gillia capitata         | phấn hoa & mật hoa | cuối xuân, đầu hè     | Hàng năm              |
-| Goldenrod            | Solidago canadensis     | phấn hoa & mật hoa | mùa hè, đầu thu       | Lâu năm              |
-| Varied-leaf Phacelia | Phacelia heterophylla   | phấn hoa & mật hoa | mùa xuân              | Hàng năm              |
+| Tên Thường Gọi         | Tên Khoa Học                 | Thức Ăn Cho Ong   | Thời Gian Ra Hoa           | Ghi Chú                |
+| :--------------------- | :--------------------------- | :---------------- | :------------------------- | :--------------------- |
+| California Poppy (Anh Túc California) | *Eschscholzia californica* | phấn hoa           | mùa xuân đến đầu thu      | Hàng năm[^11].         |
+| Clarkia                | *Clarkia amoena*             | phấn hoa           | mùa hè                     | Hàng năm[^11].         |
+| Douglas Aster (Cúc Douglas) | *Aster subspicatus*         | phấn hoa & mật hoa| mùa hè, mùa thu            | Lâu năm[^11].          |
+| Globe Gilia (Cẩm Quỳ Cầu) | *Gillia capitata*             | phấn hoa & mật hoa| cuối xuân, đầu hè          | Hàng năm[^11].         |
+| Goldenrod (Cây Kim Tiền) | *Solidago canadensis*         | phấn hoa & mật hoa| mùa hè, đầu thu            | Lâu năm[^11].          |
+| Varied-leaf Phacelia (Phacelia Lá Đa Dạng) | *Phacelia heterophylla*      | phấn hoa & mật hoa| mùa xuân                   | Hàng năm[^11].         |
 
-## Phân Loại Theo Lý Do Thu Hút Ong
+## Sắp Xếp Theo Lý Do Thu Hút Ong
 
-### Hoa Màu Xanh/ Tím
+### Hoa Màu Xanh/Tím
 
-| Tên Thường Gọi     | Tên Khoa Học                 | Thức Ăn Của Ong | Thời Gian Nở Hoa            | Ghi Chú                                                                                 |
-| :----------------- | :-------------------------- | :-------------- | :-------------------------- | :------------------------------------------------------------------------------------- |
-| Bluebeard          | Caryopteris species         | mật hoa         | giữa hè, đầu thu            | Caryopteris bao gồm các giống hoa màu xanh đến tím và lá màu xanh đến vàng            |
-| Bog Sage           | Salvia uliginosa            | phấn hoa & mật hoa | mùa hè, mùa thu            | Thích độ ẩm                                                                           |
-| California Lilac   | Ceanothus 'Dark Star', 'Julia Phelps' | phấn hoa        | mùa xuân, đầu hè            | Bụi cây cỡ vừa đến lớn với hoa màu xanh                                              |
-| Cat Mint           | Nepeta x faassenii          | mật hoa         | mùa xuân, mùa hè           | Màu hoa thay đổi (trắng, xanh, tím) tùy loại                                          |
-| Globe Gilia        | Gillia capitata             | phấn hoa & mật hoa | cuối xuân, đầu hè          | Bản địa Oregon. Hàng năm.                                                             |
-| Lavender           | Lavendula species           | mật hoa         | cuối xuân, mùa hè, đầu thu | Nhiều loài, mỗi loài có thời gian và màu sắc nở hoa khác nhau                         |
-| Purple Toadflax    | Linaria purpurea            | mật hoa         | mùa xuân, mùa hè, đầu thu |                                                                                         |
-| Russian Sage       | Perovskia atriplicifolia    | mật hoa         | mùa hè, đầu thu            | Sau khi ổn định không cần tưới vào mùa hè                                             |
-| Sea Holly          | Eryngium species            | mật hoa         | mùa hè                     |                                                                                         |
+| Tên Thường Gọi     | Tên Khoa Học                                | Thức Ăn Cho Ong   | Thời Gian Ra Hoa           | Ghi Chú                                                                                                |
+| :----------------- | :------------------------------------------ | :---------------- | :------------------------- | :----------------------------------------------------------------------------------------------------- |
+| Bluebeard (Cỏ Râu Xanh) | *Caryopteris* các loài                     | mật hoa           | giữa hè, đầu thu           | Bao gồm các giống hoa màu xanh đến tím và lá màu xanh đến vàng[^13].                                   |
+| Bog Sage (Xô Thơm Đầm Lầy) | *Salvia uliginosa*                      | phấn hoa & mật hoa| mùa hè, mùa thu            | Ưa đất ẩm[^13].                                                                                        |
+| California Lilac (Tử Đinh Hương California) | *Ceanothus* 'Dark Star', 'Julia Phelps' | phấn hoa           | mùa xuân, đầu hè           | Bụi vừa đến lớn, hoa màu xanh[^13].                                                                    |
+| Cat Mint (Cỏ Mèo)      | *Nepeta x faassenii*                        | mật hoa           | mùa xuân, mùa hè           | Màu hoa thay đổi theo giống (trắng, xanh, tím)[^13].                                                   |
+| Globe Gilia (Cẩm Quỳ Cầu) | *Gillia capitata*                         | phấn hoa & mật hoa| cuối xuân, đầu hè          | Bản địa Oregon. Hàng năm[^13].                                                                         |
+| Lavender (Oải Hương)   | *Lavendula* các loài                        | mật hoa           | cuối xuân, hè, đầu thu     | Nhiều loài, mỗi loài có thời gian và màu hoa khác nhau[^13].                                           |
+| Purple Toadflax (Cỏ Linaria Tím) | *Linaria purpurea*                        | mật hoa           | mùa xuân, hè, đầu thu      | [^13].                                                                                                 |
+| Russian Sage (Xô Thơm Nga) | *Perovskia atriplicifolia*                | mật hoa           | mùa hè, đầu thu            | Khi đã ổn định, không cần tưới nước mùa hè[^13].                                                       |
+| Sea Holly (Cẩm Quỳ Biển) | *Eryngium* các loài                         | mật hoa           | mùa hè                     | [^13].                                                                                                 |
 
-### Dạng Hoa Mở
+### Hoa Dạng Bàn Mở (Open Platform)
 
-| Tên Thường Gọi        | Tên Khoa Học             | Thức Ăn Của Ong | Thời Gian Nở Hoa            | Ghi Chú                                                                                 |
-| :-------------------- | :---------------------- | :-------------- | :-------------------------- | :------------------------------------------------------------------------------------- |
-| Aster                | Aster x frikartii       | phấn hoa & mật hoa | mùa hè, đầu thu            | Cũng tốt là Aster chilensis                                                             |
-| Bidens               | Bidens ferulifolia      | phấn hoa & mật hoa | cuối xuân, mùa hè, đầu thu | Không chịu được khí hậu thung lũng Willamette                                          |
-| Black-eyed Susan     | Rudbeckia hirta         | phấn hoa & mật hoa | mùa hè                     | Loại có hoa lớn nhất, cánh hoa vàng đậm nhất và tâm tối nhất là thu hút ong nhất       |
-| Blanket Flower       | Gaillardia x grandiflora | phấn hoa & mật hoa | mùa hè, đầu thu            |                                                                                         |
-| Cosmos               | Cosmos bipinnatus       | phấn hoa & mật hoa | mùa hè, đầu thu            | Hoa có thể giống hoa cúc hoặc dạng bát                                                 |
-| Douglas Aster        | Aster subspicatus       | phấn hoa & mật hoa | mùa hè, mùa thu            | Bản địa Oregon. Lâu năm.                                                               |
-| Goldenrod            | Solidago californica    | phấn hoa & mật hoa | mùa hè, đầu thu            |                                                                                         |
-| Goldenrod            | Solidago canadensis     | phấn hoa & mật hoa | mùa hè, đầu thu            | Bản địa Oregon                                                                         |
-| Largeflower Tickseed | Coreopsis grandiflora   | phấn hoa & mật hoa | mùa hè                     | Chọn loại hoa lớn và đơn giản, không chọn loại nhiều lớp cánh hoa                      |
-| Oregano, Marjoram    | Origanum species        | mật hoa         | mùa hè, đầu thu            | Màu hoa thay đổi, hồng và tím là phổ biến                                              |
-| Phacelia             | Phacelia species        | phấn hoa & mật hoa | mùa xuân                  | Không được coi là 'đáng trồng trong vườn'                                             |
-| Pincushion Flower    | Scabiosa atropurpurea   | phấn hoa & mật hoa | mùa hè                     | Màu hoa từ trắng đến hồng, hồng đậm đến tím                                           |
-| Seaside Daisy        | Erigeron glaucus        | phấn hoa & mật hoa | mùa xuân, mùa hè, đầu thu |                                                                                         |
-| Sneezeweed           | Helenium 'Mardi Gras'   | phấn hoa & mật hoa | mùa hè, đầu thu            | Thích nước mùa hè để kéo dài thời gian nở hoa                                         |
-| Sunflower (lâu năm)  | Helianthus 'Lemon Queen' | phấn hoa & mật hoa | mùa hè, đầu thu            | Hoa hướng dương hàng năm cũng là hoa tốt cho ong                                      |
-| Varied-leaf Phacelia | Phacelia heterophylla   | phấn hoa & mật hoa | mùa xuân                  | Hàng năm                                                                             |
+| Tên Thường Gọi         | Tên Khoa Học                    | Thức Ăn Cho Ong   | Thời Gian Ra Hoa           | Ghi Chú                                                                                                |
+| :--------------------- | :------------------------------ | :---------------- | :------------------------- | :----------------------------------------------------------------------------------------------------- |
+| Aster (Cúc Thạch Thảo) | *Aster x frikartii*             | phấn hoa & mật hoa| mùa hè, đầu thu            | Bao gồm cả *Aster chilensis*[^15].                                                                     |
+| Bidens                 | *Bidens ferulifolia*            | phấn hoa & mật hoa| cuối xuân, hè, đầu thu     | Không chịu lạnh ở Thung lũng Willamette[^15].                                                          |
+| Black-eyed Susan (Hướng Dương Mắt Đen) | *Rudbeckia hirta*              | phấn hoa & mật hoa| mùa hè                     | Các giống hoa to nhất, cánh vàng đậm nhất, tâm tối nhất thu hút ong nhiều nhất[^15].                   |
+| Blanket Flower (Hoa Mền) | *Gaillardia x grandiflora*     | phấn hoa & mật hoa| mùa hè, đầu thu            | [^15].                                                                                                 |
+| Cosmos                 | *Cosmos bipinnatus*             | phấn hoa & mật hoa| mùa hè, đầu thu            | Hoa có thể giống cúc hoặc dạng bát[^15].                                                               |
+| Douglas Aster (Cúc Douglas) | *Aster subspicatus*              | phấn hoa & mật hoa| mùa hè, mùa thu            | Bản địa Oregon. Lâu năm[^15].                                                                          |
+| Goldenrod (Cây Kim Tiền) | *Solidago californica*         | phấn hoa & mật hoa| mùa hè, đầu thu            | [^15].                                                                                                 |
+| Goldenrod (Cây Kim Tiền) | *Solidago canadensis*          | phấn hoa & mật hoa| mùa hè, đầu thu            | Bản địa Oregon[^15].                                                                                   |
+| Largeflower Tickseed (Cúc Lớn) | *Coreopsis grandiflora*        | phấn hoa & mật hoa| mùa hè                     | Chọn các giống hoa to, đơn giản, tránh các giống cánh kép[^15].                                        |
+| Oregano, Marjoram (Kinh Giới, Kinh Giới Tây) | *Origanum* các loài             | mật hoa           | mùa hè, đầu thu            | Màu hoa đa dạng, hồng và tím là phổ biến[^15].                                                         |
+| Phacelia               | *Phacelia* các loài              | phấn hoa & mật hoa| mùa xuân                   | Không được coi là cây "đẹp vườn"[^15].                                                                 |
+| Pincushion Flower (Hoa Kim Ghim) | *Scabiosa atropurpurea*        | phấn hoa & mật hoa| mùa hè                     | Màu hoa từ trắng đến hồng, hồng đậm đến tím[^16].                                                      |
+| Seaside Daisy (Cúc Biển) | *Erigeron glaucus*               | phấn hoa & mật hoa| mùa xuân, hè, đầu thu      | [^16].                                                                                                 |
+| Sneezeweed (Cúc Hắt Xì) | *Helenium* 'Mardi Gras'         | phấn hoa & mật hoa| mùa hè, đầu thu            | Ưa tưới nước mùa hè để hoa lâu tàn[^16].                                                               |
+| Sunflower (perennial) (Hướng Dương Lâu Năm) | *Helianthus* 'Lemon Queen'     | phấn hoa & mật hoa| mùa hè, đầu thu            | Hướng dương hàng năm cũng là hoa tốt cho ong[^16].                                                     |
+| Varied-leaf Phacelia (Phacelia Lá Đa Dạng) | *Phacelia heterophylla*         | phấn hoa & mật hoa| mùa xuân                   | Hàng năm[^16].                                                                                         |
 
-### Hoa Thụ Phấn Qua Rung
+### Hoa Thụ Phấn Rung (Buzz-Pollinated)
 
-| Tên Thường Gọi     | Tên Khoa Học                     | Thức Ăn Của Ong | Thời Gian Nở Hoa        | Ghi Chú                                                                                 |
-| :----------------- | :------------------------------ | :-------------- | :---------------------- | :------------------------------------------------------------------------------------- |
-| Foothill Penstemon | Penstemon heterophyllus         | phấn hoa & mật hoa | mùa hè                 | Các loại Penstemon khác cũng thu hút ong                                               |
-| Manzanita          | Arctostaphylos densiflora 'Sentinel' | phấn hoa & mật hoa | cuối đông, đầu xuân    | Các loài Arctostaphylos đặc biệt là A. densiflora 'Howard McMinn' & A. densiflora 'Sentinel' |
+| Tên Thường Gọi         | Tên Khoa Học                              | Thức Ăn Cho Ong   | Thời Gian Ra Hoa           | Ghi Chú                                                                                                |
+| :--------------------- | :---------------------------------------- | :---------------- | :------------------------- | :----------------------------------------------------------------------------------------------------- |
+| Foothill Penstemon (Địa Lan Penstemon) | *Penstemon heterophyllus*               | phấn hoa & mật hoa| mùa hè                     | Các loài *Penstemon* khác cũng thu hút ong[^18].                                                       |
+| Manzanita (Dâu Manzanita) | *Arctostaphylos densiflora* 'Sentinel'  | phấn hoa & mật hoa| cuối đông, đầu xuân        | Bao gồm *A. densiflora* 'Howard McMinn' & 'Sentinel'[^18].                                             |
 
-### Dạng Hoa Chén Chứa Phấn
+### Hoa Dạng Tô Phấn (Pollen Bowl)
 
-| Tên Thường Gọi     | Tên Khoa Học             | Thức Ăn Của Ong | Thời Gian Nở Hoa        | Ghi Chú               |
-| :----------------- | :---------------------- | :-------------- | :--------------------- | :-------------------- |
-| California Poppy   | Eschscholzia california | phấn hoa        | mùa xuân, mùa hè, đầu thu | Bản địa Oregon       |
-| Clarkia            | Clarkia amoena          | phấn hoa        | mùa hè                 | Bản địa Oregon       |
-| Globe Mallow       | Sphaeralcea ambiqua     | phấn hoa        | mùa hè, mùa thu        |                       |
-
-### Hoa Dễ Tiếp Cận Cho Ong
-
-| Tên Thường Gọi     | Tên Khoa Học                      | Thức Ăn Của Ong | Thời Gian Nở Hoa        | Ghi Chú                                                                                 |
-| :----------------- | :------------------------------- | :-------------- | :---------------------- | :------------------------------------------------------------------------------------- |
-| Baby Sage          | Salvia microphylla 'Hotlips'     | phấn hoa & mật hoa | mùa hè, mùa thu        | Các loại Salvia khác cũng thu hút ong                                                  |
-| Chaste Tree        | Vitex agnus-castus              | phấn hoa & mật hoa | mùa hè, đầu thu        | Nhiều màu hoa để lựa chọn                                                              |
-| Hyssop             | Agastache rugosa 'Golden Jubilee' | mật hoa         | mùa hè                 | Các loài Agastache đặc biệt là A. rugosa, A. foeniculum. Phần lớn có hoa màu xanh/tím |
-| Lamb's Ear         | Stachys byzantina               | chủ yếu mật hoa | cuối xuân, mùa hè       | Lá xám mịn được ong thợ dùng để lót tổ                                                |
-| Lesser Calamint    | Calamintha nepeta               | mật hoa         | mùa hè, đầu thu        |                                                                                         |
-| Rosemary           | Rosemarinus officinalis         | chủ yếu mật hoa | mùa hè                 | Nhiều kích thước, kiểu dáng cây, màu hoa và thời gian nở hoa                          |
+| Tên Thường Gọi      | Tên Khoa Học                  | Thức Ăn Cho Ong | Thời Gian Ra Hoa             | Ghi Chú               |
+| :------------------ | :---------------------------- | :-------------- | :--------------------------- | :-------------------- |
+| California Poppy (Anh Túc California) | *Eschscholzia californica*  | phấn hoa       | mùa xuân, hè, đầu thu        | Bản địa Oregon[^20].  |
+| Clarkia

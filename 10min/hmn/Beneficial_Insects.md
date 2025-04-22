@@ -1,68 +1,82 @@
-# 10-Minute University™
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-### Cov Ntsaum Muaj Txiaj Ntsig Hauv Vaj Tsev
+# Kab Pab Nyob Hauv Vaj Tsev
 
-**Ntsiab Lus**
+### Saib Dav
 
-Hauv cov kab ntau dua 28,000 hom nyob hauv Pacific Northwest, tsuas yog ib txog ob feem pua xwb uas ua puas tsuaj rau qoob loo, nroj tsuag lossis cov qauv vaj tsev. Feem ntau cov kab yog cov muaj txiaj ntsig thiab pab cov neeg ua vaj tsev tswj cov kab phem lossis pab txhawb kev tawg paj txi txiv ntawm cov txiv hmab txiv ntoo thiab zaub. Phau ntawv no yuav qhia txog cov kab muaj txiaj ntsig uas pom tau nyob hauv peb thaj chaw thiab qhia tswv yim rau kev txhawb kom cov kab no tuaj nyob hauv peb cov vaj tsev.
-
----
-
-### Cov Ntsaum Muaj Txiaj Ntsig
-
-Muaj 3 hom kab muaj txiaj ntsig tseem ceeb: **kab tawg paj txi txiv, kab noj kab phem**, thiab **kab nyob hauv lwm kab (parasitoids)**.
-
-#### Kab Tawg Paj Txi Txiv
-Kab tawg paj txi txiv suav nrog npauj, yoov, npauj npaim, thiab kab ncho. Hauv vaj tsev, npauj ntxhw, kab ncho loj, kab Mason hauv vaj, thiab kab yoov syrphid yog cov kab tawg paj txi txiv tseem ceeb, tab sis muaj ntau yam kab tawg paj txi txiv me me xws li kab ntsaum, yoov ntxwv, kab me me, thiab kab txig uas kuj tseem pab tau. Cov kab tawg paj txi txiv ua lub luag haujlwm tseem ceeb hauv kev tsim qoob loo thiab nroj tsuag hauv vaj. Cov neeg ua vaj tsev yuav pab txhawb kev noj qab nyob zoo thiab kev txi txiv ntawm lawv cov vaj los ntawm kev txhawb kom muaj kab tawg paj txi txiv nyob.
-
-#### Kab Noj Kab Phem
-Kab noj kab phem xws li kab caws, kab thov ntuj, kab tis ntaub, kab hauv av, kab me me pirate, kab damsel, kab yoov syrphid, thiab kab tis ntoo noj tau ntau yam kab phem. Cov kab no pab kom cov kab phem txo qis. Kev txhawb kom cov kab no nyob tuaj yeem pab cov neeg ua vaj tsev txo kev siv tshuaj tua kab phem.
-
-#### Kab Nyob Hauv Lwm Kab (Parasitoids)
-Cov kab nyob hauv lwm kab yog cov kab uas nyob hauv lossis rau lwm kab, noj tus kab ntawd thiab thaum kawg tua tus kab ntawd. Cov kab parasitoids muaj txiaj ntsig xws li kab npauj tsis muaj ntsis thiab kab yoov tachinid. Cov kab no tsis tshua pom, tab sis kev tshawb fawb qhia tias lawv muaj kev cuam tshuam loj rau cov kab phem. Cov neeg ua vaj tsev tuaj yeem nyiam cov kab parasitoids los ntawm kev cog cov nroj tsuag uas lawv nyiam noj. Cov nroj tsuag no suav nrog cov uas muaj paj zoo li lub kaus xws li carrots, cilantro, dill, sweet clover, fennel, thiab paj Queen Anne’s lace.
+Ntawm ntau tshaj 28,000 hom kab nyob hauv Pacific Northwest, tsuas yog ib txog ob feem pua xwb thiaj li ua phem rau cov qoob loo, nroj tsuag, lossis vaj tse. Feem coob yog kab pab uas pab cov neeg ua vaj tsev los tswj cov kab phem lossis pab pollinate cov txiv hmab txiv ntoo thiab zaub. Phau ntawv no yuav qhia txog cov kab pab uas pom ntau hauv peb cheeb tsam thiab qhia tswv yim yuav ua li cas thiaj ua rau lawv nyob hauv peb cov vaj tsev ntau ntxiv.
 
 ---
 
-### Yuav Ua Li Cas Txhawb Cov Kab Muaj Txiaj Ntsig
+## Kab Pab
 
-#### Tsim Chaw Nyob
-Koj tuaj yeem muab chaw nyob rau ntau yam kab muaj txiaj ntsig hauv koj lub vaj tsev. Cov kab hauv av thiab kab rove uas mus txhom kab phem xws li kab slug thiab kab txiav nplooj thaum hmo ntuj xav tau chaw nkaum thaum nruab hnub. Cov nroj tsuag npog av thiab cov mulch xws li bark dust, straw, thiab mulch nplooj organic yog chaw zoo rau lawv. Muaj ntau yam kab hauv av uas ua vaj nyob hauv av. Ib daim av liab tsis muaj nroj lossis ib lub txaj nroj tsuag ornamental sparse yog qhov zoo. Kev npog av nrog yas mulch lossis kev siv tshuab rototill ntau zaus tuaj yeem rhuav tshem cov kab hauv av. Koj tuaj yeem nyiam thiab khaws cov kab Mason hauv av los ntawm kev muab lawv lub tsev ua los ntawm tes lossis yuav lub tsev txhab kab.
+Muaj peb hom tseem ceeb ntawm kab pab:
 
-#### Muab Zaub Mov thiab Dej
-Kab xav tau dej kom muaj sia. Muab dej rau hauv ib lub tais uas muaj pob zeb; kom dej nyob puv thaum hnub qhuav. Paj muab nectar (qab zib) thiab pollen (protein) rau cov kab tawg paj txi txiv thiab lawv cov menyuam. Vim tias cov kab tawg paj txi txiv sib txawv muaj kev nyiam zaub mov sib txawv, kev tsim ntau yam paj yog ib qho tseem ceeb. Kev tshawb fawb tshiab qhia tias cov vaj uas muaj 15 lossis ntau dua yam paj sib txawv pab txhawb kev muaj kab tawg paj txi txiv ntau dua. Cov neeg ua vaj uas xav txuag kab tawg paj txi txiv yuav tsum muaj tsawg kawg 3 yam paj sib txawv thaum lub caij nplooj ntoos hlav mus txog lub caij nplooj zeeg.
+1. **Kab Pab Pollinate**  
+   Cov kab pab pollinate suav nrog cov ntxhuav, kab kob, npauj, thiab kab zuam. Nyob hauv vaj tsev, cov ntxhuav zib ntab, ntxhuav loj, ntxhuav Mason, thiab kab kob syrphid yog cov kab pollinate tseem ceeb tshaj plaws. Muaj ntau hom kab pab me me ntxiv thiab xws li kab nrig, kab ntsaum, kab me, thiab kab laum. Kab pollinate pab loj heev rau kev tsim cov qoob loo thiab nroj tsuag. Cov neeg ua vaj tsev yuav txhim kho kev noj qab nyob zoo thiab kev tsim qoob loo los ntawm kev txhawb kom muaj ntau kab pollinate.
 
-Cov kab npauj npaim thiab kab ntxwv feem ntau nyiam nectar, tab sis lawv cov menyuam noj nplooj nroj. Cov “nroj tsuag rau menyuam kab” yog qhov chaw cov kab laus tso lawv cov qe. Cov nroj tsuag ornamental thiab ntoo hauv zos feem ntau yog chaw zoo rau cov menyuam kab. Cov kab noj kab phem thiab kab parasitoids laus feem ntau noj nectar thiab pollen ntawm cov nroj tsuag insectary xws li yarrow, dill, marigold, thiab sunflower.
+2. **Kab Pab Noj Kab**  
+   Cov kab pab noj kab xws li kab lady beetle, kab mantis, kab lacewing, kab ground beetle, kab pirate me, kab damsel, kab syrphid larvae, thiab kab snake fly, noj ntau yam kab, pab txo cov kab phem. Yog txhawb kom muaj ntau hom kab pab noj kab, cov neeg ua vaj tsev yuav txo tau kev siv tshuaj tua kab.
 
-#### Siv Kev Tswj Kab Phem Ua Ke
-Kev Tswj Kab Phem Ua Ke yog ib txoj kev uas siv ntau txoj kev los daws teeb meem ntawm nroj tsuag. Thaum pom thawj yam teeb meem ntawm nroj tsuag, txhob maj ua. Mus tshawb xyuas kom paub qhov teeb meem kom zoo. Kev nkag siab txog teeb meem yog qhov tseem ceeb rau kev ua tau zoo. Tej teeb meem nroj tsuag, thaum pom ntxov, tuaj yeem kho tau yam tsis siv tshuaj. Yog li, ua tib zoo saib xyuas hauv vaj.
-
-Ua ntej siv tshuaj tua kab uas nkag mus rau hauv nroj tsuag, tshwj xeeb tshaj yog rau cov nroj tsuag uas cov kab tawg paj txi txiv tuaj xyuas, xav txog qhov zoo thiab qhov tsis zoo. Cov tshuaj tua kab no tiv thaiv nplooj nroj tsuag los ntawm kab phem, tab sis nws tuaj yeem nkag mus rau nectar thiab pollen. Cov kab noj nroj lossis kab sau nectar thiab pollen tuaj yeem raug teeb meem thaum noj cov nroj tsuag uas muaj tshuaj tua kab. Yog tias yuav tsum siv tshuaj tua kab, ua raws li cov lus qhia ntawm daim ntawv lo: siv qhov concentration kom yog, hauv cov huab cua uas haum, thiab rau qhov chaw uas tsim nyog ntawm nroj tsuag. Tsis txhob siv tshuaj rau cov nroj tsuag uas tab tom tawg paj, suav nrog cov nroj tsuag phem; nyob deb ntawm cov chaw yug kab; thiab siv tshuaj rau thaum huab cua txias, xws li thaum tsaus ntuj lossis yav tav su, thaum feem ntau cov kab tawg paj txi txiv tsis tshua muaj zog.
+3. **Kab Parasitoid**  
+   Kab parasitoid yog cov kab uas nyob hauv lossis saum ib tug kab, noj nws thiab feem ntau ua rau tus kab tuag mus. Cov kab parasitoid pab muaj xws li kab nrig me me uas tsis tom thiab kab tachinid. Txawm tias tsis pom lawv yooj yim, kev tshawb fawb pom tias lawv pab txo cov kab phem ntau. Koj tuaj yeem nqus tau kab parasitoid los ntawm kev cog cov nroj tsuag uas lawv nyiam, xws li cov nroj tsuag uas muaj paj me me zoo li lub kaus (umbel), xws li zaub carrots, cilantro, dill, sweet clover, fennel, thiab Queen Anne’s lace.
 
 ---
 
-### Cov Khoom Siv
+## Yuav Ua Li Cas Kom Muaj Kab Pab
 
-- **Cov Kab Hauv Pacific Northwest**, Peter thiab Judy Haggard  
-- **Kev Txhawb Cov Ntsaum Muaj Txiaj Ntsig Rau Koj Lub Vaj**, PNW 550  
-  [PNW550 PDF](http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/38715/pnw550.pdf)  
-- **Kev Nyiam Cov Kab Tawg Paj Txi Txiv Rau Koj Lub Vaj**, 10-Minute University™ Handout  
-  [www.cmastergardeners.org](www.cmastergardeners.org)  
-- **Clark County Washington Nthuav Qhia Kab Phem thiab Kab Zoo**  
-  [Clark County Kab PDF](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)  
+### Tsim Chaw Nyob
+
+Koj tuaj yeem tsim chaw nyob rau ntau yam kab pab hauv koj lub vaj tsev:
+
+- **Kab Ground Beetles thiab Kab Rove Beetles**  
+  Cov kab no mus tshawb kab hmo ntuj, noj kab slug thiab kab cutworm. Lawv xav tau chaw nkaum thaum nruab hnub. Ground cover thiab mulch loj xws li tawv ntoo, quav nyab, thiab nplooj mulch yog chaw zoo rau lawv nkaum.
+
+- **Kab Ntxhuav Native**  
+  Ntau hom kab ntxhuav native yeej khawb av ua chaw nyob. Ib thaj av dawb paug los yog muaj me ntsis nyom ornamental loj txaus rau lawv. Yog koj them av nrog yas mulch los yog khawb av ntau dhau, yuav rhuav tshem lawv lub chaw nyob. Koj tuaj yeem nqus thiab khaws kab ntxhuav native xws li Mason bees los ntawm muab lawv lub thawv ua tsev los yog yuav los ntawm khw.
+
+### Muab Noj thiab Dej
+
+Kab xav tau dej kom muaj sia. Muab dej rau lawv hauv ib lub tais uas muaj pob zeb me me thiab ceev faj kom muaj dej txaus rau hnub qhuav.
+
+- **Paj Rau Kab Pollinate**  
+  Paj muab nectar (zog qab zib) thiab pollen (zog protein) rau kab pollinate thiab lawv cov me nyuam. Muaj ntau yam paj yog ib qho tseem ceeb, vim kab pollinate sib txawv nyiam noj txawv. Kev tshawb fawb qhia tias yog muaj 15 yam paj lossis ntau dua, pab kom muaj ntau hom kab ntxhuav. Cov neeg ua vaj yuav tsum sim cog yam tsawg kawg peb hom paj uas yuav tawg txhua lub caij los ntawm nplooj hlav mus txog lub caij nplooj zeeg.
+
+- **Kab Npauj thiab Kab Zuam**  
+  Kab npauj thiab kab zuam laus feem ntau nyiam nectar, tab sis lawv cov me nyuam noj nplooj nroj tsuag. Cov nroj tsuag no hu ua host plants, yog qhov chaw kab laus mus tso qe. Ntoo thiab shrub native ornamental feem ntau yog host plants zoo heev.
+
+- **Kab Pab Noj Kab thiab Kab Parasitoid**  
+  Ntau hom kab pab noj kab thiab parasitoid laus nyiam noj nectar thiab pollen los ntawm cov nroj tsuag xws li yarrow, dill, marigold, thiab sunflower.
+
+### Ua Raws Kev Tswj Kab Ib Qho Zoo
+
+Integrated Pest Management (IPM) yog ib txoj kev khiav hauj lwm daws teeb meem kab hauv vaj:
+
+1. **Pom Teeb Meem Thaum Ntxov**  
+   Thaum pom nroj tsuag pib mob, muab pov thawj los pab txheeb xyuas kom raug. Yuav tsum to taub qhov teeb meem ua ntej mam ua raws. Ntau yam teeb meem yuav kho tau yam tsis siv tshuaj yog pom thaum ntxov.
+
+2. **Xav Txog Kev Siv Tshuaj Ua Ntej**  
+   Ua ntej siv tshuaj tua kab uas nkag mus thoob nroj tsuag, tshwj xeeb rau cov nroj tsuag uas kab pollinate tuaj xyuas, xav txog qhov zoo thiab qhov tsis zoo. Tshuaj tua kab zoo li no pab tiv thaiv nplooj nroj tsuag, tab sis yuav ua phem rau kab npauj, ntxhuav, thiab lwm yam kab pab thaum mus txog nectar thiab pollen.
+
+3. **Siv Tshuaj Kom Raws Cai**  
+   Yog yuav tsum siv tshuaj, ua raws li daim ntawv qhia. Siv kom muaj zog raws li qhia, thaum huab cua haum, thiab rau qhov chaw nroj tsuag uas tsim nyog. Zam tsis txhob siv tshuaj rau tej nroj tsuag uas tab tom tawg paj, chaw kab nyob, thiab siv tshuaj thaum huab cua txias (xws li tsaus ntuj los yog yav tsaus ntuj) thaum kab pollinate tsis ua haujlwm ntau.
 
 ---
 
-### Kev Pab Tswv Yim Los Ntawm Master Gardener™
+## Cov Khoom Siv
 
-- Hu rau Home Horticulture Helpline:  
-  - 503-655-8631 (Clackamas County)  
-  - 503-821-1150 (Washington County)  
-  - 503-445-4608 (Multnomah County)  
-- Rau lwm cov ntawv qhia 10-Minute University™ thiab daim ntawv qhia chav kawm, mus xyuas:  
-  [www.cmastergardeners.org](www.cmastergardeners.org)  
+- *Insects of the Pacific Northwest*, Peter thiab Judy Haggard
+- *Encouraging Beneficial Insects to Your Garden*, PNW 550  
+  [Nyeem phau ntawv qhia no ntawm no](http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/38715/pnw550.pdf)
+- *Attracting Pollinators to Your Garden*, 10-Minute University™ Handout  
+  [Mus saib ntawm no](https://www.cmastergardeners.org)
+- *Clark County Washington Presents Bugs and Pests*  
+  [Nyeem ntxiv ntawm no](http://www.co.clark.wa.us/recycle/documents/BadBugs.pdf)
 
 ---
 
-### Oregon State University Extension Service Cov Cai
+#### Kev Pab Tswv Yim Master Gardener™ · Hu rau Home Horticulture Helpline: 503-655-8631 (Clackamas County) · 503-821-1150 (Washington County) · 503-445-4608 (Multnomah County) · Rau lwm yam 10-Minute University™ handouts thiab teev sijhawm kawm, mus xyuas [www.cmastergardeners.org](https://www.cmastergardeners.org)
 
-Oregon State University Extension Service tsis kam qhov kev sib cais ntawm txhua yam kev pab cuam, kev pab, kev ua ub ua no, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia poj niam txiv neej), kev nyiam poj niam txiv neej, kev txawj ntse, hnub nyoog, kev sib yuav, kev ua niam txiv, cov nyiaj tau los, kev ntseeg, kev coj noj coj ua, cov lus qhia txog caj ces, kev ua tub rog, kev rov ua pauj lossis kev ua pauj rau kev ua neej nyob yav dhau los. (Tsis yog txhua yam kev txwv no siv tau rau txhua qhov kev pab cuam.)
+---
+
+##### Oregon State University Extension Service tsis pub tawm kev cais tawm hauv txhua qhov kev pab, kev pabcuam, kev ua haujlwm, thiab ntaub ntawv raws li haiv neeg, xim tawv, lub teb chaws yug, kev ntseeg, poj niam txiv neej, kev paub lossis qhia txog poj niam txiv neej, kev nyiam poj niam los txiv neej, kev xiam oob khab, hnub nyoog, muaj poj niam los txiv neej, tsev neeg, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg los sis kev cai lij choj, cov ntaub ntawv caj ces, kev ua tub rog, kev pauj rau kev tiv thaiv cai. (Tsis yog txhua yam uas tsis pub siv rau txhua txoj haujlwm.)

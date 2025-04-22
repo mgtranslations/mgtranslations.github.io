@@ -1,63 +1,89 @@
-# Jaamacadda 10-Daqiiqo™
+#### 10-Daqiiqo Jaamacad™ · Ururka Beeraleyda Khabiirka ah ee Clackamas County oo iskaashi la leh Barnaamijka OSU Extension Master Gardener™
 
-Ururka Clackamas County Master Gardener oo iskaashanaya kuna taageeraya Barnaamijka OSU Extension Master Gardener™
+# Koritaanka Khudaarta Jiilaalka
 
-## Beerashada Khudaar Jiilaal
+### Faa’iidooyinka Koritaanka Khudaartaada
 
-### Faa’iidooyinka Beerista Khudaarta Guriga
-Iyadoo waaraanshaha iyo isku filnaanshaha ay kasbadaan caanimo, beerta guriga ayaa sidoo kale caan noqonaysa. Qancinta qofka, helitaanka noocyada kala duwan, iyo dhaqaalaha ayaa ka mid ah sababaha badan ee lagu beerayo khudaarta guriga.
+Iyadoo waaraanshaha iyo isku-filnaanshuhu ay noqdeen kuwo caan ah, beerta guriga ayaa iyadana kor u sii kacaysa. Ku qanacsanaanta qofka, helitaanka noocyo kala duwan, iyo faa’iidooyinka dhaqaalaha ayaa ka mid ah sababaha badan ee loo beerto khudaar adiga kuu gaar ah.
 
-### Maxaa La Beeraa
-Dhinaca galbeedka Buuraha Cascades, waxaa jira khudaar badan oo la beeri karo xagaaga si loo goosto dayrta ama jiilaalka, iyo qaar kale oo dhulka lagu dhaafi karo si loogu goosto gu'ga hore.
+### Maxaa La Beeran Karaa
 
-- **Khudaarta Cole** – broccoli, Brussels sprouts, cabbage, cauliflower  
-- **Khudaarta xididka ah** – beets, carrots, kohlrabi, radish, rutabaga, turnip  
-- **Cagaarka** – collard, kale, lettuce, spinach, Swiss chard  
-- **Digirta** – peas, fava beans  
-- **Khudaarta jiilaalka ku noolaan karta** – Brassicas, khudaarta xididka ah  
+Galbeedka Buuraha Cascades, waxaa jira khudaar badan oo la beeri karo xagaaga si loogu goosto dayrta ama jiilaalka, iyo kuwo qaarkood oo dhulka lagu sii daayo si ay u soo baxaan gu’ga hore:
+
+- **Khudaar Cabbage ah** – brokoli, Brussels sprouts, kaabish, karnab
+- **Khudaar xididdo ah** – beetroot, karootada, kohlrabi, radish, rutabaga, turnip
+- **Cagaar** – collard, kaale, lettuce, spinach, Swiss chard
+- **Legume** – digir, fava beans
+- **Khudaar jiilaalka ku harsan** – Brassicas, khudaar xididdo ah
 
 ### Goorma La Beeraa
-Waxaa muhiim ah in la ogaado taariikhda barafka ugu horreeya ee aaggaaga. La tasho hagayaasha beerista si aad u ogaato waqtiyada la beero abuurka iyo dhirta. Beero inta badan khudaarta bisha Luulyo, Agoosto, iyo Sebtembar si aad u goosato dayrta, jiilaalka, iyo guga; beero toon iyo shallot bisha Oktoobar si loo goosto xagaaga dambe.
 
-### Sida Loogu Beero
-#### Ilaha
-Khudaarta waxaa si toos ah loogu beeri karaa abuur ama laga soo qaadi karaa dhirta bilowga ah. Isticmaal dhir si gaar ah loogu talagalay beerista dayrta.
+Waa muhiim inaad ogaato taariikhda barafka ugu horreeya ee aaggaaga. La tasho tilmaamaha beerta si aad u ogaato goorta la beero abuurka iyo geedaha.
+
+- Inta badan khudaarta waxa la beeraa bisha Luulyo, Agoosto, iyo Sebtembar si loogu goosto dayrta, jiilaalka, iyo gu’ga.
+- Toonta iyo shallot-ka waxa la beeraa Oktoobar si loogu goosto xagaaga xiga.
+
+### Sida Loo Beero
+
+#### Isha
+
+Khudaarta waxa si toos ah looga beeri karaa abuur ama waxa laga beeri karaa geedo yar-yar. Isticmaal geedo si gaar ah loogu talagalay beerta xilliga dayrta.
 
 #### Goobta
-Dooro goob heli karta lix ilaa siddeed saacadood oo iftiinka qoraxda ah. Ka faa’iidayso dhismayaasha sida derbiyada ama xayndaabyada dhinaca koonfureed ee dib u celinaya oo sii haynaya kulaylka muddo dheer. Beero kor loo qaado, oo laga sameeyey alwaax ama si fudud dhulka loo buuxiyey, waxay kuleyl ku qabtaan gu'ga hore oo kulaylka sii hayaan muddo dheer.
 
-Hubso in goobtaada ay ka ilaalisan tahay dabaylaha xoogga leh oo ay dhulka leedahay biyo-mareen wanaagsan.
+Dooro meel heli karta lix ilaa siddeed saacadood oo qorrax ah. Ka faa’iidayso dhismayaasha sida derbiyada koonfureed u jeeda ama xayndaabyada si ay u soo celiyaan oo u hayaan kulaylka muddo dheer. Sariiraha la koryeelay, oo laga sameeyo alwaax ama si fudud ciidda la buunbuuniyo, waxa ay kulaylka ku heleen hore gu’ga waxayna kulaylka hayaan muddo dheer.
 
-#### Diyaarinta Dhulka
-Ka saar dhagaxyada iyo haramaha, oo hagaaji dhulka sida loogu baahan yahay. Dhulka dhoobada ah waxaa lagu hagaajin karaa iyadoo lagu darayo walxo dabiici ah. Haddii loo baahdo, ku dar bacriminta nitrogen-ka hoose si diiradda loo saaro koritaanka xididdada iyo miraha, ee aan caleemaha. Ha isticmaalin bacriminta nitrogen-ka badan xilliga dayrta sababtoo ah waxay kicin kartaa caleemo dambe oo u nugul dhaawaca barafka.
+Hubi in goobtaada laga ilaaliyo dabaylaha xooggan, isla markaana ciiddu leedahay biyo-mareen fiican.
 
-Hubi in sariirahaagu ay leeyihiin ugu yaraan 15 ilaa 18 inch oo dhul dabacsan si ay xididdadu ugu helaan meel ku filan koritaanka iyo biyo qaybinta. Haddii dhulkaaga adag uu aad u qallalan yahay, isku day inaad hore u qoyso.
+#### Diyaarinta Ciida
 
-### Daryeelka Dhirta Cusub
-Haddii ay tahay xilli kulul oo qorax leh marka aad beerto, dhirta yaryar waxay u baahan doonaan daryeel dheeraad ah. Biyo si maalinle ah ugu shub dhirta cusub. Waxaa laga yaabaa inaad u baahan tahay inaad si laba jeer maalintii u qoyso abuurka iyo geedaha cusub ee soo baxaya si aysan u engegin.
+Diyaari ciidda adigoo ka saaraya dhagxaanta iyo haramaha, isla markaana ku daraya waxyaabo nafaqo leh sida loogu baahdo.
 
-Si dhulka qoyaan u ahaado oo dhirta yaryar looga ilaaliyo qoraxda, si ku meel gaar ah u hadhe. Looxyada iyo roob-dhaliyeyaasha waa dhismayaal wanaagsan oo hadhe ah.
+- Hagaaji ciidda dhoobada ah adigoo ku daraya walxo dabiici ah.
+- Isticmaal bacriminta leh nitrogen hoose si xoogga loo saaro xididdada iyo miraha, ee aan caleemaha. Ka fogow bacriminta nitrogen-ka badan xilliga dayrta, sababtoo ah waxay keeni kartaa caleemo danbe oo ay waxyeeleeyaan barafku.
 
-Marka cimilada qabow soo dhowaatana, ku dabool dhirtaada caleemo ama caws. Daboolida safafka, dhismayaasha caagga ah, tunnel-ka caagga ah, iyo sanduuqyada qabow waa kordhiyayaal waqti oo wanaagsan.
+Hubi in sariirahaagu leeyihiin ugu yaraan 15 ilaa 18 inji oo ciid jilicsan ah si xididdadu ay u koraan si fiican una gaaraan biyaha. Haddii ciiddu aad u engegan tahay oo adag tahay in la qodo, hore u qoyso.
 
-### Goosashada Beerta Jiilaalka iyo Dayrta
-Khudaarta xididka ah sida turnip, beet, iyo carrot ayaa sii macaanaysa kadib barafka, taasoo sababa in dhirtu ay sharaabtaheeda diiriso. Dalalkan waxaa lagu dhaafi karaa dhulka waxaana lagu goosan karaa jiilaalka oo dhan. Lettuce iyo cagaarka kale ee salad-ka ayaa gaabis ku noqon doona koritaanka xilliga qabow laakiin waxay adkaysan karaan ilaa 20°F iyagoo leh ilaalin.
+### Daryeelka Geedahaaga Cusub
 
-## Kheyraadka Adeegga Dheeraadka OSU
-Hel daabacanada online-ka ah:  
-- **Beerista Khudaarta Dayrta iyo Jiilaalka ee Waqooyi Galbeed PNW 548**  
-- **Sida Loo Sameeyo Sanduuqyo Qabow iyo Kulul FS 246-E**  
-- **Sida Loo Sameeyo Sariir-Kor Loo Qaado EC 1627**  
-- **Beerista Gurigaaga EM 9027**  
-- **Beerista Reer Maskaaga EC 797**  
-- **Beerista Yaanyo iyo Tomatillo EC 1333**  
-- **Kaydinta Bocorka iyo Squash Jiilaalka Guriga EC 1632**  
-- **Hagaajinta Dhulka Beeraha Walxo Dabiici ah EC 1561**  
-- **Bacriminta Dhulka Nidaamyada Organic PNW646**
+Haddii ay tahay xilli kulul oo qoraxdu aad u badan tahay, geedaha yaryar waxay u baahan yihiin daryeel dheeraad ah:
 
-## Talooyinka Master Gardener™
-- Wac Khadka Caawinta Beerta Guriga: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), ama 503-445-4608 (Multnomah County).
-- Booqo www.cmastergardeners.org si aad u hesho buug-yaraha 10-Daqiiqo™ iyo fiidyowyo.
-- Raadi Master Gardeners suuqyada beeraha ee aagga.
+- Geedaha la raray maalin kasta waraabi.
+- Abuurka iyo caleemaha soo baxaya ku shub biyo laba jeer maalintii si aysan u engegin.
+- Si ku meel gaadh ah u hadh geli geedaha yaryar si ciiddu u qoyaanato, kana ilaali qorraxda. Looxyada iyo dalladaha waa hadh fiican.
 
-Adeegga Dheeraadka Oregon State University wuxuu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, howlaha, iyo agabka ku saleysan jinsiyadda, midabka, asal ahaan qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jirto muujinta jinsiga), dookha galmada, naafonimada, da'da, xaaladda guurka, xaaladda qoyska/waalidka, dakhliga ka soo baxa barnaamijka kaalmada dadweynaha, aaminsanaanta siyaasadeed, macluumaadka hidde-side, xaaladda askarta, ciqaabta ama aargoosiga fal-dembiyeed hore ee xuquuqda madaniga ah. (Maaha dhammaan saldhigyada la mamnuucay waxay khuseeyaan dhammaan barnaamijyada.)
+Marka cimiladu qabowdahay, dhirtaada ku dabool caleemo ama caws qalalan. Daboollada safafka, cloche-yada, tuubooyinka caagga ah, iyo sanduuqyada qabow waa kuwo fiicnaanaya oo kordhiya xilliga beerta.
+
+### Goosashada Beertaada Dayrta iyo Jiilaalka
+
+Khudaar xididdo ah sida turnip, beetroot, iyo karootada ayaa macaaneeya marka uu baraf yimaado, sababtoo ah dhirtu waxay isku uruurisaa sonkorta. Dalagyadan dhulka waa lagu sii hayn karaa oo la goosan karaa inta lagu jiro jiilaalka.
+
+Lettuce iyo cagaar kale oo salad ah waxay gaabiyaan koritaankooda marka cimiladu qabowdahay, balse waxay adkaysan karaan ilaa 20°F haddii la ilaaliyo.
+
+### Kheyraadka Adeegga Ballaarinta OSU
+
+Hel qoraalladan internetka [https://catalog.extension.oregonstate.edu](https://catalog.extension.oregonstate.edu):
+
+- **Beerta Khudaarta Dayrta iyo Jiilaalka ee Waqooyiga Galbeed ee Pacific** PNW 548
+- **Dhismayaasha Sanduuqyada Qabow iyo Kulaylka** FS 246-E
+- **Sida Loo Dhiso Cloche Sariir Koryeelay** EC 1627
+- **Korso Khudaartaada** EM 9027
+- **Korso Rhubarb-kaaga** EC 797
+- **Korso Yaanyo iyo Tomatillos-kaaga** EC 1333
+- **Kaydinta Bocorka iyo Squash-ka Jiilaalka ee Guriga** EC 1632
+- **Hagaajinta Ciida Beerta ee Walxo Dabiici ah** EC 1561
+- **Nafaqada Ciida ee Nidaamka Dabiiciga ah** PNW 646
+
+#### Talooyinka Master Gardener™
+
+- **Wac Khadka Caawinta Beerta Guriga:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Booqo [www.cmastergardeners.org](https://www.cmastergardeners.org) si aad u hesho waraaqaha iyo fiidyowyada 10-Daqiiqo Jaamacad™.
+- Ka raadi Master Gardener-yada suuqyada beeraleyda ee deegaankaaga.
+
+---
+
+##### Adeegga Ballaarinta Jaamacadda Gobolka Oregon · Adeegga Ballaarinta Jaamacadda Gobolka Oregon waxa uu mamnuucayaa takoorka dhammaan barnaamijyadiisa, adeegyada, hawlaha, iyo agabyada ku salaysan: midab, asal qaran, diinta, jinsiga, aqoonsiga jinsiga (oo ay ku jiraan muujinta jinsiga), dareenka galmada, naafonimada, da’da, xaaladda guurka, xaaladda qoyska/waalidnimo, dakhli laga helo barnaamij gargaar dowladeed, caqiido siyaasadeed, macluumaad hidde-sideed, xaaladda askari hore, ama aargoosi/tallo-ciyaar la xiriirta hawlaha xuquuqaha madaniga ah ee hore. (Dhammaan sababaha la mamnuucay ma khuseeyaan dhammaan barnaamijyada.)
+---

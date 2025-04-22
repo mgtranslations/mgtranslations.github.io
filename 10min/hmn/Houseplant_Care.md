@@ -1,53 +1,94 @@
-# 10-Minute University™  
-Lub koom haum Clackamas County Master Gardener Association koom tes nrog thiab txhawb nqa  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab txhawb nqa OSU Extension Master Gardener™ Program
 
-## Yuav Tu Cov Nroj Tsuag Hauv Tsev Li Cas  
-Kev cog nroj tsuag hauv tsev yog ib txoj hauv kev zoo los ntxiv cov nroj tsuag ntsuab rau koj lub tsev. Txawm tias qee cov nroj tsuag yog qhov yooj yim heev rau kev cog, txhua cov nroj tsuag xav tau kev tu zoo. Cov nroj tsuag vam meej hauv ib puag ncig uas zoo ib yam li lawv qhov chaw nyob ntuj. Ua ntej yuav cov nroj tsuag tshiab, koj yuav tsum paub lawv cov kev xav tau los txiav txim seb koj puas muaj qhov chaw zoo rau lawv hauv koj lub tsev thiab puas tu tau kom raug.  
+# Yuav Tu Mob Tsev Nroj Tsuas Li Cas
 
-### Lub Teeb:  
-Lub teeb yog ib yam tseem ceeb rau kev cog nroj tsuag hauv tsev kom vam meej. Feem ntau, koj tuaj yeem siv qhov kev qhia saib qhov twg zoo. Lub qhov rai uas tig rau sab qab teb tau txais lub hnub ci ntsa iab tshaj plaws, lub qhov rai uas tig rau sab hnub poob thiab sab hnub tuaj nyob nruab nrab, thiab lub qhov rai uas tig rau sab qaum teb raug suav tias yog qhov teeb me. Ceeb toom kom tsis txhob tso cov nroj tsuag ze dhau lossis kov lub qhov rai, qhov uas qhov kub hloov pauv thiab huab cua txias tuaj yeem ua puas cov nplooj. Cov teeb LED yog ib txoj kev siv hluav taws xob zoo los ntxiv lub teeb. Qhov cua sov thiab qhov cub hluav taws kuj yuav tsum zam.  
+Cog nroj tsuag hauv tsev yog ib txoj kev zoo los ntxiv paj ntoo ntsuab rau hauv koj lub tsev. Txawm yog qee yam nroj tsuag loj yooj yim heev, tab sis txhua yam nroj tsuag yeej xav tau kev tu kom zoo. Nroj tsuag loj zoo nyob rau qhov chaw zoo li lawv tej chaw ib txwm loj. Ua ntej yuav nroj tsuag tshiab, kawm txog lawv cov kev xav tau kom paub tias koj puas muaj qhov chaw zoo rau lawv hauv koj lub tsev thiab puas muaj peev xwm tu lawv kom zoo.
 
-### Kev Tso Nroj Tsuag:  
-Cov nroj tsuag hauv tsev xav tau qhov cua zoo ib puag ncig lawv kom muaj kev noj qab haus huv thiab txo cov kab mob. Muab cov nroj tsuag tso ua pawg raws li lawv qhov kev xav tau ntawm lub teeb thiab qhov kub. Qhov cua sov thiab qhov cub hluav taws yuav tsum zam.  
+## Teeb
 
-### Kev Tsu Nroj Tsuag:  
-Tsu cov nroj tsuag raws li qhov kev xav tau ntawm txhua tus nroj tsuag. Tshawb xyuas los ntawm kev tso koj tus ntiv tes rau hauv cov av, mus txog rau ntiv tes ob, kom paub seb cov av puas ntub. Los yog nqa lub lauj kaub nroj tsuag saib. Yog tias lub lauj kaub sib zog, nroj tsuag xav tau dej. Kom ntseeg tau tias siv cov lauj kaub uas muaj qhov dej ntws hauv qab, yog tsis muaj, dej yuav nyob hauv qab ua rau cov cag lwj. Kev tsuag dej ntau dhau tua cov nroj tsuag ntau dua li kev tsuag dej tsawg. Kom ntseeg tau tias tsuag dej rau cov av, tsis yog rau cov nplooj. Lub caij ntuj no, tsuag dej me ntsis thiab tsuas yog thaum cov av qhuav.  
+Teeb yog ib qhov tseem ceeb rau kev loj hlob ntawm nroj tsuag hauv tsev. Feem ntau, koj tuaj yeem saib raws qhov twg qhov rai ntsib:
 
-### Cov Huab Cua Ntub:  
-Muaj ntau cov nroj tsuag hauv tsev yog los ntawm cov hav zoov uas muaj huab cua ntub, thaum lwm yam xws li cacti thiab succulents yog los ntawm cov chaw qhuav. Cov huab cua hauv tsev tuaj yeem qhuav, tshwj xeeb tshaj yog lub caij ntuj no thaum cov cua kub ua haujlwm. Huab cua uas qhuav dhau tuaj yeem ua rau cov nplooj qhuav, qaug zog, quav, daj lossis xim av. Huab cua ntub dhau tuaj yeem ua rau muaj kab mob. Qhov huab cua ntub zoo tshaj rau feem ntau cov nroj tsuag yog 40-60 feem pua.  
+- Qhov rai sab qab teb txais tau hnub ci ntau tshaj plaws.
+- Sab hnub poob thiab sab hnub tuaj yog nruab nrab.
+- Qhov rai sab qaum teb yog qhov teeb tsawg.
 
-**Txhim kho huab cua ntub nrog ib lossis ntau txoj hauv kev hauv qab no:**  
-- Ntxuav cov nplooj nroj tsuag tsis tu ncua.  
-- Muab cov nroj tsuag tso rau ntawm lub tais uas muaj pob zeb thiab dej. Tso kom ntseeg tau tias hauv qab lub lauj kaub tsis tso rau hauv dej.  
-- Siv tshuab humidifier.  
-- Muab cov nroj tsuag tso rau hauv chav uas muaj huab cua ntub ntau xws li chav dej lossis chav ua noj.  
+Ceeb toom tsis txhob muab nroj tsuag tso ze lossis kov qhov rai, vim qhov kub hloov pauv thiab cua txias tuaj yeem ua mob rau nplooj. Koj siv LED teeb loj hlob ntxiv tau thiab tej no siv hluav taws xob tsawg. Tsis txhob tso rau ze qhov cua sov lossis qhov cub hluav taws.
 
-### Cov Thawv Nroj Tsuag:  
-Qhov loj thiab hom thawv yog qhov tseem ceeb rau kev noj qab haus huv ntawm cov nroj tsuag hauv tsev. Cov lauj kaub terracotta qhuav sai tshaj plaws thiab yog qhov zoo rau cov nroj tsuag qhuav. Lub lauj kaub uas loj dhau tuaj yeem ua rau cov cag lwj, thaum lub lauj kaub uas me dhau tuaj yeem txwv tsis pub cov cag nqus dej thiab cov khoom noj. Pib nrog ib lub lauj kaub uas loj dua ib txog ob nti loj tshaj qhov cag thiab maj mam hloov mus rau qhov loj dua. Kom ntseeg tau tias lub lauj kaub muaj qhov dej ntws hauv qab kom dej tsis txhob nyob hauv.  
+## Qhia Chaw
 
-Muab cov nroj tsuag hauv tsev tso tawm hauv cov thawv txhua xyoo kom tshuaj xyuas cov cag. Yog tias cov cag sib ntswg hauv lub lauj kaub thiab nruj heev, nws yog lub sijhawm hloov mus rau lub lauj kaub loj dua. Lub sijhawm zoo tshaj plaws hloov lub lauj kaub yog lub caij nplooj ntoos hlav lossis lub caij ntuj sov thaum cov nroj tsuag loj hlob, lossis txiav ib feem peb ntawm cov cag kom cov nroj tsuag tsis loj dua.  
+Nroj tsuag hauv tsev xav tau cua ncig lawv kom loj hlob zoo thiab txo tau kab tsuag. Tso nroj tsuag ua pawg raws li lawv xav tau teeb thiab kub. Tsis txhob tso ze qhov cua sov lossis qhov cub hluav taws.
 
-### Cov Av:  
-Cov nroj tsuag hauv tsev xav tau cov av kom loj hlob, txawm tias qee cov nroj tsuag xws li cov nroj tsuag huab cua tuaj yeem loj hlob tsis muaj av. Cov av cog nroj tsuag yog tsim rau cov nroj tsuag sib txawv. Feem ntau cov nroj tsuag hauv tsev yuav loj hlob zoo hauv cov av cog nroj tsuag rau txhua tus nroj tsuag. Cacti thiab succulents nyiam cov av uas muaj xuab zeb lossis perlite ntau dua rau kev ntws dej zoo. Orchids zoo tshaj hauv cov av uas muaj tawv ntoo. Rau cov nroj tsuag noj qab haus huv, siv cov av cog tshiab kom txo cov kev pheej hmoo ntawm kab mob.  
+## Tsuag Dej
 
-### Kev Pub Nroj Tsuag:  
-Thaum cov nroj tsuag loj hlob, pub kom meej nrog cov chiv maj mam tso tawm hauv cov granules, cov tshuaj ntsiav lossis cov pas nrig. Cov no feem ntau siv tau 2 txog 3 lub hlis tab sis tuaj yeem siv tau ntev dua nyob ntawm cov khoom. Qee hom muaj cov chiv maj mam tso tawm uas siv tau rau rau lub hlis. Hloov chaw, siv cov chiv dej txhua ob lub lis piam raws li kev qhia. Cov nroj tsuag tsis xav tau chiv thaum kev loj hlob qeeb lossis tsis loj hlob, feem ntau txij lub Kaum Ib Hlis txog Lub Peb Hlis.  
+Tsuag dej raws li qhov nroj tsuag ntawd xav tau:
 
-Cov nroj tsuag hauv tsev xws li African violets thiab orchids xav tau kev pub chiv tsis tu ncua kom tsim cov paj. Lwm yam xws li cacti thiab succulents zoo tshaj nrog tsawg lossis tsis pub chiv. Kev pub chiv ntau dhau tuaj yeem ua rau cov nplooj kub hnyiab lossis ua rau muaj kev puas tsuaj, thaum tsis muaj cov khoom noj tuaj yeem ua rau kev loj hlob qaug zog lossis kev ntxhov siab. Yog tias koj pom tias cov nplooj kub hnyiab ntawm cov npoo lossis muaj cov kab dawb saum toj ntawm cov av, tej zaum koj pub chiv ntau dhau.  
+- Kawm saib av ntub los qhuav los ntawm txhaws koj tus ntiv tes mus txog ntiv tes ob mus rau hauv av.
+- Los yog nqa lub lauj kaub. Yog tias nws nyhav, ces nroj tsuag xav tau dej.
 
-### Ntxuav Cov Nplooj:  
-Cov av tuaj yeem nyob saum cov nplooj nroj tsuag, ua rau cov nroj tsuag tsis ci thiab txwv tsis pub cov nroj tsuag nqus lub teeb los ntawm cov nplooj. Yaug lossis so cov nplooj nrog daim ntaub ntub kom rov qab tshiab.  
+Nco ntsoov siv lauj kaub uas muaj qhov dej ntws tawm hauv qab, yog tsis muaj dej yuav txob hauv qab thiab ua kom cag lwj. Tsuag dej ntau dhau yeej tua nroj tsuag ntau dua li tsis txaus dej. Tsuag rau hauv av, tsis txhob tsuag rau nplooj. Lub caij ntuj no, tsuag dej me ntsis thiab tsuas yog thaum av qhuav xwb.
 
-### Oregon State University Cov Kev Pab:  
-- Lub teeb yog qhov tseem ceeb rau kev cog nroj tsuag hauv tsev kom vam meej: [https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants](https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants)  
-- Cov ntsev soluble ua puas cov nroj tsuag hauv tsev: [https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)  
-- Cov succulents tsis txhob tu zoo ntxiv mus loj hlob: [https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)  
-- Cov nroj tsuag hauv tsev muaj xim zoo nkauj ua khoom plig zoo rau hnub so: [https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)  
-- Cov tshuaj ntsuab yooj yim hauv tsev ua spice rau kev ua noj: [https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)  
+## Av Txias
 
-### Master Gardener™ Cov Kev Pab:  
-Hu rau OSU Extension chaw ua haujlwm hauv zos rau Master Gardener cov lus qhia. Tshawb xyuas qhov chaw no rau cov ntaub ntawv tiv tauj: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us)  
-Rau 10-Minute University™ cov ntawv qhia thiab chav kawm, mus xyuas: [https://cmastergardeners.org](https://cmastergardeners.org)  
+Ntau yam nroj tsuag nyob hauv hav zoov nag kub, hos qee yam xws li cacti thiab succulents loj hauv qhov chaw qhuav. Cua hauv tsev qhuav heev, tshwj xeeb tshaj yog lub caij ntuj no thaum tshuab cua sov. Cua qhuav dhau yuav ua rau nplooj txo qhuav, daj, lossis liab. Cua noo dhau yuav ua mob nroj tsuag. Feem ntau cov nroj tsuag hauv tsev xav tau cua noo 40-60 feem pua.
 
-Oregon State University Extension Service txwv tsis pub kev ua tsis ncaj ncees hauv txhua nws cov kev pab, kev pabcuam, kev ua ub no, thiab cov ntaub ntawv raws li haiv neeg, xim, keeb kwm teb chaws, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia tus kheej), kev xaiv poj niam txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, kev sib raug zoo/kev ua niam txiv, cov nyiaj tau los los ntawm cov kev pabcuam pej xeem, kev ntseeg kev nom tswv, kev pab genetic, kev ua tub rog, rov txiav txim siab lossis kev ua pauj rau kev ua haujlwm txog txoj cai pej xeem yav dhau los. (Tsis yog txhua lub hauv paus txwv raug siv rau txhua qhov kev pabcuam.)
+Koj ua tau kom cua noo ntau dua los ntawm ib los ntau txoj hauv qab no:
+
+- Nquab dej rau nplooj nroj tsuag.
+- Tso nroj tsuag rau saum tais uas muaj pob zeb thiab dej. Kom paub tseeb tias hauv qab lauj kaub tsis kov dej.
+- Siv tshuab cua noo.
+- Tso nroj tsuag rau hauv chav dej lossis chav ua noj uas muaj cua noo ntau dua.
+
+## Lauj Kaub
+
+Qhov loj thiab hom lauj kaub tseem ceeb rau kev loj hlob ntawm nroj tsuag hauv tsev:
+
+- Lauj kaub av thev (terracotta) qhuav sai thiab zoo rau cov nroj tsuag hauv hav suab puam.
+- Lub lauj kaub loj dhau yuav ua kom cag lwj, hos me dhau yuav ua rau nroj tsuag tsis tau dej thiab tshuaj.
+
+Pib siv lauj kaub uas loj dua cag nroj tsuag 1-2 ntiv tes thiab nce kom loj dua maj mam. Kom paub tseeb tias lauj kaub muaj qhov dej ntws tawm hauv qab.
+
+Txhua xyoo, muab nroj tsuag rho tawm ntawm lauj kaub los saib cag. Yog cag sib thooj ua ke thiab nruj heev, ces txav mus rau lauj kaub loj dua. Sijhawm zoo tshaj rau kev hloov lauj kaub yog lub caij nplooj ntoos hlav lossis caij ntuj sov thaum nroj tsuag loj hlob, lossis txiav ib feem peb ntawm cag kom nroj tsuag nyob li qub.
+
+## Av
+
+Nroj tsuag hauv tsev xav tau av kom loj hlob, txawm tias ib txhia xws li air plants loj tau tsis muaj av. Av rau nroj tsuag muaj ntau hom raws li hom nroj tsuag:
+
+- Feem ntau nroj tsuag loj zoo hauv av rau txhua yam nroj tsuag.
+- Cacti thiab succulents xav tau av uas muaj xuab zeb lossis perlite ntau kom dej ntws zoo.
+- Orchids loj zoo hauv av ntoo.
+
+Yuav kom nroj tsuag noj qab haus huv, siv av tshiab huv kom txo kev mob.
+
+## Tsuaj Noj
+
+Thaum nroj tsuag loj hlob, muab tshuaj noj me me xws li tshuaj tso maj mam (granules, tablets, los yog stakes). Cov no kav li 2 txog 3 hlis, qee hom kav ntev dua. Qee hom tshuaj kav tau 6 hlis. Los yog siv tshuaj dej txhua ob lim tiam raws li ntawv qhia.
+
+Nroj tsuag tsis xav tau tshuaj noj thaum loj hlob qeeb lossis nres, feem ntau txij lub Kaum Ib Hlis txog Lub Peb Hlis.
+
+- Nroj tsuag xws li African violets thiab orchids xav tau tshuaj noj tas li kom tawg paj.
+- Lwm yam xws li cacti thiab succulents noj tshuaj tsawg los yog tsis xav tau li.
+
+Tshuaj ntau dhau tuaj yeem kub nplooj los yog ua mob, hos tsis txaus tshuaj yuav ua rau loj hlob qeeb los yog muaj kev nyuaj siab. Yog pom tias nplooj taw tes kub los yog muaj dawb khoob saum av, tej zaum koj muab tshuaj ntau dhau lawm.
+
+## Ntxuav Nplooj
+
+Hmoov av tuaj yeem sau rau nplooj, ua rau nplooj tsaus thiab nroj tsuag txais teeb tsis zoo. Ntxuav los yog so nplooj nrog daim ntaub ntub kom zoo dua.
+
+---
+
+## Cov Kev Pab los ntawm Oregon State University
+
+- [Teeb tseem ceeb rau kev loj hlob ntawm nroj tsuag hauv tsev](https://extension.oregonstate.edu/news/light-exposure-key-growing-successful-houseplants)
+- [Cov ntsev qhuav ua mob rau nroj tsuag hauv tsev](https://extension.oregonstate.edu/news/soluble-salts-damaging-houseplants)
+- [Cacti thiab succulents loj hlob tau yooj yim thiab nrov ntxiv](https://extension.oregonstate.edu/news/carefree-succulents-continue-grow-popularity)
+- [Nroj tsuag muaj xim zoo nkauj ua khoom plig hnub so](https://extension.oregonstate.edu/news/colorful-indoor-plants-make-delightful-gifts-holidays)
+- [Kua txob yooj yim loj hauv tsev ua rau noj qab](https://extension.oregonstate.edu/news/pot-table-easy-indoor-herbs-spice-cooking)
+
+---
+
+#### Lus Qhia los ntawm Master Gardener™ · Tiam sis koj chaw ua hauj lwm OSU Extension hauv zos yog xav tau tswv yim txog nroj tsuag. Mus rau qhov chaw no kom nrhiav xov tooj: [https://extension.oregonstate.edu/find-us](https://extension.oregonstate.edu/find-us). Rau 10-Minute University™ cov ntaub ntawv thiab sijhawm kawm, mus saib [https://cmastergardeners.org](https://cmastergardeners.org).
+
+---
+
+##### Oregon State University Extension Service tsis pub muaj kev ntxub ntxaug hauv tag nrho nws cov program, kev pabcuam, kev ua ub no, thiab cov ntaub ntawv vim haiv neeg, xim, teb chaws yug, kev ntseeg, poj niam txiv neej, tus kheej kev qhia (xws li kev qhia poj niam txiv neej), kev nyiam poj niam los txiv neej, xiam oob khab, hnub nyoog, txij nkawm, muaj me nyuam los tsis muaj, nyiaj los ntawm kev pabcuam pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, lossis kev rau txim vim tau siv txoj cai. (Tsis yog txhua yam uas teev tseg no siv rau txhua program.)
+---

@@ -1,51 +1,80 @@
-# 10-Minute University™  
-Lub Koom Haum Clackamas County Master Gardener nyob rau kev koom tes thiab txhawb nqa nrog  
-OSU Extension Master Gardener™ Program  
+#### 10-Minute University™ · Lub Koom Haum Clackamas County Master Gardener koom tes nrog thiab pab txhawb OSU Extension Master Gardener™ Program
 
-## Kev Tswj Cov Laus  
-### Taw Qhia  
-Cov laus yog cov tsiaj uas khawb av thiab tuaj yeem ua kev puas tsuaj loj rau cov nroj tsuag, xov hlau zais hauv av, cov dej phwj, thiab cov kav dej yas. Tsis zoo li cov moles, cov laus noj tsuas yog cov khoom noj nroj tsuag uas nyob hauv av thiab qee zaum saum npoo av.  
+# Kev Tswj Cov Npauj Npaim Gopher
 
-Muaj rau hom laus nyob rau Pacific Northwest. Feem ntau ntev li ntawm 5 txog 6 ½ ntiv tes nrog ib tug tw uas ntev 2 txog 3 ntiv tes. Cov plaub yog xim av los yog xim grey thiab lawv cov hniav loj pom tau yooj yim. Lub npe "pocket gopher" los ntawm cov hnab plaub uas nyob ntawm ob sab ntawm lub qhov ncauj uas siv los nqa khoom noj mus rau qhov chaw khaws cia.  
+### Taw Qhia
 
-Cov laus tsim av nce siab thaum lawv khawb av thiab thawb av los rau saum npoo av. Feem ntau cov av nce siab zoo li tus hneev lossis zoo li tus nees thaum pom ntawm saum npoo av. Lub qhov, uas nyob ntawm ib sab ntawm cov av nce siab, feem ntau muaj av thaiv. Thaum sib piv, cov av nce siab uas moles tsim yog siab dua thiab zoo li lub roob hluav taws uas tsis pom lub qhov thaiv.  
+Cov pocket gopher yog cov nas uas khawb av nyob hauv av thiab tuaj yeem ua kev puas tsuaj loj rau tej nroj tsuag, hlua foob pob, dej num, thiab raj dej yas. Tsis zoo li cov moles, pocket gopher noj tsuas yog tej nroj tsuag hauv av thiab qee zaum saum npoo av xwb.
 
-Cov laus nyob hauv ib qhov chaw nyob hauv av uas tuaj yeem npog ib cheeb tsam uas yog 200 txog 2,000 square feet. Cov kab av feem ntau yog 2 ½ txog 3 ½ ntiv tes dav. Cov kab uas siv rau noj feem ntau nyob 6 txog 12 ntiv tes hauv av, thiab qhov chaw pw thiab khaws khoom noj tuaj yeem tob txog 6 ko taw. Cov laus thaiv cov qhov qhib rau lawv qhov chaw nyob hauv av nrog av thaiv. Cov kab av uas tsis ntev thiab muaj qhov nce siab txuas ntawm qhov chaw nyob hauv av mus rau saum npoo av; cov laus tsim cov kab no thaum lawv thawb av los rau saum npoo av los tsim kab loj.  
+Muaj rau hom pocket gopher nyob hauv Pacific Northwest. Feem ntau lawv ntev li 5 txog 6 ½ nti ntev nrog ib tug tw ntev li 2 txog 3 nti. Cov plaub yog xim av los yog grey, thiab cov hniav ntev uas yooj yim pom. Lub npe pocket gopher tuaj ntawm lawv tus puab tsaig uas muaj hnab plaub sab puag ncig, siv los nqa zaub mus khaws cia.
 
-## Kev Xaiv Tswj Cov Laus  
-Cov laus tuaj yeem tswj tau txhua lub sijhawm hauv xyoo, tab sis kev tswj nrog cov hlua los yog tshuaj lom yog qhov ua tau zoo tshaj thaum cov av nce siab tshiab tshwm sim, feem ntau yog lub caij nplooj ntoos hlav thiab lub caij nplooj zeeg. Ob qho hlua thiab tshuaj lom yog siv tau zoo.  
+Gophers ua tej pawg av thaum lawv khawb qhov thiab thawb av npliag saum npoo av. Feem ntau, cov pawg av zoo li daim crescent los yog horseshoe thaum saib saum toj. Qhov qhov, uas nyob ib sab ntawm pawg av, feem ntau raug kaw. Qhov sib txawv, mole pawg av siab dua thiab zoo li roob hluav taws uas tsis muaj qhov kaw.
 
-### Siv Cov Hlua  
-- Muaj ntau hom hlua rau cov laus uas muaj thiab yooj yim siv. Koj tuaj yeem muab lawv tso rau hauv cov kab av uas sab npoo av mus rau av nce siab, tab sis lawv siv tau zoo dua thaum tso rau hauv kab loj. Nrhiav kab loj los ntawm kev nrhiav ib ko taw deb ntawm av nce siab. Rau cov lus qhia zoo ntxiv txog kev nrhiav kab av, saib "Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands," muaj pub dawb online ntawm [OSU Extension Catalog](http://extension.oregonstate.edu/catalog). Muab ob lub hlua tso rov qab mus rau hauv kab av thiab khi kom ruaj. Rov hloov chaw hlua yog tias tsis muaj tsiaj raug ntes nyob rau hauv 2 lossis 3 hnub.  
+Pocket gophers nyob hauv lawv tus kheej lub qhov av uas tuaj yeem npog cheeb tsam li 200 txog 2,000 square feet. Cov qhov av dav li 2 ½ txog 3 ½ nti. Cov qhov noj feem ntau nyob 6 txog 12 nti hauv av, thiab qhov chaw zov me nyuam thiab khaws zaub yuav tob txog 6 taw. Gophers kaw qhov qhib mus rau lawv qhov av nrog av. Cov qhov av luv thiab muaj qhov nqes mus rau saum npoo av; gophers khawb cov no thaum lawv thawb av mus tsim qhov loj.
 
-### Siv Tshuaj Lom  
-- Kev siv tshuaj lom yog lwm txoj kev xaiv. Muab tshuaj lom tso rau hauv kab loj raws li cov lus qhia ntawm daim ntawv lo. Nrhiav cov kab av nrog ib qho cuab tam thiab muab tshuaj lom tso rau hauv qhov cuab tam. Ib txoj kev hloov pauv yog khawb cov kab av nrog ib qho cuab tam thiab muab tshuaj lom tso ncaj qha rau kab av. Muab tshuaj lom rau txhua qhov chaw nyob hauv av ob los yog peb qhov chaw kom tau qhov zoo tshaj. Tshawb xyuas cheeb tsam tsis tu ncua rau 2 lub lis piam tom qab kho thiab tshem tawm txhua tus tsiaj tuag uas koj pom. Tsis ua raws txhua cov lus qhia ntawm daim ntawv lo kom raug tuaj yeem ua rau raug mob rau cov tsiaj uas tsis yog lub hom phiaj, tsiaj nyeg, lossis menyuam yaus. Siv cov tshuaj lom raws li qhov kev xaiv kawg.  
+### Kev Tswj Cov Gopher
 
-### Siv Cov Tshuaj Tso Pa  
-- Cov tshuaj tso pa, qee zaum hu ua "gopher gassers," feem ntau tsis siv tau zoo tshwj tsis yog cov av ntub heev los yog muaj av nplaum tuab.  
+Cov pocket gopher yuav tswj tau txhua lub xyoo, tab sis kev siv thauj los yog tshuaj lom yuav zoo tshaj thaum pom pawg av tshiab, feem ntau yog caij nplooj ntoos hlav thiab caij nplooj zeeg. Ob hom, thauj thiab tshuaj lom, puav leej zoo.
 
-### Siv Cov Hlau Ntxais  
-- Kev thaiv nrog cov laj kab hauv av yuav tsim nyog rau cov nroj tsuag zoo nkauj uas muaj nqi los yog cov ntoo hauv vaj. Txhawm rau tiv thaiv cov nroj tsuag uas twb muaj lawm, faus cov hlau mesh lossis laj kab hlau uas muaj qhov dav ¾ ntiv tes kom tob tsawg kawg yog 2 ko taw nrog ib qho ntxiv 6 ntiv tes hlau mesh lossis laj kab khiav ntawm 90-degree tawm ntawm cov nroj tsuag. Txoj kev no tsis yog zoo meej, txawm li cas los xij, vim cov laus uas khwv khwv tuaj yeem khawb hauv qab cov hlau; ntxiv rau, cov hlau tuaj yeem thaiv thiab ua rau cov cag ntawm cov ntoo puas.  
+#### Thauj (Trap)
 
-Koj tuaj yeem tiv thaiv cov chaw me me xws li cov vaj paj los ntawm kev thaiv tag nrho sab thiab hauv qab ntawm vaj hauv av. Thaum tsim cov vaj zaub lossis vaj paj siab, muab cov av hauv qab nrog cov hlau mesh los tiv thaiv cov laus. Txhawm rau tiv thaiv cov nroj tsuag, teeb cov vaj hlau, uas koj tuaj yeem ua tau hauv tsev los yog yuav hauv khw, thaum koj muab cov nroj tsuag tso rau hauv av. Yog tias koj siv hlau, siv cov uas yog me me thiab tsuas yog rau cov nroj tsuag uas yog cov ntoo uas yuav tsum tau tiv thaiv thaum tseem yau. Muab chaw txaus rau cov cag kom loj hlob tau. Cov hlau galvanized muab kev tiv thaiv ntev tshaj plaws. Muab 6 txog 8 ntiv tes ntawm pob zeb coarse uas ib ntiv tes los yog loj dua nyob ib ncig ntawm cov kav dej hauv av lossis xov hlau tuaj yeem ua rau cov laus tsis tuaj.  
+- Muaj ntau hom thauj pocket gopher uas muag dav thiab siv yooj yim. Koj tuaj yeem tso lawv hauv qhov av uas mus rau pawg av, tab sis lawv zoo dua thaum tso rau hauv qhov loj.
+- Nrhiav qhov loj ntawm qhov av los ntawm kev siv rab nplaum los txawb ib taw deb ntawm pawg av. Rau cov lus qhia ntxaws txog kev nrhiav qhov av, saib *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands*, muaj dawb online ntawm [OSU Extension Catalog](http://extension.oregonstate.edu/catalog).
+- Tso ob lub thauj rov qab mus rau hauv qhov loj thiab khi kom ruaj. Hloov chaw thauj yog tsis tau tsis muaj dab tsi hauv 2 los yog 3 hnub.
 
-### Cov Tsiaj Tua Laus  
-- Kev tswj ntuj los ntawm cov tsiaj tua laus, suav nrog cov noog loj, nab, miv, dev, thiab coyotes, tuaj yeem txo cov laus tab sis tej zaum yuav tsis txaus.  
+#### Siv Tshuaj Lom
 
-### Siv Dej Los Ntaus Laus  
-- Cov laus tuaj yeem tiv taus dej hauv vaj los yog dej hauv tsev, tab sis qee zaum koj tuaj yeem siv dej nyab los ua rau lawv tawm ntawm lawv qhov chaw nyob hauv av, ua rau lawv raug cov tsiaj tua laus.  
+- Tso tshuaj lom rau hauv qhov loj raws li ntawv qhia. Nrhiav qhov av nrog rab nplaum thiab tso tshuaj lom hauv qhov ntawd.
+- Lwm txoj kev yog khawb qhov av nrog rab trowel thiab tso tshuaj lom ncaj qha hauv qhov.
+- Tso tshuaj lom rau hauv txhua qhov av 2 los yog 3 qhov kom tau zoo tshaj.
+- Tshawb xyuas cheeb tsam txhua lub lim tiam 2 lub lis piam tom qab kho thiab muab tej tsiaj tuag pov tseg.
+- **Ceeb Toom:** Yog tsis ua raws li cov ntawv qhia zoo yuav ua rau lwm yam tsiaj, tsiaj hauv tsev, los yog menyuam raug mob. Siv tshuaj lom yog xaiv kawg nkaus xwb.
 
-### Cov Cuab Yeej Tswj Laus  
-- Muaj ntau yam cuab yeej uas hais tias yuav ua rau cov laus ntshai—xws li cov cuab tam uas ua rau av co, cov cuab tam ultrasonic, thiab cov cuab tam cua tshuab. Txawm li cas los xij, cov laus tsis ntshai yooj yim, tej zaum vim lawv tau hnov suab nrov thiab av co los ntawm cov tshuab dej, tshuab txiav nyom, tsheb, thiab neeg txav mus los. Lwm txoj kev uas tsis muaj txiaj ntsig suav nrog muab cov khoom noj xws li chewing gum lossis tshuaj laxatives rau hauv kab av hauv kev cia siab tias yuav tua cov laus.  
+#### Tshuaj Pa (Fumigants)
 
-## Cov Lus Qhia Ntxiv  
-Cov no yog qee cov peev txheej uas muaj:  
-- **OSU Publications** muaj online ntawm [OSU Extension Catalog](https://catalog.extension.oregonstate.edu/)  
-- **Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands PNW 627E**  
-- **Sustainable Gardening EM8742**  
+- Tshuaj pa, qee zaum hu ua “gopher gassers,” feem ntau tsis zoo tshwj tsis yog av tsau dej los yog av nplaum tuab heev.
 
-## Cov Lus Qhia los ntawm Master Gardener™  
-- Hu rau **Home Horticulture Helpline**: 503-655-8631 (Clackamas County), 503-821-1150 (Washington County), los yog 503-445-4608 (Multnomah County).  
-- Rau **10-Minute University™ handouts thiab jadwal kawm**, mus xyuas [www.cmastergardeners.org](http://www.cmastergardeners.org).  
+#### Kev Tiv Thaiv
 
-Oregon State University Extension Service txwv tsis pub xaiv neeg nyob hauv nws cov kev pab, kev pabcuam, kev ua haujlwm, thiab cov ntaub ntawv raws li haiv neeg, xim, tebchaws keeb kwm, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia tus kheej), kev nyiam poj niam txiv neej, kev tsis taus, hnub nyoog, kev sib yuav, xwm txheej niam txiv/zoo li niam txiv, cov nyiaj tau los los ntawm kev pab nyiaj, kev xav txog kev nom tswv, cov ntaub ntawv caj ces, xwm txheej tub rog, kev ua pauj rau kev ua haujlwm ntawm txoj cai pej xeem yav dhau los. (Tsis yog txhua yam uas txwv yog siv rau txhua qhov kev pabcuam.)
+- Ua laj kab hauv av tej zaum yuav tsim nyog rau cov nroj tsuag muaj nqis lossis ntoo zoo nkauj.
+- Yuav tiv thaiv cov nroj tsuag uas twb cog lawm, khawb thiab faus hlau mesh los yog ¾-nti mesh poultry wire tsawg kawg 2 taw tob thiab ntxiv 6 nti ntawm mesh los yog hlau muab nqes 90-degree tawm ntawm qhov chaw cog.
+- **Nco Ntsoov:** Txoj kev no tsis zoo tag nrho vim cov gopher txawj khawb hauv qab hlau; thiab lub hlau kuj yuav khuam thiab ua mob rau cov cag ntoo.
+- Tiv thaiv chaw me xws li vaj paj los ntawm kev thaiv tag nrho sab thiab hauv qab hauv av.
+- Thaum ua vaj zaub los yog vaj paj siab, tso hlau mesh hauv qab av kom tiv thaiv gopher.
+- Yuav tiv thaiv ib tsob nroj, siv hlau baskets uas koj ua tau hauv tsev los yog yuav tau, thaum koj tab tom cog tsob nroj.
+- Siv hlau nyias rau shrub thiab ntoo uas xav tau kev tiv thaiv thaum tseem yau. Cia muaj chaw rau cag loj hlob. Galvanized wire yog zoo tshaj thiab kav ntev.
+- Rau sab hauv qab raj dej los yog hlua hluav taws xob, tso pob zeb loj 6 txog 8 nti dav ib nti los sis loj dua kuj pab tiv thaiv gopher.
+
+#### Kev Tiv Thaiv Los Ntawm Kev Tswj Ntuj
+
+- Cov tsiaj qus, xws li owls, nab, miv, dev, thiab coyotes, yuav pab txo cov gopher, tab sis tej zaum yuav tsis txaus.
+
+#### Kev Ntws Dej
+
+- Pocket gopher yuav tiv taus kev ywg dej vaj los yog vaj tsev, tab sis dej ntws ntau zaus yuav ua rau lawv khiav tawm ntawm lawv qhov av thiab raug tsiaj qus noj.
+
+#### Txoj Kev Tsis Zoo
+
+- Muaj ntau yam cuab yeej hais tias yuav hem cov gopher—xws li hlau vibrating, ultrasonic devices, thiab pinwheels uas siv cua. Tab sis cov nas no tsis ntshai yooj yim, tej zaum vim lawv mloog tej suab thiab vibration los ntawm tej tshuab ywg dej, tshuab txiav nyom, tsheb, thiab neeg mus los txhua hnub.
+- Lwm txoj kev tsis zoo muaj xws li tso chewing gum los yog tshuaj laxative hauv qhov av nrog siab xav tua gopher.
+
+### Xov Xwm Ntxiv
+
+Ntawm no yog ob peb yam kev pab ntxiv uas muaj:
+
+- **OSU Cov Ntawv** muaj online ntawm [OSU Extension Catalog](https://catalog.extension.oregonstate.edu/)
+  - *Meadow Voles and Pocket Gophers: Management in Lawns, Gardens, and Croplands* (PNW 627E)
+  - *Sustainable Gardening* (EM8742)
+
+#### Tswv Yim Los Ntawm Master Gardener™
+
+- **Hu rau Home Horticulture Helpline:**
+  - 503-655-8631 (Clackamas County)
+  - 503-821-1150 (Washington County)
+  - 503-445-4608 (Multnomah County)
+- Rau 10-Minute University™ cov ntaub ntawv thiab daim ntawv qhia kawm, mus saib [www.cmastergardeners.org](http://www.cmastergardeners.org).
+
+---
+
+##### Oregon State University Extension Service txwv tsis pub ua kev saib tsis taus hauv tag nrho nws cov kev pab cuam, kev pab, kev ua ub ua no, thiab ntaub ntawv raws li haiv neeg, xim, kev yug, kev ntseeg, poj niam txiv neej, kev qhia tus kheej (xws li kev qhia tus kheej), kev sib deev, kev xiam oob khab, hnub nyoog, kev muaj txij nkawm, kev muaj me nyuam, nyiaj los ntawm kev pab pej xeem, kev ntseeg nom tswv, ntaub ntawv caj ces, kev ua tub rog, kev raug txim lossis raug pauj vim kev tiv thaiv txoj cai. (Tsis yog tag nrho yam txwv uas teev no siv rau txhua qhov kev pab cuam.)
+---

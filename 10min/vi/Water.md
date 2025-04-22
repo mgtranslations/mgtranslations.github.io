@@ -1,51 +1,87 @@
-### Đại Học 10 Phút™  
-Hiệp hội Làm Vườn Bậc Thầy Quận Clackamas hợp tác và hỗ trợ  
-Chương trình Làm Vườn Bậc Thầy™ của OSU  
+#### 10-Minute University™ · Hiệp hội Làm vườn Chuyên gia Quận Clackamas phối hợp và hỗ trợ Chương trình Làm vườn Chuyên gia OSU Extension Master Gardener™
 
-### Làm Vườn Chống Chịu Với Biến Đổi Khí Hậu: Nước  
-Trái Đất đang trải qua xu hướng ấm dần lên, dẫn đến băng tan, mực nước biển dâng cao, tăng độ axit của đại dương, và các đợt hạn hán cũng như lũ lụt ngày càng nghiêm trọng hơn. Khu vực Tây Bắc Thái Bình Dương đã chứng kiến hạn hán kéo dài, sự gia tăng về số lượng và mức độ nghiêm trọng của cháy rừng, các đợt nắng nóng, bùng phát côn trùng, và các bệnh trên cây cối. Tuyết ít hơn làm cho dòng chảy trong sông suối đạt đỉnh sớm hơn và làm giảm nguồn cung cấp nước. Bên cạnh các xu hướng này, biến đổi khí hậu còn mang lại các hiện tượng thời tiết cực đoan thất thường (nắng nóng, mưa lớn) với tần suất ngày càng cao.  
-[Đánh giá Khí hậu Oregon](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)  
+## Giúp Vườn Của Bạn Chống Chịu Tốt Hơn Với Biến Đổi Khí Hậu: Nước
 
-Làm thế nào để chúng ta làm vườn trong thời kỳ này? Tài liệu này cung cấp các ý tưởng để xây dựng khả năng chống chịu trong khu vườn của bạn.  
+Trái Đất đang trải qua xu hướng ấm lên, dẫn đến băng tan, mực nước biển dâng, độ axit đại dương tăng, và hạn hán cùng lũ lụt xảy ra thường xuyên, nghiêm trọng hơn. Khu vực Tây Bắc Thái Bình Dương đã chứng kiến hạn hán kéo dài, cháy rừng xuất hiện nhiều hơn và nghiêm trọng hơn, các đợt nắng nóng, bùng phát sâu bệnh và nhiều bệnh cây hơn. Lượng tuyết tích trữ giảm khiến dòng chảy đỉnh ở sông, suối đến sớm hơn và nguồn nước giảm đi. Ngoài những xu hướng này, biến đổi khí hậu còn mang lại các hiện tượng thời tiết cực đoan thất thường (như nắng nóng, mưa lớn) với tần suất tăng dần.
 
-### Những Gì Chúng Ta Biết  
-- Do sự ấm lên của khí hậu, các hiện tượng thời tiết cực đoan xảy ra thường xuyên hơn.  
-- Khí hậu làm vườn ở Tây Bắc Thái Bình Dương đang có xu hướng ấm hơn và khô hơn. Các sự kiện kỷ lục về nắng nóng và hạn hán đang xảy ra với tần suất ngày càng tăng.  
-- Hạn hán, nắng nóng, cháy rừng và các trận mưa lớn dữ dội có khả năng tăng về mức độ nghiêm trọng và tần suất trong tương lai.  
-- Việc thiếu tuyết trên núi có thể dẫn đến dòng chảy thấp trong sông suối, hạn chế việc sử dụng nước cho tưới tiêu. Chúng ta cần chuẩn bị cho tương lai này.  
+[Đọc thêm về các đánh giá khí hậu của Oregon](https://blogs.oregonstate.edu/occri/oregon-climate-assessments/)
 
-### Các Biện Pháp Giảm Thiểu Khí Hậu Tiềm Năng  
-- Cải thiện đất để tăng khả năng hấp thụ nước mưa và giảm nhu cầu tưới tiêu.  
-- Giảm dòng chảy của nước mưa và giữ nước trong khu vườn của bạn.  
-- Áp dụng các phương pháp tưới tiêu giảm lãng phí nước.  
+Chúng ta nên làm vườn như thế nào trong thời kỳ này? Tài liệu này cung cấp một số ý tưởng giúp vườn của bạn thích nghi tốt hơn.
 
-### Việc Nên Làm  
+---
 
-#### Tăng Khả Năng Giữ Nước Của Đất Vườn  
-Đầu tư tốt nhất bạn có thể thực hiện để đảm bảo cây khỏe mạnh và tiết kiệm nước là cải thiện đất. Thêm chất hữu cơ như phân compost hoặc lá vụn giúp bổ sung dinh dưỡng, tăng khả năng hấp thụ và lưu trữ nước của đất, đồng thời tăng không gian không khí trong đất. Kết quả là rễ cây thâm nhập đất dễ dàng hơn và phát triển sâu hơn. Ngoài ra, nước sẽ thấm vào đất thay vì chảy ra mặt đất.  
-[Hướng dẫn làm vườn trên đất sét](https://cmastergardeners.files.wordpress.com/2022/02/gardening-in-clay-soil.pdf)  
-[Tiết kiệm nước trong sân vườn của bạn](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9125.pdf)  
+## Những Điều Chúng Ta Biết
 
-#### Phủ Đất Trống Bằng Một Lớp Mùn Hữu Cơ Dày 3-5 Inch  
-Điều này sẽ giảm bay hơi nước lên đến 70%. Các loại mùn với kích thước hạt lớn, thô bao gồm vỏ cây vụn và dăm gỗ. Mùn cũng sẽ giảm nhiệt độ đất trong các giai đoạn nóng, ngăn chặn đất bị nén chặt, hỗ trợ thấm nước và kiểm soát cỏ dại.  
-[Làm vườn với mùn hữu cơ](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec1629.pdf)  
-[Làm vườn với mùn](https://cmastergardeners.files.wordpress.com/2022/02/gardening-with-mulch.pdf)  
+- Do khí hậu ấm lên, các hiện tượng thời tiết cực đoan xảy ra thường xuyên hơn.
+- Khí hậu làm vườn ở vùng Tây Bắc Thái Bình Dương đang có xu hướng ấm và khô hơn. Các đợt nắng nóng và hạn hán kỷ lục xảy ra ngày càng nhiều.
+- Hạn hán, nắng nóng, cháy rừng và mưa lớn có khả năng gia tăng cả về mức độ nghiêm trọng và tần suất trong tương lai.
+- Thiếu lớp tuyết trên núi có thể dẫn đến dòng chảy thấp ở các suối, sông, làm hạn chế việc sử dụng nước tưới tiêu. Chúng ta cần chuẩn bị cho tương lai này.
 
-#### Lắp Đặt Vườn Mưa Để Thu Nước Mưa Và Giữ Nước Tại Chỗ  
-Vườn mưa là một luống trũng thu thập và xử lý nước mưa từ mái nhà, đường lái xe, vỉa hè và đường phố. Vườn mưa nên được đặt gần nguồn nước vào, chẳng hạn như ống dẫn nước từ mái nhà, và có kích thước ít nhất bằng 10% diện tích bề mặt không thấm nước dẫn vào nó. Nước trong vườn mưa nên được thấm vào đất trong khoảng thời gian từ 24 đến 48 giờ.  
-Tránh đặt vườn mưa ở khu vực bị ướt suốt mùa vì điều đó cho thấy đất không thoát nước tốt. Vườn mưa cũng nên được đặt cách vỉa hè 3 feet, cách tường chắn hoặc công trình xây dựng 2 feet, và trên một độ dốc dưới 10%.  
-[Thêm vườn mưa](https://cmastergardeners.files.wordpress.com/2023/04/adding-a-rain-garden.pdf)  
+---
 
-#### Lắp Đặt Kênh Thoát Nước Sinh Học (Bioswale)  
-Kênh thoát nước sinh học là một vườn mưa dạng tuyến tính có thể làm chậm dòng nước và cho phép nước thấm vào đất. Thiết kế tuyến tính của kênh thoát nước sinh học phù hợp với dòng chảy nước bên đường, nhưng nó cũng có thể được xây dựng để uốn lượn qua cảnh quan, tạo ra một đặc điểm hấp dẫn giúp nước thấm vào đất thay vì chảy vào hệ thống thoát nước.  
-Đặt kênh thoát nước sinh học cách dịch vụ tiện ích 5 feet (luật Oregon yêu cầu gọi Trung tâm Thông báo Tiện ích tại số 811 trước khi bắt đầu đào xới) và cách công trình xây dựng 10 feet. Tránh lắp đặt kênh thoát nước sinh học ở các khu vực có độ dốc vượt quá 30%. Một số thành phố và quận có các quy định cụ thể về việc ngắt kết nối ống dẫn nước và dẫn hoặc ống nước. Xác minh yêu cầu với các cơ quan địa phương.  
-[Thêm kênh thoát nước sinh học](https://cmastergardeners.files.wordpress.com/2023/04/adding-a-bioswale.pdf)  
+## Các Biện Pháp Giảm Thiểu Ảnh Hưởng Khí Hậu
 
-#### Giảm Mất Nước Tưới Bằng Cách Tưới Khi Thời Tiết Mát  
-Cung cấp nước cho vùng rễ của cây với tốc độ phù hợp với khả năng hấp thụ của đất. Bạn không muốn nước chảy ra khỏi bề mặt đất. Tưới nước đầy đủ nhưng không thường xuyên sẽ tạo ra rễ sâu hơn và cây chịu hạn tốt hơn.  
+- Cải thiện đất để tăng khả năng hấp thụ nước mưa và giảm nhu cầu tưới tiêu.
+- Giảm dòng chảy nước mưa và giữ nước lại trong vườn của bạn.
+- Áp dụng các biện pháp tưới tiêu giúp giảm lãng phí nước.
 
-Tạo các khu vực nhóm các cây có nhu cầu nước tương tự nhau. Ví dụ, cây hàng năm cần nhiều nước hơn do hệ thống rễ nông hơn so với cây lâu năm và bụi cây cần ít nước hơn do hệ thống rễ sâu hơn. Lắp đặt hệ thống tưới nhỏ giọt với bộ hẹn giờ hoặc sử dụng vòi nước nhỏ giọt để đặt nước từ từ đúng nơi cần thiết, giảm bay hơi và cho phép đất hấp thụ nhiều nước mà cây cần.  
-[Giới thiệu về tưới nhỏ giọt](https://extension.oregonstate.edu/catalog/pub/em8782-s)  
-[Mẹo tưới nước](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)  
+---
 
-Dịch vụ Mở Rộng của Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới tính (bao gồm biểu hiện giới tính), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công cộng, niềm tin chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả thù hoặc trả đũa vì hoạt động dân quyền trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho tất cả các chương trình.)
+## Bạn Nên Làm Gì
+
+### Cải Thiện Đất
+
+- **Tăng khả năng giữ nước của đất vườn:**  
+  Đầu tư tốt nhất để đảm bảo cây khỏe mạnh và tiết kiệm nước là cải thiện đất. Thêm chất hữu cơ như phân trộn hoặc lá vụn giúp bổ sung dinh dưỡng, tăng khả năng hấp thụ và lưu trữ nước cho đất, đồng thời làm tăng các khe hở không khí trong đất. Nhờ đó, rễ cây dễ dàng đâm sâu và phát triển mạnh hơn. Ngoài ra, nước sẽ thấm vào đất thay vì chảy tràn trên bề mặt.
+
+  - [Làm vườn trên đất sét](https://cmastergardeners.files.wordpress.com/2022/02/gardening-in-clay-soil.pdf)
+  - [Tiết kiệm nước trong sân và vườn](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9125.pdf)
+
+- **Phủ lớp mùn hữu cơ dày 3 đến 5 inch lên đất trống:**  
+  Việc này giúp giảm bay hơi nước tới 70%. Các loại mùn có hạt lớn, thô như vỏ cây vụn hoặc dăm gỗ. Mùn còn giúp giảm nhiệt độ đất khi trời nóng, ngăn đất bị nén, hỗ trợ nước thấm vào đất và kiểm soát cỏ dại.
+
+  - [Phủ mùn cây cảnh bằng vật liệu hữu cơ](https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/ec1629.pdf)
+  - [Làm vườn với mùn phủ](https://cmastergardeners.files.wordpress.com/2022/02/gardening-with-mulch.pdf)
+
+---
+
+### Lắp Đặt Vườn Mưa
+
+Vườn mưa là bồn trũng có tác dụng thu gom và xử lý nước mưa chảy tràn từ mái nhà, đường lái xe, vỉa hè và đường phố. Vườn mưa nên đặt gần nguồn nước chảy vào, như ống xả nước mái, và nên chiếm ít nhất 10% diện tích bề mặt không thấm nước mà nó phục vụ. Nước trong vườn mưa nên được thấm hết vào đất trong vòng 24 đến 48 giờ.
+
+Tránh xây vườn mưa ở nơi đất luôn ẩm ướt quanh năm vì đó là dấu hiệu đất thoát nước kém. Vườn mưa cũng nên cách vỉa hè 3 feet, cách tường chắn hoặc nhà 2 feet và đặt trên độ dốc dưới 10%.
+
+- [Thêm vườn mưa](https://cmastergardeners.files.wordpress.com/2023/04/adding-a-rain-garden.pdf)
+
+---
+
+### Lắp Đặt Rãnh Sinh Học (Bioswale)
+
+Rãnh sinh học là một dạng vườn mưa dạng dài giúp làm chậm dòng chảy của nước và tạo điều kiện cho nước thấm vào đất. Thiết kế dạng dài của rãnh sinh học rất phù hợp để xử lý nước chảy dọc đường, nhưng cũng có thể uốn lượn qua khu vườn, vừa đẹp mắt vừa giúp nước thấm vào đất thay vì chảy vào hệ thống thoát nước.
+
+Đặt rãnh sinh học cách xa các công trình ngầm 5 feet (ở Oregon bạn phải gọi Trung tâm Thông báo Tiện ích theo số 811 trước khi đào) và cách nhà 10 feet. Tránh xây rãnh sinh học ở nơi dốc lớn hơn 30%.
+
+Một số thành phố, quận có quy định riêng về việc ngắt kết nối ống thoát nước và dẫn, ống dẫn nước mưa. Hãy kiểm tra quy định với chính quyền địa phương.
+
+- [Thêm rãnh sinh học](https://cmastergardeners.files.wordpress.com/2023/04/adding-a-bioswale.pdf)
+
+---
+
+### Giảm Thất Thoát Nước Khi Tưới
+
+- **Tưới khi trời mát:**  
+  Cung cấp nước trực tiếp vào vùng rễ với tốc độ phù hợp khả năng thấm hút của đất. Không để nước chảy tràn trên bề mặt. Tưới đẫm nhưng ít lần sẽ giúp rễ mọc sâu hơn, cây chịu hạn tốt hơn.
+
+- **Tạo vùng tưới:**  
+  Trồng nhóm các cây có nhu cầu nước giống nhau. Ví dụ, cây hằng niên cần nhiều nước hơn do rễ nông, còn cây lâu năm và bụi rậm cần ít nước hơn vì rễ sâu.
+
+- **Lắp đặt hệ thống tưới tiết kiệm:**  
+  Dùng hệ thống tưới nhỏ giọt có hẹn giờ hoặc ống tưới thấm nước giúp nước thấm từ từ vào đúng chỗ cần thiết, giảm bay hơi và cho đất đủ thời gian hấp thụ nước.
+
+  - [Giới thiệu về tưới nhỏ giọt](https://extension.oregonstate.edu/catalog/pub/em8782-s)
+  - [Mẹo tưới cây](https://cmastergardeners.files.wordpress.com/2022/02/watering-tips.pdf)
+
+---
+
+#### Dịch vụ Mở rộng Đại học Bang Oregon nghiêm cấm phân biệt đối xử trong tất cả các chương trình, dịch vụ, hoạt động và tài liệu của mình dựa trên chủng tộc, màu da, nguồn gốc quốc gia, tôn giáo, giới tính, nhận dạng giới (bao gồm thể hiện giới), xu hướng tính dục, khuyết tật, tuổi tác, tình trạng hôn nhân, tình trạng gia đình/phụ huynh, thu nhập từ chương trình hỗ trợ công, quan điểm chính trị, thông tin di truyền, tình trạng cựu chiến binh, trả đũa hoặc trừng phạt vì đã tham gia hoạt động quyền công dân trước đó. (Không phải tất cả các cơ sở bị cấm đều áp dụng cho mọi chương trình.)
+---
