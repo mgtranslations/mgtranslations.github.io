@@ -19,7 +19,6 @@ Following are todo
 * [Korean / 한국어](gyo/ko/gyo.md)
 * [Russian / Русский](gyo/ru/gyo.md)
 * [Somali / Soomaali](gyo/so/gyo.md)
-* [Spanish / Español](gyo/es/gyo.md)
 * [Tagalog](gyo/tag/gyo.md)
 * [Ukrainian / Українська](gyo/uk/gyo.md)
 * [Vietnamese / Tiếng Việt](gyo/vi/gyo.md)
@@ -43,6 +42,5 @@ This is a mass translation of all the pdf handouts provided by the [10 minute un
 * [Traditional Chinese / 繁體中文](10min/zh-Hant/index.md)
 * [Ukrainian / Українська](10min/uk/index.md)
 * [Vietnamese / Tiếng Việt](10min/vi/index.md)
-
 * [English](10min/en/index.md) - this version exists for accesibility, as sometimes pdfs are not great. 
 
