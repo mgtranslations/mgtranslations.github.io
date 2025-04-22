@@ -92,7 +92,7 @@
 - [The Best Bee Flowers](The_Best_Bee_Flowers.md)
 - [Fall & Winter Pests & Diseases](Fall___Winter_Pests___Diseases.md)
 - [Insect Pests](Insect_Pests.md)
-- [Integrated Pest Management (IPM) For Home Gardens](Integrated_Pest_Management__IPM__For_Ho.md)
+- [Integrated Pest Management (IPM) For Home Gardens](Integrated_Pest_Management.md)
 - [Managing Gophers](Managing_Gophers.md)
 - [Managing Moles](Managing_Moles.md)
 - [Managing Slugs and Snails](Managing_Slugs_and_Snails.md)
@@ -116,5 +116,5 @@
 
 ## Guest Lectures
 
-- [Mulches: the Good, the Bad, and the Really, Really Ugly. – Linda Chalker-Scott, PhD, WSU](Mulches__the_Good__the_Bad__and_the_Really__Really_Ugly.___Linda_Chalker-Scott__PhD__WSU.md)
-- [Clematis Classification Pruning – Linda Beutler](Mulches__the_Good__the_Bad__and_the_Really__Really_Ugly.___Linda_Chalker-Scott__PhD__WSU.md)
+- [Mulches: the Good, the Bad, and the Really, Really Ugly. – Linda Chalker-Scott, PhD, WSU](Mulches.md)
+- [Clematis Classification Pruning – Linda Beutler](Clemetis.md)
