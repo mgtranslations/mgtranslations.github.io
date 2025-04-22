@@ -1,9 +1,9 @@
-# 10-Minute University™ Handouts – Clackamas County Master Gardener™ Association
+# 10-Minute University™ Handouts
+### Clackamas County Master Gardener™ Association
 
 ---
 Original Source: 
-
-[10-Minute University™ Handouts](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [10-Minute University™ Videos](https://clackamascountymastergardeners.org/10-minute-university/videos/)
+[10-Minute University™ Handouts](https://clackamascountymastergardeners.org/10-minute-university/handouts/)
 ---
 
 ## General Gardening Information
