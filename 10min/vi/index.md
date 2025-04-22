@@ -4,7 +4,7 @@
 
 ***
 
-[Tài Liệu Hướng Dẫn Đại Học 10 Phút™](/10-minute-university/handouts/) | [Video Đại Học 10 Phút™](/10-minute-university/videos/)
+[Tài Liệu Hướng Dẫn Đại Học 10 Phút™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Video Đại Học 10 Phút™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 

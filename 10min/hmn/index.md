@@ -4,7 +4,7 @@
 
 ***
 
-[Cov Ntawv Qhia 10-Ntees University™](/10-minute-university/handouts/) | [Cov Yeeb Yaj Kiab 10-Ntees University™](/10-minute-university/videos/)
+[Cov Ntawv Qhia 10-Ntees University™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Cov Yeeb Yaj Kiab 10-Ntees University™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 

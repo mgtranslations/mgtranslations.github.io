@@ -4,7 +4,7 @@
 
 ***
 
-[Памятки «Университет за 10 минут™»](/10-minute-university/handouts/) | [Видео «Университет за 10 минут™»](/10-minute-university/videos/)
+[Памятки «Университет за 10 минут™»](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Видео «Университет за 10 минут™»](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 

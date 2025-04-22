@@ -4,7 +4,7 @@
 
 ***
 
-[ملخصات الجامعة لمدة 10 دقائق™](/10-minute-university/handouts/) | [فيديوهات الجامعة لمدة 10 دقائق™](/10-minute-university/videos/)
+[ملخصات الجامعة لمدة 10 دقائق™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [فيديوهات الجامعة لمدة 10 دقائق™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 

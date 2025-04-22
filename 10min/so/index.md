@@ -4,7 +4,7 @@
 
 ***
 
-[Buug-yaraha 10-Daqiiqo Jaamacadda™](/10-minute-university/handouts/) | [Muuqaalada 10-Daqiiqo Jaamacadda™](/10-minute-university/videos/)
+[Buug-yaraha 10-Daqiiqo Jaamacadda™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Muuqaalada 10-Daqiiqo Jaamacadda™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 

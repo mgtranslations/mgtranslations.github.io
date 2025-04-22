@@ -4,7 +4,7 @@
 
 ***
 
-[Роздаткові матеріали 10-хвилинного університету™](/10-minute-university/handouts/) | [Відео 10-хвилинного університету™](/10-minute-university/videos/)
+[Роздаткові матеріали 10-хвилинного університету™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Відео 10-хвилинного університету™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 

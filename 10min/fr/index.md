@@ -4,7 +4,7 @@
 
 ***
 
-[Fiches d’information de l’Université en 10 minutes™](/10-minute-university/handouts/) | [Vidéos de l’Université en 10 minutes™](/10-minute-university/videos/)
+[Fiches d’information de l’Université en 10 minutes™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Vidéos de l’Université en 10 minutes™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 ## Informations Générales sur le Jardinage

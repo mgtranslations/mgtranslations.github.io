@@ -4,7 +4,7 @@
 
 ***
 
-[10분 대학™ 자료](/10-minute-university/handouts/) | [10분 대학™ 동영상](/10-minute-university/videos/)
+[10분 대학™ 자료](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [10분 대학™ 동영상](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 

@@ -4,7 +4,7 @@
 
 ***
 
-[10-Minute University™ Handouts](/10-minute-university/handouts/) | [10-Minute University™ Videos](/10-minute-university/videos/)
+[10-Minute University™ Handouts](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [10-Minute University™ Videos](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 ## Pangkaraniwang Impormasyon Tungkol sa Paghahalaman

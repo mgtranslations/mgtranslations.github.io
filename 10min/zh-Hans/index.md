@@ -4,7 +4,7 @@
 
 ---
 
-[10分钟大学™资料](/10-minute-university/handouts/) | [10分钟大学™视频](/10-minute-university/videos/)
+[10分钟大学™资料](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [10分钟大学™视频](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ---
 

@@ -4,7 +4,7 @@
 
 ***
 
-[Folletos de la Universidad en 10 Minutos™](/10-minute-university/handouts/) | [Videos de la Universidad en 10 Minutos™](/10-minute-university/videos/)
+[Folletos de la Universidad en 10 Minutos™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Videos de la Universidad en 10 Minutos™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 ## Información General de Jardinería

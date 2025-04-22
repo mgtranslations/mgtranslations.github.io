@@ -4,7 +4,7 @@
 
 ***
 
-[Folhetos do 10-Minute University™](/10-minute-university/handouts/) | [Vídeos do 10-Minute University™](/10-minute-university/videos/)
+[Folhetos do 10-Minute University™](https://clackamascountymastergardeners.org/10-minute-university/handouts/) | [Vídeos do 10-Minute University™](https://clackamascountymastergardeners.org/10-minute-university/videos/)
 
 ***
 
