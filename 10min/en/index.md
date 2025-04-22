@@ -117,4 +117,4 @@
 ## Guest Lectures
 
 - [Mulches: the Good, the Bad, and the Really, Really Ugly. – Linda Chalker-Scott, PhD, WSU](Mulches.md)
-- [Clematis Classification Pruning – Linda Beutler](Clemetis.md)
+- [Clematis Classification Pruning – Linda Beutler](Clematis.md)
