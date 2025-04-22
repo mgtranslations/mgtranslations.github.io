@@ -1,5 +1,7 @@
 This project aims to provide translations of Oregon Master Gardener materials onto popular languages in the area. 
 
+🍃🍃🍃
+
 # Growing Your Own
 A Practical Guide to Gardening in Oregon. 
 OSU already provides [English](https://extension.oregonstate.edu/catalog/pub/em-9027-growing-your-own) and [Spanish](https://extension.oregonstate.edu/es/catalog/pub/em-9027-s-su-propio-cultivo) versions of this text. 
@@ -18,6 +20,8 @@ OSU already provides [English](https://extension.oregonstate.edu/catalog/pub/em-
 * [Traditional Chinese / 繁體中文](gyo/zh-Hant/gyo.md)
 * [Ukrainian / Українська](gyo/uk/gyo.md)
 * [Vietnamese / Tiếng Việt](gyo/vi/gyo.md)
+
+🍃🍃🍃
 
 # 10 Minute University Handouts
 
