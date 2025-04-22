@@ -16,6 +16,7 @@ This is a hobby project to provide translations of master gardener resources in 
 * [Russian / Русский](10min/ru/index.md)
 * [Simplified Chinese / 简体中文](10min/zh-Hans/index.md)
 * [Somali / Soomaali](10min/so/index.md)
+* [Spanish / Español](10min/es/index.md)
 * [Tagalog](10min/tag/index.md)
 * [Traditional Chinese / 繁體中文](10min/zh-Hant/index.md)
 * [Ukrainian / Українська](10min/uk/index.md)
