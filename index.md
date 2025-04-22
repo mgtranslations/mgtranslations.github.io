@@ -6,20 +6,18 @@ This project aims to provide translations of Oregon Master Gardener materials on
 A Practical Guide to Gardening in Oregon
 OSU only provides [English](https://extension.oregonstate.edu/catalog/pub/em-9027-growing-your-own) and [Spanish](https://extension.oregonstate.edu/es/catalog/pub/em-9027-s-su-propio-cultivo) versions of this text. 
 
+* [Arabic / العربية](gyo/ar/gyo.md)
 * [German / Deutsch](gyo/de/gyo.md)
 * [Portuguese / Português](gyo/pt/gyo.md)
-* [Simplified Chinese / 简体中文](gyo/zh-Hans/gyo.md)
-* [Traditional Chinese / 繁體中文](gyo/zh-Hant/gyo.md)
-
-Following are todo 
-* [Arabic / العربية](gyo/ar/gyo.md)
 * [French / Français](gyo/fr/gyo.md)
 * [Hmong / Hmoob](gyo/hmn/gyo.md)
 * [Japanese / 日本語](gyo/ja/gyo.md)
 * [Korean / 한국어](gyo/ko/gyo.md)
 * [Russian / Русский](gyo/ru/gyo.md)
+* [Simplified Chinese / 简体中文](gyo/zh-Hans/gyo.md)
 * [Somali / Soomaali](gyo/so/gyo.md)
 * [Tagalog](gyo/tag/gyo.md)
+* [Traditional Chinese / 繁體中文](gyo/zh-Hant/gyo.md)
 * [Ukrainian / Українська](gyo/uk/gyo.md)
 * [Vietnamese / Tiếng Việt](gyo/vi/gyo.md)
 
